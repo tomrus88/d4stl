@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Phantom Oracle
+Hash: A646FFA4, Key: Description, Value: A seer plays a dangerous game, reaching into the mists between worlds. What takes one's hand may offer answers, but it may not wish to let go.
+Hash: 083EE0CE, Key: Quote, Value: Beware the voices in the mist.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

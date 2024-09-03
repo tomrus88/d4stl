@@ -37,3 +37,5 @@ Hash: E849C281, Key: DateHeaderYesterday, Value: Yesterday
 Hash: 261B7788, Key: DateHeaderToday, Value: Today
 Hash: A4D5A4F6, Key: News_Event_Dethrone, Value: {c_white}{s1}{/c} dethroned as clan leader by {c_white}{s2}{/c} due to inactivity.
 Hash: F376B588, Key: News_TargetPlayer_Dethrone, Value: You were dethroned by {c_white}{s1}{/c} due to inactivity.
+Hash: 014B71B5, Key: News_Event_Rename, Value: {s1} has updated the clan name and tag.
+Hash: E8EB35C7, Key: News_TargetPlayer_Rename, Value: You have updated the clan name and tag.

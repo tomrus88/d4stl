@@ -50,3 +50,4 @@ Hash: B86FC74E, Key: REWARD_TYPE_ENTITLEMENT, Value: Premium reward
 Hash: 166C5537, Key: REWARD_TYPE_EMBLEM, Value: Emblem
 Hash: F59770E6, Key: Filter, Value: Filter {c:FFdba864}{s1}{/c} 
 Hash: 09021178, Key: REWARD_TYPE_MOUNT, Value: Mount
+Hash: 2E40D006, Key: AchievementReward_VC, Value: {c_white}Reward:{/c} {icon:CurrencyIcon, 1.5} {c_gold}{s1}Platinum{/c}

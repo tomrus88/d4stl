@@ -88,14 +88,14 @@ Hash: 04649B64, Key: HotKeyEvadeTooltip, Value: Fires your Evade ability.
 Hash: 0F9F6059, Key: HotKeyExitChatTooltip, Value: Removes active focus from text chat.
 
 {c_red}Cannot be rebound.{/c}
-Hash: 0FF4F408, Key: HotKeyForceInteractTooltip, Value: Used to look at certain points of interest. Can also be used as a fallback key for interacting with objects and non-playable characters in the world.
+Hash: 0FF4F408, Key: HotKeyForceInteractTooltip, Value: Used to look at certain points of interest. Can also be used as a fallback button for interacting with objects and non-playable characters in the world.
 Hash: E9ACFCE5, Key: HotKeyForceMoveTooltip, Value: Moves you to your cursor's location without attacking monsters or interacting with objects.
 Hash: C0D87128, Key: HotKeyFPSTooltip, Value: Toggles Framerate Display at the bottom left of the screen.
 Hash: 62B5AECE, Key: HotKeyGameMenuTooltip, Value: Toggles the Game Menu.
 
 {c_red}Cannot be rebound.{/c}
 Hash: 71A74D1B, Key: HotKeyHoldPositionTooltip, Value: Allows the player to attack without moving.
-Hash: 58DA84E5, Key: HotKeyInteractToolip, Value: Used to look at certain points of interest. Can also be used as a fallback key for interacting with objects and non-playable characters in the world.
+Hash: 58DA84E5, Key: HotKeyInteractToolip, Value: Used to look at certain points of interest. Can also be used as a fallback button for interacting with objects and non-playable characters in the world.
 Hash: C9ACFC45, Key: HotKeyJoinVoiceChatTooltip, Value: Toggles speech to text transcription of your current voice channel. Only works when you are in an active voice channel.
 Hash: 45124B5D, Key: HotKeyMapTooltip, Value: Toggles the Map screen.
 Hash: BAC9897B, Key: HotKeyMasterVolumeDownTooltip, Value: Decreases master volume.

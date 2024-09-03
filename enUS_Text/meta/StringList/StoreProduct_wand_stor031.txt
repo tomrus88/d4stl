@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gathering Mist
+Hash: 13A53A8B, Key: Series, Value: "The Phantom Oracle"

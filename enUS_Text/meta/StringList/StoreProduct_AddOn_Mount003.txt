@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Shadow Market Platinum Pack
+Hash: A646FFA4, Key: Description, Value: A bounty of Platinum fit for a king can pass through the alleys of the shadow market.
+Hash: 083EE0CE, Key: Quote, Value: A fortune in the dark.
+Hash: 13A53A8B, Key: Series, Value: "Shadow Market Platinum Pack"

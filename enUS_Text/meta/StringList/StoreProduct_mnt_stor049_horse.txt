@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Shadowmane
+Hash: A646FFA4, Key: Description, Value: Stalk the lands of Sanctuary at the speed of darkness on a steed born of shadow itself.
+Hash: 13A53A8B, Key: Series, Value: "Shadow Kinesis"
