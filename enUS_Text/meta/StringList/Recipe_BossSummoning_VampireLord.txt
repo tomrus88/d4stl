@@ -1,4 +1,4 @@
 Hash: BFBB6413, Key: SubHeader, Value: This ritual will summon
-Hash: D0201B8E, Key: MainHeader, Value: Lord Zir
+Hash: D0201B8E, Key: MainHeader, Value: Tormented Lord Zir
 Hash: F5C7BC0A, Key: Flavor, Value: "Drink of me, Ancient, and drink deeply."
 Hash: ED2058BC, Key: Button, Value: Summon

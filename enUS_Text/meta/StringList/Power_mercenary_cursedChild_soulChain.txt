@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Chain of Souls
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Aldkin chains up to {c_number}{SF_5}{/c} enemies to himself, Tethering to them and dealing {c_number}{dot:TETHER}{/c} Shadow damage over {c_number}{SF_3}{/c} seconds. 
+
+When the chains expire, they deal {c_number}{payload:BREAK_PAYLOAD}{/c} Shadow damage and Stun their victims for {c_number}[{SF_8}|1|]{/c} |4second;seconds.

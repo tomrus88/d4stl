@@ -1,3 +1,3 @@
-Hash: 003DFCC1, Key: Name, Value: Elias' Mummified Finger
 Hash: A646FFA4, Key: Description, Value: Bound to Rotspill Delta
+Hash: 003DFCC1, Key: Name, Value: Elias' Mummified Finger
 Hash: F5C7BC0A, Key: Flavor, Value: The preserved small finger from Elias' left hand. It emits a dark aura that sets you on edge.

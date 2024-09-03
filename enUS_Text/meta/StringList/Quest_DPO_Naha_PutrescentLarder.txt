@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bodies pile by the day.
+Hash: 486BD940, Key: Callback82Header, Value: Explore {WORLD:DGN_Naha_PutrescentLarder} and Slay {MONSTER}

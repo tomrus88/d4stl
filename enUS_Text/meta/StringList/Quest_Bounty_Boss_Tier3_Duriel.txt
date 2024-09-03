@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Duriel the Maggot King
+Hash: 0871A46B, Key: Toast, Value: [PH] The echoes of the lord of pain's battle still reverberate within this old cave...
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the Echo of Duriel, the Maggot King

@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "May I join your hunt?"
+Hash: 797503DB, Key: Line78.1BB539, Value: Together we will tear the khazra to pieces!
+Hash: D070A948, Key: VoiceDir78.1BB539, Value: Excited to hunt. 
+Hash: 7824A2B5, Key: Line81.1BB539, Value: Finally! Let us fulfill my ancestor's dream!
+Hash: CF204822, Key: VoiceDir81.1BB539, Value: Excited to hunt. 
+Hash: 01AF9FFB, Key: Line87.1BB539, Value: Ha! I thought you'd never ask!
+Hash: 58AB4568, Key: VoiceDir87.1BB539, Value: Excited to hunt. 
+Hash: 005F3ED5, Key: Line90.1BB539, Value: Of course! Let the hunt begin!
+Hash: 575AE442, Key: VoiceDir90.1BB539, Value: Excited to hunt. 

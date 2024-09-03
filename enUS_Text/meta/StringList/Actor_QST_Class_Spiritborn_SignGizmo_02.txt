@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spirit Marked Broken Pots
+Hash: F2CA04D8, Key: NoticeSignText, Value: Smashed ceramics such as pots, destroyed by a large beast, with wisps of ethereal spirit fire and smoke rising from them, similar to those found in the Southern Expanse. Quite clearly these are the source of the ones found amongst the carnage in the sand.

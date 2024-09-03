@@ -1,0 +1,6 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Intricacy
+Hash: 7786FD97, Key: Buff1_Description, Value: Free casting previous Skill
+Hash: 003DFCC1, Key: name, Value: Intricacy
+Hash: 003892BF, Key: desc, Value: Upon casting an {c_important}Ultimate{/c} Skill, the last {c_important}Potency{/c}, {c_important}Defensive{/c}, or {c_important}Focus{/c} Skill you cast prior is reset and can be cast for free up to {c_number}{SF_1}{/c} times in the next {c_number}{SF_0}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Free Casts {icon:arrow,1.2} {c_number}{SF_1}{/c}

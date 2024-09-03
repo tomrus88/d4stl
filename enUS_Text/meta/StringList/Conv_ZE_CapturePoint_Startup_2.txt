@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It looks unusual, for a Spiritborn device."
+Hash: 924F8933, Key: Line1.1C5397, Value: That would be the touch of the mages. Worked with a few of them to build it. Had to watch my tongue - they're a sensitive, opinionated lot. But they do good work.
+Hash: 6AD332F5, Key: Line3.1C5397, Value: Did you know the Citadel sits on ancient mage-clan grounds? They’ve got an old grudge with the khazra. So do we, since the beasts started their kidnappings.

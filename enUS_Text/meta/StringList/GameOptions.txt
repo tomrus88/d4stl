@@ -1118,6 +1118,8 @@ Hash: 7BA0991D, Key: NavAssist_AutoPinTitle, Value: Auto-Pin New Quests
 Hash: F3D01B66, Key: NavAssist_AutoPinTooltip, Value: {c_highlight}Highly Recommended for use with Navigation Features{/c}
 
 Enabling this feature immediately drops a pin in the world marking the destination of a newly switched to quest. This helps enable other navigation features automatically. Players can cycle through objective destinations on the map for quests with multiple points of interest.
+
+{c_highlight}Does not function in dungeons.
 Hash: CC1AB474, Key: NavAssist_HUDCompassTitle, Value: HUD Compass
 Hash: 4B3E687D, Key: NavAssist_HUDCompassTooltip, Value: Enables a visual compass around the player that points to the current map pin placed. 
 
@@ -1140,3 +1142,19 @@ Hash: 937DC8D6, Key: NavAssist_AudioNavigation_VolumeTitle, Value: Volume
 Hash: 77B81D5F, Key: NavAssist_AudioNavigation_VolumeTooltip, Value: Sets the desired volume of the audio navigation assist.
 Hash: 62C20DE3, Key: NavAssist_AudioNavigation_IntervalTitle, Value: Interval
 Hash: 2921D9AC, Key: NavAssist_AudioNavigation_IntervalTooltip, Value: Sets the desired interval in seconds between audio navigation assist pings.
+Hash: 06DC2637, Key: HotKeyPingMenu, Value: [PH] Show Ping Menu
+Hash: AB801BE2, Key: HotKeyPingMenuTooltip, Value: [PH] Show Ping Menu
+Hash: 90EC1AF2, Key: HotKeyMercenariesPanel, Value: Mercenaries Panel
+Hash: D8727925, Key: HotKeyAbilitiesPanelTooltip, Value: Tooltip information
+Hash: C1AC103D, Key: HotKeyMercenariesPanelTooltip, Value: Toggles the Mercenaries panel.
+Hash: E43192FD, Key: CombatText_Buff, Value: Buff Effects
+Hash: 35733907, Key: CombatText_Buff_Tooltip, Value: Enables/Disables displaying text for various buff effects
+Hash: 2764CDBC, Key: NotificationsToggle, Value: Error Notifications
+Hash: 14922A25, Key: NotificationsTooltip, Value: {c_highlight}Enabled:{/c} Displays all error notification messages.
+{c_highlight}Disabled:{/c} Hides all error notification messages.
+
+ e.g. "Not enough Fury to use that skill".
+Hash: F7C6492E, Key: EnableHybridTargeting, Value: Hybrid Targeting
+Hash: E2F462F9, Key: EnableHybridTargetingTooltip, Value: Enabled - Targeting is handled using character facing (similar to controller). This allows for interactions to be performed by proximity.
+
+Disabled - Targeting is handled by cursor highlighting only

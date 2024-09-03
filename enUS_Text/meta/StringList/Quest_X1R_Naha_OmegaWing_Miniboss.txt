@@ -1,0 +1,4 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: Disrupt the Khazra Ritual
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Vorshok and Hurstt
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Counterspell Soul Orbs to weaken Vorshok and Hurstt
+Hash: BCE26C3F, Key: Callback63Header, Value: Slay Vorshok and Hurstt

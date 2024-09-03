@@ -1,10 +1,10 @@
 Hash: 003DFCC1, Key: Name, Value: The Bear of Blackweald
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Torben
+Hash: B98DBD5C, Key: Callback15Header, Value: Enter the Seared Hollow
 Hash: 0871A46B, Key: Toast, Value: A shackled beast never forgets or forgives.
 Hash: D53BFF05, Key: Phase0Description, Value: Thanks to a victim’s last words, we’ve learned Blackweald Company is hiding within the depths of the Scar—capturing victims for profane death by burning. Blackweald’s ruthless leader, Stana, survived the burning of Brione and is leading their return. Torben is clearly incensed by this news.
 
 It’s time we put an end to Blackweald Company.
-Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Torben
 Hash: 5690A71C, Key: Phase16Description, Value: Thanks to a victim’s last words, we’ve learned Blackweald Company is hiding within the depths of the Scar—capturing victims for profane death by burning. Blackweald’s ruthless leader, Stana, survived the burning of Brione and is leading their return. Torben is clearly incensed by this news.
 
 It’s time we put an end to Blackweald Company.
-Hash: B98DBD5C, Key: Callback15Header, Value: Enter the Seared Hollow

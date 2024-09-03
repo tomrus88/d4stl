@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Spending Vigor Heals you for {c_random}[Affix_Value_1*100|%|]{/c} of your Maximum Life. 
+
+Every second, your active Cooldowns now drain {c_number}[Affix."Static Value 0"*100|%|]{/c} of your Maximum Life to reduce their durations by {c_number}[Affix."Static Value 1"]{/c} seconds. 

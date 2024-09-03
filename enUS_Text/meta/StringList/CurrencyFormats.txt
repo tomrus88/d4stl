@@ -25,7 +25,7 @@ Hash: 91AC6B28, Key: Legendary Weapon Salvage, Value: {s1} Baleful |4Fragment:Fr
 Hash: 438F8616, Key: Helltide Currency, Value: {s1} Aberrant |4Cinder:Cinders
 Hash: 1E74F170, Key: Sacred Legendary Salvage, Value: {s1} Forgotten |4Soul:Souls
 Hash: 3771B31B, Key: Sigil Salvage, Value: {s1} Sigil Powder
-Hash: 014107B4, Key: Malignant Defensive, Value: {s1} Brutal Malignant Ichor
+Hash: 014107B4, Key: Malignant Defensive, Value: {s1} Seconds of Ureh Time
 Hash: 2817932F, Key: Malignant Utility, Value: {s1} Devious Malignant Ichor
 Hash: EEDBB7A0, Key: Malignant Offensive, Value: {s1} Vicious Malignant Ichor
 Hash: 0F3E92F4, Key: Hibernal Solstice Common, Value: {s1} Blighted |4Fragment:Fragments
@@ -51,6 +51,15 @@ Hash: C1A59769, Key: Astral Titanite, Value: {s1} Resplendent |4Spark:Sparks
 Hash: A6725ECD, Key: Masterworking Material 1, Value: {s1} Obducite
 Hash: A6725ECE, Key: Masterworking Material 2, Value: {s1} Ingolith
 Hash: A6725ECF, Key: Masterworking Material 3, Value: {s1} Neathiron
-Hash: 83FBCDBD, Key: The Pit Material, Value: {s1} |4Runeshard:Runeshards
+Hash: 83FBCDBD, Key: The Pit Material, Value: {s1} Artificer's |4Stone:Stones
 Hash: 06CF966E, Key: Helltide Boss Summoning Material, Value: {s1} Baneful |4Heart:Hearts
 Hash: EEDBDEDE, Key: Infernal Material, Value: {s1} Aethereal |4Ash:Ashes
+Hash: 6CCAAB60, Key: Merc Shield Bearer Material, Value: {s1} Wolfram Ore
+Hash: 47D6FD6C, Key: Raid Khazra Currency, Value: {s1} Citadel |4Coin:Coins
+Hash: C907A734, Key: Merc General Material, Value: {s1} Pale |4Mark:Marks
+Hash: D2441240, Key: Merc Cursed Child Material, Value: {s1} Demon |4Horn:Horns
+Hash: 3E33530D, Key: Merc Bounty Hunter Material, Value: {s1} Intel
+Hash: 8144043B, Key: Merc Berserker Material, Value: {s1} Fresh Meat
+Hash: 386F942F, Key: Raid Khazra Crafting, Value: {s1} Khazra |4Tendon:Tendons
+Hash: C6076463, Key: Ureh Time, Value: +{s1} Ureh Time
+Hash: 2A8F9A46, Key: Realmwalker Material, Value: {s1} Seething |4Shard:Shards

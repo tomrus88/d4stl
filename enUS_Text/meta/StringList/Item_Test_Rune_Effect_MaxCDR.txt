@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Your Skills' Maximum Cooldowns are reduced by {c_number}4{/c} seconds for {c_number}12{/c} seconds{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Ascension
+Hash: B582167E, Key: RuneOverflowBehavior, Value: increased duration
+Hash: 003DFCC1, Key: Name, Value: Ehe

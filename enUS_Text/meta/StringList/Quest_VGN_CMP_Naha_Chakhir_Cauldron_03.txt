@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Amphitheater
+Hash: B98DBD5C, Key: Callback15Header, Value: Break up the Dregs' blood sport
+Hash: E7B37160, Key: Callback91Header, Value: Slay the Cauldron Keepers ({DONE}/{NEEDED})

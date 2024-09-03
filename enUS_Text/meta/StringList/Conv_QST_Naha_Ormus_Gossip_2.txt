@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you know of Ah Bulan?"
+Hash: 8F4F079D, Key: Line1.17FDCA, Value: Ah Bulan is the Mender of Veils. He wanders all across Nahantu. Sometimes beyond.
+Hash: 6AE65B51, Key: Line3.1D7165, Value: We haven’t seen him in quite some time.
+Hash: BB1C871E, Key: VoiceDir3.1D7165, Value: worried
+Hash: 436A050F, Key: Line5.1D7161, Value: He may have left us for good.
+Hash: 93A030DC, Key: VoiceDir5.1D7161, Value: grave
+Hash: 18DA04E3, Key: Line7.17FDCA, Value: But we won’t know for certain if we don’t search. So we search.

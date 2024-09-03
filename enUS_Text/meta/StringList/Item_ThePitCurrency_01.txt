@@ -1,3 +1,3 @@
-Hash: 003DFCC1, Key: Name, Value: Runeshard
+Hash: 003DFCC1, Key: Name, Value: Artificer's Stone
 Hash: A646FFA4, Key: Description, Value: An ancient token used by the Horadrim to enter {c_rare}The Pit of the Artificer{/c}. Most often found in {c_important}Whisper Caches{/c}, {c_important}Helltide{/c} and {c_important}Legion Chests{/c}, and from {c_important}Nightmare Dungeons{/c} and {c_important}World Bosses{/c}.
 Hash: F5C7BC0A, Key: Flavor, Value: A surprisingly light material that glows faintly.

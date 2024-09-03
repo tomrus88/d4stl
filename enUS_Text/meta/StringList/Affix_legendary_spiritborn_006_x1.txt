@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Combined Strikes
+Hash: 003892BF, Key: Desc, Value: Each different {c_important}Basic{/c} Skill you cast increases all your damage by {c_random}[Affix_Value_1*100|%x|]{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Each different {c_important}Basic{/c} Skill you cast increases all your damage by {c_random}[Affix_Value_1*100|%x|]{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds.

@@ -1,0 +1,3 @@
+Hash: F90B494A, Key: Line810.189135, Value: Could you do your cooking outside? Ugh, the monster smell turns my stomach.
+Hash: D18DF81C, Key: Line812.18782A, Value: I expected a stronger stomach from an Iron Wolf.
+Hash: 07FE4B29, Key: VoiceDir812.18782A, Value: teasing

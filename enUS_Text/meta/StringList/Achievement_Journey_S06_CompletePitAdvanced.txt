@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: VERY DIFFICULT (PH)
+Hash: 3A4912CF, Key: DescShort, Value: Complete Artificer's Tier 50 in The Pit, located at the Artificer's Obelisk in Cerrigar and activated with (ICON) Runeshards (PH)

@@ -1,0 +1,2 @@
+Hash: C7866972, Key: ServiceName, Value: Iron Wolf Field Commander
+Hash: 5957DF75, Key: InteractionMenuLabel, Value: "Show me how I have fared against Hell."

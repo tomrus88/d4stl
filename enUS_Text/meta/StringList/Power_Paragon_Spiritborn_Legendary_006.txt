@@ -1,0 +1,5 @@
+Hash: 14C66756, Key: Buff3_Name, Value: Drive
+Hash: 16451099, Key: Buff3_Description, Value: {c_important}{u}Drive{/u}{/c}
+Deal [{SF_2}*100|%1|] increased damage per stack. Gain a stack after moving {SF_3} meters.
+Hash: 003DFCC1, Key: name, Value: Drive
+Hash: 003892BF, Key: desc, Value: After moving {c_number}[SF_3]{/c} meters, you deal {c_number}[SF_2*100|1%x|]{/c} increased damage for {c_number}[SF_1]{/c} seconds.  This can stack up to {c_number}[SF_0]{/c} times.

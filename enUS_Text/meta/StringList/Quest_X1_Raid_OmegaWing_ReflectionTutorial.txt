@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Counterspell Trials
+Hash: B98DBD5C, Key: Callback15Header, Value: Kill Spell Guardians {DONE_OVER_NEEDED}
+Hash: 0687FA1D, Key: Callback16Header, Value: Collect a Counterspell Stone {DONE_OVER_NEEDED}
+Hash: 538236DE, Key: Callback17Header, Value: Counterspell the statues Soul Orbs {DONE_OVER_NEEDED}
+Hash: 24EC6278, Key: Callback20Header, Value: Enter the Teleporter {DONE_OVER_NEEDED}

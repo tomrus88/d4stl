@@ -3,6 +3,6 @@ Hash: DF0BA3DF, Key: Callback36Header, Value: Slay all enemies in the Passage of
 Hash: 976485BC, Key: Callback42Header, Value: Travel to the {LEVELAREA}
 Hash: 7E533BFF, Key: Callback45Header, Value: Free the Prisoners: {LEFT}
 Hash: 6541F242, Key: Callback48Header, Value: Slay the Warden of Anguish and collect the {ITEM}
-Hash: 36AC1DDC, Key: Callback51Header, Value: Open the {GIZMO}
+Hash: 36AC1DDC, Key: Callback51Header, Value: Use the {ITEM:DGN_Hawe_Oblivion_Key} to open the {GIZMO}
 Hash: 1D9AD41F, Key: Callback54Header, Value: Travel to the {LEVELAREA}
 Hash: 04898A62, Key: Callback57Header, Value: Destroy the Fallen Idols: {LEFT}

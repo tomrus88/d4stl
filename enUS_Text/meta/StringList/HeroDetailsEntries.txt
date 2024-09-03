@@ -67,8 +67,8 @@ Hash: 40F1C697, Key: 241_name, Value: Critical Strike Chance vs Injured
 Hash: C2E67BA1, Key: 241_tooltip, Value: {c_label}Bonus Critical Strike Chance vs Injured Enemies: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Your Critical Strike Chance is increased by {c_number}{s1}{/c_number} when damaging enemies who are below {c_number}35%{/c} Life.
 {icon:bullet} Your total chance to Critically Strike {c_important}{u}Injured{/u}{/c_important} enemies is {c_number}{s2}{/c_number}{/c}.
-Hash: 82967DF5, Key: 5_name, Value: Critical Strike Damage
-Hash: B6975E3F, Key: 5_tooltip, Value: {c_label}Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+Hash: 3B328F3E, Key: 347_name, Value: Critical Strike Damage
+Hash: 032DD6E8, Key: 347_tooltip, Value: {c_label}Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} Extra damage granted to Skills when they Critically Strike.
 {icon:bullet} Includes the inherent {c_number}x{s2}{/c_number} increased damage dealt by Critical Strikes.
 {icon:bullet} You have {c_number}+{s3}{/c_number} of this stat from items and Paragon.
@@ -82,12 +82,12 @@ Hash: C7A70C7E, Key: 310_tooltip, Value: {c_label}Bonus Critical Strike Damage v
 {icon:bullet} This includes those affected by Slow, Immobilize, Stun, Knockback, Knockdown, Taunt, Fear, Tether, {c_important}{u}Daze{/u}{/c_important}, {c_important}{u}Chill{/u}{/c_important}, or {c_important}{u}Freeze{/u}{/c_important}.
 {icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types for the Staggered duration.
 {icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
-Hash: AAFED0FB, Key: 155_name, Value: Critical Strike Damage with Physical
-Hash: 13861B85, Key: 155_tooltip, Value: {c_label}Physical Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
-{icon:bullet} Extra damage granted to your Physical damage that Critically Strikes.
-{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
-Hash: 882CCBFF, Key: 357_name, Value: Critical Strike Damage with Fire
-Hash: 07386809, Key: 357_tooltip, Value: {c_label}Fire Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+Hash: D07CB77E, Key: 365_name, Value: Rend Effect Size
+Hash: 224A1728, Key: 365_tooltip, Value: {c_label}Rend Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Rend's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: CE278EDD, Key: 364_name, Value: Critical Strike Damage with Fire
+Hash: ADCDA627, Key: 364_tooltip, Value: {c_label}Fire Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} Extra damage granted to your Fire damage that Critically Strikes.
 {icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
 Hash: B4FC40DB, Key: 227_name, Value: Critical Strike Damage with Lightning
@@ -140,8 +140,8 @@ Hash: 9F904041, Key: 7_tooltip, Value: {c_label}Overpower Chance:{/c} {c_number}
 {icon:bullet} {c_important}{u}Overpowers{/u}{/c_important} deal bonus damage based on your current Life, up to {c_number}x{s2}{/c_number} when at maximum Life, further increased by your personal bonuses.
 {icon:bullet} Damage over time, passive abilities, and {c_important}Channeled{/c_important} Skills cannot {c_important}{u}Overpower{/u}{/c_important}.
 {icon:bullet} Your chance to {c_important}{u}Overpower{/u}{/c_important} cannot increase as a basic stat, but they can be guaranteed by specific effects.
-Hash: AFA2A772, Key: 99_name, Value: Overpower Damage
-Hash: 6EE3729C, Key: 99_tooltip, Value: {c_label}Overpower Damage Bonus:{/c} {c_number}{s1}{/c}
+Hash: 3D87B7DF, Key: 348_name, Value: Overpower Damage
+Hash: 77AA47E9, Key: 348_tooltip, Value: {c_label}Overpower Damage Bonus:{/c} {c_number}{s1}{/c}
 {icon:bullet} Extra damage granted to Skills when they {c_important}{u}Overpower{/u}{/c_important}, further increased at the moment of impact based on your Maximum Life and Fortify amount.
 {icon:bullet} Includes the inherent increased damage dealt by {c_important}{u}Overpowers{/u}{/c_important} based on your current Life, up to {c_number}x{s2}{/c_number} when at maximum Life.
 {icon:bullet} You have {c_number}+{s4}{/c_number} of this stat from Willpower, items, and Paragon.
@@ -154,8 +154,8 @@ Hash: 4D445F18, Key: 314_name, Value: Overpower Damage with Werebear
 Hash: 9998D082, Key: 314_tooltip, Value: {c_label}Overpower Damage with Werebear Skills:{/c} {c_number}{s1}{/c}
 {icon:bullet} Extra damage granted to Skills that have the {c_important}Werebear{/c_important} tag when they {c_important}{u}Overpower{/u}.
 {icon:bullet} Stacks with your normal Overpower Damage Bonus.
-Hash: D8709868, Key: 35_name, Value: Vulnerable Damage
-Hash: 84B247D2, Key: 35_tooltip, Value: {c_label}Vulnerable Damage Bonus: {c_number}{s1}{/c_number}{/c}
+Hash: 3FDCE080, Key: 349_name, Value: Vulnerable Damage
+Hash: EC26B8EA, Key: 349_tooltip, Value: {c_label}Vulnerable Damage Bonus: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Extra damage granted to Skills against {c_important}{u}Vulnerable{/u}{/c_important} enemies.
 {icon:bullet} Includes the inherent {c_number}x{s2}{/c_number} increased damage that {c_important}{u}Vulnerable{/u}{/c_important} enemies take from all sources.
 {icon:bullet} You have {c_number}+{s3}{/c_number} of this stat from items and Paragon.
@@ -524,8 +524,8 @@ Hash: F251DF59, Key: 78_tooltip, Value: {c_label}Maximum Potion Capacity: {c_num
 Hash: 4E47ED01, Key: 179_name, Value: Potion Drop Bonus
 Hash: ED8D01CB, Key: 179_tooltip, Value: {c_label}Potion Drop Rate Bonus: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Increases the rate that Healing Potions are dropped from all sources.
-Hash: 8643BC19, Key: 180_name, Value: All Healing
-Hash: D93799E3, Key: 180_tooltip, Value: {c_label}Bonus to All Healing: {c_number}{s1}{/c_number}{/c}
+Hash: 8643BC19, Key: 180_name, Value: Healing Received
+Hash: D93799E3, Key: 180_tooltip, Value: {c_label}Bonus to Healing Received: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Increases healing received from all sources.
 Hash: 231C2753, Key: 102_name, Value: Healing from Potions
 Hash: A1DBF2DD, Key: 102_tooltip, Value: {c_label}Potion Healing Bonus: {c_number}{s1}{/c_number}{/c}
@@ -535,7 +535,7 @@ Hash: CD17E680, Key: 150_tooltip, Value: {c_label}Blood Orb Healing Bonus: {c_nu
 {icon:bullet} Increases healing received from {c_important}{u}Blood Orbs{/u}{/c_important}.
 Hash: 1103DCAE, Key: 77_name, Value: Lucky Hit Life
 Hash: 7DD56E58, Key: 77_tooltip, Value: {c_label}Lucky Hit Life: {c_number}{s1}{/c_number}{/c}
-{icon:bullet} You have a base 5% chance to heal {c_number}{s1}{/c_number} Life for every enemy you hit.
+{icon:bullet} You have a base 15% chance to heal {c_number}{s1}{/c_number} Life for every enemy you hit.
 {icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
 Hash: 5DFE196F, Key: 87_name, Value: Life on Hit
 Hash: 81DFFF79, Key: 87_tooltip, Value: {c_label}Life on Hit: {c_number}{s1}{/c_number}{/c}
@@ -544,14 +544,15 @@ Hash: 81DFFF79, Key: 87_tooltip, Value: {c_label}Life on Hit: {c_number}{s1}{/c_
 Hash: E7E1A5F6, Key: 402_name, Value: Life on Kill
 Hash: 31F212A0, Key: 402_tooltip, Value: {c_label}Life on Kill: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} You recover {c_number}{s1}{/c_number} Life for every enemy you kill.
-Hash: A3F8DC4D, Key: 94_name, Value: Life per Second
-Hash: 28753D97, Key: 94_tooltip, Value: {c_label}Life Regeneration per Second: {c_number}{s1}{/c_number}{/c}
-{icon:bullet} You recover {c_number}{s1}{/c_number} Life per second, both in and out of combat.
-Hash: BD0A260A, Key: 64_name, Value: Armor
-Hash: 1C558A34, Key: 64_tooltip, Value: {c_label}Armor: {c_number}{s1}{/c_number}{/c}
+Hash: A3F8DC4D, Key: 94_name, Value: Life per 5 Seconds
+Hash: 28753D97, Key: 94_tooltip, Value: {c_label}Life Regeneration per 5 Seconds: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You recover {c_number}{s1}{/c_number} Life every 5 seconds, both in and out of combat.
+Hash: 77D8AF98, Key: 350_name, Value: Armor
+Hash: D7D15102, Key: 350_tooltip, Value: {c_label}Armor: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces incoming Physical damage taken, up to {c_number}{s6}{/c}.
-{icon:bullet} {c_number}{s7}{/c} Armor is required for maximum reduction from Level {c_number}{s8}{/c} enemies and beyond.
+{icon:bullet} {c_number}{s7}{/c} Armor is required for maximum reduction at Level {c_number}{s8}{/c}.
 {icon:bullet} You have {c_number}{s2}{/c_number} Armor from primary equipment stats, {c_number}{s3}{/c_number} Armor from your Strength, and {c_number}{s4}{/c_number} bonus Armor from other sources.
+{icon:bullet} Additionally, you have {c_number}{s9}{/c_number} Armor from penalties.
 Hash: DEE7C3FF, Key: 195_name, Value: Armor from Warriors
 Hash: 23B06009, Key: 195_tooltip, Value: {c_label}Bonus Armor with Skeletal Warriors Active: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Increases your Armor while you have at least one Skeletal Warrior alive.
@@ -587,25 +588,25 @@ Hash: 4A63C630, Key: 60_tooltip, Value: {c_label}Block Chance: {c_number}{s1}{/c
 Hash: 2EC5F278, Key: 107_name, Value: Block Reduction
 Hash: E84A27E2, Key: 107_tooltip, Value: {c_label}Blocked Damage Reduction: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} The portion of damage prevented when you Block direct damage.
-{icon:bullet} Equal to the equipped Shield's Blocked Damage Reduction.
-Hash: 91ED873E, Key: 185_name, Value: Minion Resist All
-Hash: 1FA5CEE8, Key: 185_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Minions: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increased by equipped Shield's or Quarterstaff's Block Reduction.
+Hash: 7A2DD839, Key: 351_name, Value: Minion Resist All
+Hash: 4C4DC203, Key: 351_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Minions: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces non-Physical damage taken by your summoned Minions. This includes your Skeletal Warriors, Skeletal Mages, and Golem.
-Hash: 85D7A35E, Key: 356_name, Value: Warrior Resist All
-Hash: 92BBF708, Key: 356_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Skeletal Warriors: {c_number}{s1}{/c_number}{/c}
+Hash: 7C8300DA, Key: 352_name, Value: Warrior Resist All
+Hash: C0CA3304, Key: 352_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Skeletal Warriors: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces non-Physical damage taken by your Skeletal Warriors.
-Hash: E3921541, Key: 197_name, Value: Mage Resist All
-Hash: 0CA9420B, Key: 197_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Skeletal Mages: {c_number}{s1}{/c_number}{/c}
+Hash: 7ED8297B, Key: 353_name, Value: Mage Resist All
+Hash: 3546A405, Key: 353_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Skeletal Mages: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces non-Physical damage taken by your Skeletal Mages.
-Hash: E13CECA0, Key: 196_name, Value: Golem Resist All
-Hash: 982CD10A, Key: 196_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Golem: {c_number}{s1}{/c_number}{/c}
+Hash: 812D521C, Key: 354_name, Value: Golem Resist All
+Hash: A9C31506, Key: 354_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Golem: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces non-Physical damage taken by your Golem.
-Hash: C8B3F12F, Key: 69_name, Value: All Damage Reduction
-Hash: 62C3BF39, Key: 69_tooltip, Value: {c_label}Damage Reduction from All Sources: {c_number}{s1}{/c_number}{/c}
+Hash: 882CCBFF, Key: 357_name, Value: All Damage Reduction
+Hash: 07386809, Key: 357_tooltip, Value: {c_label}Damage Reduction from All Sources: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces incoming damage taken from all sources, after applying your Armor or non-Physical Resistances.
 {icon:bullet} As this stat increases, additional bonuses become less effective.
-Hash: 0BF3ED7C, Key: 309_name, Value: DoT Damage Reduction
-Hash: DBFC7466, Key: 309_tooltip, Value: {c_label}Damage Reduction from Damage Over Time: {c_number}{s1}{/c_number}{/c}
+Hash: 8A81F4A0, Key: 358_name, Value: DoT Damage Reduction
+Hash: 7BB4D90A, Key: 358_tooltip, Value: {c_label}Damage Reduction from Damage Over Time: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces incoming damage over time taken from all sources, after applying your Armor or non-Physical Resistances. This includes Bleeding, Burning, Poisoning, and Shadow damage over time, but not direct damage.
 {icon:bullet} As this stat increases, additional bonuses become less effective.
 Hash: D593217B, Key: 191_name, Value: Damage Reduction from Elites
@@ -722,6 +723,9 @@ Hash: 4B97C247, Key: 292_tooltip, Value: {c_label}Passive Mana Regeneration: {/c
 Hash: C1D4F65C, Key: 291_name, Value: Spirit Regeneration
 Hash: D71B5146, Key: 291_tooltip, Value: {c_label}Passive Spirit Regeneration: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} You regenerate {c_number}{s1}{/c_number} Spirit per second.
+Hash: 76ECB2D0, Key: 0_name, Value: Vigor Regeneration
+Hash: 7029293A, Key: 0_tooltip, Value: {c_label}Passive Vigor Regeneration: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} You regenerate {c_number}{s1}{/c_number} Vigor per second.
 Hash: BF7FCDBB, Key: 290_name, Value: Essence Regeneration
 Hash: 629EE045, Key: 290_tooltip, Value: {c_label}Passive Essence Regeneration: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} You regenerate {c_number}{s1}{/c_number} Essence per second.
@@ -737,6 +741,9 @@ Hash: 478D3126, Key: 282_tooltip, Value: {c_label}Bonus Mana Generation: {/c}{c_
 Hash: 74DAB99B, Key: 281_name, Value: Spirit Generation
 Hash: D310C025, Key: 281_tooltip, Value: {c_label}Bonus Spirit Generation: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} Gaining Spirit from any source grants {c_number}{s1}{/c_number} more Spirit than normal.
+Hash: EA36CE97, Key: 403_name, Value: Vigor Generation
+Hash: A66E83A1, Key: 403_tooltip, Value: {c_label}Bonus Vigor Generation: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Gaining Vigor from any source grants {c_number}{s1}{/c_number} more Vigor than normal.
 Hash: 7BDA337E, Key: 284_name, Value: Essence Generation
 Hash: 30861328, Key: 284_tooltip, Value: {c_label}Bonus Essence Generation: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} Gaining Essence from any source grants {c_number}{s1}{/c_number} more Essence than normal.
@@ -755,6 +762,9 @@ Hash: BAD1595F, Key: 221_tooltip, Value: {c_label}Spirit On Kill: {c_number}{s1}
 Hash: A4A82474, Key: 220_name, Value: Essence On Kill
 Hash: 4654E85E, Key: 220_tooltip, Value: {c_label}Essence On Kill: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} You will restore {c_number}{s1}{/c_number} Essence for every enemy you kill.
+Hash: EC8BF738, Key: 404_name, Value: Vigor On Kill
+Hash: 1AEAF4A2, Key: 404_tooltip, Value: {c_label}Vigor On Kill: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You will restore {c_number}{s1}{/c_number} Vigor for every enemy you kill.
 Hash: 4DA9FD08, Key: 80_name, Value: Movement Speed
 Hash: 5278E872, Key: 80_tooltip, Value: {c_label}Movement Speed:{/c} {c_number}{s1}{/c_number}
 {icon:bullet} You run at {c_number}{s1}{/c} of base Movement Speed.
@@ -814,7 +824,7 @@ Hash: 73CDB6E1, Key: 106_tooltip, Value: {c_label}Shrine Duration Bonus:{/c_labe
 {icon:bullet} Increases the duration of buffs received from {c_important}Shrines{/c_important} in the world.
 Hash: 0C600637, Key: 133_name, Value: Lucky Hit {PRIMARY_RESOURCE}
 Hash: 22781741, Key: 133_tooltip, Value: {c_label}Lucky Hit {PRIMARY_RESOURCE}:{/c} {c_number}{s1}{/c_number}
-{icon:bullet} You have a base {c_number}5%{/c_number} chance to gain {c_number}{s1}{/c_number} {PRIMARY_RESOURCE} when you damage them. 
+{icon:bullet} You have a base {c_number}15%{/c_number} chance to gain {c_number}{s1}{/c_number} {PRIMARY_RESOURCE} when you damage them. 
 {icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
 Hash: E58C7D55, Key: 401_name, Value: Lucky Hit Vulnerable
 Hash: BD75A19F, Key: 401_tooltip, Value: {c_label}Lucky Hit Vulnerable:{/c} {c_number}{s1}{/c_number}
@@ -876,14 +886,15 @@ Hash: 57051A57, Key: 142_name, Value: Lucky Crit Freeze
 Hash: B2063761, Key: 142_tooltip, Value: {c_label}Lucky Crit Freeze:{/c} {c_number}{s1}{/c_number}
 {icon:bullet} You have a base {c_number}{s1}{/c_number} chance to {c_important}{u}Freeze{/u}{/c_important} enemies when you Critically Strike them. 
 {icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
-Hash: 8A81F4A0, Key: 358_name, Value: Experience Bonus
-Hash: 7BB4D90A, Key: 358_tooltip, Value: {c_label}Experience Bonus: {c_number}{s1}{/c_number}{/c}
-{icon:bullet} You gain {c_number}{s1}{/c_number} more Experience from kills.
-{icon:bullet} Includes the {c_number}x{s2}{/c_number} bonus from being in World Tier {c_number}{s3}{/c_number}.
-Hash: 8CD71D41, Key: 359_name, Value: Death Blow Effect Size
-Hash: F0314A0B, Key: 359_tooltip, Value: {c_label}Death Blow Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
-{icon:bullet} Death Blow's size is increased by {c_number}{s1}{/c_number}.
+Hash: D52708C0, Key: 367_name, Value: Upheaval Effect Size
+Hash: 0B42F92A, Key: 367_tooltip, Value: {c_label}Upheaval Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Upheaval's size is increased by {c_number}{s1}{/c_number}.
 {icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 8CD71D41, Key: 359_name, Value: Fire Resistance
+Hash: F0314A0B, Key: 359_tooltip, Value: {c_label}Fire Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming Fire damage by {c_number}{s1}{/c_number}. This applies to both direct Fire damage and Burning damage over time.
+{icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
+{icon:bullet} You currently have {c_number}+{s3}{/c_number} Fire Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Fire Resistance).
 Hash: 18CCA2FD, Key: 373_name, Value: Double Swing Effect Size
 Hash: 3D5BC647, Key: 373_tooltip, Value: {c_label}Double Swing Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} Double Swing's size is increased by {c_number}{s1}{/c_number}.
@@ -908,17 +919,9 @@ Hash: D77C3161, Key: 368_name, Value: Leap Effect Size
 Hash: 7FBF6A2B, Key: 368_tooltip, Value: {c_label}Leap Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} Leap's size is increased by {c_number}{s1}{/c_number}.
 {icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
-Hash: D07CB77E, Key: 365_name, Value: Rend Effect Size
-Hash: 224A1728, Key: 365_tooltip, Value: {c_label}Rend Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
-{icon:bullet} Rend's size is increased by {c_number}{s1}{/c_number}.
-{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
 Hash: D2D1E01F, Key: 366_name, Value: Rupture Effect Size
 Hash: 96C68829, Key: 366_tooltip, Value: {c_label}Rupture Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
 {icon:bullet} Rupture's size is increased by {c_number}{s1}{/c_number}.
-{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
-Hash: D52708C0, Key: 367_name, Value: Upheaval Effect Size
-Hash: 0B42F92A, Key: 367_tooltip, Value: {c_label}Upheaval Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
-{icon:bullet} Upheaval's size is increased by {c_number}{s1}{/c_number}.
 {icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
 Hash: 1B21CB9E, Key: 374_name, Value: Whirlwind Effect Size
 Hash: B1D83748, Key: 374_tooltip, Value: {c_label}Whirlwind Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
@@ -1050,28 +1053,28 @@ Hash: 4644E535, Key: 311_name, Value: Midwinter Proofs
 Hash: 3C237D7F, Key: 311_tooltip, Value: {c_label}Midwinter Proofs:{/c}
 {icon:bullet} Used to purchase Event Rewards from Gileon at the Midwinter Square in Kyovashad.
 {icon:bullet} Earned by exchanging Event Materials (Blighted Fragments, Lost Heirlooms, Red-Cloaked Trophy) at the Midwinter Square’s Collections Table in Kyovashad.
-Hash: 38DD669D, Key: 346_name, Value: Fire Resistance
-Hash: 8EB165E7, Key: 346_tooltip, Value: {c_label}Fire Resistance: {c_number}{s1}{/c_number}{/c}
-{icon:bullet} Reduces incoming Fire damage by {c_number}{s1}{/c_number}. This applies to both direct Fire damage and Burning damage over time.
-{icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
-{icon:bullet} You currently have {c_number}+{s3}{/c_number} Fire Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Fire Resistance).
-Hash: 7C8300DA, Key: 352_name, Value: Lightning Resistance
-Hash: C0CA3304, Key: 352_tooltip, Value: {c_label}Lightning Resistance: {c_number}{s1}{/c_number}{/c}
+Hash: EEE11FD9, Key: 405_name, Value: Pale Marks
+Hash: 8F6765A3, Key: 405_tooltip, Value: {c_label}Pale Marks:{/c}
+{icon:bullet} Used to purchase Trade Agreements and Barter for items in the Mercenary Den.
+{icon:bullet} Earned from increasing your Rapport with Mercenaries and completing various activities with a Mercenary after Bartering has been unlocked.
+{icon:bullet} Bartering becomes available upon reaching Rank 5 Rapport with any Mercenary.
+Hash: C4D2EC59, Key: 360_name, Value: Lightning Resistance
+Hash: DBDBE223, Key: 360_tooltip, Value: {c_label}Lightning Resistance: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces incoming Lightning damage by {c_number}{s1}{/c_number}.
 {icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
 {icon:bullet} You currently have {c_number}+{s3}{/c_number} Lightning Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Lightning Resistance).
-Hash: 83827ABD, Key: 355_name, Value: Cold Resistance
-Hash: 1E3F8607, Key: 355_tooltip, Value: {c_label}Cold Resistance: {c_number}{s1}{/c_number}{/c}
+Hash: C72814FA, Key: 361_name, Value: Cold Resistance
+Hash: 50585324, Key: 361_tooltip, Value: {c_label}Cold Resistance: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces incoming Cold damage by {c_number}{s1}{/c_number}.
 {icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
 {icon:bullet} You currently have {c_number}+{s3}{/c_number} Cold Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Cold Resistance).
-Hash: 7ED8297B, Key: 353_name, Value: Poison Resistance
-Hash: 3546A405, Key: 353_tooltip, Value: {c_label}Poison Resistance: {c_number}{s1}{/c_number}{/c}
+Hash: C97D3D9B, Key: 362_name, Value: Poison Resistance
+Hash: C4D4C425, Key: 362_tooltip, Value: {c_label}Poison Resistance: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces incoming Poison damage by {c_number}{s1}{/c_number}. This applies to both direct Poison damage and Poisoning damage over time.
 {icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
 {icon:bullet} You currently have {c_number}+{s3}{/c_number} Poison Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Poison Resistance).
-Hash: 812D521C, Key: 354_name, Value: Shadow Resistance
-Hash: A9C31506, Key: 354_tooltip, Value: {c_label}Shadow Resistance: {c_number}{s1}{/c_number}{/c}
+Hash: CBD2663C, Key: 363_name, Value: Shadow Resistance
+Hash: 39513526, Key: 363_tooltip, Value: {c_label}Shadow Resistance: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces incoming Shadow damage by {c_number}{s1}{/c_number}. This applies to both direct Shadow damage and Shadow damage over time.
 {icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
 {icon:bullet} You currently have {c_number}+{s3}{/c_number} Shadow Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Shadow Resistance).

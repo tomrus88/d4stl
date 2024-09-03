@@ -8,4 +8,4 @@ Hash: F4A9EC5A, Key: Phase14Description, Value: I've discovered Katherina has be
 Hash: 1F9943DA, Key: Callback13Header, Value: Leave the flowers at Katherina's grave
 Hash: 8784047D, Key: Phase17Description, Value: Kres will want to know his daughter's fate. I should return to him.
 Hash: 0687FA1D, Key: Callback16Header, Value: Speak with Kres
-Hash: 4318BAA2, Key: Callback75Header, Value: Gather the Puffball Reed
+Hash: 4318BAA2, Key: Callback75Header, Value: Gather the {ITEM:QST_Hawe_Bog_Kres_01_Plant}

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Scroll of Restoration
+Hash: A646FFA4, Key: Description, Value: Use to restore 4 Tempering Charges on an item. 
+Hash: F5C7BC0A, Key: Flavor, Value: Only usable once per item.

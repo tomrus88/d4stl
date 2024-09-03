@@ -1,0 +1,2 @@
+Hash: C7866972, Key: ServiceName, Value: Lunar Night Market
+Hash: 5957DF75, Key: InteractionMenuLabel, Value: "How are the ancestors feeling about me lately?"

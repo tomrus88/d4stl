@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Anything new?"
+Hash: 9268B99C, Key: Line1.1CC158, Value: Zagraal's monstrous head now decorates our city. A victory long overdue. I’m curious if that creature’s end was your doing?
+Hash: E29EE569, Key: VoiceDir1.1CC158, Value: Hiding her excitement that the deadly khazra has been defeated.

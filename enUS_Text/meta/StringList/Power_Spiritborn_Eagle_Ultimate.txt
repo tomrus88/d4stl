@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: The Seeker
+Hash: 003892BF, Key: desc, Value: {c_label}Charges:{/c} {c_resource}{SF_11}{/c}
+{c_label}Charge Cooldown:{/c} {c_resource}{SF_1}{/c_resource} per {c_resource}{Recharge Time}{/c_resource} seconds 
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}The Eagle Spirit swoops down and deals {c_number}{payload:SKY_DAMAGE_LANDING}{/c} damage. After a short delay it blasts off dealing {c_number}{payload:SKY_DAMAGE_BLAST}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Landing Damage {icon:arrow, 1.2} {c_number}{payload:SKY_DAMAGE_LANDING}{/c}
+{icon:bullet, 1.2} Blast Damage {icon:arrow, 1.2} {c_number}{payload:SKY_DAMAGE_BLAST}{/c}
+{icon:bullet,1.2} Charge Cooldown {icon:arrow,1.2} {c_number}{Recharge Time}{/c} seconds
+Hash: F2CA0685, Key: Mod11_Description, Value: (PH) {c_label}{u}Ultimate Eagle{/u}{/c} 
+{icon:bullet,1.2} After a {c_number}[{SF_0}]{/c} second delay, the Eagle swoops through and deals {c_number}{payload:SKY_DAMAGE}{/c} Lightning damage to enemies.
+Hash: B9536EC2, Key: Mod11_Name, Value: (PH) Ultimate Eagle
+Hash: 42291006, Key: Mod12_Description, Value: {c_important}The Seeker's{/c} first hit Knocks enemies Down for {c_number}[{buffduration:KNOCKDOWN}]{/c} seconds and the second hit is a guaranteed Critical Strike.
+Hash: BBA89763, Key: Mod12_Name, Value: Harmonious Seeker
+Hash: 91881987, Key: Mod13_Description, Value: {c_important}The Seeker{/c} constantly makes all Nearby enemies {c_important}{u}Vulnerable{/u}{/c} while active.
+Hash: BDFDC004, Key: Mod13_Name, Value: Exalted Seeker

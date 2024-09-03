@@ -1,0 +1,8 @@
+Hash: 518A0B71, Key: Line493.189135, Value: (grunts)
+Hash: 87FA5E7E, Key: VoiceDir493.189135, Value: character is struggling to break free
+Hash: 899653AF, Key: Line769.1602FD, Value: (grunts)
+Hash: C006A6BC, Key: VoiceDir769.1602FD, Value: character is struggling to break free
+Hash: 886E0D01, Key: Line772.18782A, Value: (grunts)
+Hash: BEDE600E, Key: VoiceDir772.18782A, Value: character is struggling to break free
+Hash: 4D469EEF, Key: Line775.199120, Value: (grunts)
+Hash: 83B6F1FC, Key: VoiceDir775.199120, Value: character is struggling to break free

@@ -1,0 +1,8 @@
+Hash: 518A0B71, Key: Line493.189135, Value: (pained grunt)
+Hash: 87FA5E7E, Key: VoiceDir493.189135, Value: Takes a medium hit
+Hash: 899653AF, Key: Line769.1602FD, Value: (pained grunt)
+Hash: C006A6BC, Key: VoiceDir769.1602FD, Value: Takes a medium hit
+Hash: 886E0D01, Key: Line772.18782A, Value: (pained grunt)
+Hash: BEDE600E, Key: VoiceDir772.18782A, Value: Takes a medium hit
+Hash: 4D469EEF, Key: Line775.199120, Value: (pained grunt)
+Hash: 83B6F1FC, Key: VoiceDir775.199120, Value: Takes a medium hit

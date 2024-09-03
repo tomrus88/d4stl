@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: Rake
+Hash: 003892BF, Key: desc, Value: {c_label}Vigor Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Conjure claws that rake through enemies in front of you, dealing {c_number}{payload:IMPACT}{/c} damage before exploding for an additional {c_number}{payload:CLAW_DAMAGE}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+{icon:bullet, 1.2} Explosion Damage {icon:arrow, 1.2} {c_number}{payload:CLAW_DAMAGE}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: Casting {c_important}Rake{/c} grants a stack of {c_important}{u}Ferocity{/u}{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Rake
+Hash: 2577B2B4, Key: Mod1_Description, Value: Hitting at least one enemy with {c_important}Rake{/c} reduces your longest active Cooldown by {c_number}[{SF_14}|1|]{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Advantageous Rake
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Rake's{/c} Vigor cost is reduced by {c_number}[{SF_15}]{/c} per stack of {c_important}{u}Ferocity{/u}{/c} you have.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Rampant Rake
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Plains Core Upgrade C
+Hash: 1394CF37, Key: Mod4_Description, Value: (PH) Activates Plains Core Empowerment
+Hash: 9B887BB4, Key: Mod4_Name, Value: (PH) Plains Spirit

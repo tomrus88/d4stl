@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What can you tell me of the Knights in Seven Stones?"
+Hash: 924CE5D8, Key: Line1.1C08B3, Value: Nobody escapes the jungle unmarked by the Knights' violence. Missing limbs, removed skin, branding, all are too common.
+Hash: 6AD08F9A, Key: Line3.1C08B3, Value: They wield their damned faith like any blade, use it to justify their cruelty towards others. You ask me, they’re no better than Dregs.
+Hash: 4354395C, Key: Line5.1C08B3, Value: You're not planning to confront them, are you?

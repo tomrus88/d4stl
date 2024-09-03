@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Figurine Collection
+Hash: F2CA04D8, Key: NoticeSignText, Value: An aged set of figurines made of various stones including obsidian, quartz, and jade.

@@ -12,3 +12,9 @@ Hash: 1394CF37, Key: Mod4_Description, Value: Each of the Ancients gains additio
 {c_label}Talic:{/c} Enemies are Slowed by {c_number}[{SF_16}*100|%|]{/c} for {c_number}{SF_17}{/c} second when damaged by his {c_important}Whirlwind{/c}.
 {c_label}Madawc:{/c} {c_number}[{SF_18}*100|%|]{/c} chance to Stun enemies for {c_number}{SF_19}{/c} seconds when using his {c_important}Upheaval{/c}.
 Hash: 9B887BB4, Key: Mod4_Name, Value: Supreme Call of the Ancients
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Korlic Leap Damage {icon:arrow, 1.2} {c_number}{payload:LEAP_TOOLTIP}{/c}
+{icon:bullet, 1.2} Korlic Frenzy Damage {icon:arrow, 1.2} {c_number}{payload:FRENZY_TOOLTIP}{/c}
+{icon:bullet, 1.2} Talic Whirlwind Damage {icon:arrow, 1.2} {c_number}{payload:WHIRLWIND_TOOLTIP}{/c}
+{icon:bullet, 1.2} Madawc Upheaval Damage {icon:arrow, 1.2} {c_number}{payload:UPHEAVAL_TOOLTIP}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Unyielding Hits
+Hash: 003892BF, Key: Desc, Value: Casting a {c_important}Gorilla{/c} Skill adds {c_random}[Affix_Value_1*100|%|]{/c} of your Armor to all attacks for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Casting a {c_important}Gorilla{/c} Skill adds {c_random}[Affix_Value_1*100|%|]{/c} of your Armor to all attacks for {c_number}[Affix."Static Value 0"]{/c} seconds.

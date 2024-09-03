@@ -1,0 +1,27 @@
+Hash: 75EAA8B1, Key: SunSpirit, Value: Spirit
+Hash: D2EDB274, Key: MoonSpirit, Value: Spirit
+Hash: 03FDE1F2, Key: Locked, Value: Locked
+Hash: 70FD027B, Key: PassiveSlotLevel15, Value: This Passive Skill Slot will unlock at {c_highlight}Level 15{/c}.
+Hash: 70FD02B8, Key: PassiveSlotLevel30, Value: This Passive Skill Slot will unlock at {c_highlight}Level 30{/c}.
+Hash: 31215C57, Key: ClassMechanicHeader, Value: Spirit Hall
+Hash: 00BCF79C, Key: ClassMechanicBody, Value: You can pick a {c_highlight}Passive Skill{/c} for both the {c_highlight}Spirit{/c} slots.
+Hash: E23AF34B, Key: UnlockConditionUntrack, Value: To unlock, complete {icon:Spiritborn_Priority_Quest_Icon, 2} {c:FFbf6b31}{s1}{/c}. {hotkey:FAST_QUEST_TRACK} to untrack.
+Hash: D12CCDF2, Key: ChooseSunSpirit, Value: Choose Spirit
+Hash: 96747FD5, Key: ChooseMoonSpirit, Value: Choose Spirit
+Hash: 631767B1, Key: SelectSunSpirit, Value: Select a {c_highlight}Spirit{/c} as your {c_highlight}Passive Skill{/c}. You can change it anytime. 
+Hash: 65B25174, Key: SelectMoonSpirit, Value: Select a {c_highlight}Spirit{/c} as your {c_highlight}Passive Skill{/c}. You can change it anytime. 
+Hash: 003E3870, Key: None, Value: None
+Hash: FE58953A, Key: Jaguar, Value: Jaguar:
+Hash: 075AA01E, Key: Eagle, Value: Eagle:
+Hash: 03E5666A, Key: Gorilla, Value: Gorilla:
+Hash: 6BE06651, Key: Centipede, Value: Centipede:
+Hash: E985491C, Key: Active, Value: Active
+Hash: 6D8E519A, Key: PassiveSkill, Value: Passive Skill
+Hash: 3ABAAEEF, Key: SwapMoonSpirit, Value: Swap Spirit
+Hash: 2B7C81CC, Key: SwapSunSpirit, Value: Swap Spirit
+Hash: 231F2890, Key: ActivateSkill, Value: Use {icon:lmb, 2} to activate any of the passive skills above. 
+Hash: A697EA6F, Key: Resilient, Value: Resilient
+Hash: AFF910B0, Key: Aggressive, Value: Aggressive
+Hash: 63D5B9B0, Key: Debilitating, Value: Debilitating
+Hash: BEC26E6B, Key: Precise, Value: Precise
+Hash: 97108128, Key: UnlockConditionTrack, Value: To unlock, complete {icon:Spiritborn_Priority_Quest_Icon, 2} {c:FFbf6b31}{s1}{/c}. {hotkey:FAST_QUEST_TRACK} to track.

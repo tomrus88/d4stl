@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Aged Scroll
+Hash: 924F9572, Key: Line1.1C5657, Value: Aliza, I pray this missive reaches you, for there will be no necromancers left to greet you when you return.
+Hash: E285C13F, Key: VoiceDir1.1C5657, Value: Aliza pronunciation: "uh-lee-zah"
+Hash: 6AD33F34, Key: Line3.1C5657, Value: It is as we suspected: the Balance has been sundered. By an angel’s hand, and it is a dark light he casts. Dozens of our order have dropped dead, their bodies torn apart, their souls shattered and the remnants called away. Where to, we do not know.
+Hash: 4356E8F6, Key: Line5.1C5657, Value: So we run. Who knows if distance from this place will help? We will try anyway. Seek us in the swamps.

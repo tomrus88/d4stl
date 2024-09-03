@@ -1,0 +1,4 @@
+Hash: C7866972, Key: ServiceName, Value: Jeweler
+Hash: 8BE21B35, Key: ServiceDescription, Value: Jewelers can craft gems and manage sockets on your items.
+Hash: F848B57B, Key: ConditionText_0, Value: Unlocks at player level 20
+Hash: 5957DF75, Key: InteractionMenuLabel, Value: Craft

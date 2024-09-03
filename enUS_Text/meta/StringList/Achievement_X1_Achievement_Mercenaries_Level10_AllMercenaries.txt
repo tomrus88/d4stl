@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Maximal Mercenaries
+Hash: 003892BF, Key: Desc, Value: Reach level 10 with each Mercenary.
+Hash: 3DB702AD, Key: Crit_245845, Value: Raheir, the Shieldbearer
+Hash: 3DB702B1, Key: Crit_245849, Value: Varyana, the Berserker Crone
+Hash: 3DB702C9, Key: Crit_245850, Value: Aldkin, the Cursed Child
+Hash: 3DB702CA, Key: Crit_245851, Value: Subo, the Bounty Hunter

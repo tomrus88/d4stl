@@ -1,0 +1,18 @@
+Hash: B23C2F03, Key: Callback49Header, Value: Defeat the District Boss 
+Hash: 1879A109, Key: Callback102Header, Value: Slay {MONSTER}
+Hash: B26E1A8B, Key: Callback104Header, Value: Slay {MONSTER}
+Hash: 4C62940D, Key: Callback106Header, Value: Slay {MONSTER}
+Hash: C94F0905, Key: Callback87Header, Value: Attunement Rank: {DONE_OVER_NEEDED}
+Hash: 8AF7A24F, Key: Callback243Header, Value: You may exit the Undercity
+Hash: D7EC010E, Key: Callback125Header, Value: Time Expired. Exit the Dungeon
+Hash: 803B8057, Key: Phase20Description, Value: Kill Monsters and Conquer Objectives to Achieve Attunement Rank 1 and unlock the Clear Bonus.
+Hash: 147CC193, Key: Callback184Header, Value: {icon:Undercity_Attunement_Icon, 2}Attunement: {DONE_OVER_NEEDED}
+Hash: B7C7172B, Key: Callback230Header, Value: Gain {icon:Undercity_Attunement_Icon, 2}Attunement and Slay the District Boss before Time Expires
+Hash: EBB00A2F, Key: Callback234Header, Value: Slay the District Boss
+Hash: CB85424A, Key: Callback220Header, Value: {icon:Undercity_Attunement_Icon, 2}Rank 1: Derelict Coffer
+Hash: 6579BBCC, Key: Callback222Header, Value: {icon:Undercity_Attunement_Icon, 2}Rank 2: Humble Coffer
+Hash: FF6E354E, Key: Callback224Header, Value: {icon:Undercity_Attunement_Icon, 2}Rank 3: Glimmering Coffer
+Hash: 85A483B1, Key: Callback236Header, Value: {icon:Undercity_Attunement_Icon, 2}Rank 4: Magnificent Coffer
+Hash: 1F98FD33, Key: Callback238Header, Value: {icon:Undercity_Attunement_Icon, 2}Rank 4: Magnificent Coffer
+Hash: 71E07A90, Key: Callback127Header, Value: Time Remaining:{DESIGNER_VARIABLE:X1_Undercity_Timer}
+Hash: 2F5A8F83, Key: Callback85Header, Value: {icon:Undercity_Attunement_Icon, 2}Attunement Rank: {DONE_OVER_NEEDED}

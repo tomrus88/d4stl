@@ -57,7 +57,7 @@ Hash: 3D3F74C6, Key: RefundAllConfirmation, Value: Are you sure you want to {c_h
 Hash: 5809BAEE, Key: PointsBack, Value: Points to refund:
 Hash: 7236FC2F, Key: GoldIcon, Value: {icon:gold, 1.2}
 Hash: 2FFA9883, Key: EnchantTitle, Value: Enchantments
-Hash: 31F8F5ED, Key: EnchantUnlock, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2.5}{c_highlight}{s1}{/c}.
+Hash: 31F8F5ED, Key: EnchantUnlock, Value: To unlock, complete {icon:QuestIcon_Priority_Available_Unlock, 2.5}{c_highlight}{s1}{/c}.
 Hash: D727B6FB, Key: NecroSkillInstruction_Controller, Value: {hotkey:Equippables} Open
 Book of the Dead
 Hash: D06D4251, Key: NecroSkillInstruction_KBM, Value: {hotkey:Class_Screen} Open
@@ -82,3 +82,7 @@ Hash: C6698F22, Key: ChallengerRift_CannotRefundSkills, Value: {c_red}You cannot
 Hash: 2F60BA51, Key: PurchasedSkills, Value: Purchased Skills: {c_number}{s1}{/c_number}
 Hash: 37F0E405, Key: SRSkillRead_1to2, Value: {s1}{s2}
 Hash: 37F17065, Key: SRSkillRead_2to1, Value: {s2}{s1}
+Hash: 3CF78F5D, Key: Spiritborn_Skills, Value: Basic ({s1}) / Invoke / Core ({s2})
+Hash: 9C2B8B5E, Key: Spiritborn_SkillSlotLocked, Value: This skill is locked. Reach level {s1} to unlock it.
+Hash: 4F995322, Key: Spiritborn_Invoke_Unlock, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2.5}{c_highlight}{s1}{/c}.
+Hash: 78E0A3A2, Key: Spiritborn_Invoke_Info, Value: {c_highlight}Invoke:{/c} Makes Core Skills free.

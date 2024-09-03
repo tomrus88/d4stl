@@ -1,0 +1,2 @@
+Hash: 924DE7C9, Key: Line1.1C2453, Value: Praise the Light!
+Hash: E2841396, Key: VoiceDir1.1C2453, Value: Enthralled

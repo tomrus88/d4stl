@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are the Burned Knights doing in Nahantu?"
+Hash: 27F2DEDD, Key: Line7.710B6, Value: Searching for Neyrelle, of course. They would wield her like a blade to deepen the schism in our faith. Only violence and misery would come from their success.
+Hash: C1E7585F, Key: Line9.710B6, Value: Few know what Neyrelle has in her possession. Captain Kharov is one of those people. Even mad, we would be fools to underestimate him.

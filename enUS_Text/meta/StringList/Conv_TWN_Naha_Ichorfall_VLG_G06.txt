@@ -1,0 +1,2 @@
+Hash: 92517AE4, Key: Line1.1C7F93, Value: There’s rumor of a dark, festering evil lurking in the center of Nahantu. You won’t find me anywhere near it. You should stay clear as well.
+Hash: E287A6B1, Key: VoiceDir1.1C7F93, Value: A warning - she's suspicious and is influenced by the rumours.

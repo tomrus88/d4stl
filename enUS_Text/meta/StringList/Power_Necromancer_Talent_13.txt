@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Titan's Fall
+Hash: 003892BF, Key: desc, Value: While {c_important}{u}Fortified{/u}{/c}, you deal {c_number}[SF_0 * 100|%x|]{/c} increased damage to Elites.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}

@@ -1,43 +1,43 @@
 Hash: 941B4C36, Key: Callback457Header, Value: Recite the litany and remove the seal on the doors
 Hash: 003DFCC1, Key: Name, Value: Suffering Disquiet
 Hash: 0871A46B, Key: Toast, Value: Discover the fate of the Orbei Monastery
-Hash: 9AC58840, Key: BreadcrumbHeader, Value: Travel to the Orbei Monastery to speak with the Abbot
-Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Lorath has sent me to Orbei Monastery to speak with the Abbot, who may have more to share about the reasons Elias would have come to Dry Steppes.
 Hash: D03F579C, Key: Phase52Description, Value: I cannot find anyone outside or within the upper levels of the Monastery. I must delve into the lower halls and see what has happened here. 
-Hash: 1FA3CC64, Key: Phase52OutsideSubzoneHeader, Value: Enter the Orbei Monastery Halls and search for the Abbot
 Hash: 36AC1DDC, Key: Callback51Header, Value: Enter the Orbei Monastery Halls and search for the Abbot
 Hash: DCC621CD, Key: Phase170Description, Value: The innermost cloister of the monastery is locked behind a spelled door. It appears to be asking for a Litany laid down by the founders.
-Hash: BF739DB5, Key: Phase170OutsideSubzoneHeader, Value: Find the words of the secret Litany within the Orbei Monastery
 Hash: F61E373A, Key: Callback299Header, Value: Find the words of the Secret Litanies to gain access to the inner cloister. ({DONE}/{NEEDED})
 Hash: D186F4B2, Key: Phase175Description, Value: Reciting the Litany should unseal the doors to the Inner Cloister.
-Hash: 54B4823A, Key: Phase175OutsideSubzoneHeader, Value: Recite the Litany and remove the seal on the doors within the Orbei Monastery
 Hash: C5A2F9D3, Key: Phase158Description, Value: Lorath has sent me to Orbei Monastery to speak with the Abbot. He may have more to share regarding why Elias would have come to the Dry Steppes.
-Hash: 6282DC7B, Key: Phase158OutsideSubzoneHeader, Value: Travel to the Orbei Monastery
 Hash: 36A5F933, Key: Callback157Header, Value: Travel to the Orbei Monastery to speak with the Abbot
 Hash: 0D6BFC17, Key: Phase297Description, Value: Orbei Monastery has gone cold. Whatever happened here must be uncovered. Answers, and the Abbot, will likely be found within these halls.
-Hash: A45CAB3F, Key: Phase297OutsideSubzoneHeader, Value: Search for the Abbot within the Orbei Monastery
 Hash: 0F2F80F7, Key: Callback296Header, Value: Search for the Abbot of the monastery
-Hash: 6483AA57, Key: Phase307OutsideSubzoneHeader, Value: Slay the Eidolon of Orbei within the Orbei Monastery
-Hash: 069D9F59, Key: Phase309OutsideSubzoneHeader, Value: Speak with the Abbott within the Orbei Monastery
 Hash: 451CC1B8, Key: Callback378Header, Value: Speak with the Abbot of Orbei
 Hash: 770C5C09, Key: Phase310Description, Value: The spirits of the monks of Orbei Monastery have gone mad and joined together into an entity of fear and hatred. I must defeat it and allow them to rest. 
-Hash: 9FD51B71, Key: Phase310OutsideSubzoneHeader, Value: Slay the Eidolon of Orbei within the Orbei Monastery
 Hash: 4001B34B, Key: Callback320Header, Value: Slay the Eidolon of Orbei
 Hash: 761A0B2E, Key: Phase414Description, Value: Orbei Monastery has gone cold. Whatever happened here must be uncovered. Answers, and the Abbot, will likely be found within these halls.
-Hash: AC3EA436, Key: Phase414OutsideSubzoneHeader, Value: Search for the Abbot within the Orbei Monastery
 Hash: 9619BBF1, Key: Callback416Header, Value: Search for the Abbot of the monastery
 Hash: 6ADADE13, Key: Phase419Description, Value: Orbei Monastery has gone cold. Whatever happened here must be uncovered. Answers, and the Abbot, will likely be found within these halls.
-Hash: 417F88BB, Key: Phase419OutsideSubzoneHeader, Value: Search the dead within the Orbei Monastery for a key
-Hash: 300E3573, Key: Callback418Header, Value: Search the dead for a key
 Hash: 639259ED, Key: Phase422Description, Value: Orbei Monastery has gone cold. Whatever happened here must be uncovered. Answers, and the Abbot, will likely be found within these halls.
-Hash: 7CD0F9D5, Key: Phase422OutsideSubzoneHeader, Value: Place the Mechanical Box on the Pedestal within the Orbei Monastery
 Hash: 0178610D, Key: Callback421Header, Value: Place the Crusader Skull on the Pedestal
 Hash: F66C7210, Key: Phase425Description, Value: Orbei Monastery has gone cold. Whatever happened here must be uncovered. Answers, and the Abbot, will likely be found within these halls.
-Hash: 6FF7E958, Key: Phase425OutsideSubzoneHeader, Value: Pick up the strange Mechanical Box within the Orbei Monastery
 Hash: E8671750, Key: Callback424Header, Value: Pick up the Crusader Skull
 Hash: A069B22D, Key: Phase440Description, Value: Orbei Monastery has gone cold. Whatever happened here must be uncovered. Answers, and the Abbot, will likely be found within these halls.
-Hash: C00F9A15, Key: Phase440OutsideSubzoneHeader, Value: Search for the Abbot within the Orbei Monastery
 Hash: 558C1BF6, Key: Callback439Header, Value: Search for the Abbot of the monastery
-Hash: 3343CA50, Key: Phase443Description, Value: The spirits of the monks of Orbei Monastery have gone mad and joined together into an entity of fear and hatred. I must defeat it and allow them to rest.
+Hash: 300E3573, Key: Callback418Header, Value: Search the dead for a key
+Hash: 1FA3CC64, Key: Phase52OutsideSubzoneHeader, Value: Enter the Orbei Monastery Halls and search for the Abbot
+Hash: BF739DB5, Key: Phase170OutsideSubzoneHeader, Value: Find the words of the secret Litany within the Orbei Monastery
+Hash: 54B4823A, Key: Phase175OutsideSubzoneHeader, Value: Recite the Litany and remove the seal on the doors within the Orbei Monastery
+Hash: 6282DC7B, Key: Phase158OutsideSubzoneHeader, Value: Travel to the Orbei Monastery
+Hash: A45CAB3F, Key: Phase297OutsideSubzoneHeader, Value: Search for the Abbot within the Orbei Monastery
+Hash: 6483AA57, Key: Phase307OutsideSubzoneHeader, Value: Slay the Eidolon of Orbei within the Orbei Monastery
+Hash: 069D9F59, Key: Phase309OutsideSubzoneHeader, Value: Speak with the Abbott within the Orbei Monastery
+Hash: 9FD51B71, Key: Phase310OutsideSubzoneHeader, Value: Slay the Eidolon of Orbei within the Orbei Monastery
+Hash: AC3EA436, Key: Phase414OutsideSubzoneHeader, Value: Search for the Abbot within the Orbei Monastery
+Hash: 417F88BB, Key: Phase419OutsideSubzoneHeader, Value: Search the dead within the Orbei Monastery for a key
+Hash: 7CD0F9D5, Key: Phase422OutsideSubzoneHeader, Value: Place the Mechanical Box on the Pedestal within the Orbei Monastery
+Hash: 6FF7E958, Key: Phase425OutsideSubzoneHeader, Value: Pick up the strange Mechanical Box within the Orbei Monastery
+Hash: C00F9A15, Key: Phase440OutsideSubzoneHeader, Value: Search for the Abbot within the Orbei Monastery
 Hash: B3368998, Key: Phase443OutsideSubzoneHeader, Value: Slay the Eidolon of Orbei within the Orbei Monastery
+Hash: 3343CA50, Key: Phase443Description, Value: The spirits of the monks of Orbei Monastery have gone mad and joined together into an entity of fear and hatred. I must defeat it and allow them to rest.
 Hash: 0DE4FDD3, Key: Callback445Header, Value: Slay the Tortured Spirit of the Orbei Monks
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Travel to the Orbei Monastery to speak with the Abbot
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Lorath has sent me to Orbei Monastery to speak with the Abbot, who may have more to share about the reasons Elias would have come to Dry Steppes.

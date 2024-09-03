@@ -1,1 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Royal Topaz
+Hash: F5C7BC0A, Key: Flavor, Value: Plans within plans unfold within its fractal gleam.

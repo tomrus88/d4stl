@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Strange Creature Tracks
+Hash: F2CA04D8, Key: NoticeSignText, Value: The same strange tracks, clearly left by the same large creature. But there are two sets going in opposite directions, suggesting it entered and left from the same place.

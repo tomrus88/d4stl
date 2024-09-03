@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Centipede Wake
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Vigor Cost:{/c_label} {c_resource}{SF_2}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:4}|%|]{/c}
+{/if}Direct the Centipede along the ground, dealing {c_number}{payload:POISON_IMPACT}{/c} damage as it travels and leaving behind a trail that applies {c_number}{dot:POOL_DOT}{/c} Poisoning damage over {c_number}[{buffduration:POOL_DOT}]{/c} seconds.
+
+{c_important}Centipede Wake{/c} lasts for up to {c_number}[{SF_22}]{/c} seconds and Channeling or casting again will redirect it.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:POISON_IMPACT}{/c}
+{icon:bullet,1.2} Poisoning Damage {icon:arrow,1.2} {c_number}{dot:POOL_DOT}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: (PH) While {c_important}Centipede Wake{/c} is active you gain {c_number}[{SF_18}*100|%|]{/c} Life Steal. Double this amount while Channeling it.
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Centipede Wake Enhancement
+Hash: 1394CF37, Key: Mod4_Description, Value: (PH) {c_important}Centipede Wake{/c} grants {c_number}{SF_24}{/c} Vigor the first time it hits an enemy and applies {c_number}[{SF_20}*100|%x|]{/c} bonus Poisoning damage to {c_important}{u}Healthy{/u}{/c} enemies.
+Hash: 9B887BB4, Key: Mod4_Name, Value: (PH) Centipede Wake Upgrade A
+Hash: 62F3D8B8, Key: Mod5_Description, Value: (PH) {c_important}Centipede Wake{/c} now slowly orbits around you for up to {c_number}{SF_21}{/c} seconds. Channeling will increase the orbit speed speed by {c_number}[{SF_27}*100|%|]{/c}.
+Hash: 9DDDA455, Key: Mod5_Name, Value: (PH) Centipede Wake Upgrade B
+Hash: A032CCF6, Key: Mod6_Name, Value: (PH) Soil Core Upgrade C
+Hash: 01B1EBBA, Key: Mod7_Description, Value: (PH) Activates Soil Core Empowerment
+Hash: A287F597, Key: Mod7_Name, Value: (PH) Soil Spirit

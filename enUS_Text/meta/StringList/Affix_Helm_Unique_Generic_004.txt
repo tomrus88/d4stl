@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Give in to hatred and earn Lilith's Favor, increasing your damage dealt by {c_number}[Affix_Value_1|%x|]{/c}. Slaughter enemies to briefly steal Lilith's Favor from Nearby allies.

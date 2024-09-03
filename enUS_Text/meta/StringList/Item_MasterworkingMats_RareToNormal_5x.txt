@@ -1,2 +1,2 @@
-Hash: 003DFCC1, Key: Name, Value: Small Obducite Cache
-Hash: A646FFA4, Key: Description, Value: Contains 15 pieces of Obducite.
+Hash: 003DFCC1, Key: Name, Value: Small Obducite Cache I
+Hash: A646FFA4, Key: Description, Value: Contains {c_number}15{/c} pieces of {c_legendary}Obducite{/c}.

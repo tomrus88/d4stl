@@ -1,6 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Terror
-Hash: A646FFA4, Key: Description, Value: {icon:bullet} When struck, you have a {c_random}[SF_5|1]%{/c} chance to Fear nearby enemies and Slow them by {c_number}[SF_6|1]%{/c} for {c_number}[SF_1|0]{/c} seconds.
-
-{icon:bullet} You are guaranteed to Critically Strike enemies who are Feared.
-
-{icon:bullet}Fear Chance: {c_random}[SF_7|1]%{/c} {icon:arrow} {c_random}[SF_8|1]%{/c} {icon:arrow} {c_random}[SF_9|1]%{/c}

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH]Lore Book 05
+Hash: A646FFA4, Key: Description, Value: Written by Generous Deldaro
+Hash: F5C7BC0A, Key: Flavor, Value: [PH]This is a placeholder Lorebook entry. This conversation should be duplicated and used to populate other lorebooks. Create and attach NPC Speaker. Lorebooks should be 3-4 sentences.

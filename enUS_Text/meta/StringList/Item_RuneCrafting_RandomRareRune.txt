@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Random Rare or Legendary Rune
+Hash: A646FFA4, Key: Description, Value: 
+{icon:bullet,1.2} 85% chance to grant a random Rune of Rare quality
+{icon:bullet,1.2} 15% chance to grant a random Rune of Legendary quality

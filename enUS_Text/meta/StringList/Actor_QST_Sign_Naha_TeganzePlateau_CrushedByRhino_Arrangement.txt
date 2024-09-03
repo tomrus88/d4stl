@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Dead Rhino
+Hash: CC3C0A8F, Key: FlavorText, Value: An impaled rhino crushing a knight
+Hash: F2CA04D8, Key: NoticeSignText, Value: This dead rhino was run through with a burned knights' spear. Unluckily for the knight beneath it, it appears that rhino got the last laugh.

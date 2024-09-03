@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Momentum
+Hash: C6E60718, Key: Buff2_Description, Value: Movement Speed increased by {c_number}[{SF_0}*100|%10|]{/c}.

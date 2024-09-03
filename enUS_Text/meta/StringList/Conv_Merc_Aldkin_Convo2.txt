@@ -1,0 +1,6 @@
+Hash: 5CE96CA3, Key: Line802.1602FD, Value: That’s a fierce shield you forged.
+Hash: 9359BFB0, Key: VoiceDir802.1602FD, Value: Interested
+Hash: E69D7F51, Key: Line808.189135, Value: I could teach you how to forge your own shield, little man.
+Hash: 1D0DD25E, Key: VoiceDir808.189135, Value: happy
+Hash: F8E233E2, Key: Line810.1602FD, Value: I'd rather you just give me that one.
+Hash: D18EF30C, Key: Line812.189135, Value: (chuckles)

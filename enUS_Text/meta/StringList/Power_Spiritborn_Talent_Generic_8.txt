@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Vigorous
+Hash: 003892BF, Key: desc, Value: Casting a {c_important}Core{/c} Skill increases all Vigor Generation by {c_number}[{SF_0} * 100|%x|]{/c} for {c_number}{SF_1}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Vigor Generation {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}

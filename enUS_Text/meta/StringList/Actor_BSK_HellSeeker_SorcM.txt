@@ -1,4 +1,4 @@
-Hash: 003DFCC1, Key: Name, Value: Banished Sorcerer 
+Hash: 003DFCC1, Key: Name, Value: Hellborne Sorcerer 
 Hash: CC38ADCB, Key: FlavorName, Value: Hellborne
 Hash: DA72BB62, Key: SuperElite, Value: Hellborne
 Hash: 18959B3F, Key: UIName, Value: Hellborne

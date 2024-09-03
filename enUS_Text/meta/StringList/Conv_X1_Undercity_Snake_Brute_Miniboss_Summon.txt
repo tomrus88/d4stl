@@ -1,0 +1,6 @@
+Hash: 1C0FB6F9, Key: Line7.1F3378, Value: The trap is sprung! Now, sisters!
+Hash: 6C45E2C6, Key: VoiceDir7.1F3378, Value: excited
+Hash: F49360BB, Key: Line9.1F3378, Value: Our venom will end you.
+Hash: 44C98C88, Key: VoiceDir9.1F3378, Value: smirking
+Hash: 48EC1FE4, Key: Line11.1F3378, Value: Sisters, fresh prey!
+Hash: 9FE7C551, Key: VoiceDir11.1F3378, Value: assertive, but eager

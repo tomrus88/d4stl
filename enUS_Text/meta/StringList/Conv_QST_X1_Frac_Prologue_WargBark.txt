@@ -1,0 +1,2 @@
+Hash: 9273BE11, Key: Line1.1E5465, Value: All these bodies. We’re serving the wargs a damn feast.
+Hash: E2A9E9DE, Key: VoiceDir1.1E5465, Value: grumbled to self

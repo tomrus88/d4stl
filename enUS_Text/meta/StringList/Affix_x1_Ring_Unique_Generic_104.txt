@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Thorn Pulse
+Hash: 003892BF, Key: Desc, Value: You continually pulse Thorns damage every {c_number}[Affix."Static Value 0"]{/c} seconds. The frequency increases up to {c_number}[Affix."Static Value 1"]{/c}s for {c_number}[Affix."Static Value 2"]{/c} enemies. 

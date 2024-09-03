@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: (PH) {icon:bullet,1.2} Tormentor {icon:bullet,1.2}
+{c_gray}[Centipede][Gorilla]{/c}
+Hash: 003892BF, Key: desc, Value: (PH) {icon:bullet,1.2} When you take direct damage you instead only receive {c_number}[{SF_2}*100|%|]{/c} of it in the form of Poisoning over {c_number}{SF_3}{/c} seconds.
+
+{icon:bullet,1.2} Enemies who move while Poisoned by you additionally take {c_number}[{SF_4}*100|%|]{/c} of your Thorns damage per second.

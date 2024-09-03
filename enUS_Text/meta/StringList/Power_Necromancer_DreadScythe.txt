@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Dread Scythe
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Throw a massive ethereal scythe that deals {c_number}{payload:IMPACT_DAMAGE}{/c} damage.
+
+{c_important}Desecrated Ground{/c} seeps from the scythe, dealing {c_number}{payload:DAMAGE_TOOLTIP}{/c} damage over {c_number}{SF_6}{/c} seconds.
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Dread Scythe{/c}'s impact Stuns enemies for {c_number}{buffduration:IMPACT_STUN}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Prime Dread Scythe
+Hash: 2577B2B4, Key: Mod1_Description, Value: You periodically cast {c_important}Sever{/c} or {c_important}Blight{/c} at a random Nearby enemy during {c_important}Dread Scythe's{/c} duration, dealing {c_number}[SF_15 * 100|%|]{/c} of normal damage.
+Hash: 948901D1, Key: Mod1_Name, Value: Supreme Dread Scythe
+Hash: 74D6BC35, Key: Mod2_Description, Value: You periodically cast a random equipped {c_important}Corpse{/c} Skill on a Corpse in {c_important}Dread Scythe's{/c} area during its duration, dealing {c_number}[SF_14 * 100|%|]{/c} of normal damage.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Cadaverous Dread Scythe
+Hash: C435C5B6, Key: Mod3_Description, Value: Enemies killed in {c_important}Dread Scythe's{/c} area have a {c_number}[SF_13 * 100|%|]{/c} chance to leave behind a {c_important}{u}Blood Orb{/u}{/c}.
+Hash: 99335313, Key: Mod3_Name, Value: Exsanguinating Dread Scythe

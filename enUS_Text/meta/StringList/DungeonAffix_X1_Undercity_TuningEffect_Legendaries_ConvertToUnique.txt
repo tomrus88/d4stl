@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Unique Conversion
+Hash: EEB7912D, Key: AffixDesc, Value: 20% of Legendary equipment rewards are instead converted to Uniques.

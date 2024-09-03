@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Casting a {c_important}Gorilla{/c} Skill deals {c_number}[SF_3 * 100|%|]{/c} Thorns to enemies you hit and grants a {c_important}{u}Barrier{/u}{/c} for {c_number}[SF_0 * 100|%|]{/c} of Maximum Life {c_number}([PlayerHealthMax() * SF_0]){/c}, up to {c_number}[SF_0 * SF_4 * 100|%|]{/c}, for {c_number}[SF_1]{/c} seconds.
+
+All Skills are now also {c_important}Gorilla{/c} Skills.

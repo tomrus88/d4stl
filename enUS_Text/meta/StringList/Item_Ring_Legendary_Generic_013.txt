@@ -1,1 +1,2 @@
-Hash: 003DFCC1, Key: Name, Value: Ring
+Hash: A646FFA4, Key: Description, Value: Champions who earn the favor of Ormus are rewarded with only the most impressive of items, the Garb of Baleful Intent. Revel in your triumph!
+Hash: 003DFCC1, Key: Name, Value: Loop of Baleful Intent

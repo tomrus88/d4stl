@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nyamoyo's Rift
+Hash: 003892BF, Key: Desc, Value: The path to the sacred dominion of Nyamoyo.

@@ -3,4 +3,4 @@ Hash: 0871A46B, Key: Toast, Value: Carry a father's dying wish to his daughter.
 Hash: D53BFF05, Key: Phase0Description, Value: I found a dead miner in Qara Yisu.  His letter indicates he was keeping something for his daughter.  I should find it and take it to her.
 Hash: B98DBD5C, Key: Callback15Header, Value: Search for 'Little Tuya'
 Hash: B12EDDB8, Key: Phase21Description, Value: The miner was keeping his daughter's old doll safe.  I should deliver it to her in Alzuuda along with news of her father's fate.
-Hash: 24EC6278, Key: Callback20Header, Value: Bring the doll to Tuya
+Hash: 24EC6278, Key: Callback20Header, Value: Bring the {ITEM:QST_Step_BloodAndSweat_doll_item} to Tuya

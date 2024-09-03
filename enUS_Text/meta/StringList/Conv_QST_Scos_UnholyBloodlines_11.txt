@@ -5,3 +5,4 @@ Hash: 28AC56FF, Key: Line3.101CF8.Bar, Value: I will stay here and help them lea
 Hash: 28AC8A80, Key: Line3.101CF8.Nec, Value: I will stay here and help them learn to live with it. I owe them that. Thank you for your help, wanderer.
 Hash: 28AC9CD2, Key: Line3.101CF8.Rog, Value: I will stay here and help them learn to live with it. I owe them that. Thank you for your help, wanderer.
 Hash: 28ACA11E, Key: Line3.101CF8.Sor, Value: I will stay here and help them learn to live with it. I owe them that. Thank you for your help, wanderer.
+Hash: 28ACA136, Key: Line3.101CF8.Spi, Value: I will stay here and help them learn to live with it. I owe them that. Thank you for your help, wanderer.

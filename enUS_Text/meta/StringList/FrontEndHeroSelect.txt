@@ -25,3 +25,37 @@ Hash: 3AA16672, Key: CharacterNamerFlaggedAcknowledgeController, Value: {icon:bu
 Hash: E1A31351, Key: Season_Header, Value: Season {s1}
 Hash: B0037AC4, Key: Season_Start_Time, Value: [PH] Begins: {c_highlight}{s1}
 Hash: CD68F0ED, Key: Season_End_Time, Value: [PH] Ends: {c_highlight}{s1}
+Hash: F7543F02, Key: ClassInfo, Value: Class Info
+Hash: 1B5D1FC4, Key: ConfirmClass, Value: Confirm Class
+Hash: 21006927, Key: ConfirmClass_Controller, Value: {icon:button4, 2.0} Confirm Class
+Hash: 8AB963AA, Key: Back_KBM, Value: Back
+Hash: EFAB2787, Key: Playstyle, Value: Playstyle
+Hash: 0F3FFB87, Key: Divider, Value: |
+Hash: 8B52C609, Key: CharacterDetailsClass, Value: {s1}
+Hash: 2A683125, Key: CharacterLevel, Value: Level {s1}
+Hash: CF72087D, Key: ChangeDifficultyController, Value: {icon:button4, 2.0} Change Difficulty
+Hash: 633B0F7B, Key: SkipCampaignController, Value: {icon:l2, 2.0} Skip Campaign
+Hash: 65AE9F79, Key: CharacterOptions, Value: Character Options
+Hash: F0A47FB3, Key: Delete, Value: Delete
+Hash: 8479BD12, Key: Gamescon_Header_Eagle, Value: Eagle Spiritborn
+Hash: 6C6CDD45, Key: Gamescon_Header_Centipede, Value: Centipede Spiritborn
+Hash: 1F5B50AE, Key: Gamescon_Header_Jaguar, Value: Jaguar Spiritborn
+Hash: 453F905E, Key: Gamescon_Header_Gorilla, Value: Gorilla Spiritborn
+Hash: 42CCD34A, Key: Gamescon_Body_Centipede, Value: Focuses on poison damage and debuffs to drain the life from their foes. 
+Hash: 880D7897, Key: Gamescon_Body_Eagle, Value: A highly agile masters of mobility. They are precise strikers who are highly evasive and control the element of lightning. 
+Hash: 7CB04123, Key: Gamescon_Body_Gorilla, Value: A defensive fighter focusing on resilience and mitigation. They are masters of physical damage aligned with the earth element. 
+Hash: 95667CD3, Key: Gamescon_Body_Jaguar, Value: Adopts an aggressive fighting style that relies on flashy multi hit attacks and movement speed. They utilize fire as their primary element.  
+Hash: 4BA58D60, Key: RealmModalTitle, Value: Don't miss out on the latest experience
+Hash: B91C2B8A, Key: RealmModalSubtitle, Value: You are about to enter Eternal Realm and miss out latest experience
+Hash: F6FDB11E, Key: EternalRealmTitle, Value: Eternal Realm
+Hash: CDC5C7D7, Key: EternalRealmPoint1, Value: No Access to New Seasonal Content
+Hash: CDC5C7D8, Key: EternalRealmPoint2, Value: Offers the Default Gameplay Experience
+Hash: 3F2489E9, Key: SeasonalRealmTitle, Value: Seasonal Realm
+Hash: 6E54C773, Key: SeasonalRealmSubtitle, Value: To enjoy the latest experience, play with a seasonal character
+Hash: 1AC7BA02, Key: SeasonalRealmPoint1, Value: New Questline, Seasonal Companion, Seasonal Dungeons & New Boss Battle
+Hash: 0B5E4B6D, Key: SeasonItemsTitle, Value: Season {s1} Items
+Hash: AD904358, Key: EternalRealmButton, Value: Proceed to Eternal Realm
+Hash: E050EB33, Key: CreateSeasonalCharacterButton, Value: Create A Seasonal Character
+Hash: 3E245104, Key: SeasonalRealmDiscliamer, Value: Seasonal characters are moved to the Eternal Realm when the season ends
+Hash: 0D72E343, Key: ParagonLevel_Under60, Value: {c_paragon}({s1})
+Hash: 76DBD8E1, Key: ParagonLevel_Over60, Value: {c_paragon}Paragon {s1}

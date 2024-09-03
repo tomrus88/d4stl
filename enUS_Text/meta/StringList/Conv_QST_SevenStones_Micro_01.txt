@@ -1,0 +1,4 @@
+Hash: 922AE21F, Key: Line1.1A47B9, Value: I don't care, I need to go after him!
+Hash: 2F740535, Key: Line6.1A4793, Value: It's a stupid egg. Not to mention how furious Mother and Father will be if they find out I didn’t stop you.
+Hash: 07F7B446, Key: Line8.1A47B9, Value: It's not a stupid egg... This is important to me...
+Hash: 582DE013, Key: VoiceDir8.1A47B9, Value: "This is important to me" is mumbled and to himself. Disappointment and lack of being understood.

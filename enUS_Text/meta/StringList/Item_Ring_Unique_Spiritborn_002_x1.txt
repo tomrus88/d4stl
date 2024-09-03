@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ring of Writhing Moon
+Hash: F5C7BC0A, Key: Flavor, Value: "Within this corpse-bound carapace we writhe. Chaotic winds converge to churn your bones. Our beat and breath a ceaseless war to break. The wretched cyclone black beyond the bounds." - Balazan's Dream

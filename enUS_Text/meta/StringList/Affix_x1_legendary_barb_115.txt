@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Flaming Rampage
+Hash: 003892BF, Key: Desc, Value: {c_important}Charge{/c} gains an additional Charge. Each target hit by it explodes for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Fire damage to surrounding enemies. 

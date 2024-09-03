@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: (PH) {icon:bullet,1.2} Reaper {icon:bullet,1.2}
+{c_gray}[Eagle][Centipede]{/c}
+Hash: 003892BF, Key: desc, Value: (PH) {icon:bullet,1.2} Critical Strikes cause enemies to burst {c_number}[{SF_3}*100|%|]{/c} of the Poisoning on them as Poison damage to those around them.
+
+{icon:bullet,1.2} Your {c_important}Eagle{/c} Skills affect {c_number}[{SF_4}*100|%|]{/c} larger areas.

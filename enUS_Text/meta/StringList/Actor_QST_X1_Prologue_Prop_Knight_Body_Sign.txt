@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Skewered Knight Penitent
+Hash: F2CA04D8, Key: NoticeSignText, Value: Impaled on what appears to be his own weapon. "Heretic" is smeared in blood on the front of the armor.

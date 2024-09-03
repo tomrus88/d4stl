@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Transcendence
+Hash: 003892BF, Key: desc, Value: (PH) Your Maximum Allegiance is increased by {c_number}[{SF_0}*100|x%|]{/c} and all Allegiance Generation is increased by {c_number}[{SF_1}*100|x%|]{/c}.
+Hash: D618A933, Key: Mod0_Description, Value: (PH) While {c_important}Invoke{/c} is active, your Maximum Allegiance is increased by {c_number}[{SF_2}*100|%x|]{/c}.  {c_number}[{SF_3}*100|%|]{/c} of incoming damage is nullified at the cost of  {c_number}{SF_4}{/c} Allegiance.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Harmonious Transcendence
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) Allegiance decays twice as slowly while {c_important}Invoke{/c} is active and can be used to cast any {c_important}Mobility{/c}, {c_important}Control{/c}, {c_important}Defensive{/c}, or {c_important}Potency{/c} Skill at the cost of {c_number}{SF_5}{/c} Allegiance.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Exalted Transcendence

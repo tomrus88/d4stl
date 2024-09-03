@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Restore an Evade charge and gain {c_number}6%{/c} Movement Speed for {c_number}5{/c} seconds, up to {c_number}[6*5]%{/c}.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Wind Walk
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Increased Duration
+Hash: 003DFCC1, Key: Name, Value: Qua

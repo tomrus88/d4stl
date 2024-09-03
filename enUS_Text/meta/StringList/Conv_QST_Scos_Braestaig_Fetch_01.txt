@@ -7,6 +7,8 @@ Hash: 99BCF12E, Key: Line1.53D3D.Nec, Value: Aye! A thief named Darcel snuck in 
 Hash: 9E37A5DB, Key: VoiceDir1.53D3D.Nec, Value: Merryn is suspicious and hesitent to non-Druid players. 
 Hash: 99BD0380, Key: Line1.53D3D.Rog, Value: Aye! A thief named Darcel snuck in with the knights posing as muscle. Took something of mine.
 Hash: 9E37B82D, Key: VoiceDir1.53D3D.Rog, Value: Merryn is suspicious and hesitent to non-Druid players. 
+Hash: 99BD07E4, Key: Line1.53D3D.Spi, Value: Aye! A thief named Darcel snuck in with the knights posing as muscle. Took something of mine.
+Hash: 9E37BC91, Key: VoiceDir1.53D3D.Spi, Value: Merryn is suspicious and hesitent to non-Druid players. 
 Hash: 99BD07CC, Key: Line1.53D3D.Sor, Value: Aye! A thief named Darcel snuck in with the knights posing as muscle. Took something of mine.
 Hash: 9E37BC79, Key: VoiceDir1.53D3D.Sor, Value: Merryn is suspicious and hesitent to non-Druid players. 
 Hash: 08F28EFD, Key: Line13.53D3D, Value: A bairn was born healthy a fortnight ago, praise the Glór-an-Fháidha, but the mother is weak. Darcel stole the runic charm I placed to heal her.

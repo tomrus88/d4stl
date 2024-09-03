@@ -1,0 +1,2 @@
+Hash: F9879B3C, Key: Line5.BAE4.Spi.M, Value: It’s not meant for me.
+Hash: 8C61B35F, Key: Line8.BAE4.Spi.M, Value: Can’t equip that.

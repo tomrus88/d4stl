@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value:  Necromancer's Writings
+Hash: CC3C0A8F, Key: FlavorText, Value: Hurried notes in the margins of a prayerbook

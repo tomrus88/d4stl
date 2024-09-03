@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Realm Gate
+Hash: 7BFE534B, Key: simple_instruction, Value: Use the {c_highlight}Realm Gate{/c} to choose your path forward. Your choice determines the rewards, including the type of {c_highlight}Seething Opals{/c} dropped at the end.

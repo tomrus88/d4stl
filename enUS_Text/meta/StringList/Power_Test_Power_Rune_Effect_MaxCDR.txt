@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Eom
+Hash: C6E60718, Key: Buff2_Description, Value: Your Skill Cooldowns are reduced by {c_number}SF_0{/c}.

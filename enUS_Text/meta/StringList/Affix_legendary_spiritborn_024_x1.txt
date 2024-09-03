@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: of Fleet Wings
+Hash: 003892BF, Key: Desc, Value: {c_important}Razor Wings{/c} is now also an {c_important}Incarnate{/c} Skill with:
+{c_label}Passive:{/c} You are {c_important}{u}Unhindered{/u}{/c}.
+
+{c_label}Active:{/c} You gain {c_random}[Affix_Value_1*100|%+|]{/c} increased Movement Speed per active {c_important}Razor Wing{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Razor Wings{/c} is now also an {c_important}Incarnate{/c} Skill with:
+{c_label}Passive:{/c} You are {c_important}{u}Unhindered{/u}{/c}.
+
+{c_label}Active:{/c} You gain {c_random}[Affix_Value_1*100|%+|]{/c} increased Movement Speed per active {c_important}Razor Wing{/c}.

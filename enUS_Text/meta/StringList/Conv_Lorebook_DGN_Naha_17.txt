@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Knight's Journal
+Hash: 923DBE8C, Key: Line1.1B4ED5, Value: The way is blocked, and we have found no way to open it.
+Hash: 6AC1684E, Key: Line3.1B4ED5, Value: Some of the other Knights are whispering that only human sacrifice can unbar the passage. But who among us would be the sacrifice?
+Hash: 43451210, Key: Line5.1B4ED5, Value: Is it... me?

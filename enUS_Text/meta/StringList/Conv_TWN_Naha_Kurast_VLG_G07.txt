@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem confused."
+Hash: 9268B997, Key: Line1.1CC153, Value: The door was here yesterday. Or was it a pillar? Damn. I swear, the walls never seem to stay the same.
+Hash: E29EE564, Key: VoiceDir1.1CC153, Value: Confused. Convinced the layout of the city changes. Not crazy. He is sincerely trying to figure this out. Voice is mumbling.

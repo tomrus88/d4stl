@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Necrotic Fortitude
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}[SF_0 * 100|%|]{/c} chance to grant yourself a {c_important}{u}Barrier{/u}{/c} for {c_number}[{SF_1}*100|%|]{/c} of your Maximum Life {c_number}({shield:BUFF_SHIELD}){/c} for {c_number}{buffduration:BUFF_SHIELD}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Barrier Chance {icon:arrow,1.2} {c_number}[SF_0 * 100|%|]{/c}

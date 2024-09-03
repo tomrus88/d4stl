@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Your Maximum Vigor is increased by {c_number}[Affix."Static Value 0" * 100|%|]{/c} and every kill grants you {c_random}[Affix_Value_1]{/c} Vigor. 
+
+While you have any {c_important}{u}Ferocity{/u}{/c} your Poisonings deal their damage in {c_number}[(1-(1/(1+Affix."Static Value 1"))) * 100|%|]{/c} of the normal duration. 

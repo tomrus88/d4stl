@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Greasy Key
-Hash: A646FFA4, Key: Description, Value: Bound to Forsaken Quarry
 Hash: F5C7BC0A, Key: Flavor, Value: Something was unearthed in the deepest parts of the quarry, and was quickly locked away.
+Hash: A646FFA4, Key: Description, Value: Bound to Forsaken Quarry

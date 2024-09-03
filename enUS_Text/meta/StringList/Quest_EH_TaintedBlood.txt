@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Rite
+Hash: 6FE7E8D7, Key: Callback287Header, Value: Stop the Blood Rite
+Hash: 2840CAB4, Key: Callback293Header, Value: Slay the Simulacrums {DONE_OVER_NEEDED}
+Hash: E46459D8, Key: Callback387Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: 8CFBF00C, Key: Callback321Header, Value: Enter {EVENT_LEVELAREA}
+Hash: 6C9917F6, Key: Callback358Header, Value: {TIMELEFT} remaining

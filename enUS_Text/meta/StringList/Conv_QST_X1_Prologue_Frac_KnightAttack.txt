@@ -1,0 +1,2 @@
+Hash: 9273B50E, Key: Line1.1E5228, Value: There’s the heretic!
+Hash: E2A9E0DB, Key: VoiceDir1.1E5228, Value: yelled running into battle

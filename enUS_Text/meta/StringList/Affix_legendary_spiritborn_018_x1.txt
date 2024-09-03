@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Insatiable
+Hash: 003892BF, Key: Desc, Value: Kills extend the duration of your active {c_important}Touch of Death{/c} swarms by {c_number}[Affix."Static Value 0"|1|]{/c} seconds. When a swarm is replaced early it bursts for {c_random}[Affix_Value_1*100|%|]{/c} of the damage it would have done.
+Hash: 82B7D312, Key: CodexDesc, Value: Kills extend the duration of your active {c_important}Touch of Death{/c} swarms by {c_number}[Affix."Static Value 0"|1|]{/c} seconds. When a swarm is replaced early it bursts for {c_random}[Affix_Value_1*100|%|]{/c} of the damage it would have done.

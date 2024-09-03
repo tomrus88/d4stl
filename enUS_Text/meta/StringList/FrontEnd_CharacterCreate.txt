@@ -34,8 +34,8 @@ Hash: 71B204F7, Key: Overlay_Warning, Value: Warning
 Hash: 219C602F, Key: Overlay_Body, Value: Changes have been made to a character preset. Leaving customization will reset any changes made.
 Hash: E97BE4F0, Key: Accept, Value: Accept
 Hash: BDC485F7, Key: AccessoriesMakeup, Value: Makeup
-Hash: E88405F7, Key: SkipCampaign, Value: {icon:FrontEnd_Campaign, 1.8} Skip Campaign
-Hash: 60E9F39A, Key: SkipCampaignExplanation, Value: Head straight into the open world. This is a permanent choice for this character.
+Hash: E88405F7, Key: SkipCampaign, Value: {icon:FrontEnd_Campaign, 1.8} Skip Base Campaign
+Hash: 60E9F39A, Key: SkipCampaignExplanation, Value: Skips the original game's campaign and starts you at the beginning of Vessel of Hatred.
 Hash: 17D085AC, Key: HairStyleTab, Value: Style
 Hash: 35BC7315, Key: HairBrowFacialTab, Value: Brow
 Hash: 6A897A26, Key: AccessoriesMarkings_Tab, Value: Markings
@@ -121,3 +121,49 @@ Hash: EFE73042, Key: ContinueToGame, Value: Continue to game
 Hash: 6B4D5969, Key: ViewEventInfo, Value: {icon:l3, 2} Event Info
 Hash: 3F922CE3, Key: StashMigrationWarning, Value: {icon:FrontEnd_StashMigration_Icon, 2} Seasonally migrated items in your Stash will expire in {c_highlight}{s1} days{/c}. Enter the {c_highlight}Eternal Realm{/c} to retrieve them.
 Hash: 2FCD921D, Key: StashMigrationWarning_NoDate, Value: {icon:FrontEnd_StashMigration_Icon, 2} Seasonally migrated items in your Stash will expire soon. Enter the {c_highlight}Eternal Realm{/c} to retrieve them.
+Hash: 03FDE1F2, Key: Locked, Value: Locked
+Hash: 2CE8857D, Key: Spiritborn_Locked, Value: The {c_highlight}Spiritborn class{/c} is only available in {c_highlight}Vessel of Hatred{/c}.
+Hash: 14138BA7, Key: Explore_X1, Value: Explore Vessel of Hatred
+Hash: DCA701E8, Key: Explore_X1_Prompt, Value: {icon:button4, 2.0} Explore Vessel of Hatred
+Hash: 0C86FE54, Key: Undo_Character_Delete, Value: Undo Character Delete
+Hash: 6F030FF5, Key: Undo_Character_Delete_Prompt, Value: {icon:button3, 2.0} Undo Character Delete
+Hash: 21006927, Key: ConfirmClass_Controller, Value: {icon:button1, 2.0} Confirm Class
+Hash: 1B5D1FC4, Key: ConfirmClass, Value: Confirm Class
+Hash: F6637860, Key: SkipX1Campaign, Value: Skip Expansion 1 Campaign
+Hash: 41C033CC, Key: SkipCampaignX1Explaination, Value: Skip both the base and expansion 1 campaign. Head straight into the open world. This is a permanent choice for this character.
+Hash: 7E0EAEDE, Key: CampaignStartAtBase, Value: Start with the original campaign
+Hash: 5272DC1B, Key: CampaignStartAfterBase, Value: Start with the original campaign completed
+Hash: B0A31C33, Key: CampaignStartWithX1, Value: Start with the Vessel of Hatred campaign
+Hash: 20843AC9, Key: CampaignStartAfterX1, Value: Start with Vessel of Hatred campaign completed
+Hash: E9CB42E7, Key: ChangeCampaignState, Value: Change Campaign State
+Hash: 7630CC63, Key: SelectCampaignStatePrompt, Value: Select where you want to start the game:
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 72CEDE1F, Key: SelectStartingDifficulty, Value: Select Starting Difficulty
+Hash: A2D72A0B, Key: SelectStartingDifficultySubtitle, Value: This may be changed at any time from the Character Selection Screen or the Difficulty Level Statue in Kyovashad.
+Hash: 154E971C, Key: DifficultyNormal, Value: Normal
+Hash: 9674AC92, Key: DifficultyHard, Value: Hard
+Hash: 00F1CD6B, Key: DifficultyExpert, Value: Expert
+Hash: 444ED803, Key: Recommended, Value: Recommended
+Hash: CC44F92B, Key: SelectAndEnterSanctuary, Value: Select And Enter Sanctuary
+Hash: 9B6334DF, Key: CampaignStartAfterBaseDescription, Value: Start with original campaign completed
+Hash: 7E874ACD, Key: CampaignStartAfterX1Description, Value: Start with latest campaign completed
+Hash: 5C17E7C2, Key: CampaignStartAtBaseDescription, Value: Start with the beginning of the original campaign
+Hash: 29BC35F7, Key: CampaignStartWithX1Description, Value: Skip original campaign; start with latest campaign
+Hash: 8EBEE6DC, Key: CampaignContinueWithBase, Value: Continue with the original campaign
+Hash: 794E6500, Key: CampaignContinueWithBaseDescription, Value: Carry on the original campaign
+Hash: 48F6F999, Key: CampaignContineWithX1Description, Value: Carry on with the latest campaign
+Hash: CC71F115, Key: CampaignContineWithX1, Value: Continue with latest campaign
+Hash: A543E9E2, Key: ChooseCampaignState, Value: Choose the campaign state
+Hash: 36CEF0C3, Key: SeasonalCharacter, Value: Seasonal Character
+Hash: 689D11CD, Key: SeasonalTooltipSubtitle, Value: Season of Hatred
+Hash: 66ECC66E, Key: SeasonTooltipBullet2, Value: Slay Realmwalkers to access Hell Portals
+Hash: F4379530, Key: RecommendSeasonal, Value: Creating a seasonal character is recommended
+Hash: 4CF58955, Key: HardcoreCharacter, Value: Hardcore Character
+Hash: 2DB5C02C, Key: HardcoreTooltipBullet1, Value: Hardcore characters die permanently
+Hash: 2DB5C02D, Key: HardcoreTooltipBullet2, Value: You can’t rebirth dead hardcore characters
+Hash: 66ECC66D, Key: SeasonToolTipBullet1, Value: Encounter creatures twisted by the ichor of Mephisto's hatred
+Hash: 66ECC66F, Key: SeasonTooltipBullet3, Value: Delve into Hell Portals for powerful buffs
+Hash: CDBAD85E, Key: SeasonTooltipFlavor, Value: Hatred seeps from the jungles of Nahantu as the mysterious Realmwalkers spread Mephisto's influence across Sanctuary.
+Hash: 827CF078, Key: SeasonTooltipDescription, Value: Select seasonal character to access Season 6 content: 
+Hash: B159F9DB, Key: SeasonalWithIcon, Value: {icon:FrontEnd_Gameplay_Seasonal, 1.8} Seasonal
+Hash: 42175ECD, Key: Hardcore_NoIcon, Value: Hardcore

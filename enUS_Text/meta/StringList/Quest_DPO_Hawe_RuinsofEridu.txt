@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: The worms feast on the corpse of an empire.
+Hash: B98DBD5C, Key: Callback15Header, Value: Slay the Banes of Eridu: {LEFT}
 Hash: 1EADAE68, Key: Callback2Header, Value: Defeat the {MONSTER}
 Hash: 38AA8D97, Key: Callback10Header, Value: Travel to the {LEVELAREA}
-Hash: B98DBD5C, Key: Callback15Header, Value: Slay the Banes of Eridu: {LEFT}
 Hash: 538236DE, Key: Callback17Header, Value: Slay all enemies in the Rotting Halls {KAM_REVEALED_COUNT}
 Hash: 24EC6278, Key: Callback20Header, Value: Travel to the {LEVELAREA}

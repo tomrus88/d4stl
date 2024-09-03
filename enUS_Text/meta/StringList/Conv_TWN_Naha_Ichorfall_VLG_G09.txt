@@ -1,0 +1,6 @@
+Hash: 92517AE6, Key: Line1.1C7F95, Value: My ama would often tell the tale of our ancestors, who helped take down the giants when they walked this land.
+Hash: E287A6B3, Key: VoiceDir1.1C7F95, Value: Serious with an undertone of playful and fondness.
+Hash: 6AD524A9, Key: Line3.1C7F96, Value: Sounds like just that, a tale.
+Hash: BB0B5076, Key: VoiceDir3.1C7F96, Value: Matter of fact. Not convinced.
+Hash: 4358CE6A, Key: Line5.1C7F95, Value: I believed him.
+Hash: 938EFA37, Key: VoiceDir5.1C7F95, Value: (Shrugging)

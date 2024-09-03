@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Generate {c_random}[Affix_Value_1]{/c} Vigor each time you deal Thorns damage.
+
+Gain {c_important}Toxic Skin's{/c} Passive Effect.

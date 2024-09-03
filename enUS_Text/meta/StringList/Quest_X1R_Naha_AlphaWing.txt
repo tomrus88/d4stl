@@ -1,0 +1,14 @@
+Hash: 24EC6278, Key: Callback20Header, Value: Find a way past the barriers
+Hash: 8CBE4880, Key: Callback28Header, Value: Find the {icon:Marker_GizmoTeleporter,1.8} Gateway
+Hash: E6570D8F, Key: Callback108Header, Value: Traverse the Realm of Oblivion to the depths of the Enclave of Strife
+Hash: F816C8F3, Key: Callback139Header, Value: Protect yourself from Death using the {icon:Marker_GizmoGrounding,1.8} Soul Dampeners
+Hash: 3158FF3E, Key: Callback44Header, Value: Find the {LEVELAREA}
+Hash: A9244120, Key: Callback73Header, Value: Find the {LEVELAREA}
+Hash: 7701ADA6, Key: Callback79Header, Value: Find the {LEVELAREA}
+Hash: 7E852787, Key: Callback100Header, Value: Find the Trial of Reflection
+Hash: 51B5B2AB, Key: Callback113Header, Value: Deposit Realm Shards to charge the {icon:Marker_GizmoTeleporter,1.8} Gateway:
+Hash: F0FD4ACB, Key: Callback122Header, Value: Collect Realm Shards from Realm Guardians
+Hash: 434AA62A, Key: Callback130Header, Value: Enter the Gateway
+Hash: 63756E0F, Key: Callback144Header, Value: Deposit Realm Shards to charge the {icon:Marker_GizmoTeleporter,1.8} Gateway:
+Hash: C980F48D, Key: Callback142Header, Value: Collect Realm Shards from Realm Guardians
+Hash: 4A642452, Key: Callback147Header, Value: Enter the Gateway

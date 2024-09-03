@@ -1,0 +1,2 @@
+Hash: C7866972, Key: ServiceName, Value: Weapons
+Hash: 5957DF75, Key: InteractionMenuLabel, Value: Trade

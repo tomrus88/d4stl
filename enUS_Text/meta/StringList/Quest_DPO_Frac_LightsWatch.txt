@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: Nothing outruns decay.
 Hash: FD700C3A, Key: Callback40Header, Value: Slay the Watchmen: {LEFT}
 Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat {MONSTER}
-Hash: D9B88541, Key: Callback29Header, Value: Use the Watchman's Key to open the {GIZMO}
+Hash: D9B88541, Key: Callback29Header, Value: Use the {ITEM:DGN_Frac_LightsWatch_Key} to open the {GIZMO}
 Hash: 976485BC, Key: Callback42Header, Value: Travel to the {LEVELAREA}
 Hash: 6541F242, Key: Callback48Header, Value: Slay the Watchman Lead Sou and collect the {ITEM}

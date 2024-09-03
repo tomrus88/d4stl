@@ -1,2 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Potent Iron Barb Elixir
-Hash: A646FFA4, Key: Description, Value: This Elixir has no power left. Using it will drop materials for crafting a new elixir.
+Hash: A646FFA4, Key: Description, Value: This elixir has no power left. Using it will drop herbs for crafting a new elixir.
+Hash: F5C7BC0A, Key: Flavor, Value: You may only have one Elixir active at a time.

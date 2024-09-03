@@ -1,3 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Gold Well Spent
 Hash: B8A227EA, Key: Callback4Header, Value: Speak with Luskas 
 Hash: A07C739F, Key: Callback18Header, Value: Slay Luskas
-Hash: 003DFCC1, Key: Name, Value: Gold Well Spent

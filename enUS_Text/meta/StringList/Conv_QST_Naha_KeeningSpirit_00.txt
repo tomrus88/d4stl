@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened with the spirit?"
+Hash: 923F2CD2, Key: Line1.1B87FC, Value: Something horrible must’ve happened after she connected with the spirit, which caused the ritual to be severed improperly. The spirit must be suffering deeply, and she can feel all of it.
+Hash: E275589F, Key: VoiceDir1.1B87FC, Value: Explaining, giving context.
+Hash: 43468056, Key: Line5.1B87FC, Value: Unfortunately, the best I can do is ease the pain and suffering of her physical body. The spiritual pain I can sadly do nothing for.
+Hash: 937CAC23, Key: VoiceDir5.1B87FC, Value: Despairing, but still trying to help.

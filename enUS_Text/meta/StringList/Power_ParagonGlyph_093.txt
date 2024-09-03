@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Skills that Critically Strike generate {c_number}[{SF_0}]{/c} Vigor.

@@ -64,8 +64,8 @@ Hash: 0EEC1EF4, Key: ItemUse_NotInADungeon, Value: That item can only be used in
 Hash: 288F5C99, Key: PowerNotEnoughDruidCharges, Value: Not enough Wrath to use that Skill.
 Hash: 8EE6DE82, Key: IAR_PlayerIsWrongClassToSocketItem, Value: That item cannot be socketed by your Class.
 Hash: 4FA56781, Key: IAR_PlayerDoesntMeetSocketLevel, Value: You do not meet the required Level to socket that item.
-Hash: 8DE65C8F, Key: ItemSocketMaxEquippedConditionRunes, Value: You cannot equip more than 2 Condition Runes.
-Hash: 79E67995, Key: ItemSocketMaxEquippedEffectRunes, Value: You cannot equip more than 2 Effect Runes.
+Hash: 8DE65C8F, Key: ItemSocketMaxEquippedConditionRunes, Value: You cannot equip more than {s1} Runes of Ritual.
+Hash: 79E67995, Key: ItemSocketMaxEquippedEffectRunes, Value: You cannot equip more than {s1} Runes of Invocation.
 Hash: B0BED6B8, Key: IAR_ItemNotSocketable, Value: You cannot socket into that item.
 Hash: D6F2F62B, Key: IAR_CantSocketIntoUnidentifiedItem, Value: You cannot socket into an unidentified item.
 Hash: 1303B711, Key: ItemSocketRuneAlreadyEquipped, Value: You cannot equip more than one of this Rune.
@@ -83,10 +83,10 @@ Hash: 8AD5C840, Key: EventRewardNotAllowed, Value: That reward does not belong t
 Hash: BF687F8E, Key: PowerNotEnoughEnergy, Value: Not enough Energy to use that Skill.
 Hash: 5ECB5851, Key: PowerNotEnoughComboPoints, Value: That Skill requires Combo Points to use.
 Hash: 87EEF8C6, Key: PowerOutOfPotions, Value: You are out of Healing Potions.
-Hash: D38ED90D, Key: ItemSocketConditionRuneAlreadySocketed, Value: You cannot socket multiple Condition Runes on the same item.
-Hash: C4F995B3, Key: ItemSocketEffectRuneAlreadySocketed, Value: You cannot socket multiple Effect Runes on the same item.
-Hash: 7ED3FD52, Key: ItemSocketConditionRuneNotAllowed, Value: This is a Condition Rune. Condition Runes must be socketed above Effect Runes.
-Hash: 9AA6BA38, Key: ItemSocketEffectRuneNotAllowed, Value: This is an Effect Rune. Effect Runes must be socketed below Condition Runes.
+Hash: D38ED90D, Key: ItemSocketConditionRuneAlreadySocketed, Value: You cannot socket multiple Runes of Ritual on the same item.
+Hash: C4F995B3, Key: ItemSocketEffectRuneAlreadySocketed, Value: You cannot socket multiple Runes of Invocation on the same item.
+Hash: 7ED3FD52, Key: ItemSocketConditionRuneNotAllowed, Value: This is a Rune of Ritual. Runes of Ritual must be socketed above Runes of Invocation.
+Hash: 9AA6BA38, Key: ItemSocketEffectRuneNotAllowed, Value: This is a Rune of Invocation. Runes of Invocation must be socketed below Runes of Ritual.
 Hash: 37765B35, Key: CannotExtractAffixFromEssenceItem, Value: That item cannot have Aspects extracted from it.
 Hash: 966F226F, Key: CannotExtractAffixFromItem, Value: That item cannot have Aspects extracted from it.
 Hash: 08AD00E0, Key: CannotImprintAffixOnItem, Value: That item cannot have Aspects imprinted on it.
@@ -265,3 +265,29 @@ Hash: C80D4A7D, Key: Temper_CannotRerollCategory, Value: This item cannot reroll
 Hash: 039353E4, Key: Masterwork_InvalidItem, Value: You cannot Masterwork this item.
 Hash: DC5C7E3F, Key: BSK_WaveCountTooLow, Value: Clear more waves to unlock this chest.
 Hash: 1C2156B5, Key: StashNotAvailable, Value: Stash is currently not available
+Hash: B2876561, Key: LockedChest_DungeonKey, Value: You need the Dungeon Key to open this chest.
+Hash: 3D4B5B4B, Key: PowerNotEnoughVigor, Value: Not enough Vigor to use that Skill.
+Hash: CAA3B629, Key: PowerNotEnoughAllegiance, Value: Not enough Allegiance to use that Skill.
+Hash: 22E21443, Key: PlayerNotAllowedInSubzone, Value: You are not allowed to travel here.
+Hash: 1BAAE016, Key: InvalidItem, Value: Item Invalid
+Hash: 1E8D2769, Key: LockedChest, Value: You need a key to open this chest.
+Hash: C1B60EFA, Key: PartyBuffReceptacleEmpty, Value: [PH] The party buff receptacle has no juice in it.
+Hash: ED8EFF73, Key: LocalCoopNotSupported, Value: This content does not support local co-op.
+Hash: 85FDDB2E, Key: EXP1_RaidBelowMinimumWorldTier, Value: The Dark Citadel is only available in Torment difficulties.
+Hash: ABA25CCE, Key: SocialWheelToggleWorldMarkerNotAvailable, Value: Markers can only be used within the Dark Citadel.
+Hash: 80B22544, Key: ResetTemperReroll_AlreadyReset, Value: Scroll of Restoration has already been used on this item.
+Hash: EDBFD086, Key: ResetTemperReroll_GenericError, Value: Scroll of Restoration cannot be used on this item.
+Hash: B4252E36, Key: EXP1_MercCannotHireInParty, Value: You can not hire a mercenary while teamed up with other players
+Hash: FD0CF9CA, Key: EntirePartyMustBePresent_EntitlementMissing, Value: Your entire party must be present and alive to do this. Party members who do not have access to your location will be removed from the party.
+Hash: 2DD677AB, Key: BlockedSubzone_X1Entitlement, Value: Access to this location requires the Vessel of Hatred expansion. If you don't turn back, you will be teleported away.
+Hash: 6F51642F, Key: BlockedSubzone_X1Entitlement_Port, Value: You are being removed from this inaccessible area.
+Hash: A0F58DDE, Key: BlockedSubzone_Port, Value: You are being removed from this inaccessible area.
+Hash: B26465C9, Key: EXP1_MercSkillTreeNoActor, Value: You cannot modify the abilities of a mercenary that is not hired and active.
+Hash: 5400F0EA, Key: ItemSocketGemNotAllowed, Value: You cannot socket a Gem into an item socketed with Runes.
+Hash: B7DE3DF9, Key: ItemCrafting_UnentitledProduct, Value: You cannot craft this item because it requires Vessel of Hatred.
+Hash: 6B803D18, Key: BlockedSubzone_X1Mismatch, Value: You have been teleported due to not having access to Vessel of Hatred.
+Hash: 8C75B766, Key: InsufficientFunds_PaleMarks, Value: You do not have enough Pale Marks.
+Hash: 9E690B2C, Key: LockedChest_S06RealmwalkerCurrencyKey, Value: You need [ph] Hate Shards to open this locked chest.
+Hash: 055996A8, Key: CannotTradeItemTargetEntitlementMismatch, Value: You cannot trade this item to a player that does not own Vessel of Hatred.
+Hash: A96E082B, Key: CannotTradeItemSelfEntitlementMismatch, Value: You cannot trade this item while you do not own Vessel of Hatred.
+Hash: A35815BE, Key: ResetTemperReroll_HasRerolls, Value: Scroll of Restoration cannot be used on this item until all Tempering Charges have been used.

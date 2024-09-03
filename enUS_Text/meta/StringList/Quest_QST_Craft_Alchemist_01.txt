@@ -5,3 +5,4 @@ Seek out Veroka in Kyovashad to make your first Healing Potion upgrade.
 Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Veroka
 Hash: 5296A16C, Key: Callback6Header, Value: Upgrade your Healing Potion
 Hash: 58D5557C, Key: Callback24Header, Value: Upgrade your Healing Potion
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Healing Potion Upgrade

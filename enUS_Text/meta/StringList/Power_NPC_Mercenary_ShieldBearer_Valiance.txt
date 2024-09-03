@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Valiance
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{SF_5}{/c} seconds
+When you would be damaged for at least {c_number}[{SF_6}*100|%|]{/c} of your current Life at once, Raheir comes to your aid to negate the damage, Knock Down Close enemies for {c_number}[{SF_1}]{/c} |4second;seconds, and grant you {c_important}{u}Unstoppable{/u}{/c} for {c_number}[{SF_2}|1|]{/c} |4second;seconds.

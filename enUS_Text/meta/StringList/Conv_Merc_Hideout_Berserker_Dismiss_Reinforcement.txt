@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Withdraw Reinforcement
+Hash: 8F4698D2, Key: Line1.18782A, Value: I've always been better at moving on than staying still.

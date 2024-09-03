@@ -1,0 +1,4 @@
+Hash: AAC5966C, Key: Line19.1C5397, Value: They’ve invaded the Courtyard!
+Hash: 01C13BD9, Key: VoiceDir19.1C5397, Value: in battle
+Hash: A9753546, Key: Line22.1C5397, Value: The Courtyard is in danger!
+Hash: 0070DAB3, Key: VoiceDir22.1C5397, Value: in battle

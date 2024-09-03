@@ -1,11 +1,11 @@
 Hash: 003DFCC1, Key: Name, Value: Exhumed Relics
 Hash: 0871A46B, Key: Toast, Value: Meet with Meshif in the Outer Gardens
+Hash: 573574E0, Key: Phase38Description, Value: Though Elias was found to be immortal, we managed to escape his palace and seize the Sightless Eye along the way. Now we need to reconvene and sort out our options. As an undying thrall of the returned Mother of Sanctuary, I'm sure we'll be seeing Elias again soon.
+Hash: FD700C3A, Key: Callback40Header, Value: Speak with Meshif
+Hash: 976485BC, Key: Callback42Header, Value: Meet Lorath at the Forsaken Chapel
+Hash: 20991628, Key: Phase38OutsideSubzoneHeader, Value: Speak with Meshif in the Outer Gardens
+Hash: FE047C44, Key: Phase43OutsideSubzoneHeader, Value: Meet Lorath at the Forsaken Chapel
+Hash: 1FA3CC64, Key: Phase52OutsideSubzoneHeader, Value: Meet Lorath at the Forsaken Chapel
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with Meshif in the Outer Gardens
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Though Elias was found to be immortal, we managed to escape his palace and seize the Sightless Eye along the way. Now we need to reconvene and sort out our options. As an undying thrall of the returned Mother of Sanctuary, I'm sure we'll be seeing Elias again soon.
-Hash: 573574E0, Key: Phase38Description, Value: Though Elias was found to be immortal, we managed to escape his palace and seize the Sightless Eye along the way. Now we need to reconvene and sort out our options. As an undying thrall of the returned Mother of Sanctuary, I'm sure we'll be seeing Elias again soon.
-Hash: 20991628, Key: Phase38OutsideSubzoneHeader, Value: Speak with Meshif in the Outer Gardens
-Hash: FD700C3A, Key: Callback40Header, Value: Speak with Meshif
-Hash: FE047C44, Key: Phase43OutsideSubzoneHeader, Value: Meet Lorath at the Forsaken Chapel
-Hash: 976485BC, Key: Callback42Header, Value: Meet Lorath at the Forsaken Chapel
 Hash: D03F579C, Key: Phase52Description, Value: Though Elias was found to be immortal, we managed to escape his palace and seize the Sightless Eye along the way. Now we need to reconvene and sort out our options. As an undying thrall of the returned Mother of Sanctuary, I'm sure we'll be seeing Elias again soon.
-Hash: 1FA3CC64, Key: Phase52OutsideSubzoneHeader, Value: Meet Lorath at the Forsaken Chapel

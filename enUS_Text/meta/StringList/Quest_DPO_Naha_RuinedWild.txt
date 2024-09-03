@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Remove the intruders.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Explore {WORLD:DGN_Naha_RuinedWild} and Slay {MONSTER}

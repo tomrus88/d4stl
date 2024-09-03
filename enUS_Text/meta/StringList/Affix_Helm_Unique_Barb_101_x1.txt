@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Wrath of the Berserker{/c} causes you to explode, dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Fire damage. While {u}{c_important}{u}Berserking{/u}{/c}{/u}, all damage you would deal is converted into Fire. 
+
+You deal {c_random}[Affix_Value_1|%x|]{/c} increased Fire damage.

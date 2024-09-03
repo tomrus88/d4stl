@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: name, Value: Wind Shear
-Hash: 003892BF, Key: desc, Value: {if:SF_24}{c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
+Hash: 003892BF, Key: desc, Value: {if:SF_25}{c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
 {/if}{c_label}Generate Spirit:{/c_label} {c_resource}{SF_5}{/c_resource}
 {if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
 {/if}Conjure a piercing blade of wind, dealing {c_number}{Payload:DAMAGE}{/c} damage.
@@ -11,3 +11,5 @@ Hash: D618A933, Key: Mod0_Description, Value: Each enemy hit by {c_important}Win
 Hash: 9233D930, Key: Mod0_Name, Value: Fierce Wind Shear
 Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Wind Shear{/c} grants {c_number}{SF_4}{/c} additional Spirit for each enemy hit beyond the first.
 Hash: 948901D1, Key: Mod1_Name, Value: Wild Wind Shear
+Hash: 01B1EBBA, Key: Mod7_Description, Value: After you hit {c_number}[SF_23]{/c} times with {c_important}Wind Shear{/c}, your next {c_important}Wind Shear{/c} will knockback the target.
+Hash: A287F597, Key: Mod7_Name, Value: Forceful Wind Shear

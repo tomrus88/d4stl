@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Missing Gemstone
+Hash: F5C7BC0A, Key: Flavor, Value: A rough-cut gem with Akarat's symbol carved in it.

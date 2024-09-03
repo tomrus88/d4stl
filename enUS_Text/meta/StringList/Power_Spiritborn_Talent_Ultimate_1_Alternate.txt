@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Sustenance
+Hash: 003892BF, Key: desc, Value: Hitting enemies with {c_important}Ultimate{/c} Skills Heals you for {c_number}[{SF_0}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,PlayerHealthMax() * {SF_0})]){/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Heal Amount {icon:arrow,1.2} {c_number}[SF_0*100|%|]{/c}

@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Children's Scribbled Note
+Hash: 924F9B38, Key: Line1.1C56B0, Value: Why can’t we talk like normal?
+Hash: 6AD344FB, Key: Line3.1C56B1, Value: They'd find us really fast. The lacuni can hear really, really good.
+Hash: 4356EEBC, Key: Line5.1C56B0, Value: I wish we could leave and go far away. Where they can’t hear. I miss singing. I miss Mother and Father.
+Hash: 1BDA987F, Key: Line7.1C56B1, Value: We’ll escape soon. Then we’ll find your parents. Just need to wait 'til the coast’s clear.
+Hash: F45E4240, Key: Line9.1C56B0, Value: What if they catch us and hurt us? Like Mekaro?
+Hash: 48B7016A, Key: Line11.1C56B1, Value: I won’t let that happen. Don’t you trust me?
+Hash: 213AAB2B, Key: Line13.1C56B0, Value: I guess.
+Hash: F9BE54EE, Key: Line15.1C56B1, Value: Good. Go back to sleep. I’ll wake you when it’s time.

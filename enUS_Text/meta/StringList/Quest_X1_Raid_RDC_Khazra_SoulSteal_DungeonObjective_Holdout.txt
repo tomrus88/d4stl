@@ -1,0 +1,5 @@
+Hash: 398557AF, Key: Callback9Header, Value: Charge the {icon:Marker_GizmoChargeable,1.8} Soul Siphons: {DONE_OVER_NEEDED}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Slay the Ward Guardians: {DONE_OVER_NEEDED}
+Hash: E45EC27D, Key: Callback43Header, Value: Obtain the Ward Stones: {DONE_OVER_NEEDED}
+Hash: 58D5557C, Key: Callback24Header, Value: Dispel the {icon:Marker_GizmoReceptacle,1.8} Sealing Wards: {DONE_OVER_NEEDED}
+Hash: BEE0DBFA, Key: Callback22Header, Value: Activate a Soul Siphon

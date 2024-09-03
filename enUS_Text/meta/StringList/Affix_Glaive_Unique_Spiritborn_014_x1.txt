@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Every {c_number}[Affix."Static Value 0"]{/c} seconds an enemy is marked for your next {c_random}[Affix_Value_1]{/c} hits. Marked enemies are {c_important}{u}Vulnerable{/u}{/c} and your attacks against them are guaranteed to Critical Strike and {c_important}{u}Overpower{/u}{/c}.

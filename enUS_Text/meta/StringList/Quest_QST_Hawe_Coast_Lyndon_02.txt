@@ -1,17 +1,17 @@
-Hash: 003DFCC1, Key: Name, Value: Bait the Trap
-Hash: 0871A46B, Key: Toast, Value: Lyndon has a foolproof plan to find the rat in Backwater.
-Hash: D53BFF05, Key: Phase0Description, Value: The first location was a bust, but Lyndon is convinced the second location will be the winner. Rodney has been giving him trouble lately.
 Hash: 059C64AB, Key: Callback5Header, Value: Go to the next ambush location
-Hash: 8784047D, Key: Phase17Description, Value: Lyndon has set up three ambushes to lure out the rat. Based on where we get ambushed, we'll know who the rat is. The first location is nearby.
+Hash: 003DFCC1, Key: Name, Value: Bait the Trap
 Hash: 0687FA1D, Key: Callback16Header, Value: Go to the first ambush location
-Hash: 1315987A, Key: Phase23Description, Value: Lyndon believes there may not be a rat, and the ambush may have been a coincidence. The last location was told to Orton.
 Hash: BEE0DBFA, Key: Callback22Header, Value: Go to the last ambush location
-Hash: 38C9C8C0, Key: Phase29Description, Value: All is quiet for the time being. It's possible Lyndon was being paranoid, and the attack was merely a coincidence.
 Hash: 8CBE4880, Key: Callback28Header, Value: Enter the Isolated Shack
-Hash: D0E42560, Key: Phase74Description, Value: We've arrived at the first location. Aside from an infestation of Drowned, all seems quiet.
 Hash: A9244120, Key: Callback73Header, Value: Enter the Secluded Clearing
-Hash: 8D6916BE, Key: Phase81Description, Value: Lyndon has another job for me. No doubt a wild plan to catch this supposed "rat." We should talk away from curious ears.
 Hash: AE775FBE, Key: Callback80Header, Value: Speak with Lyndon outside Backwater
 Hash: 7C54CC44, Key: Callback86Header, Value: Speak with Lyndon
+Hash: 0871A46B, Key: Toast, Value: Lyndon has a foolproof plan to find the rat in Backwater.
+Hash: D53BFF05, Key: Phase0Description, Value: The first location was a bust, but Lyndon is convinced the second location will be the winner. Rodney has been giving him trouble lately.
+Hash: 8784047D, Key: Phase17Description, Value: Lyndon has set up three ambushes to lure out the rat. Based on where we get ambushed, we'll know who the rat is. The first location is nearby.
+Hash: D0E42560, Key: Phase74Description, Value: We've arrived at the first location. Aside from an infestation of Drowned, all seems quiet.
+Hash: 1315987A, Key: Phase23Description, Value: Lyndon believes there may not be a rat, and the ambush may have been a coincidence. The last location was told to Orton.
+Hash: 38C9C8C0, Key: Phase29Description, Value: All is quiet for the time being. It's possible Lyndon was being paranoid, and the attack was merely a coincidence.
 Hash: 44ABC52D, Key: Phase125Description, Value: The first location was a bust, but Lyndon is convinced the second location will be the winner. Rodney has been giving him trouble lately.
 Hash: 8AF1C44D, Key: Callback124Header, Value: Enter the Quiet Clearing
+Hash: 8D6916BE, Key: Phase81Description, Value: Lyndon has another job for me. No doubt a wild plan to catch this supposed "rat." We should talk away from curious ears.

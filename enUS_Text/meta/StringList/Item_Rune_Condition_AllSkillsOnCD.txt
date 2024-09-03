@@ -1,0 +1,3 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneCondition}Cast a Skill with a Cooldown.{/c}
+Hash: ECF72407, Key: RunewordPhrasePrefix, Value: Pugilistic
+Hash: 003DFCC1, Key: Name, Value: Yul

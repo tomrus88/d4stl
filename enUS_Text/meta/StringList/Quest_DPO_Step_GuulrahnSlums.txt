@@ -6,4 +6,4 @@ Hash: 112E3759, Key: Callback30Header, Value: Slay {MONSTER} and collect the Key
 Hash: F81CED9C, Key: Callback33Header, Value: Travel to the {LEVELAREA}
 Hash: DF0BA3DF, Key: Callback36Header, Value: Slay all enemies in the Forlorn Cells {KAM_REVEALED_COUNT}
 Hash: E45EC27D, Key: Callback43Header, Value: Travel to the {LEVELAREA}
-Hash: CB4D78C0, Key: Callback46Header, Value: Use the Jail Key to open the {GIZMO}
+Hash: CB4D78C0, Key: Callback46Header, Value: Use the {ITEM:DGN_Step_GuulrahnSlums_Key} to open the {GIZMO}

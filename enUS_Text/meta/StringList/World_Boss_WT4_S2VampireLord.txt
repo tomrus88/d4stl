@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Ancient's Seat
-Hash: 003892BF, Key: Desc, Value: Bats swarm this place, murmuring in time with the wind.
+Hash: 003892BF, Key: Desc, Value: Bats swarm this place, murmurating in time with the wind.

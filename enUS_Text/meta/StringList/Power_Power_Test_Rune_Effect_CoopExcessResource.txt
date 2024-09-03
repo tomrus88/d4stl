@@ -1,0 +1,4 @@
+Hash: 2070327B, Key: Buff8_Name, Value: Nam
+Hash: A320401E, Key: Buff8_Description, Value: Granting resource to party members
+Hash: 22C55B1C, Key: Buff9_Name, Value: Nam
+Hash: F27F499F, Key: Buff9_Description, Value: Receiving resource from a party member

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cave Painting
+Hash: F2CA04D8, Key: NoticeSignText, Value: In this painting, Ah Bulan confers a boon unto a group of humans. It appears as if he is giving them a sliver of his own power. 

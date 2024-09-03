@@ -3,6 +3,8 @@ Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown T
 Encase all Nearby enemies in stone, Stunning them for {c_number}{buffduration:BUFF_PETRIFIED_STUN}{/c} seconds. You deal {c_number}[{SF_2}*100|%x|]{/c} increased Critical Strike Damage to enemies affected by {c_important}Petrify{/c}. 
 
 Against Bosses, the Critical Strike Damage bonus is increased to {c_number}[{SF_8}*100|%x|]{/c} and its duration is increased to {c_number}{buffduration:BUFF_PETRIFIED_BOSS_CRIT}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds
 Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Petrify{/c} grants {c_number}{SF_10}{/c} Spirit when cast and its effect durations are increased by {c_number}{SF_6}{/c} second.
 Hash: 948901D1, Key: Mod1_Name, Value: Prime Petrify
 Hash: 74D6BC35, Key: Mod2_Description, Value: Killing an enemy affected by {c_important}Petrify{/c} reduces its Cooldown by {c_number}{SF_5}{/c} second. Hitting a Boss with {c_important}Petrify{/c} reduces its Cooldown by {c_number}{SF_9}{/c} seconds.

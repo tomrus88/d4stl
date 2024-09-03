@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found Yoché and took a sample of her blood."
+Hash: 928E0F9B, Key: Line1.1EE414, Value: It doesn’t matter. The child is dead.
+Hash: E2C43B68, Key: VoiceDir1.1EE414, Value: [dire, raindrenched, clipped]
+Hash: 6B11B95D, Key: Line3.1EE414, Value: The blood did nothing. Worse than nothing. It accelerated the course of the disease. There is no cure. Just vain hope.
+Hash: 4395631F, Key: Line5.1EE414, Value: Leave me.

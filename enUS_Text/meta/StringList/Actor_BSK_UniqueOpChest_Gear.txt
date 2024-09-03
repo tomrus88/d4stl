@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Spoils of Equipment
-{c_gold}Requires{/c} {c_green}20{/c} {c_gold}Burning Aether{/c}
+{c_gold}Requires{/c} {c_green}40{/c} {c_gold}Burning Aether{/c}

@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: name, Value: Blasphemous Fate
+Hash: 003892BF, Key: desc, Value: Aldkin occasionally loses control of his curse, transforming into a ferocious demon for {c_number}{SF_3}{/c} seconds. This grants Aldkin powerful new abilities, but the unleashed evil curses you for its duration.
+
+{c_label}Curse of Darkness:{/c} You and nearby enemies become {c_important}{u}Vulnerable{/u}{/c}.
+{c_label}Curse of Flames:{/c} Your direct damage Burns enemies for {c_number}{dot:PLAYER_BURN}{/c} damage over {c_number}{SF_5}{/c} seconds, but you lose {c_number}[{SF_7}*100|%|]{/c} of your Maximum Resource per second.
+
+Aldkin's curse and demon form are determined by his {c_important}Mercenary Core Skill{/c}.
+Hash: 2070327B, Key: Buff8_Name, Value: Aldkin's Curse
+Hash: A320401E, Key: Buff8_Description, Value: You are cursed for being in the presence of Aldkin's demon form!
+Hash: 22C55B1C, Key: Buff9_Name, Value: Aldkin's Curse
+Hash: F27F499F, Key: Buff9_Description, Value: You are cursed for being in the presence of Aldkin's demon form!

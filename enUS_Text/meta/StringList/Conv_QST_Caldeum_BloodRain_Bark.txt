@@ -4,3 +4,4 @@ Hash: 73008D67, Key: Line1.BAE4.Nec, Value: A rain of blood...intriguing. Anothe
 Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: Blood rain...not good. Time’s running out on this job.
 Hash: A970F2C6, Key: VoiceDir1.BAE4.Rog, Value: shaken
 Hash: 7300A405, Key: Line1.BAE4.Sor, Value: Blood from the sky...no mortal magic holds this power.
+Hash: 7300A41D, Key: Line1.BAE4.Spi, Value: Red sky, bleeding rain. Spirits, guide my steps through this place.

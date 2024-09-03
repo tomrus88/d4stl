@@ -1,9 +1,12 @@
 Hash: 003DFCC1, Key: name, Value: Conjuration Mastery
-Hash: 003892BF, Key: desc, Value: You gain {c_number}[{SF_2} * 100|%x|]{/c} damage, {c_number}[{SF_0} * 100|%+|]{/c} Movement Speed, and {c_number}[{SF_1} * 100|%x|]{/c} Mana Regeneration for each active {c_important}Conjuration{/c}.
+Hash: 003892BF, Key: desc, Value: Gain a stacking bonus for each active {c_important}Conjuration{/c}, up to {c_number}{SF_3}{/c} stacks:
+{icon:bullet,1.2} {c_number}[{SF_2} * 100|%x|]{/c} Damage
+{icon:bullet,1.2} {c_number}[{SF_0} * 100|%+|]{/c} Movement Speed
+{icon:bullet,1.2} {c_number}[{SF_1} * 100|%x|]{/c} Mana Regeneration
 Hash: F2D5722F, Key: rankup_desc, Value: 
 {icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_2} * 100|%x|]{/c}
 {icon:bullet,1.2} Movement Speed {icon:arrow,1.2} {c_number}[{SF_0} * 100|%+|]{/c}
 {icon:bullet,1.2} Mana Regeneration{icon:arrow,1.2} {c_number}[{SF_1} * 100|%x|]{/c}
 
 Hash: 12713EB5, Key: Buff2_Name, Value: Conjuration Master
-Hash: C6E60718, Key: Buff2_Description, Value: Damage, Movement ,and Mana Regeneration is increased.
+Hash: C6E60718, Key: Buff2_Description, Value: Damage, Movement, and Mana Regeneration is increased.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blackened Hearth
+Hash: F2CA04D8, Key: NoticeSignText, Value: Something glints in the ashes—a half-melted coin, emblazoned with the head of a bearded man. His eyes look into yours with all the love in the world.

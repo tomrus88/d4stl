@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: {c_legendary}Runes: Condition{/c}
+Hash: A646FFA4, Key: Description, Value: Provides the opportunity for Subo to offer {c_important}Condition Runes{/c} during{icon:Marker_Bartering, 2.4}{c_important}Bartering{/c}. 
+
+{c_label}Bartering:{/c} This {c_important}Trade Agreement{/c} will go into effect on the Mercenary's next new stock delivery. It does not guarantee stock of these items. The more difficult the item is to obtain, the less frequent it will be offered.
+
+[PH] {c_important}Runewords:{/c} {c_important}Runes{/c} are combined in connected sockets to create {c_important}Runewords{/c} which require both a condition and an effect.

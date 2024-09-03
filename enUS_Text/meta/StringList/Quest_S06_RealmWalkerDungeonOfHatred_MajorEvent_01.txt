@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Hatred's Hoard
+Hash: 0871A46B, Key: Toast, Value: Slay them all!
+Hash: 1EADAE68, Key: Callback2Header, Value: Kill the Hatred Growth
+Hash: 976485BC, Key: Callback42Header, Value: Slay monsters
+Hash: DF0BA3DF, Key: Callback36Header, Value: Reward Chests Earned: {DONE}
+Hash: 3158FF3E, Key: Callback44Header, Value: Slay monsters in the Realm of Hate
+Hash: 79001D61, Key: Callback38Header, Value: Reward Chests Earned: {DONE}
+Hash: CB4D78C0, Key: Callback46Header, Value: Slay monsters in the Realm of Hate
+Hash: FD700C3A, Key: Callback40Header, Value: Reward Chests Earned: {DONE}

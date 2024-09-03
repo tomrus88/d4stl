@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Zolmog, I presume?"
+Hash: 8F486C77, Key: Line1.189D19, Value: Pay proper respect to your Tyrant King, dear Varyana. Perhaps I’ll allow you to survive.
+Hash: DF7E9844, Key: VoiceDir1.189D19, Value: Taunting, superior. 
+Hash: 67CA4294, Key: Line3.18782A, Value: You’re not my king, Zolmog. Never my king. And I’ll never be one of you again.
+Hash: B8006E61, Key: VoiceDir3.18782A, Value: With spite. Emphasis on "never." 
+Hash: 404FBFFB, Key: Line5.189D19, Value: Oh, you never lose the taste, woman. I suspect you know that all too well...
+Hash: 9085EBC8, Key: VoiceDir5.189D19, Value: Taunting, emphasis on "that." 
+Hash: F157137F, Key: Line9.189D19, Value: Just as you know the law of our people. Eat...or be eaten!
+Hash: 418D3F4C, Key: VoiceDir9.189D19, Value: Ramping up into snarl of command to unleash his subjects. 

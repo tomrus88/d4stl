@@ -1,3 +1,3 @@
-Hash: 003DFCC1, Key: Name, Value: Half-Melted Candles
 Hash: A646FFA4, Key: Description, Value: Bound to the Strange Refuge
+Hash: 003DFCC1, Key: Name, Value: Half-Melted Candles
 Hash: F5C7BC0A, Key: Flavor, Value: A handful of musty smelling, half-melted candles.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "'Scarred heart?''"
+Hash: 92452F2E, Key: Line1.1AD79A, Value: Our ancestors say that lacuni ritualists carve out the hearts of true warriors. Scarring them as gifts for Nyamoyo.
+Hash: E27B5AFB, Key: VoiceDir1.1AD79A, Value: informative, passionate (towards topic)
+Hash: 6AC8D8F0, Key: Line3.1AD79A, Value: To find our dead with a missing heart was an honor. A warrior recognized by Nyamoyo’s children.
+Hash: BAFF04BD, Key: VoiceDir3.1AD79A, Value: informative, passionate (towards topic)
+Hash: 434C82B2, Key: Line5.1AD79A, Value: But baba does not need to prove himself. Nyamoyo knows he is strong… as I do.
+Hash: 9382AE7F, Key: VoiceDir5.1AD79A, Value: informative, passionate (towards topic)

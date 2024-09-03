@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Presaging Fate
+Hash: 003892BF, Key: Desc, Value: Complete Presaging Fate during the Vessel of Hatred campaign.

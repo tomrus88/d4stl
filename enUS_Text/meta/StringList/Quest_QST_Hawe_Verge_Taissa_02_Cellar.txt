@@ -1,6 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Past Regrets
 Hash: 1EADAE68, Key: Callback2Header, Value: Light the Braziers: {DONE_OVER_NEEDED}
 Hash: B8A227EA, Key: Callback4Header, Value: Speak with Taissa
 Hash: 2BE38CAC, Key: Phase7Description, Value: [PH]I should speak with Timue.
 Hash: FB719C7F, Key: Callback81Header, Value: Speak with Timue
 Hash: 5CD6EA0D, Key: Phase8Description, Value: [PH] I should speak with Taissa.
-Hash: 003DFCC1, Key: Name, Value: Past Regrets

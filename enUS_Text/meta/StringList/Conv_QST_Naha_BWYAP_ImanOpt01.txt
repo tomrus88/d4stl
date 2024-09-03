@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "A seed caused this corruption?"
+Hash: 6AD4F0F6, Key: Line3.1C8944, Value: So it seems. I’ve heard of similar things among the Dregs. Ferals that fill their victims with toxins before planting them, alive, to further the cycle.
+Hash: BB0B1CC3, Key: VoiceDir3.1C8944, Value: direct, informative, cold
+Hash: 43589AB8, Key: Line5.1C8944, Value: But this is different. They respond to touch. To tampering. There’s an…intelligence here.
+Hash: 938EC685, Key: VoiceDir5.1C8944, Value: direct, pondering, concerned

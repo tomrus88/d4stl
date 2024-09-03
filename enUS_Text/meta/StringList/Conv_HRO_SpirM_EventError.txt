@@ -1,0 +1,2 @@
+Hash: F9879B3C, Key: Line5.BAE4.Spi.M, Value: Can’t join the group yet.
+Hash: 5B6E55FE, Key: Line7.BAE4.Spi.M, Value: My allies are busy. I have to wait.

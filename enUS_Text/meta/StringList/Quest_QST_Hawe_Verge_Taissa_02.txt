@@ -9,6 +9,6 @@ Hash: C5002A81, Key: Phase57Description, Value: Taissa intends to ask the other 
 Hash: 22EDF2BD, Key: Callback61Header, Value: Speak with Timue
 Hash: 164945C6, Key: Callback88Header, Value: Meet Taissa at the Tree of Whispers
 Hash: 0DBB7DA0, Key: Phase92Description, Value: Taissa has forgotten she also needs several of the magical eyes wielded by the Nangari Oracle. We will collect some together.
-Hash: E7B37160, Key: Callback91Header, Value: Collect Oracle Eyes from Nangari Oracles: {DONE_OVER_NEEDED}
+Hash: E7B37160, Key: Callback91Header, Value: Collect {ITEM:QST_Hawe_Verge_Taissa_02_SnakeBones} from Nangari Oracles: {DONE_OVER_NEEDED}
 Hash: 027C5085, Key: Phase97Description, Value: After speaking to Timue, I get the feeling things are cold between her and Taissa. Regardless, I must return Taissa's amulet to her.
 Hash: 6896A125, Key: Callback96Header, Value: Collect the {ITEM}

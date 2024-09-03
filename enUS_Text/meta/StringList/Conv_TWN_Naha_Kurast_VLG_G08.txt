@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Nice day."
+Hash: 9268B99B, Key: Line1.1CC157, Value: I carry the curse of my ancestors, as did my parents and their parents.
+Hash: E29EE568, Key: VoiceDir1.1CC157, Value: Fatalist. Convinced he has no say in his future. Very doom and gloom.
+Hash: 6AEC635D, Key: Line3.1CC157, Value: Jinxed from the damned jungle, a life that never seems to stray from misery.

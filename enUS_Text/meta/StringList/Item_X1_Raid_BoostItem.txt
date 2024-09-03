@@ -1,0 +1,3 @@
+Hash: F5C7BC0A, Key: Flavor, Value: Don't tell Deckard!
+Hash: 003DFCC1, Key: Name, Value: Raid Boost
+Hash: A646FFA4, Key: Description, Value: Use this item to boost to a level 55 pre-built character.

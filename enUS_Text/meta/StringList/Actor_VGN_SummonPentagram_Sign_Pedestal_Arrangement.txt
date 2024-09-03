@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Pedestal
+Hash: F2CA04D8, Key: NoticeSignText, Value: This idol demands a sacrifice. PROVOKE the darkness to begin.

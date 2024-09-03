@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Splintering Shards
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}[100|%|]{/c} chance when hitting or killing a {c_important}{u}Frozen{/u}{/c} enemy to create ice splinters that fires away from them dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Cold damage and {c_important}{u}Chilling{/u}{/c} for {c_random}[Affix_Value_2|%|]{/c}.

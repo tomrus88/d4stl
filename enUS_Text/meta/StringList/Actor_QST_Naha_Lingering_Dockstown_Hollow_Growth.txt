@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hollow Tissue
+Hash: F2CA04D8, Key: NoticeSignText, Value: The black ichor of the Hollows coats the wall. Small tendrils reach out to you, seeking the meat of your flesh.

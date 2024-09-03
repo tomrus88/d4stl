@@ -1,2 +1,2 @@
-Hash: 13A53A8B, Key: Series, Value: "Ancient Hydra"
 Hash: 003DFCC1, Key: Name, Value: Hydra's Faulds
+Hash: 13A53A8B, Key: Series, Value: "Ancient Hydra"

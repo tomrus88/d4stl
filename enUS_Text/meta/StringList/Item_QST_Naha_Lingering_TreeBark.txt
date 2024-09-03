@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Bound to Lingering Hatred
+Hash: 003DFCC1, Key: Name, Value: Ancient Banyan Bark
+Hash: F5C7BC0A, Key: Flavor, Value: Touching this flexible bark leaves your hands stained with rich aromatic oils.

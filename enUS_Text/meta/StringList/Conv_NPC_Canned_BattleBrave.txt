@@ -142,3 +142,39 @@ Hash: 62B4548F, Key: Line757.EDC73, Value: I will not fall!
 Hash: B9AFF9FC, Key: VoiceDir757.EDC73, Value: Courageous
 Hash: 341E8029, Key: Line760.EDC73, Value: Away, you fiends!
 Hash: 8B1A2596, Key: VoiceDir760.EDC73, Value: Courageous
+Hash: DBC6A77B, Key: Line765.1BB53F, Value: Begone, vermin!
+Hash: 1236FA88, Key: VoiceDir765.1BB53F, Value: Courageous
+Hash: A08C261E, Key: Line768.1BB53F, Value: I will not fall!
+Hash: D6FC792B, Key: VoiceDir768.1BB53F, Value: Courageous
+Hash: 9F3BC4F8, Key: Line771.1BB53F, Value: Away, you fiends!
+Hash: D5AC1805, Key: VoiceDir771.1BB53F, Value: Courageous
+Hash: 70964C1E, Key: Line820.1BB540, Value: Begone, vermin!
+Hash: A7069F2B, Key: VoiceDir820.1BB540, Value: Courageous
+Hash: 355BCAC1, Key: Line823.1BB540, Value: I will not fall!
+Hash: 6BCC1DCE, Key: VoiceDir823.1BB540, Value: Courageous
+Hash: FA214964, Key: Line826.1BB540, Value: Away, you fiends!
+Hash: 30919C71, Key: VoiceDir826.1BB540, Value: Courageous
+Hash: D5EDE606, Key: Line809.1BB541, Value: Begone, vermin!
+Hash: 0C5E3913, Key: VoiceDir809.1BB541, Value: Courageous
+Hash: D49D84E0, Key: Line812.1BB541, Value: I will not fall!
+Hash: 0B0DD7ED, Key: VoiceDir812.1BB541, Value: Courageous
+Hash: 99630383, Key: Line815.1BB541, Value: Away, you fiends!
+Hash: CFD35690, Key: VoiceDir815.1BB541, Value: Courageous
+Hash: FE01790E, Key: Line798.1BB542, Value: Begone, vermin!
+Hash: 3471CC1B, Key: VoiceDir798.1BB542, Value: Courageous
+Hash: 73DF3EFF, Key: Line801.1BB542, Value: I will not fall!
+Hash: AA4F920C, Key: VoiceDir801.1BB542, Value: Courageous
+Hash: 38A4BDA2, Key: Line804.1BB542, Value: Away, you fiends!
+Hash: 6F1510AF, Key: VoiceDir804.1BB542, Value: Courageous
+Hash: 9D43332D, Key: Line787.1BB543, Value: Begone, vermin!
+Hash: D3B3863A, Key: VoiceDir787.1BB543, Value: Courageous
+Hash: 9BF2D207, Key: Line790.1BB543, Value: I will not fall!
+Hash: D2632514, Key: VoiceDir790.1BB543, Value: Courageous
+Hash: 60B850AA, Key: Line793.1BB543, Value: Away, you fiends!
+Hash: 9728A3B7, Key: VoiceDir793.1BB543, Value: Courageous
+Hash: 3C84ED4C, Key: Line776.1BB544, Value: Begone, vermin!
+Hash: 72F54059, Key: VoiceDir776.1BB544, Value: Courageous
+Hash: 014A6BEF, Key: Line779.1BB544, Value: I will not fall!
+Hash: 37BABEFC, Key: VoiceDir779.1BB544, Value: Courageous
+Hash: FFFA0AC9, Key: Line782.1BB544, Value: Away, you fiends!
+Hash: 366A5DD6, Key: VoiceDir782.1BB544, Value: Courageous

@@ -7,6 +7,8 @@ Hash: 8309D09B, Key: Line3.5421B.Nec, Value: Wonderful, now outsiders witness yo
 Hash: 87848548, Key: VoiceDir3.5421B.Nec, Value: Sarcastic
 Hash: 8309E2ED, Key: Line3.5421B.Rog, Value: Wonderful, now outsiders witness your wailing.
 Hash: 8784979A, Key: VoiceDir3.5421B.Rog, Value: Sarcastic
+Hash: 8309E751, Key: Line3.5421B.Spi, Value: Wonderful, now outsiders witness your wailing.
+Hash: 87849BFE, Key: VoiceDir3.5421B.Spi, Value: Sarcastic
 Hash: 8309E739, Key: Line3.5421B.Sor, Value: Wonderful, now outsiders witness your wailing.
 Hash: 87849BE6, Key: VoiceDir3.5421B.Sor, Value: Sarcastic
 Hash: 27D0555B, Key: Line7.5421B, Value: Ignore my brother, please. The Chieftain ordered him to rest, and he grows impatient.

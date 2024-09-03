@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: name, Value: Storm Strike
-Hash: 003892BF, Key: desc, Value: {if:SF_19}{c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
+Hash: 003892BF, Key: desc, Value: {if:SF_20}{c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
 {/if}{c_label}Generate Spirit:{/c_label} {c_resource}{SF_2}{/c_resource}
 {if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
 {/if}Electricity gathers around your weapon, dealing {c_number}{payload:MELEE_DAMAGE}{/c} damage to your target and chaining to up to {c_number}{SF_3}{/c} surrounding enemies, dealing {c_number}[SF_4 *100|%|]{/c} less damage each time it chains.
@@ -13,3 +13,5 @@ Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Storm Strike{/c} has 
 Hash: 948901D1, Key: Mod1_Name, Value: Fierce Storm Strike
 Hash: 5110F53B, Key: Mod8_Description, Value: {c_important}Storm Strike{/c} chains to {c_number}[SF_7]{/c} additional targets.
 Hash: A4DD1E38, Key: Mod8_Name, Value: Wild Storm Strike
+Hash: A06FFEBC, Key: Mod9_Description, Value: When {c_important}Storm Strike{/c} hits only one targets,  generate {c_number}[SF_19]{/c} additional Spirit.
+Hash: A73246D9, Key: Mod9_Name, Value: Empowering Storm Strike

@@ -1,0 +1,6 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: (laughing)
+Hash: DF7CC49F, Key: VoiceDir1.18782A, Value: Boisterous laughter, pleased with her own joke. 
+Hash: 67CA4294, Key: Line3.18782A, Value: (coughing)
+Hash: B8006E61, Key: VoiceDir3.18782A, Value: In the midst of laughing, the Crone starting choking.
+Hash: 404DEC56, Key: Line5.18782A, Value: (unhinged laughing)
+Hash: 90841823, Key: VoiceDir5.18782A, Value: Laughter resumes, becoming more unhinged. 

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: of Star Shards
+Hash: 003892BF, Key: Desc, Value: Knives from {c_important}Dance of Knives{/c} have a {c_number}[Affix."Static Value 0*100"]%{/c} chance to shatter into {c_number}[Affix."Static Value 1"]{/c} shards of metal on hit, dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Physical damage.
+
+{c_important}Dance of Knives{/c} now spends {c_important}Combo Points{/c}, granting up to {c_number}3{/c} additional Charges that can exceed the Maximum.

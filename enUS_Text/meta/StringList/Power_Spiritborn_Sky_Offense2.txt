@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Bird Swarm
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Fire a slow swarm of birds that burst on impact, dealing {c_number}{payload:IMPACT_NOVA_TOOLTIP}{/c} damage and splitting into a piercing spiral of birds that each deal {c_number}{payload:IMPACT_SPLIT _TOOLTIP}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet, 1.2} Burst Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT_NOVA_TOOLTIP}{/c}
+{icon:bullet, 1.2} Split Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT_SPLIT _TOOLTIP}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: (PH) After the swarm has flown for {c_number}[{SF_13}|2|]{/c} seconds the detonation deals {c_number}[{SF_14}*100|%|]{/c} bonus damage in a larger spiral.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Sky Offense2 Enhancement
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) The swarm now pierces while traveling and can be Recast to burst early.
+
+The Cooldown is reduced the closer the swarm is to you upon bursting, up to {c_number}[{SF_0}*{SF_15}]{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Sky Offense2 Upgrade A
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Sky Offense2 Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Sky Offense2 Upgrade C

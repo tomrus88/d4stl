@@ -1,3 +1,8 @@
 Hash: 003DFCC1, Key: Name, Value: Bundled Herbs
-Hash: A646FFA4, Key: Description, Value: A clipping of herbs used in the upgrading of potions or crafting of elixirs & incense. Collected from Gallowvine, Biteberry, Blightshade, Lifesbane, Howler Moss, and Reddamine.
+Hash: A646FFA4, Key: Description, Value: A clipping of herbs used in the upgrading of {c_important}potions{/c} or crafting of {c_important}elixirs{/c} & {c_important}incense{/c} at the{icon:Marker_Crafter_Alchemist,2}{c_important}Alchemist{/c}
+
+Collected from:
+{icon:bullet,1.2}{icon:Marker_Herb, 3}{c_important}Gallowvine{/c}, {c_important}Biteberry{/c}, {c_important}Blightshade{/c}, {c_important}Lifesbane{/c}, {c_important}Howler Moss{/c}, and {c_important}Reddamine{/c}.
+{icon:bullet,1.2}{icon:Marker_DungeonCellar, 2}{c_highlight}Cellars{/c}
+{icon:bullet,1.2}{icon:Marker_Helltide_Chest, 2.3}{c_important}Tortured Gifts{/c} in{icon:Marker_Helltide, 2}{c_highlight}Helltide{/c} 
 Hash: F5C7BC0A, Key: Flavor, Value: Considered foundational to the study of alchemy, herbs serve to bond and enhance other elixirs.

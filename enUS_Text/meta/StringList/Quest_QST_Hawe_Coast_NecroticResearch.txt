@@ -1,7 +1,7 @@
 Hash: 003DFCC1, Key: Name, Value: Necrotic Research
 Hash: 0871A46B, Key: Toast, Value: Help Gulyas with her Nangari research.
 Hash: D53BFF05, Key: Phase0Description, Value: Gulyas wants to see if there's any truth to the cultist's claims that they can turn into Nangari.  To test this, she would like me to bring her some materials.
-Hash: 6C93809B, Key: Callback14Header, Value: Collect Necrotic Flesh {DONE_OVER_NEEDED}
-Hash: 538236DE, Key: Callback17Header, Value: Collect Snake Venom {DONE_OVER_NEEDED}
+Hash: 6C93809B, Key: Callback14Header, Value: Collect {ITEM:QST_Hawe_NecroticResearch_Bones} {DONE_OVER_NEEDED}
+Hash: 538236DE, Key: Callback17Header, Value: Collect {ITEM:QST_Hawe_NecroticResearch_Venom} {DONE_OVER_NEEDED}
 Hash: E2223B19, Key: Phase22Description, Value: I've gathered all the materials and should return to Gulyas.
 Hash: 71E69F39, Key: Callback21Header, Value: Return to Gulyas

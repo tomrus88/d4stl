@@ -1,0 +1,2 @@
+Hash: 8F54DB25, Key: Line1.190875, Value: Those beasts will regret not killing me when they had the chance.
+Hash: DF8B06F2, Key: VoiceDir1.190875, Value: dark

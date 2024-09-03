@@ -1,31 +1,31 @@
 Hash: 003DFCC1, Key: Name, Value: Whittling Sanity
 Hash: 0871A46B, Key: Toast, Value: Investigate the appearance of demons in the Abahru Canyon
-Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet Lorath in Abahru Canyon
-Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I learned at Ked Bardu that a pale man dressed in black has been seen in Abahru Canyon. If that was Elias, a former Horadrim, I fear what lies ahead.
 Hash: D53BFF05, Key: Phase0Description, Value: We found a camp littered with merchants slaughtered by demons. Could Elias have summoned them? Lorath and I have a decided to descend into the canyon to look for Elias and the demons there. 
-Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Search for Elias in Abahru Canyon
-Hash: 3FC40BBF, Key: Callback27Header, Value: Search for Elias in Abahru Canyon with Lorath
 Hash: 8DCA476E, Key: Phase9Description, Value: Chasing a lead about a pale man dressed in black seen in Abahru Canyon, I must rendezvous with Lorath and learn what he might have discovered.
-Hash: E696A876, Key: Phase9OutsideSubzoneHeader, Value: Speak with Lorath in Abahru Canyon
 Hash: 0687FA1D, Key: Callback16Header, Value: Speak with Lorath in Abahru Canyon
 Hash: F4A9EC5A, Key: Phase14Description, Value: Wracked with madness, Genbar the Carver now wields the terrible power to summon demons, bestowed on him by Elias. Only by killing Genbar can we prevent further summonings and return relative safety to the region.
-Hash: F70C96E2, Key: Phase14OutsideSubzoneHeader, Value: Defeat Genbar in the Rift of a Thousand Eyes 
 Hash: 1F9943DA, Key: Callback13Header, Value: Defeat Genbar
 Hash: 07D66B5F, Key: Phase28Description, Value: The Abahru Canyon is full of demons. Lorath and I have a decided to descend into the canyon and find the source of the demonic incursions. 
-Hash: ADECCB87, Key: Phase28OutsideSubzoneHeader, Value: Close the Hell rift in Abahru Canyon
 Hash: 112E3759, Key: Callback30Header, Value: Defeat the demons rising from the Hell rift
 Hash: 5091BE7E, Key: Phase63Description, Value: We have ended the threat Genbar and his demons posed to Ked Bardu. I need to speak to Lorath about our next steps. 
-Hash: E35D1186, Key: Phase63OutsideSubzoneHeader, Value: Speak with Lorath in the Rift of a Thousand Eyes 
 Hash: 6FE82F7E, Key: Callback62Header, Value: Speak with Lorath
 Hash: 63BE3D83, Key: Phase77Description, Value: The strange house in Abahru Canyon was abandoned but littered with disturbing findings. Its seems the Carver known as Genbar may be responsible for the demonic incursions, but an ancient cave nearby might have the answers we seek. 
-Hash: 9A3D462B, Key: Phase77OutsideSubzoneHeader, Value: Search for Genbar in the Rift of a Thousand Eyes 
 Hash: 7701ADA6, Key: Callback79Header, Value: Find Genbar
 Hash: 4FEAF248, Key: Phase120Description, Value: The strange house in Abahru Canyon was abandoned but littered with disturbing findings. Its seems the Carver known as Genbar may be responsible for the demonic incursions, but an ancient cave nearby might have the answers we seek. 
-Hash: 82162890, Key: Phase120OutsideSubzoneHeader, Value: Speak with Genbar in the Rift of a Thousand Eyes 
 Hash: 3DF7878C, Key: Callback123Header, Value: Speak with Genbar
 Hash: 01D5844F, Key: Phase154Description, Value: We have discovered a strange house in the Abahru Canyon that appears untouched by demons, but no sign of any survivors. I doubt we will find any. What happened here? Whose house was this? 
-Hash: 1E4EF277, Key: Phase154OutsideSubzoneHeader, Value: Speak with Lorath in the Carver's House
 Hash: EEFEDB10, Key: Callback163Header, Value: Speak with Lorath
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Search for Elias in Abahru Canyon
+Hash: E696A876, Key: Phase9OutsideSubzoneHeader, Value: Speak with Lorath in Abahru Canyon
+Hash: F70C96E2, Key: Phase14OutsideSubzoneHeader, Value: Defeat Genbar in the Rift of a Thousand Eyes 
+Hash: ADECCB87, Key: Phase28OutsideSubzoneHeader, Value: Close the Hell rift in Abahru Canyon
+Hash: E35D1186, Key: Phase63OutsideSubzoneHeader, Value: Speak with Lorath in the Rift of a Thousand Eyes 
+Hash: 9A3D462B, Key: Phase77OutsideSubzoneHeader, Value: Search for Genbar in the Rift of a Thousand Eyes 
+Hash: 82162890, Key: Phase120OutsideSubzoneHeader, Value: Speak with Genbar in the Rift of a Thousand Eyes 
+Hash: 1E4EF277, Key: Phase154OutsideSubzoneHeader, Value: Speak with Lorath in the Carver's House
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet Lorath in Abahru Canyon
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I learned at Ked Bardu that a pale man dressed in black has been seen in Abahru Canyon. If that was Elias, a former Horadrim, I fear what lies ahead.
+Hash: 3FC40BBF, Key: Callback27Header, Value: Search for Elias in Abahru Canyon with Lorath
 Hash: 4F9D6F31, Key: Phase246Description, Value: We have discovered a strange house in the Abahru Canyon that appears untouched by demons, but no sign of any survivors. I doubt we will find any. What happened here? Whose house was this? 
 Hash: 15F23B99, Key: Phase246OutsideSubzoneHeader, Value: Search for clues in the Carver's House in Abahru Canyon
 Hash: D0A050B7, Key: Callback278Header, Value: Help Lorath search for clues in the Carver's House

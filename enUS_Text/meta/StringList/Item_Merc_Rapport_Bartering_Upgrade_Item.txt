@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Looter's Luck
+Hash: A646FFA4, Key: Description, Value: Each {c_important}Trade Agreement{/c} with this Mercenary has an additional {c_number}+5%{/c} chance for the item to be offered when {c_important}Bartering{/c}.
+
+{c_important}Trade Agreements{/c} can be unlocked in the Mercenary Den, adding additional item types to a Mercenary's {c_important}Bartering{/c} potential.

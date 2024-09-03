@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scroll of Grave Oil
+Hash: A646FFA4, Key: Description, Value: Use to prevent Durability loss on your next 2 deaths.

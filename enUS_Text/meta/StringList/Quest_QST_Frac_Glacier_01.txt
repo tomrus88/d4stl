@@ -1,10 +1,11 @@
+Hash: B7B2E337, Key: Phase532OutsideSubzoneHeader, Value: Speak with Vigo
+Hash: 3E357454, Key: Phase564Description, Value: I have begun the pilgrimage to the Shrine of the Penitent. I must bring the Idol of the Faithful to a series of shrines and read from their parchments to cleanse the idol of its curse.
 Hash: 003DFCC1, Key: Name, Value: Pilgrimage
 Hash: 0871A46B, Key: Toast, Value: Complete the pilgrimage to the Shrine of the Penitent
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Complete the pilgrimage to the Shrine of the Penitent
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Reverend Mother Prava requires me to complete a pilgrimage and be judged by Inarius before she grants me the blessing necessary to travel beyond the Black Lake and pursue Lilith.
 Hash: ECC46394, Key: Phase348Description, Value: I brought the cleansed Idol of the Faithful to the Shrine of the Penitent. I must speak with Vigo to learn what I must do next.
 Hash: 8041CF5C, Key: Phase348OutsideSubzoneHeader, Value: Speak with Vigo
-Hash: 8AFD8051, Key: Callback362Header, Value: Speak with Vigo
 Hash: 048C5952, Key: Phase382Description, Value: I have begun the pilgrimage to the Shrine of the Penitent. I must bring the Idol of the Faithful to a series of shrines and read from their parchments to cleanse the idol of its curse.
 Hash: 64A51ADA, Key: Phase382OutsideSubzoneHeader, Value: Read from the Tablet at the Altar of Purity
 Hash: 2A4AF673, Key: Callback490Header, Value: Read from the Tablet at the Altar of Purity
@@ -13,22 +14,21 @@ Hash: 2CDAB99B, Key: Phase482OutsideSubzoneHeader, Value: Read from the Tablet a
 Hash: 71F21496, Key: Callback484Header, Value: Read from the Tablet at the Altar at the Anointed Ascent
 Hash: F06D8972, Key: Phase472Description, Value: I have begun the pilgrimage to the Shrine of the Penitent. I must bring the Idol of the Faithful to a series of shrines and read from their parchments to cleanse the idol of its curse.
 Hash: BA2E6EFA, Key: Phase472OutsideSubzoneHeader, Value: Bring the Idol of the Faithful to the Altar of Martyrdom
-Hash: 11ED994D, Key: Callback601Header, Value: Bring the Idol of the Faithful to the Altar of Martyrdom
 Hash: 7527BA53, Key: Phase518Description, Value: I have begun the pilgrimage to the Shrine of the Penitent. I must bring the Idol of the Faithful to a series of shrines and read from their parchments to cleanse the idol of its curse.
 Hash: B8A82CFB, Key: Phase518OutsideSubzoneHeader, Value: Bring the Idol of the Faithful to the Altar at the Anointed Ascent
-Hash: E319D6B4, Key: Callback536Header, Value: Bring the Idol of the Faithful to the Altar at the Anointed Ascent
 Hash: EE319D0F, Key: Phase532Description, Value: I must speak with Vigo at the College of Light. Then I will begin the pilgrimage to the Shrine of the Penitent.
-Hash: B7B2E337, Key: Phase532OutsideSubzoneHeader, Value: Speak with Vigo
-Hash: 45D68C51, Key: Callback605Header, Value: Speak with Vigo
 Hash: 81B082F6, Key: Phase557Description, Value: I have begun the pilgrimage to the Shrine of the Penitent. I must bring the Idol of the Faithful to a series of shrines and read from their parchments to cleanse the idol of its curse.
 Hash: 324C5CFE, Key: Phase557OutsideSubzoneHeader, Value: Read from the Tablet at the Altar of Martyrdom
 Hash: A28C36B9, Key: Callback559Header, Value: Read from the Tablet at the Altar of Martyrdom
-Hash: 3E357454, Key: Phase564Description, Value: I have begun the pilgrimage to the Shrine of the Penitent. I must bring the Idol of the Faithful to a series of shrines and read from their parchments to cleanse the idol of its curse.
 Hash: B1D1B81C, Key: Phase564OutsideSubzoneHeader, Value: Read from the Tablet at the Altar of Redemption
 Hash: C0F09F14, Key: Callback563Header, Value: Read from the Tablet at the Altar of Redemption
 Hash: D10F8C77, Key: Phase567Description, Value: I have begun the pilgrimage to the Shrine of the Penitent. I must bring the Idol of the Faithful to a series of shrines and read from their parchments to cleanse the idol of its curse.
 Hash: A4F8A79F, Key: Phase567OutsideSubzoneHeader, Value: Bring the Idol of the Faithful to the Altar of Redemption
-Hash: DFCB05D3, Key: Callback607Header, Value: Bring the Idol of the Faithful to the Altar of Redemption
 Hash: BE87DB36, Key: Phase575Description, Value: I have begun the pilgrimage to the Shrine of the Penitent. I must bring the Idol of the Faithful to a series of shrines and read from their parchments to cleanse the idol of its curse.
 Hash: 758AFD3E, Key: Phase575OutsideSubzoneHeader, Value: Bring the Idol of the Faithful to the Shrine of the Penitent
 Hash: B99F10BB, Key: Callback597Header, Value: Bring the Idol of the Faithful to the Shrine of the Penitent 
+Hash: 8AFD8051, Key: Callback362Header, Value: Speak with Vigo
+Hash: 11ED994D, Key: Callback601Header, Value: Bring the Idol of the Faithful to the Altar of Martyrdom
+Hash: E319D6B4, Key: Callback536Header, Value: Bring the Idol of the Faithful to the Altar at the Anointed Ascent
+Hash: 45D68C51, Key: Callback605Header, Value: Speak with Vigo
+Hash: DFCB05D3, Key: Callback607Header, Value: Bring the Idol of the Faithful to the Altar of Redemption

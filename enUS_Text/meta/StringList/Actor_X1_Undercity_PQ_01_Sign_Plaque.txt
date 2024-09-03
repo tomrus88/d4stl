@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "In Memory of the Dead"
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Here fell the High Priestess. May her memory be crushed under the weight of this city."

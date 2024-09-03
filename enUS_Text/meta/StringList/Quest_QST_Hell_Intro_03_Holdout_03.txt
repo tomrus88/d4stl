@@ -5,6 +5,6 @@ Hash: 88F93294, Key: Callback284Header, Value: Keep demons away from Locran
 Hash: 22EDAC16, Key: Callback286Header, Value: Keep demons away from Locran
 Hash: C2354436, Key: Callback295Header, Value: Defeat {MONSTER}
 Hash: A923FA79, Key: Callback298Header, Value: Defeat {MONSTER}
+Hash: CF4FEF91, Key: Callback308Header, Value: Wait for Locran
 Hash: C0E4E310, Key: Callback325Header, Value: Place the Taslisman
 Hash: 657F99CE, Key: Callback341Header, Value: Gaze into the Opening into Darkness
-Hash: CF4FEF91, Key: Callback308Header, Value: Wait for Locran

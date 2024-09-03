@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Bird Swarm
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Fire a slow swarm of birds that burst on impact, dealing {c_number}{payload:NOVA}{/c} damage and splitting into a piercing spiral of birds that each deal {c_number}{payload:IMPACT}{/c} damage.
+
+Recast to burst early, the Cooldown is reduced the closer the swarm is to you upon Recast, up to {c_number}[{SF_0}*{SF_15}]{/c} seconds.

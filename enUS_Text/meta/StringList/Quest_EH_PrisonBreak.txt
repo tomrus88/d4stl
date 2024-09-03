@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Liberation
+Hash: C42DD5EF, Key: Callback135Header, Value: {TIMELEFT} remaining
+Hash: 5708D149, Key: Callback120Header, Value: Release a villager
+Hash: 112812B0, Key: Callback136Header, Value: Slay all prison guards: {DONE_OVER_NEEDED}
+Hash: 9CB17FB1, Key: Callback155Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: D09A72B5, Key: Callback159Header, Value: Slay remaining Dregs

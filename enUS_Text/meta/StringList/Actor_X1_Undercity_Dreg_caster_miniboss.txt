@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Sporekeeper
+Hash: CC38ADCB, Key: FlavorName, Value: Herald of the Affliction
+Hash: DA72BB62, Key: SuperElite, Value: Herald of the Affliction

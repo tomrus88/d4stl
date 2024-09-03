@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: of Sky Power
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}[Affix."Static Value 0"|%+|]{/c} chance to create a {c_important}Mystic Circle{/c} for {c_number}[PowerTag.Spiritborn_RuneArea."Script Formula 5"]{/c} seconds. 
+
+Casting a {c_important}Eagle{/c} Skill in {c_important}Mystic Circles{/c} empowers them to move with you and explode for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Lightning damage when you {c_important}Evade{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}[Affix."Static Value 0"|%+|]{/c} chance to create a {c_important}Mystic Circle{/c} for {c_number}[PowerTag.Spiritborn_RuneArea."Script Formula 5"]{/c} seconds. 
+
+Casting a {c_important}Eagle{/c} Skill in {c_important}Mystic Circles{/c} empowers them to move with you and explode for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Lightning damage when you {c_important}Evade{/c}.

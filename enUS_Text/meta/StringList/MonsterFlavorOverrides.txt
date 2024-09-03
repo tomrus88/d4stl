@@ -13,7 +13,7 @@ Hash: 4D5C44EC, Key: Bounty_Assassinate_Frac_VampireGhoul, Value: Fiend of Yeles
 Hash: 2D4CB74C, Key: Bounty_Assassinate_Frac_WerewolfMelee, Value: Beast of Krol
 Hash: B8D9D44F, Key: Bounty_Assassinate_Frac_WerewolfProwler, Value: Stalker of the Drifts
 Hash: 3A59B50C, Key: DE_AltarOfBishibosh, Value: Avatar of Bishibosh
-Hash: 454D706A, Key: DE_WanderingSoul, Value: Wandering Soul
+Hash: 454D706A, Key: DE_WanderingSoul, Value: Ravenous Soul
 Hash: 285F3F88, Key: LE_Sacrifice_SuperElite_FlavorText, Value: Devourer of Souls
 Hash: FFB3516B, Key: LE_ShrineBuff_SuperElite_FlavorText, Value: Shrine Guardian
 Hash: 647B48A0, Key: DGN_Frac_LostArchives_Boss, Value: Behistun Primarc
@@ -153,3 +153,39 @@ Hash: C53C862F, Key: S4_PROTOTYPE_LightDark_Monsters, Value: [PH] Light/Dark Mon
 Hash: 6C2BCD4C, Key: COTD_ShardBearer, Value: Shardspiked
 Hash: E827A1C2, Key: BSK_ShockTrooper, Value: Aether Fiend
 Hash: C34D7923, Key: BSK_Miniboss, Value: Aether Lord
+Hash: C78CBB80, Key: DRLG_Rupture_SuperElite, Value: PH Rupture Super Elite
+Hash: CECFF07C, Key: X1_Raid_Khazra_Carryable, Value: [PH] Drops Carryable
+Hash: 712AA6FA, Key: DRLG_Structure_Dreg, Value: [PH] Big Bad Monster
+Hash: 6F92A12D, Key: DRLG_Structure_Hollow, Value: [PH] Big Bad Monster
+Hash: 77E52354, Key: DRLG_Structure_Lacuni, Value: Grasslands Pillager
+Hash: 6F4A9430, Key: DGN_UlarianSepulcher_KAM_UniqueElite, Value: [ph] Silent Warden
+Hash: C1B32498, Key: DGN_UlarianSepulcher_UniqueElite, Value: [ph] Ebonscaled Cryptguard
+Hash: 8706F61A, Key: X1_Raid_Khazra_SymbolGiver, Value: [PH] Gives Symbols
+Hash: 1237D6E9, Key: X1_Raid_Khazra_SightBuff, Value: [PH] Gives Sight
+Hash: EA915745, Key: X1_Khazra_Gatekeeper, Value: Gatekeeper
+Hash: B66DA82F, Key: X1_Raid_Khazra_MagicBarrier, Value: [PH] Removes Barrier
+Hash: D41F3E82, Key: Bounty_Assassinate_Naha_KnightMelee, Value: The Scorched Spear
+Hash: 39AD0D4D, Key: Bounty_Assassinate_Naha_LacuniHorror, Value: The Horrid Beast
+Hash: 0D93D399, Key: Bounty_Assassinate_Naha_DregCaster, Value: Sickening Chaos
+Hash: 63E98A0C, Key: Bounty_Assassinate_Naha_HollowBrute, Value: Soulless Hulk
+Hash: 6539CCB9, Key: Bounty_Assassinate_Naha_DregBrute, Value: Parasitic Harbinger
+Hash: 009DD7EF, Key: Bounty_Assassinate_Naha_SnakeMelee, Value: Nangari Ancient
+Hash: AD9CDE72, Key: DGN_KAM_Dreg, Value: Dreg Weaponmaster
+Hash: 99C318CC, Key: DGN_KAM_Lacuni, Value: Vicious Horror
+Hash: 917096A5, Key: DGN_KAM_Hollow, Value: Hollow Soothsayer
+Hash: 65F9911F, Key: Bounty_Assassinate_Naha_DregMelee, Value: Myiasis Herald
+Hash: 308E3FC8, Key: Bounty_Assassinate_Naha_DregRanged, Value: Barbed Venom
+Hash: 7C308F63, Key: X1_Raid_RitualGuardian, Value: Ritual Guardian
+Hash: 2D067EB3, Key: Bounty_Assassinate_Naha_LacuniCaster, Value: Bloodied Claw
+Hash: 10D4538F, Key: Bounty_Assassinate_Naha_LacuniTrapper, Value: Frenzied Maimer
+Hash: E23B3B4C, Key: Bounty_Assassinate_Naha_HollowCaster, Value: Oozing Abhorrence
+Hash: 1B8F1BD5, Key: Bounty_Assassinate_Naha_HollowSpitter, Value: The Bilespewer
+Hash: E43BE98F, Key: Bounty_Infestation_BossHollow, Value: [PH] Head Hollow Honcho
+Hash: 72D0722C, Key: S06_UrehChosen, Value: Chosen
+Hash: 6CAEEE03, Key: S06_KurastUndercity_Enticement_ToxicSoul_StageElite, Value: Spirit Tormentor
+Hash: 7254340F, Key: X1_Undercity_SoulBeaconElites, Value: Wrathful Spirit
+Hash: 2A32DC18, Key: X1_Undercity_LesserTouched, Value: Lesser Afflicted
+Hash: 6E231021, Key: X1_Undercity_SnakeGoldPile_SuperElite, Value: Hoard Guardian
+Hash: 6C8C44E4, Key: X1_Undercity_LacuniTrapElite, Value: Lacuni Champion
+Hash: 2B45A529, Key: X1_Undercity_DregIdol_SuperElite, Value: Idol Fanatic
+Hash: F8DE081A, Key: X1_Undercity_CorpsePileElites, Value: Corpse Devourer

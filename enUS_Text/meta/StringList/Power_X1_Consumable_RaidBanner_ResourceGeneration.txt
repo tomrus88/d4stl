@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: [PH] Resource Generation
+Hash: 2827F416, Key: Buff0_Description, Value: [PH] Increases Resource Generation.

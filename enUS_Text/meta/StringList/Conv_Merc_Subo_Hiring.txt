@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hire Mercenary
+Hash: 8F59AC1D, Key: Line1.199120, Value: I can do what you need.
+Hash: 67DD55DF, Key: Line3.199120, Value: I will not let you down.
+Hash: 4060FFA1, Key: Line5.199120, Value: I will handle it.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Battered Lockbox
+Hash: F2CA04D8, Key: NoticeSignText, Value: The chest is empty, save for a layer of musty straw and a small but content rat.

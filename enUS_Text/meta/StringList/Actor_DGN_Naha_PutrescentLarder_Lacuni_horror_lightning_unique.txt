@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lacuni Fiend
+Hash: CC38ADCB, Key: FlavorName, Value: Famished Wanderer

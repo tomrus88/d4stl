@@ -1,2 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: The Black Tomb
-Hash: 18959B3F, Key: UIName, Value: Teleporter

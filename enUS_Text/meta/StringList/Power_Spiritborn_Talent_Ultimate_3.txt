@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Spiritual Attunement
+Hash: 003892BF, Key: desc, Value: Your maximum Vigor is increased by {c_number}{SF_0}{/c} while you have an {c_important}Ultimate{/c} Skill equipped.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Maximum Vigor {icon:arrow,1.2} {c_number}{SF_0}{/c}

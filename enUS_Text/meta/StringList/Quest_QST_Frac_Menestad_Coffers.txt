@@ -11,4 +11,4 @@ Hash: 6C93809B, Key: Callback14Header, Value: Speak with Monk Bozan
 Hash: 803B8057, Key: Phase20Description, Value: Monk Bozan has asked me to carry the Tithing Demands the rest of the way to Menestad for him. They are stored in a Strongbox near his wrecked wagon.
 Hash: 5E28741A, Key: Callback31Header, Value: Collect the {ITEM}
 Hash: 38C9C8C0, Key: Phase29Description, Value: I have the Tithing Demands. Now to bring them to Merchant Lord Talgun at the Menestad marketplace. 
-Hash: 8CBE4880, Key: Callback28Header, Value: Deliver the Tithing Demands to Talgun the Merchant Lord 
+Hash: 8CBE4880, Key: Callback28Header, Value: Deliver the {ITEM:QST_Frac_MeneCoffers_Tithe} to Talgun the Merchant Lord 

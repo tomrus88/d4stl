@@ -1,0 +1,5 @@
+Hash: 922DD7D3, Key: Line1.1A8EF7, Value: I heard they harvested the adults like cattle taken to slaughter. Left only the little ones to grow bigger. Not enough meat on the bone.
+Hash: E26403A0, Key: VoiceDir1.1A8EF7, Value: Solem 
+Hash: 6AB1818E, Key: Line3.1A8EF0, Value: Great, that’s what Sanctuary needs. A town’s worth of orphans skittering about, picking folks’ pockets.
+Hash: BAE7AD5B, Key: VoiceDir3.1A8EF0, Value:  Horrified 
+Hash: 43352B57, Key: Line5.1A8EF7, Value: Shh! You’ll make ‘em cry if they hear you.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You know Wak'Lan genuinely cares for you, right?"
+Hash: 924DE7C7, Key: Line1.1C2451, Value: As I do for him, of course. Which is why my work is so (clears throat) important. (chuckles)
+Hash: E2841394, Key: VoiceDir1.1C2451, Value: Earnest
+Hash: 6AD19189, Key: Line3.1C2451, Value: Listen, you may not understand how he misleads them all (chuckles), but I do.
+Hash: BB07BD56, Key: VoiceDir3.1C2451, Value: Convicted. Self-assurred. 

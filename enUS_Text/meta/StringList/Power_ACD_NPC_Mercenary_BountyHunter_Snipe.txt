@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Snipe
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c} {c_resource}{Cooldown Time}{/c} seconds
+After readying his crossbow, Subo releases a powerful, piercing bolt that deals massive damage and Pushes enemies towards the target.

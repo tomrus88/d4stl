@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Salt Encrusted Key
-Hash: A646FFA4, Key: Description, Value: Bound to Pallid Delve
 Hash: F5C7BC0A, Key: Flavor, Value: The door it belongs to was constructed to keep the mine safe from dangers found during excavation.
+Hash: A646FFA4, Key: Description, Value: Bound to Pallid Delve

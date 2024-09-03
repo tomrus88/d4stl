@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Raheir's Guard
+Hash: 003892BF, Key: desc, Value: Raheir grants you {c_number}[{SF_0}*100|+%|]{/c} Armor.
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Raheir's Guard
+Hash: 2827F416, Key: Buff0_Description, Value: [{SF_0}*100]% increased Armor

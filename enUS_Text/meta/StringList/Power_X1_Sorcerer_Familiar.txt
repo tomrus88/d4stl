@@ -1,0 +1,24 @@
+Hash: 003DFCC1, Key: name, Value: Familiar
+Hash: 003892BF, Key: desc, Value: {c_label}Charges:{/c} {c_resource}{SF_3}{/c}
+{c_label}Charge Cooldown:{/c} {c_resource}{Recharge Time}{/c_resource} seconds 
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Summon a familiar matching the element of your last cast Skill for {c_number}{buffduration:DURATION_TRACKER}{/c} seconds. It seeks enemies and periodically explodes, dealing {c_number}{payload:DAMAGE_TOOLTIP}{/c} of its element's damage. 
+
+You may have up to {c_number}[SF_15]{/c} {c_important}Familiars{/c} active at a time.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE_TOOLTIP}{/c}
+Hash: 3EE85C46, Key: Buff30_Name, Value: Damage Reduction
+Hash: ADE41789, Key: Buff30_Description, Value: Familiar Damage Reduction
+Hash: 8E37C1A8, Key: Buff41_Name, Value: Damage Increase
+Hash: 38835AAB, Key: Buff41_Description, Value: Increase elemental damage by Familiar type.
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Familiars{/c} apply effects around them every {c_number}{SF_19}{/c} seconds according to their element.
+{icon:bullet, 1.2}Fire: Applies {c_number}{DOT:BURNING}{/c} Burning damage over {c_number}{SF_6}{/c} seconds to enemies.
+{icon:bullet, 1.2}Cold: Applies {c_number}[SF_8|%|]{/c} Chill to enemies.
+{icon:bullet, 1.2}Lightning: Stuns enemies for {c_number}[SF_9]{/c} second.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Familiar
+Hash: 2577B2B4, Key: Mod1_Description, Value: Your {c_important}Familiars'{/c} elements no longer depends on your previous cast Skill, and instead follows a set sequence of Fire to Cold, Cold to Lightning, and Lightning to Fire.
+
+While you have at least two different element {c_important}Familiars{/c} active, you gain {c_number}[SF_10*100|+%|]{/c} Damage Reduction.
+Hash: 948901D1, Key: Mod1_Name, Value: Summoned Familiar
+Hash: 74D6BC35, Key: Mod2_Description, Value: While you have an active {c_important}Familiar{/c}, you deal {c_number}[SF_12*100|x%|]{/c} increased damage of its type.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Invoked Familiar

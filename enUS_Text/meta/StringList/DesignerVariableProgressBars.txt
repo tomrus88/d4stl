@@ -5,3 +5,10 @@ Hash: 36A346FA, Key: Helltide_ThreatLevel0, Value: Unseen
 Hash: 36A346FB, Key: Helltide_ThreatLevel1, Value: Noticed
 Hash: 36A346FC, Key: Helltide_ThreatLevel2, Value: Hunted
 Hash: 36A346FD, Key: Helltide_ThreatLevel3, Value: Hellmarked
+Hash: B197DD0A, Key: Raid_KhazrealmDebuff, Value: [PH] Soul Dispersion
+Hash: 5521E30E, Key: Raid_Beta_SoulsConsumed, Value: Souls Consumed
+Hash: D06F8125, Key: Raid_Generic_WipeProgress, Value: Impending Doom
+Hash: 7947B3B4, Key: X1R_Alpha_Wipe, Value: [PH] Soul Harvest
+Hash: 3E0A5E64, Key: X1R_BetaMid_Wipe, Value: Impending Doom
+Hash: B289B217, Key: X1R_Omega_Wipe, Value: Soul Entanglement
+Hash: E7C534AB, Key: X1R_TreasureBonusKills, Value: First Khazra Treasury

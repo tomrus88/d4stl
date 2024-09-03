@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Counterspell
+Hash: 003892BF, Key: desc, Value: Explode around you and reflect huge Soul Orbs back at their caster
+Hash: F2DE8628, Key: simple_desc, Value: Explode and reflect huge Soul Orbs

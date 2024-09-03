@@ -6,6 +6,8 @@ Hash: 82B0596F, Key: Line1.B5F34.Nec, Value: Too much sitting inside... I think 
 Hash: 872B0E1C, Key: VoiceDir1.B5F34.Nec, Value: To Player. Winded from training. Shaking head.
 Hash: 82B06BC1, Key: Line1.B5F34.Rog, Value: Too much sitting inside... I think I'm getting fat.
 Hash: 872B206E, Key: VoiceDir1.B5F34.Rog, Value: To Player. Winded from training. Shaking head.
+Hash: 82B07025, Key: Line1.B5F34.Spi, Value: Too much sitting inside... I think I'm getting fat.
+Hash: 872B24D2, Key: VoiceDir1.B5F34.Spi, Value: To Player. Winded from training. Shaking head.
 Hash: 82B0700D, Key: Line1.B5F34.Sor, Value: Too much sitting inside... I think I'm getting fat.
 Hash: 872B24BA, Key: VoiceDir1.B5F34.Sor, Value: To Player. Winded from training. Shaking head.
 Hash: 2B509E7D, Key: Line7.EEBAC, Value: Less talking, more hitting.

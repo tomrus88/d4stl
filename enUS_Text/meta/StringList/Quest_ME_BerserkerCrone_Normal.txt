@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Settling the Score
+Hash: 0871A46B, Key: Toast, Value: Compete with Varyana for the most kills.
+Hash: 059C64AB, Key: Callback5Header, Value: Hunt the beasts.
+Hash: 34ADAE21, Key: Callback92Header, Value: Slay more beasts than Varyana!
+Hash: 859EA5AF, Key: Callback117Header, Value: Varyana's Score: {DONE}
+Hash: D298E270, Key: Callback118Header, Value: Your Score: {DONE}
+Hash: 5183C723, Key: Callback58Header, Value: Slay remaining beasts.
+Hash: 112812B0, Key: Callback136Header, Value: Varyana's Score: {DONE}
+Hash: 5E224F71, Key: Callback137Header, Value: Your Score: {DONE}
+Hash: 164945C6, Key: Callback88Header, Value: Beat Varyana in the contest!

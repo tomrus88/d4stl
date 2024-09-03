@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wriggling Trough
+Hash: F2CA04D8, Key: NoticeSignText, Value: This trough overflows with insect shells, their meat sucked out the ends. The lacuni must have been eating these, but where did they find so many?

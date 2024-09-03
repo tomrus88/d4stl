@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Good job Supa, stay with the little ones."
+Hash: 9250BA50, Key: Line1.1C7905, Value: (bleating)
+Hash: E286E61D, Key: VoiceDir1.1C7905, Value: Goat bleating. 

@@ -7,17 +7,13 @@ Hash: 97D1B1F7, Key: Phase118OutsideSubzoneHeader, Value: Accompany your allies 
 Hash: 38AA46F0, Key: Callback235Header, Value: Accompany your allies to the Hungering Swamp 
 Hash: C5A2F9D3, Key: Phase158Description, Value: Taissa refuses to give me the details of her plan, but it apparently requires Yellow Lotus and Maggot Queen Ichor.
 Hash: 6282DC7B, Key: Phase158OutsideSubzoneHeader, Value: Gather supplies for Taissa in the Hungering Swamp
-Hash: 36A5F933, Key: Callback157Header, Value: Collect Maggot Queen Ichor
-Hash: DB40AFF1, Key: Callback173Header, Value: Collect a Yellow Lotus 
+Hash: 36A5F933, Key: Callback157Header, Value: Collect {ITEM:QST_Hawe_Verge5_Maggot_Ichor}
+Hash: DB40AFF1, Key: Callback173Header, Value: Collect a {ITEM:QST_Hawe_Verge5_Lotus}
 Hash: D29EC072, Key: Callback237Header, Value: Collect a Yellow Lotus 
-Hash: D7F1DF10, Key: Callback244Header, Value: Pickup the Yellow Lotus
-Hash: 24EC1BD1, Key: Callback245Header, Value: Pickup the Maggot Queen Ichor
 Hash: 8227EB31, Key: Phase165Description, Value: I should place the materials I gathered in the pot over the fire. Taissa needs them. 
 Hash: E2083799, Key: Phase165OutsideSubzoneHeader, Value: Place the ingredients into the pot at the ritual site
-Hash: 22E7CE14, Key: Callback167Header, Value: Place the Maggot Queen Ichor into the boiling pot
-Hash: A408EC0C, Key: Callback240Header, Value: Place the Yellow Lotus into the boiling pot
-Hash: 4516E3B6, Key: Callback259Header, Value: Pickup the Yellow Lotus
-Hash: 7C8C95CE, Key: Callback260Header, Value: Pickup the Maggot Queen Ichor
+Hash: 22E7CE14, Key: Callback167Header, Value: Place the {ITEM:QST_Hawe_Verge5_Maggot_Ichor} into the boiling pot
+Hash: A408EC0C, Key: Callback240Header, Value: Place the {ITEM:QST_Hawe_Verge5_Lotus} into the boiling pot
 Hash: D186F4B2, Key: Phase175Description, Value: Taissa is convinced that the solution to repairing the Soulstone lies in the Hungering Swamp.
 Hash: 54B4823A, Key: Phase175OutsideSubzoneHeader, Value: Enter the Hungering Swamp
 Hash: 0F29A2F5, Key: Callback177Header, Value: Bring Taissa and Donan to the ritual site
@@ -35,8 +31,6 @@ Hash: 6609EC56, Key: Phase261OutsideSubzoneHeader, Value: Enter the Hungering Sw
 Hash: 637B4C11, Key: Callback263Header, Value: Speak with Taissa
 Hash: 48F9B8CF, Key: Phase271Description, Value: I should place the materials I gathered in the pot over the fire.
 Hash: D8B636F7, Key: Phase271OutsideSubzoneHeader, Value: Return to the ritual site
-Hash: 1D9A8D78, Key: Callback279Header, Value: Pickup the Yellow Lotus
-Hash: 55103F90, Key: Callback280Header, Value: Pickup the Maggot Queen Ichor
 Hash: EF04B912, Key: Callback282Header, Value: Return to the ritual site
 Hash: 15020354, Key: Phase168Description, Value: Now that I've found Taissa and Donan in the Hungering Swamp, I've been asked to ignite the sage bushels nearby. 
 Hash: D52F271C, Key: Phase168OutsideSubzoneHeader, Value: Ignite Braziers at the Ritual Site

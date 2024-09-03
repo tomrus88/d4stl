@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Leech Harvest
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Bring leeches up out of the ground that latch onto surrounding enemies for {c_number}[{SF_2}]{/c} seconds. Each leech Heals you for {c_number}[{SF_4}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,PlayerHealthMax() * {SF_4})]){/c} and deals {c_number}{payload:IMPACT}{/c} damage to its host every second.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: (PH) Each enemy {c_important}Leech Harvest{/c} latches onto grants you a {c_number}[{SF_7}*100|%+|]{/c} bonus to your two highest Core Stats for {c_number}{SF_8}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Leech Harvest Enhancement
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) {c_important}Leech Harvest{/c} grants {c_number}[{SF_9}*100|%+|]{/c} bonus Poison Resistance and {c_number}[{SF_10}*100|%+|]{/c} Maximum Poison Resistance for {c_number}[{SF_2}]{/c} seconds. While you are Poisoned each leech applies {c_number}{dot:POISON_DOT}{/c} Poisoning damage over {c_number}[{buffduration:POISON_DOT}]{/c} seconds to its host.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Leech Harvest Upgrade A
+Hash: 74D6BC35, Key: Mod2_Description, Value: (PH) {c_important}Leech Harvest's{/c} damage is doubled for every {c_number}20%{/c} of the host's Current Life, up to {c_number}{payload:TOOLTIP_MAX_IMPACT}{/c} damage.
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Leech Harvest Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Soil Defense Upgrade C

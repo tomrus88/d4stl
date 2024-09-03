@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Seed of Hatred (PH)
+Hash: 3A4912CF, Key: DescShort, Value: Increase Zakarum Remnant to Rank 3 (PH)

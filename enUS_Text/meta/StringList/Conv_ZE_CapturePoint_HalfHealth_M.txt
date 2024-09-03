@@ -1,0 +1,4 @@
+Hash: F9BC639C, Key: Line15.1C0FE1, Value: They’ve landed some good hits on the Basin!
+Hash: 50B80909, Key: VoiceDir15.1C0FE1, Value: in battle, operating a large unwieldy device (the Basin)
+Hash: D2400D5E, Key: Line17.1C0FE1, Value: The Basin wasn’t meant to withstand this much damage!
+Hash: 293BB2CB, Key: VoiceDir17.1C0FE1, Value: The speaker for the Payloads is a Spiritborn in their 30's whose primary focus is the operation of a mage clan device based on spiritborn techniques. They'll be distracted by their efforts to operate the device while speaking.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Rebounding
+Hash: 003892BF, Key: Desc, Value: {c_important}Quill Volley's{/c} feathers explode at their apex and return to where they were cast, dealing {c_random}[Affix_Value_1*100|%|]{/c} of their normal damage both times.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Quill Volley's{/c} feathers explode at their apex and return to where they were cast, dealing {c_random}[Affix_Value_1*100|%|]{/c} of their normal damage both times.

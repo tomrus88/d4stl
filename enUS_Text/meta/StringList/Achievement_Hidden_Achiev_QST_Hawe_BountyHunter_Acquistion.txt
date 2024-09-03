@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bounty Hunter Acquisition Quest
+Hash: 003892BF, Key: Desc, Value: QST_Hawe_BountyHunter_Acquisition achievement

@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Counterattack
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Charges:{/c} {c_resource}{SF_1}{/c}
+{c_label}Charge Cooldown:{/c} {c_resource}{Recharge Time}{/c_resource} seconds 
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}{c_label}Passive:{/c} Take {c_number}[{SF_13}*100|%|]{/c} less damage while {c_important}{u}Injured{/u}{/c}.
+
+{c_label}Active:{/c} Whirl around and Dodge all direct attacks for {c_number}{buffduration:PARRYING}{/c} seconds, retaliating against Close enemy attackers for {c_number}{payload:PARRY_IMPACT}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:PARRY_IMPACT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: (PH) {c_important}Counterattack's{/c} Charge Cooldown is reduced by {c_number}[{SF_8}|1|]{/c} seconds per stack of {c_important}{u}Ferocity{/u}{/c} you have.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Counterattack Enhancement
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) When you Dodge a Control Impairing attack with {c_important}Counterattack{/c} it will reflect that Crowd Control to all Close enemies for {c_number}{SF_9}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Counterattack Upgrade A
+Hash: 74D6BC35, Key: Mod2_Description, Value: (PH) {c_important}Counterattack's{/c} damage is increased by {c_number}[{SF_10}*100|%x|]{/c} for every Close enemy.
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Counterattack Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Plains Defense Upgrade C

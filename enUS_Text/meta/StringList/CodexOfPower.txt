@@ -69,3 +69,4 @@ Hash: 57A08F09, Key: Expanded, Value: Expanded
 Hash: F9447037, Key: Collapsed, Value: Collapsed
 Hash: 97153719, Key: CodexProgressPercentages, Value: {c_legendary}{s1}{/c} | {s2}
 Hash: 99800CDB, Key: MaxProgress, Value:  | Max ({s1}/{s2})
+Hash: 18176327, Key: ClassFilter_Spiritborn, Value: {icon:ClassIcon_Spiritborn_Small, 2.0}  My class only (Spiritborn)

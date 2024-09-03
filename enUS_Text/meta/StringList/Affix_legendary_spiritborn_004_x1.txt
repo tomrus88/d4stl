@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Wild Claws
+Hash: 003892BF, Key: Desc, Value: {c_important}Rake{/c} manifests a Spirit Jaguar which also casts {c_important}Rake{/c} at a random enemy, dealing {c_random}[Affix_Value_1*100|%|]{/c} Base damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Rake{/c} manifests a Spirit Jaguar which also casts {c_important}Rake{/c} at a random enemy, dealing {c_random}[Affix_Value_1*100|%|]{/c} Base damage.

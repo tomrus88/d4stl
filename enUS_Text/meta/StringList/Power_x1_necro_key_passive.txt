@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Affliction
+Hash: 003892BF, Key: desc, Value: Enemies affected by {c_important}{u}Vulnerable{/u}{/c}, Crowd Control, or Shadow Damage over Time are {c_important}Afflicted{/c}, taking {c_number}[SF_7 * 100|x%|]{/c} increased damage from you and your Minions.
+
+Your {c_important}Curse{/c} Skills deal {c_number}{payload:AFFLICTION_PAYLOAD}{/c} Shadow damage when applied to {c_important}Afflicted{/c} enemies. This amount increases by {c_number}[{SF_2}*100|%x|]{/c} of your Damage to Crowd Controlled, {c_important}{u}Vulnerable{/u}{/c} Damage, and Shadow Damage over Time bonuses combined.
+
+Current Damage Bonus: {c_number}[{SF_6}*100|%x|]{/c}

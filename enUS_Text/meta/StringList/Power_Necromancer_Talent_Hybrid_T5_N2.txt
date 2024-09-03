@@ -1,0 +1,12 @@
+Hash: 14C66756, Key: Buff3_Name, Value: Shadow Feast
+Hash: 16451099, Key: Buff3_Description, Value: At {SF_2} stacks of Shadow Feast and Blood Feast, unleash a burst of Shadow damage.
+Hash: 003DFCC1, Key: name, Value: [PH] Vampiric Feast
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Damaging enemies with your {c_important}Blood{/c} or {c_important}Darkness{/c} Skills has a up to a {c_number}[SF_6|%|]{/c} chance to grant a stack of Blood Feast or Shadow Feast respectively. (up to {c_number}{SF_2}{/c} stacks)
+
+Gaining Blood Feast Heals for {c_number}[{SF_1}*100|1%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_1]){/c}. Gaining Shadow Feast increases your Shadow damage by {c_number}[SF_7 * 100|%|]{/c} for {c_number}{SF_8}{/c} seconds.
+
+When you have {c_number}{SF_2}{/c} stacks of both, unleash a burst of Shadow damage that deals {c_number}{payload:PULSE}{/c} damage and Stuns enemies for {c_number}{SF_4}{/c} seconds.
+Hash: 12713EB5, Key: Buff2_Name, Value: Blood Feast
+Hash: C6E60718, Key: Buff2_Description, Value: At {SF_2} stacks of Shadow Feast and Blood Feast, unleash a burst of Shadow damage.
+Hash: 1970B898, Key: Buff5_Name, Value: Empowered Shadow
+Hash: B503239B, Key: Buff5_Description, Value: Dealing increased Shadow Damage

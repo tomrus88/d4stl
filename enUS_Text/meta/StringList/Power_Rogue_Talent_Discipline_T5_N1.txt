@@ -1,7 +1,7 @@
 Hash: 003DFCC1, Key: name, Value: Close Quarters Combat
 Hash: 003892BF, Key: desc, Value: Damaging a Close enemy with {c_important}Marksman{/c} or {c_important}Cutthroat{/c} Skills each grant a {c_number}[{SF_0}*100|%+|]{/c} Attack Speed bonus for {c_number}{buffduration:RANGED_BONUS}{/c} seconds.
 
-While both Attack Speed bonuses are active, you deal increased damage equal to {c_number}[{SF_2}*100|x%|]{/c} of your Damage vs Crowd Controlled bonus.
+While both Attack Speed bonuses are active, you deal increased damage equal to {c_number}[{SF_2}*100|x%|]{/c} of your Damage vs Close bonus.
 
 Current Damage Increase: {c_number}[SF_3 * 100|%x|]{/c}
 Hash: 1BC5E139, Key: Buff6_Name, Value: Close Quarters Combat
@@ -9,4 +9,4 @@ Hash: 04622D1C, Key: Buff6_Description, Value: Increased Attack Speed from {c_im
 Hash: 1E1B09DA, Key: Buff7_Name, Value: Close Quarters Combat
 Hash: 53C1369D, Key: Buff7_Description, Value: Increased Attack Speed from {c_important}Marksman{/c} Skills.
 Hash: 2070327B, Key: Buff8_Name, Value: Close Quarters Combat
-Hash: A320401E, Key: Buff8_Description, Value: Increased damage vs Crowd Controlled enemies
+Hash: A320401E, Key: Buff8_Description, Value: Increased damage vs Close enemies

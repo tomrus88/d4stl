@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Condition Runes Cache
+Hash: A646FFA4, Key: Description, Value: Contains various Condition Runes.

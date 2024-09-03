@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Ember's Gift
+Hash: 003892BF, Key: desc, Value: You restore {c_number}[{SF_0}*100|%|]{/c} of your Primary Resource per second while inside Aldkin's {c_important}Fire Storm{/c}.

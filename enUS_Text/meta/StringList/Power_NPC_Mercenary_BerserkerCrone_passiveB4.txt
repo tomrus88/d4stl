@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Dismembering
+Hash: 003892BF, Key: desc, Value: Enemies damaged by Varyana's {c_important}Earth Breaker{/c} are left exposed, causing your next hit against them within {c_number}{SF_1}{/c} seconds to be a guaranteed {c_important}{u}Overpower{/u}{/c}. This may only occur on the same target once every {c_number}{SF_2}{/c} seconds.

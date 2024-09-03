@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blacksmith Pricing
+Hash: F2CA04D8, Key: NoticeSignText, Value: A meticulously written list of "suggested" prices that seem excessive, if not unreasonable.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where do you find new recruits?"
+Hash: 92558E62, Key: Line1.1BA1D2, Value: They're both sons of palace workers. Grew up together. They said they wanted more than that life could offer, so I gave them jobs.
+Hash: E28BBA2F, Key: VoiceDir1.1BA1D2, Value: Some affection for the recruits. 
+Hash: 6AD93824, Key: Line3.1BA1D2, Value: They do their families proud.

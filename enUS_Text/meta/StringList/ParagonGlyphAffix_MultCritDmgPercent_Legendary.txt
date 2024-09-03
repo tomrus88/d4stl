@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Increase Critical Strike Damage by {c_number}[{GlyphAffixScalar}|1%x|]{/c}.

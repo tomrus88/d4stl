@@ -1,4 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Living Nightmares
-Hash: 003892BF, Key: Desc, Value: Complete a Sacred and Ancestral Nightmare Dungeon. 
-Hash: 3DA4E5A4, Key: Crit_235720, Value: Sacred
-Hash: 3DA4E58B, Key: Crit_235718, Value: Ancestral
+Hash: 003892BF, Key: Desc, Value: Complete a Nightmare Dungeon in Torment 2 or higher.

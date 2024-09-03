@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Pre-flip
+Hash: 9268BFD6, Key: Line1.1CC1DC, Value: There’s word swirling around town claiming folks are being snatched up. Their souls being used for some sick dark ritual.
+Hash: 6AEC6998, Key: Line3.1CC1DC, Value: Best to keep a lantern or a friend with you tonight.

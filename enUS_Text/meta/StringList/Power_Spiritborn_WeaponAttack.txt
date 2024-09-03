@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Attack
+Hash: 003892BF, Key: desc, Value: Attack enemies in front of you, dealing {c_number}{payload:DAMAGE}{/c} damage.

@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: While standing in a {c_important}Mystic Circle{/c} you deal {c_number}[SF_1*100|x%|]{/c} increased damage and take {c_number}[SF_0*100|x%|]{/c} reduced damage.

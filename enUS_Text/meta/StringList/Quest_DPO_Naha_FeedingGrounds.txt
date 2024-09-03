@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Feed their hunger.
+Hash: 7733992E, Key: Callback134Header, Value: Explore {WORLD:DGN_Naha_FeedingGrounds} and Slay {MONSTER}

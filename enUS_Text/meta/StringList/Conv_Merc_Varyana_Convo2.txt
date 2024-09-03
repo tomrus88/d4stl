@@ -1,0 +1,3 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: You don't talk very much, bounty hunter. Why?
+Hash: 67DD55DF, Key: Line3.199120, Value: I don't have very much to say.
+Hash: 404DEC56, Key: Line5.18782A, Value: (chuckle) Neither do I, and I talk all the time.

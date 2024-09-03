@@ -1,0 +1,8 @@
+Hash: F90B494A, Key: Line810.189135, Value: A well-earned victory.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: proud/happy
+Hash: D18EF30C, Key: Line812.189135, Value: Another adventure done.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: proud/happy
+Hash: AA129CCE, Key: Line814.189135, Value: I’m ready to see the outside again.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: proud/happy
+Hash: 82964690, Key: Line816.189135, Value: Too easy for warriors like us.
+Hash: B906999D, Key: VoiceDir816.189135, Value: proud/happy

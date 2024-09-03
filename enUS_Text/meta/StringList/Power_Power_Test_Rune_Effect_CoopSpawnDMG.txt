@@ -1,0 +1,2 @@
+Hash: 2070327B, Key: Buff8_Name, Value: Cha
+Hash: A320401E, Key: Buff8_Description, Value: Damage is increased

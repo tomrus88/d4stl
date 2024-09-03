@@ -1,0 +1,3 @@
+Hash: 8F59AC1D, Key: Line1.199120, Value: Sometimes Hell finds you. Sometimes you find Hell.
+Hash: 67DD55DF, Key: Line3.199120, Value: We shall not falter, even here.
+Hash: 4060FFA1, Key: Line5.199120, Value: We fight, we live. Simple.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ruined Wild
+Hash: 003892BF, Key: Desc, Value: A place of spirituality is now home to unwelcomed guests.

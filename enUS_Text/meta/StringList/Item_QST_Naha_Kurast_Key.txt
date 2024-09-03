@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Kurast Sewers Key
+Hash: A646FFA4, Key: Description, Value: Bound to the Kurast Reaches
+Hash: F5C7BC0A, Key: Flavor, Value: A key of ancient and curious design, worn smooth by the touch of hundreds of hands.

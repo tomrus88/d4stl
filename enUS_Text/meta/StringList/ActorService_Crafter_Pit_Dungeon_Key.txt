@@ -1,0 +1,4 @@
+Hash: C7866972, Key: ServiceName, Value: Artificer's Obelisk
+Hash: 74450E67, Key: LockedInteractionMenuLabel, Value: To unlock reach level 60 and complete the original campaign.
+Hash: F848B57E, Key: ConditionText_3, Value: Complete the original campaign
+Hash: F848B57F, Key: ConditionText_4, Value: Reach level 60

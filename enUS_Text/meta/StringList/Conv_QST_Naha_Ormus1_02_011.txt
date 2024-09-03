@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who is Maka to you?"
+Hash: 8F4F075B, Key: Line1.17FDAA, Value: Maka? She's a friend... of sorts. A bit rude, a bit rash. We’ve butted heads over the years.
+Hash: DF853328, Key: VoiceDir1.17FDAA, Value: looking over his shoulder, a bit clandestine
+Hash: 67D2B11D, Key: Line3.17FDAA, Value: You can trust her, though.

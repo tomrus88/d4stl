@@ -6,3 +6,4 @@ Hash: 4FA35FB0, Key: Line43.BAE4.Bar.F, Value: You didn’t need that armor to p
 Hash: F9055D12, Key: Line43.BAE4.Dru, Value: You didn’t need that armor to prove your worth, friend.
 Hash: F90585DD, Key: Line43.BAE4.Nec, Value: You didn’t need that armor to prove your worth, friend.
 Hash: F9059C7B, Key: Line43.BAE4.Sor, Value: You didn’t need that armor to prove your worth, friend.
+Hash: F9059C93, Key: Line43.BAE4.Spi, Value: You didn’t need that armor to prove your worth, friend.

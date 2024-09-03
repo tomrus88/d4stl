@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Shadow Strike
+Hash: 003892BF, Key: desc, Value: Aldkin releases a burst of {c_number}{SF_0}{/c} shadow bolts, dealing {c_number}{payload:PROJ_PAYLOAD}{/c} damage per shadow bolt.

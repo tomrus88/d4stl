@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Bastion
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Raheir takes a protective position for {c_number}[SF_2]{/c} seconds, redirecting {c_number}[{SF_3}*100|%|]{/c} of the damage that would be dealt to surrounding allies to himself for {c_number}[SF_2]{/c} seconds. 
+
+{c_important}Bastion's{/c} initial cast also grants surrounding allies {c_important}{u}Unstoppable{/u}{/c} for {c_number}[{SF_5}|1|]{/c} |4second;seconds.

@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Black-stained Letter
+Hash: 923DBEB0, Key: Line1.1B4EE8, Value: Dear Papa,
+Hash: 6AC16872, Key: Line3.1B4EE8, Value: We found the family graves. They’re as big as Mama said! She asked me to write this letter because her hand hurts too much to do it. She thinks the animals here are sick. They've left black muck all over.
+Hash: 43451234, Key: Line5.1B4EE8, Value: That’s what hurt her hand, the muck. She wrapped it up but it’s still bleeding. Before, she said she'd teach me all about my ancestors, but now she says she’s too tired to do anything. Can you come get us? I want to go home.
+Hash: 1BC8BBF6, Key: Line7.1B4EE8, Value: - Timin

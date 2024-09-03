@@ -9,9 +9,9 @@ Hash: 71E69F39, Key: Callback21Header, Value: Search for clues
 Hash: 1315987A, Key: Phase23Description, Value: Bearfa's trail leads farther up the Scar towards Vasily's Reach.
 Hash: 09DCA900, Key: Callback64Header, Value: Search for clues
 Hash: 5CD6EA0D, Key: Phase8Description, Value: Moireach, a druid at Túr Dúlra, is taking care of an old friend who was injured in the Deep Forest. She would like me to find medicinal ingredients in the nearby area.
-Hash: F816C8F3, Key: Callback139Header, Value: Find Bitterleaf Root
-Hash: C980F48D, Key: Callback142Header, Value: Find Spectral Essence
-Hash: 9F90DE2D, Key: Callback7Header, Value: Find Woodwraith Bark
+Hash: F816C8F3, Key: Callback139Header, Value: Find {ITEM:QST_Scos_TendingNature_Herb}
+Hash: C980F48D, Key: Callback142Header, Value: Find {ITEM:QST_Scos_TendingNature_Essense}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Find {ITEM:QST_Scos_TendingNature_Bark}
 Hash: 9F4BFA3B, Key: Phase51Description, Value: I need to use the ingredients to make a salve and use it to treat Bearfa.
 Hash: E9B1E11B, Key: Callback50Header, Value: Use the Mortar and Pestle
 Hash: BDB7A65B, Key: Phase60Description, Value: I need to use the ingredients to make a salve and use it to treat Bearfa.

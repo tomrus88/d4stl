@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Prodigy's Tempo
+Hash: 003892BF, Key: desc, Value: Every {c_number}3rd{/c} consecutive cast of the same {c_important}Basic{/c} Skill increases all purchased Skills' Ranks by {c_number}{SF_4}{/c} for {c_number}{SF_3}{/c} seconds.
+
+Every {c_number}3rd{/c} consecutive cast of the same {c_important}Core{/c} or {c_important}Potency{/c} Skill reduces all Skills' active Cooldowns by {c_number}[{SF_6}*100|%|]{/c}, increased by {c_number}[{SF_5}*100|%|]{/c} for each of their Skill Ranks.
+Hash: 1970B898, Key: Buff5_Name, Value: Prodigy's Tempo
+Hash: B503239B, Key: Buff5_Description, Value: Skill Ranks increased

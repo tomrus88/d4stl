@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Caves of Kutokue
+Hash: 003892BF, Key: Desc, Value: Screams of desperation echo in the walls.

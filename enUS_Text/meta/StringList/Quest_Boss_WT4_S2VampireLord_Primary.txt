@@ -1,5 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: A God Made
 Hash: F81CED9C, Key: Callback33Header, Value: Inspect the {GIZMO}
-Hash: B23C2F03, Key: Callback49Header, Value: Inspect the {GIZMO}
 Hash: BCE26C3F, Key: Callback63Header, Value: Defeat {MONSTER}
-Hash: F0CB5F43, Key: Callback67Header, Value: Defeat {MONSTER}

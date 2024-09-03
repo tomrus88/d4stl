@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Frailty
+Hash: 003892BF, Key: desc, Value: Cursed enemies take {c_number}[SF_0 * SF_1 * 100|%x|]{/c} increased damage from you and your Minions. This bonus is increased by {c_number}[SF_1*100|%x|]{/c} each second they are Cursed, up to {c_number}[SF_3*100|%x|]{/c}.

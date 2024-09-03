@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Evoke the Rogue's {c_important}Stun Grenades{/c}, Stunning and dealing damage to enemies.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Volatile Powder
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Increased Grenades Spawned
+Hash: 003DFCC1, Key: Name, Value: Tun

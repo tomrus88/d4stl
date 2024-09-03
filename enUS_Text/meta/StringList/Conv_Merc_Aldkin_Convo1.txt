@@ -1,0 +1,6 @@
+Hash: 5CE96CA3, Key: Line802.1602FD, Value: Do you take me in because you think I’m a pathetic child?
+Hash: 9359BFB0, Key: VoiceDir802.1602FD, Value: worried
+Hash: 359530DD, Key: Line804.18782A, Value: Where have you seen a child? Because all I see are fighters.
+Hash: 6C0583EA, Key: VoiceDir804.18782A, Value: Curious 
+Hash: 0E18DA9F, Key: Line806.18782A, Value: You’re one of us because you're strong.
+Hash: 44892DAC, Key: VoiceDir806.18782A, Value: proud

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wound Drinker
+Hash: F5C7BC0A, Key: Flavor, Value: The inner curve of this band is lined with thorns that tear the skin whenever it is unbound.

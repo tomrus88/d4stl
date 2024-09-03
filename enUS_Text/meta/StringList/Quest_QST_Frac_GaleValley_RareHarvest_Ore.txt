@@ -4,4 +4,4 @@ Hash: B98DBD5C, Key: Callback15Header, Value: Bring the Icebound Geode to Kratia
 Hash: 5690A71C, Key: Phase16Description, Value: I have everything I need. Now to use the jeweler's tools to crack open the geode.
 Hash: 85A4CA58, Key: Callback11Header, Value: Use the Jeweler's Tools
 Hash: B12EDDB8, Key: Phase21Description, Value: Kratia mentioned that Acid Flux would help open the geode and that Idania should have it.
-Hash: A07C739F, Key: Callback18Header, Value: Buy Acid Flux from Idania in Kyovashad
+Hash: A07C739F, Key: Callback18Header, Value: Buy {ITEM:QST_Frac_GaleValley_RareHarvest_OreKit} from Idania in Kyovashad

@@ -1,0 +1,4 @@
+Hash: 92517AF3, Key: Line1.1C7F8C, Value: Ichorfall was built off the hard work of mining and trading ichor.
+Hash: E287A6C0, Key: VoiceDir1.1C7F8C, Value: pride.
+Hash: 6AD524B5, Key: Line3.1C7F8C, Value: I feel immense pride to see the town grow over the years.
+Hash: BB0B5082, Key: VoiceDir3.1C7F8C, Value: Prideful.

@@ -1,0 +1,3 @@
+Hash: 6B31C388, Key: Line25.18782A, Value: What's the matter? Getting tired already?
+Hash: C22D68F5, Key: VoiceDir25.18782A, Value: Good-natured taunting. 
+Hash: 43B56D4A, Key: Line27.18782A, Value: Can you beat that?

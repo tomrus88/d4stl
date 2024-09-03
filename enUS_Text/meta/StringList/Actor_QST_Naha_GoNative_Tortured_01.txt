@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "Faith Is a Lie"
+Hash: F2CA04D8, Key: NoticeSignText, Value: Those who kneel would die sitting down.

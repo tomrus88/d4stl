@@ -3,9 +3,9 @@ Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost: {/c}{c_resource}{Resource 
 {if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
 {/if}Hurl an exploding ball of fire, dealing {c_number}{payload:PAYLOAD_PROJECTILE}{/c} damage to surrounding enemies.
 Hash: F2D5722F, Key: rankup_desc, Value: {icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:PAYLOAD_PROJECTILE}{/c}
-Hash: 2577B2B4, Key: Mod1_Description, Value: Casting {c_important}Fireball{/c} increases its radius by {c_number}[{SF_5} * 100|%|]{/c}.
+Hash: 2577B2B4, Key: Mod1_Description, Value: Casting {c_important}Fireball{/c} increases its radius by {c_number}[{SF_5} * 100|%|]{/c} and Burns enemies for {c_number}{dot:BURNING}{/c} damage over {c_number}{buffduration:BURNING}{/c} seconds.
 Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Fireball
-Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Fireball's{/c} Critical Strike Damage is increased by {c_number}[{SF_19} * 100|%+|]{/c}, increased to {c_number}[{SF_21} * 100|%+|]{/c} when hitting at least {c_number}3{/c} enemies.
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Fireball's{/c} Critical Strike Damage is increased by {c_number}[{SF_19} * 100|%x|]{/c}, increased to {c_number}[{SF_21} * 100|%x|]{/c} when hitting at least {c_number}3{/c} enemies.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Destructive Fireball
 Hash: B252E239, Key: Mod6_Description, Value: {c_important}Fireball{/c} deals {c_number}[{SF_23} * 100|%|]{/c} of the Burning damage you've applied to enemies as additional direct damage.
 Hash: A032CCF6, Key: Mod6_Name, Value: Greater Fireball

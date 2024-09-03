@@ -1,0 +1,7 @@
+Hash: B58DE1DA, Key: searchpreset_Boss Lairs, Value: Boss Lairs
+Hash: 30EB1F30, Key: searchpreset_Any, Value: Any
+Hash: 1E0F2360, Key: searchpreset_Dark Citadel, Value: Dark Citadel
+Hash: 8A045236, Key: searchpreset_The Pit, Value: The Pit
+Hash: 11F26C3D, Key: searchpreset_The Infernal Hordes, Value: The Infernal Hordes
+Hash: 6E83A3FF, Key: searchpreset_Undercity, Value: Undercity
+Hash: 6747224B, Key: searchpreset_Boss Ladder, Value: Boss Ladder

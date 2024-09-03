@@ -1,2 +1,2 @@
-Hash: 003892BF, Key: Desc, Value: A torrid cavern etched with fire from the Days of Ash.
 Hash: 003DFCC1, Key: Name, Value: Seared Hollow
+Hash: 003892BF, Key: Desc, Value: A torrid cavern etched with fire from the Days of Ash.

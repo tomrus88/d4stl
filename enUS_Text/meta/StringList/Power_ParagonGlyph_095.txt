@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Spawning a {c_important}Spirit Feather{/c} grants you {c_number}[SF_0 * 100|x%|]{/c} increased damage and {c_number}[SF_3 * 100|%|]{/c} increased Movement Speed for {c_number}[SF_2]{/c} seconds, stacking up to {c_number}[SF_1]{/c} times.

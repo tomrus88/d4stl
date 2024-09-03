@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hatred Subdued
+Hash: 003892BF, Key: Desc, Value: Complete the Vessel of Hatred campaign.
+Hash: 720AF4A4, Key: PS4Group, Value: Vessel of Hatred
+Hash: 74601D45, Key: PS5Group, Value: Vessel of Hatred

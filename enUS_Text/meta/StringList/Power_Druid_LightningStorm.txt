@@ -10,3 +10,5 @@ Hash: D618A933, Key: Mod0_Description, Value: {c_important}Lightning Storm{/c} g
 Hash: 9233D930, Key: Mod0_Name, Value: Raging Lightning Storm
 Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Lightning Storm{/c} has a {c_number}[{SF_8}*100|%|]{/c} chance to Immobilize enemies hit for {c_number}{buffduration:IMMOBILIZE}{/c} seconds.
 Hash: 948901D1, Key: Mod1_Name, Value: Primal Lightning Storm
+Hash: 5110F53B, Key: Mod8_Description, Value: While channeling {c_important}Lightning Storm{/c}, gain {c_number}[{SF_20}*100|%|]{/c} of life as Fortify each {c_number}[{SF_2|1|}]{/c} seconds.
+Hash: A4DD1E38, Key: Mod8_Name, Value: Enduring Lightning Storm

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Betrayed Tomb
+Hash: 003892BF, Key: Desc, Value: Spirits writhe as hollows screech out in monstrous agony.

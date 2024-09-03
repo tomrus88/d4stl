@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Iron Grip
+Hash: 003892BF, Key: desc, Value: Varyana's {c_important}Ancient Harpoons{/c} travel {c_number}[{SF_1}*100|%|]{/c} farther and reduce enemies' Impairment Resistance by {c_number}[{SF_0}*100|%|]{/c} for {c_number}[{SF_2}]{/c} seconds.

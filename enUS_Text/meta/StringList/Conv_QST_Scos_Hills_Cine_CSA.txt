@@ -7,6 +7,7 @@ Hash: 7B15AFA9, Key: Line3.BAE4.Nec, Value: The dead are killing your people as 
 Hash: 7B15C1FB, Key: Line3.BAE4.Rog, Value: The dead are killing your people as we speak.
 Hash: 7B15C647, Key: Line3.BAE4.Sor, Value: The dead are killing your people as we speak.
 Hash: 7B1586DE, Key: Line3.BAE4.Dru, Value: The dead are killing our people as we speak.
+Hash: 7B15C65F, Key: Line3.BAE4.Spi, Value: The dead are killing your people as we speak.
 Hash: DA177B3F, Key: Line19.BAB4F, Value: Some will die, yes...but that is the way of nature. It is a crucible. It devours the weak and makes the strong stronger. And those who survive, they will save this land from Hell.
 Hash: 608DBF14, Key: Line11.BAE4, Value: You’ve fallen for the demon’s lies.
 Hash: 0C3A0EB9, Key: Line13.BAB4F, Value: No, no. This is my choice. Lilith only granted me the power to do what must be done.

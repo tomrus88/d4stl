@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Movement Speed Rune Buff
+Hash: C6E60718, Key: Buff2_Description, Value: Increased Movement Speed

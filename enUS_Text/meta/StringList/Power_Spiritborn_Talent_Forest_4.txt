@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Bastion
+Hash: 003892BF, Key: desc, Value: Gain {c_number}{SF_3}{/c} Thorns. While you have a {c_important}{u}Barrier{/u}{/c} your Thorns are increased by {c_number}[{SF_1} * 100|%x|]{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Thorns Bonus {icon:arrow,1.2} {c_number}{SF_3}{/c}

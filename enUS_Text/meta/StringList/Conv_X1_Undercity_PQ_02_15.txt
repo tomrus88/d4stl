@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: [PH] "What happened here?"
+Hash: 928E0F9B, Key: Line1.1EE414, Value: Dregs made it to the surface. And nangari too. I know not how or why, but they walked the streets in plain daylight. I thought the end had come.
+Hash: 6B11B95D, Key: Line3.1EE414, Value: But no one was harmed. Instead, they killed each other. Not since the days of war have we seen such things in our city.

@@ -1,0 +1,4 @@
+Hash: C659DDA7, Key: DefaultKilledByNormalWithPower, Value: {PLAYER} {c_gold}was slain by a{/c_gold} {MONSTER} {c_gold}using{/c_gold} {POWER}
+Hash: 58846F88, Key: DefaultKilledByRareWithPower, Value: {PLAYER} {c_gold}was slain by{/c_gold} {MONSTER} {c_gold}using{/c_gold} {POWER}
+Hash: F3977358, Key: DefaultKilledByBuff, Value: {player} {c_gold}died from{/c_gold} {buff_icon} {buff_name}
+Hash: F0D1F21E, Key: DefaultKilledByBuffNoIcon, Value: {player} {c_gold}died from{/c_gold} {buff_name}

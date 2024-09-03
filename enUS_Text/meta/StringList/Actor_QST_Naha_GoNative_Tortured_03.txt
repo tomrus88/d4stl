@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "Do as You Will"
+Hash: F2CA04D8, Key: NoticeSignText, Value: Discard all restraint, let your actions define you. 

@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: You deal {c_number}[{GlyphAffixScalar}|1%x|]{/c} increased damage to {c_important}{u}Injured{/u}{/c} enemies.

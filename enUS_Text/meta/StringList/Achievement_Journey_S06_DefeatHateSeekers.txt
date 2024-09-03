@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Seeker of Hatred(pH)
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Hate Spreader in Torment I difficulty or higher (PH)

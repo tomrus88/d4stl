@@ -1,0 +1,6 @@
+Hash: 92448A04, Key: Line1.1AC0A7, Value: Death will find me either way, Jiona. I do not run from it.
+Hash: E27AB5D1, Key: VoiceDir1.1AC0A7, Value: honest, warm
+Hash: 6AC8D8F0, Key: Line3.1AD79A, Value: So, you would die a fool?
+Hash: BAFF04BD, Key: VoiceDir3.1AD79A, Value: questioning, playful gibe
+Hash: 434BDD88, Key: Line5.1AC0A7, Value: No. I would die fulfilled.
+Hash: 93820955, Key: VoiceDir5.1AC0A7, Value: honest, direct

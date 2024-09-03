@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: name, Value: Ravager
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}{c_label}Passive:{/c} Minimum {c_important}{u}Ferocity{/u}{/c} increased by {c_number}[{SF_7}|+|]{/c}.
+
+{c_label}Active:{/c} Unleash a savage roar, causing each of your attacks to trigger an additional {c_number}{payload:IMPACT}{/c} damage strike per enemy for {c_number}{buffduration:BUFF_MAIN}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+{c_label}Rank {SF_26}:{/c}
+{icon:bullet, 1.2} Minimum Ferocity {icon:arrow, 1.2} {c_number}[{SF_27}]{/c}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Ravager's{/c} duration is extended by {c_number}[{SF_4}]{/c} seconds per kill while active. This bonus is reduced by {c_number}[{SF_6}|2|]{/c} each kill, to a minimum of {c_number}[{SF_5}|2|]{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Ravager
+Hash: 2577B2B4, Key: Mod1_Description, Value: While {c_important}Ravager{/c} is active, your {c_important}Core{/c} Skills instantly dash to your target and all Vigor Generation is increased by {c_number}[{SF_19}*100|%x|]{/c}.
+Hash: 948901D1, Key: Mod1_Name, Value: Measured Ravager
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Ravager{/c} passively stockpiles any Healing you receive up to {c_number}{SF_21}{/c} stacks. While active, {c_important}Ravager{/c} spends stacks to strike Elite enemies up to an additional {c_number}[({SF_20}*4)-1]{/c} times.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Replenishing Ravager
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Plains Mobility2 Upgrade C

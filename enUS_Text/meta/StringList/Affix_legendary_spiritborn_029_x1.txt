@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Endurance
+Hash: 003892BF, Key: Desc, Value: Your {c_important}{u}Resolve{/u}{/c} has a {c_random}[Affix_Value_1 * 100|%|]{/c} chance to not be lost when you are hit for each stack of {c_important}{u}Ferocity{/u}{/c} you have.

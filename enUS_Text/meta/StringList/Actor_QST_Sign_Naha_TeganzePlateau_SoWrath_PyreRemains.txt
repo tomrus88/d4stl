@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charred Remains
+Hash: F2CA04D8, Key: NoticeSignText, Value: The victim's features look like they were intentionally mutilated to obscure their identity.

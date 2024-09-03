@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!
+Hash: F2CA04D8, Key: NoticeSignText, Value: "UNDEFEATED" LACUNI TRAPPER
+
+There are reports of a man-hunting Lacuni trapper in the area. It is thought that he is undefeated in battle and that all but the fiercest of attacks can pierce his hide.

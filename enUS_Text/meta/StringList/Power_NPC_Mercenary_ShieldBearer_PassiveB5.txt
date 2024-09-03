@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Consecrated Shield
+Hash: 003892BF, Key: desc, Value: Raheir's {c_important}Shield Throw{/c} Consecrates enemies for {c_number}{SF_0}{/c} seconds. Directly damaging a Consecrated enemy Heals you for {c_number}[{SF_1}*100|%|]{/c} of your Maximum Life, once per target.

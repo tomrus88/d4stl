@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to this man?"
+Hash: 92559282, Key: Line1.1BA2C2, Value: Found him wandering the forest, I did. Delirious. Wounds festering like fish left to sun. He’d be rotting beneath the canopy, pickings for scavengers, if I had found him any later.
+Hash: E28BBE4F, Key: VoiceDir1.1BA2C2, Value: calm, informative, somewhat grim. 
+Hash: 1BDCF2A1, Key: Line7.1C8B24, Value: Sh…She…I…Unngh…
+Hash: 6C131E6E, Key: VoiceDir7.1C8B24, Value: groaning, pained, difficulty speaking
+Hash: F464398A, Key: Line9.1BA2C2, Value: Oh, don't you worry, blossom. I'll see you bloom again.
+Hash: 449A6557, Key: VoiceDir9.1BA2C2, Value: soothing, eerily maternal and optimistic

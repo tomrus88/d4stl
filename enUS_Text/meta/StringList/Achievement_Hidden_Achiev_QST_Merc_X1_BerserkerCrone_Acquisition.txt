@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Berserker Crone Acquisition Quest
+Hash: 003892BF, Key: Desc, Value: QST_Merc_X1_BerserkerCrone_Acquisition achievement

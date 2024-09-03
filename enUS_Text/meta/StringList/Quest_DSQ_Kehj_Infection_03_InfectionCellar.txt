@@ -2,7 +2,7 @@ Hash: 003DFCC1, Key: Name, Value: The Only Cure
 Hash: 0871A46B, Key: Toast, Value: Mahjoob's affliction is worsening. A cure must be found quickly.
 Hash: 3FC40BBF, Key: Callback27Header, Value: Go inside Mahjoob's safehouse
 Hash: CF9A89D8, Key: Phase30Description, Value: Mahjoob has asked that I find ghost palm flower from the stash he keeps nearby.
-Hash: D9B88541, Key: Callback29Header, Value: Search Mahjoob's safehouse for ghost palm flower
+Hash: D9B88541, Key: Callback29Header, Value: Search Mahjoob's safehouse for {ITEM:QST_Kehj_Infection_01_CurePlant_CellarBound}
 Hash: 6541F242, Key: Callback48Header, Value: Give Mahjoob the ghost palm flower
 Hash: D03F579C, Key: Phase52Description, Value: The ghost palm wasn't enough. Mahjoob has finalized his transformation. I will bring him the mercy of a quick death.
 Hash: 6A9510E0, Key: Callback55Header, Value: Help Mahjoob

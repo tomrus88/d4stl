@@ -1,0 +1,6 @@
+Hash: 4FB742F0, Key: Callback154Header, Value: Find the Ritual Guardians
+Hash: 3BF917D1, Key: Callback164Header, Value: Obtain Sigils from Ritual Guardians: {DONE_OVER_NEEDED}
+Hash: F81CA6F5, Key: Callback258Header, Value: Use the Sigils to disrupt the Rituals: {DONE_OVER_NEEDED}
+Hash: 112812B0, Key: Callback136Header, Value: Activate the Soul Siphon
+Hash: E7AD4CB7, Key: Callback197Header, Value: Charge the Soul Siphon
+Hash: 5E282D73, Key: Callback256Header, Value: Slay the Barrier Elite

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What was your connection to Grelkar?"
+Hash: 8F4698D2, Key: Line1.18782A, Value: It’s been an age since I saw Grelkar. There was a time when we were both trusted advisors to Tyrant King Brol, along with Zolmog and Molquarth.
+Hash: DF7CC49F, Key: VoiceDir1.18782A, Value: Earnest. 
+Hash: 67CA4294, Key: Line3.18782A, Value: But then, the pale man Elias freed us from Guulrahn's prison, and drove my people to even darker atrocities. When he bent Brol to his will, I dared speak the truth, that we were becoming pawns of Elias. But Grelkar and the others turned against me.
+Hash: B8006E61, Key: VoiceDir3.18782A, Value: Earnest, and bitter at mention of Elias. 
+Hash: 404DEC56, Key: Line5.18782A, Value: I fled for my life. Put my skills to use as a butcher and a mercenary. And swore off human flesh.
+Hash: 90841823, Key: VoiceDir5.18782A, Value: Earnest. 

@@ -1,0 +1,5 @@
+Hash: E69D7F51, Key: Line808.189135, Value: You know, my daughter is around your age. I think you two will be friends.
+Hash: 1D0DD25E, Key: VoiceDir808.189135, Value: happy
+Hash: F8E233E2, Key: Line810.1602FD, Value: Won’t she…be scared of me?
+Hash: 2F5286EF, Key: VoiceDir810.1602FD, Value: worried
+Hash: D18EF30C, Key: Line812.189135, Value: I raised her to read hearts, not appearances.

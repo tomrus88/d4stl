@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Rotted Scrap
+Hash: 923DBE88, Key: Line1.1B4ED1, Value: I am held captive by a species I am unfamiliar with. They lack sensibility and intelligence. As if their brains have rotted.
+Hash: E273EA55, Key: VoiceDir1.1B4ED1, Value: Curious
+Hash: 6AC1684A, Key: Line3.1B4ED1, Value: They are creating a vile concoction of serpent skin, insect frass, and even a splash of their own spit. I assume they will force me to take it.
+Hash: BAF79417, Key: VoiceDir3.1B4ED1, Value: Shudders at "spit". Intrigued yet disgusted.
+Hash: 4345120C, Key: Line5.1B4ED1, Value: I’d fear my death more if I wasn’t so perplexed about the recipe that will reap my last breath.
+Hash: 937B3DD9, Key: VoiceDir5.1B4ED1, Value: Definitive.
+Hash: 1BC8BBCE, Key: Line7.1B4ED1, Value: Yes, this will indeed be my end.
+Hash: 6BFEE79B, Key: VoiceDir7.1B4ED1, Value: Acceptance.

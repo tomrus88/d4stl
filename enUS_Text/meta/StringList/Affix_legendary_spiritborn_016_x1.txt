@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: of Pestilence
+Hash: 003892BF, Key: Desc, Value: {c_important}Stinger{/c} spawns a {c_important}Pestilent Swarm{/c} at its target location which deals {c_random}[Affix_Value_1*100|%|]{/c} of {c_important}Stinger's{/c} Base damage per hit.
+
+{c_important}Pestilent Swarms{/c} now last {c_number}[Affix."Static Value 0"*100|%+|]{/c} longer and spiral outwards.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Stinger{/c} spawns a {c_important}Pestilent Swarm{/c} at its target location which deals {c_random}[Affix_Value_1*100|%|]{/c} of {c_important}Stinger's{/c} Base damage per hit.
+
+{c_important}Pestilent Swarms{/c} now last {c_number}[Affix."Static Value 0"*100|%+|]{/c} longer and spiral outwards.

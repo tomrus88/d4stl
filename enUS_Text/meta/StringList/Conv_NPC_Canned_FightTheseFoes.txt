@@ -142,3 +142,39 @@ Hash: F5F620B6, Key: Line1540.EDC73, Value: Stop them!
 Hash: 2C6673C3, Key: VoiceDir1540.EDC73, Value: panic, fearful
 Hash: DCE4D6F9, Key: Line1543.EDC73, Value: Fend them off! Please!
 Hash: 13552A06, Key: VoiceDir1543.EDC73, Value: panic, fearful
+Hash: 9C077725, Key: Line1551.1BB53F, Value: Put them down!
+Hash: A0822BD2, Key: VoiceDir1551.1BB53F, Value: panic, fearful
+Hash: 60CCF5C8, Key: Line1554.1BB53F, Value: Stop them!
+Hash: 6547AA75, Key: VoiceDir1554.1BB53F, Value: panic, fearful
+Hash: 9D57D84B, Key: Line1548.1BB53F, Value: Fend them off! Please!
+Hash: A1D28CF8, Key: VoiceDir1548.1BB53F, Value: panic, fearful
+Hash: FE161E18, Key: Line1559.1BB540, Value: Put them down!
+Hash: 0290D2C5, Key: VoiceDir1559.1BB540, Value: panic, fearful
+Hash: FCC5BCF2, Key: Line1562.1BB540, Value: Stop them!
+Hash: 0140719F, Key: VoiceDir1562.1BB540, Value: panic, fearful
+Hash: C18B3B95, Key: Line1565.1BB540, Value: Fend them off! Please!
+Hash: C605F042, Key: VoiceDir1565.1BB540, Value: panic, fearful
+Hash: 32277CEF, Key: Line1603.1BB541, Value: Put them down!
+Hash: 36A2319C, Key: VoiceDir1603.1BB541, Value: panic, fearful
+Hash: F6ECFB92, Key: Line1606.1BB541, Value: Stop them!
+Hash: FB67B03F, Key: VoiceDir1606.1BB541, Value: panic, fearful
+Hash: BBB27A35, Key: Line1609.1BB541, Value: Fend them off! Please!
+Hash: C02D2EE2, Key: VoiceDir1609.1BB541, Value: panic, fearful
+Hash: 5A3B0FF7, Key: Line1592.1BB542, Value: Put them down!
+Hash: 5EB5C4A4, Key: VoiceDir1592.1BB542, Value: panic, fearful
+Hash: 1F008E9A, Key: Line1595.1BB542, Value: Stop them!
+Hash: 237B4347, Key: VoiceDir1595.1BB542, Value: panic, fearful
+Hash: E3C60D3D, Key: Line1598.1BB542, Value: Fend them off! Please!
+Hash: E840C1EA, Key: VoiceDir1598.1BB542, Value: panic, fearful
+Hash: F97CCA16, Key: Line1581.1BB543, Value: Put them down!
+Hash: FDF77EC3, Key: VoiceDir1581.1BB543, Value: panic, fearful
+Hash: BE4248B9, Key: Line1584.1BB543, Value: Stop them!
+Hash: C2BCFD66, Key: VoiceDir1584.1BB543, Value: panic, fearful
+Hash: 8307C75C, Key: Line1587.1BB543, Value: Fend them off! Please!
+Hash: 87827C09, Key: VoiceDir1587.1BB543, Value: panic, fearful
+Hash: 98BE8435, Key: Line1570.1BB544, Value: (gasp) Put them down!
+Hash: 9D3938E2, Key: VoiceDir1570.1BB544, Value: panic, fearful
+Hash: 5D8402D8, Key: Line1573.1BB544, Value: Stop them!
+Hash: 61FEB785, Key: VoiceDir1573.1BB544, Value: panic, fearful
+Hash: 2249817B, Key: Line1576.1BB544, Value: Fend them off! Please!
+Hash: 26C43628, Key: VoiceDir1576.1BB544, Value: panic, fearful

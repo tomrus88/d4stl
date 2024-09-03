@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Scattered Remains
+Hash: CC3C0A8F, Key: FlavorText, Value: The missing bone-cleaning worker?
+Hash: F2CA04D8, Key: NoticeSignText, Value: The Giant Bloodhawks must have dropped this poor soul from a great height.
+He's split open like ripe fruit.
+However, there's a disconcerting lack of innards... 

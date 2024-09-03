@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Devoted Protector
-Hash: 003892BF, Key: Desc, Value: Reach Level 100 with any character. 
+Hash: 003892BF, Key: Desc, Value: Reach Paragon Level 200 with any character. 

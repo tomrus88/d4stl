@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is Akarat truly gone?"
+Hash: 8E091FB5, Key: Line5.6DE47, Value: His spirit is, now. Joining with Mephisto made it possible for us to win. But it cost Akarat his immortal soul. It was torn to shreds. I don’t think... there’s anything left of him.
+Hash: C1F212B9, Key: Line9.6DE47, Value: He has given enough to Sanctuary. I wish there was something, anything, I could do for him in turn.

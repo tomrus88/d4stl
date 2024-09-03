@@ -3,11 +3,11 @@ Hash: 0871A46B, Key: Toast, Value: Help Izel restore her human form.
 Hash: 5690A71C, Key: Phase16Description, Value: Izel and I have access to the athenaeum. I should investigate inside.
 Hash: B98DBD5C, Key: Callback15Header, Value: Enter the Athenaeum 
 Hash: 6E589CDA, Key: Phase50Description, Value: Izel has been freed from the shrine and now resides in the vessel I retrieved. She wishes to be brought to her clan’s old athenaeum but is struggling to remember where it resides. If I bring Izel by Caldeum, maybe it will jog her memory. 
-Hash: 995CD0CE, Key: Callback107Header, Value: Retrieve Izel
+Hash: 995CD0CE, Key: Callback107Header, Value: Retrieve {ITEM:QST_Kehj_LadyOasis_IzelGem}
 Hash: 0D16AFDC, Key: Phase70Description, Value: Bringing Izel by Caldeum reminded her the athenaeum was near Dahlgur Oasis. I should take her there next to see if she will recall a more exact location. 
-Hash: 9012F763, Key: Callback76Header, Value: Take Izel to the Dahlgur Oasis
+Hash: 9012F763, Key: Callback76Header, Value: Take {ITEM:QST_Kehj_LadyOasis_IzelGem} to the Dahlgur Oasis
 Hash: C5A4F845, Key: Phase79Description, Value: Izel has been freed from the shrine and now resides in the vessel I retrieved. She wishes to be brought to her clan’s old athenaeum but is struggling to remember where it resides. If I bring Izel by Caldeum, maybe it will jog her memory.
-Hash: 95661601, Key: Callback83Header, Value: Take Izel to overlook Caldeum
+Hash: 95661601, Key: Callback83Header, Value: Take {ITEM:QST_Kehj_LadyOasis_IzelGem} to overlook Caldeum
 Hash: 9AB9349F, Key: Callback90Header, Value: Travel to the Athenaeum's entrance
 Hash: B12CDF46, Key: Phase100Description, Value: Izel claims the athenaeum is north-west from Dahlgur Oasis. I just need to find a mountain path. 
 Hash: 1879A109, Key: Callback102Header, Value: Find the Mountain Path

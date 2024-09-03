@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is the Dark Citadel?"
+Hash: 67F35681, Key: Line3.19A54D, Value: That's the problem, isn't it? We don't truly know.
+Hash: B829824E, Key: VoiceDir3.19A54D, Value: Darkly, describing a fearful unknown. 
+Hash: 40770043, Key: Line5.19A54D, Value: Only one fellow who ever returned could speak of it, and he offered but two words: cold death.
+Hash: 90AD2C10, Key: VoiceDir5.19A54D, Value: Full of dire portent. 

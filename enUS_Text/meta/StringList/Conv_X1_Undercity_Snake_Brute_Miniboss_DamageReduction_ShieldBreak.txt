@@ -1,0 +1,6 @@
+Hash: 9284B9B3, Key: Line1.1F3378, Value: (hisses) Well done.
+Hash: E2BAE580, Key: VoiceDir1.1F3378, Value: Reluctant respect
+Hash: 6B086375, Key: Line3.1F3378, Value: Yes! You are worthy prey!
+Hash: BB3E8F42, Key: VoiceDir3.1F3378, Value: not afraid, having fun
+Hash: 438C0D37, Key: Line5.1F3378, Value: (grunts) Yes! Give me a challenge!
+Hash: 93C23904, Key: VoiceDir5.1F3378, Value: Excitement

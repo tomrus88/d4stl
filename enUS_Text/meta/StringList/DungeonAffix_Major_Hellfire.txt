@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Hellfire
+Hash: EEB7912D, Key: AffixDesc, Value: Monsters are afflicted with Hellfire, which transfers to players when killed. Hellfire increases damage, but deals damage overtime for each stack. Using a potion helps alleviate hellfire with a fiery explosion.

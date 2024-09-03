@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Spicy Paletongue
+Hash: A646FFA4, Key: Description, Value: Increases Attack Speed by {c_number}1%{/c} for {c_number}{s1}{/c} minutes. This bonus increases to {c_number}5%{/c} while Makhni's Massacre bonus is active.
+Hash: F5C7BC0A, Key: Flavor, Value: You may only have one Food effect active at a time.

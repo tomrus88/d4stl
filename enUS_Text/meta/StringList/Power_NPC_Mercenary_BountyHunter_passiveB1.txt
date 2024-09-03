@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Scorched Earth
+Hash: 003892BF, Key: desc, Value: Subo's initial {c_important}Molotov{/c} explosions cause enemies to take {c_number}[{SF_0}*100|x%|]{/c} increased Damage Over Time from you for {c_number}[{SF_1}]{/c} |4second;seconds.

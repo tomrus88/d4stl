@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Knight's Missive
+Hash: 923DBE98, Key: Line1.1B4ECB, Value: My brother and sister Burned Knights, the fires in these sewers burn bright and endlessly. Surely such a thing is a sign sent by our lord and master.
+Hash: 6AC1685A, Key: Line3.1B4ECB, Value: I beg you, join me here, journey to this place and we shall make of it a base for all that we must accomplish.

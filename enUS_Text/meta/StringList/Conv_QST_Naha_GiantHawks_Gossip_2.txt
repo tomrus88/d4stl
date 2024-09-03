@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will I triple in size if I eat the calcified heart?"
+Hash: 92291FE4, Key: Line1.1A10FD, Value: No! Do not do that!
+Hash: E25F4BB1, Key: VoiceDir1.1A10FD, Value: Emphasis on NOT
+Hash: 6AACC9A6, Key: Line3.1A10FD, Value: The giant's parts are valuable to people who know how to process and refine them. Otherwise it’s all just putrid remains.
+Hash: BAE2F573, Key: VoiceDir3.1A10FD, Value: A warning. 

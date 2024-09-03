@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Pit of Anguish
+Hash: 003892BF, Key: Desc, Value: A stinking pit filled with rotting corpses.

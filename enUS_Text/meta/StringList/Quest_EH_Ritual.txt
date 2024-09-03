@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Shrouded Rites
+Hash: E45EC27D, Key: Callback43Header, Value: Attack the Duskscales
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Slay remaining monsters
+Hash: 2A0770E5, Key: Callback78Header, Value: Destroy the Wards of Eyes within the time limit
+Hash: 164945C6, Key: Callback88Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: 38A468EE, Key: Callback116Header, Value: Slay the groups of Duskscales: {DONE_OVER_NEEDED}
+Hash: D298E270, Key: Callback118Header, Value: Destroy the Wards of Eyes: {DONE_OVER_NEEDED}
+Hash: EBAA2C2D, Key: Callback115Header, Value: Destroy the final Ward of Eyes

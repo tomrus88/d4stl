@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Eru
+Hash: 8F4F075B, Key: Line1.17FDAA, Value: I found more of the stinking ichor. Followed a trail of it along the river’s edge to the roots of a mangrove, where it had collected and congealed into a teeming boil.
+Hash: 67D2B11D, Key: Line3.17FDAA, Value: The veil is thin here, too. Like the last. Why does the blight creep so close to our ritual sites?
+Hash: 40565ADF, Key: Line5.17FDAA, Value: It was not possible to toll the dead—the bones were too many. I burned it all. Next time I’ll plug my nostrils with biteberries first, the stench was unholy.

@@ -4,3 +4,4 @@ Hash: 9354EDA4, Key: Line9.BAE4.Dru, Value: You are weak and foolish.
 Hash: 9354E2EE, Key: Line9.BAE4.Bar, Value: This will be your last stupid mistake.
 Hash: 935528C1, Key: Line9.BAE4.Rog, Value: There are so many ways I can kill you.
 Hash: 9355166F, Key: Line9.BAE4.Nec, Value: Your bones betray you.  They shall soon serve me.
+Hash: 93552D25, Key: Line9.BAE4.Spi, Value: You invite the wrath of not one, but thousands.

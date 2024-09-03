@@ -1,4 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: Gem Crafting
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Gem Crafting
 Hash: 9F90DE2D, Key: Callback7Header, Value: Craft a Gem
 Hash: C9FCD1EA, Key: Phase5Description, Value: Jewelers can craft or unsocket gems, and add sockets to items.
 

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Eradicator (PH)
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Echo of Duriel in Torment I or higher difficulty (PH)

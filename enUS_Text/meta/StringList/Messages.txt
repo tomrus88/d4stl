@@ -1,3 +1,5 @@
+Hash: 9D650B3B, Key: TrainingGrounds_TimeToKill, Value: "Time to kill: "
+Hash: 36105700, Key: TrainingGrounds_TimeToKill_TimeString, Value:  seconds
 Hash: EA6C6E5B, Key: TreasureGoblinEscaped, Value: Treasure Goblin escaped!
 Hash: ABE0480D, Key: ZE_Invasion_CaptainSpawn, Value: A Servant of Hell has joined the battle
 Hash: 1DA1A910, Key: ZE_Invasion_LightningRound, Value: [PH] Remnants of the Horde gather...
@@ -18,6 +20,22 @@ Hash: 09228278, Key: SkipCampaignAvailable, Value: Skip Campaign is now availabl
 Hash: 763035A2, Key: S02_BloodSeeker_Ambush, Value: The Blood Seekers are hunting you!
 Hash: 31668346, Key: ButcherSuccess, Value: The Butcher claims {Param1} and returns to Hell.
 Hash: 839B837E, Key: ButcherEscape, Value: The Butcher has abandoned his hunt and returned to Hell.
-Hash: 62FFA047, Key: S03_LYN_LunarShrineReady, Value: The power of the Lunar Shrine has been restored!
-Hash: 9D650B3B, Key: TrainingGrounds_TimeToKill, Value: "Time to kill: "
-Hash: 36105700, Key: TrainingGrounds_TimeToKill_TimeString, Value:  seconds
+Hash: 9F414B17, Key: PartyReviveWarning, Value: [PH] You are running out of time to revive your party mates
+Hash: 04E6381E, Key: QST_Class_Spiritborn_SpiritTether, Value: The spirits begin to weaken the Beast
+Hash: E25CEA1D, Key: QST_Class_Spiritborn_Boss_Vulnerable, Value: The spirits remove the Beast's invulnerability
+Hash: BD0C4373, Key: QST_Class_Spiritborn_HunterBecomesHunted, Value: Beware! The Beast has located its prey.
+Hash: 65747FD4, Key: QST_Class_Spiritborn_Beast_Flees, Value: The Beast flees to another part of the Sacred Hunting Grounds ...
+Hash: 55EC828C, Key: ZE_TowerDefense_Wave1, Value: Monsters are restless around...
+Hash: 55EC828D, Key: ZE_TowerDefense_Wave2, Value: Monsters restlessly roam around various Wards...
+Hash: 55EC828E, Key: ZE_TowerDefense_Wave3, Value: Monsters are restless and frenzied, scattered everywhere...
+Hash: 6B811642, Key: ZE_TowerDefense_Inhibitor_Destroyed, Value: One of the Wards is destroyed! 
+Hash: 38DECEE4, Key: ZE_TowerDefense_Fail, Value: Monsters escape...
+Hash: 40DEC40B, Key: ZE_TowerDefense_Boss_Mini, Value: The Herald of invasion approaches...
+Hash: 5C389948, Key: ZE_TowerDefense_Boss_Final, Value: All remaining forces are gathering...
+Hash: C3CFBE8F, Key: ZE_TowerDefense_Boss_OpenForAttack, Value: The Herald of invasion is open for attack!
+Hash: 1AA4B4B1, Key: S06_ZE_Realmwalker_Begin, Value: The Realmwalker has Spawned
+Hash: 81754BE6, Key: UnderCity_Enticement_Evade, Value: Evasive - You can evade freely and with more impact.
+Hash: 81920D26, Key: UnderCity_Enticement_Ghost, Value: The spirits empower you.
+Hash: 45CDE10A, Key: UnderCity_Enticement_Accelerate, Value: Accelerated - You attack more quickly and lethally.
+Hash: C1E65EDC, Key: UnderCity_Enticement_Mirror, Value: Mirrored - Your Basic and Core Skills will be mirrored
+Hash: EE8EE107, Key: SeethingGoblinEscaped, Value: Seething Goblin escaped!

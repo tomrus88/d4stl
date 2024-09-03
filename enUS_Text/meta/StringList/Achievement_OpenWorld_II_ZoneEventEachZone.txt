@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: Legion Event Expert
-Hash: 003892BF, Key: Desc, Value: Complete a Legion Event in each region.
+Hash: 003892BF, Key: Desc, Value: Complete a Legion Event in each region of Estuar.
 Hash: 3DA4C889, Key: Crit_235077, Value: Fractured Peaks
 Hash: 3DA4C8A5, Key: Crit_235082, Value: Scosglen
 Hash: 3DA4C8A6, Key: Crit_235083, Value: Dry Steppes

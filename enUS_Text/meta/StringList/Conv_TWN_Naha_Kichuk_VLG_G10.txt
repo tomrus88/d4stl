@@ -1,0 +1,6 @@
+Hash: 922DD5AC, Key: Line1.1A8F3B, Value: Bridge to the swamp is back open.
+Hash: E2640179, Key: VoiceDir1.1A8F3B, Value: Interested 
+Hash: 6AB17FD4, Key: Line3.1A8F6E, Value: And the trade routes. Still thinking about leaving?
+Hash: BAE7ABA1, Key: VoiceDir3.1A8F6E, Value: Concerned 
+Hash: 43352930, Key: Line5.1A8F3B, Value: Graveyard on this side, death trap on the other. Akarat’s breath, does it even matter?
+Hash: 936B54FD, Key: VoiceDir5.1A8F3B, Value: matter of fact

@@ -1,5 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: The Judge in Chains
 Hash: 5296A16C, Key: Callback6Header, Value: Inspect the {GIZMO}
-Hash: AB22B0DB, Key: Callback32Header, Value: Inspect the {GIZMO}
-Hash: 7E533BFF, Key: Callback45Header, Value: Defeat {MONSTER}
 Hash: 36AC1DDC, Key: Callback51Header, Value: Defeat {MONSTER}

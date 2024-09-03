@@ -1,3 +1,4 @@
+Hash: 3158FF3E, Key: Callback44Header, Value: Collect the {ITEM}
 Hash: 003DFCC1, Key: Name, Value: Whispers from the depths.
 Hash: 059C64AB, Key: Callback5Header, Value: Slay all enemies in Shipwreck Respite {KAM_REVEALED_COUNT}
 Hash: 38AA8D97, Key: Callback10Header, Value: Defeat the {MONSTER}

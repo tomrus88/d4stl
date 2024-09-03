@@ -3,13 +3,32 @@ Hash: 77B361BD, Key: Line34.BAE4.Nec, Value: I will rip your soul apart!
 Hash: 77B338F2, Key: Line34.BAE4.Dru, Value: You will die!
 Hash: 77B3785B, Key: Line34.BAE4.Sor, Value: Prepare for oblivion!
 Hash: 77B3740F, Key: Line34.BAE4.Rog, Value: Die!
+Hash: 77B37873, Key: Line34.BAE4.Spi, Value: You die today!
 Hash: ECE59EF9, Key: Line40.BAE4.Bar, Value: You will not escape!
 Hash: ECE5D27A, Key: Line40.BAE4.Nec, Value: You cannot escape death!
 Hash: ECE5A9AF, Key: Line40.BAE4.Dru, Value: You will not escape me!
 Hash: ECE5E918, Key: Line40.BAE4.Sor, Value: You cannot escape my grasp!
 Hash: ECE5E4CC, Key: Line40.BAE4.Rog, Value: You will not deny my victory!
+Hash: ECE5E930, Key: Line40.BAE4.Spi, Value: You can’t escape your fate!
 Hash: 052505BF, Key: Line46.BAE4.Bar, Value: You have made a grave mistake this day.
 Hash: 05253940, Key: Line46.BAE4.Nec, Value: You will not live to regret this mistake.
 Hash: 05251075, Key: Line46.BAE4.Dru, Value: You have made a mistake in crossing me.
 Hash: 05254FDE, Key: Line46.BAE4.Sor, Value: You have no idea of the power I wield.
 Hash: 05254B92, Key: Line46.BAE4.Rog, Value: You've doomed yourself already.
+Hash: 05254FF6, Key: Line46.BAE4.Spi, Value: You’ll pay for what you’ve done.
+Hash: 867729DF, Key: Line55.BAE4.Bar, Value: I will prevail.
+Hash: 8AF1DE8C, Key: VoiceDir55.BAE4.Bar, Value: Determined
+Hash: 86773495, Key: Line55.BAE4.Dru, Value: I will end you.
+Hash: 8AF1E942, Key: VoiceDir55.BAE4.Dru, Value: Determined
+Hash: 86776FB2, Key: Line55.BAE4.Rog, Value: I will end you.
+Hash: 8AF2245F, Key: VoiceDir55.BAE4.Rog, Value: Determined
+Hash: 86777416, Key: Line55.BAE4.Spi, Value: I will end you.
+Hash: 8AF228C3, Key: VoiceDir55.BAE4.Spi, Value: Determined
+Hash: 86775D60, Key: Line55.BAE4.Nec, Value: Your end has come.
+Hash: 8AF2120D, Key: VoiceDir55.BAE4.Nec, Value: Determined
+Hash: 867773FE, Key: Line55.BAE4.Sor, Value: This is your end.
+Hash: 8AF228AB, Key: VoiceDir55.BAE4.Sor, Value: Determined
+Hash: A275A5DE, Key: Line57.BAE4, Value: To hell with you!
+Hash: 117F0C0B, Key: VoiceDir57.BAE4, Value: Determined
+Hash: A71FF720, Key: Line59.BAE4, Value: Are you so eager to die?
+Hash: 16295D4D, Key: VoiceDir59.BAE4, Value: Hint of being incredulous--the enemy has chosen this confrontation, and the Player will make them pay for it

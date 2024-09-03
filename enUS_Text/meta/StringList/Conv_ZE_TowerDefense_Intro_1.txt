@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you protecting here?" 
+Hash: 3300328C, Key: Line28.1C5397, Value: What a curious question. Birdsong on the air, the rustling of leaves, the humming of little insects. All these things deserve life.
+Hash: 456DFC85, Key: Line30.1C5397, Value: The Dregs would’ve stomped that out. They twisted the plants for their poison-making, they choked the soil.
+Hash: 1DF1A647, Key: Line32.1C5397, Value: It wasn’t the first time this place died. Once, it was called Toraja, we think. Piles and piles of bones litter the earth. Who knows what happened? It is a mass grave now... one that needs tending.

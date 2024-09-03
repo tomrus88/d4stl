@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: 9251C081, Key: Line1.1C93F4, Value: The entrance to the once-great Necropolis, formerly the only true home to followers of Rathma's teachings.
+Hash: 43591405, Key: Line5.1C93F4, Value: Though necromancers are known to be wanderers, Rathma built this haven for us. Here, Priests of Rathma can study, teach, and reside without the usual judgment of those unfamiliar with our ways.

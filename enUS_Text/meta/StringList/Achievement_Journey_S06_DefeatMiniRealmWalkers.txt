@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Treasure Hunt (PH)
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Hatred Treasure Goblins in Torment I or higher (PH)

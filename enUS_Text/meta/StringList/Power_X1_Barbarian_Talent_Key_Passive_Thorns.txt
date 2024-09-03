@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Barbed Carapace
+Hash: 003892BF, Key: desc, Value: Every {c_number}{SF_0}{/c} Fury you spend grants a stack of {c_important}Barbed Carapace{/c}, increasing your Thorns by {c_number}[{SF_1} * 100|%1|]{/c} for {c_number}{SF_5}{/c} seconds.
+
+Upon reaching {c_number}{SF_2}{/c} stacks, you move freely through enemies for {c_number}{SF_3}{/c} seconds and deal Thorns damage upon colliding with them.
+Hash: 101C1614, Key: Buff1_Name, Value: Barbed Carapace
+Hash: 7786FD97, Key: Buff1_Description, Value: Thorns increased.
+Hash: 12713EB5, Key: Buff2_Name, Value: Barbed Carapace
+Hash: C6E60718, Key: Buff2_Description, Value: Dealing Thorns damage upon colliding with enemies.

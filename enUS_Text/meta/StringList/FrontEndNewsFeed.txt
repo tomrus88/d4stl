@@ -2,3 +2,5 @@ Hash: DCD591A7, Key: NewsFeedPrompt_Open_Controller, Value: Open Newsfeed
 Hash: 42D78BFA, Key: NewsFeedHeader, Value: News Feed
 Hash: 289E9600, Key: NewsFeedEmpty, Value: No recent news
 Hash: A12813AB, Key: NewsFeedPrompt_Close_Controller, Value: Close Newsfeed
+Hash: 3B13565B, Key: ViewNews_Controller, Value:  {icon:r3, 2.0} View News
+Hash: D0AE9403, Key: NewsChangePage_Controller, Value: {icon:Dpad_H_Button, 2.0}

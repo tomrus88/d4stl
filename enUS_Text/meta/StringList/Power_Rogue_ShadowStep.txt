@@ -8,7 +8,7 @@ Hash: F2D5722F, Key: rankup_desc, Value:
 {icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:MELEE_PAYLOAD}{/c}
 Hash: 74D6BC35, Key: Mod2_Description, Value: Damaging an enemy with {c_important}Shadow Step{/c} {c_important}{u}Dazes{/u}{/c} and applies {c_important}{u}Vulnerable{/u}{/c} to them for {c_number}{SF_23}{/c} seconds. 
 Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Shadow Step
-Hash: C435C5B6, Key: Mod3_Description, Value: Damaging an enemy with {c_important}Shadow Step{/c} Stuns them for {c_number}{SF_25}{/c} seconds and reduces its Cooldown by {c_number}{SF_13}{/c} seconds. 
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Shadow Step{/c} deals {c_number}[SF_27*100|%x|]{/c} more damage. Casting {c_important}Shadow Step{/c} reduces its Cooldown by {c_number}{SF_13}{/c} seconds.
 Hash: 99335313, Key: Mod3_Name, Value: Disciplined Shadow Step
 Hash: 1394CF37, Key: Mod4_Description, Value: After {c_important}Shadow Stepping{/c}, you gain {c_number}[{SF_24}*100|%|]{/c} Damage Reduction for {c_number}{SF_15}{/c} seconds.
 Hash: 9B887BB4, Key: Mod4_Name, Value: Methodical Shadow Step

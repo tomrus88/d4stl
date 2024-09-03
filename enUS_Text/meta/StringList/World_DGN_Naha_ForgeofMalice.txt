@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forge of Malice
+Hash: 003892BF, Key: Desc, Value: The fires of hatred continue to burn in this hidden refuge.

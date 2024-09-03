@@ -1,0 +1,2 @@
+Hash: 93B55485, Key: Line14.BAE4.Spi.F, Value: Can’t do that.
+Hash: C4A8B1E6, Key: Line15.BAE4.Spi.F, Value: I can’t use that.

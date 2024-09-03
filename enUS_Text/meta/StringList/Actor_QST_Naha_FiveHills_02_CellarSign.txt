@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Stone Tablet
+Hash: F2CA04D8, Key: NoticeSignText, Value: Life is an ever-giving spark. Light need only be kindled.
+(Characters of an unknown language line the bottom of the tablet.) 

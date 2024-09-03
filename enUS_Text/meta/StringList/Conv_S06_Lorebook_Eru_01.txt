@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Eru
+Hash: 8F4F075B, Key: Line1.17FDAA, Value: From a distance, it seemed a mass of bones and tar, maybe a traveler who failed to mind their step. Imagine my surprise when it lunged at me.
+Hash: 67D2B11D, Key: Line3.17FDAA, Value: It moved like a rabid beast, contorting and dragging itself across the undergrowth, leaving a trail of rancid ichor in its wake. More still gushed from where I pierced it.
+Hash: 40565ADF, Key: Line5.17FDAA, Value: I know this jungle, both the life that inhabits it and the spirits who dwell just beyond sight. This...thing...was neither. It was pain and hatred manifest. And then it was empty.

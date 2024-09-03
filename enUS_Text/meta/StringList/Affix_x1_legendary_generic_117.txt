@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Thorn & Heal
+Hash: 003892BF, Key: Desc, Value: When first damaging Elite, and for {c_number}[Affix."Static Value 0"]{/c} seconds after, your Thorn deals {c_random}[Affix_Value_1|1||%|]{/c} damage and allows you to heal {c_number}[Affix."Static Value 1"|%|]{/c} of your total health per second.

@@ -7,4 +7,4 @@ Hash: 1EADAE68, Key: Callback2Header, Value: Search for Tuji in the Ruins of Qar
 Hash: 61CFD437, Key: Phase11Description, Value: I've retrieved Tuji's body from Qara Yisu. It seems he and the thief, Gan, were victims of the demonic corruption that turned the city to salt. 
 
 I should return Tuji's body to Jargal.
-Hash: 1F9943DA, Key: Callback13Header, Value: Return Tuji's body to Jargal
+Hash: 1F9943DA, Key: Callback13Header, Value: Return {ITEM:QST_Step_SaltBegetsSalt_GoatBody} to Jargal

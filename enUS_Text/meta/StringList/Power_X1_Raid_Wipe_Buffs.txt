@@ -1,0 +1,10 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Impending Doom
+Hash: 2827F416, Key: Buff0_Description, Value: You are afflicted by Impending Doom. You will die soon.
+Hash: 14C66756, Key: Buff3_Name, Value: Impending Doom
+Hash: 16451099, Key: Buff3_Description, Value: You are afflicted by Impending Doom. You will die soon.
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Impending Doom
+Hash: 53C1369D, Key: Buff7_Description, Value: You are afflicted by Impending Doom. You will die soon.
+Hash: 22C55B1C, Key: Buff9_Name, Value: Impending Doom
+Hash: F27F499F, Key: Buff9_Description, Value: You are afflicted by Impending Doom. You will die soon.
+Hash: B09DADE9, Key: Buff15_Name, Value: Impending Doom
+Hash: C43ED3CC, Key: Buff15_Description, Value: You are afflicted by Impending Doom. You will die soon.

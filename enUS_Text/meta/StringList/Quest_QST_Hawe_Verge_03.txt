@@ -16,15 +16,13 @@ Hash: ACF781C3, Key: Phase42OutsideSubzoneHeader, Value: Find Valtha in the Cind
 Hash: 486BD940, Key: Callback82Header, Value: Find Valtha in the Cinder Wastes
 Hash: 145F3402, Key: Phase67Description, Value: Now that I have the purified quicksilver Donan requires, I should return to the ruined tower. 
 Hash: 2790FB8A, Key: Phase67OutsideSubzoneHeader, Value: Bring the Purified Quicksilver to Donan at the Ruined Tower
-Hash: 8ABFD8C5, Key: Callback69Header, Value: Bring Donan the Purified Quicksilver
-Hash: 5708D149, Key: Callback120Header, Value: Pick up the vial of Purified Quicksilver
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Bring Donan the {ITEM:QST_Hawe_Verge3_Spell_Material} 
 Hash: B31D4704, Key: Phase87Description, Value: Valtha had a vial of purified quicksilver on her. I should pick it up. 
 Hash: 0CE990CC, Key: Phase87OutsideSubzoneHeader, Value: Collect the Purified Quicksilver at Valtha's Hovel
-Hash: 7C54CC44, Key: Callback86Header, Value: Collect the Purified Quicksilver
+Hash: 7C54CC44, Key: Callback86Header, Value: Collect the {ITEM:QST_Hawe_Verge3_Spell_Material}
 Hash: 027C5085, Key: Phase97Description, Value: Valtha has called to me. I should speak with her about obtaining purified quicksilver. 
 Hash: 7F95DB6D, Key: Phase97OutsideSubzoneHeader, Value: Speak with Valtha at Valtha's Hovel
 Hash: 6896A125, Key: Callback96Header, Value: Speak with Valtha 
 Hash: F54CBBAC, Key: Phase115Description, Value: I have returned to the ruined tower. I must place the purified quicksilver in the bowl. 
 Hash: A4AAC274, Key: Phase115OutsideSubzoneHeader, Value: Place the vial of Purified Quicksilver on the table at the Ruined Tower
-Hash: 9EAFEF6C, Key: Callback114Header, Value: Place the vial of Purified Quicksilver on the table 
-Hash: F0FD4ACB, Key: Callback122Header, Value: Pick up the vial of Purified Quicksilver
+Hash: 9EAFEF6C, Key: Callback114Header, Value: Place the {ITEM:QST_Hawe_Verge3_Spell_Material} on the table 

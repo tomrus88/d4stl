@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Shield Throw
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Raheir throws his shield, dealing {c_number}{payload:DAMAGE}{/c} Physical damage and Taunting enemies for {c_number}{SF_5}{/c} seconds. The shield bounces up to {c_number}[{SF_3}-1]{/c} times and cannot bounce to the same target twice.

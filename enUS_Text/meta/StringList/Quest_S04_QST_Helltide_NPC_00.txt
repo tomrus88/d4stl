@@ -1,5 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: The Helltide Rises
-Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Doomsayer Pira
-Hash: D53BFF05, Key: Phase0Description, Value: Hell is coming.
-
-Seek out Doomsayer Pira in Kyovashad.

@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Where Credit is Due
+Hash: 0871A46B, Key: Toast, Value: Help a glory seeker find their place in history.
+Hash: D53BFF05, Key: Phase0Description, Value: The Iron Wolf asked me to meet them at an old shrine dedicated to Akarat.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Travel to the Abandoned Shrine
+Hash: 61CFD437, Key: Phase11Description, Value: The Iron Wolf asked me to meet them at an old shrine dedicated to Akarat.
+Hash: 38AA8D97, Key: Callback10Header, Value: Inspect the Abandoned Shrine
+Hash: F4A9EC5A, Key: Phase14Description, Value: It appears Akna was not who they said they were. Still, I made sure there was one less demon in the world.
+Hash: E96ABF3F, Key: Phase19Description, Value: The Iron Wolf from the Kurast docks appeared out of nowhere... I should see what they have to say.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Talk to Akna
+Hash: 803B8057, Key: Phase20Description, Value: Akna wants me to give them the credit for the demon I am about to kill. I'm not sure how I should respond. 
+Hash: 58D5557C, Key: Callback24Header, Value: Make your choice

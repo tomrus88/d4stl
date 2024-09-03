@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Weapon
+Hash: A646FFA4, Key: Description, Value: Random Legendary weapon with an Offensive Aspect

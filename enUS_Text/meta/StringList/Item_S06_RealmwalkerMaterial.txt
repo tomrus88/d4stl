@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Seething Shard
+Hash: A646FFA4, Key: Description, Value: Collected during a Seething Breach. Needed to open chests and activate the Portal Altar inside a Realm of Hatred.
+Hash: F5C7BC0A, Key: Flavor, Value: Crystallized hatred coiled in thick tendrils of putrid ichor. The mere sight of it imposes malevolent thoughts.

@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: name, Value: Payback
+Hash: 003892BF, Key: desc, Value: {if:SF_7}{c_label}Vigor Cost:{/c_label} {c_resource}All Remaining Vigor{/c_resource}
+{/if}{c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Smash enemies in front of you, dealing {c_number}{payload:IMPACT}{/c} damage.
+
+When attacked, you have a {c_number}[{SF_9}*100|%|]{/c} chance to reduce {c_important}Payback's{/c} active Cooldown by {c_number}[{SF_8}|1|]{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+Hash: B09DADE9, Key: Buff15_Name, Value: Payback Cooldown
+Hash: C43ED3CC, Key: Buff15_Description, Value: Payback cannot become free
+Hash: D618A933, Key: Mod0_Description, Value: Each time an enemy attacks you the damage they take from {c_important}Payback{/c} is increased by {c_number}[{SF_15}*100|%+|]{/c} for {c_number}{SF_14}{/c} seconds, up to {c_number}[{SF_15} * {SF_16} *100|%+|]{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Payback
+Hash: 74D6BC35, Key: Mod2_Description, Value: Becoming Control Impaired while {c_important}Payback{/c} is on Cooldown makes it free to cast and grants you {c_important}{u}Unstoppable{/u}{/c} for {c_number}{SF_11}{/c} seconds. Can only occur once every {c_number}{SF_12}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Invasive Payback
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Payback{/c} passively grants you Vigor when you take damage. {c_important}Payback{/c} is now also a {c_important}Core{/c} Skill and consumes all available Vigor to increase its damage by {c_number}[{SF_6}*100|1%x|]{/c} for each point spent.
+Hash: 948901D1, Key: Mod1_Name, Value: Poised Payback
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Upgrade C

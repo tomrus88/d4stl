@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Evasive
+Hash: 003892BF, Key: desc, Value: After Dodging an attack, gain {c_number}[{SF_0}*100|%|]{/c} Damage Reduction for {c_number}[{SF_1}]{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Reduction {icon:arrow,1.2} {c_number}[{SF_0}*100|%|]{/c}

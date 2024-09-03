@@ -1,0 +1,5 @@
+Hash: 922DD51E, Key: Line1.1A8F07, Value: Let it out, child. That’s the only good way to get rid of bad feelings.
+Hash: E26400EB, Key: VoiceDir1.1A8F07, Value: soothing
+Hash: 6AB17F0E, Key: Line3.1A8F0E, Value: Mama and Papa are dead, aren’t they?
+Hash: BAE7AADB, Key: VoiceDir3.1A8F0E, Value: sobbing
+Hash: 433528A2, Key: Line5.1A8F07, Value: Yes, they are. But their blood flows through your veins. You carry them with you, see?

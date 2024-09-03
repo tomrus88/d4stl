@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Explosive Charge
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c} {c_resource}{Cooldown Time}{/c} seconds
+Subo fires {c_number}{SF_0}{/c} {c_important}Explosive Charges{/c} that stick to enemies. Each explodes after {c_number}{SF_2}{/c} seconds, dealing {c_number}{payload:EXPL_PAYLOAD}{/c} Physical damage.
+
+{c_important}Explosive Charges{/c} detonate early if their target dies or takes {c_important}{u}Overpower{/u}{/c} damage.

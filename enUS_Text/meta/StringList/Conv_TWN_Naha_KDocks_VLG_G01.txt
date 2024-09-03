@@ -1,0 +1,4 @@
+Hash: 9246384A, Key: Line1.1AF2F3, Value: Any luck today?
+Hash: 6AC9DF5A, Key: Line3.1AF306, Value: No boats, no fish. Looks like seaweed broth for supper tonight.
+Hash: 434D8BCE, Key: Line5.1AF2F3, Value: You and me both. My daughters are getting sick of the stuff.
+Hash: 1BD132DE, Key: Line7.1AF306, Value: When they’re older, they’ll understand.

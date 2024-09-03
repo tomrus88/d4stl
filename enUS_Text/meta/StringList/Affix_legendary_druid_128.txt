@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Shattered Defenses
+Hash: 003892BF, Key: Desc, Value: {c_important}Stone Burst{/c} causes enemies to take {c_random}[Affix_Value_1|%x|]{/c} increased damage from your other Skills for {c_number}[Affix."Static Value 0"]{/c} seconds. {c_important}Stone Burst{/c}'s Spirit cost is reduced by {c_number}[Affix."Static Value 1"]{/c}.

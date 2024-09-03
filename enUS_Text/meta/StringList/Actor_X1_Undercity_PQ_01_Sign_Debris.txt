@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Splintered Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: This table has been hacked to pieces. The remains of a homemade stew glisten on the floor, the serving bowl split right down the middle.

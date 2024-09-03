@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Coalition of Speed
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{/if}Spin and create a wide circling area for {c_number}{SF_2}{/c} seconds.
+
+While within the circle you are {c_important}{u}Unstoppable{/u}{/c}, can move freely through enemies, and gain:
+{icon:bullet, 1.2} {c_number}[{SF_3}*100|%+|]{/c} increased Attack Speed 
+{icon:bullet, 1.2} {c_number}[{SF_4}*100|%+|]{/c} increased Movement Speed
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet, 1.2} Duration {icon:arrow, 1.2} {c_number}{SF_2}{/c} Seconds
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Plains Mobility2 Enhancement
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Plains Mobility2 Upgrade A
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Plains Mobility2 Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Plains Mobility2 Upgrade C

@@ -7,3 +7,4 @@ Hash: 003AD528, Key: Hire, Value: Hire
 Hash: 14AB3ABB, Key: Stable, Value: Stable
 Hash: F9F335F1, Key: Healer, Value: Heal
 Hash: 7201EDCE, Key: OpenEventShop, Value: Open event shop
+Hash: 0E96BE0E, Key: VendorBarter, Value: Barter

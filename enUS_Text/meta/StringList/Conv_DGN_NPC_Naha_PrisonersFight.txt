@@ -1,0 +1,18 @@
+Hash: FE017921, Key: Line798.1BB53F, Value: I'm not done yet. Let's make them pay.
+Hash: 73DF3F12, Key: Line801.1BB53F, Value: Blessings, stranger. I can still fight.
+Hash: 38A4BDB5, Key: Line804.1BB53F, Value: Don't go without me!
+Hash: 92D11DC4, Key: Line853.1BB540, Value: I'm not done yet. Let's make them pay.
+Hash: 57969C67, Key: Line856.1BB540, Value: Blessings, stranger. I can still fight.
+Hash: 1C5C1B0A, Key: Line859.1BB540, Value: Don't go without me!
+Hash: 3212D7E3, Key: Line842.1BB541, Value: I'm not done yet. Let's make them pay.
+Hash: F6D85686, Key: Line845.1BB541, Value: Blessings, stranger. I can still fight.
+Hash: BB9DD529, Key: Line848.1BB541, Value: Don't go without me!
+Hash: D1549202, Key: Line831.1BB542, Value: I'm not done yet. Let's make them pay.
+Hash: 961A10A5, Key: Line834.1BB542, Value: Blessings, stranger. I can still fight.
+Hash: 5ADF8F48, Key: Line837.1BB542, Value: Don't go without me!
+Hash: 70964C21, Key: Line820.1BB543, Value: I'm not done yet. Let's make them pay.
+Hash: 355BCAC4, Key: Line823.1BB543, Value: Blessings, stranger. I can still fight.
+Hash: FA214967, Key: Line826.1BB543, Value: Don't go without me!
+Hash: D5EDE609, Key: Line809.1BB544, Value: I'm not done yet. Let's make them pay.
+Hash: D49D84E3, Key: Line812.1BB544, Value: Blessings, stranger. I can still fight.
+Hash: 99630386, Key: Line815.1BB544, Value: Don't go without me!

@@ -1,0 +1,4 @@
+Hash: 9273C8AF, Key: Line1.1E55FB, Value: Wreathed in fire. Purged in ash.
+Hash: E2A9F47C, Key: VoiceDir1.1E55FB, Value: chanting
+Hash: 6AF77271, Key: Line3.1E55FB, Value: Expose thy sin. Receive thy lash.
+Hash: BB2D9E3E, Key: VoiceDir3.1E55FB, Value: chanting

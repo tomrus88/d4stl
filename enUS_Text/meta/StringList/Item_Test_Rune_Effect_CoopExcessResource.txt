@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}For {c_number}4{/c} seconds, {c_number}50%{/c} of the resource you generate is granted to other party members without this effect{/c} {c_advanced}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Chorus
+Hash: B582167E, Key: RuneOverflowBehavior, Value: increased amount of resource
+Hash: 003DFCC1, Key: Name, Value: Nam

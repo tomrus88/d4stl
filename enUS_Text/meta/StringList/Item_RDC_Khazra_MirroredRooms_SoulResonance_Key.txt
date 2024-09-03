@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Soul Resonance
+Hash: F5C7BC0A, Key: Flavor, Value: A remnant of soul energy that empowers you

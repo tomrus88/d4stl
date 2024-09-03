@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Khazra Contender
+Hash: 003892BF, Key: Desc, Value: Complete the Rise of the Khazra, Dark Citadel, on any difficulty.
+Hash: 3DB6ED66, Key: Crit_245343, Value: Enclave of Strife
+Hash: 3DB6ED65, Key: Crit_245342, Value: The Labyrinth of Souls
+Hash: 3DB6ED49, Key: Crit_245337, Value: Dominion of Zagraal

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 923C6A18, Key: Line1.1B36C2, Value: Do you think Etsuk Supa will gain an appetite for the Hollows?
+Hash: E27295E5, Key: VoiceDir1.1B36C2, Value: Wondering out loud. Curious and a bit lost in thought.
+Hash: 6AC00E73, Key: Line3.1B3695, Value: (scoffs) If it were you, would you choose to eat a stag or a rotting goat?
+Hash: BAF63A40, Key: VoiceDir3.1B3695, Value: Teasing, knowing how his friend would respond.
+Hash: 4343BD9C, Key: Line5.1B36C2, Value: Well, something is thinning their numbers. If not them, what then?
+Hash: 9379E969, Key: VoiceDir5.1B36C2, Value: Matter-of-fact. A little concerned, a little intrigued.

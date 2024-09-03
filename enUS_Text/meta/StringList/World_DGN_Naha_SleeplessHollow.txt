@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sleepless Hollow
+Hash: 003892BF, Key: Desc, Value: When the dead are forgotten, flesh and bone rise again.

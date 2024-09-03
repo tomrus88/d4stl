@@ -1,0 +1,7 @@
+Hash: C5FA5A22, Key: Callback39Header, Value: Explore the Ancient Nexus
+Hash: 003DFCC1, Key: Name, Value: Ancient Nexus
+Hash: 0871A46B, Key: Toast, Value: [PH] Evil takes root in the depths of the Citadel
+Hash: 58D5557C, Key: Callback24Header, Value: Talk to {MONSTER}
+Hash: 38AA8D97, Key: Callback10Header, Value: Explore the Ancient Nexus
+Hash: 1EADAE68, Key: Callback2Header, Value: Activate the waypoint to conquer the Ancient Nexus
+Hash: DF0BA3DF, Key: Callback36Header, Value: Explore the Ancient Nexus

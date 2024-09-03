@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Intimidated
+Hash: 003892BF, Key: desc, Value: While Varyana has {c_important}Bloodthirst{/c}, enemies around her deal {c_number}[{SF_0}*100|%|]{/c} reduced damage.

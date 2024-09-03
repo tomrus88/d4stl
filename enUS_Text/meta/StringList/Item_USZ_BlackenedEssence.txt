@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blackened Essence
+Hash: A646FFA4, Key: Description, Value: Sacrifice this to the {c_red}Inferno Altar{/c} in a Helltide affected region region to trigger a Tier 3 Event.

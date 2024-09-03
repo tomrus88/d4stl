@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is Nyamoyo a demon?"
+Hash: 92448A04, Key: Line1.1AC0A7, Value: “Demon” carries such weight in those concerned with words. “Good” and “evil.” “Black” and “white.”
+Hash: E27AB5D1, Key: VoiceDir1.1AC0A7, Value: passionate, reflective
+Hash: 6AC833C6, Key: Line3.1AC0A7, Value: Nothing is so simple. It should not be.
+Hash: BAFE5F93, Key: VoiceDir3.1AC0A7, Value: passionate, direct
+Hash: 434BDD88, Key: Line5.1AC0A7, Value: Nyamoyo gives for all that it takes. A warrior’s heart is offered. Protection and strength, given in return.
+Hash: 93820955, Key: VoiceDir5.1AC0A7, Value: passionate, informative
+Hash: 1BCF874A, Key: Line7.1AC0A7, Value: Do “demons” really deserve such condemnation without consideration? Do we?
+Hash: 6C05B317, Key: VoiceDir7.1AC0A7, Value: direct, heartfelt, playfully questioning

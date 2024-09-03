@@ -15,3 +15,4 @@ Hash: 6A9510E0, Key: Callback55Header, Value: Speak with Leyrana
 Hash: 336FADE6, Key: Phase98Description, Value: Speak with Leyrana about what comes next.
 Hash: B590DDE6, Key: Callback97Header, Value: Speak with Leyrana
 Hash: 04BB75EA, Key: Callback112Header, Value: Defeat Bakira's ghost
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Rogue Specializations

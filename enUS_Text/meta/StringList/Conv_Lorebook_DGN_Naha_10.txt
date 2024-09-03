@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Alchemist's Research
+Hash: 923DBE9B, Key: Line1.1B4ECE, Value: There is no curse here. Instead, this place of the dead provides what we need. The venom we extract from these serpents is the last necessary element for the elixir we seek.
+Hash: 6AC1685D, Key: Line3.1B4ECE, Value: It fortifies us, makes us… more. Only briefly now, but we will perfect it, extend its effects. How much more do we dare?
+Hash: 4345121F, Key: Line5.1B4ECE, Value: Arderus perished this morning. The dose was too much, and he died in agony. But he was weak. His mistake will not be ours. We’ll push the limits of our tolerance, and grasp ultimate power!

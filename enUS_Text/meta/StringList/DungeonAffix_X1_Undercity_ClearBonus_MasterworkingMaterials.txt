@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Clear Bonus: Masterworking Materials
+Hash: EEB7912D, Key: AffixDesc, Value: Successfully defeating the District Boss with Attunement will reward Masterworking Materials.

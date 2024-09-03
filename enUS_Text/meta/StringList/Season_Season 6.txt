@@ -1,0 +1,12 @@
+Hash: EA23DD2A, Key: SeasonName, Value: Season of Hatred Rising
+Hash: 5DD12FED, Key: SeasonDescription, Value: Hatred seeps from the jungles of Nahantu as the mysterious Realmwalkers spread Mephisto's influence across Sanctuary.
+Hash: 1CBFC5D3, Key: SeasonBeginText, Value: Begins {s1}
+Hash: BD77CD05, Key: SeasonEndText, Value: Ends {s1}
+Hash: 21D081BA, Key: SeasonInfoText, Value: {c_highlight}{icon:bullet, 1}Realmwalkers:{/c} Slay these hulking demons to open a portal to a Seething Realm
+
+{c_highlight}{icon:bullet, 1}Seething Realms:{/c} Choose your path and clear the dungeon to earn a Seething Opal
+
+{c_highlight}{icon:bullet, 1}Seething Opals:{/c} Powerful consumables with your buff of choice
+
+{c_highlight}{icon:bullet, 1}Corrupted Wells of Reflection:{/c} Find and cleanse these pools to earn greater Experience
+

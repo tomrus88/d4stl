@@ -1,4 +1,5 @@
 Hash: 003DFCC1, Key: name, Value: Endless Pyre
-Hash: 003892BF, Key: desc, Value: You deal increased Burning damage to enemies for each second they remain Burning, up to {c_number}[{SF_0}*100|%x|]{/c} after {c_number}{SF_1}{/c} seconds.
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0}*100|%x|]{/c} increased Burning damage. This bonus is increased to {c_number}[{SF_1}*100|%x|]{/c} to enemies while they are affected by more Burning Damage Over Time than their total Life.
 Hash: F2D5722F, Key: rankup_desc, Value: 
-{icon:bullet,1.2} Maximum Damage Increase {icon:arrow,1.2} {c_number}[{SF_0}*100|%x|]{/c}
+{icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_0}*100|%x|]{/c}
+{icon:bullet,1.2} Bonus Damage Increase {icon:arrow,1.2} {c_number}[{SF_1}*100|%x|]{/c}

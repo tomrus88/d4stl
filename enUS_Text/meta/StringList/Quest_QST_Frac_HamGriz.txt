@@ -3,4 +3,4 @@ Hash: 0871A46B, Key: Toast, Value: Retrieve a fabled weapon from the Rimescar Ca
 Hash: C9FCD1EA, Key: Phase5Description, Value: Greganoch of the Bear Tribe has asked that I reclaim the Grizzly's Maul. The tribe's champion who wielded the weapon was taken to the Rimescar Cavern.
 Hash: 9F90DE2D, Key: Callback7Header, Value: Enter the Rimescar Cavern and acquire the {ITEM}.
 Hash: 30DC76D6, Key: Phase10Description, Value: I have obtained the storied Grizzly's Maul. I should return it to Greganoch of the Bear Tribe. 
-Hash: 398557AF, Key: Callback9Header, Value: Return the Grizzly's Maul to Greganoch
+Hash: 398557AF, Key: Callback9Header, Value: Return the {ITEM:QST_Frac_HamGriz_Hammer_Quest} to Greganoch

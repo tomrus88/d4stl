@@ -25,3 +25,6 @@ Hash: E88405F7, Key: SkipCampaign, Value: Are you sure you want to skip campaign
 Hash: 7380699F, Key: SkipCampaign_Header, Value: Skip Campaign
 Hash: 36604393, Key: ResetDungeonFailPartyLeaderInDungeon, Value: You must leave the dungeon before trying to reset it.
 Hash: 3035689E, Key: ResetDungeonFailPartyMemberInDungeon, Value: One or more party members are in a dungeon. All party members must be outside the dungeon before you can reset all dungeons.
+Hash: 884BEBE8, Key: SKipX1Campaign_Header, Value: Skip Expansion Campaign
+Hash: 3E2C6EED, Key: SkipX1Campaign_Body, Value: Are you sure you want to skip the expansion campaign? You cannot undo this on this character.
+Hash: 28198E2A, Key: X1Entitlement_Location, Value: The location that you are trying to access requires the Vessel of Hatred Expansion. You can find more information about the expansion in the Shop. 

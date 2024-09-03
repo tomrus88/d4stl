@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: The Festering Dark
+Hash: 0871A46B, Key: Toast, Value: Hatred festers in a long-forgotten ruin
+Hash: 1847B581, Key: Callback47Header, Value: Investigate the caves
+Hash: 38AA8D97, Key: Callback10Header, Value: Bring the reliquary lantern to the source of the hateful dark
+Hash: ED76B060, Key: Callback19Header, Value: Use warding braziers to slay Maleficium
+Hash: FD700C3A, Key: Callback40Header, Value: Slay Maleficium
+Hash: 8CBE4880, Key: Callback28Header, Value: Rekindle the Wanderer's Shrine to conquer the Festering Dark
+Hash: 45172A5D, Key: Callback34Header, Value: Use the reliquary lantern to activate the warding brazier and open a way forward

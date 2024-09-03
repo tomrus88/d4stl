@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Quench the fire before it spreads.
+Hash: 4A6A48FB, Key: Callback41Header, Value: Explore {WORLD:DGN_Naha_ForgeofMalice} and Slay the Knight Council

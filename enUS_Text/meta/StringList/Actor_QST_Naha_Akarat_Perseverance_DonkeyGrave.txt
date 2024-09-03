@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Makeshift Grave Marker
+Hash: CC3C0A8F, Key: FlavorText, Value: Recently disturbed dirt
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Libuwem
+The heroic mule.
+A savior in more ways than one.
+We will miss him forever."

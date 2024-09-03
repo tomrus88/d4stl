@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Terrifying Hunt
+Hash: E4589DD4, Key: Callback149Header, Value: Enter {EVENT_LEVELAREA}
+Hash: 81A1C639, Key: Callback199Header, Value: Defeat the Lacuni waves
+Hash: 904AC0ED, Key: Callback250Header, Value: Slay the Terror: {DONE_OVER_NEEDED} 
+Hash: 4C68720F, Key: Callback225Header, Value: Kill the Lacuni waves within {NEEDED} seconds after spawning: {LEFT} 
+Hash: 58D50ED5, Key: Callback249Header, Value: Slay the Terror

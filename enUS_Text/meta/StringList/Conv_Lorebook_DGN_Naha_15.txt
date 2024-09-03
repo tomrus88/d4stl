@@ -1,0 +1,7 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Deranged Scribbles
+Hash: 923DBE8A, Key: Line1.1B4ED3, Value: The hairs on the back of my neck stood when I heard the first whispered hiss. Quickly my mind took me to fear. The next hiss was methodical and gentle, the hairs fell, and I listened.
+Hash: E273EA57, Key: VoiceDir1.1B4ED3, Value: Voice getting more and more disturbed. A haunted feeling.
+Hash: 6AC1684C, Key: Line3.1B4ED3, Value: “Follow us for succor, your peril will heal.” These whispers are truth, I tell you, they have found comfort in the walls of my skull.
+Hash: 4345120E, Key: Line5.1B4ED3, Value: I must find the source.  I must find the source.  I must find the source.  
+
+The whispers.  My relief.

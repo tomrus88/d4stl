@@ -1,0 +1,10 @@
+Hash: F90B494A, Key: Line810.189135, Value: I hope the inn has something to warm me up.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: happy
+Hash: D18EF30C, Key: Line812.189135, Value: I wish Fayira could see this place. I do miss her.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: sad
+Hash: AA129CCE, Key: Line814.189135, Value: I wouldn’t mind a rest.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: happy
+Hash: 82964690, Key: Line816.189135, Value: The open road is nice, but I did miss civilization.
+Hash: B906999D, Key: VoiceDir816.189135, Value: wistful
+Hash: 5B19F052, Key: Line818.189135, Value: A good place for us to regroup.
+Hash: 918A435F, Key: VoiceDir818.189135, Value: happy

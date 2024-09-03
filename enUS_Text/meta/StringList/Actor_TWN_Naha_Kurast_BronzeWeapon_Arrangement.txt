@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Weapon Rack
+Hash: F2CA04D8, Key: NoticeSignText, Value: Cast bronze weapons and utensils, forged in ancient fires but weathered by time and use, now bear a mystical patina.

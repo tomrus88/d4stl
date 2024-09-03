@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: Concussive Stomp
+Hash: 003892BF, Key: desc, Value: {if:SF_10}{c_label}Charges:{/c} {c_resource}{SF_12}{/c}
+{c_label}Charge Cooldown:{/c_label} {c_resource}{Recharge Time}{/c} seconds
+{else}{c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c} seconds
+{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Stomp in front of you, releasing a shockwave that deals {c_number}{payload:IMPACT}{/c} damage and Knocks Down enemies for {c_number}{buffduration:KNOCKDOWN}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+{icon:bullet, 1.2} Knockdown Duration {icon:arrow, 1.2} {c_number}{buffduration:KNOCKDOWN}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Concussive Stomp{/c} grants a {c_important}{u}Barrier{/u}{/c} equal to {c_number}[{SF_13} * 100|%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_13]){/c} per enemy hit for {c_number}{buffduration:BARRIER}{/c} seconds, up to {c_number}[{SF_13} * {SF_14} * 100|%|]{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Concussive Stomp
+Hash: 2577B2B4, Key: Mod1_Description, Value: When enemies recover from {c_important}Concussive Stomp{/c}, you Dodge their next {c_number}{SF_8}{/c} |4attack:attacks;.
+Hash: 948901D1, Key: Mod1_Name, Value: Adaptable Concussive Stomp
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Concussive Stomp{/c} gains an additional Charge and does {c_number}[{SF_11}*100|%x|]{/c} increased damage to {c_important}{u}Unstoppable{/u}{/c} enemies and Bosses.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Reinforced Concussive Stomp
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Forest Control Upgrade C

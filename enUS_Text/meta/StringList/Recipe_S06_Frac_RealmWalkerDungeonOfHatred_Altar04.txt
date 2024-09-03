@@ -1,0 +1,4 @@
+Hash: BFBB6413, Key: SubHeader, Value: Realm Bonus
+Hash: D0201B8E, Key: MainHeader, Value: Masterworking Materials
+Hash: F5C7BC0A, Key: Flavor, Value: Clearing this realm grants Seething Opals that, when consumed, cause {c_yellow}Masterworking Materials{/c} to from monster kills.
+Hash: ED2058BC, Key: Button, Value: Open Portal

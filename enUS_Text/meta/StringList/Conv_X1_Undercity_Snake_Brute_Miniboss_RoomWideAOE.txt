@@ -1,0 +1,6 @@
+Hash: 9284B9B3, Key: Line1.1F3378, Value: You cannot hide.
+Hash: E2BAE580, Key: VoiceDir1.1F3378, Value: dark chuckle, absolute confidence
+Hash: 6B086375, Key: Line3.1F3378, Value: Enough tricks!
+Hash: BB3E8F42, Key: VoiceDir3.1F3378, Value: taking back control
+Hash: 438C0D37, Key: Line5.1F3378, Value: Running will not save you.
+Hash: 93C23904, Key: VoiceDir5.1F3378, Value: enjoying it, almost too much

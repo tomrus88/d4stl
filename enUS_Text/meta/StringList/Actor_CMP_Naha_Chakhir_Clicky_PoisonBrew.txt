@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Poison Brew
+Hash: F2CA04D8, Key: NoticeSignText, Value: A mix of toxins from flowers and insects. The stone beneath is cracked from lines of caustic 
+liquid. Nearby flora withers. How do they drink this?

@@ -287,6 +287,17 @@ Hash: 8ECDF563, Key: DisconnectedFromServerDueToInactivity, Value: Disconnected 
 Hash: BAB13A92, Key: TownPortalExitingWorldEventWarning, Value: Your party is leaving this event and will be unable to return.
 Hash: 0091CB02, Key: DungeonAbandonedWarning, Value: {s1} has been abandoned and will close in 60 seconds.
 Hash: 167A72C9, Key: DungeonAbandonedClosure, Value: {s1} has been closed.
-Hash: 46E433C9, Key: TownPortalUnspentGlyphXPWarning, Value: You have unspent glyph xp. It will be lost if this dungeon closes.
+Hash: BA2E52DB, Key: TownPortalUnspentGlyphUpgradeAttemptsWarning, Value: You have unspent glyph upgrade attempts. It will be lost if this dungeon closes.
 Hash: A98C499C, Key: PvPPartyMemberDeclinedRemoveHostile, Value: One or more party members declined to remove their Bloodmark.
 Hash: E8F28CF3, Key: REPUTATION_LEVEL_CURRENT_VALUES, Value: Rank %d: %s
+Hash: E23C43D7, Key: TEST_Spiritborn_Spirit_Full, Value: Spirit Full
+Hash: 90937727, Key: TEST_Spiritborn_PrimalWrath_Full, Value: Invoke Ready
+Hash: 7D686DB9, Key: TEST_Spiritborn_IncarnateModeReady, Value: Incarnate Mode Ready
+Hash: B9805DBF, Key: TEST_Spiritborn_IncarnateMode_Active, Value: Incarnate Mode
+Hash: 90B835CF, Key: PlayerClassSpiritborn, Value: |5Spiritborn:Spiritborn
+Hash: FAA9F58E, Key: PlayerClassSpiritbornMale, Value: Spiritborn
+Hash: 3CF26059, Key: PlayerClassSpiritbornFemale, Value: Spiritborn
+Hash: BB59DD53, Key: PlacePing, Value: {pLAYER} has placed a {s1} {s2}
+Hash: 9CD74FDB, Key: PlacePingMonster, Value: {pLAYER} has placed a {s1} ping on {mONSTER}
+Hash: 8478A126, Key: ParagonLevelUpCongrats, Value: Congratulations, you have reached Paragon Level {s1}!
+Hash: 7BF5873E, Key: DownloadingSpeechLocale, Value: Downloading Speech Locale

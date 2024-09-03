@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Child's Drawing
+Hash: F2CA04D8, Key: NoticeSignText, Value: A child's drawing of two people holding hands. The bigger figure is scratched out.

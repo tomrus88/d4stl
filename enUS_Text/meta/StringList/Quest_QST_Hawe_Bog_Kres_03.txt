@@ -7,4 +7,4 @@ Hash: 9012F763, Key: Callback76Header, Value: Acquire the {ITEM}
 Hash: 8784047D, Key: Phase17Description, Value: I've burned the remains. I hope they're at peace now. I should return to Kres. 
 Hash: 0687FA1D, Key: Callback16Header, Value: Return to Kres
 Hash: 1315987A, Key: Phase23Description, Value: I should go to the pyre in Backwater. I can burn the remains there.
-Hash: BEE0DBFA, Key: Callback22Header, Value: Burn the Exsanguinated Remains
+Hash: BEE0DBFA, Key: Callback22Header, Value: Burn the {ITEM:QST_Hawe_Kres_03_DismemberedRemains}

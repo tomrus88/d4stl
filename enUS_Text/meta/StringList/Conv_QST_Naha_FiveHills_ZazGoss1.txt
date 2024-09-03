@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How do you know Eru?"
+Hash: 8F58EA80, Key: Line1.196EC1, Value: He was little, once. Grew up in that home right over there. Until he was old enough for the Trial.
+Hash: 67DC9442, Key: Line3.196EC1, Value: He had the talent, alright. He was always driving his folks mad, shirking chores to run off to the grounds.
+Hash: 40603E04, Key: Line5.196EC1, Value: He was a good boy. A good man, now. You must be alright, if he trusts you.
+Hash: 909669D1, Key: VoiceDir5.196EC1, Value: fondly

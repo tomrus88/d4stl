@@ -1,1 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Flawless Diamond
+Hash: F5C7BC0A, Key: Flavor, Value: Courage washes over you in its presence.

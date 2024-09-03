@@ -1,13 +1,13 @@
 Hash: DD0D3424, Key: Callback77Header, Value: Take Vigo's Report
 Hash: 003DFCC1, Key: Name, Value: Ill Tidings
 Hash: 0871A46B, Key: Toast, Value: Travel to the Cathedral of Light
-Hash: 9AC58840, Key: BreadcrumbHeader, Value: Travel to the Cathedral of Light
-Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must seek out the Cathedral of Light and warn them of Lilith. Lorath suggested they may make useful allies in our fight against the Daughter of Hatred.
 Hash: 9367FF5C, Key: Phase34Description, Value: Lorath has gone to the Dry Steppes to follow the path of the mysterious man in the vision. I will travel north to warn the Cathedral of Light of Lilith's return and seek their advice.
-Hash: DC652C24, Key: Phase34OutsideSubzoneHeader, Value: Enter the Cathedral of Light
 Hash: F81CED9C, Key: Callback33Header, Value: Enter the Cathedral of Light
 Hash: D53BFF05, Key: Phase0Description, Value: Reverend Mother Prava has agreed to speak with me regarding the rumors of Lilith.
-Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Speak with Reverend Mother Prava at the Cathedral of Light
 Hash: 56D6E5C1, Key: Callback65Header, Value: Speak with Reverend Mother Prava
 Hash: 0D16AFDC, Key: Phase70Description, Value: Reverend Mother Prava has provided me with the report from the Knight Penitent Captain Vigo to take and read before traveling to Yelesna to meet him personally.
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Travel to the Cathedral of Light
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must seek out the Cathedral of Light and warn them of Lilith. Lorath suggested they may make useful allies in our fight against the Daughter of Hatred.
+Hash: DC652C24, Key: Phase34OutsideSubzoneHeader, Value: Enter the Cathedral of Light
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Speak with Reverend Mother Prava at the Cathedral of Light
 Hash: 62E26CA4, Key: Phase70OutsideSubzoneHeader, Value: Take Vigo's Report at the Cathedral of Light

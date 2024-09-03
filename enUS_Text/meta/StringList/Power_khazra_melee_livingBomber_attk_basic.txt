@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Blades
+Hash: 22C55B1C, Key: Buff9_Name, Value: Imbued Blades Bleed
+Hash: 4FDB5351, Key: Payload1_DisplayName, Value: Imbued Blades
+Hash: 3DF86FD4, Key: Payload4_DisplayName, Value: Imbued Blades

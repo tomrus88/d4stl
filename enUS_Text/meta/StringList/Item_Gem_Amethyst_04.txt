@@ -1,1 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Flawless Amethyst
+Hash: F5C7BC0A, Key: Flavor, Value: Light seems to bend away from this curio.

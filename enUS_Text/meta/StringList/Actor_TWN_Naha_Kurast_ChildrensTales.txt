@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Book of Children's Tales
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Lift your heads, beat your chests and drums: Harsus flees. Adorn yourself with smiles and cheer: the toad-faced demon was beaten. Raise your heads to the sun. Aya! Aya! Raise your heads to the sun."

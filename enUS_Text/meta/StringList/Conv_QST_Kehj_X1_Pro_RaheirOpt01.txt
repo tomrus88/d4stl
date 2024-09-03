@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are these creatures?"
+Hash: 8F4793C2, Key: Line1.189135, Value: Hard to say for certain. Could’ve been khazra at one point, could’ve been people. The infection turns them all into... this.
+Hash: 67CB3D84, Key: Line3.189135, Value: We call them Hollows. First sightings were… a month ago, not long after Neyrelle left. Now we’re drowning in them.

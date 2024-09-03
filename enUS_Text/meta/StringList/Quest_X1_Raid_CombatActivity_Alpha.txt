@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Raid Combat Activity: Alpha
+Hash: 9CBD3BB5, Key: Callback393Header, Value: Slay {monster}
+Hash: F6D223D1, Key: Callback407Header, Value: Engage {monster}

@@ -1,0 +1,4 @@
+Hash: 926AA74D, Key: Line1.1CEC73, Value: The discovery of ichor, and its highly corrosive properties, has led me and others to find all kinds of uses for it.
+Hash: 6AEE510F, Key: Line3.1CEC73, Value: We use it for excavations, potions...poisons. Even been found to have some magical properties.
+Hash: BB247CDC, Key: VoiceDir3.1CEC73, Value: Lowers their voice and begins to let you in on the secret with magical powers.
+Hash: 4371FAD1, Key: Line5.1CEC73, Value: Who knows what other uses we will discover in the future? It is quite a fascinating substance.

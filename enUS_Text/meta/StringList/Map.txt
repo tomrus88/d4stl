@@ -108,7 +108,7 @@ Hash: E7D37E44, Key: RegionProgress_UnsupportedReward_Desc, Value: +{s1} Unsuppo
 Hash: 60F220B9, Key: RegionProgress_PotionCharge_Desc, Value: +{s1} Potion Capacity {s2}
 
 
-Hash: DA8B49A8, Key: FilterGroup_LostCache, Value: Claimed Altars of Lilith
+Hash: DA8B49A8, Key: FilterGroup_LostCache, Value: Altars & Tenets
 Hash: DA68C84E, Key: RegionProgress_PointUnlock, Value: Renown to unlock:
 Hash: 7E716919, Key: RegionProgress_TotalPoints, Value: Total Renown Earned: {c:FFdba867}{s1}
 Hash: C7C95C4F, Key: Claimed, Value: Claimed
@@ -122,12 +122,11 @@ Hash: DD4EE7F9, Key: RegionProgress_Toast_SideQuest, Value: Side Quest Completed
 Hash: 2495107D, Key: RegionProgress_Toast_Waypoint, Value: Waypoint Unlocked
 Hash: 227CEA4E, Key: RegionProgress_Toast_FoW, Value: Area Discovered
 Hash: 04073672, Key: RegionProgress_Toast_Dungeon, Value: Dungeon Completed
-Hash: 83887DB6, Key: IconTooltip_CellarDungeon, Value: Cellar
 Hash: 208FB2F8, Key: CrafterRequirement, Value: Unlocks at {s1}
 Hash: 8284224D, Key: AlchemistDetail, Value: Alchemists can upgrade potions, craft elixirs and incense, and refine your resources.
 Hash: D59EDD55, Key: BlacksmithDetail, Value: Blacksmiths can upgrade armor and weapons, repair equipment, and salvage materials.
 Hash: 5631D161, Key: JewelerDetail, Value: Jewelers can craft gems and manage sockets on your items.
-Hash: 9958C6CD, Key: OccultistDetail, Value: Occultists can extract and imprint aspects.
+Hash: 9958C6CD, Key: OccultistDetail, Value: Occultists can imprint aspects, salvage and craft sigils, and enchant items.
 Hash: 44AC7228, Key: AffixesTitle, Value: Affixes
 Hash: 8780F331, Key: ZoneProgress, Value: Region Progress
 Hash: 4AEFDEF6, Key: RenownValue, Value: Renown Value: {s1}
@@ -151,7 +150,8 @@ Hash: 8D819B35, Key: RegionProgress_Complete_Icons_Finished, Value: {c_zone_comp
 Hash: 630ED091, Key: CrafterRequirementComplete, Value: Complete {s1}
 Hash: 528A0A10, Key: CrafterRequirementLevel, Value: Level {s1}
 Hash: 55A78B54, Key: CrafterRequirementWorldTier, Value: World Tier {s1}
-Hash: FDEE14F8, Key: Tier3Requirement, Value: Requires unlocking World Tier 3
+Hash: FDEE14F8, Key: Tier3Requirement, Value: Requires Level 60
+Hash: 83887DB6, Key: IconTooltip_CellarDungeon, Value: Cellar
 Hash: 10E2261B, Key: IconTooltip_QuestSeasonal, Value: Season Quest
 Hash: DDF568B7, Key: IconTooltip_QuestLiveEvent, Value: Event Quest
 Hash: 215A8E9A, Key: IconTooltip_BossDungeon, Value: Lair
@@ -162,3 +162,14 @@ Hash: 202F16BE, Key: DungeonNotCompleted, Value: Not Yet Completed
 Hash: A0FE649E, Key: SMETooltip_DurationSeason, Value: Season-long Activity
 Hash: 3195B1CB, Key: AutoPinEnabled, Value: {icon:Marker_AutoPin,2.5}Auto-Pin Enabled
 Hash: 210C4BD8, Key: AutoPinDisabled, Value: {icon:Marker_AutoPin,2.5}Auto-Pin Disabled
+Hash: 5A77885D, Key: ZoomLevel, Value:  Zoom Level {s1}%
+Hash: 40E5721E, Key: IconTooltip_CitadelWing, Value: [PH] Citadel Wing
+Hash: B5AA46B5, Key: IconTooltip_CitadelBossWing, Value: [PH] Citadel Boss Wing
+Hash: 279ED3A0, Key: RegionProgress_Icon_HiddenCacheOverride, Value: Tenets of Akarat
+Hash: DCA9CCF8, Key: RegionProgress_Toast_LostCacheOverride, Value: Tenet of Akarat Claimed
+Hash: 3FE0F285, Key: X1_Locked_Info, Value: You cannot progress further due to not owning Vessel of Hatred.
+Hash: 8E9EDE29, Key: IconTooltip_OverrideLostCache, Value: Tenet of Akarat (Claimed)
+Hash: DEAB708C, Key: X1PrologueMismatch, Value: You cannot access this quest due to a party member not owning Vessel of Hatred.
+Hash: 3779AE4C, Key: CitadelWingName, Value: {s1}
+Hash: 1A650BAB, Key: CitadelCacheTimer, Value: {c_legendary}Citadel Challenger's Cache{/c} (resets in {c_highlight}{s1}{/c})
+Hash: 7B0E4B99, Key: FilterGroup_TenetsAkarat, Value: Tenets of Akarat

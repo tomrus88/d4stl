@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Raging Havoc
+Hash: 003892BF, Key: desc, Value: Enemies damaged by Aldkin's {c_important}Wave of Flame{/c} take {c_number}[{SF_2}*100|x%|]{/c} increased Damage Over Time for {c_number}{SF_3}{/c} seconds.

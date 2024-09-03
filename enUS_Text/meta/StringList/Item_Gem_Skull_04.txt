@@ -1,1 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Flawless Skull
+Hash: F5C7BC0A, Key: Flavor, Value: It stares back with an insidious indifference.

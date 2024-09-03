@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Triumph of Lord Uacax
+Hash: F2CA04D8, Key: NoticeSignText, Value: A cunning beast terrorized the plains. Though Lord Uacax was untrained in combat he hunted and defeated this foe. He claimed the beast's weapon as his trophy.

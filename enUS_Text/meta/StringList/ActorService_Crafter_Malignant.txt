@@ -1,0 +1,2 @@
+Hash: C7866972, Key: ServiceName, Value: Malignant Research
+Hash: F848B57B, Key: ConditionText_0, Value: Unlocks at player level 20

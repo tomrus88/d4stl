@@ -1,2 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Silence The Storm
-Hash: 003892BF, Key: Desc, Value: Defeat Tormented Echo of Andariel in {icon:Icon_WorldTier_4, 2.5} Torment.

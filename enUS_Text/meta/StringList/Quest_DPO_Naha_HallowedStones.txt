@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Destroy the source of evil.
+Hash: 1D9AD41F, Key: Callback54Header, Value: Explore {WORLD:DGN_Naha_HallowedStones} and Slay {MONSTER}

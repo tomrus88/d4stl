@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Iron Wolf's Arrival
+Hash: 003892BF, Key: desc, Value: When Raheir's {c_important}Valiance{/c} is triggered, he also casts {c_important}Ground Slam{/c} and {c_important}Shield Throw{/c}.
+
+Raheir's {c_important}Valiance's{/c} Cooldown is reduced by {c_number}[{SF_0}*100|%|]{/c}.

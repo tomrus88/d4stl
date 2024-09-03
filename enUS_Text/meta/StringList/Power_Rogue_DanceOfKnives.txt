@@ -1,0 +1,20 @@
+Hash: 003DFCC1, Key: name, Value: Dance of Knives
+Hash: 003892BF, Key: desc, Value: {c_label}Charges:{/c} {c_resource}{SF_6}{/c}
+{c_label}Charge Cooldown:{/c_label} {c_resource}[{SF_5}|1|]{/c} seconds
+{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Channel to launch knives at surrounding enemies, consuming one Charge per second and each knife dealing {c_number}{payload:DAMAGE}{/c} damage. 
+
+You gain {c_number}[SF_15|%+|]{/c} Movement Speed and {c_number}[SF_9|%|]{/c} Dodge Chance while Channeling {c_important}Dance of Knives{/c}.{if:SF_17}
+
+{c_important}Combo Points{/c} grant Charges that can exceed the Maximum and are spent when you stop Channeling:
+{icon:bullet,1.2} {c_label}1 Point:{/c} {c_number}1{/c} Charge
+{icon:bullet,1.2} {c_label}2 Points:{/c} {c_number}2{/c} Charges
+{icon:bullet,1.2} {c_label}3 Points:{/c} {c_number}3{/c} Charges{/if}
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:DAMAGE}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: Each {c_important}Dance of Knives{/c} knife Slows enemies by {c_number}[SF_8*100|%|]{/c} for {c_number}{buffduration:MOD_SLOW}{/c} seconds and has a {c_number}[SF_24*100|%|]{/c} chance to pierce.
+Hash: 9233D930, Key: Mod0_Name, Value: Disciplined Dance of Knives
+Hash: 1394CF37, Key: Mod4_Description, Value: When you stop Channeling {c_important}Dance of Knives{/c}, drop up to {c_number}[SF_33]{/c} {c_important}Stun Grenades{/c}, each dealing {c_number}{payload:TOOLTIP_DAMAGE_FOR_GRENADES}{/c} damage. The Channeled duration determines how many are dropped.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Methodical Dance of Knives
+Hash: 74D6BC35, Key: Mod2_Description, Value: Every {c_number}[SF_4]{/c} meters you travel while Channeling {c_important}Dance of Knives{/c} grants {c_number}[SF_30]{/c} |4Charge:Charges.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Dance of Knives

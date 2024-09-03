@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Sutsara
+Hash: 797503DB, Key: Line78.1BB539, Value: This is the boundary of my hunting grounds. Until we next meet!
+Hash: D070A948, Key: VoiceDir78.1BB539, Value: Farewell to player. 
+Hash: 7824A2B5, Key: Line81.1BB539, Value: My hunting range ends here. Fare thee well!
+Hash: CF204822, Key: VoiceDir81.1BB539, Value: Farewell to Player. 
+Hash: 01AF9FFB, Key: Line87.1BB539, Value: I can’t travel outside my territory. But return anytime, friend!
+Hash: 58AB4568, Key: VoiceDir87.1BB539, Value: Farewell to Player.
+Hash: 005F3ED5, Key: Line90.1BB539, Value: You pass the boundary of my lands. I must leave you. Bring me a snack next time, would you?
+Hash: 575AE442, Key: VoiceDir90.1BB539, Value: Farewell to Player. 

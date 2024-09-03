@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Trade Agreement: Baleful Fragment
+Hash: A646FFA4, Key: Description, Value: (PH) There will be a  20% chance an Aspect of Baleful Fragment will appear when Bartering with Raheir.
+Hash: F5C7BC0A, Key: Flavor, Value: (PH) Baleful Fragments? Treasures in mountains of scrap. You wouldn't believe the junk I've sifted. If boredom had weight, I'd be bench pressing it. - Raheir, the Blacksmith

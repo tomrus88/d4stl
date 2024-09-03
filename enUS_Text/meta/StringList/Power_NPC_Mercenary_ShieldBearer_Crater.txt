@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Crater
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Raheir strikes the ground {c_number}3{/c} times, each burst dealing {c_number}{payload:STARTER}{/c} Physical damage and Pulling In enemies. The final burst additionally deals {c_number}[{payload:FINISHER}-{payload:STARTER}]{/c} Physical damage and Stuns enemies for {c_number}[{SF_5}]{/c} |4second;seconds.

@@ -1,4 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Blood Seal Minor 001
 Hash: 003892BF, Key: Desc, Value: You gain 10% movement speed.
-
-Consumes {c_red}2 Red Pacts{/c} and {c_blue}1 Blue Pact{/c}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pungent Cauldron
+Hash: F2CA04D8, Key: NoticeSignText, Value: Unknown herbs and lumps of loam churn inside the pot, releasing an acrid scent that permeates the room.

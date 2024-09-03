@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Urivar."
+Hash: 923FDDB0, Key: Line1.1B8B7E, Value: His “justice” was a lie. It is wrath carried by the husk of a man, hollowed by Hell.
+Hash: E276097D, Key: VoiceDir1.1B8B7E, Value: direct, cold
+Hash: 6AC38772, Key: Line3.1B8B7E, Value: He has carved the Cathedral into a force without mercy. Without reason.
+Hash: BAF9B33F, Key: VoiceDir3.1B8B7E, Value: direct, cold, leaning sombre
+Hash: 1BCADAF6, Key: Line7.1B8B7E, Value: The light of Inarius is gone…
+Hash: 6C0106C3, Key: VoiceDir7.1B8B7E, Value: sombre, aware of harsh reality

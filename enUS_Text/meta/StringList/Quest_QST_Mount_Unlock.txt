@@ -1,3 +1,4 @@
-Hash: 003DFCC1, Key: Name, Value: Mount: Donan's Favor
+Hash: 003DFCC1, Key: Name, Value: Mount: A Trusty Steed
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Mounts
 Hash: D53BFF05, Key: Phase0Description, Value: Donan has offered to call in a favor with the stable master in Kyovashad to provide me with a horse.
 Hash: 1EADAE68, Key: Callback2Header, Value: Speak with the Stable Master in Kyovashad

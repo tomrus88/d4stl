@@ -38,7 +38,7 @@ Hash: 123D2317, Key: UnitType_WarriorShort, Value: Warriors
 Hash: 073C9A36, Key: Close, Value: Close
 Hash: 952917ED, Key: Sacrificed, Value: Sacrificed
 Hash: 8381D0A4, Key: UnitLockedLevelWithHiddenQuest, Value: Unlock Quest at Level {s1}
-Hash: D5B2AF99, Key: UnitLockedQuestTrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2}{c_highlight}{s1} {/c}. {hotkey:FAST_QUEST_TRACK} to track.
+Hash: D5B2AF99, Key: UnitLockedQuestTrack, Value: To unlock, complete {icon:QuestIcon_Priority_Available_Unlock, 2}{c_highlight}{s1} {/c}. {hotkey:FAST_QUEST_TRACK} to track.
 Hash: 3256BAEE, Key: GolemSpec1_Desc, Value: A horrid protector that taunts enemies, forcing them to attack the Golem.
 Hash: 7DBC638F, Key: GolemSpec1_Label, Value: Bone
 Hash: 058CDAB8, Key: GolemSpec1_LabelIcon, Value: {icon:NecroArmy_GolemSpec1_Icon, 2.0} Bone
@@ -61,7 +61,7 @@ Hash: 4BEE62D6, Key: NoPassive_Desc, Value: [PH] No passive for this minion.
 Hash: CA490877, Key: NoPassive_Label, Value: No Passive
 Hash: 8EC0AFE4, Key: ActionBarIndicator_Tooltip_SkeletonWarrior, Value: Skeletal Warriors attack enemies at close range with their weapons.
 Hash: CE5DE778, Key: ActionBarIndicator_Tooltip_SkeletonMage, Value: Skeletal Mages bombard enemies with spells at range.
-Hash: 522281FC, Key: UnitLockedQuestUntrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2}{c_highlight}{s1} {/c}. {hotkey:FAST_QUEST_TRACK} to untrack.
+Hash: 522281FC, Key: UnitLockedQuestUntrack, Value: To unlock, complete {icon:QuestIcon_Priority_Available_Unlocke, 2}{c_highlight}{s1} {/c}. {hotkey:FAST_QUEST_TRACK} to untrack.
 Hash: 60667D82, Key: Necro_Info, Value: Either select an {icon:Necro_MiniSlot_Upgrade, 2} {c_highlight}Upgrade{/c} or {Icon:Necro_MiniSlot_Sacrifice, 2} {c_highlight}Sacrifice{/c} your summons.
 Hash: E985491C, Key: Active, Value: Active:
 Hash: 2A48F3E6, Key: Prompt_CustomizeUnitType, Value: Customize

@@ -1,3 +1,10 @@
+Hash: 53F52104, Key: Druid_BloodHowl_GrantsStealth, Value: {c_important}Blood Howl{/c} Grants Stealth for +[{VALUE}|1|] Seconds
+Hash: 544F9682, Key: AoE_Size_Bonus_Per_Power#Barbarian_Rupture, Value: +[{VALUE2} * 100|1%|] {c_important}Enhanced {VALUE1}{/c} Explosion Size
+Hash: B9E54B0F, Key: Sorc_Shatter_Damage, Value: +[{VALUE}*100|1%|] to {c_important}Shatter's{/c} Damage Echo
+Hash: 16B4A9D4, Key: Sorc_IceSpike_ChanceToExplodeTwice, Value: +[{VALUE2}*100|1%|] Chance for {c_important}Ice Spikes{/c} to Explode Twice
+Hash: 451FB186, Key: Necro_BloodSurge_EssencePerDrain, Value: +[{VALUE}] Essence per Enemy Drained by {c_important}Blood Surge{/c}
+Hash: 44368CCD, Key: Generic_DamageReduction_WhileUnstoppable, Value: [{VALUE}*100|1%|] Damage Reduction while Unstoppable
+Hash: F0FFE1A2, Key: Generic_ResourceGain_And_ResourceMax_Combined, Value: [{VALUE}*100|1%|] Resource Generation and Maximum
 Hash: DC3E5084, Key: Flat_Block_Amount, Value: [{VALUE}] {c:FF888888}Shield Block Value{/c:FF888888}
 Hash: AF182148, Key: Crit_Percent_Bonus, Value: +[{VALUE}*100|1%|] Critical Strike Chance
 Hash: 403F65E0, Key: Crit_Damage_Percent, Value: +[{VALUE}*100|1%|] Critical Strike Damage
@@ -6,7 +13,7 @@ Hash: 251003AC, Key: Faster_Healing_Percent, Value: +{VALUE%} Potion Healing Spe
 Hash: B8631906, Key: Gold_Find, Value: [{VALUE}*100|~%|] Gold Drop Rate
 Hash: 44C6E32D, Key: Hitpoints_Max_Bonus, Value: [{VALUE}|~|] Maximum Life
 Hash: D51CAA52, Key: Hitpoints_Percent, Value: +[{VALUE}*100|~%|] Life
-Hash: 72A3AFBB, Key: Proc_Flat_Hitpoints_On_Hit, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Heal +[{VALUE}] Life
+Hash: 72A3AFBB, Key: Proc_Flat_Hitpoints_On_Hit, Value: {c_label}Lucky Hit:{/c} Up to a 15% Chance to Heal +[{VALUE}] Life
 Hash: 55F27A6F, Key: Flat_Hitpoints_On_Kill, Value: [{VALUE}|~|] Life On Kill
 Hash: 769CB933, Key: Hitpoints_Regen_Per_Second, Value: +[{VALUE}] Healing Over Time
 Hash: B451CDBC, Key: Immunity, Value: {VALUE1} Damage Immunity
@@ -100,7 +107,7 @@ Hash: A95350CD, Key: Damage_Bonus_To_Low_Health, Value: +[{VALUE}*100|1%|] Damag
 Hash: FF0A2B5B, Key: Damage_Bonus_To_HIgh_Health, Value: +[{VALUE}*100|1%|] Damage to Healthy Enemies
 Hash: 6315FE18, Key: Flat_Heal_Absorb, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Absorb [{VALUE}] Life
 Hash: 6D8CFFD7, Key: Damage_Reduction_During_Evade, Value: [{VALUE}*100|1%|] Damage Reduction while Evading
-Hash: 932B2045, Key: No_Damage_Taken_Flat_Hitpoints_Regen_Per_Second, Value: +[{VALUE}] Life per Second
+Hash: 932B2045, Key: No_Damage_Taken_Flat_Hitpoints_Regen_Per_Second, Value: +[{VALUE}*5] Life per 5 Seconds
 Hash: F04B1CA4, Key: Thorns_Flat, Value: +[{VALUE}] Thorns
 Hash: BEA27E89, Key: DOT_DPS_Reduction_Percent, Value: [{VALUE}*100|1%|] Damage Taken Over Time Reduction
 Hash: F8B7252C, Key: Pet_Inherit_Attrib_Bonus_Pct, Value: {c_important}Minions{/c} Inherit +[{VALUE}*100|1%|] of Your Stats
@@ -110,14 +117,14 @@ Hash: E1DC00C2, Key: Dexterity, Value: [{VALUE}|~|] Dexterity
 Hash: 5E76CD0A, Key: Plus_All_Stats, Value: [{VALUE}|~|] All Stats
 Hash: 796F9730, Key: Weapon_Speed_Percent_Bonus, Value: +[{VALUE} * 100|1%|] Weapon Speed
 Hash: BB015F56, Key: On_Hit_Execute_Low_Health_Non_Elite_Chance, Value: {c_label}Lucky Hit:{/c} Up to a +[{VALUE}*100|1%|] Chance to Execute Injured Non-Elites
-Hash: D880618B, Key: Proc_Resource_On_Hit_Percent, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Restore +[{VALUE2}*100|1%|] {VALUE1}
+Hash: D880618B, Key: Proc_Resource_On_Hit_Percent, Value: {c_label}Lucky Hit:{/c} Up to a 15% Chance to Restore +[{VALUE2}*100|1%|] {VALUE1}
 Hash: 5781D4AF, Key: Pet_Equipped_Proc_Resource_On_Hit_Percent, Value: Chance per Hit to gain [{VALUE2}*100|~%|] {VALUE1}
 Hash: B500877F, Key: Energy_Restriction, Value: (Rogue Only)
 Hash: DCA642E0, Key: Damage_Increase_From_Near, Value: +[{VALUE}*100|1%|] Damage Taken from Close Enemies
 Hash: 8A908A33, Key: Damage_Increase_From_Far, Value: +[{VALUE}*100|1%|] Damage Taken from Distant Enemies
 Hash: 92BFB5E5, Key: Damage_Type_Crit_Damage_Percent_Bonus, Value: +[{VALUE2}*100|1%|] {VALUE1} Critical Strike Damage
 Hash: FFFDAF87, Key: Damage_Type_Crit_Percent_Bonus, Value: +[{VALUE2}*100|1%|] {VALUE1} Critical Strike Chance
-Hash: 7EB9B8E8, Key: Flat_Hitpoints_On_Hit, Value: +[{VALUE}] Life On Hit
+Hash: 7EB9B8E8, Key: Flat_Hitpoints_On_Hit, Value: +[{VALUE}|0|] Life On Hit
 Hash: 8034ACA1, Key: Fortified_Health_Damage_Reduction_Bonus, Value: [{VALUE}*100|1%|] Damage Reduction while Fortified
 Hash: 76A873AA, Key: Fortified_Health_Application_Bonus, Value: +[{VALUE}*100|1%|] Fortify Generation
 Hash: CFD5744D, Key: Combat_Effect_Chance_Bonus_Per_Skill, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Lucky Hit Chance
@@ -153,9 +160,9 @@ Hash: 432C1DFF, Key: Pet_Armor_Bonus_Percent, Value: +[{VALUE}*100|1%|] {c_impor
 Hash: 350E4DE7, Key: Pet_All_Resistance_Bonus_Percent, Value: +[{VALUE}*100|1%|] {c_important}Minion{/c} Resistance to All Elements
 Hash: C2756AA2, Key: Chill_Bonus_Percent, Value: [{VALUE}*100|1%|] Chill Application
 Hash: 2DBFB750, Key: Skill_Rank_Bonus, Value: +{VALUE2} to {c_important}{VALUE1}{/c}
-Hash: E2EE1948, Key: Skill_Rank_All_Bonus, Value: +{VALUE1} to All Skills
+Hash: E2EE1948, Key: Skill_Rank_All_Bonus, Value: +[{VALUE1}] to All Skills
 Hash: EC63EC03, Key: Per_Damage_Type_Buff_Duration_Bonus_Percent, Value: [{VALUE2}*100|1%|] {VALUE1} Damage Over Time Duration
-Hash: AA976EA6, Key: Proc_Resource_On_Hit_Percent_All_Primary, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Restore +[{VALUE}*100|1%|] Primary Resource
+Hash: AA976EA6, Key: Proc_Resource_On_Hit_Percent_All_Primary, Value: {c_label}Lucky Hit:{/c} Up to a 15% Chance to Restore +[{VALUE}*100|1%|] Primary Resource
 Hash: B95CFB39, Key: Talent_Rank_Bonus, Value: +{VALUE2} to {c_important}{VALUE1}{/c}
 Hash: C84C1457, Key: Strength_Core, Value: [{VALUE}|~|] Strength
 Hash: 36D412AA, Key: Dexterity_Core, Value: [{VALUE}|~|] Dexterity
@@ -324,7 +331,7 @@ Hash: F7C8472B, Key: Pet_Max_Count_Bonus_Per_Pet_Type, Value: +{VALUE2} Maximum 
 Hash: F543C5C3, Key: Movement_Speed_Bonus_Percent_Per_Power, Value: +[{VALUE2} * 100|1%|] Movement Speed from {c_important}{VALUE1}{/c}
 Hash: 41FE6556, Key: Cleave_Damage_Bonus_Percent_Per_Power, Value: {c_important}{VALUE1}{/c} Cleaves for +[{VALUE2} * 100|1%|] Damage
 Hash: 12BDD7AE, Key: Thorns_Percent, Value: +[{VALUE}*100|1%|] Thorns
-Hash: B531FDB2, Key: Bonus_Percent_Per_Power#Necromancer_Blight, Value: +[{VALUE2} * 100|1%|] {c_important}Blight{/c} Slow Potency
+Hash: B531FDB2, Key: Bonus_Percent_Per_Power#Necromancer_Blight, Value: +[{VALUE2} * 100|1%|] {c_important}Blight{/c} Chill Potency
 Hash: F64BE9DE, Key: Chill_Progressive_Bonus_Slow_Percent, Value: +[{VALUE}*100|1%|] Chill Slow Potency
 Hash: B65EB869, Key: Damage_Percent_Bonus_While_Affected_By_Power#Barbarian_Proc_Berserk, Value: +[{VALUE2}*100|1%|] Damage while {c_important}{VALUE1}{/c}
 Hash: 02CA36B8, Key: AoE_Size_Bonus_Per_Power#Necromancer_Hemorrhage, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Explosion Size
@@ -366,7 +373,7 @@ Hash: B4574CA9, Key: Sorc_IceSpike_FreezeDuration, Value: {c_important}Ice Spike
 Hash: EA002135, Key: Druid_StormStrike_HitAdditionalTargets, Value: {c_important}Storm Strike{/c} Chains to +[{VALUE}] |4Target:Targets;
 Hash: 81A9B047, Key: Druid_LupineFerocity_Damage, Value: +[{VALUE}*100|1%|] to {c_important}Lupine Ferocity's{/c} Damage Bonus
 Hash: 36F34C5B, Key: Druid_UrsineStrength_BonusAll, Value: +[{VALUE}*100|1%|] to {c_important}Ursine Strength's{/c} Bonuses
-Hash: A4CC1E79, Key: Druid_SpiritBoon_Packleader_LuckyHitChance, Value: +[{VALUE}*100|1%|] Lucky Hit Chance for the {c_important}Pack Leader{/c} Spirit Boon
+Hash: A4CC1E79, Key: Druid_SpiritBoon_Packleader_LuckyHitChance, Value: +[{VALUE}*100|1%|] to the {c_important}Pack Leader{/c} Spirit Boon's Lucky Hit Chance
 Hash: 4B111D93, Key: Druid_Cataclysm_MovementSpeed, Value: +[{VALUE}*100|1%|] Movement Speed while {c_important}Cataclysm{/c} is Active
 Hash: C0B80233, Key: Druid_Hurricane_MovementSpeed, Value: +[{VALUE}*100|1%|] Movement Speed while {c_important}Hurricane{/c} is Active
 Hash: BA8D3F0F, Key: Necro_BoneStorm_Armor, Value: +[{VALUE}*100|1%|] Total Armor while {c_important}Bone Storm{/c} is Active
@@ -386,10 +393,70 @@ Hash: 3D9D023E, Key: Generic_Potion_GrantsMovementSpeed_AnyHP, Value: Drinking a
 Hash: 6077BD4C, Key: UBERUNIQUE_Ahavarion_ResourceOnHit_AllClasses_Combined, Value: [{VALUE}|~|] Resource On Hit
 Hash: FB2C8B37, Key: UBERUNIQUE_Ahavarion_CritDamage_VulnDamage_OverpowerDamage_Combined, Value: +[{VALUE}*100|1%|] Critical Strike, Vulnerable, and Overpower Damage
 Hash: 443A0CFD, Key: All_Stats_Percent_Bonus, Value: +[{vALUE}*100|1%|] All Stats
-Hash: 53F52104, Key: Druid_BloodHowl_GrantsStealth, Value: {c_important}Blood Howl{/c} Grants Stealth for +[{VALUE}|1|] Seconds
-Hash: 544F9682, Key: AoE_Size_Bonus_Per_Power#Barbarian_Rupture, Value: +[{VALUE2} * 100|1%|] {c_important}Enhanced {VALUE1}{/c} Explosion Size
-Hash: B9E54B0F, Key: Sorc_Shatter_Damage, Value: +[{VALUE}*100|1%|] to {c_important}Shatter's{/c} Damage Echo
-Hash: 16B4A9D4, Key: Sorc_IceSpike_ChanceToExplodeTwice, Value: +[{VALUE2}*100|1%|] Chance for {c_important}Ice Spikes{/c} to Explode Twice
-Hash: 451FB186, Key: Necro_BloodSurge_EssencePerDrain, Value: +[{VALUE}] Essence per Enemy Drained by {c_important}Blood Surge{/c}
-Hash: 44368CCD, Key: Generic_DamageReduction_WhileUnstoppable, Value: [{VALUE}*100|1%|] Damage Reduction while Unstoppable
-Hash: F0FFE1A2, Key: Generic_ResourceGain_And_ResourceMax_Combined, Value: [{VALUE}*100|1%|] Resource Generation and Maximum
+Hash: 2D942355, Key: Ultimate_Cooldown_Reduction#Ultimate_Gem, Value: +[{VALUE}*100|1%|] {c_important}Ultimate{/c} Cooldown Reduction
+Hash: 5BC4062C, Key: Spiritborn_Spirit_Bonus, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Spirit Potency
+Hash: D751B05A, Key: Bonus_Percent_Per_Power_2, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Effect
+Hash: D751B05B, Key: Bonus_Percent_Per_Power_3, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Effect
+Hash: 47E5800F, Key: MaxStacks, Value: +[{VALUE2}] {c_important}{VALUE1}{/c} Maximum Stacks
+Hash: 93777DA1, Key: MaxStacks#Spiritborn_Gorilla_Passive, Value: +[{VALUE2}] Maximum {c_important}Resolve{/c} Stacks
+Hash: E079437E, Key: MaxStacks#Spiritborn_Plains_Passive, Value: +[{VALUE2}] Maximum {c_important}Ferocity{/c} Stacks
+Hash: BCF8523A, Key: Spiritborn_Spirit_Bonus#spiritborn_centipede_sun_passive, Value: +[{VALUE2} * 100|1%|] Primary Centipede Spirit Hall Potency
+Hash: B39E0209, Key: Spiritborn_Spirit_Bonus#spiritborn_eagle_moon_passive_alternate, Value: +[{VALUE2} * 100|1%|] Secondary Eagle Spirit Hall Potency
+Hash: EA40BC36, Key: Spiritborn_Spirit_Bonus#spiritborn_gorilla_moon_passive, Value: +[{VALUE2} * 100|1%|] Secondary Gorilla Spirit Hall Potency
+Hash: 1A02CDC6, Key: Spiritborn_Spirit_Bonus#spiritborn_jaguar_moon_passive, Value: +[{VALUE2} * 100|1%|] Secondary Jaguar Spirit Hall Potency
+Hash: 95CA31FD, Key: Spiritborn_Spirit_Bonus#spiritborn_centipede_moon_passive, Value: +[{VALUE2} * 100|1%|] Secondary Centipede Spirit Hall Potency
+Hash: DD8DC0E6, Key: Spiritborn_Spirit_Bonus#spiritborn_eagle_sun_passive_alternate, Value: +[{VALUE2} * 100|1%|] Primary Eagle Spirit Hall Potency
+Hash: 8939F953, Key: Spiritborn_Spirit_Bonus#spiritborn_gorilla_sun_passive, Value: +[{VALUE2} * 100|1%|] Primary Gorilla Spirit Hall Potency
+Hash: B93818E3, Key: Spiritborn_Spirit_Bonus#spiritborn_jaguar_sun_passive, Value: +[{VALUE2} * 100|1%|] Primary Jaguar Spirit Hall Potency
+Hash: 6BFDFFEA, Key: Bonus_Percent_Per_Power#Spiritborn_Gorilla_Defensive1, Value: +[{VALUE2} * 100|1%|] {c_important}Armored Hide{/c} Active Duration
+Hash: 09E73E5B, Key: Bonus_Percent_Per_Power_2#Spiritborn_Gorilla_Defensive1, Value: +[{VALUE2} * 100|1%|] {c_important}Armored Hide{/c} Resolve Generation Rate
+Hash: D6AC0E1C, Key: Bonus_Percent_Per_Power_3#Spiritborn_Gorilla_Defensive1, Value: +[{VALUE2} * 100|1%|] {c_important}Armored Hide{/c} Active Thorns Bonus
+Hash: 09E73E5C, Key: Bonus_Percent_Per_Power_2#Spiritborn_Gorilla_Defensive2, Value: +[{VALUE2} * 100|1%|] {c_important}Concussive Stomp{/c} Barrier Generation
+Hash: 9639403A, Key: Bonus_Percent_Per_Power_2#Spiritborn_Gorilla_Core, Value: +[{VALUE2} * 100|1%|] {c_important}Crushing Hand{/c} Barrier Generation
+Hash: F13DC289, Key: Bonus_Percent_Per_Power#Spiritborn_Gorilla_Core, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Crushing Hand{/c} to Extra Hit
+Hash: 4FD53356, Key: Bonus_Percent_Per_Power_2#Spiritborn_Gorilla_Ultimate, Value: +[{VALUE2} * 100|1%|] {c_important}The Protector{/c} Barrier Generation
+Hash: E217E879, Key: Bonus_Percent_Per_Power#Spiritborn_Jaguar_Core, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Rake{/c} to Extra Hit
+Hash: 254B03D0, Key: Bonus_Percent_Per_Power#Spiritborn_Jaguar_Focus, Value: +[{VALUE2} * 100|1%|] {c_important}Ravager{/c} On Kill Duration Extension
+Hash: F6F212FB, Key: Bonus_Percent_Per_Power#Spiritborn_Gorilla_Passive, Value: +[{VALUE2}] {c_important}Resolve{/c} Generated
+Hash: 5D4786D3, Key: Bonus_Percent_Per_Power_2#Spiritborn_Gorilla_Basic, Value: +[{VALUE2} * 100|1%|] {c_important}Rock Splitter{/c} Block Chance Bonus
+Hash: 236CF490, Key: Bonus_Percent_Per_Power#Spiritborn_Centipede_Core, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Stinger{/c} to Extra Hit
+Hash: B00EA27B, Key: Bonus_Percent_Per_Power_3#Spiritborn_Centipede_Potency, Value: +[{VALUE2} * 100|1%|] {c_important}Touch of Death{/c} Swarm Duration
+Hash: 167546DA, Key: Bonus_Percent_Per_Power_2#Spiritborn_Centipede_Potency, Value: +[{VALUE2} * 100|1%|] {c_important}Touch of Death{/c} Healing Bonus
+Hash: 5A91514A, Key: Bonus_Percent_Per_Power#Spiritborn_RuneArea, Value: +[{VALUE2} * 100|1%|] {c_important}Mystic Circle{/c} Potency
+Hash: 0762D8FE, Key: Bonus_Percent_Per_Power#Spiritborn_Feather_Spawn, Value: +[{VALUE2} * 100|1%|] {c_important}Spirit Feather{/c} Potency
+Hash: 95E99598, Key: Bonus_Percent_Per_Power#Spiritborn_Plains_Passive, Value: +[{VALUE2} * 100|1%|] {c_important}Ferocity{/c} Potency
+Hash: CA468181, Key: Bonus_Percent_Per_Power_2#Spiritborn_Jaguar_Focus, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Ravager{/c} to Extra Hit
+Hash: 47C2FB00, Key: Bonus_Percent_Per_Power#Spiritborn_Centipede_Defensive, Value: +[{VALUE2} * 100|1%|] {c_important}Scourge{/c} Poisoning Duration
+Hash: 49EB6FE1, Key: Bonus_Percent_Per_Power#Spiritborn_Swarm, Value: +[{VALUE2} * 100|1%|] {c_important}Pestilent Swarm{/c} Damage
+Hash: EAE29289, Key: Bonus_Percent_Per_Power#Spiritborn_Centipede_Potency, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Touch of Death{/c} Swarms To Reinfect On Hit
+Hash: DF3DE318, Key: Bonus_Max_Skill_Charges_For_Power, Value: +[{VALUE2}] {c_important}{VALUE1}{/c} Charges
+Hash: 4E3E82FB, Key: AoE_Size_Bonus_Per_Power#Spiritborn_Eagle_Core, Value: +[{VALUE2}] {c_important}{VALUE1}{/c} Extra Projectiles
+Hash: EE38E1D2, Key: Damage_Reduction_While_Moving, Value: [{VALUE}*100|1%|] Damage Reduction while Moving
+Hash: B7C94D34, Key: Damage_Increase_While_Having_Shield, Value: +[{VALUE}*100|1%|] Damage while Barriered
+Hash: 5649D432, Key: Chance_For_Double_Damage_Per_Power, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}{VALUE1}{/c} to Deal Double Damage
+Hash: E34B3C55, Key: Chance_To_Hit_Twice_Per_Power, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}{VALUE1}{/c} to Hit Twice
+Hash: 189558CF, Key: Chance_To_Hit_Twice_Per_Power#Necromancer_SkeletonWarrior, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Skeleton Warriors{/c} to Hit Twice
+Hash: BAA63847, Key: Chance_To_Consume_No_Charges_Per_Power, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}{VALUE1}{/c} to Consume No Charges
+Hash: 18DC5302, Key: Bonus_Percent_Per_Power#Spiritborn_Gorilla_Basic, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Rock Splitter{/c} to Extra Hit
+Hash: C2E04525, Key: Bonus_Percent_Per_Power#Spiritborn_Gorilla_Ultimate, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}The Protector{/c} to Deal Double Damage
+Hash: 24FB36F2, Key: Bonus_Percent_Per_Power#Spiritborn_Jaguar_Basic, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Thrash{/c} to Deal Double Damage
+Hash: 3F3BE315, Key: Bonus_Percent_Per_Power#Spiritborn_Jaguar_Ultimate, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}The Hunter{/c} to Extra Hit
+Hash: 90F1C5E9, Key: Bonus_Percent_Per_Power#Spiritborn_Centipede_Basic, Value: +[{VALUE2} * 100|1%|] {c_important}Withering Fist{/c} Poisoning Duration
+Hash: FDD722AC, Key: Bonus_Percent_Per_Power#Spiritborn_Centipede_Ultimate, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}The Devourer{/c} to Deal Double Damage
+Hash: 00C411F6, Key: Bonus_Percent_Per_Power#Spiritborn_Eagle_Basic, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Thunderspike{/c} to Deal Double Damage
+Hash: 5E1D0F99, Key: Bonus_Percent_Per_Power#Spiritborn_Eagle_Ultimate, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}The Seeker{/c} to Deal Double Damage
+Hash: 0113DED4, Key: Bonus_Percent_Per_Power#Spiritborn_Eagle_Focus, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Vortex{/c} to Extra Hit
+Hash: 238FB986, Key: Bonus_Percent_Per_Power#Spiritborn_Eagle_Focus2, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Soar{/c} to Deal Double Damage
+Hash: A70C69D2, Key: Bonus_Percent_Per_Power#Spiritborn_Jaguar_Potency, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Rushing Claw{/c} to Deal Double Damage
+Hash: 6BFDFFEB, Key: Bonus_Percent_Per_Power#Spiritborn_Gorilla_Defensive2, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Concussive Stomp{/c} to Extra Hit
+Hash: 17A4C9E2, Key: Bonus_Percent_Per_Power#Spiritborn_Gorilla_Potency, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Payback{/c} to Deal Double Damage
+Hash: 4E491D66, Key: UBERUNIQUE_Sleepsong_All_Talents, Value: +[{VALUE}] to All Passives
+Hash: FA66E2EA, Key: Necro_HewedFlesh_GrantsBarrier, Value: {c_important}Hewed Flesh{/c} also grant a Barrier for [{VALUE}*100|1%|] of Maximum Life for 4 seconds.
+Hash: D336DC9B, Key: Percent_Bonus_Projectiles_Per_Power#Barbarian_Earthquake, Value: +[{VALUE2}*100|1%|] Chance for {c_important}Earthquakes{/c} to Cast Twice
+Hash: 17B598A6, Key: Spiritborn_Soar_Barrier, Value: {c_important}Soar{/c} Grants [{VALUE}*100|1%|] Life as Barrier for 1 Second
+Hash: 48DF8250, Key: Spiritborn_Soar_DamagePerDistance, Value: {c_important}Soar{/c} Deals Up to+[{VALUE}*100|1%|] Damage Based on Distance Traveled
+Hash: 5174F41B, Key: AoE_Size_Bonus_Per_Power#X1_Sorcerer_Familiar, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Explosion Size
+Hash: A45316B1, Key: AoE_Size_Bonus_Per_Power#X1_Barbarian_WeaponThrow, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Pulse Size
+Hash: 1B3BD095, Key: Generic_Damage_Vs_AngelsAndDemons, Value: +[{VALUE}*100|1%|] Damage to Angels and Demons
+Hash: 8122BC98, Key: Chance_To_Hit_Twice_Per_Power#Sorcerer_Familiar_Attack, Value: +[{VALUE2} * 100|1%|] Chance for {c_important}Familiars{/c} to Hit Twice
+Hash: 7A68E95F, Key: Percent_Bonus_Projectiles_Per_Power#Druid_StoneBurst, Value: +[{VALUE2}*100|1%|] Chance for {c_important}Stone Burst{/c} to Cast Twice

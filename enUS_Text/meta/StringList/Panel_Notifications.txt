@@ -40,3 +40,9 @@ Hash: BBB8331C, Key: RecipeLearnedHeader, Value: Recipe Learned
 Hash: EBB55921, Key: RecipeLearnedBody, Value: {s1} can now be used for Tempering
 Hash: 9522346D, Key: CompanionHeader, Value: New Pet
 Hash: BD5CD232, Key: CompanionBody, Value: Visit the {icon:Marker_Wardrobe, 2.5}Wardrobe to equip it
+Hash: DE2CD0C0, Key: ItemEmpoweredHeader, Value: Item Empowered
+Hash: 540AE6D3, Key: ItemEmpoweredBodyText_Rare, Value: Go to your inventory to view it.
+Hash: BADC8A5E, Key: ItemEmpoweredBodyText_NonRare, Value: Item rarity increased to {c_rare}Rare{/c}. Go to your inventory to view it.
+Hash: 6AAAC15C, Key: CraftedTrackedReward, Value: {s1}
+Hash: 9DFD2927, Key: CraftedTrackedRewardWithItem, Value: {s1}. Additionally crafted {s2}
+Hash: AF838551, Key: TradeAgreementHeader, Value: Trade Agreement Made

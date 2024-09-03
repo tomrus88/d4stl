@@ -7,7 +7,7 @@ Hash: F2D5722F, Key: rankup_desc, Value:
 {icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
 Hash: D618A933, Key: Mod0_Description, Value: While {c_important}Blade Shift{/c} is active you gain {c_number}[{SF_1}*100|+%|]{/c} Resistance to All Elements and reduce the duration of incoming Control Impairing Effects by {c_number}[{SF_16}*100|%|]{/c} .
 Hash: 9233D930, Key: Mod0_Name, Value: Primary Blade Shift
-Hash: 2577B2B4, Key: Mod1_Description, Value: While {c_important}Blade Shift{/c} is active you gain {c_number}[{SF_8}*{SF_15}*100|%+|]{/c} Movement Speed.
+Hash: 2577B2B4, Key: Mod1_Description, Value: While {c_important}Blade Shift{/c} is active you gain {c_number}[{SF_8}*{SF_15}*100|%+|]{/c} Movement Speed and moving through enemies refreshes its duration. 
 Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Blade Shift
-Hash: 74D6BC35, Key: Mod2_Description, Value: Moving through enemies while {c_important}Blade Shift{/c} is active refreshes its duration. After moving through enemies {c_number}{SF_4}{/c} times, your next {c_important}Blade Shift{/c} will {c_important}{u}Daze{/u}{/c} enemies for {c_number}{buffduration:MOD_DAZE}{/c} seconds.
+Hash: 74D6BC35, Key: Mod2_Description, Value: Casting a Skill other than {c_important}Blade Shift{/c} empowers your next {c_important}Blade Shift{/c} to deal {c_number}[SF_21*100|%x|]{/c} increased damage.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Fundamental Blade Shift

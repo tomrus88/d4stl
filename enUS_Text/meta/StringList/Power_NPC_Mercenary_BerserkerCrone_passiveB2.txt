@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Reprisal
+Hash: 003892BF, Key: desc, Value: If you become Crowd Controlled, Varyana leaps towards the enemy that inflicted it, dealing {c_number}{payload:LEAP_PAYLOAD_TOOLTIP}{/c} Physical damage and Knocking Down surrounding enemies for {c_number}{SF_3}{/c} seconds on impact. This can only occur once every {c_number}[{SF_0}]{/c} seconds.

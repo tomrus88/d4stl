@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this device?" 
+Hash: 924F8933, Key: Line1.1C5397, Value: Isn’t it beautiful? We call it the Basin. It’s built to carry the stuff of souls.
+Hash: E285B500, Key: VoiceDir1.1C5397, Value: proud
+Hash: 6AD332F5, Key: Line3.1C5397, Value: Maybe you’ve seen the empty husks of flesh and bone wandering outside the Citadel. You can thank the khazra for that.
+Hash: 4356DCB7, Key: Line5.1C5397, Value: The Basin can pull free some of the souls still trapped inside. There’s not much that can be done for those folks now... but we can at least set their souls on their way.

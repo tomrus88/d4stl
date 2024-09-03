@@ -5,7 +5,7 @@ Hash: 315CE09A, Key: DebugLegendController, Value: {icon:button2, 2.0} Return to
 Hash: 8DB15414, Key: MajorSkillsHeader, Value: Key Passives
 Hash: 7C783A20, Key: MinorSkillsHeader, Value: Minor Passives
 Hash: BA12DB8D, Key: SpiritSkills, Value: Druidic Passives
-Hash: 7CD7F75B, Key: SkillTreeGateTooltip, Value: Spend the number of Skill Points indicated to enable this connection
+Hash: 7CD7F75B, Key: SkillTreeGateTooltip, Value: Locked. Spend {c:FFFF0000}{s1}{/c} more Skill Points to enable this connection
 Hash: 8552EA66, Key: SkillPointsSpent, Value: {s1} |4point:points; spent
 Hash: 0A7C3F49, Key: SkillModCoreStatText, Value: {s1}: {s2}
 Hash: 2DD031EA, Key: SkillModTooltipLabel, Value: Modifies {s1}
@@ -31,3 +31,6 @@ Hash: 91AF7EE7, Key: ExclusiveChoice_Ultimate, Value: {c_warning}You may only se
 Hash: 31318A0A, Key: ExclusiveChoice_Talent, Value: {c_warning}You may only select one Key Passive.{/c}
 Hash: 56D9EC45, Key: SkillPoint_Value, Value: {icon:Skill_Icon, 1.7}{s1}
 Hash: F22E0AF7, Key: KeyPassive_RootNode_Tooltip, Value: {c_important}Key Passives{/c} drive vital synergies through unique interactions
+Hash: 12F69BA8, Key: Level_Requirement, Value: Lv. {s1}
+Hash: CB74D62D, Key: ComboPoints, Value: {c:FFdba864}{s1}{/c}{c:FF928c82}/2
+Hash: F0128F81, Key: SkillTreeGateNeedRulerTooltip, Value: [PH] Choose a Ruler in order to enable this connection.

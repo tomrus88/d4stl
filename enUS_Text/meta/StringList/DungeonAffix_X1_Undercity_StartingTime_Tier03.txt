@@ -1,0 +1,5 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Starting Time: 30 seconds
+Hash: EEB7912D, Key: AffixDesc, Value: The amount of time that starts on the timer upon entering the Undercity.
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: The amount of time that starts on the timer upon entering the Undercity.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: The amount of time that starts on the timer upon entering the Undercity.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: The amount of time that starts on the timer upon entering the Undercity.

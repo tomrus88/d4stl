@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: PTR Cache - Runes of Invocation
+Hash: A646FFA4, Key: Description, Value: Contains all Runes of Invocation.
+Hash: F5C7BC0A, Key: Flavor, Value: Likely useful to be by a Stash before opening.

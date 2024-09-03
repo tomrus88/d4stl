@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Valiance
+Hash: C6E60718, Key: Buff2_Description, Value: You have recently been protected by Raheir. You cannot be protected again while this is active.

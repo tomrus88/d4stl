@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Collection of Bones
+Hash: F2CA04D8, Key: NoticeSignText, Value: A poor soul who tried to become Spiritborn but couldn't meet the challenge. Their bones are slowly turning to dust, consigning this person to the path of the forgotten.

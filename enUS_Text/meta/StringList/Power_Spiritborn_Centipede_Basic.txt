@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Withering Fist
+Hash: 003892BF, Key: desc, Value: {c_label}Generate Vigor:{/c_label} {c_resource}{SF_0}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Dart at and jab an enemy several times, dealing a total of {c_number}{payload:IMPACT_THIRD}{/c} damage and applying {c_number}{dot:POISON_DOT}{/c} Poisoning damage over {c_number}[{buffduration:POISON_DOT}]{/c} seconds.
+
+Your {c_number}3rd{/c} attack bursts on your target, damaging surrounding enemies and Slowing them by {c_number}[{SF_11}*100|%|]{/c} for {c_number}{SF_12}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT_TOOLTIP}{/c}
+{icon:bullet, 1.2} Poisoning Damage {icon:arrow, 1.2} {c_number}{dot:POISON_DOT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: You gain {c_number}{SF_16}{/c} Vigor per second for every Nearby enemy Poisoned by {c_important}Withering Fist{/c}, up to {c_number}{SF_17}{/c} .
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Withering Fist
+Hash: 2577B2B4, Key: Mod1_Description, Value: Enemies Poisoned by {c_important}Withering Fist{/c} deal {c_number}[{SF_18}*100|%|]{/c} less damage.
+Hash: 948901D1, Key: Mod1_Name, Value: Accelerated Withering Fist
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Withering Fist's{/c} {c_number}3rd{/c} attack spreads its Poisoning to {c_number}{SF_20}{/c} Nearby unaffected enemies. Hitting a {c_important}{u}Vulnerable{/u}{/c} enemy will also spread that effect to all hit.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Sharp Withering Fist

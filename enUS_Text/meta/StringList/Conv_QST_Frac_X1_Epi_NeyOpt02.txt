@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you miss Lorath?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Um...I don’t think so. Maybe I miss who I thought he was. But not the reality of him.
+Hash: F414A633, Key: Line3.6DE47, Value: He’s a good man. He tried his best.
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: with a soft smile

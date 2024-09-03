@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: name, Value: Riposte
+Hash: 003892BF, Key: desc, Value: {c_label}Charges:{/c} {c_resource}Up to {SF_1}{/c}
+After Dodging an attack, gain {c_number}1{/c} Charge. Activate to consume all Charges, unleashing {c_number}{SF_2}{/c} knives per Charge that deal {c_number}{payload:IMPACT}{/c} damage to enemies. Attacks dodged from bosses grant {c_number}{SF_12}{/c} Charges.
+
+{c_label}Passive:{/c} Your Dodge Chance is increased by {c_number}[{SF_0}*100|%|]{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
+Hash: 101C1614, Key: Buff1_Name, Value: Enhanced Riposte
+Hash: 7786FD97, Key: Buff1_Description, Value: Dodge Chance increased by {c_number}[{SF_7} * 100|%|]}{/c}.
+Hash: D618A933, Key: Mod0_Description, Value: For {c_number}[{SF_8}|1|]{/c} seconds after using {c_important}Riposte{/c}, your Dodge Chance is increased by {c_number}[{SF_7} * 100|%|]{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Riposte
+Hash: 2577B2B4, Key: Mod1_Description, Value: After using Riposte, its damage is increased by {c_number}[{SF_9} * 100|%|]{/c} for {c_number}{SF_10}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Countering Riposte
+Hash: 74D6BC35, Key: Mod2_Description, Value: Riposte's passive Dodge Chance is increased by {c_number}[[{SF_11} * 100|%1|]{/c} per stored Charge.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Subverting Riposte
+Hash: C435C5B6, Key: Mod3_Description, Value: (PH) Something cool will be here someday, but today is not that day.
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Riposte - C Choice

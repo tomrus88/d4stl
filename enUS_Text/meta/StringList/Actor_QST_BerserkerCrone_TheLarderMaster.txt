@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gorah Worm-Keeper
+Hash: CC38ADCB, Key: FlavorName, Value: Master of the Fetid Larder

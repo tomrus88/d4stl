@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hire Mercenary
+Hash: 713ED48B, Key: Line792.1602FD, Value: If you’re sure. Let’s go.
+Hash: A7AF2798, Key: VoiceDir792.1602FD, Value: Unsure
+Hash: 49C27E4D, Key: Line794.1602FD, Value: Really? I’m ready.
+Hash: 8032D15A, Key: VoiceDir794.1602FD, Value: eager
+Hash: 2246280F, Key: Line796.1602FD, Value: I’ll do what I can.
+Hash: 58B67B1C, Key: VoiceDir796.1602FD, Value: eager 

@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Enlist Reinforcement
+Hash: 8F4698D2, Key: Line1.18782A, Value: Old Varyana will do you right.
+Hash: 8A800C69, Key: Line888.18782A, Value: Picked Varyana right out, did you?
+Hash: 9CEDD662, Key: Line890.18782A, Value: Tasty choice, eh?
+Hash: BBD83634, Key: Line829.189135, Value: We could use some help.
+Hash: BA87D50E, Key: Line832.189135, Value: We need reinforcements.
+Hash: 7F4D53B1, Key: Line835.189135, Value: We need others to stand with us.
+Hash: 4412D254, Key: Line838.189135, Value: We are stronger together.
+Hash: 42D48989, Key: Line841.199120, Value: Strength in numbers.
+Hash: 079A082C, Key: Line844.199120, Value: I often work alone, but perhaps we need help.
+Hash: CC5F86CF, Key: Line847.199120, Value: Aid would be most welcome.
+Hash: CB0F25A9, Key: Line850.199120, Value: I fear we must have help.
+Hash: 31C7B96C, Key: Line12.1602FD, Value: I think we need help.
+Hash: 59440FAA, Key: Line10.1602FD, Value: I hope someone helps us.
+Hash: 04EB5081, Key: Line8.1602FD, Value: Can anybody help us?
+Hash: 2C67A6BF, Key: Line6.1602FD, Value: Can we get more friends?

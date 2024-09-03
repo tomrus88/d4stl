@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Your next non-{c_important}Basic{/c} Skill cast spends all of your Primary Resource to deal up to {c_number}100%{/c} increased damage.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Reckless Sacrifice
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Further Increased Damage
+Hash: 003DFCC1, Key: Name, Value: Qax

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: (PH) {icon:bullet,1.2} Raider {icon:bullet,1.2}
+{c_gray}[Jaguar][Centipede]{/c}
+Hash: 003892BF, Key: desc, Value: (PH) {icon:bullet,1.2} Your Poisoning deals damage {c_number}[1 / (1-{SF_2}) * 100|%|]{/c} faster.
+
+{icon:bullet,1.2} Gain {c_number}{SF_3}{/c} {c_important}{u}Ferocity{/u}{/c} when you Crowd Control an enemy.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Putrid Tallow Candle
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] A stinking candle made from the congealed fat of an unknown animal.

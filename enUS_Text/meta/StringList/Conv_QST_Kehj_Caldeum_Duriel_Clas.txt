@@ -3,3 +3,4 @@ Hash: 7300649C, Key: Line1.BAE4.Dru, Value: These bodies are rank with corruptio
 Hash: 73008D67, Key: Line1.BAE4.Nec, Value: Fresh kills, but already maggoty. Something speeds the decay.
 Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: Bitten, ripped, and riddled with holes. These bodies aren’t the Knights’ work.
 Hash: 7300A405, Key: Line1.BAE4.Sor, Value: Foul magic hangs about these corpses. The source must be near.
+Hash: 7300A41D, Key: Line1.BAE4.Spi, Value: Corpses... demon’s work. A strong one. These people suffered, and it... rejoiced.

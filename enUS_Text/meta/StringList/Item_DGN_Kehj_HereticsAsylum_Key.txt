@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Maximum Security Key
-Hash: A646FFA4, Key: Description, Value: Bound to Heretic's Asylum
 Hash: F5C7BC0A, Key: Flavor, Value: A key to the Maximum Security chamber that is now home to the deserter knights' leaders.
+Hash: A646FFA4, Key: Description, Value: Bound to Heretic's Asylum

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH]Elixir of Hollow-slaying
+Hash: A646FFA4, Key: Description, Value: [PH]Increases damage against Hollows by  {c_number}20%{/c} and Experience gained by {c_number}5%{/c} for {c_number}{s1}{/c} minutes.
+Hash: F5C7BC0A, Key: Flavor, Value: [PH]You may only have one Elixir active at a time.

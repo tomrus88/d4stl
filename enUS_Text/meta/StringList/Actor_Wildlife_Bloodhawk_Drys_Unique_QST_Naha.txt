@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloodhawk Brood Mother
+Hash: CC38ADCB, Key: FlavorName, Value: Devourer of the Calcified Heart

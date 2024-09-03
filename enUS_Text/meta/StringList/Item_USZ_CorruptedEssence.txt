@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Corrupted Essence
+Hash: A646FFA4, Key: Description, Value: Sacrifice this to the {c_red}Inferno Altar{/c} in a Helltide affected region to trigger a Tier 2 event.

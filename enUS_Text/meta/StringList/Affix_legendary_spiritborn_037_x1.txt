@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Kinetic Suppression
+Hash: 003892BF, Key: Desc, Value: Casting a Non-{c_important}Basic{/c} {c_important}Mobility{/c} Skill grants {c_random}[Affix_Value_1]{/c} {c_important}{u}Resolve{/u}{/c} and causes your next {c_important}Concussive Stomp{/c} to strike in a circle around you.
+Hash: 82B7D312, Key: CodexDesc, Value: Casting a Non-{c_important}Basic{/c} {c_important}Mobility{/c} Skill grants {c_random}[Affix_Value_1]{/c} {c_important}{u}Resolve{/u}{/c} and causes your next {c_important}Concussive Stomp{/c} to strike in a circle around you.

@@ -1,0 +1,8 @@
+Hash: B8A227EA, Key: Callback4Header, Value: Collect {ITEM} from Animus Carriers
+Hash: C5FA5A22, Key: Callback39Header, Value: [PH] Optional: Slay Toxic Maggots {LEFT}
+Hash: 4A6A48FB, Key: Callback41Header, Value: [PH] Optional: Destroy the Ward of Eyes: {LEFT}
+Hash: E45EC27D, Key: Callback43Header, Value: [PH] Optional: Slay the Chosen: {LEFT}
+Hash: 1B9C6464, Key: Callback95Header, Value: [PH] Optional: Slay the Chosen: {LEFT}
+Hash: D7EC010E, Key: Callback125Header, Value: [PH] Optional: Slay the Chosen: {LEFT}
+Hash: 9E7E03E4, Key: Callback59Header, Value: [PH] Optional: Slay the Miniboss
+Hash: 2F5A8F83, Key: Callback85Header, Value: [PH] Optional: Slay the Miniboss

@@ -10,7 +10,7 @@ Hash: EA338665, Key: Phase17OutsideSubzoneHeader, Value: Accompany Donan to the 
 Hash: 0687FA1D, Key: Callback16Header, Value: Accompany Donan to the tower
 Hash: B87761DE, Key: Phase18Description, Value: Donan and I arrived at the tower in Wejinhani, only to discover it was Taissa who had taken up residence there. I should speak with her. 
 Hash: 3B4080E6, Key: Phase18OutsideSubzoneHeader, Value: Speak with Taissa at the Ruined Tower
-Hash: 7C86B7CC, Key: Callback141Header, Value: Speak with Taissa
 Hash: 759F228E, Key: Phase126Description, Value: Donan's ritual failed, and it seems that the Soulstone is damaged. I should meet back up with Donan in Hawezar's town of Wejinhani. 
 Hash: 68640796, Key: Phase126OutsideSubzoneHeader, Value: Find Donan in Wejinhani
 Hash: BEDAB751, Key: Callback128Header, Value: Find Donan in Wejinhani
+Hash: 7C86B7CC, Key: Callback141Header, Value: Speak with Taissa

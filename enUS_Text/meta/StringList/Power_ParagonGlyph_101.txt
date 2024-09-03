@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: You deal increased Thorns damage equal to {c_number}[SF_0*100|%x|]{/c} of your Dodge bonus.

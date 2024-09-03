@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Realm Shard
+Hash: A646FFA4, Key: Description, Value: Shards used to power Gateways

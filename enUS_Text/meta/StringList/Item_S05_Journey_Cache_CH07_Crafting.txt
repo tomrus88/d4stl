@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Destroyer's Crafting Cache
-Hash: A646FFA4, Key: Description, Value: Contains Crafting Materials, such as Neathiron and Scattered Prisms.
+Hash: A646FFA4, Key: Description, Value: Contains Crafting Materials, such as Obducite and Scattered Prisms.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Supremacy
+Hash: 003892BF, Key: desc, Value: Any enemies you kill while an {c_important}Ultimate{/c} Skill is active grants a stack of Supremacy, each increasing your damage by {c_number}[{SF_0}*100|x%|]{/c}, up to {c_number}[{SF_0}*{SF_1}*100|x%|]{/c}. When an {c_important}Ultimate{/c} Skill ends, you gain {c_number}[SF_2]{/c} stacks of Supremacy, but you begin to lose one stack every second.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Bonus {icon:arrow,1.2} {c_number}[{SF_0}*100|x%|]{/c}
+Hash: 101C1614, Key: Buff1_Name, Value: Supremacy
+Hash: 7786FD97, Key: Buff1_Description, Value: Gain increased damage from kills.

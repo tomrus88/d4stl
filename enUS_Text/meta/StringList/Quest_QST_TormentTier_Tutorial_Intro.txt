@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Torment Tiers
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Torment Tiers
+Hash: 6FA23862, Key: Phase94Description, Value: Visit the Inarius Statue in Kyovashad to change Torment Tiers.
+
+In Torment, challenges will become more difficult and the rewards even greater than before.
+
+Increase the Torment Tier to increase the challenge level and the rewards that can be acquired.
+Hash: 6896A125, Key: Callback96Header, Value: Interact with the Inarius Statue in Kyovashad

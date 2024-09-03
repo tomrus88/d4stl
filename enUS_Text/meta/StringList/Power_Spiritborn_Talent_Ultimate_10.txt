@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Proliferation
+Hash: 003892BF, Key: desc, Value: (PH) Whenever you cast a {c_important}Core{/c} Skill, you gain {c_number}{SF_0}{/c} Allegiance.

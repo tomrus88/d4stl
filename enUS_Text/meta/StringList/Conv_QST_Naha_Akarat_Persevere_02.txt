@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What was your donkey's name?"
+Hash: 8F732FF1, Key: Line1.19FBC5, Value: Libuwem. He is the reason I survived, protected me until he couldn't anymore. Rest well, good friend.

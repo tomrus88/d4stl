@@ -1,0 +1,4 @@
+Hash: 9251F55B, Key: Line1.1C8B24, Value: Uhm…I…It…Hnghh…
+Hash: E2882128, Key: VoiceDir1.1C8B24, Value: groaning in pain, halting discomfort
+Hash: 6AD93C44, Key: Line3.1BA2C2, Value: Hush now, blossom. Rest away the aches. Twisting and turning will only wake your wounds again.
+Hash: BB0F6811, Key: VoiceDir3.1BA2C2, Value: soothing, eerily maternal

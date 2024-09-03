@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Marks of Honor
+Hash: A646FFA4, Key: Description, Value: Earn {c_number}+10%{/c} additional {c_important}Pale Marks{/c} from activities.
+
+{c_label}Passive:{/c} Stacks with all 'Marks of Honor' bartering upgrades.

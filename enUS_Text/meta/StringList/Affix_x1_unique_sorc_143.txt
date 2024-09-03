@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Familiar{/c} now summons all three elemental variants at once.
+
+{c_important}Familiar's{/c} duration is increased by {c_random}[Affix_Value_1|x%|]{/c} and its Cooldown is reduced by {c_number}2{/c} seconds, but its maximum Charges are reduced by {c_number}1{/c}.

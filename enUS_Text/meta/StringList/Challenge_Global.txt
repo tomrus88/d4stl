@@ -1,3 +1,7 @@
+Hash: D231A3B0, Key: Challenge_Category_1, Value: Challenge
+Hash: D231A3B5, Key: Challenge_Category_6, Value: Challenge
+Hash: 18661AC9, Key: Challenge_Category_82, Value: Test 1
+Hash: 18661ACA, Key: Challenge_Category_83, Value: Test 2
 Hash: D231A3B1, Key: Challenge_Category_2, Value: Classes
 Hash: D231A3B6, Key: Challenge_Category_7, Value: Barbarian
 Hash: D231A3B8, Key: Challenge_Category_9, Value: Druid
@@ -8,8 +12,6 @@ Hash: D231A3B2, Key: Challenge_Category_3, Value: Crafting
 Hash: 186619E2, Key: Challenge_Category_12, Value: General
 Hash: 186619E3, Key: Challenge_Category_13, Value: Alchemist
 Hash: 186619E5, Key: Challenge_Category_15, Value: Jeweler
-Hash: D231A3B0, Key: Challenge_Category_1, Value: Challenge
-Hash: D231A3B5, Key: Challenge_Category_6, Value: Challenge
 Hash: 18661A64, Key: Challenge_Category_50, Value: Exploration
 Hash: 18661AA6, Key: Challenge_Category_70, Value: World
 Hash: 18661A66, Key: Challenge_Category_52, Value: Dungeons
@@ -47,7 +49,8 @@ Hash: 18661A28, Key: Challenge_Category_36, Value: Events
 Hash: 18661A8B, Key: Challenge_Category_66, Value: Quests
 Hash: 18661A8C, Key: Challenge_Category_67, Value: Campaign
 Hash: 18661A8D, Key: Challenge_Category_68, Value: Side Quests
-Hash: 18661A8E, Key: Challenge_Category_69, Value: Console Achievements
-Hash: 18661AA7, Key: Challenge_Category_71, Value: Hidden
 Hash: 18661AA9, Key: Challenge_Category_73, Value: Feats of Strength
 Hash: 18661AAA, Key: Challenge_Category_74, Value: Feats
+Hash: 18661AD0, Key: Challenge_Category_89, Value: Legacy
+Hash: 18661A8E, Key: Challenge_Category_69, Value: Console Achievements
+Hash: 18661AA7, Key: Challenge_Category_71, Value: Hidden

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Temporal Incisions
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Rushing Claw{/c} extends the durations of your active {c_important}Incarnate{/c} Skill effects by {c_random}[Affix_Value_1|2|]{/c} seconds, up to {c_random}[Affix_Value_1*Affix."Static Value 1"|2|]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Casting {c_important}Rushing Claw{/c} extends the durations of your active {c_important}Incarnate{/c} Skill effects by {c_random}[Affix_Value_1|2|]{/c} seconds, up to {c_random}[Affix_Value_1*Affix."Static Value 1"|2|]{/c} seconds.

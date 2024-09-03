@@ -40,3 +40,9 @@ Hash: 8C4A93E8, Key: EventDuration, Value: {icon:Tracker_Bounty_Timer, 1.5}{c:FF
 Hash: D9028169, Key: DungeonComplete, Value: Dungeon cleared
 Hash: 794FD8B1, Key: ChallengeRiftComplete, Value: Your Gauntlet Run has Completed. You may now exit the dungeon.
 Hash: 4FE7DB0C, Key: CellarComplete, Value: Cellar cleared
+Hash: 50502435, Key: PriorityQuestAvailable, Value: Priority Quest(s) Available
+Hash: ADDF24A4, Key: CitadelWingComplete, Value: Wing cleared
+Hash: 13164EBB, Key: CitadelBossWingComplete, Value: Citadel cleared
+Hash: 1736550C, Key: SME_Hatetide_Name, Value: [PH] Hatetide
+Hash: 63F60354, Key: SeasonalDungeon_Realmwalker_Complete, Value: [PH] Realm cleansed
+Hash: 277894A4, Key: DungeonKeyTypeHeader, Value: {s1}

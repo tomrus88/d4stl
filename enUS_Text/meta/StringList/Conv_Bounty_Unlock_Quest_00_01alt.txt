@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm looking for Lorath. Did he leave?"
+Hash: 92725624, Key: Line1.1E1BD0, Value: Oh, yes. Yes, those Horadrim, always coming and going, coming and going. Young master Donan, he was always the same... spirits guide his soul.
+Hash: 6AF5FFE6, Key: Line3.1E1BD0, Value: Young Lorath, he said he had a message for the wanderer. That you, eh? Wanderer?
+Hash: 083F284B, Key: Line8.1E1BD0, Value: Let me see, he said... what was it again...?
+Hash: 5C97E774, Key: Line10.1E1BD0, Value: Wait... I remember...
+Hash: 351B9136, Key: Line12.1E1BD0, Value: He said something about "work to be done..." and  that "you must gain your strength." Yes, that's right. And that "the Tree of Whispers could prove a valuable ally."
+Hash: 0D9F3AF8, Key: Line14.1E1BD0, Value: Even I have heard of this tree.
+Hash: E622E4BA, Key: Line16.1E1BD0, Value: Young Lorath, he knows best, eh?

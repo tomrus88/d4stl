@@ -9,4 +9,3 @@ Hash: 486BD940, Key: Callback82Header, Value: Enter the house
 Hash: E410A465, Key: Phase88Description, Value: Edgar has extended an offer to meet him in Gea Kul.
 Hash: C94F0905, Key: Callback87Header, Value: Speak with Edgar 
 Hash: 028B1AA7, Key: Callback98Header, Value: Tell Edgar what you've learned
-Hash: 6AC6FC68, Key: Callback110Header, Value: Take {ITEM} from Edgar

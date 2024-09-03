@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Bane of the Khazra
+Hash: 003892BF, Key: Desc, Value: Complete the Rise of the Khazra Dark Citadel.
+Hash: 3DB7864A, Key: Crit_246625, Value: Alpha Wing
+Hash: 3DB7864B, Key: Crit_246626, Value: Beta Wing
+Hash: 3DB7864C, Key: Crit_246627, Value: Omega Wing

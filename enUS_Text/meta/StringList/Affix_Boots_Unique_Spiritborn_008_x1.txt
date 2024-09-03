@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Soar{/c} deals {c_random}[Affix_Value_1*100|%x|]{/c} increased damage and your {c_important}Evade{/c} is now {c_important}Soar{/c}.

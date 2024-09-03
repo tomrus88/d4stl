@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Beta Wing Completion Tracking
+Hash: 003892BF, Key: Desc, Value: Tracks if player has completed Beta Wing, used for Community Challenge

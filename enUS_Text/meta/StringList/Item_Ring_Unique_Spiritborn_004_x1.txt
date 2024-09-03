@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Peacemonger's Signet
+Hash: F5C7BC0A, Key: Flavor, Value: "In Natsalarwaka, no blood shall mar the earth. Even bitter enemies must forgo their blades before entering the haven. Breaking this accord will invoke Wasipotsu's wrath." - Oral Umbuntu Scripture

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cow Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: The lacuni destroyed Kichuk's farmland and slaughtered its livestock. It will take time for the survivors to rebuild their humble town.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Raheir's Workshop
+Hash: 003892BF, Key: Desc, Value: A private workshop where Raheir conducts business.

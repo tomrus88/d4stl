@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ashen hatred reignited.
+Hash: 38AA8D97, Key: Callback10Header, Value: Explore {WORLD:DGN_Naha_HierophantPyre} and Slay {MONSTER}

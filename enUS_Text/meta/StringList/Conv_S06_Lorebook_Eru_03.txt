@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Eru
+Hash: 8F4F075B, Key: Line1.17FDAA, Value: Felled another blighted creature. This one was different from the shambling masses of tar and corpse bits. This was a man.
+Hash: 67D2B11D, Key: Line3.17FDAA, Value: Thick tendrils of tar coiled around his body like a serpent. Ichor streamed from his blackened eyes, hissing and steaming on his cheeks.
+Hash: 40565ADF, Key: Line5.17FDAA, Value: If he understood my words he showed no signs of it, nor any emotion or essence beyond the instincts to draw breath and to kill. Had my training failed me...had I fallen...would I have become like him?

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Undercity Temple Barding
+Hash: A646FFA4, Key: Description, Value: Armor looted from Golden Snakes was melted down and refashioned into this lavish barding.

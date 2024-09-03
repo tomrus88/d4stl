@@ -6,7 +6,7 @@ Hash: 46BF2B7B, Key: Legendary, Value: Legendary
 Hash: 0001F6AC, Key: Set, Value: Set
 Hash: 18ED9CF7, Key: Unique, Value: Unique
 Hash: 08B074E9, Key: Normal, Value: Common
-Hash: 1354C512, Key: Sacred, Value: Sacred
+Hash: 2D825394, Key: Sacred (DEPRECATED), Value: Sacred
 Hash: 60315FFD, Key: Ancestral, Value: Ancestral
 Hash: D224B797, Key: Cosmetic, Value: Cosmetic
 Hash: 071145CE, Key: Mythic, Value: Mythic Unique

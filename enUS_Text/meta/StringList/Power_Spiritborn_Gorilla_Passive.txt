@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Resolve
+Hash: 171B8FF7, Key: Buff4_Name, Value: Resolve
+Hash: 65A41A1A, Key: Buff4_Description, Value: {c_important}{u}Resolve{/u}{/c}
+Damage Reduction increased by [{SF_0}*100|%|] while active. Direct damage consumes a stack. Stores up to {SF_1} stacks.

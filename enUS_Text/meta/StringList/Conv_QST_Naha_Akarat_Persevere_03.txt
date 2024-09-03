@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will you be okay here on your own?"
+Hash: 8F732FF1, Key: Line1.19FBC5, Value: You're a kind soul. I'll be all right.
+Hash: 407A8375, Key: Line5.19FBC5, Value: Life is not easy for any of us, but those who wish to live must have the grit to meet it anyway.

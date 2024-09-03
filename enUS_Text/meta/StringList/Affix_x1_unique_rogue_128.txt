@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Shadow Realm
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Smoke Grenade{/c} increases your Critical Strike Damage by {c_number}[Affix."Static Value 0"|%x|]{/c} for {c_number}[Affix_Value_1]{/c} seconds and leaves behind a cloud of shadows. While within the cloud, you gain {c_important}{u}Stealth{/u}{/c} once per second.

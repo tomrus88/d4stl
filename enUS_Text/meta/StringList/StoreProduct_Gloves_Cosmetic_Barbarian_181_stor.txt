@@ -1,2 +1,2 @@
-Hash: 13A53A8B, Key: Series, Value: "The Vanquished Elder"
 Hash: 003DFCC1, Key: Name, Value: Gauntlets of the Vanquished
+Hash: 13A53A8B, Key: Series, Value: "The Vanquished Elder"

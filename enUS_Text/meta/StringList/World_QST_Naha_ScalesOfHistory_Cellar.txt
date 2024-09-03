@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mage Clan Ruins
+Hash: 003892BF, Key: Desc, Value: The ancient stones have long since given way to the jungle.

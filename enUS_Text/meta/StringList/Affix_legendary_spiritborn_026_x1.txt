@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Simple Reprisal
+Hash: 003892BF, Key: Desc, Value: When you cast the {c_number}3rd{/c} attack of your {c_important}Basic{/c} Skills you have a {c_random}[Affix_Value_1*100|%|]{/c} chance to unleash {c_important}Payback{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: When you cast the {c_number}3rd{/c} attack of your {c_important}Basic{/c} Skills you have a {c_random}[Affix_Value_1*100|%|]{/c} chance to unleash {c_important}Payback{/c}.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Mining for Wolfram
+Hash: 0871A46B, Key: Toast, Value: Help Raheir gather the materials he needs.
+Hash: 1EADAE68, Key: Callback2Header, Value: Ready the mining supplies.
+Hash: 6FE82F7E, Key: Callback62Header, Value: Slay looters while Raheir mines the Wolfram.
+Hash: C2358ADD, Key: Callback70Header, Value: Slay the animated wolfram after Raheir frees them.
+Hash: ED76B060, Key: Callback19Header, Value: Slay the remaining monsters

@@ -1,0 +1,2 @@
+Hash: 07F73087, Key: Line8.1A39C8, Value: It hurts!
+Hash: 582D5C54, Key: VoiceDir8.1A39C8, Value: injured, crying

@@ -25,7 +25,7 @@ Hash: 69B8E183, Key: Phase24OutsideSubzoneHeader, Value: Find the prison of Guul
 Hash: F2C9CEFE, Key: Callback26Header, Value: Find the prison
 Hash: 26E4E6D1, Key: Phase138Description, Value: I must hope that Oyuun still lives, caged somewhere inside the prison. She is the only one who can get us inside the palace, and to Elias.
 Hash: 7D2A4739, Key: Phase138OutsideSubzoneHeader, Value: Pick up the Prison Keys within Guulrahn prison
-Hash: 5E224F71, Key: Callback137Header, Value: Pick up the Prison Keys
+Hash: 5E224F71, Key: Callback137Header, Value: Pick up the {ITEM}
 Hash: A7374DB3, Key: Phase149Description, Value: Oyuun says the quickest way out of the city undetected is through the forgotten quarter of the prisons. We must find the hidden entrance.
 Hash: 40E38C5B, Key: Phase149OutsideSubzoneHeader, Value: Destroy the weak wall within Guulrahn prison
 Hash: 975E6113, Key: Callback148Header, Value: Destroy the weak wall
@@ -37,7 +37,6 @@ Hash: A2049E4F, Key: Callback162Header, Value: Open Oyuun's cell
 Hash: 145D3590, Key: Phase146Description, Value: Oyuun says the quickest way out of the city undetected is through the forgotten quarter of the prisons. We must find the hidden entrance.
 Hash: 4DBC9CD8, Key: Phase146OutsideSubzoneHeader, Value: Bring Oyuun to the secret exit within Guulrahn prison
 Hash: B06FAAD0, Key: Callback145Header, Value: Find the secret path with Oyuun
-Hash: C433B3F1, Key: Callback254Header, Value: Find the secret exit
 Hash: E36BD6A1, Key: Phase66Description, Value: Oyuun is freed. We must escape the city before she can help me find my way into the Tyrant's palace.
 Hash: D6840109, Key: Phase66OutsideSubzoneHeader, Value: Speak with Oyuun within Guulrahn prison
 Hash: 3DC59C04, Key: Callback68Header, Value: Speak with Oyuun

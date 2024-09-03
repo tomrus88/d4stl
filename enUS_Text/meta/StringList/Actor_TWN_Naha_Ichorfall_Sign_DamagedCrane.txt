@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Damaged Crane
+Hash: F2CA04D8, Key: NoticeSignText, Value: This crane was once used to harvest ichor. It has since been destroyed by the perturbed wildlife in the area, possibly due to the presence of the giants.

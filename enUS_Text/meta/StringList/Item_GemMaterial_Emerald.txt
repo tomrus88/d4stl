@@ -1,2 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Emerald Fragment
-Hash: A646FFA4, Key: Description, Value: Shards of Emerald, which can be made into a Gem at the Jeweler.
+Hash: A646FFA4, Key: Description, Value: Shards of Emerald, which can be made into a Gem at the Jeweler. Also used to upgrade Rare Paragon Glyph to Legendary.
+Hash: F5C7BC0A, Key: Flavor, Value: Broken and weak, but not without the potential for greatness.

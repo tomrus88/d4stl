@@ -142,3 +142,39 @@ Hash: 2B23B8DC, Key: Line1276.EDC73, Value: Traveler! Your help is needed!
 Hash: 61940BE9, Key: VoiceDir1276.EDC73, Value: Stressed, urgent
 Hash: 12126F1F, Key: Line1279.EDC73, Value: Those people need help!
 Hash: 4882C22C, Key: VoiceDir1279.EDC73, Value: Stressed, urgent
+Hash: B2229568, Key: Line1284.1BB53F, Value: There are people in danger!
+Hash: B69D4A15, Key: VoiceDir1284.1BB53F, Value: Stressed urgent
+Hash: 76E8140B, Key: Line1287.1BB53F, Value: Traveler! Your help is needed!
+Hash: 7B62C8B8, Key: VoiceDir1287.1BB53F, Value: Stressed, urgent
+Hash: 7597B2E5, Key: Line1290.1BB53F, Value: Those people need help!
+Hash: 7A126792, Key: VoiceDir1290.1BB53F, Value: Stressed, urgent
+Hash: 12E0DB35, Key: Line1295.1BB540, Value: There are people in danger!
+Hash: 175B8FE2, Key: VoiceDir1295.1BB540, Value: Stressed urgent
+Hash: D7A659D8, Key: Line1298.1BB540, Value: Traveler! Your help is needed!
+Hash: DC210E85, Key: VoiceDir1298.1BB540, Value: Stressed, urgent
+Hash: 4D841FC9, Key: Line1301.1BB540, Value: Those people need help!
+Hash: 51FED476, Key: VoiceDir1301.1BB540, Value: Stressed, urgent
+Hash: EACD482F, Key: Line1306.1BB541, Value: There are people in danger!
+Hash: EF47FCDC, Key: VoiceDir1306.1BB541, Value: Stressed urgent
+Hash: AF92C6D2, Key: Line1309.1BB541, Value: Traveler! Your help is needed!
+Hash: B40D7B7F, Key: VoiceDir1309.1BB541, Value: Stressed, urgent
+Hash: AE4265AC, Key: Line1312.1BB541, Value: Those people need help!
+Hash: B2BD1A59, Key: VoiceDir1312.1BB541, Value: Stressed, urgent
+Hash: 4B8B8E12, Key: Line1317.1BB542, Value: There are people in danger!
+Hash: 500642BF, Key: VoiceDir1317.1BB542, Value: Stressed urgent
+Hash: 4A3B2CEC, Key: Line1320.1BB542, Value: Traveler! Your help is needed!
+Hash: 4EB5E199, Key: VoiceDir1320.1BB542, Value: Stressed, urgent
+Hash: 0F00AB8F, Key: Line1323.1BB542, Value: Those people need help!
+Hash: 137B603C, Key: VoiceDir1323.1BB542, Value: Stressed, urgent
+Hash: AC49D3F5, Key: Line1328.1BB543, Value: There are people in danger!
+Hash: B0C488A2, Key: VoiceDir1328.1BB543, Value: Stressed urgent
+Hash: AAF972CF, Key: Line1331.1BB543, Value: Traveler! Your help is needed!
+Hash: AF74277C, Key: VoiceDir1331.1BB543, Value: Stressed, urgent
+Hash: 6FBEF172, Key: Line1334.1BB543, Value: Those people need help!
+Hash: 7439A61F, Key: VoiceDir1334.1BB543, Value: Stressed, urgent
+Hash: 0D0819D8, Key: Line1339.1BB544, Value: There are people in danger!
+Hash: 1182CE85, Key: VoiceDir1339.1BB544, Value: Stressed urgent
+Hash: 0BB7B8B2, Key: Line1342.1BB544, Value: Traveler! Your help is needed!
+Hash: 10326D5F, Key: VoiceDir1342.1BB544, Value: Stressed, urgent
+Hash: D07D3755, Key: Line1345.1BB544, Value: Those people need help!
+Hash: D4F7EC02, Key: VoiceDir1345.1BB544, Value: Stressed, urgent

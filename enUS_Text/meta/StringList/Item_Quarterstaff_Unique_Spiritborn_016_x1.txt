@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rod of Kepeleke
+Hash: F5C7BC0A, Key: Flavor, Value: "Beyond the world disc doth lie the keeper serpent Kepeleke. Ceaseless the serpent grows, and thus must ever consume his own tail, lest the world be overtaken." - Lintel XII

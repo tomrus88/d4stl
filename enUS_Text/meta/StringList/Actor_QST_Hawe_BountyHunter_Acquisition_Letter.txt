@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Muddy Letter
+Hash: CC3C0A8F, Key: FlavorText, Value: Unfurled at the base of a Mercenary Helm
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Raheir,
+My quarry's trail leads into the Fens. 
+I hope the bird finds you in time.
+He'll bring me your response. 
+S"

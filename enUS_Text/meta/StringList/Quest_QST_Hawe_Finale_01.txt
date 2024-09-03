@@ -1,24 +1,24 @@
 Hash: 003DFCC1, Key: Name, Value: On the Precipice
 Hash: 0871A46B, Key: Toast, Value: Rejoin your allies at the Zakarum Keep
-Hash: D53BFF05, Key: Phase0Description, Value: The Soulstone has been repaired, and Elias' immortality broken. The time has come to attempt to attune the Soulstone to Mephisto's essence once more.
-Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Donan
-Hash: 07D66B5F, Key: Phase28Description, Value: The Horadrim have begun the attunement ritual, but Taissa has sensed Elias nearby and has run to confront him. I should not let her face him alone.
-Hash: 112E3759, Key: Callback30Header, Value: Slay Elias
-Hash: 8828D241, Key: Phase39Description, Value: The Horadrim have begun the attunement ritual, but Taissa has sensed Elias nearby and has run to confront him. I should not let her face him alone.
-Hash: 79001D61, Key: Callback38Header, Value: Return to Elias' Chamber
-Hash: 80E04E1B, Key: Phase42Description, Value: The Horadrim have begun the attunement ritual, but Taissa has sensed Elias nearby and has run to confront him. I should not let her face him alone.
-Hash: 940CCD20, Key: Phase56Description, Value: The Soulstone has been repaired, and Elias' immortality broken. The time has come to attempt to attune the Soulstone to Mephisto's essence once more.
-Hash: 6AC6FC68, Key: Callback110Header, Value: Follow Donan into the Black Tomb of Sankekur
-Hash: 5C75B95D, Key: Phase80Description, Value: The Soulstone has been repaired, and Elias' immortality broken. The time has come to attempt to attune the Soulstone to Mephisto's essence once more.
-Hash: 51368C42, Key: Phase85Description, Value: The Horadrim have begun the attunement ritual, but Taissa has sensed Elias nearby and has run to confront him. I should not let her face him alone.
-Hash: 9EAFEF6C, Key: Callback114Header, Value: Follow Taissa
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Rejoin your allies at the Zakarum Keep
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: The Soulstone has been repaired, and Elias' immortality broken. The time has come to attempt to attune the Soulstone to Mephisto's essence once more.
+Hash: D53BFF05, Key: Phase0Description, Value: The Soulstone has been repaired, and Elias' immortality broken. The time has come to attempt to attune the Soulstone to Mephisto's essence once more.
 Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Rejoin your allies at the Zakarum Keep
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Donan
+Hash: 07D66B5F, Key: Phase28Description, Value: The Horadrim have begun the attunement ritual, but Taissa has sensed Elias nearby and has run to confront him. I should not let her face him alone.
 Hash: ADECCB87, Key: Phase28OutsideSubzoneHeader, Value: Follow Taissa through the Foul Undercrypts
-Hash: ACF781C3, Key: Phase42OutsideSubzoneHeader, Value: Follow Taissa through the Black Tomb of Sankekur
-Hash: 63D7B668, Key: Phase56OutsideSubzoneHeader, Value: Follow Donan into the Black Tomb of Sankekur in the Foul Undercrypts
-Hash: D58EB745, Key: Phase80OutsideSubzoneHeader, Value: Follow Donan into Black Tomb of Sankekur
-Hash: 6ACF9BCA, Key: Phase85OutsideSubzoneHeader, Value: Follow Taissa through the Foul Undercrypts
-Hash: 24E63DCF, Key: Callback126Header, Value: Speak with Donan
+Hash: 112E3759, Key: Callback30Header, Value: Slay Elias
+Hash: 8828D241, Key: Phase39Description, Value: The Horadrim have begun the attunement ritual, but Taissa has sensed Elias nearby and has run to confront him. I should not let her face him alone.
 Hash: 71A610A9, Key: Phase39OutsideSubzoneHeader, Value: Follow Taissa through the Foul Undercrypts
+Hash: 79001D61, Key: Callback38Header, Value: Return to Elias' Chamber
+Hash: 80E04E1B, Key: Phase42Description, Value: The Horadrim have begun the attunement ritual, but Taissa has sensed Elias nearby and has run to confront him. I should not let her face him alone.
+Hash: ACF781C3, Key: Phase42OutsideSubzoneHeader, Value: Follow Taissa through the Black Tomb of Sankekur
+Hash: 940CCD20, Key: Phase56Description, Value: The Soulstone has been repaired, and Elias' immortality broken. The time has come to attempt to attune the Soulstone to Mephisto's essence once more.
+Hash: 63D7B668, Key: Phase56OutsideSubzoneHeader, Value: Follow Donan into the Black Tomb of Sankekur in the Foul Undercrypts
+Hash: 6AC6FC68, Key: Callback110Header, Value: Follow Donan into the Black Tomb of Sankekur
+Hash: 5C75B95D, Key: Phase80Description, Value: The Soulstone has been repaired, and Elias' immortality broken. The time has come to attempt to attune the Soulstone to Mephisto's essence once more.
+Hash: D58EB745, Key: Phase80OutsideSubzoneHeader, Value: Follow Donan into Black Tomb of Sankekur
+Hash: 24E63DCF, Key: Callback126Header, Value: Speak with Donan
+Hash: 51368C42, Key: Phase85Description, Value: The Horadrim have begun the attunement ritual, but Taissa has sensed Elias nearby and has run to confront him. I should not let her face him alone.
+Hash: 6ACF9BCA, Key: Phase85OutsideSubzoneHeader, Value: Follow Taissa through the Foul Undercrypts
+Hash: 9EAFEF6C, Key: Callback114Header, Value: Follow Taissa

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Pit
+Hash: 003892BF, Key: Desc, Value: A Horadric mystery buried deep in the veins of the land.

@@ -8,3 +8,4 @@ Hash: FA6B9B3D, Key: Line26.BAE4.Bar, Value: Brutal. I like it.
 Hash: FA6BE110, Key: Line26.BAE4.Rog, Value: Efficient.
 Hash: FA6BCEBE, Key: Line26.BAE4.Nec, Value: That was, not bad.
 Hash: FEE6836B, Key: VoiceDir26.BAE4.Nec, Value: Almost a grudging admission, but still genuine.
+Hash: FA6BE574, Key: Line26.BAE4.Spi, Value: Like a true warrior.

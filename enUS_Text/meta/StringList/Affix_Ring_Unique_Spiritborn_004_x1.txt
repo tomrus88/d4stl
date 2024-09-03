@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Generate {c_random}[Affix_Value_1]{/c} Vigor per second while you have at least {c_number}[Affix."Static Value 0"]{/c} stacks of {c_important}{u}Ferocity{/u}{/c}.
+
+Gaining {c_important}{u}Ferocity{/u}{/c} also grants {c_important}{u}Resolve{/u}{/c}.

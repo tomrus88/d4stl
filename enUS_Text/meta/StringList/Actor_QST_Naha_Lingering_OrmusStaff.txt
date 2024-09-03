@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ormus's Staff
+Hash: F2CA04D8, Key: NoticeSignText, Value: A time-worn metal staff. A thick layer of dust coats its ornate decorations.

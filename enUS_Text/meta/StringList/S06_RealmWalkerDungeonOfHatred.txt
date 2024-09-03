@@ -1,0 +1,7 @@
+Hash: F1FA6312, Key: MajorEventStarted, Value: [ph] Slay Mephisto's minions to claim their hoard!
+Hash: 2C427667, Key: UIEventTrackerData_Title, Value: Seething Breach
+Hash: 5DA84DAA, Key: Realm_Opened_00, Value: Portal to a {c_yellow}Seething Realm of Crafting Materials{/c} opened!
+Hash: 5DA84DAB, Key: Realm_Opened_01, Value: Portal to a {c_yellow}Seething Realm of Chaos{/c} opened!
+Hash: 5DA84DAC, Key: Realm_Opened_02, Value: Portal to a {c_yellow}Seething Realm of Gems{/c} opened!
+Hash: 5DA84DAD, Key: Realm_Opened_03, Value: Portal to a {c_yellow}Seething Realm of Obols{/c} opened!
+Hash: 5DA84DAE, Key: Realm_Opened_04, Value: Portal to a {c_yellow}Seething Realm of Masterworking Materials{/c} opened!

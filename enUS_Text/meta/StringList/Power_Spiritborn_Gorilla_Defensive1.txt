@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: Armored Hide
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}{c_label}Passive:{/c} Gain {c_number}{SF_14}{/c} {c_important}{u}Resolve{/u}{/c} every {c_number}[{SF_15}|1|]{/c} seconds.
+
+{c_label}Active:{/c} Encase yourself, becoming {c_important}{u}Unstoppable{/u}{/c} and gaining {c_number}[{SF_16}*100|%+|]{/c} Block Chance for {c_number}{buffduration:MAIN_ARMOR}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Active Duration {icon:arrow, 1.2} {c_number}{buffduration:MAIN_ARMOR}{/c}
+{c_label}Rank {SF_25}:{/c}
+{icon:bullet, 1.2} Passive Resolve {icon:arrow, 1.2} {c_number}[{SF_26}]{/c}
+Hash: D618A933, Key: Mod0_Description, Value: Activating {c_important}Armored Hide{/c} grants you Maximum {c_important}{u}Resolve{/u}{/c} and increases your Thorns by {c_number}[{SF_18}]{/c} for the duration.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Armored Hide
+Hash: 2577B2B4, Key: Mod1_Description, Value: When you Evade through enemies with {c_important}Armored Hide{/c} active, you deal {c_number}[{SF_11}*100|%|]{/c} of your Thorns to them and Heal for {c_number}[{SF_9}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,PlayerHealthMax() * {SF_9})]){/c} per hit.
+Hash: 948901D1, Key: Mod1_Name, Value: Adaptable Armored Hide
+Hash: 74D6BC35, Key: Mod2_Description, Value: While active, {c_important}Armored Hide{/c} increases your Blocked Damage Reduction by {c_number}[{SF_10}*100|%+|]{/c} for every Nearby enemy, up to {c_number}[{SF_10}*{SF_7}*100|%+|]{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Reinforced Armored Hide

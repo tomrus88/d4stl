@@ -1,7 +1,7 @@
 Hash: 003DFCC1, Key: Name, Value: Can hatred keep you warm?
 Hash: 059C64AB, Key: Callback5Header, Value: Defeat the {MONSTER}
 Hash: 38AA8D97, Key: Callback10Header, Value: Free the Prisoners: {LEFT}
-Hash: 3FC40BBF, Key: Callback27Header, Value: Use the Greasy Key to open the {GIZMO}
+Hash: 3FC40BBF, Key: Callback27Header, Value: Use the {ITEM:DGN_Frac_ForsakenQuarry_Key} to open the {GIZMO}
 Hash: AB22B0DB, Key: Callback32Header, Value: Slay all enemies in the Deserted Adit {KAM_REVEALED_COUNT}
 Hash: 9211671E, Key: Callback35Header, Value: Travel to the {LEVELAREA}
 Hash: 1D9AD41F, Key: Callback54Header, Value: Travel to the {LEVELAREA}

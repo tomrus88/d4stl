@@ -4,9 +4,11 @@ Hash: EA418A3A, Key: Line22.BAE4.Nec, Value: Tell me what this is.
 Hash: EA41616F, Key: Line22.BAE4.Dru, Value: Can you tell me what this is?
 Hash: EA41A0D8, Key: Line22.BAE4.Sor, Value: What do you know about this?
 Hash: EA419C8C, Key: Line22.BAE4.Rog, Value: Do you know what this is?
+Hash: EA41A0F0, Key: Line22.BAE4.Spi, Value: Tell me what this is.
 Hash: BDDC183C, Key: Line28.BAE4, Value: Have you seen this before?
 Hash: 7FC8507E, Key: Line36.BAE4.Bar, Value: Perhaps someone nearby can tell me what this is.
 Hash: 7FC883FF, Key: Line36.BAE4.Nec, Value: Someone nearby may know what this is.
 Hash: 7FC85B34, Key: Line36.BAE4.Dru, Value: There must be someone nearby who can tell me what this is.
 Hash: 7FC89A9D, Key: Line36.BAE4.Sor, Value: There must be someone nearby that knows what this is.
 Hash: 7FC89651, Key: Line36.BAE4.Rog, Value: Someone nearby may know what this is.
+Hash: 7FC89AB5, Key: Line36.BAE4.Spi, Value: Maybe someone near knows what this is.

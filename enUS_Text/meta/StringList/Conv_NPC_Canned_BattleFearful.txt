@@ -94,3 +94,27 @@ Hash: 297842ED, Key: Line746.EDC73, Value: Get them away!
 Hash: 1066F930, Key: Line749.EDC73, Value: Protect me!
 Hash: E1D124CA, Key: Line752.EDC73, Value: Can’t hold them off!
 Hash: 38CCCA37, Key: VoiceDir752.EDC73, Value: Fearful, desperately fighting off enemies
+Hash: 3FCDE03C, Key: Line757.1BB53F, Value: Get them away!
+Hash: 3E7D7F16, Key: Line760.1BB53F, Value: Protect me!
+Hash: 0342FDB9, Key: Line763.1BB53F, Value: Can’t hold them off!
+Hash: 39B350C6, Key: VoiceDir763.1BB53F, Value: Fearful, desperately fighting off enemies
+Hash: D49D84DF, Key: Line812.1BB540, Value: Get them away!
+Hash: 99630382, Key: Line815.1BB540, Value: Protect me!
+Hash: 5E288225, Key: Line818.1BB540, Value: Can’t hold them off!
+Hash: 9498D532, Key: VoiceDir818.1BB540, Value: Fearful, desperately fighting off enemies
+Hash: 73DF3EFE, Key: Line801.1BB541, Value: Ah. Get them away!
+Hash: 38A4BDA1, Key: Line804.1BB541, Value: Protect me!
+Hash: FD6A3C44, Key: Line807.1BB541, Value: Can’t hold them off!
+Hash: 33DA8F51, Key: VoiceDir807.1BB541, Value: Fearful, desperately fighting off enemies
+Hash: 9BF2D206, Key: Line790.1BB542, Value: Get them away!
+Hash: 60B850A9, Key: Line793.1BB542, Value: Protect me!
+Hash: 257DCF4C, Key: Line796.1BB542, Value: (grunt) Can’t hold them off!
+Hash: 5BEE2259, Key: VoiceDir796.1BB542, Value: Fearful, desperately fighting off enemies
+Hash: 014A6BEE, Key: Line779.1BB543, Value: Get them away!
+Hash: FFFA0AC8, Key: Line782.1BB543, Value: Protect me!
+Hash: C4BF896B, Key: Line785.1BB543, Value: Can’t hold them off!
+Hash: FB2FDC78, Key: VoiceDir785.1BB543, Value: Fearful, desperately fighting off enemies
+Hash: A08C260D, Key: Line768.1BB544, Value: Get them away!
+Hash: 9F3BC4E7, Key: Line771.1BB544, Value: Protect me!
+Hash: 6401438A, Key: Line774.1BB544, Value: Can’t hold them off!
+Hash: 9A719697, Key: VoiceDir774.1BB544, Value: Fearful, desperately fighting off enemies

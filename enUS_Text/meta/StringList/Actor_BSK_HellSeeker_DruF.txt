@@ -1,4 +1,4 @@
-Hash: 003DFCC1, Key: Name, Value: Banished Druid
+Hash: 003DFCC1, Key: Name, Value: Hellborne Druid
 Hash: CC38ADCB, Key: FlavorName, Value: Hellborne
 Hash: DA72BB62, Key: SuperElite, Value: Hellborne
 Hash: 18959B3F, Key: UIName, Value: Hellborne

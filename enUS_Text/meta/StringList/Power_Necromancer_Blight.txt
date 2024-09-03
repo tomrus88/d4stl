@@ -5,9 +5,9 @@ Hash: 003892BF, Key: desc, Value: {c_label}Essence Cost: {/c}{c_resource}{Resour
 Hash: F2D5722F, Key: rankup_desc, Value:  
 {icon:bullet,1.2} Impact Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
 {icon:bullet,1.2} Damage Over Time {icon:arrow,1.2} {c_number}{dot:TOOLTIP_DOT}{/c}
-Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Blight's{/c} defiled area Slows enemies by {c_number}[{SF_15}*100|%|]{/c}.
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Blight{/c}'s radius is increased by {c_number}[{SF_10}*100|%|]{/c}.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Blight
 Hash: D618A933, Key: Mod0_Description, Value: You and your Minions deal {c_number}[{SF_18}*100|%x|]{/c} increased damage to enemies within {c_important}Blight{/c}.
 Hash: 9233D930, Key: Mod0_Name, Value: Supernatural Blight
-Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Blight{/c} has a {c_number}[{SF_16}*100|%|]{/c} chance to Immobilize enemies for {c_number}{buffduration:IMMOBILIZE}{/c} seconds on impact.
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Blight{/c} {c_important}{u}Chills{/u}{/c} enemies for {c_number}[{SF_15}*100|%|]{/c} every second.
 Hash: 948901D1, Key: Mod1_Name, Value: Paranormal Blight

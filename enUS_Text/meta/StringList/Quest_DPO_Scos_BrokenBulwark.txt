@@ -2,6 +2,6 @@ Hash: 003DFCC1, Key: Name, Value: A clean carcass, sacked and pillaged.
 Hash: 1EADAE68, Key: Callback2Header, Value: Search the Slain Knights for the {ITEM}
 Hash: B8A227EA, Key: Callback4Header, Value: Travel to the {LEVELAREA}
 Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat the {MONSTER}
-Hash: 7E533BFF, Key: Callback45Header, Value: Use the Keep Key to open the {GIZMO}
+Hash: 7E533BFF, Key: Callback45Header, Value: Use the {ITEM:DGN_Scos_BrokenBulwark_Key} to open the {GIZMO}
 Hash: B78F4DA1, Key: Callback56Header, Value: Collect {ITEM} from Animus Carriers
 Hash: 6FE82F7E, Key: Callback62Header, Value: Deposit Animus into the {GIZMO}

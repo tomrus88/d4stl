@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I smell something sweet."
+Hash: A53F0EDF, Key: Line1.1CC158.Bar, Value: You don’t look familiar. We rarely get travelers these days. Makes us wary when someone new comes around.
+Hash: 3910592C, Key: VoiceDir1.1CC158.Bar, Value: Wary and to the point. She has no time for strangers. Polite, but only just.
+Hash: 0725D457, Key: Line3.1CC158.Dru, Value: You don’t look familiar. We rarely get travelers these days. Makes us wary when someone new comes around.
+Hash: 9AF71EA4, Key: VoiceDir3.1CC158.Dru, Value: Wary and to the point. She has no time for strangers. Polite, but only just.
+Hash: 690CB7E4, Key: Line5.1CC158.Nec, Value: You don’t look familiar. We rarely get travelers these days. Makes us wary when someone new comes around.
+Hash: FCDE0231, Key: VoiceDir5.1CC158.Nec, Value: Wary and to the point. She has no time for strangers. Polite, but only just.
+Hash: CAF384F8, Key: Line7.1CC158.Rog, Value: You don’t look familiar. We rarely get travelers these days. Makes us wary when someone new comes around.
+Hash: 5EC4CF45, Key: VoiceDir7.1CC158.Rog, Value: Wary and to the point. She has no time for strangers. Polite, but only just.
+Hash: 2CDA4406, Key: Line9.1CC158.Sor, Value: You don’t look familiar. We rarely get travelers these days. Makes us wary when someone new comes around.
+Hash: C0AB8E53, Key: VoiceDir9.1CC158.Sor, Value: Wary and to the point. She has no time for strangers. Polite, but only just.
+Hash: 70606FC7, Key: Line11.1CC158.Spi, Value: Ah yes! Those, fellow traveler, are fresh baked delicacies of the jungle and honeyed liqueur to quench your thirst.
+Hash: 7E5B03B4, Key: VoiceDir11.1CC158.Spi, Value: Warm and welcoming, but not cheery.  (entertained/friendly)

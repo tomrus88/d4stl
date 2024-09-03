@@ -1,0 +1,8 @@
+Hash: F90B494A, Key: Line810.189135, Value: Just another job.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: happy
+Hash: D18EF30C, Key: Line812.189135, Value: I’ll have to charge you extra for that. (laughs)
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: happy
+Hash: AA129CCE, Key: Line814.189135, Value: It was a small deed, but an important one.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: proud
+Hash: 82964690, Key: Line816.189135, Value: This place is little safer thanks to us.
+Hash: B906999D, Key: VoiceDir816.189135, Value: proud

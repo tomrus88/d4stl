@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Impromptu Investigation
+Hash: 0871A46B, Key: Toast, Value: Help Subo bring the killers to justice.
+Hash: 2F8C7B0B, Key: Callback140Header, Value: Burn damp wood to attract the killers.
+Hash: 6896A125, Key: Callback96Header, Value: Slay the targets lured by the smoke.
+Hash: 5183C723, Key: Callback58Header, Value: Slay remaining enemies.
+Hash: 8E467330, Key: Callback172Header, Value: Slay the killers Subo calls out.

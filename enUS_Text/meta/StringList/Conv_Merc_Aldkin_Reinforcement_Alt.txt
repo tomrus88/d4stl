@@ -1,0 +1,19 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Enlist Reinforcement
+Hash: 713ED48B, Key: Line792.1602FD, Value: If you’re sure. Let’s go.
+Hash: A7AF2798, Key: VoiceDir792.1602FD, Value: Unsure
+Hash: 49C27E4D, Key: Line794.1602FD, Value: Really? I’m ready.
+Hash: 8032D15A, Key: VoiceDir794.1602FD, Value: eager
+Hash: 2246280F, Key: Line796.1602FD, Value: I’ll do what I can.
+Hash: 58B67B1C, Key: VoiceDir796.1602FD, Value: eager 
+Hash: BBD83634, Key: Line829.189135, Value: We could use some help.
+Hash: BA87D50E, Key: Line832.189135, Value: We need reinforcements.
+Hash: 7F4D53B1, Key: Line835.189135, Value: We need others to stand with us.
+Hash: 4412D254, Key: Line838.189135, Value: We are stronger together.
+Hash: 42D48989, Key: Line841.199120, Value: Strength in numbers.
+Hash: 079A082C, Key: Line844.199120, Value: I often work alone, but perhaps we need help.
+Hash: CC5F86CF, Key: Line847.199120, Value: Aid would be most welcome.
+Hash: CB0F25A9, Key: Line850.199120, Value: I fear we must have help.
+Hash: 5B18F562, Key: Line818.18782A, Value: Even loners like us need some help.
+Hash: 59C8943C, Key: Line821.18782A, Value: We could use a hand, eh?
+Hash: 1E8E12DF, Key: Line824.18782A, Value: A few more butchers to the party!
+Hash: 68453AC3, Key: Line855.18782A, Value: I wouldn’t say no to some help.

@@ -1,0 +1,6 @@
+Hash: 8465C2E1, Key: Line800.1602FD, Value: No!
+Hash: BAD615EE, Key: VoiceDir800.1602FD, Value: scared
+Hash: 5CE96CA3, Key: Line802.1602FD, Value: Help!
+Hash: 9359BFB0, Key: VoiceDir802.1602FD, Value: scared
+Hash: 356D1665, Key: Line804.1602FD, Value: Don’t leave me.
+Hash: 6BDD6972, Key: VoiceDir804.1602FD, Value: scared

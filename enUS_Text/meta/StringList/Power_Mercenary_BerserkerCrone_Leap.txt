@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Heroic Leap
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Makhni leaps into the air and slams down at the target location, dealing {c_number}[{payload:LANDING}]{/c} damage and Knocking Down enemies for {c_number}{SF_5}{/c} seconds.

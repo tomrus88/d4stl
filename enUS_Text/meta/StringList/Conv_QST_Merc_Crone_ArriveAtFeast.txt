@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's the plan?"
+Hash: 8F4698D2, Key: Line1.18782A, Value: You hear them? You hear them celebrating? That filthy wretch is showing off his power already.
+Hash: DF7CC49F, Key: VoiceDir1.18782A, Value: Sneering. 
+Hash: 67CA4294, Key: Line3.18782A, Value: But a feast is to our advantage. We can lose ourselves in the crowd, get close to Zolmog. Slit the bastard’s throat before he even knows we’re there.
+Hash: B8006E61, Key: VoiceDir3.18782A, Value: Conspiratorial 

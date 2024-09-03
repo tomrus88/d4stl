@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are the khazra?"
+Hash: 40770043, Key: Line5.19A54D, Value: Ancient beasts. They’ve lived here for as long as anyone alive can remember. Why do they choose to come out of the shadows now?
+Hash: 90AD2C10, Key: VoiceDir5.19A54D, Value: Dark description/warning, then genuine question of "why now?" 
+Hash: 8F6FACBF, Key: Line1.19A54D, Value: Without someone to defend the people of Kurast, we will be lost.
+Hash: DFA5D88C, Key: VoiceDir1.19A54D, Value: Facing a hard truth.

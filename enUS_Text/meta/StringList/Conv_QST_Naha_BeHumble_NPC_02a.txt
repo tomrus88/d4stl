@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Alright, I'll give you the credit."
+Hash: 6AAE8A91, Key: Line3.1A4873, Value: What? And just like that, you choose to give up everything to me?
+Hash: BAE4B65E, Key: VoiceDir3.1A4873, Value: Shock. Mirth. Shrinking. 
+Hash: 1BB5DE15, Key: Line7.1A4873, Value: (evil laughter) ...but why?! Such... such... weakness!
+Hash: 6BEC09E2, Key: VoiceDir7.1A4873, Value: Sudden anger and confusion in "but why?!" followed by a shriveling voice for "such...such...weakness!"

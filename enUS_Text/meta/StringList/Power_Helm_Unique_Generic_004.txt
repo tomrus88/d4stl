@@ -1,0 +1,4 @@
+Hash: 22C55B1C, Key: Buff9_Name, Value: Heir of Perdition
+Hash: F27F499F, Key: Buff9_Description, Value: Damage empowered by Lilith.
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Stolen Favor
+Hash: 3763A447, Key: Buff10_Description, Value: Another hero has stolen your favor!

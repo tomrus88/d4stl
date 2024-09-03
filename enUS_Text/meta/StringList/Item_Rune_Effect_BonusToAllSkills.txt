@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Gain {c_number}+3{/c} to all Skills for {c_number}5{/c} seconds.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Heart of the Oak
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Increased Duration
+Hash: 003DFCC1, Key: Name, Value: Vex

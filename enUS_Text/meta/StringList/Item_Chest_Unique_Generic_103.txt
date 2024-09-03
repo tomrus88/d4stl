@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shroud of False Death
+Hash: F5C7BC0A, Key: Flavor, Value: "Auriel alone saw past Lucion's guise. With Al'maiesh aloft, she smote the vile prince. Hatred's seed feigned death and waited, loath to enter the Abyss again." - The Great Conflict, Tome I

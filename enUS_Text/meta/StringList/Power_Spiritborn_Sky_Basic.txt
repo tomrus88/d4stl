@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Raptor Strike
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Generate Vigor:{/c_label} {c_resource}{SF_0}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Send forth a spirit bird at an enemy, dealing {c_number}{payload:IMPACT}{/c} damage on impact.
+
+Every {c_number}3rd{/c} cast explodes on impact dealing {c_number}{payload:EMPOWER_IMPACT}{/c} damage to the primary target and enemies behind it.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: (PH) {c_important}Raptor Strike{/c} increases your Lucky Hit Chance against an enemy hit by {c_number}[{SF_15}*100|%x|]{/c} for {c_number}{SF_16}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Raptor Strike Enhancement
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) {c_important}Raptor Strike{/c} makes enemies hit {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_17}{/c} seconds if there are fewer than {c_number}[{SF_18}]{/c} others Close to them.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Raptor Strike Upgrade A
+Hash: 74D6BC35, Key: Mod2_Description, Value: (PH) Hitting a Distant enemy with {c_important}Raptor Strike{/c} Pulls them Close to you and Knocks them Down for {c_number}{buffduration:KNOCKDOWN}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Raptor Strike Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Sky Basic Upgrade C
+Hash: 1394CF37, Key: Mod4_Description, Value: (PH) Activates Sky Basic Empowerment
+Hash: 9B887BB4, Key: Mod4_Name, Value: (PH) Sky Spirit

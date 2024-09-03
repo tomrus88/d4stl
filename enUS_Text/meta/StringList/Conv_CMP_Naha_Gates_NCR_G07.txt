@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What were the Hollows doing here?"
+Hash: 9251C081, Key: Line1.1C93F4, Value: They must have been trying to claim the bodies of the great necromancers entombed beyond this gate. But relighting the warding braziers that Rathma left here prevented that.

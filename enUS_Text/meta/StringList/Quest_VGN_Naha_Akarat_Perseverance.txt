@@ -1,0 +1,2 @@
+Hash: 062F5C66, Key: Phase1Description, Value: Some corruption has taken hold. I must clear it away before I can offer up the incense Necahual gave me.
+Hash: 059C64AB, Key: Callback5Header, Value: Destroy the Abhorrent Growth

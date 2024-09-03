@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tenet of Akarat
+Hash: F2CA04D8, Key: NoticeSignText, Value: Malevolence comes from corruption, influence. Spirits will not be malevolent unless they become corrupted. 
+-Tusega, Dedicant of Akarat

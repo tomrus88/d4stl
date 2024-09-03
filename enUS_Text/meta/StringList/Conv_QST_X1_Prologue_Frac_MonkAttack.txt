@@ -1,0 +1,2 @@
+Hash: 9273C8AF, Key: Line1.1E55FB, Value: That’s the wanderer, get them!
+Hash: E2A9F47C, Key: VoiceDir1.1E55FB, Value: yelled running into battle

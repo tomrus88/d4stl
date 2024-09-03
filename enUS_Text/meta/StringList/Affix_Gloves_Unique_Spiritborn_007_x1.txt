@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: When you take direct damage you instead receive {c_random}[Affix_Value_1*100|%|]{/c} of it in the form of Poisoning over {c_number}[Affix."Static Value 0"]{/c} seconds. 
+
+Based your Poisoned Life amount, dealing direct damage has up to a {c_number}[Affix_Value_2*100|%|]{/c} chance to infect an enemy with {c_important}Touch of Death{/c} and clear the Poisoning from you.

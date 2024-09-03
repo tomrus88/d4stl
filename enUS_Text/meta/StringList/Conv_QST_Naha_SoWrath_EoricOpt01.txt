@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about the 'Venator.'"
+Hash: 923FDDB0, Key: Line1.1B8B7E, Value: Venator are Knights hand-selected by Urivar for their doggedness and cruelty.
+Hash: E276097D, Key: VoiceDir1.1B8B7E, Value: direct, notes of anger
+Hash: 6AC38772, Key: Line3.1B8B7E, Value: They seek those who wrong or weaken the Cathedral and make a spectacle of their death.
+Hash: BAF9B33F, Key: VoiceDir3.1B8B7E, Value: direct, notes of anger/disgust
+Hash: 43473134, Key: Line5.1B8B7E, Value: The Venator shun subterfuge. There is no blade in your back. You will see their eyes when you die…
+Hash: 937D5D01, Key: VoiceDir5.1B8B7E, Value: direct, cold

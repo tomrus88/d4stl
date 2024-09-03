@@ -1,3 +1,5 @@
+Hash: D3C62BE9, Key: X1PreOrderDisclaimer_Xbox, Value: *Game Pass offer only available in Game Pass Ultimate supported regions excluding Taiwan, Turkey, Argentina, Hong Kong, Brazil, India, and Saudi Arabia. See xbox.com/regions. Will be delivered as a redemption code within 14 days of purchase; codes must be redeemed by November 22, 2024. Valid payment method required. Unless you cancel, you will be charged the then-current Game Pass Ultimate subscription rate each month when the benefit period ends. Subject to the Microsoft Services Agreement and Game Pass terms at: xbox.com/subscriptionterms.
+Hash: 80C01051, Key: ClassIcon_Spirit_Small, Value: {icon:ClassIcon_Spiritborn_Small, 2.0}
 Hash: 0001FA7A, Key: TBD, Value: TBD: Coming Soon
 Hash: 844D5D6F, Key: NavCosmetics, Value: Cosmetics
 Hash: E2DA56ED, Key: NavExpansions, Value: Expansions
@@ -247,7 +249,7 @@ Hash: 093E3E92, Key: AnniversaryLabel, Value: Anniversary
 Hash: 5B802148, Key: Expansion1Title, Value: Vessel of Hatred
 Hash: 0480620C, Key: ExpansionOverview, Value: Expansion Overview
 Hash: 69C79A5F, Key: VCAmountAdded, Value: +{s1}
-Hash: 944D800A, Key: UnlockedExpansion, Value: You will now have access to the Vessel of Hatred Expansion upon release on October 8, 2024.
+Hash: 944D800A, Key: UnlockedExpansion, Value: You now have access to the Vessel of Hatred Expansion!
 Hash: 727CB4E1, Key: MultipleRewardsPerClass, Value: This reward contains multiple items. {s1} per class.
 Hash: 640C9E38, Key: Expansion_InfoText_4, Value: Party up to take on a new multi-faceted dungeon with powerful challenges and promising rewards.
 Hash: 3C18FB2D, Key: Expansion_InfoCard_4, Value: New PvE Co-Op End Game Activity  
@@ -262,6 +264,52 @@ Hash: B6ADAE02, Key: PrePurchase, Value: Pre-purchase
 Hash: 32F9E976, Key: PrePurchaseNow, Value: Pre-purchase Now
 Hash: 38A28C58, Key: X1PreOrderMountAndPetDisclaimer, Value: Mount or pet features (as applicable) must be unlocked in-game before the item can be used
 Hash: 119A47B5, Key: Unlocked, Value: Unlocked
+Hash: 0F044D2E, Key: Expansion_Bundle_Content_Deluxe, Value: [PH] Deluxe Edition
+Hash: 07DB6E39, Key: Expansion_Bundle_Content_Access, Value: Expansion Access
+Hash: 69BEE2AC, Key: Expansion_Bundle_Content_BPToken2, Value: [ph] 1 Accelerated Battle Pass Token
+Hash: 69BEE2AB, Key: Expansion_Bundle_Content_BPToken1, Value: 1 Premium Battle Pass Token
+Hash: 23818C22, Key: Expansion_Bundle_Content_Base, Value: [PH] Base Edition
+Hash: 51AC5CE5, Key: ExpansionMountDisclaimer, Value: Mounts are not available until the completion of the quest: “Donan’s Favor”
+Hash: 3FE1E46A, Key: ScrollPrompt_KBM, Value: {icon:KeyPrompt_ScrollWheel_Downl, 1.6}  All Expansions   {icon:ScrollPrompt_Arrow, 1.2}
+Hash: 973FE2F4, Key: ScrollPrompt_Controller, Value: {icon:l_down, 1.6}  All Expansions   {icon:ScrollPrompt_Arrow, 1.2}
+Hash: 8105E749, Key: ProductDetailsTitle, Value: {s1} Details
+Hash: 143A88FA, Key: ProductIncludesItems, Value: Includes {s1} Items:
+Hash: 7ED7422D, Key: InlcudedWithHeader, Value: {s1} Items included with {s2}:
+Hash: 003DAC93, Key: More, Value: ...
+Hash: 9908598A, Key: ModifyPreview, Value: Modify Preview
+Hash: C3C6F730, Key: BodyType, Value: Body Type
+Hash: 607CDAEB, Key: ResetToDefault, Value: Reset To Default
+Hash: 071A9E26, Key: Apply, Value: Apply
+Hash: 704E8C55, Key: ToggleFullscreen, Value: Toggle Fullscreen
+Hash: 7A6755D5, Key: ScrollPrompt_LatestExpansion_Controller, Value: {icon:l_up, 1.6}  Latest Expansion: Vessel of Hatred   {icon:ScrollPrompt_Arrow_Up, 1.2}
+Hash: 76FD426B, Key: ScrollPrompt_LatestExpansion_KBM, Value: {icon:KeyPrompt_KeyPrompt_ScrollWheel_Up, 1.6}  Latest Expansion: Vessel of Hatred   {icon:ScrollPrompt_Arrow_Up, 1.2}
+Hash: 8378BD70, Key: Expansion_Bundle_Ultimate_Item_1, Value: [PH] Item Ultimate 1
+Hash: 8378BD71, Key: Expansion_Bundle_Ultimate_Item_2, Value: [PH] Item Ultimate 2
+Hash: 8378BD72, Key: Expansion_Bundle_Ultimate_Item_3, Value: [PH] Item Ultimate 3
+Hash: 11E1ECD2, Key: Expansion_Bundle_Deluxe_Item_1, Value: [PH] Item Deluxe 1
+Hash: 11E1ECD3, Key: Expansion_Bundle_Deluxe_Item_2, Value: [PH] Item Deluxe 2
+Hash: 11E1ECD4, Key: Expansion_Bundle_Deluxe_Item_3, Value: [PH] Item Deluxe 3
+Hash: A221B71C, Key: Expansion_Bundle_Standard_Item_1, Value: [PH] Item Standard 1
+Hash: A221B71D, Key: Expansion_Bundle_Standard_Item_2, Value: [PH] Item Standard 2
+Hash: A221B71E, Key: Expansion_Bundle_Standard_Item_3, Value: [PH] Item Standard 3
+Hash: 753554B2, Key: Expansion_Empty_Heading, Value: No expansion products available at this time.
+Hash: 289BDDD9, Key: Expanions_LearnMore, Value: Learn More
 Hash: 85C71AE6, Key: ItemsIncludedInUltimate, Value: Items included in Ultimate Edition:
-Hash: AA970A02, Key: ClassIcon_Spiritborn_Small, Value: {icon:ClassIcon_Spiritborn_Small, 2.0}
-Hash: D3C62BE9, Key: X1PreOrderDisclaimer_Xbox, Value: *Game Pass offer only available in Game Pass Ultimate supported regions excluding Taiwan, Turkey, Argentina, Hong Kong, Brazil, India, and Saudi Arabia. See xbox.com/regions. Will be delivered as a redemption code within 14 days of purchase; codes must be redeemed by November 22, 2024. Valid payment method required. Unless you cancel, you will be charged the then-current Game Pass Ultimate subscription rate each month when the benefit period ends. Subject to the Microsoft Services Agreement and Game Pass terms at: xbox.com/subscriptionterms.
+Hash: BF673A09, Key: BundlePreview_RequirementIndicator, Value: {s1} Required to purchase
+Hash: AA492F48, Key: Disclaimer_RequirementPurchase, Value: Some items in this bundle can only be equipped while playing on a device with access to {s1}
+
+
+Hash: 8378BD73, Key: Expansion_Bundle_Ultimate_Item_4, Value: [PH] Item Ultimate 4
+Hash: FE032C8C, Key: UnlockedExpansion_Preorder, Value: You will now have access to the Vessel of Hatred Expansion upon release on October 8, 2024.
+Hash: A837F8EE, Key: X1MountAccess, Value: Nuhantu War-Cat Mount Set
+Hash: E3C26CD8, Key: x1PlatinumReward, Value: {icon:CurrencyIcon, 1.5} 3000 Platinum
+Hash: F8B882E2, Key: X1SpiritBornArmorSet, Value: Nuhantu Veilwalker Armor Set
+Hash: 335219AC, Key: X1NUhantuArmorSets, Value: 6 Class Armor Sets
+Hash: DE8E1ECB, Key: Expansion_Includes, Value: Includes
+Hash: 2387CFBA, Key: Expansion_Bundle_Content_More, Value: And more...
+Hash: 4D37B3FC, Key: Disclaimer_RequirementItem, Value: {s1} access required to equip
+Hash: A392D40B, Key: 5ClassArmorSets, Value: 5 Class Armor Sets
+Hash: 981ED1E4, Key: TigerPet, Value: Natalya the Tiger Pet
+Hash: 798B4D24, Key: NavExpansionBundle_Standard, Value: STANDARD
+Hash: 39E1BA1A, Key: NavExpansionBundle_Deluxe, Value: DELUXE
+Hash: 163989F8, Key: NavExpansionBundle_Ultimate, Value: ULTIMATE

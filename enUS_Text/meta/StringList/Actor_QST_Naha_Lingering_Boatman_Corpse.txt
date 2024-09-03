@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Remains of the Boatman
+Hash: F2CA04D8, Key: NoticeSignText, Value: You've seen this scene before, in a vision. Neyrelle, and the soulstone, and a corpse, on this very boat. Thick tendrils spear through his chest, his agony frozen on his face. He died helping her.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Follow the hissing voices.
+Hash: 0687FA1D, Key: Callback16Header, Value: Explore {WORLD:DGN_Naha_MurmuringSpiral} and Slay {MONSTER}

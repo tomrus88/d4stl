@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Paranoia
+Hash: 003892BF, Key: desc, Value: {c_important}Languishing{/c} enemies take {c_number}[{SF_0}*100|x%|]{/c} increased damage from you.
+
+{c_label}Lucky Hit:{/c} Attacks against {c_important}Languishing{/c} enemies have up to a {c_number}[{SF_1}*100|%|]{/c} chance to {c_important}{u}Daze{/u}{/c} them for {c_number}[{SF_2}|1|]{/c} |4second;seconds.

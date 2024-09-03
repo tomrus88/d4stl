@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grelkar's Feast Hall
+Hash: 003892BF, Key: Desc, Value: The hidden feast hall of the cannibal chieftain Grelkar

@@ -142,3 +142,39 @@ Hash: E37C9AB9, Key: Line1282.EDC73, Value: Oh, no!
 Hash: 19ECEDC6, Key: VoiceDir1282.EDC73, Value: terrified
 Hash: CA6B50FC, Key: Line1285.EDC73, Value: Akarat protect me!
 Hash: 00DBA409, Key: VoiceDir1285.EDC73, Value: terrified
+Hash: 5057BD88, Key: Line1536.1BB53F, Value: No, no, no!
+Hash: 54D27235, Key: VoiceDir1536.1BB53F, Value: terrified
+Hash: 151D3C2B, Key: Line1539.1BB53F, Value: Oh, no!
+Hash: 1997F0D8, Key: VoiceDir1539.1BB53F, Value: terrified
+Hash: 8B923EE5, Key: Line1533.1BB53F, Value: Spare me, please!
+Hash: 900CF392, Key: VoiceDir1533.1BB53F, Value: terrified
+Hash: 6DF93B14, Key: Line1591.1BB540, Value: No, no, no!
+Hash: 7273EFC1, Key: VoiceDir1591.1BB540, Value: terrified
+Hash: 32BEB9B7, Key: Line1594.1BB540, Value: Oh, no!
+Hash: 37396E64, Key: VoiceDir1594.1BB540, Value: terrified
+Hash: 6F499C3A, Key: Line1588.1BB540, Value: Spare me, please!
+Hash: 73C450E7, Key: VoiceDir1588.1BB540, Value: terrified
+Hash: 0D3AF533, Key: Line1580.1BB541, Value: No, no, no! (gasp)
+Hash: 11B5A9E0, Key: VoiceDir1580.1BB541, Value: terrified
+Hash: D20073D6, Key: Line1583.1BB541, Value: Oh, no!
+Hash: D67B2883, Key: VoiceDir1583.1BB541, Value: terrified
+Hash: 0E8B5659, Key: Line1577.1BB541, Value: Spare me, please!
+Hash: 13060B06, Key: VoiceDir1577.1BB541, Value: terrified
+Hash: 72928F1B, Key: Line1569.1BB542, Value: No, no, no!
+Hash: 770D43C8, Key: VoiceDir1569.1BB542, Value: terrified
+Hash: 71422DF5, Key: Line1572.1BB542, Value: Oh, no!
+Hash: 75BCE2A2, Key: VoiceDir1572.1BB542, Value: terrified
+Hash: ADCD1078, Key: Line1566.1BB542, Value: Spare me, please!
+Hash: B247C525, Key: VoiceDir1566.1BB542, Value: terrified
+Hash: 11D4493A, Key: Line1558.1BB543, Value: No, no, no!
+Hash: 164EFDE7, Key: VoiceDir1558.1BB543, Value: terrified
+Hash: 1083E814, Key: Line1561.1BB543, Value: Oh, no!
+Hash: 14FE9CC1, Key: VoiceDir1561.1BB543, Value: terrified
+Hash: 4D0ECA97, Key: Line1555.1BB543, Value: Spare me, please!
+Hash: 51897F44, Key: VoiceDir1555.1BB543, Value: terrified
+Hash: B1160359, Key: Line1547.1BB544, Value: No, no, no!
+Hash: B590B806, Key: VoiceDir1547.1BB544, Value: terrified
+Hash: AFC5A233, Key: Line1550.1BB544, Value: Oh, no!
+Hash: B44056E0, Key: VoiceDir1550.1BB544, Value: terrified
+Hash: EC5084B6, Key: Line1544.1BB544, Value: Spare me, please!
+Hash: F0CB3963, Key: VoiceDir1544.1BB544, Value: terrified

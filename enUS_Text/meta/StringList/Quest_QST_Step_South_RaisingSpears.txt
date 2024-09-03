@@ -1,4 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: Raising Spears
+Hash: B23C2F03, Key: Callback49Header, Value: Speak with Ealda
 Hash: 0871A46B, Key: Toast, Value: Glory of the dead returns spirit to the living.
 Hash: F4A9EC5A, Key: Phase14Description, Value: Ealda believes Crane Tribe has forgotten their ancestors and their sacrifices, allowing fear and doubt to make them vulnerable to the cannibals. She wishes to reclaim the spears of their ancestors to rally the spirits of her kin and return their pride.
 
@@ -7,4 +8,3 @@ Hash: 1F9943DA, Key: Callback13Header, Value: Collect Blood-etched Spears from C
 Hash: 6E589CDA, Key: Phase50Description, Value: Ealda is sure to be hurting from the revelation that some of her kin are falling to fear and cannibalism in desperation.
  
 I should speak with her at Crane Tribe Hutmoot to see what we can do to rise beyond this fate.
-Hash: B23C2F03, Key: Callback49Header, Value: Speak with Ealda

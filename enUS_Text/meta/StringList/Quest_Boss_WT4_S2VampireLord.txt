@@ -1,7 +1,4 @@
 Hash: 003DFCC1, Key: Name, Value: A God Made
-Hash: 1F9943DA, Key: Callback13Header, Value: Return to {LEVELAREA}
-Hash: ED76B060, Key: Callback19Header, Value: Slay {MONSTER}
 Hash: F81CED9C, Key: Callback33Header, Value: Inspect the {GIZMO}
-Hash: B23C2F03, Key: Callback49Header, Value: Inspect the {GIZMO}
 Hash: FD700C3A, Key: Callback40Header, Value: Return to {LEVELAREA}
 Hash: 7E533BFF, Key: Callback45Header, Value: Slay {MONSTER}

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Khazra Horn
+Hash: A646FFA4, Key: Description, Value: Earned from the Dark Citadel. Used to transmute high level Boss materials.
+Hash: F5C7BC0A, Key: Flavor, Value: A fractured piece of a Khazra horn. Some lingering magic still remains.

@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: Forgive Me
 Hash: 5CD6EA0D, Key: Phase8Description, Value: I found a bloodied note addressed to Roza of Menestad. If I find her, I should deliver it. 
-Hash: 9F90DE2D, Key: Callback7Header, Value: Find Roza and deliver the Bloodied Note
+Hash: 9F90DE2D, Key: Callback7Header, Value: Find Roza and deliver the {ITEM:QST_Frac_ForgiveMe_Note}
 Hash: 61CFD437, Key: Phase11Description, Value: I found a bloodied note addressed to Roza of Menestad. If I find her, I should deliver it. 
 Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Roza 

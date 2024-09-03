@@ -1,0 +1,6 @@
+Hash: F90B494A, Key: Line810.189135, Value: Guard up, Hell is upon us.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: Worried
+Hash: D18EF30C, Key: Line812.189135, Value: We must prepare for a fight.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: Worried
+Hash: AA129CCE, Key: Line814.189135, Value: Let us help this land.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: Confident 

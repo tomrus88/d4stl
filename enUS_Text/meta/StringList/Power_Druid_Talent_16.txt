@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Catastrophe
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_1} * 100|x%|]{/c} increased damage for {c_number}[SF_2]{/c} seconds after casting an {c_important}Ultimate{/c} Skill.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Bonus {icon:arrow,1.2} {c_number}[{SF_1}*100|%|]{/c}
+Hash: 171B8FF7, Key: Buff4_Name, Value: Catastrophe
+Hash: 65A41A1A, Key: Buff4_Description, Value: Dealing [{SF_1}*100|%x|] increased damage.

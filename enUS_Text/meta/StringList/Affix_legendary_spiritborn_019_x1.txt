@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Bristleback
+Hash: 003892BF, Key: Desc, Value: When you Dodge or Block an attack you trigger a {c_random}[Affix_Value_1*100|%|]{/c} Thorns attack against the attacker.
+Hash: 82B7D312, Key: CodexDesc, Value: When you Dodge or Block an attack you trigger a {c_random}[Affix_Value_1*100|%|]{/c} Thorns attack against the attacker.

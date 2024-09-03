@@ -1,8 +1,8 @@
 Hash: 003DFCC1, Key: Name, Value: Fury Against Fate
+Hash: A5CF923D, Key: Callback25Header, Value: Speak with Ealda at the Crane Tribe Hutmoot
 Hash: 0871A46B, Key: Toast, Value: The future is only certain for those who do not fear it.
 Hash: F4A9EC5A, Key: Phase14Description, Value: Seeing the spears and blood of their ancestors has rallied the spirits of Crane Tribe. Ealda believes they are ready to prove themselves to the ancients and show the cannibals their renewed resolve.
 
 I should join Ealda within the Wasting Hollow. The last stand of Crane Tribe begins now. 
 Hash: 1F9943DA, Key: Callback13Header, Value: Meet Ealda within the Wasting Hollow
 Hash: 1315987A, Key: Phase23Description, Value: Ealda and I collected the spears of Crane Tribes’ ancestors. It’s time to see whether they can rally her kin to rise against the cannibal horde.
-Hash: A5CF923D, Key: Callback25Header, Value: Speak with Ealda at the Crane Tribe Hutmoot

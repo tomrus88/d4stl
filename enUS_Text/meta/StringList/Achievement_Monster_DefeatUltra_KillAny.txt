@@ -1,0 +1,2 @@
+Hash: 003892BF, Key: Desc, Value: Defeat any Tormented Echo on {icon:Icon_WorldTier_4, 2.5} Torment.
+Hash: 003DFCC1, Key: Name, Value: Challenge The Tormented

@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Warmaster's Key
-Hash: A646FFA4, Key: Description, Value: Bound to Maugan's Works
 Hash: F5C7BC0A, Key: Flavor, Value: The key to the Deserter's Den. The Warmaster will brutally crush anyone who tries to take it.
+Hash: A646FFA4, Key: Description, Value: Bound to Maugan's Works

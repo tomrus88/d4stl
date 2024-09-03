@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Creeping Hatred
+Hash: D53BFF05, Key: Phase0Description, Value: Hatred seethes across the land. The Remnants of the Zakarum need my help.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Crusader Damond
+Hash: 30DC76D6, Key: Phase10Description, Value: Great demons carrying portals to the Realm of Hatred sow chaos throughout the land. I should slay one of these beasts and use its portal to strike back at the forces of Hell.
+Hash: 85A4CA58, Key: Callback11Header, Value: Defeat a Realmwalker
+Hash: 0BDB18BB, Key: Callback23Header, Value: Complete a Seething Realm

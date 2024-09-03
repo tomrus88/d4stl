@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Maximum {c_important}{u}Ferocity{/u}{/c} increased by {c_number}[SF_0]{/c}.
+
+Gain {c_number}[SF_1]{/c} stack of {c_important}{u}Ferocity{/u}{/c} whenever you kill an enemy or damage a Boss.

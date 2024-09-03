@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Risk and Reward
+Hash: 3A4912CF, Key: DescShort, Value: Buy equipment from the {icon:Marker_Vendor_Gambling, 2.5} Purveyor of Curiosities

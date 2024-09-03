@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you know of the Umbaru?"
+Hash: 9283A9BF, Key: Line1.1F158C, Value: Only that Akarat himself was of Umbaru descent, and that Zakarum faithful can still be found in Nahantu to this day.

@@ -1,4 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Wolf's Honor Level Up
-Hash: 0871A46B, Key: Toast, Value: New Rewards are available at the Iron Wolves Encampment
-Hash: D53BFF05, Key: Phase0Description, Value: The Iron Wolves are pleased with my efforts and have gathered a new cache of rewards.
-Hash: 1EADAE68, Key: Callback2Header, Value: Return to Soudeh the Anvil

@@ -1,0 +1,6 @@
+Hash: 5CCF7F36, Key: Line10.BAE4.Bar, Value: The darkness here is suffocating.
+Hash: 5CCF89EC, Key: Line10.BAE4.Dru, Value: The darkness here is suffocating.
+Hash: 5CCFB2B7, Key: Line10.BAE4.Nec, Value: This place feels... familiar. I must cleanse this corruption and uncover what lies dormant here.
+Hash: 5CCFC509, Key: Line10.BAE4.Rog, Value: The darkness here is suffocating.
+Hash: 5CCFC955, Key: Line10.BAE4.Sor, Value: The darkness here is suffocating.
+Hash: 5CCFC96D, Key: Line10.BAE4.Spi, Value: The darkness here is suffocating.

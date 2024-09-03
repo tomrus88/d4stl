@@ -1,0 +1,7 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Umija
+Hash: 92559282, Key: Line1.1BA2C2, Value: They’re never grateful. Eager to fight, even when offered new life. A renewed purpose.
+Hash: E28BBE4F, Key: VoiceDir1.1BA2C2, Value: direct, confident, somewhat annoyed
+Hash: 6AD93C44, Key: Line3.1BA2C2, Value: But I’ll keep them safe. I covered the path to keep prying eyes and wandering beasts from the garden.
+Hash: BB0F6811, Key: VoiceDir3.1BA2C2, Value: direct, confident, eerily maternal
+Hash: 435CE606, Key: Line5.1BA2C2, Value: Worry not, blossoms. Umija will see you bloom anew.
+Hash: 939311D3, Key: VoiceDir5.1BA2C2, Value: eerily maternal, confident

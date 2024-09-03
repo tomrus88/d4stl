@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fourth Journey Equipment Cache
+Hash: A646FFA4, Key: Description, Value: Contains a Legendary Weapon, Pants, Ring, and Boots for your class.

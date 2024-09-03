@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Vorshok
+Hash: CC38ADCB, Key: FlavorName, Value: The Spiritcaller
+Hash: DA72BB62, Key: SuperElite, Value: The Spiritcaller

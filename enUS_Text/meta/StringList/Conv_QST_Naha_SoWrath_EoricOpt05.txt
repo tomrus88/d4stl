@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Sassa?"
+Hash: 923FDDB0, Key: Line1.1B8B7E, Value: She’s proof there’s still goodness in this world. Kindness that isn’t marred by hate.
+Hash: E276097D, Key: VoiceDir1.1B8B7E, Value: heartfelt
+Hash: 6AC38772, Key: Line3.1B8B7E, Value: When I returned, tattered in all ways, she welcomed me with a smile.
+Hash: BAF9B33F, Key: VoiceDir3.1B8B7E, Value: heartfelt
+Hash: 43473134, Key: Line5.1B8B7E, Value: It shined brighter than the light of Inarius.
+Hash: 937D5D01, Key: VoiceDir5.1B8B7E, Value: stirring, heartfelt
+Hash: 1BCADAF6, Key: Line7.1B8B7E, Value: She is the warmth I thought lost in this world. She cannot be taken by this…
+Hash: 6C0106C3, Key: VoiceDir7.1B8B7E, Value: heartfelt, direct, leaning sombre/concerned

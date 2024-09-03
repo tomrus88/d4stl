@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: What secrets lie in the dark?
 Hash: 71E69F39, Key: Callback21Header, Value: Slay all enemies in the Halls of Assembly {KAM_REVEALED_COUNT}
 Hash: F81CED9C, Key: Callback33Header, Value: Slay the High Priests: {LEFT}
-Hash: C5FA5A22, Key: Callback39Header, Value: Use Cultist Key to open the {GIZMO}
+Hash: C5FA5A22, Key: Callback39Header, Value: Use {ITEM:DGN_Frac_CultistRefuge_Key} to open the {GIZMO}
 Hash: 04898A62, Key: Callback57Header, Value: Slay The Overseer and collect the {ITEM}
 Hash: 9E7E03E4, Key: Callback59Header, Value: Travel to the {LEVELAREA}

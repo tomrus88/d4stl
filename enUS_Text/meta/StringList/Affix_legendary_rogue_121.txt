@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: of Elusive Menace
-Hash: 003892BF, Key: Desc, Value: While you have both bonuses from the {c_important}Close Quarters Combat{/c} Key Passive active, your Dodge Chance increases by {c_random}[Affix_Value_1|%+|]{/c} whenever you're hit by an enemy. Successfully Dodging resets this bonus.
-Hash: 82B7D312, Key: CodexDesc, Value: When struck with both bonuses from the {c_important}Close Quarters Combat{/c} Key Passive, gain {c_random}[Affix_Value_1|%+|]{/c} Dodge Chance.
+Hash: 003892BF, Key: Desc, Value: While you have both bonuses from the {c_important}Close Quarters Combat{/c} Key Passive active, your Dodge Chance increases by {c_random}[Affix_Value_1|%|]{/c} whenever you're hit by an enemy. Successfully Dodging resets this bonus.
+Hash: 82B7D312, Key: CodexDesc, Value: When struck with both bonuses from the {c_important}Close Quarters Combat{/c} Key Passive, gain {c_random}[Affix_Value_1|%|]{/c} Dodge Chance.

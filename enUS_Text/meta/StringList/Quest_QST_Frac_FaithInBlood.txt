@@ -13,7 +13,7 @@ Hash: 61CFD437, Key: Phase11Description, Value: Octavia is fighting the demon wi
 First I must head to the town of Margrave and retrieve a chalice, which may require some... subterfuge.
 Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Priest Matvey
 Hash: B12EDDB8, Key: Phase21Description, Value: The priest has instructed me to take a piece of burning wood from the pyre in the center of Margrave and drop it into the blood-filled chalice.
-Hash: 24EC6278, Key: Callback20Header, Value: Place a piece of pyre wood in the chalice
+Hash: 24EC6278, Key: Callback20Header, Value: Place a piece of pyre wood in the {ITEM:QST_Frac_FaithInBlood_BloodyChalice}
 Hash: 6274A1FB, Key: Phase33Description, Value: Petr is placing the chalice, and I must prepare to successfully complete an exorcism ritual I have only witnessed twice. Sister Octavia's life is in my hands. I cannot fail her.
 Hash: AB22B0DB, Key: Callback32Header, Value: Enter the Ominous Cellar
 Hash: 9F4BFA3B, Key: Phase51Description, Value: The blood-filled chalice ignited in a burst of flame, and left a dark stain on the inside of the bowl. It is ready for the exorcism ritual. I must return to Kyovashad quickly.
@@ -23,20 +23,10 @@ Hash: 04898A62, Key: Callback57Header, Value: Speak with Sister Octavia
 Hash: B87761DE, Key: Phase18Description, Value: The priest in Margrave has begrudgingly given me a chalice, but it must be "anointed with the blood of sinners".
 
 He pointed me towards deserving bandits to the east of the town.
-Hash: 538236DE, Key: Callback17Header, Value: Fill the chalice with Bandit blood
+Hash: 538236DE, Key: Callback17Header, Value: Fill the {ITEM:QST_Frac_FaithInBlood_MundaneChalice} with Bandit blood
 Hash: C5A4F845, Key: Phase79Description, Value: The chalice is filled, I should return to the priest in Margrave.
 Hash: FB719C7F, Key: Callback81Header, Value: Return to Priest Matvey
 Hash: 8229E9A3, Key: Phase86Description, Value: The blood-filled chalice ignited in a burst of flame, and left a dark stain on the inside of the bowl. It is ready for the exorcism ritual. I must return to Kyovashad quickly.
 Hash: 164945C6, Key: Callback88Header, Value: Speak with Petr
 Hash: 3EAEDB01, Key: Phase93Description, Value: The exorcism was interrupted by the priest from Margrave, but it still succeeded in forcing the demon out of Sister Octavia. She wants to speak to me outside.
 Hash: B590DDE6, Key: Callback97Header, Value: Meet Sister Octavia outside
-Hash: D6E10F8C, Key: Phase106Description, Value: Petr, the father of the boy Sister Octavia saved, covertly slipped me a letter from Sister Octavia. It seems the demon from the sewers has taken her as its next victim. 
-
-She is being hidden in Kvera's cellar. I must go to her quickly.
-Hash: 51B5B2AB, Key: Callback113Header, Value: Speak with Sister Octavia
-Hash: E6570D8F, Key: Callback108Header, Value: Pick up Sister Octavia's Prayer Book
-Hash: 69BB27AF, Key: Phase109Description, Value: Octavia is fighting the demon with all her strength, but it falls to me to perform a Cathedral of Light exorcism ritual. 
-
-First I must head to the town of Margrave and retrieve a chalice, which may require some... subterfuge.
-Hash: EBAA2C2D, Key: Callback115Header, Value: Speak with Priest Matvey
-Hash: B7C13929, Key: Callback111Header, Value: Pick up the Silver Chalice

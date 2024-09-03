@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Clear Bonus: Ascendant Uniques
+Hash: EEB7912D, Key: AffixDesc, Value: Successfully defeating the District Boss with Attunement will reward several Uniques, with an increased chance of including a Mythic Unique.

@@ -1,0 +1,10 @@
+Hash: 8465C2E1, Key: Line800.1602FD, Value: Ugh, people.
+Hash: BAD615EE, Key: VoiceDir800.1602FD, Value: Dismissive
+Hash: 5CE96CA3, Key: Line802.1602FD, Value: Let’s not stay long, all right?
+Hash: 9359BFB0, Key: VoiceDir802.1602FD, Value: worried
+Hash: 356D1665, Key: Line804.1602FD, Value: I could never live in a town. Too loud.
+Hash: 6BDD6972, Key: VoiceDir804.1602FD, Value: Dismissive
+Hash: 0DF0C027, Key: Line806.1602FD, Value: I prefer the smell of goatmen.
+Hash: 44611334, Key: VoiceDir806.1602FD, Value: Dismissive
+Hash: E67469E9, Key: Line808.1602FD, Value: My favorite things here are the dogs.
+Hash: 1CE4BCF6, Key: VoiceDir808.1602FD, Value: Dismissive

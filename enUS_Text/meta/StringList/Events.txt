@@ -96,3 +96,9 @@ Hash: B572FF8E, Key: BSK_DoKillRing, Value: Slay foes near the Soulspire to gain
 Hash: A9F9D1DA, Key: BSK_DestroyStructure, Value: Destroy the Aetheric Mass to gain Aether
 Hash: 095980F0, Key: MinionsGrowStronger, Value: The minions of Hell grow stronger
 Hash: 5566A814, Key: S05_Hellar_ModeName, Value: Aether
+Hash: 4617259D, Key: CitadelWing2, Value: [PH] Citadel Wings
+Hash: B078A722, Key: CitadelBossWing, Value: [PH] Citadel Boss Wing2
+Hash: 83B582FA, Key: ZoneEvent_BasinTrapped, Value: A Basin is being stopped, slay the enemy that is suppressing it
+Hash: C4A77F1F, Key: FlayerAmbushActive, Value: {Param1} is being hunted
+Hash: 9244260B, Key: S6_Rep_LevelUp, Value: New Rewards are available from the Zakarum Remnants
+Hash: 631EF6DC, Key: SeasonalDungeon_RealmWalker, Value: [PH] Seething Realm

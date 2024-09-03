@@ -1,16 +1,16 @@
 Hash: 003DFCC1, Key: Name, Value: A Briny Fate
 Hash: 0871A46B, Key: Toast, Value: Some things are best left at sea.
+Hash: C2358ADD, Key: Callback70Header, Value: Search for Benen at Eternal Watch
+Hash: 538236DE, Key: Callback17Header, Value: Tell Fergus about Benen
 Hash: 8DCA476E, Key: Phase9Description, Value: Fergus’s best friend, Benen, has gone missing at sea. Rumors say his vessel crashed along the northern coast. 
 
 I should investigate the rocky coast and see if I can find evidence of Benen’s fate.
-Hash: ED76B060, Key: Callback19Header, Value: Search for Benen at Stormbreak Cove
-Hash: 92C33198, Key: Phase12Description, Value: I found a wounded sailor from Benen’s shipwreck. He was not sure of Benen’s fate, but said any survivors would have washed up along Eternal Watch. There’s chance he’s still alive.
-Hash: C2358ADD, Key: Callback70Header, Value: Search for Benen at Eternal Watch
 Hash: 259D49BB, Key: Phase15Description, Value: Benen wasn’t on the ship that crashed at Eternal Watch. He departed earlier in the voyage, leaving a letter for Fergus. It spoke to the harsh reality of their friendship and Benen’s desire to be free of Fergus’s drinking and misery.
 
 I should return to Fergus and share Benen’s fate. 
-Hash: 538236DE, Key: Callback17Header, Value: Tell Fergus about Benen
+Hash: ED76B060, Key: Callback19Header, Value: Search for Benen at Stormbreak Cove
 Hash: 07D46CED, Key: Phase107Description, Value: Fergus’s best friend, Benen, has gone missing at sea. Rumors say his vessel crashed along the northern coast. 
 
 I should investigate the rocky coast and see if I can find evidence of Benen’s fate.
 Hash: 33514A50, Key: Callback109Header, Value: Speak with the Wounded Sailor
+Hash: 92C33198, Key: Phase12Description, Value: I found a wounded sailor from Benen’s shipwreck. He was not sure of Benen’s fate, but said any survivors would have washed up along Eternal Watch. There’s chance he’s still alive.

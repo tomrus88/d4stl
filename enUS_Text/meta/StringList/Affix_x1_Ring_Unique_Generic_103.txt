@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Distance Crit
+Hash: 003892BF, Key: Desc, Value: Using {c_number}[Affix."Static Value 1"]{/c} consecutive {c_important}Basic{/c} Skills creates a {c_number}[Affix."Static Value 0"]{/c} second mark on the ground under the first enemy is hit. Moving away from the mark increases Critical Chance up to {c_random}[Affix_Value_1|1||%|]{/c}. The bonus ends when the mark disappears, and a new mark can only be created after the previous one vanishes.

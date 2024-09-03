@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Solo Defense
+Hash: 2827F416, Key: Buff0_Description, Value: Increases damage done, increases further for each nearby dead player.

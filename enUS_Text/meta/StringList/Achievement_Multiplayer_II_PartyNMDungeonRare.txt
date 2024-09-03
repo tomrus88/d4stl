@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Team Effort
-Hash: 003892BF, Key: Desc, Value: Complete a Sacred Nightmare Dungeon while in a party. 
+Hash: 003892BF, Key: Desc, Value: Complete a Nightmare Dungeon on Torment I or higher while in a party. 

@@ -1,2 +1,2 @@
 Hash: EEBCFB2F, Key: AffixName, Value: Elemental Totems
-Hash: EEB7912D, Key: AffixDesc, Value: Elemental Totems occasionally spawn in combat that buff Close Enemies after 5 seconds if not destroyed.
+Hash: EEB7912D, Key: AffixDesc, Value: Elemental Totems occasionally spawn in combat that buff Nearby Enemies until destroyed.

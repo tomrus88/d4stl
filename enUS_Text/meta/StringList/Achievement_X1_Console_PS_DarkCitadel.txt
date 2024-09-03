@@ -1,0 +1,7 @@
+Hash: 720AF4A4, Key: PS4Group, Value: Vessel of Hatred
+Hash: 74601D45, Key: PS5Group, Value: Vessel of Hatred
+Hash: 003DFCC1, Key: Name, Value: Bane of the Khazra
+Hash: 003892BF, Key: Desc, Value: Complete the Rise of the Khazra Dark Citadel.
+Hash: 3DB782F1, Key: Crit_246596, Value: Alpha Wing
+Hash: 3DB78629, Key: Crit_246615, Value: Beta Wing
+Hash: 3DB7862A, Key: Crit_246616, Value: Omega Wing

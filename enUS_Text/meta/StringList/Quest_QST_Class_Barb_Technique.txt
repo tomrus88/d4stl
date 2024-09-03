@@ -1,20 +1,21 @@
 Hash: 003DFCC1, Key: Name, Value: Barbarian: Masters of Battle
-Hash: D53BFF05, Key: Phase0Description, Value: My presence has been requested by the Forgemaster of Ked Bardu.
 Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Forgemaster Gerti in Ked Bardu
-Hash: C9FCD1EA, Key: Phase5Description, Value: I am to travel with Katra to the tribal hunting ground, where my skill in battle will be tested. 
 Hash: B8A227EA, Key: Callback4Header, Value: Travel to the hunting ground
-Hash: E2C708DD, Key: Phase44Description, Value: Katra is pleased with my demonstration of martial skill., but my trial is not over. A final challenge awaits me in a nearby cave. 
 Hash: E45EC27D, Key: Callback43Header, Value: Go to the cave entrance
-Hash: 75A12100, Key: Phase47Description, Value: I should speak with the warrior Katra, near the entrance to a foul-smelling cave.  
 Hash: CB4D78C0, Key: Callback46Header, Value: Speak with Katra
-Hash: 0132B4FD, Key: Phase53Description, Value: I must prove my skill in battle to the Oxen tribe by clearing bandits and deadly wildlife from the area. 
 Hash: 83A65A9D, Key: Callback52Header, Value: Kill bandits {DONE_OVER_NEEDED}
 Hash: 5183C723, Key: Callback58Header, Value: Kill beasts {DONE_OVER_NEEDED}
-Hash: B2787940, Key: Phase65Description, Value: I am to speak once more with the Forgemaster of Ked Bardu.
 Hash: 09DCA900, Key: Callback64Header, Value: Return to the Forgemaster
-Hash: 45529163, Key: Phase68Description, Value: I have been charged by Katra with a final task to prove my worth. I must defeat the Beast of the Steppes. 
+Hash: D53BFF05, Key: Phase0Description, Value: My presence has been requested by the Forgemaster of Ked Bardu.
+Hash: C9FCD1EA, Key: Phase5Description, Value: I am to travel with Katra to the tribal hunting ground, where my skill in battle will be tested. 
+Hash: E2C708DD, Key: Phase44Description, Value: Katra is pleased with my demonstration of martial skill., but my trial is not over. A final challenge awaits me in a nearby cave. 
+Hash: 75A12100, Key: Phase47Description, Value: I should speak with the warrior Katra, near the entrance to a foul-smelling cave.  
+Hash: 0132B4FD, Key: Phase53Description, Value: I must prove my skill in battle to the Oxen tribe by clearing bandits and deadly wildlife from the area. 
+Hash: B2787940, Key: Phase65Description, Value: I am to speak once more with the Forgemaster of Ked Bardu.
 Hash: F0CB5F43, Key: Callback67Header, Value: Enter the Charnel Cave
-Hash: 3E0A0D3D, Key: Phase71Description, Value: I am to meet with the warrior Katra, who will judge my skill in battle.
 Hash: C2358ADD, Key: Callback70Header, Value: Find Katra
-Hash: D0E42560, Key: Phase74Description, Value: I am to meet with the warrior Katra, who will judge my skill in battle.
 Hash: A9244120, Key: Callback73Header, Value: Speak with Katra
+Hash: 3E0A0D3D, Key: Phase71Description, Value: I am to meet with the warrior Katra, who will judge my skill in battle.
+Hash: D0E42560, Key: Phase74Description, Value: I am to meet with the warrior Katra, who will judge my skill in battle.
+Hash: 45529163, Key: Phase68Description, Value: I have been charged by Katra with a final task to prove my worth. I must defeat the Beast of the Steppes. 
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Barbarian Expertise

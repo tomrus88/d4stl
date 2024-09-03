@@ -40,3 +40,10 @@ Hash: 5DC588E0, Key: ZoneProgressEarned, Value: +{s1}  {s2}  Renown
 Hash: 7E00F913, Key: Execute, Value: Executed!
 Hash: D820C7F8, Key: HelltideCurrencyLost, Value: {s1} Aberrant cinders lost
 Hash: D662F11A, Key: ReputationEarned, Value: +{s1} {s2}
+Hash: C6B963E6, Key: DamageTypeIcon_Physical, Value: {icon:DamageType_Physical,1.8}
+Hash: 1C09A70F, Key: DamageTypeIcon_Fire, Value: {icon:DamageType_Fire,1.8}
+Hash: 35C2256D, Key: DamageTypeIcon_Lightning, Value: {icon:DamageType_Lightning,1.8}
+Hash: 1C081AAB, Key: DamageTypeIcon_Cold, Value: {icon:DamageType_Frost,1.8}
+Hash: 5CCB2B01, Key: DamageTypeIcon_Poison, Value: {icon:DamageType_Poison,1.8}
+Hash: 6347568F, Key: DamageTypeIcon_Shadow, Value: {icon:DamageType_Shadow,1.8}
+Hash: A99C88AF, Key: DamageBurst, Value: x{s1}  {s2}

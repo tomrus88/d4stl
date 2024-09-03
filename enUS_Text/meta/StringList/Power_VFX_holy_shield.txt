@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: FxKit Shield
+Hash: 0DC6ED73, Key: Buff0_Name, Value: FxKit Shield
+Hash: 2827F416, Key: Buff0_Description, Value: Catchall Barrier

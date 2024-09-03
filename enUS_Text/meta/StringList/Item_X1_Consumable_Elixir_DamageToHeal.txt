@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Sacrifice
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet} Every {c_number}10{/c} seconds, your next Core Skill heals you and Nearby allies for {c_number}5%{/c} of their max Health.
+{icon:bullet} Restore an additional {c_number}5%{/c} max Health for each Nearby ally, up to 20%.
+{icon:bullet} Experience gained is increased by {c_number}8%{/c}.

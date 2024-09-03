@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Deceiver's Sanctum
+Hash: 003892BF, Key: Desc, Value: The shadowed refuge of an ancient and malicious entity.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Malformed Remains
+Hash: F2CA04D8, Key: NoticeSignText, Value: A disfigured and warped corpse reaching up from the river. A Hollow, or one of their victims?

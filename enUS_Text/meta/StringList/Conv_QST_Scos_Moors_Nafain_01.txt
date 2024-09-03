@@ -14,6 +14,7 @@ Hash: DF2C3BB2, Key: Line7.8795F.Sor, Value: (sniffing) You stink of Donan...but
 Hash: E3A6F05F, Key: VoiceDir7.8795F.Sor, Value: Sniffing like a beast. Angry and snapping out the word "coward."
 Hash: DF2BF193, Key: Line7.8795F.Bar, Value: (sniffing) You stink of Donan...but he is not here. Coward!
 Hash: E3A6A640, Key: VoiceDir7.8795F.Bar, Value: Sniffing like a beast. Angry and snapping out the word "coward."
+Hash: DF2C3BCA, Key: Line7.8795F.Spi, Value: (sniffing) You stink of Donan...but he is not here. Coward!
 Hash: 0D2B7D9E, Key: Line39.BAE4, Value: He feared Lilith might seek you out. He was right.
 Hash: 7C34E3CB, Key: VoiceDir39.BAE4, Value: grave, resigned for "He was right."
 Hash: 1596F023, Key: Line37.8795F, Value: (snarl) Yes...she put me here.

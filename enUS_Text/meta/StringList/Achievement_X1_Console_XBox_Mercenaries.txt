@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hireling Commander
+Hash: 003892BF, Key: Desc, Value: Reach level 10 with all Mercenaries.
+Hash: 3DB7868B, Key: Crit_246644, Value: Raheir
+Hash: 3DB7868C, Key: Crit_246645, Value: Varyana
+Hash: 3DB7868D, Key: Crit_246646, Value: Aldkin
+Hash: 3DB7868E, Key: Crit_246647, Value: Subo

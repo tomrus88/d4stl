@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Feeding Grounds
+Hash: 003892BF, Key: Desc, Value: Fresh victims are fed to the demons in this place.

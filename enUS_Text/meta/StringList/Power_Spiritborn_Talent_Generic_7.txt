@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Dominant
+Hash: 003892BF, Key: desc, Value: {c_important}Gorilla{/c} Skills deal {c_number}[{SF_0} * 100|%x|]{/c} increased damage to Knocked Down enemies and their first hits have a {c_number}[{SF_1} * 100|%|]{/c} chance to Execute Non-Bosses.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Bonus {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}

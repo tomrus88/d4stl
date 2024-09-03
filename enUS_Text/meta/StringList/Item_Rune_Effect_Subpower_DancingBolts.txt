@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Evoke the Druid's {c_important}Dancing Bolts{/c}, seeking and dealing damage to enemies.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Unlimited Power
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Increased Bolts Spawned
+Hash: 003DFCC1, Key: Name, Value: Ono

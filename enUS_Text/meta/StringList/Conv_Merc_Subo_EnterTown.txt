@@ -1,0 +1,5 @@
+Hash: 8F59AC1D, Key: Line1.199120, Value: People. I’m not… fond… of people.
+Hash: 67DD55DF, Key: Line3.199120, Value: We could use the respite, I suppose.
+Hash: 4060FFA1, Key: Line5.199120, Value: This is fine, as far as towns go.
+Hash: 18E4A963, Key: Line7.199120, Value: The wilderness is my home, but this will do.
+Hash: F1685325, Key: Line9.199120, Value: Let’s stay only as long as we need to.

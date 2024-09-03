@@ -138,11 +138,11 @@ Hash: F4A9C4CD, Key: ErrorContinueAction, Value: Continue Rift
 Hash: 6395F6CE, Key: ErrorStopAction, Value: Stop Trial
 Hash: 7C210936, Key: ErrorBodyStopRiftFromTeleport, Value: Using town portal inside the dungeon will cause the trial to be stopped. Are you sure you want to stop?
 Hash: 7702031D, Key: ErrorBodyStopRiftFromLeavingParty, Value: Leaving the party will cause the trial to be stopped for all the party. Are you sure you want to stop?
-Hash: 9239A991, Key: WorldTier4Required, Value: World Tier 4 required
+Hash: 9239A991, Key: WorldTier4Required, Value: Torment I unlock required
 Hash: 4453F4DF, Key: CharacterNotAvailable, Value: Character not available
 Hash: 22379E25, Key: 1CharacterNotAvailbleNote, Value: 1 character is unavailable or deleted
 Hash: A04B625D, Key: 2PlusCharactersNotAvilableNote, Value: {s1} characters not unavailable or deleted
-Hash: 700929C1, Key: WorldTier4RequiredParty, Value: All party members must be in World Tier 4
+Hash: 700929C1, Key: WorldTier4RequiredParty, Value: All party members must unlock Torment I
 Hash: 0A507219, Key: RiftNotYetAvailable, Value: Trials Start Week {s1} of the Season
 Hash: 13FE1FC0, Key: RiftFinishedThisSeason, Value: Trials have finished for the Season
 Hash: C44036D9, Key: PlayersAll, Value: All
@@ -241,3 +241,5 @@ Hash: 34DA8B61, Key: RiftNotStartedThisWeek, Value: Trials have not started for 
 Hash: EC2B8A30, Key: ToLeave, Value: {c_white}To Leave:{/c} Exit through the Collections/Trials Menu
 Hash: 25146D1C, Key: PlayAgainToReach, Value: {c_white}Play Again{/c} to reach a higher rank!
 Hash: 51E63B3C, Key: PlacementTitle_NoPlace, Value: You've completed the trial
+Hash: AF5A2021, Key: TrialsNotAvailable, Value: Trials are not available this Season
+Hash: 6C75C3F8, Key: SpiritbornLadder, Value: Solo Spiritborn

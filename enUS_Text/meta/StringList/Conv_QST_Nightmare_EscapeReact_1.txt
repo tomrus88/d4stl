@@ -8,3 +8,4 @@ Hash: 93552D0D, Key: Line9.BAE4.Sor, Value: I don't serve either of you.
 Hash: C9C5801A, Key: VoiceDir9.BAE4.Sor, Value: Defiant
 Hash: 7B15C1FB, Key: Line3.BAE4.Rog, Value: I guess we're going to find out, aren't we?
 Hash: B1861508, Key: VoiceDir3.BAE4.Rog, Value: Defiant
+Hash: 60DA5A8E, Key: Line11.BAE4.Spi, Value: I am pledged to worthier powers.

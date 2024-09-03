@@ -1,12 +1,4 @@
 Hash: 003DFCC1, Key: Name, Value: The Starving Strand
 Hash: 0871A46B, Key: Toast, Value: Help a man send food to his hungry family back home.
 Hash: D53BFF05, Key: Phase0Description, Value: An old man named Baltair in Braestaig has asked me to bring some food to his starving family in Corbach.
-Hash: 9F90DE2D, Key: Callback7Header, Value: Take the Bag of Foodstuffs to Tadhg
-Hash: 5CD6EA0D, Key: Phase8Description, Value: An old man named Baltair in Braestaig has asked me to bring some food to his starving family in Corbach.
-
-I just need to make room in my bags...
-Hash: 0687FA1D, Key: Callback16Header, Value: Take the {ITEM}
-Hash: 3181449A, Key: Phase32Description, Value: An old man named Baltair in Braestaig has asked me to bring some food to his starving family in Corbach
-
-I just need to get the food from him.
-Hash: 5E28741A, Key: Callback31Header, Value: Speak with Baltair
+Hash: 9F90DE2D, Key: Callback7Header, Value: Take the {ITEM:QST_Scos_Hills_Strand_Breadcrumb_Item} to Tadhg

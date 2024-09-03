@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Baited Trap
+Hash: E10FAAF5, Key: Callback339Header, Value: Release the villager
+Hash: FD75A395, Key: Callback384Header, Value: Survive the ambush
+Hash: 80574315, Key: Callback348Header, Value: Kill all the remaining enemies
+Hash: 04C731EE, Key: Callback350Header, Value: Keep the villager alive

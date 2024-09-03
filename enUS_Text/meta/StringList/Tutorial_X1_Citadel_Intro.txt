@@ -1,0 +1,5 @@
+Hash: 086EAA02, Key: title, Value: The Dark Citadel
+Hash: 8C67E8B2, Key: 1_instruction, Value: The Dark Citadel is a new activity requiring 2-4 players. Use Party Finder to find allies and face the many trials within!
+Hash: 19431837, Key: 6_instruction, Value: Earn a weekly Dark Citadel Challenger's Cache for completing all 3 Wings on any Torment Tier!
+Hash: E3B2F083, Key: 11_instruction, Value: Slay the Khazra's Treasury Guardians to receive additional Citadel Coins at the end of specific trials!
+Hash: 076034BA, Key: 9_instruction, Value: Waymarkers are assigned via the emote wheel and can be used to communicate specific areas within the Dark Citadel.

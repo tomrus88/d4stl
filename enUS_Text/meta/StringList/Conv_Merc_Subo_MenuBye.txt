@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Dismiss Mercenary
+Hash: 8F59AC1D, Key: Line1.199120, Value: We will be here should need arise.
+Hash: 67DD55DF, Key: Line3.199120, Value: Until next time.
+Hash: 4060FFA1, Key: Line5.199120, Value: Farewell and be well.
+Hash: 18E4A963, Key: Line7.199120, Value: We will be here next time.

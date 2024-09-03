@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Khazra Barding
+Hash: A646FFA4, Key: Description, Value: This dark and elegant barding looks to be crafted by the Khazra of the Dark Citadel. 

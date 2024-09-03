@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Horn
+Hash: CC38ADCB, Key: FlavorName, Value: Grave Walker

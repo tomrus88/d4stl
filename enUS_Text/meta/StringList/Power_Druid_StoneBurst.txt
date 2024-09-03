@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: Stone Burst
+Hash: 003892BF, Key: desc, Value: {c_label}Spirit Cost:{/c} {c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Gather stones beneath your enemies then detonate them dealing {c_number}{payload:IMPACT}{/c} damage. 
+
+Channeling deals {c_number}{payload:MOD_INITIAL_DAMAGE}{/c} damage and increases the size of the affected area, up to a {c_number}[SF_18 * 100|%|]{/c} increase after {c_number}[SF_8|1|]{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
+Hash: B09DADE9, Key: Buff15_Name, Value: Stone Burst
+Hash: C43ED3CC, Key: Buff15_Description, Value: Stone Burst: Increased Attack Speed.
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Stone Burst's{/c} final explosion damage is increased by {c_number}[SF_21*100|%x|]{/c} within the initial radius.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Stone Burst
+Hash: 74D6BC35, Key: Mod2_Description, Value: While Channeling {c_important}Stone Burst{/c} and for {c_number}[SF_26]{/c} seconds afterwards, you gain {c_number}[SF_25 * 100|%+|]{/c} Attack Speed.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Primal Stone Burst
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Stone Burst{/c} costs {c_number}[SF_19 * 100|%x|]{/c} more Spirit, and its final explosion deals {c_number}[SF_27 * 100|%x|]{/c} more damage.
+Hash: 99335313, Key: Mod3_Name, Value: Raging Stone Burst

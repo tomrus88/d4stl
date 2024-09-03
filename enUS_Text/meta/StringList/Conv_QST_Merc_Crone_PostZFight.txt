@@ -1,0 +1,4 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: It’s done.
+Hash: DF7CC49F, Key: VoiceDir1.18782A, Value: Determined. 
+Hash: 18D19618, Key: Line7.18782A, Value: My word is my bond. End my life as we ended Zolmog’s.
+Hash: 6907C1E5, Key: VoiceDir7.18782A, Value: Earnest, unafraid. 

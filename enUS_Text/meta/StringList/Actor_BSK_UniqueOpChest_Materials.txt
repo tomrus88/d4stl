@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Spoils of Materials
-{c_gold}Requires{/c} {c_green}20{/c} {c_gold}Burning Aether{/c}
+{c_gold}Exchange {c_green}all remaining Aether{/c}{c_gold} for crafting materials

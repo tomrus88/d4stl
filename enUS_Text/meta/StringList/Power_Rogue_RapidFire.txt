@@ -13,5 +13,5 @@ Hash: 1394CF37, Key: Mod4_Description, Value: Each subsequent arrow from {c_impo
 Hash: 9B887BB4, Key: Mod4_Name, Value: Enhanced Rapid Fire
 Hash: 74D6BC35, Key: Mod2_Description, Value: Gain {c_number}{SF_21}{/c} Energy per cast of {c_important}Rapid Fire{/c} when it damages a {c_important}{u}Vulnerable{/u}{/c} enemy.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Improved Rapid Fire
-Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Rapid Fire{/c} deals {c_number}[{SF_16}*100|%x|]{/c} increased Critical Strike Damage for {c_number}{SF_17}{/c} seconds after you Evade.
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Rapid Fire{/c} deals {c_number}[{SF_16}*100|%x|]{/c} increased Critical Strike Damage for {c_number}{SF_17}{/c} seconds after you {c_important}Evade{/c}.
 Hash: 99335313, Key: Mod3_Name, Value: Advanced Rapid Fire

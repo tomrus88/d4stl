@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Shadow Blast
+Hash: 007C49D0, Key: Payload0_DisplayName, Value: Shadow Blast Shard
+Hash: EE996653, Key: Payload3_DisplayName, Value: Shadow Blast Shard

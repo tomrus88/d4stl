@@ -41,5 +41,8 @@ Hash: EC631FFC, Key: SocialWheelTownPortalLocked, Value: Town Portal Unavailable
 Hash: D7E20035, Key: SocialWheelMountLocked, Value: Summon Mount Unavailable
 Hash: 68CB5D41, Key: SocialWheelMountAlreadyMounted, Value: You are already mounted
 Hash: 8925D4F5, Key: SocialWheelMountNotAvailable, Value: Summon Mount Unavailable
-Hash: 25AE0F28, Key: PartyFinder, Value: [PH] Party Finder
-Hash: F4BB5B9A, Key: PartyFinderNotAvailable, Value: [PH] Party Finder Not Available
+Hash: 25AE0F28, Key: PartyFinder, Value: Party Finder
+Hash: F4BB5B9A, Key: PartyFinderNotAvailable, Value: Party Finder Not Available
+Hash: FC318B8C, Key: tab_citadel, Value: Citadels
+Hash: EDF3E4BB, Key: WorldMarkerSocialWheelName, Value: {s1} {s2}/1
+Hash: FA60E93A, Key: Favorite Town Portal, Value: Town Portal to {s1}

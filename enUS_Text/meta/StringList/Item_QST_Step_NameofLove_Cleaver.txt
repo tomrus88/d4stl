@@ -1,2 +1,2 @@
-Hash: 003DFCC1, Key: Name, Value: Cleaver of Undying Love
 Hash: F5C7BC0A, Key: Flavor, Value: A cleaver once used by the butcher, Khaliun, recovered by the mages of Whispering Vault, following her death. It remains disturbingly sharp, despite years of disuse.
+Hash: 003DFCC1, Key: Name, Value: Cleaver of Undying Love

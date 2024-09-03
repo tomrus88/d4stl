@@ -1,0 +1,2 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: Come out of your hole, Zolmog! I’ll have your head!
+Hash: DF7CC49F, Key: VoiceDir1.18782A, Value: Bellowing

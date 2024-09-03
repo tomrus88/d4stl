@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Perhaps I could guard your post so you can leave?"
+Hash: 08226089, Key: Line8.1BA1D2, Value: That is a duty I cannot surrender to you. If you can't journey to Seven Stones, I understand.
+Hash: 58588C56, Key: VoiceDir8.1BA1D2, Value: Appreciative but accepting 
+Hash: 92558E62, Key: Line1.1BA1D2, Value: My best years are behind me, and the jungle is harsh.
+Hash: E28BBA2F, Key: VoiceDir1.1BA1D2, Value: Realistic about his chances. 
+Hash: 6AD93824, Key: Line3.1BA1D2, Value: I’ll serve until my last, but that jungle would be my undoing.
+Hash: 5C7B1FB2, Key: Line10.1BA1D2, Value: Kurast can’t afford to lose any more scouts.

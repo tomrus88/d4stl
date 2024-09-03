@@ -1,2 +1,0 @@
-Hash: 086EAA02, Key: title, Value: World Tiers
-Hash: 7BFE534B, Key: simple_instruction, Value: Change World Tiers at the {icon:Marker_WorldTiers, 2.5} statue in Kyovashad. Unlock higher tiers by {c_highlight}completing {icon:Marker_DungeonChallenge, 2.5}Capstone Dungeons{/c}.

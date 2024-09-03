@@ -1,3 +1,3 @@
+Hash: CC3C0A8F, Key: FlavorText, Value: Scattered with neglected alchemical tools.
 Hash: 003DFCC1, Key: Name, Value: Haphazard Desk
 Hash: F2CA04D8, Key: NoticeSignText, Value: Alongside the tools, a few scraps of paper cover the table, but there are never more than few hastily scrawled sentences written on them.
-Hash: CC3C0A8F, Key: FlavorText, Value: Scattered with neglected alchemical tools.

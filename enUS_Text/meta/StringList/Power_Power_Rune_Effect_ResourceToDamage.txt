@@ -1,0 +1,2 @@
+Hash: 2070327B, Key: Buff8_Name, Value: Thar
+Hash: A320401E, Key: Buff8_Description, Value: Your next Skill will consume all of your resource for up to 100% increased damage.

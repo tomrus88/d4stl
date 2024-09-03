@@ -23,3 +23,6 @@ Hash: 15B11D05, Key: LeavingPvPShrineTurnIn, Value: Leaving the ring will result
 Hash: 13FC5AA1, Key: VesselOfHatred_LostByDeath, Value: You have fallen, and are no longer the Hatred's Chosen.
 Hash: CA4E5555, Key: VesselOfHatred_LostByExit, Value: You have given up being Hatred's Chosen by exiting the Fields of Hatred.
 Hash: 3EEAC400, Key: VesselOfHatred_Lost, Value: You are no longer the Hatred's Chosen.
+Hash: B2045A4A, Key: test_x1_pvp_arena_boss_powerup, Value: {c_red}BLOODSHED HAS INCREASED THE BOSSES POWER{/c}
+Hash: AEF55E71, Key: test_x1_pvp_arena_champion, Value: {param1} IS CHAMPION OF THE ARENA!
+Hash: 0293972D, Key: test_x1_pvp_arena_portal_closed, Value: {c_red}PORTAL CLOSED{/c}

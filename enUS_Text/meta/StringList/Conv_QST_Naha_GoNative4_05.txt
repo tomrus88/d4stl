@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What of the Dregs?"
+Hash: 8F733B6A, Key: Line1.19FF85, Value: Ahh, how they adore him! The "children of Kharov". Never has someone been so revered... Kharov’s abandonment of faith and duty resonates profoundly with Dregs.
+Hash: 67F6E52C, Key: Line3.19FF85, Value: They see other Knights, such as his lieutenants Pharus, Grigoriy, and Viktor, who we will no doubt cross paths with on the Blood Pilgrimage, as fools merely flirting with greatness.
+Hash: 407A8EEE, Key: Line5.19FF85, Value: Dregs have an aversion to anything resembling order, always siding with self-indulgence and violence.

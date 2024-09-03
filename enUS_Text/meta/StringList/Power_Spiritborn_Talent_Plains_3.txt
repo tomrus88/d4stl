@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Velocity
+Hash: 003892BF, Key: desc, Value: Generate {c_number}{SF_0}{/c} Vigor each second while moving if you have dealt damage in the last {c_number}[{SF_1}]{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Vigor {icon:arrow,1.2} {c_number}{SF_0}{/c}
+Hash: 101C1614, Key: Buff1_Name, Value: Velocity
+Hash: 7786FD97, Key: Buff1_Description, Value: Gain Resource while moving after dealing damage

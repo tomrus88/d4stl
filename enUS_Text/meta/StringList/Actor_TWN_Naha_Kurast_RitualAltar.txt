@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ritual Altar
+Hash: F2CA04D8, Key: NoticeSignText, Value: A jaguar skull rests on a bed of amethyst. A smoky citrus scent emanates from burning tree resin—somehow foreign and familiar all at once.

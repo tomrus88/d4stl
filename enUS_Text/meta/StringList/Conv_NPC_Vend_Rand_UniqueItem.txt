@@ -18,3 +18,15 @@ Hash: 1BE3A9A8, Key: Line85.B79A2, Value: Oh, drown me livin'! Yeah, good for yo
 Hash: 6C19D575, Key: VoiceDir85.B79A2, Value: Stunned. Cursing. Begrudging congratulations.
 Hash: 6E310508, Key: Line93.B79A3, Value: Oh, drown me livin'! Yeah, good for you, ya lucky bastard.
 Hash: BE6730D5, Key: VoiceDir93.B79A3, Value: Stunned. Begrudging congratulations.
+Hash: 578D11DA, Key: Line101.1C264B, Value: Wh-what?! How did that make it into the pot?
+Hash: 8DFD64E7, Key: VoiceDir101.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: 1C52907D, Key: Line104.1C264B, Value: Akarat's holy breath! (sigh) You won it, fair and square...
+Hash: 52C2E38A, Key: VoiceDir104.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: E1180F20, Key: Line107.1C264B, Value: (sigh) Lucky day, traveler. (chuckle) Lucky damn day.
+Hash: 1788622D, Key: VoiceDir107.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: B839CD1B, Key: Line112.1B35B4, Value: Stars above, what is that?!
+Hash: EEAA2028, Key: VoiceDir112.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 7CFF4BBE, Key: Line115.1B35B4, Value: (gasps) Fortune has chosen you and you alone, wanderer!
+Hash: B36F9ECB, Key: VoiceDir115.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 41C4CA61, Key: Line118.1B35B4, Value: Absolutely extraordinary!
+Hash: 78351D6E, Key: VoiceDir118.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.

@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Maximum {c_important}{u}Resolve{/u}{/c} increased by {c_number}[SF_0]{/c}.
+
+When you have at least {c_number}[SF_1]{/c} stacks of {c_important}{u}Resolve{/u}{/c}, you are {c_important}{u}Unstoppable{/u}{/c}.

@@ -1,0 +1,10 @@
+Hash: F90B494A, Key: Line810.189135, Value: I’ll protect us.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: Determined
+Hash: D18EF30C, Key: Line812.189135, Value: You won’t get past me.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: Determined
+Hash: AA129CCE, Key: Line814.189135, Value: Get behind me!
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: Determined
+Hash: 82964690, Key: Line816.189135, Value: Not a step further!
+Hash: B906999D, Key: VoiceDir816.189135, Value: Determined
+Hash: 5B19F052, Key: Line818.189135, Value: Stand together!
+Hash: 918A435F, Key: VoiceDir818.189135, Value: Determined

@@ -1,3 +1,3 @@
-Hash: 003DFCC1, Key: Name, Value: Earthquake
+Hash: 003DFCC1, Key: Name, Value: of Earthquakes
 Hash: 003892BF, Key: Desc, Value: {c_important}Ground Stomp{/c} creates an {c_important}Earthquake{/c} damaging enemies for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Physical damage over {c_number}[PowerTag.Barbarian_Earthquake."Script Formula 1"]{/c} seconds. While standing in {c_important}Earthquakes{/c}, you deal {c_random}[Affix_Value_1|%x|]{/c} increased damage.
 Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Ground Stomp{/c} creates an {c_important}Earthquake{/c} damaging enemies for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Physical damage over {c_number}[PowerTag.Barbarian_Earthquake."Script Formula 1"]{/c} seconds.

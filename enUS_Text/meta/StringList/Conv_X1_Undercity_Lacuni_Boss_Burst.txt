@@ -1,0 +1,4 @@
+Hash: 9284B9B4, Key: Line1.1F3379, Value: (roars in pain)
+Hash: E2BAE581, Key: VoiceDir1.1F3379, Value: in pain
+Hash: 438C0D38, Key: Line5.1F3379, Value: (roars in anger)
+Hash: 93C23905, Key: VoiceDir5.1F3379, Value: in anger

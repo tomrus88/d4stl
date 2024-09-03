@@ -1,0 +1,3 @@
+Hash: 925133A0, Key: Line1.1C83B8, Value: Outsider, huh? One foolish enough to brave the Tangles. Only the pilgrims try. And less than half survive.
+Hash: E2875F6D, Key: VoiceDir1.1C83B8, Value: suspicious
+Hash: 6AD4DD62, Key: Line3.1C83B8, Value: At least they’ve reason to throw their lives away. You, though. You’re no pilgrim. So what are you?

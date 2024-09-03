@@ -5,5 +5,5 @@ Hash: 8784047D, Key: Phase17Description, Value: Delve deeper into the dungeon
 Hash: 24EC6278, Key: Callback20Header, Value: Travel to the {LEVELAREA}
 Hash: 8CBE4880, Key: Callback28Header, Value: Slay Zorym and collect the {ITEM}
 Hash: 45172A5D, Key: Callback34Header, Value: Slay {MONSTER}
-Hash: 5E28741A, Key: Callback31Header, Value: Use the Sanctum Key to open the {GIZMO}
+Hash: 5E28741A, Key: Callback31Header, Value: Use the {ITEM:DGN_Hawe_SteadfastBarracks_Key} to open the {GIZMO}
 Hash: DF0BA3DF, Key: Callback36Header, Value: Collect the {ITEM}

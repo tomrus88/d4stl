@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Giant's Bone
+Hash: F2CA04D8, Key: NoticeSignText, Value: Centuries ago, giants roamed this land. The death of the giant beasts resulted in an abundance of ichor. Humans have taken advantage of this by harvesting and utilizing ichor from the corpses.

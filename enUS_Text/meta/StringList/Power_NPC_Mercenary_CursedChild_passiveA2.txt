@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Exhaustion
+Hash: 003892BF, Key: desc, Value: Aldkin's Shadow damage has a {c_number}[{SF_0}*100|%|]{/c} chance to {c_important}{u}Daze{/u}{/c} enemies for {c_number}{SF_1}{/c} seconds.

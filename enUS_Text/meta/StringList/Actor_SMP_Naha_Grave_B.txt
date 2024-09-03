@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Moss-covered Grave
+Hash: F2CA04D8, Key: NoticeSignText, Value: The plaque reads:
+
+"------------, third of his name
+
+Thus ends his tormented lineage
+Three generations, thrice cursed.
+Let it be known - the law of the jungle 
+Absolves betrayal only in death."
+
+The name has been purposefully defaced.

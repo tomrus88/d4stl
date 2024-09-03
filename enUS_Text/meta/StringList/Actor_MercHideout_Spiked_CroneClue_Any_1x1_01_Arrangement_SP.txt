@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Brutal Note
+Hash: CC3C0A8F, Key: FlavorText, Value: Note pinned to a bloody stake
+Hash: F2CA04D8, Key: NoticeSignText, Value: The head of a Dry Steppes cannibal is mounted upon this stake. A note pinned to the stake with a knife reads:
+
+TEMPLE OF ROT.
+REVENGE.
+MAYBE I'LL BE BACK.
+DON'T TOUCH THE MEAT.
+
+-VARYANA
+
+It's clear this "Varyana" was not gifted in letters.

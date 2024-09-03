@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It's eerily quiet down by the docks..."
+Hash: 925131CE, Key: Line1.1C8434, Value: Eh, outsiders just don’t understand. Everywhere else in Sanctuary, folks thieve and kill and burn. They’ve forgotten the spirits. Not us.
+Hash: 6AD4DB90, Key: Line3.1C8434, Value: Take what you need, offer what you can. The spirits gift us food, and in turn they take... less necessary things. Memories. Thoughts. A worthy trade for survival, if you ask me.

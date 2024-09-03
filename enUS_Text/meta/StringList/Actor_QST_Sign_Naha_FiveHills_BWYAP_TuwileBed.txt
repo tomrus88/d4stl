@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloodied Cot
+Hash: F2CA04D8, Key: NoticeSignText, Value: Tuwile is missing. A path of blood leads outside, suggesting he was dragged.

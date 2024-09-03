@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: {icon:Season_Item_Icon_New, 1.8}Seething Opal of Socketables
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet}Enemies have a chance to drop {c_yellow}socketables{/c} on death.
+{icon:bullet}Kills can grant reputation reputation for {c_yellow}Zakarum Remnants{/c}.
+{icon:bullet} Experience gained is increased by {c_number}15%{/c}.
+Hash: F5C7BC0A, Key: Flavor, Value: You may only have one Hate Fragment active at a time.

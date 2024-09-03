@@ -1,0 +1,3 @@
+Hash: 3007DFEA, Key: Line28.193C28, Value: Phew! Glad that’s done.
+Hash: 1AF953A5, Key: Line32.193C28, Value: I’m getting the hang of this.
+Hash: F37CFD67, Key: Line34.193C28, Value: Check, check, and... Yes! All balanced out.

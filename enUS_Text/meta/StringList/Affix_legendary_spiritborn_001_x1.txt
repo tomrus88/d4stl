@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ruthless
+Hash: 003892BF, Key: Desc, Value: Your Critical Strike Chance with {c_important}Jaguar{/c} Skills is increased against enemies by {c_random}[Affix_Value_1*100|%+1|]{/c} for each {c_number}[Affix."Static Value 0"|%|]{/c} of their missing Life.
+Hash: 82B7D312, Key: CodexDesc, Value: Your Critical Strike Chance with {c_important}Jaguar{/c} Skills is increased against enemies by {c_random}[Affix_Value_1*100|%+1|]{/c} for each {c_number}[Affix."Static Value 0"|%|]{/c} of their missing Life.

@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are the lacuni connected to Nyamoyo?"
+Hash: 92448A04, Key: Line1.1AC0A7, Value: My ancestors have known the lacuni as long as they’ve known these lands.
+Hash: E27AB5D1, Key: VoiceDir1.1AC0A7, Value: direct, heartfelt
+Hash: 6AC833C6, Key: Line3.1AC0A7, Value: They are beasts. They are fiends. They are… ever changing.
+Hash: BAFE5F93, Key: VoiceDir3.1AC0A7, Value: direct, heartfelt, reflective
+Hash: 434BDD88, Key: Line5.1AC0A7, Value: The one thing that remains is their ties to Nyamoyo. They share Nyamoyo’s eyes. Nyamoyo’s voice.
+Hash: 93820955, Key: VoiceDir5.1AC0A7, Value: direct, heartfelt
+Hash: 1BCF874A, Key: Line7.1AC0A7, Value: They are its children, as much as Jiona is my own.
+Hash: 6C05B317, Key: VoiceDir7.1AC0A7, Value: direct, heartfelt, warm

@@ -1,0 +1,3 @@
+Hash: A984EF4B, Key: AppliedDeferredConsumableTitle, Value: Bowl of Lilith's Gaze Juice
+Hash: 003DFCC1, Key: Name, Value: [PH] Tonic of Lilith's Gaze
+Hash: A646FFA4, Key: Description, Value: [PH] When applied to a raid banner receptacle, clickers are cursed with the gaze of Lilith. Demon portals will randomly spawn, but the boss chest may contain more valuable rewards.

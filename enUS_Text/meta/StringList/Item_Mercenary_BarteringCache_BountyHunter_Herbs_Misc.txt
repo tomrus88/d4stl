@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Herb Cache
+Hash: A646FFA4, Key: Description, Value: Contains an assortment of Herbs.

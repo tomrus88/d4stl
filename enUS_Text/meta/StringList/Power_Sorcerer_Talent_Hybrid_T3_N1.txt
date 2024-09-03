@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Dual Affinity
+Hash: 003892BF, Key: desc, Value: After casting {c_number}3{/c} Skills of the same Element you gain a related Elemental Affinity. Having a combination of {c_number}2{/c} Elemental Affinities grants a bonus:
+
+{icon:bullet,1.2} {c_label}Cooled + Warmed:{/c} Your Burning deals damage {c_number}100%{/c} quicker versus {c_important}{u}Vulnerable{/u}{/c} enemies, double this if they are also {c_important}{u}Frozen{/u}{/c}.
+
+{icon:bullet,1.2} {c_label}Warmed + Charged:{/c} Critical Strikes against Stunned enemies created an implosion, dealing {c_number}{payload:DAMAGE}{/c} Fire Damage and Pulling surrounding enemies together.
+
+{icon:bullet,1.2} {c_label}Charged + Cooled:{/c} Unclaimed {c_important}{u}Crackling Energy{/u}{/c} constantly {c_important}{u}Chills{/u}{/c} enemies around it by {c_number}30%{/c} per second.

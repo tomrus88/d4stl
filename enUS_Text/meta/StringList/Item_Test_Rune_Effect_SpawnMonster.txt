@@ -1,0 +1,3 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Your next Elite kill will spawn 2 copies of it...or something more auspicious{/c}.
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Infernal Bargain
+Hash: 003DFCC1, Key: Name, Value: Ura

@@ -9,10 +9,10 @@ Hash: ED76B060, Key: Callback19Header, Value: Search the Pyres for Brecht's corp
 Hash: E2223B19, Key: Phase22Description, Value: I should speak with Elder Lau about Brecht by the funeral pyre.
 Hash: 71E69F39, Key: Callback21Header, Value: Speak with Elder Lau
 Hash: 74FC533C, Key: Phase25Description, Value: I must go find Aldara and retrieve the cursed amulet that she carries in order to save the villagers that it has cursed.
-Hash: 58D5557C, Key: Callback24Header, Value: Retrieve Aldara’s Amulet from Light’s Refuge
+Hash: 58D5557C, Key: Callback24Header, Value: Retrieve {ITEM:QST_Hawe_S05_ItemAmulet} from Light's Refuge
 Hash: 07D66B5F, Key: Phase28Description, Value: I need to bring Aldara's cursed amulet to Elder Lau so that it can be cleansed, removing its power over the sick villagers.
 Hash: 3FC40BBF, Key: Callback27Header, Value: Speak with Elder Lau
 Hash: C45B5CBD, Key: Phase35Description, Value: I should place the amulet on the altar so that Elder Lau can attempt to cleanse its curse.
-Hash: 45172A5D, Key: Callback34Header, Value: Place the amulet on the altar
+Hash: 45172A5D, Key: Callback34Header, Value: Place the {ITEM:QST_Hawe_S05_ItemAmulet} on the altar
 Hash: 4FECF0BA, Key: Phase41Description, Value: I should speak with Elder Lau, who seems weak after the ritual to cleanse the cursed amulet.
 Hash: FD700C3A, Key: Callback40Header, Value: Speak with Elder Lau

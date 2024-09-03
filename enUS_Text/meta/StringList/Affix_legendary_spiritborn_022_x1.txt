@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Avoidance
+Hash: 003892BF, Key: Desc, Value: Whenever an enemy hits you, your Dodge Chance against that enemy increases by {c_random}[Affix_Value_1|%+|]{/c}. Successfully Dodging resets this bonus.
+Hash: 82B7D312, Key: CodexDesc, Value: Whenever an enemy hits you, your Dodge Chance against that enemy increases by {c_random}[Affix_Value_1|%+|]{/c}. Successfully Dodging resets this bonus.

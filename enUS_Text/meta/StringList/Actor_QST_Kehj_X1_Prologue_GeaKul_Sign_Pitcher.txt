@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spiced Rum
+Hash: F2CA04D8, Key: NoticeSignText, Value: The scents of rich spices waft up from the flask—cinnamon, cloves, nutmeg, and something tangy but sweet. More care was put into this brew than is usually given to the sailors' swill that lines Gea Kul's docks.

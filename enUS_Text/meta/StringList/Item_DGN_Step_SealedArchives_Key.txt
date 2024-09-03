@@ -1,3 +1,3 @@
+Hash: F5C7BC0A, Key: Flavor, Value: A key to the Archive depths. It's almost completely rotted away.
 Hash: 003DFCC1, Key: Name, Value: Rotten Key
 Hash: A646FFA4, Key: Description, Value: Bound to Sealed Archives
-Hash: F5C7BC0A, Key: Flavor, Value: A key to the Archive depths. It's almost completely rotted away.

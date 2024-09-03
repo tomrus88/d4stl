@@ -1,0 +1,2 @@
+Hash: 923CDBA8, Key: Line1.1B4181, Value: ...I hear your voice, master. Has the time truly come for our order to return to Necropolis?
+Hash: E2730775, Key: VoiceDir1.1B4181, Value: Muttering to self. 

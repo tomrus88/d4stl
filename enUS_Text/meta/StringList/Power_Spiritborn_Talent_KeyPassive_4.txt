@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Noxious Resonance
+Hash: 003892BF, Key: desc, Value: Your Critical Strikes cause enemies to burst {c_number}[{SF_0}*100|%|]{/c} of their total Poisoning as Direct Poison damage to themselves and surrounding enemies.

@@ -15,3 +15,5 @@ Hash: B7625755, Key: OpenWorldPvPShrineActive, Value: Ritual in progress
 Hash: 3897B0F9, Key: RoadSignPrompt, Value: Set destination to {c_white}{s1}{/c}?
 Hash: 073A2BE7, Key: Chair, Value: Chair
 Hash: B44C115C, Key: ReputationSign, Value: Bounty Board
+Hash: 6D77E925, Key: RaidBannerEmpty, Value: [PH] Empty Raid Buff Receptacle
+Hash: DE2A33BB, Key: FavoriteWaypoint, Value: {s1} (Favorited)

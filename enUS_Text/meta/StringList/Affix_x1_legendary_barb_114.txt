@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Shattering Steel
+Hash: 003892BF, Key: Desc, Value: {c_important}Steel Grasp{/c} and {c_important}Iron Maelstrom{/c} launch up to {c_number}[Affix."Static Value 0"]{/c} metal shards that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Physical damage.

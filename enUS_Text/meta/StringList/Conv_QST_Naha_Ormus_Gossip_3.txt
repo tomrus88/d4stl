@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Neyrelle is being hunted by a man named Urivar. If he comes to this city, will you protect her?"
+Hash: 8F4F079D, Key: Line1.17FDCA, Value: Of course.
+Hash: 6AE65B4D, Key: Line3.1D7161, Value: Ormus! This stranger brings war to Nahantu.
+Hash: BB1C871A, Key: VoiceDir3.1D7161, Value: cautioning
+Hash: 40565B21, Key: Line5.17FDCA, Value: Oh really, Iso? Would you have the Cathedral of Light roam Nahantu without check? Would you have Urivar tell us what is right?
+Hash: 18DA04E3, Key: Line7.17FDCA, Value: No. We will protect our home, and those who walk within it.

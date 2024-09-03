@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Damaging enemies with direct Fire damage has up to a {c_number}[SF_1|%|]{/c} chance to reduce one of your active cooldowns by {c_number}[SF_0|1|]{/c} seconds.

@@ -6,3 +6,7 @@ Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Cataclysm's{/c} durat
 Hash: 96DE2A72, Key: Mod2_Name, Value: Prime Cataclysm
 Hash: D618A933, Key: Mod0_Description, Value: Lightning strikes from {c_important}Cataclysm{/c} make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_31}{/c} seconds.
 Hash: 9233D930, Key: Mod0_Name, Value: Supreme Cataclysm
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Twister Damage {icon:arrow, 1.2} {c_number}{payload:TORNADO_DAMAGE}{/c}
+{icon:bullet, 1.2} Lightning Damage {icon:arrow, 1.2} {c_number}{payload:LIGHTNING_STRIKE}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

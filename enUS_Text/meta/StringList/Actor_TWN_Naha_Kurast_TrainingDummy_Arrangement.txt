@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nigh-Broken Dummy
+Hash: F2CA04D8, Key: NoticeSignText, Value: Amidst the myriad monsters' menace, strength and battle prowess become your shield against the encroaching darkness.

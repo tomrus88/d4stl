@@ -3,7 +3,7 @@ Hash: 0871A46B, Key: Toast, Value: Return to Lorath
 Hash: 1EF99359, Key: Phase40Description, Value: Removing Elias' finger from the altar caused the temple to sink further into the murky waters. I was able to escape, but only barely.
 Hash: C5FA5A22, Key: Callback39Header, Value: Speak with Lorath
 Hash: B1D3AB7C, Key: Phase43Description, Value: I found Lorath tending to Neyrelle. Luckily it appears as though she will survive. I explained what I found in the sunken temple. It's time to burn Elias' finger and break his immortality.
-Hash: 976485BC, Key: Callback42Header, Value: Burn Elias' Mummified Finger
+Hash: 976485BC, Key: Callback42Header, Value: Burn {ITEM:QST_Hawe_Delta_EliasFinger}
 Hash: 44ADC39F, Key: Phase46Description, Value: The fire has roused Neyrelle. I should check on her.
 Hash: 7E533BFF, Key: Callback45Header, Value: Speak with Neyrelle
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Lorath in Rotspill Delta

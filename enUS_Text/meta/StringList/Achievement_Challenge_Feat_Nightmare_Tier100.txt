@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Nightmare Grandmaster
-Hash: 003892BF, Key: Desc, Value: Complete a Tier 100 Nightmare Dungeon.
+Hash: 003892BF, Key: Desc, Value: Complete a Nightmare Dungeon on Torment IV.

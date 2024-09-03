@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Assist Ironwolves
+Hash: 0871A46B, Key: Toast, Value: Unlike many mortals, the Ironwolves are not so craven as to wait quietly for death. Assist them in cleansing these lands of the demonic influence.
+Hash: B8A227EA, Key: Callback4Header, Value: Assist Ironwolves: {DONE_OVER_NEEDED}
+Hash: 3FC40BBF, Key: Callback27Header, Value: Assist Ironwolves

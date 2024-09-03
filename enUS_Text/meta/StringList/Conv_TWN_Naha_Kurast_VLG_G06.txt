@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem worried."
+Hash: 9268B994, Key: Line1.1CC150, Value: We thought it was gone. We thought him gone, yet Hatred claws at her gates again.
+Hash: E29EE561, Key: VoiceDir1.1CC150, Value: Stunned and distraught. Small, not boisterous. Deeply worried.
+Hash: 6AEC6356, Key: Line3.1CC150, Value: How can we survive another siege?

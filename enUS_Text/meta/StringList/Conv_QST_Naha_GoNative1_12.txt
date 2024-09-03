@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Want me to try and free you?"
+Hash: 8F733B88, Key: Line1.19FF92, Value: Please, don't start trouble. What I've asked of you is more important than my immediate safety.
+Hash: 67F6E54A, Key: Line3.19FF92, Value: I'll be free once the Inquisitor arrives. I trust in her convictions and expect fair judgement over this camp.

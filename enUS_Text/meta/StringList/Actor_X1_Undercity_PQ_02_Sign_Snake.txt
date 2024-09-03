@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Nangari
+Hash: F2CA04D8, Key: NoticeSignText, Value: A dagger was slid between this nangari's ribs but the blood runs clean. No pus, no maggots, none of the dregs' telltale growths. 

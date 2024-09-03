@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Beast Graveyard
+Hash: 003892BF, Key: Desc, Value: Scavengers often come to profit off the holy giants.

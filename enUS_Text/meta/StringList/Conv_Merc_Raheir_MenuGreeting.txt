@@ -1,0 +1,8 @@
+Hash: F90B494A, Key: Line810.189135, Value: Looking well, friend.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: happy
+Hash: D18EF30C, Key: Line812.189135, Value: Good to see you safe.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: happy
+Hash: AA129CCE, Key: Line814.189135, Value: Allow me to help.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: happy
+Hash: 82964690, Key: Line816.189135, Value: Ah, welcome!
+Hash: B906999D, Key: VoiceDir816.189135, Value: happy

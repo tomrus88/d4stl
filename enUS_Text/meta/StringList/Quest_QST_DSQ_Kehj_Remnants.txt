@@ -1,9 +1,9 @@
-Hash: 003DFCC1, Key: Name, Value: Remnants
-Hash: 74FC533C, Key: Phase25Description, Value: The Knights Penitent followed Hader and I into the hideout.
-Hash: 58D5557C, Key: Callback24Header, Value: Speak to Hader
 Hash: 2BE38CAC, Key: Phase7Description, Value: This description text will not be displayed.
 Hash: 398557AF, Key: Callback9Header, Value: Protect Hader from the Knights Penitent
+Hash: 74FC533C, Key: Phase25Description, Value: The Knights Penitent followed Hader and I into the hideout.
+Hash: 003DFCC1, Key: Name, Value: Remnants
 Hash: 008DE739, Key: Phase31Description, Value: [PH] The Knights Penitent have been dealt with. I should tell Hader he is safe. 
 Hash: F81CED9C, Key: Callback33Header, Value: Speak to Hader
 Hash: 9367FF5C, Key: Phase34Description, Value: The hidden entrance has led to a hideout beneath the city. Now to find Hader. 
 Hash: DF0BA3DF, Key: Callback36Header, Value: Find Hader inside the hideout
+Hash: 58D5557C, Key: Callback24Header, Value: Speak to Hader

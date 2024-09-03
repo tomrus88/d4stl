@@ -1,34 +1,34 @@
 Hash: 003DFCC1, Key: Name, Value: Descent
 Hash: 0871A46B, Key: Toast, Value: Follow Lilith's trail through the Necropolis of the Firstborn
-Hash: 75A12100, Key: Phase47Description, Value: I pursue Lilith through the Necropolis of the Firstborn. Something unexpected has happened, for her hatred has manifested as a living and oozing corruption covering the necropolis.
-Hash: F0CB5F43, Key: Callback67Header, Value: Enter the Necropolis of the Firstborn
-Hash: 0D16AFDC, Key: Phase70Description, Value: I pursue Lilith through the Necropolis of the Firstborn. Something unexpected has happened, for her hatred has manifested as a living and oozing corruption covering the necropolis.
-Hash: 63BE3D83, Key: Phase77Description, Value: My pursuit of Lilith is impeded by walls of pulsing flesh and tumors that seem to control them. I must find my way through this dizzying corruption.
-Hash: 24E63DCF, Key: Callback126Header, Value: Destroy the Tumors of Hatred blocking the path forward: {LEFT}
-Hash: 5C75B95D, Key: Phase80Description, Value: I continue after Lilith in what appears to be a vast, towering ancient city, beyond anything I saw before the Black Lake.
-Hash: 7701ADA6, Key: Callback79Header, Value: Pursue Lilith
-Hash: 9F49FBC9, Key: Phase130Description, Value: My pursuit of Lilith is impeded by walls of pulsing flesh and tumors that seem to control them. I must find my way through this dizzying corruption.
-Hash: 6317714D, Key: Phase134Description, Value: I have encountered a great beast of oozing, pulsing flesh in a place that seems to be the epicenter of the vile corruption. The beast must be destroyed if I am to continue after Lilith.
-Hash: C980F48D, Key: Callback142Header, Value: Slay Lilith's Lament
-Hash: 940ACEAE, Key: Phase135Description, Value: With the help of a Knight Penitent in the heavy Father's Grace armor, I have destroyed the great beast at the corruption's epicenter. Blood flows from the knight's armor as they slow to a stop. I must help them.
-Hash: 975E6113, Key: Callback148Header, Value: Speak with the Knight Penitent
-Hash: C4FE2C0F, Key: Phase136Description, Value: I continue after Lilith in what appears to be a vast, towering ancient city, beyond anything I saw before the Black Lake.
-Hash: 1BCE4FEC, Key: Callback150Header, Value: Pursue Lilith
-Hash: D0E226EE, Key: Phase153Description, Value: Instead of Lilith inside the temple, I find the body of a man who was clearly murdered in outrage and those accursed blood petals.
-Hash: E9ABBC72, Key: Callback156Header, Value: Inspect Lilith's Blood Petals
-Hash: 01D5844F, Key: Phase154Description, Value: I have destroyed the great beast only because Vigo returned from Kor Valar in Father's Grace armor to help me--and gave his life to do so. It seems the beast was guarding a massive temple. Lilith must be inside.
-Hash: D09A72B5, Key: Callback159Header, Value: Pursue Lilith
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Follow Lilith's trail through the Necropolis of the Firstborn
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must pursue Lilith in the Necropolis of the Firstborn, a place mortals do not dare tread or sacrifice their minds at the altar of knowledge trying.
+Hash: 75A12100, Key: Phase47Description, Value: I pursue Lilith through the Necropolis of the Firstborn. Something unexpected has happened, for her hatred has manifested as a living and oozing corruption covering the necropolis.
 Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Enter the Necropolis of the Firstborn
+Hash: F0CB5F43, Key: Callback67Header, Value: Enter the Necropolis of the Firstborn
+Hash: 0D16AFDC, Key: Phase70Description, Value: I pursue Lilith through the Necropolis of the Firstborn. Something unexpected has happened, for her hatred has manifested as a living and oozing corruption covering the necropolis.
 Hash: 62E26CA4, Key: Phase70OutsideSubzoneHeader, Value: Pursue Lilith
-Hash: 9A3D462B, Key: Phase77OutsideSubzoneHeader, Value: Pursue Lilith
-Hash: D58EB745, Key: Phase80OutsideSubzoneHeader, Value: Pursue Lilith
-Hash: F4C27331, Key: Phase130OutsideSubzoneHeader, Value: Pursue Lilith
-Hash: 38F65D35, Key: Phase134OutsideSubzoneHeader, Value: Slay Lilith's Lament
-Hash: 8A0357B6, Key: Phase135OutsideSubzoneHeader, Value: Speak with the Knight Penitent
-Hash: DB105237, Key: Phase136OutsideSubzoneHeader, Value: Pursue Lilith
-Hash: CD41F7F6, Key: Phase153OutsideSubzoneHeader, Value: Inspect Lilith's Blood Petals
-Hash: 1E4EF277, Key: Phase154OutsideSubzoneHeader, Value: Pursue Lilith
 Hash: 22E7CE14, Key: Callback167Header, Value: Pursue Lilith
+Hash: 63BE3D83, Key: Phase77Description, Value: My pursuit of Lilith is impeded by walls of pulsing flesh and tumors that seem to control them. I must find my way through this dizzying corruption.
+Hash: 9A3D462B, Key: Phase77OutsideSubzoneHeader, Value: Pursue Lilith
+Hash: 24E63DCF, Key: Callback126Header, Value: Destroy the Tumors of Hatred blocking the path forward: {LEFT}
+Hash: 5C75B95D, Key: Phase80Description, Value: I continue after Lilith in what appears to be a vast, towering ancient city, beyond anything I saw before the Black Lake.
+Hash: D58EB745, Key: Phase80OutsideSubzoneHeader, Value: Pursue Lilith
+Hash: 7701ADA6, Key: Callback79Header, Value: Pursue Lilith
+Hash: 9F49FBC9, Key: Phase130Description, Value: My pursuit of Lilith is impeded by walls of pulsing flesh and tumors that seem to control them. I must find my way through this dizzying corruption.
+Hash: F4C27331, Key: Phase130OutsideSubzoneHeader, Value: Pursue Lilith
 Hash: 4865B497, Key: Callback188Header, Value: Slay the final Tumor of Hatred to fully uncover the exit
+Hash: 6317714D, Key: Phase134Description, Value: I have encountered a great beast of oozing, pulsing flesh in a place that seems to be the epicenter of the vile corruption. The beast must be destroyed if I am to continue after Lilith.
+Hash: 38F65D35, Key: Phase134OutsideSubzoneHeader, Value: Slay Lilith's Lament
+Hash: C980F48D, Key: Callback142Header, Value: Slay Lilith's Lament
+Hash: 940ACEAE, Key: Phase135Description, Value: With the help of a Knight Penitent in the heavy Father's Grace armor, I have destroyed the great beast at the corruption's epicenter. Blood flows from the knight's armor as they slow to a stop. I must help them.
+Hash: 8A0357B6, Key: Phase135OutsideSubzoneHeader, Value: Speak with the Knight Penitent
+Hash: 975E6113, Key: Callback148Header, Value: Speak with the Knight Penitent
+Hash: C4FE2C0F, Key: Phase136Description, Value: I continue after Lilith in what appears to be a vast, towering ancient city, beyond anything I saw before the Black Lake.
+Hash: DB105237, Key: Phase136OutsideSubzoneHeader, Value: Pursue Lilith
+Hash: 1BCE4FEC, Key: Callback150Header, Value: Pursue Lilith
+Hash: D0E226EE, Key: Phase153Description, Value: Instead of Lilith inside the temple, I find the body of a man who was clearly murdered in outrage and those accursed blood petals.
+Hash: CD41F7F6, Key: Phase153OutsideSubzoneHeader, Value: Inspect Lilith's Blood Petals
+Hash: E9ABBC72, Key: Callback156Header, Value: Inspect Lilith's Blood Petals
+Hash: 01D5844F, Key: Phase154Description, Value: I have destroyed the great beast only because Vigo returned from Kor Valar in Father's Grace armor to help me--and gave his life to do so. It seems the beast was guarding a massive temple. Lilith must be inside.
+Hash: 1E4EF277, Key: Phase154OutsideSubzoneHeader, Value: Pursue Lilith
+Hash: D09A72B5, Key: Callback159Header, Value: Pursue Lilith

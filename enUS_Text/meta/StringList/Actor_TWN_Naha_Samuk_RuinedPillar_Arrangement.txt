@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stone Ruins
+Hash: F2CA04D8, Key: NoticeSignText, Value: Samuk is built on the bones of ancient ruins. Carvings that represent Akarat and the spirits believed to dwell in the lake have been placed along the pillar.

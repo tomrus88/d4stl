@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Murmuring Spiral
+Hash: 003892BF, Key: Desc, Value: Scales and spirals hypnotize, and some come too close.

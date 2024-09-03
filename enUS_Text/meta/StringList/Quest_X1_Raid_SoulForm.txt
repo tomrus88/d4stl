@@ -1,0 +1,8 @@
+Hash: E45E7BD6, Key: Callback268Header, Value: Slay the First Khazra shielding the Soul Conduit
+Hash: 773F5532, Key: Callback372Header, Value: Place the Soul Essence into the Conduit of Souls to weaken Gorschak
+Hash: 0F2F80F7, Key: Callback296Header, Value: Obtain a Soul Essence from the Fragmented Soul of Gorschak
+Hash: 8AFD8051, Key: Callback362Header, Value: Obtain a Soul Essence from the Realm of Oblivion
+Hash: 9619BBF1, Key: Callback416Header, Value: Dispel the Ward Sigils to summon the Fragmented Soul of Gorschak: {DONE_OVER_NEEDED}
+Hash: 658577D0, Key: Callback460Header, Value: Return to Sanctuary with the Soul Essence
+Hash: 60325932, Key: Callback453Header, Value: Gateway charged: {DONE_OVER_NEEDED}
+Hash: 0891DF35, Key: Callback438Header, Value: Slay Gorschak, The First Ascendant

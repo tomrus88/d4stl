@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Hmm...That is truly all you seek?"
+Hash: 922AE0CF, Key: Line1.1A4873, Value: Well, yes. Is that not what I just said? So, which is it?
+Hash: E2610C9C, Key: VoiceDir1.1A4873, Value: Slightly annoyed

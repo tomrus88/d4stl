@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Suspicious Note
+Hash: F2CA04D8, Key: NoticeSignText, Value: I was able to steal the egg. The trade is still on. Rendezvous point to the north of Samuk, near the stillwater pond. 

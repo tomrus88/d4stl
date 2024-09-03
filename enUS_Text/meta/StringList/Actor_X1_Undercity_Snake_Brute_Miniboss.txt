@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Yoche
+Hash: CC38ADCB, Key: FlavorName, Value: The Golden Snake
+Hash: DA72BB62, Key: SuperElite, Value: The Golden Snake

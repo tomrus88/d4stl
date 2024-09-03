@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: Soul Bomb
+Hash: A7490B65, Key: Buff11_Name, Value: Soul Bomb Remnant
+Hash: 53E6C9EF, Key: Buff39_Name, Value: Soul Bomb Remnant
+Hash: F4434826, Key: Buff21_Name, Value: Soul Bomb Remnant
+Hash: 8E37C1A8, Key: Buff41_Name, Value: Soul Bomb Remnant
+Hash: F8ED9968, Key: Buff23_Name, Value: Soul Bomb Remnant
+Hash: 92E212EA, Key: Buff43_Name, Value: Soul Bomb Remnant

@@ -1,0 +1,3 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Your next Skill cast will be a guaranteed Critical Strike and {c_important}{u}Overpower{/u}{/c}.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Extinction
+Hash: 003DFCC1, Key: Name, Value: Xan

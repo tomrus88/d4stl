@@ -1,4 +1,3 @@
-Hash: FA1B16B0, Key: Callback217Header, Value: Burn your sin
 Hash: 003DFCC1, Key: Name, Value: Rite of Passage
 Hash: 0871A46B, Key: Toast, Value: Head north to Kyovashad
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Accompany Lorath to Kyovashad
@@ -8,6 +7,7 @@ Hash: 2584F77F, Key: Phase20OutsideSubzoneHeader, Value: Speak with Lorath
 Hash: 0BDB18BB, Key: Callback23Header, Value: Speak with Lorath
 Hash: 8828D241, Key: Phase39Description, Value: My entry into Kyovashad was prevented by a guardsman who demanded I participate in a cleansing ritual first. Lorath has gone ahead, but I'm left with no choice but to complete the ritual.
 Hash: 71A610A9, Key: Phase39OutsideSubzoneHeader, Value: Inscribe a sin into the piece of wood
+Hash: FA1B16B0, Key: Callback217Header, Value: Burn your sin
 Hash: 63196FBF, Key: Phase55Description, Value: I've completed the cleansing ritual. The guard should have no reason to bar my way any further.
 Hash: 12CABBE7, Key: Phase55OutsideSubzoneHeader, Value: Speak with the guard
 Hash: 1D9AD41F, Key: Callback54Header, Value: Speak with the guard

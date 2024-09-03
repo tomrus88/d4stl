@@ -1,0 +1,4 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: You're looking well fed.
+Hash: 67CA4294, Key: Line3.18782A, Value: I’ll carve up a choice cut for you.
+Hash: 404DEC56, Key: Line5.18782A, Value: Happy to help, you know.
+Hash: 18D19618, Key: Line7.18782A, Value: We have just what you need.

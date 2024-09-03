@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Archive of Kuo Chosah
+Hash: CC3C0A8F, Key: FlavorText, Value: The final entry of a thorough daily record
+Hash: F2CA04D8, Key: NoticeSignText, Value: "I hold myself accountable for my son's curse. He will never be rid of it, though his heart is pure.
+
+Even now, he's drawn to the Dark Citadel.
+He speaks of a covert passage hidden in the vines and rock.
+
+What he hopes to find there, I do not know."

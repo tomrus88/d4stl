@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: {icon:Season_Item_Icon_New, 1.8}Hate Cache of Faction Rep and XP
+Hash: A646FFA4, Key: Description, Value: A cache of items created by the POWERGEM. Contains an assortment of Faction Rep and XP.
+Hash: F5C7BC0A, Key: Flavor, Value: Lingering distortion from the seething realmwalker covers your hand on the slightest touch.

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Barbed Carapace
+Hash: 003892BF, Key: desc, Value: For every {c_number}{SF_0}{/c} Fury you spend, you gain {c_number}[{SF_1} * 100|%+|]{/c} Thorns for {c_number}{SF_5}{/c} seconds, up to {c_number}[{SF_1} * {SF_2} * 100|%|]{/c}.
+
+Casting a Skill with a Cooldown grants you {c_important}{u}Unhindered{/u}{/c} for {c_number}[SF_8]{/c} seconds. During this time, you deal {c_number}100%{/c} of your Thorns as Physical damage to Close enemies every second.
+Hash: 101C1614, Key: Buff1_Name, Value: Barbed Carapace
+Hash: 7786FD97, Key: Buff1_Description, Value: Thorns increased.
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Barbed Carapace
+Hash: 53C1369D, Key: Buff7_Description, Value: Dealing Thorns damage upon colliding with enemies.

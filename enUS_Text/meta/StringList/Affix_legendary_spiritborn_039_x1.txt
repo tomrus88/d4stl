@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Turbulence
+Hash: 003892BF, Key: Desc, Value: {c_important}Soar{/c} casts {c_important}Vortex{/c} at its landing location and deals {c_random}[Affix_Value_1*100|%x|]{/c} increased damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Soar{/c} casts {c_important}Vortex{/c} at its landing location and deals {c_random}[Affix_Value_1*100|%x|]{/c} increased damage.

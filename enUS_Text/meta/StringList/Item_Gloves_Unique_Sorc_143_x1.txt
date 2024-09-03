@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sidhe Bindings
+Hash: F5C7BC0A, Key: Flavor, Value: "While known for their proclivity for mischief, the Sidhe, as the Druids call them, are fiercely loyal and will defend all they consider friend..."  - Sarnakyle

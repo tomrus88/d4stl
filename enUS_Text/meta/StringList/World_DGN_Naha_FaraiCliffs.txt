@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Farai Cliffs
+Hash: 003892BF, Key: Desc, Value: The blood of outsiders glistens in the moonlight.

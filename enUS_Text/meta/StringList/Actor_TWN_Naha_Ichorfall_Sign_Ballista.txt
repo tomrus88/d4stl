@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ballista
+Hash: F2CA04D8, Key: NoticeSignText, Value: A ballista used in centuries past to defend humanity from the giants that roamed the land. It is now used to defend against the monsters and wildlife that threaten Ichorfall.

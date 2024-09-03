@@ -1,4 +1,4 @@
 Hash: B8A227EA, Key: Callback4Header, Value: Slay Maggots at the Maggot Queen Nest
 Hash: 6C93809B, Key: Callback14Header, Value: Slay Maggots to draw out the Maggot Queen
 Hash: 85A4CA58, Key: Callback11Header, Value: Slay the Maggot Queen
-Hash: ED76B060, Key: Callback19Header, Value: Pick up the Swamp Ichor
+Hash: ED76B060, Key: Callback19Header, Value: Pick up the {ITEM:QST_Hawe_Verge5_Maggot_Ichor}

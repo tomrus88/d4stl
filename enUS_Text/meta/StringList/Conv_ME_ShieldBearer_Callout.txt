@@ -1,0 +1,3 @@
+Hash: 18D29108, Key: Line7.189135, Value: Yes! Wonderful. This will make fine weapons.
+Hash: 45AEF9F3, Key: Line11.189135, Value: This ore is good quality. It will shape well.
+Hash: 1E32A3B5, Key: Line13.189135, Value: Excellent shine. It should take to the forge nicely.

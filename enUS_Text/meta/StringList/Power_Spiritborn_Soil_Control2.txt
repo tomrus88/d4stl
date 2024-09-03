@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Dreadful Swarm
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Call forth a wave of insects that bite enemies, Fearing them for {c_number}[{buffduration:FEAR}]{/c} seconds and each applying {c_number}{dot:POISON_DOT}{/c} Poisoning damage over {c_number}[{buffduration:POISON_DOT}]{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet, 1.2} Poisoning Damage {icon:arrow, 1.2} {c_number}{dot:POISON_DOT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: (PH) Each time you hit an enemy with {c_important}Dreadful Swarm{/c} you gain {c_number}[{SF_20}*100|%x|]{/c} increased damage vs Crowd Controlled enemies for {c_number}{SF_22}{/c} seconds, up to {c_number}[{SF_20}*{SF_21}*100|%x|]{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Dreadful Swarm Enhancement
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) {c_label}Lucky Hit:{/c} Hitting an enemy affected by {c_important}Dreadful Swarm{/c} has up to a {c_number}[{SF_13}*100|%|]{/c} chance to Life Steal {c_number}[{SF_14}*100|%|]{/c} of the damage done.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Dreadful Swarm Upgrade A
+Hash: 74D6BC35, Key: Mod2_Description, Value: (PH) {c_important}Dreadful Swarm{/c} now creates two orbiting insects that spiral outwards over {c_number}{SF_15}{/c} seconds and each apply {c_number}[{SF_19}*100|%|]{/c} Base Poisoning damage. Recasting {c_important}Dreadful Swarm{/c} Fears all Nearby Poisoned enemies for {c_number}[{buffduration:FEAR}]{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Dreadful Swarm Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Soil Control2 Upgrade C

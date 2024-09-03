@@ -1,0 +1,8 @@
+Hash: 720AF4A4, Key: PS4Group, Value: Vessel of Hatred
+Hash: 74601D45, Key: PS5Group, Value: Vessel of Hatred
+Hash: 003DFCC1, Key: Name, Value: Hireling Commander
+Hash: 003892BF, Key: Desc, Value: Reach level 10 with all Mercenaries.
+Hash: 3DB782F0, Key: Crit_246595, Value: Raheir
+Hash: 3DB78626, Key: Crit_246612, Value: Varyana
+Hash: 3DB78627, Key: Crit_246613, Value: Aldkin
+Hash: 3DB78628, Key: Crit_246614, Value: Subo

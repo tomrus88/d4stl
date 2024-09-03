@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: Rites of Ascension
 Hash: DD0D3424, Key: Callback77Header, Value: Slay the channeler to disrupt the rites
-Hash: CB7F6448, Key: Callback101Header, Value: Slay the remaining enemies
-Hash: 1B9C6464, Key: Callback95Header, Value: Slay The Unascended before the rites are complete
 Hash: 95661601, Key: Callback83Header, Value: Slay The Unascended
 Hash: 995CD0CE, Key: Callback107Header, Value: Defeat {CUSTOM_PARAM2}
+Hash: 1B9C6464, Key: Callback95Header, Value: Slay The Unascended before the rites are complete
+Hash: CB7F6448, Key: Callback101Header, Value: Slay the remaining enemies

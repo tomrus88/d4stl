@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's going on?"
+Hash: 9283A9BF, Key: Line1.1F158C, Value: Black ichor—thick as mud—seeps from the earth, tainting all that it touches. Great hulking demons follow in its wake, bearing portals to the fiendish realms.
+Hash: 6B075381, Key: Line3.1F158C, Value: This is not the wanton chaos of the Triune. This is...intimate. This is Hatred, seething in the veins of the land.
+Hash: 1C0EA705, Key: Line7.1F158C, Value: Mephisto’s vile corruption has returned.
+Hash: 438AFD43, Key: Line5.1F158C, Value: We Zakarum are few, but we shall fight this creeping evil to our last. Will you help us?

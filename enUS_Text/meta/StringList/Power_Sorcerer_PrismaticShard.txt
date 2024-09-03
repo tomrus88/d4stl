@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Prismatic Shard
+Hash: 003892BF, Key: desc, Value: Conjure a Prismatic Shard for {c_number}{SF_1}{/c} seconds. Casting a {c_important}Pyromancy{/c}, {c_important}Cold{/c}, or {c_important}Shock{/c} Skill causes the Shard to pulse for {c_number}{payload:TOOLTIP_PULSE_DAMAGE}{/c} damage of the respective type every {c_number}{SF_10}{/c} second.
+Hash: D618A933, Key: Mod0_Description, Value: The pulses gain additional effects:
+{icon:bullet,1.2} {c_label}Pyromancy:{/c} Inflicts {c_number}{dotdps:BURNING}{/c} Burning damage over {c_number}{SF_11}{/c} seconds.
+{icon:bullet,1.2} {c_label}Cold:{/c} {c_important}{u}Chills{/u}{/c} for {c_number}[SF_7 * 100|%|]{/c}.
+{icon:bullet,1.2} {c_label}Shock:{/c} {c_label}Lucky Hit:{/c} up to a {c_number}[SF_8 * 100|%|]{/c} chance to Stun enemies for {c_number}{SF_9}{/c} seconds.
+Hash: 2577B2B4, Key: Mod1_Description, Value: TBD
+Hash: 948901D1, Key: Mod1_Name, Value: Invoked Prismatic Shard
+Hash: 74D6BC35, Key: Mod2_Description, Value: TBD
+Hash: 96DE2A72, Key: Mod2_Name, Value: Summoned Prismatic Shard
+Hash: C435C5B6, Key: Mod3_Description, Value: TBD
+Hash: 99335313, Key: Mod3_Name, Value: C Choice Prismatic Shard
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:TOOLTIP_PULSE_DAMAGE}{/c}
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Prismatic Shard

@@ -1,0 +1,5 @@
+Hash: 58D5557C, Key: Callback24Header, Value: Charge the {icon:Marker_GizmoChargeable,1.8} Soul Siphon by standing nearby
+Hash: 36A5F933, Key: Callback157Header, Value: Slay the {MONSTER}
+Hash: 1F931F31, Key: Callback119Header, Value: Activate the Soul Siphon
+Hash: 6176FE54, Key: Callback185Header, Value: Slay the Barrier Guardians: {DONE_OVER_NEEDED}
+Hash: 5AD37E90, Key: Callback208Header, Value: Slay the remaining monsters

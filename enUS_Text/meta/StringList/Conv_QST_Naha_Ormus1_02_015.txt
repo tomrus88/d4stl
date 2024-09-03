@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How do you know Eru?"
+Hash: 8F45AC8A, Key: Line1.184BBB, Value: How does anyone know Eru? He insinuates himself into your life. And lives are usually better for it.

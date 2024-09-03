@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This place seems familiar. What is it?"
+Hash: 8898ED15, Key: Line10.1C93F4.Nec, Value: The entrance to the once-great Necropolis, formerly the only true home to followers of Rathma's teachings.
+Hash: 1033D81D, Key: Line18.1C93F4.Nec, Value: Rathma built this haven for us. Somewhere we can study, teach, and reside without the usual judgment of those unfamiliar with our ways.

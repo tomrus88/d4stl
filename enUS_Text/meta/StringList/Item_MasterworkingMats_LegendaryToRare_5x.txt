@@ -1,2 +1,2 @@
-Hash: 003DFCC1, Key: Name, Value: Small Ingolith Cache
-Hash: A646FFA4, Key: Description, Value: Contains 15 pieces of Ingolith.
+Hash: 003DFCC1, Key: Name, Value: Small Obducite Cache II
+Hash: A646FFA4, Key: Description, Value: Contains {c_number}45{/c} pieces of {c_legendary}Obducite{/c}.

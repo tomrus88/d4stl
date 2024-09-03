@@ -1,8 +1,8 @@
 Hash: 003DFCC1, Key: Name, Value: A Series of Steps
 Hash: 0871A46B, Key: Toast, Value: Taissa makes a desperate, final attempt to purge Andariel's whispers from her mind.
+Hash: D6E30DFE, Key: Phase27Description, Value: Taissa needs my help to attempt her ritual. I should meet her at her tower.
+Hash: D9B88541, Key: Callback29Header, Value: Speak with Taissa
 Hash: C9FCD1EA, Key: Phase5Description, Value: Taissa's ritual will take us both into her memories... This will be a dangerous journey, but if it leads to Taissa being able to confront her grief, it is one I will gladly undertake.
 Hash: EC8B1AEE, Key: Callback8Header, Value: Peer into the Ritual Flames
 Hash: 8784047D, Key: Phase17Description, Value: We were almost overwhelmed by Andariel's whispers, but we were able to overcome them. I should make sure Taissa is alright.
 Hash: ED76B060, Key: Callback19Header, Value: Speak with Taissa
-Hash: D6E30DFE, Key: Phase27Description, Value: Taissa needs my help to attempt her ritual. I should meet her at her tower.
-Hash: D9B88541, Key: Callback29Header, Value: Speak with Taissa

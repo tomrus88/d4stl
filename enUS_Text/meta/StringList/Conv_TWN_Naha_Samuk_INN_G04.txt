@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This doesn't seem like much of an inn."
+Hash: 925131CE, Key: Line1.1C8434, Value: Ha! It isn't. Aside from the occasional pilgrim, you're the first outsider we've seen in a long while. I keep a spare cot around for visitors just in case. Nobody else here will.
+Hash: 6AD4DB90, Key: Line3.1C8434, Value: That, and I'm the only one in Samuk who knows how to brew a good drink!
+Hash: BB0B075D, Key: VoiceDir3.1C8434, Value: winking

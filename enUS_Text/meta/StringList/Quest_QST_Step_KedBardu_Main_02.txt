@@ -1,9 +1,9 @@
 Hash: 003DFCC1, Key: Name, Value: A Moment to Collect
 Hash: 0871A46B, Key: Toast, Value: Speak to Lorath in Ked Bardu
+Hash: 6E589CDA, Key: Phase50Description, Value: I must return to Lorath with the news of what has happened in Orbei. I also want to know what he discovered about the demon Elias summoned to aid Genbar.
+Hash: B23C2F03, Key: Callback49Header, Value: Speak with Lorath in Ked Bardu
+Hash: 56D6E5C1, Key: Callback65Header, Value: Join Lorath for the autopsy
+Hash: 7D89D762, Key: Phase50OutsideSubzoneHeader, Value: Speak with Lorath in Ked Bardu
+Hash: D6840109, Key: Phase66OutsideSubzoneHeader, Value: Follow Lorath to the autopsy in Ked Bardu
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with Lorath in Ked Bardu
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must return to Lorath with the news of what has happened in Orbei. I also want to know what he discovered about the demon Elias summoned to aid Genbar.
-Hash: 6E589CDA, Key: Phase50Description, Value: I must return to Lorath with the news of what has happened in Orbei. I also want to know what he discovered about the demon Elias summoned to aid Genbar.
-Hash: 7D89D762, Key: Phase50OutsideSubzoneHeader, Value: Speak with Lorath in Ked Bardu
-Hash: B23C2F03, Key: Callback49Header, Value: Speak with Lorath in Ked Bardu
-Hash: D6840109, Key: Phase66OutsideSubzoneHeader, Value: Follow Lorath to the autopsy in Ked Bardu
-Hash: 56D6E5C1, Key: Callback65Header, Value: Join Lorath for the autopsy

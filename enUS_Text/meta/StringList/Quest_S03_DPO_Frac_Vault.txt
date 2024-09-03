@@ -1,10 +1,10 @@
+Hash: D9B88541, Key: Callback29Header, Value: Open the Vault treasure
+Hash: 1D9AD41F, Key: Callback54Header, Value: Pick Up Keystone
 Hash: 003DFCC1, Key: Name, Value: A wound in the mountainside.
 Hash: 1EADAE68, Key: Callback2Header, Value: Slay Porter Construct
 Hash: BEE0DBFA, Key: Callback22Header, Value: Slay Watchman Construct
 Hash: 398557AF, Key: Callback9Header, Value: Find a path to the Stoneworks
 Hash: 85A4CA58, Key: Callback11Header, Value: Activate the Lever
 Hash: 0687FA1D, Key: Callback16Header, Value: Return the Keystone to the Pedestal
-Hash: 58D5557C, Key: Callback24Header, Value: Find the Vault treasure
-Hash: 1D9AD41F, Key: Callback54Header, Value: Pick Up Keystone
 Hash: F2C9CEFE, Key: Callback26Header, Value: Find the Vault treasure
-Hash: D9B88541, Key: Callback29Header, Value: Open the Vault treasure
+Hash: 58D5557C, Key: Callback24Header, Value: Find the Vault treasure

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: (PH) of Movement
+Hash: 003892BF, Key: Desc, Value: (PH) {c_important}Skill{/c} has {c_random}[Affix_Value_1|%+|]{/c} random rolled Stat against enemies with {c_number}[Affix."Static Value 0"]{/c} static Stat and {c_important}{u}Keyword{/u}{/c}.

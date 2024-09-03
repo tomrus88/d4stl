@@ -1,3 +1,6 @@
+Hash: 09E6742C, Key: Phase313Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: 92FC0AF4, Key: Phase313OutsideSubzoneHeader, Value: Confront Elias within the Exalted Terrace
+Hash: 8CFBF00C, Key: Callback321Header, Value: Bring Lorath to Elias
 Hash: 003DFCC1, Key: Name, Value: Piercing the Veil
 Hash: 0871A46B, Key: Toast, Value: Enter the Exalted Terrace
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Enter the Exalted Terrace
@@ -41,6 +44,3 @@ Hash: 132C606D, Key: Callback214Header, Value: Enter Elias' chambers
 Hash: 00E33374, Key: Phase258Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
 Hash: 2AB87B3C, Key: Phase258OutsideSubzoneHeader, Value: Confront Elias within the Exalted Terrace
 Hash: 16810F50, Key: Callback262Header, Value: Speak to the noble
-Hash: 09E6742C, Key: Phase313Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
-Hash: 92FC0AF4, Key: Phase313OutsideSubzoneHeader, Value: Confront Elias within the Exalted Terrace
-Hash: 8CFBF00C, Key: Callback321Header, Value: Bring Lorath to Elias

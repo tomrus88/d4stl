@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What brings an Iron Wolf out here?"
+Hash: 6AAE8A91, Key: Line3.1A4873, Value: I seek fame and glory, of course. Hey, want to be a hero? There's a demon that's killed a lot of warriors over the years.
+Hash: BAE4B65E, Key: VoiceDir3.1A4873, Value: Boistrous. Enticing.
+Hash: 43323453, Key: Line5.1A4873, Value: Legend says it stalks the abandoned shrine to the east. There's a massive bounty for its head, should you manage to kill it.
+Hash: 93686020, Key: VoiceDir5.1A4873, Value: Sinister. Alluring.

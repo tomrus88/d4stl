@@ -142,3 +142,39 @@ Hash: EF5E5CF6, Key: Line1801.EDC73, Value: I thought I was done for.
 Hash: 25CEB003, Key: VoiceDir1801.EDC73, Value: relieved, out of breath
 Hash: D64D1339, Key: Line1804.EDC73, Value: Looks like we live another day.
 Hash: 0CBD6646, Key: VoiceDir1804.EDC73, Value: relieved, out of breath
+Hash: C3C79C8B, Key: Line1809.1BB53F, Value: We’re alive.
+Hash: C8425138, Key: VoiceDir1809.1BB53F, Value: relieved, out of breath
+Hash: C2773B65, Key: Line1812.1BB53F, Value: I thought I was done for.
+Hash: C6F1F012, Key: VoiceDir1812.1BB53F, Value: relieved, out of breath
+Hash: 873CBA08, Key: Line1815.1BB53F, Value: That was far too close.
+Hash: 8BB76EB5, Key: VoiceDir1815.1BB53F, Value: relieved, out of breath
+Hash: E1691A17, Key: Line1864.1BB540, Value: We’re alive. (exhale)
+Hash: E5E3CEC4, Key: VoiceDir1864.1BB540, Value: relieved, out of breath
+Hash: A62E98BA, Key: Line1867.1BB540, Value: I thought I was done for.
+Hash: AAA94D67, Key: VoiceDir1867.1BB540, Value: relieved, out of breath
+Hash: A4DE3794, Key: Line1870.1BB540, Value: That was far too close.
+Hash: A958EC41, Key: VoiceDir1870.1BB540, Value: relieved, out of breath
+Hash: 80AAD436, Key: Line1853.1BB541, Value: (exhale) We’re alive.
+Hash: 852588E3, Key: VoiceDir1853.1BB541, Value: relieved, out of breath
+Hash: 457052D9, Key: Line1856.1BB541, Value: I thought I was done for.
+Hash: 49EB0786, Key: VoiceDir1856.1BB541, Value: relieved, out of breath
+Hash: 0A35D17C, Key: Line1859.1BB541, Value: That was far too close.
+Hash: 0EB08629, Key: VoiceDir1859.1BB541, Value: relieved, out of breath
+Hash: 1FEC8E55, Key: Line1842.1BB542, Value: We’re alive.
+Hash: 24674302, Key: VoiceDir1842.1BB542, Value: relieved, out of breath
+Hash: E4B20CF8, Key: Line1845.1BB542, Value: (exhale) I thought I was done for.
+Hash: E92CC1A5, Key: VoiceDir1845.1BB542, Value: relieved, out of breath
+Hash: A9778B9B, Key: Line1848.1BB542, Value: That was far too close.
+Hash: ADF24048, Key: VoiceDir1848.1BB542, Value: relieved, out of breath
+Hash: BF2E4874, Key: Line1831.1BB543, Value: We’re alive.
+Hash: C3A8FD21, Key: VoiceDir1831.1BB543, Value: relieved, out of breath
+Hash: 83F3C717, Key: Line1834.1BB543, Value: I thought I was done for.
+Hash: 886E7BC4, Key: VoiceDir1834.1BB543, Value: relieved, out of breath
+Hash: 48B945BA, Key: Line1837.1BB543, Value: (exhale) That was far too close.
+Hash: 4D33FA67, Key: VoiceDir1837.1BB543, Value: relieved, out of breath
+Hash: 5E700293, Key: Line1820.1BB544, Value: We’re alive.
+Hash: 62EAB740, Key: VoiceDir1820.1BB544, Value: relieved, out of breath
+Hash: 23358136, Key: Line1823.1BB544, Value: (exhale) I thought I was done for.
+Hash: 27B035E3, Key: VoiceDir1823.1BB544, Value: relieved, out of breath
+Hash: E7FAFFD9, Key: Line1826.1BB544, Value: That was far too close.
+Hash: EC75B486, Key: VoiceDir1826.1BB544, Value: relieved, out of breath

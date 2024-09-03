@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Feo Rune
+Hash: C6E60718, Key: Buff2_Description, Value: Feo Rune is on cooldown

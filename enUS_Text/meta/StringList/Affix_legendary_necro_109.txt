@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Tidal
-Hash: 003892BF, Key: Desc, Value: {c_important}Blood Wave{/c} fires two additional waves, each dealing {c_random}[Affix_Value_1|%x|]{/c} less damage than the previous.
+Hash: 003892BF, Key: Desc, Value: {c_important}Blood Wave{/c} fires two additional waves, each dealing {c_random}[Affix_Value_1|%|]{/c} of normal damage.

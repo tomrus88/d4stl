@@ -23,9 +23,9 @@ Hash: D9B88541, Key: Callback29Header, Value: Speak with Ksenia
 Hash: B31D4704, Key: Phase87Description, Value: A great betrayal has cursed the paladins' spirits, but Ksenia believes she can purify the spirits allowing them to rest in peace. 
 
 Mephisto's corruption has seeped into their weapons. We must find these cursed blades.
-Hash: EBAA2C2D, Key: Callback115Header, Value: Collect Mathias' Betrayal
-Hash: 38A468EE, Key: Callback116Header, Value: Collect Eleazar's Choice
-Hash: 859EA5AF, Key: Callback117Header, Value: Collect Alodia's Wrath
+Hash: EBAA2C2D, Key: Callback115Header, Value: Collect {ITEM:QST_Hawe_ZakFort_SealedQuarters_MehphistoCorruption1}
+Hash: 38A468EE, Key: Callback116Header, Value: Collect {ITEM:QST_Hawe_ZakFort_SealedQuarters_MehphistoCorruption2}
+Hash: 859EA5AF, Key: Callback117Header, Value: Collect {ITEM:QST_Hawe_ZakFort_SealedQuarters_MehphistoCorruption3}
 Hash: 2C252B4E, Key: Phase180Description, Value: Ksenia believes we can purify the Zakarum Fortress, returning it to its previous glory.
 
 A ominous note from the paladin Carthas warns us of the evils ahead. It seems the paladins guarding Sankekur's tomb fell to Mephisto's corruption.

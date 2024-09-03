@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Tailwind
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet} Increase Move Speed by {c_number}+5%{/c}.
+{icon:bullet} You leave behind a trail that grants players +{c_number}5%{/c} Move Speed for {c_number}5{/c} seconds.
+{icon:bullet} Experience gained is increased by {c_number}8%{/c}.

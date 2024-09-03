@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ill-Fitted Door
+Hash: F2CA04D8, Key: NoticeSignText, Value: Gaps in the planks illuminate a crumbling set of stairs. Beyond the dark descent, a barely audible cry—a bestial wail or just a trick of the wind?

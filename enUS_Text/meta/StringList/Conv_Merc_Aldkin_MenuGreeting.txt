@@ -1,0 +1,8 @@
+Hash: 0E87FCF0, Key: Line797.1602FD, Value: What do you want?
+Hash: 44F84FFD, Key: VoiceDir797.1602FD, Value: curious
+Hash: E70BA6B2, Key: Line799.1602FD, Value: I’ll try to help.
+Hash: 1D7BF9BF, Key: VoiceDir799.1602FD, Value: eager
+Hash: 70A797C2, Key: Line801.1602FD, Value: Kill anything big lately?
+Hash: A717EACF, Key: VoiceDir801.1602FD, Value: eager
+Hash: 492B4184, Key: Line803.1602FD, Value: I’ve been experimenting. Nothing dangerous.
+Hash: 7F9B9491, Key: VoiceDir803.1602FD, Value: Good-natured

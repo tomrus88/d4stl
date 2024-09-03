@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Tribute of Ascendance
+Hash: A646FFA4, Key: Description, Value: Challenge Tier 4
+
+Offer to the Undercity's Spirit Brazier in Kurast to alter its rewards:
+{icon:bullet,1.2} Completing the dungeon with at least Attunement Rank 1 reward several Uniques, with an increased chance of a Mythic Unique.
+Hash: F5C7BC0A, Key: Flavor, Value: Very rarely found from defeating Summoned Bosses, as well as randomly in Sanctuary.

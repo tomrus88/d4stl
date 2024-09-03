@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: None are lost here. Only found.
 Hash: 1EADAE68, Key: Callback2Header, Value: Free the Prisoners: {LEFT}
-Hash: B8A227EA, Key: Callback4Header, Value: Use the Worn Key to open the {GIZMO}
+Hash: B8A227EA, Key: Callback4Header, Value: Use the {ITEM:DGN_Hawe_Witchwater_Key} to open the {GIZMO}
 Hash: D29F0719, Key: Callback12Header, Value: Defeat {MONSTER}
 Hash: 71E69F39, Key: Callback21Header, Value: Destroy the {MONSTER}: {LEFT}
 Hash: F2C9CEFE, Key: Callback26Header, Value: Travel to the {LEVELAREA}

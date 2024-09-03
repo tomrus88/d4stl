@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Corpse Cart
+Hash: F2CA04D8, Key: NoticeSignText, Value: An old cart being used to carry the bones of those who died here many years ago. Each skeleton is adorned with battle-tarnished armor, signifying them as necromancers who died defending their home.

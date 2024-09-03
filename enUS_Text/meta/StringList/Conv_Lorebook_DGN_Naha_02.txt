@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Stiff Parchment
+Hash: 923DBE6C, Key: Line1.1B4EC6, Value: Apprentice,
+Hash: 48A5249D, Key: Line11.1B4EC6, Value: It has come to my attention that you have begun using corpses for your own entertainment.
+Hash: 6AC1682E, Key: Line3.1B4EC6, Value: The dead are entrusted to us to study the Balance, not to be your dancing monkeys.
+Hash: BAF793FB, Key: VoiceDir3.1B4EC6, Value: Ominous. Scolding.
+Hash: 434511F0, Key: Line5.1B4EC6, Value: Do not be the fool that causes a village’s demise because you abuse your talents.
+Hash: 1BC8BBB2, Key: Line7.1B4EC6, Value: I will not hesitate to come personally dismiss you if I hear even a whisper of such behavior again.
+Hash: 6BFEE77F, Key: VoiceDir7.1B4EC6, Value: Threatning.
+Hash: F44C6574, Key: Line9.1B4EC6, Value: Practice raising your corpses with care and respect. Or you will reap the consequences.

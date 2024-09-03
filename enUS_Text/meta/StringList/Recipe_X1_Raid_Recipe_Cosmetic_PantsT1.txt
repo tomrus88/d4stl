@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Leggings of the Khazra
+Hash: 9E3ACE5E, Key: Category, Value: Cosmetics

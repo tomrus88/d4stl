@@ -1,5 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: Light Extinguished
 Hash: 0871A46B, Key: Toast, Value: Search for Lilith in Hell
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Rejoin your Allies in the Burning Hells
 Hash: D6E10F8C, Key: Phase106Description, Value: I witnessed Lilith killing Inarius. She is powerful... and we have no idea if we can stop her from reaching the Cathedral of Hatred before us. We have to decide our next steps.
 Hash: E6570D8F, Key: Callback108Header, Value: Speak to Neyrelle
 Hash: AC779230, Key: Phase191Description, Value: I have witnessed Lilith killing Inarius... She is powerful and we have no idea if we can stop her from reaching Cathedral of Hatred before us. We have to decide our next steps.
@@ -9,7 +10,6 @@ Hash: C63223AC, Key: Callback213Header, Value: Defeat the enemies
 Hash: 18065B6E, Key: Phase270Description, Value: I have witnessed Lilith killing Inarius... She is powerful and we have no idea if we can stop her from reaching Cathedral of Hatred before us. We have to decide our next steps.
 Hash: 3158B897, Key: Callback269Header, Value: Speak to Donan
 Hash: 02C2E431, Key: Callback272Header, Value: Follow Lorath
-Hash: 9AC58840, Key: BreadcrumbHeader, Value: Rejoin your Allies in the Burning Hells
 Hash: F61E373A, Key: Callback299Header, Value: Speak to Lorath
 Hash: B478464A, Key: Callback301Header, Value: Investigate the Spire of Torment
 Hash: E861394E, Key: Callback305Header, Value: Follow your allies to the Spire of Torment

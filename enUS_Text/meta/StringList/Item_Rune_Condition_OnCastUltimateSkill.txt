@@ -1,0 +1,3 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneCondition}Cast an {c_important}Ultimate{/c} Skill.{/c}
+Hash: ECF72407, Key: RunewordPhrasePrefix, Value: Transcendent
+Hash: 003DFCC1, Key: Name, Value: Zan

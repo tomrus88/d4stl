@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Defiled Shrine
+Hash: F2CA04D8, Key: NoticeSignText, Value: Tendrils of Hatred writhe and pulse around this weathered stone shrine. Perhaps something can be done to drive this corruption away.

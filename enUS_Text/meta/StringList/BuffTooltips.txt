@@ -6,3 +6,6 @@ Hash: E642B665, Key: DebuffDurability, Value: Equipment has broken;
 visit a Blacksmith to repair.
 Hash: BAE372B8, Key: DebuffDurabilityCaution, Value: Equipment is close to breaking;
 visit a Blacksmith to repair.
+Hash: E928EBC9, Key: BuffDescriptionWithDuration, Value: {s1}
+Duration: {c_number}{s2}{/c}
+Hash: 45891E0D, Key: DisabledSuffix, Value:  (Disabled)

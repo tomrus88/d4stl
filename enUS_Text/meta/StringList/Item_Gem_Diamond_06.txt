@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grand Diamond
+Hash: F5C7BC0A, Key: Flavor, Value: With this, never again will your blade falter.

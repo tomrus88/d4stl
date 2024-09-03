@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Gain a shadow from the Rogue's {c_important}Dark Shroud{/c}, reducing damage taken per shadow.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Shadow
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Gain Multiple Shadows
+Hash: 003DFCC1, Key: Name, Value: Mot

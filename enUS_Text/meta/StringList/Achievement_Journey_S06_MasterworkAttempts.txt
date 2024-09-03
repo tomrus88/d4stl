@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Honing Craft
+Hash: 3A4912CF, Key: DescShort, Value: Attempt to Masterwork gear at the {icon:Marker_Blacksmith, 2.5} Blacksmith

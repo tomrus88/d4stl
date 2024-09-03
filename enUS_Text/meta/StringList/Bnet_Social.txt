@@ -202,3 +202,12 @@ Hash: 9D0C2E98, Key: PartyVoiceChatLeft_LocalSolo, Value: You have left party vo
 Hash: 3AFA4C38, Key: LeavePartyAccountNotEligible, Value: Leaving party.
 Account is not eligible for multiplayer.
 Hash: 87B4F243, Key: GenericInGamePresence, Value: {s1} - {s2}
+Hash: 5E8359B9, Key: PartyRequiredX1EntitlementMismatch, Value: You cannot access this location without owning Vessel of Hatred.
+Hash: BBCB23B3, Key: RichPresence_Exp1_WT1, Value: Normal
+Hash: BBCB23B4, Key: RichPresence_Exp1_WT2, Value: Hard
+Hash: BBCB23B5, Key: RichPresence_Exp1_WT3, Value: Expert
+Hash: BBCB23B6, Key: RichPresence_Exp1_WT4, Value: Penitent
+Hash: BBCB23B7, Key: RichPresence_Exp1_WT5, Value: Torment I
+Hash: BBCB23B8, Key: RichPresence_Exp1_WT6, Value: Torment II
+Hash: BBCB23B9, Key: RichPresence_Exp1_WT7, Value: Torment III
+Hash: BBCB23BA, Key: RichPresence_Exp1_WT8, Value: Torment IV

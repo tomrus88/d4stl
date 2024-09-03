@@ -1,4 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Blood Seal Minor 002
 Hash: 003892BF, Key: Desc, Value: You gain 10% more Life.
-
-Consumes {c_red}2 Red Pacts{/c} and {c_green}1 Green Pact{/c}

@@ -107,3 +107,5 @@ Hash: AA5A6A15, Key: STEALTH, Value: Stealth
 Hash: 3A621EAF, Key: SKILL_TAG_GRENADE, Value: Grenade
 Hash: D0C0649F, Key: SKILL_TAG_IMBUEABLE, Value: Imbueable
 Hash: 003882A4, Key: DAZE, Value: Daze
+Hash: B4DC0999, Key: SKILL_TAG_DEITY_CASTER, Value: Reveler
+Hash: F715D370, Key: SKILL_TAG_DEITY_DEFENSIVE, Value: Guardian

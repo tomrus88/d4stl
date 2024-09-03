@@ -6,13 +6,14 @@ Hash: 8476C7EE, Key: ZONE_FRACTURED_PEAKS, Value: Fractured Peaks
 Hash: D84157ED, Key: ZONE_DRY_STEPPES, Value: Dry Steppes
 Hash: F776E35C, Key: ZONE_KEHJISTAN, Value: Kehjistan
 Hash: 5F606FA3, Key: ZONE_HAWAZAR_SWAMPS, Value: Hawezar
-Hash: 7D33468F, Key: ZONE_TEGANZE_PLAINS, Value: Teganze Plains
-Hash: C323D621, Key: ZONE_TORAJAN_JUNGLES, Value: Torajan Jungles
+Hash: 829990EA, Key: ZONE_NAHANTU, Value: Nahantu
 Hash: F9ED9ACB, Key: ZONE_NONE, Value: Unknown Region
 Hash: F9EA25C0, Key: ZONE_HELL, Value: Burning Hells
-Hash: 307A99FB, Key: Dry Steppes_Icon, Value: {icon:bullet_Region_Icon_DrySteppes, 2.5} Dry Steppes
-Hash: 29B5ECBC, Key: FracturedPeaks_Icon, Value: {icon:bullet_Region_Icon_FracturedPeaks, 2.5} Fractured Peaks
-Hash: 140F985A, Key: Hawezar_Icon, Value: {icon:bullet_Region_Icon_Hawezar, 2.5} Hawezar
-Hash: 6C036C49, Key: Kehjistan_Icon, Value: {icon:bullet_Region_Icon_Kehjistan,2.5} Kehjistan
-Hash: 29DB3DA6, Key: Scosglen_Icon, Value: {icon:button_Region_Icon_Scosglen,2.5} Scosglen
+Hash: 307A99FB, Key: Dry Steppes_Icon, Value: {icon:Region_Icon_DrySteppes, 2.5}
+Hash: 29B5ECBC, Key: FracturedPeaks_Icon, Value: {icon:Region_Icon_FracturedPeaks, 2.5}
+Hash: 140F985A, Key: Hawezar_Icon, Value: {icon:Region_Icon_Hawezar, 2.5}
+Hash: 6C036C49, Key: Kehjistan_Icon, Value: {icon:Region_Icon_Kehjistan,2.5}
+Hash: 29DB3DA6, Key: Scosglen_Icon, Value: {icon:Region_Icon_Scosglen,2.5}
 Hash: 8D6FB4EF, Key: ZONE_S03_HUB, Value: The Gatehall
+Hash: C323D621, Key: ZONE_TORAJAN_JUNGLES, Value: Nahantu
+Hash: D5AF8557, Key: Nahantu_Icon, Value: {icon:Region_Icon_Nahantu,2.5}

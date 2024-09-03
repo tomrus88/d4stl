@@ -1,0 +1,5 @@
+Hash: 086EAA02, Key: title, Value: Hatred Rising
+Hash: 3D08DF31, Key: 0_instruction, Value: {c_highlight}Realmwalkers{/c} spread Mephisto's hatred throughout the land. Slay them to open a {c_highlight}Seething Realm{/c}.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Delve into the portal and complete the dungeon to earn {c_highlight}Seething Opals{/c}.
+Hash: DBC6F233, Key: 2_instruction, Value: Consume a {c_highlight}Seething Opal{/c} for a bonus to experience gain and treasure drops in all activities.
+Hash: 2B25FBB4, Key: 3_instruction, Value: Earn {c_highlight}Crusader's Favor{/c} by slaying {c_highlight}Realmwalkers{/c} and their minions, slaying monsters in {c_highlight}Seething Realms{/c}, or by slaying monsters anywhere while under the effects of a {c_highlight}Seething Opal{/c}.

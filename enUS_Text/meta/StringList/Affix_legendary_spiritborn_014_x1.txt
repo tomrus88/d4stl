@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Unrelenting
+Hash: 003892BF, Key: Desc, Value: Every {c_number}[Affix."Static Value 0"]rd{/c} consecutive {c_important}Crushing Hand{/c} smashes an additional {c_number}[Affix."Static Value 1"]{/c} times around you dealing {c_random}[Affix_Value_1*100|%|]{/c} of its Base damage per hit.
+Hash: 82B7D312, Key: CodexDesc, Value: Every {c_number}[Affix."Static Value 0"]rd{/c} consecutive {c_important}Crushing Hand{/c} smashes an additional {c_number}[Affix."Static Value 1"]{/c} times around you dealing {c_random}[Affix_Value_1*100|%|]{/c} of its Base damage per hit.

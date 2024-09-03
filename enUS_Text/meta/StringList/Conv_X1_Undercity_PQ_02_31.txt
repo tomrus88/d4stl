@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem uncomfortable here."
+Hash: 928E0F9B, Key: Line1.1EE414, Value: Yes. The longer I spend with my affliction, the more I feel a sense of...perverse empathy for the dregs. One more reason to despise what they’ve done to me. One more reason to cure it.
+Hash: E2C43B68, Key: VoiceDir1.1EE414, Value: disgust tempering excitement

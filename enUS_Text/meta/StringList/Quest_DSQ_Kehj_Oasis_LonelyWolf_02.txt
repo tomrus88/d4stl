@@ -1,16 +1,16 @@
-Hash: 003DFCC1, Key: Name, Value: More Value Than Gold
-Hash: 0871A46B, Key: Toast, Value: The Iron Wolves' water supply has been poisoned.
-Hash: B8A227EA, Key: Callback4Header, Value: Search the Tunnels Beneath the Oasis
-Hash: F4A9EC5A, Key: Phase14Description, Value: The way cleared, we must now discover the bandits' plans.
 Hash: 1F9943DA, Key: Callback13Header, Value: Find what's poisoning the water
-Hash: 8784047D, Key: Phase17Description, Value: The bandits are using plague demons to create a poison. This must be what they're using to pollute the water.
 Hash: 0687FA1D, Key: Callback16Header, Value: Kill the caged plague maggots  {DONE_OVER_NEEDED}
-Hash: 803B8057, Key: Phase20Description, Value: The plague demons are dead, but Asa believes there is more going on here. We should continue exploring.
 Hash: ED76B060, Key: Callback19Header, Value: Continue searching the Tunnels Beneath the Oasis
-Hash: 1315987A, Key: Phase23Description, Value: A Triune cultist was summoning plague demons. It seems they are behind these acts.
 Hash: BEE0DBFA, Key: Callback22Header, Value: Slay the Dahlgur Putrifier
 Hash: A5CF923D, Key: Callback25Header, Value: Speak with Asa
-Hash: E2C708DD, Key: Phase44Description, Value: The bandits collapsed the tunnel, halting our progress forward. We must destroy the rubble.
 Hash: 83A65A9D, Key: Callback52Header, Value: Break through the collapsed tunnel
-Hash: 20432EE1, Key: Phase84Description, Value: The Triune cultist was carrying a medallion. Perhaps it can tell us more about the cultists' plans.
 Hash: 95661601, Key: Callback83Header, Value: Acquire the {ITEM}
+Hash: B8A227EA, Key: Callback4Header, Value: Search the Tunnels Beneath the Oasis
+Hash: F4A9EC5A, Key: Phase14Description, Value: The way cleared, we must now discover the bandits' plans.
+Hash: 8784047D, Key: Phase17Description, Value: The bandits are using plague demons to create a poison. This must be what they're using to pollute the water.
+Hash: 803B8057, Key: Phase20Description, Value: The plague demons are dead, but Asa believes there is more going on here. We should continue exploring.
+Hash: E2C708DD, Key: Phase44Description, Value: The bandits collapsed the tunnel, halting our progress forward. We must destroy the rubble.
+Hash: 20432EE1, Key: Phase84Description, Value: The Triune cultist was carrying a medallion. Perhaps it can tell us more about the cultists' plans.
+Hash: 1315987A, Key: Phase23Description, Value: A Triune cultist was summoning plague demons. It seems they are behind these acts.
+Hash: 003DFCC1, Key: Name, Value: More Value Than Gold
+Hash: 0871A46B, Key: Toast, Value: The Iron Wolves' water supply has been poisoned.

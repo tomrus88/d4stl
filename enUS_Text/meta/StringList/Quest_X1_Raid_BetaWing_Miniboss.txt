@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Faeroch
+Hash: 1EADAE68, Key: Callback2Header, Value: Activate the Barrier Ward
+Hash: B8A227EA, Key: Callback4Header, Value: Slay {MONSTER}
+Hash: 74FC533C, Key: Phase25Description, Value: Maze Phase Combat
+Hash: C5FA5A22, Key: Callback39Header, Value: Slay {MONSTER}
+Hash: 58D5557C, Key: Callback24Header, Value: Activate a Barrier Ward
+Hash: 8CBE4880, Key: Callback28Header, Value: Take shelter in the Protective Barrier
+Hash: 13BA663E, Key: Phase45Description, Value: Maze Phase Combat
+Hash: 1847B581, Key: Callback47Header, Value: Slay {MONSTER}
+Hash: B23C2F03, Key: Callback49Header, Value: Activate a Barrier Ward
+Hash: E9B1E11B, Key: Callback50Header, Value: Take shelter in the Protective Barrier

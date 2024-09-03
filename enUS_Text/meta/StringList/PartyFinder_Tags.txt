@@ -1,4 +1,107 @@
-Hash: C7087C2A, Key: tagname_nightmare_dungeon, Value: Nightmare Dungeon
-Hash: FFC0B67F, Key: tagname_search_nightmare_dungeon, Value: Any Nightmare Dungeon
-Hash: 2DBEE79F, Key: tagname_quick_clear, Value: Quick Clear
-Hash: E76AA972, Key: tagname_first_time, Value: First Time
+Hash: DFC32BC8, Key: tagname_owc_s6_seethingbreach, Value: Seething Breach
+Hash: ABA186B3, Key: tagname_bl_t_beastinice, Value: Beast in the Ice
+Hash: E7928F9C, Key: tagname_bl_t_andariel, Value: Andariel
+Hash: BE205F2F, Key: tagname_bl_t_varshan, Value: Varshan
+Hash: CDABEE81, Key: tagname_bl_t_duriel, Value: Duriel
+Hash: B11B3A94, Key: tagname_bl_t_grigoire, Value: Grigoire
+Hash: 3C6CA8BB, Key: tagname_bl_regular, Value: Echoes
+Hash: DCFA4C62, Key: tagname_bl_t_lordzir, Value: Lord Zir
+Hash: 6964D8DB, Key: tagname_bl_tormented, Value: Tormented Echoes
+Hash: DB5BA34D, Key: tagname_desc_playstyle_m, Value: Meta
+Hash: 5D36DCB5, Key: tagname_desc_gameplay_l, Value: Repeat Runs
+Hash: B9DF935B, Key: tagname_desc_gameplay_challanges, Value: Same Class Preferred
+Hash: 6CA518A0, Key: tagname_desc_social_usinngmappins, Value: Using Map Pins
+Hash: 37340AE6, Key: tagname_desc_citadel_singlewing, Value: Single Wing Run
+Hash: C9F068FF, Key: tagname_desc_inclusion_hardofhearing, Value: Hard of Hearing
+Hash: F6C5B6DE, Key: tagname_desc_runtype_x1needed, Value: Vessel of Hatred
+Hash: 993145A6, Key: tagname_desc_runtype_leveling, Value: Leveling
+Hash: 53F7FF34, Key: tagname_desc_runtype_farming, Value: Farming
+Hash: 7EC429E0, Key: tagname_desc_inclusion_lowvisionblind, Value: Low Vision / Blind
+Hash: 492DE025, Key: tagname_desc_citadel_allwingsunlocked, Value: All Wings Unlocked
+Hash: 98F04876, Key: tagname_desc_playstyle_hangout, Value: Let's Hang Out
+Hash: 5B8784E8, Key: tagname_desc_runtype_exploring, Value: Exploring
+Hash: 45CDF7A5, Key: tagname_desc_citadel_finalbossunlocked, Value: Final Boss Unlocked
+Hash: B0167479, Key: tagname_desc_runtype_trading, Value: Same Class Preferred
+Hash: 0446622A, Key: tagname_desc_playstyle_completionist, Value: Completionist
+Hash: 5040F5D8, Key: tagname_desc_skill_guidancedesired, Value: Guidance Desired
+Hash: C257CB67, Key: tagname_desc_inclusion_microphoneoptional, Value: Microphone Optional
+Hash: 15905A22, Key: tagname_desc_inclusion_voicechatpreferred, Value: Voice Chat Preferred
+Hash: 624A629A, Key: tagname_desc_runtype_carryrequest, Value: Carry Request
+Hash: A00A7D6A, Key: tagname_desc_runtype_clanrecruiting, Value: Clan Recruiting
+Hash: 087F7C39, Key: tagname_desc_playstyle_casual, Value: Casual
+Hash: 1602AD11, Key: tagname_desc_inclusion_textchatpreferred, Value: Text Chat Preferred
+Hash: A2D40277, Key: tagname_desc_skill_newcomerswelcome, Value: Newcomers Welcome
+Hash: 449DE134, Key: tagname_desc_inclusion_nonverbal, Value: Non-Verbal
+Hash: 88C6BDCC, Key: tagname_desc_runtype_achievements, Value: Achievements
+Hash: 6A8613F4, Key: tagname_desc_runtype_quickclear, Value: Quick Clear
+Hash: 206E7AF9, Key: tagname_desc_runtype_repeatruns, Value: Repeat Runs
+Hash: F9F042C2, Key: tagname_desc_playstyle_sociable, Value: Sociable
+Hash: FCCCB84F, Key: tagname_desc_skill_firsttime, Value: First Time
+Hash: 768258D7, Key: tagname_desc_citadel_fullrun, Value: Full Run
+Hash: 2322D869, Key: tagname_desc_playstyle_competitive, Value: Competitive
+Hash: 725FA8F1, Key: tagname_desc_citadel_staticpartytryouts, Value: Static Party Tryouts 
+Hash: FF4760C4, Key: tagname_desc_playstyle_farming, Value: Farming
+Hash: 9319F023, Key: tagname_desc_playstyle_fullbuild, Value: Full Build
+Hash: A4696B6A, Key: tagname_desc_playstyle_midbuild, Value: Mid Build
+Hash: 9674EAAD, Key: tagname_desc_playstyle_earlybuild, Value: Early Build
+Hash: BB4E427F, Key: tagname_desc_gameplay_Leveling, Value: Leveling
+Hash: ED66EF51, Key: tagname__citadel, Value: Dark Citadel
+Hash: A2239988, Key: tagname__pit, Value: The Pit
+Hash: 55F5D06B, Key: tagname__dungeon, Value: Dungeons
+Hash: 4B5CD650, Key: tagname__openworldcontent, Value: Open World Exploration
+Hash: 8575B61E, Key: tagname__bossladder, Value: Boss Lairs
+Hash: EB963972, Key: tagname__undercity, Value: Undercity
+Hash: A2235F3B, Key: tagname__bsk, Value: Infernal Hordes
+Hash: 9B4A1EE7, Key: tagname_citadel_wingA, Value: Enclave of Strife
+Hash: 9B4A1EE8, Key: tagname_citadel_wingB, Value: The Labyrinth of Souls
+Hash: A791FC08, Key: tagname_citadel_boss, Value: Dominion of Zagraal
+Hash: 56223AFD, Key: tagname_dungeon_regular, Value: Normal Dungeon
+Hash: 28F68CEA, Key: tagname_dungeon_nightmare, Value: Nightmare Dungeon
+Hash: C608C709, Key: tagname_bl_andariel, Value: Andariel
+Hash: 00834D60, Key: tagname_bl_beastinice, Value: Beast in the Ice
+Hash: 206366AE, Key: tagname_bl_duriel, Value: Duriel
+Hash: 8F917201, Key: tagname_bl_grigoire, Value: Grigoire
+Hash: 86A0CA2F, Key: tagname_bl_lordzir, Value: Lord Zir
+Hash: 67C6DCFC, Key: tagname_bl_varshan, Value: Varshan
+Hash: E8740EE3, Key: tagname_owc_worldboss, Value: World Boss
+Hash: FCFA4FC3, Key: tagname_owc_s6_realmwalker, Value: Realmwalker
+Hash: 7AA336B9, Key: tagname_owc_whispers, Value: Whispers
+Hash: C25C164F, Key: tagname_owc_helltide, Value: Helltide
+Hash: C6F54A1A, Key: tagname_owc_pvp, Value: Fields of Hatred
+Hash: 49698D1B, Key: tagname_owc_pvp_drys, Value: Dry Steppes
+Hash: 496D2A3B, Key: tagname_owc_pvp_kehj, Value: Kehjistan
+Hash: 451519AE, Key: tagname_owc_sidequests, Value: Quests
+Hash: 2BD2BAA8, Key: tagname_owc_stronghold, Value: Strongholds
+Hash: 7CEBE6C2, Key: tagname_owc_legion, Value: Legion Events
+Hash: 595CF2C6, Key: tagname_owc_other, Value: Other
+Hash: 3B08B927, Key: tagname_desc_playstyle_Meta, Value: Meta
+Hash: 560C425B, Key: tagname_desc_playstyle_progression, Value: Progression
+Hash: AE6CD936, Key: tagname_desc_playstyle_leveling, Value: Leveling
+Hash: 1EE4B669, Key: tagname_desc_playstyle_focused, Value: Focused
+Hash: A3E3F365, Key: tagname_desc_playstyle_relaxed, Value: Relaxed
+Hash: 5F7AAB57, Key: tagname_desc_playstyle_firsttime, Value: First Time
+Hash: 3A30BD95, Key: tagname_desc_gameplay_inprogress, Value: In Progress
+Hash: B4092BA7, Key: tagname_desc_gameplay_pushing, Value: Pushing
+Hash: 6B98FFDD, Key: tagname_desc_gameplay_blasting, Value: Blasting
+Hash: BA27F55F, Key: tagname_desc_gameplay_challenges, Value: Challenges
+Hash: 7B414D64, Key: tagname_desc_gameplay_sameclasspreferred, Value: Same Class Preferred
+Hash: 2231769E, Key: tagname_desc_gameplay_exploration, Value: Exploration
+Hash: 11DC23F3, Key: tagname_desc_gameplay_carryrequest, Value: Carry Request
+Hash: 3DBE1212, Key: tagname_desc_gameplay_repeatruns, Value: Repeat Runs
+Hash: 838C44ED, Key: tagname_desc_gameplay_farming, Value: Farming
+Hash: 87D5AB0D, Key: tagname_desc_gameplay_quickclear, Value: Quick Clear
+Hash: C8439313, Key: tagname_desc_social_newcomerswelcome, Value: Newcomers Welcome
+Hash: 8F72E2F4, Key: tagname_desc_social_guidancedesired, Value: Guidance Desired
+Hash: 863E4BD2, Key: tagname_desc_social_usingmappins, Value: Using Map Pins
+Hash: EC7ED03B, Key: tagname_desc_social_quietpreferred, Value: Quiet Preferred
+Hash: F25F4556, Key: tagname_desc_social_sociable, Value: Sociable
+Hash: 23727F0E, Key: tagname_desc_social_microphoneoptional, Value: Microphone Optional
+Hash: 113207D8, Key: tagname_desc_social_textchatpreferred, Value: Text Chat Preferred
+Hash: 76AB0DC9, Key: tagname_desc_social_voicechatpreferred, Value: Voice Chat Preferred
+Hash: FBB96502, Key: tagname_desc_bossladder_havematerials, Value: Have Materials
+Hash: C24B9670, Key: tagname_desc_bossladder_bringmaterials, Value: Bring Materials
+Hash: EC9C6167, Key: tagname_desc_dungeon_nightmare_havekeys, Value: Have Keys
+Hash: A1A0F775, Key: tagname_desc_dungeon_nightmare_bringkeys, Value: Bring Keys
+Hash: 349BFA3C, Key: tagname_desc_dungeon_codex, Value: Codex
+Aspect Farming
+Hash: 510898AC, Key: tagname_desc_openworld_renown, Value: Renown

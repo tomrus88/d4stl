@@ -1,0 +1,3 @@
+Hash: A984EF4B, Key: AppliedDeferredConsumableTitle, Value: Bowl of Resource Generation Juice
+Hash: 003DFCC1, Key: Name, Value: [PH] Tonic of Resource Generation
+Hash: A646FFA4, Key: Description, Value: [PH] When applied to a raid banner receptacle, gives clickers a bonus 10% Resource Generation.

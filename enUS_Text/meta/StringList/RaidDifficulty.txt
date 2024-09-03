@@ -1,0 +1,24 @@
+Hash: E30A8DB4, Key: RaidDifficulty_Title, Value: RAID DIFFICULTY
+Hash: A4A04C44, Key: RaidDifficulty1, Value: Easy
+Hash: A4A04C46, Key: RaidDifficulty3, Value: Hard
+Hash: A4074348, Key: RaidDifficulty_Warning, Value: [PH] Difficulty will switch to a different World Tier. Changing your World Tier terminates all active portals, resets all incomplete Whisper progress, and closes any active Nightmare Dungeon.
+Hash: C0D5F880, Key: RaidDifficulty_Confirm, Value: {Icon:button4, 2.0} Confirm Selection
+Hash: A4A04C45, Key: RaidDifficulty2, Value: Normal
+Hash: 38A9DC0D, Key: RaidDifficultyH2, Value: [PH] Raid Name Goes here
+Hash: 706D77BC, Key: SelectButton, Value: Select
+Hash: 265F706D, Key: BackButton, Value: Back
+Hash: 2EBD3B80, Key: SelectButtonController, Value: {icon:button1, 2} Select
+Hash: CA9E8571, Key: BackButtonController, Value: {icon:button2, 2} Back
+Hash: CFB2604E, Key: Confirm, Value: Confirm
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 1A1A3997, Key: Close_Prompt, Value: {icon:button2, 2} Close
+Hash: 3DC134AF, Key: Confirm_Prompt, Value: {icon:button4, 2} Confirm
+Hash: DF275D0A, Key: EnemyInfo, Value: Enemy Details:
+Hash: 392D10B7, Key: ItemDrops, Value: New:
+Hash: 85F2B555, Key: Recommeded, Value: Recommended for:
+Hash: E985491C, Key: Active, Value: Active
+Hash: 22C3000A, Key: TimerFormat, Value: %02u:%02u:%02u until reset
+Hash: DB353C9F, Key: [PH] Raid Flavor Text, Value: {icon:bullet, 1} [PH] This text is located in the per-raid StringList
+Hash: 7BFE5377, Key: MechanicsInfo, Value: Mechanics:
+Hash: 9F0CA939, Key: NumPlayersFormat, Value: %d
+Hash: 6D5A2D96, Key: WingName, Value: Name

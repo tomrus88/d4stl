@@ -16,3 +16,5 @@ Hash: D618A933, Key: Mod0_Description, Value: {c_important}Shred's{/c} second an
 Hash: 9233D930, Key: Mod0_Name, Value: Primal Shred
 Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Shred's{/c} third combo attack is larger and applies an additional {c_number}{dot:MOD_B_POISONDOT}{/c} Poisoning damage over {c_number}{SF_7}{/c} seconds.
 Hash: 948901D1, Key: Mod1_Name, Value: Raging Shred
+Hash: 01B1EBBA, Key: Mod7_Description, Value: DEPRECATED
+Hash: A287F597, Key: Mod7_Name, Value: DEPRECATED

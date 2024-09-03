@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: [PH] Elixir of Vanity
+Hash: 2827F416, Key: Buff0_Description, Value: Every 10 seconds your Core Skill heals you and your allies. 

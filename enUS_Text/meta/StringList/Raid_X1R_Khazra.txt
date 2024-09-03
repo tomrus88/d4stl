@@ -1,0 +1,2 @@
+Hash: 5C5F0A81, Key: RaidName, Value: Rise of the Khazra
+Hash: 6DE0684F, Key: RaidFlavorText, Value: [PH] The Khazra have been here for generations of even their extremely long lives. They are sophisticated and decadent but also driven; they have spent centuries exploring the power they can pull from this well of souls.

@@ -1,0 +1,4 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: [PH] Elixir of Aggression
+Hash: 2827F416, Key: Buff0_Description, Value: Increases Damage Reduction. Killing enemies causes your Core Skill to Taunt. Experience increased by 8%.
+Hash: 14C66756, Key: Buff3_Name, Value: Elixir of Aggression
+Hash: 16451099, Key: Buff3_Description, Value: After killing 20 enemies, your next Core Skill Taunts.

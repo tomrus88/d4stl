@@ -1,9 +1,12 @@
 Hash: 003DFCC1, Key: Name, Value: Whispers of the Dead 
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Whispers
 Hash: D53BFF05, Key: Phase0Description, Value: The Tree of Whispers has promised rewards in exchange for collecting the debts of those who hide from them.
 Hash: 1EADAE68, Key: Callback2Header, Value: Speak with the Tree of Whispers
 Hash: 61CFD437, Key: Phase11Description, Value: The Tree of Whispers has promised rewards in exchange for collecting the debts of those who hide from them.
-Hash: 8784047D, Key: Phase17Description, Value: Lorath reminds me that Neyrelle did not want to be followed. Nevertheless, I will visit the Tree of Whispers to see if I can gain its trust for whatever is to come next.
-Hash: ED76B060, Key: Callback19Header, Value: Speak with the Tree of Whispers
-Hash: 5E28741A, Key: Callback31Header, Value: Speak with Lorath
-Hash: 38C9C8C0, Key: Phase29Description, Value: Neyrelle is still missing. I should speak with Lorath. Perhaps he has some idea of what to do next.
 Hash: E9B1E11B, Key: Callback50Header, Value: Collect 10 Grim Favors then return to the Tree of Whispers
+Hash: 8784047D, Key: Phase17Description, Value: I was pointed to the Tree of Whispers as a potential source of power. I should see if I can gain its trust for whatever is to come next.
+Hash: ED76B060, Key: Callback19Header, Value: Speak with the Tree of Whispers
+Hash: 38C9C8C0, Key: Phase29Description, Value: Neyrelle is still missing. I should speak with Lorath. Perhaps he has some idea of what to do next.
+Hash: 5E28741A, Key: Callback31Header, Value: Speak with Lorath
+Hash: 1F9E611D, Key: Phase62Description, Value: Neyrelle is still missing. I should speak with Lorath. Perhaps he has some idea of what to do next.
+Hash: A3D12282, Key: Callback66Header, Value: Speak with Old Nef

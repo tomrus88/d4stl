@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Pin Cushion
+Hash: 003892BF, Key: desc, Value: Subo's {c_important}Cover Fire{/c} also Immobilizes enemies for {c_number}[{buffduration:IMMOBILIZE_BUFF}]{/c} |4second;seconds.

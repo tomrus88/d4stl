@@ -1,11 +1,11 @@
 Hash: F0CB5F43, Key: Callback67Header, Value: Slay Gharl
-Hash: 003DFCC1, Key: Name, Value: Call of the Ancients
-Hash: B8A227EA, Key: Callback4Header, Value: Slay Gharl
-Hash: 976485BC, Key: Callback42Header, Value: Slay Sakoth
-Hash: ED76B060, Key: Callback19Header, Value: Bring the Bloodstone to the Bloodstone Pedestal
+Hash: 83A65A9D, Key: Callback52Header, Value: Explore the Glacial Tunnels with Chieftain Glous
+Hash: 5183C723, Key: Callback58Header, Value: Explore the Bloodsoaked Glacier with Chieftain Glous
 Hash: 6541F242, Key: Callback48Header, Value: Find the source of the Ancients Call with Chieftain Glous
 Hash: 3FC40BBF, Key: Callback27Header, Value: Speak with Kravett, the Bear Tribe Shaman
 Hash: 112E3759, Key: Callback30Header, Value: Slay Cyhrach
 Hash: F81CED9C, Key: Callback33Header, Value: Speak with Kravett, the Bear Tribe Shaman
-Hash: 83A65A9D, Key: Callback52Header, Value: Explore the Glacial Tunnels with Chieftain Glous
-Hash: 5183C723, Key: Callback58Header, Value: Explore the Bloodsoaked Glacier with Chieftain Glous
+Hash: 003DFCC1, Key: Name, Value: Call of the Ancients
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Gharl
+Hash: 976485BC, Key: Callback42Header, Value: Slay Sakoth
+Hash: ED76B060, Key: Callback19Header, Value: Bring the Bloodstone to the Bloodstone Pedestal

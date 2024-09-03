@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Omega Wing Completion Tracking
+Hash: 003892BF, Key: Desc, Value: Tracks if player has completed Omega Wing, used for Community Challenge

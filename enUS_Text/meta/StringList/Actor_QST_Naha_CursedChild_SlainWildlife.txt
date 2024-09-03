@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Demon
+Hash: CC3C0A8F, Key: FlavorText, Value: Fresh kill, signs of a struggle
+Hash: F2CA04D8, Key: NoticeSignText, Value: Small, bloody footprints lead further into the jungle. They must belong to the mysterious demon.
+
+It was able to fell this creature and make its escape.

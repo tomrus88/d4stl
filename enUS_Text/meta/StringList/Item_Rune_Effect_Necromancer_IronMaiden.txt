@@ -1,0 +1,3 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Evoke the Necromancer's {c_important}Abhorrent Iron Maiden{/c}, counterattacking damage from enemies and Healing you when they die.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Retribution
+Hash: 003DFCC1, Key: Name, Value: Teb

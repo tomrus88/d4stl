@@ -1,0 +1,6 @@
+Hash: 9284B9B3, Key: Line1.1F3378, Value: Rise! I am not yet satisfied!
+Hash: E2BAE580, Key: VoiceDir1.1F3378, Value: disappointed; the fight was over too soon
+Hash: 6B086375, Key: Line3.1F3378, Value: Disappointing.
+Hash: BB3E8F42, Key: VoiceDir3.1F3378, Value: spat, she was hoping for something better
+Hash: 438C0D37, Key: Line5.1F3378, Value: (sighs) Another hunt ends.
+Hash: 93C23904, Key: VoiceDir5.1F3378, Value: resignation, a sigh of disappointment

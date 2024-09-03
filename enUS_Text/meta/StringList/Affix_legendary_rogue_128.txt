@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: Resistant Assailant's
-Hash: 003892BF, Key: Desc, Value: Breaking {c_important}Concealment{/c} grants {c_number}[Affix."Static Value 0"|%+|]{/c} Resistance and Maximum Resistance to All Elements for {c_number}[Affix."Static Value 1"]{/c} seconds.
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Concealment{/c} grants {c_number}[Affix."Static Value 0"|%+|]{/c} Resistance and Maximum Resistance to All Elements for {c_number}[Affix."Static Value 1"]{/c} seconds.
 
 Killing an Elite enemy reduces {c_important}Concealment's{/c} Cooldown by {c_random}[Affix_Value_1|1|]{/c} seconds.
 Hash: 82B7D312, Key: CodexDesc, Value: Breaking {c_important}Concealment{/c} grants Resistance. Elite kills reduce {c_important}Concealment's{/c} Cooldown by {c_random}[Affix_Value_1|1|]{/c} seconds.

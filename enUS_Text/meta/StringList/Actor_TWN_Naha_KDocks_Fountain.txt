@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ruined Fountain
+Hash: F2CA04D8, Key: NoticeSignText, Value: A silent witness to the joys and sorrows of this small town. Once a memorial to the dead, now fallen into disrepair and disuse.

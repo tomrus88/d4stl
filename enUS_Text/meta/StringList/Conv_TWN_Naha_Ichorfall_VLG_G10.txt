@@ -1,0 +1,6 @@
+Hash: 92517AE8, Key: Line1.1C7F97, Value: Did you hear someone’s been maintaining the old ballistas...in case the giants return?
+Hash: E287A6B5, Key: VoiceDir1.1C7F97, Value: Gossipy.
+Hash: 6AD524B6, Key: Line3.1C7F8D, Value: What insane gossip. No one has seen a living giant in centuries.
+Hash: BB0B5083, Key: VoiceDir3.1C7F8D, Value: Surprised to hear the rumour. 
+Hash: 4358CE6C, Key: Line5.1C7F97, Value: Agreed...
+Hash: 938EFA39, Key: VoiceDir5.1C7F97, Value: Not fully convinced.

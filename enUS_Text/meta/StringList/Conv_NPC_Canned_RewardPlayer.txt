@@ -142,3 +142,39 @@ Hash: 63496F30, Key: Line2110.EDC73, Value: Here. You deserve this.
 Hash: 99B9C23D, Key: VoiceDir2110.EDC73, Value: Grateful
 Hash: 4A382573, Key: Line2113.EDC73, Value: A meager reward, but it’s all I have.
 Hash: 80A87880, Key: VoiceDir2113.EDC73, Value: Grateful
+Hash: 16061745, Key: Line2370.1BB53F, Value: A reward for your bravery.
+Hash: 1A80CBF2, Key: VoiceDir2370.1BB53F, Value: Grateful
+Hash: DACB95E8, Key: Line2373.1BB53F, Value: Here. You deserve this.
+Hash: DF464A95, Key: VoiceDir2373.1BB53F, Value: Grateful
+Hash: 9F91148B, Key: Line2376.1BB53F, Value: A meager reward, but it’s all I have.
+Hash: A40BC938, Key: VoiceDir2376.1BB53F, Value: Grateful
+Hash: 70EB9BB1, Key: Line2425.1BB540, Value: A reward for your bravery.
+Hash: 7566505E, Key: VoiceDir2425.1BB540, Value: Grateful
+Hash: 35B11A54, Key: Line2428.1BB540, Value: Here. You deserve this.
+Hash: 3A2BCF01, Key: VoiceDir2428.1BB540, Value: Grateful
+Hash: 3460B92E, Key: Line2431.1BB540, Value: A meager reward, but it’s all I have.
+Hash: 38DB6DDB, Key: VoiceDir2431.1BB540, Value: Grateful
+Hash: 102D55D0, Key: Line2414.1BB541, Value: A reward for your bravery.
+Hash: 14A80A7D, Key: VoiceDir2414.1BB541, Value: Grateful
+Hash: D4F2D473, Key: Line2417.1BB541, Value: Here. You deserve this.
+Hash: D96D8920, Key: VoiceDir2417.1BB541, Value: Grateful
+Hash: D3A2734D, Key: Line2420.1BB541, Value: A meager reward, but it’s all I have.
+Hash: D81D27FA, Key: VoiceDir2420.1BB541, Value: Grateful
+Hash: AF6F0FEF, Key: Line2403.1BB542, Value: A reward for your bravery.
+Hash: B3E9C49C, Key: VoiceDir2403.1BB542, Value: Grateful
+Hash: 74348E92, Key: Line2406.1BB542, Value: Here. You deserve this.
+Hash: 78AF433F, Key: VoiceDir2406.1BB542, Value: Grateful
+Hash: 38FA0D35, Key: Line2409.1BB542, Value: A meager reward, but it’s all I have.
+Hash: 3D74C1E2, Key: VoiceDir2409.1BB542, Value: Grateful
+Hash: D782A2F7, Key: Line2392.1BB543, Value: A reward for your bravery.
+Hash: DBFD57A4, Key: VoiceDir2392.1BB543, Value: Grateful
+Hash: 9C48219A, Key: Line2395.1BB543, Value: Here. You deserve this.
+Hash: A0C2D647, Key: VoiceDir2395.1BB543, Value: Grateful
+Hash: 610DA03D, Key: Line2398.1BB543, Value: A meager reward, but it’s all I have.
+Hash: 658854EA, Key: VoiceDir2398.1BB543, Value: Grateful
+Hash: 76C45D16, Key: Line2381.1BB544, Value: A reward for your bravery.
+Hash: 7B3F11C3, Key: VoiceDir2381.1BB544, Value: Grateful
+Hash: 3B89DBB9, Key: Line2384.1BB544, Value: Here. You deserve this.
+Hash: 40049066, Key: VoiceDir2384.1BB544, Value: Grateful
+Hash: 004F5A5C, Key: Line2387.1BB544, Value: A meager reward, but it’s all I have.
+Hash: 04CA0F09, Key: VoiceDir2387.1BB544, Value: Grateful

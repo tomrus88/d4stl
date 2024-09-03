@@ -1,0 +1,7 @@
+Hash: 95472E9C, Key: X1_Undercity_AttunementAchieved, Value: Attunement achieved
+Hash: A6C0361E, Key: X1_Undercity_TimeExpired, Value: Undercity Timer Expired
+Hash: 6E1C992E, Key: X1_Undercity_PartyGatherFailed, Value: Your entire party must be within the ring
+Hash: 8EF895DF, Key: X1_Undercity_Attunement_Rank1, Value: Attunement Rank 1 Achieved
+Hash: 8EF895E0, Key: X1_Undercity_Attunement_Rank2, Value: Attunement Rank 2 Achieved
+Hash: 8EF895E1, Key: X1_Undercity_Attunement_Rank3, Value: Attunement Rank 3 Achieved
+Hash: 8EF895E2, Key: X1_Undercity_Attunement_Rank4, Value: Max Attunement Rank Achieved

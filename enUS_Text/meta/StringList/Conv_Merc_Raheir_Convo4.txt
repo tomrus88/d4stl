@@ -1,0 +1,3 @@
+Hash: F712B791, Key: Line826.189135, Value: How long will our supplies hold out?
+Hash: CF956663, Key: Line828.18782A, Value: Not long enough. We have a shortage of gold and recruits.
+Hash: E2042B4C, Key: Line830.189135, Value: Hm. Let’s keep our ears open then.

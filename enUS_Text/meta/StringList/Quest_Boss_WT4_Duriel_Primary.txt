@@ -1,5 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: A Lingering Ache
 Hash: 8CBE4880, Key: Callback28Header, Value: Inspect the {GIZMO}
-Hash: 976485BC, Key: Callback42Header, Value: Inspect the {GIZMO}
 Hash: B78F4DA1, Key: Callback56Header, Value: Defeat {MONSTER}
-Hash: D5F3B5FC, Key: Callback60Header, Value: Defeat {MONSTER}

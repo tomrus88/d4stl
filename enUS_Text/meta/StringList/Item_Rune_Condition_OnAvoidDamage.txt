@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneCondition}Deal damage after not taking any within 5 seconds.{/c} 
+{c_gray}(Resets if Invulnerable.){/c}
+Hash: ECF72407, Key: RunewordPhrasePrefix, Value: Graceful
+Hash: 003DFCC1, Key: Name, Value: Neo

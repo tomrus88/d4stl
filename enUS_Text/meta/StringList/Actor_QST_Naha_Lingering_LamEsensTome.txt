@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lam Esen's Tome
+Hash: F2CA04D8, Key: NoticeSignText, Value: The book weighs heavy in your hand. Collected in its pages are arcane musings on the nature of Skatsimi magic. A couple chapters have been torn out.

@@ -1,5 +1,5 @@
 Hash: 9F90DE2D, Key: Callback7Header, Value: Open the {GIZMO}
 Hash: B87761DE, Key: Phase18Description, Value: Kill the Triune Leaders
-Hash: 58D5557C, Key: Callback24Header, Value: Defeat the {MONSTER}
 Hash: 3FC40BBF, Key: Callback27Header, Value: Slay the High Priests: {LEFT}
+Hash: 58D5557C, Key: Callback24Header, Value: Defeat the {MONSTER}
 Hash: 003DFCC1, Key: Name, Value: Evil corrupts, inside and out.

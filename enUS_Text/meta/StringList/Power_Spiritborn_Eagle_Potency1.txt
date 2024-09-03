@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Razor Wings
+Hash: 003892BF, Key: desc, Value: {c_label}Charges:{/c} {c_resource}{SF_23}{/c}
+{c_label}Charge Cooldown:{/c} {c_resource}{Recharge Time}{/c_resource} seconds 
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Whirl out a cluster of razor sharp feathers that rebound back, dealing {c_number}{payload:IMPACT}{/c} damage each way.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Razor Wings{/c} makes enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_15}{/c} seconds when hitting with a Critical Strike or from behind.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Razor Wings
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Razor Wings{/c} has a {c_number}[{SF_16} * 100|%|]{/c} chance to regain a Charge when hitting an enemy. Double this chance if you have an active {c_important}{u}Barrier{/u}{/c}.
+Hash: 948901D1, Key: Mod1_Name, Value: Poised Razor Wings
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Razor Wings{/c} last {c_number}[{SF_28}*100|%|]{/c} longer and spiral outwards.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Invasive Razor Wings
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Sky Offense1 Upgrade C

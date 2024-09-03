@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Medicine Handbook
+Hash: CC3C0A8F, Key: FlavorText, Value: Healer's Guide to Holistic Nahantu Remedies
+Hash: F2CA04D8, Key: NoticeSignText, Value: "If the wound is fresh, poison can be extracted via a simple technique.
+
+Apply lacuni liver oil to a sharpened blade and use it to incise and drain the laceration.
+
+Oil from young cubs works best."

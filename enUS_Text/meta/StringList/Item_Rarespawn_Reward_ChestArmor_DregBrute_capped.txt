@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Foul Embrace
+Hash: F5C7BC0A, Key: Flavor, Value: "Dregs do not sleep - they cannot. The pain keeps them awake. For every pus-filled fissure in their skin, they feel a thousand blades, every morning and every night." -Sihek

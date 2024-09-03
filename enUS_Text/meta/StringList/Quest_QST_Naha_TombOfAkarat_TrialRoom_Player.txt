@@ -1,0 +1,6 @@
+Hash: 6C93809B, Key: Callback14Header, Value: Slay the Simulacrum of Meshif
+Hash: A07C739F, Key: Callback18Header, Value: Slay the Simulacrum of Iosef
+Hash: D29F0719, Key: Callback12Header, Value: Slay the Simulacrum of Vigo
+Hash: 0687FA1D, Key: Callback16Header, Value: Slay the Simulacrum of Yorin
+Hash: 38AA8D97, Key: Callback10Header, Value: Slay the Simulacrum of Donan
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay the Forgotten Protector

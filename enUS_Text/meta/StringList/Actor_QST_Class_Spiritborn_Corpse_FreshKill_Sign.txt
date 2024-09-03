@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fresh Kill
+Hash: F2CA04D8, Key: NoticeSignText, Value: The bloody, partially eaten remains of what appears to be a freshly killed villager from Nahantu. How did it get here? Is the creature that did this leaving this place and hunting in the jungle?

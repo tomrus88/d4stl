@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Spreading Corruption
+Hash: 6FE7E8D7, Key: Callback287Header, Value: Destroy {NEEDED} Corrupted Pods:  {DONE_OVER_NEEDED}
+Hash: 904AC0ED, Key: Callback250Header, Value: Slay the remaining enemies
+Hash: 4516E3B6, Key: Callback259Header, Value: Survive the forces of Hatred
+Hash: 73EAA64F, Key: Callback324Header, Value: Destroy the Corrupted Pod
+Hash: 09DC6259, Key: Callback289Header, Value: Defeat {CUSTOM_PARAM1}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Horn
+Hash: F5C7BC0A, Key: Flavor, Value: Hard as steel, this legendary beast could pierce boulders as readily as flesh when this adornment was still attached to its skull.

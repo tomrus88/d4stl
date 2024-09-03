@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Soul Barrage
+Hash: 4FDB5351, Key: Payload1_DisplayName, Value: Soul Orb

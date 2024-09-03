@@ -1,0 +1,6 @@
+Hash: 9284B9B3, Key: Line1.1F3378, Value: My scales will turn steel!
+Hash: E2BAE580, Key: VoiceDir1.1F3378, Value: Confident, certain nothing can harm her
+Hash: 6B086375, Key: Line3.1F3378, Value: I will not be struck!
+Hash: BB3E8F42, Key: VoiceDir3.1F3378, Value: Determined, as if saying it makes it true
+Hash: 438C0D37, Key: Line5.1F3378, Value: Try and make me feel it.
+Hash: 93C23904, Key: VoiceDir5.1F3378, Value: darkly chuckling, a wicked smirk

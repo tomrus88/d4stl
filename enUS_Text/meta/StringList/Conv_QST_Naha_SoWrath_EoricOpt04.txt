@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Urivar is dead. I saw to that."
+Hash: 923FDDB0, Key: Line1.1B8B7E, Value: Death claims a corpse, not a creed. His dogma of wrath will move to another. The Venator are proof of that.
+Hash: E276097D, Key: VoiceDir1.1B8B7E, Value: direct, notes of anger
+Hash: 6AC38772, Key: Line3.1B8B7E, Value: It is easy to sway in times such as these.
+Hash: BAF9B33F, Key: VoiceDir3.1B8B7E, Value: reflective, sombre

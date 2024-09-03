@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Wanderer's Boon
+Hash: 1EADAE68, Key: Callback2Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 45172A5D, Key: Callback34Header, Value: Free the Prisoners: {LEFT}

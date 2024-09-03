@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who's looking after you?"
+Hash: 922DD34B, Key: Line1.1A8DD2, Value: Do you have any food? Please, I’m so hungry... I gave my meal to my little brother.
+Hash: 6AB17D0D, Key: Line3.1A8DD2, Value: He’s too young to understand we just don’t have enough.

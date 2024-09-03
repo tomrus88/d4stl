@@ -1,0 +1,3 @@
+Hash: A6E1D38A, Key: Line28.BAE4.Spi.F, Value: That’s not mine.
+Hash: 93B55485, Key: Line14.BAE4.Spi.F, Value: That’s someone else’s.
+Hash: 31CE99C3, Key: Line12.BAE4.Spi.F, Value: That’s not meant for me.

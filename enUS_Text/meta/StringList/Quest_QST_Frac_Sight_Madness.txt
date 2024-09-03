@@ -3,4 +3,4 @@ Hash: 0871A46B, Key: Toast, Value: Reclaim Vilek's eyes from the cultists in Nos
 Hash: 259D49BB, Key: Phase15Description, Value: A crazy man named Vilek, imprisoned in Kyovashad, spoke of being able to see out of his plucked eyes and asked that I retrieve them. He claims the town of Nostrava has fallen to cultists and woman named Theya wears them on her necklace. 
 Hash: F81CED9C, Key: Callback33Header, Value: Slay Theya and retrieve the {ITEM}
 Hash: B12EDDB8, Key: Phase21Description, Value: A crazy man named Vilek, imprisoned in Kyovashad, spoke of being able to see out of his plucked eyes and asked that I retrieve them. I have slain Theya and have the eyes. I should return them. 
-Hash: 24EC6278, Key: Callback20Header, Value: Return the Necklace of Eyes to Vilek
+Hash: 24EC6278, Key: Callback20Header, Value: Return the {ITEM:QST_Frac_SightMad_Eyeball_Necklace} to Vilek

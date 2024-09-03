@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crushed Knight
+Hash: F2CA04D8, Key: NoticeSignText, Value: This head of this knight has been reduced to a bloody pulp. Scrawled on the armor in blood is the word "obtainer."

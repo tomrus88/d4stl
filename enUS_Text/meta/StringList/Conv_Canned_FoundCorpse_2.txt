@@ -3,3 +3,4 @@ Hash: 73008D67, Key: Line1.BAE4.Nec, Value: Poor soul.
 Hash: 7300649C, Key: Line1.BAE4.Dru, Value: They're already dead.
 Hash: 7300A405, Key: Line1.BAE4.Sor, Value: I'm too late.
 Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: Damn, I couldn't save them.
+Hash: 7300A41D, Key: Line1.BAE4.Spi, Value: Poor soul.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Necromancer's Writings
+Hash: F5C7BC0A, Key: Flavor, Value: A book of litanies to Rathma with hurried notes scrawled in the back pages.

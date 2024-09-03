@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Sustained Decay
+Hash: 003892BF, Key: desc, Value: (PH) While {c_important}Invoke{/c} is active, you gain {c_number}[{SF_1}*100|+%|]{/c} increased Poisoning Duration and {c_number}[{SF_0}*100|+%|]{/c} increased Crowd Control Duration.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet,1.2} Poisoning Duration {icon:arrow,1.2} {c_number}[{SF_1}*100|+%|]{/c}
+{icon:bullet,1.2} Crowd Control Duration {icon:arrow,1.2} {c_number}[{SF_0}*100|+%|]{/c}

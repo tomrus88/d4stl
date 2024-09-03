@@ -8,3 +8,6 @@ Hash: C435C5B6, Key: Mod3_Description, Value: Your Damage Reduction is increased
 Hash: 99335313, Key: Mod3_Name, Value: Prime Bone Storm
 Hash: B252E239, Key: Mod6_Description, Value: Your Critical Strike Chance is increased by {c_number}[{SF_12}*100|+%|]{/c} while {c_important}Bone Storm{/c} is active.
 Hash: A032CCF6, Key: Mod6_Name, Value: Supreme Bone Storm
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{if:SF_21}{payload:TOOLTIP_DAMAGE_SHADOW}{else}{payload:TOOLTIP_DAMAGE}{/if}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

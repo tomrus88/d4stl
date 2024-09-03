@@ -1,0 +1,4 @@
+Hash: 9262B1ED, Key: Line1.1D7190, Value: My first time in Kurast. I’m from Tanzawi. What about you?
+Hash: E298DDBA, Key: VoiceDir1.1D7190, Value: whispered, excited
+Hash: 6AE65BC2, Key: Line3.1D718D, Value: Shush! Show some respect. This is the Council of Kurast, not your village feast.
+Hash: BB1C878F, Key: VoiceDir3.1D718D, Value: hissed

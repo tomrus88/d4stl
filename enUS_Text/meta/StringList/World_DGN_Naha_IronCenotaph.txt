@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Cenotaph
+Hash: 003892BF, Key: Desc, Value: The first home of the Iron Wolves before the fall of Kurast.

@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Audacious Delver
-Hash: 003892BF, Key: Desc, Value: Complete an Ancestral Nightmare Dungeon in Hardcore Mode.
+Hash: 003892BF, Key: Desc, Value: Complete a Nightmare Dungeon on Torment II or higher in Hardcore Mode.

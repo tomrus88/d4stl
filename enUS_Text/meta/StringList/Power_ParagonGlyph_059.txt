@@ -1,1 +1,1 @@
-Hash: 003892BF, Key: desc, Value: When you hit an enemy with an attack that applies a Crowd Control effect, they take {c_number}[{SF_0}*100|x%|]{/c}, up to {c_number}[{SF_0}*{SF_1}*100|x%|]{/c}, increased damage from you for {c_number}[SF_2]{/c} seconds.
+Hash: 003892BF, Key: desc, Value: When you hit an enemy or Boss with an attack that applies a Crowd Control effect, they take {c_number}[{SF_0}*100|x%|]{/c}, up to {c_number}[{SF_0}*{SF_1}*100|x%|]{/c}, increased damage from you for {c_number}[SF_2]{/c} seconds.

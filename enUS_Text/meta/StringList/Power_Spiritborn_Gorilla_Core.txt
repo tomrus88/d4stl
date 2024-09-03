@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Crushing Hand
+Hash: 003892BF, Key: desc, Value: {c_label}Vigor Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Smash down next to you with devastating force, creating {c_number}2{/c} shockwaves on either side that overlap and each deal {c_number}{payload:IMPACT}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Crushing Hand{/c} grants a {c_important}{u}Barrier{/u}{/c} equal to {c_number}[{SF_11}*100|%|]{/c} of the damage it deals for {c_number}{buffduration:BARRIER}{/c} seconds, up to {c_number}[{SF_13} * 100|%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_13]){/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Crushing Hand
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Crushing Hand's{/c} radius increases by {c_number}[{SF_9}*100|%|]{/c} for every stack of {c_important}{u}Resolve{/u}{/c} you have, up to {c_number}[{SF_9}*{SF_10}*100|%|]{/c}.
+Hash: 948901D1, Key: Mod1_Name, Value: Rampant Crushing Hand
+Hash: 74D6BC35, Key: Mod2_Description, Value: Enemies hit by both strikes of {c_important}Crushing Hand{/c} are Knocked Down for {c_number}{SF_8}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Advantageous Crushing Hand
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Forest Core Upgrade C
+Hash: 1394CF37, Key: Mod4_Description, Value: (PH) Activates Forest Core Empowerment
+Hash: 9B887BB4, Key: Mod4_Name, Value: (PH) Forest Spirit

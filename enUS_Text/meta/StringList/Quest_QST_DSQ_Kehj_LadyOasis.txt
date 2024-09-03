@@ -1,14 +1,14 @@
 Hash: 003DFCC1, Key: Name, Value: Izel of the Vizjerei
+Hash: E9B1E11B, Key: Callback50Header, Value: Place Izel on the Altar
+Hash: 6FE82F7E, Key: Callback62Header, Value: Return to Izel
+Hash: 9367FF5C, Key: Phase34Description, Value: Izel and I have access to the athenaeum. I should investigate inside.
+Hash: DF0BA3DF, Key: Callback36Header, Value: Investigate the Athenaeum 
+Hash: 5183C723, Key: Callback58Header, Value: Find the {ITEM} amongst the ruins
+Hash: 5091BE7E, Key: Phase63Description, Value: Return to Izel
+Hash: D0A0975E, Key: Callback53Header, Value: hidden
+Hash: B78F4DA1, Key: Callback56Header, Value: hidden
+Hash: 0D16AFDC, Key: Phase70Description, Value: This description text will not be displayed.
+Hash: 5C2A045F, Key: Callback72Header, Value: Slay the Athenaeum's protectors
 Hash: 0871A46B, Key: Toast, Value: Help Izel restore her human form.
 Hash: 2BE38CAC, Key: Phase7Description, Value: This description text will not be displayed.
 Hash: 398557AF, Key: Callback9Header, Value: Kill Izel
-Hash: 9367FF5C, Key: Phase34Description, Value: Izel and I have access to the athenaeum. I should investigate inside.
-Hash: DF0BA3DF, Key: Callback36Header, Value: Investigate the Athenaeum 
-Hash: E9B1E11B, Key: Callback50Header, Value: Place Izel on the Altar
-Hash: D0A0975E, Key: Callback53Header, Value: hidden
-Hash: B78F4DA1, Key: Callback56Header, Value: hidden
-Hash: 5183C723, Key: Callback58Header, Value: Find the {ITEM} amongst the ruins
-Hash: 5091BE7E, Key: Phase63Description, Value: Return to Izel
-Hash: 6FE82F7E, Key: Callback62Header, Value: Return to Izel
-Hash: 0D16AFDC, Key: Phase70Description, Value: This description text will not be displayed.
-Hash: 5C2A045F, Key: Callback72Header, Value: Slay the Athenaeum's protectors

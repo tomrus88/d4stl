@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: [PH] Hollow Slaying Elixir
+Hash: 2827F416, Key: Buff0_Description, Value: [PH] Increased damage against Hollows. Experience increased by 5%.

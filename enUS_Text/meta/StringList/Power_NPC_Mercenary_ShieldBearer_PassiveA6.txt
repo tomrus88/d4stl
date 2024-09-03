@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Iron Wolf's Call
+Hash: 003892BF, Key: desc, Value: When Raheir's {c_important}Valiance{/c} is triggered, your next {c_number}{SF_0}{/c} {c_important}Core{/c} Skills within {c_number}{SF_2}{/c} seconds deal {c_number}[{SF_1}*100|x%|]{/c} increased damage and cost no Resource.
+
+Raheir's {c_important}Valiance{/c} Cooldown is reduced by {c_number}[{SF_3}*100|%|]{/c}.
+Hash: 101C1614, Key: Buff1_Name, Value: Hero's Call
+Hash: 7786FD97, Key: Buff1_Description, Value: Next Core Skill consumes no Resource and deals [{SF_1}*100]% increased damage.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Ire Burst
+Hash: FD97EAAA, Key: Buff25_Name, Value: Ire Remnant

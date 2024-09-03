@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Pre-flip
+Hash: 9268BB22, Key: Line1.1CC0B2, Value: There was a text I read that delved into Kurast's past. A city of prosperity and glory...
+Hash: 6AC013ED, Key: Line3.1B36BF, Value: Hard to imagine, since all we’ve known is a half-destroyed city.
+Hash: 43700EA6, Key: Line5.1CC0B2, Value: I could picture it. Everywhere rich in silver with lush greenery.
+Hash: 1BC76771, Key: Line7.1B36BF, Value: Psh, if only. Your head may still be stuck in that book. The city lacks life now. Few people live here, let alone pass through.

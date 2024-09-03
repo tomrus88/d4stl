@@ -1,0 +1,15 @@
+Hash: 9211671E, Key: Callback35Header, Value: Find the {LEVELAREA}
+Hash: 9E7E03E4, Key: Callback59Header, Value: Find {LEVELAREA}
+Hash: A3D12282, Key: Callback66Header, Value: Find the {LEVELAREA}
+Hash: 95661601, Key: Callback83Header, Value: Find the {LEVELAREA}
+Hash: 34ADAE21, Key: Callback92Header, Value: Find the {LEVELAREA}
+Hash: CEA227A3, Key: Callback94Header, Value: Enter the Unknown Portal
+Hash: 1BCE4FEC, Key: Callback150Header, Value: Dispel the barrier
+Hash: D298E270, Key: Callback118Header, Value: Enter the Unknown Portal
+Hash: 3DF7878C, Key: Callback123Header, Value: Traverse the Realm of Oblivion to the depths of the Labyrinth of Souls
+Hash: A2049E4F, Key: Callback162Header, Value: Protect yourself from Death using the {icon:Marker_GizmoGrounding,1.8} Soul Dampeners
+Hash: 71E07A90, Key: Callback127Header, Value: Enter the Unknown Portal
+Hash: 975E6113, Key: Callback148Header, Value: Find the {LEVELAREA}
+Hash: B06FAAD0, Key: Callback145Header, Value: Dispel the barrier
+Hash: 88F35492, Key: Callback165Header, Value: Dispel the barrier
+Hash: 6FE20AD5, Key: Callback168Header, Value: Enter the Unknown Portal

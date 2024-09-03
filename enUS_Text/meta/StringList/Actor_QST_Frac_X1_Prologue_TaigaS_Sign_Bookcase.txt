@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Disarranged Bookcase
+Hash: F2CA04D8, Key: NoticeSignText, Value: The bookcase has been well rummaged through, now with damaged shelves and missing books. The hidden door seems to be jammed.

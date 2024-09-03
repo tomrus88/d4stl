@@ -1,1 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Sapphire
+Hash: F5C7BC0A, Key: Flavor, Value: A broken spirit can return stronger than before.

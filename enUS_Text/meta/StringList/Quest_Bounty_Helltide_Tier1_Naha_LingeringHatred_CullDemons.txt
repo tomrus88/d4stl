@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cull Demons
+Hash: 0871A46B, Key: Toast, Value: The endless waves of demons threaten to overwhelm Sanctuary's meager defenses. Obliterate them and drive back the tides of Hell.
+Hash: D9B88541, Key: Callback29Header, Value: Slay Demons: {DONE_OVER_NEEDED}

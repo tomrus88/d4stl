@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Elixir of Quick Revive
+Hash: 2827F416, Key: Buff0_Description, Value: Increases Healing and Revive Speed. Gain Move Speed after Reviving a player.

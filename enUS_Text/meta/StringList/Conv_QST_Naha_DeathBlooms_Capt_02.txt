@@ -1,0 +1,4 @@
+Hash: 92558E62, Key: Line1.1BA1D2, Value: Keunin, you're back! I'm so happy to—
+Hash: E28BBA2F, Key: VoiceDir1.1BA1D2, Value: Momentarily happy, relieved. 
+Hash: 5C7B1FB2, Key: Line10.1BA1D2, Value: Oh, I’m sorry. I… mistook you for someone else.
+Hash: B376C51F, Key: VoiceDir10.1BA1D2, Value: Disappointed. 

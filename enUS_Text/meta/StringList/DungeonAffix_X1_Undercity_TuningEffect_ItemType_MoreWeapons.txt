@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: More Weapons
+Hash: EEB7912D, Key: AffixDesc, Value: You will be rewarded 20% more Legendaries, all of which are Weapons or Offhands.

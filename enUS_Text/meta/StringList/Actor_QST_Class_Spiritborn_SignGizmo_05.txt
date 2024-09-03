@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: More Strange Tracks
+Hash: F2CA04D8, Key: NoticeSignText, Value: Similar tracks to the others, only this time they end at the cliff edge. Whatever did this fell into the river below, or made a mighty leap to reach the other side.

@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Unbound Prisoner
+Hash: CC3C0A8F, Key: FlavorText, Value: Long-dead Nahantu Villager
+Hash: F2CA04D8, Key: NoticeSignText, Value: Lacuni in the area are known to tie up prisoners for use as bait, luring unsuspecting travelers to their demise.
+
+This corpse was recently freed from such restraints.
+
+The blood here likely belongs to her would-be rescuers.

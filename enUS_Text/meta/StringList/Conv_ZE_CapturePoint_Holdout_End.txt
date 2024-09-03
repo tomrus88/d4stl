@@ -1,0 +1,6 @@
+Hash: F9BE42E8, Key: Line15.1C5397, Value: The Basin has all it can hold, let’s get away!
+Hash: 50B9E855, Key: VoiceDir15.1C5397, Value: in battle, operating a large unwieldy device (the Basin)
+Hash: D241ECAA, Key: Line17.1C5397, Value: The ritual is complete, fall back!
+Hash: 293D9217, Key: VoiceDir17.1C5397, Value: in battle, operating a large unwieldy device (the Basin)
+Hash: D0F18B84, Key: Line20.1C5397, Value: That’s all we can save for now. Retreat!
+Hash: 27ED30F1, Key: VoiceDir20.1C5397, Value: in battle, operating a large unwieldy device (the Basin)

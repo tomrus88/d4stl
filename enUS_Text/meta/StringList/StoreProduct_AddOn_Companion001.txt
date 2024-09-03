@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Khazra's Treasure Platinum Pack
+Hash: A646FFA4, Key: Description, Value: Hunters had driven the goatmen away, leaving their cave unguarded. Young Perry saw his chance. Eagerly the boy crept inside and found what the goats left behind. A heap of coin, shiny and inviting...
+Hash: 083EE0CE, Key: Quote, Value: Forbidden wealth, deep in the warrens.
+Hash: 13A53A8B, Key: Series, Value: "Khazra's Treasure Platinum Pack"

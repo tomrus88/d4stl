@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Umija."
+Hash: 92514742, Key: Line1.1C893C, Value: Folks have shared stories of the “Grinning Shaman” for some time.
+Hash: E287730F, Key: VoiceDir1.1C893C, Value: informative, direct
+Hash: 6AD4F104, Key: Line3.1C893C, Value: “She hides among the trees, with eyes that never cease. A grin that spreads from cheek to cheek. If you’re caught, you’re hers to keep.”
+Hash: BB0B1CD1, Key: VoiceDir3.1C893C, Value: read as a poem, lyrical--foreboding
+Hash: F45FEE4A, Key: Line9.1C893C, Value: I thought it just a tale for children...until she found me.
+Hash: 44961A17, Key: VoiceDir9.1C893C, Value: reflective, turning uneasy

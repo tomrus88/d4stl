@@ -544,3 +544,139 @@ Hash: 4ECD5DDC, Key: Line1392.146381, Value: Are you sure? Fortune awaits…
 Hash: 53481289, Key: VoiceDir1392.146381, Value: Grinning. Manipulative.
 Hash: EC168672, Key: Line1397.14638B, Value: Are you sure? Fortune awaits…
 Hash: F0913B1F, Key: VoiceDir1397.14638B, Value: Grinning. Manipulative.
+Hash: 3DB6C0A1, Key: Line1402.1B3590, Value: Don't do anything foolish now.
+Hash: 4231754E, Key: VoiceDir1402.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: 027C3F44, Key: Line1405.1B3590, Value: Keep to the road. Too many have died.
+Hash: 06F6F3F1, Key: VoiceDir1405.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: C741BDE7, Key: Line1408.1B3590, Value: Best of luck.
+Hash: CBBC7294, Key: VoiceDir1408.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: 9E869623, Key: Line1413.1C2635, Value: I'll be even better, next time you're back.
+Hash: A3014AD0, Key: VoiceDir1413.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: 634C14C6, Key: Line1416.1C2635, Value: Tell your friends! Gotta build up my name.
+Hash: 67C6C973, Key: VoiceDir1416.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: 28119369, Key: Line1419.1C2635, Value: You know where to come, next time.
+Hash: 2C8C4816, Key: VoiceDir1419.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: FF44DC03, Key: Line1424.1C2633, Value: Eh, you'll be back.
+Hash: 03BF90B0, Key: VoiceDir1424.1C2633, Value: Cranky old fart. Impatient.
+Hash: C40A5AA6, Key: Line1427.1C2633, Value: You better live to shop again, ha!
+Hash: C8850F53, Key: VoiceDir1427.1C2633, Value: Cranky old fart. Impatient.
+Hash: C2B9F980, Key: Line1430.1C2633, Value: Uh huh.
+Hash: C734AE2D, Key: VoiceDir1430.1C2633, Value: Cranky old fart. Impatient.
+Hash: 5FF193C7, Key: Line1435.1B34DF, Value: Be patient with the children. They're hurting.
+Hash: 646C4874, Key: VoiceDir1435.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 24B7126A, Key: Line1438.1B34DF, Value: Come back soon, all right?
+Hash: 2931C717, Key: VoiceDir1438.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 2366B144, Key: Line1441.1B34DF, Value: Brighter days are coming, stranger. (sigh) They've got to.
+Hash: 27E165F1, Key: VoiceDir1441.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: C0AFD958, Key: Line1446.1B34C6, Value: We don't need your pity.
+Hash: C52A8E05, Key: VoiceDir1446.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: 857557FB, Key: Line1449.1B34C6, Value: They never stick around.
+Hash: 89F00CA8, Key: VoiceDir1449.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: 8424F6D5, Key: Line1452.1B34C6, Value: Yeah, yeah.
+Hash: 889FAB82, Key: VoiceDir1452.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: 216E1F88, Key: Line1457.1B34DC, Value: Would you bring back anything you don't need?
+Hash: 25E8D435, Key: VoiceDir1457.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: 201DBE62, Key: Line1460.1B34DC, Value: Don't forget us, all right?
+Hash: 2498730F, Key: VoiceDir1460.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: E4E33D05, Key: Line1463.1B34DC, Value: I'll remember you.
+Hash: E95DF1B2, Key: VoiceDir1463.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: 823DF3B0, Key: Line1468.1C2647, Value: Keep that sheathed 'til you're clear of town, you hear?
+Hash: 86B8A85D, Key: VoiceDir1468.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: 80ED928A, Key: Line1471.1C2647, Value: (grunts) Keep out of trouble.
+Hash: 85684737, Key: VoiceDir1471.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: 45B3112D, Key: Line1474.1C2647, Value: See that you save that weapon for demons and beasts.
+Hash: 4A2DC5DA, Key: VoiceDir1474.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: E2FC39BD, Key: Line1479.1C264B, Value: Ah, d-don't go, I've got more in the back!
+Hash: E776EE6A, Key: VoiceDir1479.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: E1ABD897, Key: Line1482.1C264B, Value: Ah, can't I tempt you with another?
+Hash: E6268D44, Key: VoiceDir1482.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: A671573A, Key: Line1485.1C264B, Value: No refunds, friend.
+Hash: AAEC0BE7, Key: VoiceDir1485.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: FAC4F5FF, Key: Line1578.1C264D, Value: Did you find the piece you wanted?
+Hash: FF3FAAAC, Key: VoiceDir1578.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: F97494D9, Key: Line1581.1C264D, Value: It was nice talking to you.
+Hash: FDEF4986, Key: VoiceDir1581.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: BE3A137C, Key: Line1584.1C264D, Value: Tell your friends about me, all right?
+Hash: C2B4C829, Key: VoiceDir1584.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: 5B71AF4E, Key: Line1589.1B3623, Value: Bring something interesting next time.
+Hash: 5FEC63FB, Key: VoiceDir1589.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: 5A214E28, Key: Line1592.1B3623, Value: Is that all, then?
+Hash: 5E9C02D5, Key: VoiceDir1592.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: 1EE6CCCB, Key: Line1595.1B3623, Value: (sighs) Very well. Goodbye.
+Hash: 23618178, Key: VoiceDir1595.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: 6D483CD0, Key: Line1600.1B363D, Value: Don't be afraid to fight dirty.
+Hash: 71C2F17D, Key: VoiceDir1600.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: 320DBB73, Key: Line1603.1B363D, Value: Give it to 'em mean out there.
+Hash: 36887020, Key: VoiceDir1603.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: F6D33A16, Key: Line1606.1B363D, Value: As you were.
+Hash: FB4DEEC3, Key: VoiceDir1606.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: CE06825D, Key: Line1611.1B3620, Value: Come find me next time you're in town.
+Hash: D281370A, Key: VoiceDir1611.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap.
+Hash: 92CC0100, Key: Line1614.1B3620, Value: Good luck out there.
+Hash: 9746B5AD, Key: VoiceDir1614.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap.
+Hash: 57917FA3, Key: Line1617.1B3620, Value: Yes, yes. Good day now.
+Hash: 5C0C3450, Key: VoiceDir1617.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap.
+Hash: 2EC4C891, Key: Line1622.1B363A, Value: May the road rise to meet you.
+Hash: 333F7D3E, Key: VoiceDir1622.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. One of the more ethical folks in town.
+Hash: F38A4734, Key: Line1625.1B363A, Value: Swift travels to you.
+Hash: F804FBE1, Key: VoiceDir1625.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. One of the more ethical folks in town.
+Hash: B84FC5D7, Key: Line1628.1B363A, Value: Mind where you rest for the night.
+Hash: BCCA7A84, Key: VoiceDir1628.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. One of the more ethical folks in town.
+Hash: 8F830E4A, Key: Line1633.1B3638, Value: Fare you well, then.
+Hash: 93FDC2F7, Key: VoiceDir1633.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: 54488CED, Key: Line1636.1B3638, Value: May Akarat guide your steps.
+Hash: 58C3419A, Key: VoiceDir1636.1B3638, Value: A dreaming romantic. A bit scattered. Akarat pronunciation: "ah-ka-rat"
+Hash: 190E0B90, Key: Line1639.1B3638, Value: If ever you need to dazzle, I'll be here.
+Hash: 1D88C03D, Key: VoiceDir1639.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: F04150BD, Key: Line1644.1B358E, Value: (sigh) All right then.
+Hash: F4BC056A, Key: VoiceDir1644.1B358E, Value: Absorbed in her work. Impatient.
+Hash: B506CF60, Key: Line1647.1B358E, Value: Back to work.
+Hash: B981840D, Key: VoiceDir1647.1B358E, Value: Absorbed in her work. Impatient.
+Hash: B3B66E3A, Key: Line1650.1B358E, Value: (sigh) Peace and quiet.
+Hash: B83122E7, Key: VoiceDir1650.1B358E, Value: Absorbed in her work. Impatient.
+Hash: 50FF96BF, Key: Line1655.1B359D, Value: Damn this old knee.
+Hash: 557A4B6C, Key: VoiceDir1655.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: 15C51562, Key: Line1658.1B359D, Value: You take care now.
+Hash: 1A3FCA0F, Key: VoiceDir1658.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: 1474B43C, Key: Line1661.1B359D, Value: Stick to the trees and keep safe.
+Hash: 18EF68E9, Key: VoiceDir1661.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: B1BDDC50, Key: Line1666.1B3584, Value: I'll be here, tinkering away.
+Hash: B63890FD, Key: VoiceDir1666.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 76835AF3, Key: Line1669.1B3584, Value: Bring a challenge next time, won't you?
+Hash: 7AFE0FA0, Key: VoiceDir1669.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 7532F9CD, Key: Line1672.1B3584, Value: Ever at your service.
+Hash: 79ADAE7A, Key: VoiceDir1672.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 127C2285, Key: Line1677.1B359F, Value: Power never dies. Only travels. You will be back.
+Hash: 16F6D732, Key: VoiceDir1677.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: 112BC15F, Key: Line1680.1B359F, Value: As they come, so they go.
+Hash: 15A6760C, Key: VoiceDir1680.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: D5F14002, Key: Line1683.1B359F, Value: Walk with the spirits, wanderer.
+Hash: DA6BF4AF, Key: VoiceDir1683.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: 733A6D7E, Key: Line1688.1B35B4, Value: Do come again.
+Hash: 77B5222B, Key: VoiceDir1688.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 71EA0C58, Key: Line1691.1B35B4, Value: It was marvelous seeing you.
+Hash: 36AF8AFB, Key: Line1694.1B35B4, Value: Don't be gone long now!
+Hash: D3F8B3B2, Key: Line1699.1B35CE, Value: If anything breaks, you come right back.
+Hash: D873685F, Key: VoiceDir1699.1B35CE, Value: Simple, salt of the earth type.
+Hash: 49D679A3, Key: Line1702.1B35CE, Value: Akarat's blessings, traveler.
+Hash: 4E512E50, Key: VoiceDir1702.1B35CE, Value: Simple, salt of the earth type. Akarat pronunciation: "ah-ka-rat"
+Hash: 0E9BF846, Key: Line1705.1B35CE, Value: Bring me what you scavenge. I'll take a look.
+Hash: 1316ACF3, Key: VoiceDir1705.1B35CE, Value: Simple, salt of the earth type.
+Hash: E5CF40CF, Key: Line1710.1B35D1, Value: Watch your back out there.
+Hash: EA49F57C, Key: VoiceDir1710.1B35D1, Value: As concerned with armor aesthetic as she is with its effectiveness.
+Hash: AA94BF72, Key: Line1713.1B35D1, Value: Keep an eye out for Hollows.
+Hash: AF0F741F, Key: VoiceDir1713.1B35D1, Value: As concerned with armor aesthetic as she is with its effectiveness.
+Hash: 6F5A3E15, Key: Line1716.1B35D1, Value: Keep safe, now.
+Hash: 73D4F2C2, Key: VoiceDir1716.1B35D1, Value: As concerned with armor aesthetic as she is with its effectiveness.
+Hash: 468D86B8, Key: Line1721.1B35D8, Value: Ride with honor, wanderer.
+Hash: 4B083B65, Key: VoiceDir1721.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: 0B53055B, Key: Line1724.1B35D8, Value: May the spirits watch over you.
+Hash: 0FCDBA08, Key: VoiceDir1724.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: D01883FE, Key: Line1727.1B35D8, Value: Good luck on the road.
+Hash: D49338AB, Key: VoiceDir1727.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: A74BC6EE, Key: Line1732.1B3588, Value: Remember me, won't you?
+Hash: ABC67B9B, Key: VoiceDir1732.1B3588, Value: Haughty, experienced saleswoman
+Hash: 6C114591, Key: Line1735.1B3588, Value: If you're ever feeling plain, you know where to find me.
+Hash: 708BFA3E, Key: VoiceDir1735.1B3588, Value: Haughty, experienced saleswoman
+Hash: 30D6C434, Key: Line1738.1B3588, Value: Akarat bless you.
+Hash: 355178E1, Key: VoiceDir1738.1B3588, Value: Haughty, experienced saleswoman. Akarat pronunciation: "ah-ka-rat"

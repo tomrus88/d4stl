@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Does the inn get much business?"
+Hash: 9245C2FF, Key: Line1.1AE926, Value: Heh. Look around. What do you think? Hollows are destroying everything. My customers included.

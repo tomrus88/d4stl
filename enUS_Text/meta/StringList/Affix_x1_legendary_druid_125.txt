@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Rabid Bear
+Hash: 003892BF, Key: Desc, Value: While {c_important}Grizzly Rage{/c} is active, Skills that Critically Strike apply {c_important}Rabies{/c} and your Poison damage is increased by {c_random}[Affix_Value_1*100|%|]{/c}.

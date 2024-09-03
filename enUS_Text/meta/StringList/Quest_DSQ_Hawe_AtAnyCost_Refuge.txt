@@ -1,17 +1,17 @@
-Hash: A5CF923D, Key: Callback25Header, Value: Slay the wildlife
-Hash: 1EADAE68, Key: Callback2Header, Value: Investigate the campsite
-Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with the Groaning Corpse
-Hash: CB4D78C0, Key: Callback46Header, Value: Collect the acolyte's head
-Hash: 0687FA1D, Key: Callback16Header, Value: Speak to the Acolyte's Head
-Hash: B78F4DA1, Key: Callback56Header, Value: Place the Acolyte's Head
-Hash: BEE0DBFA, Key: Callback22Header, Value: Place candles: {DONE_OVER_NEEDED}
-Hash: BCE26C3F, Key: Callback63Header, Value: Collect candles for the ritual
-Hash: D53BFF05, Key: Phase0Description, Value: PH Description Text
-Hash: 68161728, Key: Phase3Description, Value: I am disturbed by the news that the one-eyed swordsman was Elias. How did he disguise his appearance to fool others so easily? The pilgrims sent them into the eastern marshes towards a refuge marked by large tusks, and so I will follow.
-Hash: 5CD6EA0D, Key: Phase8Description, Value: While exploring Symon and Elias' camp, I heard a strange groaning coming from one corner of the room. What could possibly still be alive down here?
-Hash: 61CFD437, Key: Phase11Description, Value: While exploring Symon and Elias' camp, I heard a strange groaning coming from one corner of the room. What could possibly still be alive down here?
-Hash: 8784047D, Key: Phase17Description, Value: The partially animated corpse of an acolyte of Rathma guides me to prepare for a ritual that will show me an echo of what transpired here. I hope this will help me follow Elias' trail.
-Hash: 63196FBF, Key: Phase55Description, Value: The partially animated corpse of an acolyte of Rathma guides me to prepare for a ritual that will show me an echo of what transpired here. I hope this will help me follow Elias' trail.
-Hash: F4A9EC5A, Key: Phase14Description, Value: The partially animated corpse of an acolyte of Rathma guides me to prepare for a ritual that will show me an echo of what transpired here. I hope this will help me follow Elias' trail.
-Hash: EEAB03BC, Key: Phase61Description, Value: The partially animated corpse of an acolyte of Rathma guides me to prepare for a ritual that will show me an echo of what transpired here. I hope this will help me follow Elias' trail.
 Hash: 003DFCC1, Key: Name, Value: At Any Cost
+Hash: D53BFF05, Key: Phase0Description, Value: PH Description Text
+Hash: A5CF923D, Key: Callback25Header, Value: Slay the wildlife
+Hash: 68161728, Key: Phase3Description, Value: I am disturbed by the news that the one-eyed swordsman was Elias. How did he disguise his appearance to fool others so easily? The pilgrims sent them into the eastern marshes towards a refuge marked by large tusks, and so I will follow.
+Hash: 1EADAE68, Key: Callback2Header, Value: Investigate the campsite
+Hash: 5CD6EA0D, Key: Phase8Description, Value: While exploring Symon and Elias' camp, I heard a strange groaning coming from one corner of the room. What could possibly still be alive down here?
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with the Groaning Corpse
+Hash: 61CFD437, Key: Phase11Description, Value: While exploring Symon and Elias' camp, I heard a strange groaning coming from one corner of the room. What could possibly still be alive down here?
+Hash: CB4D78C0, Key: Callback46Header, Value: Collect the {ITEM:QST_Hawe_AtAnyCost_CorpseHead}
+Hash: 8784047D, Key: Phase17Description, Value: The partially animated corpse of an acolyte of Rathma guides me to prepare for a ritual that will show me an echo of what transpired here. I hope this will help me follow Elias' trail.
+Hash: 0687FA1D, Key: Callback16Header, Value: Speak to the Acolyte's Head
+Hash: 63196FBF, Key: Phase55Description, Value: The partially animated corpse of an acolyte of Rathma guides me to prepare for a ritual that will show me an echo of what transpired here. I hope this will help me follow Elias' trail.
+Hash: B78F4DA1, Key: Callback56Header, Value: Place the Acolyte's Head
+Hash: F4A9EC5A, Key: Phase14Description, Value: The partially animated corpse of an acolyte of Rathma guides me to prepare for a ritual that will show me an echo of what transpired here. I hope this will help me follow Elias' trail.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Place candles: {DONE_OVER_NEEDED}
+Hash: EEAB03BC, Key: Phase61Description, Value: The partially animated corpse of an acolyte of Rathma guides me to prepare for a ritual that will show me an echo of what transpired here. I hope this will help me follow Elias' trail.
+Hash: 7701ADA6, Key: Callback79Header, Value: Collect the {ITEM:QST_Hawe_AtAnyCost_Candles}

@@ -1,4 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Undying
-Hash: A646FFA4, Key: Description, Value: Casting Skills heals you for {c_random}[SF_2|1]%{/c} Life. Double this bonus while below {c_number}50%{/c} Life.
-
-{icon:bullet}Heal: {c_random}[SF_3|1]%{/c} {icon:arrow} {c_random}[SF_4|1]%{/c} {icon:arrow} {c_random}[SF_5|1]%{/c}

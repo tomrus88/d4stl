@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grigoire Summoning Cache
+Hash: A646FFA4, Key: Description, Value: Contains Living Steel, with a very small chance of containing Stygian Stones.

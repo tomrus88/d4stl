@@ -1,10 +1,10 @@
+Hash: 6541F242, Key: Callback48Header, Value: Speak with Farmer Kealer
 Hash: 003DFCC1, Key: Name, Value: Smoke Signals
 Hash: 0871A46B, Key: Toast, Value: Investigate the seer's visions of Kealer Farm to uncover the source of Corbach's famine.
 Hash: 61CFD437, Key: Phase11Description, Value: A seer in Corbach believes there is a survivor at the goatman raid on Kealer Farm who might know something worthwhile regarding the source of the local famine. I should go there and learn what I can.
 Hash: 1F9943DA, Key: Callback13Header, Value: Investigate Kealer Farm
-Hash: E2223B19, Key: Phase22Description, Value: With his dying breath, Farmer Kealer mentioned the "tunnels" and something about Chieftain Eiruig destroying wardstones. I should return to the seer in Corbach to share what I have learned.
 Hash: 71E69F39, Key: Callback21Header, Value: Speak with Baewyn in Corbach
+Hash: E2223B19, Key: Phase22Description, Value: With his dying breath, Farmer Kealer mentioned the "tunnels" and something about Chieftain Eiruig destroying wardstones. I should return to the seer in Corbach to share what I have learned.
 Hash: 44ADC39F, Key: Phase46Description, Value: I came across a wounded farmer at Kealer Farm. The seer believes he might know something worthwhile regarding the source of the local famine.
-Hash: 6541F242, Key: Callback48Header, Value: Speak with Farmer Kealer
 Hash: 45529163, Key: Phase68Description, Value: The seer finished reading the goatman entrails I gathered for her. I should ask her if they revealed anything regarding the famine in Corbach.
 Hash: F0CB5F43, Key: Callback67Header, Value: Speak with Baewyn the Seer

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Covered in Ash
+Hash: 003892BF, Key: desc, Value: Hits of Aldkin's {c_important}Flame Surge{/c} Slow enemies by {c_number}[{SF_0}*100|%|]{/c} and deal an additional {c_number}{dot:BURNING_B1}{/c} Burning damage over {c_number}{SF_1}{/c} seconds.

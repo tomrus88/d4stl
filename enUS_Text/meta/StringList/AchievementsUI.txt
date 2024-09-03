@@ -51,3 +51,6 @@ Hash: 166C5537, Key: REWARD_TYPE_EMBLEM, Value: Emblem
 Hash: F59770E6, Key: Filter, Value: Filter {c:FFdba864}{s1}{/c} 
 Hash: 09021178, Key: REWARD_TYPE_MOUNT, Value: Mount
 Hash: 2E40D006, Key: AchievementReward_VC, Value: {c_white}Reward:{/c} {icon:CurrencyIcon, 1.5} {c_gold}{s1}Platinum{/c}
+Hash: 0224D578, Key: LegendX1, Value: Show {icon:Icon_Font_Entitlement, 2} Vessel of  Hatred
+Hash: BE0201B0, Key: LegendFilterBase, Value: Show Base Game
+Hash: 56C16921, Key: Achievement_X1_Requirement, Value: Vessel of Hatred is required to access this content.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Dismiss Mercenary
+Hash: 8F4698D2, Key: Line1.18782A, Value: Come back when you're in need again.
+Hash: 67CA4294, Key: Line3.18782A, Value: Here when you need us.
+Hash: 404DEC56, Key: Line5.18782A, Value: Fare you well in your travels.
+Hash: 18D19618, Key: Line7.18782A, Value: We'll be here next time.

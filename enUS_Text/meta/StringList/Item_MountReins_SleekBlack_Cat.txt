@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Reins of the Green Eyed Devil
+Hash: A646FFA4, Key: Description, Value: Use reins to unlock the Green Eyed Devil in your stable.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Withdraw Reinforcement
+Hash: 8F1E7E5A, Key: Line1.1602FD, Value: That was fun!

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Deflection
+Hash: 003892BF, Key: Desc, Value: While active, {c_important}Counterattack{/c} reflects incoming {c_important}Razor Wings{/c} back out again. Other Small Missiles are also deflected back at enemies and deal {c_random}[Affix_Value_1*100|%|]{/c} of {c_important}Counterattack's{/c} Base damage on impact.
+Hash: 82B7D312, Key: CodexDesc, Value: While active, {c_important}Counterattack{/c} reflects incoming {c_important}Razor Wings{/c} back out again. Other Small Missiles are also deflected back at enemies and deal {c_random}[Affix_Value_1*100|%|]{/c} of {c_important}Counterattack's{/c} Base damage on impact.

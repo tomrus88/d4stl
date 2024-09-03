@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You started this manhunt for Lorath. Why the sudden change in heart?"
+Hash: 5A157257, Key: Line1.710B6, Value: Because the Church is changing. Surely you’ve seen it. What I began as an act of mercy has become an act of sadism.
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: (scoffs) “Mercy.” You sent a priest to murder Lorath.
+Hash: 27F2DEDD, Key: Line7.710B6, Value: I sent a priest to bring him to judgment. Lorath was the one to choose murder, not I.
+Hash: C1E7585F, Key: Line9.710B6, Value: He earned execution twice over. But even the greatest of sins can be forgiven in a time of need.

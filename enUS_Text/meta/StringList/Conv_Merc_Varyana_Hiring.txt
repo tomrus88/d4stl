@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hire Mercenary
+Hash: 8F4698D2, Key: Line1.18782A, Value: Old Varyana will do you right.
+Hash: 67CA4294, Key: Line3.18782A, Value: Picked Varyana right out, did you?
+Hash: 404DEC56, Key: Line5.18782A, Value: Tasty choice, eh?

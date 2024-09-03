@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Any jobs you need doing?" 
+Hash: 925131CE, Key: Line1.1C8434, Value: Kind of you to ask. But we take care of our own. We’ve no gamblers with unpaid debts, nor drinkers lost in the bottle. No murderers, thieves, nor swindlers, neither.
+Hash: 6AD4DB90, Key: Line3.1C8434, Value: Samuk thrives with the spirits’ aid. The best thing you can do for us is to keep our secret. Not many know of our little town, and we’d prefer it stays that way.

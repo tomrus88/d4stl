@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Upturned Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: The table was turned over and destroyed during the Burned Knights' frenzied search.

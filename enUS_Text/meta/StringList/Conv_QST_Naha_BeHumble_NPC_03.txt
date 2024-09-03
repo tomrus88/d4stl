@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing here?"
+Hash: 6AAE8A91, Key: Line3.1A4873, Value: Truthfully? I recognized you in town. Your legend has grown considerably since you wandered the deserts of Kehjistan, but I know who you've saved... and who you've slayed.
+Hash: BAE4B65E, Key: VoiceDir3.1A4873, Value: Welcoming. Knowing. Ominous
+Hash: 43323453, Key: Line5.1A4873, Value: After you kill this demon, I want you to give me the credit. I want your glory, your fame, and I want the gold from the bounty as well.
+Hash: 93686020, Key: VoiceDir5.1A4873, Value: Demanding. Bold.
+Hash: 1BB5DE15, Key: Line7.1A4873, Value: So? What do you say, warrior of "legend"?
+Hash: 6BEC09E2, Key: VoiceDir7.1A4873, Value: Derisive. Amused.

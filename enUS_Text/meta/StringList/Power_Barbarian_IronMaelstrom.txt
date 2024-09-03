@@ -11,3 +11,9 @@ Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Iron Maelstrom{/c} ga
 Hash: 96DE2A72, Key: Mod2_Name, Value: Prime Iron Maelstrom
 Hash: C435C5B6, Key: Mod3_Description, Value: Dealing direct damage to an enemy after swapping weapons reduces {c_important}Iron Maelstrom's{/c} Cooldown by {c_number}{SF_12}{/c} second.
 Hash: 99335313, Key: Mod3_Name, Value: Supreme Iron Maelstrom
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Bludgeoning Damage {icon:arrow, 1.2} {c_number}{payload:DAMAGE}{/c}
+{icon:bullet, 1.2} Slashing Damage {icon:arrow, 1.2} {c_number}{payload:TOOLTIP_DAMAGE_SLASH}{/c}
+{icon:bullet, 1.2} Slashing Bleeding Damage {icon:arrow, 1.2} {c_number}{dot:TOOLTIP_DAMAGE_SLASH_BLEED}{/c}
+{icon:bullet, 1.2} Dual Wield Damage {icon:arrow, 1.2} {c_number}{payload:TOOLTIP_DAMAGE_DUALWIELDING}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

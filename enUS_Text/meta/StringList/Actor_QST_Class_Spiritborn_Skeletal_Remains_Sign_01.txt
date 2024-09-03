@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spiritborn Initiate's Remains
+Hash: F2CA04D8, Key: NoticeSignText, Value: The remains of a long-dead Spiritborn initiate. There are telling claw and teeth marks gouged into the bones, revealing the story of a violent end for this victim of the Sacred Hunt.

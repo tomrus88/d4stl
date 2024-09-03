@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Mutilated Warrior
+Hash: CC3C0A8F, Key: FlavorText, Value: Gushing corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: This man has been cleaved in two. Blood is still flowing from what remains. He was killed very recently. Perhaps there is still someone left alive up ahead.

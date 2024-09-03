@@ -1,8 +1,8 @@
 Hash: 003DFCC1, Key: name, Value: Grizzly Rage
 Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
-Shapeshift into {if:Mod.Upgrade1}an {c_important}{u}Unstoppable{/u}{/c}{else}a{/if} Dire Werebear for {c_number}{buffduration:BUFF_MAIN_BEAR}{/c} seconds gaining {c_number}[{SF_10}*100|%x|]{/c} bonus damage and {c_number}[{SF_11}*100|%|]{/c} Damage Reduction{/if}. Damage bonus is increased by {c_number}[{SF_15}*100|%|]{/c} each second while in this form, up to a maximum of {c_number}[{SF_15}* {SF_25} *100|%|]{/c}.
+Shapeshift into {if:Mod.Upgrade1}an {c_important}{u}Unstoppable{/u}{/c}{else}a{/if} Dire Werebear for {c_number}{buffduration:BUFF_MAIN_BEAR}{/c} seconds gaining {c_number}[{SF_10}*100|%x|]{/c} bonus damage and {c_number}[{SF_11}*100|%|]{/c} Damage Reduction{/if}. Damage bonus is increased by {c_number}[{SF_15}*100|%|]{/c} each second while in this form, up to a maximum of {c_number}[{SF_15}* {SF_29} *100|%|]{/c}.
 
-Kills extend the duration by {c_number}{SF_16}{/c} second, but the duration cannot go above {c_number}{buffduration:BUFF_MAIN_BEAR}{/c} seconds.
+Kills extend the duration by {c_number}{SF_16}{/c} second, and {c_important}{u}Overpowering{/u}{/c} Bosses extend the duration by {c_number}{SF_31}{/c} seconds, but the duration cannot go above {c_number}{buffduration:BUFF_MAIN_BEAR}{/c} seconds.
 {if:Mod.DELETEME}
 
 Casting {c_important}Grizzly Rage{/c} causes enemies in the area to take {c_number}{payload:TOOLTIP_MOD_CAST_IMPACT}{/c} damage and be Slowed by {c_number}[{SF_8}*100|%|]{/c} for {c_number}{buffduration:CAST_SLOW}{/c} seconds.{/if}
@@ -15,3 +15,5 @@ Hash: D618A933, Key: Mod0_Description, Value: {c_important}Grizzly Rage{/c} make
 Hash: 9233D930, Key: Mod0_Name, Value: Prime Grizzly Rage
 Hash: 2577B2B4, Key: Mod1_Description, Value: Gain {c_number}[{SF_2}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,{fortified:MOD_2_FORTIFY_PER_SECOND})|0|]){/c} as {c_important}{u}Fortify{/u}{/c} per second while {c_important}Grizzly Rage{/c} is active.
 Hash: 948901D1, Key: Mod1_Name, Value: Supreme Grizzly Rage
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Zyanya
+Hash: CC38ADCB, Key: FlavorName, Value: Citadel Vendor

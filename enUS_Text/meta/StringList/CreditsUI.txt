@@ -7,3 +7,5 @@ Hash: 4B3F43DF, Key: prompt_pause, Value: {icon:button1, 2} Pause
 Hash: 3042FE44, Key: prompt_fastforward, Value: {icon:right, 2} Fast forward
 Hash: 21E7903E, Key: prompt_slowdown, Value: {icon:left, 2} Slow down
 Hash: 9E1566BC, Key: PressHoldText_Controller, Value: Hold {icon:button2,2} to exit
+Hash: AFA39495, Key: BaseGame, Value: Diablo IV
+Hash: C3125386, Key: Expansion1, Value: Vessel of Hatred

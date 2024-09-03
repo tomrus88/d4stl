@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: Kichuk
+Hash: 0871A46B, Key: Toast, Value: The gateway to Hawezar, a small village terrorized by an ever-present threat
+Hash: 68C88CAD, Key: Callback151Header, Value: Explore Kichuk
+Hash: 081024CD, Key: Callback160Header, Value: Free the Villagers from the Cages
+Hash: 955FF158, Key: Callback189Header, Value: Find and Talk to Keitseh
+Hash: A91E1C77, Key: Callback179Header, Value: Slay Kirma
+Hash: 6176FE54, Key: Callback185Header, Value: Rekindle the Wanderer's Shrine to Conquer Kichuk
+Hash: 00BE9674, Key: Callback194Header, Value: Slay the Remaining Lacuni
+Hash: C63223AC, Key: Callback213Header, Value: Save the Kichuk Villagers from the Lacuni
+Hash: 60269D2E, Key: Callback215Header, Value: Reunite with the Survivors
+Hash: 187F7F0B, Key: Callback221Header, Value: Speak with Akhin
+Hash: 8AF7A24F, Key: Callback243Header, Value: Escape the cave and find Keitseh
+Hash: DD44FDAE, Key: Callback251Header, Value: Escape!
+Hash: 4516E3B6, Key: Callback259Header, Value: Speak with Keitseh
+Hash: 16810F50, Key: Callback262Header, Value: Enter the Caves
+Hash: 3158B897, Key: Callback269Header, Value: Slay the Dweller in the Dark

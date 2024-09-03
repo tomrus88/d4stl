@@ -1,19 +1,19 @@
 Hash: 003DFCC1, Key: Name, Value: Apex of Misery
 Hash: 0871A46B, Key: Toast, Value: Find Airidah at Solitude
-Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find Airidah at Solitude
-Hash: FBB2C25B, Key: BreadcrumbDescription, Value: It seems Airidah has fallen to Lilith’s persuasion or is being manipulated by the demon. Yorin has left to see Arlo and Maisie safely reach Braestaig. It is now up to me to confront Airidah and find the truth behind this bedlam.
 Hash: C5A4F845, Key: Phase79Description, Value: It seems Airidah has fallen to Lilith’s persuasion or is being manipulated by the demon. Yorin has remained with Arlo and Maisie to ensure their safety. It is now up to me to confront Airidah and find the truth behind this bedlam.
-Hash: 3C573B2D, Key: Phase79OutsideSubzoneHeader, Value: Find Airidah atop Solitude
 Hash: FB719C7F, Key: Callback81Header, Value: Find Airidah atop Solitude
-Hash: 77A8AC47, Key: Phase82OutsideSubzoneHeader, Value: Clear the path to Solitude
 Hash: E26052C2, Key: Callback84Header, Value: Clear the path to Airidah
 Hash: 51368C42, Key: Phase85Description, Value: It seems Airidah has fallen to Lilith’s persuasion or is being manipulated by the demon. Yorin has remained with Arlo and Maisie to ensure their safety. It is now up to me to confront Airidah and find the truth behind this bedlam.
-Hash: 6ACF9BCA, Key: Phase85OutsideSubzoneHeader, Value: Find Airidah atop Solitude
 Hash: 71E07A90, Key: Callback127Header, Value: Find Airidah atop Solitude
-Hash: 5DF68B4D, Key: Phase88OutsideSubzoneHeader, Value: Speak with Airidah atop Solitude
 Hash: 9AB9349F, Key: Callback90Header, Value: Speak with Airidah
-Hash: A4AAC274, Key: Phase115OutsideSubzoneHeader, Value: Speak with Airidah atop Solitude
 Hash: 1F931F31, Key: Callback119Header, Value: Speak with Airidah
 Hash: DCC8203F, Key: Phase91Description, Value: It seems Airidah has fallen to Lilith’s persuasion or is being manipulated by the demon. Yorin has remained with Arlo and Maisie to ensure their safety. It is now up to me to confront Airidah and find the truth behind this bedlam.
-Hash: 9947FC67, Key: Phase91OutsideSubzoneHeader, Value: Defeat Airidah atop Solitude
 Hash: 81A7EAE2, Key: Callback93Header, Value: Defeat Airidah
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find Airidah at Solitude
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: It seems Airidah has fallen to Lilith’s persuasion or is being manipulated by the demon. Yorin has left to see Arlo and Maisie safely reach Braestaig. It is now up to me to confront Airidah and find the truth behind this bedlam.
+Hash: 3C573B2D, Key: Phase79OutsideSubzoneHeader, Value: Find Airidah atop Solitude
+Hash: 77A8AC47, Key: Phase82OutsideSubzoneHeader, Value: Clear the path to Solitude
+Hash: 6ACF9BCA, Key: Phase85OutsideSubzoneHeader, Value: Find Airidah atop Solitude
+Hash: 5DF68B4D, Key: Phase88OutsideSubzoneHeader, Value: Speak with Airidah atop Solitude
+Hash: A4AAC274, Key: Phase115OutsideSubzoneHeader, Value: Speak with Airidah atop Solitude
+Hash: 9947FC67, Key: Phase91OutsideSubzoneHeader, Value: Defeat Airidah atop Solitude

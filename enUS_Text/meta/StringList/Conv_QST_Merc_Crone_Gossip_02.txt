@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are we not going to discuss what just happened? Varyana, do you eat people?"
+Hash: CF38FC49, Key: Line17.18782A, Value: I was a cannibal, like these we've just slaughtered.
+Hash: 2634A1B6, Key: VoiceDir17.18782A, Value: Haunted. 
+Hash: BA2A7004, Key: Line21.18782A, Value: But when I fled my clan, I finally saw the depravity of our ways. I swore to set aside those habits. And I have...I have.
+Hash: 11261571, Key: VoiceDir21.18782A, Value: Quiet. Thougthtful.  Second "I have" very quiet, like she is trying to convince herself. 
+Hash: 92AE19C6, Key: Line23.18782A, Value: But the hunger doesn't leave you. Ever.
+Hash: E9A9BF33, Key: VoiceDir23.18782A, Value: Intense, almost pained. 

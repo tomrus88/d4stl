@@ -1,0 +1,40 @@
+Hash: 07DFE7C6, Key: ResonanceFailure, Value: The soul energy fails to find a vessel
+Hash: 2A3151D5, Key: MrakFragmentEndures, Value: The Fragmented Soul of Gorschak endures
+Hash: F3E75E7E, Key: MrakFragmentSummon, Value: Gorschak calls forth a new Fragmented Soul
+Hash: BB9FCA7B, Key: X1_Raid_SoulForm_StuckInKR, Value: You are trapped in the Realm of Oblivion 
+Hash: C275EFC3, Key: X1_Raid_SoulForm_MrakSummonAdds, Value: [PH] Gorschak summons his disciples to Sanctuary
+Hash: D565FD3D, Key: X1_Raid_SoulForm_KR_Shut, Value: [PH] The way to the Khazra Realm is shut
+Hash: 2E87D04F, Key: X1_Raid_SoulForm_Enrage, Value: [PH] Gorschak is Enraged!
+Hash: 8762DB66, Key: X1_Raid_SoulSacrifice_RitualQuickens, Value: The Weavers' ritual quickens
+Hash: 31E81F12, Key: ProjectileCarryablePickup, Value: Reflect massive enemy Soul Orbs back at them with this power.
+Hash: 062C4827, Key: OmegaSoulCleanse, Value: To correctly dispel your curse, find your matching symbol.
+Hash: 61B52998, Key: X1_Raid_Omega_TwinADeath, Value: Hurstt is Enraged by the death of his twin.
+Hash: 640A5239, Key: X1_Raid_Omega_TwinBDeath, Value: Vorshok is Enraged by the death of his twin.
+Hash: B70F43D2, Key: MrakInvulnerable, Value: Gorschak has become invulnerable!
+Hash: AE2B1B76, Key: MrakSoulSunderer, Value: The Conduit of Souls has made Gorschak vulnerable!
+Hash: 6455B3D1, Key: MrakFragmentSpawned, Value: The Fragmented Soul of Gorschak has spawned
+Hash: 470A939B, Key: TeleporterActivated, Value: The Teleporter has been activated
+Hash: 3E2DF290, Key: EnterKhazraRealm, Value: The Realm of Oblivion is tearing your soul apart. You will die soon.
+Hash: 4750F2F0, Key: SoulWeaversVulnerable, Value: The Soul Weavers have become vulnerable!
+Hash: 32100535, Key: WestBarriersDisabled, Value: The western barriers have been unlocked
+Hash: 13E5295F, Key: EastBarriersDisabled, Value: The eastern barriers have been unlocked
+Hash: 1938BD22, Key: EntranceBarriersDisabled, Value: The entrance barriers have been unlocked
+Hash: 4E6EC672, Key: WestRitualGuardians, Value: The western Ritual Guardian is vulnerable
+Hash: 09450061, Key: EasternRitualGuardians, Value: The eastern Ritual Guardian is vulnerable
+Hash: D9F97A71, Key: SoulDispersionWarning_Crawl, Value: {icon:Debuff_KhazRealm_Small,1.800000,u}{icon:Aura_Debuff,1.850000} Death is coming for you. Find a way to cleanse your stacks.
+Hash: 9641370B, Key: SoulDispersionWarning_Encounter, Value: {icon:Debuff_KhazRealm_Small,1.800000,u}{icon:Aura_Debuff,1.850000} Death is coming for you. Return to Sanctuary soon.
+Hash: 4DC517D6, Key: X1R_WarpPad_Charged, Value: The Gateway has been charged
+Hash: 3801B0A7, Key: X1R_WarpPad_Firing, Value: The Gateway has been activated
+Hash: 4DEAD44B, Key: X1R_SealingWard, Value: You have dispelled a Sealing Ward
+Hash: F850583F, Key: X1_Raid_MirroredRooms_Softlock, Value: The other rooms party has died. Your fate is sealed.
+Hash: E680783D, Key: KhazraRealm_NearDeath, Value: Your Death is imminent.
+Hash: BC3C1E13, Key: X1R_BarrierRemoved, Value:  A barrier has been removed
+Hash: 9E4E1772, Key: X1_Beta_Miniboss_Bubble, Value: A safety bubble has been activated
+Hash: A1094E51, Key: X1_Beta_Miniboss_WipeWarning, Value: Faeroch is unleashing the fires of the Hells!
+Hash: 26946F8E, Key: RaidProgressResetWarning, Value: [PH] Your current citidel progress is in world tier {Param1}. Your progress will be reset if you enter the citidel in the current world tier.
+Hash: 126E14DF, Key: WrongWorldTierWarning, Value: You must be Torment 1 or higher to venture further.
+Hash: F42C6E28, Key: MustCompleteAlpha, Value: You must overcome the Enclave of Strife to venture further.
+Hash: F3BEBC44, Key: MustCompleteAlphaBeta, Value: You must overcome the Enclave of Strife and The Labyrinth of Souls to venture further.
+Hash: C37A9B0F, Key: SoulEssenceObtained, Value: The Soul Essence has been obtained
+Hash: 9458C448, Key: RaidResetMessage, Value: All conquered wings in the Rise of the Khazra Dark Citadel have reset upon changing Torment.
+Hash: E0646174, Key: MrakFragmentKilled, Value: The Fragmented Soul of Gorschak has been slain!

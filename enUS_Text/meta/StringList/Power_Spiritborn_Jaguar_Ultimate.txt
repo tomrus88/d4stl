@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: The Hunter
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Bound across the battlefield with the Jaguar Spirit, dealing {c_number}{payload:JAGUAR_NOVA_DAMAGE}{/c} damage upon landing and then rapidly slashing enemies in the area for {c_number}{payload:JAGUAR_STRIKE_DAMAGE_TOOLTIP}{/c} total damage over {c_number}{SF_5}{/c} strikes.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Landing Damage {icon:arrow, 1.2} {c_number}{payload:JAGUAR_NOVA_DAMAGE}{/c}
+{icon:bullet, 1.2} Slashes Damage {icon:arrow, 1.2} {c_number}{payload:JAGUAR_STRIKE_DAMAGE_TOOLTIP}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds
+Hash: 5110F53B, Key: Mod8_Description, Value: (PH) {c_label}{u}Ultimate Jaguar{/u}{/c} 
+{icon:bullet,1.2} The Jaguar manifests and bounds around the battlefield for {c_number}{SF_2}{/c} seconds, causing {c_number}6{/c} massive novae that each deal {c_number}{payload:PANTHER_NOVA_DAMAGE}{/c} Fire damage.
+Hash: A4DD1E38, Key: Mod8_Name, Value: (PH) Ultimate Jaguar
+Hash: A06FFEBC, Key: Mod9_Description, Value: {c_important}The Hunter{/c} overfills your {c_important}{u}Ferocity{/u}{/c} by {c_number}{SF_13}{/c} stacks and causes you to deal {c_number}[{SF_14}*100|%x|]{/c} increased damage to {c_important}{u}Injured{/u}{/c} enemies for {c_number}{SF_15}{/c} seconds.
+Hash: A73246D9, Key: Mod9_Name, Value: Harmonious Hunter
+Hash: A36AFD04, Key: Mod10_Description, Value: Killing an enemy while {c_important}The Hunter{/c} is present has a {c_number}[{SF_16}*100|%|]{/c} chance to instantly reset its Cooldown. This chance is halved after each consecutive reset.
+Hash: B6FE4621, Key: Mod10_Name, Value: Exalted Hunter

@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Consume {c_number}35%{/c} of your Max Resource to restore {c_number}35%{/c} of your Max HP (overheal converted to Barrier){/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Necessary Sacrifice
+Hash: B582167E, Key: RuneOverflowBehavior, Value: consume more resource
+Hash: 003DFCC1, Key: Name, Value: Thar

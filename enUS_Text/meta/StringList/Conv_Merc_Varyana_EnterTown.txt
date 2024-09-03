@@ -1,0 +1,5 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: Hmm. I suppose this place will have to do.
+Hash: 67CA4294, Key: Line3.18782A, Value: Pleasant enough. If you like that sort of thing.
+Hash: 404DEC56, Key: Line5.18782A, Value: Truth be told, I've never been the sort for towns.
+Hash: 18D19618, Key: Line7.18782A, Value: I'll stay for your sake, but I don't have to like it.
+Hash: F1553FDA, Key: Line9.18782A, Value: One town is as good as another for me.

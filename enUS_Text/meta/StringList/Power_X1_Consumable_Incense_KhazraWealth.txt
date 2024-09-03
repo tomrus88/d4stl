@@ -1,0 +1,4 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Khazra Power
+Hash: 2827F416, Key: Buff0_Description, Value: All Stats increased. Killing monsters further increases Stats. 
+Hash: 12713EB5, Key: Buff2_Name, Value: Increased Stats
+Hash: C6E60718, Key: Buff2_Description, Value: Increased Stats

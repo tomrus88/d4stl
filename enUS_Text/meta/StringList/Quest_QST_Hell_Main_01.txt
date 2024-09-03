@@ -1,7 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: Essence of Hatred
 Hash: 0871A46B, Key: Toast, Value: Search for Lilith in the Burning Hells
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Join your Horadrim allies in the Burning Hells
-Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We've entered the Gates of Hell, a vile place not meant for mortals to tread, determined to confront and defeat Lilith.
 Hash: BE5C741F, Key: Phase82Description, Value: Together with Donan, Lorath and Neyrelle we've descended into the Realm of Hatred in the Burning Hells to find Lilith.
 Hash: 77A8AC47, Key: Phase82OutsideSubzoneHeader, Value: Enter the Burning Hells
 Hash: B273F88D, Key: Callback223Header, Value: Join your Horadrim allies
@@ -20,12 +19,13 @@ Hash: D7F1DF10, Key: Callback244Header, Value: Speak to Reverend Mother Prava
 Hash: 58A0AFE9, Key: Phase301Description, Value: Together with Donan, Lorath and Neyrelle we've descended into the Burning Hells to find and stop Lilith.
 Hash: 7E35CB51, Key: Phase301OutsideSubzoneHeader, Value: Bring your Horadrim allies to the Burning Overpass
 Hash: 677E0989, Key: Callback300Header, Value: Bring your allies to the Burning Overpass
-Hash: 0A8B41F0, Key: Phase335Description, Value: The Knights Penitent, led by Inarius, were defeated. All around is utter desolation. The Burning Hells is no place for mortals, but we must fight on and get to Lilith before she achieves her goal.
 Hash: 1A6E9538, Key: Phase335OutsideSubzoneHeader, Value: Wait for your Horadrim to join you in the Burning Hells
-Hash: 99688CD2, Key: Callback345Header, Value: Wait for your Horadrim allies to join you
-Hash: ECC46394, Key: Phase348Description, Value: We found the Soulstone among the bodies of the Knights Penitent! Inarius must've entrusted it to Prava after seizing it in Caldeum. There's still a chance to trap Lilith.
 Hash: 8041CF5C, Key: Phase348OutsideSubzoneHeader, Value: Move the body of Reverend Mother Prava in the Burning Hells
 Hash: 335D0654, Key: Callback347Header, Value: Move the body of Reverend Mother Prava
 Hash: 62252072, Key: Phase238Description, Value: Together with Donan, Lorath and Neyrelle we've descended to Burning Hells to find and stop Lilith.
 Hash: 455FE5FA, Key: Phase238OutsideSubzoneHeader, Value: Kill remaining demons attacking your allies in the Burning Hells
 Hash: A408EC0C, Key: Callback240Header, Value: Kill remaining demons
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We've entered the Gates of Hell, a vile place not meant for mortals to tread, determined to confront and defeat Lilith.
+Hash: 99688CD2, Key: Callback345Header, Value: Wait for your Horadrim allies to join you
+Hash: ECC46394, Key: Phase348Description, Value: We found the Soulstone among the bodies of the Knights Penitent! Inarius must've entrusted it to Prava after seizing it in Caldeum. There's still a chance to trap Lilith.
+Hash: 0A8B41F0, Key: Phase335Description, Value: The Knights Penitent, led by Inarius, were defeated. All around is utter desolation. The Burning Hells is no place for mortals, but we must fight on and get to Lilith before she achieves her goal.

@@ -1,0 +1,4 @@
+Hash: 720AF4A4, Key: PS4Group, Value: Vessel of Hatred
+Hash: 74601D45, Key: PS5Group, Value: Vessel of Hatred
+Hash: 003DFCC1, Key: Name, Value: Nahantu Sightseer
+Hash: 003892BF, Key: Desc, Value: Explore all of Nahantu.

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: [PH] Rampaging Earth
+Hash: 003892BF, Key: desc, Value: Critically Striking with an {c_important}Earth{/c} Skill makes you go on a rampage for {c_number}{SF_6}{/c} seconds, causing your {c_important}Werebear{/c} form to deal {c_number}{payload:DAMAGE}{/c} to Nearby enemies every {c_number}[SF_4|1|]{/c} seconds.
+
+Overpowering with a {c_important}Werebear{/c} Skill increases the damage of your {c_important}Earth{/c} Skills by {c_number}[SF_1 * 100|%x|]{/c} for {c_number}{SF_6}{/c} seconds.
+Hash: 2070327B, Key: Buff8_Name, Value: RAMPAGE!
+Hash: A320401E, Key: Buff8_Description, Value: While in Werebear form, deal damage to Nearby enemies.
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Empowered Earth
+Hash: 3763A447, Key: Buff10_Description, Value: Increased Earth Skill damage.

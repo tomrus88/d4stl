@@ -3,17 +3,17 @@ Hash: 0871A46B, Key: Toast, Value: Continue deeper into the mire
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Follow the Serpent deeper into the Writhing Mire
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Either we are all sharing a delusion brought on by this noxious place, or we are hearing whispers in our minds, calling us further. We must be near the Tree!
 Hash: 4FECF0BA, Key: Phase41Description, Value: Either we are all sharing a delusion brought on by this noxious place, or we are hearing whispers in our minds, calling us further. We must be near the Tree!
+Hash: 5BEA8742, Key: Phase41OutsideSubzoneHeader, Value: Speak with Neyrelle in the Writhing Mire
 Hash: FD700C3A, Key: Callback40Header, Value: Speak with Neyrelle
 Hash: 8229E9A3, Key: Phase86Description, Value: Either we are all sharing a delusion brought on by this noxious place, or we are hearing whispers in our minds, calling us further. We must be nearing the Tree.
+Hash: BBDC964B, Key: Phase86OutsideSubzoneHeader, Value: Speak with the Tree of Whispers
 Hash: 2F5A8F83, Key: Callback85Header, Value: Speak with the Tree of Whispers
 Hash: 317F4628, Key: Phase111Description, Value: The Tree of Whispers is a grotesque amalgam of disembodied heads. They speak in strange and cryptic sentences about a place Elias traveled. We must head toward the eastern coast of Hawezar.
+Hash: 6076D870, Key: Phase111OutsideSubzoneHeader, Value: Speak with Lorath at the Tree of Whispers
 Hash: 6AC6FC68, Key: Callback110Header, Value: Speak with Lorath
 Hash: D785DD50, Key: Phase128Description, Value: Either we are all sharing a delusion brought on by this noxious place, or we are hearing whispers in our minds, calling us further. We must be nearing the Tree.
+Hash: 0A7DFC98, Key: Phase128OutsideSubzoneHeader, Value: Follow the serpent with your allies
 Hash: 9044E2EB, Key: Callback131Header, Value: Follow the serpent with your allies
 Hash: EEA9054A, Key: Phase140Description, Value: Either we are all sharing a delusion brought on by this noxious place, or we are hearing whispers in our minds, calling us further. We must be nearing the Tree.
-Hash: 4A642452, Key: Callback147Header, Value: Follow your allies across the serpent
-Hash: 5BEA8742, Key: Phase41OutsideSubzoneHeader, Value: Speak with Neyrelle in the Writhing Mire
-Hash: BBDC964B, Key: Phase86OutsideSubzoneHeader, Value: Speak with the Tree of Whispers
-Hash: 6076D870, Key: Phase111OutsideSubzoneHeader, Value: Speak with Lorath at the Tree of Whispers
-Hash: 0A7DFC98, Key: Phase128OutsideSubzoneHeader, Value: Follow the serpent with your allies
 Hash: 676EBDD2, Key: Phase140OutsideSubzoneHeader, Value: Follow the serpent with your allies
+Hash: 4A642452, Key: Callback147Header, Value: Follow your allies across the serpent

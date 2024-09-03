@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grand Topaz
+Hash: F5C7BC0A, Key: Flavor, Value: Inspiration strikes relentlessly where it rests.

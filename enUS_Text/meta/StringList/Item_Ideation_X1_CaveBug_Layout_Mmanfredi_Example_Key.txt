@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Dungeon Key
+Hash: A646FFA4, Key: Description, Value: Bound to this Dungeon
+Hash: F5C7BC0A, Key: Flavor, Value: The key holds many uses

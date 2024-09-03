@@ -102,7 +102,7 @@ Hash: AF78D794, Key: Receptacle_Inoperable_Generic, Value: A crucial object is m
 Hash: D6CD6C60, Key: DRLG_Generic_Door_Lock, Value: This door is sealed.
 Hash: 754C0CBF, Key: QST_TriuneRitual, Value: Activate the three altars to activate.
 Hash: 1076138A, Key: QST_InsufficientQuestInventorySpace, Value: [PH] Your quest inventory is full. Complete or abandon a quest to make space.
-Hash: 1DC7B385, Key: Paragon Glyph Upgrade Requirement, Value: You must be at least level 50 to upgrade your glyphs.
+Hash: 1DC7B385, Key: Paragon Glyph Upgrade Requirement, Value: You must be level 60 to upgrade your glyphs.
 Hash: B5ECA6D1, Key: Bounty_Leyline_NeedRituals, Value: You must complete other ritual steps.
 Hash: C7B6DE4D, Key: Receptacle_HolyRelic_Dummy, Value: This altar has already been used. 
 Hash: B3DF27B4, Key: DGN_Scos_FloodedDepths, Value: A barrier prevents access to the gate release.
@@ -128,3 +128,9 @@ Hash: C7B295A0, Key: BSK_RequiresWaveCount_6, Value: [ph] You must defeat more w
 Hash: D8E48AF6, Key: BSK_RequiresWavesCount_9, Value: [ph] You must defeat more waves.
 Hash: 222DCF0A, Key: BSK_MustDefeatMoreWaves, Value: You must defeat more waves.
 Hash: 755E7A58, Key: TalismanUnusable, Value: The Talisman is dormant.
+Hash: 684FE6FF, Key: CMP_Gates_Dispenser, Value: This sigil allows the reliquary lantern to be resummoned if lost.
+Hash: 77FEF60E, Key: Receptacle_GoNative_TempleDoor, Value: A Condemned Trophy must be placed to open the Temple Door.
+Hash: FB60A08A, Key: X1_Raid_RitualCircle, Value: You lack the power to use this object
+Hash: F722B149, Key: X1_Raid_SoulEcho, Value: You are already marked with a Sigil
+Hash: D34BE5D2, Key: X1_PortableAnvil_FullyRepaired, Value: No items need to be repaired.
+Hash: 39BD0756, Key: QST_Naha_Ormus1_02, Value: You are not carrying the mosaic piece.

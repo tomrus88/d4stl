@@ -1,0 +1,112 @@
+Hash: 1B8155F5, Key: Mercenary_UnlockDescription, Value: Find Mercenaries across Sanctuary to gain access to their perk, profession, and companionship.
+Hash: CB748F60, Key: Browse Mercenaries, Value: Browse Mercenaries
+Hash: 319D1BB3, Key: MercenaryTab_Overview, Value: Overview
+Hash: 3055C02E, Key: MercenaryTab_Skills, Value: Skills
+Hash: 0F00E00D, Key: MercenaryTab_Reinforcement, Value: Reinforcement
+Hash: FBE42A2C, Key: Mercenary_InParty, Value: In Your Party
+Hash: 7D4BF197, Key: Mercenary_Perk, Value: Perk
+Hash: 9CFA7BED, Key: Mercenary_Profession, Value: Profession
+Hash: 8FE21A49, Key: MercenaryButton_Hire, Value: Hire Mercenary
+Hash: 27DA810F, Key: MercenaryButton_Remove, Value: Remove from Party
+Hash: 3B6A6026, Key: Mercenary_BasicSkill, Value: Basic Skill
+Hash: 5A44A36D, Key: Mercenary_CoreSkill, Value: Core Skill
+Hash: CAC89339, Key: Mercenary_IconicSkill, Value: Iconic Skill
+Hash: 03F119AE, Key: Mercenaries, Value: Mercenaries
+Hash: 7C4BAA82, Key: MercenaryInstructions_Profession, Value: Visit {s1} in the Mercenary Den {icon:Marker_MercenaryHideout, 2.4} to access their profession.
+Hash: 74831122, Key: ModalDescription_RemoveFromParty, Value: Are you sure you want to remove {s1} from your party? You will need to return to the Den to add a Mercenary back to your party.
+Hash: 43B2493A, Key: TooltipDescription_VisitHideoutToHire, Value: Visit the Den {icon:Marker_MercenaryHideout, 2.4} to hire Mercenaries.
+Hash: E453CA23, Key: Mercenary_AvailablePoints, Value: Available Points
+Hash: 8AF6BFBE, Key: MercenaryButton_RefundAll, Value: Refund All
+Hash: 0A7906A6, Key: ModalDescription_RefundAllMercSkills, Value: All skill points will be refunded. Are you sure you want to continue?
+Hash: 00AD2E44, Key: ModalTitle_RefundAllMercSkills, Value: Refund All Skills
+Hash: 7A684670, Key: ModalDescription_ChangeBaseSkill, Value: To change {s1}’s Base Skill, all skill points will be refunded. Are you sure you want to continue?
+Hash: 7A2D4F0E, Key: ModalTitle_ChangeBaseSkill, Value: Change Base Skill
+Hash: F889BA23, Key: Mercenary_ReadyToClaim, Value: Ready to claim
+Hash: 47BB3764, Key: Mercenary_CanOnlyClaimOnce, Value: {c_highlight}Can only claim once{/c}
+Hash: D38E0A71, Key: Mercenary_FollowerNameHUD, Value: {s1} | {s2}
+Hash: 9C1C0AC7, Key: Mercenary_SkillExclusiveChoice, Value: {c_warning}You may only select one skill.{/c}
+Hash: F84A30E2, Key: DismissMercenary, Value: Dismiss
+Hash: 25E2B13B, Key: Mercenary_Close, Value: Close
+Hash: B19F46BA, Key: DismissMercenaryWarningTitle, Value: DISMISS MERCENARY
+Hash: 72514C3D, Key: DismissMercenaryWarningMessage, Value: You will need to return to the Den to hire this Mercenary again. Are you sure you want to dismiss {c_highlight}{s1}{/c} from your party?
+Hash: AFBE01D8, Key: Mercenary_UnlockDescriptionFlyout, Value: Find more Mercenaries across Sanctuary to gain access to their perk, profession, and companionship.
+Hash: D740DD04, Key: MercenaryTab_Rapport, Value: Rapport
+Hash: B0E68659, Key: Mercenary_RapportRank, Value: Rank {s1}
+Hash: 2B332009, Key: Tooltip_Overview_PlaystyleTitle, Value: Playstyles
+Hash: 4192BDF2, Key: ModalTitle_Reinforcements, Value: Reinforcement
+Hash: DB261F47, Key: Reinforcements_BottomTitle_Mercenaries, Value: I. Select Mercenary
+Hash: 56D8CDCB, Key: Reinforcements_BottomTitle_Skills, Value: Select a Skill
+Hash: E51F584A, Key: Reinforcements_BottomText_Mercenaries, Value: (PH) Choose a Mercenary as a reinforcement. They will appear during combat and perform their skill in critical moments. You cannot choose a Mercenary that is currently hired.
+(PH) You gain Rapport with your Reinforcement at a 50% rate.
+Hash: 21D698EE, Key: Reinforcements_BottomText_Skills, Value: (PH) The Mercenary assigned as a reinforcement will come to aid in critical situations and perform this skill. Your hired mercenary and your reinforcement must be different characters.
+(PH) You gain Rapport with your Reinforcement at a 50% rate.
+Hash: 90223C97, Key: Reinforcements_Disable, Value: Disable Reinforcements
+Hash: 180C6561, Key: Reinforcements_Select_Skill, Value: Select Skill
+Hash: C3A991A8, Key: Reinforcements_Select_Mercenary, Value: Select Mercenary
+Hash: 72E366A9, Key: Reinforcements_Apply, Value: Apply
+Hash: A85BF752, Key: Reinforcements_MercNode_NoMercenary, Value: (PH) A Mercenary can be assigned as a Reinforcement. This Mercenary will come to your aid in critical situations. 
+
+{icon:bullet, 1.2} You cannot choose a Mercenary that is currently hired.
+
+{icon:bullet, 1.2} Reinforcements remain active upon joining a party, while hired Mercenaries deactivate.
+
+{icon:bullet, 1.2} If you have no Reinforcement assigned when you join a party, your hired Mercenary will become your Reinforcement by default.
+
+{icon:bullet, 1.2} You gain 50% Rapport with Reinforcements.
+Hash: EAA687E3, Key: Reinforcements_SkillNode_NoSkill, Value: Assign a Mercenary Skill for the Reinforcement to perform.
+Hash: 7D4320D1, Key: Reinforcements_MercNode_HasMercenary, Value: (PH) A Mercenary can be assigned as a Reinforcement. This Mercenary will come to your aid in critical situations. 
+
+{icon:bullet, 1.2} You cannot choose a Mercenary that is currently hired.
+
+{icon:bullet, 1.2} Reinforcements remain active upon joining a party, while hired Mercenaries deactivate.
+
+{icon:bullet, 1.2} If you have no Reinforcement assigned when you join a party, your hired Mercenary will become your Reinforcement by default.
+
+{icon:bullet, 1.2} You gain Rapport with your Reinforcement at a 50% rate.
+Hash: 348CA2D6, Key: Reinforcements_BottomTitle_Opportunity, Value: Select an Opportunity
+Hash: 3E85DBD9, Key: Reinforcements_BottomText_Opportunity, Value: (PH) Select when the mercenary will be prompted to perform its skill
+Hash: CDB82179, Key: Opportunity_Cast_When_Available_Title, Value: Cast When Available.
+Hash: 98DFF45B, Key: Opportunity_Cast_When_Available_Description, Value: Cast when the player casts any skill in combat.
+Hash: 53602F3F, Key: Opportunity_Cast_When_Health_Low_Title, Value: Cast when {c_important}Injured{/c}.
+Hash: FB28BEA1, Key: Opportunity_Cast_When_Health_Low_Description, Value: Cast when the player becomes {c_important}Injured{/c}.
+Hash: 22E99AD3, Key: Opportunity_Cast_When_Player_Is_Crowd_Controlled_Title, Value: Cast when hit with a Control Impairing Effect.
+Hash: A5818935, Key: Opportunity_Cast_When_Player_Is_Crowd_Controlled_Description, Value: Cast when the player is hit with a Control Impairing Effect.
+Hash: 69201669, Key: Opportunity_Cast_Slot_Title, Value: Cast when the player casts {c_white}{powername}{/c}.
+Hash: 9207DD4B, Key: Opportunity_Cast_Slot_Description, Value: Cast when the player casts {c_white}{powername}{/c}.
+Hash: ADBAE89F, Key: Reinforcements_Select_Opportunity, Value: Select Opportunity
+Hash: 15843EFC, Key: Reinforcement_Info, Value: Reinforcements will emerge during combat and execute their {c_highlight}Skill{/c} at an {c_highlight}Opportunity{/c} of your choosing.
+Hash: 83E36508, Key: Reinforce_Order_1, Value: I.
+Hash: 83E36509, Key: Reinforce_Order_2, Value: II.
+Hash: 83E3650A, Key: Reinforce_Order_3, Value: III.
+Hash: AAA0EB35, Key: Reinforcements_OpportunityNode_None, Value: Assign an opportunity for when the Mercenary skill would be triggered.
+Hash: 1E607C17, Key: NoMercs, Value: You have no mercenaries available.
+Hash: 81CEB895, Key: Mercenary_NoHiredMerc, Value: Visit the Den to hire Mercenary.
+Hash: 3108B094, Key: Status_Mercenary_Hired, Value: Hired:
+Hash: 9DFF37AF, Key: Status_Reinforcement_Active, Value: Assigned:
+Hash: A5E20B40, Key: Status_Mercenary_Disabled, Value: Standby:
+Hash: 7D4AC726, Key: Mercenary_Name, Value: {s1}
+Hash: C3E5EB00, Key: ModalTitle_HiredMercenary, Value: Hired Mercenary
+Hash: AF27D276, Key: StatusInfo_Hired_Active, Value: Fights by your side. You are gaining Rapport while they accompany you. 
+Hash: 7C6DD67B, Key: StatusInfo_Reinforcement_Active, Value: Comes to your aid at your command. You gain 50% Rapport with Reinforcements.
+Hash: A8187A12, Key: Statusinfo_Hired_Disabled, Value: Hired Mercenaries don't join player parties. They will return when you venture alone again.
+Hash: 6B233469, Key: StatusInfo_Hire_Inactive, Value: Visit {icon:Marker_MercenaryHideout, 2.4} The Den to hire a Mercenary
+Hash: D34D1572, Key: StatusInfo_Reinforcement_Inactive, Value: Visit the Den to enlist a Reinforcement.
+Hash: A1C7A572, Key: MercenaryButton_Reinforcement, Value: Assign as Reinforcement
+Hash: 7926C4C7, Key: Reinforcement_Info_Hire_Text, Value: Visit {icon:Marker_MercenaryHideout, 2.4}  The Den to enlist a Reinforcement.
+Hash: D704BB85, Key: Mercenary_NameAndRank, Value: {s1} | Rank {s2}
+Hash: A7EBD574, Key: Notification_MercenaryUpgrade, Value: Mercenary Rapport
+Hash: 16E6C301, Key: Notification_MercenaryUnlocked, Value: Mercenary Unlocked
+Hash: B919D917, Key: Notification_MercenaryGoToHideout, Value: Recruit Mercenaries from {icon:Marker_MercenaryHideout, 2.4} The Den.
+Hash: D70E522A, Key: BerserkerCrone_Massacre, Value: Massacre!
+Hash: B8D897E2, Key: BerserkerCrone_MassacreX, Value: x
+Hash: 0DBEF58B, Key: ModalTitle_NotHired, Value: {c_advanced}No Mercenary Hired{/c}
+Hash: F838395B, Key: ModalTitle_ReinforcementsNotEnlisted, Value: {c_advanced}No Reinforcement Enlisted{/c}
+Hash: 415F4024, Key: Status_Mercenary_Active, Value: Active:
+Hash: 2A107253, Key: MercenaryButton_Hideout, Value: Travel to the Den
+Hash: B43C2CEF, Key: Mercenary_Overview_FooterText, Value: Speak with Mercenaries in the Den {icon:Marker_MercenaryHideout, 2.4} to hire them, enlist them as Reinforcements, or dismiss them. 
+Hash: B8A8D47B, Key: Reputation_InfoText, Value: Mercenaries gain {c_important}Rapport{/c} whenever your character earns experience. Rewards are automatically claimed.
+Hash: 57583100, Key: Notification_RepeatableReward, Value: {s1} | Reward Earned
+Hash: A5F9A7D0, Key: Mercenary_TalentExclusiveChoice, Value: {c_warning}You may only select one talent.{/c}
+Hash: 5A35B991, Key: TooltipSkill_Rapport_Required, Value: Requires Rapport Rank {s1}
+Hash: 3C5346A9, Key: Hired_Merc_Standby_Without_Reinforcement, Value: (PH) Your Mercenary is on standby as long as you are in a party. Go to {icon:Marker_MercenaryHideout, 2.4} the Den to enlist a Reinforcement. 
+Hash: 05F7B491, Key: Hired_Merc_Standby_With_Reinforcement, Value: (PH) Your Mercenary is on standby as long as you are in a party.

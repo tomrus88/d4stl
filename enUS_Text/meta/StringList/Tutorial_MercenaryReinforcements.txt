@@ -1,0 +1,2 @@
+Hash: 7BFE534B, Key: simple_instruction, Value: Tailor each Reinforcement by choosing a Mercenary skill and setting an Opportunity trigger to match your combat strategy.
+Hash: 086EAA02, Key: title, Value: Reinforcements

@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: World Traveler
-Hash: 003892BF, Key: Desc, Value: Visit each region of Sanctuary.
+Hash: 003892BF, Key: Desc, Value: Visit each region of Estuar.
 Hash: 3DA448CB, Key: Crit_234368, Value: Dry Steppes Visited
 Hash: 3DA448CC, Key: Crit_234369, Value: Fractured Peaks Visited
 Hash: 3DA448E4, Key: Crit_234370, Value: Hawezar Visited

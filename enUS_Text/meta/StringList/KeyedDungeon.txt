@@ -2,6 +2,9 @@ Hash: FB8C6E63, Key: VampiricRifts_Name, Value: Nightmare Dungeon
 Hash: 46AD1778, Key: EndGameBossLadderHardMode_Name, Value: Nightmare Dungeon
 Hash: 0A18362F, Key: NightmareDungeon_Name, Value: Nightmare Dungeon
 Hash: 1A0B303F, Key: EGD_MSWK_Masterwork_Name, Value: Artificer's Realm
+Hash: 7211C83F, Key: X1_Undercity_Name, Value: Undercity
 Hash: 1613D7B8, Key: BrimstoneKeep_Name, Value: Onslaught
 Hash: A0863464, Key: BrimstoneKeep_KeyDescription, Value: Pass through the Gates of Hell to face the Infernal Hordes.
 Hash: 70A4BBC9, Key: BrimstoneKeep_AffixDescription, Value: Compass Affixes
+Hash: CBC8F54D, Key: EGD_NightmareVaults_Name, Value: Nightmare Vault
+Hash: 07865FA3, Key: EGD_NightmareVaults_Boss_Name, Value: Nightmare Vault

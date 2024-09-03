@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Fire Shot
+Hash: 003892BF, Key: desc, Value: Aldkin shoots a fire bolt, dealing {c_number}{payload:DAMAGE}{/c} damage and {c_number}{dot:BURNING}{/c} damage over {c_number}{buffduration:BURNING}{/c} seconds.

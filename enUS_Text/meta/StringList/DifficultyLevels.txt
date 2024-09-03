@@ -1,0 +1,69 @@
+Hash: 64694DE4, Key: DIFFICULTY_EASY, Value: Easy
+Hash: D59B5C1D, Key: WT1_Title, Value: Normal
+Hash: 229598DE, Key: WT2_Title, Value: Hard
+Hash: 2E33E070, Key: DIFFICULTY_INSANE, Value: Insane
+Hash: 2B749D08, Key: NormalDifficultySubtitle, Value: Baseline Experience
+Hash: E55B2657, Key: NormalDifficultyPoint1, Value: Baseline Diablo IV experience
+Hash: E55B2658, Key: NormalDifficultyPoint2, Value: 0% extra monster health
+Hash: E55B2659, Key: NormalDifficultyPoint3, Value: 0% extra monster damage
+Hash: E55B265A, Key: NormalDifficultyPoint4, Value: 0% extra xp/gold gain
+Hash: 91CB7145, Key: DifficultyBulletPoint, Value: {icon:AttributeBullet, .8}
+Hash: B80DD6F3, Key: SelectDifficulty, Value: Select Difficulty
+Hash: 6F8FD59F, Key: WT3_Title, Value: Expert
+Hash: 09844F21, Key: WT5_Title, Value: Torment I
+Hash: 567E8BE2, Key: WT6_Title, Value: Torment II
+Hash: F0730564, Key: WT8_Title, Value: Torment IV
+Hash: A378C8A3, Key: WT7_Title, Value: Torment III
+Hash: 688AB185, Key: WT1_Flavor, Value: Gather your strength
+Hash: 54CC8666, Key: WT2_Flavor, Value: Hell has awoken
+Hash: 410E5B47, Key: WT3_Flavor, Value: The hordes amass
+Hash: 19920509, Key: WT5_Flavor, Value: Test your mettle
+Hash: 05D3D9EA, Key: WT6_Flavor, Value: The fires burn hotter
+Hash: F215AECB, Key: WT7_Flavor, Value: Abandon all hope
+Hash: DE5783AC, Key: WT8_Flavor, Value: The abyss stares back
+Hash: 6866F93B, Key: WT1_Guidance, Value: For new and returning players
+Hash: 6C718A5C, Key: WT2_Guidance, Value: For experienced Diablo players
+Hash: 707C1B7D, Key: WT3_Guidance, Value: For skilled Diablo IV players that have acquired several {c_legendary}Legendary{/c} items
+Hash: 78913DBF, Key: WT5_Guidance, Value: For characters with the highest level of skill and equipment enhanced by Tempering and Masterworking
+Hash: 7C9BCEE0, Key: WT6_Guidance, Value: For the most skilled and powerful wanderers of Sanctuary
+Hash: 80A66001, Key: WT7_Guidance, Value: For the most skilled and powerful wanderers of Sanctuary
+Hash: 84B0F122, Key: WT8_Guidance, Value: For the most skilled and powerful wanderers of Sanctuary
+Hash: 3CB9804B, Key: WT5_Unlock, Value: Conquer The Pit of the Artificer Tier 20 at Level 60
+Hash: 28FB552C, Key: WT6_Unlock, Value: Conquer The Pit of the Artificer Tier 35 at Level 60
+Hash: 153D2A0D, Key: WT7_Unlock, Value: Conquer The Pit of the Artificer Tier 50 at Level 60
+Hash: 017EFEEE, Key: WT8_Unlock, Value: Conquer The Pit of the Artificer Tier 65 at Level 60
+Hash: 22125B92, Key: WT2_Main1, Value: Monster kills grant {c_number}75%{/c} more Experience
+Hash: 6F0C9853, Key: WT3_Main1, Value: Monster kills grant {c_number}125%{/c} more Experience
+Hash: 090111D5, Key: WT5_Main1, Value: The start of Diablo IV's Endgame, new activities and items become available
+Hash: 090111D6, Key: WT5_Main2, Value: Monster kills grant {c_number}300%{/c} more Gold and Experience
+Hash: 090111D7, Key: WT5_Main3, Value: {c_important}Ancestral{/c} quality items become available
+Hash: 55FB4E96, Key: WT6_Main1, Value: Monster kills grant {c_number}400%{/c} more Gold and Experience
+Hash: 090111D8, Key: WT5_Main4, Value: Increased {c_legendary}Legendary{/c}, {c_unique}Unique{/c} and {c_mythic}Mythic Unique{/c} items per Torment tier
+Hash: A2F58B57, Key: WT7_Main1, Value: Monster kills grant {c_number}500%{/c} more Gold and Experience
+Hash: EFEFC818, Key: WT8_Main1, Value: Monster kills grant {c_number}600%{/c} more Gold and Experience
+Hash: A2F58B58, Key: WT7_Main2, Value: Increased {c_legendary}Legendary{/c}, {c_unique}Unique{/c} and {c_mythic}Mythic Unique{/c} items per Torment tier
+Hash: EFEFC819, Key: WT8_Main2, Value: Increased {c_legendary}Legendary{/c}, {c_unique}Unique{/c} and {c_mythic}Mythic Unique{/c} items per Torment tier
+Hash: 3691728B, Key: WT5_Info, Value: 
+{c_warning}Your Armor is reduced by {c_number}250{/c} and Resistances by {c_number}25%{/c}{/c} 
+Hash: 38E69B2C, Key: WT6_Info, Value: 
+{c_warning}Your Armor is reduced by {c_number}500{/c} and Resistances by {c_number}50%{/c}{/c} 
+Hash: 3B3BC3CD, Key: WT7_Info, Value: 
+{c_warning}Your Armor is reduced by {c_number}750{/c} and Resistances by {c_number}75%{/c}{/c} 
+Hash: 3D90EC6E, Key: WT8_Info, Value: 
+{c_warning}Your Armor is reduced by {c_number}1000{/c} and Resistances by {c_number}100%{/c}{/c} 
+Hash: 55FB4E97, Key: WT6_Main2, Value: Increased {c_legendary}Legendary{/c}, {c_unique}Unique{/c} and {c_mythic}Mythic Unique{/c} items per Torment tier
+Hash: D5181ED1, Key: WT1_Main1, Value: This is the standard Diablo IV experience
+Hash: F669AAE5, Key: WT5_Title_SR, Value: Torment 1
+Hash: FA743C06, Key: WT6_Title_SR, Value: Torment 2
+Hash: FE7ECD27, Key: WT7_Title_SR, Value: Torment 3
+Hash: 02895E48, Key: WT8_Title_SR, Value: Torment 4
+Hash: 2D503028, Key: WT4_Flavor, Value: Repent your sins
+Hash: 7486AC9E, Key: WT4_Guidance, Value: For players that have mastered Diablo IV and have acquired several {c_legendary}Legendary{/c} items that have been enhanced by Tempering
+Hash: BC06D514, Key: WT4_Main1, Value: Monster kills grant {c_number}175%{/c} more Experience
+Hash: BC8A1260, Key: WT4_Title, Value: Penitent
+Hash: 5077AB6A, Key: WT4_Unlock, Value: Reach level 50
+Hash: F25F19C4, Key: WT4_Title_SR, Value: Penitent
+Hash: 6435D689, Key: WT3_Unlock, Value: Complete the Prologue
+Hash: 22125B93, Key: WT2_Main2, Value: Monsters drop {c_number}75%{/c} more Gold
+Hash: 6F0C9854, Key: WT3_Main2, Value: Monsters drop {c_number}125%{/c} more Gold
+Hash: BC06D515, Key: WT4_Main2, Value: Monsters drop {c_number}175%{/c} more Gold

@@ -7,7 +7,7 @@ Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown T
 Hash: F2D5722F, Key: rankup_desc, Value:  
 {icon:bullet,1.2} Passive Damage {icon:arrow,1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
 {icon:bullet,1.2} Active Damage {icon:arrow,1.2} {c_number}{payload:POOL_TOOLTIP_DAMAGE}{/c}
-Hash: 74D6BC35, Key: Mod2_Description, Value: You have {c_number}[{SF_9}*100|%+|]{/c} increased Critical Strike Chance against enemies for {c_number}{SF_10}{/c} seconds after they are hit by {c_important}Ravens{/c} .
+Hash: 74D6BC35, Key: Mod2_Description, Value: You have {c_number}[{SF_9}*100|%+|]{/c} increased Critical Strike Chance against enemies for {c_number}{SF_10}{/c} seconds after they are hit by {c_important}Ravens{/c}.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Ravens
 Hash: D618A933, Key: Mod0_Description, Value: Enemies inside the swarm of {c_important}Ravens{/c} when it is activated become {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_11}{/c} seconds.
 Hash: 9233D930, Key: Mod0_Name, Value: Ferocious Ravens

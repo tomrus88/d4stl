@@ -4,23 +4,34 @@ Hash: 9355166F, Key: Line9.BAE4.Nec, Value: Agreed.
 Hash: 9354EDA4, Key: Line9.BAE4.Dru, Value: I agree.
 Hash: 93552D0D, Key: Line9.BAE4.Sor, Value: I agree.
 Hash: 935528C1, Key: Line9.BAE4.Rog, Value: Agreed.
+Hash: 93552D25, Key: Line9.BAE4.Spi, Value: Agreed.
 Hash: 750EE5FC, Key: Line16.BAE4.Bar, Value: All right.
 Hash: 750F197D, Key: Line16.BAE4.Nec, Value: Fine.
 Hash: 750EF0B2, Key: Line16.BAE4.Dru, Value: All right.
 Hash: 750F301B, Key: Line16.BAE4.Sor, Value: All right.
 Hash: 750F2BCF, Key: Line16.BAE4.Rog, Value: Fine.
+Hash: 750F3033, Key: Line16.BAE4.Spi, Value: All right.
 Hash: EA4156B9, Key: Line22.BAE4.Bar, Value: Yeah.
 Hash: EA418A3A, Key: Line22.BAE4.Nec, Value: Indeed.
 Hash: EA41616F, Key: Line22.BAE4.Dru, Value: Yeah.
 Hash: EA41A0D8, Key: Line22.BAE4.Sor, Value: Indeed.
 Hash: EA419C8C, Key: Line22.BAE4.Rog, Value: Yeah.
+Hash: EA41A0F0, Key: Line22.BAE4.Spi, Value: Sure.
 Hash: 0280BD7F, Key: Line28.BAE4.Bar, Value: I'll handle it.
 Hash: 0280F100, Key: Line28.BAE4.Nec, Value: I'll handle it.
 Hash: 0280C835, Key: Line28.BAE4.Dru, Value: I will take care of it.
 Hash: 0281079E, Key: Line28.BAE4.Sor, Value: I will handle it.
 Hash: 02810352, Key: Line28.BAE4.Rog, Value: Leave it to me.
+Hash: 028107B6, Key: Line28.BAE4.Spi, Value: I’ll handle it.
 Hash: 7BBDBF5D, Key: Line35.BAE4.Bar, Value: I understand.
 Hash: 7BBDF2DE, Key: Line35.BAE4.Nec, Value: Understood.
 Hash: 7BBDCA13, Key: Line35.BAE4.Dru, Value: I understand.
 Hash: 7BBE097C, Key: Line35.BAE4.Sor, Value: Understood.
 Hash: 7BBE0530, Key: Line35.BAE4.Rog, Value: Understood.
+Hash: 7BBE0994, Key: Line35.BAE4.Spi, Value: Understood.
+Hash: 5326407C, Key: Line46.BAE4, Value: Yes.
+Hash: C22FA6A9, Key: VoiceDir46.BAE4, Value: Spoken to an NPC. Hesitant but NOT suspicious.  The Player is uncomfortable about something here, but they are telling the NPC they will help.
+Hash: 57D091BE, Key: Line48.BAE4, Value: Yes.
+Hash: C6D9F7EB, Key: VoiceDir48.BAE4, Value: Spoken to an NPC, but with anger. The anger can be directed at the NPC as if they and the Player are in an argument. However, the Player is still helping and/or answering in the affirmative here.
+Hash: 92218977, Key: Line50.BAE4, Value: Yes, of course.
+Hash: 012AEFA4, Key: VoiceDir50.BAE4, Value: Spoken to an NPC. Player is answering a request for help or a question with sarcasm.

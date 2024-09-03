@@ -142,3 +142,39 @@ Hash: 5C83619C, Key: Line1816.EDC73, Value: Hurry! Please!
 Hash: 92F3B4A9, Key: VoiceDir1816.EDC73, Value: urgent, hastened
 Hash: 437217DF, Key: Line1819.EDC73, Value: Time is short!
 Hash: 79E26AEC, Key: VoiceDir1819.EDC73, Value: urgent, hastened
+Hash: 09E663E2, Key: Line2070.1BB53F, Value: We’re not going to make it!
+Hash: 0E61188F, Key: VoiceDir2070.1BB53F, Value: urgent, hastened
+Hash: CEABE285, Key: Line2073.1BB53F, Value: Hurry! Please!
+Hash: D3269732, Key: VoiceDir2073.1BB53F, Value: urgent, hastened
+Hash: 0B36C508, Key: Line2067.1BB53F, Value: Time is short!
+Hash: 0FB179B5, Key: VoiceDir2067.1BB53F, Value: urgent, hastened
+Hash: 64CBE84E, Key: Line2125.1BB540, Value: We’re not going to make it!
+Hash: 69469CFB, Key: VoiceDir2125.1BB540, Value: urgent, hastened
+Hash: 299166F1, Key: Line2128.1BB540, Value: Hurry! Please!
+Hash: 2E0C1B9E, Key: VoiceDir2128.1BB540, Value: urgent, hastened
+Hash: A00669AB, Key: Line2122.1BB540, Value: Time is short!
+Hash: A4811E58, Key: VoiceDir2122.1BB540, Value: urgent, hastened
+Hash: 040DA26D, Key: Line2114.1BB541, Value: We’re not going to make it!
+Hash: 0888571A, Key: VoiceDir2114.1BB541, Value: urgent, hastened
+Hash: C8D32110, Key: Line2117.1BB541, Value: Hurry! Please!
+Hash: CD4DD5BD, Key: VoiceDir2117.1BB541, Value: urgent, hastened
+Hash: 3F4823CA, Key: Line2111.1BB541, Value: Time is short!
+Hash: 43C2D877, Key: VoiceDir2111.1BB541, Value: urgent, hastened
+Hash: A34F5C8C, Key: Line2103.1BB542, Value: We’re not going to make it!
+Hash: A7CA1139, Key: VoiceDir2103.1BB542, Value: urgent, hastened
+Hash: 6814DB2F, Key: Line2106.1BB542, Value: Hurry! Please!
+Hash: 6C8F8FDC, Key: VoiceDir2106.1BB542, Value: urgent, hastened
+Hash: DE89DDE9, Key: Line2100.1BB542, Value: Time is short!
+Hash: E3049296, Key: VoiceDir2100.1BB542, Value: urgent, hastened
+Hash: CB62EF94, Key: Line2092.1BB543, Value: We’re not going to make it!
+Hash: CFDDA441, Key: VoiceDir2092.1BB543, Value: urgent, hastened
+Hash: 90286E37, Key: Line2095.1BB543, Value: Hurry! Please!
+Hash: 94A322E4, Key: VoiceDir2095.1BB543, Value: urgent, hastened
+Hash: CCB350BA, Key: Line2089.1BB543, Value: Time is short!
+Hash: D12E0567, Key: VoiceDir2089.1BB543, Value: urgent, hastened
+Hash: 6AA4A9B3, Key: Line2081.1BB544, Value: We’re not going to make it!
+Hash: 6F1F5E60, Key: VoiceDir2081.1BB544, Value: urgent, hastened
+Hash: 2F6A2856, Key: Line2084.1BB544, Value: Hurry! Please!
+Hash: 33E4DD03, Key: VoiceDir2084.1BB544, Value: urgent, hastened
+Hash: 6BF50AD9, Key: Line2078.1BB544, Value: Time is short!
+Hash: 706FBF86, Key: VoiceDir2078.1BB544, Value: urgent, hastened

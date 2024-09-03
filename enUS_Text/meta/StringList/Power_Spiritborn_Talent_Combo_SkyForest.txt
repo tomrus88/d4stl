@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: (PH) {icon:bullet,1.2} Vindicator {icon:bullet,1.2}
+{c_gray}[Eagle][Gorilla]{/c}
+Hash: 003892BF, Key: desc, Value: (PH) {icon:bullet,1.2} Gain {c_number}[{SF_2}*100|+%|]{/c} Block Chance and {c_number}[{SF_3}*100|+%|]{/c} Block Reduction while you have a {c_important}Eagle{/c} Skill active.
+
+{icon:bullet,1.2} Gain increased Critical Strike Damage equal to {c_number}[{SF_4}*100|+%|]{/c} of your Block Chance. Blocking an attack doubles this bonus for {c_number}{SF_6}{/c} seconds.

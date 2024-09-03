@@ -1,0 +1,2 @@
+Hash: 8F54DB26, Key: Line1.190876, Value: Wait, where are you going? Don’t leave me!
+Hash: DF8B06F3, Key: VoiceDir1.190876, Value: frantic

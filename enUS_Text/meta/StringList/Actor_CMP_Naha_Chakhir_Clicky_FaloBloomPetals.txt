@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Falo Bloom Petals
+Hash: F2CA04D8, Key: NoticeSignText, Value: Even in their withered state, each petal practically shimmers with every color 
+imaginable. The Dregs must be using these in their poison concoctions, but to what end?

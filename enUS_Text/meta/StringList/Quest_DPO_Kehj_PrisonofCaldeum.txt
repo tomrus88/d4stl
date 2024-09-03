@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: Abandoned by the light.
 Hash: 79001D61, Key: Callback38Header, Value: Slay the Warden and collect the {ITEM}
-Hash: B8A227EA, Key: Callback4Header, Value: Use the Warden's Key to open the {GIZMO}
+Hash: B8A227EA, Key: Callback4Header, Value: Use the {ITEM:DGN_Kehj_PrisonofCaldeum_Key} to open the {GIZMO}
 Hash: EC8B1AEE, Key: Callback8Header, Value: Travel to the {LEVELAREA}
 Hash: 85A4CA58, Key: Callback11Header, Value: Collect {ITEM} from Animus Carriers
 Hash: 538236DE, Key: Callback17Header, Value: Deposit Animus into the {GIZMO}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Phasing Poltergeist's
+Hash: 003892BF, Key: Desc, Value: When {c_important}Bone Spirit{/c} explodes, it spawns {c_number}[Affix."Static Value 0"]{/c} spirits that seek nearby enemies and deal {c_random}[Affix_Value_1|%|]{/c.} of its damage. This effect can only occur once per cast.

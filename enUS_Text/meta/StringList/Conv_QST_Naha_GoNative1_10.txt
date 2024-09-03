@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this 'Sacrament' you speak of?"
+Hash: 8F733B88, Key: Line1.19FF92, Value: We first encountered it in skirmishes with Dregs. Not long after, it was being shared as a treatment for pain.
+Hash: 67F6E54A, Key: Line3.19FF92, Value: Kharov was the first to ritualize it. He enshrined it in our very faith, and I must admit, numbing absolution was attractive.
+Hash: 407A8F0C, Key: Line5.19FF92, Value: But, my hesitation gave me a clear mind as the Sacrament warped my brethren around me. I pray the Light returns to their worn faces.

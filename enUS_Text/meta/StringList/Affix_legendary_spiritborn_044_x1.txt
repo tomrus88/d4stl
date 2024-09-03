@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Haste
+Hash: 003892BF, Key: Desc, Value: Every second while moving gain {c_random}[Affix_Value_1*100|%+|]{/c} Bonus Movement Speed for {c_number}[Affix."Static Value 0"]{/c} seconds, up to {c_random}[Affix_Value_1*100*Affix."Static Value 1"|%+|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: Every second while moving gain {c_random}[Affix_Value_1*100|%+|]{/c} Bonus Movement Speed for {c_number}[Affix."Static Value 0"]{/c} seconds, up to {c_random}[Affix_Value_1*100*Affix."Static Value 1"|%+|]{/c}.

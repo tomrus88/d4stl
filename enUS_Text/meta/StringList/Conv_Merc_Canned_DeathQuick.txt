@@ -1,0 +1,8 @@
+Hash: 518A0B71, Key: Line493.189135, Value: (gasp)
+Hash: 87FA5E7E, Key: VoiceDir493.189135, Value: A quick death
+Hash: 899653AF, Key: Line769.1602FD, Value: (gasp)
+Hash: C006A6BC, Key: VoiceDir769.1602FD, Value: A quick death
+Hash: 886E0D01, Key: Line772.18782A, Value: (gasp)
+Hash: BEDE600E, Key: VoiceDir772.18782A, Value: A quick death
+Hash: 4D469EEF, Key: Line775.199120, Value: (gasp)
+Hash: 83B6F1FC, Key: VoiceDir775.199120, Value: A quick death

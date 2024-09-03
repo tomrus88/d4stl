@@ -35,14 +35,14 @@ Hash: 12DD566C, Key: Line281.B5398, Value: I've learned the one constant is chan
 Hash: F9CC0CAF, Key: Line284.B5398, Value: We can find a use for most everything. What have you?
 Hash: E0BAC2F2, Key: Line287.B5398, Value: I see potential. How may I help?
 Hash: 4C19680F, Key: Line292.B5399, Value: Our stables are warm and dry. Board your mount here.
-Hash: 33081E52, Key: Line295.B5399, Value: The best care for your travelling companion.
+Hash: 33081E52, Key: Line295.B5399, Value: The best care for your traveling companion.
 Hash: 19F6D495, Key: Line298.B5399, Value: Quality mounts. Quality stables.
 Hash: BF3F9A10, Key: Line303.B539A, Value: Our stables are warm and dry. Board your mount here.
-Hash: A62E5053, Key: Line306.B539A, Value: The best care for your travelling companion.
+Hash: A62E5053, Key: Line306.B539A, Value: The best care for your traveling companion.
 Hash: 8D1D0696, Key: Line309.B539A, Value: Quality mounts. Quality stables.
 Hash: F87BABB5, Key: Line314.B539D, Value: It's simple: buy armor, live longer.
 Hash: DF6A61F8, Key: Line317.B539D, Value: Your skin can't turn blades.
-Hash: B0D48D92, Key: Line320.B539D, Value: It's a dangerous world. Come make it less so.
+Hash: B0D48D92, Key: Line320.B539D, Value: It's a dangerous world. Come! Make it less so.
 Hash: 31B7BD58, Key: Line325.B539E, Value: It's simple: buy armor, live longer.
 Hash: 18A6739B, Key: Line328.B539E, Value: Your skin can't turn blades.
 Hash: EA109F35, Key: Line331.B539E, Value: It's a dangerous world. Come make it less so.
@@ -56,7 +56,7 @@ Hash: 3A5F8FCF, Key: Line380.B53A3, Value: Wonders wrapped in vellum.
 Hash: 214E4612, Key: Line383.B53A3, Value: Come speak words of power.
 Hash: 083CFC55, Key: Line386.B53A3, Value: Ink. Vellum. Power.
 Hash: 739BA172, Key: Line391.B53A4, Value: Wonders wrapped in vellum.
-Hash: 5A8A57B5, Key: Line394.B53A4, Value: Come speak words of power.
+Hash: 5A8A57B5, Key: Line394.B53A4, Value: Come! Speak words of power.
 Hash: 41790DF8, Key: Line397.B53A4, Value: Ink. Vellum. Power.
 Hash: E6C1D34C, Key: Line402.B53A5, Value: There is steel for when words fail.
 Hash: CDB0898F, Key: Line405.B53A5, Value: Up close or at a distance, I have weapons for any engagement.
@@ -102,15 +102,15 @@ Hash: CF05E1E7, Key: Line494.B2A6E, Value: Need stonework? Settings maybe?
 Hash: 26018754, Key: VoiceDir494.B2A6E, Value: Mild interest. Doesn't think you'll buy anything.
 Hash: 4FE9111A, Key: Line499.B2A36, Value: I can take common, turn it special.
 Hash: A6E4B687, Key: VoiceDir499.B2A36, Value: Cautious, hopeful to make a sale.
-Hash: 5B3D5CEB, Key: Line502.B2A36, Value: Alright, traveler?
+Hash: 5B3D5CEB, Key: Line502.B2A36, Value: All right, traveler?
 Hash: B2390258, Key: VoiceDir502.B2A36, Value: Cautious, hopeful to make a sale.
-Hash: 422C132E, Key: Line505.B2A36, Value: No witchcraft here! Only honest magics.
+Hash: 422C132E, Key: Line505.B2A36, Value: No witchcraft here! Only honest magicks.
 Hash: 9927B89B, Key: VoiceDir505.B2A36, Value: Smiling, slightly loud, as if to advertise he's not selling anything dodgy.
 Hash: AD8AB8DD, Key: Line510.B2A6F, Value: I can take common, turn it special.
 Hash: 04865E4A, Key: VoiceDir510.B2A6F, Value: Cautious, hopeful to make a sale.
-Hash: 94796F20, Key: Line513.B2A6F, Value: Alright, traveler?
+Hash: 94796F20, Key: Line513.B2A6F, Value: All right, traveler?
 Hash: EB75148D, Key: VoiceDir513.B2A6F, Value: Cautious, hopeful to make a sale.
-Hash: 7B682563, Key: Line516.B2A6F, Value: No witchcraft here! Only honest magics.
+Hash: 7B682563, Key: Line516.B2A6F, Value: No witchcraft here! Only honest magicks.
 Hash: D263CAD0, Key: VoiceDir516.B2A6F, Value: Smiling, slightly loud, as if to advertise he's not selling anything dodgy.
 Hash: E6C6CA07, Key: Line521.B2A40, Value: Ease your burden.
 Hash: CDB5804A, Key: Line524.B2A40, Value: Safest place in Sanctuary.
@@ -626,3 +626,171 @@ Hash: B5D295F1, Key: Line1747.14638B, Value: I see that look in your eye…
 Hash: BA4D4A9E, Key: VoiceDir1747.14638B, Value: Encouraging. Grinning. Sly.
 Hash: B48234CB, Key: Line1750.14638B, Value: Yes! The game is on.
 Hash: B8FCE978, Key: VoiceDir1750.14638B, Value: Encouraging. Grinning. Sly.
+Hash: 187F453B, Key: Line1761.1B358C, Value: How'd you get that scar?
+Hash: 1CF9F9E8, Key: VoiceDir1761.1B358C, Value: Young, sheltered. Likes to hear stories of the world.
+Hash: DD44C3DE, Key: Line1764.1B358C, Value: Have you any news from the border?
+Hash: E1BF788B, Key: VoiceDir1764.1B358C, Value: Young, sheltered. Likes to hear stories of the world.
+Hash: A20A4281, Key: Line1767.1B358C, Value: Oof. What kind of a beast gave you that wound?
+Hash: A684F72E, Key: VoiceDir1767.1B358C, Value: Young, sheltered. Likes to hear stories of the world.
+Hash: ACA6B94E, Key: Line1829.1B3590, Value: This world is dying. Yet still, we must work.
+Hash: B1216DFB, Key: VoiceDir1829.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: AB565828, Key: Line1832.1B3590, Value: I can brew almost anything, for all the good it's done.
+Hash: AFD10CD5, Key: VoiceDir1832.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: 701BD6CB, Key: Line1835.1B3590, Value: A potion can help, but it won't save your hide. Be careful.
+Hash: 74968B78, Key: VoiceDir1835.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: 4BFA030C, Key: Line1818.1C2635, Value: Oh, a customer! Bear with me.
+Hash: 5074B7B9, Key: VoiceDir1818.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: 4AA9A1E6, Key: Line1821.1C2635, Value: I'll be right with you! I can do this.
+Hash: 4F245693, Key: VoiceDir1821.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early. Second sentence is under breath, to himself
+Hash: 0F6F2089, Key: Line1824.1C2635, Value: What've you got? I can probably fix it.
+Hash: 13E9D536, Key: VoiceDir1824.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: EB3BBD28, Key: Line1807.1C2633, Value: Whazzat? Speak up now.
+Hash: EFB671D5, Key: VoiceDir1807.1C2633, Value: Cranky old fart. Impatient.
+Hash: E9EB5C02, Key: Line1810.1C2633, Value: Don't gawk now. Take it or leave it.
+Hash: EE6610AF, Key: VoiceDir1810.1C2633, Value: Cranky old fart. Impatient.
+Hash: AEB0DAA5, Key: Line1813.1C2633, Value: I make my gear the old way. Strong and sturdy.
+Hash: B32B8F52, Key: VoiceDir1813.1C2633, Value: Cranky old fart. Impatient.
+Hash: 133DC210, Key: Line1796.1B34DE, Value: Don't look at me like that. I know what I'm doing.
+Hash: 17B876BD, Key: VoiceDir1796.1B34DE, Value: A young girl. Bitter and angry about the tragedy that's befallen her family.
+Hash: D80340B3, Key: Line1799.1B34DE, Value: Hey, you want my help or not?
+Hash: DC7DF560, Key: VoiceDir1799.1B34DE, Value: A young girl. Bitter and angry about the tragedy that's befallen her family.
+Hash: 4DE106A4, Key: Line1802.1B34DE, Value: I'm the only healer we've got. Take it or leave it.
+Hash: 525BBB51, Key: VoiceDir1802.1B34DE, Value: A young girl. Bitter and angry about the tragedy that's befallen her family.
+Hash: B27F7C2F, Key: Line1785.1B34DF, Value: Akarat's steps, it's good to see another grown face.
+Hash: B6FA30DC, Key: VoiceDir1785.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 7744FAD2, Key: Line1788.1B34DF, Value: Uh, have you come to help the young ones?
+Hash: 7BBFAF7F, Key: VoiceDir1788.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 75F499AC, Key: Line1791.1B34DF, Value: At last, a chance to work on some weapons.
+Hash: 7A6F4E59, Key: VoiceDir1791.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 51C135FC, Key: Line1774.1B34C6, Value: Don't stare. They always stare.
+Hash: 563BEAA9, Key: VoiceDir1774.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: 1686B49F, Key: Line1777.1B34C6, Value: Hey, coin up front. That's the rules.
+Hash: 1B01694C, Key: VoiceDir1777.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: 15365379, Key: Line1780.1B34C6, Value: This stuff is old, but good. You'll see.
+Hash: 19B10826, Key: VoiceDir1780.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: 474F20E4, Key: Line1840.1B34DC, Value: It's my job to gather up armor from the dead.
+Hash: 4BC9D591, Key: VoiceDir1840.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: 0C149F87, Key: Line1843.1B34DC, Value: These are too big for me, but maybe they'll fit you?
+Hash: 108F5434, Key: VoiceDir1843.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: D0DA1E2A, Key: Line1846.1B34DC, Value: It would mean a lot if you bought something.
+Hash: D554D2D7, Key: VoiceDir1846.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: A81EF509, Key: Line1851.1C2644, Value: Now, where did I put my bandages...?
+Hash: AC99A9B6, Key: VoiceDir1851.1C2644, Value: Somewhat rusty, out of practice. 
+Hash: 6CE473AC, Key: Line1854.1C2644, Value: Bear with me, these hands aren't what they used to be.
+Hash: 715F2859, Key: VoiceDir1854.1C2644, Value: Somewhat rusty, out of practice. 
+Hash: 31A9F24F, Key: Line1857.1C2644, Value: Come in, come in. I have salves for your pains.
+Hash: 3624A6FC, Key: VoiceDir1857.1C2644, Value: Somewhat rusty, out of practice. 
+Hash: 08DD3AEE, Key: Line1862.1C2647, Value: Don't get many outsiders. What brings you?
+Hash: 0D57EF9B, Key: VoiceDir1862.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: CDA2B991, Key: Line1865.1C2647, Value: Come on, then. Show me what needs fixing.
+Hash: D21D6E3E, Key: VoiceDir1865.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: 92683834, Key: Line1868.1C2647, Value: I can tell you've seen battle. How fares your gear?
+Hash: 96E2ECE1, Key: VoiceDir1868.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: 699B80FB, Key: Line1873.1C264B, Value: (hic) I've got bits and bobs and all sorts of shiny things. (exhale)
+Hash: 6E1635A8, Key: VoiceDir1873.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: 2E60FF9E, Key: Line1876.1C264B, Value: I've got a mountain of junk with your name on it.
+Hash: 32DBB44B, Key: VoiceDir1876.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: F3267E41, Key: Line1879.1C264B, Value: Take a look; they don't make this stuff like they used to! (chuckle)
+Hash: F7A132EE, Key: VoiceDir1879.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: CA59C6DF, Key: Line1884.1C264D, Value: Gems are rare in these parts, but I've done my best.
+Hash: CED47B8C, Key: VoiceDir1884.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: 8F1F4582, Key: Line1887.1C264D, Value: My selection's small, but I hope you'll like it.
+Hash: 9399FA2F, Key: VoiceDir1887.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: 8DCEE45C, Key: Line1890.1C264D, Value: A customer! Oh, how exciting!
+Hash: 92499909, Key: VoiceDir1890.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: 2B06802F, Key: Line1895.1B3624, Value: This'll only hurt a bit.
+Hash: 2F8134DC, Key: VoiceDir1895.1B3624, Value: In the profession for the wrong reasons. Somewhat sadistic.
+Hash: EFCBFED2, Key: Line1898.1B3624, Value: My, that'll heal to a breathtaking scar.
+Hash: F446B37F, Key: VoiceDir1898.1B3624, Value: In the profession for the wrong reasons. Somewhat sadistic.
+Hash: 65A9C4C3, Key: Line1901.1B3624, Value: Ooh, now that's a feisty wound. Bring it here.
+Hash: 6A247970, Key: VoiceDir1901.1B3624, Value: In the profession for the wrong reasons. Somewhat sadistic.
+Hash: 02F2ED27, Key: Line1906.1B3623, Value: Finally, someone worthy of my talent.
+Hash: 076DA1D4, Key: VoiceDir1906.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: C7B86BCA, Key: Line1909.1B3623, Value: I work with the rare, the arcane. Don't disappoint.
+Hash: CC332077, Key: VoiceDir1909.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: C6680AA4, Key: Line1912.1B3623, Value: I turn gear into artwork. Show me today's canvas.
+Hash: CAE2BF51, Key: VoiceDir1912.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: 63B1335B, Key: Line1917.1B363D, Value: You look like a killer. I can help with that.
+Hash: 682BE808, Key: VoiceDir1917.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: 6260D235, Key: Line1920.1B363D, Value: I've blades, staves, and hurtin' things.
+Hash: 66DB86E2, Key: VoiceDir1920.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: 272650D8, Key: Line1923.1B363D, Value: Pick your poison.
+Hash: 2BA10585, Key: VoiceDir1923.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: C46F78E8, Key: Line1928.1B3620, Value: The finest gear, from all over Nahantu!
+Hash: C8EA2D95, Key: VoiceDir1928.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap. Nahantu pronunciation: "nah-hahn-too"
+Hash: C31F17C2, Key: Line1931.1B3620, Value: Be it demons, bandits, or worse, I can keep you safe.
+Hash: C799CC6F, Key: VoiceDir1931.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap.
+Hash: 87E49665, Key: Line1934.1B3620, Value: Save your skin, and strike fear while doing it!
+Hash: 8C5F4B12, Key: VoiceDir1934.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap.
+Hash: 252DBF1C, Key: Line1939.1B363A, Value: Bred and raised on the open grasslands.
+Hash: 29A873C9, Key: VoiceDir1939.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. More ethical than most in town.
+Hash: 23DD5DF6, Key: Line1942.1B363A, Value: My beasts have strong legs, good temperaments.
+Hash: 285812A3, Key: VoiceDir1942.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. More ethical than most in town.
+Hash: E8A2DC99, Key: Line1945.1B363A, Value: Ride to Caldeum and back again!
+Hash: ED1D9146, Key: VoiceDir1945.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. More ethical than most in town. Caldeum pronunciation: "cal-dee-um"
+Hash: BFD6250C, Key: Line1950.1B3638, Value: Are you shopping for a lover or a friend?
+Hash: C450D9B9, Key: VoiceDir1950.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: 849BA3AF, Key: Line1953.1B3638, Value: Why not bring some beauty to the world?
+Hash: 8916585C, Key: VoiceDir1953.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: 49612252, Key: Line1956.1B3638, Value: My gems will steal your sweetheart's breath away!
+Hash: 4DDBD6FF, Key: VoiceDir1956.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: 2094677E, Key: Line1961.1B358D, Value: Just a moment, and I'll have you right as rain.
+Hash: 250F1C2B, Key: VoiceDir1961.1B358D, Value: Friendly and welcoming.
+Hash: E559E621, Key: Line1964.1B358D, Value: What ails you? I'll wager I can cure it.
+Hash: E9D49ACE, Key: VoiceDir1964.1B358D, Value: Friendly and welcoming.
+Hash: AA1F64C4, Key: Line1967.1B358D, Value: Relax, friend. You're in good hands now.
+Hash: AE9A1971, Key: VoiceDir1967.1B358D, Value: Friendly and welcoming.
+Hash: 8152AD61, Key: Line1972.1B358E, Value: Mind the equipment.
+Hash: 85CD620E, Key: VoiceDir1972.1B358E, Value: Absorbed in her work. Impatient.
+Hash: 46182C04, Key: Line1975.1B358E, Value: Yes, yes, what do you need?
+Hash: 4A92E0B1, Key: VoiceDir1975.1B358E, Value: Absorbed in her work. Impatient.
+Hash: 0ADDAAA7, Key: Line1978.1B358E, Value: (sigh) Make it quick, please.
+Hash: 0F585F54, Key: VoiceDir1978.1B358E, Value: Absorbed in her work. Impatient.
+Hash: E210F363, Key: Line1983.1B359D, Value: You look like you've seen battle.
+Hash: E68BA810, Key: VoiceDir1983.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: A6D67206, Key: Line1986.1B359D, Value: Been fighting hard?
+Hash: AB5126B3, Key: VoiceDir1986.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: 6B9BF0A9, Key: Line1989.1B359D, Value: Come in, I don't bite. Not like I used to, anyway.
+Hash: 7016A556, Key: VoiceDir1989.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: 42CF38F4, Key: Line1994.1B3584, Value: An inquiring mind! Welcome, welcome.
+Hash: 4749EDA1, Key: VoiceDir1994.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 0794B797, Key: Line1997.1B3584, Value: Always delighted to see a customer with taste.
+Hash: 0C0F6C44, Key: VoiceDir1997.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: DA65877F, Key: Line2000.1B3584, Value: Did you have a design in mind?
+Hash: DEE03C2C, Key: VoiceDir2000.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 77AEB037, Key: Line2005.1B359F, Value: A certain power moves about you...
+Hash: 7C2964E4, Key: VoiceDir2005.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: 3C742EDA, Key: Line2008.1B359F, Value: I know that glint in your eye. I know what you seek.
+Hash: 40EEE387, Key: VoiceDir2008.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: 3B23CDB4, Key: Line2011.1B359F, Value: Welcome, wanderer. I've been expecting you.
+Hash: 3F9E8261, Key: VoiceDir2011.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: D86CFB30, Key: Line2016.1B35B4, Value: I've antiquities from all ends of the continent!
+Hash: DCE7AFDD, Key: VoiceDir2016.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 9D3279D3, Key: Line2019.1B35B4, Value: I do so enjoy customers with refined tastes.
+Hash: A1AD2E80, Key: VoiceDir2019.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 9BE218AD, Key: Line2022.1B35B4, Value: Temptations and delights, all wrapped up in mystery!
+Hash: A05CCD5A, Key: VoiceDir2022.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 392B4164, Key: Line2027.1B35CE, Value: What'll it be?
+Hash: 3DA5F611, Key: VoiceDir2027.1B35CE, Value: Simple, salt of the earth type.
+Hash: 37DAE03E, Key: Line2030.1B35CE, Value: Better to prepare now then to regret later.
+Hash: 3C5594EB, Key: VoiceDir2030.1B35CE, Value: Simple, salt of the earth type.
+Hash: FCA05EE1, Key: Line2033.1B35CE, Value: I can keep you alive in a fight.
+Hash: 011B138E, Key: VoiceDir2033.1B35CE, Value: Simple, salt of the earth type.
+Hash: 99E98733, Key: Line2038.1B35D1, Value: Ooh, an out-of-towner. Welcome!
+Hash: 9E643BE0, Key: VoiceDir2038.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: 9899260D, Key: Line2041.1B35D1, Value: See anything you like?
+Hash: 9D13DABA, Key: VoiceDir2041.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: 5D5EA4B0, Key: Line2044.1B35D1, Value: Gear's got to look as sharp as it works, I always say.
+Hash: 61D9595D, Key: VoiceDir2044.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: FAA7CD1C, Key: Line2049.1B35D8, Value: Steed and best friend, all in one.
+Hash: FF2281C9, Key: VoiceDir2049.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: F9576BF6, Key: Line2052.1B35D8, Value: In need of an animal companion?
+Hash: FDD220A3, Key: VoiceDir2052.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: BE1CEA99, Key: Line2055.1B35D8, Value: A horse is good for the feet, and the heart.
+Hash: C2979F46, Key: VoiceDir2055.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: 95502D89, Key: Line2060.1B3588, Value: I can set you apart from the riffraff.
+Hash: 99CAE236, Key: VoiceDir2060.1B3588, Value: Haughty, experienced saleswoman
+Hash: 5A15AC2C, Key: Line2063.1B3588, Value: Don't you want to stand out?
+Hash: 5E9060D9, Key: VoiceDir2063.1B3588, Value: Haughty, experienced saleswoman
+Hash: 1EDB2ACF, Key: Line2066.1B3588, Value: I know just how to make you shine.
+Hash: 2355DF7C, Key: VoiceDir2066.1B3588, Value: Haughty, experienced saleswoman

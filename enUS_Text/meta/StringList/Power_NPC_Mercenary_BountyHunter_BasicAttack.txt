@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Heavy Shot
+Hash: 003892BF, Key: desc, Value: Subo fires an arrow that deals {c_number}{payload:PAYLOAD_PROJECTILE}{/c} damage with a {c_number}[{SF_5}*100|%|]{/c} chance to Stun for {c_number}{buffduration:STUN_BUFF}{/c} second.

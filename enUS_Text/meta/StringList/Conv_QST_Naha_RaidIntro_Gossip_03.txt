@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you lost anyone?"
+Hash: 8F6FACBF, Key: Line1.19A54D, Value: Of course. This curse has impacted every one of us.
+Hash: DFA5D88C, Key: VoiceDir1.19A54D, Value: Solemn, pained. 
+Hash: 67F35681, Key: Line3.19A54D, Value: If there's any justice in this world, the khazra will soon suffer as we have.
+Hash: B829824E, Key: VoiceDir3.19A54D, Value: Bitter. 

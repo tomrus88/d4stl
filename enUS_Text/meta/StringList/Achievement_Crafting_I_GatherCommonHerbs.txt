@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Herbalist
-Hash: 003892BF, Key: Desc, Value: Collect 250 Bundled Herbs
+Hash: 003892BF, Key: Desc, Value: Collect 250 Bundled Herbs.
 Hash: 3A4912CF, Key: DescShort, Value: Collect Herbs from various sources. 

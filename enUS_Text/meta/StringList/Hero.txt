@@ -24,7 +24,7 @@ Hash: 87578D79, Key: TipDamageReduction, Value: {c_label}Damage Reduction{/c}
 
 Hash: ACD4D20E, Key: TipArmor, Value: {c_label}Armor: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces Physical damage taken from enemies of equal Level by {c_number}{s2}{/c_number}.
-{icon:bullet} {c_number}9,230{/c} Armor is required for maximum reduction against Level {c_number}100{/c} enemies and beyond.
+{icon:bullet} {c_number}1,000{/c} Armor is required for maximum reduction at Level {c_number}60{/c}.
 Hash: 44523149, Key: TipColdResist, Value: {c_label}Cold Resistance: {c_number}{s1}{/c_number}{/c}
 {icon:bullet} Reduces Cold damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3}{/c_number}.
 

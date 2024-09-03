@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Those ghosts, who were they?"
+Hash: 9244CCE9, Key: Line1.1ABB75, Value: The beast’s victims, who have their revenge. They rest easy now.
+Hash: E27AF8B6, Key: VoiceDir1.1ABB75, Value: Explaining a good result. 

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Citadel Coin
+Hash: A646FFA4, Key: Description, Value: Earned from the Dark Citadel. Used to purchase items from the Citadel Vendor.
+Hash: F5C7BC0A, Key: Flavor, Value: A highly guarded currency hoarded by inhabitants of the Dark Citadel.

@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Magical Conduit
-Hash: F5C7BC0A, Key: Flavor, Value: This metal conduit surprisingly has no rust despite the ages of disuse. 
 Hash: A646FFA4, Key: Description, Value: Bound to Vizjerei Athenaeum
+Hash: F5C7BC0A, Key: Flavor, Value: This metal conduit surprisingly has no rust despite the ages of disuse. 

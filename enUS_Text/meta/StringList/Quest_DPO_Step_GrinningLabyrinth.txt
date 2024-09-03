@@ -1,7 +1,7 @@
-Hash: 164945C6, Key: Callback88Header, Value: Defeat the {MONSTER}
 Hash: CB4D78C0, Key: Callback46Header, Value: Kill The Grinning One
 Hash: 1D9AD41F, Key: Callback54Header, Value: Slay the Grinning Fiends: {LEFT}
 Hash: 04898A62, Key: Callback57Header, Value: Travel to the {LEVELAREA}
 Hash: A9244120, Key: Callback73Header, Value: Travel to the {LEVELAREA}
 Hash: 4318BAA2, Key: Callback75Header, Value: Destroy the  {MONSTER}: {LEFT}
+Hash: 164945C6, Key: Callback88Header, Value: Defeat the {MONSTER}
 Hash: 003DFCC1, Key: Name, Value: The seals break and the possibility of victory wanes…

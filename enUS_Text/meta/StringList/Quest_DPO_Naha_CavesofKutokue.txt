@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Silence the echoes.
+Hash: 83A65A9D, Key: Callback52Header, Value: Explore {WORLD:DGN_Naha_CavesofKutokue} and Slay {MONSTER}

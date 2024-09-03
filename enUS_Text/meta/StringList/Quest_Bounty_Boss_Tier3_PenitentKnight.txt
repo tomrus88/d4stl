@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Grigoire, the Galvanic Saint
+Hash: 0871A46B, Key: Toast, Value: [PH] Kill the Galvanic Saint
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Grigoire, the Galvanic Saint

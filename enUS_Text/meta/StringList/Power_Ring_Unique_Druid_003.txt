@@ -1,4 +1,2 @@
-Hash: F4434826, Key: Buff21_Name, Value: Hunter's Zenith
-Hash: C202E769, Key: Buff21_Description, Value: Your next {c_important}Werebear{/c} Skill costs no Resource and has no Cooldown.
-Hash: F8ED9968, Key: Buff23_Name, Value: Hunter's Zenith
-Hash: 60C0FA6B, Key: Buff23_Description, Value: Your next {c_important}Werewolf{/c} Skill Heals on damage dealt.
+Hash: FD97EAAA, Key: Buff25_Name, Value: Hunter's Zenith
+Hash: FF7F0D6D, Key: Buff25_Description, Value: At {SF_1} stacks, your next Core Skill will Overpower and Critically Strike.

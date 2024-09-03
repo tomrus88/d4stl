@@ -1,7 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Reborn in Faith
 Hash: 2C05E0A0, Key: Callback37Header, Value: Inspect the {GIZMO}
-Hash: 83A65A9D, Key: Callback52Header, Value: Inspect the {GIZMO}
-Hash: C5FA5A22, Key: Callback39Header, Value: Inspect the {GIZMO}
-Hash: E26052C2, Key: Callback84Header, Value: Defeat {MONSTER}
-Hash: 164945C6, Key: Callback88Header, Value: Defeat {MONSTER}
 Hash: 34ADAE21, Key: Callback92Header, Value: Defeat {MONSTER}

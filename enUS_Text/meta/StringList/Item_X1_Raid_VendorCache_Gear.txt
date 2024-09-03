@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Citadel Gear Cache
+Hash: A646FFA4, Key: Description, Value: Contains random gear, with a chance for Uniques.

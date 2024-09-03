@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Incendiary Bolt
+Hash: 003892BF, Key: desc, Value: If Subo's {c_important}Snipe{/c} hits the target he originally aimed at, a {c_important}Molotov{/c} explodes on them.

@@ -5,4 +5,4 @@ Hash: B26E1A8B, Key: Callback104Header, Value: Search for the Miner's Lockbox in
 Hash: F54CBBAC, Key: Phase115Description, Value: I found the lockbox in the mines, thankfully still intact. I should return it to Nageed, as promised.
 Hash: 9EAFEF6C, Key: Callback114Header, Value: Return to Nageed
 Hash: 859EA5AF, Key: Callback117Header, Value: Return to Nageed
-Hash: EEFEDB10, Key: Callback163Header, Value: Take the Miner's Lockbox
+Hash: EEFEDB10, Key: Callback163Header, Value: Take the {ITEM:QST_Kehj_Item_PayDue_LockBox}

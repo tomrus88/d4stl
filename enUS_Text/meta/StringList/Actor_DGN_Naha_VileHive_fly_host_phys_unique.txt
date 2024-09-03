@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Diseased Host
+Hash: CC38ADCB, Key: FlavorName, Value: Repugnant Pesterer

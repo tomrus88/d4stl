@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Looter's Last Words
+Hash: 923DBE99, Key: Line1.1B4ECC, Value: I’ve heard tales that some ancient hatred lurks here. What lurks here is my fortune, I need only find it and my problems are solved.
+Hash: 4345121D, Key: Line5.1B4ECC, Value: Treasure pickings have been slim. Mayhap the others are holding out on me? How am I to pay my debts with a pauper’s purse?
+Hash: 1BC8BBDF, Key: Line7.1B4ECC, Value: The deeper we go, the more meager the rewards! This place is cursed, I hate it here.
+Hash: F44C65A1, Key: Line9.1B4ECC, Value: Thieves! I don’t know how, but my companions must be stealing from me. But they’ll pay. I’ll have the treasure along with their heads!

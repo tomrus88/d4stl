@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Poisonous Clouds
+Hash: 003892BF, Key: Desc, Value: When entering {c_important}{u}Stealth{/u}{/c}, create a cloud that deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1 * Affix."Static Value 0"]{/c} Poison damage over {c_number}[Affix."Static Value 0"]{/c} seconds. 

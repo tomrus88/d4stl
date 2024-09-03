@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Of Souls and Spirits
+Hash: 2F8C7B0B, Key: Callback140Header, Value: Prepare to assault the Citadel...
+Hash: E9ABBC72, Key: Callback156Header, Value: Escort filled Basins to safety: {DONE_OVER_NEEDED}
+Hash: E093CE8F, Key: Callback180Header, Value: Slay the Soul Hoarder
+Hash: 09DC6259, Key: Callback289Header, Value: Additional Basins are preparing their assault
+Hash: C2354436, Key: Callback295Header, Value: The Soul Hoarder approaches...
+Hash: 8062FF19, Key: Callback586Header, Value: Escort the Basin to recover souls
+Hash: 9EC76774, Key: Callback590Header, Value: Basin Health:
+Hash: 6EA921B7, Key: Callback674Header, Value: West Basin Health:
+Hash: BBA35E78, Key: Callback675Header, Value: East Basin Health:
+Hash: 5597D7FA, Key: Callback677Header, Value: Escort the Basins to recover souls

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Corruption Purge
+Hash: E8671750, Key: Callback424Header, Value: Enter {EVENT_LEVELAREA}
+Hash: F2D5445B, Key: Callback489Header, Value: Clear corruption by slaying nearby Hollow: {DONE_OVER_NEEDED}
+Hash: EBBBC633, Key: Callback472Header, Value: Cleanse area within time limit: {TIMELEFT}
+Hash: 24F7D7D5, Key: Callback483Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: 845FDE8F, Key: Callback504Header, Value: Clear corruption by slaying nearby Hollow

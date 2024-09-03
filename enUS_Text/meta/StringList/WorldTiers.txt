@@ -8,9 +8,7 @@ Hash: A30F00C9, Key: WorldTier3_ItemInfo, Value: {icon:bullet, 1}  {c_highlight}
 {icon:bullet, 1}  {c_highlight}Nightmare Sigils{/c} can drop that unseal {c_highlight}Nightmare Dungeons{/c}
 {icon:bullet, 1}  {c_highlight}Champion{/c} monsters with damage resistance auras can appear
 Hash: A71991EA, Key: WorldTier4_ItemInfo, Value: {icon:bullet, 1}  {c_highlight}Ancestral{/c} items can drop
-Hash: F808B6E4, Key: WorldTiers_Warning, Value: Changing your World Tier terminates all active portals, resets all incomplete Whisper progress, and closes any active Nightmare Dungeon.
-Hash: 97B8FFFB, Key: Unlock_WorldTier4, Value: World Tier 4: Torment Unlocked
-Hash: 97B8FFFA, Key: Unlock_WorldTier3, Value: World Tier 3: Nightmare Unlocked
+Hash: F808B6E4, Key: WorldTiers_Warning, Value: Changing your Difficulty terminates all active portals, resets all incomplete Whisper progress, and closes any active Nightmare Dungeon.
 Hash: 2BCBA672, Key: WorldTier3_Detail1, Value: Champion monsters now have a chance to appear.
 Hash: 2BCBA673, Key: WorldTier3_Detail2, Value: Sacred items now have a low chance of dropping.
 Hash: 2BCBA674, Key: WorldTier3_Detail3, Value: Nightmare Sigils which in turn unseal Nightmare Dungeons are unlocked.
@@ -74,3 +72,44 @@ Hash: D0343576, Key: WT2_Bullet2, Value: Levels {c_highlight}1-50{/c}
 Hash: E985491C, Key: Active, Value: Active
 Hash: B74F3575, Key: WorldTier2_Detail5, Value: Items drop more frequently
 Hash: D034357A, Key: WT2_Bullet6, Value: Monsters drop more items
+Hash: 00020960, Key: WT5, Value: World Tier 5
+Hash: 00020961, Key: WT6, Value: World Tier 6
+Hash: 00020962, Key: WT7, Value: World Tier 7
+Hash: 3767D0D5, Key: SelectDifficultyTitle, Value: Select Difficulty
+Hash: C9477D64, Key: LevelInfo, Value: Level Details
+Hash: 9AF5C3D5, Key: Difficulty01_Title, Value: Normal
+Hash: D932103D, Key: Difficulty01_Flavor, Value: Hell has awoken
+Hash: ACBF1458, Key: Difficulty01_Guideance, Value: For a standard challenge
+Hash: E7F00096, Key: Difficulty02_Title, Value: Hard
+Hash: C573E51E, Key: Difficulty02_Flavor, Value: The fires burn hotter
+Hash: 321BC999, Key: Difficulty02_Guideance, Value: For a greater challenge
+Hash: 97DB1A16, Key: Difficulty02_MainStat01, Value: [PH] Monsters have 200% more health and deal 20% more damage
+Hash: 97DB1A17, Key: Difficulty02_MainStat02, Value: [PH] Monsters are more aggressive
+Hash: 97DB1A18, Key: Difficulty02_MainStat03, Value: [PH] Monsters grant 50% increased experience and drop 5% more gold
+Hash: 14121099, Key: Difficulty02_AdditionalInfo, Value: [PH] X and Y items have an increased chance to drop
+Hash: 34EA3D57, Key: Difficulty03_Title, Value: Expert
+Hash: B1B5B9FF, Key: Difficulty03_Flavor, Value: There will be no quarter
+Hash: A6B7B19E, Key: Difficulty03_Guidedance, Value: For a substantial challenge
+Hash: C8CE7777, Key: Difficulty03_MainStat01, Value: [PH] Monsters have 400% more health and deal 44% more damage
+Hash: C8CE7778, Key: Difficulty03_MainStat02, Value: [PH] Monsters are even more aggressive
+Hash: C8CE7779, Key: Difficulty03_MainStat03, Value: [PH] Monsters grant 100% increased experience and drop 10% more gold
+Hash: 2047367A, Key: Difficulty03_AdditionalInfo, Value: [PH] Monsters grant 100% increased experience and drop 10% more gold
+Hash: 81E47A18, Key: Difficulty04_Title, Value: Torment I
+Hash: 9DF78EE0, Key: Difficulty04_Flavor, Value: The abyss stares back
+Hash: 3CD5341B, Key: Difficulty04_Guideance, Value:  For new level 60 characters
+Hash: 674E86B5, Key: Difficulty04_UnlockCriteria, Value: [PH] Unlock by completing The Pit of the Artificer on tier 30
+Hash: F9C1D4D8, Key: Difficulty04_MainStat01, Value: [PH] Monsters have 800% more health and deal 73% more damage
+Hash: F9C1D4D9, Key: Difficulty04_MainStat02, Value: [PH] Monsters are highly aggressive
+Hash: F9C1D4DA, Key: Difficulty04_MainStat03, Value: [PH] Your Armor is reduced by 5000
+Hash: F9C1D4DB, Key: Difficulty04_MainStat04, Value: [PH] Monsters grant 200% increased experience and drop 15% more gold
+Hash: 2C7C5C5B, Key: Difficulty04_AdditionalInfo, Value: [PH] X and Y items have a highly increased chance to drop. More content becomes available NEEDS EXPANSION
+Hash: 109C0425, Key: DifficultyLocked, Value: Locked
+Hash: 7383AC96, Key: Difficulty05_UnlockCriteria, Value: [PH] Unlock by completing The Pit of the Artificer on tier 60
+Hash: 38B68EB9, Key: VisitKyovashad, Value: Visit{icon:Marker_WorldTiers, 2.0}in Kyovashad to Change
+Hash: 97B8FFF9, Key: Unlock_WorldTier2, Value: Hard Unlocked
+Hash: 97B8FFFA, Key: Unlock_WorldTier3, Value: Expert Unlocked
+Hash: 97B8FFFB, Key: Unlock_WorldTier4, Value: Penitent Unlocked
+Hash: 97B8FFFC, Key: Unlock_WorldTier5, Value: Torment I Unlocked
+Hash: 97B8FFFD, Key: Unlock_WorldTier6, Value: Torment II Unlocked
+Hash: 97B8FFFE, Key: Unlock_WorldTier7, Value: Torment III Unlocked
+Hash: 97B8FFFF, Key: Unlock_WorldTier8, Value: Torment IV Unlocked

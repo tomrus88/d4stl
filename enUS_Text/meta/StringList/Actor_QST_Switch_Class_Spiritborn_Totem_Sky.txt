@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elder Sky Spirit Totem
+Hash: F2CA04D8, Key: NoticeSignText, Value: Carved into this totem are various hieroglyphs and images of a large bird of prey, indicating this totem celebrates the Elder Sky Spirit, Kwatli. 

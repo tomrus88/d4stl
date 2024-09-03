@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Straw Repository
+Hash: F2CA04D8, Key: NoticeSignText, Value: Here lies the repository for the stables' straw, where the graceful and athletic find respite to sustain their mystical prowess.

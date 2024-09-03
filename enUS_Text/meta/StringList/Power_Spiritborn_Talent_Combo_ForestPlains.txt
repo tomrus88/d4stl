@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: (PH) {icon:bullet,1.2} Bruiser {icon:bullet,1.2}
+{c_gray}[Jaguar][Gorilla]{/c}
+Hash: 003892BF, Key: desc, Value: (PH) {icon:bullet,1.2} While moving you gain {c_number}[{SF_2}*100|+%|]{/c} Dodge Chance or after standing still for {c_number}[{SF_7}]{/c} seconds you become {c_important}{u}Unstoppable{/u}{/c}.
+
+{icon:bullet,1.2} When you Dodge or Block an attack you trigger a {c_number}[{SF_3}*100|%|]{/c} Thorns attack against the attacker.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Tribute of the Inferno
+Hash: A646FFA4, Key: Description, Value: Challenge Tier 2
+
+Offer to the Undercity's Spirit Brazier in Kurast to alter its rewards:
+{icon:bullet,1.2} Completing the dungeon with at least Attunement Rank 1 will reward random Boss Summoning Materials.
+Hash: F5C7BC0A, Key: Flavor, Value: Found from defeating Summoned Bosses.

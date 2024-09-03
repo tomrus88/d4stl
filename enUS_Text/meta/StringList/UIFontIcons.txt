@@ -25,3 +25,7 @@ Hash: 5C742282, Key: ItemTooltipAttributeTemper_Resource, Value: {icon:TemperAtt
 Hash: 98D80083, Key: ItemTooltipAttributeTemper_Mobility, Value: {icon:TemperAttribute_Mobility, 1.5}
 Hash: 34D7BB97, Key: ItemTooltipAttributeTemper_Weapons, Value: {icon:TemperAttribute_Weapon, 1.5}
 Hash: 4BD5D47C, Key: ItemTooltipAttributeMythic, Value: {icon:mythicstar, 2}
+Hash: 2E1E7016, Key: ItemTooltipAttributeBullet_RuneCondition, Value: {icon:AttributeBullet_RuneCondition, 1.2}
+Hash: 0E3335DC, Key: ItemTooltipAttributeBullet_RuneEffect, Value: {icon:AttributeBullet_RuneEffect, 1.2}
+Hash: 2149AAA9, Key: DifficultyStatue, Value: {icon:Marker_WorldTiers, 2.0}
+Hash: 5467B8D7, Key: GlyphUpgradeArrow, Value: {icon:font_arrow_green_right, 1.5}

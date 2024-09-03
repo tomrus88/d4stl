@@ -1,0 +1,25 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you?"
+Hash: 0D2B7D9E, Key: Line39.BAE4, Value: (gasping)
+Hash: 7C34E3CB, Key: VoiceDir39.BAE4, Value: The player gasps, returnign to life. 
+Hash: 8F4F075B, Key: Line1.17FDAA, Value: I’m the man who saved your life. Or Eru, if you like.
+Hash: DF853328, Key: VoiceDir1.17FDAA, Value: coy
+Hash: D8F1EA65, Key: Line3.BAE4, Value: Eru. Thank you. But…why? Why save me?
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: (weary, with genuine, deep-welled gratitude) 
+Hash: E7D1A458, Key: Line5.17FDAA.Dru, Value: Couldn’t very well leave you to fester in the river. Bad for the fish. What brought you to Nahantu?
+Hash: 7BA2EEA5, Key: VoiceDir5.17FDAA.Dru, Value: [with a shrug] 
+Hash: E7D1CD23, Key: Line5.17FDAA.Nec, Value: Couldn’t very well leave you to fester in the river. Bad for the fish. What brought you to Nahantu?
+Hash: 7BA31770, Key: VoiceDir5.17FDAA.Nec, Value: [with a shrug] 
+Hash: E7D1DF75, Key: Line5.17FDAA.Rog, Value: Couldn’t very well leave you to fester in the river. Bad for the fish. What brought you to Nahantu?
+Hash: 7BA329C2, Key: VoiceDir5.17FDAA.Rog, Value: [with a shrug] 
+Hash: E7D1E3C1, Key: Line5.17FDAA.Sor, Value: Couldn’t very well leave you to fester in the river. Bad for the fish. What brought you to Nahantu?
+Hash: 7BA32E0E, Key: VoiceDir5.17FDAA.Sor, Value: [with a shrug] 
+Hash: E7D1E3D9, Key: Line5.17FDAA.Spi, Value: You’re Spiritborn. So am I. We look out for each other. What brought you to Nahantu?
+Hash: 7BA32E26, Key: VoiceDir5.17FDAA.Spi, Value: [with a shrug] 
+Hash: E7D199A2, Key: Line5.17FDAA.Bar, Value: Couldn’t very well leave you to fester in the river. Bad for the fish. What brought you to Nahantu?
+Hash: 7BA2E3EF, Key: VoiceDir5.17FDAA.Bar, Value: [with a shrug] 
+Hash: E2468CE9, Key: Line7.BAE4, Value: I’m looking for my friend, Neyrelle. She’s somewhere out there, with a…prisoner. A dangerous prisoner. I need to make sure she’s all right.
+Hash: 2B756176, Key: VoiceDir7.BAE4, Value: (with physical discomfort, but finding their strength)
+Hash: F15DAE63, Key: Line9.17FDAA, Value: Hm.
+Hash: 4193DA30, Key: VoiceDir9.17FDAA, Value: (puzzled) 
+Hash: 1E3A174E, Key: Line13.17FDAA, Value: Sounds like we should find her.
+Hash: 7535BCBB, Key: VoiceDir13.17FDAA, Value: (decisive, readying himself for travel) 

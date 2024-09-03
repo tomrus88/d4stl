@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: If you haven't attacked in the last {c_number}[Affix."Static Value 0"]{/c} seconds, gain {c_important}{u}Stealth{/u}{/c} and {c_number}[Affix_Value_1|+%|]{/c} Movement Speed.

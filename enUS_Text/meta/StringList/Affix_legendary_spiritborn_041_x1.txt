@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Menacing
+Hash: 003892BF, Key: Desc, Value: {c_important}Scourge{/c} continuously affects enemies around you for {c_random}[Affix_Value_1|1|]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Scourge{/c} continuously affects enemies around you for {c_random}[Affix_Value_1|1|]{/c} seconds.

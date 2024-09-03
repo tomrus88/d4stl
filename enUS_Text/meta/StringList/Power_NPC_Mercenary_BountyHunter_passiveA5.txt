@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Loaded Munitions
+Hash: 003892BF, Key: desc, Value: Subo's {c_important}Wire Traps{/c} and {c_important}Trip Mines{/c} inflict {c_important}{u}Vulnerable{/u}{/c} on enemies for {c_number}[{SF_0}]{/c} |4second;seconds.

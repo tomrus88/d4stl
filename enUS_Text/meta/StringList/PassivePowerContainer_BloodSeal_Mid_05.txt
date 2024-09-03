@@ -1,6 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Coven's Fangs
-Hash: A646FFA4, Key: Description, Value: {icon:bullet} Your {c_important}Conjuration, Companion, Minion,{/c} and {c_important}Bat Familiar{/c} attacks deal {c_random}[SF_4|1]%{/c}{c_gray}[x]{/c} increased damage to Crowd Controlled enemies. 
-
-{icon:bullet} {c_label}Lucky Hit:{/c} Your {c_important}Conjuration, Companion, Minion,{/c} and {c_important}Bat Familiar{/c} have up to a {c_number}[SF_3|1]%{/c} chance to inflict {c_important}{u}Vampiric Curse{/u}{/c} when hitting enemies.
-
-{icon:bullet}Damage: {c_random}[SF_5|1]%{/c} {icon:arrow} {c_random}[SF_6|1]%{/c} {icon:arrow} {c_random}[SF_7|1]%{/c}

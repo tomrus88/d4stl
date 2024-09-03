@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Incense of Khazra Power
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}20{/c} minutes:
+{icon:bullet} Increases All Stats by {c_number}+30{/c} for all nearby players. 
+{icon:bullet} After killing an enemy, gain {c_number}+2{/c} to All Stats for {c_number}5{/c} seconds.
+{icon:bullet} Increases Experience by {c_number}5%{/c}.

@@ -1,4 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Resilience
-Hash: A646FFA4, Key: Description, Value: You gain {c_number}[SF_0|1]%{/c} Damage Reduction for each {c_random}[SF_3|1]%{/c} Life you are missing.
-
-{icon:bullet}Life Missing: {c_random}[SF_4|1]%{/c} {icon:arrow} {c_random}[SF_5|1]%{/c} {icon:arrow} {c_random}[SF_6|1]%{/c}

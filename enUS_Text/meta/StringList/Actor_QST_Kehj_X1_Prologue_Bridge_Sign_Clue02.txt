@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Decomposed Armaments
+Hash: F2CA04D8, Key: NoticeSignText, Value: A collection of weapons that have rapidly decayed, covered in a black sludge. Likely discarded by the guards while fighting the Hollows.

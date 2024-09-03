@@ -1,0 +1,4 @@
+Hash: 925124AC, Key: Line1.1C8108, Value: Ahh. Season after season, the beauty of the falls never fades.
+Hash: 6AD4CEB8, Key: Line3.1C811A, Value: I'm sure the spirits smile to hear you say that. What have you brought to offer today, my dear?
+Hash: 43587830, Key: Line5.1C8108, Value: Tch! Not now. The outsider is watching.
+Hash: 938EA3FD, Key: VoiceDir5.1C8108, Value: hushed whispers

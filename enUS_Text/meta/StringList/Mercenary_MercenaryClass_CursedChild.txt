@@ -1,0 +1,7 @@
+Hash: 086EAA02, Key: Title, Value: The Forsaken Child
+Hash: EFB4D807, Key: PlaystyleA_Label, Value: Shadow Magic
+Hash: B8CA2B6B, Key: PlaystyleA_Description, Value: Apply Daze, Root, Slow, Stun, Vulnerable, and weaken to enemies.
+Buff player's Damage to CC, and Daze on Hit.
+Hash: 3CAF14C8, Key: PlaystyleB_Label, Value: Fire Magic
+Hash: 082934EC, Key: PlaystyleB_Description, Value: Apply burning, knockback, slow, and stun to enemies.
+Buff the player's critical strike chance, and resource gain. Block incoming projectiles.

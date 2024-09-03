@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crafting Materials: Forgotten Soul
+Hash: 03FDE1F2, Key: Locked, Value:  Complete the Bartering Priority Quest.

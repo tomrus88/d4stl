@@ -1,0 +1,4 @@
+Hash: 3202E72F, Key: Line12.199120, Value: Pick out your targets!
+Hash: 597F3D6D, Key: Line10.199120, Value: I see what you do not.
+Hash: 05267E44, Key: Line8.199120, Value: See it, shoot it.
+Hash: 2CA2D482, Key: Line6.199120, Value: Lucky for you I don’t miss.

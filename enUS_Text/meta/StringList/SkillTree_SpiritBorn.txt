@@ -1,0 +1,82 @@
+Hash: 17A5E462, Key: Modifiers, Value: Modifiers
+Hash: D56CCF72, Key: NodeInfo, Value: Node Info
+Hash: D568FCD4, Key: NodeBody, Value: Cycle through nodes to see more info
+Hash: 1C68B7BF, Key: ConfirmRealm, Value: Confirm Realm
+Hash: 1C71ABB8, Key: ConfirmRuler, Value: Confirm Ruler
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 017DC572, Key: RealmSelector, Value: Realm Selector
+Hash: F5D3A26B, Key: RulerSelector, Value: Ruler Selector
+Hash: E1000984, Key: Unavailable, Value: [PH] Ruler choice and Realm choice must be different
+Hash: 5DFBE5BE, Key: ComboPassives, Value: Combo Passives
+Hash: 00000031, Key: 1, Value: 1
+Hash: 00000032, Key: 2, Value: 2
+Hash: 00000033, Key: 3, Value: 3
+Hash: 00000034, Key: 4, Value: 4
+Hash: 00000035, Key: 5, Value: 5
+Hash: 4C730C17, Key: Realm_Plains, Value: Plains Realm
+Hash: 355F0163, Key: Realm_Forest, Value: Forest Realm
+Hash: 440BF6A7, Key: Realm_Sky, Value: Sky Realm
+Hash: C58ADAE7, Key: Realm_Soil, Value: Soil Realm
+Hash: 2580A33C, Key: Ruler_Forest, Value: Forest Ruler
+Hash: 3C94ADF0, Key: Ruler_Plains, Value: Plains Ruler
+Hash: 46F03F20, Key: Ruler_Sky, Value: Sky Ruler
+Hash: 24F83280, Key: Ruler_Soil, Value: Soil Ruler
+Hash: A89CD48B, Key: Soil_InvokeMod_Ruler_Name, Value: Invoke Upgrade - Devourer's Sustenance
+Hash: 94F4856C, Key: PlaystyleArchetype, Value: Playstyle Archetype
+Hash: 3AB2FAEA, Key: Forest_PlaystyleArchetype_Ruler_Description, Value: Embody raw strength and force, built around surviving at all costs as a close-ranged bruiser with impenetrable defenses and charged up retaliations.
+Hash: 85354971, Key: Forest_PlaystyleArchetype_Realm_Description, Value: Embody raw strength and force, built around surviving at all costs as a close-ranged bruiser with impenetrable defenses and charged up retaliations.
+Hash: FC3FF4A5, Key: Plains_PlaystyleArchetype_Realm_Description, Value: Embrace the love of the hunt, fueled by a deadly combination of speed, power, and precision as a mid-ranged fighter with fast multi-hit combo attacks and tactical repositioning.
+Hash: B1BDA61E, Key: Plains_PlaystyleArchetype_Ruler_Description, Value: Embrace the love of the hunt, fueled by a deadly combination of speed, power, and precision as a mid-ranged fighter with fast multi-hit combo attacks and tactical repositioning.
+Hash: C654CF0A, Key: Forest_Invoke_Ruler_Description, Value: During Invoke you cannot lose more than 10% Base Life from a single hit.
+Hash: 3B4E0C3E, Key: Plains_Invoke_Ruler_Description, Value: During Invoke you gain additional Movement Speed and Life on Kill.
+Hash: 85D05AC5, Key: Plains_Invoke_Realm_Description, Value: Charge up your Invoke when moving and attacking.
+Hash: 10D71D91, Key: Forest_Invoke_Realm_Description, Value: Charge up your Invoke when you take damage. 
+Hash: BC6D6B35, Key: Sky_PlaystyleArchetype_Realm_Description, Value: Stay above it all and value the bigger picture, relying on swift accuracy and the exact timing of a long-ranged caster with strong area damage abilities.
+Hash: AB0E5175, Key: Soil_PlaystyleArchetype_Realm_Description, Value: Wield the continuity life and death found within soils, controlling the battlefield and debilitating foes as a mid-ranged caster with expansive areas of effect that destroy enemies over time.
+Hash: 71EB1CAE, Key: Sky_PlaystyleArchetype_Ruler_Description, Value: Stay above it all and value the bigger picture, relying on swift accuracy and the exact timing of a long-ranged caster with strong area damage abilities.
+Hash: 608C02EE, Key: Soil_PlaystyleArchetype_Ruler_Description, Value: Wield the continuity life and death found within soils, controlling the battlefield and debilitating foes as a mid-ranged caster with expansive areas of effect that destroy enemies over time.
+Hash: FCEB7955, Key: Sky_Invoke_Realm_Description, Value: Charge up your Invoke with Lucky Hits.
+Hash: 9550FF95, Key: Soil_Invoke_Realm_Description, Value: Charge up your Invoke by Poisoning enemies.
+Hash: B2692ACE, Key: Sky_Invoke_Ruler_Description, Value: During Invoke you instantly Execute enemies that fall below 20% Life when you attack.
+Hash: 4ACEB10E, Key: Soil_Invoke_Ruler_Description, Value: During Invoke you Heal for 10% Maximum Life when you Poison an enemy.
+Hash: 177F9D1D, Key: SpiritSuffusion, Value: Spirit Suffusion
+Hash: 8C19BA41, Key: Sky_SpiritSuffusion_Realm_Desc, Value: PH - Suffused enemies are affected in Y way
+Hash: D3F9D081, Key: Soil_SpiritSuffusion_Realm_Desc, Value: PH - Suffused enemies are affected in Y way
+Hash: 497F5D7D, Key: Forest_SpiritSuffusion_Realm_Desc, Value: PH - Suffused enemies are affected in Y way
+Hash: E1BCB7B1, Key: Plains_SpiritSuffusion_Realm_Desc, Value: PH - Suffused enemies are affected in Y way
+Hash: EB8711DA, Key: Sky_SpiritSuffusion_Ruler_Desc, Value: PH - When removed your Suffusions do X
+Hash: 3367281A, Key: Soil_SpiritSuffusion_Ruler_Desc, Value: PH - When removed your Suffusions do X
+Hash: A8ECB516, Key: Forest_SpiritSuffusion_Ruler_Desc, Value: PH - When removed your Suffusions do X
+Hash: 412A0F4A, Key: Plains_SpiritSuffusion_Ruler_Desc, Value: PH - When removed your Suffusions do X
+Hash: 812B5487, Key: Forest_InvokeMod_Ruler_Name, Value: Invoke Upgrade - Guardian's Resolve
+Hash: F8806E4B, Key: Sky_InvokeMod_Ruler_Name, Value: Invoke Upgrade - Seeker's Eyes
+Hash: 28CE17BB, Key: Plains_InvokeMod_Ruler_Name, Value: Invoke Upgrade - Hunter’s Roar
+Hash: 21BDFCEE, Key: Forest_InvokeMod_Realm_Name, Value: Invoke Charge Style - Forest
+Hash: 492F7CF2, Key: Soil_InvokeMod_Realm_Name, Value: Invoke Charge Style - Soil
+Hash: 991316B2, Key: Sky_InvokeMod_Realm_Name, Value: Invoke Charge Style - Sky
+Hash: C960C022, Key: Plains_InvokeMod_Realm_Name, Value: Invoke Charge Style - Plains
+Hash: 6B95A20E, Key: RealmRuler_RootNode_Tooltip, Value: Insert a Spirit to mix a Hybrid Fusion.
+Hash: 97B49E7B, Key: SelectSpirit, Value: Select Spirit
+Hash: FDE179A9, Key: RemoveSpirit, Value: Remove Spirit
+Hash: 08F3EFE2, Key: Sky_SpiritSelectionTooltip, Value: {c_important}{u}The Eagle{/u}{/c}
+Epitomize graceful accuracy and strike with lethal potency from afar.
+
+{c_label}Themes:{/c} Ranged, Offense, Lightning, Critical Strikes
+Hash: 67F1551E, Key: Forest_SpiritSelectionTooltip, Value: {c_important}{u}The Gorilla{/u}{/c}
+Embody protective strength with impenetrable defenses and deliberate retaliations.
+
+{c_label}Themes:{/c} Tank, Defense, Physical, Thorns
+Hash: 31C2E622, Key: Soil_SpiritSelectionTooltip, Value: {c_important}{u}The Centipede{/u}{/c}
+Wield the inescapable cycle of life and death by drawing sustenance from the debilitation of foes.
+
+{c_label}Themes:{/c} Caster, Control, Poison, Life Leech
+Hash: 8351B552, Key: Plains_SpiritSelectionTooltip, Value: {c_important}{u}The Jaguar{/u}{/c}
+Embrace the love of the hunt fueled by exhilarating speed and tactical precision.
+
+{c_label}Themes:{/c} Melee, Speed, Fire, Mobility
+Hash: 529AC910, Key: InsertSpirit, Value: Insert Spirit
+Hash: CE96EA2D, Key: RealmRuler_Selected_Tooltip, Value: Spirit Selected
+Hash: B6ED35B1, Key: SelectRealm, Value: Assign to Basic Skills
+Hash: B6F629AA, Key: SelectRuler, Value: Assign to Core Skills
+Hash: A5F864D0, Key: DropSpirit, Value: Drop Spirit
+Hash: F74C20E7, Key: CancelSpiritSelection, Value: Cancel

@@ -1,8 +1,8 @@
 Hash: E3AFA332, Key: FindAParty, Value: Find a Party
-Hash: 63AC9785, Key: CreateAParty, Value: Create a Party
+Hash: 63AC9785, Key: CreateAParty, Value: List a Party
 Hash: F14114F8, Key: InviteRequest, Value: Invite & Request
-Hash: A2B2C471, Key: PartyFriendCount, Value: %d|4Friend:Friends in this party
-Hash: 8CBAB5F1, Key: PartyMemberCount, Value: {s1}/{s2} {icon:Social_VoiceChat_Group, 2.0}
+Hash: A2B2C471, Key: PartyFriendCount, Value: {s1} friends in this party
+Hash: 8CBAB5F1, Key: PartyMemberCount, Value: {s1}/{s2}
 Hash: 97672DB4, Key: CreatePartyButtonCreate, Value: Create
 Hash: 02AFE117, Key: CreatePartyButtonCreate_Controller, Value: {icon:button1, 1.8} Create
 Hash: CECE4B8F, Key: CreatePartyButtonSave, Value: Apply Changes
@@ -14,7 +14,7 @@ Hash: 9A94702E, Key: CreatePartyLabel_PartySize, Value: Party Size
 Hash: 0EB30216, Key: CreatePartyLabel_Password, Value: Party Password (Optional)
 Hash: FC066939, Key: CreatePartyLabel_Communication, Value: Communication (Select up to 3)
 Hash: 512767A7, Key: CreatePartyLabel_Language, Value: Language
-Hash: F3B088A7, Key: CreatePartyLabel_Description, Value: Party Description (Select up to 8)
+Hash: F3B088A7, Key: CreatePartyLabel_Description, Value: You may only select up to 8 labels.
 Hash: 1F63FD11, Key: CreatePartyCommunication_VCPreferred, Value: Voice Chat Preferred
 Hash: 47F94958, Key: CreatePartyCommunication_MicOptional, Value: Microphone Optional
 Hash: 6D76DE9E, Key: FindPartyAction_Join, Value: Join Party
@@ -25,11 +25,70 @@ Hash: FB41DEE4, Key: CreatePartyAction_Reset, Value: Reset Settings
 Hash: 10AA3E41, Key: CreatePartyLabel_Category, Value: Category
 Hash: 2DBEE79F, Key: tagname_quick_clear, Value: Quick Clear
 Hash: E477735C, Key: CreatePartyStateString, Value: {s1} | {s2}
-Hash: 81D5E705, Key: SearchModalTitle, Value: Party Search
+Hash: 81D5E705, Key: SearchModalTitle, Value: Advanced Search
 Hash: 5A785AED, Key: CreateParty_ListedMessage, Value: Your party is now listed. You must delist first to edit party settings.
 Hash: 42D1BD46, Key: CreatePartyAction_Delist, Value: Delist Party
 Hash: 6150AE82, Key: LabelSelectTitle, Value: Party Description
 Hash: F8E686D9, Key: SettingsRange_HintTextMin, Value: Min
 Hash: F8E685DB, Key: SettingsRange_HintTextMax, Value: Max
-Hash: 40A5AC5C, Key: SearchModalBtn_Search, Value: Search
+Hash: 7E909ED2, Key: SearchModalBtn_AdvancedSearch, Value: Advanced Search
 Hash: BE96D27C, Key: MultiSelectorAllTab, Value: All
+Hash: DA17779E, Key: PartyListing_FooterMinLv, Value: Min Lv. {s1}
+Hash: B304E76B, Key: PartyListing_Title, Value: {s1}
+Hash: 359BE0E1, Key: PartyListing_TitleOneTier, Value: {s1}  (Tier {s2})
+Hash: 70B2AEC5, Key: PartyListing_TitleOneTierPlus, Value: {s1}  (Tier {s2}+)
+Hash: CC327359, Key: PartyListing_TitleTwoTier, Value: {s1}  (Tier {s2} - {s3})
+Hash: DA342251, Key: PartyName, Value: {s1}'s Party
+Hash: 30E6A3D8, Key: QuickListInPartyFinder, Value: Quick List In Party Finder
+Hash: 36D0BBDA, Key: OpenPartyFinder, Value: Open in Party FInder
+Hash: 0001AB48, Key: Any, Value: Any
+Hash: 05DCCDA0, Key: FindAParty_Refresh, Value: Refresh
+Hash: 25D73153, Key: SearchResults_NoneFound, Value: No parties with those specifications can be found.
+Please revise your search terms.
+Hash: B240AA07, Key: CreatePartyAction_Edit, Value: Edit Party
+Hash: 871EEA70, Key: DelistConfirmationPrompt, Value: Are you sure you wish to delist your party?
+Hash: F528C3C4, Key: FullyDisabled, Value: Party Finder is currently not available right now.
+Hash: DC8139E3, Key: LastRefreshCounter, Value: Last Refresh: {time}
+Hash: EDD24493, Key: CurrentParty, Value: Current Party
+Hash: 616C7A78, Key: PartyStatus_Listed, Value: Listed
+Hash: 2C9578FB, Key: PartyStatus_Unlisted, Value: Unlisted
+Hash: 946B80E9, Key: JoinedParty, Value: Joined Party
+Hash: FE027CED, Key: JoinedPartyDescription, Value: You have joined {s1}'s party for:
+Hash: CD37B146, Key: JoinedActivity, Value: {s1}
+Hash: 678D1FD2, Key: JoinedLocation, Value: {s1}
+Hash: 873A51BF, Key: TeleportToLeader, Value: Teleport to Leader
+Hash: 7D9F7C1E, Key: ReadOnly, Value: Creation of listings is currently unavailable.
+Hash: B9FC4D5C, Key: FullyDisabledMultiplayer, Value: You are not able to access Party Finder on this account. 
+Hash: 96CEEC1C, Key: ReadOnlySquelched, Value: You are not able to create Party Finder listings on this account.
+Hash: F4360C74, Key: PartyFinderListedNotification, Value: Your party has been Listed.
+Hash: 7BC56BFD, Key: PartyFinderDelistedNotification, Value: Your party has been Delisted.
+Hash: F8FB15F6, Key: PartyFinderHeader_ActivitySelections, Value: Activity Selections
+Hash: 1F4BE0A9, Key: PartyFinderHeader_LabelSelections, Value: Label Selections
+Hash: 51CFCAF1, Key: PartyFinder_SetToPrivate, Value: Your profile is set to private. Party Finder works best when you are set to public.
+Hash: DCB5BDC2, Key: ResetSettingsModal_Title, Value: Reset Settings
+Hash: BCE1A545, Key: ResetSettingsModal_Message, Value: Are you sure you want to reset settings?
+Hash: 458C722A, Key: PartyFinderTitle, Value: Party Finder
+Hash: 345EFA61, Key: PartyMemberJoined, Value: {s1} has joined your party ({s2}/4)
+Hash: 23503CD3, Key: PartyMemberLeft, Value: {s1} has left your party ({s2}/4)
+Hash: 364438F3, Key: PartyMemberKicked, Value: {s1} has been removed from your party ({s2}/4)
+Hash: 61E42CF9, Key: SearchSpinner_Text, Value: Searching...
+Hash: 8DD17311, Key: PartyDetails_MinLevel, Value: Min. Level
+Hash: 724431C1, Key: PartyDetails_MinParagon, Value: Min. Paragon Level
+Hash: 2B853BFE, Key: LeaderNameParty, Value: {Leader Name}'s Party 
+Hash: DE2C6F19, Key: LastListed, Value: Listed: {s1} ago
+Hash: 217F00E2, Key: PartyStatus_Empty, Value: Empty
+Hash: 65BF23A0, Key: DifficultyRange, Value: Difficulty Range
+Hash: AACE0DB7, Key: ListingHeader_Expansion, Value: Expansion
+Hash: 40A5AC5C, Key: SearchModalBtn_Search, Value: Search
+Hash: 9E0E12CC, Key: ViewLeaderBtn, Value: View Leader
+Hash: 41C04C33, Key: JoinSpinner_Text, Value: Joining...
+Hash: 7CD2C164, Key: NotPartyLeaderWarning, Value: Only the party leader can edit the listing.
+Hash: 6CC0FEFC, Key: CreatePartyLabel_Location, Value: Location
+Hash: 4D2B8B53, Key: CreatePartyLabel_Dungeon, Value: Dungeon
+Hash: 423A6A0A, Key: CreatePartyLabel_GameActivity, Value: Activity
+Hash: CE14DABC, Key: CreatePartyLabel_Option, Value: Option
+Hash: 1BD66C86, Key: ExpansionTagBaseGame, Value: Base Game
+Hash: 49C5CBC8, Key: ExpansionTagExpansionOne, Value: Vessel of Hatred
+Hash: 252CA204, Key: FullyDisabledCampaign, Value: You are not able to access Party Finder until you complete the campaign prologue.
+Hash: 7C9FB259, Key: AnyActivity_Text, Value: Any Activity
+Hash: F5A0A2D7, Key: ResetSettings_Controller, Value: {icon:l_down, 2.0} Reset Settings

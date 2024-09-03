@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: How are you faring now that the lacuni are driven off?
+Hash: 922ADCB1, Key: Line1.1A4785, Value: I’m glad but I wish... I wish you stumbled upon us sooner. The lacuni took our parents and we're all that's left now. I miss them a lot.
+Hash: E261087E, Key: VoiceDir1.1A4785, Value: Grief. Gratitude.

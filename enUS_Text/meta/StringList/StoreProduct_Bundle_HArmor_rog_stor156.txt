@@ -1,4 +1,4 @@
-Hash: 003DFCC1, Key: Name, Value: Shadow Walker
 Hash: A646FFA4, Key: Description, Value: Walkers are dark agents of the underworld, but their origin is a mystery. The few that dare speak of them believe them to be emissaries of Hell itself.
 Hash: 083EE0CE, Key: Quote, Value: A mystery cloaked in darkness.
+Hash: 003DFCC1, Key: Name, Value: Shadow Walker
 Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

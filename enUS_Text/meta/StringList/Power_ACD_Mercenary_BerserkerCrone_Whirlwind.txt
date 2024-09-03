@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Whirlwind
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Makhni spins rapidly towards a target location, constantly dealing {c_number}{payload:DAMAGE}{/c} damage to enemies around her and inflicting {c_number}[{dot:BLEED}]{/c} Bleeding damage over {c_number}[{buffduration:BLEED}]{/c} seconds.

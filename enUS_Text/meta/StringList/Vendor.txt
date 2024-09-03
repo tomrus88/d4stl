@@ -112,3 +112,8 @@ Hash: C7E63BB2, Key: VENDOR_TYPE_PVP_SCROLL, Value: Cursed Scroll
 Hash: DC705AD3, Key: MysteryItemReceived, Value: You received a {s1}
 Hash: F9F335F1, Key: Healer, Value: Healer
 Hash: AF2C7398, Key: VENDOR_TYPE_HIBERNAL_SOLSTICE, Value: Midwinter Square
+Hash: 178B4ABC, Key: VENDOR_TYPE_MERCENARY_CURSED_CHILD, Value: Cursed Child
+Hash: 14C16BF6, Key: VENDOR_TYPE_MERCENARY_EXCHANGE, Value: Exchange
+Hash: C68A893C, Key: VENDOR_TYPE_MERCENARY_SHIELD_BEARER, Value: Shield Bearer
+Hash: 510BB249, Key: VENDOR_TYPE_MERCENARY_BOUNTY_HUNTER, Value: Bounty Hunter
+Hash: 32217FCE, Key: VENDOR_TYPE_MERCENARY_BERSERKER_CRONE, Value: Berserker Crone

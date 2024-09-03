@@ -1,0 +1,2 @@
+Hash: AAC3B720, Key: Line19.1C0FE1, Value: Gah! This Basin is ruined!
+Hash: 01BF5C8D, Key: VoiceDir19.1C0FE1, Value: in battle

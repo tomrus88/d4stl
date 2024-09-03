@@ -10,3 +10,5 @@ Hash: D618A933, Key: Mod0_Description, Value: When you Immobilize or Stun an ene
 Hash: 9233D930, Key: Mod0_Name, Value: Primal Landslide
 Hash: 74D6BC35, Key: Mod2_Description, Value: When you strike an Immobilized or Stunned enemy with {c_important}Landslide{/c}, an additional pillar of earth is formed.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Raging Landslide
+Hash: F2CA0685, Key: Mod11_Description, Value: {c_important}Landslide{/c} cost is reduced by {c_number}[{SF_12}*100|%|]{/c} if cast again within {c_number}{SF_11}{/c} seconds.
+Hash: B9536EC2, Key: Mod11_Name, Value: Torrential Landslide

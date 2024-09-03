@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Crumbling Memorial
+Hash: 924F9B3A, Key: Line1.1C56B2, Value: Elsef, 6 years. Naroah, 4 years. Born in the city of Toraja. Died in the fires of the Triune.
+Hash: E285C707, Key: VoiceDir1.1C56B2, Value: Elsef: "ell-sehf". Naroah: "nah-roe-ah". Toraja: "Toe-rah-jah"
+Hash: 4356EEBE, Key: Line5.1C56B2, Value: All the city is a grave now. Let its name die with it. Corruption twists it all, from the soil underfoot to the light of the sun itself.
+Hash: 1BDA9880, Key: Line7.1C56B2, Value: But you are free. My dearest children, may your death be peace itself.

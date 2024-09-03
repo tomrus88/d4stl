@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Dismiss Mercenary
+Hash: 3604532E, Key: Line795.1602FD, Value: Don’t die.
+Hash: 6C74A63B, Key: VoiceDir795.1602FD, Value: Good-natured 
+Hash: FAC9D1D1, Key: Line798.1602FD, Value: Good luck out there.
+Hash: 313A24DE, Key: VoiceDir798.1602FD, Value: Good-natured 
+Hash: 8465C2E1, Key: Line800.1602FD, Value: Watch your back.
+Hash: BAD615EE, Key: VoiceDir800.1602FD, Value: Serious
+Hash: 5CE96CA3, Key: Line802.1602FD, Value: Ask if you need anything.
+Hash: 9359BFB0, Key: VoiceDir802.1602FD, Value: Serious

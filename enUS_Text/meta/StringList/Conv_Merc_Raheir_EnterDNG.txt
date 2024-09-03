@@ -1,0 +1,8 @@
+Hash: F90B494A, Key: Line810.189135, Value: Anything could be lurking here.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: Concerned
+Hash: D18EF30C, Key: Line812.189135, Value: This place is unsettling.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: Concerned
+Hash: AA129CCE, Key: Line814.189135, Value: I’m with you, friend.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: Confident 
+Hash: 82964690, Key: Line816.189135, Value: I hope whatever’s here puts up a good fight.
+Hash: B906999D, Key: VoiceDir816.189135, Value: Good-natured 

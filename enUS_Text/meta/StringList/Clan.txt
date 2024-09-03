@@ -153,7 +153,6 @@ Hash: 48E7D9A4, Key: ApplyError_PlayerBanned, Value: You are banned from this cl
 Hash: 0C14B8DA, Key: ClanDisbandNotification, Value: Your clan has been disbanded.
 Hash: 8F529B6D, Key: ClanBannedNotification, Value: You have been banned from your clan.
 Hash: 14C9F4B0, Key: ClanKickedNotification, Value: You have been kicked from your clan.
-Hash: B858C413, Key: DisbandClan, Value: Disband Clan
 Hash: F4827744, Key: ClanDetails, Value: Clan Details
 Hash: 0D707410, Key: LoadingResults, Value: Loading Results
 Hash: E68BC566, Key: ControllerRequestDialogRequest, Value: {icon:button4, 1.8} Request to Join
@@ -235,3 +234,4 @@ Hash: B35203BD, Key: ClanViewConsoleProfile, Value: View Console Profile
 Hash: 8FA10F54, Key: LastOnline_UnderHour, Value: Last online less than an hour ago
 Hash: 64780D09, Key: LastOnline_Hours, Value: Last online {s1} |4hour ago:hours ago
 Hash: C318C9EF, Key: LastOnline_MaxDays, Value: Last online more than a month ago
+Hash: B858C413, Key: DisbandClan, Value: Disband Clan

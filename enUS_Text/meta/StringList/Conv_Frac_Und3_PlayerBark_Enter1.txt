@@ -4,3 +4,4 @@ Hash: 730059E6, Key: Line1.BAE4.Bar, Value: I feel a cold wind flowing through m
 Hash: 73008D67, Key: Line1.BAE4.Nec, Value: How strange. Somehow this place feels like home.
 Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: I’m on the right trail. She was here.
 Hash: 7300649C, Key: Line1.BAE4.Dru, Value: I feel a cold wind flowing through my bones.
+Hash: 7300A41D, Key: Line1.BAE4.Spi, Value: I feel Lilith’s hatred. But beneath it... something cold. Could it be grief?

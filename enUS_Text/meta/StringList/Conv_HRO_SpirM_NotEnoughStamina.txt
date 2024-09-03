@@ -1,0 +1,4 @@
+Hash: BD5510C0, Key: Line9.BAE4.Spi.M, Value: Out of stamina.
+Hash: 00DB3C69, Key: Line11.BAE4.Spi.M, Value: My stamina is gone.
+Hash: 62C1F72B, Key: Line13.BAE4.Spi.M, Value: I need more stamina.
+Hash: C4A8B1ED, Key: Line15.BAE4.Spi.M, Value: Gotta rest first.

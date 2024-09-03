@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Craggy Recess
+Hash: 003892BF, Key: Desc, Value: A clandestine retreat burrowed within the stones of Teganze.

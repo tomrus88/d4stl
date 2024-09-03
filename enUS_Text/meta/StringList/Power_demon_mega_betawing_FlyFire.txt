@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Firestorm
+Hash: FB42C209, Key: Buff24_Name, Value: Suffocating Fire
+Hash: B02003EC, Key: Buff24_Description, Value: You are burning! Each hit from the demon increases the intensity of the flames.

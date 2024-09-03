@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 923C64B1, Key: Line1.1B3695, Value: There’s news about the khazra that killed poor Teyaca and Balam.
+Hash: E272907E, Key: VoiceDir1.1B3695, Value: Concerned and gruff. 
+Hash: 6AC013DA, Key: Line3.1B36C2, Value: Were you not gathering some folks together to kill it?
+Hash: BAF63FA7, Key: VoiceDir3.1B36C2, Value: Curious, but skeptical. Isn't sure where his friend is going with this.
+Hash: 4343B835, Key: Line5.1B3695, Value: That was my plan, but something got the goatmen first. Only things remaining were blood and bones. Never seen anything like it.
+Hash: 9379E402, Key: VoiceDir5.1B3695, Value: A tinge of worry to her confession. One part awe and one part fear.

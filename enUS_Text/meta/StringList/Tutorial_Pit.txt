@@ -1,0 +1,4 @@
+Hash: 086EAA02, Key: title, Value: The Pit
+Hash: 3D08DF31, Key: 0_instruction, Value: Access The Pit by spending {c_highlight}Artificer's Stones{/c} at the {c_highlight}Artificer's Obelisk{/c} in Cerrigar.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Successfully complete The Pit by defeating the dungeon boss.
+Hash: DBC6F233, Key: 2_instruction, Value: Upgrade the {c_highlight}Paragon Glyphs{/c} at the {c_highlight}{icon:Marker_GlyphUpgrade, 2} Awakened Glyphstone{/c}.

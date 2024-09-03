@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 9245BEB9, Key: Line1.1AE821, Value: Indah wastes her time with this grunt work. A wise man told her, Indah’s future is greater than mere fish and rope!
+Hash: 6AC9687E, Key: Line3.1AE824, Value: (sigh) Didn’t I tell you not to bother Ormus when the council visits? He has more important things to attend to. And so do you!
+Hash: 434D123D, Key: Line5.1AE821, Value: But Indah hates mending nets. She finds it "tedious and unlikeable."

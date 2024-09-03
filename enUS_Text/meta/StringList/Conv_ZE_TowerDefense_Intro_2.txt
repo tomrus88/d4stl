@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are those structures you've built?" 
+Hash: 81F8DF08, Key: Line24.1C5397, Value: Ah, those are our Wards. Death feeds new life. This is the beauty of rot. We’ve called on a spirit of decay to help cleanse this place of the Dregs’ poison.
+Hash: 5A7C88CA, Key: Line26.1C5397, Value: The Wards leach the toxins from the soil. Unfortunately, that makes them quite appealing to the Dregs. Until this place is cured of them, we will stay and protect it.

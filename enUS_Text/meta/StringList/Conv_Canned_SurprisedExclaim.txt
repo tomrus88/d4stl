@@ -6,3 +6,4 @@ Hash: 77B361BD, Key: Line34.BAE4.Nec, Value: Impossible!
 Hash: 77B338F2, Key: Line34.BAE4.Dru, Value: No, it cannot be!
 Hash: 77B3785B, Key: Line34.BAE4.Sor, Value: No! Impossible!
 Hash: 77B3740F, Key: Line34.BAE4.Rog, Value: It cannot be!
+Hash: 77B37873, Key: Line34.BAE4.Spi, Value: It can’t be!

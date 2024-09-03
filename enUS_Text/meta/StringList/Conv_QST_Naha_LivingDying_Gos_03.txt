@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You came from Kurast?"
+Hash: 92562A5C, Key: Line1.1BB682, Value: Mom said we had to leave, but I didn't want to. I don't like this place! I wish we were home…
+Hash: E28C5629, Key: VoiceDir1.1BB682, Value: Explaining, then angry, then sad. 

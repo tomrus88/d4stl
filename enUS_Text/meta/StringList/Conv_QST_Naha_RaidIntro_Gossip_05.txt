@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you safe here?"
+Hash: 407700E9, Key: Line5.19A59E, Value: We remain undiscovered. For now.
+Hash: 90AD2CB6, Key: VoiceDir5.19A59E, Value: Trying to bear up, but undertone of worry. 
+Hash: F17E546D, Key: Line9.19A59E, Value: But we hear the sounds of khazra from all sides. It never stops, even throughout the night.
+Hash: 41B4803A, Key: VoiceDir9.19A59E, Value: Worry. 
+Hash: 18FAAAAB, Key: Line7.19A59E, Value: And with every new sound, we are reminded that at any moment, we...
+Hash: 6930D678, Key: VoiceDir7.19A59E, Value: Trailing off, not wanting to say the worst aloud.
+Hash: 45D71396, Key: Line11.19A59E, Value: Well, we’re safe for now. That's all that matters.
+Hash: 9CD2B903, Key: VoiceDir11.19A59E, Value: Putting on brave face, almost trying to convince self. 

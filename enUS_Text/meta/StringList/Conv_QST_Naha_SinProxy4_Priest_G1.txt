@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It seems you got what you wanted."
+Hash: 924DE7C7, Key: Line1.1C2451, Value: Yes, and I have you to thank.
+Hash: E2841394, Key: VoiceDir1.1C2451, Value: Exultant. Snide.
+Hash: 6AD19189, Key: Line3.1C2451, Value: Because of you, wanderer, these people can bask in the Light, free from false traditions that will only lead them to death.
+Hash: BB07BD56, Key: VoiceDir3.1C2451, Value: Fanatical. 

@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: Destiny, inked in blood.
 Hash: B8A227EA, Key: Callback4Header, Value: Defeat the {MONSTER}
 Hash: 56D6E5C1, Key: Callback65Header, Value: Travel to the {LEVELAREA}
-Hash: 9E7E03E4, Key: Callback59Header, Value: Use the Gate Key to open the {GIZMO}
+Hash: 9E7E03E4, Key: Callback59Header, Value: Use the {ITEM:DGN_Frac_RitualTower_Key} to open the {GIZMO}
 Hash: 22EDF2BD, Key: Callback61Header, Value: Slay {MONSTER} and collect the Gate Key

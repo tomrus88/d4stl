@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hatred Subdued
+Hash: 003892BF, Key: Desc, Value: Complete the Vessel of Hatred campaign.

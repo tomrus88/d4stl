@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Any new information to share?"
+Hash: 18FAAAAB, Key: Line7.19A59E, Value: Well, it could be nothing, but... I swear I've seen something moving in the shadows
+Hash: 6930D678, Key: VoiceDir7.19A59E, Value: Casual, then uneasy.
+Hash: 45D71396, Key: Line11.19A59E, Value: It hides just out of sight, and disappears anytime I try to get a good look.
+Hash: 9CD2B903, Key: VoiceDir11.19A59E, Value: Intrigued, concerned. 
+Hash: F17E546D, Key: Line9.19A59E, Value: It's too small to be one of the khazra. The way it moves, I thought it might be one of our own.
+Hash: 41B4803A, Key: VoiceDir9.19A59E, Value: Uncertain, hint of worry. 
+Hash: 1E5ABD58, Key: Line13.19A59E, Value: Very mysterious.
+Hash: 755662C5, Key: VoiceDir13.19A59E, Value: Concerned. 

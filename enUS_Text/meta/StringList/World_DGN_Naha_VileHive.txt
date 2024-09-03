@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vile Hive
+Hash: 003892BF, Key: Desc, Value: The sounds of skittering fiends echo through this foul nest.

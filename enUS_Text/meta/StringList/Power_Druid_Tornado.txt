@@ -10,3 +10,5 @@ Hash: 2577B2B4, Key: Mod1_Description, Value: Enemies hit with {c_important}Torn
 Hash: 948901D1, Key: Mod1_Name, Value: Raging Tornado
 Hash: 74D6BC35, Key: Mod2_Description, Value: Enemies damaged by {c_important}Tornado{/c} are Slowed by {c_number}[{SF_22}*100|%|]{/c} for {c_number}{buffduration:RANK_SLOW}{/c} seconds, stacking up to {c_number}[{SF_22}*{SF_23}*100|%|]{/c}.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Primal Tornado
+Hash: 5110F53B, Key: Mod8_Description, Value: Enemies have a {c_number}[{SF_30}*100|%|]{/c} chance to be pulled to a {c_important}Tornado{/c} every {c_number}[{SF_6}|1|]{/c} seconds.
+Hash: A4DD1E38, Key: Mod8_Name, Value: Voracious Tornado

@@ -1,0 +1,6 @@
+Hash: 3158FF3E, Key: Callback44Header, Value: Slay monsters in the Realm of Hate
+Hash: 79001D61, Key: Callback38Header, Value: Reward Chests Earned: {DONE}
+Hash: CB4D78C0, Key: Callback46Header, Value: Slay monsters in the Realm of Hate
+Hash: FD700C3A, Key: Callback40Header, Value: Reward Chests Earned: {DONE}
+Hash: 5C2A045F, Key: Callback72Header, Value: Slay Sentinel Guardian {Left}
+Hash: CB7F6448, Key: Callback101Header, Value: Inspect the {GIZMO}

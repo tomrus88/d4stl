@@ -1,0 +1,3 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: We're all just meat in the end.
+Hash: 67CA4294, Key: Line3.18782A, Value: That's it for me.
+Hash: 404DEC56, Key: Line5.18782A, Value: Keep going without me.

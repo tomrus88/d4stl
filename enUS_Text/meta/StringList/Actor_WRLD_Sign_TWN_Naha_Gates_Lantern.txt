@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Reliquary Lantern
+Hash: CC3C0A8F, Key: FlavorText, Value: Implement of the Gatekeeper
+Hash: F2CA04D8, Key: NoticeSignText, Value: Still glowing faintly, runes carved in honor of Trag'Oul grant this reliquary the power to restore Necropolis's wards should they be broken once again.

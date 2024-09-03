@@ -1,3 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Vial of Purified Quicksilver
-Hash: A646FFA4, Key: Description, Value: Bound to Dismal Foothills
 Hash: F5C7BC0A, Key: Flavor, Value: The vial glows with a penetrating light. 

@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: name, Value: Momentum
-Hash: 003892BF, Key: desc, Value: Casting a {c_important}Cutthroat{/c} Skill grants a stack of {c_important}Momentum{/c}. Casting a Non-{c_important}Cutthroat{/c} Skill removes a stack of {c_important}Momentum{/c}. 
+Hash: 003892BF, Key: desc, Value: Casting or Channeling a {c_important}Cutthroat{/c} Skill grants a stack of {c_important}Momentum{/c}. Casting a {c_important}Marksman{/c} Skill removes a stack of {c_important}Momentum{/c}. 
 
 For each stack of {c_important}Momentum{/c}, you gain:
 {icon:bullet,1.2} {c_number}[SF_3} * 100|%|]{/c} Damage Reduction

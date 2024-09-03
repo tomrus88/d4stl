@@ -1,12 +1,12 @@
+Hash: EC8B1AEE, Key: Callback8Header, Value: Seek out Ordun and Khada in Jirandai 
+Hash: 85A4CA58, Key: Callback11Header, Value: Speak with Ordun
+Hash: 6C93809B, Key: Callback14Header, Value: Find Khada's caravan
+Hash: 24EC6278, Key: Callback20Header, Value: Search for Khada nearby
 Hash: 003DFCC1, Key: Name, Value: Corroding Mettle
 Hash: 0871A46B, Key: Toast, Value: Help a merchant and his ambitious sons.
-Hash: 8DCA476E, Key: Phase9Description, Value: A jar-seller in Ked Bardu has asked me to check in on his sons who left to open a shop in Jirandai.
-Hash: EC8B1AEE, Key: Callback8Header, Value: Seek out Ordun and Khada in Jirandai 
-Hash: 92C33198, Key: Phase12Description, Value: A jar-seller in Ked Bardu has asked me to check in on his sons who left to open a shop in Jirandai.
-Hash: 85A4CA58, Key: Callback11Header, Value: Speak with Ordun
-Hash: 259D49BB, Key: Phase15Description, Value: The jar-seller's son Ordun seems upset that his father sent me, but begrudgingly told me where his younger brother Khada is. I should also check up on him.
-Hash: 6C93809B, Key: Callback14Header, Value: Find Khada's caravan
-Hash: B12EDDB8, Key: Phase21Description, Value: Khada's caravan is abandoned, and covered in blood. I should find Khada as quickly as possible.
-Hash: 24EC6278, Key: Callback20Header, Value: Search for Khada nearby
-Hash: E2223B19, Key: Phase22Description, Value: Khada was slain by cannibals. I must deliver the sad news to his older brother Ordun in Jirandai.
 Hash: 58D5557C, Key: Callback24Header, Value: Return to Ordun
+Hash: 8DCA476E, Key: Phase9Description, Value: A jar-seller in Ked Bardu has asked me to check in on his sons who left to open a shop in Jirandai.
+Hash: 92C33198, Key: Phase12Description, Value: A jar-seller in Ked Bardu has asked me to check in on his sons who left to open a shop in Jirandai.
+Hash: 259D49BB, Key: Phase15Description, Value: The jar-seller's son Ordun seems upset that his father sent me, but begrudgingly told me where his younger brother Khada is. I should also check up on him.
+Hash: B12EDDB8, Key: Phase21Description, Value: Khada's caravan is abandoned, and covered in blood. I should find Khada as quickly as possible.
+Hash: E2223B19, Key: Phase22Description, Value: Khada was slain by cannibals. I must deliver the sad news to his older brother Ordun in Jirandai.

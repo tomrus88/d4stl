@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Basic{/c} Skills deal {c_random}[Affix_Value_1*100|%|]{/c} increased damage, always use their {c_number}3rd{/c} attack, and every {c_number}3rd{/c} cast unleashes triple strikes.

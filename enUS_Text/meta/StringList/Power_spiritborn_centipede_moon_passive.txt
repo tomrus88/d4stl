@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Heal for {c_number}[SF_1 * 100|%|]{/c} of your Maximum Life, for every Nearby enemy you've Poisoned in the last {c_number}[SF_0]{/c} seconds, up to {c_number}[SF_5 * 100|%|]{/c}.

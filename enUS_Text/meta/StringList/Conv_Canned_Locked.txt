@@ -3,3 +3,4 @@ Hash: 9355166F, Key: Line9.BAE4.Nec, Value: It's locked.
 Hash: 935528C1, Key: Line9.BAE4.Rog, Value: It's locked.
 Hash: 93552D0D, Key: Line9.BAE4.Sor, Value: It's locked.
 Hash: 9354E2EE, Key: Line9.BAE4.Bar, Value: It's locked.
+Hash: 93552D25, Key: Line9.BAE4.Spi, Value: Locked.

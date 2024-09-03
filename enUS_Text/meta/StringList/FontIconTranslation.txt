@@ -159,3 +159,12 @@ Hash: 1255061C, Key: social_voicechat_group, Value: Voice Chat
 Hash: C4B8E55C, Key: social_whisper, Value: Whisper
 Hash: 0C25E69B, Key: social_story, Value: Story Chat
 Hash: 28BC4572, Key: icon_network, Value: Network
+Hash: 301E064A, Key: currency_PaleMarks, Value: Pale Mark
+Hash: CE44D92E, Key: MercSkill_Icon, Value: Mercenary Skill Point
+Hash: 80C01051, Key: ClassIcon_Spirit_Small, Value: Spiritborn
+Hash: D314EFBB, Key: icon_rewardmat_palemark, Value: Pale Mark
+Hash: 257FADE2, Key: ItemCategory_BossSummon, Value: Boss Summoning
+Hash: EF4160E5, Key: ItemCategory__Rune, Value: Runes
+Hash: 6AE76229, Key: ItemCategory_CraftingMaterial, Value: Crafting Materials
+Hash: DC27034C, Key: ItemCategory_Aspect, Value: Aspects
+Hash: 4524E084, Key: ItemCategory_Equipment, Value: Equipment

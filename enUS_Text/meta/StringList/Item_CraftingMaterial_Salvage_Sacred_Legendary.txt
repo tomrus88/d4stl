@@ -1,6 +1,7 @@
 Hash: 003DFCC1, Key: Name, Value: Forgotten Soul
-Hash: A646FFA4, Key: Description, Value: Found in {c_important}Tortured Gifts{/c} during the
-{icon:Marker_Helltide, 2.5}{c_important}Helltide{/c} in World Tiers {icon:Icon_WorldTier_3, 2.0} and {icon:Icon_WorldTier_4, 2.0}. Occasionally found from other sources.
+Hash: A646FFA4, Key: Description, Value: Used to improve {c_important}Ancestral{/c} items at the {icon:Marker_Blacksmith, 2}{c_important}Blacksmith{/c} and {icon:Marker_Essence, 2}{c_important}Occultist{/c}
 
-Used to improve {c_important}Sacred{/c} and {c_important}Ancestral{/c} items.
+Found in {c_important}Torment{/c} difficulties from: 
+{icon:bullet,1.2}{icon:Marker_Helltide_Chest, 2.3}{c_important}Tortured Gifts{/c} in {icon:Marker_Helltide, 2}{c_highlight}Helltide{/c} 
+{icon:bullet,1.2}{icon:Marker_BSK_Entrance,2}{c_highlight}Infernal Hordes{/c}
 Hash: F5C7BC0A, Key: Flavor, Value: Is it a stone, an organ, or something else? Indescribably, it is all of these things.

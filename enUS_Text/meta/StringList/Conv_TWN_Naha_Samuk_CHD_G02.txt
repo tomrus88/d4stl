@@ -1,0 +1,4 @@
+Hash: 92520C8D, Key: Line1.1C8FB2, Value: (gasp) Excuse me! Where did you come from? Did you have to kill monsters to get here?
+Hash: 6AD529F0, Key: Line3.1C7FB4, Value: Ahali! What are you doing?! That's a stranger.
+Hash: BB0B55BD, Key: VoiceDir3.1C7FB4, Value: last sentence is hissed
+Hash: 43596011, Key: Line5.1C8FB2, Value: You're such a baby, Chula. Old Yungun told me the elders only make those rules ‘cause they’re scared. He said outsiders have the best stories, if you know what to ask.

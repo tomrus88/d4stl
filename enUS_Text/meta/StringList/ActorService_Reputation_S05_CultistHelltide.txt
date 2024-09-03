@@ -1,0 +1,2 @@
+Hash: C7866972, Key: ServiceName, Value: Mother's Triune
+Hash: 5957DF75, Key: InteractionMenuLabel, Value: "I have gathered the Mother's Gift."

@@ -1,23 +1,23 @@
 Hash: 003DFCC1, Key: Name, Value: Descent Into Flame
 Hash: 0871A46B, Key: Toast, Value: Stop the Triune Ritual
-Hash: 9AC58840, Key: BreadcrumbHeader, Value: Enter the Temple of the Primes and stop Elias
-Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I have received the three blessings needed to enter the Temple of the Primes. Lorath has found the entrance. Now we must stop Elias and his summoning ritual.
 Hash: 8828D241, Key: Phase39Description, Value: We have entered an ancient, sprawling temple from ages past. Somewhere deep in its passageways, a powerful ritual is being prepared. We must do all we can to stop this ritual before it is completed.
-Hash: 71A610A9, Key: Phase39OutsideSubzoneHeader, Value: Find the location of Elias' ritual within the Temple of the Primes
-Hash: 187F7F0B, Key: Callback221Header, Value: Find the ritual location with Lorath
-Hash: E2083799, Key: Phase165OutsideSubzoneHeader, Value: Speak with Lorath within the Temple of the Primes
 Hash: 3BF917D1, Key: Callback164Header, Value: Speak to Lorath
-Hash: EEE14816, Key: Phase162OutsideSubzoneHeader, Value: Find the location of Elias' ritual within the Temple of the Primes
 Hash: 550A618E, Key: Callback161Header, Value: Slay {MONSTER}
 Hash: 61CFD437, Key: Phase11Description, Value: We have fought our way through the chambers of the temple. The ritual must be close at hand.
-Hash: 03E5A75F, Key: Phase11OutsideSubzoneHeader, Value: Find the location of Elias' ritual within the Temple of the Primes
 Hash: CB7F6448, Key: Callback101Header, Value: Find the ritual location with Lorath
 Hash: A6927FEF, Key: Phase127Description, Value: We should enter the heart of Mt. Civo and find out way into the Temple of the Primes as quickly as possible.
-Hash: B9710217, Key: Phase127OutsideSubzoneHeader, Value: Enter the Temple of the Primes with Lorath
 Hash: 0BD4F412, Key: Callback129Header, Value: Enter the Temple of the Primes with Lorath
 Hash: B87761DE, Key: Phase18Description, Value: We stopped the ritual and now the Tyrant King Brol seeks vengeance. I am left with no choice but to face him.
-Hash: 3B4080E6, Key: Phase18OutsideSubzoneHeader, Value: Slay the Tyrant King Brol within the Temple of the Primes
 Hash: ED76B060, Key: Callback19Header, Value: Slay the Tyrant King Brol
 Hash: 9273B00F, Key: Phase217Description, Value: I have received the three blessings needed to enter the Temple of the Primes. Lorath has found the entrance. Now we must stop Elias and his summoning ritual.
-Hash: 0EFA5637, Key: Phase217OutsideSubzoneHeader, Value: Speak with Lorath at the Temple of the Primes
 Hash: AD20D9EF, Key: Callback216Header, Value: Speak with Lorath
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Enter the Temple of the Primes and stop Elias
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I have received the three blessings needed to enter the Temple of the Primes. Lorath has found the entrance. Now we must stop Elias and his summoning ritual.
+Hash: 71A610A9, Key: Phase39OutsideSubzoneHeader, Value: Find the location of Elias' ritual within the Temple of the Primes
+Hash: E2083799, Key: Phase165OutsideSubzoneHeader, Value: Speak with Lorath within the Temple of the Primes
+Hash: EEE14816, Key: Phase162OutsideSubzoneHeader, Value: Find the location of Elias' ritual within the Temple of the Primes
+Hash: 03E5A75F, Key: Phase11OutsideSubzoneHeader, Value: Find the location of Elias' ritual within the Temple of the Primes
+Hash: B9710217, Key: Phase127OutsideSubzoneHeader, Value: Enter the Temple of the Primes with Lorath
+Hash: 3B4080E6, Key: Phase18OutsideSubzoneHeader, Value: Slay the Tyrant King Brol within the Temple of the Primes
+Hash: 0EFA5637, Key: Phase217OutsideSubzoneHeader, Value: Speak with Lorath at the Temple of the Primes
+Hash: 187F7F0B, Key: Callback221Header, Value: Find the ritual location with Lorath

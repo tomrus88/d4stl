@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I was able to find the artifact."
+Hash: 922AE0DF, Key: Line1.1A486D, Value: Thank you, wanderer. You have done us a great favor. The spirits have seen your kindness. This treasured land can continue to be a place of peace and openness, because of your help.
+Hash: E2610CAC, Key: VoiceDir1.1A486D, Value: Tepeu is a name; Relief
+Hash: 6AAE8AA1, Key: Line3.1A486D, Value: {i}Chowom bashe.{/i}
+Hash: BAE4B66E, Key: VoiceDir3.1A486D, Value: Chowom bashē (CHO-wom ba-shee) means "spirits guide"  Spiritborn greeting/farewell

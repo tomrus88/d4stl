@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Citadel Contraband
+Hash: F2CA04D8, Key: NoticeSignText, Value: Bags full of artifacts smuggled from the Dark Citadel. There doesn't seem to be much of a plan for this haphazard horde.

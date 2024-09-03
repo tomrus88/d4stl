@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Fresh Meat
+Hash: A646FFA4, Key: Description, Value: [PH] Varyana's Bartering material. Acquired from her mercenary event or purchased from the Traveling Merchant in the Mercenary Hideout.
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] A carnal cuisine.

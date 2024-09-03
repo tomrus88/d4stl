@@ -1,0 +1,11 @@
+Hash: 90BB5053, Key: NBK_Line1, Value: "I saw my corpse,
+and from my mouth crawled Hatred,
+A father burned his children on a pyre, 
+and a mother molded a new age from the ashes,
+Hash: 90BB5054, Key: NBK_Line2, Value: “I saw the weak made strong,
+a pack of lambs feasting on wolves,
+Tears of blood rained on a desert jewel,
+and the way to Hell was torn asunder,
+Hash: A8255B56, Key: NBK_Line3A, Value: “Then came a spear of light, piercing Hatred’s heart,
+And he who was bound in chains was set free."
+Hash: A8255B57, Key: NBK_Line3B, Value: --Rathma’s Prophecy

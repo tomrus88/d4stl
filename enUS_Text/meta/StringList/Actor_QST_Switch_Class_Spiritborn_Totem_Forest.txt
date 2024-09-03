@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elder Forest Spirit Totem
+Hash: F2CA04D8, Key: NoticeSignText, Value: Carved into this totem are various hieroglyphs and images of a large primate, indicating this totem celebrates the Elder Forest Spirit, Wumba. 

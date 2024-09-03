@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Salvo
+Hash: 003892BF, Key: desc, Value: Subo launches a flurry of bolts at an enemy, dealing {c_number}{payload:PAYLOAD_PROJECTILE}{/c} damage and Slowing them by {c_number}[{SF_6}*100|%|]{/c} for {c_number}{buffduration:SLOW_BUFF}{/c} seconds.

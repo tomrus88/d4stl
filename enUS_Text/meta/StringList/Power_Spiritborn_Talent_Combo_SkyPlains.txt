@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: (PH) {icon:bullet,1.2} Duelist {icon:bullet,1.2}
+{c_gray}[Jaguar][Eagle]{/c}
+Hash: 003892BF, Key: desc, Value: (PH) {icon:bullet,1.2} Your {c_important}Eagle{/c} Skill missiles fly {c_number}[{SF_4}*100|%|]{/c} faster and have a {c_number}[{SF_9}*100|%|]{/c} chance to hit twice.
+
+{icon:bullet,1.2} Every second while moving gain {c_number}[{SF_5}*100|%|]{/c} Bonus Movement Speed for {c_number}[{SF_8}|1|]{/c} seconds, up to {c_number}[{SF_7}*100|%|]{/c}.
+Hash: 171B8FF7, Key: Buff4_Name, Value: (PH) Duelist
+Hash: 65A41A1A, Key: Buff4_Description, Value: (PH) Gain Resource while moving after dealing damage

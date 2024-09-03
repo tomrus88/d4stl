@@ -195,3 +195,4 @@ Hash: 42AFDBBF, Key: ERROR_316705, Value: Cannot join party, all members must be
 Hash: 4999D572, Key: ERROR_600030, Value: You cannot hold that much currency
 Hash: 4999D573, Key: ERROR_600031, Value: Action unavailable.
 Hash: 8F6CE0B0, Key: ERROR_52, Value: Your account has been banned. Please review your Battle.net account dashboard for more information. 
+Hash: 42AFDC05, Key: ERROR_316729, Value: Local co-op is not available at this time.

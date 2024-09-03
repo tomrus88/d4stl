@@ -9,3 +9,4 @@ Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: Ach. This...this is Elias’ finger.
 Hash: A970F2C6, Key: VoiceDir1.BAE4.Rog, Value: To self. Disgusted. Puzzling out the mystery and connecting the dots--Elias kept his finger safe and sound here, which is the key to his immortality. Think of the finger as a horcrux.
 Hash: 7300A405, Key: Line1.BAE4.Sor, Value: Ach. This...this is Elias’ finger. He hid a piece of himself here to stay immortal.
 Hash: A970F712, Key: VoiceDir1.BAE4.Sor, Value: To self. Disgusted. Puzzling out the mystery and connecting the dots--Elias kept his finger safe and sound here, which is the key to his immortality. Think of the finger as a horcrux.
+Hash: 7300A41D, Key: Line1.BAE4.Spi, Value: Ach. This...this is Elias’ finger. He hid a piece of himself here to stay immortal.

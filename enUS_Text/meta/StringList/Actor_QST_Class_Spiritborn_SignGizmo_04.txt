@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Strange Tracks
+Hash: F2CA04D8, Key: NoticeSignText, Value: Strange tracks that look like they were left by some sort of large creature.

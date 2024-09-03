@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Reaper's
+Hash: 003892BF, Key: Desc, Value: Enemies you Poison have {c_number}[Affix."Static Value 0"*100|%|]{/c} Reduced Healing and your {c_important}Eagle{/c} Skills gain {c_random}[Affix_Value_1*100|%+|]{/c} increased Critical Strike Chance against them.
+Hash: 82B7D312, Key: CodexDesc, Value: Enemies you Poison have {c_number}[Affix."Static Value 0"*100|%|]{/c} Reduced Healing and your {c_important}Eagle{/c} Skills gain {c_random}[Affix_Value_1*100|%+|]{/c} increased Critical Strike Chance against them.

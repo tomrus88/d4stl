@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}For {c_number}3{/c} seconds, you create beams that Heal nearby party members for {c_number}8%{/c} of their Max Life per second.{c_advanced} Overheal converts to a barrier. 
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Horde
+Hash: B582167E, Key: RuneOverflowBehavior, Value: increased healing
+Hash: 003DFCC1, Key: Name, Value: Ixt

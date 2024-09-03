@@ -1,4 +1,0 @@
-Hash: 086EAA02, Key: title, Value: The Helltide Rises
-Hash: 3D08DF31, Key: 0_instruction, Value: Helltide periodically rises in areas of Sanctuary.
-Hash: 8C67E8B2, Key: 1_instruction, Value: Collect {c_highlight}Aberrant Cinders{/c} and exchange them for Tortured Gifts, chests containing loot of a specific item slot. 
-Hash: 2B25FBB4, Key: 3_instruction, Value: Navigate to these map markers to find Tortured Gifts.

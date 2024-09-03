@@ -1,4 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: The Eyes of the Enemy
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Infernal Hordes
 Hash: DCC8203F, Key: Phase91Description, Value: Amidst the aftermath of battle, the earth is a canvas of the fallen. The Triune and the Crusaders now rest together in eternal stillness. Only two have survived – myself and a condemned Triune hung on a nearby crucifix. He seems joyed to see me...
 Hash: 22E7CE14, Key: Callback167Header, Value: Speak to Locran
 Hash: 3BF917D1, Key: Callback164Header, Value: Defend Zarbinzet from the Triune

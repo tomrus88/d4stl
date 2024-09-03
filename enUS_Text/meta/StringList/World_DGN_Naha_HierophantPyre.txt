@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hierophant Pyre
+Hash: 003892BF, Key: Desc, Value: Once used to burn opposers of Sankekur, the pyres are relit.

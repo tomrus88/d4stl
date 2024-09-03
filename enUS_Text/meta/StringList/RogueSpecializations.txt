@@ -3,6 +3,6 @@ Hash: 5807DC98, Key: Spec1_UnlockRequirement, Value: To unlock, reach {c_white}l
 Hash: 09C2895A, Key: ClarityCountdownTimer, Value: {s1}s
 Hash: 08E242D9, Key: Spec2_UnlockRequirement, Value: To unlock, reach {c_white}level {s1}{/c}.
 Hash: B9BCA91A, Key: Spec3_UnlockRequirement, Value: To unlock, reach {c_white}level {s1}{/c}. 
-Hash: D0986DF2, Key: UnlockRequirementTrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2.5}{c_highlight}{s1}{/c}. {hotkey:FAST_QUEST_TRACK} to track.
+Hash: D0986DF2, Key: UnlockRequirementTrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable_Unlock, 2.5}{c_highlight}{s1}{/c}. {hotkey:FAST_QUEST_TRACK} to track.
 Hash: 03FDE1F2, Key: Locked, Value: Locked
-Hash: 9D713A95, Key: UnlockRequirementUntrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2.5}{c_highlight}{s1}{/c}. {hotkey:FAST_QUEST_TRACK} to untrack.
+Hash: 9D713A95, Key: UnlockRequirementUntrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable_Unlock, 2.5}{c_highlight}{s1}{/c}. {hotkey:FAST_QUEST_TRACK} to untrack.

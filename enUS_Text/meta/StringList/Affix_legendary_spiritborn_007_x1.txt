@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: of Infestation
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} {c_important}Centipede{/c} Skills have up to a {c_number}[Affix."Static Value 2"|%|]{/c} chance to spawn a {c_important}Pestilent Swarm{/c} from the target which deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Poison damage per hit.
+
+{c_important}Pestilent Swarms{/c} now also deal {c_number}[Affix."Static Value 0"*100|%|]{/c} of their Base damage as Poisoning damage over {c_number}[Affix."Static Value 1"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_label}Lucky Hit:{/c} {c_important}Centipede{/c} Skills have up to a {c_number}[Affix."Static Value 2"|%|]{/c} chance to spawn a {c_important}Pestilent Swarm{/c} from the target which deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Poison damage per hit.
+
+{c_important}Pestilent Swarms{/c} now also deal {c_number}[Affix."Static Value 0"*100|%|]{/c} of their Base damage as Poisoning damage over {c_number}[Affix."Static Value 1"]{/c} seconds.

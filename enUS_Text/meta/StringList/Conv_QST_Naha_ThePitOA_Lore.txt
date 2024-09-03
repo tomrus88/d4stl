@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Nameless Necromancer
+Hash: 6AC34530, Key: Line3.1B90FE, Value: The Dregs who overwhelmed the ruins west of Necropolis have filled the lower chambers with corpses. It’s unknown why Dregs amass bodies in such a way, but several scholars suppose it to be a bizarre form of art.
+Hash: BAF970FD, Key: VoiceDir3.1B90FE, Value: Thoughtful, informational. 
+Hash: 48A7019F, Key: Line11.1B90FE, Value: If Necropolis is ever to be returned to Rathma's faithful, the Dregs must be driven out of the surrounding lands. I travel now to clear those ruins and investigate the pit of corpses. May Rathma defend me.

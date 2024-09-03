@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Redirected Force
+Hash: 003892BF, Key: Desc, Value: Gain increased Critical Strike Damage equal to {c_random}[Affix_Value_1*100|x%|]{/c} of your Block Chance. Blocking doubles this bonus for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Gain increased Critical Strike Damage equal to {c_random}[Affix_Value_1*100|x%|]{/c} of your Block Chance. Blocking doubles this bonus for {c_number}[Affix."Static Value 0"]{/c} seconds.

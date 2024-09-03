@@ -1,4 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Hectic
-Hash: A646FFA4, Key: Description, Value: For every {c_number}[SF_3|0]{/c} {c_important}Basic{/c} Skills you cast, one of your active Cooldowns is reduced by {c_random}[SF_0|1]{/c} seconds.
-
-{icon:bullet}Cooldown Reduction: {c_random}[SF_4|1]{/c} {icon:arrow} {c_random}[SF_5|1]{/c} {icon:arrow} {c_random}[SF_6|1]{/c}

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Felled Enemy
+Hash: CC3C0A8F, Key: FlavorText, Value: Solitary corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: Injuries suggest multiple assailants striking from all sides. It must have taken a tremendous effort to cut this creature down.
+
+Dressed in a finery that is not expected on a Goatman.

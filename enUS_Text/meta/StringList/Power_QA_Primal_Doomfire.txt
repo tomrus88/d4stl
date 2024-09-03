@@ -1,6 +1,0 @@
-Hash: 003DFCC1, Key: name, Value: Primal Doomfire
-Hash: 003892BF, Key: desc, Value: While standing still, nearby enemies are Incinerated. The area of effect grows the longer you stand still.
-Hash: B9F2506D, Key: Buff19_Name, Value: Primal Doomfire
-Hash: 01BAF9D0, Key: Buff19_Description, Value: Doomfire Active
-Hash: F1EE1F85, Key: Buff20_Name, Value: Primal Doomfire Cooldown
-Hash: 72A3DDE8, Key: Buff20_Description, Value: Doomfire on Cooldown

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Memorial Shrine
+Hash: F2CA04D8, Key: NoticeSignText, Value: There are those who seek immortality without the realization it has been but right in front of them. 

@@ -405,9 +405,9 @@ Hash: 140CEBD2, Key: Skills, Value: Skills
 Hash: 1E0EBA12, Key: Skills_RankUnlocked, Value: {s1} Rank {s2}
 Hash: A8664234, Key: DeathMenuWaitingForResurrect, Value: Wait to be Resurrected
 Hash: 98C7CF09, Key: CharacterZoomIn, Value: Zoom on Character
-Hash: 2A6895F5, Key: DruidCharges, Value: Primal Wrath
+Hash: 2A6895F5, Key: DruidCharges, Value: Favor
 Hash: 8685ED90, Key: DeathMenuPvPResurrect, Value: Accept Resurrection ({s1})
-Hash: ED5D3717, Key: RuneFlippyFormat, Value: {s1} Rune
+Hash: ED5D3717, Key: RuneFlippyFormat, Value: Rune: {s1}
 Hash: 5A41D8BC, Key: Skill_PointsAvailable, Value: Skill Points Available
 Hash: 2E95783E, Key: SkillPoints_Update, Value: Skills Update
 Hash: 7A23897B, Key: ItemPickup, Value: +{s1} {s2}
@@ -529,3 +529,15 @@ Hash: 93BAE5BD, Key: Notification_RewardCompanionBody, Value: Visit the Wardrobe
 Hash: 3E8BD3A8, Key: TemperManualFlippyFormat, Value: Manual: {s1}
 Hash: EEDC6271, Key: OptionXESSUltraQualityPlus, Value: Ultra Quality Plus
 Hash: 40A88D65, Key: OptionXESSNativeAA, Value: Native Anti-Aliasing
+Hash: 0892A427, Key: Vigor, Value: Vigor
+Hash: 937ABABA, Key: DeBuffCountUp, Value: {icon:font_arrow_up,1.8}{s1} {s2} {s3} {c_red}(+{s4}){/c_red}
+Hash: 5D0B0A4D, Key: DeBuffCountDown, Value: {icon:font_arrow_down,1.8}{s1} {s2} {s3} {c_green}(-{s4}){/c_green}
+Hash: 42572D11, Key: BuffCountUp, Value: {icon:font_arrow_up,1.8}{s1} {s2} {s3} {c_green}(+{s4}){/c_green}
+Hash: 34CD6E64, Key: BuffCountDown, Value: {icon:font_arrow_down,1.8}{s1} {s2} {s3} {c_red}(-{s4}){/c_red}
+Hash: 326FC7D5, Key: BuffAdded, Value: {icon:font_arrow_up,1.8}{s1} {s2}
+Hash: FE40827E, Key: DebuffRemoved, Value: {icon:font_arrow_down,1.8}{s1} {s2}
+Hash: AD1CF4D5, Key: BuffRemoved, Value: {icon:font_arrow_down,1.8}{s1} {s2}
+Hash: E2D1D73E, Key: DebuffAdded, Value: {icon:font_arrow_up,1.8}{s1} {s2}
+Hash: 637E7785, Key: LevelUpParagon, Value: Paragon {s1}
+Hash: 92118757, Key: BagType_DungeonKeys, Value: Dungeon Keys
+Hash: 04A8F03B, Key: BagType_Socketables, Value: Socketables

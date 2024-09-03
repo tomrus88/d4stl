@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Leap
+Hash: 9F3A5CD2, Key: Payload2_DisplayName, Value: Imbued Soul Wave
+Hash: EE996653, Key: Payload3_DisplayName, Value: Imbued Soul Bolt
+Hash: 3DF86FD4, Key: Payload4_DisplayName, Value: Imbued Soul Bolt

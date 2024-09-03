@@ -12,5 +12,5 @@ Hash: 74FC533C, Key: Phase25Description, Value: Yolanda has asked me to place th
 Hash: 58D5557C, Key: Callback24Header, Value: Administer the medication to Thanak
 Hash: F2C9CEFE, Key: Callback26Header, Value: Administer the medication to Jana
 Hash: 38C9C8C0, Key: Phase29Description, Value: Yolanda has asked me to place the Gano Fungus in the mixture she made. I'll administer it to the sick once I'm done. 
-Hash: 8CBE4880, Key: Callback28Header, Value: Add the Gano Fungus to the pot
+Hash: 8CBE4880, Key: Callback28Header, Value: Add the {ITEM:QST_Hawe_Soulrot_Medicine} to the pot
 Hash: DF0BA3DF, Key: Callback36Header, Value: Give Yolanda the medicine

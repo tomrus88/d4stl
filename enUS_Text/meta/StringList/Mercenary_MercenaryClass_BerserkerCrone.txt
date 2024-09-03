@@ -1,0 +1,7 @@
+Hash: 086EAA02, Key: Title, Value: The Berserker Crone
+Hash: EFB4D807, Key: PlaystyleA_Label, Value: Duel Wield Axes
+Hash: B8CA2B6B, Key: PlaystyleA_Description, Value: Apply Bleed, Vulnerable, and Weaken to enemies.
+Buff the player's attack speed.
+Hash: 3CAF14C8, Key: PlaystyleB_Label, Value: Large Mace
+Hash: 082934EC, Key: PlaystyleB_Description, Value: Apply Knock-down, displace, and Slow to enemies.
+Buff player attacks against enemies affected by Varyana's crowd control effects.

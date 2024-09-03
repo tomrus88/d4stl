@@ -1,4 +1,3 @@
 Hash: 0DC6ED73, Key: Buff0_Name, Value: IGR Bonus
-Hash: 2827F416, Key: Buff0_Description, Value: You get 20% Bonus Gold, 20% Bonus Obols, and no durability loss on death. You also get 1,500,000 gold and 1 Battle Pass Tier Skip for every 2 hours playing the game. 
-
-You have received {b}[Player_IGR_Tier_Skips_Current]/[Player_IGR_Tier_Skips_Max]{/b} Battle Pass tier skips for this season.
+Hash: 2827F416, Key: Buff0_Description, Value: Attain 20% additional gold and obols, no durability loss at death. 1,500,000 gold will be provided per 1 hour play, 1 Battle Pass Tier skip will be provided per 2 hours play.
+You have recieved [Player_IGR_Tier_Skips_Current]/[Player_IGR_Tier_Skips_Max] Battle Pass Tier Skip during this Season.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lacuni Corpse on a Spike
+Hash: F2CA04D8, Key: NoticeSignText, Value: Sometimes, a corpse is for the living. For these children who have lost everything, this gaudy display of violence returns a semblance of strength to them.

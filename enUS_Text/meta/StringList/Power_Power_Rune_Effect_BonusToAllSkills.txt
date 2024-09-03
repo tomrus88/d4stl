@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Skill Bonus
+Hash: C6E60718, Key: Buff2_Description, Value: +3 to all Skills

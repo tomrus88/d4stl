@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Boys are back in Town(PH)
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Seething Protectors spawned from the Realmwalker (PH)

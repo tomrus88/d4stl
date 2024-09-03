@@ -3,7 +3,6 @@ Hash: 0871A46B, Key: Toast, Value: Pursue Lilith and Vhenard through the mines
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Pursue Lilith and Vhenard 
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Neyrelle, Vigo, and I must pursue Lilith and Vhenard, Neyrelle's mother. Their trail leads us to the Condemned Mines.
 Hash: 027C5085, Key: Phase97Description, Value: With my new allies, Neyrelle and Vigo, I must venture into the Condemned Mines to pursue Lilith and Vhenard, Neyrelle's mother.
-Hash: 7F95DB6D, Key: Phase97OutsideSubzoneHeader, Value: Enter the Condemned Mines
 Hash: 6896A125, Key: Callback96Header, Value: Enter the Condemned Mines
 Hash: 145D3590, Key: Phase146Description, Value: With my new allies, Neyrelle and Vigo, I must venture into the Condemned Mines to pursue Lilith and Vhenard, Neyrelle's mother.
 Hash: 4DBC9CD8, Key: Phase146OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard
@@ -20,3 +19,4 @@ Hash: DD3F1FAC, Key: Callback132Header, Value: Pursue Lilith and Vhenard with Vi
 Hash: 6CBF7FC9, Key: Phase211Description, Value: Neyrelle, Vigo, and I venture further into the Condemned Mines in pursuit of Lilith and Vhenard, Neyrelle's mother, enduring falling rocks and countless unspeakable creatures. We must find a way through.
 Hash: 28AC7731, Key: Phase211OutsideSubzoneHeader, Value: Escape the mines
 Hash: DF436D69, Key: Callback210Header, Value: Use the opening to escape the mines
+Hash: 7F95DB6D, Key: Phase97OutsideSubzoneHeader, Value: Enter the Condemned Mines

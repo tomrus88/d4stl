@@ -48,3 +48,10 @@ Hash: B6E91E2A, Key: Title_72, Value: Epilogue: From the Wound Spilled
 Hash: E421523D, Key: CampaignCodexTitle_72, Value: Epilogue
 Hash: 25E06A3C, Key: CampaignCodexName_72, Value: From the Wound Spilled
 Hash: 55137501, Key: CampaignCodexGroup180_Header, Value: Legacy of the Horadrim
+Hash: 940CCADB, Key: Title_181, Value: Act VII: Vessel of Hatred
+Hash: 684B814E, Key: CampaignCodexTitle_181, Value: Act VII
+Hash: E1ED992D, Key: CampaignCodexName_181, Value: Vessel of Hatred
+Hash: 8E5564A5, Key: CampaignCodexGroup193_Header, Value: The Art of Salvaging What Remains
+Hash: 7A973986, Key: CampaignCodexGroup194_Header, Value: The Wound Heals, the Pain Lingers 
+Hash: 66D90E67, Key: CampaignCodexGroup195_Header, Value: A Stairway Carved from Corpses
+Hash: 531AE348, Key: CampaignCodexGroup196_Header, Value: False Prophets, Fallen Saints

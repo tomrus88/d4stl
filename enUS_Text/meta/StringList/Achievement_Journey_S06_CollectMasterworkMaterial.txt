@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fuel from Nightmares (PH)
+Hash: 3A4912CF, Key: DescShort, Value: Collect Masterwork Materials by completing NMD in Torment I or higher (PH)

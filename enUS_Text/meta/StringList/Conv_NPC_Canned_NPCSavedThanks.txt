@@ -166,3 +166,39 @@ Hash: 5B8F1A63, Key: Line502.EDC73, Value: You were the answer to my prayers.
 Hash: B28ABFD0, Key: VoiceDir502.EDC73, Value: Relieved
 Hash: 427DD0A6, Key: Line505.EDC73, Value: Bless you!
 Hash: 99797613, Key: VoiceDir505.EDC73, Value: Relieved
+Hash: FE017921, Key: Line798.1BB53F, Value: Wouldn’t have made it without you.
+Hash: 3471CC2E, Key: VoiceDir798.1BB53F, Value: Relieved
+Hash: 73DF3F12, Key: Line801.1BB53F, Value: Akarat smile upon you.
+Hash: AA4F921F, Key: VoiceDir801.1BB53F, Value: Relieved. Akarat pronunciation: "ah-kah-rat"
+Hash: 38A4BDB5, Key: Line804.1BB53F, Value: Bless you.
+Hash: 6F1510C2, Key: VoiceDir804.1BB53F, Value: Relieved
+Hash: 92D11DC4, Key: Line853.1BB540, Value: Wouldn’t have made it without you.
+Hash: C94170D1, Key: VoiceDir853.1BB540, Value: Relieved
+Hash: 57969C67, Key: Line856.1BB540, Value: Akarat smile upon you!
+Hash: 8E06EF74, Key: VoiceDir856.1BB540, Value: Relieved. Akarat pronunciation: "ah-kah-rat"
+Hash: 1C5C1B0A, Key: Line859.1BB540, Value: Bless you!
+Hash: 52CC6E17, Key: VoiceDir859.1BB540, Value: Relieved
+Hash: 3212D7E3, Key: Line842.1BB541, Value: Wouldn’t have made it without you.
+Hash: 68832AF0, Key: VoiceDir842.1BB541, Value: Relieved
+Hash: F6D85686, Key: Line845.1BB541, Value: Akarat smile upon you!
+Hash: 2D48A993, Key: VoiceDir845.1BB541, Value: Relieved. Akarat pronunciation: "ah-kah-rat"
+Hash: BB9DD529, Key: Line848.1BB541, Value: Bless you!
+Hash: F20E2836, Key: VoiceDir848.1BB541, Value: Relieved
+Hash: D1549202, Key: Line831.1BB542, Value: Wouldn’t have made it without you.
+Hash: 07C4E50F, Key: VoiceDir831.1BB542, Value: Relieved
+Hash: 961A10A5, Key: Line834.1BB542, Value: Akarat smile upon you!
+Hash: CC8A63B2, Key: VoiceDir834.1BB542, Value: Relieved. Akarat pronunciation: "ah-kah-rat"
+Hash: 5ADF8F48, Key: Line837.1BB542, Value: Bless you.
+Hash: 914FE255, Key: VoiceDir837.1BB542, Value: Relieved
+Hash: 70964C21, Key: Line820.1BB543, Value: Wouldn’t have made it without you.
+Hash: A7069F2E, Key: VoiceDir820.1BB543, Value: Relieved
+Hash: 355BCAC4, Key: Line823.1BB543, Value: Akarat smile upon you!
+Hash: 6BCC1DD1, Key: VoiceDir823.1BB543, Value: Relieved. Akarat pronunciation: "ah-kah-rat"
+Hash: FA214967, Key: Line826.1BB543, Value: Bless you.
+Hash: 30919C74, Key: VoiceDir826.1BB543, Value: Relieved
+Hash: D5EDE609, Key: Line809.1BB544, Value: Wouldn’t have made it without you!  
+Hash: 0C5E3916, Key: VoiceDir809.1BB544, Value: Relieved
+Hash: D49D84E3, Key: Line812.1BB544, Value: Akarat smile upon you!
+Hash: 0B0DD7F0, Key: VoiceDir812.1BB544, Value: Relieved. Akarat pronunciation: "ah-kah-rat"
+Hash: 99630386, Key: Line815.1BB544, Value: Bless you!
+Hash: CFD35693, Key: VoiceDir815.1BB544, Value: Relieved

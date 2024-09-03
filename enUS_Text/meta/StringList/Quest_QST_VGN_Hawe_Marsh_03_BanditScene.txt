@@ -1,6 +1,6 @@
 Hash: D29F0719, Key: Callback12Header, Value: Slay the serpents
 Hash: 38AA8D97, Key: Callback10Header, Value: Speak with the survivor
-Hash: 6C93809B, Key: Callback14Header, Value: Find the Left Eye
-Hash: 0BDB18BB, Key: Callback23Header, Value: Collect the Left Eye
-Hash: A5CF923D, Key: Callback25Header, Value: Return the Left Eye
+Hash: 6C93809B, Key: Callback14Header, Value: Find the {ITEM:QST_Hawe_Marsh_TempleLeftEye}
+Hash: 0BDB18BB, Key: Callback23Header, Value: Collect the {ITEM:QST_Hawe_Marsh_TempleLeftEye}
+Hash: A5CF923D, Key: Callback25Header, Value: Return the {ITEM:QST_Hawe_Marsh_TempleLeftEye}
 Hash: 003DFCC1, Key: Name, Value: Wrack & Ruin

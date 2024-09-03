@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Tenacity
+Hash: 003892BF, Key: Desc, Value: You gain {c_important}{u}Resolve{/u}{/c} for each {c_random}[Affix_Value_1]{/c} Vigor you gain over {c_number}[Affix."Static Value 0"]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: You gain {c_important}{u}Resolve{/u}{/c} for each {c_random}[Affix_Value_1]{/c} Vigor you gain over {c_number}[Affix."Static Value 0"]{/c}.

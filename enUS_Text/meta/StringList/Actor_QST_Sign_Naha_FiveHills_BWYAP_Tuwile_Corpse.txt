@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tuwile's Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: The twisted remains of Tuwile, warped and deformed by Umija's plants. His face is frozen in agony, a profane flower rising from his throat.

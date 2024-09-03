@@ -2,3 +2,9 @@ Hash: E6F0DE2B, Key: Line9.BAE4, Value: Your evil is done!
 Hash: AFDD2476, Key: Line22.BAE4, Value: You will never harm another soul.
 Hash: B48775B8, Key: Line24.BAE4, Value: They're safe now.
 Hash: B931C6FA, Key: Line26.BAE4, Value: It's over.
+Hash: 0181B279, Key: Line34.BAE4, Value: Not so tough now.
+Hash: 708B18A6, Key: VoiceDir34.BAE4, Value: A hint of cockiness. Spoken to the corpse of a defeated enemy.
+Hash: 062C03BB, Key: Line36.BAE4, Value: What a shame...
+Hash: 753569E8, Key: VoiceDir36.BAE4, Value: Regretful about this battle the Player had to wage. In this context, the enemy isn't a purely evil demon, but a person who made the wrong choice and went against the Player.
+Hash: 0AD654FD, Key: Line38.BAE4, Value: We did it.
+Hash: 79DFBB2A, Key: VoiceDir38.BAE4, Value: Relieved. Spoken to NPC allies.

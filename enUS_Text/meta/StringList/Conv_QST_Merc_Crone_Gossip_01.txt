@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How did you get captured?"
+Hash: CF38FC49, Key: Line17.18782A, Value: I sought to have my revenge upon Molquarth in the Temple of Rot, but I was captured.
+Hash: 2634A1B6, Key: VoiceDir17.18782A, Value: Matter of fact as she tells the tale. 
+Hash: 0A737DA6, Key: Line14.18782A, Value: My captors fled when Molquarth was slain by another.
+Hash: 616F2313, Key: VoiceDir14.18782A, Value: Matter of fact as she tells the tale. 
+Hash: A7BCA60B, Key: Line19.18782A, Value: But there are two others who must pay. Grelkar and his master, Zolmog.
+Hash: FEB84B78, Key: VoiceDir19.18782A, Value: Matter of fact as she tells the tale. 

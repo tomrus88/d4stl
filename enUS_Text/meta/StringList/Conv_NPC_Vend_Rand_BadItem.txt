@@ -30,11 +30,23 @@ Hash: 89DA9F6C, Key: Line77.14638B, Value: Not bad, not good.
 Hash: E0D644D9, Key: VoiceDir77.14638B, Value: Fake sympathy. Wants Player to try again.
 Hash: 888A3E46, Key: Line80.14638B, Value: Hmm. Why not try another?
 Hash: DF85E3B3, Key: VoiceDir80.14638B, Value: Fake sympathy. Wants Player to try again.
-Hash: 1BE3A9A8, Key: Line85.B79A2, Value: Rubbish. Too bad.
+Hash: 1BE3A9A8, Key: Line85.B79A2, Value: Ah. Rubbish. Too bad.
 Hash: 6C19D575, Key: VoiceDir85.B79A2, Value: Fake sympathy. Wants Player to try again.
-Hash: 02D25FEB, Key: Line88.B79A2, Value: Chin up, mate, have another go.
+Hash: 02D25FEB, Key: Line88.B79A2, Value: Ah, chin up, mate. Have another go.
 Hash: 53088BB8, Key: VoiceDir88.B79A2, Value: Fake sympathy. Wants Player to try again.
 Hash: 6E310508, Key: Line93.B79A3, Value: Rubbish. Too bad.
 Hash: BE6730D5, Key: VoiceDir93.B79A3, Value: Fake sympathy. Wants Player to try again.
 Hash: 551FBB4B, Key: Line96.B79A3, Value: Chin up, mate, have another go.
 Hash: A555E718, Key: VoiceDir96.B79A3, Value: Fake sympathy. Wants Player to try again.
+Hash: 3010BB9C, Key: Line103.1C264B, Value: Ooh, ha! Bad luck! Next one'll be better, I'm sure.
+Hash: 66810EA9, Key: VoiceDir103.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: F4D63A3F, Key: Line106.1C264B, Value: Ha! (clears throat) Uh, sorry, I mean.
+Hash: 2B468D4C, Key: VoiceDir106.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: B99BB8E2, Key: Line109.1C264B, Value: Been trying to get rid of that one for ages.
+Hash: F00C0BEF, Key: VoiceDir109.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: B839CD1B, Key: Line112.1B35B4, Value: Ooh, such a shame. Try again?
+Hash: EEAA2028, Key: VoiceDir112.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 7CFF4BBE, Key: Line115.1B35B4, Value: Now that just won't do! Here, try another.
+Hash: B36F9ECB, Key: VoiceDir115.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 41C4CA61, Key: Line118.1B35B4, Value: That's just too bad!
+Hash: 78351D6E, Key: VoiceDir118.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.

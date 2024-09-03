@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: Rushing Claw
+Hash: 003892BF, Key: desc, Value: {c_label}Charges:{/c} {c_resource}{SF_1}{/c}
+{c_label}Charge Cooldown:{/c} {c_resource}{SF_1}{/c_resource} per {c_resource}{Recharge Time}{/c_resource} seconds 
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Slash a short distance through an enemy, striking all enemies along the way twice for a total of {c_number}{payload:IMPACT_TOOLTIP}{/c} total damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT_TOOLTIP}{/c}
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Rushing Claw Cooldown
+Hash: 3763A447, Key: Buff10_Description, Value: Rushing Claw cannot consume Ferocity
+Hash: D618A933, Key: Mod0_Description, Value: Enemies hit by {c_important}Rushing Claw{/c} take {c_number}[{SF_9}*100|%+|]{/c} increased damage from {c_important}Rushing Claw{/c}, up to {c_number}[{SF_9}*{SF_10}*100|%+|]{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Rushing Claw
+Hash: 2577B2B4, Key: Mod1_Description, Value: When {c_important}Rushing Claw{/c} hits an Elite enemy you gain {c_number}[{SF_6}*100|%|]{/c} increased Dodge Chance for {c_number}{SF_8}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Poised Rushing Claw
+Hash: 74D6BC35, Key: Mod2_Description, Value: Using {c_important}Rushing Claw's{/c} last Charge will refill {c_number}{SF_13}{/c} Charges by consuming {c_number}{SF_12}{/c} stacks of {c_important}{u}Ferocity{/u}{/c}. Can only occur once every {c_number}{SF_14}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Invasive Rushing Claw
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Plains Offense Upgrade C

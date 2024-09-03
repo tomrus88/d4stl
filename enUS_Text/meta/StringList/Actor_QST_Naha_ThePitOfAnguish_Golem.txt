@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Reliquary Golem
+Hash: CC3C0A8F, Key: FlavorText, Value: An ancient bone golem
+Hash: F2CA04D8, Key: NoticeSignText, Value: A hollow compartment in the chest of this bone golem reveals space for a relic to be stored.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why aren't you out there fighting?"
+Hash: 9283A9BF, Key: Line1.1F158C, Value: An illness from this accursed swamp robbed me of my strength years ago, but my conviction remains.
+Hash: 438AFD43, Key: Line5.1F158C, Value: I do what I can from here, calling my brothers and sisters to action and providing what sundries I can to those who aid our fight.

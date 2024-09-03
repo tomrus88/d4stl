@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Pounce
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+{/if}Take on the mantle of a pouncing jaguar as you vault to a target location and become {c_important}{u}Unstoppable{/u}{/c} for {c_number}{SF_10}{/c} seconds. 
+
+Recast within {c_number}{SF_5}{/c} seconds to {c_important}Pounce{/c} again.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c}
+Hash: 1970B898, Key: Buff5_Name, Value: (PH) Pounce Bonus
+Hash: B503239B, Key: Buff5_Description, Value: (PH) Next Skill does bonus damage.
+Hash: D618A933, Key: Mod0_Description, Value: (PH) Casting or recasting {c_important}Pounce{/c} increases the damage of the next Skill cast by {c_number}[{SF_8}*100|%x|]{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Pounce Enhancement
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) {c_important}Pounce{/c} can be recast a second time and the overall recasting window is increased by {c_number}{SF_12}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Pounce Upgrade A
+Hash: 74D6BC35, Key: Mod2_Description, Value: (PH) Casting {c_important}Pounce{/c} grants {c_number}{SF_9}{/c} stacks of {c_important}{u}Ferocity{/u}{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Pounce Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Plains Mobility1 Upgrade C

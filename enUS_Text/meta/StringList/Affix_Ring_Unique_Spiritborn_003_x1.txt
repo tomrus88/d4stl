@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Evading{/c} consumes {c_number}[Affix."Static Value 0"]{/c} stack of {c_important}{u}Resolve{/u}{/c} to generate {c_random}[Affix_Value_1]{/c} Vigor.
+
+Gain {c_important}Armored Hide's{/c} Passive Effect.

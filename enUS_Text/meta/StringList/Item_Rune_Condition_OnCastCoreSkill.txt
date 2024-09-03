@@ -1,0 +1,3 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneCondition}Cast a non-{c_important}Channeled{/c} {c_important}Core{/c} Skill.{/c}
+Hash: ECF72407, Key: RunewordPhrasePrefix, Value: Essential
+Hash: 003DFCC1, Key: Name, Value: Tam

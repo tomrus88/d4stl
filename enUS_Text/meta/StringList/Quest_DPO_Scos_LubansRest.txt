@@ -3,6 +3,6 @@ Hash: 1EADAE68, Key: Callback2Header, Value: Destroy the {MONSTER}: {LEFT}
 Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat the {MONSTER}
 Hash: B98DBD5C, Key: Callback15Header, Value: Slay all enemies in the Hallowed Halls {KAM_REVEALED_COUNT}
 Hash: D9B88541, Key: Callback29Header, Value: Slay the Bandit Captain and collect the {ITEM}
-Hash: 71E69F39, Key: Callback21Header, Value: Use the Key to open the {GIZMO}
+Hash: 71E69F39, Key: Callback21Header, Value: Use the {ITEM:DGN_Scos_LubansRest_Key} to open the {GIZMO}
 Hash: F2C9CEFE, Key: Callback26Header, Value: Travel to the {LEVELAREA}
 Hash: 45172A5D, Key: Callback34Header, Value: Travel to {LEVELAREA}

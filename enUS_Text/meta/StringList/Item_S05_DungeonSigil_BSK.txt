@@ -1,1 +1,2 @@
+Hash: F2F38E96, Key: RequirementText, Value: You must be in a Torment difficulty to use this.
 Hash: 003DFCC1, Key: Name, Value: Compass

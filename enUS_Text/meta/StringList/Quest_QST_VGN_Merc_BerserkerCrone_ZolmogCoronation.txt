@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Slayer's Retribution
+Hash: 85A4CA58, Key: Callback11Header, Value: Kill Zolmog and his Blackguards
+Hash: 1F9943DA, Key: Callback13Header, Value: Speak with Zolmog
+Hash: 059C64AB, Key: Callback5Header, Value: Find Zolmog
+Hash: F81CED9C, Key: Callback33Header, Value: Kill Zolmog's Cannibals
+Hash: DF0BA3DF, Key: Callback36Header, Value: Speak with Varyana
+Hash: CB4D78C0, Key: Callback46Header, Value: Speak with Zolmog
+Hash: BCE26C3F, Key: Callback63Header, Value: Kill Zolmog and his Blackguards
+Hash: 936600EA, Key: Phase113Description, Value: Varyana has completed her quest for vengeance. I should speak with her by the Temple of Rot, where we first met.
+Hash: EBAA2C2D, Key: Callback115Header, Value: Speak with Varyana

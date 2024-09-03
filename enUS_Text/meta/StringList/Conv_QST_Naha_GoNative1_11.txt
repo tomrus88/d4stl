@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who was that man who just left?"
+Hash: 8F733B88, Key: Line1.19FF92, Value: Serving as Kharov’s scribe has earned him several titles, but most Knights call him the Scribbler.
+Hash: 67F6E54A, Key: Line3.19FF92, Value: Long ago, he was a reputable poet, tasked by the Cathedral of Light to record the heroism of the Knights. He quickly fell under Captain Kharov's sway and has never left his side.

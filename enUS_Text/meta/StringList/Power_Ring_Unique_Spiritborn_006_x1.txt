@@ -1,0 +1,2 @@
+Hash: 1BC5E139, Key: Buff6_Name, Value: Vigor Spent
+Hash: 04622D1C, Key: Buff6_Description, Value: Recent Vigor Spent

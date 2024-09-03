@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: name, Value: Touch of Death
+Hash: 003892BF, Key: desc, Value: {if:SF_23}{c_label}Vigor Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{else}{c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Strike an enemy and infect them, dealing {c_number}{payload:IMPACT}{/c} damage and applying {c_number}{dot:LEECH}{/c} Poisoning damage over {c_number}[{buffduration:LEECH}]{/c} seconds.
+
+When the infection expires or the host dies, a swarm hatches and seeks enemies for {c_number}{SF_11}{/c} seconds, dealing {c_number}{payload:SWARM_IMPACT}{/c} damage per hit.
+
+You can have up to {c_number}{SF_25}{/c} swarms active at once.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Poisoning Damage {icon:arrow,1.2} {c_number}{dot:LEECH}{/c}
+{icon:bullet,1.2} Swarm Damage {icon:arrow,1.2} {c_number}{payload:SWARM_IMPACT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Touch of Death's{/c} infection Heals you for {c_number}[{SF_4}*100|1%|]{/c} of your Maximum Life {c_number}([Max(1,PlayerHealthMax() * {SF_4})]){/c} per second for a total of {c_number}[{SF_4}*{SF_2}*100|%|]{/c} Maximum Life {c_number}([Max(1,PlayerHealthMax() * {SF_4}*{SF_2})]){/c}. You Heal any remaining when the swarm hatches. 
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Touch of Death
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Touch of Death's{/c} swarm bursts every second, applying {c_number}[{SF_32}*100|%|]{/c} of its Base Poisoning damage over {c_number}[{buffduration:POISON_DOT}]{/c} seconds to surrounding enemies.
+Hash: 948901D1, Key: Mod1_Name, Value: Invasive Touch of Death
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Touch of Death{/c} is now also a {c_important}Core{/c} Skill which costs {c_number}{SF_22}{/c} Vigor and has no Cooldown.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Poised Touch of Death
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Soil Defense Upgrade C

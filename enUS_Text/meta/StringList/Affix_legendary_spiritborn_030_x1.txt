@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Invigorating Will
+Hash: 003892BF, Key: Desc, Value: Losing a stack of {c_important}{u}Resolve{/u}{/c} has a {c_number}[Affix."Static Value 0"]%{/c} chance to Heal you for {c_random}[Affix_Value_1*100|%|]{/c} of your Maximum Life.

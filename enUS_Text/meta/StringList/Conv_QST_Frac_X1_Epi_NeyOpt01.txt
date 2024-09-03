@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are we looking for?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Anything. Anything that might help us find Mephisto. Anything that might stop him.
+Hash: F414A633, Key: Line3.6DE47, Value: I spent so much time with him, and yet learned so little. He is a labyrinth with nothing at its center.
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: reflective

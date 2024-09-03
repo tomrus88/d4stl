@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Engraved Anvil
+Hash: F2CA04D8, Key: NoticeSignText, Value: Tender words are etched into the base. "Raheir, my heart. Every Iron Wolf in Gea Kul helped hammer this anvil into shape. You've given so much to this city. Let it provide for you in turn."

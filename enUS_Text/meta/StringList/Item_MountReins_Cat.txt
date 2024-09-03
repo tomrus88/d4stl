@@ -1,2 +1,2 @@
-Hash: 003DFCC1, Key: Name, Value: Reins of the Proxy Cat
-Hash: A646FFA4, Key: Description, Value: Use reins to add the Proxy Cat to your stable.
+Hash: 003DFCC1, Key: Name, Value: Reins of the Nahantu Panther
+Hash: A646FFA4, Key: Description, Value: Use reins to add the Nahantu Panther to your stable.

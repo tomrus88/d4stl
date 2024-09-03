@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Bloodstained Key
-Hash: A646FFA4, Key: Description, Value: Bound to Derelict Lodge
 Hash: F5C7BC0A, Key: Flavor, Value: A key to the most exclusive part of the lodge.
+Hash: A646FFA4, Key: Description, Value: Bound to Derelict Lodge

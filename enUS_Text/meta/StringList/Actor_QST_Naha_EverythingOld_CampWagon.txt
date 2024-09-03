@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Supplies Wagon
+Hash: F2CA04D8, Key: NoticeSignText, Value: A rickety wagon stuffed with various supplies. Strangely, there is no place to hitch a horse.

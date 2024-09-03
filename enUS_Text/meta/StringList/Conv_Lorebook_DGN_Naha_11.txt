@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Withered Vellum
+Hash: 923DBE9C, Key: Line1.1B4ECF, Value: We donated our dead to the necromancers studying in Necropolis. Only this time, they didn’t lift the dead -- they enraged their spirits.
+Hash: 6AC1685E, Key: Line3.1B4ECF, Value: Rumor has it that an apprentice tried to enhance their abilities by extracting essence from the corpses.
+Hash: 1BC8BBE2, Key: Line7.1B4ECF, Value: The dead felt betrayed and went wild, consuming the apprentice and several necromancers’ spirits.
+Hash: 43451220, Key: Line5.1B4ECF, Value: We tried to recover our dead. Let them find rest, but their anger and hatred were impossible to soothe. We can only pray that one day, they will find peace.

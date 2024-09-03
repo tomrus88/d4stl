@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rotting Stew
+Hash: F2CA04D8, Key: NoticeSignText, Value: Someone threw anything that looked edible into a pot. It probably tastes even worse than it smells.

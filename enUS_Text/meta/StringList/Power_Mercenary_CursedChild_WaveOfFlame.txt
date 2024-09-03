@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Wave of Flame
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Aldkin conjures a mass of flames forward, repeatedly dealing {c_number}{payload:TOOLTIP_WALL_DAMAGE}{/c} Fire damage, Knocking Back enemies, and destroying small missiles.

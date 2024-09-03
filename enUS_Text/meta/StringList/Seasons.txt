@@ -164,7 +164,7 @@ Hash: 555595A0, Key: PremiumPassRequiredToClaim, Value: Premium Battle Pass requ
 Hash: 093A5ABE, Key: ReadyToClaim, Value: Ready to Claim
 Hash: 8A90C553, Key: MultipleRewards_Heading, Value: Multiple Class Rewards Claimed
 Hash: 75E470A8, Key: MultipleClassRewards_Earned, Value: You claimed cosmetics for multiple classes
-Hash: 3956E2D1, Key: MultipleClassRewards_EquipFrom, Value: Equip the cosmetic item from your current class from the Wardrobe {icon:Marker_Wardrobe, 3.0}
+Hash: 3956E2D1, Key: MultipleClassRewards_EquipFrom, Value: Equip the cosmetic item to your current class from the Wardrobe {icon:Marker_Wardrobe, 3.0}
 Hash: D130AC74, Key: MultipleRewards_OtherRewards_EquipFrom, Value: Other cosmetics have been added to the Wardrobe of the appropriate character class.  Login or create a character of another class to view and equip new cosmetics.
 Hash: F853E04D, Key: SeasonNotificationEventCompleteTitle, Value: {s1} Complete
 Hash: E5D97988, Key: SeasonNotificationEventObjectiveCompleteTitle, Value: {s1}

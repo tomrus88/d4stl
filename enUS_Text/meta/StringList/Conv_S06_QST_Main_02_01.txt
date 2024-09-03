@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this journal."
+Hash: 9283A9BF, Key: Line1.1F158C, Value: A report from the field? Let me see.
+Hash: D125AC10, Key: Line20.1F158C, Value: Hmm. So, the Umbaru have already been fighting this corruption. I wonder, was it spread to their lands, or did it begin there?
+Hash: F49250C7, Key: Line9.1F158C, Value: Regardless, any information about our enemy is a blessing. Thank you for sharing this with me.
+Hash: BEB7E217, Key: Line18.1F158C, Value: May Akarat protect you.

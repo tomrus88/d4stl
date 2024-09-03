@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dead Body
+Hash: F2CA04D8, Key: NoticeSignText, Value: Pinned underneath a grisly corpse, you find a bloodstained page torn from a book: "The Devastation of Kurast: A Firsthand Account." 

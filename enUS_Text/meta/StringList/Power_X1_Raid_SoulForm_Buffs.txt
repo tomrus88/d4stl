@@ -1,0 +1,6 @@
+Hash: AE488548, Key: Buff14_Name, Value: Realm Shard
+Hash: 74DFCA4B, Key: Buff14_Description, Value: Shards used to power Gateways
+Hash: B09DADE9, Key: Buff15_Name, Value: Transcendence
+Hash: C43ED3CC, Key: Buff15_Description, Value: Soul energy surges through you unlocking your potential
+Hash: B547FF2B, Key: Buff17_Name, Value: [PH] Challenger's Burden
+Hash: 62FCE6CE, Key: Buff17_Description, Value: [PH] The Rite of Challenge burdens you

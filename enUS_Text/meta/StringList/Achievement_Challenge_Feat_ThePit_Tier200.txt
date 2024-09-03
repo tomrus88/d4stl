@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: The Denouement of a Perilous Odyssey
-Hash: 003892BF, Key: Desc, Value: Complete a Tier 200 or higher of The Pit
+Hash: 003892BF, Key: Desc, Value: Complete a Tier 200 or higher run of The Pit

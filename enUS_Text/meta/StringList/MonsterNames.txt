@@ -944,3 +944,70 @@ Hash: 46DC199D, Key: S04_DemonSuccubusMinibossPrefix005, Value: Anidia
 Hash: 46DC199E, Key: S04_DemonSuccubusMinibossPrefix006, Value: Sathia
 Hash: 46DC199F, Key: S04_DemonSuccubusMinibossPrefix007, Value: Vellei
 Hash: B6112800, Key: S04_DemonSuccubusMinibossSuffix001, Value: 
+Hash: 88673972, Key: ProcgenChainsPrefix, Value: Promoth
+Hash: 09D025D8, Key: ProcgenFireChainsPrefix, Value: Embron
+Hash: 6BCDCAD4, Key: ProcgenHatredPrefix, Value: Venomoz
+Hash: 34BE3AE1, Key: ProcgenVinesPrefix, Value: Rotmir
+Hash: 5D97FFC4, Key: HollowsGenericPrefix001, Value: Ithcous
+Hash: 5D97FFC5, Key: HollowsGenericPrefix002, Value: Meleevo
+Hash: 5D97FFC6, Key: HollowsGenericPrefix003, Value: Odiune
+Hash: 5D97FFC7, Key: HollowsGenericPrefix004, Value: Uguiser
+Hash: 5D97FFC8, Key: HollowsGenericPrefix005, Value: Zugouster
+Hash: 5D97FFC9, Key: HollowsGenericPrefix006, Value: Thelesgil
+Hash: 5D97FFCA, Key: HollowsGenericPrefix007, Value: Eursithous
+Hash: 5D97FFCB, Key: HollowsGenericPrefix008, Value: Scyllclus
+Hash: 5D97FFCC, Key: HollowsGenericPrefix009, Value: Vesoreal
+Hash: 5D97FFE4, Key: HollowsGenericPrefix010, Value: Eurithous
+Hash: 5D97FFE5, Key: HollowsGenericPrefix011, Value: Xystor
+Hash: 5D97FFE6, Key: HollowsGenericPrefix012, Value: Lamial
+Hash: 5D97FFE7, Key: HollowsGenericPrefix013, Value: Minoessus
+Hash: D2DD44BD, Key: KhazraGenericPrefix001, Value: Hexane
+Hash: D2DD44BE, Key: KhazraGenericPrefix002, Value: Gaugre
+Hash: 7D5CCFDF, Key: KhzaraGenericPrefix003, Value: Dementer
+Hash: 7D5CCFE0, Key: KhzaraGenericPrefix004, Value: Crammer
+Hash: 7D5CCFE1, Key: KhzaraGenericPrefix005, Value: Conjire
+Hash: 7D5CCFE2, Key: KhzaraGenericPrefix006, Value: Vexlin
+Hash: 7D5CCFE3, Key: KhzaraGenericPrefix007, Value: Leezen
+Hash: 7D5CCFE4, Key: KhzaraGenericPrefix008, Value: Dystruptir
+Hash: 7D5CCFE5, Key: KhzaraGenericPrefix009, Value: Voluteon
+Hash: 7D5CCFFD, Key: KhzaraGenericPrefix010, Value: Blezione
+Hash: 7D5CCFFE, Key: KhzaraGenericPrefix011, Value: Vardaen
+Hash: 10AF9AD8, Key: LacuniGenericPrefix001, Value: Marmorzete
+Hash: 10AF9AD9, Key: LacuniGenericPrefix002, Value: Felixe
+Hash: 10AF9ADA, Key: LacuniGenericPrefix003, Value: Felilosa
+Hash: 10AF9ADB, Key: LacuniGenericPrefix004, Value: Xati
+Hash: 10AF9ADC, Key: LacuniGenericPrefix005, Value: Wilfeid
+Hash: 10AF9ADD, Key: LacuniGenericPrefix006, Value: Pailuru
+Hash: 10AF9ADE, Key: LacuniGenericPrefix007, Value: Yaguarix
+Hash: 10AF9ADF, Key: LacuniGenericPrefix008, Value: Th’truka
+Hash: 10AF9AE0, Key: LacuniGenericPrefix009, Value: Pumaktr
+Hash: 10AF9AF8, Key: LacuniGenericPrefix010, Value: Thantuu
+Hash: 10AF9AF9, Key: LacuniGenericPrefix011, Value: Magune
+Hash: 2F32387E, Key: DregGenericPrefix001, Value: Doxin
+Hash: 2F32387F, Key: DregGenericPrefix002, Value: Dipthyrio
+Hash: 2F323880, Key: DregGenericPrefix003, Value: Botulizi
+Hash: 2F323881, Key: DregGenericPrefix004, Value: Thylad
+Hash: 2F323882, Key: DregGenericPrefix005, Value: Cresoles
+Hash: 2F323883, Key: DregGenericPrefix006, Value: Trakka
+Hash: 2F323884, Key: DregGenericPrefix007, Value: Ruthione
+Hash: 2F323885, Key: DregGenericPrefix008, Value: Koruptr
+Hash: 2F323886, Key: DregGenericPrefix009, Value: Yvarro
+Hash: 2F32389E, Key: DregGenericPrefix010, Value: Scythica
+Hash: 2F32389F, Key: DregGenericPrefix011, Value: Xulune
+Hash: 3BF48AA8, Key: ProcgenVinesSuffix, Value:  Vineblood
+Hash: D2DD44BF, Key: KhazraGenericPrefix003, Value: Dementer
+Hash: D2DD44C0, Key: KhazraGenericPrefix004, Value: Crammer
+Hash: D2DD44C1, Key: KhazraGenericPrefix005, Value: Conjire
+Hash: D2DD44C2, Key: KhazraGenericPrefix006, Value: Vexlin
+Hash: D2DD44C3, Key: KhazraGenericPrefix007, Value: Leezen
+Hash: D2DD44C4, Key: KhazraGenericPrefix008, Value: Dystruptir
+Hash: D2DD44C5, Key: KhazraGenericPrefix009, Value: Voluteon
+Hash: D2DD44DD, Key: KhazraGenericPrefix010, Value: Blezione
+Hash: D2DD44DE, Key: KhazraGenericPrefix011, Value: Vardaen
+Hash: 73041A9B, Key: ProcgenHatredSuffix, Value:  the Seething
+Hash: D575AEC5, Key: X1_Undercity_LesserTouched_Prefix, Value:  
+Hash: DCABFE8C, Key: X1_Undercity_LesserTouched_Suffix, Value:  
+Hash: 9E558275, Key: X1_Undercity_LesserTouched_SingleAffixPrefix, Value:  
+Hash: 20F20337, Key: X1_Undercity_GreaterAfflicted_Prefix, Value:  
+Hash: EB54EBA7, Key: X1_Undercity_GreaterAfflicted_SingleAffixPrefix, Value:  
+Hash: 282852FE, Key: X1_Undercity_GreaterAfflicted_Suffix, Value:  

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Could you read what the book says?"
+Hash: 92562A5C, Key: Line1.1BB682, Value: I can read! I’m just…I’m tired…
+Hash: E28C5629, Key: VoiceDir1.1BB682, Value: Covering up that he can't read. Defensive, then petulant

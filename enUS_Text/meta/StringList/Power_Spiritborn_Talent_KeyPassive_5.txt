@@ -1,0 +1,20 @@
+Hash: 003DFCC1, Key: name, Value: Adaptive Stances
+Hash: 003892BF, Key: desc, Value: The Base Spirit of a Skill cast grants:
+{icon:bullet,1.2} {c_label}Eagle:{/c} {c_number}[{SF_2}*100|%+|]{/c} Movement Speed
+{icon:bullet,1.2} {c_label}Gorilla:{/c} {c_number}[{SF_3}*100|%|]{/c} Damage Reduction
+{icon:bullet,1.2} {c_label}Jaguar:{/c} {c_number}[{SF_4}*100|%+|]{/c} Attack Speed
+{icon:bullet,1.2} {c_label}Centipede:{/c} {c_number}[{SF_5}*100|%+|]{/c} Life Steal
+
+Casting a Skill of a different Base Spirit:
+{icon:bullet,1.2} Swaps to the new bonus
+{icon:bullet,1.2} Increases Core Stats by {c_number}[{SF_0}*100|%+|]{/c} for {c_number}{SF_6}{/c} seconds
+Hash: 12713EB5, Key: Buff2_Name, Value: Adaptive Eagle Stance
+Hash: C6E60718, Key: Buff2_Description, Value: Movement Speed Increased
+Hash: 171B8FF7, Key: Buff4_Name, Value: Adaptive Gorilla Stance
+Hash: 65A41A1A, Key: Buff4_Description, Value: Damage Reduction Increased
+Hash: 14C66756, Key: Buff3_Name, Value: Adaptive Jaguar Stance
+Hash: 16451099, Key: Buff3_Description, Value: Attack Speed Increased
+Hash: 1970B898, Key: Buff5_Name, Value: Adaptive Centipede Stance
+Hash: B503239B, Key: Buff5_Description, Value: Life Steal Increased
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Adaptive Stance Swap
+Hash: 53C1369D, Key: Buff7_Description, Value: Core Stats Increased

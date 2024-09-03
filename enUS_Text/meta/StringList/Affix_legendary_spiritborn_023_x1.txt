@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Starving Ravager's 
+Hash: 003892BF, Key: Desc, Value: {c_important}Ravager{/c} no longer has a duration and instead drains {c_random}[Affix_Value_1]{/c} Vigor every second until depleted. Effects which extend {c_important}Ravager{/c} instead generate Vigor.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Ravager{/c} no longer has a duration and instead drains {c_random}[Affix_Value_1]{/c} Vigor every second until depleted. Effects which extend {c_important}Ravager{/c} instead generate Vigor.

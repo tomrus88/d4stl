@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hallowed Cavity
+Hash: 003892BF, Key: Desc, Value: A secret place below Samuk that keeps a holy relic.

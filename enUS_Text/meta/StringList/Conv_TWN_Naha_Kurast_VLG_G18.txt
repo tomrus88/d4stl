@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem different."
+Hash: 9268B99B, Key: Line1.1CC157, Value: I never imagined Kurast having anything but a fate of misery...perhaps it isn’t as sealed as I believed.
+Hash: E29EE568, Key: VoiceDir1.1CC157, Value: Like a single ray of sunlight through dark clouds. Still gloomy, but starting to come out of it. There is some hope after all.

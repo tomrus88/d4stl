@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Ferocity
+Hash: 101C1614, Key: Buff1_Name, Value: Ferocity
+Hash: 7786FD97, Key: Buff1_Description, Value: {c_important}{u}Ferocity{/u}{/c}
+Attack Speed increased by [{SF_4}*100|%|] per stack. Stacks up to {SF_1} times.

@@ -1,0 +1,20 @@
+Hash: 003DFCC1, Key: Name, Value: The Gorger's Maze
+Hash: 0871A46B, Key: Toast, Value: Defeat Lorzul
+Hash: DCC8203F, Key: Phase91Description, Value: Battle the boss and win
+Hash: CD517FD6, Key: Callback349Header, Value: Slay Barrier Guardians: {done_over_Needed}
+Hash: 51C16EAF, Key: Callback351Header, Value: Obtain Sigils of Binding: {done_over_Needed}
+Hash: 51BB90AD, Key: Callback232Header, Value: Use Sigils of Binding at the {icon:Marker_GizmoReceptacle, 1.8} Soulbound Pedestal: {DONE_OVER_NEEDED}
+Hash: A5D52998, Key: Callback369Header, Value: Slay Aimless Souls to prevent Lorzul from powering up
+Hash: 637B4C11, Key: Callback263Header, Value: Slay the souls empowering Lorzul
+Hash: 0BDAD214, Key: Callback248Header, Value: Slay Barrier Guardians: {done_over_Needed}
+Hash: 335D0654, Key: Callback347Header, Value: Obtain Sigils of Binding: {done_over_Needed}
+Hash: 5E282D73, Key: Callback256Header, Value: Use Sigils of Binding at the {icon:Marker_GizmoReceptacle, 1.8} Soulbound Pedestal: {done_over_Needed}
+Hash: FF741350, Key: Callback343Header, Value: Slay Lorzul
+Hash: AAE07391, Key: Phase273Description, Value: Battle the boss and win
+Hash: EBB5E831, Key: Callback353Header, Value: Slay Barrier Guardians: {done_over_Needed}
+Hash: 85AA61B3, Key: Callback355Header, Value: Obtain Sigils of Binding: {done_over_Needed}
+Hash: 83A613F6, Key: Callback277Header, Value: Use Sigils of Binding at the {icon:Marker_GizmoReceptacle, 1.8} Soulbound Pedestal: {DONE_OVER_NEEDED}
+Hash: 2A451871, Key: Callback371Header, Value: Slay Aimless Souls to prevent Lorzul from powering up
+Hash: 9FA14676, Key: Phase278Description, Value: Battle the boss and win
+Hash: 55103F90, Key: Callback280Header, Value: Slay Lorzul
+Hash: 99688CD2, Key: Callback345Header, Value: Slay Lorzul

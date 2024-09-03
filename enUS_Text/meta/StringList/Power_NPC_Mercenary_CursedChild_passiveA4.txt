@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Condemned
+Hash: 003892BF, Key: desc, Value: You instantly kill {c_important}Languishing{/c} enemies with less than {c_number}[{SF_0}*100|%|]{/c} Life. Does not work on Elites.

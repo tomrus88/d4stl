@@ -18,7 +18,7 @@ Hash: 3DA4D90B, Key: Crit_235439, Value: Stormshifter's Aspect
 Hash: 3DA4D923, Key: Crit_235440, Value: Aspect of the Unwavering
 Hash: 3DA4D924, Key: Crit_235441, Value: Aspect of Corruption
 Hash: 3DA4D925, Key: Crit_235442, Value: Hulking Aspect
-Hash: 3DA4D926, Key: Crit_235443, Value: Aspect of Echoing Fury
+Hash: 3DA4D926, Key: Crit_235443, Value: Aspect of Vocalized Empowerment
 Hash: 3DA4D927, Key: Crit_235444, Value: Aspect of Control
 Hash: 3DA4D928, Key: Crit_235445, Value: Incendiary Aspect
 Hash: 3DA4D929, Key: Crit_235446, Value: Aspect of the Damned

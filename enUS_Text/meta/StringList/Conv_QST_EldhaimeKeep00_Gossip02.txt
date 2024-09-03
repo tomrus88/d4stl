@@ -5,5 +5,7 @@ Hash: F63F8D4F, Key: Line1.EEB24.Rog, Value: Ah, beware the gossip around here, 
 Hash: FABA41FC, Key: VoiceDir1.EEB24.Rog, Value: Disgruntled, irritated
 Hash: F63F919B, Key: Line1.EEB24.Sor, Value: Ah, beware the gossip around here, traveler. The glenfolk will find any reason to slander the Cathedral, despite all we’ve done to heal this broken land.
 Hash: FABA4648, Key: VoiceDir1.EEB24.Sor, Value: Disgruntled, irritated
+Hash: F63F91B3, Key: Line1.EEB24.Spi, Value: Ah, beware the gossip around here, traveler. The glenfolk will find any reason to slander the Cathedral, despite all we’ve done to heal this broken land.
+Hash: FABA4660, Key: VoiceDir1.EEB24.Spi, Value: Disgruntled, irritated
 Hash: F63F477C, Key: Line1.EEB24.Bar, Value: Ah, beware the gossip around here, traveler. The glenfolk will find any reason to slander the Cathedral, despite all we’ve done to heal this broken land.
 Hash: FAB9FC29, Key: VoiceDir1.EEB24.Bar, Value: Disgruntled, irritated

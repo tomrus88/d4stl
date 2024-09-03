@@ -1,7 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Devouring Dark
-Hash: 1F9943DA, Key: Callback13Header, Value: Slay the Guardians before time runs out to complete the challenge
-Hash: E26052C2, Key: Callback84Header, Value: Lives Remaining: {Done}
-Hash: 58D5557C, Key: Callback24Header, Value: Slay monsters before time runs out to summon the Guardians
-Hash: AE775FBE, Key: Callback80Header, Value: Lives Remaining: {Done}
-Hash: E7B37160, Key: Callback91Header, Value: Slay monsters before time runs out to summon the Guardians
-Hash: 486BD940, Key: Callback82Header, Value: Lives Remaining: {Done}

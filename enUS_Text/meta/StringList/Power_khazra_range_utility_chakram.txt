@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: Chakram
+Hash: 101C1614, Key: Buff1_Name, Value: Imbued Chakram Bleed
+Hash: 12713EB5, Key: Buff2_Name, Value: Imbued Chakram Bleed
+Hash: 14C66756, Key: Buff3_Name, Value: Imbued Chakram Bleed
+Hash: 4FDB5351, Key: Payload1_DisplayName, Value: Imbued Chakram
+Hash: 9F3A5CD2, Key: Payload2_DisplayName, Value: Imbued Chakram
+Hash: EE996653, Key: Payload3_DisplayName, Value: Imbued Chakram

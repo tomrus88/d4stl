@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: You called the spirit "Akarat." Akarat the Prophet?  
+Hash: 8F4F075B, Key: Line1.17FDAA, Value: Who else?
+Hash: DF853328, Key: VoiceDir1.17FDAA, Value: [matter-of-fact] 

@@ -7,4 +7,4 @@ Hash: D9B88541, Key: Callback29Header, Value: Open the Vault treasure
 Hash: D29F0719, Key: Callback12Header, Value: Find the Vault treasure
 Hash: 6C93809B, Key: Callback14Header, Value: Destroy the Glowing Seal
 Hash: E9B1E11B, Key: Callback50Header, Value: Open the Chest
-Hash: 83A65A9D, Key: Callback52Header, Value: Collect the Key
+Hash: 83A65A9D, Key: Callback52Header, Value: Collect the {ITEM}

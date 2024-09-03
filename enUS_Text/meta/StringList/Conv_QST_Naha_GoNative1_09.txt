@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What does Captain Kharov want with Neyrelle?"
+Hash: 8F733B88, Key: Line1.19FF92, Value: Captain Kharov's orders are to find her at all costs. They think she has a great evil about her, one only the Church is fit to deal with.
+Hash: 67F6E54A, Key: Line3.19FF92, Value: Kharov was hand-picked for this task, but coming here was a mistake. The Sacrament consumed him and what it regurgitated is truly revolting.

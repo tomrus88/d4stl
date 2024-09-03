@@ -2,7 +2,7 @@ Hash: C143430C, Key: UpgradeGlyph, Value: Upgrade Glyph
 Hash: E6D49CF4, Key: UpgradeInfo, Value: You can only spend experience points on one glyph at the time
 Hash: 63B074B0, Key: XPGained, Value: Available to Allocate:
 Hash: B9E97EB8, Key: AvailableGlyphs, Value: Paragon Glyphs
-Hash: 17CC80FC, Key: GlyphLevel, Value: Level {s1}
+Hash: 17CC80FC, Key: GlyphLevel, Value: Level: {c_number}{s1}{/c}{c_gray} / {s2}{/c}
 Hash: DE003923, Key: Current, Value: Current:
 Hash: 3B2793A8, Key: Upgrade, Value: Upgrade:
 Hash: FF111E2A, Key: UpgradePrompt, Value: Upgrade
@@ -18,11 +18,36 @@ Hash: FF8463F1, Key: ControllerPrompt_UpgradeGlyph, Value: Upgrade Glyph
 Hash: 6C1BCCD2, Key: ControllerPrompt_AllocateXP, Value: Allocate XP
 Hash: 16F322BB, Key: ControllerPrompt_Close, Value: Close
 Hash: 465D9B87, Key: AllocateRemainingXP, Value: Allocate Remaining XP
-Hash: 90B1A124, Key: GlyphLevelUpgrade, Value: {c_number}Level {s1}{/c}   {icon:arrow, 1.2}   {c_green}Level {s2}{/c}
+Hash: 90B1A124, Key: GlyphLevelUpgrade, Value: Level: {c_number}{s1}{/c} {c_green}(+{s2}){/c} {c_gray}/ {s3}{/c}
 Hash: 4A72EA56, Key: AffixDescriptionWithUpgrade, Value: {s1} ({c_green}+{s2}%{/c})
 Hash: 06F14CE6, Key: SelectGlyphPrompt, Value: Select a glyph to add XP
-Hash: BCA1B062, Key: MaximumLevelReached, Value: Maximum Level Reached:
+Hash: BCA1B062, Key: MaximumLevelReached, Value: Glyph Maximum Level Reached
 Hash: EB24FD98, Key: NoMoreXP, Value: You have spent all available Glyph XP.
 Hash: 15C9E69A, Key: NoMoreXPTitle, Value: Not Enough XP
 Hash: 297C38CF, Key: GlyphCurrentExperience, Value: {c_number}{s1}{/c} {c_number_req}/ {s2} XP{/c} 
 Hash: B2965498, Key: LockedGlyphPrompt, Value: Reach Level 50 to gain access to Paragon and Glyph upgrades.
+Hash: 5AA84E1C, Key: UpgradesAvailable, Value: Upgrades Available:
+Hash: 7FE7D6B9, Key: UpgradesAvailableValue, Value: {s1}
+Hash: B34EC14E, Key: RareGlyphLevelUpgrade, Value: Level: {c_number}{s1}{/c} {c_green}(+{s2}){/c} {c_gray}/ 40{/c}
+Hash: BCBC3A51, Key: RareGlyphLegendaryUpgrade, Value: Level: {c_number}40{/c} {c_green}(+1){/c} {c_gray}/ 40{/c} {c_green}(+60){/c}
+Hash: 80DE5D87, Key: LegendaryGlyphUpgrade, Value: Level: {c_number}{s1}{/c} {c_green}(+{s2}){/c} {c_gray}/ 100{/c}
+Hash: E582F703, Key: RadiusSize, Value: Radius Size: {c_number}{s1}{/c}
+Hash: E0016E2A, Key: UpgradeChance, Value: Pit Level: {c_number}{s1}{/c}  |  Success Chance: 
+Hash: AFADD8E5, Key: UpgradePromptLegendary, Value: Upgrade to Legendary
+Hash: E09D868C, Key: ControllerPrompt_UpgradeGlyphRarity, Value: Upgrade to Legendary
+Hash: C7EDFAC1, Key: RequiredGemFragments, Value: Required {s1}: {c_number}{s2}{/c} {c_gray}/ {s3}{/c}
+Hash: C3645E46, Key: UpgradeAnimSuccess, Value: {c_green}Upgrade Success{/c}
+Hash: AC79E235, Key: UpgradeAnimFailure, Value: {c_red}Upgrade Failed{/c}
+Hash: 739E4C68, Key: UpgradeAnimLegendary, Value: {c_legendary}Upgraded to Legendary{/c}
+Hash: EBF828E5, Key: UpgradeChanceLegendary, Value: {c_legendary}Upgrade to Legendary{/c}
+Hash: DC238B83, Key: RequiredMaterials, Value: Required Materials: {s1}
+Hash: C240A214, Key: UpgradeChanceRare, Value: {c_rare}Upgrade to Rare{/c}
+Hash: D9DF1F05, Key: MagicGlyphLevelUpgrade, Value: Level: {c_number}{s1}{/c} {c_green}(+{s2}){/c} {c_gray}/ 15{/c}
+Hash: 1BBB3CF7, Key: MagicGlyphRareUpgrade, Value: Level: {c_number}15{/c} {c_green}(+1){/c} {c_gray}/ 15{/c} {c_green}(+25){/c}
+Hash: 27FD93E2, Key: GlyphLevelMaxLevelUpgrade, Value: Level: {c_number}{s1}{/c}{c_gray}/{s2}{/c} {icon:font_arrow_green_right, 1.5} Level: {c_number}{s3}{/c}{c_gray}/{s4}{/c}
+Hash: E394294B, Key: RadiusSizeUpgrade, Value: Radius Size: {c_number}{s1}{/c} {icon:font_arrow_green_right, 1.5} {c_number}{s2}{/c}
+Hash: EE0EC7B7, Key: UpgradeAnimRare, Value: {c_rare}Upgraded to Rare{/c}
+Hash: 41A85214, Key: UpgradePromptRare, Value: Upgrade To Rare
+Hash: FD66B813, Key: RequiredGemFragmentsNoEnoughMaterial, Value: Required {s1}: {c_red}{s2}{/c} {c_gray}/ {s3}{/c}
+Hash: 3A2E3466, Key: NextRadiusIncreaseAt, Value: {c_gray}Next Radius increase at Level {s1}
+Hash: A6513B39, Key: AffixRequiresLegendary, Value: {c_gray} (When upgraded to Legendary at level {s1})

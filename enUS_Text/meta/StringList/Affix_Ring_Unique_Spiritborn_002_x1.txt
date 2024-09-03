@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Every {c_number}[Affix."Static Value 0"]{/c} seconds a {c_important}Pestilent Swarm{/c} spawns from you which deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Poison damage per hit. 
+
+{c_important}Pestilent Swarms{/c} now always spawn orbiting around you and generate {c_number}[Affix."Static Value 1"]{/c} Vigor per hit.

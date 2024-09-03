@@ -4,7 +4,7 @@ Hash: FAF02F4B, Key: Phase6Description, Value: Zurke is irritated a man indebted
 
 Zurke said to check the Sodden Graveyard for clues about Samil's whereabouts. 
 Hash: 059C64AB, Key: Callback5Header, Value: Search for Samil in the Sodden Graveyard
-Hash: D29F0719, Key: Callback12Header, Value: Retrieve Samil's Corpse
+Hash: D29F0719, Key: Callback12Header, Value: Retrieve {ITEM:QST_Hawe_Delta_Zurke_01_Corpse}
 Hash: E96ABF3F, Key: Phase19Description, Value: Samil has met an untimely end in the graveyard. I should bring his corpse back to Zurke as proof Samil didn’t intentionally break his promise. Hopefully, that knowledge will calm Zurke’s ire. 
 Hash: A07C739F, Key: Callback18Header, Value: Return to Zurke
 Hash: 71E69F39, Key: Callback21Header, Value: Place Samil's Corpse

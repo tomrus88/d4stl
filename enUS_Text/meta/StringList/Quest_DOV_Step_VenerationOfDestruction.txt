@@ -2,6 +2,6 @@ Hash: 003DFCC1, Key: Name, Value: Veneration of Destruction
 Hash: 0871A46B, Key: Toast, Value: Receive the Dark Blessing
 Hash: 0687FA1D, Key: Callback16Header, Value: Enter the vision
 Hash: D5F3B5FC, Key: Callback60Header, Value: Destroy the Barbarian defenses
-Hash: 95661601, Key: Callback83Header, Value: Slay {MONSTER}
 Hash: C2358ADD, Key: Callback70Header, Value: Speak to the Herald of Mephisto
+Hash: 95661601, Key: Callback83Header, Value: Slay {MONSTER}
 Hash: E7B37160, Key: Callback91Header, Value: Speak to the Bloodied Wolf

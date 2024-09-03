@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Pale Mark
+Hash: A646FFA4, Key: Description, Value: Used to enter into {c_important}Trade Agreements{/c}, restock a Mercenary's inventory and {c_important}Barter{/c} for goods in the Mercenary Den.
+
+{c_important}Bartering{/c} and {c_important}Trade Agreements{/c} become available upon reaching Rank 5 Rapport with any Mercenary.

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Skerg
+Hash: 926AB452, Key: Line1.1CEF93, Value: You will pay for that in blood!
+Hash: E2A0E01F, Key: VoiceDir1.1CEF93, Value: Yelled across an arena.

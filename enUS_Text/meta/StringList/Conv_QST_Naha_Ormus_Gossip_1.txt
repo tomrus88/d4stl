@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why do you speak your own name aloud?"
+Hash: 9262B18B, Key: Line1.1D7161, Value: Stranger! Watch your tongue!
+Hash: E298DD58, Key: VoiceDir1.1D7161, Value: barked, a warning
+Hash: 67D2B15F, Key: Line3.17FDCA, Value: Calm yourself, Iso. Ormus isn’t some fledgling to be cupped in your hands.
+Hash: B808DD2C, Key: VoiceDir3.17FDCA, Value:  with a chuckle
+Hash: 40565B21, Key: Line5.17FDCA, Value: You speak to Ormus, stranger. But not Ormus alone. Sometimes he shares his voice with others.
+Hash: 908C86EE, Key: VoiceDir5.17FDCA, Value: to player, gently
+Hash: 18DA04E3, Key: Line7.17FDCA, Value: At this moment? You also speak to Adarja, The First-Breather. She greets you.
+Hash: 691030B0, Key: VoiceDir7.17FDCA, Value: friendly, casual

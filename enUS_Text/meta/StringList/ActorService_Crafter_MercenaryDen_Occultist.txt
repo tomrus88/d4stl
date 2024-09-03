@@ -1,0 +1,4 @@
+Hash: C7866972, Key: ServiceName, Value: Occultist
+Hash: 8BE21B35, Key: ServiceDescription, Value: Occultists can extract and imprint aspects.
+Hash: F848B57B, Key: ConditionText_0, Value: Unlocks at Character level 25 or upon acquiring a Codex of Power Aspect
+Hash: 5957DF75, Key: InteractionMenuLabel, Value: Craft

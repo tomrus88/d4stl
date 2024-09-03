@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Danse Macabre
+Hash: 003892BF, Key: desc, Value: Casting a {c_important}Mobility{/c} or {c_important}Subterfuge{/c} Skill increases the damage of your next Skill by {c_number}[SF_0*100|%x|]{/c}.

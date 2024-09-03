@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: {c_legendary}Crafting Materials: Baleful Fragment{/c}
+Hash: A646FFA4, Key: Description, Value: Provides the opportunity for Varyana to offer {c_legendary}Baleful Fragments{/c} during{icon:Marker_Bartering, 2.4}{c_important}Bartering{/c}. 
+
+{c_label}Bartering:{/c} This {c_important}Trade Agreement{/c} will go into effect on the Mercenary's next new stock delivery. It does not guarantee stock of these items. The more difficult the item is to obtain, the less frequent it will be offered.
+
+{c_label}Crafting:{/c}{c_legendary} Baleful Fragments{/c} are used to improve {c_legendary}Legendary{/c} {c_important}Weapons{/c}.

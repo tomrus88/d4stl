@@ -1,7 +1,19 @@
 Hash: 003DFCC1, Key: name, Value: Heightened Senses
-Hash: 003892BF, Key: desc, Value: When {c_important}Shapeshifting{/c} into an animal form, Werebear grants {c_number}[{SF_0} * 100|%|]{/c} Damage Reduction and Werewolf grants {c_number}[{SF_2} * 100|%+|]{/c} Movement Speed, each for {c_number}{SF_1}{/c} seconds. Bonuses are doubled while both are active.
+Hash: 003892BF, Key: desc, Value: When {c_important}Shapeshifting{/c}, Werebear grants {c_number}[{SF_0} * 100|%|]{/c} Damage Reduction and Werewolf grants {c_number}[{SF_2} * 100|%+|]{/c} Movement Speed. 
+
+Both bonuses persist as long as you are in either animal form and are doubled while both are active. They are lost after {c_number}{SF_1}{/c} seconds in Human form.
 Hash: F2D5722F, Key: rankup_desc, Value: 
 {icon:bullet,1.2} Damage Reduction {icon:arrow,1.2} {c_number}[{SF_0}*100]%{/c}
 {icon:bullet,1.2} Movement Speed {icon:arrow,1.2} {c_number}[{SF_2}*100]%{/c}
 Hash: 14C66756, Key: Buff3_Name, Value: Heightened Senses
-Hash: 16451099, Key: Buff3_Description, Value: The bonuses are doubled.
+Hash: 16451099, Key: Buff3_Description, Value: Increased Movement Speed and Damage Reduction.
+Hash: 101C1614, Key: Buff1_Name, Value: Heightened Senses
+Hash: 7786FD97, Key: Buff1_Description, Value: Increased Damage Reduction
+Hash: 22C55B1C, Key: Buff9_Name, Value: Heightened Senses
+Hash: F27F499F, Key: Buff9_Description, Value: Increases Damage Reduction
+Hash: 1970B898, Key: Buff5_Name, Value: Heightened Senses
+Hash: B503239B, Key: Buff5_Description, Value: Increased Movement Speed
+Hash: A7490B65, Key: Buff11_Name, Value: Heightened Senses
+Hash: 86C2ADC8, Key: Buff11_Description, Value: Increased Movement Speed
+Hash: ABF35CA7, Key: Buff13_Name, Value: Heightened Senses
+Hash: 2580C0CA, Key: Buff13_Description, Value: Increased Movement Speed and Damage Reduction.

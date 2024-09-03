@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Soar
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Fly into the air, creating a cloud which makes enemies at your target location {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_2}{/c} seconds before you crash down upon them dealing {c_number}{payload:IMPACT}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}

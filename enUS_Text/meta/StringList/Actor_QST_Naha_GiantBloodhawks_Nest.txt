@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bloodhawk Nest
+Hash: F2CA04D8, Key: NoticeSignText, Value: A wretched bed of bones and refuse befitting a scavenger.
+
+These eggs were recently hatched, but where are the chicks? 

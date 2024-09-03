@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Maka died protecting us. I'm sorry, Ormus."
+Hash: 9262B18F, Key: Line1.1D7165, Value: How dare you speak her name!
+Hash: E298DD5C, Key: VoiceDir1.1D7165, Value: outraged
+Hash: 6AE65B4D, Key: Line3.1D7161, Value: You’ve betrayed the Council’s trust!
+Hash: BB1C871A, Key: VoiceDir3.1D7161, Value: incandescent fury
+Hash: 40565B21, Key: Line5.17FDCA, Value: You are not at fault. Ormus sees that. But… Maka was singular among us.
+Hash: 908C86EE, Key: VoiceDir5.17FDCA, Value: sorrowful
+Hash: 18DA04E3, Key: Line7.17FDCA, Value: To lose her is to lose our heart. And we must grieve.

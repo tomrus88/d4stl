@@ -1,0 +1,4 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value: Ready At Hand
+Hash: 65A41A1A, Key: Buff4_Description, Value: Subo is granting you movement speed for hitting an Elite
+Hash: 003DFCC1, Key: name, Value: Ready At Hand
+Hash: 003892BF, Key: desc, Value: Damaging an Elite grants you {c_number}[{SF_1}*100|+%|]{/c} Movement Speed for {c_number}[{SF_2}]{/c} |4second;seconds if Subo is around you.

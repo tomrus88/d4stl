@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Hitting an enemy with a {c_important}Centipede{/c} Skill reduces their Damage by {c_number}[SF_1 * 100|%1|]{/c} and Slows them by {c_number}[SF_0 * 100|%|]{/c} for {c_number}[SF_2]{/c} seconds, stacking up to a maximum of {c_number}[SF_3]{/c} times.
+
+All Skills are now also {c_important}Centipede{/c} Skills.

@@ -1,0 +1,4 @@
+Hash: 6B31C388, Key: Line25.18782A, Value: You haven't won yet!
+Hash: C22D68F5, Key: VoiceDir25.18782A, Value: Telling player they still won't win. 
+Hash: 43B56D4A, Key: Line27.18782A, Value: That one was going to be mine!
+Hash: 9AB112B7, Key: VoiceDir27.18782A, Value: Pretty annoyed, doesn't want to lose contest. 

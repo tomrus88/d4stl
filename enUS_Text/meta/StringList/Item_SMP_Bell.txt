@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Rusted Old Bell
+Hash: A646FFA4, Key: Description, Value: A worn, bloodstained bell. The letter "W" has been crudely carved on one side.
+Hash: F5C7BC0A, Key: Flavor, Value: Though its purpose is lost to time, this was once an object of great significance.

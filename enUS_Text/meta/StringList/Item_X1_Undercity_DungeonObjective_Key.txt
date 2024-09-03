@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Undercity Key
+Hash: A646FFA4, Key: Description, Value: [PH] Opens a chest in the Kurast Undercity
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] It's a key!

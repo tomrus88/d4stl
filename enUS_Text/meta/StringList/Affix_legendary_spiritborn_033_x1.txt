@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Layered Wards
+Hash: 003892BF, Key: Desc, Value: Your Blocked Damage Reduction is increased by {c_random}[Affix_Value_1*100|%+|]{/c} while you have a {c_important}{u}Barrier{/u}{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: Your Blocked Damage Reduction is increased by {c_random}[Affix_Value_1*100|%+|]{/c} while you have a {c_important}{u}Barrier{/u}{/c}.

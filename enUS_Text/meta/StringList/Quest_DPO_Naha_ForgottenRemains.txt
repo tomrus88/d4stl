@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The foreboding cavern beckons.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Explore {WORLD:DGN_Naha_ForgottenRemains} and Slay Bloodhorn

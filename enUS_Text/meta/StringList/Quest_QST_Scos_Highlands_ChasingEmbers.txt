@@ -1,16 +1,16 @@
 Hash: 003DFCC1, Key: Name, Value: Chasing Embers
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Torben
+Hash: 1F9943DA, Key: Callback13Header, Value: Search the Scar for Blackweald Company with Torben
+Hash: B98DBD5C, Key: Callback15Header, Value: Rescue the Pyre Victim
+Hash: A07C739F, Key: Callback18Header, Value: Speak with the Pyre Victim
 Hash: 0871A46B, Key: Toast, Value: A trail of death rekindles the Days of Ash.
 Hash: D53BFF05, Key: Phase0Description, Value: Torben is the Bear of Blackweald. Or, he used to be. This pyre and the merchants were set by Blackweald Company to draw him away from the Goose. So much killing to capture one man.
 
 Torben wants to speak with me at Under the Fat Goose Inn. I should speak with him to find how we can put a stop to Blackweald Company.
-Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Torben
 Hash: 61CFD437, Key: Phase11Description, Value: Torben believes Blackweald Company is hiding near the Scar—the scorched land where Astaroth met his fate by the Heroes of Scosglen. He says the cursed place is sure to be a welcome home to Blackweald Company and their obsession with the Days of Ash.
 
 Torben will join me at the Scar to hunt for clues to their location.
-Hash: 1F9943DA, Key: Callback13Header, Value: Search the Scar for Blackweald Company with Torben
-Hash: 5690A71C, Key: Phase16Description, Value: Torben and I found a surviving victim of Blackweald Company within the Scar. They were tethered and burned, now only clinging to life.
-Hash: B98DBD5C, Key: Callback15Header, Value: Rescue the Pyre Victim
 Hash: E96ABF3F, Key: Phase19Description, Value: Torben and I found a surviving victim of Blackweald Company within the Scar. They were tethered and burned, now only clinging to life.
 
 Their remaining moments of life are few. I should see what we can learn here to save any others who may be victims of Blackweald.
-Hash: A07C739F, Key: Callback18Header, Value: Speak with the Pyre Victim
+Hash: 5690A71C, Key: Phase16Description, Value: Torben and I found a surviving victim of Blackweald Company within the Scar. They were tethered and burned, now only clinging to life.

@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: Gold and silver returned to the stone.
 Hash: 9012F763, Key: Callback76Header, Value: Slay all enemies in Dead Harkening{KAM_REVEALED_COUNT}
-Hash: AE775FBE, Key: Callback80Header, Value: Use the Catacomb Key to open the {GIZMO}
+Hash: AE775FBE, Key: Callback80Header, Value: Use the {ITEM:DGN_Frac_DefiledCatacomb_Key} to open the {GIZMO}
 Hash: E7B37160, Key: Callback91Header, Value: Slay the Gate Keeper and collect the {ITEM}
 Hash: 7C54CC44, Key: Callback86Header, Value: Travel to the {LEVELAREA}
 Hash: 63438287, Key: Callback89Header, Value: Defeat the {MONSTER}

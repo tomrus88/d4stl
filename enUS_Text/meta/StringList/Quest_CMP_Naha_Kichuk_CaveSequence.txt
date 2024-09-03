@@ -1,0 +1,3 @@
+Hash: 112E3759, Key: Callback30Header, Value: Destroy the Pillars to Collapse the Cave
+Hash: B23C2F03, Key: Callback49Header, Value: Explore the Caves
+Hash: F61E7DE1, Key: Callback74Header, Value: Slay the Dweller in the Dark

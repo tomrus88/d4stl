@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Maps of Gea Kul
+Hash: F2CA04D8, Key: NoticeSignText, Value: They depict the city in all its patchwork glory. Vulnerable areas—and plans to reinforce them—are notated in Raheir's fine penmanship.

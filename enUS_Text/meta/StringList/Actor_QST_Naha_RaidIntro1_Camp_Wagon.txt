@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Picked Over Supplies
+Hash: CC3C0A8F, Key: FlavorText, Value: Empty Baskets and Crates
+Hash: F2CA04D8, Key: NoticeSignText, Value: The supplies that were once in these baskets seem to have been carried off. All that could be spared was left behind.

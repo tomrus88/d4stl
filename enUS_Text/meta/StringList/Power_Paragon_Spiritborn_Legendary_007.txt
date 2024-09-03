@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Convergence
+Hash: 003892BF, Key: desc, Value: You deal bonus damage equal to {c_number}[SF_1 * 100|x%|]{/c} of your {c_number}2{/c} highest bonuses to damage types combined, up to {c_number}[SF_0 * 100|%|]{/c} total.

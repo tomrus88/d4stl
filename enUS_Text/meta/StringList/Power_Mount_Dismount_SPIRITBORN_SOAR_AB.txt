@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Ascend
+Hash: 003892BF, Key: desc, Value: Fly from your mount dealing {c_number}{altpayload:IMPACT}{/c} damage.

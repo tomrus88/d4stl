@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Experience Well
+Hash: 7786FD97, Key: Buff1_Description, Value: Experience increased by {SF_4}%.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why are you helping me?"
+Hash: 8F733B6A, Key: Line1.19FF85, Value: Captain Kharov banished me for what I wrote. You are my way back into his good graces!
+Hash: 67F6E52C, Key: Line3.19FF85, Value: Perhaps you can do whatever Kharov needs. As his Scribe, I've seen his ups and downs, and I know he hungers for an equal. Someone worthy of his respect.
+Hash: 407A8EEE, Key: Line5.19FF85, Value: Your success in the Blood Pilgrimage will be proof of such! Collect the Condemned Trophy and make your way through the temple streets. Do as Kharov once did!

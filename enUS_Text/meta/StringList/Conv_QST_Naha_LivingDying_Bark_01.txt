@@ -1,0 +1,4 @@
+Hash: 9257519D, Key: Line1.1BD8EB, Value: (screams)
+Hash: E28D7D6A, Key: VoiceDir1.1BD8EB, Value: scream of pain
+Hash: 6AD9D41E, Key: Line3.1BB682, Value: I'm sorry! I'm sorry, Wimnayu!
+Hash: BB0FFFEB, Key: VoiceDir3.1BB682, Value: Child's panic. 

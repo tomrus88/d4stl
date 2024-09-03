@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Binding Contract
+Hash: A646FFA4, Key: Description, Value: [PH] You may not have more than one contract active at a time.
+Hash: F5C7BC0A, Key: Flavor, Value: Agreements will go into effect on the mercenary's next new stock delivery. This agreement does not guarantee stock of these items. Stock depends on item rarity and can be influenced by Rapport.

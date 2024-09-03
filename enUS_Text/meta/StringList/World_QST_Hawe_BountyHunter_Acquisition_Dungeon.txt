@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Windswept Altar
+Hash: 003892BF, Key: Desc, Value: A fetid swamp where bandits make ill-gotten offerings.

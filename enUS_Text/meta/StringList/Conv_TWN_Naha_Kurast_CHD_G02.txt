@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Any advice?"
+Hash: 923C649E, Key: Line1.1B367D, Value: Beware the shadows and dark corners of the city, stranger. If you hear your name called, don't answer. That's how they get you.
+Hash: E272906B, Key: VoiceDir1.1B367D, Value: Genuinely offering advice. This kid has seen things and has lost friends to the shadows.

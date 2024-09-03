@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: Vital Strikes
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0}*100|%x|]{/c} increased damage to {c_important}{u}Vulnerable{/u}{/c} enemies.
+
+After making an enemy {c_important}{u}Vulnerable{/u}{/c}, your next Direct damage dealt to them:
+{icon:bullet,1.2} Heals you for {c_number}[{SF_1}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,PlayerHealthMax() * {SF_1})]){/c}
+{icon:bullet,1.2} Generates {c_number}[{SF_2}]{/c} Vigor
+{icon:bullet,1.2} Removes the {c_important}{u}Vulnerable{/u}{/c} effect

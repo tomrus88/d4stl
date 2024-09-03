@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Storm of Fire
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Aldkin rains a {c_important}Fire Storm{/c} down from the sky that deals {c_number}{payload:IMPACT_DAMAGE_TOOLTIP}{/c} Fire damage on impact and remains on the ground for {c_number}{SF_4}{/c} seconds. Every second, the {c_important}Fire Storm{/c} Burns enemies within for {c_number}{dot:BURNING}{/c} damage over {c_number}{SF_12}{/c} seconds.
+
+Enemies hit by {c_important}Fire Storm's{/c} impact or aftershocks have a {c_number}[{SF_11}*100|%|]{/c} chance to be Stunned for {c_number}[{buffduration:STUN}|1|]{/c} |4second;seconds.

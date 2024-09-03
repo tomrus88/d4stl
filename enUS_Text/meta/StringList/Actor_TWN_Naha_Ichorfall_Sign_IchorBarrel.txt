@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ichor Barrel
+Hash: F2CA04D8, Key: NoticeSignText, Value: Ichor is a valuable commodity in many areas.

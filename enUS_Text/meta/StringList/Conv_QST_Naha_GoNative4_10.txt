@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me of Grigoriy."
+Hash: 8F733B6A, Key: Line1.19FF85, Value: Grigoriy was once a master of blades, a talented warrior, but his affinity for the Sacrament has brought him much closer to Dregs than most of his peers.

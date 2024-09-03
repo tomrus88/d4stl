@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Poolside Notice
+Hash: F2CA04D8, Key: NoticeSignText, Value: The waters yearn not for your coin's touch,
+they hold no magic here.
+Reserve your wishes for the stars.  

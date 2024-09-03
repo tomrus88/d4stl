@@ -1,0 +1,6 @@
+Hash: 713ED48B, Key: Line792.1602FD, Value: I hope we’re ready for this.
+Hash: A7AF2798, Key: VoiceDir792.1602FD, Value: Concerned / ominous
+Hash: 49C27E4D, Key: Line794.1602FD, Value: The demons here are strong.
+Hash: 8032D15A, Key: VoiceDir794.1602FD, Value: Concerned / ominous
+Hash: 2246280F, Key: Line796.1602FD, Value: Dark magic. It’s everywhere.
+Hash: 58B67B1C, Key: VoiceDir796.1602FD, Value: Concerned / ominous

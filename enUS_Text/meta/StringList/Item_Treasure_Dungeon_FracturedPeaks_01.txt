@@ -1,3 +1,3 @@
-Hash: 003DFCC1, Key: Name, Value: Broken Climbing Cleats
 Hash: A646FFA4, Key: Description, Value: This treasure item will sell for a tiny amount to vendors.
 Hash: F5C7BC0A, Key: Flavor, Value: A pair of rusty, notched iron cleats. Broken and warped.
+Hash: 003DFCC1, Key: Name, Value: Broken Climbing Cleats

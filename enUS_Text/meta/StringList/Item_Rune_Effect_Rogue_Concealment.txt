@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Evoke the Rogue's {c_important}Countering Concealment{/c}, gaining Dodge Chance, Movement Speed, {c_important}{u}Unstoppable{/u}{/c}, and {c_important}{u}Stealth{/u}{/c}.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Trickery
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Increased Duration
+Hash: 003DFCC1, Key: Name, Value: Ner

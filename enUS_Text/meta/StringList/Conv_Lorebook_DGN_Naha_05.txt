@@ -1,0 +1,6 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mercenary's Logbook
+Hash: 923DBE6F, Key: Line1.1B4EC9, Value: I was so confident that this was going to be an easy first job. Find the missing bodies, and return any I found, alive or dead. I tracked down their dwelling in less than a week.
+Hash: E273EA3C, Key: VoiceDir1.1B4EC9, Value: In distress but attempting to explain.
+Hash: 6AC16831, Key: Line3.1B4EC9, Value: But there was nothing left to bring back. Dismembered limbs littered everywhere.  All infested by maggots and fleas.
+Hash: 434511F3, Key: Line5.1B4EC9, Value: What do I tell them when I come back empty-handed? How do I tell a crowd of mourners they don’t even have bodies to mourn?
+Hash: 937B3DC0, Key: VoiceDir5.1B4EC9, Value: Broken up and distraught.

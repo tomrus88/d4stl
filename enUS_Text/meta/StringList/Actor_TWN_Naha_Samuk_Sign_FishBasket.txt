@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fresh Fish Basket
+Hash: F2CA04D8, Key: NoticeSignText, Value: A basket of fresh lake-caught fish. Elsewhere this bounty would be haggled and fought over, but here all share in the gifts of the lake. 

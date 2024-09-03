@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you familiar with the mysteries of the Dark Citadel?"
+Hash: 9268B99C, Key: Line1.1CC158, Value: The Dark Citadel? Feh. I suggest you not let your curiosity get the best of you. That's not a place you should go alone.
+Hash: E29EE569, Key: VoiceDir1.1CC158, Value: Warning

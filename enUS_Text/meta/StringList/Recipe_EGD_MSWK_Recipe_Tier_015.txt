@@ -1,2 +1,2 @@
-Hash: 003DFCC1, Key: Name, Value: Tier 15
+Hash: 003DFCC1, Key: Name, Value: Tier 15 - Penitent
 Hash: 9E3ACE5E, Key: Category, Value: The Pit

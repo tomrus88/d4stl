@@ -1,0 +1,6 @@
+Hash: 92517AF5, Key: Line1.1C7F8E, Value: I can still feel her small hand clutching mine, as she was snatched away by that vicious creature. I tried to hold on...I tried...
+Hash: E287A6C2, Key: VoiceDir1.1C7F8E, Value: Sobbing - devastated.
+Hash: 6AD524AB, Key: Line3.1C7F98, Value: My heart breaks for you...someone needs to end that damned bird.
+Hash: BB0B5078, Key: VoiceDir3.1C7F98, Value: Genuine. Muttering angrily when it comes to the bird.
+Hash: 4358CE79, Key: Line5.1C7F8E, Value: I just want my daughter back.
+Hash: 938EFA46, Key: VoiceDir5.1C7F8E, Value: Deliriously sad and defeated.

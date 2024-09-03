@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you a healer?"
+Hash: 92559282, Key: Line1.1BA2C2, Value: Oh, nothing so formal, dear. I tend to those who pass through the forest, troubled or worse, and see them flourish again.
+Hash: E28BBE4F, Key: VoiceDir1.1BA2C2, Value: confident, eerily compassionate
+Hash: 435CE606, Key: Line5.1BA2C2, Value: We have to help those who can’t help themselves, after all. Even if they...protest along the way.
+Hash: 939311D3, Key: VoiceDir5.1BA2C2, Value: confident, eerily maternal. Chooses the word "protest" carefully.
+Hash: 1BDCF2A1, Key: Line7.1C8B24, Value: Nhh…Nnottt...
+Hash: 6C131E6E, Key: VoiceDir7.1C8B24, Value: pained mumbling, attempting to speak
+Hash: F464398A, Key: Line9.1BA2C2, Value: Shhh. Quiet now, blossom.
+Hash: 449A6557, Key: VoiceDir9.1BA2C2, Value: eerily maternal, conforting

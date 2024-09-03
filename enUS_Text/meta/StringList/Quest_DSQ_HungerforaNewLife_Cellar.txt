@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Hunger for a New Life
-Hash: 112E3759, Key: Callback30Header, Value: Fill the tea infuser with herbs
+Hash: 112E3759, Key: Callback30Header, Value: Fill the {ITEM:QST_Step_HungerforaNewLife_ContainerEmpty} with herbs
 Hash: 008DE739, Key: Phase31Description, Value: I've found Zolaya's hideout. All that's left to do now is fill the tea infuser with the medicinal herbs she mentioned.

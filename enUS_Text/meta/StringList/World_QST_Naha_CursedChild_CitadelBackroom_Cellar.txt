@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Covert Passage
+Hash: 003892BF, Key: Desc, Value: A small, hidden passageway leading into the Dark Citadel.

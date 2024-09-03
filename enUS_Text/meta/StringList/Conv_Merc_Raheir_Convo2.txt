@@ -1,0 +1,8 @@
+Hash: AA24B529, Key: Line814.199120, Value: You fight well, Raheir.
+Hash: E0950836, Key: VoiceDir814.199120, Value: friendly
+Hash: 82964690, Key: Line816.189135, Value: I fought even better with two arms.
+Hash: B906999D, Key: VoiceDir816.189135, Value: teasing
+Hash: 5B2C08AD, Key: Line818.199120, Value: I’m sorry. I did not mean...
+Hash: 919C5BBA, Key: VoiceDir818.199120, Value: worried
+Hash: 6D87BA4B, Key: Line820.189135, Value: I’m joking, Subo. I thank you for the kind words.
+Hash: A3F80D58, Key: VoiceDir820.189135, Value: teasing

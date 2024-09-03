@@ -1,2 +1,2 @@
-Hash: F5C7BC0A, Key: Flavor, Value: A well made weapon fit for a warrior.  Despite its age, the weapon is sharp and free of rust.
 Hash: 003DFCC1, Key: Name, Value: Ancient Crane Sword
+Hash: F5C7BC0A, Key: Flavor, Value: A well made weapon fit for a warrior.  Despite its age, the weapon is sharp and free of rust.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Ambusher
+Hash: 003892BF, Key: desc, Value: You gain {c_number}[{SF_0}*100|%x|]{/c} Lucky Hit Chance against enemies damaged by Subo's {c_important}Salvo{/c} within the last {c_number}[{SF_2}]{/c} |4second;seconds.

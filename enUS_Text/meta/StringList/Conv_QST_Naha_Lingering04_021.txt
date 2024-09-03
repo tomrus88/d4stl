@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Neyrelle doesn't have long, does she?"
+Hash: 8F4F075B, Key: Line1.17FDAA, Value: No, I don't think she has long at all. That trance is the one thing keeping Mephisto at bay. If we interrupt her now, she'll be lost to us.
+Hash: DF853328, Key: VoiceDir1.17FDAA, Value: grave
+Hash: 67D2B11D, Key: Line3.17FDAA, Value: But don’t give up on her yet.  This is Nahantu. Help is needed, so help is offered. And Akarat believes she can still be saved. That’s enough for me.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where did the wolf go?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: It costs Mephisto to manifest his Herald. Just as it costs me to hold control of the stone.
+Hash: F414A633, Key: Line3.6DE47, Value: But that heart you fed me...it was like nothing I’ve ever felt before. It threw the life back into me.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: For now, the stone is secure—and while that lasts, we will have reprieve from the wolf.

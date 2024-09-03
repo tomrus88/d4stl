@@ -245,3 +245,75 @@ Hash: E37FF0E4, Key: Line711.B79AB, Value: More coin for me.
 Hash: 3A7B9651, Key: VoiceDir711.B79AB, Value: Shrugging.
 Hash: CA6EA727, Key: Line714.B79AB, Value: There's cheaper ways to stash things, friend.
 Hash: 216A4C94, Key: VoiceDir714.B79AB, Value: A little irritated.
+Hash: 46579059, Key: Line719.1C2633, Value: Bah, take it then.
+Hash: 7CC7E366, Key: VoiceDir719.1C2633, Value: Cranky old fart. Impatient.
+Hash: 45072F33, Key: Line722.1C2633, Value: Make up your damn mind.
+Hash: 7B778240, Key: VoiceDir722.1C2633, Value: Cranky old fart. Impatient.
+Hash: 09CCADD6, Key: Line725.1C2633, Value: I don't like fickle types, now.
+Hash: 403D00E3, Key: VoiceDir725.1C2633, Value: Cranky old fart. Impatient.
+Hash: 41ACADE5, Key: Line741.1B34C6, Value: Typical.
+Hash: 781D00F2, Key: VoiceDir741.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: 06722C88, Key: Line744.1B34C6, Value: Get on with it.
+Hash: 3CE27F95, Key: VoiceDir744.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: CB37AB2B, Key: Line747.1B34C6, Value: Are you done?
+Hash: 01A7FE38, Key: VoiceDir747.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: A26AF415, Key: Line752.1B34DC, Value: I don't mind giving it back.
+Hash: D8DB4722, Key: VoiceDir752.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: 673072B8, Key: Line755.1B34DC, Value: Why do grown-ups always change their minds?
+Hash: 9DA0C5C5, Key: VoiceDir755.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: 2BF5F15B, Key: Line758.1B34DC, Value: Oh...No worries. We'll be all right without it.
+Hash: 62664468, Key: VoiceDir758.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: E0FFF6C4, Key: Line730.1C264D, Value: I'm sad to see it go...
+Hash: 177049D1, Key: VoiceDir730.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: A5C57567, Key: Line733.1C264D, Value: Oh, was that a mistake?
+Hash: DC35C874, Key: VoiceDir733.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: 6A8AF40A, Key: Line736.1C264D, Value: It's no trouble at all, have it back.
+Hash: A0FB4717, Key: VoiceDir736.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: 03293C29, Key: Line763.1B363D, Value: Fine, take it.
+Hash: 39998F36, Key: VoiceDir763.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: C7EEBACC, Key: Line766.1B363D, Value: I'd rather have the coin anyway.
+Hash: FE5F0DD9, Key: VoiceDir766.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: 8CB4396F, Key: Line769.1B363D, Value: Regretted that, did you?
+Hash: C3248C7C, Key: VoiceDir769.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: 63E781B6, Key: Line774.1B3620, Value: Hell, it's your coin.
+Hash: 9A57D4C3, Key: VoiceDir774.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap. 
+Hash: 28AD0059, Key: Line777.1B3620, Value: You're sure this time?
+Hash: 5F1D5366, Key: VoiceDir777.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap. 
+Hash: 275C9F33, Key: Line780.1B3620, Value: You want it more than I do.
+Hash: 5DCCF240, Key: VoiceDir780.1B3620, Value: Following the bandwagon to turn a buck. Sly, cheap. 
+Hash: C4A5C7EA, Key: Line785.1B363A, Value: Couldn't bear to see her go? I understand.
+Hash: FB161AF7, Key: VoiceDir785.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. More ethical than most in town.
+Hash: 896B468D, Key: Line788.1B363A, Value: It's hard to part ways with a steed.
+Hash: BFDB999A, Key: VoiceDir788.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. More ethical than most in town.
+Hash: 881AE567, Key: Line791.1B363A, Value: Come on, old girl. Looks like you're not done yet.
+Hash: BE8B3874, Key: VoiceDir791.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. More ethical than most in town.
+Hash: 25640DA3, Key: Line796.1B3638, Value: I understand the hesitation.
+Hash: 5BD460B0, Key: VoiceDir796.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: EA298C46, Key: Line799.1B3638, Value: I'll be here if you change your mind. Again.
+Hash: 2099DF53, Key: VoiceDir799.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: 60075237, Key: Line802.1B3638, Value: Not so easy to part with, eh?
+Hash: 9677A544, Key: VoiceDir802.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: FD507CB8, Key: Line807.1B35CE, Value: Better be more sure next time.
+Hash: 33C0CFC5, Key: VoiceDir807.1B35CE, Value: Simple, salt of the earth type.
+Hash: FC001B92, Key: Line810.1B35CE, Value: Bad luck, to break a deal.
+Hash: 32706E9F, Key: VoiceDir810.1B35CE, Value: Simple, salt of the earth type.
+Hash: C0C59A35, Key: Line813.1B35CE, Value: Alright then, have it your way.
+Hash: F735ED42, Key: VoiceDir813.1B35CE, Value: Simple, salt of the earth type.
+Hash: 5E0EC287, Key: Line818.1B35D1, Value: It's hard to let go of good gear.
+Hash: 947F1594, Key: VoiceDir818.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: 5CBE6161, Key: Line821.1B35D1, Value: Eh, I don't blame you.
+Hash: 932EB46E, Key: VoiceDir821.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: 2183E004, Key: Line824.1B35D1, Value: Fine, fine, take it.
+Hash: 57F43311, Key: VoiceDir824.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: BECD0870, Key: Line829.1B35D8, Value: Hm. Perhaps it's for the better.
+Hash: F53D5B7D, Key: VoiceDir829.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: BD7CA74A, Key: Line832.1B35D8, Value: There's no sense in forcing a bad match.
+Hash: F3ECFA57, Key: VoiceDir832.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: 824225ED, Key: Line835.1B35D8, Value: Oh, it's no trouble. I have a home for her here.
+Hash: B8B278FA, Key: VoiceDir835.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: 597568DD, Key: Line840.1B3588, Value: Are you sure?
+Hash: 8FE5BBEA, Key: VoiceDir840.1B3588, Value: Haughty, experienced saleswoman
+Hash: 1E3AE780, Key: Line843.1B3588, Value: (sigh) A shame, really.
+Hash: 54AB3A8D, Key: VoiceDir843.1B3588, Value: Haughty, experienced saleswoman
+Hash: E3006623, Key: Line846.1B3588, Value: If you must.
+Hash: 1970B930, Key: VoiceDir846.1B3588, Value: Haughty, experienced saleswoman

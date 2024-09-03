@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Form and Function
+Hash: 3A4912CF, Key: DescShort, Value: Upgrade Gear by adding Sockets to them at the {icon:Marker_Crafter_Jeweler, 2.5} Jeweler

@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Thrust
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Generate Vigor:{/c_label} {c_resource}{SF_0}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Quickly jab forward with a fiery piercing strike dealing {c_number}{payload:IMPACT}{/c}.
+
+Every {c_number}3rd{/c} cast pierces further and makes your next {c_important}Evade{/c} free to cast.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: (PH) {c_important}Thrust{/c} generates {c_number}{SF_13}{/c} additional Vigor if you have moved in the last {c_number}{SF_14}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Thrust Enhancement
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) When you Evade, you cast {c_important}Thrust{/c} along the way dealing {c_number}[{SF_15} * 100|%|]{/c} of its Base damage.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Thrust Upgrade A
+Hash: 74D6BC35, Key: Mod2_Description, Value: (PH) Hitting a Distant enemy with {c_important}Thrust{/c} grants a stack of {c_important}{u}Ferocity{/u}{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Thrust Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Plains Basic Upgrade C
+Hash: 1394CF37, Key: Mod4_Description, Value: (PH) Activates Plains Basic Empowerment
+Hash: 9B887BB4, Key: Mod4_Name, Value: (PH) Plains Spirit

@@ -1,0 +1,19 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Enlist Reinforcement
+Hash: 16049658, Key: Line878.189135, Value: My shield is yours.
+Hash: 4C74E965, Key: VoiceDir878.189135, Value: happy
+Hash: D18EF30C, Key: Line812.189135, Value: I’ll watch your back.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: happy
+Hash: AA129CCE, Key: Line814.189135, Value: Honored to help, friend.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: happy
+Hash: 42D48989, Key: Line841.199120, Value: Strength in numbers.
+Hash: 079A082C, Key: Line844.199120, Value: I often work alone, but perhaps we need help.
+Hash: CC5F86CF, Key: Line847.199120, Value: Aid would be most welcome.
+Hash: CB0F25A9, Key: Line850.199120, Value: I fear we must have help.
+Hash: 5B18F562, Key: Line818.18782A, Value: Even loners like us need some help.
+Hash: 59C8943C, Key: Line821.18782A, Value: We could use a hand, eh?
+Hash: 1E8E12DF, Key: Line824.18782A, Value: A few more butchers to the party!
+Hash: 68453AC3, Key: Line855.18782A, Value: I wouldn’t say no to some help.
+Hash: 31C7B96C, Key: Line12.1602FD, Value: I think we need help.
+Hash: 59440FAA, Key: Line10.1602FD, Value: I hope someone helps us.
+Hash: 04EB5081, Key: Line8.1602FD, Value: Can anybody help us?
+Hash: 2C67A6BF, Key: Line6.1602FD, Value: Can we get more friends?

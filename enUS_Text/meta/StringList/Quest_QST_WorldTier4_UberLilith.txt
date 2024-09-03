@@ -1,4 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: Echo of Hatred
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Lilith, Pinnacle Boss
 Hash: CF9A89D8, Key: Phase30Description, Value: Lilith's presence still lingers within your mind.
 
 Seek the end by way of the beginning.

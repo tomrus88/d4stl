@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Mirage
+Hash: 003892BF, Key: desc, Value: Gain {c_number}[{SF_1} * 100|%+|]{/c} increased Dodge Chance during Evade. Whenever you Dodge, you gain {c_number}[{SF_0} * 100|%+|]{/c} Critical Strike Chance for {c_number}{SF_2}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Critical Chance {icon:arrow,1.2} {c_number}[{SF_0} * 100|%+|]{/c}

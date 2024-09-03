@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Execute enemies afflicted by more Damage over Time than remaining Life. 

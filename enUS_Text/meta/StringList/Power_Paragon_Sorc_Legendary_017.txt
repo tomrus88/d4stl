@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Fundamental Release
+Hash: 003892BF, Key: desc, Value: Each time you apply {c_important}{u}Vulnerable{/u}{/c}, Burning, or Critically Strike an enemy, they take {c_number}[{SF_0} * 100|%x||%|]{/c} increased damage from you, up to {c_number}[{SF_0} * {SF_1} * 100|%x||%|]{/c}.

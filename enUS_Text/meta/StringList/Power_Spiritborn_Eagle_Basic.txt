@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Thunderspike
+Hash: 003892BF, Key: desc, Value: {c_label}Generate Vigor:{/c_label} {c_resource}{SF_0}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Quickly jab forward with a piercing strike dealing {c_number}{payload:IMPACT}{/c} damage.
+
+Your {c_number}3rd{/c} attack pierces further, dealing {c_number}{payload:IMPACT_THIRD}{/c} damage and reducing your {c_important}Evade{/c} Cooldown by {c_number}{SF_18}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+{icon:bullet, 1.2} 3rd Hit Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT_THIRD}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Thunderspike{/c} generates {c_number}{SF_13}{/c} additional Vigor if you have moved in the last {c_number}{SF_14}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Thunderspike
+Hash: 2577B2B4, Key: Mod1_Description, Value: When you {c_important}Evade{/c}, you attack with {c_important}Thunderspike{/c} along the way and make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_16}{/c} seconds. 
+Hash: 948901D1, Key: Mod1_Name, Value: Accelerated Thunderspike
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Thunderspike's{/c} {c_number}3rd{/c} attack strikes back again, Pulling in and Knocking Down Distant enemies for {c_number}[{buffduration:KNOCKDOWN}|1|]{/c} seconds.  
+Hash: 96DE2A72, Key: Mod2_Name, Value: Sharp Thunderspike

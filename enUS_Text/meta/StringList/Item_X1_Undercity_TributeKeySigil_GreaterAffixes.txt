@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Tribute of Radiance
+Hash: A646FFA4, Key: Description, Value: Challenge Tier 3
+
+Offer to the Undercity's Spirit Brazier in Kurast to alter its rewards:
+{icon:bullet,1.2} Completing the dungeon with at least Attunement Rank 1 reward Ancestral Legendaries with at least 2 Greater Affixes.
+Hash: F5C7BC0A, Key: Flavor, Value: Found randomly in Sanctuary at Torment III and above.

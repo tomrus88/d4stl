@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: [PH] Lightning Charged
+Hash: 003892BF, Key: desc, Value: Using a {c_important}Werewolf{/c} Skill grants you {c_number}[SF_0 * 100|%|]{/c} increased Attack Speed for {c_number}[SF_1]{/c} seconds, stacking up to {c_number}[SF_2]{/c} times and cannot be refreshed at maximum stacks.
+
+The damage of your {c_important}Storm{/c} Skills is increased by {c_number}[SF_3 * 100|%|]{/c} of your Bonus Attack Speed.
+Hash: 101C1614, Key: Buff1_Name, Value: [PH] Ride the Lightning
+Hash: 7786FD97, Key: Buff1_Description, Value: Increased Attack Speed

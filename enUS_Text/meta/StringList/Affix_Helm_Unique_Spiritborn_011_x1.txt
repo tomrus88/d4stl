@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: While your Spirit Hall choices match, their bonuses are {c_number}[Affix."Static Value 0"|%|]{/c} more potent and Skills with that Base Spirit cost {c_random}[Affix_Value_1*100|%|]{/c} less and have {c_random}[Affix_Value_1*100|%|]{/c} reduced Cooldowns.

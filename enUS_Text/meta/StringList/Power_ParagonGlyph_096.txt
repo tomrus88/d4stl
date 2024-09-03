@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Casting an {c_important}Incarnate{/c} skill grants you {c_number}[SF_0 * 100|x%|]{/c} damage reduction for {c_number}[SF_1]{/c} seconds.

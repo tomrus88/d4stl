@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Hidden Treasure
+Hash: 059C64AB, Key: Callback5Header, Value: Activate the {GIZMO}: {LEFT}
+Hash: C5FA5A22, Key: Callback39Header, Value: Collect {ITEM} from Animus Carriers: {LEFT}
+Hash: E45EC27D, Key: Callback43Header, Value: Deposit Animus into the {GIZMO}
+Hash: 1D9AD41F, Key: Callback54Header, Value: Return the Stone Carving to the Pedestal: {LEFT}
+Hash: 22EDF2BD, Key: Callback61Header, Value: Search the corpses for {ITEM}
+Hash: 3DC59C04, Key: Callback68Header, Value: Use the {ITEM:DGN_Side_Objective_01_Search_Key} to unlock the door

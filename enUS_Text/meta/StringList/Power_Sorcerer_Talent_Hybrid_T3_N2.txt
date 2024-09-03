@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Elemental Singularity
+Hash: 003892BF, Key: desc, Value: Hitting enemies {c_number}100{/c} times with {c_important}{u}Crackling Energy{/u}{/c} while they are both Burning and {c_important}{u}Chilled{/u}{/c} grants you {c_important}Elemental Singularity{/c}.
+
+{c_important}Elemental Singularity{/c} lasts for {c_number}20{/c} seconds and while active:
+{icon:bullet,1.2} All your Elemental damage bonuses are equalized to your highest value bonus
+{icon:bullet,1.2} Casting your Mana-spending Skills rotates through the Elements, each becoming free to cast and calling down {c_important}Meteorites{/c} dealing {c_number}{payload:DAMAGE}{/c} matching damage

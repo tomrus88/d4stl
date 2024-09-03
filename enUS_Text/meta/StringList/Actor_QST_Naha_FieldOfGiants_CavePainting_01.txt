@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cave Painting
+Hash: F2CA04D8, Key: NoticeSignText, Value: Despite its age, the paint is stark and bold against the rock face. It depicts Ah Bulan protecting humans from otherworldly entities. 

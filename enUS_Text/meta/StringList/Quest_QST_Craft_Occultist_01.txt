@@ -1,4 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: Sigil Crafting
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Sigil Crafting
 Hash: FAF02F4B, Key: Phase6Description, Value: Occultists are masters of the mystical arts, and can assist in crafting Nightmare Sigils.
 
 Seek out Demyan in Kyovashad and craft a Nightmare Sigil.

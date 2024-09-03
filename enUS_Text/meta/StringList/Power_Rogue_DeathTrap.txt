@@ -2,7 +2,12 @@ Hash: 003DFCC1, Key: name, Value: Death Trap
 Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
 {if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
 {/if}Place a trap that arms after {c_number}{buffduration:ARMING}{/c} seconds. It activates when an enemy moves within range, dealing a total of {c_number}{payload:TOOLTIP_DAMAGE}{/c} damage to each enemy in the area.
+
+If {c_important}Death Trap{/c} kills an enemy, its Cooldown is reduced by {c_number}{SF_17}{/c} seconds.
 Hash: D618A933, Key: Mod0_Description, Value: Enemies are Pulled into {c_important}Death Trap{/c} when it activates.
 Hash: 9233D930, Key: Mod0_Name, Value: Prime Death Trap
-Hash: 2577B2B4, Key: Mod1_Description, Value: If {c_important}Death Trap{/c} kills an enemy, its Cooldown is reduced by {c_number}{SF_17}{/c} seconds.
+Hash: 2577B2B4, Key: Mod1_Description, Value: Enemies that resist {c_important}Death Traps'{/c} Pull In are hit again for {c_number}[SF_20*100|%x|]{/c} of {c_important}Death Traps'{/c} damage.
 Hash: 948901D1, Key: Mod1_Name, Value: Supreme Death Trap
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

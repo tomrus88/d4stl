@@ -94,3 +94,5 @@ Hash: 43BF8A72, Key: SetCampaignStateNotAllowed_PrologueContainment, Value: You 
 Hash: 13244EF4, Key: PartyNotJoinable_NotInvitableInChallengerRift, Value: This player is busy and cannot be invited yet.
 Hash: 2A348AE3, Key: PartyNotJoinable_TargetHostile, Value: You cannot invite Bloodmarked players to your party while not Bloodmarked.
 Hash: 652B890B, Key: PartyNotJoinable_TargetHostile_Request, Value: You cannot request to join a party which is not Bloodmarked while Bloodmarked.
+Hash: 9954C9EE, Key: PartyRequiredContent_EntitlementMissing, Value: {s1} is initiating content that requires the full party and you do not have access to that location. You will be removed from the party at the end of the countdown.
+Hash: 9E25EB28, Key: PartyRequiredContent_EntitlementMissing_ModalBody, Value: This content requires your entire party to be present, but some of your party members do not have access to this location. If you continue, they will be removed from the party. 

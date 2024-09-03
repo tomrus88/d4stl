@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lacuni Ravager
+Hash: CC38ADCB, Key: FlavorName, Value: Baleful Warden

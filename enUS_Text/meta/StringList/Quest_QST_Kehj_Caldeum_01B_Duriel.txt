@@ -1,13 +1,13 @@
 Hash: 003DFCC1, Key: Name, Value: The Walls Shake
 Hash: 0871A46B, Key: Toast, Value: Face the darkness in Caldeum
+Hash: E2223B19, Key: Phase22Description, Value: I've learned the source of the ground tremors in Caldeum is Duriel, Lord of Pain. He was released by Lilith when she opened Gates to the Burning Hells, and collapsed this part of the city. Now he stands between me and my goal.
+Hash: 4408F5DB, Key: Phase24Description, Value: Ground tremors in Caldeum separated me from my allies, and now I must find an alternative route to the palace.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Find the way into the Imperial Palace
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find a way into the Palace
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I've been separated from the Horadrim by a violent earthquake that collapsed the inner gate in Caldeum. I have to find another way to reach my allies.
-Hash: E2223B19, Key: Phase22Description, Value: I've learned the source of the ground tremors in Caldeum is Duriel, Lord of Pain. He was released by Lilith when she opened Gates to the Burning Hells, and collapsed this part of the city. Now he stands between me and my goal.
 Hash: C79EEC81, Key: Phase22OutsideSubzoneHeader, Value: Defeat Duriel in Caldeum
-Hash: 5183C723, Key: Callback58Header, Value: Defeat {MONSTER}
-Hash: 4408F5DB, Key: Phase24Description, Value: Ground tremors in Caldeum separated me from my allies, and now I must find an alternative route to the palace.
 Hash: 69B8E183, Key: Phase24OutsideSubzoneHeader, Value: Find a way into the Imperial Palace
-Hash: 36AC1DDC, Key: Callback51Header, Value: Find the way into the Imperial Palace
+Hash: 5183C723, Key: Callback58Header, Value: Defeat {MONSTER}
 Hash: EEAB03BC, Key: Phase61Description, Value: Ground tremors in Caldeum separated me from my allies, and now I must find an alternative route to the palace.
 Hash: 41431C84, Key: Phase61OutsideSubzoneHeader, Value: Find a way into the Imperial Palace
 Hash: A3D12282, Key: Callback66Header, Value: Find the way into the Imperial Palace

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Anguish Extinguished (PH)
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Echo of Andariel in Torment I or higher difficulty (PH)

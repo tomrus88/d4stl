@@ -1,0 +1,3 @@
+Hash: 8C61B35F, Key: Line8.BAE4.Spi.M, Value: Don’t have the health for that.
+Hash: CFE7DF08, Key: Line10.BAE4.Spi.M, Value: I'm low on health.
+Hash: 31CE99CA, Key: Line12.BAE4.Spi.M, Value: Need more health.

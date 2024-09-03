@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Soar
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Fly into the air, creating a cloud which makes enemies at your target location {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_2}{/c} seconds before you crash down upon them dealing {c_number}{payload:IMPACT}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: The next hit against an enemy struck by {c_important}Soar{/c} is a guaranteed Critical Strike. If {c_important}Soar{/c} hits no enemies you instead gain {c_number}[{SF_8} * 100|%+|]{/c} increased Movement Speed for {c_number}{SF_9}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Soar
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Soar{/c} makes you {c_important}{u}Unstoppable{/u}{/c} for {c_number}{SF_5}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Measured Soar
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Soar's{/c} cloud remains around you for {c_number}{SF_10}{/c} seconds after landing and continues to make enemies {c_important}{u}Vulnerable{/u}{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Replenishing Soar

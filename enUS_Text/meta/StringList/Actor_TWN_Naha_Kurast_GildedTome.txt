@@ -1,0 +1,2 @@
+Hash: F2CA04D8, Key: NoticeSignText, Value: Musty, tattered pages read like a journal cataloging the Prime Evil's effects on Sanctuary, mentioning an unfamiliar magic called "Skatsimi".
+Hash: 003DFCC1, Key: Name, Value: Gilded Black Tome

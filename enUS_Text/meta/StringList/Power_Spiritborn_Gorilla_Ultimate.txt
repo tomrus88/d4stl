@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: The Protector
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}The Gorilla Spirit protects an area for {c_number}{buffduration:ULT_TIMER}{/c} seconds, continuously smashing surrounding enemies for {c_number}{payload:FOREST_SMASH}{/c} damage and granting you {c_important}{u}Barrier{/u}{/c} for {c_number}[{SF_15} * 100|%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_15]){/c} every {c_number}[{SF_14}|1|]{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:FOREST_SMASH}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds
+Hash: 5110F53B, Key: Mod8_Description, Value: (PH) {c_label}{u}Ultimate Gorilla{/u}{/c} 
+{icon:bullet,1.2} When you activate {c_important}Invoke{/c}, the Gorilla protects an area for {c_number}{SF_0}{/c} seconds, continuously smashing surrounding enemies for {c_number}{payload:FOREST_SMASH}{/c} Physical damage and sending out waves that deal {c_number}[100|%|]{/c} of your Thorns damage. Within the protected area you have {c_number}100%{/c} Block Chance and Block Damage Reduction.
+Hash: A4DD1E38, Key: Mod8_Name, Value: (PH) Ultimate Gorilla
+Hash: A06FFEBC, Key: Mod9_Description, Value: {c_important}The Protector's{/c} strikes deal {c_number}[{SF_9}*100|%x|]{/c} increased damage to Non-Elite enemies and reduce the damage you take from Elite enemies by {c_number}[{SF_8}*100|%|]{/c} for {c_number}{buffduration:ULT_TIMER}{/c} seconds.
+Hash: A73246D9, Key: Mod9_Name, Value: Harmonious Protector
+Hash: A36AFD04, Key: Mod10_Description, Value: {c_important}The Protector's{/c} area persists for an additional {c_number}{SF_0}{/c} seconds. While in the area you are {c_important}{u}Unstoppable{/u}{/c} and any enemies or Small Missiles inside are Slowed by {c_number}[{SF_10}*100|%|]{/c}.
+Hash: B6FE4621, Key: Mod10_Name, Value: Exalted Protector

@@ -306,3 +306,24 @@ Hash: 0BE43EA7, Key: EnableAutoPin, Value: Enable Auto-Pin
 Hash: 6337BA74, Key: DisableAutoPin, Value: Disable Auto-Pin
 Hash: F45399A0, Key: Expand, Value: Expand
 Hash: C1BC4173, Key: Collapse, Value: Collapse
+Hash: 3EE9E0A1, Key: Hotkey_Mercenaries, Value: {hotkey:Mercenaries}
+Hash: B7077E67, Key: Prompt_ViewJournal_Keyboard, Value: {hotkey:Quests}  to view Journal
+Hash: 86BFC0A9, Key: EmptyRaidBannerDescription, Value: [PH] This receptacle is empty.
+Hash: C0804B47, Key: EmptyRaidBannerTitle, Value: [PH] Empty Raid Banner
+Hash: F190AFAB, Key: SetActive_Controller, Value: Set Active
+Hash: 44DCCE2B, Key: MarkFavorite, Value: Favorite
+Hash: 740D3A2E, Key: UnmarkFavorite, Value: Unfavorite
+Hash: 4F149E2A, Key: Prompt_ViewMercenaryUpgrade, Value: {hotkey:mercenaries} to view reward
+Hash: 5C44D401, Key: Prompt_ViewGenericReward_Controller, Value: {hotkey:Equippables} to view reward
+Hash: FB1DDF39, Key: DifficultyChange, Value: Change Difficulty
+Hash: DCA71D7F, Key: FrontEnd_DeleteCharacter, Value: Delete Character
+Hash: BC017FD7, Key: FrontEnd_CharacterSelect_Options, Value: Options
+Hash: 08277ADD, Key: FrontEnd_CharacterSelect_Scroll_Controller, Value: Scroll Overview
+Hash: EE8677A1, Key: ViewDetails, Value: View Details
+Hash: ED22FD24, Key: BuyNow, Value: Buy Now
+Hash: 8815FADB, Key: Prompt_OpenPartyFinder, Value: Open Party Finder
+Hash: F3C96B2B, Key: RaidDifficultyChangePrompt_Actions, Value: {icon:button1, 2.0} Reset   {icon:button3,2.0} Ignore
+Hash: 6D3B8578, Key: ViewNews, Value: View News
+Hash: 83E1DA8C, Key: NavigateNews, Value: Navigate
+Hash: E88405F7, Key: SkipCampaign, Value: Skip Campaign
+Hash: 10857479, Key: ChangeDifficulty, Value: Change Difficulty

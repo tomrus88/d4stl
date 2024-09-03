@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Ormus
+Hash: 8F4F079D, Key: Line1.17FDCA, Value: When do you drink a poison to kill another man? When you hate him.
+Hash: 67D2B15F, Key: Line3.17FDCA, Value: Of all Evils, the Lord of Hatred, Mephisto, may be the most insidious. To confine hatred, to hold it, is to find yourself made its prisoner.
+Hash: 40565B21, Key: Line5.17FDCA, Value: The Zakarum learned this lesson all too well, and Nahantu suffered for it.

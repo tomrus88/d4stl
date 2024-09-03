@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Strange Bucket
+Hash: F2CA04D8, Key: NoticeSignText, Value: A dirty yellow liquid bubbles up to the containers brim. The word 'Sacrament' has been scrawled on the side in white chalk. 

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Pit Hidden Achievement
+Hash: 003892BF, Key: Desc, Value: QST_EGD_MSWK_ThePit_01 achievement

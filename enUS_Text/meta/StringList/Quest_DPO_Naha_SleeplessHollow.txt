@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Death that doesn't feed life takes it instead.
+Hash: 7937E6EB, Key: Callback212Header, Value: Explore {WORLD:DGN_Naha_SleeplessHollow} and Slay {MONSTER}

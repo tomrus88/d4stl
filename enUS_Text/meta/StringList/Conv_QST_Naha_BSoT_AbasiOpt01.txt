@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Nyamoyo?"
+Hash: 92448A04, Key: Line1.1AC0A7, Value: A spirit to some. A fiend to others. To my blood, it is the bestial soul of Teganze.
+Hash: E27AB5D1, Key: VoiceDir1.1AC0A7, Value: informative, heartfelt
+Hash: 6AC833C6, Key: Line3.1AC0A7, Value: Nyamoyo grants us the strength to hunt, and rewards those who match the beasts of these lands as equals.
+Hash: BAFE5F93, Key: VoiceDir3.1AC0A7, Value: informative, heartfelt
+Hash: 434BDD88, Key: Line5.1AC0A7, Value: The lacuni are its eyes and ears. Children who carry Nyamoyo’s voice to those who forget.
+Hash: 93820955, Key: VoiceDir5.1AC0A7, Value: informative, passionate (towards topic)
+Hash: 1BCF874A, Key: Line7.1AC0A7, Value: I would see its voice answered with my own.
+Hash: 6C05B317, Key: VoiceDir7.1AC0A7, Value: sincere, passionate

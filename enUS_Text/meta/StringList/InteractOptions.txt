@@ -13,3 +13,6 @@ Hash: 1080AC1A, Key: Interact, Value: Interact
 Hash: 00000EA1, Key: P1, Value: P1
 Hash: 00000EA2, Key: P2, Value: P2
 Hash: 86585DB2, Key: ConsumeSigil, Value: Consume Sigil 
+Hash: AED1E7A3, Key: Inventory_DropQuestItem, Value: Are you sure you want to drop this item? The following quest will be abandoned: {s1}
+Hash: F5C1CF85, Key: Inventory_DropQuestItemTitle, Value: Drop Item
+Hash: 9739FA05, Key: LearnMore, Value: Learn More

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Ancient Harpoons
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Varyana launches three harpoons ahead of her, piercing enemies for {c_number}{payload:PAYLOAD_TOOLTIP}{/c} Physical damage. She then rips them back, Pulling In and Stunning enemies for {c_number}{SF_1}{/c} seconds.

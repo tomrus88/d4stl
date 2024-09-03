@@ -31,3 +31,4 @@ Hash: FBD1D2B3, Key: Raids_Name, Value: Raids
 Hash: 105F6B0E, Key: Mercenaries_Name, Value: Mercenaries
 Hash: 39E2C14B, Key: Helltide_Name, Value: Helltide
 Hash: DF61C2FF, Key: World Boss_Name, Value: World Boss
+Hash: B6379C14, Key: Infernal Hordes_Name, Value: The Infernal Hordes

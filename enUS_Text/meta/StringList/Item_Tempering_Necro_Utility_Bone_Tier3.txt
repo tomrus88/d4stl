@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Bone Innovation
+Hash: A646FFA4, Key: Description, Value: Affixes can be applied to Helms, Chest Armor, Gloves, Pants, Boots, Shields, and Amulets.
+Hash: F5C7BC0A, Key: Flavor, Value: Use this item to unlock a new recipe

@@ -1,3 +1,9 @@
 Hash: 003DFCC1, Key: Name, Value: Veiled Crystal
-Hash: A646FFA4, Key: Description, Value: Salvaged from, and used to improve, {c_rare}Rare{/c} or better equipment.
+Hash: A646FFA4, Key: Description, Value: A crystal used to improve, {c_rare}Rare{/c} or better equipment at the {icon:Marker_Blacksmith, 2}{c_important}Blacksmith{/c} and {icon:Marker_Essence, 2}{c_important}Occultist{/c}
+
+Collected from:
+{icon:bullet,1.2}{icon:Marker_Salvage, 2}{c_important}Salvaging{/c} {c_rare}Rare{/c}, {c_legendary}Legendary{/c}, {c_unique}Unique{/c}, and {c_mythic}Mythic{/c} equipment at the{icon:Marker_Blacksmith, 2}{c_important}Blacksmith{/c}
+{icon:bullet,1.2}{c_important}Cache Rewards{/c} from{icon:Marker_Bounties_TurnIn, 1.8}{c_highlight}The Tree of Whispers{/c}
+{icon:bullet,1.2}{icon:Marker_BSK_Entrance,2}{c_highlight}Infernal Hordes{/c}
+{icon:bullet,1.2}{c_important}Elite{/c} monsters
 Hash: F5C7BC0A, Key: Flavor, Value: Occultists and enchanters commonly use these crystals to reorient or redirect magical energy. The process renders them inert, so many are needed.

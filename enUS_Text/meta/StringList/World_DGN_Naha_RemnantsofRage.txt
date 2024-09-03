@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Remnants of Rage
+Hash: 003892BF, Key: Desc, Value: Within these confines, something restless trembles.

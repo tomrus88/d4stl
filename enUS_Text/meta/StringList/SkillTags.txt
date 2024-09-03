@@ -18,6 +18,10 @@ Hash: 5BB4686D, Key: Keyword_Unstoppable_TagName, Value: Unstoppable
 Hash: 950ECAF4, Key: Keyword_Unstoppable_Description, Value: {c_important}{b}{u}Unstoppable{/u}{/b}{/c} characters have all Control Impairing Effects removed and prevented.
 Hash: A61B6FAB, Key: Keyword_Immune_TagName, Value: Immune
 Hash: 3E034132, Key: Keyword_Immune_Description, Value: {c_important}{b}{u}Immune{/u}{/b}{/c} characters cannot be damaged and are {c_important}{b}{u}Unstoppable{/u}{/b}{/c} with all Control Impairing Effects removed and prevented.
+Hash: 52CE7CCB, Key: Keyword_Guardian_TagName, Value: Resolve
+Hash: F9B7DE52, Key: Keyword_Guardian_Description, Value: {c_important}{b}{u}Resolve{/u}{/b}{/c} increases your Damage Reduction by [20|%|] while active. Taking direct damage consumes a stack. You can hold up to 8 stacks.
+Hash: 575CCD16, Key: Keyword_Hunter_TagName, Value: Ferocity
+Hash: 423B5C1D, Key: Keyword_Hunter_Description, Value: {c_important}{b}{u}Ferocity{/u}{/b}{/c} increases your Attack Speed by [5|%+|] per stack. This effect stacks up to 4 times and each lasts for 4 seconds.
 Hash: D6AF3E03, Key: Keyword_Fortify_TagName, Value: Fortify
 Hash: 16067B8A, Key: Keyword_Fortify_Description, Value: {c_important}{b}{u}Fortified{/u}{/b}{/c} characters take 15% reduced damage. You become {c_important}{b}{u}Fortified{/u}{/b}{/c} when you have as much {c_important}{b}{u}Fortify{/u}{/b}{/c} as current Life.
 Hash: F872DDC9, Key: Keyword_Overpower_TagName, Value: Overpower
@@ -36,6 +40,8 @@ Hash: B0D0076A, Key: Keyword_S02_VampCurse_TagName, Value: Vampiric Curse
 Hash: 3CABA071, Key: Keyword_S02_VampCurse_Description, Value: {c_important}{b}{u}Vampiric Cursed{/u}{/b}{/c} enemies grant a soul on death, up to {c_number}8{/c} stacks. Casting a {c_important}Defensive{/c}, {c_important}Macabre{/c}, or {c_important}Agility{/c} Skill unleashes all souls.
 Hash: 393DE366, Key: Keyword_Unhindered_TagName, Value: Unhindered
 Hash: C05F1A6D, Key: Keyword_Unhindered_Description, Value: {c_important}{b}{u}Unhindered{/u}{/b}{/c} characters can move through enemies and their Movement Speed cannot be reduced.
+Hash: B74E84A4, Key: Keyword_Ignited_TagName, Value: Ignited
+Hash: 2C3A2AAB, Key: Keyword_Ignited_Description, Value: {c_important}{b}{u}Ignited{/u}{/b}{/c} enemies take [200|%x|]  extra Burning damage per source of Burning.
 Hash: 5942E811, Key: Keyword_Injured_TagName, Value: Injured
 Hash: AF5C7C98, Key: Keyword_Injured_Description, Value: {c_important}{b}{u}Injured{/u}{/b}{/c} characters have less than 35% of their Life.
 Hash: 19B4FFC0, Key: Skill_Fire_TagName, Value: Pyromancy
@@ -60,6 +66,7 @@ Hash: E84F185C, Key: Skill_Nature_Magic_Earth_TagName, Value: Earth
 Hash: 8FD47E9D, Key: Skill_Nature_Magic_Storm_TagName, Value: Storm
 Hash: B0AC2F55, Key: Skill_Spirit_TagName, Value: Spirit
 Hash: FC06100D, Key: Skill_Dismount_TagName, Value: Dismount
+Hash: 6FFA05EF, Key: Skill_Incarnate_TagName, Value: Incarnate
 Hash: 2A211270, Key: Skill_Grenade_TagName, Value: Grenade
 Hash: 425AE5A0, Key: Skill_Imbueable_TagName, Value: Imbueable
 Hash: 33EBB231, Key: Skill_Trap_TagName, Value: Trap
@@ -67,12 +74,23 @@ Hash: 65E9853E, Key: Skill_Bone_TagName, Value: Bone
 Hash: E612CF14, Key: Skill_Bear_TagName, Value: Werebear
 Hash: D6477CF2, Key: Skill_Wolf_TagName, Value: Werewolf
 Hash: 7667E58F, Key: Skill_Corruption_TagName, Value: Corruption
+Hash: B974FFD4, Key: Skill_Mercenary_Iconic_TagName, Value: Mercenary Iconic
+Hash: 41425B71, Key: Skill_Mercenary_Perk_TagName, Value: Mercenary Perk
+Hash: 3F9B0C08, Key: Skill_Mercenary_Core_TagName, Value: Mercenary Core
 Hash: 90958CB7, Key: Skill_Primary_Basic_RootNodeTooltip, Value: {c_important}Basic{/c} Skills deal damage and are always available to cast
 Hash: E12E1A3F, Key: Skill_Primary_Basic_TagName, Value: Basic
 Hash: B93AFA1E, Key: Skill_Primary_Core_RootNodeTooltip, Value: {c_important}Core{/c} Skills spend Resource to deliver powerful attacks
 Hash: EA2C10A6, Key: Skill_Primary_Core_TagName, Value: Core
 Hash: 578A88A1, Key: Skill_Primary_Corpse_RootNodeTooltip, Value: {c_important}Corpse{/c} & {c_important}Macabre{/c} Skills control the battle and manipulate the deceased
 Hash: 5042CC29, Key: Skill_Primary_Corpse_TagName, Value: Corpse
+Hash: 89A5385B, Key: Skill_Primary_Offense_RootNodeTooltip, Value: {c_important}Offense{/c} Skills annihilate enemies
+Hash: B72E61E3, Key: Skill_Primary_Offense_TagName, Value: Offense
+Hash: 7CAB1B6F, Key: Skill_Primary_Defense_RootNodeTooltip, Value: {c_important}Resilience{/c} Skills preserve and defend
+Hash: 77DC70F7, Key: Skill_Primary_Defense_TagName, Value: Resilience
+Hash: 47EF5595, Key: Skill_Primary_Focus_RootNodeTooltip, Value: {c_important}Focus{/c} Skills concentrate your inner energy into power
+Hash: EE73E51D, Key: Skill_Primary_Focus_TagName, Value: Focus
+Hash: 6042AFD7, Key: Skill_Primary_Potency_RootNodeTooltip, Value: {c_important}Potency{/c} Skills annihilate enemies with strong force
+Hash: 9FFA1D5F, Key: Skill_Primary_Potency_TagName, Value: Potency
 Hash: 9668D9D7, Key: Skill_Primary_Curse_RootNodeTooltip, Value: {c_important}Curse{/c} Skills afflict debilitating effects upon your foes
 Hash: 8F96475F, Key: Skill_Primary_Curse_TagName, Value: Curse
 Hash: 209D65E9, Key: Skill_Primary_Major_Destruction_TagName, Value: Major Destruction
@@ -106,6 +124,8 @@ Hash: 5B950901, Key: Skill_Primary_Companion_TagName, Value: Companion
 Hash: 7F87F7F1, Key: Skill_Primary_Subterfuge_RootNodeTooltip, Value: {c_important}Subterfuge{/c} Skills outwit and debilitate enemies with trickery
 Hash: C4ADEB79, Key: Skill_Primary_Subterfuge_TagName, Value: Subterfuge
 Hash: 9AFC7A73, Key: Skill_Primary_Combat_TagName, Value: Combat
+Hash: 4E92182E, Key: Skill_Spiritborn_Pet_TagName, Value: Spiritborn Pet
+Hash: 33E3FEDC, Key: Skill_Recast_TagName, Value: Recast
 Hash: 852A51BC, Key: Skill_Channeled_TagName, Value: Channeled
 Hash: 451C7B15, Key: Skill_DualWield_TagName, Value: Dual Wield
 Hash: 8E952BC8, Key: Skill_Bludgeoning_TagName, Value: Bludgeoning
@@ -116,6 +136,7 @@ Hash: 96154B94, Key: Search_Copy_Core_TagName, Value: Core
 Hash: 9B667A97, Key: Search_Copy_Corpse_TagName, Value: Corpse
 Hash: AFC29CEB, Key: Search_2H_TagName, Value: Two-Handed
 Hash: CD5DF373, Key: Skill_Slashing_TagName, Value: Slashing
+Hash: B58A1E9C, Key: Search_Block_TagName, Value: Block
 Hash: 86BC3517, Key: Search_Arsenal_TagName, Value: Arsenal
 Hash: 8AE0E6EA, Key: Search_Slashing_TagName, Value: Slashing
 Hash: 7373B196, Key: Search_Cooldown_TagName, Value: Cooldown
@@ -140,6 +161,7 @@ Hash: 1DD6711B, Key: Search_Minion_TagName, Value: Minion
 Hash: 292EC75D, Key: Search_Precision_TagName, Value: Precision
 Hash: 9CCD9102, Key: Search_Resistance_TagName, Value: Resistance
 Hash: 89D5198E, Key: Search_Physical_TagName, Value: Physical
+Hash: 9AA662BB, Key: Search_Mystic_Circle_TagName, Value: Mystic Circle
 Hash: 225DD248, Key: Search_Burn_TagName, Value: Burn
 Hash: C6E9A485, Key: Subpower_StunGrenades_TagName, Value: Stun Grenade
 Hash: 6E51D19F, Key: Subpower_IceSpike_TagName, Value: Ice Spike
@@ -147,6 +169,8 @@ Hash: 342B06CE, Key: Subpower_DruidLightning_TagName, Value: Lightning Bolt and 
 Hash: A08ACE87, Key: Subpower_LightningBolt_TagName, Value: Lightning Bolt
 Hash: 727FB9FD, Key: Subpower_Earthquake_TagName, Value: Earthquake
 Hash: 29C0A855, Key: Subpower_DesecratedGround_TagName, Value: Desecrated Ground
+Hash: 006A74EC, Key: Subpower_SpiritFeather_TagName, Value: Spirit Feather
+Hash: 34991C34, Key: Subpower_PestilentSwarm_TagName, Value: Pestilent Swarm
 Hash: 22E0D3D9, Key: Subpower_DustDevils_TagName, Value: Dust Devil
 Hash: 10B1CA29, Key: Search_Healing_TagName, Value: Healing
 Hash: 7F61465E, Key: Search_LuckyHit_TagName, Value: Lucky Hit
@@ -158,6 +182,7 @@ Hash: 0BF0A6D9, Key: Search_Resource_TagName, Value: Resource
 Hash: 53521AD6, Key: Search_ResourceMana_TagName, Value: Mana
 Hash: A2D003FF, Key: Search_ResourceEssence_TagName, Value: Essence
 Hash: 19BDCE83, Key: Search_ResourceEnergy_TagName, Value: Energy
+Hash: 8E847020, Key: Search_ResourceVigor_TagName, Value: Vigor
 Hash: 7B736B14, Key: Search_ResourceSpirit_TagName, Value: Spirit
 Hash: 63BD92DF, Key: Search_ResourceFury_TagName, Value: Fury
 Hash: 704BAABD, Key: Search_FromEquipment_TagName, Value: From Equipment
@@ -180,3 +205,13 @@ Hash: E09CE083, Key: Skill_Pet_TagName, Value: Pet
 Hash: 3C078E52, Key: Subpower_ArrowStorm_TagName, Value: Arrow Storm
 Hash: 4DD86BA0, Key: Key Passive_TagName, Value: Key Passive
 Hash: DF8ACCEA, Key: Meteorite_TagName, Value: Meteorite
+Hash: 4108B87F, Key: Keyword_Empower_TagName, Value: Empowered
+Hash: AD50D406, Key: Keyword_Empower_Description, Value: {c_important}{b}{u}Empowered{/u}{/b}{/c} skills cost no Resource to cast and gain additional effects.
+Hash: A593274C, Key: Keyword_Vengeance_TagName, Value: Vengeance
+Hash: 1BDFE153, Key: Keyword_Vengeance_Description, Value: {c_important}{b}{u}Vengeance{/u}{/b}{/c} deals 15% of your Thorns to nearby enemies every 0.5 seconds.
+Hash: 43EE20EF, Key: Keyword_Doom_TagName, Value: Doom
+Hash: FC94F476, Key: Keyword_Doom_Description, Value: {c_important}{b}{u}Doomed{/u}{/b}{/c} enemies accumulate 30% of Base damage done to them from all sources. {c_important}{b}{u}Doom{/u}{/b}{/c} expires after 3 seconds and deals all accumulated damage to the enemy.
+Hash: 7CC71307, Key: Skill_Spirit_Forest_TagName, Value: Gorilla
+Hash: DEA80E8B, Key: Skill_Spirit_Soil_TagName, Value: Centipede
+Hash: 2BC491BB, Key: Skill_Spirit_Plains_TagName, Value: Jaguar
+Hash: 1616094B, Key: Skill_Spirit_Sky_TagName, Value: Eagle

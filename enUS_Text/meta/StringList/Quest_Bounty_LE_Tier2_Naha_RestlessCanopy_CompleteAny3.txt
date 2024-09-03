@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Restless Canopy Events
+Hash: 0871A46B, Key: Toast, Value: Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.
+Hash: D9B88541, Key: Callback29Header, Value: Complete events in different areas of Restless Canopy: {DONE_OVER_NEEDED}

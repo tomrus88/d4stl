@@ -226,3 +226,57 @@ Hash: 06F3ABAC, Key: Line535.B79AF, Value: Yeah, yeah. Here you go.
 Hash: 5DEF5119, Key: VoiceDir535.B79AF, Value: Keen, but sloppy. Tipsy.
 Hash: EDE261EF, Key: Line538.B79AF, Value: Take the rest, I don't give a damn.
 Hash: 44DE075C, Key: VoiceDir538.B79AF, Value: Keen, but sloppy. Tipsy.
+Hash: 121B3436, Key: Line543.1B3590, Value: Components, distilled. If only life was so simple.
+Hash: 488B8743, Key: VoiceDir543.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: D6E0B2D9, Key: Line546.1B3590, Value: It doesn't do to be wasteful.
+Hash: 0D5105E6, Key: VoiceDir546.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: 9BA6317C, Key: Line549.1B3590, Value: Put these to good use.
+Hash: D2168489, Key: VoiceDir549.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: D3A94F9A, Key: Line565.1C2635, Value: Now how did this...? Ah, there we go!
+Hash: 0A19A2A7, Key: VoiceDir565.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: 986ECE3D, Key: Line568.1C2635, Value: Phew! I wasn't sure that would work.
+Hash: CEDF214A, Key: VoiceDir568.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: 971E6D17, Key: Line571.1C2635, Value: There, and...there! Here's the parts.
+Hash: CD8EC024, Key: VoiceDir571.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: 72D97B98, Key: Line554.1B34DF, Value: Anything can come apart with the right tools.
+Hash: A949CEA5, Key: VoiceDir554.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 379EFA3B, Key: Line557.1B34DF, Value: Back to parts again.
+Hash: 6E0F4D48, Key: VoiceDir557.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 364E9915, Key: Line560.1B34DF, Value: The kids love to tinker with this stuff.
+Hash: 6CBEEC22, Key: VoiceDir560.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 3467959F, Key: Line576.1C2647, Value: Came apart easy enough.
+Hash: 6AD7E8AC, Key: VoiceDir576.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: F92D1442, Key: Line579.1C2647, Value: Those parts still have some life left in them.
+Hash: 2F9D674F, Key: VoiceDir579.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: F7DCB31C, Key: Line582.1C2647, Value: Put those pieces to good use.
+Hash: 2E4D0629, Key: VoiceDir582.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: 95144F1B, Key: Line587.1B3623, Value: From masterwork to crude parts.
+Hash: CB84A228, Key: VoiceDir587.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: 93C3EDF5, Key: Line590.1B3623, Value: I can turn this junk into something worth wielding.
+Hash: CA344102, Key: VoiceDir590.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: 58896C98, Key: Line593.1B3623, Value: Here's the parts. Now, what will you do with them?
+Hash: 8EF9BFA5, Key: VoiceDir593.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: F5D291B4, Key: Line598.1B358E, Value: Distilled to pure ingredients.
+Hash: 2C42E4C1, Key: VoiceDir598.1B358E, Value: Absorbed in her work. Impatient.
+Hash: 6BB057A5, Key: Line601.1B358E, Value: Is that all?
+Hash: A220AAB2, Key: VoiceDir601.1B358E, Value: Absorbed in her work. Impatient.
+Hash: 3075D648, Key: Line604.1B358E, Value: Ah, too easy.
+Hash: 66E62955, Key: VoiceDir604.1B358E, Value: Absorbed in her work. Impatient.
+Hash: CDBEFECD, Key: Line609.1B359D, Value: Good materials, here.
+Hash: 042F51DA, Key: VoiceDir609.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: CC6E9DA7, Key: Line612.1B359D, Value: Ah, make something new with these.
+Hash: 02DEF0B4, Key: VoiceDir612.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: 91341C4A, Key: Line615.1B359D, Value: Ah, wasn't too hard.
+Hash: C7A46F57, Key: VoiceDir615.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: 68676495, Key: Line620.1B3584, Value: A delicate piece needs a delicate hand.
+Hash: 9ED7B7A2, Key: VoiceDir620.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 2D2CE338, Key: Line623.1B3584, Value: It always stings to chip apart a fine piece...
+Hash: 639D3645, Key: VoiceDir623.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: F1F261DB, Key: Line626.1B3584, Value: Raw materials, brimming with potential.
+Hash: 2862B4E8, Key: VoiceDir626.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: C925AACA, Key: Line631.1B359F, Value: So frightfully easy to make a strong thing weak again.
+Hash: FF95FDD7, Key: VoiceDir631.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: 8DEB296D, Key: Line634.1B359F, Value: The ebbing and flowing of power...
+Hash: C45B7C7A, Key: VoiceDir634.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: 52B0A810, Key: Line637.1B359F, Value: One piece hobbled, another transformed.
+Hash: 8920FB1D, Key: VoiceDir637.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.

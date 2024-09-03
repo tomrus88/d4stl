@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crumbling Memorial
+Hash: CC3C0A8F, Key: FlavorText, Value: Dedicated to two souls lost in the Sin Wars

@@ -1,0 +1,3 @@
+Hash: FD700C3A, Key: Callback40Header, Value: Slay remaining monsters
+Hash: B78F4DA1, Key: Callback56Header, Value: Investigate the Ravaged Corpse
+Hash: 9E7E03E4, Key: Callback59Header, Value: Slay elites

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did you know Dian's father well?"
+Hash: E5DD9057, Key: Line16.1A849C, Value: Quite well. I remember him as a precocious child who grew into a man who always followed his heart.
+Hash: 3CD935C4, Key: VoiceDir16.1A849C, Value: Bittersweet memories
+Hash: 32DDAB1A, Key: Line28.1A849C, Value: He worked hard but always had a smile, and would help a stranger without hesitation.
+Hash: 89D95087, Key: VoiceDir28.1A849C, Value: Bittersweet memories
+Hash: 454B7513, Key: Line30.1A849C, Value: I'm sure his spirit looks down on us now, and is proud of his son's bravery.
+Hash: 9C471A80, Key: VoiceDir30.1A849C, Value: Bittersweet memories

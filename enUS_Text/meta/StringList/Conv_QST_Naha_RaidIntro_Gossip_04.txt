@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Any sign of your missing people?"
+Hash: F17E546D, Key: Line9.19A59E, Value: (deep sigh) No.
+Hash: 41B4803A, Key: VoiceDir9.19A59E, Value: Heavy sigh. 
+Hash: 407700E9, Key: Line5.19A59E, Value: Given what we have witnessed here, I see no sense in holding out hope that our loved ones will return.
+Hash: 90AD2CB6, Key: VoiceDir5.19A59E, Value: Admitting the grim reality. 
+Hash: 18FAAAAB, Key: Line7.19A59E, Value: But as long as we live, we'll be a thorn in the side of the khazra.
+Hash: 6930D678, Key: VoiceDir7.19A59E, Value: Vowing the fight on. 

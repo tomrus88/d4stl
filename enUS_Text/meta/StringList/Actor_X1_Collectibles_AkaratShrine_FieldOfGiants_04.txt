@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tenet of Akarat
+Hash: F2CA04D8, Key: NoticeSignText, Value: There must be respect when discovering the unknown. Though we are new to it, it does not mean we own it nor immediately influence it. 
+-Adavin, Dedicant of Akarat

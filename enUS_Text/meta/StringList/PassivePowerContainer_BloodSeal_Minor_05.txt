@@ -1,4 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Infection
-Hash: A646FFA4, Key: Description, Value: Hitting enemies with direct damage infects them with Pox. Inflicting Pox {c_number}[SF_2|0]{/c} times on an enemy expunges their infection, dealing {c_random}[SF_7|0] - [SF_8|0]{/c} {c_advanced}[[SF_9|0]%]{/c} Poison damage.
-
-{icon:bullet}Damage: {c_advanced}[[SF_10|0]%]{/c} {icon:arrow} {c_advanced}[[SF_11|0]%]{/c} {icon:arrow} {c_advanced}[[SF_12|0]%]{/c}

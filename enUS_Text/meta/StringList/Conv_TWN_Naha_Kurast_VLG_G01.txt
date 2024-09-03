@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 9268B919, Key: Line1.1CC119, Value: Word is there’s been more foreigners seen in these parts with sooted armor and charred skin.
+Hash: E29EE4E6, Key: VoiceDir1.1CC119, Value: Idle tavern gossip. Just trying to fill the air and pass the time.
+Hash: 6AEC62F8, Key: Line3.1CC125, Value: That's rumor talk if you didn't see it for yourself.
+Hash: BB228EC5, Key: VoiceDir3.1CC125, Value: To the point and a little annoyed. He's tired of gossip and only wants facts.

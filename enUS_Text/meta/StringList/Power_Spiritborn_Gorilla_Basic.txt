@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Rock Splitter
+Hash: 003892BF, Key: desc, Value: {c_label}Generate Vigor:{/c_label} {c_resource}{SF_0}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Rush at a target and clobber enemies in front of you, dealing {c_number}{payload:IMPACT}{/c} damage.
+
+Your {c_number}3rd{/c} attack strikes enemies around you, dealing {c_number}{payload:IMPACT_THIRD}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT}{/c}
+{icon:bullet, 1.2} 3rd Hit Damage {icon:arrow, 1.2} {c_number}{payload:IMPACT_THIRD}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Rock Splitter{/c} increases your Block Chance by {c_number}[{SF_10} * 100|%+|]{/c} for {c_number}[{buffduration:MAIN_BUFF}]{/c} seconds and when you Block you gain {c_number}{SF_0}{/c} Vigor.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Rock Splitter
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Rock Splitter{/c} increases your Thorns by {c_number}[{SF_14}]{/c} for {c_number}[{buffduration:MAIN_BUFF}]{/c} seconds and your {c_number}3rd{/c} attack deals {c_number}[{SF_15}*100|%|]{/c} of your Thorns to enemies.
+Hash: 948901D1, Key: Mod1_Name, Value: Accelerated Rock Splitter
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Rock Splitter's{/c} {c_number}3rd{/c} attack Knocks enemies Back and grants {c_important}{u}Resolve{/u}{/c} per enemy hit.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Sharp Rock Splitter

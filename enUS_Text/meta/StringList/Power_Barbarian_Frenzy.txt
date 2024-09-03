@@ -10,9 +10,9 @@ Hash: F2D5722F, Key: rankup_desc, Value:
 {icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
 Hash: 1BC5E139, Key: Buff6_Name, Value: Non-Frenzy Attack Speed Bonus
 Hash: 04622D1C, Key: Buff6_Description, Value: Non-Frenzy Skills gain {c_number}[SF_17 * 100|%+|]{/c} Attack Speed
-Hash: 74D6BC35, Key: Mod2_Description, Value: While {c_important}Frenzy{/c} is granting {c_number}[{SF_1} * 3 * 100|%+|]{/c} bonus Attack Speed, it also generates {c_number}[SF_8]{/c} additional Fury.
+Hash: 74D6BC35, Key: Mod2_Description, Value: While {c_important}Frenzy{/c} is granting {c_number}[{SF_1} * 3 * 100|%+|]{/c} bonus Attack Speed, the Fury costs of your {c_important}Core{/c} Skills are reduced by {c_number}[{SF_20}*100}|%|]{/c}.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Frenzy
 Hash: C435C5B6, Key: Mod3_Description, Value: While {c_important}{u}Berserking{/u}{/c}, your other skills gain {c_number}[{SF_13}*100}|%+|]{/c} Attack Speed for each stack of {c_important}Frenzy{/c} you have.
 Hash: 99335313, Key: Mod3_Name, Value: Battle Frenzy
-Hash: 1394CF37, Key: Mod4_Description, Value: You gain {c_number}[{SF_15}*100|%|]{/c} Damage Reduction for each stack of {c_important}Frenzy{/c} you currently have.
+Hash: 1394CF37, Key: Mod4_Description, Value: You gain {c_number}[{SF_15}*100|%|]{/c} Damage Reduction and {c_number}[{SF_21}*100|%|]{/c} Movement Speed per stack of {c_important}Frenzy{/c} you currently have.
 Hash: 9B887BB4, Key: Mod4_Name, Value: Combat Frenzy

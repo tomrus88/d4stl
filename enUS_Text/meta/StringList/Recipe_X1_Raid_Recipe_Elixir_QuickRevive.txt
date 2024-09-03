@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Swift Revival
+Hash: 9E3ACE5E, Key: Category, Value: Elixirs

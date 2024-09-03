@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Those runes you gave me—what can you tell me about them?"
+Hash: 8F4F079D, Key: Line1.17FDCA, Value: They carry the raw essence of magic. Powerful tools, no doubt—better in a capable wielder’s hand than collecting dust in a forgotten cache.
+Hash: DF85336A, Key: VoiceDir1.17FDCA, Value: "So he stole it." - [with a wink]
+Hash: 67D2B15F, Key: Line3.17FDCA, Value: Or so Ormus believed. He, of course, stole them. They protected Nahantu from Travincal, and now they can protect you.
+Hash: B808DD2C, Key: VoiceDir3.17FDCA, Value: winking

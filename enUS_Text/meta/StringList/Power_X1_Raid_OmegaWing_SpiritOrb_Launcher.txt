@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Soul Orb
+Hash: 007C49D0, Key: Payload0_DisplayName, Value: Soul Orb

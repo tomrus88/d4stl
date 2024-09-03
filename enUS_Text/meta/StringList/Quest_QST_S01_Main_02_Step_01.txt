@@ -2,7 +2,6 @@ Hash: 003DFCC1, Key: Name, Value: A Plague of Hatred
 Hash: 68161728, Key: Phase3Description, Value: Cormond is heading to the ruins of Orbei Monastery in the Dry Steppes. He claims a cure for the Malignant may lie within. We shall see. 
 Hash: 1EADAE68, Key: Callback2Header, Value: Find Cormond outside of Orbei
 Hash: 85A4CA58, Key: Callback11Header, Value: Speak with Cormond
-Hash: E2C708DD, Key: Phase44Description, Value: Cormond is heading to the ruins of Orbei Monastery in the Dry Steppes. He claims a cure for the Malignant may lie within. We shall see. 
 Hash: 6541F242, Key: Callback48Header, Value: Speak with Cormond
 Hash: 51368C42, Key: Phase85Description, Value: While clearing one of the Malignant tunnels, I discovered strange outgrowths. I should investigate them with proper tools. Perhaps Cormond has something at his workbench? 
 Hash: B590DDE6, Key: Callback97Header, Value: Craft a Brutal Malignant Invoker at Cormond's Workbench
@@ -12,3 +11,4 @@ Hash: F54CBBAC, Key: Phase115Description, Value: I crafted a tool called an “B
 Hash: 859EA5AF, Key: Callback117Header, Value: Use the Invoker on a Brutal Outgrowth
 Hash: 4FEAF248, Key: Phase120Description, Value: I crafted a tool called an “Brutal Malignant Invoker” at Cormond's workbench. I should travel to one of the nearby Malignant tunnels and revisit the outgrowths. 
 Hash: 1F931F31, Key: Callback119Header, Value: Find a Brutal Outgrowth
+Hash: E2C708DD, Key: Phase44Description, Value: Cormond is heading to the ruins of Orbei Monastery in the Dry Steppes. He claims a cure for the Malignant may lie within. We shall see. 

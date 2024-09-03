@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Repaired Mosaic
+Hash: F2CA04D8, Key: NoticeSignText, Value: [PH] A mosaic depicting a massive god-like being worshipped upon a verdant grassland. Underneath it are ancient Spiritborn glyphs beyond your understanding.

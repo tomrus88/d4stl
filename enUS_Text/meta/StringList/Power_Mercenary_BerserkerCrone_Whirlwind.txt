@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Whirlwind
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Varyana spins violently in a line, repeatedly dealing {c_number}{payload:DAMAGE}{/c} Physical damage and {c_number}{dot:BLEED}{/c} Bleeding damage over {c_number}{SF_5}{/c} seconds.

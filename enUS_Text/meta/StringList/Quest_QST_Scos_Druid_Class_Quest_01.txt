@@ -25,4 +25,5 @@ Hash: D9F04ECB, Key: Callback203Header, Value: Honor Gathlen and mount the Skull
 Hash: A4FB6150, Key: Phase209Description, Value: The Druid Ardreth of Túr Dúlra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
 
 The tormented spirit of Gathlen has been imprisoned. I must find a way to set the spirit free. 
-Hash: 5AD37E90, Key: Callback208Header, Value: Pick up the Skull of the Spirit Lord
+Hash: 5AD37E90, Key: Callback208Header, Value: Pick up the {ITEM:QST_Scos_Druid_CQuest_Stag_Skull} of the Spirit Lord
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Druid Spirit Boons

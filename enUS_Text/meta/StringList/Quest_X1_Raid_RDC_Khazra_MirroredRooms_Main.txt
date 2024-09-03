@@ -1,0 +1,9 @@
+Hash: 0871A46B, Key: Toast, Value: Mirrored Rooms
+Hash: 26EA8B8C, Key: Callback204Header, Value: Claim your reward
+Hash: EF04B912, Key: Callback282Header, Value: Escape before your Impending Doom
+Hash: 53BFDE6A, Key: Callback310Header, Value: Slay the Ward Guardians: {done_over_Needed}
+Hash: AB284836, Key: Callback376Header, Value: Dispel the {icon:Tracker_GizmoReceptacle, 1.8} Sealing Wards: {done_over_Needed}
+Hash: 94156E34, Key: Callback338Header, Value: Escape before your Impending Doom
+Hash: B279D68F, Key: Callback342Header, Value: Charge the  {icon:Tracker_GizmoChargeable, 1.8} Soul Siphons: {done_over_Needed}
+Hash: FF741350, Key: Callback343Header, Value: Slay the Ward Guardians: {done_over_Needed}
+Hash: C98CB091, Key: Callback380Header, Value: Dispel the {icon:Tracker_GizmoReceptacle, 1.8} Sealing Wards: {done_over_Needed}

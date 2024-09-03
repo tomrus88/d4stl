@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Relentless Juggernaut
+Hash: 003892BF, Key: desc, Value: While moving you generate Fury, increased based on distance and speed.
+
+Moving while {c_important}{u}Unstoppable{/u}{/c} creates {c_important}Earthquakes{/c} beneath you that deal {c_number}500%{/c} of your Thorns as Physical damage over {c_number}[PowerTag.Barbarian_Earthquake."Script Formula 1"]{/c} seconds.

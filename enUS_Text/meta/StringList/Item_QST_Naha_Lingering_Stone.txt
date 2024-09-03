@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tenebrous Opal
+Hash: A646FFA4, Key: Description, Value: Bound to Lingering Hatred
+Hash: F5C7BC0A, Key: Flavor, Value: The stone shines with a beautiful, iridescent light. However, a barely-perceptible shadow hides deeper within.

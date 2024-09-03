@@ -1,0 +1,4 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: Hah, that’s cleaving all the meat from the bone!
+Hash: 67CA4294, Key: Line3.18782A, Value: Now that that's done, I could carve us up something useful.
+Hash: 404DEC56, Key: Line5.18782A, Value: Work up an appetite? Fancy a tasty morsel?
+Hash: 18D19618, Key: Line7.18782A, Value: Hardly broke a sweat.

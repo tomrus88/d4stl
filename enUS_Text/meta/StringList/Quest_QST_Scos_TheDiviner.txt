@@ -1,15 +1,15 @@
 Hash: 003DFCC1, Key: Name, Value: The Diviner
 Hash: 0871A46B, Key: Toast, Value: Help restore hope to Túr Dúlra.
 Hash: D53BFF05, Key: Phase0Description, Value: A druidic scholar named Yuein is hopeful that Túr Dúlra can be restored if I find a surviving runestone.
-Hash: 059C64AB, Key: Callback5Header, Value: Find a Túr Dúlra Runestone
+Hash: 059C64AB, Key: Callback5Header, Value: Find a {ITEM:QST_Scos_TheDiviner_RuneStone}
+Hash: 94B19AE4, Key: Phase78Description, Value: I was able to find a single intact Túr Dúlra runestone, but Yuein was unable to wake its power.
+Hash: C94F0905, Key: Callback87Header, Value: Speak to Scholar Yuein
+Hash: 4F855768, Key: Callback99Header, Value: Return the {ITEM:QST_Scos_TheDiviner_RuneStone} to Scholar Yuein
+Hash: A6927FEF, Key: Phase127Description, Value: The three runestones have been awoken. Now, Yuein should be able to use their power to help restore Túr Dúlra.
+Hash: 940ACEAE, Key: Phase135Description, Value: The three runestones have been awoken. Now, Yuein should be able to use their power to help restore Túr Dúlra.
+Hash: 0BD4F412, Key: Callback129Header, Value: Return to Yuein
 Hash: 8D6916BE, Key: Phase81Description, Value: Scholar Yuein has asked me to wake the three runestones hidden across the Deep Forest to help restore Túr Dúlra.
 Hash: DF436D69, Key: Callback210Header, Value: Activate the Spirit Runestone
 Hash: C63223AC, Key: Callback213Header, Value: Activate the Earthen Runestone
 Hash: FA1B16B0, Key: Callback217Header, Value: Activate the Nature Runestone
-Hash: 94B19AE4, Key: Phase78Description, Value: I was able to find a single intact Túr Dúlra runestone, but Yuein was unable to wake its power.
-Hash: C94F0905, Key: Callback87Header, Value: Speak to Scholar Yuein
-Hash: 4F855768, Key: Callback99Header, Value: Return the Runestone to Scholar Yuein
-Hash: A6927FEF, Key: Phase127Description, Value: The three runestones have been awoken. Now, Yuein should be able to use their power to help restore Túr Dúlra.
-Hash: 0BD4F412, Key: Callback129Header, Value: Return to Yuein
-Hash: 940ACEAE, Key: Phase135Description, Value: The three runestones have been awoken. Now, Yuein should be able to use their power to help restore Túr Dúlra.
 Hash: 3FFBD549, Key: Callback201Header, Value: Touch the Runestone of Túr Dúlra

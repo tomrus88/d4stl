@@ -1,0 +1,22 @@
+Hash: 003DFCC1, Key: name, Value: Mace
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Imbued Mace Bleed
+Hash: B9F2506D, Key: Buff19_Name, Value: Imbued Mace Bleed
+Hash: ABF35CA7, Key: Buff13_Name, Value: Imbued Mace Bleed
+Hash: F4434826, Key: Buff21_Name, Value: Imbued Mace Bleed
+Hash: B09DADE9, Key: Buff15_Name, Value: Imbued Mace Bleed
+Hash: F8ED9968, Key: Buff23_Name, Value: Imbued Mace Bleed
+Hash: FB42C209, Key: Buff24_Name, Value: Imbued Mace Bleed
+Hash: FFED134B, Key: Buff26_Name, Value: Imbued Mace Bleed
+Hash: 0497648D, Key: Buff28_Name, Value: Imbued Mace Bleed
+Hash: 4FDB5351, Key: Payload1_DisplayName, Value: Imbued Mace
+Hash: 76477062, Key: Payload11_DisplayName, Value: Imbued Mace
+Hash: 9F3A5CD2, Key: Payload2_DisplayName, Value: Imbued Mace
+Hash: 15058364, Key: Payload13_DisplayName, Value: Imbued Mace
+Hash: EE996653, Key: Payload3_DisplayName, Value: Imbued Mace
+Hash: B3C39666, Key: Payload15_DisplayName, Value: Imbued Mace
+Hash: 3DF86FD4, Key: Payload4_DisplayName, Value: Imbued Mace
+Hash: 5281A968, Key: Payload17_DisplayName, Value: Imbued Mace
+Hash: 8D577955, Key: Payload5_DisplayName, Value: Imbued Mace
+Hash: F13FBC6A, Key: Payload19_DisplayName, Value: Imbued Mace
+Hash: DCB682D6, Key: Payload6_DisplayName, Value: Imbued Mace
+Hash: B187AA03, Key: Payload21_DisplayName, Value: Imbued Mace

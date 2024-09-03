@@ -1,22 +1,22 @@
 Hash: 003DFCC1, Key: Name, Value: In Search of Answers
 Hash: 0871A46B, Key: Toast, Value: Find the hermit in the pass east of Nevesk.
-Hash: 38C9C8C0, Key: Phase29Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
-Hash: 8CBE4880, Key: Callback28Header, Value: Enter the cabin
-Hash: 75A12100, Key: Phase47Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
-Hash: B23C2F03, Key: Callback49Header, Value: Speak with Lorath Nahr
-Hash: D53BFF05, Key: Phase0Description, Value: I told the monk of my vision. He was clearly unsettled by what I described. He told me to search the mountains to the north for a hermit who may be connected to these dark events.
-Hash: 9E7E03E4, Key: Callback59Header, Value: Find the hermit's cabin
-Hash: 8D6916BE, Key: Phase81Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
-Hash: AE775FBE, Key: Callback80Header, Value: Search the cabin
-Hash: 51368C42, Key: Phase85Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
-Hash: 4F855768, Key: Callback99Header, Value: Enter the back room
-Hash: E410A465, Key: Phase88Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
-Hash: 5708D149, Key: Callback120Header, Value: Examine the Strange Skull
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find the hermit in the pass east of Nevesk.
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I told the monk of my vision. He was clearly unsettled by what I described. He told me to search the mountains to the north for a hermit who may be connected to these dark events.
+Hash: 38C9C8C0, Key: Phase29Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
 Hash: FEF9C608, Key: Phase29OutsideSubzoneHeader, Value: Enter the cabin
+Hash: 8CBE4880, Key: Callback28Header, Value: Enter the cabin
+Hash: 75A12100, Key: Phase47Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
 Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Examine the Strange Skull
+Hash: B23C2F03, Key: Callback49Header, Value: Speak with Lorath Nahr
+Hash: D53BFF05, Key: Phase0Description, Value: I told the monk of my vision. He was clearly unsettled by what I described. He told me to search the mountains to the north for a hermit who may be connected to these dark events.
 Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Find the hermit's cabin
+Hash: 9E7E03E4, Key: Callback59Header, Value: Find the hermit's cabin
+Hash: 8D6916BE, Key: Phase81Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
 Hash: 269BB1C6, Key: Phase81OutsideSubzoneHeader, Value: Search the cabin
+Hash: AE775FBE, Key: Callback80Header, Value: Search the cabin
+Hash: 51368C42, Key: Phase85Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
 Hash: 6ACF9BCA, Key: Phase85OutsideSubzoneHeader, Value: Enter the back room
+Hash: 4F855768, Key: Callback99Header, Value: Enter the back room
+Hash: E410A465, Key: Phase88Description, Value: I found a small house hidden away in the mountains. Could this be the hermit's home?
 Hash: 5DF68B4D, Key: Phase88OutsideSubzoneHeader, Value: Examine the Strange Skull
+Hash: 5708D149, Key: Callback120Header, Value: Examine the Strange Skull

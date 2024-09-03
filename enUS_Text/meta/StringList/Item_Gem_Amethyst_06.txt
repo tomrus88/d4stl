@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grand Amethyst
+Hash: F5C7BC0A, Key: Flavor, Value: Wherever this travels, hope voyages far away.

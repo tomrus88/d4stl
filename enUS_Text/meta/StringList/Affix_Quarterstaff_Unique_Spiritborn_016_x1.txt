@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Core{/c} Skills are now additionally {c_important}Basic{/c} Skills, free to cast, and deal up to {c_number}[Affix."Static Value 0"*100|%|]{/c} less damage based on their cost. 
+
+At Maximum Vigor your {c_important}Core{/c} Skills instead deal normal damage and consume all Vigor to Critically Strike with {c_random}[Affix_Value_1*100|%2x|]{/c} increased Critical Strike Damage for each point spent.

@@ -1,0 +1,4 @@
+Hash: 92517AC8, Key: Line1.1C7F88, Value: Years ago, my family lived in a little village just north of here. It was beautiful, before the lacuni...
+Hash: E287A695, Key: VoiceDir1.1C7F88, Value: trailing off at the end
+Hash: 6AD5248A, Key: Line3.1C7F88, Value: We lost everything when we were driven out.
+Hash: BB0B5057, Key: VoiceDir3.1C7F88, Value: Angrily

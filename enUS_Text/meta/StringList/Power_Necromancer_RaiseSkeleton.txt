@@ -1,4 +1,4 @@
 Hash: 003DFCC1, Key: name, Value: Raise Skeleton
 Hash: 003892BF, Key: desc, Value: Raise a Skeleton from a Corpse to fight for you.
 
-Once all of your Skeletons have been summoned, {c_important}Raise Skeleton{/c} briefly summons a {c_important}Skeletal Priest{/c} to empower your Minions for {c_number}{SF_6}{/c} seconds, increasing their damage by {c_number}[{SF_4} * 100|%x|]{/c} and healing them for {c_number}[{SF_3} * 100|%|]{/c} of their Maximum Life.
+Once all of your Skeletons have been summoned, {c_important}Raise Skeleton{/c} briefly summons a Skeletal Priest to empower your Minions for {c_number}{SF_6}{/c} seconds, increasing their damage by {c_number}[{SF_4} * 100|%x|]{/c} and healing them for {c_number}[{SF_3} * 100|%|]{/c} of their Maximum Life.

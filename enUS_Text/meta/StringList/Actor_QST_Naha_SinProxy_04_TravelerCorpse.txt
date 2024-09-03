@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dead Traveler
+Hash: F2CA04D8, Key: NoticeSignText, Value: The corpse looks to have been a villager from Gurnok, mauled by the wildlife. One hand rests on a chest, the other clutches a Skatsimi pendant.

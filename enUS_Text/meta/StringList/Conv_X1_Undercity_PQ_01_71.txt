@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who was Alia, Kurast's End?"
+Hash: 928E0F9B, Key: Line1.1EE414, Value: The voice of the people. Beloved by the faithful of Zakarum. A favorite of the Que-Hegan. When Mephisto corrupted the church, Alia was the first to take up his banner.
+Hash: 6B11B95D, Key: Line3.1EE414, Value: She led a column of monks into Kurast and massacred the city. My grandfather would tell stories of an angel with a bloody knife, smiling as if the whole world was watching.
+Hash: 4395631F, Key: Line5.1EE414, Value: She was killed by a scared child with a rusty spear.

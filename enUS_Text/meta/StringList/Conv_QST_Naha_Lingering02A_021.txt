@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are the Dregs?"
+Hash: 8F4F075B, Key: Line1.17FDAA, Value: Lost souls drunk on the toxins of the wilds. Usually travelers from other shores, who didn’t know a thing about this patch of Sanctuary, and never cared to learn.
+Hash: 67D2B11D, Key: Line3.17FDAA, Value: They twist the jungle to their needs, squeeze its lifeblood into poisons. They take and take and take. Careful you don’t sip from their brews—you might find yourself hooked as they are.

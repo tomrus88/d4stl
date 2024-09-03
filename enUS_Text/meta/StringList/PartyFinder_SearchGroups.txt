@@ -1,0 +1,8 @@
+Hash: 62AB7D29, Key: searchgroup_playstyle, Value: Playstyle
+Hash: EAD9F458, Key: searchgroup_run_type, Value: Game Play
+Hash: 9F53F4B8, Key: searchgroup_skill_level, Value: Skill Level
+Hash: 878CDA36, Key: searchgroup_inclusion, Value: Social
+Hash: 91BDF5A3, Key: searchgroup_nightmare_dungeons, Value: Nightmare Dungeons
+Hash: 7FF307CD, Key: searchgroup_normal_dungeons, Value: Dungeons
+Hash: 9A087D45, Key: searchgroup_bossladder, Value: Boss Lairs
+Hash: 855DAB4B, Key: searchgroup_citadels, Value: Dark Citadel

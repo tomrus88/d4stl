@@ -4,6 +4,7 @@ Hash: E432E80E, Key: VoiceDir6.1275AB.Bar, Value: amused, sincere
 Hash: 5061A877, Key: Line6.1275AB.Dru, Value: They will not aid betrayers. My kin are marked by dishonor.
 Hash: 5061D142, Key: Line6.1275AB.Nec, Value: They will not aid betrayers. My kin are marked by dishonor.
 Hash: 5061E394, Key: Line6.1275AB.Rog, Value: They will not aid betrayers. My kin are marked by dishonor.
+Hash: 5061E7F8, Key: Line6.1275AB.Spi, Value: They will not aid betrayers. My kin are marked by dishonor.
 Hash: 5061E7E0, Key: Line6.1275AB.Sor, Value: They will not aid betrayers. My kin are marked by dishonor.
 Hash: 31833A2B, Key: Line12.1275AB, Value: We carry the shame of our ancestor, Nihlathak. His cowardice stood before his pride when facing Baal beneath the mountain.
 Hash: 887EDF98, Key: VoiceDir12.1275AB, Value: blunt, candid, carrying contempt

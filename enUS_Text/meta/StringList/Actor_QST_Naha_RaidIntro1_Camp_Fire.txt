@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Unfinished Meal
+Hash: CC3C0A8F, Key: FlavorText, Value: Abandoned Campfire
+Hash: F2CA04D8, Key: NoticeSignText, Value: The food in this pot is cold, and the embers beneath drowned in mud. Whoever prepared this food never came back for it.

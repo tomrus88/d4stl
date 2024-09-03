@@ -1,0 +1,4 @@
+Hash: 923BC464, Key: Line1.1B20CE, Value: You dare return to the land you betrayed, Varyana? We'll see if the flesh of a traitor tastes any sweeter!
+Hash: E271F031, Key: VoiceDir1.1B20CE, Value: Fierce with hatred
+Hash: 67CA4294, Key: Line3.18782A, Value: I won't eat you, but I'll damn well butcher you!
+Hash: B8006E61, Key: VoiceDir3.18782A, Value: Growling, threatening.

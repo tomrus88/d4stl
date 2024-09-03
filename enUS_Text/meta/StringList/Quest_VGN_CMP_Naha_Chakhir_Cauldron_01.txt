@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Market
+Hash: 09DCA900, Key: Callback64Header, Value: Disrupt the Dregs' empowering ritual
+Hash: CEA227A3, Key: Callback94Header, Value: Slay the Juiced Fanatics ({DONE}/{NEEDED})

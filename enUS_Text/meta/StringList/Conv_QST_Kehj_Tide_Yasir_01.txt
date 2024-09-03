@@ -8,6 +8,8 @@ Hash: B99B374A, Key: VoiceDir5.BAE4.Rog, Value: Wry
 Hash: 832AA920, Key: Line5.BAE4.Dru, Value: No one deserves such a cruel fate.
 Hash: 832AD1EB, Key: Line5.BAE4.Nec, Value: No, but you’re getting very close.
 Hash: B99B24F8, Key: VoiceDir5.BAE4.Nec, Value: Dry
+Hash: 832AE8A1, Key: Line5.BAE4.Spi, Value: True, you've got at least a few more days in you.
+Hash: B99B3BAE, Key: VoiceDir5.BAE4.Spi, Value: Dry. Matter of fact.
 Hash: 2B3620AA, Key: Line7.E6891, Value: Huh? Wait. You’re not...
 Hash: 9A3F86D7, Key: VoiceDir7.E6891, Value: At a loss, realizing the Player is not one of his enemies.
 Hash: C52A9A2C, Key: Line9.E6891, Value: Hey, get me free. I’ll make it worth your while.

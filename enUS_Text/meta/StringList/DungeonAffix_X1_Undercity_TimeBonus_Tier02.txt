@@ -1,0 +1,5 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Time Bonus Penalty: -25%
+Hash: EEB7912D, Key: AffixDesc, Value: The time granted from Afflicted and Floor Transitions is lowered.
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: The time granted from Afflicted and Floor Transitions is lowered.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: The time granted from Afflicted and Floor Transitions is lowered.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: The time granted from Afflicted and Floor Transitions is lowered.

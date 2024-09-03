@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Infernal Jungle
+Hash: 003892BF, Key: Desc, Value: Collect 10,000 Aberrant Cinders in Nahantu Helltides.

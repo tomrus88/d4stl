@@ -1,0 +1,5 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Crusader Damond
+Hash: 003DFCC1, Key: Name, Value: Spiritborn Field Notes
+Hash: D53BFF05, Key: Phase0Description, Value: I found the notes of a Spiritborn warrior who has been fighting the strange Hollow creatures spewed forth by the Realmwalker.
+
+Crusader Damond may want to see these.

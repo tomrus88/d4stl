@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Notarized Nuisance
+Hash: 3A4912CF, Key: DescShort, Value: Increase your Threat Level to Max by defeating monsters during {icon:Marker_Helltide, 2.5} Helltide

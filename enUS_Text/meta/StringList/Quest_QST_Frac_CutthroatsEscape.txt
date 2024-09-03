@@ -1,7 +1,7 @@
-Hash: 0687FA1D, Key: Callback16Header, Value: Slay {MONSTER}
+Hash: 003DFCC1, Key: Name, Value: Bound by Blood
 Hash: 398557AF, Key: Callback9Header, Value: Bring Lacthan to Perithan
 Hash: 85A4CA58, Key: Callback11Header, Value: Speak with Perithan
+Hash: 0687FA1D, Key: Callback16Header, Value: Slay {MONSTER}
 Hash: BEE0DBFA, Key: Callback22Header, Value: Search for Perithan
-Hash: 003DFCC1, Key: Name, Value: Bound by Blood
 Hash: D9B88541, Key: Callback29Header, Value: Find the {ITEM}
 Hash: 6A9510E0, Key: Callback55Header, Value: Open the locked door

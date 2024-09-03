@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A citadel dismantled.
+Hash: 4A6A48FB, Key: Callback41Header, Value: Explore {WORLD:DGN_Naha_IronCenotaph} and Slay {MONSTER}

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Inspiration
+Hash: 003892BF, Key: desc, Value: Enemies affected by Raheir's {c_important}Ground Slam{/c} take {c_number}[{SF_0}*100|%x|]{/c} increased damage.
+
+Allies affected by Raheir's {c_important}Bastion{/c} deal {c_number}[{SF_1}*100|%x|]{/c} increased damage.

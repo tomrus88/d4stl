@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Put the resentful dead to rest.
+Hash: 0687FA1D, Key: Callback16Header, Value: Explore {WORLD:DGN_Naha_BetrayedTomb} and Slay {MONSTER}

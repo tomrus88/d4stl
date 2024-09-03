@@ -1,4 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Blood Seal Major 001
 Hash: 003892BF, Key: Desc, Value: When you evade, you turn into a cloud of bats.
-
-{c_green}Consumes 5 Green Pacts{/c}

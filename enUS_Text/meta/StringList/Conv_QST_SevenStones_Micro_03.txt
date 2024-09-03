@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You don't think your brother is a true Spiritborn?"
+Hash: 81D432A5, Key: Line24.1A4793, Value: (sigh) I hope not. Those that aren't Spiritborn could die in the Trial of Mists, and those that survive... Look. We just aren't ready to lose him, but he doesn't see that.

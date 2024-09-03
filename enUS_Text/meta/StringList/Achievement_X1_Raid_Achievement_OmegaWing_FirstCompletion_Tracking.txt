@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Omega Wing First Time Completion Tracking
+Hash: 003892BF, Key: Desc, Value: Achievement to track first time completion of the Khazra Raid Omega Wing.

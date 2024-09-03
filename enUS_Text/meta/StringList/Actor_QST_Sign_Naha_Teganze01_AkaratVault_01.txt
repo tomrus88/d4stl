@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Aged Parchment
+Hash: F2CA04D8, Key: NoticeSignText, Value: He returned today, half dead, his throat split open and gangrenous. He left to rid Nahantu of Hatred. His battle with its master near killed him. And still, evil blooms in the soil. What more could Sanctuary demand of him? Let it rot, I say. Let him rest.

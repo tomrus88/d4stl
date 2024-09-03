@@ -1,4 +1,4 @@
 Hash: 003DFCC1, Key: Name, Value: Unwritten End
 Hash: 0871A46B, Key: Toast, Value: I found an old diary detailing the various travels and sales of a merchant. Zalan Coste in Margrave may want to see this.
 Hash: D53BFF05, Key: Phase0Description, Value: I found an old diary detailing the various travels and sales of a merchant. Zalan Coste in Margrave may want to see this.
-Hash: 059C64AB, Key: Callback5Header, Value: Show the Merchant's Ledger to Zalan Coste
+Hash: 059C64AB, Key: Callback5Header, Value: Show the {ITEM:QST_Frac_TaigaE_DropGift_Zalan02} to Zalan Coste

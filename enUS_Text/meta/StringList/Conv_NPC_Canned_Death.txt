@@ -142,3 +142,39 @@ Hash: A5BAC4BF, Key: Line2692.EDC73, Value: No… (dying breath)
 Hash: DC2B17CC, Key: VoiceDir2692.EDC73, Value: Pained, dying breath
 Hash: 8CA97B02, Key: Line2695.EDC73, Value: (shaky breath) Cold… so cold…
 Hash: C319CE0F, Key: VoiceDir2695.EDC73, Value: Shaky, trailing off at the end
+Hash: 1DD045CB, Key: Line2952.1BB53F, Value: Ah!
+Hash: 224AFA78, Key: VoiceDir2952.1BB53F, Value: Pained death exertion
+Hash: E295C46E, Key: Line2955.1BB53F, Value: No… (dying breath)
+Hash: E710791B, Key: VoiceDir2955.1BB53F, Value: Pained, dying breath
+Hash: A75B4311, Key: Line2958.1BB53F, Value: (shaky breath) Cold…so cold…
+Hash: ABD5F7BE, Key: VoiceDir2958.1BB53F, Value: Shaky, trailing off at the end
+Hash: 7E8E8B98, Key: Line2963.1BB540, Value: Ah!
+Hash: 83094045, Key: VoiceDir2963.1BB540, Value: Pained death exertion
+Hash: 43540A3B, Key: Line2966.1BB540, Value: No… (dying breath)
+Hash: 47CEBEE8, Key: VoiceDir2966.1BB540, Value: Pained, dying breath
+Hash: 081988DE, Key: Line2969.1BB540, Value: (shaky breath) Cold…so cold…
+Hash: 0C943D8B, Key: VoiceDir2969.1BB540, Value: Shaky, trailing off at the end
+Hash: D5A8D42F, Key: Line3007.1BB541, Value: Ah!
+Hash: DA2388DC, Key: VoiceDir3007.1BB541, Value: Pained death exertion
+Hash: D4587309, Key: Line3010.1BB541, Value: No… (dying breath)
+Hash: D8D327B6, Key: VoiceDir3010.1BB541, Value: Pained, dying breath
+Hash: 991DF1AC, Key: Line3013.1BB541, Value: (shaky breath) Cold…so cold…
+Hash: 9D98A659, Key: VoiceDir3013.1BB541, Value: Shaky, trailing off at the end
+Hash: A0C95D40, Key: Line2996.1BB542, Value: Ah!
+Hash: A54411ED, Key: VoiceDir2996.1BB542, Value: Pained death exertion
+Hash: 658EDBE3, Key: Line2999.1BB542, Value: No… (dying breath)
+Hash: 6A099090, Key: VoiceDir2999.1BB542, Value: Pained, dying breath
+Hash: 385FABCB, Key: Line3002.1BB542, Value: (shaky breath) Cold…so cold…
+Hash: 3CDA6078, Key: VoiceDir3002.1BB542, Value: Shaky, trailing off at the end
+Hash: 400B175F, Key: Line2985.1BB543, Value: Ah!
+Hash: 4485CC0C, Key: VoiceDir2985.1BB543, Value: Pained death exertion
+Hash: 04D09602, Key: Line2988.1BB543, Value: No…
+Hash: 094B4AAF, Key: VoiceDir2988.1BB543, Value: Pained, dying breath
+Hash: 038034DC, Key: Line2991.1BB543, Value: (shaky breath) Cold…so cold…
+Hash: 07FAE989, Key: VoiceDir2991.1BB543, Value: Shaky, trailing off at the end
+Hash: DF4CD17E, Key: Line2974.1BB544, Value: Ah!
+Hash: E3C7862B, Key: VoiceDir2974.1BB544, Value: Pained death exertion
+Hash: A4125021, Key: Line2977.1BB544, Value: No… (dying breath)
+Hash: A88D04CE, Key: VoiceDir2977.1BB544, Value: Pained, dying breath
+Hash: A2C1EEFB, Key: Line2980.1BB544, Value: (shaky breath) Cold…so cold…
+Hash: A73CA3A8, Key: VoiceDir2980.1BB544, Value: Shaky, trailing off at the end

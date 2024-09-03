@@ -11,5 +11,6 @@ Hash: 8B40067F, Key: Line7.BAE4.Rog, Value: I'm going to kill whatever's in thos
 Hash: C1B0598C, Key: VoiceDir7.BAE4.Rog, Value: Determined, heroic
 Hash: 8B400ACB, Key: Line7.BAE4.Sor, Value: If there is evil lurking in those ruins, I will drag it into the light of day.
 Hash: C1B05DD8, Key: VoiceDir7.BAE4.Sor, Value: Determined, heroic
+Hash: 8B400AE3, Key: Line7.BAE4.Spi, Value: I feel the evil from the ruins... it's begun to take root here, too. I’ll lay it to rest.
 Hash: 091F8F58, Key: Line13.6DF9E, Value: Truly? Oh, thank you!
 Hash: 5955BB25, Key: VoiceDir13.6DF9E, Value: Surprised and grateful

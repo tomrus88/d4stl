@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Core Stats
+Hash: EEB7912D, Key: AffixDesc, Value: Legendaries will possess a flat Core Stat affix when possible.

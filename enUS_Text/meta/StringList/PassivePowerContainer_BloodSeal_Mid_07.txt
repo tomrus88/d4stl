@@ -1,4 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Rampart
-Hash: A646FFA4, Key: Description, Value: After not moving for {c_number}[SF_0|0]{/c} seconds, you gain a {c_important}{u}Barrier{/u}{/c} for {c_random}[SF_5|1]%{/c} of your Maximum Life for {c_number}[SF_3|0]{/c} seconds. This effect can occur once every {c_number}[SF_4|0]{/c} seconds.
-
-{icon:bullet}Barrier: {c_random}[SF_6|1]%{/c} {icon:arrow} {c_random}[SF_7|1]%{/c} {icon:arrow} {c_random}[SF_8|1]%{/c}

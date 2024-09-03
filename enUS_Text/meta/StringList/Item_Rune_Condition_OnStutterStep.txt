@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneCondition}Cast a Skill after moving.{/c} 
+{c_gray}(Cooldown: 0.2 seconds){/c}
+Hash: ECF72407, Key: RunewordPhrasePrefix, Value: Harmonic
+Hash: 003DFCC1, Key: Name, Value: Moni

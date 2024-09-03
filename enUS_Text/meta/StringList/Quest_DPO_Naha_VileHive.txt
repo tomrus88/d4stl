@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Exterminate this oozing, vermin-filled nest.
+Hash: 33514A50, Key: Callback109Header, Value: Explore {WORLD:DGN_Naha_VileHive} and Slay {MONSTER}

@@ -12,3 +12,14 @@ Hash: C9C890B4, Key: RewardsTrial, Value: Trial Rewards
 Hash: 4FE7DB0C, Key: CellarComplete, Value: Cellar Complete
 Hash: CD370CF8, Key: VesselOfHatredComplete, Value: Vessel of Hatred
 Hash: E37FB752, Key: VesselOfHatredSubheader, Value: Event Completed
+Hash: ADDF24A4, Key: CitadelWingComplete, Value: Dark Citadel Wing Complete
+Hash: 13164EBB, Key: CitadelBossWingComplete, Value: Dark Citadel Conquered
+Hash: 63F60354, Key: SeasonalDungeon_Realmwalker_Complete, Value: [PH] Realm Cleansed
+Hash: EBAF2B3C, Key: TrialsofHatred, Value: Trials of Hatred 
+Hash: 2E8FAF93, Key: TrialsofNahantu, Value: Trials of Nahantu
+Hash: 1B135234, Key: ChampionDeeds, Value: Champion's Deeds
+Hash: C45FA599, Key: Complete, Value: Complete
+Hash: DCE4DDE5, Key: AdditionalChallengesAwait, Value: Additional Challenges Await
+Hash: 01434218, Key: DarkCitadel, Value: Dark Citadel
+Hash: A0469286, Key: Conquered, Value: Conquered
+Hash: 9D81DE94, Key: WeeklyCacheAward, Value: Weekly Challenger's Cache Awarded

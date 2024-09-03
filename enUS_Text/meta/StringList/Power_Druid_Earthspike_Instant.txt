@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: name, Value: Earth Spike
-Hash: 003892BF, Key: desc, Value: {if:SF_23}{c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
+Hash: 003892BF, Key: desc, Value: {if:SF_26}{c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
 {/if}{c_label}Generate Spirit:{/c_label} {c_resource}{SF_5}{/c_resource}
 {if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
 {/if}Sunder the earth, impaling the first enemy hit for {c_number}{payload:DAMAGE}{/c} damage.
@@ -12,3 +12,5 @@ Hash: D618A933, Key: Mod0_Description, Value: {c_important}{u}Fortify{/u}{/c} fo
 Hash: 9233D930, Key: Mod0_Name, Value: Fierce Earth Spike
 Hash: 2577B2B4, Key: Mod1_Description, Value: Summon a second {c_important}Earth Spike{/c} when hitting an Immobilized or Stunned enemy.
 Hash: 948901D1, Key: Mod1_Name, Value: Wild Earth Spike
+Hash: 62F3D8B8, Key: Mod5_Description, Value: Generate {c_number}[SF_23]{/c} additional Spirit when hitting Stunned enemies. {c_important}Earth Spike's{/c} chance to Stun is increased to {c_number}[{SF_22}*100|%|]{/c}. 
+Hash: 9DDDA455, Key: Mod5_Name, Value: Unbalancing Earth Spike

@@ -1,0 +1,6 @@
+Hash: 8F486C77, Key: Line1.189D19, Value: Ah, Varyana, how brave you are, returning to the land you sought to betray.
+Hash: DF7E9844, Key: VoiceDir1.189D19, Value: Faux friendliness, taunting on "brave" 
+Hash: 404FBFFB, Key: Line5.189D19, Value: I let you live then because you didn't matter. You still don't...but I won't be so gracious now.
+Hash: 9085EBC8, Key: VoiceDir5.189D19, Value: Emphasis on "then" and "don't" 
+Hash: 67CA4294, Key: Line3.18782A, Value: I came back for your head, Zolmog. I should have taken it years ago. I won't be leaving without it.
+Hash: B8006E61, Key: VoiceDir3.18782A, Value: Defiant.

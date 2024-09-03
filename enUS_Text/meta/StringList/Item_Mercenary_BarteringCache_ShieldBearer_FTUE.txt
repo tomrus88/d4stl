@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Coiling Ward Cache
+Hash: A646FFA4, Key: Description, Value: [PH] Contains between 2 and 5 Coiling Wards.

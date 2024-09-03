@@ -1,3 +1,8 @@
 Hash: 003DFCC1, Key: Name, Value: Rawhide
-Hash: A646FFA4, Key: Description, Value: Salvaged from, and used to improve, {c_important}Armor{/c}.
+Hash: A646FFA4, Key: Description, Value: Used to improve {c_important}Armor{/c} at the{icon:Marker_Blacksmith, 2}{c_important}Blacksmith{/c} and {icon:Marker_Essence, 2}{c_important}Occultist{/c}
+
+Collected from:
+{icon:bullet,1.2}{icon:Marker_Salvage, 2}{c_important}Salvaging Armor{/c} at the{icon:Marker_Blacksmith, 2}{c_important}Blacksmith{/c}
+{icon:bullet,1.2}{icon:Marker_DungeonCellar, 2}{c_highlight}Cellars{/c} 
+{icon:bullet,1.2}{c_important}Elite{/c} monsters
 Hash: F5C7BC0A, Key: Flavor, Value: Coarse, rugged leather used for garments, tools, and toys for the hounds of Sanctuary.

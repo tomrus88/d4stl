@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How have you survived this long? "
+Hash: 928E0F9B, Key: Line1.1EE414, Value: The spirit, Itope, saved me. She of Many Legs. The Soil Ruler. She guides me, protects me.
+Hash: 6B11B95D, Key: Line3.1EE414, Value: Itope abhors the dregs. They are rot without purpose. They take all and give nothing.
+Hash: 07DB0C19, Key: Line5.1EE414.Spi, Value: Let us fight them together, as spiritborn. Itope acts through us.

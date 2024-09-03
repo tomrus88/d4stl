@@ -142,3 +142,39 @@ Hash: 2547B55C, Key: Line2608.EDC73, Value: We should get moving.
 Hash: 5BB80869, Key: VoiceDir2608.EDC73, Value: relieved, catching breath
 Hash: F6B1E0F6, Key: Line2611.EDC73, Value: It is done.
 Hash: 2D223403, Key: VoiceDir2611.EDC73, Value: relieved, catching breath
+Hash: F0C621E8, Key: Line2616.1BB53F, Value: It’s over.
+Hash: F540D695, Key: VoiceDir2616.1BB53F, Value: relieved, catching breath
+Hash: B58BA08B, Key: Line2619.1BB53F, Value: We should get moving.
+Hash: BA065538, Key: VoiceDir2619.1BB53F, Value: relieved, catching breath
+Hash: B43B3F65, Key: Line2622.1BB53F, Value: Safe, at last.
+Hash: B8B5F412, Key: VoiceDir2622.1BB53F, Value: relieved, catching breath
+Hash: 0E679F74, Key: Line2671.1BB540, Value: It’s over.
+Hash: 12E25421, Key: VoiceDir2671.1BB540, Value: relieved, catching breath
+Hash: D32D1E17, Key: Line2674.1BB540, Value: We should get moving.
+Hash: D7A7D2C4, Key: VoiceDir2674.1BB540, Value: relieved, catching breath
+Hash: 97F29CBA, Key: Line2677.1BB540, Value: Safe, at last.
+Hash: 9C6D5167, Key: VoiceDir2677.1BB540, Value: relieved, catching breath
+Hash: ADA95993, Key: Line2660.1BB541, Value: It’s over.
+Hash: B2240E40, Key: VoiceDir2660.1BB541, Value: relieved, catching breath
+Hash: 726ED836, Key: Line2663.1BB541, Value: We should get moving.
+Hash: 76E98CE3, Key: VoiceDir2663.1BB541, Value: relieved, catching breath
+Hash: 373456D9, Key: Line2666.1BB541, Value: Safe, at last.
+Hash: 3BAF0B86, Key: VoiceDir2666.1BB541, Value: relieved, catching breath
+Hash: 1300F37B, Key: Line2649.1BB542, Value: (exhale) It’s over.
+Hash: 177BA828, Key: VoiceDir2649.1BB542, Value: relieved, catching breath
+Hash: 11B09255, Key: Line2652.1BB542, Value: We should get moving.
+Hash: 162B4702, Key: VoiceDir2652.1BB542, Value: relieved, catching breath
+Hash: D67610F8, Key: Line2655.1BB542, Value: Safe, at last.
+Hash: DAF0C5A5, Key: VoiceDir2655.1BB542, Value: relieved, catching breath
+Hash: B242AD9A, Key: Line2638.1BB543, Value: (exhale) It’s over.
+Hash: B6BD6247, Key: VoiceDir2638.1BB543, Value: relieved, catching breath
+Hash: B0F24C74, Key: Line2641.1BB543, Value: We should get moving.
+Hash: B56D0121, Key: VoiceDir2641.1BB543, Value: relieved, catching breath
+Hash: 75B7CB17, Key: Line2644.1BB543, Value: (exhale) Safe, at last.
+Hash: 7A327FC4, Key: VoiceDir2644.1BB543, Value: relieved, catching breath
+Hash: 518467B9, Key: Line2627.1BB544, Value: (gasp) It’s over.
+Hash: 55FF1C66, Key: VoiceDir2627.1BB544, Value: relieved, catching breath
+Hash: 50340693, Key: Line2630.1BB544, Value: (gasp) We should get moving.
+Hash: 54AEBB40, Key: VoiceDir2630.1BB544, Value: relieved, catching breath
+Hash: 14F98536, Key: Line2633.1BB544, Value: (gasp) Safe, at last.
+Hash: 197439E3, Key: VoiceDir2633.1BB544, Value: relieved, catching breath

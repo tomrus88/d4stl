@@ -238,3 +238,57 @@ Hash: DA2436D0, Key: Line548.B79AF, Value: Huh. Would you look at that?
 Hash: 311FDC3D, Key: VoiceDir548.B79AF, Value: Keen, but sloppy. Tipsy.
 Hash: AB8E626A, Key: Line551.B79AF, Value: That's a damn rare talent.
 Hash: 028A07D7, Key: VoiceDir551.B79AF, Value: Keen, but sloppy. Tipsy.
+Hash: 4B5D23DA, Key: Line556.1B3590, Value: Good, strong brew. I pray you won't need to use it.
+Hash: 81CD76E7, Key: VoiceDir556.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: 1022A27D, Key: Line559.1B3590, Value: These old hands can still do good work.
+Hash: 4692F58A, Key: VoiceDir559.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: 0ED24157, Key: Line562.1B3590, Value: Feels good to be useful.
+Hash: 45429464, Key: VoiceDir562.1B3590, Value: Weary, tired. Fighting back despair.
+Hash: AC2CF95C, Key: Line567.1C2635, Value: Now that'd make my old man proud.
+Hash: E29D4C69, Key: VoiceDir567.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: AADC9836, Key: Line570.1C2635, Value: I knew I could do it!
+Hash: E14CEB43, Key: VoiceDir570.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early.
+Hash: 6FA216D9, Key: Line573.1C2635, Value: Akarat's light! I'm almost sad to sell this one off.
+Hash: A61269E6, Key: VoiceDir573.1C2635, Value: Former apprentice, whose master died. He's taken up the reins too early. Akarat pronunciation: "ah-kah-rat"
+Hash: 0CD9B11E, Key: Line578.1B34DF, Value: Still got it in me!
+Hash: 434A042B, Key: VoiceDir578.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 0B894FF8, Key: Line581.1B34DF, Value: Damn proud of that one!
+Hash: 41F9A305, Key: VoiceDir581.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: D04ECE9B, Key: Line584.1B34DF, Value: Give 'em hell with that piece.
+Hash: 06BF21A8, Key: VoiceDir584.1B34DF, Value: One of the few adults in town, sent by Ormus to help the kids. Trying his best.
+Hash: 6DA98543, Key: Line589.1C2647, Value: We do good work here, see?
+Hash: A419D850, Key: VoiceDir589.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: 6C59241D, Key: Line592.1C2647, Value: I can make that forge sing.
+Hash: A2C9772A, Key: VoiceDir592.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: 311EA2C0, Key: Line595.1C2647, Value: Good parts, good hands, good product.
+Hash: 678EF5CD, Key: VoiceDir595.1C2647, Value: Suspicious. Eager to be done with dealing with the Player.
+Hash: 7F6E860D, Key: Line600.1B3623, Value: Mmm. Pure artistry, as expected.
+Hash: B5DED91A, Key: VoiceDir600.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: 443404B0, Key: Line603.1B3623, Value: Oh, how fun!
+Hash: 7AA457BD, Key: VoiceDir603.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: 08F98353, Key: Line606.1B3623, Value: Now that'll earn you compliments.
+Hash: 3F69D660, Key: VoiceDir606.1B3623, Value: Experimental, avant-garde, highly opinionated and confident
+Hash: E02CC8A6, Key: Line611.1B358E, Value: (sniffs) Ah, pungent!
+Hash: 169D1BB3, Key: VoiceDir611.1B358E, Value: Absorbed in her work. Impatient.
+Hash: A4F24749, Key: Line614.1B358E, Value: This one's not for the faint of heart. (sniffs)
+Hash: DB629A56, Key: VoiceDir614.1B358E, Value: Absorbed in her work. Impatient.
+Hash: 69B7C5EC, Key: Line617.1B358E, Value: (sniffs) That'll put some hair on your chest!
+Hash: A02818F9, Key: VoiceDir617.1B358E, Value: Absorbed in her work. Impatient.
+Hash: 40EB0EA8, Key: Line622.1B359D, Value: My glory days aren't over yet.
+Hash: 775B61B5, Key: VoiceDir622.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: 05B08D4B, Key: Line625.1B359D, Value: Sturdy and balanced. Hm. Damn fine piece.
+Hash: 3C20E058, Key: VoiceDir625.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: CA760BEE, Key: Line628.1B359D, Value: (chuckles)
+Hash: 00E65EFB, Key: VoiceDir628.1B359D, Value: Older guy, used to be a fighter but has taken to smithing in his older years.
+Hash: A1A95439, Key: Line633.1B3584, Value: As fine as the relics of old!
+Hash: D819A746, Key: VoiceDir633.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 666ED2DC, Key: Line636.1B3584, Value: (gasps) Remarkable!
+Hash: 9CDF25E9, Key: VoiceDir636.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 2B34517F, Key: Line639.1B3584, Value: Utterly timeless.
+Hash: 61A4A48C, Key: VoiceDir639.1B3584, Value: A mage pupil of Ormus, academic and curious.
+Hash: 02679A6E, Key: Line644.1B359F, Value: To wield this piece is a dark responsibility.
+Hash: 38D7ED7B, Key: VoiceDir644.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: C72D1911, Key: Line647.1B359F, Value: The spirits guide my hand!
+Hash: FD9D6C1E, Key: VoiceDir647.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.
+Hash: C5DCB7EB, Key: Line650.1B359F, Value: True power is a terrible thing.
+Hash: FC4D0AF8, Key: VoiceDir650.1B359F, Value: An elder well-versed in Spiritborn magics, though he never passed his own rites.

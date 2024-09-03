@@ -1,0 +1,2 @@
+Hash: 003892BF, Key: Desc, Value: Your Skills are all additionally {c_important}Jaguar{/c}, {c_important}Eagle{/c}, {c_important}Gorilla{/c}, or {c_important}Centipede{/c} Skills based on your secondary Spirit Hall choice.
+Each Spirit type a Skill has increases its damage by {c_random}[Affix_Value_1*100|%x|]{/c}.

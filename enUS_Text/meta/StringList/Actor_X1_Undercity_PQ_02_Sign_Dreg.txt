@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Twitching Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: Something ripples beneath this dreg's skin—corded muscles, convulsing in waves. You're hit with a sudden rush of nausea.

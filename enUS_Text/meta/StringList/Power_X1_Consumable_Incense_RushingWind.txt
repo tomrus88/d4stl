@@ -1,0 +1,4 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Rushing Wind
+Hash: 2827F416, Key: Buff0_Description, Value: Increases Move Speed. Further increased for each nearby player with the same buff.
+Hash: 12713EB5, Key: Buff2_Name, Value: Rushing Wind
+Hash: C6E60718, Key: Buff2_Description, Value: Move Speed increased.

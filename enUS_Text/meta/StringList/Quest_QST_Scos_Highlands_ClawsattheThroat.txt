@@ -1,17 +1,17 @@
+Hash: 9F90DE2D, Key: Callback7Header, Value: Ask around Under the Fat Goose Inn about the slain merchant
+Hash: 1F9943DA, Key: Callback13Header, Value: Search for the missing merchants
+Hash: A07C739F, Key: Callback18Header, Value: Show Torben the {ITEM:QST_ITM_Scos_ClawsattheThroat_WornInsignia}
 Hash: 003DFCC1, Key: Name, Value: Claws at the Throat
 Hash: 0871A46B, Key: Toast, Value: Something sinister stalks the shadows of the Highland Wilds.
 Hash: D53BFF05, Key: Phase0Description, Value: I found a dead merchant along the road. His throat was clashed out, but none of his wares were stolen or rummaged through.
 
 Perhaps someone knows about the merchant at the Under the Fat Goose Inn.
-Hash: 9F90DE2D, Key: Callback7Header, Value: Ask around Under the Fat Goose Inn about the slain merchant
-Hash: 61CFD437, Key: Phase11Description, Value: Torben is not familiar with man or beast who would leave a body so bizarrely displayed as the merchant I found. A local claimed it was “The Bear of Blackweald,” a fabled killer from the Days of Ash.
-
-Other merchants have been late to arrive at the Goose, as well. Torben wants me to search the eastern roads for any sign of their absence.
-Hash: 1F9943DA, Key: Callback13Header, Value: Search for the missing merchants
 Hash: E96ABF3F, Key: Phase19Description, Value: I found another dead merchant along the roads. This time, I was attacked by bandits when I investigated the corpse. Something was off about them, leaving a ritually displayed merchant to draw passersby.
 
 The merchant had a worn insignia clutched in their hand—clearly not their own. I should take it to Torben and see what he can make of the item. 
-Hash: A07C739F, Key: Callback18Header, Value: Show Torben the Worn Insignia
+Hash: 61CFD437, Key: Phase11Description, Value: Torben is not familiar with man or beast who would leave a body so bizarrely displayed as the merchant I found. A local claimed it was “The Bear of Blackweald,” a fabled killer from the Days of Ash.
+
+Other merchants have been late to arrive at the Goose, as well. Torben wants me to search the eastern roads for any sign of their absence.
 Hash: 008DE739, Key: Phase31Description, Value: Torben is not familiar with man or beast who would leave a body so bizarrely displayed as the merchant I found. A local claimed it was “The Bear of Blackweald,” a fabled killer from the Days of Ash.
 
 Other merchants have been late to arrive at the Goose, as well. Torben wants me to search the eastern roads for any sign of their absence.

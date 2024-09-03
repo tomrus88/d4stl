@@ -72,3 +72,6 @@ Hash: D3490706, Key: IntellisenseCharacterNameFormat, Value: {s1} ({s2})
 Hash: D473CB00, Key: ChatPlaceholderTextChatDisabled, Value: Chat limited / typing blocked
 Hash: 56C35A41, Key: ClanChannelNameFormat, Value: {s1} - {s2}
 Hash: 044C3ABF, Key: SeasonJourneyObjectiveEarned, Value: {s1} completed a Seasonal Objective: {s2}
+Hash: D8B9E93C, Key: BattleLabel, Value: Battle Log
+Hash: 2C872873, Key: BattleTabLabel, Value: {icon:Social_CombatLog, 1.8}
+Hash: ADB10333, Key: ChatBlockedNoProfanityFilter, Value: [PH] Chat access will be blocked until profanity filter is initialized.

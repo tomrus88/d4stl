@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Glowing Brazier
+Hash: F2CA04D8, Key: NoticeSignText, Value: A chill breeze touches your ear as you pass the small brazier, and for a moment you swear you can hear the whispers of the dead emanating from within the brazier's soft glow. 

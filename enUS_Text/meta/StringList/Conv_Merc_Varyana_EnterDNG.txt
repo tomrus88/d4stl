@@ -1,0 +1,4 @@
+Hash: 8F4698D2, Key: Line1.18782A, Value: We’ll need sharp knives in here.
+Hash: 67CA4294, Key: Line3.18782A, Value: I don't like this place.
+Hash: 404DEC56, Key: Line5.18782A, Value: No fears, dear, we'll be up to the task.
+Hash: 18D19618, Key: Line7.18782A, Value: Beware what the shadows hide.

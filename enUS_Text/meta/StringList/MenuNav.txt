@@ -31,3 +31,5 @@ Hash: 139C13E9, Key: Season, Value: Season
 Hash: 3AB872D3, Key: IndicatorAnniversary_Text, Value: Anniversary
 Hash: 0FC1B6A4, Key: IndicatorPreOrder_Text, Value: Pre-purchase
 Hash: 5C53B6C6, Key: NotInClan, Value: Clan (Not in a clan)
+Hash: 03F119AE, Key: Mercenaries, Value: Mercenaries
+Hash: 7F126EA4, Key: SpiritbornMechanic, Value: Spirit Hall

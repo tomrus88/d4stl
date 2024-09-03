@@ -6,3 +6,6 @@ Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Inferno{/c} repeatedl
 Hash: 948901D1, Key: Mod1_Name, Value: Prime Inferno
 Hash: 74D6BC35, Key: Mod2_Description, Value: While {c_important}Inferno{/c} is active, your {c_important}Pyromancy{/c} Skills cost no Mana.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Supreme Inferno
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}[{dot:BUFF_BURNING} * SF_3]{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

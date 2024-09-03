@@ -1,2 +1,3 @@
+Hash: F5C7BC0A, Key: Flavor, Value: Shining bright, these shards are eager to become whole.
 Hash: 003DFCC1, Key: Name, Value: Diamond Fragment
 Hash: A646FFA4, Key: Description, Value: Shards of Diamond, which can be made into a Gem at the Jeweler.

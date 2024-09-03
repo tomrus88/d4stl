@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cursed Child Acquisition Quest
+Hash: 003892BF, Key: Desc, Value: QST_Naha_CursedChild_Acquisition achievement

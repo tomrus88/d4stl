@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Evoke the Sorcerer's {c_important}Meteorites{/c}, dealing damage to enemies.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Inferno
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Increased Meteorites Spawned
+Hash: 003DFCC1, Key: Name, Value: Ton

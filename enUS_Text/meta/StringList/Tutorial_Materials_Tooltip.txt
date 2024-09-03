@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Material Cost
+Hash: 7BFE534B, Key: simple_instruction, Value: Press {icon:rmb,2.0} to show {c_highlight}more information{/c} about the item's {c_highlight}Material cost{/c}.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Press {icon:button3, 2.0} to show {c_highlight}more information{/c} about the item's {c_highlight}Material cost{/c}.

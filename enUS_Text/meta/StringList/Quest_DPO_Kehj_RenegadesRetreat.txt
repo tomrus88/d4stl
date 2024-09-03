@@ -1,4 +1,4 @@
 Hash: 003DFCC1, Key: Name, Value: How far the righteous have fallen.
 Hash: 3FC40BBF, Key: Callback27Header, Value: Slay the Keepers: {LEFT}
-Hash: 059C64AB, Key: Callback5Header, Value: Use the Treasure Room Key to open the {GIZMO}
+Hash: 059C64AB, Key: Callback5Header, Value: Use the {ITEM:DGN_Kehj_RenegadesRetreat_Key} to open the {GIZMO}
 Hash: EC8B1AEE, Key: Callback8Header, Value: Defeat the {MONSTER}

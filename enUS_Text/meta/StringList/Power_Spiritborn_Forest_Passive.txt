@@ -1,0 +1,3 @@
+Hash: 101C1614, Key: Buff1_Name, Value: (PH) Resolve
+Hash: 7786FD97, Key: Buff1_Description, Value: (PH) {c_important}{u}Resolve{/u}{/c}
+The Gorilla provides retribution and resilience.

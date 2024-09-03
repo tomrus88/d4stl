@@ -1,0 +1,8 @@
+Hash: A7E8C20B, Key: Line19.19EFE1, Value: Help, please!
+Hash: BA568C04, Key: Line21.19EFE1, Value: Let us out!
+Hash: 30235E2B, Key: Line28.19EFE1, Value: Help us!
+Hash: 92DA35C8, Key: Line23.19EFE3, Value: Help me!
+Hash: 6B5DDF8A, Key: Line25.19EFE3, Value: Please save us!
+Hash: 2ED2FD07, Key: Line31.19EFE3, Value: Free us!
+Hash: 2B6E01F2, Key: Line50.192BF3, Value: Help!
+Hash: F0338095, Key: Line53.192BF3, Value: Open the cage!

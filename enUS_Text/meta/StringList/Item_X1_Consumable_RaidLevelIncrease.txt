@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scroll of Khazra Shards
+Hash: A646FFA4, Key: Description, Value: Use to Increase the level of monsters by 10 and rewards in the Rise of the First Khazra Dark Citadel.

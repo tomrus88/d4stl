@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Discover what hides in the shadows.
+Hash: 6FE82F7E, Key: Callback62Header, Value: Explore {WORLD:DGN_Naha_FaraiCliffs} and Slay {MONSTER}

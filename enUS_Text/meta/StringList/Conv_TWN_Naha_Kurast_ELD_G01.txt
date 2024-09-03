@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 9268B979, Key: Line1.1CC146, Value: Ack, spiritborn? We are Kehjistani, you were raised in the Zakarum faith.
+Hash: E29EE546, Key: VoiceDir1.1CC146, Value: Confused, but not angry. Just wants to understand.
+Hash: 6AEC6369, Key: Line3.1CC14D, Value: I dream of Umbaru, I see myself there. I've not turned my back on Akarat, just seeing his light through a new lens.
+Hash: BB228F36, Key: VoiceDir3.1CC14D, Value: Calmly explaining. Really wants his father to understand, but isn't angry or forceful. You can hear the happiness in his voice as he shares his perspective.
+Hash: 43700CFD, Key: Line5.1CC146, Value: I speak of heritage. The one that is within you as it is in your mother. Give me time. Your mother more so. We will come to terms with this.
+Hash: 93A638CA, Key: VoiceDir5.1CC146, Value: Sighing. Fatherly and caring. Tired, but knowing.

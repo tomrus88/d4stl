@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Grimoire
+Hash: F2CA04D8, Key: NoticeSignText, Value: A sketch of a snake, its scales carved with runes, its fangs bulging unnaturally. On the next page, a prison—circle upon circle of cages and the snakes trapped within.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are you feeling?"
+Hash: 6AC2D8DD, Key: Line3.1B8979, Value: Better. Thank you, wanderer.
+Hash: BAF904AA, Key: VoiceDir3.1B8979, Value: Relieved, uplifted.
+Hash: 1BCA2A18, Key: Line7.1B87FC, Value: You have truly helped. We must be vigilant against those that threaten our spirits.
+Hash: 6C0055E5, Key: VoiceDir7.1B87FC, Value: Thankful, warm, grateful.

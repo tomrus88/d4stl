@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Pounce
+Hash: 003892BF, Key: desc, Value: (PH) Recast within {c_number}{SF_5}{/c} seconds to {c_important}Pounce{/c} again.
+Hash: 1970B898, Key: Buff5_Name, Value: (PH) Pounce Bonus
+Hash: B503239B, Key: Buff5_Description, Value: (PH) Next Skill does bonus damage.

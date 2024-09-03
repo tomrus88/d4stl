@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Withered Lacuni
+Hash: F2CA04D8, Key: NoticeSignText, Value: The emaciated corpse of a lacuni warrior. Her skin is stretched tight against the bone, her fur dry. She starved to death.

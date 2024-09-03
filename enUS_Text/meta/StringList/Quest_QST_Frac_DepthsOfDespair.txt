@@ -1,18 +1,18 @@
 Hash: 003DFCC1, Key: Name, Value: Depths of Despair
-Hash: 0871A46B, Key: Toast, Value: Sister Octavia once again needs your assistance with a suspected demonic possession.
-Hash: D53BFF05, Key: Phase0Description, Value: I have encountered Sister Octavia again, this time attempting to help a wife who fears her husband has been possessed by a demon. She has asked for my help once again to exorcise the demon, if it exists.
-Hash: 059C64AB, Key: Callback5Header, Value: Enter the Ominous Cellar
-Hash: 5CD6EA0D, Key: Phase8Description, Value: I have encountered Sister Octavia again, this time attempting to help a woman named Kvera who fears her husband has been possessed by a demon. She has asked for my help once again to exorcise the demon, if it exists.
 Hash: 9F90DE2D, Key: Callback7Header, Value: Enter the Ominous Cellar
+Hash: 1F9943DA, Key: Callback13Header, Value: Chase Vasek
+Hash: 0871A46B, Key: Toast, Value: Sister Octavia once again needs your assistance with a suspected demonic possession.
+Hash: 0687FA1D, Key: Callback16Header, Value: Enter the Kyovashad Sewers
+Hash: ED76B060, Key: Callback19Header, Value: Speak with Sister Octavia outside
+Hash: 9211671E, Key: Callback35Header, Value: Enter the Kyovashad Sewers
+Hash: 79001D61, Key: Callback38Header, Value: Check on Kvera outside
+Hash: 059C64AB, Key: Callback5Header, Value: Enter the Ominous Cellar
+Hash: D53BFF05, Key: Phase0Description, Value: I have encountered Sister Octavia again, this time attempting to help a wife who fears her husband has been possessed by a demon. She has asked for my help once again to exorcise the demon, if it exists.
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I have encountered Sister Octavia again, this time attempting to help a woman named Kvera who fears her husband has been possessed by a demon. She has asked for my help once again to exorcise the demon, if it exists.
 Hash: F4A9EC5A, Key: Phase14Description, Value: Kvera's husband Vasek was hiding elsewhere in the house, and escaped the moment we entered the cellar! Even now, he is terrorizing the streets of Kyovashad! 
 
 We must hurry and stop him before more are hurt!
-Hash: 1F9943DA, Key: Callback13Header, Value: Chase Vasek
 Hash: 8784047D, Key: Phase17Description, Value: Vasek has torn apart the bars sealing the sewers and ducked inside. We must find him and exorcise the demon quickly!
-Hash: 0687FA1D, Key: Callback16Header, Value: Enter the Kyovashad Sewers
 Hash: 803B8057, Key: Phase20Description, Value: Sister Octavia's exorcism ritual could not save Vasek. The demon hiding inside him burst forth and in its dying gasp, almost froze us both.
-Hash: ED76B060, Key: Callback19Header, Value: Speak with Sister Octavia outside
 Hash: F54EBA1E, Key: Phase36Description, Value: Vasek has torn apart the bars sealing the sewers and ducked inside. We must find him and exorcise the demon quickly!
-Hash: 9211671E, Key: Callback35Header, Value: Enter the Kyovashad Sewers
 Hash: 8828D241, Key: Phase39Description, Value: Kvera's husband doesn't seem to be in the cellar... Where has he gone?
-Hash: 79001D61, Key: Callback38Header, Value: Check on Kvera outside

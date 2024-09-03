@@ -1,0 +1,8 @@
+Hash: 730059E6, Key: Line1.BAE4.Bar, Value: Ah, the corruption is fading.
+Hash: A970ACF3, Key: VoiceDir1.BAE4.Bar, Value:  (Relief) 
+Hash: 7300649C, Key: Line1.BAE4.Dru, Value: Ah, the corruption is fading.
+Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: Ah, the corruption is fading.
+Hash: 7300A405, Key: Line1.BAE4.Sor, Value: Ah, the corruption is fading.
+Hash: 7300A41D, Key: Line1.BAE4.Spi, Value: Ah, the corruption is fading.
+Hash: 73008D67, Key: Line1.BAE4.Nec, Value: With the corruption gone, I can finally feel the souls of the Priests of Rathma before me. A forgotten place with great importance.
+Hash: A970E074, Key: VoiceDir1.BAE4.Nec, Value: (Relief & Nostalgia)

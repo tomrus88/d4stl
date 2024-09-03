@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: name, Value: Transfusion
-Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Your {c_important}Blood{/c} Skills have up to a {c_number}{SF_0}%{/c} chance to create a {c_important}{u}Blood Orb{/u}{/c} at the target's location. This can only occur once every  {c_number}{SF_1}{/c} seconds.
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Your {c_important}Blood{/c} Skills have up to a {c_number}{SF_0}%{/c} chance to create a {c_important}{u}Blood Orb{/u}{/c} at the target's location. This can only occur once every {c_number}{SF_1}{/c} seconds.
 
 This chance is doubled against Bosses.
 Hash: F2D5722F, Key: rankup_desc, Value: 

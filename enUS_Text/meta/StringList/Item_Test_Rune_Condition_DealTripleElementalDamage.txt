@@ -1,0 +1,3 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneCondition}Deal three different damage types to an enemy{/c}
+Hash: ECF72407, Key: RunewordPhrasePrefix, Value: Tal Rasha's
+Hash: 003DFCC1, Key: Name, Value: Cip

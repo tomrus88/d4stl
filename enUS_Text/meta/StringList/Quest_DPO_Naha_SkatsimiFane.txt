@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A sacrilege in return for passage.
+Hash: D9F04ECB, Key: Callback203Header, Value: Explore {WORLD:DGN_Naha_SkatsimiFane} and Slay {MONSTER}

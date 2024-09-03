@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Test Rune Debug Elixer
+Hash: A646FFA4, Key: Description, Value: Used to test Runes
+Hash: F5C7BC0A, Key: Flavor, Value: Please break the game -- Your friendly neighborhood Rune Balance Designer.

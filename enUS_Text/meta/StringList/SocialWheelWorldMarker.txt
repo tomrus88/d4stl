@@ -1,0 +1,10 @@
+Hash: A5E9F57A, Key: WorldMarkerName_0, Value: Clear All Markers
+Hash: A5E9F583, Key: WorldMarkerName_9, Value: Circle Marker
+Hash: A5E9F57B, Key: WorldMarkerName_1, Value: Square Marker
+Hash: A5E9F57C, Key: WorldMarkerName_2, Value: Star Marker
+Hash: A5E9F57D, Key: WorldMarkerName_3, Value: Diamond Marker
+Hash: A5E9F57E, Key: WorldMarkerName_4, Value: Triangle Marker
+Hash: A5E9F57F, Key: WorldMarkerName_5, Value: Assist
+Hash: A5E9F580, Key: WorldMarkerName_6, Value: Warning
+Hash: A5E9F581, Key: WorldMarkerName_7, Value: Attack
+Hash: A5E9F582, Key: WorldMarkerName_8, Value: On My Way

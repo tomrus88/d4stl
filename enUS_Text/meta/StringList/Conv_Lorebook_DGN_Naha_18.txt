@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Knight's Complaint
+Hash: 923DBE8D, Key: Line1.1B4ED6, Value: I didn’t become a Knight to pursue this kind of useless duty. Lost in the canyons, like rats in a maze, searching for this Neyrelle girl, who is nowhere to be found.
+Hash: 6AC1684F, Key: Line3.1B4ED6, Value: More like we’re waiting for some beasts… or worse… to surprise us around the next bend. We’ll never find our way out of here, at least in this life.

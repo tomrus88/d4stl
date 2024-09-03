@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Something lives and grows.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Explore {WORLD:DGN_Naha_RemnantsofRage} and Slay {MONSTER}

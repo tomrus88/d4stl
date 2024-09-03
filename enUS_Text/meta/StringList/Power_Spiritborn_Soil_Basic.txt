@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Spore Pod
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Generate Vigor:{/c_label} {c_resource}{SF_0}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}Create a small fungal pod that bursts on contact with an enemy, releasing a spore that deals {c_number}{payload:IMPACT}{/c} damage and applies {c_number}{dot:POISON_DOT}{/c} Poisoning damage over {c_number}[{buffduration:POISON_DOT}]{/c} seconds to enemies in the area and generates {c_number}[{SF_0}]{/c} Vigor. 
+
+Every {c_number}3rd{/c} cast creates a larger pod and lobs {c_number}3{/c} additional spores when it bursts.
+Hash: F2D5722F, Key: rankup_desc, Value: (PH) 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
+{icon:bullet, 1.2} Poisoning Damage {icon:arrow, 1.2} {c_number}{dot:POISON_DOT}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: (PH) {c_label}Lucky Hit:{/c} Damaging an enemy Poisoned by {c_important}Spore Pod{/c} has up to a {c_number}[{SF_18}|%|]{/c} chance to release a spore in a random direction.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Spore Pod Enhancement
+Hash: 2577B2B4, Key: Mod1_Description, Value: (PH) Casting {c_important}Spore Pod{/c} now instantly creates {c_number}{SF_17}{/c} pods around you instead.
+Hash: 948901D1, Key: Mod1_Name, Value: (PH) Spore Pod Upgrade A
+Hash: 74D6BC35, Key: Mod2_Description, Value: (PH) When {c_important}Spore Pod{/c} bursts on an enemy there is a {c_number}[{SF_15}|%|]{/c} chance to regrow another pod at that location {c_number}[{SF_16}|2|]{/c} seconds later.
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Spore Pod Upgrade B
+Hash: 99335313, Key: Mod3_Name, Value: (PH) Soil Basic Upgrade C
+Hash: 1394CF37, Key: Mod4_Description, Value: (PH) Activates Soil Basic Empowerment
+Hash: 9B887BB4, Key: Mod4_Name, Value: (PH) Soil Spirit

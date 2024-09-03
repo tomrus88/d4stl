@@ -1,0 +1,6 @@
+Hash: F9BC639C, Key: Line15.1C0FE1, Value: You've been trapped too long, brethren! Come to me!
+Hash: 50B80909, Key: VoiceDir15.1C0FE1, Value: in battle, operating a large unwieldy device (the Basin)
+Hash: D2400D5E, Key: Line17.1C0FE1, Value: Fly, souls! Your time in that hellhole is done!
+Hash: 293BB2CB, Key: VoiceDir17.1C0FE1, Value: The speaker for the Payloads is a Spiritborn in their 30's whose primary focus is the operation of a mage clan device based on spiritborn techniques. They'll be distracted by their efforts to operate the device while speaking.
+Hash: D0EFAC38, Key: Line20.1C0FE1, Value: There! I can sense them. Let's guide those souls to freedom!
+Hash: 27EB51A5, Key: VoiceDir20.1C0FE1, Value: The speaker for the Payloads is a Spiritborn in their 30's whose primary focus is the operation of a mage clan device based on spiritborn techniques. They'll be distracted by their efforts to operate the device while speaking.

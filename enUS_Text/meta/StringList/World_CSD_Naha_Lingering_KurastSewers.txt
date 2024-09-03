@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kurast Undercity
+Hash: 003892BF, Key: Desc, Value: The long forgotten foundation of the ancient city.

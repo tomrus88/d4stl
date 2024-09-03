@@ -1,0 +1,3 @@
+Hash: 92462E2D, Key: Line1.1AF17F, Value: I’ll be damned. Seems like the Hollows are finally losing numbers. There’s still stragglers out there. But I feel it in my bones.
+Hash: 6AC9D7EF, Key: Line3.1AF17F, Value: One day soon, I’m going to stand up and walk right out of here.
+Hash: BB0003BC, Key: VoiceDir3.1AF17F, Value: giddy

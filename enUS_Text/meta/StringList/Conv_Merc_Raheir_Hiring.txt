@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hire Mercenary
+Hash: F90B494A, Key: Line810.189135, Value: My shield is yours.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: happy
+Hash: D18EF30C, Key: Line812.189135, Value: I’ll watch your back.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: happy
+Hash: AA129CCE, Key: Line814.189135, Value: Honored to help, friend.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: happy

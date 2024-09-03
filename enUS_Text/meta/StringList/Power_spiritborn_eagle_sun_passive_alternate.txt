@@ -1,0 +1,5 @@
+Hash: 003892BF, Key: desc, Value: Casting an {c_important}Eagle{/c} Skill grants {c_number}[SF_6]{/c} Storm Feathers, up to a maximum of {c_number}[SF_7]{/c}. When you {c_important}Evade{/c}, up to {c_number}[SF_11]{/c} Storm Feathers are fired dealing {c_number}{payload:VULNERABLE_PAYLOAD}{/c} Lightning damage and making targets {c_important}{u}Vulnerable{/u}{/c} for {c_number}[SF_5]{/c} seconds.
+
+All Skills are now also {c_important}Eagle{/c} Skills.
+Hash: 1970B898, Key: Buff5_Name, Value: Storm Feather
+Hash: B503239B, Key: Buff5_Description, Value: Using Evade will send forth stored Storm Feathers.

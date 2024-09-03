@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Strange Stone
+Hash: F5C7BC0A, Key: Flavor, Value: A broken, flat stone with a dulled gem set in the center.
+Hash: A646FFA4, Key: Description, Value: Bound to Five Hills

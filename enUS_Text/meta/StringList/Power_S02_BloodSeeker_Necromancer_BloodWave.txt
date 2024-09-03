@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Blood Wave
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Conjure a tidal wave of blood that deals {c_number}{payload:DAMAGE}{/c} damage and Knocks Back enemies.
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Blood Wave{/c} Slows enemies by {c_number}[SF_7*100|%|]{/c} for {c_number}{buffduration:BUFF_SLOW}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Prime Blood Wave
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Blood Wave{/c} leaves behind {c_number}3{/c} {c_important}{u}Blood Orbs{/u}{/c} as it travels.
+Hash: 99335313, Key: Mod3_Name, Value: Supreme Blood Wave

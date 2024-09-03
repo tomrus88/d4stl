@@ -21,3 +21,4 @@ Hash: C719EB85, Key: Quest_Blocked, Value: {c_highlight}Complete previous Quest 
 Hash: 349EA4AD, Key: SeasonalSideQuest, Value: Seasonal Side Quest
 Hash: 36770BFB, Key: RewardQuestDescription, Value: Receive a new Seasonal Side Quest
 Hash: 43EE2496, Key: Quest_Count_Completed, Value: {c_green}{s1}/{s2}{/c}
+Hash: 7F39FA9D, Key: Tooltip_Reward_MercenarySkillPoint, Value: + {icon:MercSkill_Icon, 1.9} {c_gold}{s1}{/c} Skill Point

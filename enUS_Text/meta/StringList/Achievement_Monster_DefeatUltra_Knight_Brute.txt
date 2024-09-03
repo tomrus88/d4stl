@@ -1,2 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: The Apostasy of the Penitent
-Hash: 003892BF, Key: Desc, Value: Defeat Tormented Echo of Grigoire in {icon:Icon_WorldTier_4, 2.5} Torment.

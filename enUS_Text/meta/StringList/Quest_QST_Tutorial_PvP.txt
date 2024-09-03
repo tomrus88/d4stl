@@ -3,3 +3,4 @@ Hash: F54EBA1E, Key: Phase36Description, Value: This land is steeped in the esse
 
 Seek out the local priest in Alzuuda to learn more about Fields of Hatred.
 Hash: 79001D61, Key: Callback38Header, Value: Speak with Erol
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: PvP

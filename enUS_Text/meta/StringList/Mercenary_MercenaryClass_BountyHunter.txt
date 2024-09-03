@@ -1,0 +1,7 @@
+Hash: 086EAA02, Key: Title, Value: The Bounty Hunter
+Hash: EFB4D807, Key: PlaystyleA_Label, Value: Longbow with Traps
+Hash: B8CA2B6B, Key: PlaystyleA_Description, Value: Apply Knockdown, Root, Slow, Stun, and Vulnerable to enemies.
+Buff player's critical strike damage and movement speed.
+Hash: 3CAF14C8, Key: PlaystyleB_Label, Value: Crossbow with Explosives
+Hash: 082934EC, Key: PlaystyleB_Description, Value: Apply Burning, knockback, and Stun to enemies.
+Buff player's Cooldown Reduction, Damage to Burning, Lucky Hit chance, Overpower damage, and potion drop rate.

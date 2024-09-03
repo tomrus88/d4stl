@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: Scorched Debts
 Hash: 0871A46B, Key: Toast, Value: A strange smoldering book lays abandoned.
-Hash: 059C64AB, Key: Callback5Header, Value: Speak to Andreea about the scorched ledger
+Hash: 059C64AB, Key: Callback5Header, Value: Speak to Andreea about the {ITEM:QST_Step_DemonLedger_DebtBook}
 Hash: 8DCA476E, Key: Phase9Description, Value: Andreea flew into a terrified rage when I showed her the ledger. I was forced to defend myself, but when she fell, her body was consumed in hellfire! This book is clearly more than it appears. 
 
 Andreea mentioned finding the book in Ked Bardu. Someone there must know more.
@@ -28,4 +28,4 @@ Hash: 9012F763, Key: Callback76Header, Value: Speak with Lyruk about the ledger
 Hash: 63BE3D83, Key: Phase77Description, Value: The ledger refused the flames, and instead exploded in demonic magic! Perhaps Lyruk has another idea to destroy this cursed book.
 Hash: AE775FBE, Key: Callback80Header, Value: Speak with Lyruk again
 Hash: A5EDB22B, Key: Phase105Description, Value: I've found an unsettling ledger of names. Who does this belong to?
-Hash: 995CD0CE, Key: Callback107Header, Value: Pick up the Scorched Debt Ledger
+Hash: 995CD0CE, Key: Callback107Header, Value: Pick up the {ITEM:QST_Step_DemonLedger_DebtBook}

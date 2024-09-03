@@ -1,4 +1,4 @@
 Hash: 003DFCC1, Key: Name, Value: The Weight of Gold
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor
 Hash: A646FFA4, Key: Description, Value: The golden symbols of the cathedral, shown as irresistible beacons for Klath-Ulna's vengeance. And any he attended would soon peal no more.
 Hash: 083EE0CE, Key: Quote, Value: The road to revenge is paved with blood and gold.
-Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

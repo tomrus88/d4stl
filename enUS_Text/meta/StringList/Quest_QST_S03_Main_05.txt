@@ -1,3 +1,4 @@
+Hash: B3C459B3, Key: Callback193Header, Value: Gather a Pearl of Warding from Heralds of Malphas
 Hash: 003DFCC1, Key: Name, Value: Drums of the Vault
 Hash: 4FEAF248, Key: Phase120Description, Value: I freed what villagers I could. Now to return to the Gatehall and tell Ayuzhan what I found.
 Hash: 1F931F31, Key: Callback119Header, Value: Speak with Ayuzhan in the Gatehall
@@ -9,4 +10,3 @@ Hash: 08793AB1, Key: Phase129Description, Value: I have the materials Ayuzhan ne
 Hash: BEDAB751, Key: Callback128Header, Value: Upgrade the Seneschal using the Brazier in the Gatehall
 Hash: 940ACEAE, Key: Phase135Description, Value: I succeeded in upgrading the Seneschal. I should inform Ayuzhan.
 Hash: 7733992E, Key: Callback134Header, Value: Speak with Ayuzhan
-Hash: B3C459B3, Key: Callback193Header, Value: Gather a Pearl of Warding from Heralds of Malphas

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you plan to restore this place alone?"
+Hash: 9251C081, Key: Line1.1C93F4, Value: Not entirely. I have Friedrick and Cassian to keep me company. In time, I hope that more Priests of Rathma will congregate here and join the restoration.
+Hash: 1BDCBDC7, Key: Line7.1C93F4, Value: Not entirely. I have Friedrick and Cassian to keep me company. Seeing as Kyros here has already joined the effort, I believe more of our order will join us in the future.
+Hash: 6AC0856A, Key: Line3.1B4181, Value: And I shall continue in my effort to open the gates, though the notes my master left me are...cryptic, at best. Regardless, if you need healing during your stay, speak with Gnosis, my retainer.
+Hash: 43591405, Key: Line5.1C93F4, Value: Well spoken, Kyros. This effort may take years, but some day I believe our order will have a home once again. In the meantime, avail yourself of our services as much as you need.

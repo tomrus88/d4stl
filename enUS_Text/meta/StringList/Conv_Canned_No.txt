@@ -4,4 +4,17 @@ Hash: 750F197D, Key: Line16.BAE4.Nec, Value: I refuse.
 Hash: 750EF0B2, Key: Line16.BAE4.Dru, Value: I cannot.
 Hash: 750F301B, Key: Line16.BAE4.Sor, Value: I will not.
 Hash: 750F2BCF, Key: Line16.BAE4.Rog, Value: I will not.
+Hash: 750F3033, Key: Line16.BAE4.Spi, Value: I will not.
 Hash: AFDD2476, Key: Line22.BAE4, Value: Impossible.
+Hash: B6DC9E59, Key: Line25.BAE4, Value: No.
+Hash: 25E60486, Key: VoiceDir25.BAE4, Value: Spoken to an NPC. The Player is hesitant--not suspicious, but uncomfortable about denying the NPC help or answering their question in the negative.
+Hash: BB86EF9B, Key: Line27.BAE4, Value: No.
+Hash: 2A9055C8, Key: VoiceDir27.BAE4, Value: Spoken to an NPC. Angry. Denying the NPC a request for help or answering their question in the negative.
+Hash: 75EE7629, Key: Line27.BAE4.Spi.F, Value: (sigh) No.
+Hash: 75EE1011, Key: Line27.BAE4.Sor.F, Value: Damn it. No.
+Hash: C03140DD, Key: Line29.BAE4, Value: Mmm. No.
+Hash: 2F3AA70A, Key: VoiceDir29.BAE4, Value: Spoken to NPC. "Fake" thinking before delivering the "No." This is a sarcastic reply to an NPC's question or request for help.
+Hash: D7D4CADA, Key: Line29.BAE4.Sor.M, Value: Um. No.
+Hash: D7C2838E, Key: Line29.BAE4.Rog.M, Value: Uh. No.
+Hash: D77494BC, Key: Line29.BAE4.Nec.M, Value: Uh. No.
+Hash: D7D530EB, Key: Line29.BAE4.Spi.F, Value: Heh. No.

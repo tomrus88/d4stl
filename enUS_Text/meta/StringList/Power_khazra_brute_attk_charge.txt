@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: name, Value: Charge
+Hash: A99E3406, Key: Buff12_Name, Value: Imbued Charge Bleed
+Hash: B79D27CC, Key: Buff18_Name, Value: Imbued Charge Bleed
+Hash: AE488548, Key: Buff14_Name, Value: Imbued Charge Bleed
+Hash: F1EE1F85, Key: Buff20_Name, Value: Imbued Charge Bleed
+Hash: B2F2D68A, Key: Buff16_Name, Value: Imbued Charge Bleed
+Hash: F69870C7, Key: Buff22_Name, Value: Imbued Charge Bleed
+Hash: 4FDB5351, Key: Payload1_DisplayName, Value: Imbued Charge
+Hash: C5A679E3, Key: Payload12_DisplayName, Value: Imbued Charge
+Hash: 9F3A5CD2, Key: Payload2_DisplayName, Value: Imbued Charge
+Hash: 64648CE5, Key: Payload14_DisplayName, Value: Imbued Charge
+Hash: EE996653, Key: Payload3_DisplayName, Value: Imbued Charge
+Hash: 03229FE7, Key: Payload16_DisplayName, Value: Imbued Charge
+Hash: 8D577955, Key: Payload5_DisplayName, Value: Imbued Charge
+Hash: 6228A082, Key: Payload20_DisplayName, Value: Imbued Charge
+Hash: DCB682D6, Key: Payload6_DisplayName, Value: Imbued Charge
+Hash: 00E6B384, Key: Payload22_DisplayName, Value: Imbued Charge
+Hash: 2C158C57, Key: Payload7_DisplayName, Value: Imbued Charge
+Hash: 9FA4C686, Key: Payload24_DisplayName, Value: Imbued Charge

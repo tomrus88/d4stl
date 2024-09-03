@@ -1,0 +1,24 @@
+Hash: EF9B3BEA, Key: SpiritBrazier, Value: Spirit Brazier
+Hash: 916326BE, Key: Tribute_Label, Value: Tribute
+Hash: C4223DC1, Key: TuningEffect_Label, Value: Bargains
+Hash: 344716C6, Key: Optional, Value: (Optional)
+Hash: 0DE05964, Key: OpenPortal, Value: Open Portal
+Hash: 10D8D5A9, Key: DefaultDescription, Value: Augment the Undercity's rewards and challenge by applying a {c_highlight}Tribute{/c} and defining a {c_highlight}Bargain{/c}
+
+{c_highlight}Tributes{/c} define the Clear Bonus reward and sets the Challenge Tier
+{c_highlight}Bargains{/c} define additional reward opportunities
+Hash: B597C90B, Key: DefaultDistrict, Value: {s1}
+Hash: F4976A82, Key: DefaultStartTime, Value: Run Start Time: {c_number}{s1}{/c}
+Hash: 180CB3AE, Key: DefaultMinAttunement, Value: Minimum Attunement Rank: {c_number}{s1}{/c}
+Hash: 3174B213, Key: DefaultClearBonus, Value: {c_label}Clear Bonus:{/c} {c_green}{s1}{/c}
+Hash: 153A3B02, Key: TuningEffect, Value: {s1}
+Hash: B74A6E80, Key: TributeName, Value: {s1}
+Hash: 3577F223, Key: Challenge, Value: {s1}
+Hash: 89B2361D, Key: Header_TuningEffects, Value: Bargains
+Hash: 0566748C, Key: ModalDesc, Value: {c_highlight}Bargains{/c} define additional reward opportunities
+Hash: 1C1C9D12, Key: Entry_Name, Value: {s1}
+Hash: 1C173310, Key: Entry_Desc, Value: {s1}
+Hash: 228CBCA7, Key: DistrictName, Value: {s1}
+Hash: 9EECD9BD, Key: StartTime, Value: Run Start Time: {c_number}{s1}{/c}
+Hash: C1AD4869, Key: MinAttunement, Value: Minimum Attunement Rank: {c_number}{s1}{/c}
+Hash: 267808AE, Key: ClearBonus, Value: {c_label}Clear Bonus:{/c} {c_green}{s1}{/c}

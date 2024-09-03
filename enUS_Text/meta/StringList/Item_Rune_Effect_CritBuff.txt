@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Gain {c_number}2.5%{/c} Critical Strike Chance for {c_number}5{/c} seconds, up to {c_number}[2.5*10]%{/c}.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Precision
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Gain Multiple Stacks
+Hash: 003DFCC1, Key: Name, Value: Gar

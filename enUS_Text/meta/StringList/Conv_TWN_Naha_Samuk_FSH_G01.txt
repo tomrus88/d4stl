@@ -1,0 +1,3 @@
+Hash: 9251655F, Key: Line1.1C7A75, Value: Fish are bitin' good today.
+Hash: E287912C, Key: VoiceDir1.1C7A75, Value: dreamlike, strange
+Hash: 6AD50F21, Key: Line3.1C7A75, Value: Always are.

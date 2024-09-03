@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Faded Epistle
+Hash: 923DBE89, Key: Line1.1B4ED2, Value: The Lord of Hatred’s wicked corruption has no mercy.
+Hash: 6AC1684B, Key: Line3.1B4ED2, Value: We will retreat to Caldeum as we attempt to rebuild, for Kurast is lost. We must join together during these times.
+Hash: 4345120D, Key: Line5.1B4ED2, Value: Be cautious on your journey. Akarat willing you arrive in one piece.

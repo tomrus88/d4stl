@@ -1,3 +1,3 @@
-Hash: 003DFCC1, Key: Name, Value: Cultist Key
 Hash: A646FFA4, Key: Description, Value: Bound to Cultist Refuge
+Hash: 003DFCC1, Key: Name, Value: Cultist Key
 Hash: F5C7BC0A, Key: Flavor, Value: A metal key forged with demonic runes. It keeps the unworthy out of the Inner Sanctum.

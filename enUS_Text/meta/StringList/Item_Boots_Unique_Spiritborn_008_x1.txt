@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scorn of the Earth
+Hash: F5C7BC0A, Key: Flavor, Value: "Sky Spirits weave the winds. Thunder is their laughter and auroras their crowns. Those they bless learn to scorn the earth, for from above, it is but a distant memory." - Lintel VII

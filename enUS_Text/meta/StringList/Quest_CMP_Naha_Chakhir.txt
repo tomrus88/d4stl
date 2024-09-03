@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Chakhir
+Hash: 0871A46B, Key: Toast, Value: Something noxious has taken root in what remains of this once great city
+Hash: 36AC1DDC, Key: Callback51Header, Value: Investigate the ruins of Chakhir
+Hash: 9CB17FB1, Key: Callback155Header, Value: Destroy the Dregs' Brewing Cauldrons ({DONE}/{NEEDED})
+Hash: 38AA8D97, Key: Callback10Header, Value: Slay Darm
+Hash: 1F9943DA, Key: Callback13Header, Value: Destroy the Falo Blooms
+Hash: 0687FA1D, Key: Callback16Header, Value: Slay Sinerat
+Hash: A4030E0A, Key: Callback121Header, Value: Slay Skerg
+Hash: 24EC6278, Key: Callback20Header, Value: Rekindle the Wanderer's Shrine to conquer Chakhir
+Hash: 0F2FC79E, Key: Callback71Header, Value: Find the source of the Dregs' new poison
+Hash: B06FAAD0, Key: Callback145Header, Value: Confront Sinerat and Skerg
+Hash: 38A468EE, Key: Callback116Header, Value: Confront Sinerat and Skerg
+Hash: 550A618E, Key: Callback161Header, Value: Investigate what the Dregs are doing in Chakhir

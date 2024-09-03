@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wanderer's Spoils
+Hash: 7C86B7CC, Key: Callback141Header, Value: Slay the Hateful Guardian

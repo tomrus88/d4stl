@@ -1,2 +1,2 @@
-Hash: 003DFCC1, Key: Name, Value: Katra
 Hash: CC38ADCB, Key: FlavorName, Value: Oxen Clan Scout
+Hash: 003DFCC1, Key: Name, Value: Katra

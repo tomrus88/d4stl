@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Rallying Reversal
+Hash: 003892BF, Key: Desc, Value: You have a {c_random}[Affix_Value_1*100|%|]{/c} chance to gain {c_number}[Affix."Static Value 0"]{/c} {c_important}{u}Ferocity{/u}{/c} when you Crowd Control an enemy.
+Hash: 82B7D312, Key: CodexDesc, Value: You have a {c_random}[Affix_Value_1*100|%|]{/c} chance to gain {c_number}[Affix."Static Value 0"]{/c} {c_important}{u}Ferocity{/u}{/c} when you Crowd Control an enemy.

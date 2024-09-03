@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Trip Mines
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c} {c_resource}{Cooldown Time}{/c} seconds
+Subo scatters {c_number}{SF_8}{/c} explosive traps that each arm after {c_number}[{SF_10}|1|]{/c} |4second;seconds. When an enemy moves within range of one, it explodes for {c_number}{payload:TRAP_DAMAGE}{/c} Physical damage and Knocks Down enemies for {c_number}[{SF_11}|1|]{/c} |4second;seconds.

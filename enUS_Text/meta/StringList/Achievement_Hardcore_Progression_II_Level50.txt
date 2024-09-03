@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Feat of the Hero 
-Hash: 003892BF, Key: Desc, Value: Reach Level 50 in Hardcore Mode.
+Hash: 003892BF, Key: Desc, Value: Reach Level 60 in Hardcore Mode.

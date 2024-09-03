@@ -70,47 +70,45 @@ Hash: 7013B427, Key: SorcererTitle, Value: Sorcerer
 Hash: F1F6C23A, Key: DruidTitle, Value: Druid
 Hash: 7F8BBC64, Key: RogueTitle, Value: Rogue
 Hash: 522F5B0F, Key: NecromancerTitle, Value: Necromancer
-Hash: 43A0A139, Key: BarbarianOverview, Value: Powerful warriors who rely on brute force to subdue their enemies.  Barbarians are able to swap between an array of powerful weapons during combat, ensuring that they are prepared for any situation.
+Hash: 43A0A139, Key: BarbarianOverview, Value: As powerful warriors, Barbarians rely on their mastery of weapons, rage, and brute force to defeat their enemies.
 Hash: C5D2B03C, Key: BarbarianPlaystyle1Title, Value: Berserking
 Hash: C827D8DD, Key: BarbarianPlaystyle2Title, Value: Bleed
 Hash: CA7D017E, Key: BarbarianPlaystyle3Title, Value: Walking Arsenal
-Hash: CCD22A1F, Key: BarbarianPlaystyle4Title, Value: Unbridled Rage
-Hash: 0DB7B9B9, Key: BarbarianPlaystyle1Desc, Value: Channel your inner rage to enter and maintain the Berserking state, increasing damage and Movement Speed.
-Hash: 0DC9D23A, Key: BarbarianPlaystyle2Desc, Value: Use Slashing weapons to cause enemies to Bleed, dealing damage to them over time.
-Hash: 0DDBEABB, Key: BarbarianPlaystyle3Desc, Value: Become a Walking Arsenal, gaining damage and other bonuses for using various weapons in combat.
-Hash: 0DEE033C, Key: BarbarianPlaystyle4Desc, Value: The pinnacle of aggression, you have an increased Fury cost to use Skills.  In exchange, your Skills are dramatically more powerful.
-Hash: 66E2D45C, Key: SorcererOverview, Value: Masters of the elements, Sorcerers inflict Cold, Fire, and Lightning damage to subdue their enemies.
-Hash: D53D9DFF, Key: SorcererPlaystyle1Title, Value: Frost
-Hash: D792C6A0, Key: SorcererPlaystyle2Title, Value: Pyromancy
-Hash: D9E7EF41, Key: SorcererPlaystyle3Title, Value: Shock
-Hash: 7ACA7B1C, Key: SorcererPlaystyle1Desc, Value: Frost Skills Chill enemies, reducing their Movement Speed. Chilling enemies will eventually Freeze them, causing them to be unable to act.
-Hash: 7ADC939D, Key: SorcererPlaystyle2Desc, Value: Pyromancy Skills focus on dealing Fire damage. These Skills deal a high amount of damage and cause enemies to Burn for additional damage over time.
-Hash: 7AEEAC1E, Key: SorcererPlayStyle3Desc, Value: Shock Skills use Lightning to defeat enemies. These Skills have many ways to reduce Cooldowns and benefit especially well when Critically Striking.
-Hash: C99D8D8F, Key: DruidOverview, Value: Flexible and resilient, Druids harness the power of Nature to protect life. Druids can Shapeshift between the cunning Werewolf and the powerful Werebear to fight their enemies. Additionally, those who prefer spellcasting can unleash Earth and Storm magic from a distance.
-Hash: 46AB9FD2, Key: DruidPlaystyle1Title, Value: Werewolf
-Hash: 4900C873, Key: DruidPlaystyle2Title, Value: Werebear
-Hash: 4B55F114, Key: DruidPlaystyle3Title, Value: Storm
-Hash: 4DAB19B5, Key: DruidPlaystyle4Title, Value: Earth
-Hash: ACC60E8F, Key: DruidPlaystyle1Desc, Value: Werewolves are ferocious and agile. They benefit greatly from increasing their Attack Speed and Critically Striking enemies.
-Hash: ACD82710, Key: DruidPlaystyle2Desc, Value: The Werebear is a powerful force on the battlefield, dealing damage in large areas while also being notoriously difficult to take down.
-Hash: ACEA3F91, Key: DruidPlaystyle3Desc, Value: Call upon the Storm to rain Lightning upon your enemies or blow them away with powerful gusts of Wind.
-Hash: ACFC5812, Key: DruidPlaystyle4Desc, Value: Earth magic focuses on limiting enemy movement with Crowd Control effects. They also benefit when used against enemies who are in such a state. 
-Hash: 4776D67C, Key: RoguePlaystyle1Title, Value: Marksman
-Hash: 49CBFF1D, Key: RoguePlaystyle2Title, Value: Imbuements
+Hash: CCD22A1F, Key: BarbarianPlaystyle4Title, Value: Shouts
+Hash: 0DB7B9B9, Key: BarbarianPlaystyle1Desc, Value: Go Berserk in battle, gaining faster attacks that hit harder.
+Hash: 0DC9D23A, Key: BarbarianPlaystyle2Desc, Value: Brutal attacks leave enemies bleeding, draining their health.
+Hash: 0DDBEABB, Key: BarbarianPlaystyle3Desc, Value: Optimize attacks by switching weapons during battle.
+Hash: 0DEE033C, Key: BarbarianPlaystyle4Desc, Value: War cries incite battle frenzy to better wreak havoc on enemies. 
+Hash: 66E2D45C, Key: SorcererOverview, Value: As masters of the elements, Sorcerers manipulate Cold, Fire, and Lightning to protect themselves and defeat their enemies.
+Hash: D53D9DFF, Key: SorcererPlaystyle1Title, Value: Elemental Mastery
+Hash: D792C6A0, Key: SorcererPlaystyle2Title, Value: Conjurors
+Hash: D9E7EF41, Key: SorcererPlaystyle3Title, Value: Battlefield Control
+Hash: 7ACA7B1C, Key: SorcererPlaystyle1Desc, Value: Cold, Fire, and Lightning are theirs to command.
+Hash: 7ADC939D, Key: SorcererPlaystyle2Desc, Value: Conjure Elementals to do their bidding.
+Hash: 7AEEAC1E, Key: SorcererPlayStyle3Desc, Value: Use the elements to control the flow of battle, weakening and controlling enemies.
+Hash: C99D8D8F, Key: DruidOverview, Value: Druids harness the power of Nature and Shapeshift to other forms.
+Hash: 46AB9FD2, Key: DruidPlaystyle1Title, Value: Shapeshifting
+Hash: 4900C873, Key: DruidPlaystyle2Title, Value: Nature Magic
+Hash: 4B55F114, Key: DruidPlaystyle3Title, Value: Companions
+Hash: 4DAB19B5, Key: DruidPlaystyle4Title, Value: Versatility
+Hash: ACC60E8F, Key: DruidPlaystyle1Desc, Value: Be a fast, agile Werewolf or a powerful, resilient Werebear.
+Hash: ACD82710, Key: DruidPlaystyle2Desc, Value: Use nature magic to summon windstorms, lightning, or earthquakes.
+Hash: ACEA3F91, Key: DruidPlaystyle3Desc, Value: Ravens, wolves, even carnivorous plants answer the Druid's call and fight alongside them.
+Hash: ACFC5812, Key: DruidPlaystyle4Desc, Value: Druids can mix and match their skills in unique and surprising ways.
+Hash: 4776D67C, Key: RoguePlaystyle1Title, Value: Resourceful
+Hash: 49CBFF1D, Key: RoguePlaystyle2Title, Value: Imbue Weapons
 Hash: 4C2127BE, Key: RoguePlaystyle3Title, Value: Traps
-Hash: BC5017F9, Key: RoguePlaystyle1Desc, Value: Kite enemies at a distance using Bows and Arrows.  Marksmen benefit from Critically Striking enemies and by causing them to become Vulnerable.
-Hash: BC62307A, Key: RoguePlaystyle2Desc, Value: Imbue your weapons with Poison, Cold, or Shadow energies.  These Imbuements give attacks special properties when they damage enemies.
-Hash: BC7448FB, Key: RoguePlaystyle3Desc, Value: Lay Traps on the ground, which can trigger various effects. These effects range from damaging targets, Poisoning them, Slowing them, and much more.
-Hash: E7DF4F79, Key: RogueOverview, Value: The cunning Rogue uses whatever tools are available to get the job done. Rogues are both agile and resourceful, able to fight enemies at range with Bows, or up close with Daggers. They are also able to Imbue their weapons with various Magics.
-Hash: 32A3F244, Key: NecromancerOverview, Value: The enigmatic Necromancers are custodians of the balance between life and death. They can raise powerful undead armies to fight for them while also wielding the powerful magics of Bone, Shadow, and Blood.
+Hash: BC5017F9, Key: RoguePlaystyle1Desc, Value: Use ranged or melee weapons to defeat enemies.
+Hash: BC62307A, Key: RoguePlaystyle2Desc, Value: Imbue weapons with Poison, Shadow, or Cold.
+Hash: BC7448FB, Key: RoguePlaystyle3Desc, Value: Place traps to poison, slow, or destroy enemies.
+Hash: E7DF4F79, Key: RogueOverview, Value: As cunning fighters, Rogues keep their enemies confused and off-balance, using speed, skill and trickery to defeat them.
+Hash: 32A3F244, Key: NecromancerOverview, Value: Necromancers raise powerful undead armies to fight for them and wield the magics of Bone, Shadow, and Blood.
 Hash: 4EA506E7, Key: NecromancerPlaystyle1Title, Value: Undead Army
-Hash: 50FA2F88, Key: NecromancerPlaystyle2Title, Value: Bone
-Hash: 534F5829, Key: NecromancerPlaystyle3Title, Value: Darkness
-Hash: 55A480CA, Key: NecromancerPlaystyle4Title, Value: Blood
-Hash: 6EF46704, Key: NecromancerPlaystyle1Desc, Value: Summon a host of undead Minions to do your bidding, including Skeletal Warriors, Skeletal Mages, and the Golem.
-Hash: 6F067F85, Key: NecromancerPlaystyle2Desc, Value: Use the power of Bone magic to physically assail enemies. Bone Skills often gain increased power when you have large amounts of Essence.
-Hash: 6F189806, Key: NecromancerPlaystyle3Desc, Value: Wear down enemies over time. Darkness Skills utilize Crowd Control elements so that enemies are kept at bay while they die a slow, painful death.
-Hash: 6F2AB087, Key: NecromancerPlaystyle4Desc, Value: Siphon the life from enemies with Blood magic, which has defensive benefits while becoming more powerful as you increase your maximum Life.
+Hash: 50FA2F88, Key: NecromancerPlaystyle2Title, Value: Flesh and Bone
+Hash: 534F5829, Key: NecromancerPlaystyle3Title, Value: Curses
+Hash: 6EF46704, Key: NecromancerPlaystyle1Desc, Value: Summon Golems, Skeleton Warriors, Mages, or Priests.
+Hash: 6F067F85, Key: NecromancerPlaystyle2Desc, Value: Using the magic of Bone, Blood, and Darkness, turn enemy corpses into weapons.
+Hash: 6F189806, Key: NecromancerPlaystyle3Desc, Value: Necromancers curse their enemies, punishing them with various afflictions.
 Hash: 1A1C2480, Key: ClassResourceTitle, Value: Primary Resource: 
 Hash: CA1140F8, Key: BarbarianResouce, Value: Rage
 Hash: FB3CF0F5, Key: NecromancerResource, Value: Essence
@@ -142,3 +140,38 @@ Hash: 82DD3C4B, Key: LearnMoreControllerPrompt, Value: {icon:button1, 2.0} Learn
 Hash: FF234E89, Key: GetInGameRewards, Value: Get in-game rewards today
 Hash: 5D6356DE, Key: ExploreVesselOfHatred, Value: Explore Vessel of Hatred
 Hash: 42EF2B24, Key: ExploreVesselofHatredControllerPrompt, Value: {icon:button1, 2.0} Explore Vessel of Hatred
+Hash: 799ED5C3, Key: SpiritbornOverview, Value: Spiritborn are exceptional warriors, melding mastery of their bodies with spiritual gifts. Strong and agile, few enemies match their ferocity.
+Hash: 9D71ADC3, Key: SpiritbornPlaystyle1Desc, Value: Close combat specialists.
+Hash: 4CCB2586, Key: SpiritbornPlaystyle1Title, Value: Martial Arts
+Hash: 9D83C644, Key: SpiritbornPlaystyle2Desc, Value: Mix the Gifts from animal Spirits to create a unique style.
+Hash: 4F204E27, Key: SpiritbornPlaystyle2Title, Value: Spirit Empowerments
+Hash: 9D95DEC5, Key: SpiritbornPlaystyle3Desc, Value: Fast, agile, and deadly; Spiritborn leap into the fray.
+Hash: 517576C8, Key: SpiritbornPlaystyle3Title, Value: High Mobility
+Hash: DC3D17E2, Key: SorcererPlaystyle4Title, Value: Enchantments
+Hash: 7B00C49F, Key: SorcererPlaystyle4Desc, Value: Combine enchantments to create unique effects.
+Hash: 4237D474, Key: SpiritbornResource, Value: Vigor
+Hash: 7FFDD6EE, Key: SpiritbornTitle, Value: Spiritborn
+Hash: F6637860, Key: SkipX1Campaign, Value: Skip Expansion Campaign
+Hash: FE5BF17F, Key: NavGame, Value: Game
+Hash: 42FD87EE, Key: CharacterLevelAndClass, Value: Level {s1} {s2}
+Hash: C2A6DA23, Key: DifficultyNameAndWorldTier, Value: {s1}{s2}
+Hash: C08AA53E, Key: LevelSquishHeader, Value: Character & Paragon Levels Available Now.
+Hash: 7E5638BD, Key: WelcomeBack, Value: Welcome Back Players!
+Hash: 2EE0C758, Key: LevelSquishModal_Paragon_2.0, Value: Paragon 2.0
+Hash: 788531FB, Key: LevelSquishModal_Paragon_2.0_Description, Value: Paragon Levels are now a separate experience track that is shared across characters.
+Hash: C002549A, Key: LevelSquishModal_CharLevelUpdate, Value: Character Level Update
+Hash: 91E2B23D, Key: LevelSquishModal_CharLevelUpdate_Description, Value: Characters' collective experience and levels above 50 have been converted into paragon levels.
+Hash: F5BFB14E, Key: LevelSquishModal_CelebrationReward, Value: Celebration Rewards
+Hash: 415CBCF1, Key: LevelSquishModal_CelebrationReward_Description, Value: Please enjoy these celebration rewards for the update: The Headsman's Burden, The Raptor's Grace, and The Bladebreaker are {c_highlight}Free Gifts ready to be claimed in the shop.{/c}
+Hash: 55BE8B45, Key: LevelSquishModal_Paragon_Disclaimer, Value: *Paragon boards will be unlocked at new maximum Characters Level of 60.
+Hash: D663EC03, Key: LevelSquishModal_Total_Paragon_Level, Value: Your total Paragon Level:
+Hash: 0964F2EC, Key: LevelSquishModal_Levels, Value: Lv. {s1} | {s2} (Hardcore)
+Hash: 4D24E301, Key: X1_NoAccessError, Value: {icon:Exclamation_Icon, 1.8}   Vessel of Hatred is required to access this content, but not found on this platform. Visit the shop to buy now.
+Hash: 2108B76E, Key: X1_NoCharacterAccessError, Value: {icon:Exclamation_Icon, 1.8}  You must have Vessel of Hatred expansion to access the Spiritborn class. Visit the shop to buy now.
+Hash: 4505E106, Key: X1_NoAccessModalTitle, Value: Warning
+Hash: E45AA570, Key: X1_NoAccessModalSubtitle, Value: {icon:X1_Logo_Square_Small, 2.0} {c_highlight}You don’t have Vessel of Hatred access on this machine.{/c}
+Hash: FC636F09, Key: X1_NoAccessModalAdditionalInfo, Value: To enjoy Vessel of Hatred,
+you need to gain access on this machine.
+Hash: 85ACDFD3, Key: GoToShop, Value: Go to Shop
+Hash: 27CDFE19, Key: GoToShopControllerPrompt, Value: {icon:button3, 2.0} Go To Shop
+Hash: 9242A673, Key: EternalHardcore, Value: Eternal Hardcore

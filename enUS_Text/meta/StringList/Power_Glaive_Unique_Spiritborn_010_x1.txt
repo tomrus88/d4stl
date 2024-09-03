@@ -1,0 +1,8 @@
+Hash: A99E3406, Key: Buff12_Name, Value: Temporary Gorilla Hall
+Hash: D621B749, Key: Buff12_Description, Value: Temporary Gorilla Hall
+Hash: AE488548, Key: Buff14_Name, Value: Temporary Eagle Hall
+Hash: 74DFCA4B, Key: Buff14_Description, Value: Temporary Eagle Hall
+Hash: B2F2D68A, Key: Buff16_Name, Value: Temporary Jaguar Hall
+Hash: 139DDD4D, Key: Buff16_Description, Value: Temporary Jaguar Hall
+Hash: B79D27CC, Key: Buff18_Name, Value: Temporary Centipede Hall
+Hash: B25BF04F, Key: Buff18_Description, Value: Temporary Centipede Hall

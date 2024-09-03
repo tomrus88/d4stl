@@ -5,3 +5,5 @@ Hash: D618A933, Key: Mod0_Description, Value: While {c_important}Wrath of the Be
 Hash: 9233D930, Key: Mod0_Name, Value: Supreme Wrath of the Berserker
 Hash: 74D6BC35, Key: Mod2_Description, Value: While {c_important}Wrath of the Berserker{/c} is active, gain {c_number}[{SF_3} * 100|%+|]{/c} increased Movement Speed and increase Fury Generation by {c_number}[{SF_14} * 100|%x|]{/c}.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Prime Wrath of the Berserker
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

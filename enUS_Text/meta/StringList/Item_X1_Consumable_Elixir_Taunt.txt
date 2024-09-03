@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Aggression
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet} Increases Damage Reduction by {c_number}10%{/c}.
+{icon:bullet} After killing {c_number}20{/c} enemies, your next {c_important}Core{/c} Skill Taunts Nearby enemies.
+{icon:bullet} Experience gained is increased by {c_number}8%{/c}.

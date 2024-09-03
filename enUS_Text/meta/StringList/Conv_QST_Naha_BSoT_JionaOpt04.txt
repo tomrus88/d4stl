@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Abasi said, 'Whistle to the winds, and I will always return home.'"
+Hash: 92452F2E, Key: Line1.1AD79A, Value: When I was a child, I always complained if baba was gone too long on the hunts.
+Hash: E27B5AFB, Key: VoiceDir1.1AD79A, Value: reflective, heartfelt
+Hash: 6AC8D8F0, Key: Line3.1AD79A, Value: He said any time I missed him, I need only whistle. The winds would carry it to his ear, calling him home.
+Hash: BAFF04BD, Key: VoiceDir3.1AD79A, Value: reflective, heartfelt
+Hash: 434C82B2, Key: Line5.1AD79A, Value: No matter how far away or hidden he might be, he would always hear it...
+Hash: 9382AE7F, Key: VoiceDir5.1AD79A, Value: reflective, heartfelt, warm
+Hash: 1BD02C74, Key: Line7.1AD79A, Value: (whistles)
+Hash: 6C065841, Key: VoiceDir7.1AD79A, Value: long, heartfelt whistle

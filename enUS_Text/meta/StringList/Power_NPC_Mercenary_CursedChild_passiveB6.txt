@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Burning Chaos
+Hash: 003892BF, Key: desc, Value: Aldkin's {c_important}Wave of Flame{/c} Cooldown resets when you cast an {c_important}Ultimate{/c} Skill.

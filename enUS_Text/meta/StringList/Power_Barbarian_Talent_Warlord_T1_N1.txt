@@ -1,4 +1,4 @@
 Hash: 003DFCC1, Key: name, Value: Martial Vigor
-Hash: 003892BF, Key: desc, Value: Damage Reduction against Elites is increased by {c_number}[({SF_0}*sLevel)*100|%|]{/c}.
+Hash: 003892BF, Key: desc, Value: Damage Reduction against Elites is increased by {c_number}[{SF_1}*100|%|]{/c}.
 Hash: F2D5722F, Key: rankup_desc, Value: 
-{icon:bullet, 1.2} Damage Reduction {icon:arrow, 1.2} {c_number}[({SF_0}*sLevel)*100|%|]{/c}
+{icon:bullet, 1.2} Damage Reduction {icon:arrow, 1.2} {c_number}[{SF_1}*100|%|]{/c}

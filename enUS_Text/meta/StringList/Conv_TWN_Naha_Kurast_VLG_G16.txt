@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Post-flip
+Hash: 9268BB22, Key: Line1.1CC0B2, Value: The city feels safer than before. Did we get more guards?
+Hash: 6AC013ED, Key: Line3.1B36BF, Value: I’m not sure the city has enough money for more guards.
+Hash: 43700EA6, Key: Line5.1CC0B2, Value: Regardless, there’s been a significant drop in threats from the outside.
+Hash: 1BC76771, Key: Line7.1B36BF, Value: Indeed. I hope it stays this way for a while.

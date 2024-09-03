@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Brilliance
+Hash: 003892BF, Key: desc, Value: Your {c_important}Eagle{/c} Skill damage is increased by {c_number}[{SF_0} * 100|%1x|]{/c} of your Movement Speed bonus.
+
+Current Bonus: {c_number}[{SF_3} * 100|%1x|]{/c}
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Bonus {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}

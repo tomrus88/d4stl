@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: 922AE0DF, Key: Line1.1A486D, Value: {i}Natsalarwaka{/i}. In our native tongue that means a place of peace. A sacred place for our people and spirits. There are few areas like this left.
+Hash: E2610CAC, Key: VoiceDir1.1A486D, Value: natsa means "place   lar means "for"  waka means "peace" (pronounced na-tsa-lar-WA-ka) Awe. Saddness.
+Hash: 6AAE8AA1, Key: Line3.1A486D, Value: We hold ceremonies here. This is a sanctuary to speak freely, to negotiate without fear of tempers flaring.
+Hash: BAE4B66E, Key: VoiceDir3.1A486D, Value: Declaratory 

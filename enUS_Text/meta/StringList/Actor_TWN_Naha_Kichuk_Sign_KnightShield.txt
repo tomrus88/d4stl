@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Burned Knight Shield
+Hash: F2CA04D8, Key: NoticeSignText, Value: Likely scavenged from a corpse. The children of Kichuk have no other way to make coin than by picking valuables off the dead.

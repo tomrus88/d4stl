@@ -1,2 +1,1 @@
-Hash: 003DFCC1, Key: Name, Value: Dellos
-Hash: CC38ADCB, Key: FlavorName, Value: Aether Lord
+Hash: 003DFCC1, Key: Name, Value: Dellos, the Mordant

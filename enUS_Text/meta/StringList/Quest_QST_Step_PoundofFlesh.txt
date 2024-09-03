@@ -1,7 +1,7 @@
 Hash: 003DFCC1, Key: Name, Value: A Pound of Flesh
 Hash: 0871A46B, Key: Toast, Value: A man in a gibbet pleads for freedom.
 Hash: D53BFF05, Key: Phase0Description, Value: I've found a prisoner of the bandits held in the Onyx Watchtower. He has asked me to retrieve the key to unlock his gibbet from the bandits outside.
-Hash: 36AC1DDC, Key: Callback51Header, Value: Retrieve the gibbet key from the bandits
+Hash: 36AC1DDC, Key: Callback51Header, Value: Retrieve the {ITEM:QST_Step_PoundofFlesh_GibbetKey} from the bandits
 Hash: 30DC76D6, Key: Phase10Description, Value: I was able to find the key to Nizaar's gibbet. I should return to the Onyx Watchtower and free him.
 Hash: 398557AF, Key: Callback9Header, Value: Release Nizaar from the gibbet
 Hash: C3B68EF9, Key: Phase13Description, Value: I've freed Nizaar, but It looks as if the time in that gibbet has not been kind to him. He asked me to give him a healing potion for his wounds.

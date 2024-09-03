@@ -1,0 +1,2 @@
+Hash: AAC5966C, Key: Line19.1C5397, Value: The Temple’s Ward can’t take much more!
+Hash: 01C13BD9, Key: VoiceDir19.1C5397, Value: in battle

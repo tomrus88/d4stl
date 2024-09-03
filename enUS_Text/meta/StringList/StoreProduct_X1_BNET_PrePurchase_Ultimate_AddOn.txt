@@ -1,1 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Diablo® IV: Vessel of Hatred™ - Ultimate Edition
+Hash: A646FFA4, Key: Description, Value: Ultimate edition gives you access to all the great content from deluxe edition in addition to multiple cosmetics, Platinum, a new white companion

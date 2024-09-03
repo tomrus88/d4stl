@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tormented Massacre
+Hash: 003892BF, Key: Desc, Value: Defeat 1000 Elites on Torment IV.

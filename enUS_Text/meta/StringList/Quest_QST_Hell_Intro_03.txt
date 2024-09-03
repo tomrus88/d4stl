@@ -25,10 +25,6 @@ Hash: 45529163, Key: Phase68Description, Value: Once more we push into the Realm
 
 We continue to delve deeper into the Desolation Fields and fight whatever evils stir.
 Hash: F0CB5F43, Key: Callback67Header, Value: Continue to search for the Well of Hatred
-Hash: 94B19AE4, Key: Phase78Description, Value: The priests of Hatred have been repelled for now... Yet even as they dissipated into smoke and ash, I heard their voices. I fear this war is far from over.
-
-Locran, gravely wounded, somehow managed to conjure a portal back to the Gates of Hell. I must speak with him there - I believe for the last time.
-Hash: DD0D3424, Key: Callback77Header, Value: Speak to Locran by the Gates to Hell
 Hash: 8229E9A3, Key: Phase86Description, Value: If the Hells will invade Sanctuary, then I must invade the Hells – take this war to their threshold. Locran believes he can show me where to strike to buy Sanctuary the most time.
 
 Locran travels to the Caldeum Imperial Palace. I will meet him there. 
@@ -47,9 +43,6 @@ We will delve deeper into the Desolation Fields and fight whatever evils stir.
 Hash: 3BF917D1, Key: Callback164Header, Value: Find the Well of Hatred
 Hash: 32C8E1B0, Key: Phase155Description, Value: Locran and I stand before the Gates to Hell, beneath Caldeum. Lorath's seal keeping our two realms separate holds firm, at least for the moment...
 Hash: 4FB742F0, Key: Callback154Header, Value: Wait for Locran
-Hash: 573574E0, Key: Phase38Description, Value: We entered the Realm of Hatred. Locran appears to be holding together, determined to lead me to the demons' source. I must follow.
-Hash: 2C05E0A0, Key: Callback37Header, Value: Follow Locran to the demons' source
-Hash: FD700C3A, Key: Callback40Header, Value: Find Holdout 01
 Hash: 0DB97F2E, Key: Phase171Description, Value: The priests of Hatred have been repelled for now... Yet even as they dissipated into smoke and ash, I heard their voices. I fear this war is far from over.
 
 Locran used his last strength to conjure a portal back to Sanctuary. I shall leave the Infernal Hordes alone...

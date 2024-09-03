@@ -1,7 +1,7 @@
 Hash: 003DFCC1, Key: Name, Value: Blood Sermon
 Hash: 0871A46B, Key: Toast, Value: Venture into the Sanguine Chapel and find the Red Chalice. 
 Hash: B87761DE, Key: Phase18Description, Value: I must find the Red Chalice. This cursed item must be destroyed. 
-Hash: 24EC6278, Key: Callback20Header, Value: Slay the Bishop and take the Red Chalice
+Hash: 24EC6278, Key: Callback20Header, Value: Slay the Bishop and take {ITEM:QST_Frac_SangChap_Book}
 Hash: 1315987A, Key: Phase23Description, Value: I should return the Red Chalice to Sister Vera. She will know what to do with this cursed Red Chalice and the evil it can create. 
 Hash: BEE0DBFA, Key: Callback22Header, Value: Speak with Sister Vera at the Bear Tribe Refuge
 Hash: 4408F5DB, Key: Phase24Description, Value: I must venture into the forbidden Sanguine Chapel and find the Red Chalice. This cursed item must be destroyed. 

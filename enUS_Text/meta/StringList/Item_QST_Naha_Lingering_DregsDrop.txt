@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Insect Toxin
+Hash: A646FFA4, Key: Description, Value: Bound to Lingering Hatred
+Hash: F5C7BC0A, Key: Flavor, Value: The Dregs of Nahantu have taken to consuming a toxin from rare insects, causing violent hallucinations as well as frighteningly heightened predatory instincts.

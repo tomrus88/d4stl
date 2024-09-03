@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Seething Realm
+Hash: 003892BF, Key: Desc, Value: A minor plane of Hatred opened by a Realmwalker's death.

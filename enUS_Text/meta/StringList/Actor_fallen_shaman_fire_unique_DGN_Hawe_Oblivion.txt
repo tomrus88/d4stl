@@ -1,2 +1,2 @@
-Hash: 003DFCC1, Key: Name, Value: Xelcan
 Hash: CC38ADCB, Key: FlavorName, Value: Warden of Anguish
+Hash: 003DFCC1, Key: Name, Value: Xelcan

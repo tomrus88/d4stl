@@ -1,7 +1,9 @@
 Hash: 003DFCC1, Key: name, Value: Quickshift
-Hash: 003892BF, Key: desc, Value: When {c_important}Shapeshifting{/c} into a new animal form, you deal {c_number}[{SF_0} * 100|%x|]{/c} increased damage for {c_number}{SF_1}{/c} seconds, up to {c_number}[({SF_0}*{SF_2}) * 100|%x|]{/c}.
+Hash: 003892BF, Key: desc, Value: {c_important}Shapeshifting{/c} into a new animal form grants {c_number}[{SF_0} * 100|%x|]{/c} increased damage, up to {c_number}[({SF_0}*{SF_2}) * 100|%x|]{/c}. This bonus is lost after {c_number}{SF_1}{/c} seconds in Human form.
 Hash: F2D5722F, Key: rankup_desc, Value: 
 {icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_0)}*100|%x|]{/c}
 {icon:bullet,1.2} Maximum Damage {icon:arrow,1.2} {c_number}[{SF_3)}*100|%x|]{/c}
 Hash: 101C1614, Key: Buff1_Name, Value: Quickshift
 Hash: 7786FD97, Key: Buff1_Description, Value: Dealing increased damage.
+Hash: 14C66756, Key: Buff3_Name, Value: Quickshift
+Hash: 16451099, Key: Buff3_Description, Value: Dealing increased damage.

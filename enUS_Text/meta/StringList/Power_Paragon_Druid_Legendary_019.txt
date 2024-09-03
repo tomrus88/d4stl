@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Untamed
+Hash: 003892BF, Key: desc, Value: Casting a {c_important}Companion{/c} Skill grants +{c_number}[SF_0]{/c} Ranks to your {c_important}Companion{/c} Skills for {c_number}[SF_1]{/c} seconds.
+Hash: 101C1614, Key: Buff1_Name, Value: Untamed
+Hash: 7786FD97, Key: Buff1_Description, Value: Companion Skill Ranks Increased.

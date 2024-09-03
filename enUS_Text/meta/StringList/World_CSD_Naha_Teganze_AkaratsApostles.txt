@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dedicant's Cache
+Hash: 003892BF, Key: Desc, Value: A secret repository of Akarat teachings and texts

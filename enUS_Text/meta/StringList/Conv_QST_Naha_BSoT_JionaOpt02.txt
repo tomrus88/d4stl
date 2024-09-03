@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are your experiences with the lacuni?"
+Hash: 92452F2E, Key: Line1.1AD79A, Value: Baba has taught me all there is to know of the lacuni. But knowledge alone does not prepare you for their cunning.
+Hash: E27B5AFB, Key: VoiceDir1.1AD79A, Value: heartfelt, earnest
+Hash: 6AC8D8F0, Key: Line3.1AD79A, Value: They watch you with interest beyond any beast. Adapting.
+Hash: BAFF04BD, Key: VoiceDir3.1AD79A, Value: heartfelt, cautioning
+Hash: 434C82B2, Key: Line5.1AD79A, Value: Killing one teaches the next to change tactics. Survivors bring greater challenge to the new day.
+Hash: 9382AE7F, Key: VoiceDir5.1AD79A, Value: informative, cautioning

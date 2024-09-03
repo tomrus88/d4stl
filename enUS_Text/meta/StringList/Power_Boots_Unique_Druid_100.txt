@@ -1,2 +1,2 @@
 Hash: 14C66756, Key: Buff3_Name, Value: Wildheart
-Hash: 16451099, Key: Buff3_Description, Value: Dealing increased damage with {c_important}Shapeshifting{/c} skills.
+Hash: 16451099, Key: Buff3_Description, Value: {c_important}Bestial Rampage{/c} is empowered.

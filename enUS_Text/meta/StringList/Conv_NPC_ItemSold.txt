@@ -251,3 +251,69 @@ Hash: 82C78904, Key: Line720.B79AB, Value: Good enough for me.
 Hash: D9C32E71, Key: VoiceDir720.B79AB, Value: Apathetic, direct, business-minded.
 Hash: 69B63F47, Key: Line723.B79AB, Value: That's worth a coin or two.
 Hash: C0B1E4B4, Key: VoiceDir723.B79AB, Value: Apathetic, direct, business-minded.
+Hash: CE922C79, Key: Line728.1C2633, Value: I'd have built it different. But it'll sell.
+Hash: 05027F86, Key: VoiceDir728.1C2633, Value: Cranky old fart. Impatient.
+Hash: CD41CB53, Key: Line731.1C2633, Value: Give that here, let me look.
+Hash: 03B21E60, Key: VoiceDir731.1C2633, Value: Cranky old fart. Impatient.
+Hash: 920749F6, Key: Line734.1C2633, Value: Eh, good enough.
+Hash: C8779D03, Key: VoiceDir734.1C2633, Value: Cranky old fart. Impatient.
+Hash: 2F3EE3EC, Key: Line739.1B34C6, Value: Whose corpse did you nick this off of?
+Hash: 65AF36F9, Key: VoiceDir739.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: 2DEE82C6, Key: Line742.1B34C6, Value: Wouldn't take it if I didn't have to.
+Hash: 645ED5D3, Key: VoiceDir742.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: F2B40169, Key: Line745.1B34C6, Value: It's all about the coin, isn't it?
+Hash: 29245476, Key: VoiceDir745.1B34C6, Value: Young boy, recently traumatized. Cynical and untrusting.
+Hash: C9E74A53, Key: Line750.1B34DC, Value: Someone could still use this.
+Hash: 00579D60, Key: VoiceDir750.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: 8EACC8F6, Key: Line753.1B34DC, Value: I think l could sell this.
+Hash: C51D1C03, Key: VoiceDir753.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: 53724799, Key: Line756.1B34DC, Value: Every bit helps.
+Hash: 89E29AA6, Key: VoiceDir756.1B34DC, Value: A young girl. Quiet and kind, very sad.
+Hash: 2AB71EA8, Key: Line761.1C264D, Value: Oh, how it catches the light!
+Hash: 612771B5, Key: VoiceDir761.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: EF7C9D4B, Key: Line764.1C264D, Value: It's beautiful! My thanks.
+Hash: 25ECF058, Key: VoiceDir764.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: B4421BEE, Key: Line767.1C264D, Value: I've a friend who was looking for something just like this.
+Hash: EAB26EFB, Key: VoiceDir767.1C264D, Value: Humble, but eager. Doesn't get many customers.
+Hash: 8B63D849, Key: Line772.1B363D, Value: Bit o' life left in this.
+Hash: C1D42B56, Key: VoiceDir772.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: 502956EC, Key: Line775.1B363D, Value: That'll sell, easy.
+Hash: 8699A9F9, Key: VoiceDir775.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: 14EED58F, Key: Line778.1B363D, Value: Let me see it.
+Hash: 4B5F289C, Key: VoiceDir778.1B363D, Value: Gruff, to the point. Works with mercenaries, primarily.
+Hash: EC33AA1A, Key: Line783.1C2633, Value: You strike a hard bargain, friend.
+Hash: 22A3FD27, Key: VoiceDir783.1C2633, Value: Following the bandwagon to turn a buck. Sly, cheap. 
+Hash: B0F928BD, Key: Line786.1C2633, Value: Oh, all right. Deal.
+Hash: E7697BCA, Key: VoiceDir786.1C2633, Value: Following the bandwagon to turn a buck. Sly, cheap. 
+Hash: 75BEA760, Key: Line789.1C2633, Value: Fine, fine, I'll take it. Now, you buy something.
+Hash: AC2EFA6D, Key: VoiceDir789.1C2633, Value: Following the bandwagon to turn a buck. Sly, cheap. 
+Hash: 4CE0640A, Key: Line794.1B363A, Value: I've a spot for her in the stable.
+Hash: 8350B717, Key: VoiceDir794.1B363A, Value: One of Ormus's people from Kurast, come to assist in the colossal clean up effort. More ethical than most in town.
+Hash: 11A5E2AD, Key: Line797.1B363A, Value: I'll take good care of her.
+Hash: 8783A89E, Key: Line800.1B363A, Value: I'm sure she'll make fast friends with the herd.
+Hash: 24CCD0DA, Key: Line805.1B3638, Value: Now, that's worth something.
+Hash: 5B3D23E7, Key: VoiceDir805.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: E9924F7D, Key: Line808.1B3638, Value: You're sure you want to part with this?
+Hash: 2002A28A, Key: VoiceDir808.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: E841EE57, Key: Line811.1B3638, Value: Don't mind if I do!
+Hash: 1EB24164, Key: VoiceDir811.1B3638, Value: A dreaming romantic. A bit scattered.
+Hash: 858B18D8, Key: Line816.1B35CE, Value: Good deal. I'll take it.
+Hash: BBFB6BE5, Key: VoiceDir816.1B35CE, Value: Simple, salt of the earth type.
+Hash: 4A50977B, Key: Line819.1B35CE, Value: My thanks.
+Hash: 80C0EA88, Key: VoiceDir819.1B35CE, Value: Simple, salt of the earth type.
+Hash: 49003655, Key: Line822.1B35CE, Value: I'll find use for this.
+Hash: 7F708962, Key: VoiceDir822.1B35CE, Value: Simple, salt of the earth type.
+Hash: E6495EA7, Key: Line827.1B35D1, Value: Hmm, not bad.
+Hash: 1CB9B1B4, Key: VoiceDir827.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: E4F8FD81, Key: Line830.1B35D1, Value: I can clean this up in no time.
+Hash: 1B69508E, Key: VoiceDir830.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: A9BE7C24, Key: Line833.1B35D1, Value: This could be beautiful, with a few alterations...
+Hash: E02ECF31, Key: VoiceDir833.1B35D1, Value: Vain. As concerned with armor aesthetic as she is with its effectiveness.
+Hash: 4707A490, Key: Line838.1B35D8, Value: I'd be happy to take her in.
+Hash: 7D77F79D, Key: VoiceDir838.1B35D8, Value: A Spiritborn who breeds horses. She loves her steeds, insists people treat them right.
+Hash: 45B7436A, Key: Line841.1B35D8, Value: Yes, I've plenty of room.
+Hash: 0A7CC20D, Key: Line844.1B35D8, Value: (chuckle) Welcome to the herd!
+Hash: A7C5E4C6, Key: Line849.1B3588, Value: Why, thank you.
+Hash: DE3637D3, Key: VoiceDir849.1B3588, Value: Haughty, experienced saleswoman
+Hash: A67583A0, Key: Line852.1B3588, Value: I'll find it a new home.
+Hash: 6B3B0243, Key: Line855.1B3588, Value: Very well. Hand it over.

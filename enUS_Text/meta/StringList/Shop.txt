@@ -30,3 +30,10 @@ Hash: F4F7BC15, Key: BuybackBlocked, Value: Unable to sell items to this vendor.
 Hash: 1BA4C270, Key: InventoryReset_Label, Value: New Stock Delivery
 Hash: 6811656A, Key: QuickBuyIndicator, Value: (x{QUICKBUY_STACK_AMOUNT})
 Hash: 788A31FE, Key: CannotPurchase, Value: No more items left to purchase.
+Hash: 7037132E, Key: ManualInventoryReset_Label, Value: Restock Supply
+for free
+Hash: 3EE62B66, Key: ManualInventoryReset_Cost_Label, Value: Restock Supply
+{s1}
+Hash: 25DADFB8, Key: VendorUpgrade_TradeAgreements_Header, Value: Trade Agreements {c_number}{s1}{/c}/{s2}
+Hash: C4A184D3, Key: VendorUpgrade_TradeAgreements_Description, Value: Make {icon:Marker_Vendor_TradeAgreements, 2.4} {c_highlight}Trade Agreements{/c} with Fayira to have this Mercenary barter for more specific loot.
+Hash: 0A49415E, Key: VendorUpgrade_TradeAgreements_HeaderMax, Value: Trade Agreements {s1}/{s2}

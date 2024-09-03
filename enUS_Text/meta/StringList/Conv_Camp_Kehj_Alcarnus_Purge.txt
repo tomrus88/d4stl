@@ -8,3 +8,4 @@ Hash: 770B30DA, Key: Line2.BAE4.Rog, Value: She was reborn from those growths. I
 Hash: AD7B83E7, Key: VoiceDir2.BAE4.Rog, Value: Mild shock. Realizing what just happened.
 Hash: 770B3526, Key: Line2.BAE4.Sor, Value: She was reborn from those growths. I must scour them all.
 Hash: AD7B8833, Key: VoiceDir2.BAE4.Sor, Value: Mild shock. Realizing what just happened.
+Hash: 770B353E, Key: Line2.BAE4.Spi, Value: She was reborn from those growths. I must scour them all.

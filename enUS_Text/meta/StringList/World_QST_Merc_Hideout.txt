@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Ruins
+Hash: 003892BF, Key: Desc, Value: Beyond the dangers within lies the promise of safety.

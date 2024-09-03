@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Faded Sign
+Hash: F2CA04D8, Key: NoticeSignText, Value: Warning: Nin-Obisu and the scouts sent after her have been claimed by the jungle. Leave town at your own risk.

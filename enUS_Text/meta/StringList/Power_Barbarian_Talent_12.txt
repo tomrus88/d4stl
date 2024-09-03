@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Heavy Hitter
+Hash: 003892BF, Key: desc, Value: Your {c_important}Ultimate{/c} Skills deal {c_number}[{SF_0}*100|%x|]{/c} more damage. 
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Ultimate Damage Bonus {icon:arrow, 1.2} {c_number}[{SF_0}*100|%x|]{/c}

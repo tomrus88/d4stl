@@ -1,0 +1,2 @@
+Hash: 1970B898, Key: Buff5_Name, Value: Starving Ravager
+Hash: B503239B, Key: Buff5_Description, Value: Ravager drains Vigor to remain active.

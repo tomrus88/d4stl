@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: The Devourer
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}{Combat Effect Chance}%{/c}
+{/if}The Centipede Spirit emerges, blasting enemies in a line for {c_number}{payload:SPIT_PAYLOAD_TOOLTIP}{/c} damage and spitting at others for {c_number}{payload:PROJ_PAYLOAD_TOOLTIP}{/c} damage. Lasts for {c_number}{buffduration:ULT_TIMER}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Blast Damage {icon:arrow, 1.2} {c_number}{payload:SPIT_PAYLOAD_TOOLTIP}{/c}
+{icon:bullet, 1.2} Spit Damage {icon:arrow, 1.2} {c_number}{payload:PROJ_PAYLOAD_TOOLTIP}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds
+Hash: 5110F53B, Key: Mod8_Description, Value: (PH) {c_label}{u}Ultimate Centipede{/u}{/c} 
+{icon:bullet,1.2} The Centipede emerges and Knocks Down enemies, dealing {c_number}{payload:SOIL_EMERGE_DAMAGE}{/c} Poison damage and applying {c_number}{dot:SOIL_POISON}{/c} Poisoning over {c_number}{buffduration:SOIL_POISON}{/c} seconds. Non-Boss enemies are instantly consumed if their entire remaining Life becomes Poisoned while in the area.
+Hash: A4DD1E38, Key: Mod8_Name, Value: (PH) Ultimate Centipede
+Hash: A06FFEBC, Key: Mod9_Description, Value: As it emerges, {c_important}The Devourer{/c} launches {c_number}{SF_23}{/c} toxic globs that apply {c_number}{dot:UPGRADE_POISON_DOT}{/c} Poisoning damage over {c_number}[{buffduration:UPGRADE_POISON_DOT}]{/c} seconds wherever they land.
+Hash: A73246D9, Key: Mod9_Name, Value: Harmonious Devourer
+Hash: A36AFD04, Key: Mod10_Description, Value: While {c_important}The Devourer{/c} is active, if a Non-Boss enemy's remaining Life becomes Poisoned they die instantly and unleash a {c_important}Pestilent Swarm{/c} that deals {c_number}{payload:UPGRADE_PAYLOAD}{/c} damage per hit to enemies it passes through.
+Hash: B6FE4621, Key: Mod10_Name, Value: Exalted Devourer

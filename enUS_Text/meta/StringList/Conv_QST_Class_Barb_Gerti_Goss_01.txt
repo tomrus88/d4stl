@@ -7,6 +7,8 @@ Hash: 4072BDA2, Key: Line1.137EC4.Nec, Value: Most outsiders care only for our s
 Hash: D44407EF, Key: VoiceDir1.137EC4.Nec, Value: Mild surprise. Stoic, but pleased.
 Hash: 4072CFF4, Key: Line1.137EC4.Rog, Value: Most outsiders care only for our steel... seldom our history.
 Hash: D4441A41, Key: VoiceDir1.137EC4.Rog, Value: Mild surprise. Stoic, but pleased.
+Hash: 4072D458, Key: Line1.137EC4.Spi, Value: Most outsiders care only for our steel... seldom our history.
+Hash: D4441EA5, Key: VoiceDir1.137EC4.Spi, Value: Mild surprise. Stoic, but pleased.
 Hash: 4072D440, Key: Line1.137EC4.Sor, Value: Most outsiders care only for our steel... seldom our history.
 Hash: D4441E8D, Key: VoiceDir1.137EC4.Sor, Value: Mild surprise. Stoic, but pleased.
 Hash: 1877E124, Key: Line7.137EC4, Value: Our kind were born in the shade of the mountain. Many tribes, one people. Raised to fight and sworn to protect our home. And for thousands of years, we did.

@@ -10,5 +10,5 @@ Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Debilitating Roar{/c}
 Hash: 99335313, Key: Mod3_Name, Value: Enhanced Debilitating Roar
 Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Debilitating Roar{/c} also Heals you for {c_number}[{SF_8}*100|%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_8]){/c} each second for its duration.
 Hash: 948901D1, Key: Mod1_Name, Value: Preserving Debilitating Roar
-Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Debilitating Roar{/c} also Slows enemies by {c_number}[{SF_9}*100|%|]{/c} for its duration.
+Hash: 74D6BC35, Key: Mod2_Description, Value: You deal {c_number}[{SF_9}*100|%x|]{/c} increased damage while {c_important}Debilitating Roar{/c} is active.
 Hash: 96DE2A72, Key: Mod2_Name, Value: Innate Debilitating Roar

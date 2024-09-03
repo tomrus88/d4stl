@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you all right?"
+Hash: 923C6A16, Key: Line1.1B36C0, Value: My Lolo would always share stories of how he and my grandmother fled Kurast. The way he spoke...things must have been horrible.
+Hash: E27295E3, Key: VoiceDir1.1B36C0, Value: Disbelief and awe. Struck by how beautiful the city is and how vastly different it looks to how her grandparents described it in stories.
+Hash: 6AC013D8, Key: Line3.1B36C0, Value: I can tell the city has its scars but it’s beautiful, nonetheless.

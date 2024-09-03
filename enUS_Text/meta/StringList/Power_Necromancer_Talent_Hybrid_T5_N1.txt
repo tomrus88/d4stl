@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: [PH] Jagged Bones
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Your {c_important}Bone{/c} Skill Critical Strikes have up to a {c_number}[SF_6|%|]{/c} chance to create a pool of blood that deals {c_number}{payload:TOOLTIP_DAMAGE}{/c} damage over {c_number}[SF_1]{/c} seconds. 
+
+While standing in these pools, your {c_important}Blood{/c} Skills:
+{icon:bullet,1.2} Gain {c_number}[SF_3 * 100|%+|]{/c} Attack Speed
+{icon:bullet,1.2} Gain {c_number}[SF_4 * 100|%x|]{/c} Vulnerable Damage
+Hash: 12713EB5, Key: Buff2_Name, Value: [PH] Jagged Bones
+Hash: C6E60718, Key: Buff2_Description, Value: Blood Skills gain increased Attack Speed and Vulnerable Damage.

@@ -1,0 +1,4 @@
+Hash: 71E69F39, Key: Callback21Header, Value: Enter both Unknown Portals
+Hash: 79001D61, Key: Callback38Header, Value: Enter the Unknown Portal
+Hash: BCDC4796, Key: Callback169Header, Value: Slay Ward Guardians
+Hash: 47155371, Key: Callback218Header, Value: Dispel the {icon:Marker_GizmoReceptacle,1.8} Sealing Wards in each room: {DONE_OVER_NEEDED}

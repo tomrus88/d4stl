@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Raid Intro
+Hash: 003892BF, Key: Desc, Value: Player has Completed the Raid Intro Quest

@@ -1,0 +1,7 @@
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Bloodthirst Attack Speed
+Hash: 53C1369D, Key: Buff7_Description, Value: PH
+Hash: A7490B65, Key: Buff11_Name, Value: Bloodlust Enhanced Attack Speed
+Hash: 86C2ADC8, Key: Buff11_Description, Value: PH
+Hash: 003DFCC1, Key: name, Value: Bloodthirst
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Makhni gains Bloodthirst, increasing her Attack Speed by {c_number}[{SF_1}*100|+%|]{/c}, her Movement Speed by {c_number}[{SF_0}*100|+%|]{/c}, and gaining {c_important}{u}Unstoppable{/u}{/c} for {c_number}{SF_2}{/c} seconds. Bloodthirst also grants you {c_number}[{SF_4}*100|+%|]{/c} increased Attack Speed for {c_number}{SF_2}{/c} seconds.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Shield Strike
+Hash: 003892BF, Key: desc, Value: Swings his shield, dealing {c_number}{payload:MELEE_PAYLOAD}{/c} damage. Every {c_number}{SF_1}{/c} Shield Strike casts, Raheir heals for {c_number}[{SF_2}*100]%{/c} of their Base Life {c_number}([Max(1,{heal:HEAL})|0|]){/c}.

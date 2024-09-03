@@ -1,0 +1,4 @@
+Hash: 31C7B96C, Key: Line12.1602FD, Value: I can’t always control it!
+Hash: 59440FAA, Key: Line10.1602FD, Value: I’m not bad, I promise!
+Hash: 04EB5081, Key: Line8.1602FD, Value: Please don’t be afraid of me!
+Hash: 2C67A6BF, Key: Line6.1602FD, Value: I’m not scary to my friends.

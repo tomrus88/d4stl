@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Torment Challenge (PH)
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Monsters in Torment I or higher (PH)

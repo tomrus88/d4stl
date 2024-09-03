@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Undercity Enticement
+Hash: 38AA8D97, Key: Callback10Header, Value: Light the Brazier to draw out spirits
+Hash: C63223AC, Key: Callback213Header, Value: Slay spirits to draw out Wrathful Spirits
+Hash: 47155371, Key: Callback218Header, Value: Slay remaining spirits
+Hash: 6579BBCC, Key: Callback222Header, Value: Wrathful Spirits slain for Attunement: {DONE}

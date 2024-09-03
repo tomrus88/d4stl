@@ -94,3 +94,15 @@ Hash: BC5162E3, Key: SeasonQuest_Header, Value: Season Journey Objectives
 Hash: EA24A0CB, Key: SeasonOnly, Value: Show seasonal only
 Hash: A3F2B209, Key: SeasonJourneyTooltipDescriptionWIthCount, Value: {s1}: {c_questobjval}{s2}/{s3}{/c}
 Hash: 0CB1DBC2, Key: HideFromQuestLog, Value: Hide from Journal
+Hash: 65E71A67, Key: QuestItem_Virtual_Name, Value: {s1}
+Hash: 9B9D868A, Key: QuestItem_Virtual_Description, Value: {s1}
+Hash: 84BA75E4, Key: VirtualQuestKeyItems, Value: Key Items
+Hash: 521127FE, Key: KeyItemDetails, Value: Key Item Details
+Hash: 5D6C9B7F, Key: PriorityQuest_Unlock, Value: Unlocks:  {c_highlight}{s1}{/c}
+Hash: 41732552, Key: PriorityQuest_Intros, Value: Introduces: {c_highlight}{s1}{/c}
+Hash: E3350773, Key: UnflippedCitadelQuestUnavailable, Value: {icon:Warning_Icon, 2} {c_red}Citadel entrance must be cleared first.{/c}
+Hash: 3FDAB47B, Key: SeasonalQuests, Value: Seasonal Quests
+Hash: 62BD913D, Key: FeatureUnlockQuests, Value: Feature Unlock Quests
+Hash: DDDA8911, Key: IntroQuests, Value: Introduction Quests
+Hash: 55D01398, Key: PriorityQuest_Reward, Value: Rewards:  {c_highlight}{s1}{/c}
+Hash: 89C3A3E3, Key: EndGameBridgeQuests, Value: Campaign Quests

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Resource & CDR
+Hash: 003892BF, Key: Desc, Value: After casting your {c_important}Ultimate{/c} Skill, gain {c_random}[Affix_Value_1|1||%|]{/c} of your maximum Primary Resource over {c_number}[Affix."Static Value 0"]{/c} seconds. While active, every {c_number}[Affix."Static Value 2"]{/c} Primary Resource you spend reduces your active Cooldowns by {c_number}[Affix."Static Value 1"]{/c} seconds.

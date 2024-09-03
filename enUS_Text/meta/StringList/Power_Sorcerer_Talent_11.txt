@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Dampen Layer
+Hash: 003892BF, Key: desc, Value: You gain {c_number}[{SF_0} * 100|%|]{/c} Damage Reduction while you have an active {c_important}{u}Barrier{/u}{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Reduction {icon:arrow,1.2} {c_number}[{SF_0} * 100|%|]{/c}

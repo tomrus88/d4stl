@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is he always like this?"
+Hash: 92452F2E, Key: Line1.1AD79A, Value: Abasi is a proud warrior. He welcomes any challenge with a smile, and… confidence that I do not always share.
+Hash: E27B5AFB, Key: VoiceDir1.1AD79A, Value: heartfelt
+Hash: 48AC955F, Key: Line11.1AD79A, Value: Eventually, a warrior must put down their spear and accept the weight of time. Recognize what they can do with what remains.
+Hash: 9FA83ACC, Key: VoiceDir11.1AD79A, Value: heartfelt, direct
+Hash: 21303F21, Key: Line13.1AD79A, Value: He is not strong enough to say goodbye. Refuses to.
+Hash: 782BE48E, Key: VoiceDir13.1AD79A, Value: heartfelt, leaning sombre
+Hash: F9B3E8E3, Key: Line15.1AD79A, Value: In that… I understand.
+Hash: 50AF8E50, Key: VoiceDir15.1AD79A, Value: heartfelt, sombre

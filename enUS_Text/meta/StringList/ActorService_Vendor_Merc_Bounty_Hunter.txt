@@ -1,0 +1,6 @@
+Hash: F848B57F, Key: ConditionText_4, Value: Bartering unlocks at Rapport 
+Rank 5 with any Mercenary.
+Hash: F848B580, Key: ConditionText_5, Value: Bartering requires player level 15.
+Hash: C7866972, Key: ServiceName, Value: Bounty Hunter
+Hash: 8BE21B35, Key: ServiceDescription, Value: Hire this Mercenary or Enlist them as your Reinforcement. You may also Barter with them when any Rapport reaches Rank 5.
+Hash: 5957DF75, Key: InteractionMenuLabel, Value: Barter

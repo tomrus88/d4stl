@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did you see the lake split?"
+Hash: 925131CE, Key: Line1.1C8434, Value: With my very own eyes! Thought I was going right mad. Never seen anything like it, in all my years.
+Hash: 6AD4DB90, Key: Line3.1C8434, Value: Glad the waters returned, though. Don’t want to put the fishers out of a job; Samuk wouldn’t survive without them.

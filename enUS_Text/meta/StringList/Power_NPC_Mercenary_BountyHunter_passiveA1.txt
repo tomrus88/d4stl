@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Piercing Arrows
+Hash: 003892BF, Key: desc, Value: Subo's {c_important}Heavy Shot{/c} now pierces through enemies.

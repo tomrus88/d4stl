@@ -2,5 +2,5 @@ Hash: 003DFCC1, Key: Name, Value: Feral Moon
 Hash: 0871A46B, Key: Toast, Value: Help Edan ward off the strange call.
 Hash: 61CFD437, Key: Phase11Description, Value: I found the amulet on a dead Knight Penitent in the spider's lair. I should bring it to Edan.
 Hash: 38AA8D97, Key: Callback10Header, Value: Return to Edan
-Hash: C45B5CBD, Key: Phase35Description, Value: I met a strange farmer named Edan who is tortured by a strange call in his mind.  He asked me to venture into Sarat's Lair and retrieve an item that might help him.
 Hash: DF0BA3DF, Key: Callback36Header, Value: Take the {ITEM} from Sarat's Lair
+Hash: C45B5CBD, Key: Phase35Description, Value: I met a strange farmer named Edan who is tortured by a strange call in his mind.  He asked me to venture into Sarat's Lair and retrieve an item that might help him.

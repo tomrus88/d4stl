@@ -1,5 +1,5 @@
 Hash: 003DFCC1, Key: Name, Value: The Heroic Roster
-Hash: 003892BF, Key: Desc, Value: Reach Level 100 with every class.
+Hash: 003892BF, Key: Desc, Value: Reach Paragon Level 200 with every original Diablo IV class.
 Hash: 3B9774BF, Key: Crit_174011, Value: Barbarian
 Hash: 3B9774C0, Key: Crit_174012, Value: Druid
 Hash: 3B9774C1, Key: Crit_174013, Value: Necromancer

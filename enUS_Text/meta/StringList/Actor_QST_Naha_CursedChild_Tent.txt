@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rubbish Cot
+Hash: F2CA04D8, Key: NoticeSignText, Value: Broken furnishings shoved together, covered with a tattered sheet. Water drips through tears in the fabric. It looks cold.

@@ -95,3 +95,10 @@ Hash: 70DF7304, Key: LabelCompanion, Value: pet
 Hash: 9533CB5A, Key: LabelTownPortal, Value: portal
 Hash: 9B1D47F7, Key: LabelBackTrophy, Value: back trophy
 Hash: 120613CB, Key: LabelTransmog, Value: look
+Hash: 3EC8A162, Key: CustomizationHeader, Value: Customization
+Hash: E89936DA, Key: SlotModificationTitle, Value: Modify {s1} : {s2}
+Hash: 88728C81, Key: SetLook, Value: Set Look
+Hash: 7D99D920, Key: SetPigment, Value: Set Pigment
+Hash: 33373D2A, Key: SetLookHeader, Value: {s1} Looks ({s2})
+Hash: A6CF61C5, Key: TooltipAcquisitionSource, Value: {s1}
+Hash: 94B4865E, Key: TooltipTheme, Value: Theme:{s1}

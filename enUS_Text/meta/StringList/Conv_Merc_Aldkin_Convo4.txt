@@ -1,0 +1,4 @@
+Hash: E6AF97AC, Key: Line808.199120, Value: Why are you here? You can’t trust demons, not even a half-human one.
+Hash: 1D1FEAB9, Key: VoiceDir808.199120, Value: Suspicious
+Hash: F8E233E2, Key: Line810.1602FD, Value: Better to be a monster on the outside than lie about the one on the inside. Like you humans do.
+Hash: 2F5286EF, Key: VoiceDir810.1602FD, Value: Annoyed

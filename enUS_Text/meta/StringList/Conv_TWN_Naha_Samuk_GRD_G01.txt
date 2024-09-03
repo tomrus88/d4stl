@@ -1,0 +1,5 @@
+Hash: 9251AD59, Key: Line1.1C903B, Value: Is it true? About the runaway. I heard they found his body. I heard it was spirits, of all things, that killed him!
+Hash: 6AD556EA, Key: Line3.1C9031, Value: Can’t say for sure. But I do know his mother wouldn’t appreciate you prying about it.
+Hash: 435900DD, Key: Line5.1C903B, Value: Oh, you are right, Coyo. Gossip rots the mind.
+Hash: 1BDCAA6E, Key: Line7.1C9031, Value: But, if you really want to know... then I might tell you to travel the eastern roads, south of lower Kurast. I might mention it’s there the corpse lies.
+Hash: 6C12D63B, Key: VoiceDir7.1C9031, Value: hushed

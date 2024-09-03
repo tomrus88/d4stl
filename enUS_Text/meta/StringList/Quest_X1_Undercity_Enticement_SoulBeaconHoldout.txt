@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Undercity Enticement
+Hash: 38AA8D97, Key: Callback10Header, Value: Light the Spirit Beacon
+Hash: 47155371, Key: Callback218Header, Value: Slay remaining spirits
+Hash: B273F88D, Key: Callback223Header, Value: Slay {NEEDED} Wrathful Spirits: {DONE_OVER_NEEDED}

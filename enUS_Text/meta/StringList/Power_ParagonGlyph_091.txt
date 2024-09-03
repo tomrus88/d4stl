@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Dealing damage with your {c_important}Jaguar{/c} skills increases your Critical Strike Chance by {c_number}[{SF_0}*100|+%|]{/c} for {c_number}{SF_3}{/c} seconds, up to {c_number}[{SF_0}*{SF_2}*100|+%|]{/c}.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Torment 4 First Time Completion Tracking
+Hash: 003892BF, Key: Desc, Value: Achievement to track first time completion of the Khazra Raid on Torment 4
+Hash: 3DB6ED23, Key: Crit_245322, Value: Alpha Wing
+Hash: 3DB6ED24, Key: Crit_245323, Value: Beta Wing
+Hash: 3DB6ED25, Key: Crit_245324, Value: Omega Wing

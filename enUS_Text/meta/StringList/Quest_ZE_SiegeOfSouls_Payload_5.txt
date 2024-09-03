@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] First Khazra's Prisoner Wagons
+Hash: 2F8C7B0B, Key: Callback140Header, Value: Release the Informant.

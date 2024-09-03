@@ -1,2 +1,4 @@
-Hash: 003DFCC1, Key: name, Value: Crimson Violence
-Hash: 003892BF, Key: desc, Value: Bleeding enemies you kill explode, dealing {c_number}[{SF_1}*100|%|]{/c} of their max life to surrounding enemies.
+Hash: 003DFCC1, Key: name, Value: Force of Nature
+Hash: 003892BF, Key: desc, Value: Your {c_important}Earthquakes{/c} have a {c_number}[SF_0*100|%|]{/c} chance to spawn a {c_important}Dust Devil{/c} every second that deals {c_number}[SF_1]{/c} damage. {c_important}Earthquake{/c} damage is increased by {c_number}[SF_3*100|%|]{/c} of your Damage vs Close bonus, up to a maximum of {c_number}[SF_4*100|%|]{/c}.
+
+Current Bonus: {c_number}[SF_6 * 100|%x|]{/c}

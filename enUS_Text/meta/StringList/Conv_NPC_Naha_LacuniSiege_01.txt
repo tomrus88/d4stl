@@ -1,0 +1,3 @@
+Hash: 8F4863F2, Key: Line1.189B16, Value: On my signal, you run as fast as you can, you hear?
+Hash: 2C918C57, Key: Line6.189B16, Value: I love you.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: No, wait!

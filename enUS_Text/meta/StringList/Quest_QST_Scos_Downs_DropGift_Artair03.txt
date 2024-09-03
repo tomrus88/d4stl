@@ -1,4 +1,4 @@
 Hash: 003DFCC1, Key: Name, Value: The Broken Bear
 Hash: 0871A46B, Key: Toast, Value: I found the final piece of the totem. I should return to Artair in Wraithstead.
 Hash: D53BFF05, Key: Phase0Description, Value: I found the final piece of the totem. I should return to Artair in Wraithstead.
-Hash: 059C64AB, Key: Callback5Header, Value: Bring the Broken Totem to Artair
+Hash: 059C64AB, Key: Callback5Header, Value: Bring the {ITEM:QST_Scos_Downs_DropGift_Artair03} to Artair

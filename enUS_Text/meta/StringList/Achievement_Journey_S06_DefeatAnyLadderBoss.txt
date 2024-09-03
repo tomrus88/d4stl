@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Collapsing the System (PH)
+Hash: 3A4912CF, Key: DescShort, Value: Defeat any Ladder Bosses in Torment I or higher difficulty(PH)

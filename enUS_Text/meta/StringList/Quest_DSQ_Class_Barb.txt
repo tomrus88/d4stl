@@ -1,7 +1,7 @@
 Hash: 003DFCC1, Key: Name, Value: Masters of Battle
-Hash: D53BFF05, Key: Phase0Description, Value: For my final challenge, Katra has tasked me with defeating the Beast of the Steppes.
 Hash: 1EADAE68, Key: Callback2Header, Value: Defeat {MONSTER}
-Hash: C9FCD1EA, Key: Phase5Description, Value: I must retrieve the head of the Beast and bring it to Katra as proof of my victory. 
 Hash: B8A227EA, Key: Callback4Header, Value: Take the {ITEM}
-Hash: 5CD6EA0D, Key: Phase8Description, Value: I must bring the head of the Beast to Katra as proof of my victory.
 Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Katra
+Hash: D53BFF05, Key: Phase0Description, Value: For my final challenge, Katra has tasked me with defeating the Beast of the Steppes.
+Hash: C9FCD1EA, Key: Phase5Description, Value: I must retrieve the head of the Beast and bring it to Katra as proof of my victory. 
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I must bring the head of the Beast to Katra as proof of my victory.

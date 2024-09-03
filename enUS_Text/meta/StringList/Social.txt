@@ -29,9 +29,9 @@ Hash: E1B0FDF9, Key: PendingInviteText, Value: Party invitation sent to
 Hash: 0E1F278E, Key: UnknownPlayerID_Text, Value: Unknown Character
 Hash: 44C3FF89, Key: InviteSent, Value: {s1} invite sent.
 Hash: DA377F15, Key: PartyText, Value: Party
-Hash: 364438F3, Key: PartyMemberKicked, Value: {s1} was removed from the party
-Hash: 345EFA61, Key: PartyMemberJoined, Value: {s1} joined the party
-Hash: 23503CD3, Key: PartyMemberLeft, Value: {s1} left the party
+Hash: 364438F3, Key: PartyMemberKicked, Value: {s1} was removed from the party  ({s2}/4)
+Hash: 345EFA61, Key: PartyMemberJoined, Value: {s1} joined the party ({s2}/4)
+Hash: 23503CD3, Key: PartyMemberLeft, Value: {s1} left the party  ({s2}/4)
 Hash: 467372B2, Key: PartyMemberPromoted, Value: {s1} was promoted to party leader
 Hash: D3B94A67, Key: PartyPlayerPromoted, Value: You were promoted to party leader
 Hash: B5569F68, Key: PartyPlayerKicked, Value: You were removed from the party
@@ -160,3 +160,15 @@ Hash: 05335BA6, Key: PartyVoteChallengeRift, Value: Vote to start the current Tr
 Hash: F808404F, Key: CancelRequest, Value: CancelRequest
 Hash: 67AEC172, Key: FriendsListSearchBar, Value: Search for players
 Hash: A8642298, Key: ClearTextField_Icon, Value: {icon:BtnIcon_CloseFull_Up, 1.45}
+Hash: F33DFA3E, Key: PartyX1InviteWarning, Value: You will not be able to progress certain Vessel of Hatred quests while this player is in your party.
+Hash: BE445D9F, Key: PartyMemberPortalInaccessible, Value: {c_red}You do not have access to this location{/c}
+Hash: 1A9157A1, Key: PartyReaccessCampaign_X1, Value: Your party has regained access to all Vessel of Hatred campaign quests
+Hash: 25AE0F28, Key: PartyFinder, Value: Party Finder
+Hash: 74AAB1B0, Key: PartyRestrictedNMD_X1, Value: You cannot activate a Nightmare Dungeon at {s1}.
+
+{c_highlight}Some of your party members do not have access to that location.{/c}
+Hash: 706D54EC, Key: RaidProgressDifficultyPromptTitle, Value: Dark Citadel Difficulty Change
+Hash: 6817E890, Key: RaidProgressDifficultyPromptDetails, Value: You have {s1} progress in {s2}. {c_highlight}Reset{/c} or {c_highlight}ignore progress{/c} in {s3}?
+Hash: 662A4898, Key: RaidProgressDifficultyPromptSwitchButton, Value: Reset
+Hash: E590B24A, Key: RaidProgressDifficultyPromptIgnoreButton, Value: Ignore
+Hash: FFDA228B, Key: RaidProgressDifficultyPromptCountDown, Value: {s1}

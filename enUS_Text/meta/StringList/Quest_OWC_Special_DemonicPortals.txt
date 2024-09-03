@@ -1,0 +1,2 @@
+Hash: D53BFF05, Key: Phase0Description, Value: Cursed Portals
+Hash: 0BDB18BB, Key: Callback23Header, Value: Destroy {NEEDED} Invasion Portals: {DONE_OVER_NEEDED}

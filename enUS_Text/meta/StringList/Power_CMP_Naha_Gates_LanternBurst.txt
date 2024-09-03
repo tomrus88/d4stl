@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Rathma's Ire
+Hash: 003892BF, Key: desc, Value: Channel the power of Trag'Oul through the reliquary lantern.
+Hash: F2DE8628, Key: simple_desc, Value: Channel the power of Trag'Oul through the reliquary lantern.

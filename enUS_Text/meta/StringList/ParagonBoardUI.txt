@@ -36,8 +36,8 @@ Hash: F04C1599, Key: GlyphLocatePrevious, Value: Location Previous
 Hash: 3AFB2264, Key: GlyphDefaultView, Value: View Default
 Hash: E55ACCF5, Key: Node_Socket_Modify, Value: Modify
 Hash: F647E2B4, Key: Node_Socket_Unequip, Value: Unequip
-Hash: D16DBDFF, Key: GlyphRarity_Magic, Value: {c_magic}Magic Glyph
-Hash: 1DA13968, Key: GlyphRarity_Rare, Value: {c_rare}Rare Glyph
+Hash: D16DBDFF, Key: GlyphRarity_Magic, Value: {c_magic}Magic Glyph{/c}
+Hash: 1DA13968, Key: GlyphRarity_Rare, Value: {c_rare}Rare Glyph{/c}
 Hash: 8E13DB00, Key: GlyphSizeName, Value: {c_label}Radius Size:{/c} {c_yellow}{s1}{/c}
 Hash: 9D574A0A, Key: GlyphRewardName, Value: {c_label}Bonus:{/c}
 Hash: B45C4C57, Key: LegendGlyphFocusController, Value: Switch to Board
@@ -79,7 +79,6 @@ Hash: 13A1DF00, Key: Select, Value: Select
 Hash: BC12FF09, Key: Deselect, Value: Deselect
 Hash: 7C584970, Key: DeselectHold, Value: (Hold) Deselect
 Hash: BD54B938, Key: ThresholdGlyphBonus, Value: {c_label}Additional Bonus:{/c}
-{c_lightgray}(if requirements met){/c}
 Hash: 175CB47A, Key: ThresholdRequirementsHeader, Value: {c_label}Requirements:{/c}
 Hash: 77D7A8EF, Key: BoardUnequip, Value: Unequip Board
 Hash: BA182E7E, Key: ThresholdRequirementsInRangeHeader, Value: {c_label}Requirements:{/c}
@@ -93,7 +92,7 @@ Hash: F1405E5A, Key: ControllerPrompt_Attach, Value: Attach
 Hash: BF5F5974, Key: SearchBarSelectDeselect, Value: Select/Deselect
 Hash: DCC57A2B, Key: SearchBarClearAll, Value: Clear All
 Hash: C35BA6A0, Key: RequirementListThresholdMet, Value: {icon:bullet, 1.4} {c_green}{s1}{/c} / {s2}
-Hash: 27E59D71, Key: RequirementListThresholdNotMet, Value: {icon:bullet, 1.4} {c_red}{s1}{/c} / {s2}
+Hash: 27E59D71, Key: RequirementListThresholdNotMet, Value: {icon:bullet, 1.4} Required: {c_red}{s1}{/c} / {s2}
 Hash: 05C2DB26, Key: Details, Value: Details
 Hash: 004BA60A, Key: BoardPreview, Value: Preview Board Selection
 Hash: 43F83434, Key: GlyphRadiusUpgrade, Value: {s1}Next Radius Increase at Level {s2}
@@ -111,5 +110,11 @@ Hash: 919B71AE, Key: ParagonPoint_Value, Value: {icon:ParagonPoint_Icon, 1.7}{s1
 Hash: 858AFAB8, Key: BoardUnequipConfirmation, Value: Are you sure you want to {c_highlight}unequip this board{/c}?
 Hash: FEC244DD, Key: NotEnoughGold, Value: {c_red}You don't have enough gold to refund all the nodes.{/c}
 Hash: 3D3F74C6, Key: RefundAllConfirmation, Value: Are you sure you want to {c_highlight}refund all paragon points{/c}?
-Hash: 3D7741A8, Key: GlyphRarity_Greater, Value: Unique Glyph
 Hash: 09F9E253, Key: NoSocketableNodes, Value: {c_red}Unlock socketable nodes to use{/c}
+Hash: C0146FCF, Key: ParagonPointsSpent, Value: {s1} |4point:points; spent
+Hash: 624074B9, Key: GlyphRarity_Legendary, Value: {c_legendary}Legendary Glyph{/c}
+Hash: 26D0478C, Key: RarityRequirement, Value: Required: {c_red}{s1} Upgrade (unlocks at Level {s2}){/c}
+Hash: BE98E906, Key: LegendaryGlyphBonus, Value: {c_label}Legendary Bonus:{/c}
+Hash: F8625075, Key: RequirementListThresholdNotMetInRange, Value: {icon:bullet, 1.4} Required (purchased in range):  {c_red}{s1}{/c} / {s2}
+Hash: 03AA4EC4, Key: RequirementListThresholdMetInRange, Value: {icon:bullet, 1.4} {c_green}{s1}{/c} / {s2} (purchased in range)
+Hash: B0BC2571, Key: GlyphNotFound, Value: Not found

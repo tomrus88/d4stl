@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Dismiss Mercenary
+Hash: F90B494A, Key: Line810.189135, Value: Take care of yourself out there.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: warm
+Hash: D18EF30C, Key: Line812.189135, Value: I’m here if you need anything.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: warm
+Hash: AA129CCE, Key: Line814.189135, Value: Farewell, friend.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: warm
+Hash: 82964690, Key: Line816.189135, Value: Till your next visit!
+Hash: B906999D, Key: VoiceDir816.189135, Value: warm

@@ -1,19 +1,19 @@
 Hash: 003DFCC1, Key: Name, Value: Knee-Deep in Filth
 Hash: 0871A46B, Key: Toast, Value: Catch up to Taissa
-Hash: 61CFD437, Key: Phase11Description, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
-Hash: 38AA8D97, Key: Callback10Header, Value: Catch up to Taissa
-Hash: F4A9EC5A, Key: Phase14Description, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
-Hash: 1F9943DA, Key: Callback13Header, Value: Track Elias with Taissa through the Plaguemarsh
-Hash: E2223B19, Key: Phase22Description, Value: Elias is no more. His head belongs to the Tree of Whispers. I should rejoin the others outside the swamp.
-Hash: 71E69F39, Key: Callback21Header, Value: Speak with Taissa
-Hash: 573574E0, Key: Phase38Description, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
-Hash: 2C05E0A0, Key: Callback37Header, Value: Speak with Lorath
-Hash: 81851BDF, Key: Phase64Description, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
-Hash: BCE26C3F, Key: Callback63Header, Value: Speak with Taissa
 Hash: 9AC58840, Key: BreadcrumbHeader, Value: Catch up to Taissa in the Foul Undercrypts
 Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
+Hash: 61CFD437, Key: Phase11Description, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
 Hash: 03E5A75F, Key: Phase11OutsideSubzoneHeader, Value: Catch up to Taissa through the Foul Undercrypts
+Hash: 38AA8D97, Key: Callback10Header, Value: Catch up to Taissa
+Hash: F4A9EC5A, Key: Phase14Description, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
 Hash: F70C96E2, Key: Phase14OutsideSubzoneHeader, Value: Track Elias with Taissa through the Plaguemarsh
+Hash: 1F9943DA, Key: Callback13Header, Value: Track Elias with Taissa through the Plaguemarsh
+Hash: E2223B19, Key: Phase22Description, Value: Elias is no more. His head belongs to the Tree of Whispers. I should rejoin the others outside the swamp.
 Hash: C79EEC81, Key: Phase22OutsideSubzoneHeader, Value: Speak with Taissa at the Ruins of Rahkat Keep
+Hash: 71E69F39, Key: Callback21Header, Value: Speak with Taissa
+Hash: 573574E0, Key: Phase38Description, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
 Hash: 20991628, Key: Phase38OutsideSubzoneHeader, Value: Track Elias with Taissa through the Plaguemarsh
+Hash: 2C05E0A0, Key: Callback37Header, Value: Speak with Lorath
+Hash: 81851BDF, Key: Phase64Description, Value: We survived Elias' ambush, but he is attempting to escape. Taissa is chasing him through the crypts, and I must follow her.
 Hash: 346A0C07, Key: Phase64OutsideSubzoneHeader, Value: Catch up to Taissa through the Foul Undercrypts
+Hash: BCE26C3F, Key: Callback63Header, Value: Speak with Taissa

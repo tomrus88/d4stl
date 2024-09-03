@@ -1,0 +1,3 @@
+Hash: C7866972, Key: ServiceName, Value: Undercity Spirit Brazier
+Hash: 74450E67, Key: LockedInteractionMenuLabel, Value: Complete 'Undercity: Wail of the Forgotten' to access the Undercity
+Hash: F848B57B, Key: ConditionText_0, Value: [PH] Complete Undercity Quest 01 to access the Undercity

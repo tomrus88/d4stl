@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shattered Vow
+Hash: F5C7BC0A, Key: Flavor, Value: Malthael's last and only gift to mankind - a vow that our suffering shall end.

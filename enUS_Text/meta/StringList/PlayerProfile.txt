@@ -91,3 +91,4 @@ Hash: 27054F77, Key: PastWeeks, Value: Past Weeks
 Hash: 3F5FBAC7, Key: NoAccomplishments, Value: No Accomplishments to display
 Hash: B5C15206, Key: SelectASeal, Value: Select a Seal in {c_highlight}Edit Profile{/c} to display results from trials.
 Hash: 45DA4061, Key: InviteRequested, Value: {c_highlight}You requested to join on {s1}{/c}.  Check the status of your application in the  Clans menu.
+Hash: F6A52168, Key: NoActiveTrials, Value: No active Trials available to earn seals

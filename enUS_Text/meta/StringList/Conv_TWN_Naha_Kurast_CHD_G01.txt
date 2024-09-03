@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Pre-flip
+Hash: 9268B954, Key: Line1.1CC132, Value: Sleep tight, little one.
+Hash: 6AC00E5F, Key: Line3.1B367C, Value: Papa, I’m not ready for sleep.
+Hash: 43700CD8, Key: Line5.1CC132, Value: Shh...don't wake your sister. You know, children who don't listen will be turned into flower food by Dregs.
+Hash: 93A638A5, Key: VoiceDir5.1CC132, Value: gently
+Hash: 1BC761E3, Key: Line7.1B367C, Value: (gasps) I don't want to be flower food.
+Hash: 6BFD8DB0, Key: VoiceDir7.1B367C, Value: (quietly with creeping fear) 

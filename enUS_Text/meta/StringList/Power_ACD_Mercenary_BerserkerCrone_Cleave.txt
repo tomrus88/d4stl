@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Cleave
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Makhni swings both of her axes in an arc in front of her, dealing {c_number}{payload:DAMAGE}{/c} damage and inflicting {c_number}{dot:BLEED_BUFF}{/c} Bleeding damage over {c_number}{buffduration:BLEED_BUFF}{/c} seconds.

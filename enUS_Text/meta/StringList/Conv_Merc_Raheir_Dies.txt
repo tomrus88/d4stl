@@ -1,0 +1,6 @@
+Hash: F90B494A, Key: Line810.189135, Value: (pained gasps) It hurts.
+Hash: 2F7B9C57, Key: VoiceDir810.189135, Value: Distressed 
+Hash: D18EF30C, Key: Line812.189135, Value: (gasping breaths) I cannot rise.
+Hash: 07FF4619, Key: VoiceDir812.189135, Value: Distressed 
+Hash: AA129CCE, Key: Line814.189135, Value: (pained gasp) Watch out for yourself.
+Hash: E082EFDB, Key: VoiceDir814.189135, Value: Distressed 

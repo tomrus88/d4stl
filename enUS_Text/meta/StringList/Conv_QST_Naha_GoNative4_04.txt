@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me of Kharov."
+Hash: 8F733B6A, Key: Line1.19FF85, Value: The brightest light I've ever encountered. Warrior, theologian, ruthless in his pursuits, and when he transcends morality, it's always with purpose.
+Hash: 67F6E52C, Key: Line3.19FF85, Value: He was never the same after the death of Inarius. Writing about his change was why he banished me, but not because my words were unkind, no. They were perhaps too kind.
+Hash: 407A8EEE, Key: Line5.19FF85, Value: "Too kind" he said, "for the man I have become."
+Hash: 18FE38B0, Key: Line7.19FF85, Value: It would seem that I can no longer appease Kharov, but you... you will succeed where I failed.

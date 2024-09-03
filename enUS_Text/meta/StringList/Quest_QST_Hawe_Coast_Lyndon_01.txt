@@ -12,5 +12,5 @@ Hash: 45172A5D, Key: Callback34Header, Value: Speak with Lyndon
 Hash: 2C05E0A0, Key: Callback37Header, Value: Speak with Lyndon
 Hash: D0E42560, Key: Phase74Description, Value: We're paying off "law men" to keep Backwater out of scrutiny. But first we need to find Lyndon's stash.
 Hash: A9244120, Key: Callback73Header, Value: Retrieve Lyndon's stashed supplies
-Hash: DD0D3424, Key: Callback77Header, Value: Search for Lyndon's supplies
+Hash: DD0D3424, Key: Callback77Header, Value: Search for {ITEM:QST_Hawe_Coast_Lyndon_01_Item_Supplies}
 Hash: E26052C2, Key: Callback84Header, Value: Speak with Lyndon

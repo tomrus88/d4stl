@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: The Final Precipice
-Hash: 003892BF, Key: Desc, Value: Complete a Tier 100 or higher of The Pit
+Hash: 003892BF, Key: Desc, Value: Complete a Tier 100 run of The Pit

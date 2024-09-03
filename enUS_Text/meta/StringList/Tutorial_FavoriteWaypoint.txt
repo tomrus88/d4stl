@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Favorite Waypoint
+Hash: 7BFE534B, Key: simple_instruction, Value: You can {c_highlight}mark a Waypoint as your Favorite{/c} to use as the destination for your Town Portal.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: You can {c_highlight}mark a Waypoint as your Favorite{/c} to use as the destination for your Town Portal.

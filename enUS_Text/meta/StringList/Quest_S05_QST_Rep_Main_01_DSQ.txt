@@ -1,16 +1,16 @@
-Hash: 003DFCC1, Key: Name, Value: Of Lambs and Wolves
+Hash: 0F2FC79E, Key: Callback71Header, Value: Slay the demon
+Hash: 7701ADA6, Key: Callback79Header, Value: Slay the demon
+Hash: 63438287, Key: Callback89Header, Value: Gather {ITEM} from the Crate of Khazra Organs
+Hash: 34ADAE21, Key: Callback92Header, Value: Place the liver in the brazier
+Hash: B590DDE6, Key: Callback97Header, Value: Speak with Locran
 Hash: 4FECF0BA, Key: Phase41Description, Value: Locran said his "mother" taught him the words of the prophecy... and he has invited me to supper with his "family" at their house nearby. Whatever is going on there, I'm not sure I'll like it.
-Hash: FD700C3A, Key: Callback40Header, Value: Enter the house
 Hash: E2C708DD, Key: Phase44Description, Value: Locran and his "family" are Triune! Yet they do not attack... What is the meaning of this?
+Hash: ABD4C2DE, Key: Phase90Description, Value: I've been invited to undergo a Triune ritual to gift me some sort of power. An ominous proposition, yet they do seem sincere. Locran moreso than the other one...
+Hash: D188F324, Key: Phase96Description, Value: Locran says they are "The Mother's Triune," faithful to Lilith's goal to save Sanctuary from Hell... and they want to help me do it.
+How can I trust them? Can I afford not to?
+Hash: 003DFCC1, Key: Name, Value: Of Lambs and Wolves
+Hash: FD700C3A, Key: Callback40Header, Value: Enter the house
 Hash: E45EC27D, Key: Callback43Header, Value: Confront Locran
 Hash: CB4D78C0, Key: Callback46Header, Value: Acquire the {ITEM}
 Hash: B23C2F03, Key: Callback49Header, Value: Speak with Locran
 Hash: 22EDF2BD, Key: Callback61Header, Value: Speak with Istel
-Hash: 0F2FC79E, Key: Callback71Header, Value: Slay the demon
-Hash: 7701ADA6, Key: Callback79Header, Value: Slay the demon
-Hash: ABD4C2DE, Key: Phase90Description, Value: I've been invited to undergo a Triune ritual to gift me some sort of power. An ominous proposition, yet they do seem sincere. Locran moreso than the other one...
-Hash: 63438287, Key: Callback89Header, Value: Gather {ITEM} from the Crate of Khazra Organs
-Hash: 34ADAE21, Key: Callback92Header, Value: Place the liver in the brazier
-Hash: D188F324, Key: Phase96Description, Value: Locran says they are "The Mother's Triune," faithful to Lilith's goal to save Sanctuary from Hell... and they want to help me do it.
-How can I trust them? Can I afford not to?
-Hash: B590DDE6, Key: Callback97Header, Value: Speak with Locran

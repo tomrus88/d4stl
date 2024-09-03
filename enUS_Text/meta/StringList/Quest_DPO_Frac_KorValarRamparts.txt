@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: The only vice is ignorance.
-Hash: 6C93809B, Key: Callback14Header, Value: Use the Stained Key to open the {GIZMO}
-Hash: 24EC6278, Key: Callback20Header, Value: Defeat the Knight Council
-Hash: 45172A5D, Key: Callback34Header, Value: Slay Lieutenant Tummen and collect the {ITEM}
 Hash: DF0BA3DF, Key: Callback36Header, Value: Free the Prisoners: {LEFT}
+Hash: 45172A5D, Key: Callback34Header, Value: Slay Lieutenant Tummen and collect the {ITEM}
+Hash: 6C93809B, Key: Callback14Header, Value: Use the {ITEM:DGN_Frac_KorValarRamparts_Key_02} to open the {GIZMO}
+Hash: 24EC6278, Key: Callback20Header, Value: Defeat the Knight Council
 Hash: 79001D61, Key: Callback38Header, Value: Travel to {LEVELAREA}

@@ -1,0 +1,8 @@
+Hash: 9284B9B3, Key: Line1.1F3378, Value: You have strength. I wonder, are your fangs as sharp as mine?
+Hash: E2BAE580, Key: VoiceDir1.1F3378, Value: (curious, intrigued)  
+Hash: 6B086375, Key: Line3.1F3378, Value: You know death as intimately as I. This will be a good fight.
+Hash: BB3E8F42, Key: VoiceDir3.1F3378, Value: (excitement, curiosity) 
+Hash: 438C0D37, Key: Line5.1F3378, Value: I have devoured many of your kind. How will you compare?
+Hash: 93C23904, Key: VoiceDir5.1F3378, Value: taunting, self-assured
+Hash: 1C0FB6F9, Key: Line7.1F3378, Value: I need no past. Only the hunt.
+Hash: 6C45E2C6, Key: VoiceDir7.1F3378, Value: pride, confidence

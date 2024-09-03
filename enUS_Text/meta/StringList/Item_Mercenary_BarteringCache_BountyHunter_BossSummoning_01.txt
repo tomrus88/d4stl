@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lord Zir Summoning Cache
+Hash: A646FFA4, Key: Description, Value: Contains Exquisite Blood, with a very small chance of containing Stygian Stones.

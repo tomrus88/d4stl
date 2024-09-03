@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Post-flip
+Hash: 923C649D, Key: Line1.1B367C, Value: Papa, I’d really like to see the pretty flower fields like we did last year.
+Hash: 6AEC6316, Key: Line3.1CC132, Value: Sweet Chakhir, it is no longer safe to go. There are many more Dregs than before.
+Hash: 4343B821, Key: Line5.1B367C, Value: Then when Mawar grows up, Mawar will fight all these Dregs, so we can have our flower tour!
+Hash: 1BF3B69A, Key: Line7.1CC132, Value: Hopefully by then you won’t need to do that. But for now, let's not wander outside the city on our own, yeah?

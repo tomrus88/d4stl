@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Festering Wall
+Hash: F2CA04D8, Key: NoticeSignText, Value: A pulsing mass of hollow flesh bars the way forward. You must find another way.

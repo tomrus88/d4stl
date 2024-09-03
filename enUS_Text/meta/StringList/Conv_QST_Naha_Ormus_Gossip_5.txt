@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Eru made a deal with Mephisto. He betrayed Akarat to save Nahantu."
+Hash: 9262B18B, Key: Line1.1D7161, Value: Disgraceful.
+Hash: E298DD58, Key: VoiceDir1.1D7161, Value: with disgust
+Hash: 67D2B15F, Key: Line3.17FDCA, Value: Eru has made a terrible mistake. A mistake Ormus understands – but a mistake nonetheless. If he ever returns to us... he will be punished.
+Hash: B808DD2C, Key: VoiceDir3.17FDCA, Value: a disappointed parent
+Hash: 436A0513, Key: Line5.1D7165, Value: He deserves death.
+Hash: 18DA04E3, Key: Line7.17FDCA, Value: He deserves to make amends. It’s what Akarat would want for him.
+Hash: 691030B0, Key: VoiceDir7.17FDCA, Value: forceful, then soft

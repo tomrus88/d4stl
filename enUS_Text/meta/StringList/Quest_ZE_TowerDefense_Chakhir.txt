@@ -1,0 +1,45 @@
+Hash: 003DFCC1, Key: Name, Value: Siege of Chakhir Ruins
+Hash: B8A227EA, Key: Callback4Header, Value: Chakir has been defended!
+Hash: 38AA8D97, Key: Callback10Header, Value: Defend Wards until the Herald arrives
+Hash: C6C5781A, Key: Callback848Header, Value: Courtyard Ward
+Hash: A4966278, Key: Callback756Header, Value: Market Ward
+Hash: 2E0FC5B8, Key: Callback459Header, Value: Temple Ward
+Hash: 2CD0FE98, Key: Callback846Header, Value: Observatory Ward
+Hash: A5CF923D, Key: Callback25Header, Value: Defeat the Herald
+Hash: 8122A7B4, Key: Callback932Header, Value: Slay the minions that shield the Herald: {DONE_OVER_NEEDED}
+Hash: 6B602ED8, Key: Callback864Header, Value: Courtyard Ward
+Hash: B3074CFB, Key: Callback858Header, Value: Market Ward
+Hash: 37773BD4, Key: Callback860Header, Value: Temple Ward
+Hash: D16BB556, Key: Callback862Header, Value: Observatory Ward
+Hash: 976485BC, Key: Callback42Header, Value: Defeat the Herald
+Hash: 1B172136, Key: Callback934Header, Value: Slay the minions that shield the Herald: {DONE_OVER_NEEDED}
+Hash: B8548D97, Key: Callback746Header, Value: Courtyard Ward
+Hash: EA772111, Key: Callback740Header, Value: Market Ward
+Hash: 846B9A93, Key: Callback742Header, Value: Temple Ward
+Hash: 1E601415, Key: Callback744Header, Value: Observatory Ward
+Hash: B23C2F03, Key: Callback49Header, Value: Defeat the Herald
+Hash: B50B9AB8, Key: Callback936Header, Value: Slay the minions that shield the Herald: {DONE_OVER_NEEDED}
+Hash: 1C55E856, Key: Callback547Header, Value: Courtyard Ward
+Hash: 6C9EF5F8, Key: Callback477Header, Value: Market Ward
+Hash: 579069B3, Key: Callback517Header, Value: Temple Ward
+Hash: F184E335, Key: Callback519Header, Value: Observatory Ward
+Hash: 995CD0CE, Key: Callback107Header, Value: Protect the Wards of the Wild: {LEFT}/{NEEDED}
+Hash: 47E69612, Key: Callback921Header, Value: Defend Wards until the Herald arrives
+Hash: E86CF552, Key: Callback543Header, Value: Courtyard Ward
+Hash: D2AA7C76, Key: Callback475Header, Value: Market Ward
+Hash: 05430E54, Key: Callback509Header, Value: Temple Ward
+Hash: 89B2FD2D, Key: Callback511Header, Value: Observatory Ward
+Hash: AD20D9EF, Key: Callback216Header, Value: Defeat all enemies to end the invasion
+Hash: E72E2E32, Key: Callback930Header, Value: An invasion is imminent
+Hash: D36A2511, Key: Callback821Header, Value: Prepare to fight the Herald
+Hash: 7C8C95CE, Key: Callback260Header, Value: An invasion is imminent
+Hash: 85A483B1, Key: Callback236Header, Value: A second wave approaches...
+Hash: 0BDAD214, Key: Callback248Header, Value: A third wave approaches...
+Hash: AB284836, Key: Callback376Header, Value: Defend Wards until the Herald arrives
+Hash: 11F3774F, Key: Callback720Header, Value: Courtyard Ward
+Hash: 45229FBA, Key: Callback497Header, Value: Market Ward
+Hash: F38F0EF4, Key: Callback716Header, Value: Temple Ward
+Hash: DF17193C, Key: Callback499Header, Value: Observatory Ward
+Hash: 112DF0B2, Key: Callback255Header, Value: The final assault is imminent...
+Hash: A1479197, Key: Callback827Header, Value: Prepare to fight the Herald
+Hash: 408F29B7, Key: Callback836Header, Value: Prepare to fight the Herald

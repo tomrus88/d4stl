@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 9245BEBC, Key: Line1.1AE824, Value: Why the long face, kid?
+Hash: 6AC9687B, Key: Line3.1AE821, Value: Eru promised he would come back. But he lied. It's been forever.
+Hash: 434D1240, Key: Line5.1AE824, Value: Come now, Eru’s a man of his word. I’m sure the Hollows have kept him busy. Next time the council visits, you’ll see.

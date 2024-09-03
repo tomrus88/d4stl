@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Mastermind
+Hash: 003892BF, Key: desc, Value: Subo's {c_important}Wire Trap{/c} and {c_important}Trip Mines{/c} gain {c_number}[({SF_1}-1)*100*2|%|]{/c} Size.
+
+You and Subo gain {c_number}[{SF_0}*100|+%|]{/c} Crowd Control Duration.

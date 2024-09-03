@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Reduce your active Cooldowns by {c_number}0.25{/c} seconds.
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Adrenaline
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Further Reduced Cooldowns
+Hash: 003DFCC1, Key: Name, Value: Eom

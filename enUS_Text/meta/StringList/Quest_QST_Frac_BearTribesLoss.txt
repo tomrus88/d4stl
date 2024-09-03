@@ -1,3 +1,3 @@
 Hash: 003DFCC1, Key: Name, Value: Gory Display
 Hash: D53BFF05, Key: Phase0Description, Value: I found a Warrior's Chain after slaying a khazra ambush. I should bring this to the Bear Tribe Refuge and notify them of what happened. 
-Hash: 059C64AB, Key: Callback5Header, Value: Bring the Warrior's Chain to the Bear Tribe Refuge
+Hash: 059C64AB, Key: Callback5Header, Value: Bring the {ITEM:QST_Frac_BearTribeMedallion} to the Bear Tribe Refuge

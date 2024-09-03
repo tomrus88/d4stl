@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Beleth's Bane
+Hash: F5C7BC0A, Key: Flavor, Value: Blessed by the spirits and handed down from father to son. The blade that proved anathema to the demon Beleth and broke the curse placed upon Dian and his family, now entrusted to you.

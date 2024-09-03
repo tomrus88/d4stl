@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Field of Languish
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Aldkin desiccates an area for {c_number}{SF_3}{/c} seconds, Slowing enemies within by {c_number}[{SF_2}*100|%|]{/c} and reducing their damage dealt by {c_number}[{SF_1}*100|s%|]{/c}.

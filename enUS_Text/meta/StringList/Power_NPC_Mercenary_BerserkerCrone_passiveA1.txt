@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Hysteria
+Hash: 003892BF, Key: desc, Value: You gain {c_number}[{SF_2}*100|1%+|]{/c} Attack Speed for {c_number}{SF_0}{/c} seconds whenever Varyana damages an enemy, up to {c_number}[{SF_2}*{SF_1}*100|1%+|]{/c}.

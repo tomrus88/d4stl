@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stone of Vehemen
+Hash: F5C7BC0A, Key: Flavor, Value: Long ago, the Stone Clan laid the foundations of Old Kurast. They shaped earthen marvels, but wars with the Vizjerei turned chisel into spear. Now the only stone they wield is when cast against foe.

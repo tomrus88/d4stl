@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Pillaging the Past
+Hash: 0871A46B, Key: Toast, Value: Claim the bones of bygone villains.
+Hash: DD3F1FAC, Key: Callback132Header, Value: Inspect the Seething Sarcophagus
+Hash: FB719C7F, Key: Callback81Header, Value: Slay demons while Aldkin opens the sarcophagus.
+Hash: A9244120, Key: Callback73Header, Value: Slay remaining enemies.
+Hash: E7B37160, Key: Callback91Header, Value: Slay demons in the sigils to help power the spell.

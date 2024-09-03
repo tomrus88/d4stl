@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Buried Chamber
+Hash: 003892BF, Key: Desc, Value: A cave entrance hidden under blown dirt.

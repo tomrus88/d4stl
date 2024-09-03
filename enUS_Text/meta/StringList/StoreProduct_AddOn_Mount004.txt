@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Summoner's Vault Platinum Pack
+Hash: A646FFA4, Key: Description, Value: The wealth amassed by the Vizjerei nobility remains the stuff of legend. A "glittering mountain," they say, hidden deep in a vault of horrors.
+Hash: 083EE0CE, Key: Quote, Value: The spoils of blood and blasphemy.
+Hash: 13A53A8B, Key: Series, Value: "Summoner's Vault Platinum Pack"

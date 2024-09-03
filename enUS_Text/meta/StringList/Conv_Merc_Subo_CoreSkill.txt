@@ -1,0 +1,5 @@
+Hash: 8F59AC1D, Key: Line1.199120, Value: Want someone or something found, you find me.
+Hash: 67DD55DF, Key: Line3.199120, Value: It’s what I do.
+Hash: 4060FFA1, Key: Line5.199120, Value: At least I can put my skills to use.
+Hash: 18E4A963, Key: Line7.199120, Value: Not much gets past me.
+Hash: F1685325, Key: Line9.199120, Value: I find things, even if they don’t want to be found.

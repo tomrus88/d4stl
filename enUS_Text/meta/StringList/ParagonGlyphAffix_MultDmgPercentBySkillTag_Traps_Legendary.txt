@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Increase Traps skills damage by {c_number}[{GlyphAffixScalar}|1%x|]{/c}.

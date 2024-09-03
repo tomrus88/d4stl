@@ -1,0 +1,8 @@
+Hash: 5CE96CA3, Key: Line802.1602FD, Value: It feels nice to help Sanctuary.
+Hash: 9359BFB0, Key: VoiceDir802.1602FD, Value: proud
+Hash: 356D1665, Key: Line804.1602FD, Value: You do this every day? Exhausting.
+Hash: 6BDD6972, Key: VoiceDir804.1602FD, Value: happy
+Hash: 0DF0C027, Key: Line806.1602FD, Value: Great fight!
+Hash: 44611334, Key: VoiceDir806.1602FD, Value: excited
+Hash: E67469E9, Key: Line808.1602FD, Value: That was fun!
+Hash: 1CE4BCF6, Key: VoiceDir808.1602FD, Value: excited

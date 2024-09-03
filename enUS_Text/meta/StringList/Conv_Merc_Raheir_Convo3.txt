@@ -1,0 +1,4 @@
+Hash: 45E24EA5, Key: Line822.1602FD, Value: I don’t think Subo likes me.
+Hash: 7C52A1B2, Key: VoiceDir822.1602FD, Value: worried
+Hash: 1E8F0DCF, Key: Line824.189135, Value: I don’t think Subo likes anyone. But don’t fret. He’s wary of anything new.
+Hash: 54FF60DC, Key: VoiceDir824.189135, Value: good natured 

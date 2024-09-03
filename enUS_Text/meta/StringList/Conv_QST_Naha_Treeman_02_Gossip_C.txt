@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How did you manage to steal the gem in the first place?"
+Hash: 9251BE6D, Key: Line1.1C9450, Value: Etsecheke fell asleep. I... I knew that would be the only chance I had to enter the grove. He safeguarded it for such a long time.
+Hash: E287EA3A, Key: VoiceDir1.1C9450, Value: Explaining his guilt. 
+Hash: 6AD5682F, Key: Line3.1C9450, Value: The grove was so quiet when I snuck past him. It felt... heavy. And I could feel it change when I took the gem.
+Hash: BB0B93FC, Key: VoiceDir3.1C9450, Value: Explaining his guilt. 
+Hash: 435911F1, Key: Line5.1C9450, Value: Then I heard rumbling and screeching, so I ran and didn't look back. That’s when I tried to throw the gem in the river.
+Hash: 938F3DBE, Key: VoiceDir5.1C9450, Value: Explaining his guilt. 

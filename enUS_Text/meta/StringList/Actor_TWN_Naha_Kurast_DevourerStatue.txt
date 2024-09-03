@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Devourer Statue
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Where life is found, so too is death. An inevitability that gives us strength and fortifies our resolve to continue on for those who cannot."

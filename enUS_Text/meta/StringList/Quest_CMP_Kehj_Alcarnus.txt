@@ -9,7 +9,6 @@ Hash: 2A395C6D, Key: Callback133Header, Value: Destroy one of the Necrotic Masse
 Hash: 3BF917D1, Key: Callback164Header, Value: Slay Rashta, the Mad Surgeon
 Hash: 0F29A2F5, Key: Callback177Header, Value: Return to the Lair of the Witch
 Hash: F3019888, Key: Callback200Header, Value: Slay {MONSTER}
-Hash: B5C8A770, Key: Callback271Header, Value: Retrieve Rashta's Medical Notes
 Hash: AD20D9EF, Key: Callback216Header, Value: Investigate the Lair of the Witch
 Hash: D0A050B7, Key: Callback278Header, Value: Investigate the Lair of the Witch
 Hash: 1D9A8D78, Key: Callback279Header, Value: Investigate the Lair of the Witch

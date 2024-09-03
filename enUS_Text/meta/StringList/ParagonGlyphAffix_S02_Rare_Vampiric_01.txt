@@ -1,1 +1,0 @@
-Hash: 003892BF, Key: Desc, Value: For every 5 Core Stats purchased within range, you gain {c_number}[{GlyphAffixScalar}|%2||x|]{/c} increased damage.

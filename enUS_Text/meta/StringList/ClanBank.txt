@@ -54,3 +54,4 @@ Hash: 0F22023F, Key: ItemNotTradable, Value: The item you selected is not tradab
 Hash: 5E56F761, Key: NoPermissionToDeposit, Value: You don't have permission to deposit.
 Hash: EECF84D3, Key: NoPermissionToWithdraw, Value: You don't have permission to withdraw.
 Hash: 72D74CE2, Key: EditClanBankTabTooltip, Value: {icon:rmb,2.0} to edit tab
+Hash: 2D4A2566, Key: BankTabFull, Value: Bank tab is full.

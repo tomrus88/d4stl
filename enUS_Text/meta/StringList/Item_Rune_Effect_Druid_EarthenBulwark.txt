@@ -1,0 +1,4 @@
+Hash: DB4A22DE, Key: RuneDescription, Value: {c_RuneEffect}Evoke the Druid's {c_important}Earthen Bulwark{/c}, granting yourself a {c_important}{u}Barrier{/u}{/c}.{/c}
+Hash: F42D73CE, Key: RunewordPhraseSuffix, Value: Fortress
+Hash: B582167E, Key: RuneOverflowBehavior, Value: Increased Duration
+Hash: 003DFCC1, Key: Name, Value: Que

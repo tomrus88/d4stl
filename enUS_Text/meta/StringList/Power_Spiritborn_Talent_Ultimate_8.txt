@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Persistence
+Hash: 003892BF, Key: desc, Value: (PH) You gain {c_number}{SF_0}{/c} Allegiance per second.

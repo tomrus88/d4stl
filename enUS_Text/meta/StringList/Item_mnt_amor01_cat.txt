@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kurast Undercity Barding
+Hash: A646FFA4, Key: Description, Value: Armor scavenged from the depths of Kurast's Undercity.

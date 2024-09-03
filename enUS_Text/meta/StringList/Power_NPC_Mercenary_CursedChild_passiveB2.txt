@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Raging Violence
+Hash: 003892BF, Key: desc, Value: Allies gain {c_number}[{SF_0}*100|+%|]{/c} Critical Strike Chance against enemies affected by {c_important}Flame Surge{/c}.

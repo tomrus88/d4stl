@@ -1,0 +1,18 @@
+Hash: 5CCE5827, Key: BuffDescription, Value: {buff_icon} {buff_desc}
+Hash: 2D75C4FB, Key: DamageTakenNormal, Value: {damage_icon} {victim} {c_gold}took{/c_gold} {damage_amount} {damage_type} {c_gold}from a{/c_gold} {attacker}
+Hash: DFDC4549, Key: DamageTakenFromBuff, Value: {damage_icon} {victim} {c_gold}took{/c_gold} {damage_amount} {damage_type} {c_gold}from{/c_gold} {buff_icon} {buff_name}
+Hash: 647F67A0, Key: DamageTakenNoSource, Value: {damage_icon} {victim} {c_gold}took{/c_gold} {damage_amount} {damage_type}
+Hash: BB0CAAC4, Key: DamageTakenWithPowerNormal, Value: {damage_icon} {victim} {c_gold}took{/c_gold} {damage_amount} {damage_type} {c_gold}from a{/c_gold} {attacker} {c_gold}using{/c_gold} {power}
+Hash: E6E608E2, Key: DamageType_Cold, Value: {c_cold}Cold damage{/c_cold}
+Hash: E6E79546, Key: DamageType_Fire, Value: {c_fire}Fire damage{/c_fire}
+Hash: FED08E04, Key: DamageType_Lightning, Value: {c_lightning}Lightning damage{/c_lightning}
+Hash: 8EC1959D, Key: DamageType_Physical, Value: {c_physical}Physical damage{/c_physical}
+Hash: 56DD82F8, Key: DamageType_Poison, Value: {c_poison}Poison damage{/c_poison}
+Hash: 5D59AE86, Key: DamageType_Shadow, Value: {c_shadow}Shadow damage{/c_shadow}
+Hash: E2D1D73E, Key: DebuffAdded, Value: {buff_icon} {target} {c_gold}is afflicted by{/c_gold} {buff_name}
+Hash: FE40827E, Key: DebuffRemoved, Value: {buff_icon} {target} {c_gold}is no longer afflicted by{/c_gold} {buff_name}
+Hash: F894152B, Key: DebuffWithSourceAdded, Value: {buff_icon} {target} {c_gold}is afflicted by{/c_gold} {buff_name} {c_gold}from{/c_gold} {source}
+Hash: AB7B5589, Key: UnknownActor, Value: unknown
+Hash: 5DD347A5, Key: DamageTakenElite, Value: {damage_icon} {victim} {c_gold}took{/c_gold} {damage_amount} {damage_type} {c_gold}from{/c_gold} {attacker}
+Hash: 2BD0184E, Key: DamageTakenWithPowerElite, Value: {damage_icon} {victim} {c_gold}took{/c_gold} {damage_amount} {damage_type} {c_gold}from{/c_gold} {attacker} {c_gold}using{/c_gold} {power}
+Hash: C342B4CF, Key: DamageTakenFromBuffNoIcon, Value: {damage_icon} {victim} {c_gold}took{/c_gold} {damage_amount} {damage_type} {c_gold}from{/c_gold} {buff_name}

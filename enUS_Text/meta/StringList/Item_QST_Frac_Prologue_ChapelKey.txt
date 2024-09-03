@@ -1,3 +1,3 @@
-Hash: 003DFCC1, Key: Name, Value: Chapel Key
 Hash: A646FFA4, Key: Description, Value: Bound to the Desolate Highlands
+Hash: 003DFCC1, Key: Name, Value: Chapel Key
 Hash: F5C7BC0A, Key: Flavor, Value: A small, well-worn key, smeared with its owner's blood.

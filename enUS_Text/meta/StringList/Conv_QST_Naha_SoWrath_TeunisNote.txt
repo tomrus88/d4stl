@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Venator Teunis
+Hash: 924E2F96, Key: Line1.1C1F13, Value: Urivar tasked me with finding the sister and setting a test for Eoric. See if he can be blinded by fickle emotions. Prove he was unfit for the order.
+Hash: E2845B63, Key: VoiceDir1.1C1F13, Value: direct, menacing bite
+Hash: 6AD1D958, Key: Line3.1C1F13, Value: I find the whole endeavor tedious. Torture without resolution is a meal without salt. Chewing without reward.
+Hash: BB080525, Key: VoiceDir3.1C1F13, Value: haughty, menacing bite
+Hash: 4355831A, Key: Line5.1C1F13, Value: I will give the Knight a death deserving his kind and leave his sister maimed for the memory of others.
+Hash: 938BAEE7, Key: VoiceDir5.1C1F13, Value: haughty, condescending, menacing bite
+Hash: 1BD92CDC, Key: Line7.1C1F13, Value: Urivar will have his satisfaction. I will have my pride.
+Hash: 6C0F58A9, Key: VoiceDir7.1C1F13, Value: menacing confidence, grinning

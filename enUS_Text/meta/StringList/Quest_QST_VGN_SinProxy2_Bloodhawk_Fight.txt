@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Deafened Mourning
+Hash: 0871A46B, Key: Toast, Value: Help the villagers of Gurnok recover from the wildlife attack.
+Hash: 1EADAE68, Key: Callback2Header, Value: Search for the Bloodhawks nest
+Hash: B8A227EA, Key: Callback4Header, Value: Kill the Juvenile Bloodhawks
+Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat Terrorclaw

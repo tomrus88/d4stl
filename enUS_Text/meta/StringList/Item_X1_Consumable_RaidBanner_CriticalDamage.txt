@@ -1,0 +1,3 @@
+Hash: A984EF4B, Key: AppliedDeferredConsumableTitle, Value: Bowl of Critical Damage Juice
+Hash: 003DFCC1, Key: Name, Value: [PH] Tonic of Critical Damage
+Hash: A646FFA4, Key: Description, Value: [PH] When applied to a raid banner receptacle, gives clicers a bonus 10% Critical Strike Damage.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Legacy
+Hash: 003892BF, Key: desc, Value: (PH) {c_important}Invoke{/c} only requires {c_number}250{/c} Allegiance to activate.
+
+{c_important}Invoke{/c} can be recast to deactivate.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Crooked Staff
+Hash: A646FFA4, Key: Description, Value: The cracked and splintered remnants of an old staff. It clearly had magical properties once.
+Hash: F5C7BC0A, Key: Flavor, Value: Though its purpose is lost to time, this was once an object of great significance.

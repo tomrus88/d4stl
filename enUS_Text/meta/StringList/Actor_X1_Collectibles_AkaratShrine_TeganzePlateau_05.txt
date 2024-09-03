@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tenet of Akarat
+Hash: F2CA04D8, Key: NoticeSignText, Value: There is much to understand about the human spirit, but it is certain that it is a magnificent discovery. 
+-Tusega, Dedicant of Akarat

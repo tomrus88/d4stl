@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Expert Varyana
+Hash: 003892BF, Key: Desc, Value: Reach level 10 with Varyana, the Berserker Crone.

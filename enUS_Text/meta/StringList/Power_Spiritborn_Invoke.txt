@@ -1,0 +1,49 @@
+Hash: 003DFCC1, Key: name, Value: (PH) Invoke
+Hash: 003892BF, Key: desc, Value: (PH) {c_label}Required Starting Allegiance:{/c} {c_resource}[{SF_1}]{/c_resource}
+{c_label}Allegiance Cost:{/c} {c_resource}[{SF_0}] per second{/c_resource}
+
+{c_label}Active:{/c} Unleash the power of the Spirits until your Allegiance runs out in order to:
+{icon:bullet, 1.2} Make {c_important}Core{/c} Skills free to cast
+{icon:bullet, 1.2} Gain {c_number}[{SF_31}*100|%+|]{/c} bonus Core Stats
+
+{c_label}Passive:{/c} You gain {c_number}[{SF_21}|1|]{/c} Allegiance for every point of Vigor you spend.
+Hash: D618A933, Key: Mod0_Description, Value: (PH) {c_label}{u}Ultimate Jaguar{/u}{/c} 
+{icon:bullet,1.2} The Jaguar manifests and bounds around the battlefield for {c_number}{SF_20}{/c} seconds, causing {c_number}6{/c} massive novae that each deal {c_number}{payload:PANTHER_NOVA_DAMAGE}{/c} Fire damage.
+Hash: 9233D930, Key: Mod0_Name, Value: (PH) Ultimate Jaguar
+Hash: 74D6BC35, Key: Mod2_Description, Value: (PH) {c_label}{u}Ultimate Gorilla{/u}{/c} 
+{icon:bullet,1.2} When you activate {c_important}Invoke{/c}, the Gorilla protects an area for {c_number}{SF_13}{/c} seconds, continuously smashing surrounding enemies for {c_number}{payload:FOREST_SMASH}{/c} Physical damage and sending out waves that deal {c_number}[100|%|]{/c} of your Thorns damage. Within the protected area you have {c_number}100%{/c} Block Chance and Block Damage Reduction.
+Hash: 96DE2A72, Key: Mod2_Name, Value: (PH) Ultimate Gorilla
+Hash: 1394CF37, Key: Mod4_Description, Value: (PH) {c_label}{u}Ultimate Eagle{/u}{/c} 
+{icon:bullet,1.2} After a {c_number}[{SF_9}]{/c} second delay, the Eagle swoops through and deals {c_number}{payload:SKY_DAMAGE}{/c} Lightning damage to enemies.
+Hash: 9B887BB4, Key: Mod4_Name, Value: (PH) Ultimate Eagle
+Hash: B252E239, Key: Mod6_Description, Value: (PH) {c_label}{u}Ultimate Centipede{/u}{/c} 
+{icon:bullet,1.2} The Centipede emerges and Knocks Down enemies, dealing {c_number}{payload:SOIL_EMERGE_DAMAGE}{/c} Poison damage and applying {c_number}{dot:SOIL_POISON}{/c} Poisoning over {c_number}{buffduration:SOIL_POISON}{/c} seconds. Non-Boss enemies are instantly consumed if their entire remaining Life becomes Poisoned while in the area.
+Hash: A032CCF6, Key: Mod6_Name, Value: (PH) Ultimate Centipede
+Hash: 01B1EBBA, Key: Mod7_Description, Value: (PH) Your Maximum Allegiance is increased by {c_number}[1*100|x%|]{/c} and all Allegiance Generation is increased by {c_number}[1*100|x%|]{/c}.
+Hash: A287F597, Key: Mod7_Name, Value: (PH) Ultimate Invoke
+Hash: 6DC2528D, Key: Mod19_Description, Value: (PH) While {c_important}Invoke{/c} is active, your Thorns are increased by {c_number}[{SF_45}*100|%+|]{/c} and gain {c_number}{SF_44}{/c} Thorns for every {c_number}{SF_43}{/c} Armor you have.
+Hash: CBFCB3CA, Key: Mod19_Name, Value: (PH) Harmonious Gorilla
+Hash: 1E63490C, Key: Mod18_Description, Value: (PH) The Gorilla becomes more fervent, protecting the area for {c_number}{SF_67}{/c} seconds and increasing the radius of its smashes by {c_number}[{SF_68} * 100|%x|]{/c}. While the Gorilla is present, you generate {c_number}{SF_64}{/c} stacks of {c_important}{u}Resolve{/c}{/u} every second and the damage bonus of {c_important}{u}Resolve{/c}{/u} is doubled.
+Hash: C9A78B29, Key: Mod18_Name, Value: (PH) Exalted Gorilla
+Hash: DEAB36A5, Key: Mod20_Description, Value: (PH) While {c_important}Invoke{/c} is active, the benefits of {c_important}{u}Ferocity{/u}{/c} are doubled. {c_important}{u}Ferocity{/u}{/c} also applies to {c_important}Gorilla{/c}, {c_important}Eagle{/c}, and {c_important}Centipede{/c} Skills.
+Hash: 03F882E2, Key: Mod20_Name, Value: (PH) Harmonious Jaguar
+Hash: 2E0A4026, Key: Mod21_Description, Value: (PH) The Jaguar imbues you with its fiery hunger, causing a novae to emanate from you whenever it bounds. The damage of all novae is multiplied by your bonus Movement Speed.
+
+Current Bonus: {c_number}[{SF_57} * 100|%x|]{/c}
+Hash: 064DAB83, Key: Mod21_Name, Value: (PH) Exalted Jaguar
+Hash: CF043F8B, Key: Mod17_Description, Value: (PH) While {c_important}Invoke{/c} is active, your Maximum Allegiance is increased by {c_number}[{SF_51}*100|%x|]{/c}.  {c_number}[{SF_52}*100|%|]{/c} of incoming damage is nullified at the cost of  {c_number}{SF_53}{/c} Allegiance.
+Hash: C7526288, Key: Mod17_Name, Value: (PH) Harmonious Transcendence
+Hash: 30462C89, Key: Mod15_Description, Value: (PH) Allegiance decays twice as slowly while {c_important}Invoke{/c} is active and can be used to cast any {c_important}Mobility{/c}, {c_important}Control{/c}, {c_important}Defensive{/c}, or {c_important}Potency{/c} Skill at the cost of {c_number}{SF_56}{/c} Allegiance.
+Hash: C2A81146, Key: Mod15_Name, Value: (PH) Exalted Transcendence
+Hash: CCC85328, Key: Mod23_Description, Value: (PH) {c_label}Lucky Hit:{/c} While {c_important}Invoke{/c} is active, Critical Strikes have up to a {c_number}[{SF_40}*1|%|]{/c} chance to remove {c_number}[{SF_39}*100|%|]{/c} of an enemy's remaining Life. Against a Boss, the amount of remaining Life removed is {c_number}[{SF_41}*100|%|]{/c}.
+Hash: 0AF7FCC5, Key: Mod23_Name, Value: (PH) Harmonious Eagle
+Hash: 7D6949A7, Key: Mod22_Description, Value: (PH) The Eagle swoops through the original target area {c_number}{SF_54}{/c} additional times, Pulling in enemies and dealing guaranteed Critical Strikes to any enemies in the center of its path.
+Hash: 08A2D424, Key: Mod22_Name, Value: (PH) Exalted Eagle
+Hash: 6B86662A, Key: Mod25_Description, Value: (PH) While {c_important}Invoke{/c} is active, the following {c_important}Centipede{/c} Skills become ravenous:
+
+{icon:bullet,1.2} Casting {c_important}Spore Pod{/c} also casts {c_important}Voracious Maw{/c}
+{icon:bullet,1.2} Casting {c_important}Centipede Wake{/c} also casts {c_important}Leech Harvest{/c}
+{icon:bullet,1.2} {c_important}Dreadful Swarm{/c} is automatically cast once every {c_number}{SF_47}{/c} seconds
+Hash: 0FA24E07, Key: Mod25_Name, Value: (PH) Harmonious Centipede
+Hash: 1C275CA9, Key: Mod24_Description, Value: (PH) The Centipede emerges for {c_number}[{SF_58} + {SF_59}]{/c} seconds and while present, any enemies that are Poisoned when they die send out a swarm of bugs that seek out a nearby enemy, applying {c_number}{dot:UPGRADE_POISON_DOT}{/c} Poisoning over {c_number}{buffduration:UPGRADE_POISON_DOT}{/c} seconds to any enemies they pass through.
+Hash: 0D4D2566, Key: Mod24_Name, Value: (PH) Exalted Centipede

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: CCC Unlock/Lesser Cache Completion Tracking
+Hash: 003892BF, Key: Desc, Value: Tracks if player has completed CCC Unlock quest

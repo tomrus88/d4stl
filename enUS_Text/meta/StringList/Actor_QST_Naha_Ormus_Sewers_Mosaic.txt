@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Mosaic
+Hash: F2CA04D8, Key: NoticeSignText, Value: This must be the mural Ormus spoke of. Figures kneel in worship, strange spirits dot the edges. But the centerpiece is missing—where is Ah Bulan? 

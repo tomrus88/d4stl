@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Forged Relics
-Hash: F2CA04D8, Key: NoticeSignText, Value: The table is strewn with pouches full of sand. Scraps of paper are attached to each bag, and they bear the same note: "Father Inarius gazed at this sand and moved it with his awesome power. Three hundred gold."
+Hash: F2CA04D8, Key: NoticeSignText, Value: The table is strewn with pouches full of sand. Scraps of paper are attached to each bag, and each bears the same note: "Father Inarius gazed at this sand and moved it with his awesome power. Three hundred gold."

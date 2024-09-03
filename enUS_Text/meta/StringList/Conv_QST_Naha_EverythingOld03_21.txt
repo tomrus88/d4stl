@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why didn't you tell Dian about Beleth?"
+Hash: E5DD9057, Key: Line16.1A849C, Value: I was trying to protect him. To keep him far away from the demon. I knew if he knew the truth, he would never stop looking for justice.
+Hash: 3CD935C4, Key: VoiceDir16.1A849C, Value: Kind, serious.
+Hash: F652C897, Key: Line34.1A849C, Value: I suppose all my efforts were in vain. Beleth found him at last.
+Hash: 4D4E6E04, Key: VoiceDir34.1A849C, Value: sad. Pronounciation: bell-eth

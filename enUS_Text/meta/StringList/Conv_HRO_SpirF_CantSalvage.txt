@@ -1,0 +1,2 @@
+Hash: 97A0E073, Key: Line3.BAE4.Spi.F, Value: I can't salvage that.
+Hash: 5B6E55F7, Key: Line7.BAE4.Spi.F, Value: It can’t be salvaged.

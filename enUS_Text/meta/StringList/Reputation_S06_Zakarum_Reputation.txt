@@ -1,0 +1,5 @@
+Hash: D10A4E26, Key: LevelUpNotificationTitle, Value: Zakarum Remnants
+Hash: 86AC49E7, Key: UIHeader, Value: Zakarum Remnants
+Hash: 3CEFC1B1, Key: ReputationNameText, Value: Zakarum Remnants
+Hash: 3FB6579C, Key: HowToEarnText, Value: Earn {c_highlight}Crusader's Favor{/c} by slaying {c_highlight}Realmwalkers{/c} and their minions, slaying monsters in {c_highlight}Seething Realms{/c}, or by slaying monsters anywhere while under the effects of a {c_highlight}Seething Opal{/c}.
+Hash: A0AEE1F0, Key: BonusObjectiveRewardFormat, Value: {s1}

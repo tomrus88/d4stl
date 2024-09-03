@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where are your parents?"
+Hash: 92562A5C, Key: Line1.1BB682, Value: They…they must have gone to get help. They'll be back soon. I’m sure they will…
+Hash: E28C5629, Key: VoiceDir1.1BB682, Value: Putting on a brave face, not wanting to admit parents are likely dead. 

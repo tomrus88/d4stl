@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: name, Value: Steel Grasp
-Hash: 003892BF, Key: desc, Value: {if:SF_15}{c_label}Fury Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
-{/if}{if:SF_18}{c_label}Charges:{/c} {c_resource}{SF_9}{/c}
+Hash: 003892BF, Key: desc, Value: {if:SF_21}{c_label}Fury Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{/if}{if:SF_24}{c_label}Charges:{/c} {c_resource}{SF_9}{/c}
 {c_label}Charge Cooldown:{/c_label} {c_resource}{Recharge Time}{/c_resource} seconds
 {/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
 {/if}Throw out a trio of chains that deal {c_number}{payload:DAMAGE}{/c} damage and Pull In enemies.

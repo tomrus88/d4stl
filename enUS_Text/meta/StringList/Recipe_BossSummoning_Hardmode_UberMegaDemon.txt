@@ -1,4 +1,0 @@
-Hash: BFBB6413, Key: SubHeader, Value: This ritual will summon
-Hash: D0201B8E, Key: MainHeader, Value: Tormented Beast in the Ice 
-Hash: F5C7BC0A, Key: Flavor, Value: "You, who dreams of winter: dream no more."
-Hash: ED2058BC, Key: Button, Value: Summon

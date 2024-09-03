@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: For every {c_number}{SF_0}{/c} meters you move, your Critical Strike Chance increases by {c_number}[{SF_1} * 100|%+|]{/c}. This bonus is reset {c_number}{SF_2}{/c} seconds after you Critically Strike.
+Hash: 171B8FF7, Key: Buff4_Name, Value: Momentum
+Hash: 65A41A1A, Key: Buff4_Description, Value: Gaining Critical Strike Chance as you move.

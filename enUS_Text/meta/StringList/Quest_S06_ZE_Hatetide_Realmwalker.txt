@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Realmwalker
+Hash: EC8B1AEE, Key: Callback8Header, Value: Follow the Realmwalker
+Hash: 2C05E0A0, Key: Callback37Header, Value: Slay the Realmwalker's Minions to anger it
+Hash: CB4D78C0, Key: Callback46Header, Value: Slay the Realmwalker's Minions to anger it
+Hash: 1847B581, Key: Callback47Header, Value: Slay the Realmwalker's Minions to anger it
+Hash: 7C54CC44, Key: Callback86Header, Value: Slay Seething Protectors to damage the Realmwalker
+Hash: 1F9943DA, Key: Callback13Header, Value: The Realmwalker approaches
+Hash: A07C739F, Key: Callback18Header, Value: Defeat the Realmwalker
+Hash: A5CF923D, Key: Callback25Header, Value: Slay structures to make the Realmwalker damageable {DONE_OVER_NEEDED}
+Hash: 5E28741A, Key: Callback31Header, Value: Disrupt the Ritual before the Realmwalker escapes
+Hash: 6FE82F7E, Key: Callback62Header, Value: Enter the portal

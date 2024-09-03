@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shock and Awe  
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Grigoire, the Galvanic Saint in {icon:Icon_WorldTier_4, 2} Torment

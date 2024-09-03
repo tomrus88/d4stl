@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Shrine to Akarat
+Hash: CC3C0A8F, Key: FlavorText, Value: Etched Plaque
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Ours is a world of unremitting struggle.
+To live means to know loss.
+
+Ours is a choice to take heed of suffering.
+To persevere is an act of courage.
+
+May Akarat's blessings be with you."

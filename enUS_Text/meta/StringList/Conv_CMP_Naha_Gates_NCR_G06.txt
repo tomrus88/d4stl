@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to this place?"
+Hash: 9251C081, Key: Line1.1C93F4, Value: Moons ago, Malthael released his minions, Reapers, to attack Sanctuary. Necropolis was included in that attack.
+Hash: 6AD56A43, Key: Line3.1C93F4, Value: Most of the Priests of Rathma were slain, including Deathspeaker Jurdann. Though we do not fear death, the attack left the order without direction. Necropolis was forgotten and hollowed. Until now.

@@ -1,0 +1,3 @@
+Hash: CFE7DF08, Key: Line10.BAE4.Spi.M, Value: Not enough materials.
+Hash: 31CE99CA, Key: Line12.BAE4.Spi.M, Value: Can’t make that with what I’ve got.
+Hash: 93B5548C, Key: Line14.BAE4.Spi.M, Value: I’m missing materials.

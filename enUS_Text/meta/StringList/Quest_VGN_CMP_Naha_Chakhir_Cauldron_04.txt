@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Observatory
+Hash: 5E28741A, Key: Callback31Header, Value: Destroy the Befouled Briars ({DONE}/{NEEDED})

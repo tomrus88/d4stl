@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Slaughterer
+Hash: CC38ADCB, Key: FlavorName, Value: Greater Afflicted
+Hash: DA72BB62, Key: SuperElite, Value: Greater Afflicted

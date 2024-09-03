@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Councilor Sihek
+Hash: 928E0F9B, Key: Line1.1EE414, Value: I have failed. My cure was unsuccessful. The city is vulnerable. I go to confess my failure to the Council.
+Hash: 6B11B95D, Key: Line3.1EE414, Value: I neglected to say it before, so I will say it now: thank you for all you have done.

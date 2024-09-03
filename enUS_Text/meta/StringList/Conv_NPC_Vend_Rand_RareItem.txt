@@ -38,3 +38,15 @@ Hash: 6E310508, Key: Line93.B79A3, Value: There's a shiny fellah.
 Hash: BE6730D5, Key: VoiceDir93.B79A3, Value: Mildly impressed. 
 Hash: 551FBB4B, Key: Line96.B79A3, Value: Very nice, very nice. Another?
 Hash: A555E718, Key: VoiceDir96.B79A3, Value: Mildly impressed. 
+Hash: 578D11DA, Key: Line101.1C264B, Value: Hey now, that's worth bragging about, isn't it?
+Hash: 8DFD64E7, Key: VoiceDir101.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: 1C52907D, Key: Line104.1C264B, Value: Ah. Won that one off a hand of cards.
+Hash: 52C2E38A, Key: VoiceDir104.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: E1180F20, Key: Line107.1C264B, Value: Not too shabby, that.
+Hash: 1788622D, Key: VoiceDir107.1C264B, Value: Slurred speech, somewhat drunk. New money could buy new booze.
+Hash: B839CD1B, Key: Line112.1B35B4, Value: Well, it's decent, isn't it?
+Hash: EEAA2028, Key: VoiceDir112.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 7CFF4BBE, Key: Line115.1B35B4, Value: You won't find another one of those so easily.
+Hash: B36F9ECB, Key: VoiceDir115.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.
+Hash: 41C4CA61, Key: Line118.1B35B4, Value: Not bad...but you could do much better.
+Hash: 78351D6E, Key: VoiceDir118.1B35B4, Value: Dealer in antiquities, rare goods. Passionate and excitable.

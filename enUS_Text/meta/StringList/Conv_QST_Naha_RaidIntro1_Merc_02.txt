@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I was sent by Priestess Cualli to find you."
+Hash: 8F6FAD65, Key: Line1.19A59E, Value: Then you saw what happened to the others. We failed the priestess... failed Kurast!
+Hash: DFA5D932, Key: VoiceDir1.19A59E, Value: Distraught, defeated. 
+Hash: 407700E9, Key: Line5.19A59E, Value: It’s nothing compared to what will happen if the khazra are left unchecked.
+Hash: 90AD2CB6, Key: VoiceDir5.19A59E, Value: Worried, fearful. 
+Hash: CF6210DC, Key: Line17.19A59E, Value: The labyrinth’s threshold lies just beyond this wall. Can you not hear them? The sound of khazra chills us to the bone.
+Hash: 265DB649, Key: VoiceDir17.19A59E, Value: Admitting they are afraid. 
+Hash: A7E5BA9E, Key: Line19.19A59E, Value: We made it this far, but look at us. So few have survived.
+Hash: FEE1600B, Key: VoiceDir19.19A59E, Value: Pitiable, admitting failure. 
+Hash: 7F19033A, Key: Line24.19A59E, Value: We were sent here to put a stop to the infernal machinations that fester in this crater...
+Hash: D614A8A7, Key: VoiceDir24.19A59E, Value: Recounting their mission...
+Hash: 579CACFC, Key: Line26.19A59E, Value: And yet we cannot bring ourselves to step foot inside.
+Hash: AE985269, Key: VoiceDir26.19A59E, Value: Admitting their fear and faulure, self-loathing. 
+Hash: 07539F5A, Key: Line33.19A59E, Value: Perhaps you are the warrior Kurast needs. Gods speed, wanderer.
+Hash: 5E4F44C7, Key: VoiceDir33.19A59E, Value: Admiration, hope. 

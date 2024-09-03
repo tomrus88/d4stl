@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's going on here?"
+Hash: 59EA27DE, Key: Line1.3F392, Value: O Father, our spear of Light, you who pierced hatred’s heart – save us from your servants. Come back to us.
+Hash: C8F38E0B, Key: VoiceDir1.3F392, Value: praying, with quiet desperation

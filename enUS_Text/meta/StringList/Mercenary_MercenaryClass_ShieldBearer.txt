@@ -1,0 +1,7 @@
+Hash: 086EAA02, Key: Title, Value: The Shield Bearer
+Hash: EFB4D807, Key: PlaystyleA_Label, Value: Tower Shield
+Hash: B8CA2B6B, Key: PlaystyleA_Description, Value: Apply Knockback, Slow, Taunt, and Vulnerable to enemies.
+Buff the player's Armor, Core Skill damage, and damage to Taunted enemies. Reduce Core Skill resource cost.
+Hash: 3CAF14C8, Key: PlaystyleB_Label, Value: Round Shield
+Hash: 082934EC, Key: PlaystyleB_Description, Value: Apply Slow, and Taunt to enemies.
+Buff the player's Damage, Reduced Damage Taken, Healing, and Resistance to All.

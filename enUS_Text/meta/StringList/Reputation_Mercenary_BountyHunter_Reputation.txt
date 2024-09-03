@@ -1,0 +1,4 @@
+Hash: 86AC49E7, Key: UIHeader, Value: Subo Rapport
+Hash: 3CEFC1B1, Key: ReputationNameText, Value: Subo Rapport
+Hash: 3FB6579C, Key: HowToEarnText, Value: Earn Rapport by completing any activity or killing worthy foes with Subo as a Hired Mercenary or Reinforcement.
+Hash: A0AEE1F0, Key: BonusObjectiveRewardFormat, Value: {s1}

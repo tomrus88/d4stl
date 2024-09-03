@@ -37,7 +37,7 @@ Hash: E13BE2F0, Key: ExpertiseRankTooltip, Value: Rank {s1}/{s2}
 Hash: 0361C52B, Key: NextRank, Value: Next Rank: {s1}
 Hash: 9062D6AC, Key: AdditionalBonusRank, Value: Rank 10 Additional Bonus: {s1}
 Hash: 031AABCA, Key: TechniqueUnlockLevel, Value: Unlock quest at {c_highlight}{s1}{/c}.
-Hash: B9183BD9, Key: TechniqueUnlockQuestTrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2}{c_highlight}{s1}{/c}.
+Hash: B9183BD9, Key: TechniqueUnlockQuestTrack, Value: To unlock, complete {icon:QuestIcon_Priority_Available_Unlock, 2}{c_highlight}{s1}{/c}.
 {hotkey:FAST_QUEST_TRACK} to track.
-Hash: A51C1E3C, Key: TechniqueUnlockQuestUntrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2}{c_highlight}{s1}{/c}.
+Hash: A51C1E3C, Key: TechniqueUnlockQuestUntrack, Value: To unlock, complete {icon:QuestIcon_Priority_Available_Unlock, 2}{c_highlight}{s1}{/c}.
 {hotkey:FAST_QUEST_TRACK} to untrack.

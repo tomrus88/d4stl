@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where did they come from?" 
+Hash: 8F4793C2, Key: Line1.189135, Value: Down south, over the river border to Nahantu. Perhaps you’ve heard of it? Some of the old imperial maps have it as “Torajan.”
+Hash: 67CB3D84, Key: Line3.189135, Value: Only the desperate or foolish actually travel that way, though. The sands might starve you, but the jungle chokes.

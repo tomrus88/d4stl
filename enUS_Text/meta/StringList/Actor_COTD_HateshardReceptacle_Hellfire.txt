@@ -1,3 +1,0 @@
-Hash: 003DFCC1, Key: Name, Value: Altar of Hellfire
-{c_gold}Offer a{/c} Hateshard {c_gold} to invoke Hellfire.{/c}
-{c_gold}Itemization 2.0 materials rewards are increased by {/c}{c_green}25%{/c}

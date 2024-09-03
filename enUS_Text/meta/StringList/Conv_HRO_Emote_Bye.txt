@@ -12,3 +12,4 @@ Hash: F0F075ED, Key: Line41.BAE4.Rog, Value: I'll be seeing you.
 Hash: F56B2A9A, Key: VoiceDir41.BAE4.Rog, Value: As if saying goodbye to a friend for a time.
 Hash: F0F0639B, Key: Line41.BAE4.Nec, Value: Goodbye, not farewell.
 Hash: F56B1848, Key: VoiceDir41.BAE4.Nec, Value: As if saying goodbye to a friend for a time.
+Hash: F0F07A51, Key: Line41.BAE4.Spi, Value: Spirits guide you.

@@ -12,3 +12,4 @@ Hash: 3158FF3E, Key: Callback44Header, Value: Speak with Mordarin
 Hash: B23C2F03, Key: Callback49Header, Value: Enter the Abandoned Shack
 Hash: 0132B4FD, Key: Phase53Description, Value: The scholar Mordarin tells of a Forgotten Codex in the Lost Archives. I should find it and unlock its secrets.
 Hash: 83A65A9D, Key: Callback52Header, Value: Recover {ITEM}
+Hash: 3B89FD3C, Key: ExtraDetailText, Value: Sorcerer Enchanting

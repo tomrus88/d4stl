@@ -2,7 +2,7 @@ Hash: 003DFCC1, Key: Name, Value: Crucible of Worth
 Hash: 0871A46B, Key: Toast, Value: Recover the ancestral weapon of the Oxen Tribe.
 Hash: 4A6A48FB, Key: Callback41Header, Value: Take the {ITEM}
 Hash: 5CD6EA0D, Key: Phase8Description, Value: The Great Axe is broken. Gerti will need to see the weapon and decide what to do next.
-Hash: 9F90DE2D, Key: Callback7Header, Value: Return the broken Great Axe to Gerti in Ked Bardu
+Hash: 9F90DE2D, Key: Callback7Header, Value: Return the {ITEM:QST_Steps_ForgingtheMaul_BrokenMaul} to Gerti in Ked Bardu
 Hash: 1315987A, Key: Phase23Description, Value: Gerti needs materials to reforge the Great Axe.
 
 First, I must find an Oppressor demon in the Hapless Frontier and take one of its horns.

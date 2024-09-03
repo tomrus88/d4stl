@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 9268B936, Key: Line1.1CC125, Value: Turns out there was more truth to your story of burned invaders than I want to admit.
+Hash: E29EE503, Key: VoiceDir1.1CC125, Value: Apologetic and sincere.
+Hash: 6AEC62DB, Key: Line3.1CC119, Value: And you thought I was just spreading rumors. The jungle should kill them off in time.
+Hash: BB228EA8, Key: VoiceDir3.1CC119, Value: Bickering and a bit standoff-ish. Playfully scolding.
+Hash: 43700CBA, Key: Line5.1CC125, Value: Maybe not. I’ve heard they joined forces with the Dregs.
+Hash: 93A63887, Key: VoiceDir5.1CC125, Value: Sincere and conversational.
+Hash: 1BF3B65F, Key: Line7.1CC119, Value: Now who's spreading gossip?
+Hash: 6C29E22C, Key: VoiceDir7.1CC119, Value: (Playful / jokingly)

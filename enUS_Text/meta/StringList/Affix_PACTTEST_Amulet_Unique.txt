@@ -1,1 +1,1 @@
-Hash: 003892BF, Key: Desc, Value: Equip this once to view all your Pact counts.
+Hash: 003892BF, Key: Desc, Value: If you have at least 2 Blue Pacts, double in size.

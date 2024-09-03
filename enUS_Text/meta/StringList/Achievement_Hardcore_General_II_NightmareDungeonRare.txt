@@ -1,2 +1,2 @@
 Hash: 003DFCC1, Key: Name, Value: Daring Delver
-Hash: 003892BF, Key: Desc, Value: Complete a Sacred Nightmare Dungeon in Hardcore Mode.
+Hash: 003892BF, Key: Desc, Value: Complete a Nightmare Dungeon on Torment I or higher in Hardcore Mode.

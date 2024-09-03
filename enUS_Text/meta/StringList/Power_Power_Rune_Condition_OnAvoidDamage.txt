@@ -1,0 +1,2 @@
+Hash: 1970B898, Key: Buff5_Name, Value: Neo
+Hash: B503239B, Key: Buff5_Description, Value: Avoided damage for {c_number}[{SF_0}]{/c} seconds

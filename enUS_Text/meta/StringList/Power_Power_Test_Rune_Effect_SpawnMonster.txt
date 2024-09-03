@@ -1,0 +1,2 @@
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Ura
+Hash: 3763A447, Key: Buff10_Description, Value: Your next Elite Kill will spawn a monster.

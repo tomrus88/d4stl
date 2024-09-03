@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hatred Rising
+Hash: 0871A46B, Key: Toast, Value: Hatred seeps from the land.
+
+Slay the Realmwalker to open a Seething Realm.

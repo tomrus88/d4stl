@@ -43,3 +43,8 @@ Hash: 44CCA308, Key: UnlocksInstantlyNoAsterisk, Value: Unlocks Instantly
 Hash: 92346DB1, Key: PrePurchaseItem, Value: Pre-purchase reward
 Hash: 7B6183E7, Key: GamePass_Promo_2Months, Value: + 1 Month  {icon:GamePass_Ultimate, 1.5} *
 Hash: 206FBC53, Key: GamePass_Promo_1Month, Value: + 1 Month  {icon:GamePass_Ultimate, 1.5} *
+Hash: 55EB256F, Key: Store_X1Tile_Ultimate_Bullet01, Value: [ph] Deluxe Edition +
+Hash: 55EB2570, Key: Store_X1Tile_Ultimate_Bullet02, Value: [ph] Expansion Access +
+Hash: 55EB2571, Key: Store_X1Tile_Ultimate_Bullet03, Value: [ph] 1 Accelerated Battle Pass Unlock +
+Hash: 55EB2572, Key: Store_X1Tile_Ultimate_Bullet04, Value: [ph] More...
+Hash: AC5DFE12, Key: Expansion_Release_Date, Value: Available on October 8, 2024

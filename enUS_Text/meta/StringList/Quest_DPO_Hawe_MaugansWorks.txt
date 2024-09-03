@@ -1,6 +1,6 @@
 Hash: 003DFCC1, Key: Name, Value: Beyond redemption.
+Hash: 1B9C6464, Key: Callback95Header, Value: Slay the Warmaster and collect the {ITEM}
+Hash: 95661601, Key: Callback83Header, Value: Use the {ITEM:DGN_Hawe_MaugansWorks_Key} to open the {GIZMO}
+Hash: 9AB9349F, Key: Callback90Header, Value: Travel to the {LEVELAREA}
 Hash: 7E852787, Key: Callback100Header, Value: Free the Prisoners: {LEFT}
 Hash: C2358ADD, Key: Callback70Header, Value: Defeat the Knight Council
-Hash: 1B9C6464, Key: Callback95Header, Value: Slay the Warmaster and collect the {ITEM}
-Hash: 95661601, Key: Callback83Header, Value: Use the Warmaster's Key to open the {GIZMO}
-Hash: 9AB9349F, Key: Callback90Header, Value: Travel to the {LEVELAREA}

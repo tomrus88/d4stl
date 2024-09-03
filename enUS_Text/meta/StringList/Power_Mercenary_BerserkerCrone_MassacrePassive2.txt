@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Massacre
+Hash: 003892BF, Key: desc, Value: You and Varyana stack {c_important}Massacre{/c} together on kills. Each stack grants you both {c_number}[{SF_5}*100|+%|]{/c} Movement Speed, up to {c_number}[{SF_3}*{SF_5}*100|+%|]{/c}.
+
+{c_important}Massacre{/c} resets after {c_number}{SF_0}{/c} seconds of not killing an enemy.

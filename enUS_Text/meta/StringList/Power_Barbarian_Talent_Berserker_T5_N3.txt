@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Bloodthirsty Rage
+Hash: 003892BF, Key: desc, Value: Damaging a Bleeding enemy while {c_important}{u}Berserking{/u}{/c} grants a non-refreshing stack of {c_important}Bloodthirsty Rage{/c} for {c_number}10{/c} seconds.
+
+While {c_important}Bloodthirsty Rage{/c} is active:
+{icon:bullet,1.2} You take {c_number}5%{/c} of your Current Health as damage every second
+{icon:bullet,1.2} You deal increased damage versus Bleeding enemies equal to double your missing Health percent
+
+If you would take fatal damage during {c_important}Bloodthirsty Rage{/c} you instead consume all stacks and Heal for {c_number}5%{/c} of your Maximum Health per stack.

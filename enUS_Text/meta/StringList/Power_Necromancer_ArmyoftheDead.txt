@@ -6,3 +6,6 @@ Hash: 74D6BC35, Key: Mod2_Description, Value: When {c_important}Army of the Dead
 Hash: 96DE2A72, Key: Mod2_Name, Value: Prime Army of the Dead
 Hash: D618A933, Key: Mod0_Description, Value: {c_important}Army of the Dead{/c} also raises your Skeletal Warriors and Skeletal Mages.
 Hash: 9233D930, Key: Mod0_Name, Value: Supreme Army of the Dead
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:EXPLOSION_DAMAGE}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds

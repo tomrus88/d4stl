@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Enlist Reinforcement
+Hash: 8F59AC1D, Key: Line1.199120, Value: I can do what you need.
+Hash: 14C64D8D, Key: Line881.199120, Value: I will not let you down.
+Hash: ED49F74F, Key: Line883.199120, Value: I will handle it.
+Hash: BBD83634, Key: Line829.189135, Value: We could use some help.
+Hash: BA87D50E, Key: Line832.189135, Value: We need reinforcements.
+Hash: 7F4D53B1, Key: Line835.189135, Value: We need others to stand with us.
+Hash: 4412D254, Key: Line838.189135, Value: We are stronger together.
+Hash: 5B18F562, Key: Line818.18782A, Value: Even loners like us need some help.
+Hash: 59C8943C, Key: Line821.18782A, Value: We could use a hand, eh?
+Hash: 1E8E12DF, Key: Line824.18782A, Value: A few more butchers to the party!
+Hash: 68453AC3, Key: Line855.18782A, Value: I wouldn’t say no to some help.
+Hash: 31C7B96C, Key: Line12.1602FD, Value: I think we need help.
+Hash: 59440FAA, Key: Line10.1602FD, Value: I hope someone helps us.
+Hash: 04EB5081, Key: Line8.1602FD, Value: Can anybody help us?
+Hash: 2C67A6BF, Key: Line6.1602FD, Value: Can we get more friends?
