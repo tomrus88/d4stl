@@ -1,0 +1,5 @@
+Hash: 6573DDCA, Key: Callback103Header, Value: Travel to {LEVELAREA}
+Hash: 003DFCC1, Key: Name, Value: Even the devout descend into sin.
+Hash: 2F5A8F83, Key: Callback85Header, Value: Travel to {LEVELAREA}
+Hash: 164945C6, Key: Callback88Header, Value: Defeat the {MONSTER}
+Hash: E7B37160, Key: Callback91Header, Value: Free the Prisoners: {LEFT}

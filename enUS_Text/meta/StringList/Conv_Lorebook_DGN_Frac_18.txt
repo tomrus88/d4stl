@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Bandit Note
+Hash: 59EA27BC, Key: Line1.3F381, Value: Greghor, need a word with you. Fence says the math doesn’t add up right. Says she saw you skulking around the reserves last night. Says we’re short two boxes of the good stuff.
+Hash: F3DEA13E, Key: Line3.3F381, Value: No need to worry. I know you’ll make it right. And I know you’ll come tell me exactly how. I’d hate to let you go. The wargs like you, my friend. But they like fresh meat too. Think on that.

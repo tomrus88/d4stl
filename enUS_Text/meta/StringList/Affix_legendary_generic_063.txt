@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Edgemaster's
+Hash: 003892BF, Key: Desc, Value: Skills deal up to {c_random}[Affix_Value_1|%x|]{/c} increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource.
+Hash: 82B7D312, Key: CodexDesc, Value: Skills deal up to {c_random}[Affix_Value_1|%x|]{/c} increased damage based on your available Primary Resource when cast.

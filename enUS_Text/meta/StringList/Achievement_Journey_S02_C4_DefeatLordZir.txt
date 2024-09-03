@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Congealed God
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Lord Zir, available after completing or skipping the Campaign

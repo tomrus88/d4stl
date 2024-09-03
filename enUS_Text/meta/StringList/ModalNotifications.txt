@@ -1,0 +1,27 @@
+Hash: 05FFC716, Key: Attention, Value: Attention
+Hash: 00000EBA, Key: Ok, Value: Accept
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: B2E3AB16, Key: Warning, Value: Warning
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: CFB2604E, Key: Confirm, Value: Confirm
+Hash: 049542F4, Key: Decline, Value: Decline
+Hash: 11515F60, Key: Return, Value: Return
+Hash: 0F065C9A, Key: Discard, Value: Discard
+Hash: 05678A36, Key: OkButtonLabel, Value: {icon:button1, 2.0} {s1}
+Hash: 9991BB62, Key: CancelButtonLabel, Value: {icon:button2, 2.0} {s1}
+Hash: 04610003, Key: ConfirmResetSkills, Value: Using this item will reset all of your Skill and Paragon points. Are you sure you want to proceed?
+Hash: 6186A4B9, Key: RestrictedLabel, Value: Restricted
+Hash: 14BE0E14, Key: Submit, Value: Submit
+Hash: 037EB30C, Key: UndoClassLabel, Value: {c:ffe3e0d9}Class:{/c}
+Hash: FEF459E2, Key: UndoInfo, Value: {c_highlight}{s1}{/c}
+Hash: 13D9BDAE, Key: UndoLevelLabel, Value: {c:ffe3e0d9}Level:{/c}
+Hash: 74358537, Key: UndoNameLabel, Value: {c:ffe3e0d9}Name:{/c}
+Hash: 2582A621, Key: ConfirmResetDungeon, Value: Are you sure you want to reset all dungeons, including Nightmare Dungeons? Campaign dungeons won't be affected.
+Hash: 08484263, Key: Reset, Value: Reset
+Hash: 0040BBCF, Key: Save, Value: Save
+Hash: 83BB9930, Key: ConfirmRandomizeAll, Value: Are you sure you want to randomize? Your changes will be lost. 
+Hash: CA9F988B, Key: DismissPermanently, Value: Dismiss Permanently
+Hash: E88405F7, Key: SkipCampaign, Value: Are you sure you want to skip campaign? You cannot undo this on this character.
+Hash: 7380699F, Key: SkipCampaign_Header, Value: Skip Campaign
+Hash: 36604393, Key: ResetDungeonFailPartyLeaderInDungeon, Value: You must leave the dungeon before trying to reset it.
+Hash: 3035689E, Key: ResetDungeonFailPartyMemberInDungeon, Value: One or more party members are in a dungeon. All party members must be outside the dungeon before you can reset all dungeons.

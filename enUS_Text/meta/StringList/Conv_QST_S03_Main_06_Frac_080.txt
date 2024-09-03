@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here are your engraving tools."
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: Good. Thank you. Now for the next step.
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: irritable, touchy
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: I never dabbled in demon magic. But the Vizjerei did. We will need to visit their old hideouts, gather what we can. Here, let me mark them on your map.
+Hash: B8183B9A, Key: VoiceDir3.18AEA4, Value: Vizjerei = vizzur-eye

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place? Who are you?"
+Hash: 5A327CBE, Key: Line1.7F064, Value: Primus, the communing pillar is quiet. I don’t know what has happened. We slaughtered the slaves like you said, but still the Three are silent. What have the faithful done to displease them?
+Hash: C93BE2EB, Key: VoiceDir1.7F064, Value: Concerned. Speaking to someone in authority
+Hash: F426F640, Key: Line3.7F064, Value: No! Don’t go near it! We can no longer control – (pained screams)
+Hash: 63305C6D, Key: VoiceDir3.7F064, Value: Alarm. Shouts out to someone in the distance, then is cut off and attacked. 

@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Rakhaan? Did you get the relic?”
+Hash: 5D73363A, Key: Line1.EECAE, Value: I did, and in such fine condition! But where is my hunter? Tell me I haven’t lost her too.
+Hash: F767AFBC, Key: Line3.EECAE, Value: No matter. Do you know what you’ve retrieved? Nasty little thing. Full of corruption. Once owned by an Overseer of the Steppes.
+Hash: 667115E9, Key: VoiceDir3.EECAE, Value: teasing with the question
+Hash: 915C293E, Key: Line5.EECAE, Value: There's another. You'll find it for me.
+Hash: 00658F6B, Key: VoiceDir5.EECAE, Value: suddenly deeper, hoarser; Rakhaan's demon is showing itself
+Hash: 405B86D1, Key: Line17.EECAE, Value: ...Ahem. If you’ve a taste for coin, that is.
+Hash: 9091B29E, Key: VoiceDir17.EECAE, Value: back to normal delivery

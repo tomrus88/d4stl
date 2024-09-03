@@ -1,0 +1,25 @@
+Hash: 003DFCC1, Key: Name, Value: Fractured Peaks Delver
+Hash: 003892BF, Key: Desc, Value: Collect all Legendary Aspects in Fractured Peaks by completing Dungeons or Salvaging Legendaries.
+Hash: 3DA4D4E9, Key: Crit_235347, Value: Aspect of the Protector
+Hash: 3DA4D4EA, Key: Crit_235348, Value: Flamewalker's Aspect
+Hash: 3DA4D4EB, Key: Crit_235349, Value: Aspect of Explosive Verve
+Hash: 3DA4D503, Key: Crit_235350, Value: Flesh-Rending Aspect
+Hash: 3DA4D504, Key: Crit_235351, Value: Eluding Aspect
+Hash: 3DA4D505, Key: Crit_235352, Value: Aspect of Conflagration
+Hash: 3DA4D506, Key: Crit_235353, Value: Slaking Aspect
+Hash: 3DA4D507, Key: Crit_235354, Value: Aspect of Piercing Cold
+Hash: 3DA4D508, Key: Crit_235355, Value: Mangled Aspect
+Hash: 3DA4D509, Key: Crit_235356, Value: Aspect of Encircling Blades
+Hash: 3DA4D50A, Key: Crit_235357, Value: Stormclaw Aspect
+Hash: 3DA4D50B, Key: Crit_235358, Value: Aspect of Plunging Darkness
+Hash: 3DA4D50C, Key: Crit_235359, Value: Aspect of Torment
+Hash: 3DA4D524, Key: Crit_235360, Value: Aspect of Unrelenting Fury
+Hash: 3DA4D525, Key: Crit_235361, Value: Blast-Trapper's Aspect
+Hash: 3DA4D526, Key: Crit_235362, Value: Energizing Aspect
+Hash: 3DA4D527, Key: Crit_235363, Value: Blood-bathed Aspect
+Hash: 3DA4D528, Key: Crit_235364, Value: Aspect of Anemia
+Hash: 3DA4D529, Key: Crit_235365, Value: Nighthowler's Aspect
+Hash: 3DA4D52A, Key: Crit_235366, Value: Blood Seeker’s Aspect
+Hash: 3DA4D52B, Key: Crit_235367, Value: Aspect of Tempering Blows
+Hash: 3DA4D52C, Key: Crit_235368, Value: Recharging Aspect
+Hash: 3DA4D4CA, Key: Crit_235339, Value: Aspect of the Unsatiated

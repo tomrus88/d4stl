@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Army of the Dead
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:22}|%|]{/c}
+{/if}Call forth the deep buried dead. Volatile Skeletons emerge over the next {c_number}{buffduration:RAISE_ARMY}{/c} seconds that explode when around enemies, dealing {c_number}{payload:EXPLOSION_DAMAGE}{/c} damage.
+Hash: 74D6BC35, Key: Mod2_Description, Value: When {c_important}Army of the Dead's{/c} Volatile Skeletons explode, they have a {c_number}[SF_16*100|%|]{/c} chance to leave behind a Corpse.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Prime Army of the Dead
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Army of the Dead{/c} also raises your Skeletal Warriors and Skeletal Mages.
+Hash: 9233D930, Key: Mod0_Name, Value: Supreme Army of the Dead

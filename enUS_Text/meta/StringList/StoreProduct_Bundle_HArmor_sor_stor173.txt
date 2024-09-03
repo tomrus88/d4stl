@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Weeping Oracle
+Hash: A646FFA4, Key: Description, Value: Some believed the Oracle was a messenger of the Light, capable of wondrous miracles. Others suspected a fiend beneath the porcelain facade, seducing fools with tears of gold.
+Hash: 083EE0CE, Key: Quote, Value: Who can see the way to salvation?
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

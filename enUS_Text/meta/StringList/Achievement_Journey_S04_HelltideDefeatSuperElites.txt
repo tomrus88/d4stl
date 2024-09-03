@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Damnation's Downfall
+Hash: 3A4912CF, Key: DescShort, Value: Defeat each of the 5 Helltide Commanders while using the Profane Mindcage during {icon:Marker_Helltide, 2.5} Helltides, summoned after completing {icon:Marker_LocalEvent, 2.5} Helltide Events

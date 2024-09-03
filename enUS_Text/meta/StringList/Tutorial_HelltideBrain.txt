@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Profane Mindcage
+Hash: 7BFE534B, Key: simple_instruction, Value: Consume a {c_highlight}Profane Mindcage{/c} to increase Helltide Monster Level and boost Aberrant Cinder drops.

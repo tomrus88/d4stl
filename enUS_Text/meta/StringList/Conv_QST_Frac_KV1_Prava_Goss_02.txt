@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this pilgrimage?"
+Hash: F409EBD9, Key: Line3.710B6, Value: A privilege, for an outsider. You will cleanse your spirit in preparation of His blessing.
+Hash: 63135206, Key: VoiceDir3.710B6, Value: pointedly

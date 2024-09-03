@@ -1,0 +1,46 @@
+Hash: 003DFCC1, Key: Name, Value: Piercing the Veil
+Hash: 0871A46B, Key: Toast, Value: Enter the Exalted Terrace
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Enter the Exalted Terrace
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: 4FECF0BA, Key: Phase41Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: 5BEA8742, Key: Phase41OutsideSubzoneHeader, Value: Enter The Exalted Terrace
+Hash: B78F4DA1, Key: Callback56Header, Value: Enter the Exalted Terrace
+Hash: B1D3AB7C, Key: Phase43Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: FE047C44, Key: Phase43OutsideSubzoneHeader, Value: Disrupt Elias' schemes by reclaiming the Sightless Eye from the Exalted Terrace
+Hash: D5F3B5FC, Key: Callback60Header, Value: Speak to Lorath
+Hash: E2C708DD, Key: Phase44Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: 4F1176C5, Key: Phase44OutsideSubzoneHeader, Value: Disrupt Elias' schemes by reclaiming the Sightless Eye from the Exalted Terrace
+Hash: 6FE82F7E, Key: Callback62Header, Value: Find the Sightless Eye
+Hash: 09DCA900, Key: Callback64Header, Value: Slay Elias
+Hash: 934560C9, Key: Phase48OutsideSubzoneHeader, Value: Slay Elias within the Exalted Terrace
+Hash: C2358ADD, Key: Callback70Header, Value: Slay Elias
+Hash: D787DBC2, Key: Phase49Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: E4525B4A, Key: Phase49OutsideSubzoneHeader, Value: Disrupt Elias' schemes by reclaiming the Sightless Eye from the Exalted Terrace
+Hash: 5C2A045F, Key: Callback72Header, Value: Find the Sightless Eye
+Hash: 7D89D762, Key: Phase50OutsideSubzoneHeader, Value: Slay Elias within the Exalted Terrace
+Hash: F61E7DE1, Key: Callback74Header, Value: Slay Elias
+Hash: 1FA3CC64, Key: Phase52OutsideSubzoneHeader, Value: Slay Elias within the Exalted Terrace
+Hash: 2A0770E5, Key: Callback78Header, Value: Slay Elias
+Hash: 0132B4FD, Key: Phase53Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: 70B0C6E5, Key: Phase53OutsideSubzoneHeader, Value: Investigate the blood petals within the Exalted Terrace
+Hash: AE775FBE, Key: Callback80Header, Value: Investigate the blood petals
+Hash: 3226125E, Key: Phase54Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: C1BDC166, Key: Phase54OutsideSubzoneHeader, Value: Find Elias' chambers within the Exalted Terrace
+Hash: C433B3F1, Key: Callback254Header, Value: Find Elias within the Exalted Terrace
+Hash: 97D1B1F7, Key: Phase118OutsideSubzoneHeader, Value: Escape the Exalted Terrace
+Hash: 859EA5AF, Key: Callback117Header, Value: Escape out of the window
+Hash: 8227EB31, Key: Phase165Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: E2083799, Key: Phase165OutsideSubzoneHeader, Value: Confront Elias within the Exalted Terrace
+Hash: 414C366F, Key: Callback171Header, Value: Confront Elias with Lorath
+Hash: 704507B4, Key: Phase195Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: 3A0D177C, Key: Phase195OutsideSubzoneHeader, Value: Enter Elias' chambers within the Exalted Terrace
+Hash: E7AD4CB7, Key: Callback197Header, Value: Enter Elias' chambers
+Hash: B03A8E6B, Key: Phase204Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: A9271C13, Key: Phase204OutsideSubzoneHeader, Value: Enter Elias' chambers within the Exalted Terrace
+Hash: 132C606D, Key: Callback214Header, Value: Enter Elias' chambers
+Hash: 00E33374, Key: Phase258Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: 2AB87B3C, Key: Phase258OutsideSubzoneHeader, Value: Confront Elias within the Exalted Terrace
+Hash: 16810F50, Key: Callback262Header, Value: Speak to the noble
+Hash: 09E6742C, Key: Phase313Description, Value: The followers of Elias have taken refuge in his corrupted palace. Since we can no longer sneak in, we must fight our way through the palace and discover what lies within. 
+Hash: 92FC0AF4, Key: Phase313OutsideSubzoneHeader, Value: Confront Elias within the Exalted Terrace
+Hash: 8CFBF00C, Key: Callback321Header, Value: Bring Lorath to Elias

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you think anyone will return to Eriman's Pyre?"
+Hash: 8EE1D4F5, Key: Line1.11EA24, Value: Even if the fires have ceased, there's nothing to be gained from looking back. Leave Eriman's Pyre to the swamp.
+Hash: DF1800C2, Key: VoiceDir1.11EA24, Value: Level-headed and logical

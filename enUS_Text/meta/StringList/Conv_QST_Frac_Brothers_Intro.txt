@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is happening here?"
+Hash: 5D27F028, Key: Line1.AA9BD, Value: Those were local hunters. They went with my brother, Perithan, to guide some merchants through the mountain pass but were attacked by bandits.
+Hash: CC315655, Key: VoiceDir1.AA9BD, Value: shaken
+Hash: AB6EE5DB, Key: Line22.AA9BD, Value: The hunters think Perithan set them up... that cannot be right. He is not very devout, but he wouldn't do something like that.
+Hash: 45635F5D, Key: Line24.AA9BD, Value: I want to look for him, but the woods are dangerous. Could I perhaps hire you as a bodyguard?
+Hash: 95998B2A, Key: VoiceDir24.AA9BD, Value: stronger
+Hash: C6468F22, Key: Line29.AA9BD, Value: Thank you! Before we leave, we should ask around town. Maybe he came back on his own.

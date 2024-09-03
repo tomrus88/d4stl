@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Decimator
+Hash: 003892BF, Key: desc, Value: Each time you make an enemy {c_important}{u}Vulnerable{/u}{/c}, your damage is increased by {c_number}[{SF_0} * 100|%x|]{/c} for {c_number}{SF_1}{/c} seconds. {c_important}{u}Overpowering{/u}{/c} a {c_important}{u}Vulnerable{/u}{/c} enemy grants an additional {c_number}[{SF_0} * 100|%x|]{/c} bonus for {c_number}{SF_1}{/c} seconds.
+Hash: 12713EB5, Key: Buff2_Name, Value: Decimator
+Hash: C6E60718, Key: Buff2_Description, Value: Damage increased.
+Hash: 171B8FF7, Key: Buff4_Name, Value: Decimator
+Hash: 65A41A1A, Key: Buff4_Description, Value: Damage increased.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Great Feast
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Minions{/c} deal {c_random}[Affix_Value_2|%x|]{/c} increased damage, but each one drains {c_number}[Affix_Value_1]{/c} Essence from you per second. If you have no active {c_important}Minions{/c}, the damage increase applies to you instead, and you lose {c_number}[Affix."Static Value 0"]{/c} Essence per second.

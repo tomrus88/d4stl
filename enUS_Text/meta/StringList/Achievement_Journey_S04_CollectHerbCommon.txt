@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forager
+Hash: 3A4912CF, Key: DescShort, Value: Collect Bundled Herbs from Harvest Nodes, Cellars, or various other sources throughout Sanctuary 

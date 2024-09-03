@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "That medallion could be the key."
+Hash: 97C3D068, Key: Line32.BC41C, Value: The medallion gives us a chance, but it’s a hell of a risk... Captain?
+Hash: E7F9FC35, Key: VoiceDir32.BC41C, Value: Agreeing with reservation. Deferring to Captain.
+Hash: DF75D9D4, Key: Line26.D5166, Value: (scoff) How many bandits guard this hideout? How many Triune?
+Hash: 2FAC05A1, Key: VoiceDir26.D5166, Value: Dubious. Concerned. Thinks "risk" is an understatement.
+Hash: CBB7AEB0, Key: Line36.D5161, Value: And how long 'til they march on Dahlgur?! Their poison has already weakened us!
+Hash: 1BEDDA7D, Key: VoiceDir36.D5161, Value: Angry. Arguing. Open your damn eyes!
+Hash: 65A13CEE, Key: Line38.BC41C, Value: We might not get another chance.
+Hash: B5D768BB, Key: VoiceDir38.BC41C, Value: Agreeing with Dawood. Hard truth.
+Hash: EA1C1710, Key: Line40.D5166, Value: (sigh) Asa... take Dawood and our friend here and scout for this hideout. Should you see an opening to strike... take it.
+Hash: 3A5242DD, Key: VoiceDir40.D5166, Value: Hesitates, then gives the order. Anxious.
+Hash: 8405A549, Key: Line42.BC41C, Value: Aye, Captain.
+Hash: D43BD116, Key: VoiceDir42.BC41C, Value: Official. Direct. Respectful.
+Hash: 1E050A0F, Key: Line44.D5161, Value: About damn time...
+Hash: 6E3B35DC, Key: VoiceDir44.D5161, Value: Muttered to self. Finally satisfied.

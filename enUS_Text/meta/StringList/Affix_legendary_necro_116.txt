@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sacrificial
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Sacrifice{/c} bonuses are increased by {c_random}[Affix_Value_1|%|]{/c}.

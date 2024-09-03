@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Potent Potable
+Hash: 3A4912CF, Key: DescShort, Value: Craft an Elixir of at least Required Level 65 at the {icon:Marker_Crafter_Alchemist, 2.5} Alchemist

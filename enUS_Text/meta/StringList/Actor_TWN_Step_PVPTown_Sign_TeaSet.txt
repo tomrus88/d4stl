@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Chipped Tea Set
+Hash: F2CA04D8, Key: NoticeSignText, Value: Blood red dregs are collected at the bottoms of these well-used tea cups. 

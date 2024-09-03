@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why have you killed these people?"
+Hash: 188F2762, Key: Line7.13C35F, Value: Demons killed most of them. We slew the summoners.

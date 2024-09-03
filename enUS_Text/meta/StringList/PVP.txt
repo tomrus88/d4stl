@@ -1,0 +1,13 @@
+Hash: 4AC58091, Key: Place_Header_Text, Value: You finished
+Hash: 16BCFA6E, Key: Place_Finished, Value: 16
+Hash: CA840784, Key: Place_Players, Value: /16
+Hash: DDE13C6F, Key: Reward_Ears, Value: {icon:PVP_Icon_Ears,2.2} {s1} {c:FFefeadc}Ear(s) [PH]{/c}
+Hash: B69DA3B1, Key: Button_Close, Value: Close
+Hash: B73C6E68, Key: Button_Leave, Value: Leave
+Hash: F7D01046, Key: deathwallclock_text, Value: Map
+Reduction
+Hash: 24CDC9A2, Key: playersremaining_count, Value: 16
+Hash: 948B83BE, Key: playersremaining_text, Value: Characters
+Remain
+Hash: F7D01FD0, Key: deathwallclock_time, Value: 2:00
+Hash: DE3EA5A6, Key: time_PH, Value: 

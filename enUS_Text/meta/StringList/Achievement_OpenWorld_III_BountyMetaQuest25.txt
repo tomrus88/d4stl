@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tree of Whispers Aspirant
+Hash: 003892BF, Key: Desc, Value: Complete 25 Silent Offerings for the Tree of Whispers.

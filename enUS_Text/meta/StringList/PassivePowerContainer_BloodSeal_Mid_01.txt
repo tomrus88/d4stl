@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Prey on the Weak
+Hash: A646FFA4, Key: Description, Value: {icon:bullet} You deal {c_random}[SF_2|1]%{/c}{c_gray}[x]{/c} increased damage to {c_important}{u}Vulnerable{/u}{/c_important} enemies.
+
+{icon:bullet} Enemies are {c_important}{u}Vulnerable{/u}{/c_important} while affected by a {c_important}{u}Vampiric Curse{/u}{/c} from your other Vampiric Powers.  
+
+{icon:bullet}Damage: {c_random}[SF_3|1]%{/c} {icon:arrow} {c_random}[SF_4|1]%{/c} {icon:arrow} {c_random}[SF_5|1]%{/c}

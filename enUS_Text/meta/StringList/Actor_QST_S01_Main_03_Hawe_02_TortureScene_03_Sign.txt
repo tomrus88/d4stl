@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Inquisition Log - Day 103
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Orbei has demanded my findings. They believe our experiments a failure. It is true, there is no separation of the darkness from the light while the being lives, but we have proven it possible once the heart is captured! We just need more time."

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Descent
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: Curse this place. I’m being followed.
+Hash: DD961907, Key: VoiceDir17.BAE4, Value: Curious

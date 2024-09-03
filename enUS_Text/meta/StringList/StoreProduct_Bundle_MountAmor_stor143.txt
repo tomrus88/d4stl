@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Warhorse of the Vain Monarch
+Hash: A646FFA4, Key: Description, Value: Guulrahni leather. Arreat steel. Caldean silks and goldwork. Nary a coin was spared to dress this horse for the battlefield.
+Hash: 083EE0CE, Key: Quote, Value: A kingdom's wealth for a horse.
+Hash: 13A53A8B, Key: Series, Value: "The Vain Monarch" Mount Armor

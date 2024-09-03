@@ -1,0 +1,96 @@
+Hash: 9287060F, Key: SendMessage, Value: Send Message
+Hash: A26C4C22, Key: InviteToParty, Value: Invite to Party
+Hash: A53FF4AC, Key: RequestToJoinParty, Value: Request Party Invite
+Hash: 74D61E41, Key: AddFriend, Value: Add Friend
+Hash: 9B9A8796, Key: Inspect, Value: Inspect
+Hash: 072A7FAB, Key: Block, Value: Block Communication
+Hash: 114F145C, Key: Report, Value: Report Player For:
+Hash: DFB263C6, Key: RemoveFriend, Value: Remove Friend
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: A83CA42C, Key: ViewProfile, Value: View Profile
+Hash: 0D8D23D7, Key: ViewAchievements, Value: View Challenges
+Hash: A6093986, Key: ViewFriends, Value: View Friends
+Hash: 917ADB4D, Key: ReportSpam, Value: Report Spam
+Hash: BF8934CC, Key: ReportAbuse, Value: Abuse
+Hash: 9177DF1D, Key: ReportName, Value: Inappropriate BattleTag
+Hash: 9D925E9D, Key: LeaveParty, Value: Leave Party
+Hash: E0770A26, Key: PromoteToPartyLeader, Value: Promote to Party Leader
+Hash: 08734790, Key: Trade, Value: Trade
+Hash: A7BC9352, Key: ReportHarassment, Value: Harassment
+Hash: 86DDC068, Key: ReportRealLifeThreat, Value: Real-Life Threat
+Hash: 437A8DB9, Key: CustomizeBanner, Value: Customize Banner
+Hash: 24AF9EC6, Key: AddFriendNotNow, Value: Not Now
+Hash: 522AB507, Key: DeletePendingInvite, Value: Delete
+Hash: 003DFCC1, Key: Name, Value: {s1} ({s2})
+Hash: F1D03167, Key: FriendsList, Value: Friends
+Hash: 505E387D, Key: RecentPlayersList, Value: Recent Players
+Hash: EBC37234, Key: ChatLobbyList, Value: Chat Lobby
+Hash: 52121FC0, Key: ViewAchievementList, Value: View Challenge
+Hash: 13D1EA29, Key: AddToShowcase, Value: Add to Showcase
+Hash: A3D3793E, Key: TrackAchievement, Value: Track Challenge
+Hash: 9FE83987, Key: LeaveGame, Value: Leave Game
+Hash: 6681612F, Key: InvitePlayers, Value: Invite Players
+Hash: 6D383A89, Key: ViewHero, Value: View Character
+Hash: 476E55E0, Key: JoinParty, Value: Join Party
+Hash: 0307E77E, Key: PetRetrain, Value: Retrain
+Hash: E7AC8EE5, Key: ShowChannelMembers, Value: Show Chat Members
+Hash: 3E44A13E, Key: HideChannelMembers, Value: Hide Chat Members
+Hash: 720C7446, Key: LeaveChannel, Value: Leave Chat
+Hash: 733FE65A, Key: InviteFriends, Value: Invite Friends
+Hash: F156D84B, Key: ReportHeroName, Value: Inappropriate Character Name
+Hash: 361FB90E, Key: Unblock, Value: Unblock Communication
+Hash: 31D347D2, Key: RemoveFromParty, Value: Remove from party
+Hash: A466501C, Key: RemoveFromGame, Value: Remove from game
+Hash: CDDCB41D, Key: DeclineRequest, Value: Decline Request
+Hash: 8DD04449, Key: ChatHelp, Value: Help
+Hash: B48E512A, Key: LeaveGameAndParty, Value: Leave Game & Party
+Hash: B1417F01, Key: FontSizeItem, Value: {s1} pt
+Hash: F7F18832, Key: ChatFontSize, Value: Font Size
+Hash: 037C82F1, Key: ChatSettings, Value: Chat Settings...
+Hash: 31E57833, Key: ReportBotting, Value: Botting
+Hash: 2EF8EC7A, Key: SetFriendNote, Value: Set Friend Note
+Hash: AA0A39ED, Key: InviteToConversation, Value: Invite to Conversation
+Hash: 3EE9D040, Key: ListChannelMembers, Value: List members
+Hash: 5BD110C7, Key: PromoteToPartyGuide, Value: Promote to Party Guide
+Hash: A1D43FC7, Key: InviteToGuild, Value: Invite to Clan
+Hash: 626C6D33, Key: PromoteGuildMember, Value: Promote Clan Member
+Hash: B6BFA7EB, Key: DemoteGuildMember, Value: Demote Clan Member
+Hash: 89014EAB, Key: KickFromGuild, Value: Kick from Clan
+Hash: DDB7D517, Key: SetGuildNote, Value: Set Clan Note
+Hash: D976D602, Key: SetAsGuildLeader, Value: Transfer Clan Leadership
+Hash: 9CFA5242, Key: LeaveGuild, Value: Leave Clan
+Hash: 4A9E02E8, Key: NewsPost_Edit, Value: Edit News Post
+Hash: 67E8C175, Key: NewsPost_Delete, Value: Delete News Post
+Hash: 2DC78357, Key: NewsPost_MakeSticky, Value: Make Sticky
+Hash: E9DC8970, Key: NewsPost_RemoveStickiness, Value: Remove Stickiness
+Hash: 52EDCA05, Key: NewsPost_ReportFor, Value: Report Post For:
+Hash: AE3680FD, Key: ReportInappropriateNewsPost, Value: Inappropriate News Post
+Hash: 62B87776, Key: RequestClanInvite, Value: Request Clan Invite
+Hash: F89120E0, Key: Groups, Value: Communities
+Hash: 1C90F8D3, Key: GroupOptionSubMenu_Invite, Value: Invite to Community
+Hash: 9B567F06, Key: GroupOptionSubMenu_SetNote, Value: Set Member Note
+Hash: D25FD20A, Key: GroupOptionSubMenu_Promote, Value: Promote
+Hash: 103F7B42, Key: GroupOptionSubMenu_Demote, Value: Demote
+Hash: C588B03D, Key: GroupOptionSubMenu_SetLeader, Value: Set Community Leader
+Hash: AE754406, Key: GroupOptionSubMenu_Kick, Value: Kick from Community
+Hash: 7D2DA511, Key: GroupOptionSubMenu_Leave, Value: Leave Community
+Hash: F808404F, Key: CancelRequest, Value: Cancel Request
+Hash: 9CF8C7DA, Key: LeaveGroup, Value: Leave Community
+Hash: 21E8A8D9, Key: GroupOptionSubMenu_Disband, Value: Disband Community
+Hash: 0789D135, Key: Guild, Value: Clan
+Hash: C3BEBA0A, Key: DisbandGuild, Value: Disband Clan
+Hash: DF668D1F, Key: AcceptInvite, Value: Accept Invite
+Hash: 3F775E23, Key: DeclineInvite, Value: Decline Invite
+Hash: DD0E6143, Key: DeclineInviteAndReportSpam, Value: Report Spam
+Hash: 176E1D7D, Key: DeclineRequestAndReportSpam, Value: Report Spam
+Hash: 68D56750, Key: OpenClanScreen, Value: News
+Hash: B43A3B3A, Key: ViewRoster, Value: Roster
+Hash: 9888BDEC, Key: ViewSettings, Value: Settings
+Hash: C32B11BF, Key: OpenGroupScreen, Value: News
+Hash: 0040F8F1, Key: Spam, Value: Spam
+Hash: 003DAC93, Key: More, Value: More
+Hash: 472B8DFB, Key: ReportClanName, Value: Inappropriate Clan Name
+Hash: CE489DEA, Key: ReportGroupName, Value: Inappropriate Community Name
+Hash: 91441EDE, Key: ReportInappropriateDescription, Value: Inappropriate Description
+Hash: EF2FDE92, Key: GroupOptionSubMenu_NoActions, Value: No actions available.
+Hash: 953D0623, Key: ViewLeaderboards, Value: View Leaderboards

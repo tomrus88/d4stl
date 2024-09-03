@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Your final breath, a gasp of saltwater.
+Hash: B8A227EA, Key: Callback4Header, Value: Slay all enemies in the Befouled Quagmire {KAM_REVEALED_COUNT}
+Hash: A07C739F, Key: Callback18Header, Value: Return the Stone Carving to the Pedestal: {LEFT}
+Hash: 24EC6278, Key: Callback20Header, Value: Travel to the {LEVELAREA}
+Hash: B23C2F03, Key: Callback49Header, Value: Slay the Festering Shambler

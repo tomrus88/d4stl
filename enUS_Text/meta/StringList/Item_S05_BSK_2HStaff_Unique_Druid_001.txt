@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Basilisk
+Hash: F5C7BC0A, Key: Flavor, Value: "Well did she feed her children, and well did her children feed her." -Scosglen folktale

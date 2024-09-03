@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Jailer's Tools
+Hash: F2CA04D8, Key: NoticeSignText, Value: Hooks, prods, and cruel shapes hang from the rack. Some look like old livestock tools, fitted for human captives. 

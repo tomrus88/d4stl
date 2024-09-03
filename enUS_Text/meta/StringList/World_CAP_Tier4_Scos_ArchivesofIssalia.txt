@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Archives of Issalia
+Hash: 003892BF, Key: Desc, Value: The dusty books watch as something wicked roams their halls.

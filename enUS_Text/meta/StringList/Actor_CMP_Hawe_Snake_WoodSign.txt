@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dry Wood
+Hash: F2CA04D8, Key: NoticeSignText, Value: To combat the humid swamps, wood is carefully bundled and left to dry before burning.

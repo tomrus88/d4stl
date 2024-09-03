@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Bestial Rampage
+Hash: 003892BF, Key: desc, Value: After being a Werewolf for {c_number}{buffduration:TIMER_WOLF}{/c} seconds, gain {c_number}[{SF_1} * 100|%+|]{/c} Attack Speed for {c_number}{buffduration:BUFF_ATTACK_SPEED}{/c} seconds. 
+
+After being a Werebear for {c_number}{buffduration:TIMER_BEAR}{/c} seconds, deal {c_number}[{SF_2} * 100|%x|]{/c} increased damage for {c_number}{buffduration:BUFF_ATTACK_DAMAGE}{/c} seconds.
+Hash: 12713EB5, Key: Buff2_Name, Value: Bestial Fury Attack Speed
+Hash: C6E60718, Key: Buff2_Description, Value: Attack Speed increased for being a Werewolf.
+Hash: 14C66756, Key: Buff3_Name, Value: Bestial Fury Attack Damage
+Hash: 16451099, Key: Buff3_Description, Value: Damage increased for being a Werebear.

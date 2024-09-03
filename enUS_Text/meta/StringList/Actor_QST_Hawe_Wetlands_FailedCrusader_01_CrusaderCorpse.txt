@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Johanna's Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: The effects of death have long set in, her body pale and rigid. Her fists are balled, even in death gripping tightly to her weapon.

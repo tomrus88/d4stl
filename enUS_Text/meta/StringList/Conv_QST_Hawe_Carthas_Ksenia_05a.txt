@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The spirits look to have been freed."
+Hash: 8EB39B3B, Key: Line1.103673, Value: Yes, (deep breath) I believe so. The paladins are finally at peace. I could not have done this alone. The Light shines bright within you.
+Hash: DEE9C708, Key: VoiceDir1.103673, Value: Tired, but still full of spirit.
+Hash: 673744FD, Key: Line3.103673, Value: I must return to Zarbinzet. I shall tell the other Zakarum of Carthas and the paladins who gave their lives to contain Mephisto's corruption.
+Hash: 04806D62, Key: Line8.103673, Value: May the Light guide your way.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You’re not coming with me?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Ah, no. I’m not ready, not by a long shot. Even if I could survive the trail, there’s no telling what would happen in the end.
+Hash: F414A633, Key: Line3.6DE47, Value: You, though--you have a solid chance.
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: bitter

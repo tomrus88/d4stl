@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Incident
+Hash: 5D72A440, Key: Line1.EDC76, Value: Welcome to Firebreak Manor, traveler.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: I'm here about the incident. Donan gave me permission to look around.
+Hash: 2B5010C6, Key: Line7.EDC76, Value: Incident?
+Hash: 9A5976F3, Key: VoiceDir7.EDC76, Value: Confused
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: That was all he said.
+Hash: 915B9744, Key: Line5.EDC76, Value: He must be referring to his study. Something...unsettling transpired there.
+Hash: 0064FD71, Key: VoiceDir5.EDC76, Value: Hesitant, uncomfortable

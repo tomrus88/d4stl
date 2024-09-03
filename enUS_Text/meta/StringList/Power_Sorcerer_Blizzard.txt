@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Blizzard
+Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost:{/c} {c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:22}|%|]{/c}
+{/if}Summon a frigid blizzard that deals {c_number}{dot:TOOLTIP_BLIZZARD_DOT}{/c} damage and continually {c_important}{u}Chills{/u}{/c} enemies for {c_number}[{SF_9}|%|]{/c} over {c_number}{SF_19}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{dot:TOOLTIP_BLIZZARD_DOT}{/c}
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Blizzard{/c} deals {c_number}[{SF_12} * 100|%x|]{/c} increased damage to {c_important}{u}Frozen{/u}{/c} enemies.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Blizzard
+Hash: 1394CF37, Key: Mod4_Description, Value: {c_important}Blizzard's{/c} duration is increased by {c_number}{SF_14}{/c} seconds.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Mage's Blizzard
+Hash: 74D6BC35, Key: Mod2_Description, Value: While you have an active {c_important}Blizzard{/c}, you gain {c_number}1{/c} Mana Regeneration for every {c_number}20{/c} Maximum Mana.
+
+Current Bonus: {c_number}{SF_16}{/c}
+Hash: 96DE2A72, Key: Mod2_Name, Value: Wizard's Blizzard

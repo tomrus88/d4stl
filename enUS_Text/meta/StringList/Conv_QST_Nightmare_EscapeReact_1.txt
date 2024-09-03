@@ -1,0 +1,10 @@
+Hash: 730059E6, Key: Line1.BAE4.Bar, Value: I don't serve either of you.
+Hash: A970ACF3, Key: VoiceDir1.BAE4.Bar, Value: Defiant
+Hash: 832AA920, Key: Line5.BAE4.Dru, Value: I don't serve either of you.
+Hash: B99AFC2D, Key: VoiceDir5.BAE4.Dru, Value: Defiant
+Hash: 8B3FF42D, Key: Line7.BAE4.Nec, Value: I don't serve either of you.
+Hash: C1B0473A, Key: VoiceDir7.BAE4.Nec, Value: Defiant
+Hash: 93552D0D, Key: Line9.BAE4.Sor, Value: I don't serve either of you.
+Hash: C9C5801A, Key: VoiceDir9.BAE4.Sor, Value: Defiant
+Hash: 7B15C1FB, Key: Line3.BAE4.Rog, Value: I guess we're going to find out, aren't we?
+Hash: B1861508, Key: VoiceDir3.BAE4.Rog, Value: Defiant

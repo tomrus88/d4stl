@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's for sale?"
+Hash: 5D6BDBE5, Key: Line1.F8619, Value: Provisions for the journey? Don't die hungry, eh?

@@ -1,0 +1,3 @@
+Hash: CFE778F0, Key: Line10.BAE4.Sor.M, Value: I do not have the materials.
+Hash: 31CE33B2, Key: Line12.BAE4.Sor.M, Value: I cannot make this right now.
+Hash: 93B4EE74, Key: Line14.BAE4.Sor.M, Value: I lack the needed materials.

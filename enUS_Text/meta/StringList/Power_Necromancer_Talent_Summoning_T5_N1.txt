@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Rathma's Vigor
+Hash: 003892BF, Key: desc, Value: After being {c_important}{u}Healthy{/u}{/c} for {c_number}{SF_3}{/c} seconds, your next {c_important}Blood{/c} Skill {c_important}{u}Overpowers{/u}{/c}. This timer is reduced by {c_number}{SF_5}{/c} seconds each time {c_important}{u}Blood Orbs{/u}{/c} Heal or Overheal you for {c_number}{SF_6}{/c} Life.
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Rathma's Vigor
+Hash: 3763A447, Key: Buff10_Description, Value: At {c_number}{SF_3}{/c} stacks, your next {c_important}Blood{/c} Skill will {c_important}{u}Overpower{/u}{/c}.

@@ -1,0 +1,6 @@
+Hash: 562BDAFF, Key: Line14.7DD23, Value: There are too many!
+Hash: A66206CC, Key: VoiceDir14.7DD23, Value: In combat. Terrified. Losing hope.
+Hash: 3D1A9141, Key: Line17.7DD22, Value: There are too many!
+Hash: 8D50BD0E, Key: VoiceDir17.7DD22, Value: In combat. Terrified. Losing hope.
+Hash: 117D0ADF, Key: Line20.AF367, Value: There are too many!
+Hash: 61B336AC, Key: VoiceDir20.AF367, Value: In combat. Terrified. Losing hope.

@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: What Lies Ahead
+Hash: C1F13152, Key: Line9.6D03F, Value: Now we are truly alone. The creators of Sanctuary, angel and demon, father and mother, are dead.
+Hash: F413C4CC, Key: Line3.6D03F, Value: They made us in their image. Their conflict is a part of us. And it always will be.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: But is there any truth to Lilith’s vision? This mad idea that we can escape the Eternal Conflict?
+Hash: A313225F, Key: Line15.6D03F, Value: Or will we walk the same path of all children who rebel against their parents? So often we simply become them.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: These are not questions befitting an old man, and I don’t have much time left. This struggle is not mine anymore.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: All I can do is help the Wanderer and Neyrelle avoid the fate of Rathma—and everyone else who tried and failed to overcome our flawed nature.
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Once we are back with Neyrelle, we will find a way. We have to.

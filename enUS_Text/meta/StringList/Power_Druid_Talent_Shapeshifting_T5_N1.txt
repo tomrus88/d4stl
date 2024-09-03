@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Ursine Strength
+Hash: 003892BF, Key: desc, Value: Gain {c_number}[{SF_0} * 100|1%x|]{/c} additional Maximum Life while in Werebear form and for {c_number}{buffduration:BONUS_MAX_HEALTH}{/c} seconds after leaving Werebear form.
+
+While {c_important}{u}Healthy{/u}{/c}, deal {c_number}[{SF_1} * 100|1%x|]{/c} increased damage, and {c_number}[{SF_4} * 100|1%x|]{/c} increased {c_important}{u}Overpower{/u}{/c} damage.
+Hash: 101C1614, Key: Buff1_Name, Value: Ursine Strength
+Hash: 7786FD97, Key: Buff1_Description, Value: Maximum Life increased by {c_number}[{SF_0} * 100|%|]{/c}.

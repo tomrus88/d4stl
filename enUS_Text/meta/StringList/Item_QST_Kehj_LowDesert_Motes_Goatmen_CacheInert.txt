@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sealed Khazra Offering
+Hash: F5C7BC0A, Key: Flavor, Value: Sealed by khazra magic. It hungers for sacrificial essence.

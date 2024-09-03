@@ -1,0 +1,4 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value: Greed Shrine
+Hash: 65A41A1A, Key: Buff4_Description, Value: Enemies drop gold when hit, and you automatically pick up gold from farther away. Chance to summon a Treasure Goblin.
+Hash: 2070327B, Key: Buff8_Name, Value: Greed Kills
+Hash: A320401E, Key: Buff8_Description, Value: Kill enemies to increase your streak bonus.

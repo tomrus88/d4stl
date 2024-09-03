@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cleansing Acid - Eternity
+Hash: A646FFA4, Key: Description, Value: Removes two{icon:Vampire_Pact_Green_Icon, 2.3}Pacts of Eternity from a piece of armor.

@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Blood Artisan
+Hash: 7786FD97, Key: Buff1_Description, Value: Collecting enough {c_important}{u}Blood Orbs{/u}{/c} will spawn a free {c_important}Bone Spirit{/c}.

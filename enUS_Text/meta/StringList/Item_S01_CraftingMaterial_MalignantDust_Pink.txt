@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Devious Malignant Ichor
+Hash: A646FFA4, Key: Description, Value: An amaranth substance refined from Malignant Hearts. Used by Cormond to create new Hearts or Invokers.
+Hash: F5C7BC0A, Key: Flavor, Value: The pinkish ichor lends itself well to effects best described as neither aggressive nor defensive, but useful.

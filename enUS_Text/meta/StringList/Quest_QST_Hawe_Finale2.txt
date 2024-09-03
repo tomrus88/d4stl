@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: A Chorus of Voices
+Hash: 0871A46B, Key: Toast, Value: Catch up to Lorath
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Catch up to Lorath at the Tree of Whispers
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Lorath has gone on ahead to the Tree of Whispers. With Elias' head now hanging with the others, I can only hope he has not done anything rash...
+Hash: D53BFF05, Key: Phase0Description, Value: Lorath has gone on ahead to the Tree of Whispers. With Elias' head now hanging with the others, I can only hope he has not done anything rash...
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Catch up to Lorath at the Tree of Whispers
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Lorath
+Hash: 0BD2D685, Key: Phase26OutsideSubzoneHeader, Value: Catch up to Lorath at the Tree of Whispers

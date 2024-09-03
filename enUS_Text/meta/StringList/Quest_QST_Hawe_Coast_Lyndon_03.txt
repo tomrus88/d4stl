@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Dead to Rights
+Hash: 0871A46B, Key: Toast, Value: Orton's the rat.
+Hash: 259D49BB, Key: Phase15Description, Value: Lyndon has asked that I meet him in the storage cellar in Backwater. He's planning to confront Orton there.
+Hash: 6C93809B, Key: Callback14Header, Value: Return to Backwater Storage Cellar
+Hash: CF9A89D8, Key: Phase30Description, Value: Lyndon doesn't seem to be taking this well. I should check on him.
+Hash: D9B88541, Key: Callback29Header, Value: Speak with Lyndon in Backwater

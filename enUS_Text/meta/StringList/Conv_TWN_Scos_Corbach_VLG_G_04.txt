@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D6C7504, Key: Line1.F9914, Value: Died in his sleep, you say? Yeah, long as his bed’s clean that’s no issue. Better than mud and straw.
+Hash: F760EE86, Key: Line3.F9914, Value: Bless the ancestors! Can’t remember the last time I had a proper night’s sleep.

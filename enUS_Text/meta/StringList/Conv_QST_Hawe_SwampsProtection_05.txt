@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have supplies for you."
+Hash: F779C2D3, Key: Line3.FEC7E, Value: (scoff) "Herbs for the pain,” she says. I'll find my own herbs, thank you. Cure myself and leave this swamp for good.
+Hash: 66832900, Key: VoiceDir3.FEC7E, Value: Dismissive. Suspicious. Firmly in denial.
+Hash: 5D854951, Key: Line1.FEC7E, Value: You can take that shite to Raldin, if he’s still alive. Last I saw, he was headed east toward the snakes. Best of luck.
+Hash: CC8EAF7E, Key: VoiceDir1.FEC7E, Value: Dismissive. Contempt.

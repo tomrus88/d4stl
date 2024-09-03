@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Devlin's Parting Words
+Hash: CC3C0A8F, Key: FlavorText, Value: A rain-soaked passage from Devlin's journal.
+Hash: F2CA04D8, Key: NoticeSignText, Value: It promised to take Callum away. To make father notice me.
+Callum's gone, but I'm still alone.
+It calls me to the water. Twists inside.
+I won't be alone anymore.

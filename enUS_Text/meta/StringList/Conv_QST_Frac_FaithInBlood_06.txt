@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I need a holy chalice."
+Hash: 3FFB0AE5, Key: Line17.A9F43, Value: Who are you to demand such a thing? None but those who have dedicated their lives to worship may touch the holy implements!
+Hash: 903136B2, Key: VoiceDir17.A9F43, Value: Pompus, arrogant suspicious.
+Hash: 7337041C, Key: Line19.BAE4, Value: I am on a solemn task from the Reverend Mother Prava herself! Shall I tell her you are unwilling to fulfill her request?
+Hash: E2406A49, Key: VoiceDir19.BAE4, Value: You are attempting a bold faced lie.
+Hash: 5E5F7340, Key: Line21.A9F43, Value: Oh! P-please forgive me! It is so rare to hear any news from Kyovashad, let alone from the Reverend Mother herself! I am honored!
+Hash: AE959F0D, Key: VoiceDir21.A9F43, Value: Immediate switch to sycophantic. You don't want your boss to come down on you.
+Hash: F853ECC2, Key: Line23.A9F43, Value: Here, here! It will need to be consecrated first, of course. Anointed in the blood of sinners. There are deserving brigands skulking in the caves to the east.
+Hash: 488A188F, Key: VoiceDir23.A9F43, Value: Sycophantic

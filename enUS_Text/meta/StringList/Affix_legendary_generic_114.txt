@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Elements
+Hash: 003892BF, Key: Desc, Value: Gain {c_random}[Affix_Value_1|%x|]{/c} increased damage to a set of damage types for {c_number}[Affix."Static_Value_0"]{/c} seconds.  This effect alternates between {c_number}2{/c} sets: 
+{icon:bullet,1.2}Fire, Lightning, and Physical. 
+{icon:bullet,1.2}Cold, Poison, and Shadow. 
+Hash: 82B7D312, Key: CodexDesc, Value: Alternate {c_random}[Affix_Value_1|%x|]{/c} increased damage between Fire, Lightning, and Physical, or Cold, Poison, and Shadow.

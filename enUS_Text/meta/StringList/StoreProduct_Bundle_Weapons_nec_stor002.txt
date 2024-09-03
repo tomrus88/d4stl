@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Grim Harvest
+Hash: A646FFA4, Key: Description, Value: Through the course of her many years, Iolaynah has battled fiends who would dare to upset the Balance. Their implements of death now tools of Rathma's true priest.
+Hash: 083EE0CE, Key: Quote, Value: Death in bloom.
+Hash: 13A53A8B, Key: Series, Value: "Belladonna" Weapons

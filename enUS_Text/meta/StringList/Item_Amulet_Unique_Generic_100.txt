@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Melted Heart of Selig
+Hash: F5C7BC0A, Key: Flavor, Value: "Do not allow your passions to become obsessions. Fuel the fire that burns within you, but it is madness to allow yourself to become ash to please an uncaring universe."
+- Last words of Master Selig

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Cull the Wicked
+Hash: 0871A46B, Key: Toast, Value: Slay all enemies in the area
+Hash: 5183C723, Key: Callback58Header, Value: Slay all enemies in the {EVENT_LEVELAREA}
+Hash: 0F2FC79E, Key: Callback71Header, Value: Enter {EVENT_LEVELAREA}
+Hash: 4F855768, Key: Callback99Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: A3D12282, Key: Callback66Header, Value: {TIMELEFT} remaining

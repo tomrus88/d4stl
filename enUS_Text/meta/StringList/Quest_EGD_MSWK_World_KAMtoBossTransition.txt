@@ -1,0 +1,2 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay the Pit Guardian's minions
+Hash: 059C64AB, Key: Callback5Header, Value: Slay the Guardian 

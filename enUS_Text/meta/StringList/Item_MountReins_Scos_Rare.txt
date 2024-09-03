@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Reins of the Granite-coat Steed
+Hash: A646FFA4, Key: Description, Value: Use reins to add the Granite-coat Steed to your stable.

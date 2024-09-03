@@ -1,0 +1,4 @@
+Hash: 4417A62B, Key: Line4.AC3FD, Value: (ragged breathing) An interloper...
+Hash: B3210C58, Key: VoiceDir4.AC3FD, Value: The character is sick and dying. Should be coughing. 
+Hash: DE0C1FAD, Key: Line6.AC3FD, Value: (breathing) I am so close...(coughing) begone!
+Hash: 4D1585DA, Key: VoiceDir6.AC3FD, Value: The character is sick and dying. Should be coughing. 

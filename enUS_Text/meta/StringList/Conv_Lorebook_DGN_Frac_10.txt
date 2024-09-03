@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Child's Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Child's Journal
+Hash: 5D20E69F, Key: Line1.B2A21, Value: 12th: That pup I found is getting big. She'll make a fine hound. Pa says I can keep her if I train her right. I’ll name her Fang. 
+
+15th: Today Fang killed a deer. Thrice her size. We feasted.
+Hash: CC2A4CCC, Key: VoiceDir1.B2A21, Value: Child wants to protect her pet.
+Hash: F7156021, Key: Line3.B2A21, Value: 17th: Fang won’t stop challenging bears. Pa said she’s unnatural. Tried to put her down. He never keeps his promises.  
+
+I’ll hide her here in the lodge. She was meant to be a hound. It’s in her blood. I’ll show him when she’s bigger. Then he’ll see.

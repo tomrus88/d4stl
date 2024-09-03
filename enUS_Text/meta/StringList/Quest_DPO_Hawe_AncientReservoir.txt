@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Horrors wade from the water.
+Hash: AE775FBE, Key: Callback80Header, Value: Slay all enemies in the Tainted Aqueduct {KAM_REVEALED_COUNT}
+Hash: E26052C2, Key: Callback84Header, Value: Return the Ancients Statue to the Pedestal: {LEFT}
+Hash: EBAA2C2D, Key: Callback115Header, Value: Travel to {LEVELAREA}
+Hash: A4030E0A, Key: Callback121Header, Value: Defeat the {MONSTER}
+Hash: 8AF1C44D, Key: Callback124Header, Value: Activate the {GIZMO}

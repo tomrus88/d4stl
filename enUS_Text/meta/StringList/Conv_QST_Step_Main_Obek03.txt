@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Are you ready?”
+Hash: 27FD4CE1, Key: Line7.6E261, Value: Yes. Where is she?
+Hash: 9706B30E, Key: VoiceDir7.6E261, Value: Hopeful, excited

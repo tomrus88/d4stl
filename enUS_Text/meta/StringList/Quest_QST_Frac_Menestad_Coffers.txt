@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Menestad Coffers
+Hash: 0871A46B, Key: Toast, Value: A tithe collector is growing impatient with an overdue collection.
+Hash: D53BFF05, Key: Phase0Description, Value: A Cathedral tithe collector seems concerned about a monk she sent to Menestand.
+
+She has asked that I search the roads leading to Menestad for a missing monk named Bozan.
+Hash: 1EADAE68, Key: Callback2Header, Value: Investigate the road to Menestad for Monk Bozan 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Search the cliffs for signs of Monk Bozan 
+Hash: 85A4CA58, Key: Callback11Header, Value: Search the ravine for Monk Bozan 
+Hash: 259D49BB, Key: Phase15Description, Value: I found Monk Bozan amid the wreckage of his wagon. He is injured, but alive. I should check on him.
+Hash: 6C93809B, Key: Callback14Header, Value: Speak with Monk Bozan 
+Hash: 803B8057, Key: Phase20Description, Value: Monk Bozan has asked me to carry the Tithing Demands the rest of the way to Menestad for him. They are stored in a Strongbox near his wrecked wagon.
+Hash: 5E28741A, Key: Callback31Header, Value: Collect the {ITEM}
+Hash: 38C9C8C0, Key: Phase29Description, Value: I have the Tithing Demands. Now to bring them to Merchant Lord Talgun at the Menestad marketplace. 
+Hash: 8CBE4880, Key: Callback28Header, Value: Deliver the Tithing Demands to Talgun the Merchant Lord 

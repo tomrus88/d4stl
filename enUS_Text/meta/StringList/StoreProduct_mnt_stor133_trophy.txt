@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Royal Watchman
+Hash: 13A53A8B, Key: Series, Value: "Flowers for the Crown"

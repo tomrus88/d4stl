@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fused Stone
+Hash: F2CA04D8, Key: NoticeSignText, Value: This stone has a distinctive swirling pattern, with discolored streaks interweaving across its surface. If you were to guess, it was made from the shattered pieces of a dozen broken Tuning Stones. 

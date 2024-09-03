@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Worn Gravestone
+Hash: F2CA04D8, Key: NoticeSignText, Value: “Here lies Old Nan Gylmor. 
+Long she lived, far she traveled. 
+Content here at home, she rests.” 

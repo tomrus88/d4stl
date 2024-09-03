@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing here?"
+Hash: F621FCF3, Key: Line15.101BAB, Value: Got nowhere left to go. I hope you're happy.
+Hash: 4D1DA260, Key: VoiceDir15.101BAB, Value: Condescending; disgusted with the player for contributing to his exile.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ominous Cellar
+Hash: 003892BF, Key: Desc, Value: Kvera and Petr shelter Sister Octavia from prying eyes.

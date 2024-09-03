@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Ivaanjav
+Hash: 8EFA4271, Key: Line1.140140, Value: Shh. Quiet. She won't find me in here.
+Hash: DF306E3E, Key: VoiceDir1.140140, Value: Loudly whispering. He's "hiding." But this line is meant to draw the player to investigate.

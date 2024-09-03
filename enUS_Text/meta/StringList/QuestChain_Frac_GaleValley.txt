@@ -1,0 +1,3 @@
+Hash: 76E748CE, Key: 0_desc, Value: Confessor Prava received a report about a horned woman from a Pale Knight named Vigo who is stationed in Yelesna. I need to speak to him and verify whether the woman was Lilith.
+Hash: 793C716F, Key: 1_desc, Value: Vigo, the Pale Knight who sent Confessor Prava the report about the horned woman, is posted at the Old Mine Camp near Yelesna. I will speak to him there.
+Hash: 7B919A10, Key: 2_desc, Value: Vigo, Neyrelle, and I must pursue Lilith and Neyrelle's mother, Vhenard, into the depths of the Condemned Mines.

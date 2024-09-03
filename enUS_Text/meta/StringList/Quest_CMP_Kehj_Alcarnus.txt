@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Alcarnus
+Hash: 0871A46B, Key: Toast, Value: A long-abandoned desert city with a terrible past
+Hash: 1EADAE68, Key: Callback2Header, Value: Explore Alcarnus
+Hash: B8A227EA, Key: Callback4Header, Value: Delve deeper into Alcarnus
+Hash: B98DBD5C, Key: Callback15Header, Value: Rekindle the Wanderer's Shrine to conquer Alcarnus
+Hash: E7AD4CB7, Key: Callback197Header, Value: Slay Rashta's Simulacrums
+Hash: CB85424A, Key: Callback220Header, Value: Destroy the Necrotic Masses
+Hash: 2A395C6D, Key: Callback133Header, Value: Destroy one of the Necrotic Masses
+Hash: 3BF917D1, Key: Callback164Header, Value: Slay Rashta, the Mad Surgeon
+Hash: 0F29A2F5, Key: Callback177Header, Value: Return to the Lair of the Witch
+Hash: F3019888, Key: Callback200Header, Value: Slay {MONSTER}
+Hash: B5C8A770, Key: Callback271Header, Value: Retrieve Rashta's Medical Notes
+Hash: AD20D9EF, Key: Callback216Header, Value: Investigate the Lair of the Witch
+Hash: D0A050B7, Key: Callback278Header, Value: Investigate the Lair of the Witch
+Hash: 1D9A8D78, Key: Callback279Header, Value: Investigate the Lair of the Witch
+Hash: 55103F90, Key: Callback280Header, Value: Investigate the Lair of the Witch
+Hash: A408EC0C, Key: Callback240Header, Value: Return to the Lair of the Witch
+Hash: 3DFD658E, Key: Callback242Header, Value: Return to The Lair of the Witch
+Hash: 9CB75DB3, Key: Callback274Header, Value: Speak with the Necromancer

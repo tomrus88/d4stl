@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Bolster
+Hash: 003892BF, Key: desc, Value: {c_important}{u}Fortify{/u}{/c} for {c_number}[{SF_0}*100|%|]{/c} of your Maximum Life when you use a {c_important}Defensive{/c} Skill.

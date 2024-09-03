@@ -1,0 +1,3 @@
+Hash: 5D27F028, Key: Line1.AA9BD, Value: I can overlook my brother's foul deeds no longer.
+Hash: CC315655, Key: VoiceDir1.AA9BD, Value: determined
+Hash: F71C69AA, Key: Line3.AA9BD, Value: Light, grant me the strength to bring your justice upon my own blood.

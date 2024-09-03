@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What brings you to Yelesna?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: My mother and I study the Horadrim. We were onto something big! But then she ran off. It’s not like her to abandon the hunt.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: enthusiastic

@@ -1,0 +1,36 @@
+Hash: 290DD2CB, Key: ReportPlayerTitle, Value: Report Player
+Hash: 1146EB48, Key: Reason, Value: Reason for Report
+Hash: B3C85343, Key: MainCategory, Value: Category
+Hash: F757D108, Key: SubCategory, Value: Offense
+Hash: 50941385, Key: AdditionalInfo, Value: Additional Information
+Hash: 2A6A3CEC, Key: CharacterLimit, Value: Character Limit: {s1} / 180
+Hash: 1FC3D3EF, Key: Submit_Button, Value: Submit
+Hash: 3ABE5901, Key: Cancel_Button, Value: Cancel
+Hash: F9AB25D1, Key: Close_Button, Value: Close
+Hash: 0D09FC4D, Key: ReportSubmitted, Value: Your report was successfully submitted.
+Hash: 7FE9DAB1, Key: MainCategory_AbusiveChat, Value: Abusive Chat
+Hash: 88476FF8, Key: MainCategory_GameplaySabotage, Value: Gameplay Sabotage
+Hash: C09B5905, Key: MainCategory_Cheating, Value: Cheating
+Hash: 31A5D1A1, Key: MainCategory_InappropriateName, Value: Inappropriate Name
+Hash: B11A0E4C, Key: SubCategory_TextChat, Value: Text Chat
+Hash: 4DB7577D, Key: SubCategory_VoiceChat, Value: Voice Chat
+Hash: C583C6D8, Key: SubCategory_Spam, Value: Spam
+Hash: 919ED739, Key: SubCategory_AFK, Value: AFK
+Hash: E1B61A2C, Key: SubCategory_BlockingTeamProgress, Value: Blocking Team Progress
+Hash: CA16BBDE, Key: SubCategory_Botting, Value: Botting
+Hash: 76135F9C, Key: SubCategory_Hacking, Value: Hacking
+Hash: C5B733AC, Key: SubCategory_Exploit, Value: Exploit
+Hash: A69AECA7, Key: SubCategory_Username, Value: Username
+Hash: E5854706, Key: SubCategory_ClanName, Value: Clan Name
+Hash: 0EB69001, Key: SubCategory_ClanTag, Value: Clan Tag
+Hash: 88E64A38, Key: Select_Option, Value: Select option
+Hash: F48F9C8B, Key: ControllerPrompt_Cancel, Value: {icon:button2, 2}  Cancel
+Hash: 1B45A739, Key: ControllerPrompt_Submit, Value: {icon:button4, 2}  Submit
+Hash: 2D0E627C, Key: ReportClanTitle, Value: Report Clan
+Hash: 16F322BB, Key: ControllerPrompt_Close, Value: {icon:button2, 2} Close
+Hash: 1E858EFB, Key: MainCategory_ClanContent, Value: Clan Content
+Hash: E584F719, Key: SubCategory_ClanMOTD, Value: Message of the Day
+Hash: E582BF91, Key: SubCategory_ClanInfo, Value: Clan Info
+Hash: DB39AA60, Key: SubCategory_ClanHeraldry, Value: Heraldry
+Hash: AAF56A49, Key: SubCategory_ClanDescription, Value: Clan Description
+Hash: BF4D255F, Key: SubCategory_Battletag, Value: Battletag

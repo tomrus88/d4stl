@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Approach the crusader)
+Hash: 8EB39B3B, Key: Line1.103673, Value: Ah, forgive me, friend. I was lost in prayer. I am Ksenia.
+Hash: DEE9C708, Key: VoiceDir1.103673, Value: Confident. Zealous. Unfaltering faith.
+Hash: 1D9EAB2E, Key: Line13.103673, Value: I am surprised to find another here. It is no small feat to wander where Mephisto's grasp is tight. Even my fellow crusaders refuse to tread here.
+Hash: 451B016C, Key: Line11.103673, Value: Perhaps we were both led here by the Light. The dim flames, smothered by Mephisto's presence. Yes! That must be it. We were destined to bring peace to this monument of hatred.
+Hash: 9C16A6D9, Key: VoiceDir11.103673, Value: Picking up speed. Becoming excited as she convinces herself
+Hash: 183E9881, Key: Line7.103673, Value: Come! Join me when you are ready. But do not waver, lest I purge the darkness without you.
+Hash: 6874C44E, Key: VoiceDir7.103673, Value: Picking up speed. Becoming excited as she convinces herself. At the end, attempting to be playful

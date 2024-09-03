@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Rise and Fall of the Tyrant
+Hash: A646FFA4, Key: Description, Value: It is said that the Tyrant reveled in victory, drunk on the cheers from the stands. But when the Tyrant fell at last, the crowd cheered all the louder.
+Hash: 083EE0CE, Key: Quote, Value: Infamy in life, disdain in death.
+Hash: 13A53A8B, Key: Series, Value: "Tyrant of the Pits" Accessories

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Clarity
+Hash: 003892BF, Key: desc, Value: After casting a {c_important}Companion{/c} Skill, your next {c_important}Core{/c} or {c_important}Wrath{/c} Skill's damage and Critical Strike Chance are increased by {c_number}[{SF_0}*100|%x|]{/c}, up to {c_number}[{SF_2}|%x|]{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_0}*100|%x|]{/c}
+{icon:bullet,1.2} Critical Strike Chance {icon:arrow,1.2} {c_number}[{SF_0}*100|%x|]{/c}
+{icon:bullet,1.2} Maximum Bonus {icon:arrow,1.2} {c_number}[{SF_2}|%x|]{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Clarity
+Hash: C6E60718, Key: Buff2_Description, Value: Your next Core or Wrath Skill has increased damage and Critical Strike Chance.

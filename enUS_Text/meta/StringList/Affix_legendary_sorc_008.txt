@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Three Curses
+Hash: 003892BF, Key: Desc, Value: Increase the Critical Strike Damage of {c_important}Meteor{/c_important} and {c_important}Fireball{/c_important} by {c_random}[Affix_Value_1|%x|]{/c}. Double this bonus against {c_important}{u}Healthy{/u}{/c} targets.
+Hash: 82B7D312, Key: CodexDesc, Value: Increase the Critical Strike Damage of {c_important}Meteor{/c_important} and {c_important}Fireball{/c_important} by {c_random}[Affix_Value_1|%x|]{/c}.

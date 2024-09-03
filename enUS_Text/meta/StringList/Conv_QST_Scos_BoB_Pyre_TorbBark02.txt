@@ -1,0 +1,2 @@
+Hash: 5D201C8E, Key: Line1.B20BA, Value: Meet me at the Goose. We’ll see to Blackweald, together.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, blunt

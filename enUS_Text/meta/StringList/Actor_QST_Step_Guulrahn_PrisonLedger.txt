@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Moldy Old Journal
+Hash: F2CA04D8, Key: NoticeSignText, Value: An old damp ledger. Tucked between the pages is a folded note. Most of it is illegible, but you can make out a few words.
+"...earthquake damaged outer walls..." 
+"...seal away the section..." 
+"...leave the dead inside..."

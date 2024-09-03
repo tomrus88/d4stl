@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Bear of Blackweald
+Hash: 5D201C8E, Key: Line1.B20BA, Value: I’ve found my purpose. Beyond the ash, the death.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, earnest
+Hash: 91090F92, Key: Line5.B20BA, Value: The Bear of Blackweald died in Brione.
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: cold, blunt, determined
+Hash: 18586AF0, Key: Line7.10B961, Value: No! You can’t--
+Hash: 688E96BD, Key: VoiceDir7.10B961, Value: desperate, angry

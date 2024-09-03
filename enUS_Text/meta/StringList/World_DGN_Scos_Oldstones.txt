@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Oldstones
+Hash: 003892BF, Key: Desc, Value: Khazra infest the ruined holdfast, ignorant of its curse.

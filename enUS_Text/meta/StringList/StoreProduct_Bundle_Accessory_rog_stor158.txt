@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Raptor Cache
+Hash: A646FFA4, Key: Description, Value: Rangers will often stash supplies for themselves or other Birds in caches, which are specially marked and hidden throughout the countryside.
+Hash: 083EE0CE, Key: Quote, Value: The right tools at the right time.
+Hash: 13A53A8B, Key: Series, Value: "Birds of Prey" Accessories

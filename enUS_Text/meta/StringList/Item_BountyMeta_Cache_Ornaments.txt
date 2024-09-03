@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cache of Ornaments
+Hash: A646FFA4, Key: Description, Value: A cache of items as a reward for your efforts. Contains an assortment of Jewelry and Gems.

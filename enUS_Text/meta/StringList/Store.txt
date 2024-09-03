@@ -1,0 +1,267 @@
+Hash: 0001FA7A, Key: TBD, Value: TBD: Coming Soon
+Hash: 844D5D6F, Key: NavCosmetics, Value: Cosmetics
+Hash: E2DA56ED, Key: NavExpansions, Value: Expansions
+Hash: 19FE38A9, Key: NavServices, Value: Services
+Hash: 253A51B0, Key: NavCurrency, Value: Platinum
+Hash: F11207C2, Key: FreeLabel, Value: Free
+Hash: 33AD92C9, Key: DiscountLabel, Value: Discount
+Hash: B06791F7, Key: LimitedTimeLabel, Value: Limited Time: %1
+Hash: 6D9B95FD, Key: IndicatorLabel, Value: {s1}
+Hash: 2F3A9EBB, Key: CanvasItemsIncluding, Value: %1 Items Including...
+Hash: CD80A18E, Key: BrowserFeaturedSubHeading, Value: Featured
+Hash: C0C970BC, Key: BrowserJustForYoutSubHeading, Value: Just For You
+Hash: FF6E52A4, Key: LabelBuyNow, Value: Buy Now
+Hash: 257390AA, Key: VCPurchaseWarning, Value: You are about to purchase {s1} for {s2}. Are you sure?
+Hash: 8B33B355, Key: CompletePurchaseButtonText, Value: Complete Purchase
+Hash: A22383C6, Key: PurchaseConfirmationTitle, Value: Confirm Purchase
+Hash: A3CD3D21, Key: PurchaseInformation, Value: [PH] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.accumsan lacus vel facilisis. 
+Hash: BBEF4AF0, Key: ItemName, Value: [ItemName]
+Hash: 9FCAA2F3, Key: ItemDescription, Value: [ItemDescription]
+Hash: 3C405281, Key: ConfirmationSalePrice, Value: [sale price]
+Hash: 9D10F05C, Key: ConfirmationPrice, Value: {Value}
+Hash: 81680777, Key: AfterPurchasePlatinum, Value: After purchase, you will have  {icon:CurrencyIcon, 2.0} {s1} Platinum remaining
+Hash: 082B0773, Key: Price, Value: {Value}
+Hash: 45DC4B25, Key: SaleLabel, Value: Sale
+Hash: 10037C36, Key: PurchaseBundleButtonText, Value: Purchase Bundle
+Hash: DE05FC27, Key: PuchaseAsGift, Value: Purchase As Gift
+Hash: E0CE332F, Key: PlatinumNeeded, Value: You need {s1} Platinum to purchase
+Hash: 474E228D, Key: BuyMorePlatinum, Value: Buy More Platinum
+Hash: 39693214, Key: SupportedClasses, Value: Supported Classes:
+Hash: 4CA63AAB, Key: TransmogLabel, Value: Cosmetic {s1} 
+Hash: 9BAB91B1, Key: EquippedFromLabel, Value: Equipped from {s1} {icon:{s2}, 3} 
+Hash: D9B18E0F, Key: SelectPreviewCharacter, Value: Select character for preview:
+Hash: 3E39FF4C, Key: CollectionLabel, Value: Collection:
+Hash: 00761C14, Key: PurchaseComplete, Value: Purchase Complete
+Hash: 69E90157, Key: PurchasedItemsNote, Value: Recently purchased cosmetics can be found in locations on the map ({hotkey:Map}) marked with {icon:New_Indicator_Secondary, 2.0}
+Hash: 4FEEF94E, Key: BackToShop, Value: Continue Shopping
+Hash: 87BCF5AD, Key: CharacterSelect, Value: Character Select
+Hash: 4FE846AE, Key: BackToGame, Value: Return To Game
+Hash: D9DCC3BB, Key: MostPuopularLabel, Value: Most Popular
+Hash: 38056A4B, Key: BestValueLabel, Value: Best Value
+Hash: 1315AD66, Key: CurrencyBonusAmount, Value: +{s1} FREE
+Hash: FBA95B53, Key: CurrencyItemCostLabel, Value: {RTM value}
+Hash: 5E0FB76B, Key: PlatinumPurchaseInformation, Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Hash: F4892AC6, Key: VCAddedToYourWallet, Value: {icon:CurrencyIcon, 1.6}  {s1} has been added to your wallet.
+Hash: 00000EBA, Key: OK, Value: OK
+Hash: 72D3077E, Key: PlaceholderBundleName, Value: Line One
+Line Two
+Hash: 4840948D, Key: SupportedClassesAll, Value: Supports all classes
+Hash: 0EA90C36, Key: Wardrobe, Value: Wardrobe
+Hash: 14AB3ABB, Key: Stable, Value: Stable
+Hash: 7753626F, Key: EmoteWheel, Value: Emote Wheel
+Hash: BB413CDE, Key: PlayerProfile, Value: Player Profile
+Hash: CF1A4589, Key: MarkingLabel, Value: Marking
+Hash: CDA87F02, Key: JewelryLabel, Value: Jewelry
+Hash: 17A9643B, Key: HeadstoneLabel, Value: Headstone
+Hash: 5E80CEB3, Key: MountLabel, Value: Mount
+Hash: 7688717A, Key: EmoteLabel, Value: Emote
+Hash: FE51D932, Key: EmblemLabel, Value: Emblem
+Hash: 0BF5201E, Key: Controller_Purchase, Value: {icon:button1, 2}  Purchase
+Hash: 49D07349, Key: Controller_Cancel, Value: {icon:button2, 2}  Cancel
+Hash: 9B3CF28B, Key: NewPurchasedItems, Value: Congratulations on your shop purchase!  The diamond icon  {icon:New_Indicator_Secondary, 2.0} notifies you when there are new / unseen purchases available at locations in Sanctuary.  Open the map {hotkey:Map} to view locations.
+Hash: C2522646, Key: PurchaseCompleteModalMessage, Value: {s1} has been successfully purchased! Recently purchased items can be found in locations on the map ({hotkey:Map}) marked with {icon:New_Indicator_Secondary, 2.0}
+Hash: 9375C61A, Key: TransactionPendingModalTitle, Value: Transaction In Progress
+Hash: 23C5239D, Key: TransactionPendingModalMessage, Value: A transaction is in progress. Purchasing is disabled until the transaction completes.  You will be notified when the purchase is complete.
+Hash: 6B12B225, Key: PurchaseError, Value: Purchase Error
+Hash: A8E0D80A, Key: PurchaseErrorMessage, Value: There was an error purchasing "{s1}"
+Hash: 6C00CA03, Key: TransactionProcessing, Value: Transaction Processing
+Hash: 212A3F17, Key: TransactionDelayTitle, Value: Transaction taking longer than expected
+Hash: F07BCFDA, Key: TransactionDelayMessage, Value: Your transaction is being processed but something may have gone wrong.  Take these steps to resolve. {action items}.  You will be notified when your transaction has completed.
+Hash: F0CA6EE8, Key: StoreFrontLoadingDelayMessage, Value: Tejal is taking longer than expected.  Something may be wrong.  
+Hash: 7BCB697C, Key: StoreRefresh, Value: New content will be added to the shop on mm/dd/yyyy
+Hash: 2650AED5, Key: StorefrontEmptyHeading, Value: Tejal has no more to offer at this time.
+Hash: 241C63A7, Key: StoreFront_Empty_Description, Value: The shop product catalog is refreshed regularly.  Check back soon for new content. 
+Hash: 606945C4, Key: VCBonusDescription, Value: {s1}{b} + {s2} FREE{/b}
+Hash: CBEBAD69, Key: GoBackPrompt, Value: Go Back
+Hash: AFF606F5, Key: DefaultPreviewCharacterName, Value: Preview Character
+Hash: 9714E5DE, Key: RandomizeLook, Value: Randomize Look
+Hash: 9DD5DBB8, Key: ResetLook, Value: Reset Look
+Hash: 20A90330, Key: SwapGender, Value: Swap Body Type
+Hash: D7477CE9, Key: MountNotIncludedDisclaimer, Value: Mount not included in bundle.
+Hash: 97669636, Key: MountNotAvaiableDisclaimer, Value: Mounts are not available until completion of the quest: "Donan's Favor".
+Hash: B0A4F651, Key: FriendsFamilyVCPurchasesDisclaimer, Value: 
+Hash: 017A674F, Key: FriendsFamilyCosmeticPurchasesDisclaimer, Value: 
+Hash: 9114CCC5, Key: CosmeticPurchases, Value: Cosmetic Purchases
+Hash: 2F484707, Key: VCPurchases, Value: <Platinum> Purchases
+Hash: 84E5F297, Key: FriendsFamilyPurchaseDisclaimerModalMessage, Value: 
+Hash: A96DEC7C, Key: StoreRefreshLabel, Value: Shop Refresh:
+Hash: 6A5CD919, Key: StoreRefreshAboutTitle, Value: Store Refresh :  {Time Remaining}
+Hash: 65F04CF2, Key: StoreRefreshAboutContent, Value: The shop refresh timer counts down the time until the products in the store front are updated. When the store front is updated, new items may be added and some items may be removed.
+Hash: 51CACB15, Key: StoreRefreshComplete, Value: Store Refresh Complete!
+Hash: 25C4953A, Key: StoreRefreshing, Value: Shop Refreshing...
+Hash: 7A4582FA, Key: StoreRefreshCompleteMessage, Value: Products in the shop have been updated!
+Hash: B2305073, Key: StoreRefreshOccurred, Value: Shop Refresh Occurred!
+Hash: CACF9298, Key: StoreRefreshOccurredMessage, Value: The shop catalog has been updated with new products.  The product you are viewing may not be available in the newest version of the catalog.
+Please take {b}5 more minutes{/b} to complete your purchase.  After that time, you will only be able to purchase products from the newest catalog.
+Hash: 63EEAFB8, Key: StoreRefreshProductRemovalMessage, Value: {b}A catalog refresh has occurred.{/b}
+The availability of this product may change in {b}{s1}{/b}.
+Hash: DE5D308B, Key: StoreRefreshTime, Value: {b}{s1} {s2}{/b}
+Hash: 0B1DE514, Key: AreYouSure, Value: Are You Sure?
+Hash: 9E58EE3A, Key: StoreRefreshConfirmNavigation, Value: The shop catalog has been updated with new products.  The product you are viewing may not be available in the newest version of the catalog.
+You can still purchase this product within the next {s1}.  After that time, you will only be able to purchase products from the newest catalog.
+Hash: 2AF2F11A, Key: FriendsFamilyPurchasesDisclaimerTitle, Value: Friends & Family Shop Purchases
+Hash: A53380BC, Key: ProductRemovalMessage, Value: This product will be removed in {time}
+Hash: D6A890DC, Key: SaleTestString, Value: -99%
+Hash: C423880F, Key: NumItemsOwned, Value: {icon:AlreadyOwnedDiamondFrame, 2.5} {s1} Items owned - {s2} off.
+Hash: DEE3C06C, Key: FullSalesTimer, Value: {b}SALE:{/b} -{value}%  {c:FF917f69}99d 99h{/c}
+Hash: A6EB5DDD, Key: AbreviatedSaleTimer, Value: |  99d 99h
+Hash: F31810BA, Key: PriceUpdated, Value: Price Updated
+Hash: F12C15BA, Key: DiscountExpired, Value: A discount on this product has expired.
+The price is now {icon:CurrencyIcon, 1.6}  {b}{Value}{/b}
+
+Hash: F4E9C6E9, Key: PriceIncreasedConfirmExit, Value: A discount on this product has expired
+If you exit the purchase UI,  the price will be: A  {icon:CurrencyIcon, 1.6}  {b}{Value}{/b}
+Would you like to continue?
+Hash: 0FE3A293, Key: PriceDecreased, Value: A new discount on this product has been applied.
+The price is now {icon:CurrencyIcon, 1.6}  {b}{Value}{/b}
+Hash: A4A25381, Key: PriceIncreased, Value: Price Has Increased
+Hash: 85FC13EF, Key: FriendsFamilyVCHeader, Value: Beta Platinum
+Hash: 1717038B, Key: FriendsAndFamilyVCModalMessage, Value: With the release of the Beta Shop Update,  {c:FFFFFFFF} your account was credited with a one-time drop of  {icon:CurrencyIcon, 2.0} 10000 Platinum{/c}.   This Platinum can be used at any time during the beta to purchase items in the shop. The amount of Platinum will not be replenished, so spend it wisely, and enjoy! 
+
+When Diablo IV is released, premium currency can be purchased for real money from this menu. The amounts and prices seen here are subject to change before release.
+
+You will NOT be charged real money at any point during the beta. Items you purchase in the shop and your remaining Platinum will be revoked when the beta period ends.  
+  
+Hash: 499DD74A, Key: FriendsAndFamilyPalladiumRemainng, Value: {s1} Platinum Remaining
+Hash: 4CEB9366, Key: PurchaseCompleteModal_Message_Title, Value: {s1}  has been successfully purchased!
+Hash: A8794E93, Key: BackslotLabel, Value: Back Trophy
+Hash: DD4B6F79, Key: MountTrophyLabel, Value: Mount Trophy
+Hash: 334CD489, Key: StaticStoreRefreshMessageLabel, Value: The shop refreshes on:
+Hash: 32BC5D1A, Key: StaticStoreRefreshMessageDates, Value: {b}Mon, Wed and Fri{/b}
+Hash: 94717EBC, Key: StaticDailyStoreRefreshMessageLabel, Value: The shop refreshes daily
+Hash: A637B56B, Key: ShopRefreshPaused, Value: Shop refresh paused for beta
+Hash: F7525D41, Key: StoreFrontLoadingFailureMessage, Value: Tejal encountered an error and is unable to make offers at this time.
+Hash: 7F449E18, Key: VCUnknownAmountDisplayText, Value: ...
+Hash: 64FEE9B4, Key: MountArmorLabel, Value: Mount Armor
+Hash: 2354ECDD, Key: Controller_Page_Right, Value: {icon:r2, 2.0}
+Hash: CAC127EA, Key: Controller_Page_Left, Value: {icon:l2, 2.0}
+Hash: EBFD2165, Key: CompatibilityTooltip, Value: A {s1} must be equipped to use.  
+Hash: BE739BD2, Key: IncompatibilityInspectionMessage, Value: An equipped {s1} is required to apply
+Hash: 2E025B9B, Key: CompatibilityInspectionMessage, Value: An equipped {s1} is required to apply
+Hash: 6810F0E4, Key: ClassIncompatibilityDisclaimer, Value: A {s1} is required to use many of the items in this bundle.
+Hash: D3928688, Key: WeaponIncompatibilityDisclaimer_InGame, Value: Some cosmetics in this bundle cannot be applied to any items in your current character’s loadout.
+Hash: DA1B668B, Key: WeaponEquipDisclaimer, Value: Weapon cosmetics can only be applied to equipped weapons of the same type.
+Hash: F3102D70, Key: BundleTest_String, Value: Persistence of the light
+Hash: F8ADA6E5, Key: NumMoreItems, Value: +{num}
+Hash: 94C845D6, Key: CurrentlyEquipped1, Value: Currently Equipped: {s1}
+Hash: 94C845D7, Key: CurrentlyEquipped2, Value: Currently Equipped: {s1}, {s2}
+Hash: 94C845D8, Key: CurrentlyEquipped3, Value: Currently Equipped: {s1}, {s2}, {s3}
+Hash: 2D265B1A, Key: CalculatingPrice, Value: Calculating Price...
+Hash: 12EF6827, Key: PriceCalculationFailed, Value: {icon:Exclamation_Icon, 1.6}  Price could not be calculated.
+Hash: 18A15FC9, Key: OpenDetailsToViewPrice, Value: {icon:button1, 2.0}  View Pricing
+Hash: C1369880, Key: StoreFrontLoadingFailureMessageDev, Value: Tejal encountered an error and is unable to make offers at this time.{br}Error: {s1}
+Hash: F750ECBE, Key: NavAddOns, Value: Add Ons
+Hash: E78D9247, Key: NumOfItems, Value: {s1} Items
+Hash: 25FCC937, Key: ItemTypeAddOn, Value: Add On
+Hash: 9BAA5C39, Key: AddOn1Title, Value: Diablo IV Digital Deluxe Ultimate Upgrade
+Hash: 9C512B7B, Key: Purchase, Value: Purchase
+Hash: 71B0641F, Key: AddOnIncludesTitle, Value: The {s1} Includes
+Hash: 490481DD, Key: EquipAll, Value: Apply All Now
+Hash: D0929F55, Key: EquipNowDisclaimer, Value: Some items cannot be applied now
+Hash: 4904B998, Key: EquipNow, Value: Apply Now
+Hash: 4904C0BD, Key: Equipped, Value: Applied
+Hash: 3B4ADC0C, Key: PurchasingDisabled, Value: {FontColorError}Real Money Purchases Disabled{/c}
+Real money purchases are disabled due to {parental controls}
+Hash: F76F3BD9, Key: PurchasingDisabled_Modal_Title, Value: Real Money Purchases Disabled
+Hash: 37D956BB, Key: PurchasingDisabled_Modal_Description, Value: Real money purchases have been disabled due to Parental Controls.  This will prevent you from purchasing Platinum and other products that cost {Currency Type}
+Hash: 39F6D66C, Key: ItemOwned, Value: {icon:AlreadyOwnedDiamondFrame, 2.5} Owned
+Hash: 164FD2B8, Key: NumItemsOwnedDiscount, Value: {icon:AlreadyOwnedDiamondFrame, 2.5} {s1} Items already owned - {s2} Select to view discounted price.
+Hash: 2F516460, Key: UnEquipAll, Value: Unapply All Now
+Hash: 68018AF0, Key: StoreLoadingMessage, Value: Loading...
+Hash: CF91FC67, Key: ClassIncompatibility, Value: Requires a supported character class to apply
+Hash: 03F616AB, Key: NoItemsCanBeAppied, Value: No items can be applied
+Hash: 2F519C1B, Key: UnequipNow, Value: Unapply Now
+Hash: 9B9A8796, Key: Inspect, Value: Inspect
+Hash: D2A9E9A2, Key: MountsNotUnlockedIncompatibilityMessage, Value: Cannot apply because mounts are not unlocked yet
+Hash: AFBB59C1, Key: TooltipAcquisitionStore, Value: {s1}
+Theme: {s2}
+Hash: D37EE587, Key: AddOnCrossGameDisclaimer, Value: *Downloaded separately. Availability varies by platform and region. Diablo® III, Diablo Immortal™ and World of Warcraft® sold separately.
+Hash: AACDF0F9, Key: MustBeEquippedFromActionWheelMessage, Value: This can only be applied from the action wheel
+Hash: 3DB42C0B, Key: KoreanRefundPolicyDisclaimerKBM, Value: This product is refundable within 7days from purchase if it’s not used or opened. It is non-refundable if it provides a preview of the item or makes the item immediately available for use. You may use the item until termination of the service unless provided otherwise. In that case, you may use the item during the specified period. I hereby confirm and consent to the {b}TOS{/b} and the {b}Refund Policy{/b}.
+Hash: 0001FC36, Key: TOS, Value: TOS
+Hash: A7E95854, Key: Refund Policy, Value: Refund Policy
+Hash: 1D3F4FFB, Key: VCTypeLabel, Value: Premium Currency
+Hash: 327EBEF9, Key: Controller_TOS, Value: {icon:button3, 2} View TOS 
+Hash: EDF39E56, Key: Controller_Refund_Policy, Value: {icon:button4, 2} View Refund Policy
+Hash: 6246E47C, Key: BundleType, Value: {s1}
+Hash: 25018ABF, Key: BundleType_PrestigeArmor, Value: Prestige Armor
+Hash: 55642E27, Key: BundleType_Accessory, Value: Accessory
+Hash: F4D62C3A, Key: BalanceCalculationFailed, Value: {icon:Exclamation_Icon, 1.6} Balance could not be calculated.
+Hash: B307E88D, Key: CalculatingBalance, Value: Calculating Balance...
+Hash: 8ACD0FBC, Key: BundleType_Armor, Value: Armor
+Hash: 8BA4B28E, Key: BundleType_Mount, Value: Mount
+Hash: 97F6D372, Key: BundleType_Barding, Value: Mount Armor
+Hash: 3F281D4F, Key: BundleType_Accessories, Value: Accessories
+Hash: F0A57F58, Key: BundleType_Weapons, Value: Weapons
+Hash: 85A2BFB3, Key: BundleType_Equipment, Value: Equipment
+Hash: 1B5BC3F6, Key: AddOnBattlePassDisclaimer, Value: *Battle Pass will unlock with Season 1.
+Hash: 93EA76F6, Key: AddOnMountDisclaimer, Value: * Mount access must be unlocked in-game before using mounts.
+Hash: DC9C1852, Key: ItemCountBundle, Value: {s1} Item Bundle
+Hash: 9236BA3E, Key: ItemCountAddOn, Value: {s1} Item Add On
+Hash: F0BC033F, Key: FreeGifts, Value: Tejal's Gifts
+Hash: BAB1F802, Key: SaleDiscountAmount, Value: Sale - {s1} off.
+Hash: FBF74C99, Key: UnknownDiscount, Value: ?
+Hash: 0040D8BA, Key: Shop, Value: Shop
+Hash: 67119329, Key: BPPurchasePremiumDisclaimer, Value: After purchasing the Premium Battle Pass, you will not be able to purchase this season’s Accelerated Battle Pass, which includes 20 Tier Skips and the "On the Warpath!" Emote.
+Hash: E6CE5C37, Key: BPPurchaseAcceleratedDisclaimer, Value: Tier Skips are applied automatically after your purchase.  Excess tier skips will be lost if the Accelerated Battle Pass is purchased with less than 20 tiers remaining in the Battle Pass.
+Hash: CF088E8F, Key: ErrorLoadingProductInformation, Value: Product information could not be loaded.
+Hash: 44ABF585, Key: LoadingProductInformation, Value: Loading Product Information
+Hash: 4E054F2D, Key: ClassIcon_Barb_Small, Value: {icon:ClassIcon_Barb_Small, 2.0}
+Hash: F174400D, Key: ClassIcon_Necro_Small, Value: {icon:ClassIcon_Necro_Small, 2.0}
+Hash: 840D640E, Key: ClassIcon_Druid_Small, Value: {icon:ClassIcon_Druid_Small, 2.0}
+Hash: C441A378, Key: ClassIcon_Rogue_Small, Value: {icon:ClassIcon_Rogue_Small, 2.0}
+Hash: 3E815D2D, Key: ClassIcon_Sorc_Small, Value: {icon:ClassIcon_Sorc_Small, 2.0}
+Hash: CA7798B8, Key: AddOnsEmptyHeading, Value: No add ons to offer at this time
+Hash: CFF0A39A, Key: TownPortalLabel, Value: Town Portal
+Hash: 5DAFE557, Key: CompleteFreePurchaseButtonText, Value: Claim
+Hash: 6231EB08, Key: FreePurchaseConfirmationTitle, Value: Confirmation
+Hash: 78B29EFE, Key: FreePurchaseButtonText, Value: Claim
+Hash: F805C116, Key: FreePurchaseComplete, Value: Free Items Claimed
+Hash: A9019579, Key: AfterFreePurchasePlatinum, Value:  
+Hash: D8CBFB57, Key: MegaBundleCategoryDefault, Value: Shop Category
+Hash: 060C4D3D, Key: ShopCategoryDefault, Value: Shop Category
+Hash: F1492871, Key: VFXIndicator, Value: {icon:Store_VFX_Icon, 2.0}  VFX Included
+Hash: 4D77EA15, Key: HairStyleLabel, Value: Hair Style
+Hash: FFDB3C24, Key: FacialHairLabel, Value: Facial Hair
+Hash: 506535C1, Key: Expansion_Banner_CTA, Value: Pre-Purchase Now
+Hash: AC5DFE12, Key: Expansion_Release_Date, Value: Available on October 8, 2024
+Hash: C6CD6E36, Key: Expansion_Title, Value: [Expansion 1 Title]
+Hash: 3BEEF323, Key: Expansion_Title_Prefix, Value: [Prefix]:
+Hash: 3C18FB29, Key: Expansion_InfoCard_0, Value: New Class
+Hash: 3C18FB2A, Key: Expansion_InfoCard_1, Value: New Region
+Hash: 3C18FB2B, Key: Expansion_InfoCard_2, Value: More Campaign,
+More Evil
+Hash: 3C18FB2C, Key: Expansion_InfoCard_3, Value: New Allies, New Power 
+Hash: E0CB12F5, Key: PH_Card_Text, Value: [PH Text for Titles]
+Hash: 6253BB14, Key: PH_Card_Description, Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Hash: 640C9E34, Key: Expansion_InfoText_0, Value: Unleash devastating mystical powers that can only be harnessed by the apex predators themselves – the Spiritborn.
+Hash: 640C9E35, Key: Expansion_InfoText_1, Value: Expand your map to Nahantu and explore the ancient civilizations, ferocious monstrosities, and brand-new challenges that await within the jungle.
+Hash: 640C9E36, Key: Expansion_InfoText_2, Value: Prepare for the next chapter of Diablo IV as your search for Neyrelle takes you deep into the jungle where danger lurks, and evil plots your demise.
+Hash: 640C9E37, Key: Expansion_InfoText_3, Value: Recruit new Mercenaries to fight alongside you who grow in power as they progress and help you in combat with unique abilities.  
+Hash: 69A45584, Key: CompanionLabel, Value: Pet
+Hash: 7DBCED43, Key: PreOrderLabel, Value: Pre-purchase
+Hash: 669B8195, Key: EndDate, Value: Ends: {s1}
+Hash: B5308501, Key: GenericEmptyCategoryString, Value: [ph] No more offerings at this time.  Check back soon for more.
+Hash: 7D86A88C, Key: PersonalizedDiscounts, Value: Fortunate Finds
+Hash: 093E3E92, Key: AnniversaryLabel, Value: Anniversary
+Hash: 5B802148, Key: Expansion1Title, Value: Vessel of Hatred
+Hash: 0480620C, Key: ExpansionOverview, Value: Expansion Overview
+Hash: 69C79A5F, Key: VCAmountAdded, Value: +{s1}
+Hash: 944D800A, Key: UnlockedExpansion, Value: You will now have access to the Vessel of Hatred Expansion upon release on October 8, 2024.
+Hash: 727CB4E1, Key: MultipleRewardsPerClass, Value: This reward contains multiple items. {s1} per class.
+Hash: 640C9E38, Key: Expansion_InfoText_4, Value: Party up to take on a new multi-faceted dungeon with powerful challenges and promising rewards.
+Hash: 3C18FB2D, Key: Expansion_InfoCard_4, Value: New PvE Co-Op End Game Activity  
+Hash: 9ED00E6B, Key: CatMount, Value: Cat Mount
+Hash: 948FAA89, Key: CatMountArmorDisclaimer, Value: Cat Mount armor can only be equipped on cat mounts
+Hash: 09BC73CC, Key: CatMountArmor, Value: Cat Mount Armor
+Hash: 51E97FE4, Key: MultipleRewards, Value: This reward contains {s1} items.
+Hash: D1A980C3, Key: ClassVariationLabel, Value: Class Variation
+Hash: AA854BBA, Key: BundleLabel, Value: Bundle
+Hash: FD04CC53, Key: ReturntToClassSelection, Value: Return to Class Selection
+Hash: B6ADAE02, Key: PrePurchase, Value: Pre-purchase
+Hash: 32F9E976, Key: PrePurchaseNow, Value: Pre-purchase Now
+Hash: 38A28C58, Key: X1PreOrderMountAndPetDisclaimer, Value: Mount or pet features (as applicable) must be unlocked in-game before the item can be used
+Hash: 119A47B5, Key: Unlocked, Value: Unlocked
+Hash: 85C71AE6, Key: ItemsIncludedInUltimate, Value: Items included in Ultimate Edition:
+Hash: AA970A02, Key: ClassIcon_Spiritborn_Small, Value: {icon:ClassIcon_Spiritborn_Small, 2.0}
+Hash: D3C62BE9, Key: X1PreOrderDisclaimer_Xbox, Value: *Game Pass offer only available in Game Pass Ultimate supported regions excluding Taiwan, Turkey, Argentina, Hong Kong, Brazil, India, and Saudi Arabia. See xbox.com/regions. Will be delivered as a redemption code within 14 days of purchase; codes must be redeemed by November 22, 2024. Valid payment method required. Unless you cancel, you will be charged the then-current Game Pass Ultimate subscription rate each month when the benefit period ends. Subject to the Microsoft Services Agreement and Game Pass terms at: xbox.com/subscriptionterms.

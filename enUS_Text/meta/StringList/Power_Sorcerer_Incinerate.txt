@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Incinerate
+Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost: {/c}{c_resource}[{Resource Cost}*2] per second{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:40}|%|]{/c}
+{/if}Channel a beam of fire, Burning enemies for {c_number}{dotdps:BURNING_DAMAGE}{/c} damage per second. Damage per second increases over {c_number}{SF_21}{/c} seconds, up to {c_number}{dotdps:TOOLTIP_MAX_DAMAGE}{/c}. 
+
+You gain {c_number}[{SF_49} * 100|%|]{/c} Damage Reduction while channeling.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Burning Damage {icon:arrow,1.2} {c_number}{dotdps:BURNING_DAMAGE}{/c}
+{icon:bullet,1.2} Burning Damage Maximum {icon:arrow,1.2} {c_number}{dotdps:TOOLTIP_MAX_DAMAGE}{/c}
+Hash: 2577B2B4, Key: Mod1_Description, Value: While channeling {c_important}Incinerate{/c}, you Burn enemies around you for {c_number}[{SF_29} * 100|%|]{/c} of the damage per second.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Incinerate
+Hash: D618A933, Key: Mod0_Description, Value: Enemies deal {c_number}[{SF_28} * 100|%|]{/c} less damage while Burning from {c_important}Incinerate{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Destructive Incinerate
+Hash: 62F3D8B8, Key: Mod5_Description, Value: Every {c_number}{SF_17}{/c} seconds an enemy has been hit by {c_important}Incinerate{/c}, they are Immobilized for  {c_number}[{SF_18}|1|]{/c} seconds.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Greater Incinerate

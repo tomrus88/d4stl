@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Elemental Acuity
+Hash: 003892BF, Key: Desc, Value: Casting a {c_important}Pyromancy{/c}, {c_important}Shock{/c}, or {c_important}Frost{/c} Skill increases your Mana Regeneration by {c_random}[Affix_Value_1|%x|]{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds, once per element.
+
+At maximum stacks, the total bonus is increased to {c_random}[Affix_Value_1*3*2|%x|]{/c} for {c_number}[Affix."Static Value 2"]{/c} seconds, but all stacks expire afterwards.
+Hash: 82B7D312, Key: CodexDesc, Value: Gain Mana Regeneration after casting an Elemental Skill, increasing for each different Element type. At maximum stacks, the bonus increases, but all stacks expire afterwards.

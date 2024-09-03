@@ -1,0 +1,4 @@
+Hash: 1970B898, Key: Buff5_Name, Value: Waxing Gibbous Stealth
+Hash: B503239B, Key: Buff5_Description, Value: Cannot be targeted by enemies, removed by attacking or taking damage.
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Waxing Gibbous Ambush
+Hash: 53C1369D, Key: Buff7_Description, Value: Guaranteed Critical Strikes.

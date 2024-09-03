@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: name, Value: Vyr's Mastery
+Hash: 003892BF, Key: desc, Value: When you Critically Strike an enemy with a {c_important}Shock{/c} Skill you become {c_important}Charged{/c} and take {c_number}[{SF_9}*100|%x|]{/c} less damage for {c_number}{buffduration:CHARGED}{/c} seconds.
+
+While {c_important}Charged{/c}: 
+Critical Strikes have a {c_number}[{SF_13}*100|%|]{/c} chance to cause the damage to arc as Lightning damage to another nearby enemy, or if there are no other targets you hit the target again for {c_number}[{SF_12}*100|%|]{/c} of the damage.
+Hash: 101C1614, Key: Buff1_Name, Value: Vyr's Mastery
+Hash: 7786FD97, Key: Buff1_Description, Value: Bonuses increased.
+Hash: 171B8FF7, Key: Buff4_Name, Value: Mage Lord's
+Hash: 65A41A1A, Key: Buff4_Description, Value: Damage Reduction increased.
+Hash: 1970B898, Key: Buff5_Name, Value: Charged
+Hash: B503239B, Key: Buff5_Description, Value: Damage reduction and a chance to Arc damage when Critical Striking.

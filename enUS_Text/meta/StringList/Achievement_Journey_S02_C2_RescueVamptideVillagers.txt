@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Deliver Us From Evil
+Hash: 3A4912CF, Key: DescShort, Value: Rescue Villagers within the {icon:Marker_SME_Vamptide, 2.5} Blood Harvest, available after completing or skipping the Campaign

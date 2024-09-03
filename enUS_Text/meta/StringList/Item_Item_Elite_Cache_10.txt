@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Elite Cache X
+Hash: A646FFA4, Key: Description, Value: [PH] A pouch of treasure taken from a foe.
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] ...we'll you won't be needing it anymore

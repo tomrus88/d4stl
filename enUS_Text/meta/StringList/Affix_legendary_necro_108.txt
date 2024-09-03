@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood-bathed
+Hash: 003892BF, Key: Desc, Value: {c_important}Blood Surge's{/c} nova echoes again after a short delay, dealing {c_random}[Affix_Value_1|%x|]{/c} less damage.

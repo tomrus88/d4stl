@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing out here?"
+Hash: 8EB413D2, Key: Line1.1040BD, Value: I'm from Qara Yisu, far to the east of here. My father is a miner, but work is hard and gold scarce.
+Hash: 6737BD94, Key: Line3.1040BD, Value: Being a mercenary is dangerous, but this way I can send money back to him.

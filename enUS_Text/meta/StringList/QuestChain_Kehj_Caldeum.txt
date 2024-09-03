@@ -1,0 +1,4 @@
+Hash: 76E748CE, Key: 0_desc, Value: Meet with Horadrim in Caldeum
+Hash: 793C716F, Key: 1_desc, Value: Search Caldeum for Gates of Hell
+Hash: 803BEB52, Key: 4_desc, Value: Defeat Duriel
+Hash: 7DE6C2B1, Key: 3_desc, Value: Search Caldeum for Gates of Hell

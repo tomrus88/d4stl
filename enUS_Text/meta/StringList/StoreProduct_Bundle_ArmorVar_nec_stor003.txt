@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Desert Datura
+Hash: A646FFA4, Key: Description, Value: Some believe the Datura are also assassins, using their poisons to kill and their magic to make use of the body.
+Hash: 083EE0CE, Key: Quote, Value: Kehjistani necromancers skilled in alchemy, especially toxicology.
+Hash: 13A53A8B, Key: Series, Value: Necromancer Armor

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you any news of Ked Bardu?"
+Hash: 5D6C5C93, Key: Line1.F938B, Value: Oi, make your stay in Ked Bardu a short one. New faces tend to bring new problems.

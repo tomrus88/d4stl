@@ -1,0 +1,2 @@
+Hash: F2CA04D8, Key: NoticeSignText, Value: This bear has been expertly skinned. The wounds underneath are similar to those that afflict Bearfa.
+Hash: 003DFCC1, Key: Name, Value: Mutilated Bear

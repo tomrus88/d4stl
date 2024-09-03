@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will this really work?"
+Hash: 18E96351, Key: Line7.18AEA4, Value: Truthfully? I do not know. A ritual like this is outside my expertise. But I must believe something can be done. Otherwise, what is left?
+Hash: 691F8F1E, Key: VoiceDir7.18AEA4, Value: a moment of quiet honesty, vulnerability

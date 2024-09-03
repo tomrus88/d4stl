@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Speed Seal
+Hash: C6E60718, Key: Buff2_Description, Value: Speed Seal

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Crumpled Warning
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Crumpled Warning
+Hash: 5D72A440, Key: Line1.EDC76, Value: Once there was glory here, the resting place of warrior queen Luban and her shield bearers. But in the time since Lilith swept through Loch Raeth, darkness has stirred within the tomb, vomiting hungry ghouls into the light.
+Hash: F7671DC2, Key: Line3.EDC76, Value: Beware this place, unwary traveler, if you mean to keep the flesh on your bones.

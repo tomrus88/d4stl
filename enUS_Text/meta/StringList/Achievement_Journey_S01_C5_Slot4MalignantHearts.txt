@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lingering Wrath
+Hash: 3A4912CF, Key: DescShort, Value: Defeat the Echo of Varshan after completing the seasonal storyline

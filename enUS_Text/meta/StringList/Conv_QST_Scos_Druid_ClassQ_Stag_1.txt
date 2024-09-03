@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Gathlen, where have you gone?"
+Hash: 3FF095D7, Key: Line5.132114, Value: Druid. You remember the spirits after all.
+Hash: 9026C1A4, Key: VoiceDir5.132114, Value: in excrutiating pain, but controlled
+Hash: 18743F99, Key: Line7.132114, Value: I am bound to a carcass, rotting in the grove of Fainne. Cut me free.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Little Billy's Back
+Hash: 13A53A8B, Key: Series, Value: "Kid Baphomet"

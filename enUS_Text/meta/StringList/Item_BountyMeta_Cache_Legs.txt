@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Collection of Leg Guards
+Hash: A646FFA4, Key: Description, Value: A collection of items as a reward for your efforts. Contains gear with a focus on leg armors, gems, gold, and crafting materials.
+Hash: F5C7BC0A, Key: Flavor, Value: The Tree leaves no debt unsettled. Some of the items inside smell faintly of decay, but the whispers assure you their value is undiminished.

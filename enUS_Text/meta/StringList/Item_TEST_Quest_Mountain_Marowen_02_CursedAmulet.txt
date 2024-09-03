@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Amulet of Talomon
+Hash: F5C7BC0A, Key: Flavor, Value: A blood-splattered silver circle inset with five fiery rubies. It remains hot to the touch.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Chronicling the Old Ways
+Hash: 0871A46B, Key: Toast, Value: Help Moreg chronicle the old ways of Scosglen.
+Hash: D29F0719, Key: Callback12Header, Value: Return to Moreg
+Hash: FAF02F4B, Key: Phase6Description, Value: The druid Moreg is attempting to preserve ancient druidic knowledge. He has asked me to retrieve Runic Tablets from the wildlife in the Gaothmar Grasslands.
+Hash: 059C64AB, Key: Callback5Header, Value: Collect Runic Tablets from wildlife {DONE_OVER_NEEDED}

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Whispers from the depths.
+Hash: 059C64AB, Key: Callback5Header, Value: Slay all enemies in Shipwreck Respite {KAM_REVEALED_COUNT}
+Hash: 38AA8D97, Key: Callback10Header, Value: Defeat the {MONSTER}
+Hash: ED76B060, Key: Callback19Header, Value: Travel to {LEVELAREA}
+Hash: BEE0DBFA, Key: Callback22Header, Value: Slay Captain Murador and his Mates: {LEFT}
+Hash: A5CF923D, Key: Callback25Header, Value: Use the Chamber Key to open the {GIZMO}

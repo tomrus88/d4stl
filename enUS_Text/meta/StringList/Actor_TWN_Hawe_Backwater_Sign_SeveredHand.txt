@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Severed Hand
+Hash: F2CA04D8, Key: NoticeSignText, Value: This severed hand still weeps blood. It was only recently separated from its owner.

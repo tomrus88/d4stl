@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Abandoned Mineworks
+Hash: 003892BF, Key: Desc, Value: A maze of tunnels, still walked by those who died here.

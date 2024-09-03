@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Eyes of Sankekur
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Paladin Inscription
+Hash: E6146D67, Key: Line16.1D9606, Value: Light blind the eyes that watched our innocent burn. Let them rot in darkness.
+Hash: 3D1012D4, Key: VoiceDir16.1D9606, Value: A prayer. Somber. Bitter.

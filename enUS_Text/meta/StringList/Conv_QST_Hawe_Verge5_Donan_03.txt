@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Donan, are you all right?"
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Wait for what?
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Suspicious
+Hash: F40DE8F9, Key: Line3.789BF, Value: For the swamp to call out to your soul and draw what festers from you like poison from a wound.

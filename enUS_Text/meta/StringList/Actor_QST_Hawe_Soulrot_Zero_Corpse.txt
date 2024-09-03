@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Remains of Marta 
+Hash: F2CA04D8, Key: NoticeSignText, Value: The corpse reeks of bile and blood. It's clear the swarm of maggots and flies had been feasting on her before bursting from her stomach.  

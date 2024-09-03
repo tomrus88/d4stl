@@ -1,0 +1,93 @@
+Hash: EDA80982, Key: StatGold, Value: Gold Collected:
+Hash: 1916824C, Key: StatDungeon, Value: Dungeons Cleared:
+Hash: BD3B1157, Key: StatMonsters, Value: Monsters Killed:
+Hash: AA1C8492, Key: StatPVP, Value: Players Killed:
+Hash: EC2ACACB, Key: StatBosses, Value: Bosses Killed:
+Hash: 4700A447, Key: ClanHeader, Value: Clan
+Hash: C150194E, Key: ClanNone, Value: Not in a clan
+Hash: D4A4D850, Key: ProfilePublic, Value: Public
+Hash: 62C4704C, Key: ProfilePrivate, Value: Private
+Hash: 3644CAA3, Key: ButtonSetPrivate, Value: Set to Private
+Hash: C3C7C3C7, Key: ButtonSetPublic, Value: Set to Public
+Hash: 80602115, Key: ButtonShowEquipment, Value: Show Equipment
+Hash: 448417CE, Key: ButtonHideEquipment, Value: Hide Equipment
+Hash: C949A5C3, Key: PVValue, Value: 999,999,999,999
+Hash: EC77C9E5, Key: ClanNameMax, Value: WWWWWWWWWWWWWWWWWWWW
+Hash: 954D06A2, Key: PrivateProfileWarning, Value: Unable to view a private profile.
+Hash: BB413CDE, Key: PlayerProfile, Value: Player Profile
+Hash: 086EAA02, Key: Title, Value: Title
+Hash: F3850C72, Key: Emblem, Value: Emblem
+Hash: 003919A6, Key: Edit, Value: Edit
+Hash: C60C0A97, Key: EditProfile, Value: Edit Profile
+Hash: CFB2604E, Key: Confirm, Value: Confirm
+Hash: 003766F1, Key: Back, Value: Back
+Hash: 0D89D20E, Key: Prefix, Value: Prefix
+Hash: 62C46E2F, Key: ProfilePrivacy, Value: {c_white}Profile:{/c} {s1}
+Hash: 1F9CBDF8, Key: TitleDisplay, Value: Title: {s1}
+Hash: 14C021D5, Key: Suffix, Value: Suffix
+Hash: A83CA42C, Key: ViewProfile, Value: View Profile
+Hash: BF7907B1, Key: Profile, Value: Profile
+Hash: 94161372, Key: TitleNone, Value: No Title Selected
+Hash: BECCD7E2, Key: Preview, Value: Preview
+Hash: 071A9E26, Key: Apply, Value: Apply
+Hash: D871F451, Key: SetDefault, Value: Set to default
+Hash: 1672DB28, Key: SaveChanges, Value: Save Changes
+Hash: 42129295, Key: ButtonPlayerOptions, Value: Options
+Hash: F3A0FFB7, Key: LastUpdate, Value: {c_white}Updated:{/c} {s1} ago
+Hash: 04C5B725, Key: Default, Value: Class emblem (default)
+Hash: EF74F4FB, Key: Custom, Value: Custom
+Hash: 073C6D67, Key: Clear, Value: Clear
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 35FD3014, Key: EmblemPreview, Value: Emblem preview below:
+Hash: 0F756ABE, Key: EmblemInfo, Value: Emblems are decorations on your social card.
+Hash: 64269B25, Key: Emblems, Value: Emblems
+Hash: 4F8D2E4F, Key: Prompt_Confirm, Value: Confirm
+Hash: 4A59C728, Key: Prompt_Clear, Value: Clear
+Hash: 4A59F3F7, Key: Prompt_Close, Value: Close
+Hash: 3EA7A5E3, Key: Prompt_Preview, Value: Preview
+Hash: E2AA4095, Key: ProfileUnavailable, Value: The profile is not available. 
+Hash: DAB531CA, Key: Accomplishments, Value: Accomplishments
+Hash: 2A97D396, Key: Abilities, Value: Abilities
+Hash: 003821DE, Key: Clan, Value: Clan
+Hash: 694D4499, Key: AccomplismentsSectionTitle, Value: Latest Accomplishments
+Hash: DF82752D, Key: AbilitiesSectionTitle, Value: Equipped Skills
+Hash: 9FB1160E, Key: TimePlayed, Value: {c_white}Time Played:{/c} {s1}
+Hash: DFCDC057, Key: Overview, Value: Overview
+Hash: 4C5DAFEF, Key: PlayerTitle, Value: "{s1}"
+Hash: 00402E6C, Key: Rank, Value: Rank
+Hash: 085932BC, Key: Score, Value: Score
+Hash: A3B0FE99, Key: StatValue, Value: {s1}
+Hash: 4B3433EB, Key: AccomplishmentItemPlatform, Value: Platform: {s1} | Level {s2}
+Hash: 90EB48D0, Key: AccomplishmentStatsSingleLine, Value: Rank: {s1} |  Score: {s2}
+Hash: B65D5A41, Key: ThisSeason, Value: This Season
+Hash: 84504B0E, Key: TopResultsSeason, Value: Top Result(s) This Season
+Hash: 5F5D95C5, Key: MedalsEarned, Value: Medals Earned
+Hash: 50CECC84, Key: ThisWeek, Value: This Week
+Hash: EEF6FF65, Key: TopResults, Value: Top Results
+Hash: 26F8DC4D, Key: LadderName, Value: {s1}
+Hash: CAD98DC4, Key: MedalName, Value: {s1}
+Hash: B1CF70F5, Key: GeneralTabLabel, Value: General
+Hash: 5F7CAC8D, Key: MedalsTabLabel, Value: Seal
+Hash: 9290AAB1, Key: MedalsEditProfileDescription, Value: Seals are represented as player portrait frame decorations on your social card
+Hash: EAE29D7E, Key: MedalSelectionInstructions, Value: Select from your most recent seals this week. Next week's{icon:AccomplishmentsIcon_Over, 2.0}accomplishments section will be populated with seasonal results from the associated ladder until another seal, or no seal is selected.  
+Hash: BF15179E, Key: Privacy, Value: Privacy
+Hash: 766C8623, Key: PublicDescription, Value: Public: Profile can be seen by all players
+Hash: 341FAE7F, Key: PrivateDescription, Value: Private: Profile cannot be seen by any players
+Hash: 2D288559, Key: ProfileVisibility, Value: Profile Visibility
+Hash: D2C372D0, Key: HideAccountNumber, Value: Hide Account Number
+Hash: A35FA615, Key: FeaturedSeal, Value: Featured Seal
+Hash: EA6848B3, Key: NoMedals, Value: Not placed yet.  Compete in Trials to earn Seals each week.
+Hash: C14FDD9F, Key: ClanName, Value: {s1}
+Hash: B7631033, Key: MedalTooltipText, Value: Seal of the {s1}
+{s2}
+Week {s3}
+{s4}
+Hash: 74B433FF, Key: DoNotDisplaySeal, Value: Do not display a seal
+Hash: 527A54CC, Key: DoNotDisplayEmblem, Value: Do not display and emblem
+Hash: 7E217E3F, Key: LadderNameResults, Value: {s1} Results
+Hash: 76045E4B, Key: NoAccomplishmentsThisWeek, Value: Not placed
+Hash: EB4E2B00, Key: LastWeek, Value: Last Week
+Hash: 27054F77, Key: PastWeeks, Value: Past Weeks
+Hash: 3F5FBAC7, Key: NoAccomplishments, Value: No Accomplishments to display
+Hash: B5C15206, Key: SelectASeal, Value: Select a Seal in {c_highlight}Edit Profile{/c} to display results from trials.
+Hash: 45DA4061, Key: InviteRequested, Value: {c_highlight}You requested to join on {s1}{/c}.  Check the status of your application in the  Clans menu.

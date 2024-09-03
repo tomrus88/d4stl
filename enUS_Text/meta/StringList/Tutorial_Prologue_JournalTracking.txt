@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Tracking Activities
+Hash: 7BFE534B, Key: simple_instruction, Value: Open your Journal {icon:KeyPrompt_Q,2.0} to view active quests. Press {icon:lmb, 2.0} to track activities directly from the map.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Open your Journal {icon:left, 2.0} to view active quests. Press {icon:button1, 2.0} to track activities directly from the map.

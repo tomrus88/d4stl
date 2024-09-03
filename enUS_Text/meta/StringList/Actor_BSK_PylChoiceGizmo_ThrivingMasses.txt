@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: {icon:BSK_AetherMass, 2.5}{c_gold}Masses deal {/c}{c_bskbane}unavoidable damage{/c}
+{icon:BSK_Aether, 2.5}{c_gold}Wave start, spawn an {/c}{c_bonus}Aetheric Mass{/c}
+Hash: 2F414F0D, Key: ShortenedName, Value: {icon:BSK_AetherMass, 2.5}{c_white}The Bursting Masses{/c}

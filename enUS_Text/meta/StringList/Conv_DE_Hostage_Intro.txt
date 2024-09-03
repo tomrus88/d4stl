@@ -1,0 +1,6 @@
+Hash: FA873A00, Key: Line30.54239, Value: You bring the coin?
+Hash: 4ABD65CD, Key: VoiceDir30.54239, Value: Unsuspecting and eager for money
+Hash: 947BB382, Key: Line32.54239, Value: You better have the ransom we were promised.
+Hash: E4B1DF4F, Key: VoiceDir32.54239, Value: Grumpy and tired of waiting for someone to show up.
+Hash: 7B6A69C5, Key: Line35.54239, Value: You here to pay for the hostages?
+Hash: CBA09592, Key: VoiceDir35.54239, Value: Wary of the approaching player

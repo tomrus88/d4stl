@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How does the faith survive in a place like this?" 
+Hash: 8ED96C35, Key: Line1.126500, Value: Hah. Good question. Crusaders are giving up. People are leaving.
+Hash: 675D15F7, Key: Line3.126500, Value: But our priest’s got enough faith for the whole town over. Everyone needs a pillar. For now, he’s ours.

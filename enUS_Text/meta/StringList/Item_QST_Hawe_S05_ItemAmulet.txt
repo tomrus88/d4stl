@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Aldara's Amulet
+Hash: F5C7BC0A, Key: Flavor, Value: This amulet looks oddly discolored and feels almost feverish to the touch.

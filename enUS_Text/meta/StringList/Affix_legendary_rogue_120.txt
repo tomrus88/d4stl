@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Lethal Dusk
+Hash: 003892BF, Key: Desc, Value: {c_important}Evading{/c} through an enemy infected by {c_important}Shadow Imbuement{/c} grants {c_important}{u}Stealth{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds. Breaking {c_important}{u}Stealth{/u}{/c} Heals you for {c_random}[Affix_Value_1|%|]{/c} of your Maximum Life.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Evading{/c} through an enemy infected by {c_important}Shadow Imbuement{/c} grants {c_important}{u}Stealth{/u}{/c}. Breaking {c_important}{u}Stealth{/u}{/c} Heals for {c_random}[Affix_Value_1|%|]{/c} Maximum Life.

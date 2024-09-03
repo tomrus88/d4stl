@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It's good to see you, Dawood."
+Hash: 4434A75B, Key: Line4.D5161, Value: (scoff) I've looked better... At least I don't have to stand at my post.
+Hash: B33E0D88, Key: VoiceDir4.D5161, Value: Brittle. Weak. Hiding sadness behind humor.
+Hash: AB8CE6CB, Key: Line22.D5161, Value: Healer says I may not stand again... Just another poor soul for the Iron Wolves to protect. We... we’ll see about that.
+Hash: FBC31298, Key: VoiceDir22.D5161, Value: Hiding sadness and fear. Brittle denial.
+Hash: 4581604D, Key: Line24.D5161, Value: But in case he’s right, I want you to take my armor. Continue my fight for me, eh?
+Hash: 95B78C1A, Key: VoiceDir24.D5161, Value: Tearful. Sincere. Knows the healer is probably right.

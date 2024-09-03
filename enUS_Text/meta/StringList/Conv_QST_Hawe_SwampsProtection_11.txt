@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this infection?"
+Hash: 5A39A25C, Key: Line1.9118B, Value: It begins with the scratch of a tiny thorn. The flesh is opened and the swamp flows in.
+Hash: C9430889, Key: VoiceDir1.9118B, Value: Somber. Grim. Just like that, your life is over.
+Hash: F42E1BDE, Key: Line3.9118B, Value: Slowly, painfully, it grows inside until the swamp...is all that you are.
+Hash: 6337820B, Key: VoiceDir3.9118B, Value: Somber. Grim. Ominous.

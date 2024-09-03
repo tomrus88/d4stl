@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Light-Blessed Amulet
+Hash: F5C7BC0A, Key: Flavor, Value:  "Wherever the Faithful walk, they bring the Light of Inarius to protect against the darkness."

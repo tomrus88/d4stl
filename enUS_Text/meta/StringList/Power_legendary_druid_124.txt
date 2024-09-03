@@ -1,0 +1,2 @@
+Hash: 14C66756, Key: Buff3_Name, Value: Fevered Mauling
+Hash: 16451099, Key: Buff3_Description, Value: Increased Attack Speed and Damage Reduction.

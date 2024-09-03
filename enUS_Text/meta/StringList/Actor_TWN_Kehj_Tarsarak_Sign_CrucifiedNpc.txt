@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Staked Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: A young man of Tarsarak, convicted by the Knights and hung for all to see.

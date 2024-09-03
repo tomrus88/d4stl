@@ -1,0 +1,3 @@
+Hash: 5A39A25C, Key: Line1.9118B, Value: I have never seen more fools gathered in one place.
+Hash: F40DE8F9, Key: Line3.789BF, Value: No! The ritual. You broke the seal, Timue!
+Hash: 63174F26, Key: VoiceDir3.789BF, Value: Frustrated

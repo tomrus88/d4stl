@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Weapons Cache
+Hash: F2CA04D8, Key: NoticeSignText, Value: These weapons shows clear signs of neglect: dents, chips, and gouges mar the metal and deep cracks etch the leather scabbards.

@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Gain the effect of the {c_important}Teleport Enchantment{/c} for free. When you Evade using {c_important}Teleport Enchantment{/c} you are taken to a random location.

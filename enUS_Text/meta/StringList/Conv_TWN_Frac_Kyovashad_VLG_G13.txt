@@ -1,0 +1,4 @@
+Hash: 5D82E85E, Key: Line1.FB72F, Value: Father Inarius sacrificed himself to defeat Lilith, to save us all from damnation! Will he return?
+Hash: CC8C4E8B, Key: VoiceDir1.FB72F, Value: Very pious, excited. Telling a grand tale about her benefactor, the angel Inarius.
+Hash: F77761E0, Key: Line3.FB72F, Value: That depends if you continue indulging in sin or stay true to the Light!
+Hash: 6680C80D, Key: VoiceDir3.FB72F, Value: A challenge to anyone who is listening: salvation depends on "your" actions.

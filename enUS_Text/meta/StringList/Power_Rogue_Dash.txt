@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Dash
+Hash: 003892BF, Key: desc, Value: {c_label}Charges:{/c} {c_resource}{SF_22}{/c}
+{c_label}Charge Cooldown:{/c} {c_resource}{Recharge Time}{/c_resource} seconds 
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Dash forward and slash enemies for {c_number}{payload:IMPACT}{/c} damage. Any enemies hit are Slowed by {c_number}[{SF_19}* 100|%|]{/c} for {c_number}{buffduration:SLOW}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Charge Cooldown {icon:arrow,1.2} {c_number}{Recharge Time}{/c} seconds
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
+Hash: 74D6BC35, Key: Mod2_Description, Value: Casting {c_important}Dash{/c} increases your Critical Strike Chance by {c_number}[{SF_29}*100|%+|]{/c} for {c_number}{SF_34}{/c} seconds. 
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Dash
+Hash: D618A933, Key: Mod0_Description, Value: At the end of {c_important}Dash{/c} , Knock Down surrounding enemies for {c_number}{SF_12}{/c} seconds and deal {c_number}[{SF_28}*100|x%|]{/c} of its damage to them. 
+Hash: 9233D930, Key: Mod0_Name, Value: Disciplined Dash
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Dash{/c} has {c_number}{SF_16}{/c} additional Charge and its Charge Cooldown is reduced by {c_number}{SF_17}{/c} seconds. 
+Hash: 948901D1, Key: Mod1_Name, Value: Methodical Dash

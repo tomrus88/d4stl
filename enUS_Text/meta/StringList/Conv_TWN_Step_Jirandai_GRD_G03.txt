@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's going on here?"
+Hash: 5D6B593A, Key: Line1.F789E, Value: I pay you to fight, not to fall back and hide with the beggars!
+Hash: F75FD2BD, Key: Line3.F789F, Value: You said this job would be easy! Killing cannibals is not easy!

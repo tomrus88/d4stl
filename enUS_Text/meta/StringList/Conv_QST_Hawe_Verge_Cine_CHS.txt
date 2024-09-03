@@ -1,0 +1,31 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 8F68F860, Key: Line25.7FA05, Value: (inhales)
+Hash: DF9F242D, Key: VoiceDir25.7FA05, Value: laborious inhale
+Hash: 295D71E2, Key: Line27.7FA05, Value: (grunts)
+Hash: 79939DAF, Key: VoiceDir27.7FA05, Value: laborious exertion
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Mallet.
+Hash: 3403AF1E, Key: Line41.7FA05, Value: (speaking Horadric)
+Hash: 67ECA222, Key: Line45.7FA05, Value: (straining)
+Hash: F427C5EC, Key: Line3.7FA05, Value: Sulfur.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Careful! Now stand back.
+Hash: 7BAACD41, Key: Line35.7FA05, Value: (speaking Horadric)
+Hash: CBE0F90E, Key: VoiceDir35.7FA05, Value: Pronounciation: cha chiˈcly tnilm ycluˈmun , phanˈtes a icˈhith 
+Hash: 159F46C3, Key: Line37.7FA05, Value: (speaking Horadric)
+Hash: 65D57290, Key: VoiceDir37.7FA05, Value: Pronunciation: cha chiˈcly tnilm ycluˈmun , anˈtud a thyrtˈhi
+Hash: 47C1DA3D, Key: Line31.7FA05, Value: (grunts)
+Hash: 97F8060A, Key: VoiceDir31.7FA05, Value: laborious exertion
+Hash: AF93C045, Key: Line39.7FA05, Value: (speaking Horadric)
+Hash: FFC9EC12, Key: VoiceDir39.7FA05, Value: Pronunciation: cha chiˈcly tnilm ycluˈmun , coˈlors li sam thir nit eycˈhed
+Hash: E1B653BF, Key: Line33.7FA05, Value: (grunts)
+Hash: 31EC7F8C, Key: VoiceDir33.7FA05, Value: laborious exertion
+Hash: CDF828A0, Key: Line43.7FA05, Value: (labored breathing)
+Hash: 1E2E546D, Key: VoiceDir43.7FA05, Value: labored breathing
+Hash: E2468CE9, Key: Line7.BAE4, Value: Is it done?
+Hash: C1EB557F, Key: Line9.789BF, Value: Was it so easy, then?
+Hash: 6F3E307B, Key: Line11.7FA05, Value: You have no idea the toll of such a thing. No idea what one must face...overcome…to perform this act of magic.
+Hash: BF745C48, Key: VoiceDir11.7FA05, Value: snappishly
+Hash: 0918CD0A, Key: Line13.789BF, Value: Perhaps not, but still...
+Hash: 594EF8D7, Key: VoiceDir13.789BF, Value: curt
+Hash: 69E26198, Key: Line15.BAE4, Value: ENOUGH. It is done. Let us not tarry.
+Hash: 3D1B9D01, Key: Line17.7FA05, Value: Yes. We have our task at Zakarum Keep. Let's finish this.
+Hash: 8D51C8CE, Key: VoiceDir17.7FA05, Value: grumbling

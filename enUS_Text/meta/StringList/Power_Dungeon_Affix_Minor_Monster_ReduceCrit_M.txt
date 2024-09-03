@@ -1,0 +1,2 @@
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Reduced Critical Damage
+Hash: 53C1369D, Key: Buff7_Description, Value: Your Critical Strikes deal less damage.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's for sale?"
+Hash: 5D6B5E62, Key: Line1.F78AE, Value: Overripe fruit, half price! Still waiting on a fresh shipment.

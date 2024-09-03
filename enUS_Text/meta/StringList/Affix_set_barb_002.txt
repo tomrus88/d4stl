@@ -1,0 +1,2 @@
+Hash: 003892BF, Key: Desc, Value: You take {c_number}[Affix_Value_1|%|]{/c} less damage when you are below half Life.
+You deal {c_number}[Affix_Value_2|%|]{/c} more damage to enemies below half Life.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Wanton Rupture
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Rupture{/c} does not remove the Bleeding damage from enemies. Can only occur once every {c_random}[Affix_Value_1]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Your {c_important}Rupture{/c} does not remove Bleeding. Can only occur once every {c_random}[Affix_Value_1]{/c} seconds.

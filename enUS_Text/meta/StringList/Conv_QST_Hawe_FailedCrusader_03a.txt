@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is this your master's armor?"
+Hash: 8ED7735D, Key: Line1.121C9F, Value: Yes. My master's armor... here, like common loot. These fools and thieves have no idea what they have.
+Hash: DF0D9F2A, Key: VoiceDir1.121C9F, Value: Starts joyous. Ends with a bite, disdain
+Hash: 675B1D1F, Key: Line3.121C9F, Value: Today, I leave behind Tomyris. When I don this armor, I continue the name Johanna.
+Hash: B79148EC, Key: VoiceDir3.121C9F, Value: Proud

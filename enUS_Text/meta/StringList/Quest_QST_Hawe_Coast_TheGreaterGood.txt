@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: The Greater Good
+Hash: 0871A46B, Key: Toast, Value: Recover Backwater's stolen property from the bandits.
+Hash: D53BFF05, Key: Phase0Description, Value: Bandits recently broke into Backwater's shared stockpiles and stole some supplies. Lyndon, Backwater's leader, has sent me off with his right-hand man to find the bandits and recover the goods.
+Hash: 1EADAE68, Key: Callback2Header, Value: Find the stolen supplies with Orton
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Orton doesn't believe the claims but left me to recover the supplies and return them on my own.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Gather {ITEM}
+Hash: 61CFD437, Key: Phase11Description, Value: I have recovered the stolen supplies and should return to Lyndon in Backwater.
+Hash: 38AA8D97, Key: Callback10Header, Value: Bring the supplies back to Lyndon
+Hash: 803B8057, Key: Phase20Description, Value: We killed the ones that took the supplies, but one of them claimed Lyndon cheated them. I should speak to Orton about it.
+Hash: ED76B060, Key: Callback19Header, Value: Speak with Orton

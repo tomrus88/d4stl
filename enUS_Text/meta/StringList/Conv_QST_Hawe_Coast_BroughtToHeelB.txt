@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will these work?"
+Hash: 8F05E9FC, Key: Line1.13F8A2, Value: Now that's a sickening bunch of mushrooms! Now I just gotta figure out how to slip them in Glin's soup.

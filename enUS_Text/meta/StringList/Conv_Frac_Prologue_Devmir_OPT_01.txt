@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “You picked the best spot in the tavern.”
+Hash: 5A31BD40, Key: Line1.7CF4E, Value: Fire's looking good, but I should watch it a little longer...to make sure it doesn't go out.
+Hash: C93B236D, Key: VoiceDir1.7CF4E, Value: Second half is making an excuse to explain why he's hogging the fire.

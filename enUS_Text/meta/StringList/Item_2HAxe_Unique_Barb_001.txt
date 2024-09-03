@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Ornate Axe
+Hash: 003DFCC1, Key: Name, Value: Ancients' Oath
+Hash: F5C7BC0A, Key: Flavor, Value: "Weapons wielded by the fiercest warriors often catch the eye of the Ancient spirits. If the wielder is worthy, the spirits may bless the steel with their strength."
+- Gerti, Oxen Tribe Forgemaster

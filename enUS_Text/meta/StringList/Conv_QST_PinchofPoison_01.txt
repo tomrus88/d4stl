@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you offering any work?"
+Hash: 5D70D02C, Key: Line1.EB761, Value: Ah, new face in town. Crossed the desert alive, eh? I’ve a job for someone who can hold their own out there.
+Hash: 0C702DBF, Key: Line13.EB761, Value: I need a special something. Scorpion venom glands. The little buggers pack a punch when used right. Bring me a handful and, hey, I'll make it worth your while.

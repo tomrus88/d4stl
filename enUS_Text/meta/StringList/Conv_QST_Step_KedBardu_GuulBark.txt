@@ -1,0 +1,2 @@
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Oh, and avoid the city gates. Too many cannibals. Go to the cliffs, we'll find help there.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Remembering. Brusque. "Right, almost forgot..." Talking over shoulder while walking away.

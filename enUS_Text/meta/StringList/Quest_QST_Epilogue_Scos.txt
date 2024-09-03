@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Legacy of the Horadrim
+Hash: 0871A46B, Key: Toast, Value: Bring Neyrelle's letter to Lorath at Firebreak Manor.
+Hash: D53BFF05, Key: Phase0Description, Value: Neyrelle is gone and I have no leads, save for the mysterious scroll she left in the Horadric Vault. I should bring the scroll to Lorath so he can decipher the message.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Lorath
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Talk to Lorath at Firebreak Manor
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with Lorath at Firebreak Manor
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I missed Neyrelle at the Horadric Vault, but she left a letter for Lorath.  I should take it to him.

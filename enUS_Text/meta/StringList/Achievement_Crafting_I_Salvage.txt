@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Salvager
+Hash: 003892BF, Key: Desc, Value: Salvage a Common, Magic, Rare, and Legendary Item.
+Hash: 3A4912CF, Key: DescShort, Value: Salvage 4 items of different rarities.
+Hash: 3DA4622A, Key: Crit_234952, Value: Common
+Hash: 3DA4622F, Key: Crit_234957, Value: Magic
+Hash: 3DA46250, Key: Crit_234967, Value: Rare
+Hash: 3DA46251, Key: Crit_234968, Value: Legendary

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Atonement Measures
+Hash: A646FFA4, Key: Description, Value: "It is undeniable. There is power in the act of penitence. But would not this power be inaccessible without my prior transgression? How am I uplifted by my suffering, yet must move to abate the suffering of others?" 
+-Asalon
+Hash: 083EE0CE, Key: Quote, Value: The practice of penitence.
+Hash: 13A53A8B, Key: Series, Value: "Thorns of Penitence" Accessories

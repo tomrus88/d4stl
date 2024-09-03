@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Scrapper
+Hash: A646FFA4, Key: Description, Value: A silent warrior with a forgotten name wanders the wastes of Arreat. He hunts game, sleeps on bare stone, and tinkers with the metal his foes leave behind. "A good life," he'd say.
+Hash: 083EE0CE, Key: Quote, Value: Finders keepers.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

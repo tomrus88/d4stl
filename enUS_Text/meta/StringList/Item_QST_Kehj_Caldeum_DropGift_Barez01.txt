@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolf Sword
+Hash: F5C7BC0A, Key: Flavor, Value: A well-maintained sword taken as a trophy by a Triune cultist. Barez will want to see it.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Ancestral Echoes
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Damaging enemies with {c_important}Leap{/c}, {c_important}Upheaval{/c}, or {c_important}Whirlwind{/c} have up to a {c_random}[Affix_Value_1|%|]{/c} chance to summon an Ancient to perform the same Skill. Can only occur once every {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Damaging enemies with {c_important}Leap{/c}, {c_important}Upheaval{/c}, or {c_important}Whirlwind{/c} has a {c_random}[Affix_Value_1|%|]{/c} chance to Summon Ancient.

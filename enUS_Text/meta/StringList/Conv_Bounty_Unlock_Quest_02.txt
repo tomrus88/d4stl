@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It is done."
+Hash: 911B74B6, Key: Line5.C1CD0, Value: Well done. You’ve made the world just a bit better.
+Hash: 0024DAE3, Key: VoiceDir5.C1CD0, Value: Ironic, sarcastic.
+Hash: F873B428, Key: Line23.C1CD2, Value: There are many like him, and more to come still.
+Hash: 5E7F3AA7, Key: Line21.C1CD3, Value: But do not waste time. Those we find can be lost again.
+Hash: 92682DA8, Key: Line25.C1CD0, Value: For now, we will sleep.
+Hash: C65120AF, Key: Line29.C1CD3, Value: If only to be spared from the babbling.
+Hash: 2C5CA72C, Key: Line27.C1CD2, Value: Too many words...

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hell Rift
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: They’re coming through a Hell Rift! I will close it! Put them down!
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Alarm. Commanding. Bracing for combat.

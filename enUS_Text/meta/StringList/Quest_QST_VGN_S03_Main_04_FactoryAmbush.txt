@@ -1,0 +1,3 @@
+Hash: D53BFF05, Key: Phase0Description, Value: Ayuzhan worries the demon is trying to make an army. He's asked me to investigate a Vault in Scosglen, where the constructs are made.
+Hash: 1EADAE68, Key: Callback2Header, Value: Find the entrance to the Vault of Copper
+Hash: B8A227EA, Key: Callback4Header, Value: Clear the entrance to the Vault of Copper

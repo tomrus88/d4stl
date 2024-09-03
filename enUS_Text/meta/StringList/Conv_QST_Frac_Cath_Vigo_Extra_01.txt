@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you know of Reverend Mother Prava?"
+Hash: F414E39C, Key: Line3.6F0BE, Value: As a girl, she was sick. Plagued by constant seizures. But Inarius healed her.
+Hash: 5A206A1A, Key: Line1.6F0BE, Value: When I met her, I was a sinner. But her faith showed me what I could be. There's no one better fit to lead us.
+Hash: C929D047, Key: VoiceDir1.6F0BE, Value: reverent

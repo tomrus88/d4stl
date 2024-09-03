@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Rat Race
+Hash: C1C4CEF5, Key: Line9.54238, Value: Skimming off the top, eh, Lyndon?
+Hash: 27D05574, Key: Line7.54239, Value: Get him!

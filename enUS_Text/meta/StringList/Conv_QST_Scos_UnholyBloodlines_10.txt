@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Vignette outro
+Hash: 8EB347FA, Key: Line1.101CF8, Value: I'm sorry it came to this. I'll seal the barrow later so no one else will be tempted to repeat Una's mistake.
+Hash: DEE973C7, Key: VoiceDir1.101CF8, Value: starts softly like he's speaking to Una
+Hash: 6736F1BC, Key: Line3.101CF8, Value: Meet me back at Wraithstead. I want to see how the other farmers are doing.

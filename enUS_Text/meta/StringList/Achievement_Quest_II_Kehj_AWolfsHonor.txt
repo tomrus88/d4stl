@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: A Wolf's Honor
+Hash: 003892BF, Key: Desc, Value: Complete quests for the Iron Wolves in Kehjistan.
+Hash: 3DA55507, Key: Crit_236083, Value: A Wolf's Honor
+Hash: 3DA55509, Key: Crit_236085, Value: On the Hunt
+Hash: 3DA5550B, Key: Crit_236087, Value: More Value Than Gold
+Hash: 3DA5550C, Key: Crit_236088, Value: Head of the Snake
+Hash: 3DA5550D, Key: Crit_236089, Value: A Moment of Peace

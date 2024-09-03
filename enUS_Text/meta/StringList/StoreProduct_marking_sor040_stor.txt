@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "The Infernomancer"
+Hash: 003DFCC1, Key: Name, Value: The Coiling Inferno

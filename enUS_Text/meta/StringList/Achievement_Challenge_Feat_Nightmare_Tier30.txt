@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nightmare Voyager
+Hash: 003892BF, Key: Desc, Value: Complete a Tier 30 or higher Nightmare Dungeon.

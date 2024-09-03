@@ -1,0 +1,6 @@
+Hash: 8ED9FF19, Key: Line1.1275AB, Value: What of Sgarn? Rofi?
+Hash: DF102AE6, Key: VoiceDir1.1275AB, Value: direct, some concern
+Hash: F3E7649F, Key: Line3.541E7, Value: Just blood and signs of struggle. Likely taken by--
+Hash: 62F0CACC, Key: VoiceDir3.541E7, Value: exhausted, somber
+Hash: 3FE1529D, Key: Line5.1275AB, Value: No. Do not count them with our ancestors so quickly.
+Hash: 90177E6A, Key: VoiceDir5.1275AB, Value: interrupting; blunt, earnest

@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0} * 100|%1x|]{/c} increased damage per Nearby Burning enemy, up to {c_number}[{SF_0} * {SF_1} * 100|%1x|]{/c}.
+Hash: 12713EB5, Key: Buff2_Name, Value: Glyph: Torch
+Hash: C6E60718, Key: Buff2_Description, Value: Damage increased per Nearby Burning enemy.

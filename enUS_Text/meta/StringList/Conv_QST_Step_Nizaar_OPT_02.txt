@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why didn't they kill you?"
+Hash: 5D1088EA, Key: Line1.A5F52, Value: Your guess is as good as mine. Maybe they were hoping for a ransom.
+Hash: CC19EF17, Key: VoiceDir1.A5F52, Value: Read with an air of disinterest. The reason you're stuck in a cage isn't very interesting to you.
+Hash: F705026C, Key: Line3.A5F52, Value: They were fooling themselves if they thought my life was worth more than what I can haul in my caravan.
+Hash: 660E6899, Key: VoiceDir3.A5F52, Value: Read with an air of disinterest. The reason you're stuck in a cage isn't very interesting to you.

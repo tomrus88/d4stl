@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Underworld
+Hash: 8E091FB5, Key: Line5.6DE47, Value: (gasp)
+Hash: 27FD9937, Key: Line7.6DE47, Value: No...!
+Hash: 9706FF64, Key: VoiceDir7.6DE47, Value: dawning horror

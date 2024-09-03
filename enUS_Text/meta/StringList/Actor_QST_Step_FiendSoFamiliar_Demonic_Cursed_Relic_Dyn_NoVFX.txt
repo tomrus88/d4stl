@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Curio of Salak
+Hash: F2CA04D8, Key: NoticeSignText, Value: A vessel hums with the cursed energy contained within, collected from all the ills inflicted on the population by the cruel Overseer Salak.

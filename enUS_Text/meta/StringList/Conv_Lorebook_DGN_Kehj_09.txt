@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: A tattered hand-drawn map
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Tattered Map
+Hash: 5D3B05D6, Key: Line1.BC41E, Value: Gates still locked. Sentries at walls, don’t bother. Cave entrance here, here, and here. Tunnels must lead under the city—not sure where they let out. Snakes here. And here. And here. Watch for snakes!

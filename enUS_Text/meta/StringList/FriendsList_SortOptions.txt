@@ -1,0 +1,12 @@
+Hash: 4AB71941, Key: Seasonal/Eternal Realm, Value: Seasonal/Eternal
+Hash: 36C55B68, Key: Hardcore, Value: Hardcore Mode
+Hash: DBF7EBA2, Key: Asc Levels, Value: Levels (Low to High)
+Hash: 4D66BF07, Key: Des Levels, Value: Levels (High to Low)
+Hash: 70075496, Key: Alphabetical Order, Value: Name (A to Z)
+Hash: E6C21C34, Key: Party Status, Value: Party Status
+Hash: A2B2BCC2, Key: Clan Status, Value: Clan Status
+Hash: CFB9E9AC, Key: Contact, Value: Recently Contacted
+Hash: 3A40D4F4, Key: Recents, Value: Recently Interacted
+Hash: 00000DED, Key: ID, Value: Real ID Friend
+Hash: 68658220, Key: Favorite, Value: Favorites
+Hash: C1101945, Key: Platform, Value: Platforms

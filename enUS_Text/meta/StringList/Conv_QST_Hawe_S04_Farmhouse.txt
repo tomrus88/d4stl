@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This ruin is your family home?"
+Hash: 5D71D84F, Key: Line1.ED393, Value: Father used to say the swamp takes everything you put into it, and if you’re not careful, it’ll take more. It looks like it took the whole farm.
+Hash: 44608E92, Key: Line4.ED393, Value: Did it take them too? Where could they have gone?
+Hash: DE550814, Key: Line6.ED393, Value: Look around, will you? There's got to be an answer here.

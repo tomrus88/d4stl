@@ -1,0 +1,8 @@
+Hash: 73AB9283, Key: BootModalTitle, Value: Welcome to the world of Diablo 4
+Hash: 5DD709D0, Key: XboxBootModalBody, Value: This game is a community driven experience, and to participate in multiplayer activities such as chatting with friends, trading items, engaging in PvP, and joining a Clan, you must be connected online and have an active Xbox Game Pass Core subscription. We highly recommend this as it's the way Diablo was intended to be played. Welcome to Sanctuary adventurer, and good luck.
+Hash: 15B81B7D, Key: BootModalPurchaseXbox, Value: {icon:button1, 2.0} Purchase Xbox Game Pass Core
+Hash: 0547E839, Key: BootModalNoPurchase, Value: {icon:button2, 2.0} Continue to game
+Hash: 1FC1663F, Key: BootModalPurchasePS, Value: {icon:button1, 2.0} Return to the PlayStation™Store
+Hash: F67541F1, Key: PS_BootModalBody, Value: Without PlayStation®Plus, you will be able to play the game but will not be able to participate in certain multiplayer activities such as Clans, PvP, chatting, forming parties, and trading with other players.
+Hash: 2DD13A12, Key: SubscriptionRequiredTooltipXbox, Value: An Xbox Game Pass Core subscription is required to use this feature.
+Hash: 7467DB94, Key: SubscriptionRequiredTooltipPS, Value: A profile capable of multiplayer is required to use this feature.

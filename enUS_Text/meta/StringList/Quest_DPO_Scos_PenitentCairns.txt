@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Nature will devour you too.
+Hash: 6C93809B, Key: Callback14Header, Value: Defeat the {MONSTER}
+Hash: AB22B0DB, Key: Callback32Header, Value: Free the Prisoners: {LEFT} 
+Hash: 4A6A48FB, Key: Callback41Header, Value: Travel to the {LEVELAREA}
+Hash: B23C2F03, Key: Callback49Header, Value: Return the Stone Carving to the Pedestal: {LEFT}

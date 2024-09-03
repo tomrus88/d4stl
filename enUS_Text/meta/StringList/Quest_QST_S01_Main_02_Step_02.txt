@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Holding Back the Flood
+Hash: 32CAE022, Key: Phase76Description, Value: I have cleared the Malignant tunnels in Dry Steppes for now.Cormond’s search for a cure continues. 
+
+I should continue fighting the Malignant and build strength for whatever comes next. 
+Hash: 4318BAA2, Key: Callback75Header, Value: Complete Chapter 1 of the Season Journey
+Hash: DD0D3424, Key: Callback77Header, Value: Complete Chapter 2 of the Season Journey

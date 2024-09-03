@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Malphas
+Hash: F16F3B08, Key: Line9.18EDEB, Value: A thousand-thousand voices. Bleating my name. Would you take that from me?
+Hash: 41A566D5, Key: VoiceDir9.18EDEB, Value: vain, admiring

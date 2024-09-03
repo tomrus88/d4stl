@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you hurt? What happened?"
+Hash: F40DE8F9, Key: Line3.789BF, Value: Agh, it’s... her. Andariel.
+Hash: 63174F26, Key: VoiceDir3.789BF, Value: (shaken, out of breath) 
+Hash: 222A16C7, Key: Line10.789BF, Value: (breathing heavy) She is still lurking in my mind. I... I thought I could cast her out… (groan)
+Hash: 72604294, Key: VoiceDir10.789BF, Value: (shaken, out of breath) 
+Hash: 6C378A39, Key: Line16.BAE4, Value: I brought these herbs. Will they help?
+Hash: BC1E9049, Key: Line12.789BF, Value: (groan) For the throbbing in my head, at least. Thank you.
+Hash: 0C54BC16, Key: VoiceDir12.789BF, Value: (shaken, out of breath) 
+Hash: 561309CB, Key: Line14.789BF, Value: (sigh) I cannot stand to be in here a moment more. Meet me outside.

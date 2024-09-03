@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood-soaked Missive
+Hash: F2CA04D8, Key: NoticeSignText, Value: To Captain Soudeh-- Triune are massing at the Hell Gate, summoning demons. More coming, purpose unknown. Send the Wolves! 

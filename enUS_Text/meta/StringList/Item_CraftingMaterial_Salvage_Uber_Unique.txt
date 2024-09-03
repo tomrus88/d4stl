@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Resplendent Spark
+Hash: A646FFA4, Key: Description, Value: Salvaged from {c_mythic}Mythic Unique{/c} equipment. Transmute it at the {c_important}Alchemist{/c} to create new {c_mythic}Mythic Unique{/c} equipment.
+Hash: F5C7BC0A, Key: Flavor, Value: In its glow lie secrets of forgotten ancestors.

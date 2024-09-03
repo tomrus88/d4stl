@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Death Raven
+Hash: A646FFA4, Key: Description, Value: Also known as the Sons of Skovos, these knights protect Skovos and the outlying isles of Philios, Lycander, and Skartara alongside their Amazon sisters. But unlike the well-traveled Amazons, few Ravens are seen venturing away from the island chain.
+Hash: 083EE0CE, Key: Quote, Value: Champions of the Skovos Isles.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

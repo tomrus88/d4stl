@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Low on Life
+Hash: 7BFE534B, Key: simple_instruction, Value: Press {hotkey:use_item} to drink a Healing Potion.

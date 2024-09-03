@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Profane power from tainted flesh.
+Hash: 1EADAE68, Key: Callback2Header, Value: Collect {ITEM} from Animus Carriers
+Hash: B8A227EA, Key: Callback4Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 538236DE, Key: Callback17Header, Value: Defeat the {MONSTER}
+Hash: ED76B060, Key: Callback19Header, Value: Travel to the {LEVELAREA}
+Hash: AB22B0DB, Key: Callback32Header, Value: Deposit Animus into the {GIZMO}

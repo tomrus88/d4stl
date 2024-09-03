@@ -1,0 +1,20 @@
+Hash: B3DB25C4, Key: Header_BuyMultiple, Value: Buy Multiple
+Hash: 337A806A, Key: Header_SplitStack, Value: Split Stack
+Hash: DD1C5465, Key: Header_SellPartial, Value: Sell Partial
+Hash: 30893D00, Key: Header_Deposit, Value: Deposit
+Hash: 074A7E52, Key: Header_Withdraw, Value: Withdraw
+Hash: E8854D0C, Key: InputLabel_SellPartial, Value: Selling
+Hash: BF441E6B, Key: InputLabel_BuyMultiple, Value: Buying
+Hash: 8BB97AF7, Key: InputLabel_Withdrawing, Value: Withdrawing
+Hash: 33A6EA05, Key: InputLabel_Depositing, Value: Depositing
+Hash: C0DF1B89, Key: SummaryLabel_Receiving, Value: Receiving
+Hash: 568FB6C1, Key: SummaryLabel_Purchasing, Value: Cost
+Hash: 2D192951, Key: TransactionToggle_Withdraw, Value: Switch to Withdraw
+Hash: F39F041F, Key: TransactionToggle_Deposit, Value: Switch to Deposit
+Hash: 680581FA, Key: Header_TakePartial, Value: Take Partial
+Hash: 4C2F8862, Key: Header_StorePartial, Value: Store Partial
+Hash: BAB04D95, Key: InputLabel_Storing, Value: Storing
+Hash: F71F5F4D, Key: InputLabel_Taking, Value: Taking
+Hash: DE3480EB, Key: SummaryLabel_ClanFunds, Value: Clan Funds
+Hash: A24A66EE, Key: Header_Gold, Value: Add Gold
+Hash: 83A5415F, Key: InputLabel_Trade, Value: Trading

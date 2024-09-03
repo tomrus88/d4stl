@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Encroaching Wrath
+Hash: 003892BF, Key: Desc, Value: After spending {c_number}[Affix."Static Value 0"]{/c} Fury, your next {c_important}Weapon Mastery{/c} Skill within {c_number}[Affix."Static Value 1"]{/c} seconds deals {c_random}[Affix_Value_1|%x|]{/c} increased damage.
+Hash: 82B7D312, Key: CodexDesc, Value: After spending {c_number}[Affix."Static Value 0"]{/c} Fury, your next {c_important}Weapon Mastery{/c} Skill deals {c_random}[Affix_Value_1|%x|]{/c} increased damage.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Elias is dead."
+Hash: 675C0CA0, Key: Line3.1247DE, Value: Dead? (laughs) Dead!
+Hash: B792386D, Key: VoiceDir3.1247DE, Value: Relief. The man that haunts your dreams is gone. You're safe now.
+Hash: 3FDFB662, Key: Line5.1247DE, Value: Good... good! Serves him, though it's no help to me now.
+Hash: 9015E22F, Key: VoiceDir5.1247DE, Value: Relief. The man that haunts your dreams is gone. You're safe now.

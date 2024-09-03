@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Traveling Merchant's Tack
+Hash: A646FFA4, Key: Description, Value: Suitable enough for very long voyages, and cheap enough to replace.

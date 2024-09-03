@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Book
+Hash: F2CA04D8, Key: NoticeSignText, Value: A large tome entitled "Grimoire of Ash". The pages are filled with ancient writings of Hell's fire demons. One passage is about Astaroth, the Charred Duke.

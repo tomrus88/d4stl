@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Upgrade A
+Hash: 003892BF, Key: desc, Value: Every {c_number}[SF_1]nd{/c} Iron Golem attack causes a shockwave, dealing {c_number}{payload:TOOLTIP_CONE_PAYLOAD}{/c} damage to the primary enemy and to enemies behind them.

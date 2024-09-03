@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Small Keys
+Hash: A646FFA4, Key: Description, Value: Bound to [PH] Valthek's Rift
+Hash: F5C7BC0A, Key: Flavor, Value: [ph] A small set of keys. Surely it opens somethings.

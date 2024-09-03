@@ -1,0 +1,5 @@
+Hash: 398557AF, Key: Callback9Header, Value: Slay the {MONSTER}: {LEFT}
+Hash: 9211671E, Key: Callback35Header, Value: Activate the Sacred Stones: {DONE_OVER_NEEDED}
+Hash: 164945C6, Key: Callback88Header, Value: Activate the Sacred Stones: {DONE_OVER_NEEDED}
+Hash: 9AB9349F, Key: Callback90Header, Value: Activate the Sacred Stones: {DONE_OVER_NEEDED}
+Hash: 95661601, Key: Callback83Header, Value: Kill the remaining attackers

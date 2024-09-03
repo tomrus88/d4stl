@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Thirsty?"
+Hash: 8ED9AE9A, Key: Line1.125DE2, Value: Don’t you look at me like that. If--if you seen what I seen, heard what I heard confessed to me... you’d be knockin’ these back too.
+Hash: DF0FDA67, Key: VoiceDir1.125DE2, Value: (drunken) 

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Locked Cabinet
+Hash: F2CA04D8, Key: NoticeSignText, Value: The cabinet doors are locked tight. It reeks of decay and a smear of blood from under the door shows it's been in use.

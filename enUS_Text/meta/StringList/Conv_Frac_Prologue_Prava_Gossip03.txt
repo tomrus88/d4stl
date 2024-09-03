@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened in Yelesna?"
+Hash: 5A157257, Key: Line1.710B6, Value: One of our flock, the Watch Commander Vigo, sent word of a demon sighting. A girl claimed to see a horned woman.
+Hash: 8DFE655B, Key: Line5.710B6, Value: The risk is too great to dismiss. Seek him out. He should be well into his search.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's our plan?"
+Hash: 8F104F47, Key: Line1.157838, Value: Thanks to your efforts in the ruins, we have what we need to capture Varshan. With it, you’ll finally be able to—to kill him, and stop the Malignant at its source.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Somber but determined. Chokes a little over "to kill him." "var-shn."
+Hash: 6793F909, Key: Line3.157838, Value: We need to get to the undercroft of the church to prepare the ritual.
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Somber but determined. 
+Hash: 4017A2CB, Key: Line5.157838, Value: It’s strange now, seeing the town so empty. The corruption spread so quickly…
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Looking around, distantly mournful.

@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Burning Resist
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monsters take 60% less Burning damage.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monsters take 45% less Burning damage.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monsters take 30% less Burning damage.

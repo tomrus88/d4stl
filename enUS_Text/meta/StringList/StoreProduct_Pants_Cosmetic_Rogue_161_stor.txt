@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: While plying one's trade in the supposedly "civilized" parts of the Eastern Continent, one must always remember to look the part.
+Hash: 003DFCC1, Key: Name, Value: Killer's Knickers
+Hash: 13A53A8B, Key: Series, Value: "Dressed to Kill"

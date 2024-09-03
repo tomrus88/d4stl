@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Tell me of Inarius.”  
+Hash: 294970C2, Key: Line27.6D03F, Value: The Cathedral loves to go on about him. His imprisonment in Hell. His valiant escape. His glorious return here—the world he created.
+Hash: 797F9C8F, Key: VoiceDir27.6D03F, Value: Doesn't have a high opinion about Inarius.
+Hash: C33DEA44, Key: Line29.6D03F, Value: But they never mention how being tortured in Hell for a few millennia turns you into an arse.
+Hash: 13741611, Key: VoiceDir29.6D03F, Value: Doesn't have a high opinion about Inarius.

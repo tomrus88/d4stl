@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Sacrifice
+Hash: 003892BF, Key: desc, Value: You gain {c_number}[{SF_0}*100|+%|]{/c} Resistance to All Elements, but you can no longer raise Skeletal Warriors.

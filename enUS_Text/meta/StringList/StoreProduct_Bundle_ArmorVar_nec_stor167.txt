@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Spectre of the Wastes
+Hash: A646FFA4, Key: Description, Value: Once every three years, these followers of Rathma gather in Ked Bardu to discuss their findings in the Steppes. Their explorations of late have been curtailed by the growing cannibal hordes that plague the countryside.
+Hash: 083EE0CE, Key: Quote, Value: A small cadre of necromancers, each in search of knowledge hidden within the Dry Steppes.
+Hash: 13A53A8B, Key: Series, Value: Necromancer Armor

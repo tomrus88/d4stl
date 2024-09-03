@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can we make it through?"
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: (sigh) More of this damn hellfire.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Winded. He's been overexerting himself while fighting through Hell and casting spells.
+Hash: F414A633, Key: Line3.6DE47, Value: I'll clear the way.

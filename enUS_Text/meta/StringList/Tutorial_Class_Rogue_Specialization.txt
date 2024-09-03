@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Rogue Specialization
+Hash: 7BFE534B, Key: simple_instruction, Value: Level up to access class {c_highlight}priority quests{/c}. Completing them will unlock {c_highlight}powerful specializations{/c}.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Burnt Forest Entrance
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Difficult to believe. I know. I have seen my allies throw their lot in with Lilith. People I thought were...stronger than that.
+Hash: F427C5EC, Key: Line3.7FA05, Value: But that is why we must press on and mend the stone, so no one else will fall to her lies.

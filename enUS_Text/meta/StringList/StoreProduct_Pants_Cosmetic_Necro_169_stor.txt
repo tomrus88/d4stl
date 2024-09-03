@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Whether certain Necromancers really emulated the power of the vampires, or were reduced to being their pawns, is unknown. This is reason enough to give these mystics a wide berth.
+Hash: 003DFCC1, Key: Name, Value: Bloodied Wrap
+Hash: 13A53A8B, Key: Series, Value: "Blood Master"

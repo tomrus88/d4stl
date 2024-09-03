@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “These people, were they all deserving?” 
+Hash: 5D12BA4E, Key: Line1.A9F43, Value: (sigh) Many were bandits, murderers...others, dear friends. Good, Light-tending folk, until they embraced evil.
+Hash: CC1C207B, Key: VoiceDir1.A9F43, Value: Heavy. Solemn. Weary.
+Hash: F70733D0, Key: Line3.A9F43, Value: We must not share the fate of Nevesk. Examples must be made.
+Hash: 661099FD, Key: VoiceDir3.A9F43, Value: Hard truth. Strong conviction.

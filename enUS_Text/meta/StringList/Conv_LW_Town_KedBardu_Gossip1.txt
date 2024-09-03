@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why do you stay inside?"
+Hash: 5D6C9C56, Key: Line1.F8C95, Value: It's hard to walk down the streets when they've been flooded with the grief and sorrows of Guulrahn.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fractured Magic
+Hash: A646FFA4, Key: Description, Value: Some are born with power beyond their ability to control. Try as they may, some of our greatest heroes often leave destruction in their wake.
+Hash: 083EE0CE, Key: Quote, Value: Power comes at a cost.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

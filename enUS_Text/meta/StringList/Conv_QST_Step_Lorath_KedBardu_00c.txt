@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Teckrin had no messages, but--"
+Hash: 01CD1A84, Key: Line47.6D03F, Value: Strange. I wrote to the Orbei Monastery the day I arrived. The Abbot should have replied by now...
+Hash: 52034651, Key: VoiceDir47.6D03F, Value: Hungover. Thinking. Concerned.
+Hash: 9921035A, Key: Line53.BAE4, Value: Teckrin spoke of a rumor. A pale man, seen near the canyons.
+Hash: 082A6987, Key: VoiceDir53.BAE4, Value: Interrupting. Grim. Serious.
+Hash: 541A75E3, Key: Line55.6D03F, Value: The canyons? Why didn't you say so? We go at once!
+Hash: A450A1B0, Key: VoiceDir55.6D03F, Value: Alarmed. Grave.
+Hash: EE0EEF65, Key: Line57.6D03F, Value: (groan) But we can't leave Orbei unchecked...
+Hash: 3E451B32, Key: VoiceDir57.6D03F, Value: Hungover. Frustrated. Thinking.
+Hash: 880368E7, Key: Line59.6D03F, Value: Sod it, I'm off to the canyons. You can meet me there or go to the monastery.
+Hash: D83994B4, Key: VoiceDir59.6D03F, Value: Hungover. Brusque.
+Hash: 0C7357C0, Key: Line61.6D03F, Value: You seem reliable, thus far. Do not prove me wrong.
+Hash: 5CA9838D, Key: VoiceDir61.6D03F, Value: Firm. Warning. Fearing repeat of past betrayal.

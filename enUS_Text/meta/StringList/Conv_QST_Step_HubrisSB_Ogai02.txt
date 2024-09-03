@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hubris Smiles Back
+Hash: 8ECE2685, Key: Line1.10BCF2, Value: Mmm, yes! Ogai wishes for all. Is worthy of all!
+Hash: DF045252, Key: VoiceDir1.10BCF2, Value: focused, mesmerized; reverant; speaking to demon in head
+Hash: 6751D047, Key: Line3.10BCF2, Value: Eh, gifts beyond time. Gifts beyond… f-flesh?
+Hash: B787FC14, Key: VoiceDir3.10BCF2, Value: focused, speaking to demon in head; turning confused/concerned by words
+Hash: 3FD57A09, Key: Line5.10BCF2, Value: A-and this is… good?
+Hash: 900BA5D6, Key: VoiceDir5.10BCF2, Value: speaking to demon in head, rising confusion
+Hash: 185923CB, Key: Line7.10BCF2, Value: (sinister mumbling)
+Hash: 688F4F98, Key: VoiceDir7.10BCF2, Value: demonic-sounding gibberish, sinister
+Hash: F0DCCD8D, Key: Line9.10BCF2, Value: Price? W-what price?
+Hash: 4112F95A, Key: VoiceDir9.10BCF2, Value: speaking to demon in head; grave confusion, concern

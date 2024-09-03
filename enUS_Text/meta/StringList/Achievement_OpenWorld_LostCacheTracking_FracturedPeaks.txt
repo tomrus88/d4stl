@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: All Altars of Lilith Fractured Peaks
+Hash: 003892BF, Key: Desc, Value: This achievement tracks when all Altars of Lilith have been claimed in Fractured Peaks.

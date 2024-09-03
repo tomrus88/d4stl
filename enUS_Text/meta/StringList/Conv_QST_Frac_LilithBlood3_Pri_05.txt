@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm ready."
+Hash: 18ABE7DA, Key: Line7.163AA1, Value: Stand within the circle of chalk—and make no attempt to leave, or your damnation be certain.
+Hash: F12F919C, Key: Line9.163AA1, Value: Inarius, whose wings brought Light to this world: act through me now! Purge the filth within this blood! Cast out Her corruption! Burn Her from--
+Hash: 4165BD69, Key: VoiceDir9.163AA1, Value: Stately, then enraptured.
+Hash: 458850C5, Key: Line11.163AA1, Value: Wh-what is this?
+Hash: 9C83F632, Key: VoiceDir11.163AA1, Value: Perturbed, confused.
+Hash: 1E0BFA87, Key: Line13.163AA1, Value: No. No, this is wrong. Light! No! Nono! Stop! Stop!
+Hash: 75079FF4, Key: VoiceDir13.163AA1, Value: Fear rising, until incomprehensible with terror.

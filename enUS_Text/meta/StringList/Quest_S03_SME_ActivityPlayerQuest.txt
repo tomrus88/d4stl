@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Ancient Tremors
+Hash: 0871A46B, Key: Toast, Value: Gather cores from elemental obelisks and deposit them into braziers to provoke the Heralds of Malphas

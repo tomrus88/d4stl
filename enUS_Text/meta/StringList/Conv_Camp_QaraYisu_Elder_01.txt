@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Voice Below
+Hash: F430D994, Key: Line3.96183, Value: Worms! They begged for my power! I made them strong!
+Hash: 633A3FC1, Key: VoiceDir3.96183, Value: Snarling. Irritated. Insulted.

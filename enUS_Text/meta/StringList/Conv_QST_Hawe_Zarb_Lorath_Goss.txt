@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where should we begin our search for Timue?"
+Hash: F413C4CC, Key: Line3.6D03F, Value: She lives in the Marshes, according to Taissa.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Timue could be anywhere in that part of Hawezar. Neyrelle and I will get a head start. Meet us there when you can.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Death Comes For Us All
+Hash: 3A4912CF, Key: DescShort, Value: Defeat the {icon:Marker_WorldEvent_Active, 2.5} World Boss, The Wandering Death, in {icon:Icon_WorldTier_4, 2.5} Torment

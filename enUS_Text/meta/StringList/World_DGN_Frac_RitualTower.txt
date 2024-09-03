@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tormented Ruins
+Hash: 003892BF, Key: Desc, Value: It's been centuries since this watchtower saw mortal use.

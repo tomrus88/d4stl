@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Elias
+Hash: 5A44590A, Key: Line1.8DD12, Value: I have come to Rathma's temple again, hoping to solve what Lorath refuses to face.
+Hash: F438D28C, Key: Line3.8DD12, Value: Instead, the temple is empty and Rathma, I hear, is dead. A victim of his father's harebrained ambitions, no doubt.

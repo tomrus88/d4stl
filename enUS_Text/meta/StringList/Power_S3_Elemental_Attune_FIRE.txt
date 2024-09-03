@@ -1,0 +1,4 @@
+Hash: A7490B65, Key: Buff11_Name, Value: Fire Attunement
+Hash: 86C2ADC8, Key: Buff11_Description, Value: You are highly resistant to FIRE and can pass through Flame Doors.
+Hash: 003DFCC1, Key: name, Value: Flame Attunement
+Hash: 003892BF, Key: desc, Value: You are highly resistant to FIRE and can pass through Flame Doors.

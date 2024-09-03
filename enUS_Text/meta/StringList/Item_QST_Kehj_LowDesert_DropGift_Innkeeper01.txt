@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Battered Shipment
+Hash: F5C7BC0A, Key: Flavor, Value: A lost shipment originally destined for Aih'Setal, the Gea Kul innkeeper. 

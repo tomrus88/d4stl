@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forgotten Acolyte's Cuirass
+Hash: F5C7BC0A, Key: Flavor, Value: Unholy runes are barely visible among the dents from ancient battles.

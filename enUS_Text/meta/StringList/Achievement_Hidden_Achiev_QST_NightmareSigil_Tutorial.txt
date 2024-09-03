@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nightmare Sigil Tutorial Quest
+Hash: 003892BF, Key: Desc, Value: QST_NightmareSigil_Tutorial achievement

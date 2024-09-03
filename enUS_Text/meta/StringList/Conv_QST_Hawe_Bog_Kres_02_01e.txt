@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Could it be a witch?"
+Hash: F371AFC3, Key: Line16.FBA9D, Value: I may be dumb, but burning Hells, I would not steal from a witch.
+Hash: 43A7DB90, Key: VoiceDir16.FBA9D, Value: wheezing, coughing, pained groans 

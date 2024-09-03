@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Forsake the Light. Death reigns here.
+Hash: D53BFF05, Key: Phase0Description, Value: Lost Keep
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay Fractured Spirits: {LEFT}
+Hash: EC8B1AEE, Key: Callback8Header, Value: Defeat the {MONSTER}
+Hash: 6C93809B, Key: Callback14Header, Value: Travel to the {LEVELAREA}
+Hash: 538236DE, Key: Callback17Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 24EC6278, Key: Callback20Header, Value: Deposit Animus into the {GIZMO}

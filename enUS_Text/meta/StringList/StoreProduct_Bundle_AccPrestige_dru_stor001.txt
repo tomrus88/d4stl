@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Wisdom Feather
+Hash: A646FFA4, Key: Description, Value: Most forget that owls are birds of prey. Small mammals, birds, reptiles, and amphibians are all part of their diet. Mind other pets.
+Hash: 083EE0CE, Key: Quote, Value: Downy nocturnal terror.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Accessories

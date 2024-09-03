@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Confident Combatant
+Hash: 003892BF, Key: Desc, Value: Get 1 PvP kill in Hardcore Mode.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Flash of Adrenaline
+Hash: A646FFA4, Key: Description, Value: {c_label}Cooldown:{/c} {c_resource}{SF_0}{/c} seconds
+Administers a quick flash of adrenaline into the player, increasing damage dealt by {c_number}[{SF_1}*100|1%x|]{/c} for {c_number}{SF_2}{/c} seconds.
+Hash: 70FCEFA9, Key: AttackSpeed, Value: {c_label}Speed:{/c} {c_number}1.5{/c} seconds
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Damage Bonus {icon:arrow,1.2} {c_number}[{SF_5}*100]%{/c}
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating Heralds in Arcane Tremors

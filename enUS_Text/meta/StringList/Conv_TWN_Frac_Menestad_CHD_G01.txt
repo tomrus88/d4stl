@@ -1,0 +1,2 @@
+Hash: 8EB60E4D, Key: Line1.106EDF, Value: Did you see what I did? I spit over the edge and it froze before it hit! Think you can do that?
+Hash: DEEC3A1A, Key: VoiceDir1.106EDF, Value: Excited child.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: {icon:BSK_AetherMass, 2.5}{c_gold}Slaying Aetheric Masses {/c}{c_bskbane}slow you (8s){/c}
+{icon:BSK_PlayerBoon, 2.5}{c_gold}While slowed this way, you have {/c}{c_bonus}unlimited resources{/c}
+Hash: 2F414F0D, Key: ShortenedName, Value: {icon:BSK_PlayerBoon, 2.5}{c_white}The Gorging Masses{/c}

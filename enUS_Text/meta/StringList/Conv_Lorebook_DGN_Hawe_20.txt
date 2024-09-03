@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Crusader's Letter
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Crusader's Letter
+Hash: 5D3B086B, Key: Line1.BC3FF, Value: To my bold, beloved fool. I pray this letter finds you in Zarbinzet before you depart. I can’t stand the thought of you tramping through the swamp without my voice in your pocket, nagging you along.
+Hash: CC446E98, Key: VoiceDir1.BC3FF, Value: Full of love. Smiling. Teasing.
+Hash: F72F81ED, Key: Line3.BC3FF, Value: You will be the one to find the tomb of Akarat, I know it in my bones. Let the Light be your guide... and our love be your courage.
+Hash: 6638E81A, Key: VoiceDir3.BC3FF, Value: Genuine. Sending all his love and hope.

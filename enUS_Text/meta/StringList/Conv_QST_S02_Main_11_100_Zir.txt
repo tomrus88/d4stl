@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Echoes of Lord Zir
+Hash: 45A2EDBE, Key: Line11.16E226, Value: Gather the body, my Seekers. Bring it to me.
+Hash: 9C9E932B, Key: VoiceDir11.16E226, Value: To servants. Casual command.

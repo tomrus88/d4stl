@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Small Blessings
+Hash: 0871A46B, Key: Toast, Value: Escort Oyuun back to Zolaya
+Hash: 4FECF0BA, Key: Phase41Description, Value: We have escaped the darkness of the prisons and emerged into the harsh sunlight of the Steppes. I should escort Oyuun back to camp before we discuss the next steps of our plan to enter the Tyrant's palace.
+Hash: FD700C3A, Key: Callback40Header, Value: Speak with Oyuun
+Hash: E2C708DD, Key: Phase44Description, Value: We have escaped the darkness of the prisons and emerged into the harsh sunlight of the Steppes. I should escort Oyuun back to camp before we discuss the next steps of our plan to enter the Tyrant's palace.
+Hash: 09DCA900, Key: Callback64Header, Value: Speak with Oyuun
+Hash: 145F3402, Key: Phase67Description, Value: Speak with Lorath
+Hash: A3D12282, Key: Callback66Header, Value: Speak with Lorath
+Hash: 3E0A0D3D, Key: Phase71Description, Value: We have escaped the darkness of the prisons and emerged into the harsh sunlight of the Steppes. I should escort Oyuun back to camp before we discuss the next steps of our plan to enter the Tyrant's palace.
+Hash: C2358ADD, Key: Callback70Header, Value: Escort Oyuun to Zolaya
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Bring Oyuun to Lorath and Zolaya
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We have escaped the darkness of the prisons and emerged into the harsh sunlight of the Steppes. I should escort Oyuun back to camp before we discuss the next steps of our plan to enter the Tyrant's palace.
+Hash: 20432EE1, Key: Phase84Description, Value: We have escaped the darkness of the prisons and emerged into the harsh sunlight of the Steppes. I should escort Oyuun back to camp before we discuss the next steps of our plan to enter the Tyrant's palace.
+Hash: 95661601, Key: Callback83Header, Value: Speak with Oyuun
+Hash: 5BEA8742, Key: Phase41OutsideSubzoneHeader, Value: Speak with Oyuun in Jakha Basin
+Hash: 4F1176C5, Key: Phase44OutsideSubzoneHeader, Value: Speak with Oyuun in Jakha Basin
+Hash: 2790FB8A, Key: Phase67OutsideSubzoneHeader, Value: Speak with Lorath in Jakha Basin
+Hash: B3EF6725, Key: Phase71OutsideSubzoneHeader, Value: Escort Oyuun to Zolaya in Jakha Basin
+Hash: 19C2A149, Key: Phase84OutsideSubzoneHeader, Value: Speak with Oyuun in Jakha Basin

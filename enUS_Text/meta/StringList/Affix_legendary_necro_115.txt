@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Hardened Bones
+Hash: 003892BF, Key: Desc, Value: You and your Minions gain {c_random}[Affix_Value_1|%|]{/c} increased Damage Reduction.

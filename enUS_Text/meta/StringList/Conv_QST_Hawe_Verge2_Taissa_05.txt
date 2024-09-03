@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I met Timue. She wasn’t happy to hear your name.”
+Hash: 8E02627B, Key: Line5.789BF, Value: Did you come here to pry into my personal affairs or to mend your soulstone?
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: Biting--this is a touchy subject for her

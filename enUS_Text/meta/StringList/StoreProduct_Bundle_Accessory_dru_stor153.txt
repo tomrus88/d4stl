@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Of Fur and Feather
+Hash: A646FFA4, Key: Description, Value: "It is not enough to be strong; one must be wise. Nor is it enough to be wise; one must be strong."
+Hash: 083EE0CE, Key: Quote, Value: Wisdom and strength.
+Hash: 13A53A8B, Key: Series, Value: "Ursa Noctua" Accessories

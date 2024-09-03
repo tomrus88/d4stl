@@ -1,0 +1,4 @@
+Hash: 6EFDCCFF, Key: Line11.54239, Value: Hmph, every day brings new fools.
+Hash: BF33F8CC, Key: VoiceDir11.54239, Value: Said to yourself as you busy yourself with work. Looking over your shoulder at curious visitors to your bandit town.
+Hash: 08F24681, Key: Line13.54239, Value: I'm not the one who's gonna roll their corpses into the river this time. (laugh) No chance.
+Hash: 5928724E, Key: VoiceDir13.54239, Value: Said to yourself as you busy yourself with work. Looking over your shoulder at curious visitors to your bandit town.

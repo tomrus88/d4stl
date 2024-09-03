@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Message from the Abbot
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Message from the Abbot
+Hash: 767E0BB7, Key: Line1.0, Value: Lorath Nahr, how bizarre it is to hear from you. Your charming apprentice arrived just this morning with equally disturbing news, but he made no mention of you. Am I to assume you did not send him? Please join us at Orbei as soon as you are able.
+Hash: AD796364, Key: VoiceDir1.0, Value: Polite. Self-important. Perplexed.

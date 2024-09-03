@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Aphotic
+Hash: 003892BF, Key: Desc, Value: {c_important}Skeletal Priests{/c} empower your Skeletal Warriors' attacks to deal Shadow damage and have a {c_random}[Affix_Value_1|1%|]{/c} chance to Stun enemies for {c_number}[Affix."Static Value 0"|1|]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Skeletal Priests{/c} empower your Skeletal Warriors' attacks to deal Shadow damage and have a {c_random}[Affix_Value_1|1%|]{/c} chance to Stun.

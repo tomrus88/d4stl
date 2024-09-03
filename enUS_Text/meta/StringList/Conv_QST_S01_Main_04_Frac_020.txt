@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you going to be able to do this?"
+Hash: 8F104F47, Key: Line1.157838, Value: I imagine I can do many things with help from someone like you, heh.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: (weak chuckle)
+Hash: 6793F909, Key: Line3.157838, Value: Varshan deserves to be at peace. I won’t shrink from that.

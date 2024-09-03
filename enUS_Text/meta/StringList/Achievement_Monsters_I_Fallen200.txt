@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fallen Slayer
+Hash: 003892BF, Key: Desc, Value: Slay 1000 Fallen.

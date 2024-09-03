@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I assure you, I am still in control. Let me help.”
+Hash: 8F238278, Key: Line1.1697C7, Value: (sigh) I truly want to believe that...
+Hash: DF59AE45, Key: VoiceDir1.1697C7, Value: Weary. Hesitant. Sincere.
+Hash: 67A72C3A, Key: Line3.1697C7, Value: Alright...Seek out Zir’s army, kill as many as you can. Stop them from bleeding our people.
+Hash: B7DD5807, Key: VoiceDir3.1697C7, Value: Weary. Relenting. Sincere.
+Hash: 402AD5FC, Key: Line5.1697C7, Value: If they succeed, we’re all damned anyway.
+Hash: 906101C9, Key: VoiceDir5.1697C7, Value: Worried. Bracing for the battle to come.

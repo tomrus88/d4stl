@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Keeper of the Keys
+Hash: 3A4912CF, Key: DescShort, Value: Collect a Whispering Key, sold at the {icon:Marker_Vendor_Gambling, 2.5} Purveyor of Curiosities

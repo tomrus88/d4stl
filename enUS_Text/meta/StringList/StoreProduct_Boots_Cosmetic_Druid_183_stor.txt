@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grounding Cleat
+Hash: 13A53A8B, Key: Series, Value: "Shards of Light"

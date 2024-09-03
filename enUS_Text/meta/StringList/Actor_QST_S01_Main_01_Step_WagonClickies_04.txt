@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Warding Salt
+Hash: F2CA04D8, Key: NoticeSignText, Value: It appears Cormond has gathered salt to draw the ring around his wagon. An effort to ward off evil? 

@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: While at full Life, your Skills unleash a divine barrage dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage.

@@ -1,0 +1,3 @@
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Watch out! Something's bombarding us!
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Surprised. Fiery meteors are raining down around them.
+Hash: F414A633, Key: Line3.6DE47, Value: It's coming from the high ground!

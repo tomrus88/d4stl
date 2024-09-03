@@ -1,0 +1,4 @@
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: I had another vision.
+Hash: 608DBF14, Key: Line11.BAE4, Value: Lilith thinks the Prime Evils will destroy Sanctuary, and she’s empowering people to stand against them.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: That’s why she and Elias are gathering followers. They’re building a bloody army.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Putting the pieces together, concerned.

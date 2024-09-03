@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Faceless Shrine
+Hash: 003892BF, Key: Desc, Value: One of Hawezar’s less secretive cults. Sinners welcome.

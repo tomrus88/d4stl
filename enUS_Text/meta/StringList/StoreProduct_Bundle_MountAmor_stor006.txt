@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Arcane Means
+Hash: A646FFA4, Key: Description, Value: Much Horadric scholarship lies scattered across Sanctuary. It requires a stout sort with efficacious tools to seek and preserve such critical knowledge.
+Hash: 083EE0CE, Key: Quote, Value: Of ley-lines and bridleways.
+Hash: 13A53A8B, Key: Series, Value: "Order of the First Ones" Mount Armor

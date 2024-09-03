@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blue Rose
+Hash: F5C7BC0A, Key: Flavor, Value: "Her lover's spirit faded, and in her sorrow she wept frozen tears. Where they fell, roses of the purest ice would blossom each winter."
+- Greenslade's Tales, Chapter 7: "The Myth of Irina Coldheart"

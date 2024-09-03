@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crashstone
+Hash: 003892BF, Key: Desc, Value: {c_important}Earth{/c} Skills deal {c_random}[Affix_Value_1|%x|]{/c} more Critical Strike Damage to Crowd Controlled enemies.

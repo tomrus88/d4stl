@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “It's really coming together here.”
+Hash: 8F311900, Key: Line1.171196, Value: The square, it—You can feel it, can’t you? The hope in this place, burning bright even amidst the surrounding darkness. It's all because of you.
+Hash: DF6744CD, Key: VoiceDir1.171196, Value: Emphasis on "you." He's practically bouncing with excitement. 
+Hash: 67B4C2C2, Key: Line3.171196, Value: I’ve, uh—(cough) I’ve actually composed something since we last spoke. You’ve been quite the muse yet again.
+Hash: B7EAEE8F, Key: VoiceDir3.171196, Value: A little bashful here.
+Hash: 40386C84, Key: Line5.171196, Value: So, keep doing your part, and I’ll keep doing mine.
+Hash: 906E9851, Key: VoiceDir5.171196, Value: Hopeful, excited.

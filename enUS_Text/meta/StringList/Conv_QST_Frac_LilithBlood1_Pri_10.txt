@@ -1,0 +1,2 @@
+Hash: 8F20EA94, Key: Line1.163AA1, Value: Well? What have you found?
+Hash: DF571661, Key: VoiceDir1.163AA1, Value: Expectant.

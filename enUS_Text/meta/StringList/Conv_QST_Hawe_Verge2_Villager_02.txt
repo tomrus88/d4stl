@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are there many witches here?"
+Hash: 67F3DF29, Key: Line45.91FE5, Value: There's witches all over Hawezar.
+Hash: 01E858AB, Key: Line47.91FE5, Value: But we leave them alone and they let us alone.

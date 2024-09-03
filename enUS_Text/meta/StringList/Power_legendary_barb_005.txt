@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Iron Blood
+Hash: 7786FD97, Key: Buff1_Description, Value: {c_number}[{SF_0} * 100 |1%|]{/c} Damage Reduction per Bleeding enemy.

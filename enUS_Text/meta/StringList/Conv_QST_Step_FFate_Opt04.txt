@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Are the cannibals still a problem?”
+Hash: 675DA8DB, Key: Line3.1275AB, Value: They remain persistent, but have grown to fear our banners.
+Hash: B793D4A8, Key: VoiceDir3.1275AB, Value: direct, sincere,
+Hash: 3FE1529D, Key: Line5.1275AB, Value: One day we will clear them from our lands.
+Hash: 90177E6A, Key: VoiceDir5.1275AB, Value: sincere, proud
+Hash: 1864FC5F, Key: Line7.1275AB, Value: When that day comes, you must join us for celebrations.
+Hash: 689B282C, Key: VoiceDir7.1275AB, Value: confident, sincere, warm
+Hash: F0E8A621, Key: Line9.1275AB, Value: Our spears remember your blood as any kin.
+Hash: 411ED1EE, Key: VoiceDir9.1275AB, Value: sincere, warm

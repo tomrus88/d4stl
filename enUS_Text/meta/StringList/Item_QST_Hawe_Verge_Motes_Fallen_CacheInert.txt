@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Chained Zakarum Repository
+Hash: A646FFA4, Key: Description, Value: Banish lingering essence to open.
+Hash: F5C7BC0A, Key: Flavor, Value: A mysterious repository with an engraved chain that resists all conventional means of opening. The chain shows Fallen being slain, and their lingering essence banished.

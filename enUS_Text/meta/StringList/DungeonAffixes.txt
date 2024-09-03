@@ -1,0 +1,105 @@
+Hash: 1885019C, Key: Major_StormbanesWrath, Value: Stormbane's Wrath
+Hash: E575A877, Key: TEST_BONUS1, Value: PH Test Bonus 1
+Hash: D243E949, Key: Major_Nightmare Portal, Value: Nightmare Portal
+Hash: 9DB3D30E, Key: Proximity Shield, Value: Proximity Shield
+Hash: B6311CA7, Key: Major_Volcanic, Value: Volcanic
+Hash: 31A6F817, Key: Rampart, Value: Rampart
+Hash: 3EC2A5AC, Key: Berserking, Value: (PH)Berserking
+Hash: C4739A9D, Key: Frozen Pulse, Value: Frozen Pulse
+Hash: E8970902, Key: Blizzard, Value: Blizzard
+Hash: 41E20C05, Key: PvP_Dungeon_MonstersBalance, Value: PH PvP: Monsters Balance
+Hash: A1DFDECF, Key: PvP_Dungeon_MonstersDropNoLoot, Value: PH PvP: Monsters Drop No Loot
+Hash: 2B86E473, Key: Wild Regeneration, Value: Wild Regeneration
+Hash: 392DDBC9, Key: Destabilizing, Value: Destabilizing
+Hash: 07911DB5, Key: Haste, Value: Haste
+Hash: 4A02B956, Key: Resource Drain, Value: Resource Drain
+Hash: 81E2157C, Key: Fire Enhanced, Value: Fire Enhanced
+Hash: 95425898, Key: Cold Enhanced, Value: Cold Enhanced
+Hash: 0DE2D36E, Key: Poison Enhanced, Value: Poison Enhanced
+Hash: 8AF3F7B3, Key: Physical Enhanced, Value: Physical Enhanced
+Hash: B3B1B7FA, Key: Lightning Enhanced, Value: Lightning Enhanced
+Hash: 583647F4, Key: Major_Drifting Shade, Value: Drifting Shade
+Hash: 2A5BCF75, Key: Empowered Elites (Summoner), Value: Empowered Elites (Summoner)
+Hash: FC27427D, Key: Major_Empowered Elites (Teleporter), Value: Empowered Elites (Teleporter)
+Hash: FC5E8510, Key: Major_Empowered Elites (Nightfall), Value: Empowered Elites (Nightfall)
+Hash: B8144FEF, Key: Major_Empowered Elites (Poison), Value: Empowered Elites (Poison Enchanted)
+Hash: B82C6CE5, Key: Major_Empowered Elites (Frost), Value: Empowered Elites (Cold Enchanted)
+Hash: 8E15ED3D, Key: Major_Empowered Elites (Shadow), Value: Empowered Elites (Shadow)
+Hash: 7A75D9A5, Key: Major_Empowered Elites (Electric Lance), Value: Empowered Elites (Electric Lance)
+Hash: 7058865D, Key: Major_Blood Blister, Value: Blood Blister
+Hash: DC8DC966, Key: Empowered Elites (Waller), Value: Empowered Elites (Waller)
+Hash: 03511F51, Key: Major_Lightning Storm, Value: Lightning Storm
+Hash: 62179F03, Key: Trial_TimedRun, Value: PH Trial: Timed Run
+Hash: A260DD0D, Key: Trial_NoWipe, Value: PH Trial: No Wipe
+Hash: D606CF62, Key: Trial_DemonicIdol, Value: PH Trial: Demonic Idol
+Hash: D8592498, Key: Trial_AbyssalGrowths, Value: PH Trial: Abyssal Growths
+Hash: C7B25922, Key: Trial_EventMastery, Value: PH Trial: Event Mastery
+Hash: AB2394DD, Key: Trial_ProtectNPC, Value: PH Trial: Cursed Wanderer
+Hash: C4C5007F, Key: Trial_UniqueSentries, Value: PH Trial: Unique Sentries
+Hash: 878C2A1D, Key: Minor_Monster_AntiCC, Value: Monsters Resist Crowd Control
+Hash: 9B3F7329, Key: Minor_Monster_AntiCrit, Value: Monsters Resist Critical Strikes
+Hash: 7A77EE55, Key: Minor_Monster_ExtraShadow, Value: Monsters Deal Extra Shadow Damage
+Hash: B09E809A, Key: Minor_Monster_LessPoison, Value: Monsters Take Less Poison Damage
+Hash: 11F5CE40, Key: Minor_Monster_AntiOverpower, Value: Monsters Resist Overpower Effect
+Hash: 20E26967, Key: Minor_Monster_AntiVulnerable, Value: Monsters Resist Vulnerable Effect
+Hash: A001ACE8, Key: Minor_Monster_AttackFaster, Value: Monsters Attack Faster
+Hash: A79972F2, Key: Minor_Monster_Barrier, Value: Monsters Gain Barrier
+Hash: 85172D89, Key: Minor_Monster_ExtraBleeding, Value: Monsters Deal Extra Bleeding Damage
+Hash: CC63C264, Key: Minor_Monster_ExtraBurning, Value: Monsters Deal Extra Burning Damage
+Hash: 994F3CE4, Key: Minor_Monster_ExtraCorruption, Value: Monsters Deal Extra Corruption Damage
+Hash: 24859555, Key: Minor_Monster_ExtraFire, Value: Monsters Deal Extra Fire Damage
+Hash: 922BEF73, Key: Minor_Monster_ExtraLightning, Value: Monsters Deal Extra Lightning Damage
+Hash: 73FBC2C7, Key: Minor_Monster_ExtraPoison, Value: Monsters Deal Extra Poison Damage
+Hash: 97512B0A, Key: Minor_Monster_HPBonus, Value: Monsters Gain Extra Life
+Hash: 986D1774, Key: Minor_Monster_HPRegen, Value: Monsters Gain Life Regen
+Hash: 7560AC1C, Key: Minor_Monster_LessBleeding, Value: Monsters Take Less Bleeding Damage
+Hash: 9D5E3A97, Key: Minor_Monster_LessBurning, Value: Monsters Take Less Burning Damage
+Hash: 0BA73604, Key: Minor_Monster_LessCold, Value: Monsters Take Less Cold Damage
+Hash: C1F2AC37, Key: Minor_Monster_LessCorruption, Value: Monsters Take Less Corruption Damage
+Hash: 0BA8C268, Key: Minor_Monster_LessFire, Value: Monsters Take Less Fire Damage
+Hash: 8BA54066, Key: Minor_Monster_LessLightning, Value: Monsters Take Less Lightning Damage
+Hash: 5CB883BF, Key: Minor_Monster_LessPhysical, Value: Monsters Take Less Physical Damage
+Hash: B71AAC28, Key: Minor_Monster_LessShadow, Value: Monsters Take Less Shadow Damage
+Hash: 248408F1, Key: Minor_Monster_ExtraCold, Value: Monsters Deal Extra Cold Damage
+Hash: B44E0453, Key: Minor_Monster_LessRanged, Value: Monsters Take Less Distant Damage
+Hash: 813D704A, Key: Minor_Monster_LessMelee, Value: Monsters Take Less Close Damage
+Hash: AD2DEAB2, Key: Minor_Monster_ChanceSlow, Value: Monster Ranged Attacks Slow Targets
+Hash: 295C23A4, Key: Minor_Monster_LifeSteal, Value: Monster Attacks Steal Life
+Hash: 8C609CAD, Key: Minor_Monster_ReflectPhysical, Value: Monsters Reflect Physical Damage
+Hash: 3B216398, Key: Minor_Monster_Unstoppable, Value: Monsters Unstoppable at Low Life
+Hash: BAC16CC1, Key: Minor_Monster_DrainResource, Value: Monster Ranged Attacks Burn Primary Resource
+Hash: E96E56A6, Key: Minor_Monster_ReduceDodge, Value: Monster Ranged Attacks Reduce Dodge Chance
+Hash: 440471BD, Key: Minor_Monster_SunderArmor, Value: Monster Ranged Attacks Sunder Armor
+Hash: 1AC088DB, Key: Minor_Monster_ReduceHealing, Value: Monster Ranged Attacks Disable Healing Potion
+Hash: 63A64BF4, Key: Minor_Monster_ReduceResistance, Value: Monster Ranged Attacks Reduce Resistance
+Hash: 96EF368D, Key: Minor_Monster_AttackBehind, Value: Monsters Deal More Damage From Behind
+Hash: 21F13960, Key: Major_Avenger, Value: Avenger
+Hash: 37993EA7, Key: Major_DeathPulse, Value: Death Pulse
+Hash: 32EC22DD, Key: Major_Empowered Elites (Suppressor), Value: Empowered Elites (Suppressor)
+Hash: 39593458, Key: Minor_Monster_ReflectNonPhysical, Value: Monsters Reflect Non-Physical Damage
+Hash: 6B357A75, Key: Minor_Monster_BarrierKiller, Value: Monster Deal More Damage To Barrier
+Hash: 14F2017B, Key: Positive_AttackMoveSpeedOnKill, Value: {c_bonus}Attack and Move Speed on Kill{/c}
+Hash: B1EB5E15, Key: Positive_DamageReductionForMissingHealth, Value: {c_bonus}Damage Reduction for Missing Health{/c}
+Hash: 2968FB17, Key: Positive_FireDamage, Value: {c_bonus}You Deal Extra Fire Damage{/c}
+Hash: 7635AEA9, Key: Positive_FireResistance, Value: {c_bonus}You Take Less Fire Damage{/c}
+Hash: DEDC64FF, Key: Positive_FrostDamage, Value: {c_bonus}You Deal Extra Frost Damage{/c}
+Hash: 299BCC91, Key: Positive_FrostResistance, Value: {c_bonus}You Take Less Frost Damage{/c}
+Hash: 31B949AE, Key: Positive_PhysicalDamage, Value: {c_bonus}You Deal Extra Physical Damage{/c}
+Hash: B4A970C0, Key: Positive_PhysicalResistance, Value: {c_bonus}You Take Less Physical Damage{/c}
+Hash: 663F2AC9, Key: Positive_PoisonDamage, Value: {c_bonus}You Deal Extra Poison Damage{/c}
+Hash: 8D20675B, Key: Positive_PoisonResistance, Value: {c_bonus}You Take Less Poison Damage{/c}
+Hash: 14BD48D7, Key: Positive_ShadowDamage, Value: {c_bonus}You Deal Extra Shadow Damage{/c}
+Hash: 6A7ADC69, Key: Positive_ShadowResistance, Value: {c_bonus}You Take Less Shadow Damage{/c}
+Hash: B8D41195, Key: Positive_LightningDamage, Value: {c_bonus}You Deal Extra Lightning Damage{/c}
+Hash: 5A23D427, Key: Positive_LightningResistance, Value: {c_bonus}You Take Less Lightning Damage{/c}
+Hash: F988362D, Key: Positive_CooldownReductionOnKill, Value: {c_bonus}Reduce Cooldowns on Kill{/c}
+Hash: EF887838, Key: Positive_IncreasedHealing, Value: {c_bonus}Increased Healing{/c}
+Hash: F604B1B4, Key: Positive_IncreasedCritChance, Value: {c_bonus}Increased Critical Strike Chance{/c}
+Hash: 9C796125, Key: Positive_PeriodicLightning, Value: {c_bonus}You Occasionally Call Down Lightning{/c}
+Hash: F6DD80AF, Key: Positive_EvadeLeavesPoison, Value: {c_bonus}Evade Leaves a Poison Pool{/c}
+Hash: FC6598D5, Key: Positive_StunCausesBurning, Value: {c_bonus}Being Crowd Controlled Causes an Explosion{/c}
+Hash: F8F806B9, Key: Positive_GoldFind, Value: {c_bonus}You Find More Gold{/c}
+Hash: 805408D0, Key: Positive_Thorns, Value: {c_bonus}You Have Extra Thorns{/c}
+Hash: 71D878B4, Key: Positive_MagicFind, Value: {c_bonus}You Find More Items{/c}
+Hash: F5CED5F5, Key: Positive_EvadePushesEnemies, Value: {c_bonus}Evade Pushes Enemies{/c}
+Hash: DC2F8465, Key: Positive_CCReduction, Value: {c_bonus}Your CC Duration is Reduced{/c}

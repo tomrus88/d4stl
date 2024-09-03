@@ -1,0 +1,3 @@
+Hash: F427C5EC, Key: Line3.7FA05, Value: They're...they're here.
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Yorin can resist...he's strong...
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Panicked, desperate. Almost to himself--trying to convince himself to keep hope

@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've met Valtha."
+Hash: 5A196F77, Key: Line1.789BF, Value: And how was my sister?
+Hash: D8F1EA65, Key: Line3.BAE4, Value: Valtha chose Lilith over your friendship. Elias convinced her to join him.
+Hash: 27F6DBFD, Key: Line7.789BF, Value: That can't be. She would have known not to trust Elias.
+Hash: 608DBF14, Key: Line11.BAE4, Value: It wasn’t Elias that seduced her, but Lilith. She found her ideals...convincing.
+Hash: C1EB557F, Key: Line9.789BF, Value: (sigh) Valtha was my teacher. She guided me when I first began my service. This is...oh.

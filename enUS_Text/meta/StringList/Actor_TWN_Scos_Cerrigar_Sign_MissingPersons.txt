@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Missing Persons Board
+Hash: F2CA04D8, Key: NoticeSignText, Value: Scraps of parchment are pinned to every open space: names and descriptions of those missing since the attack.

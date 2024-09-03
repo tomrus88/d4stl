@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Hushed Voice
+Hash: 5D6A30AD, Key: Line1.F53E3, Value: Psst! You there! Over here, outside.
+Hash: CC7396DA, Key: VoiceDir1.F53E3, Value: Whispered

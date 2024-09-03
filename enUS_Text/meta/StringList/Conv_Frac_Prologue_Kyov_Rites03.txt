@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What must I do?"
+Hash: 5D0EB0AA, Key: Line1.A393C, Value: Take a piece of holy cedarwood from the shrine and inscribe it with the sin which troubles you.
+Hash: CC1816D7, Key: VoiceDir1.A393C, Value: Authoritative
+Hash: F7032A2C, Key: Line3.A393C, Value: Then cast it into the brazier. As the fire burns the wood, so too will the Light burn away your sin.
+Hash: 660C9059, Key: VoiceDir3.A393C, Value: Authoratative

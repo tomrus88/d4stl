@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Just Reward
+Hash: 003892BF, Key: Desc, Value: Receive each type of cache from the Tree of Whispers.
+Hash: 3DA4C805, Key: Crit_235037, Value: 1 Handed Weapons
+Hash: 3DA4C826, Key: Crit_235047, Value: 2 Handed Weapons
+Hash: 3DA4C827, Key: Crit_235048, Value: Amulets
+Hash: 3DA4C828, Key: Crit_235049, Value: Chaos
+Hash: 3DA4C840, Key: Crit_235050, Value: Chest Armors
+Hash: 3DA4C841, Key: Crit_235051, Value: Gloves
+Hash: 3DA4C842, Key: Crit_235052, Value: Helms
+Hash: 3DA4C843, Key: Crit_235053, Value: Leg Armors
+Hash: 3DA4C844, Key: Crit_235054, Value: Rings
+Hash: 3DA4C845, Key: Crit_235055, Value: Boots
+Hash: 3A4912CF, Key: DescShort, Value: Acquire rewards from the Tree of Whispers.

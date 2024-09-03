@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood-Barbed Blade
+Hash: F5C7BC0A, Key: Flavor, Value: Dried Blood has coalesced into jagged crystals surrounding the blade. This phenomenon must have occurred after dislodging the blade from Feodor's chest. 

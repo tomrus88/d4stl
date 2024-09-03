@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Earthstriker's
+Hash: 003892BF, Key: Desc, Value: After swapping weapons {c_number}[Affix."Static Value 0"]{/c} times, your next non-{c_important}Basic{/c} Skill will {c_important}{u}Overpower{/u}{/c} and deal {c_random}[Affix_Value_1|%x|]{/c} increased {c_important}{u}Overpower{/u}{/c} damage.
+Hash: 82B7D312, Key: CodexDesc, Value: After swapping weapons {c_number}[Affix."Static Value 0"]{/c} times, next non-{c_important}Basic{/c} Skill deals {c_random}[Affix_Value_1|%x|]{/c} increased {c_important}{u}Overpower{/u}{/c} damage.

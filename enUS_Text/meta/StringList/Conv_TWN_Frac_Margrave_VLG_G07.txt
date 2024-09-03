@@ -1,0 +1,2 @@
+Hash: 5D592661, Key: Line1.E7248, Value: How many times have I said: do not leave these walls! I promised your parents I would care for you.
+Hash: CC628C8E, Key: VoiceDir1.E7248, Value: To child. Fearful and angry at first, then calms himself.

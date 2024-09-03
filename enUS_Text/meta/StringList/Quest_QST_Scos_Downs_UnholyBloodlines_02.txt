@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: The Snare
+Hash: 0871A46B, Key: Toast, Value: Artair has a plan to lift the werewolf curse.
+Hash: 5690A71C, Key: Phase16Description, Value: I have all the items. I should return to Druid Artair at Wraithstead to discuss our next step.
+Hash: B98DBD5C, Key: Callback15Header, Value: Speak with Artair at Wraithstead
+Hash: E2C708DD, Key: Phase44Description, Value: Artair has a plan to break the werewolf curse, but needs some things. First on the list is the druid totem that Una found. From her journal, it shouldn't be far from the orchard.
+Hash: 7E533BFF, Key: Callback45Header, Value: Find the {ITEM}
+Hash: 3226125E, Key: Phase54Description, Value: I have the wolf totem.  Now I need to get the "blood of the enemy".  Druid Artair prepared a ritual in the Harrowfields that will collect the blood we need.
+Hash: D0A0975E, Key: Callback53Header, Value: Take the {ITEM}
+Hash: B2787940, Key: Phase65Description, Value: The last item we need is the "blood of the ally".  Druid Artair has another ritual prepared near Wraithstead that I must complete to get the blood.
+Hash: 09DCA900, Key: Callback64Header, Value: Take the {ITEM}
+Hash: 7701ADA6, Key: Callback79Header, Value: Complete the blood ritual in The Harrowfields
+Hash: 7C54CC44, Key: Callback86Header, Value: Complete the blood ritual at The Wraithstead

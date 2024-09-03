@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Donan’s ritual failed. The soulstone was damaged, but he has repaired it.”
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: I never doubted his mastery of the stone. It’s his state of mind I’m worried about.
+Hash: F413C4CC, Key: Line3.6D03F, Value: He’ll need my help for his next go at the ritual.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ring of the Ravenous
+Hash: F5C7BC0A, Key: Flavor, Value: "The hunger, it starts so small, like a tickle in the back of your mind. You believe the lie that you still have control until you're so far gone you can't even recognize yourself."
+- Varyana

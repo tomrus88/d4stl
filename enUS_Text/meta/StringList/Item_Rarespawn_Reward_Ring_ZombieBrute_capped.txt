@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grotesque Loop
+Hash: F5C7BC0A, Key: Flavor, Value: A malformed collection of bone, flesh and a strange, hardened ichor, this ring-shaped object almost seems to have been grown, rather than crafted.

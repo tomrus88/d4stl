@@ -1,0 +1,4 @@
+Hash: 3D1A9141, Key: Line17.7DD22, Value: Didn't collect much... it won't make me rich, but it'll help. Here, that's for you.
+Hash: 8D50BD0E, Key: VoiceDir17.7DD22, Value: Dissapointed but trying to be thoughtful
+Hash: 4EDA4CA6, Key: Line48.7DD23, Value: Didn't collect much... it won't make me rich, but it'll help. Here, that's for you.
+Hash: 9F107873, Key: VoiceDir48.7DD23, Value: Dissapointed but trying to be thoughtful

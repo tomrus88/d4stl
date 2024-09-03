@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Casting a {c_important}Subterfuge{/c} Skill leaves behind a {c_important}Decoy Trap{/c} that continuously Taunts and lures enemies. After {c_number}[Affix."Static Value 1"]{/c} seconds, it explodes, dealing {c_random}[Affix_Flat_Value_1]{/c} Shadow damage. 
+
+This effect is treated as a {c_important}Trap{/c} Skill and can only spawn one {c_important}Decoy Trap{/c} every {c_number}[Affix."Static Value 0"]{/c} seconds.

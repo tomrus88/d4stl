@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tome of Yshari Rituals
+Hash: A646FFA4, Key: Description, Value: Bound to Yshari Sanctum
+Hash: F5C7BC0A, Key: Flavor, Value: An ancient book containing knowledge of the Yshari and their arcane practices.

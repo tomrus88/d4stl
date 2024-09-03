@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triple Threat
+Hash: 3A4912CF, Key: DescShort, Value: Upgrade Vampiric Powers to Level 3 by consuming {icon:Icon_Potent_Blood_001, 2.5} Potent Blood

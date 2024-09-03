@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I knew Magdalena, I helped her in Nevesk."
+Hash: 675C43AC, Key: Line3.123EBF, Value: Magdalena has been in my employ for years, it pains me greatly to know what has happened.
+Hash: B7926F79, Key: VoiceDir3.123EBF, Value: Sorrowful
+Hash: 3FDFED6E, Key: Line5.123EBF, Value: If such an artifact was found in Nevesk, I will see that town burned to the ground and the earth salted. Who knows what other foul things slithered out of that town?
+Hash: 9016193B, Key: VoiceDir5.123EBF, Value: Intense and foreboding

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sehruz
+Hash: CC38ADCB, Key: FlavorName, Value: Redeemer of the Undead

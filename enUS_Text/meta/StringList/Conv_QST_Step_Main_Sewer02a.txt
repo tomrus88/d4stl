@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This is the place?"
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Twin sabres. Just as Oyuun described.

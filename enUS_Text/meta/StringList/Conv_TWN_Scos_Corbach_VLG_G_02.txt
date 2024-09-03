@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D6C7509, Key: Line1.F9919, Value: Did you hear about the cobbler’s boy?
+Hash: F760EEB3, Key: Line3.F991A, Value: Not since his little outburst at town council. Did they find him?
+Hash: 666A54E0, Key: VoiceDir3.F991A, Value: Disinterested.
+Hash: 9155680D, Key: Line5.F9919, Value: Aye. He sings nothing but praise for the chieftain’s Cathedral now.
+Hash: 005ECE3A, Key: VoiceDir5.F9919, Value: Bitter

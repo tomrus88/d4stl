@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Resource Support
+Hash: A646FFA4, Key: Description, Value: Player gains {c_number}[Collectible_Power_Value_1#S03_Tuning_GainResource]{/c} Primary Resource when the supporting Skill first deals damage.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Resource Gain {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_GainResource+2]{/c}
+Hash: E971A20F, Key: Modifier, Value: Gain {c_number}[Collectible_Power_Value_1#S03_Tuning_GainResource]{/c} Primary Resource when damage is first dealt.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

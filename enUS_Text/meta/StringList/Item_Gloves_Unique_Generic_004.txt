@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Paingorger's Gauntlets
+Hash: F5C7BC0A, Key: Flavor, Value: Crafted from fragments of Duriel's carapace, wearing these gloves, or being struck by them, causes an agonizing sensation akin to pushing one's hands through a thousand shards of glass.

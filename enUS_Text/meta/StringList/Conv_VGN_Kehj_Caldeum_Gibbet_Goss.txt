@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “This person was a cultist?"
+Hash: 5E87C15C, Key: Line21.BC3FE, Value: He was a cobbler for as long as I knew him. Quiet. Well liked.
+Hash: AEBDED29, Key: VoiceDir21.BC3FE, Value: hard, pointed
+Hash: F87C3ADE, Key: Line23.BC3FE, Value: Did he really do what the Knights said?
+Hash: 48B266AB, Key: VoiceDir23.BC3FE, Value: conflicted

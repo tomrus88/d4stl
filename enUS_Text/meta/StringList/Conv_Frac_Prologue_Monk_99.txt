@@ -1,0 +1,7 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Strange Voice
+Hash: 5A206A1A, Key: Line1.6F0BE, Value: Demons... everywhere... fangs in the dark...
+Hash: C929D047, Key: VoiceDir1.6F0BE, Value: Loud, frantic, crazy
+Hash: 3D087D48, Key: Line17.6DE47, Value: Agh! He bit me!
+Hash: 8D3EA915, Key: VoiceDir17.6DE47, Value: In pain
+Hash: A31408DA, Key: Line15.6DF9E, Value: Careful. He’s a wild one.
+Hash: F34A34A7, Key: VoiceDir15.6DF9E, Value: Cautious

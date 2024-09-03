@@ -1,0 +1,2 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: Kill the Nangari caster and her minions
+Hash: 003DFCC1, Key: Name, Value: Necrotic Research

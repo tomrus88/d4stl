@@ -1,0 +1,2 @@
+Hash: 4A6A48FB, Key: Callback41Header, Value: Survive the Drowned assault
+Hash: E9B1E11B, Key: Callback50Header, Value: Activate the winch to create a path forward

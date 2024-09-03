@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 6752B9FA, Key: Line3.10E7D0, Value: Come on, you must get up. I'll buy you a round at the inn.
+Hash: B788E5C7, Key: VoiceDir3.10E7D0, Value: Kind. Taking pity on the local drunk.
+Hash: 3FD663A2, Key: Line5.10E7C7, Value: You go and get it. I'll wait here.
+Hash: 900C8F6F, Key: VoiceDir5.10E7C7, Value: Dismissive. Depressed. Staring at the ruins of a house.

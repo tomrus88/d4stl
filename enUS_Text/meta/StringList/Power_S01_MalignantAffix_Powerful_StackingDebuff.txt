@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Corrupted
+Hash: 2827F416, Key: Buff0_Description, Value: Affected by Shadow Damage Over Time. At {c_number}{SF_0}{/c} stacks, you are {c_important}{u}Dazed{/u}{/c} for {c_number}{SF_3}{/c} seconds.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Condemned Mines
+Hash: 003892BF, Key: Desc, Value: These unstable tunnels were shut down by the Cathedral.

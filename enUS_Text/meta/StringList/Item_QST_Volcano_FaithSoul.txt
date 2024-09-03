@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: The Betrayer of Faith's Soul
+Hash: A646FFA4, Key: Description, Value: The Soul of a once faithful man corrupted by Hatred
+Hash: F5C7BC0A, Key: Flavor, Value: From the exterior, you'd never know who's soul this was or what their life was like. 

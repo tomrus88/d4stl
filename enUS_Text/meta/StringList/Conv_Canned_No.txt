@@ -1,0 +1,7 @@
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: No.
+Hash: 750EE5FC, Key: Line16.BAE4.Bar, Value: I cannot.
+Hash: 750F197D, Key: Line16.BAE4.Nec, Value: I refuse.
+Hash: 750EF0B2, Key: Line16.BAE4.Dru, Value: I cannot.
+Hash: 750F301B, Key: Line16.BAE4.Sor, Value: I will not.
+Hash: 750F2BCF, Key: Line16.BAE4.Rog, Value: I will not.
+Hash: AFDD2476, Key: Line22.BAE4, Value: Impossible.

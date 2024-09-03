@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cathedral Prayer Book
+Hash: F2CA04D8, Key: NoticeSignText, Value: A well-loved prayer book sits amongst other knights’ possessions. Prayers won’t protect them from what is to come.

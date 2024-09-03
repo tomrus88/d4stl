@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Ancestral Tempering
+Hash: 7BFE534B, Key: simple_instruction, Value: Ancestral items may be Tempered with two affixes

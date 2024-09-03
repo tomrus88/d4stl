@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Imposing Presence 
+Hash: 003892BF, Key: desc, Value: Gain {c_number}[{SF_0}*100|%x|]{/c} additional Maximum Life.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Maximum Life {icon:arrow, 1.2}  {c_number}[{SF_0}*100|%x|]{/c}

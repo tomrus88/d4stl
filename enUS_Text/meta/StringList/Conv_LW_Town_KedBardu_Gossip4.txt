@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's the news?"
+Hash: 5D6CA231, Key: Line1.F8CED, Value: The cannibal attacks have people frightened, and fear is good for business.

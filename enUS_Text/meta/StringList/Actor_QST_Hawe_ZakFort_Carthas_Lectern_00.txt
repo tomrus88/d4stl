@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Urgent Letter
+Hash: CC3C0A8F, Key: FlavorText, Value: A note written in large, bold letters.
+Hash: F2CA04D8, Key: NoticeSignText, Value: I, Carthas, and my most trusted retinue, Alodia, Mathias, and Eleazar, seal this place with ourselves inside. Though we fall to Mephisto's corruption, we shall not forget our duty. Even in death, we guard the body of Sankekur.

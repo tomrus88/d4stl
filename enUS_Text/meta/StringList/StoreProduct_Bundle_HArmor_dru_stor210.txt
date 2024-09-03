@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nahantu Beastlord
+Hash: A646FFA4, Key: Description, Value: Hunters discovered a costumed corpse deep in a lacuni's den, surrounded by monstrous bones. Who was this corpse and what were their works? The hunters couldn't guess, but as they carried the costume away, the lacuni kept their distance.
+Hash: 083EE0CE, Key: Quote, Value: A fearsome mystery.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Equipment

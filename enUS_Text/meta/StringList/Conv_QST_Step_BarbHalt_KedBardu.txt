@@ -1,0 +1,4 @@
+Hash: 541A75E3, Key: Line55.6D03F, Value: (snoring)
+Hash: A450A1B0, Key: VoiceDir55.6D03F, Value: 2 to 3 snores. Heavy, loud.
+Hash: 0C846CE1, Key: Line61.7B54B, Value: Well, he's still breathing...
+Hash: A678E686, Key: Line63.7B55D, Value: He is lucky to be.

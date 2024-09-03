@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Zakarum's Plight
+Hash: 8EB381DA, Key: Line1.103087, Value: Please... I need water... I'm exhausted.

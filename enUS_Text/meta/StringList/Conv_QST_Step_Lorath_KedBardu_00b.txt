@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Lorath sent me. Have you heard from the Orbei Monastery?"
+Hash: 9F138F60, Key: Line49.EC212, Value: (sigh) No. No word from Orbei. Same as yesterday and the day before, but... I have something else.
+Hash: EF49BB2D, Key: VoiceDir49.EC212, Value: Tired. Mildly annoyed with Lorath. Glad to have some news, at least.
+Hash: 90A882DF, Key: Line66.EC212, Value: Rumor has it a pale man passed through the Abahru Canyons some time ago. Fearsome fellow, dressed in black.
+Hash: E0DEAEAC, Key: VoiceDir66.EC212, Value: Recounting the rumor. Casual. Could be something, could be nothing.
+Hash: 2A9CFC61, Key: Line68.EC212, Value: After Lorath’s performance last night, I wager he’ll want to know.
+Hash: 7AD3282E, Key: VoiceDir68.EC212, Value: Tired. Mildly annoyed with Lorath.

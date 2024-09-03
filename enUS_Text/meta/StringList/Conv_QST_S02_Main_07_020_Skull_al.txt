@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where is Erys?"
+Hash: 8F2439A7, Key: Line1.169BE9, Value: The Hunter learned something, I think. Left for the Cathedral of Light. She didn’t seem interested in waiting for you.
+Hash: 67A7E369, Key: Line3.169BE9, Value: (sniff) You reek. You’re more like him now, and she doesn't like it.

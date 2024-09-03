@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Lightning Reflex
+Hash: 003892BF, Key: desc, Value: You gain 100% dodge chance during evade.

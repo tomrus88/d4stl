@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vanquishing Hell's Best
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Champion Monsters

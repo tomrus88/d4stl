@@ -1,0 +1,25 @@
+Hash: 5529F4AB, Key: Entering PvP Area, Value: Entering Fields of Hatred
+Hash: DA6ED050, Key: OpenWorld_TurnInStarted, Value: Purifying ritual started and will complete in {c_yellow}{Param1}{/c} seconds. 
+Leaving the area will cancel the process.
+Hash: DFD848C5, Key: OpenWorld_TurnInStartedOthers, Value: A player has started a ritual at {c_yellow}{s1}{/c}.
+Hash: 1B3FCED7, Key: OpenWorld_TurnInStartedTeam, Value: {c_yellow}A player in your party has started a ritual.{/c}
+Hash: C413E750, Key: EnteringPVP_SubMenu, Value: {c_red}Bloodmarked{/c} players can attack you.
+Hash: F7D2AACE, Key: ExitingPVP, Value: Exiting Fields of Hatred
+Hash: 1C3B4CDE, Key: VesselOfHatred_Label, Value: Hatred's Chosen
+Hash: BB80A582, Key: VesselOfHatred_Description, Value: Gain hatred by defeating players.
+Survive long enough as Hatred's Chosen and you will be rewarded.
+Hash: 97FF19E6, Key: VesselOfHatred_Gained, Value: You have been chosen. Other players can see your position on the map.
+Survive and remain in the Fields of Hatred for {s2}
+Hash: 0B9AF81B, Key: VesselOfHatred_Town_Warning, Value: You will no longer be Hatred's Chosen if you enter town!
+Hash: CA566A83, Key: VesselOfHatred_LostByTown, Value: You have given up being Hatred's Chosen by entering town.
+Hash: EB532C74, Key: VesselOfHatred_Status_Broadcast, Value: A player has become Hatred's Chosen. Hunt them down for rewards.
+Hash: 7E4E7912, Key: VesselOfHatred_Slayed_Broadcast, Value: A Hatred's Chosen has been slain.
+Hash: 04BE997B, Key: OpenWorld_CurrencyCapWarningThreshold, Value: You are close to your Red Dust cap.
+Hash: 1396EB4A, Key: ShrineTurnIn_ExceedCap, Value: Not all Seeds will be purified, you will exceed your Red Dust cap.
+Hash: A9FEADE2, Key: OpenWorld_CombatPenaltyWarning, Value: You are entering a lower rated PvP area due to your party state. Your combat efficiency will be reduced. 
+Hash: AF994BE4, Key: VesselofHatred_Ritual_Warning, Value: You cannot perform a ritual while Hatred's Chosen.
+Hash: 5992C395, Key: OpenWorld_TurnInAbandoned, Value: You have abandoned the ritual.
+Hash: 15B11D05, Key: LeavingPvPShrineTurnIn, Value: Leaving the ring will result in abandoning the ritual.
+Hash: 13FC5AA1, Key: VesselOfHatred_LostByDeath, Value: You have fallen, and are no longer the Hatred's Chosen.
+Hash: CA4E5555, Key: VesselOfHatred_LostByExit, Value: You have given up being Hatred's Chosen by exiting the Fields of Hatred.
+Hash: 3EEAC400, Key: VesselOfHatred_Lost, Value: You are no longer the Hatred's Chosen.

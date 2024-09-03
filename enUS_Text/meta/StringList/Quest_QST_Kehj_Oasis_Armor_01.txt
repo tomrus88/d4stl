@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: A Wolf's Honor
+Hash: 0871A46B, Key: Toast, Value: An ill-fated expedition has left Asa with a difficult responsibility.
+Hash: 6541F242, Key: Callback48Header, Value: Retrieve {ITEM}
+Hash: D0A0975E, Key: Callback53Header, Value: Retrieve {ITEM}
+Hash: 0D16AFDC, Key: Phase70Description, Value: Asa of the Iron Wolves has asked for my help recovering the equipment and supplies of her fallen allies.
+
+They died somewhere within the Forgotten Ruins.
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Speak with Asa by the Forgotten Ruins
+Hash: 20432EE1, Key: Phase84Description, Value: Asa and I found the bodies of the two dead Iron Wolves and recovered their effects. Asa asked that I speak with her back in Dahlgur.
+Hash: 95661601, Key: Callback83Header, Value: Speak with Asa

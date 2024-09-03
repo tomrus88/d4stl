@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Help! Please!
+Hash: 5D23008C, Key: Line1.B79B1, Value: Someone, please! Help!

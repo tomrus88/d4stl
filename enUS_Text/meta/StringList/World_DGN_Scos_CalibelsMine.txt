@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Calibel's Mine
+Hash: 003892BF, Key: Desc, Value: The bandits that took this mine are ignorant of its secrets.

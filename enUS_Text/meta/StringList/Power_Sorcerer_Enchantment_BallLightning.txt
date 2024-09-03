@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Critical Strikes have up to a {c_number}[{SF_0}|%|]{/c} chance to spawn a static {c_important}Ball Lightning{/c}.

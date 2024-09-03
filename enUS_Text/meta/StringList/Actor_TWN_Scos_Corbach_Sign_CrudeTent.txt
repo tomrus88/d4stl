@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crude Tent
+Hash: F2CA04D8, Key: NoticeSignText, Value: A simple tarp and some sticks. A makeshift shelter for the miserable.

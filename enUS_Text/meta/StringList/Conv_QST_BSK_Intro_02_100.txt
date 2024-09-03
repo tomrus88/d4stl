@@ -1,0 +1,6 @@
+Hash: E60800D3, Key: Line16.1BCB9E, Value: By Mother’s blood. By Mother’s strength. We seize her lord father’s Hatred!
+Hash: 3D03A640, Key: VoiceDir16.1BCB9E, Value: Chanting. Exultant. Feverish.
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: We tear it from this broken vessel!
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Intensity rises. Violent.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: And cast it back... to the abyss!
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Most intense. Defying Hell itself.

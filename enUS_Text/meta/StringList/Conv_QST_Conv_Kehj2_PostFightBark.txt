@@ -1,0 +1,6 @@
+Hash: 5A202CB1, Key: Line1.6DE47, Value: (groan)
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Dazed. They're recovering from a huge sandstorm that hit the little chapel.
+Hash: F427C5EC, Key: Line3.7FA05, Value: Hell of a storm...
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Dazed. They're recovering from a huge sandstorm that hit the little chapel.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: What happened out there?
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Dazed. They're recovering from a huge sandstorm that hit the little chapel.

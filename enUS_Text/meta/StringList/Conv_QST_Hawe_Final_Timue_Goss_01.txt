@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “We found Elias and his secret of immortality.”
+Hash: 5A39A25C, Key: Line1.9118B, Value: No one who makes a pact with the Tree can escape the payment. Not forever, at least.
+Hash: F42E1BDE, Key: Line3.9118B, Value: You would do well to remember that.
+Hash: 6337820B, Key: VoiceDir3.9118B, Value: Edge of warning

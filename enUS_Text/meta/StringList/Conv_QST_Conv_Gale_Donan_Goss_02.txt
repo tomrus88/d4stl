@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How many people lived here in its heyday?” 
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Us three Horadrim—Elias, Lorath, myself—and an angel, Tyrael.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: An angel? Like Inarius?
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: awe
+Hash: F427C5EC, Key: Line3.7FA05, Value: Very different from him, fortunately. Tyrael set off before Elias did. I don’t know what drew him away, but I could tell he was...afraid. We fell apart after he left.

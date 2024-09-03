@@ -1,0 +1,9 @@
+Hash: 3D08DF31, Key: 0_instruction, Value: The {c_highlight}Seneschal{/c} Construct is a staunch ally. It cannot be killed but can be staggered. 
+Hash: 8C67E8B2, Key: 1_instruction, Value: You can choose your Construct's abilities by assigning {c_highlight}Governing Stones{/c}. These abilities can be modified with {c_highlight}Tuning Stones{/c}. 
+Hash: DBC6F233, Key: 2_instruction, Value: Your Construct can be customized in your inventory, under the Construct tab {icon:Inventory_Tab_Icon_Buddy,1.8}.
+Hash: 2B25FBB4, Key: 3_instruction, Value: Acquiring duplicate {c_highlight}Governing{/c} and {c_highlight}Tuning{/c} Stones will upgrade the duplicate stone.
+Hash: 6C158A74, Key: 0_instruction_controller, Value: The {c_highlight}Seneschal{/c} Construct is a staunch ally. It cannot be killed but can be staggered. 
+Hash: 3AFF0155, Key: 1_instruction_controller, Value: You can choose your Construct's abilities by assigning {c_highlight}Governing Stones{/c}. These abilities can be modified with {c_highlight}Tuning Stones{/c}. 
+Hash: 09E87836, Key: 2_instruction_controller, Value: Your Construct can be customized in your inventory, under the Construct tab {icon:Inventory_Tab_Icon_Buddy,1.8}.
+Hash: D8D1EF17, Key: 3_instruction_controller, Value: Acquiring duplicate {c_highlight}Governing{/c} and {c_highlight}Tuning{/c} Stones will upgrade the duplicate stone.
+Hash: 086EAA02, Key: title, Value: The Seneschal Construct

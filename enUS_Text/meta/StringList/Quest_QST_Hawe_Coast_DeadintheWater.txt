@@ -1,0 +1,29 @@
+Hash: 003DFCC1, Key: Name, Value: Dead in the Water
+Hash: 0871A46B, Key: Toast, Value: A Backwater resident in need offers a glimpse into the harsh realities of daily life.
+Hash: F54EBA1E, Key: Phase36Description, Value: Szilvia wants me to verify Tomaj's claim that he carried out the work with which she tasked him, independently. Though in truth, I helped Tomaj with his tasks, I have learned along the way that Tomaj struggles with the losses he has faced while carrying out this grim work over the years. I now have to decide what to tell Szilvia.
+Hash: 9211671E, Key: Callback35Header, Value: Speak with Szilvia
+Hash: 79001D61, Key: Callback38Header, Value: Speak with Szilvia
+Hash: 3226125E, Key: Phase54Description, Value: While helping Tomaj with his tasks, we came across a man stranded up on a broken ship's mast on the coast, south of Backwater. Clearing the Drowned surrounding him would allow him to descend safely.
+Hash: 4F855768, Key: Callback99Header, Value: Help Tomaj burn Fresh Corpses: {DONE_OVER_NEEDED}
+Hash: E26052C2, Key: Callback84Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: DD3F1FAC, Key: Callback132Header, Value: Slay the Drowned around the stranded man
+Hash: 45529163, Key: Phase68Description, Value: While helping Tomaj with his tasks, we came across a man stranded up on a broken ship's mast on the coast, south of Backwater. Clearing the Drowned surrounding him would allow him to descend safely.
+Hash: F0CB5F43, Key: Callback67Header, Value: Slay the Drowned around the stranded man
+Hash: B31D4704, Key: Phase87Description, Value: With Tomaj's tasks finished and the shipwrecked sailor, Ervin, rescued, we should return to the relative safety of Backwater.
+Hash: 7C54CC44, Key: Callback86Header, Value: Bring Tomaj and Ervin to Backwater
+Hash: D53BFF05, Key: Phase0Description, Value: In Backwater, I met Tomaj, a resident facing potential exile for shirking his duties to the town. He has asked me to help him do what is needed to help ensure the town's survival.
+Hash: 164945C6, Key: Callback88Header, Value: Help Tomaj burn Fresh Corpses: {DONE_OVER_NEEDED}
+Hash: A9244120, Key: Callback73Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: 13139A08, Key: Phase102Description, Value: With Tomaj's tasks finished and the shipwrecked sailor, Ervin, rescued, we have found Szilvia in Backwater, awaiting Tomaj's return. I should check in with Tomaj.
+Hash: CB7F6448, Key: Callback101Header, Value: Speak with Tomaj
+Hash: 44ABC52D, Key: Phase125Description, Value: While helping Tomaj with his tasks, we found and rescued a man stranded on a broken ship's mast along the shore. Now that he has been able to descend safely, I should ask how he got here.
+Hash: 8AF1C44D, Key: Callback124Header, Value: Help Tomaj burn Fresh Corpses: {DONE_OVER_NEEDED}
+Hash: 24E63DCF, Key: Callback126Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: 7C86B7CC, Key: Callback141Header, Value: Speak with the stranded survivor
+Hash: 8227EB31, Key: Phase165Description, Value: In Backwater, I met Tomaj, a resident facing potential exile for shirking his duties to the town. He has asked me to help him do what is needed to help ensure the town's survival.
+
+Along the way, we rescued a man named Ervin, a sailor and lone survivor of a Drowned attack on his former ship. He is accompanying us back to town.
+Hash: 6FE20AD5, Key: Callback168Header, Value: Help Tomaj burn Fresh Corpses: {DONE_OVER_NEEDED}
+Hash: 22E7CE14, Key: Callback167Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: 0DB97F2E, Key: Phase171Description, Value: While helping Tomaj with his tasks, we found and rescued a man stranded on a broken ship's mast along the shore. Now that he has been able to descend safely, I should ask how he got here.
+Hash: F451F9AE, Key: Callback170Header, Value: Speak with the stranded survivor

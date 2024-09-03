@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why aren't the Iron Wolves protecting Caldeum?"
+Hash: 8EDA92D6, Key: Line1.12887E, Value: The Wolves have lived in the shade of Caldeum, protecting Kehjistan from all that threaten her. Yet even they can only do so much.

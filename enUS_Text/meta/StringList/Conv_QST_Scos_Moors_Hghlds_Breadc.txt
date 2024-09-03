@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Waiting for something?"
+Hash: 5D72A385, Key: Line1.EDC0B, Value: Not something, but someone. Someone like you, in fact.
+Hash: F7671D07, Key: Line3.EDC0B, Value: You look the worldly sort. Would you be able to travel to the Under the Fat Goose Inn in the Highland Wilds, and let Torben the Innkeeper know Niall will be there shortly to settle his tab? I likes me a drink, see - and that place has the best ale in these parts.

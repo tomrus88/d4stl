@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crude Journal
+Hash: F2CA04D8, Key: NoticeSignText, Value: "I've been summoned to the Tomb of Hallows! Master must be pleased with the wanderer I sent. Had a good feeling about that one."

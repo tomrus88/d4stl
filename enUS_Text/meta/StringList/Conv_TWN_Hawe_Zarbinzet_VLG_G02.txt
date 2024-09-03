@@ -1,0 +1,7 @@
+Hash: 8ED96EED, Key: Line1.1264F3, Value: Care for some tea? (sigh) It's supposed to help old bones settle, not ache so much.
+Hash: 675D18B0, Key: Line3.1264F4, Value: Where'd you find a thing like that?
+Hash: B793447D, Key: VoiceDir3.1264F4, Value: Suspicious
+Hash: 3FE0C271, Key: Line5.1264F3, Value: Wejinhani. (chuckle) Strange, I know. But my son swears by their remedies.
+Hash: 9016EE3E, Key: VoiceDir5.1264F3, Value: Wejinhani pronunciation: "WEH-jin-HAH-nee"
+Hash: F0E815F6, Key: Line9.1264F4, Value: No, thank you! Heaven knows what vile things go into swamp folk’s tea.
+Hash: 411E41C3, Key: VoiceDir9.1264F4, Value: Judgmental

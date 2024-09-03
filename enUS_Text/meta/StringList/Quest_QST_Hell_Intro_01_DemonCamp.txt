@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: The Eyes of the Enemy
+Hash: 7733992E, Key: Callback134Header, Value: Destroy the Summoning Portal
+Hash: AB1C8C32, Key: Callback138Header, Value: Slay the remaining demons

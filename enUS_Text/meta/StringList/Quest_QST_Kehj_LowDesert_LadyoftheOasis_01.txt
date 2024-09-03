@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: A Voice from the Past
+Hash: 0871A46B, Key: Toast, Value: This mysterious old shrine calls out for aid.
+Hash: 92C33198, Key: Phase12Description, Value: The fisherman in Gea Kul was correct – there is a talking shrine. The womanly voice claims to be an ancient mage trapped in the rock.
+
+Freedom for her may lie in the Conclave. I am to seek out a magical vessel hidden somewhere in the caves.
+Hash: A07C739F, Key: Callback18Header, Value: Retrieve the {ITEM} in the Conclave
+Hash: B12EDDB8, Key: Phase21Description, Value: I’ve done all Izel has asked of me. I should speak to her and inquire what else is needed for her freedom.
+Hash: 24EC6278, Key: Callback20Header, Value: Speak with Izel
+Hash: D9B88541, Key: Callback29Header, Value: Return to Izel
+Hash: 6274A1FB, Key: Phase33Description, Value: Despite Izel’s condescension, I have found her lost phylactery. She has asked me to place in front of the shrine she inhabits.
+Hash: AB22B0DB, Key: Callback32Header, Value: Place the Vessel before Izel

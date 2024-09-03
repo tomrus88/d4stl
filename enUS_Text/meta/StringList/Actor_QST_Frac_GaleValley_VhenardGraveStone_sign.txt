@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Vhenard's Gravestone
+Hash: F2CA04D8, Key: NoticeSignText, Value: HERE LIES VHENARD WHO WAS EVER SEARCHING
+NOW SHE SLEEPS AT THE STEPS OF KNOWLEDGE

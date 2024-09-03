@@ -1,0 +1,3 @@
+Hash: 5A270F7C, Key: Line1.804B7, Value: (relieved sigh) It worked.
+Hash: F41B88FE, Key: Line3.804B7, Value: Something’s rousing the spirits from their rest.
+Hash: 28047C02, Key: Line7.804B7, Value: We should make haste within.

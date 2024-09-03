@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What was the world like in your time?"
+Hash: F64623C8, Key: Line15.121A3D, Value: Ah. What a question. There are no words to make you comprehend if you did not behold it firsthand. The very colors were different, more vibrant. You could taste magics in the air.
+Hash: 4D41C935, Key: VoiceDir15.121A3D, Value: Some pauses while trying to find the right words to explain it to the Player
+Hash: CEC9CD8A, Key: Line17.121A3D, Value: People did not cower and scrape by. The very hells bent to our wills. Everything seemed possible then. This world left over is but a husk.
+Hash: 25C572F7, Key: VoiceDir17.121A3D, Value: A little heated at recalling all that humans have lost

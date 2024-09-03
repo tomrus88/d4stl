@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Knight's Strongbox
+Hash: A646FFA4, Key: Description, Value: A sturdy strongbox capable of storing your equipment and protecting them from the elements.

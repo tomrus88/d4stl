@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why have you returned to Wejinhani?"
+Hash: 5A196F77, Key: Line1.789BF, Value: Because I have chosen to. You will make Elias mortal. I will be there to collect his debt.

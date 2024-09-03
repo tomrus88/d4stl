@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lockbox Key
+Hash: F5C7BC0A, Key: Flavor, Value: A small worn key. It looks like it fits a chest or lockbox.

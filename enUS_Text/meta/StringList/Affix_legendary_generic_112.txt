@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Craven
+Hash: 003892BF, Key: Desc, Value: You gain {c_random}[Affix_Value_1|%x|]{/c} increased Movement Speed when moving away from Slowed or {c_important}{u}Chilled{/u}{/c} enemies.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why do you stay here?"
+Hash: 5A28B2ED, Key: Line1.83542, Value: Much safer than stumbling through all this fog. These huts are more than just stone.
+Hash: F41D2C6F, Key: Line3.83542, Value: My ancestors blessed them to ward off storm and spirit alike.
+Hash: 8E11A623, Key: Line5.8354D, Value: When the wicked wind starts to moan, best to shelter in the safety of stone.
+Hash: FD1B0C50, Key: VoiceDir5.8354D, Value: Singing--a children's rhyme.
+Hash: 28061F73, Key: Line7.83542, Value: Right you are, lass.
+Hash: 970F85A0, Key: VoiceDir7.83542, Value: Proud

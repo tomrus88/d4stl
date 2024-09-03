@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm sorry."
+Hash: D6FCF6CA, Key: Line19.6DE47, Value: You were--you were protecting me. I don’t want to hate you. I’m trying. I really am.
+Hash: 27332297, Key: VoiceDir19.6DE47, Value: voice breaking on "I really am."
+Hash: C1F212B9, Key: Line9.6DE47, Value: (sigh) We're going to make Lilith pay for what she’s done.
+Hash: 30FB78E6, Key: VoiceDir9.6DE47, Value: simmering anger
+Hash: 3D087D48, Key: Line17.6DE47, Value: So we need blessed blood. Go back to your Prava. Get that blessing. Beg if you need to. Whatever it takes.
+Hash: 091F8A44, Key: Line13.6DE47, Value: My mother started this damn ritual. I'm going to finish it. Meet me in the Mistral Woods.
+Hash: FA823896, Key: Line31.BAE4, Value: Why there?
+Hash: F5615F25, Key: Line23.6DE47, Value: The Horadrim hid a vault there. Finding it was her life’s work. So much for that.
+Hash: 8F55D8A7, Key: Line25.6DE47, Value: Maybe it will help with the ritual. If not, at least I can bury her where she’d want.
+Hash: DF8C0474, Key: VoiceDir25.6DE47, Value: anger, on verge of tears
+Hash: C33ECBAB, Key: Line29.6DE47, Value: I need time. I’m sorry. Just leave me.
+Hash: 1374F778, Key: VoiceDir29.6DE47, Value: breaking

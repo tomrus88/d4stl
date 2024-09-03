@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Boon in the Tide
+Hash: 3A4912CF, Key: DescShort, Value: Open one {icon:Marker_Helltide_Chest, 2.5} Tortured Gift of any type during {icon:Marker_Helltide, 2.5} Helltide

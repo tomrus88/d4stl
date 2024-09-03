@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cain's Apparatus
+Hash: 13A53A8B, Key: Series, Value: "Order of the First Ones"

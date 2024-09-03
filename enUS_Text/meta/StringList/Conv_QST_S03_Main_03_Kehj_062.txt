@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Zoltun Kulle? Who is that?"
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: A mage of the highest order. And an incorrigible egotist. He’ll be disappointed you’ve never heard of him.
+Hash: 75451B6B, Key: VoiceDir13.18AEA4, Value: fondly, but with a wry twist, having won a secret little victory
+Hash: F6CD1FC0, Key: Line15.18AEA4, Value: Come. If he is not in his study, he will at least have left word there.

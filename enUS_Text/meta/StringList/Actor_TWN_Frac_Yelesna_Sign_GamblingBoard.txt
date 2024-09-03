@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gambling Hall Board
+Hash: F2CA04D8, Key: NoticeSignText, Value: "If ye cheat while gambling, you'll be banned a month and short a finger. Twice, either hand, yer choice. Thrice, and you meet the end of a rope!"

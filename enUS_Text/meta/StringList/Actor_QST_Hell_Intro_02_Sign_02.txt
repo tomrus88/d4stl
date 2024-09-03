@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shrine to the Mother
+Hash: F2CA04D8, Key: NoticeSignText, Value: This small statue of Lilith is covered in sacrificial blood. A sure sign of frequent, painful offerings.

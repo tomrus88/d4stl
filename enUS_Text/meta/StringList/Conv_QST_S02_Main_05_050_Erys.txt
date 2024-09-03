@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Is that thing alive?”
+Hash: 67A72C3A, Key: Line3.1697C7, Value: Alive? Yes. Lucid? I don’t—
+Hash: 402B8D2B, Key: Line5.169BE9, Value: Where is my—what have you done with my body, you—
+Hash: 9061B8F8, Key: VoiceDir5.169BE9, Value: Manic, not entirely aware.
+Hash: 18AE7FBE, Key: Line7.1697C7, Value: We’re looking for Lord Zir.
+Hash: 68E4AB8B, Key: VoiceDir7.1697C7, Value: Straight to the point. "Zeer." 
+Hash: F132E0AF, Key: Line9.169BE9, Value: I should gut you for speaking that name, bastard! Liar, betrayer, blood-drunken monster! Live forever, he said...here I am.
+Hash: 41690C7C, Key: VoiceDir9.169BE9, Value: Enraged.
+Hash: 458AE8A9, Key: Line11.1697C7, Value: Hmm. Then you were his underling, and things ended badly?
+Hash: 1E0F499A, Key: Line13.169BE9, Value: Was...summer, autumn. Leaves on the ground while disappearing into the city below to sleep...to wait...What will I do now?
+Hash: 750AEF07, Key: VoiceDir13.169BE9, Value: Distant, mournful.
+Hash: F6923C2D, Key: Line15.1697C7, Value: He must be talking about the City of Ancients. It would make sense in the context of a revival.
+Hash: 4D8DE19A, Key: VoiceDir15.1697C7, Value: Deductive, letting the skull babble.
+Hash: CF169D1E, Key: Line17.169BE9, Value: Smell him on you, trying to change you, too. He reaches for ascension still...I will help you kill him, and then I will sleep.
+Hash: 2612428B, Key: VoiceDir17.169BE9, Value: Bemused, then compliant.

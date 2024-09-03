@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Torn Paper
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Torn Paper
+Hash: 5D23008E, Key: Line1.B79B3, Value: They said the Aldurwood was the last patch of old growth in Scosglen that was free from corruption. They said Aldur himself, though he is gone from the flesh, watches over the forest in spirit.
+Hash: F7177A10, Key: Line3.B79B3, Value: So they said. I had hoped to find the secret that preserved the health of these woods. Imagine my despair when the trees themselves chased me out amidst the howling of some half-human beast. 
+ 
+If corruption has taken root even here, then all hope is lost for the forests of Scosglen.

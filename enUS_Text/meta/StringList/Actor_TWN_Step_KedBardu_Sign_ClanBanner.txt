@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barbarian Clan Banner
+Hash: F2CA04D8, Key: NoticeSignText, Value: The Oxen symbol on the banner represents the resilient and stubborn nature of the people living off the harsh land of Dry Steppes.

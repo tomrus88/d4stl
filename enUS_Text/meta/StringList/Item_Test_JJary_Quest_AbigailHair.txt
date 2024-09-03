@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lock of Abigail's Hair
+Hash: A646FFA4, Key: Description, Value: A trimming of braided hair from the remains of Abigail.

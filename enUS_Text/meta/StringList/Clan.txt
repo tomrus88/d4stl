@@ -1,0 +1,237 @@
+Hash: 086EAA02, Key: Title, Value: Clan
+Hash: ADA8F133, Key: CreateAClan, Value: Create Clan
+Hash: C14FDD9F, Key: ClanName, Value: Clan Name
+Hash: 8F1533EF, Key: JoinClanName, Value: Join <{s2}> {s1}?
+Hash: 62D7F8A7, Key: NumberOfClanMembers, Value: {s1}
+Hash: BA10CE8B, Key: Members, Value: Members
+Hash: 97EBB30B, Key: Leave Clan, Value: Leave Clan
+Hash: 049542F4, Key: Decline, Value: Decline
+Hash: EA094870, Key: NotificationMuteConfirm, Value: Are you sure you want to mute {s1}? They will no longer be able to transmit to clan voice chat but will still be able to hear clan voice chat.
+Hash: 7C188C97, Key: NotificationKickConfirm, Value: Are you sure you want to kick {s1} from the clan? 
+Hash: 1669C646, Key: NotificationBanConfirm, Value: Are you sure you want to ban {s1}? This will both remove and prevent them from applying to the clan in the future.
+
+The clan ban list can be managed within the settings screens.
+Hash: 2CBFD9BD, Key: JoinClanVoiceChannel, Value: Join Clan Voice Chat
+Hash: A2FAD25A, Key: LeaveClanVoiceChannel, Value: Leave Clan Voice Chat
+Hash: E5937AC2, Key: ClanDescription, Value: Description
+Hash: 98751E77, Key: ClanDescriptionInstructions, Value: Description (200 Character Limit)
+Hash: 8A830CB8, Key: DateSent, Value: Date Sent
+Hash: C405B04E, Key: InvitedBy, Value:  (Invited by {s1})
+Hash: 31577DDE, Key: TagTitle, Value: Tag (6 Character Limit)
+Hash: 0001FA5C, Key: Tag, Value: Tag
+Hash: 139C0E16, Key: Search, Value: Search Clans
+Hash: 2C892732, Key: SearchExistingClans, Value: Search Existing Clans
+Hash: 0001AAF9, Key: All, Value: All
+Hash: 114A0B04, Key: Region, Value: Region
+Hash: 02FFE5F3, Key: Labels, Value: Labels
+Hash: 6A7CC59B, Key: Heraldry, Value: Heraldry
+Hash: 0040DE5B, Key: Size, Value: Size
+Hash: 4AA3FF0A, Key: ClanSearchWarning, Value: You have reached the maximum number of active applications allowed.
+Hash: 96FD1264, Key: SizeNumber, Value: {s1}
+Hash: 4F3DE02B, Key: ActiveTime, Value: Active Time
+Hash: 466F5975, Key: DateSent_Date, Value: {s1}/{s2}/{s3}
+Hash: 4C3033F9, Key: ActiveTime_Time, Value: {s1}
+Hash: 465FE30F, Key: JoinAClan, Value: Join a Clan
+Hash: 9F3C1546, Key: RegionSelectOne, Value: Region (Select 1)
+Hash: 008470B7, Key: LabelsSelectUpToFour, Value: Labels (Select up to 4)
+Hash: 0153A587, Key: ClanGettingStarted, Value: Getting Started
+Hash: FFE698BC, Key: ClanGettingStartedInstructions, Value: Your clan's visibility is set to Public by default which means it will appear in searches.
+
+Clan visibility can be changed under Settings. 
+Hash: C67F61B5, Key: ClanGettingStarted_ClanSettings, Value: Adjust Clan Settings
+Hash: 2EF59C21, Key: ClanGettingStarted_ClanLanding, Value: Proceed to your Clan
+Hash: 073C6D67, Key: Clear, Value: Clear
+Hash: 2D9B1790, Key: ApplyFilterRegion, Value: Region
+Hash: 8ED3B3E8, Key: SearchResults, Value: Results will show up to {s1} Clans
+Hash: C5DA4B04, Key: SearchResultsActive, Value: Results: {s1}
+Hash: CA6201A0, Key: ClearFilters, Value: Clear Filters
+Hash: 08606564, Key: DefineFilters, Value: Define Filters
+Hash: 1CEA7033, Key: ShowResults, Value: Show Results
+Hash: 9E62B5CF, Key: LabelErrorText, Value: You have reached the maximum number of labels allowed.
+Hash: 1F50F27F, Key: ApplyFilterLabels, Value: Labels
+Hash: 0CDD6788, Key: ClanGettingStartedCongrats, Value: Congratulations!
+Your Clan has been created.
+Hash: A4D33208, Key: ClanGettingStartedOr, Value: Or
+Hash: 9BCD3A82, Key: Invites, Value: Invites & Requests ({s1})
+Hash: 2188057F, Key: ApplyFilters, Value: Apply Selection
+Hash: AEF0204B, Key: FilterByRegionAndLabels, Value: Filter
+Hash: 5E04B1EF, Key: ClanSettings, Value: Manage Clan
+Hash: C149F1BE, Key: ClanChat, Value: Chat
+Hash: DAA74EF9, Key: MessageOfTheDay, Value: Message Of The Day
+Hash: FB3FBCC1, Key: PendingRequests, Value: Pending Requests
+Hash: 41AA30F4, Key: Clan_Tab_MetaGame, Value: Overview
+Hash: 3630BC64, Key: Clan_Tab_Newsfeed, Value: Newsfeed
+Hash: C8BA1E72, Key: Clan_Tab_Roster, Value: Roster
+Hash: A743C352, Key: ClanInformation_Edited, Value: Last edited by {c_white}{s1}{/c}.
+Hash: 898B9E84, Key: PlayerAlreadyInClan, Value: This player is already in a clan.
+Hash: 2907AE5C, Key: ClanRecruit, Value: Recruit
+Hash: 52B0FB76, Key: ClanMember, Value: Member
+Hash: 449F2DBC, Key: ClanOfficer, Value: Officer
+Hash: 505546CB, Key: ClanLeader, Value: Leader
+Hash: A21FEC01, Key: InviteError_Permission, Value: You do not have permission to send a clan invite.
+Hash: 62CEF5B2, Key: InviteError_ExistingInvite, Value: That player already has a pending clan invite.
+Hash: 9EE16896, Key: InviteError_General, Value: That player cannot be invited to your clan.
+Hash: 003D932C, Key: Misc, Value: Misc.
+Hash: 71E5978C, Key: JoinRequests, Value: Join Requests
+Hash: 003DFCC1, Key: Name, Value: Name
+Hash: 6C5E362F, Key: JoinRequests_Status, Value: Status
+Hash: A112C685, Key: Pending, Value: Pending
+Hash: 18F256BF, Key: Unread, Value: Unread
+Hash: 00403DBC, Key: Read, Value: Read
+Hash: 6FA5BF14, Key: Application, Value: Application
+Hash: C43D790E, Key: PlayerName, Value: PlayerName
+Hash: FCF6B42F, Key: Invite, Value: Invite
+Hash: 5A3B07ED, Key: InviteError_PlayerBanned, Value: That player is banned from this clan.
+Hash: AC053929, Key: ClanFriends, Value: Friends ({s1}): {s2}
+Hash: BB50EED9, Key: InviteError_PlayerBlocked, Value: That player is blocked.
+Hash: 84CFB9FC, Key: ClanDisbanded, Value: {s1} was disbanded by {s2}
+Hash: 7819A058, Key: SearchResultsNone, Value: No Results Found
+Hash: D5CB8FA4, Key: ClanInformation, Value: Info
+Hash: 06B36244, Key: JoinAClanInstructions, Value: Players may only be a member of one clan at a time.
+Hash: C42B95D0, Key: NotificationLeadTransferConfirm, Value: This will transfer clan leadership to {s1}. 
+
+Are you sure you want to proceed?
+Hash: 0486AA62, Key: NotificationMute, Value: You have been muted in clan voice chat.
+Hash: 16475B2E, Key: NotificationDethroneConfirm, Value: Are you sure you want to take clan leadership from {s1}? They will be demoted to officer.
+Hash: C672BF1D, Key: LeaveClanDialogTitle, Value: Leave the Clan?
+Hash: DF300069, Key: LeaveClanDialogBody, Value: If you leave the clan you will no longer have access to the clan and clan chat.
+Hash: 1F102829, Key: LeaveClanDialogConfirm, Value: Leave Clan
+Hash: DF668D1F, Key: AcceptInvite, Value: Accept
+Hash: 5667700C, Key: ClanIntroTitle, Value: Rise against evil together
+Hash: D5CE9712, Key: JoinClanDescription, Value: Find a clan amongst the forces of Sanctuary. View clan invites and applications.
+Hash: 7F4AA236, Key: CreateClanDescription, Value: Survive and conquer through a clan of your own. 
+Hash: C5D758AD, Key: SearchTab, Value: Search
+Hash: 58D45D68, Key: InvitesAndRequestsTab, Value: Invites & Requests ({s1})
+Hash: D3E78213, Key: RequestsTab, Value: Requests
+Hash: 6DD0359C, Key: RequestToJoin, Value: Request to Join
+Hash: 9172043A, Key: ReportClan, Value: Report Clan
+Hash: F7F1732B, Key: ClanLeaderLabel, Value: Clan Leader
+Hash: 6EA395A5, Key: SearchTipTitle, Value: Choose search criteria
+Hash: 6E8D9044, Key: SearchTipsBody, Value: Note: Players may only be in one Clan at a time. Players may only have 5 active "Pending Join Requests". 
+Hash: AEE989D9, Key: NoResultsFoundBody, Value: Try another search or use different filters
+Hash: BA024BA2, Key: NoCurrentInvites, Value: No current Clan invites
+Hash: 1FB771BE, Key: NoInvitesOrRequestsTitle, Value: No current invites or requests to join a clan
+Hash: C245881F, Key: Controller_RequestToJoin, Value: {icon:button1, 1.8} Request to Join
+Hash: 79E5AD9D, Key: Controller_ReportClan, Value: {icon:button3, 1.8} {c_highlight}(Hold){/c} Report Clan 
+Hash: 2B737653, Key: SortAndFilterDialogTitle, Value: Sort and Filter
+Hash: 305DCD63, Key: SortByLabel, Value: Sort by
+Hash: A456A7C4, Key: LanguageLabel, Value: Language
+Hash: 440E97FC, Key: FilterDialogApply, Value: Apply
+Hash: C97B37FC, Key: FilterDialogCancel, Value: Cancel
+Hash: 228F4E4E, Key: FilterDialogDefaults, Value: Restore Defaults
+Hash: C806778A, Key: ControllerDialogSearch, Value: {icon:button4, 1.8} Search
+Hash: 162732AC, Key: ControllerDialogDefaults, Value: {icon:button3, 1.8} Restore Defaults
+Hash: A2726CDA, Key: ControllerDialogCancel, Value: {icon:button2, 1.8} Cancel
+Hash: 17E5DEBB, Key: RequestDialogTitle, Value: Request to join {s1}
+Hash: 7CD53ACF, Key: RequestDialogNote, Value: Note
+Hash: 4CAE2F72, Key: RequestDialogNotePlaceholder, Value: Add an optional note to the clan leader
+Hash: 5B7A4287, Key: RequestModalBack, Value: Back
+Hash: 278771CE, Key: ControllerRequestDialogBack, Value: {icon:button2, 1.8} Back
+Hash: 8AD80E6C, Key: NotificationRequestSentTitle, Value: Request Sent
+Hash: 1B7121D8, Key: NotificationRequestSentBody, Value: The clan leader of {s1} has received your request
+Hash: E234646B, Key: ListInviteLabel, Value: You have been invited to
+Hash: 03F0E3A5, Key: ListRequestLabel, Value: You requested to join
+Hash: 08550802, Key: ControllerWithdrawApplication, Value: {icon:button3, 1.8} Withdraw Application
+Hash: ABFFBBE3, Key: ControllerAcceptInvite, Value: {icon:button1, 1.8} Accept
+Hash: 9F366567, Key: ControllerDeclineInvite, Value: {icon:button3, 1.8} Decline
+Hash: 54462CB2, Key: ClanMembersAndDateCreated, Value:  {c:FFbf6a2f}{s1} member(s){/c} • Created {s2}
+Hash: 30C2095C, Key: TagLabel, Value: <{s1}>
+Hash: A53BEEE5, Key: NumOfFriendsInClan, Value: {s1} friend(s) in this clan
+Hash: 80B33147, Key: ClanLeaderWithLabel, Value: Clan Leader: {s1}
+Hash: 144EB178, Key: FiltersAppliedLabel, Value: Filters: {s1}
+Hash: BCFA0DF1, Key: JoinRequestsWithCount, Value: Join Requests ({s1})
+Hash: DFBA2424, Key: LanguageOption_Any, Value: Any
+Hash: 9174C015, Key: LeaveClanLastMemberDialogBody, Value: Leaving the clan when there are no other members will disband the clan.
+Hash: 2662FAAC, Key: LeaveClanAsLeader, Value: Leaving will pass clan leader to the most veteran and highest ranking member of the clan.
+Hash: 9D005A06, Key: LanguageSelectOne, Value: Language (Select 1)
+Hash: 604319B0, Key: WithdrawApplicationDialogTitle, Value: Withdraw application?
+Hash: 9645D49C, Key: WithdrawApplicationDialogBody, Value: Withdrawing your application does not stop you from applying again later.
+Hash: 94380A71, Key: AcceptInviteDialogTitle, Value: Accept Invite?
+Hash: 710F313D, Key: AcceptInviteDialogBody, Value: You have been invited to become part of the {s1} clan.
+Hash: A25C4756, Key: WithdrawDialogButton, Value: Withdraw
+Hash: 48E7D9A4, Key: ApplyError_PlayerBanned, Value: You are banned from this clan.
+Hash: 0C14B8DA, Key: ClanDisbandNotification, Value: Your clan has been disbanded.
+Hash: 8F529B6D, Key: ClanBannedNotification, Value: You have been banned from your clan.
+Hash: 14C9F4B0, Key: ClanKickedNotification, Value: You have been kicked from your clan.
+Hash: B858C413, Key: DisbandClan, Value: Disband Clan
+Hash: F4827744, Key: ClanDetails, Value: Clan Details
+Hash: 0D707410, Key: LoadingResults, Value: Loading Results
+Hash: E68BC566, Key: ControllerRequestDialogRequest, Value: {icon:button4, 1.8} Request to Join
+Hash: D81963CD, Key: AcceptedApplication, Value: Your application was accepted
+Hash: 265F706D, Key: BackButton, Value: Back
+Hash: 9A86AB33, Key: NumClanOnline, Value: {s1}/{s2}
+Hash: 003881DE, Key: Date, Value: Date
+Hash: 0041AD82, Key: Type, Value: Type
+Hash: C16A12FA, Key: PlayerID, Value: Player ID
+Hash: 497F86E9, Key: AcceptJoinRequest, Value: Accept
+Hash: 328B4099, Key: WithdrawInvite, Value: Withdraw Invite
+Hash: B7C2023C, Key: NoInvitesOrRequests, Value: No current invites or requests
+Hash: 3100D37C, Key: AppliedOn, Value: Applied on {s1}
+Hash: 5A30EF43, Key: DeclineAndReport, Value: Decline & Report
+Hash: CB349DBE, Key: WithdrawApplication, Value: Withdraw Application
+Hash: C30F9A6D, Key: DeclineJoinRequest, Value: Decline
+Hash: CA68BEF9, Key: DeclineInvitation, Value: Decline
+Hash: 3992AE04, Key: AcceptApplication, Value: Accept
+Hash: 1C0F0BF5, Key: AcceptInvitation, Value: Accept
+Hash: B322C188, Key: DeclineApplication, Value: Decline
+Hash: 10F4EC6F, Key: WithdrawInvitation, Value: Withdraw Invite
+Hash: A1232D37, Key: InviteFromApplication, Value: Invite (from application)
+Hash: 5EA4E0FD, Key: ExpiresOn, Value: Expires in {s1}
+Hash: D2A5ABCE, Key: InvitedOnDate, Value: Invited {s1}
+Hash: F24851A2, Key: InvitationExpiresOn, Value:  (Expires in {s1})
+Hash: A42EB35A, Key: AppliedOnDate, Value: You requested to join on {s1}
+Hash: 392B02FB, Key: InvitedFromApplication, Value: Your application to join was successful.
+Hash: 389C9787, Key: ClanHeraldry_Edited, Value: Last edited by {c_white}{s1}{/c}.
+Hash: 7E7310F7, Key: ReportContent, Value: Report Content
+Hash: 0D010E3E, Key: LastEditedBy, Value: Last edited by
+Hash: B491A169, Key: MOTD_LastUpdatedBy, Value: Last edited by {c_white}{s1}{/c}
+Hash: 955D5FA2, Key: InfoLastUpdatedBy, Value: Last edited by {c_white}{s1}{/c}
+Hash: 35C6AF82, Key: NameLoadingPlaceholder, Value: ...
+Hash: E57FC64F, Key: CharacterUnderMin, Value: 4 or more characters required
+Hash: 3C1AEBB5, Key: TempClanName, Value: Clan {s1}
+Hash: 2473A92D, Key: ClanNameFlaggedAcknowledge, Value: Acknowledge
+Hash: 85E3D183, Key: ClanNamerFlaggedAcknowledgeController, Value: {icon:button1, 2.0} Acknowledge
+Hash: 097113CB, Key: ClanContentFlaggedAcknowledgeController, Value: {icon:button1, 2.0} Acknowledge
+Hash: 10198CAB, Key: ClanNameFlaggedTitle, Value: Rename Clan
+Hash: CB6D4775, Key: JoinRequestButton, Value: Request
+Hash: B6E145FE, Key: JoinRequestText, Value: If the clan leader accepts your application, you will be sent an invitation to join.
+Hash: 3FEBDCD4, Key: ClanVoiceChat, Value: Voice
+Hash: FC1DDE63, Key: ClanContentFlagged, Value: The clan {c_highlight}{s1}{/c} was flagged as inappropriate. It has been cleared.
+Hash: 8334B6BB, Key: ClanContentFlagged2ndOffenseBody, Value: The clan {c_highlight}{s1}{/c} was flagged as inappropriate. It has been cleared.
+
+This is your {c_highlight}second time{/c} having your clan content flagged. The next time this happens the content will automatically be reset and you not be allowed to generate content for any clan going forward.
+Hash: 7B13FA91, Key: ClanContentFlaggedBody, Value: The clan {c_highlight}{s1}{/c} was flagged as inappropriate. A default has been applied.
+Hash: 67E2AE71, Key: ClanContentFlaggedFinalOffenceBody, Value: The clan {c_highlight}{s1}{/c} was flagged as inappropriate. A default has been applied.
+
+This is your {c_highlight}third time{/c} having your clan content flagged. You are no longer allowed to generate content for any clan going forward.
+
+Other clan leadership can still update the content in the clan.
+Hash: DED5FE45, Key: ClanContentFlaggedTitle, Value: Clan Content Flagged
+Hash: 6390C3A3, Key: ClanHeraldryFlagged, Value: The clan heraldry was flagged as inappropriate. A default heraldry has been applied.
+Hash: 92CF5509, Key: ClanNameFlagged, Value: Your {c_highlight}clan name{/c} has been flagged as inappropiate. A temporary name has been applied.
+Hash: 233B4DD1, Key: ClanNameFlagged2ndOffenceBody, Value: Your {c_highlight}clan name{/c} "{s1}" has been flagged as inappropriate and must be changed. 
+
+This is the {c_highlight}second time{/c} your clan name has been flagged. If it is reported again you will be forced to select a randomized clan name going forward.
+Hash: 07771B46, Key: ClanNameFlaggedAsOffender, Value: Your {c_highlight}clan name{/c} "{s1}" has been flagged as inappropriate and must be changed.
+Hash: 654C5437, Key: ClanNameFlaggedBody, Value: Your {c_highlight}clan name{/c} "{s1}" has been flagged as inappropriate and must be changed. The clan name was last updated by {s2}.
+Hash: AF2041E9, Key: ClanNameFlaggedFinalOffence, Value: Your {c_highlight}clan name{/c} has been flagged as inappropiate. A generic name has been applied.
+Hash: E808B117, Key: ClanNameFlaggedFinalOffenceBody, Value: Your {c_highlight}clan name{/c} "{s1}" has been flagged as inappropriate and has been replaced. 
+
+This is the {c_highlight}third time{/c} having clan name has been flagged. You are only able to have {c_highlight}randomized clan names{/c} going forward.
+
+If the clan leader changes, they will be able to update the name.
+Hash: 892BD1BC, Key: ClanMotdFlagged, Value: The clan's {c_highlight}message of the day{/c} has been flagged as inappropriate. The message has been reset.
+Hash: 39D933B7, Key: ClanNoneSelected, Value: Select a clan to see its details.
+Hash: 3ABE8232, Key: ClanNoneSelected_Requests, Value: Select a request to see its details.
+Hash: 1B192CD2, Key: ClanFullName, Value: <{s1}> {s2}
+Hash: B25317E8, Key: ClanVoiceChatPermissionTooltip, Value: You do not have permission to join this Clan's voice chat.
+Hash: 5B61FABB, Key: EditBoxCharacterLimit, Value: Character Limit {s1}
+Hash: B89FB9A4, Key: MoreActions, Value: More Actions
+Hash: E5825F39, Key: LastOnline, Value: Last online {s1} |4day ago:days ago
+Hash: 89EA135A, Key: AlreadyMember, Value: You are also a member of this clan
+Hash: 878E5EAF, Key: AlreadyLeader, Value: You are the leader of this clan
+Hash: 6D359839, Key: ViewClan, Value: View Clan Profile
+Hash: B35203BD, Key: ClanViewConsoleProfile, Value: View Console Profile
+Hash: 8FA10F54, Key: LastOnline_UnderHour, Value: Last online less than an hour ago
+Hash: 64780D09, Key: LastOnline_Hours, Value: Last online {s1} |4hour ago:hours ago
+Hash: C318C9EF, Key: LastOnline_MaxDays, Value: Last online more than a month ago

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Symbiotic
+Hash: 003892BF, Key: Desc, Value: When the {c_important}Nature's Fury{/c} Key Passive triggers a free Skill, your non-{c_important}Ultimate{/c} Cooldowns of the opposite type are reduced by {c_random}[Affix_Value_1|1|]{/c} seconds.

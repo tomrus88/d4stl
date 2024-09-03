@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: More Legendary Items
+Hash: EEB7912D, Key: AffixDesc, Value: More Legendary Items drop from end rewards.

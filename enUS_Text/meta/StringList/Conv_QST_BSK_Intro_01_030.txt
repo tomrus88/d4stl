@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do not make me regret this."
+Hash: 48BED86E, Key: Line11.1BCB9E, Value: Ha! I speak the truth, you’ll see! The Triune are gathered at Rakhat Keep. (sharp breath) I am with you.
+Hash: 9FBA7DDB, Key: VoiceDir11.1BCB9E, Value: Deep relief. Excited. Determined.

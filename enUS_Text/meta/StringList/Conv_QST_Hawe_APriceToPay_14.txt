@@ -1,0 +1,2 @@
+Hash: 5D6A30AD, Key: Line1.F53E3, Value: Not here. Follow me.
+Hash: CC7396DA, Key: VoiceDir1.F53E3, Value: whispered, you don't want to get caught.

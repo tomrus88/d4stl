@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Vardok’s note
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Vardok’s Note
+Hash: 5D72A9E7, Key: Line1.EDCC1, Value: Rutkah,
+We raid for flesh at the new moon. Go to the cells and gather. If the new ones are weak, feed them to the maggots.
+Hash: F7672369, Key: Line3.EDCC1, Value: We need more meat.
+-Vardok

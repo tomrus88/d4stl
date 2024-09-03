@@ -1,0 +1,2 @@
+Hash: 1970B898, Key: Buff5_Name, Value: Ravenous
+Hash: B503239B, Key: Buff5_Description, Value: Energy Regeneration increased by {c_number}[SF_0 * 100|%x|]{/c} from killing a {c_important}{u}Vulnerable{/u}{/c} enemy.

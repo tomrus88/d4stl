@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: First Among Wolves
+Hash: 003892BF, Key: Desc, Value: Complete the First Among Wolves questline in Scosglen.
+Hash: 3DA554C5, Key: Crit_236063, Value: First Among Wolves
+Hash: 3DA554C6, Key: Crit_236064, Value: The Snare
+Hash: 3DA554C7, Key: Crit_236065, Value: With Fangs Bared

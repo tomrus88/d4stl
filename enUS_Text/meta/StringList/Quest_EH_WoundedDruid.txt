@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Wounded Druid
+Hash: E9B1E11B, Key: Callback50Header, Value: Enter {EVENT_LEVELAREA}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Event Complete
+Hash: 36A5F933, Key: Callback157Header, Value: Guide all spirit animals: {DONE_OVER_NEEDED}
+Hash: 4318BAA2, Key: Callback75Header, Value: Slay the enemies attacking the Wounded Druid
+Hash: FB719C7F, Key: Callback81Header, Value: Speak to the Wounded Druid
+Hash: B590DDE6, Key: Callback97Header, Value: Escort the Turtle Spirit before time runs out
+Hash: D298E270, Key: Callback118Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: 7733992E, Key: Callback134Header, Value: Escort the Fox Spirit before time runs out
+Hash: 7C86B7CC, Key: Callback141Header, Value: Escort the Deer Spirit before time runs out

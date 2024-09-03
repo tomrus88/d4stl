@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Some say that hags and demons, who call these swamps home, will teach their dark arts to a sorcerer willing to undertake their morbid rituals.
+Hash: 003DFCC1, Key: Name, Value: Astral Groundings
+Hash: 13A53A8B, Key: Series, Value: "Heretic Ritual"

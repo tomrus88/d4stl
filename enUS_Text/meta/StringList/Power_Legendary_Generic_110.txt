@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Accelerating
+Hash: 7786FD97, Key: Buff1_Description, Value: Attack Speed increased by Critical Strikes with {c_important}Core{/c} Skills.

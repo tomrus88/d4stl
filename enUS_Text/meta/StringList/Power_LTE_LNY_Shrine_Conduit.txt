@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: Conduit
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_green}{Cooldown Time}{/c}
+You become lightning incarnate. While in this form, you are {c_white}Immune{/c}, enemies around you are continually shocked for {c_yellow}{payload:ZAP_DAMAGE}{/c} and you can surge quickly between locations.
+Hash: F2DE8628, Key: simple_desc, Value: Ultimate Skill: You become lightning incarnate, making you an invulnerable, lightning-fast threat.
+Hash: F2D5722F, Key: rankup_desc, Value: Damage increased to {c_yellow}{payload:ZAP_DAMAGE}{/c}.
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Conduit Shrine
+Hash: 2827F416, Key: Buff0_Description, Value: You can shock and surge through enemies. Summon frequent, powerful shocking strikes.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hunter's Whisper
+Hash: 3A4912CF, Key: DescShort, Value: Complete Whispers, available after reaching a certain point in or completing the Campaign

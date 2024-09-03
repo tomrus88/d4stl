@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Thorns
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monsters reflect 8% of damage.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monsters reflect 6% of damage.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monsters reflect 4% of damage.

@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Hell Beckons
+Hash: 3D08DF31, Key: 0_instruction, Value: Istel's story is complete. Now seek out Locran to face the {c_highlight}Infernal Hordes{/c}.
+Hash: DBC6F233, Key: 2_instruction, Value: Continue collecting {c_highlight}Mother's Gifts{/c} for great rewards!

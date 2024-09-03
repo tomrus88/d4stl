@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “You’re saying she has plans beyond protecting humanity?”
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: I’m saying it’s impossible to know. She can peer into hearts. Tell us what we want to hear. You’ve seen it with Donan, Elias, and others.
+Hash: F413C4CC, Key: Line3.6D03F, Value: To trust her would mean gambling with the fate of all humankind. Not a risk I’m willing to take.

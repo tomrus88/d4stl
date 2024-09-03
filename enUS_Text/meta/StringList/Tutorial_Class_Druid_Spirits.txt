@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Spirits
+Hash: 7BFE534B, Key: simple_instruction, Value: Talk to each spirit and give them offerings to {c_highlight}unlock powerful druid boons{/c}.

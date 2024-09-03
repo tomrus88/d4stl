@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Blackjade
+Hash: A646FFA4, Key: Description, Value: Rumored to be crafted from the carcass of the infamous succubus Blackjade, many have donned the terrifying garment believing it to grant the powers of seduction.
+Hash: 083EE0CE, Key: Quote, Value: The demon-flesh of temptation.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

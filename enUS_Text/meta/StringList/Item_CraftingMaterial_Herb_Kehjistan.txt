@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Lifesbane
+Hash: A646FFA4, Key: Description, Value: An herb used in the crafting of potions, elixirs & incense. Found in Kehjistan.
+Hash: F5C7BC0A, Key: Flavor, Value: A native Kehjistani berry with an eerie face, prized by alchemists for its potent toxins and soporific effects.

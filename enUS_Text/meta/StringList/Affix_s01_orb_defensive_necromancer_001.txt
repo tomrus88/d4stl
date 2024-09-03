@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Decrepit Aura
+Hash: 003892BF, Key: Desc, Value: When at least {c_number}[Affix_Value_1]{/c} enemies are near you, gain an aura that automatically curses surrounding enemies with {c_important}Decrepify{/c} for {c_random}[Affix_Value_2]{/c} seconds.

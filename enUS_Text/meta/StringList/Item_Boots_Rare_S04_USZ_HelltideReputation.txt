@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolves Messenger Boots
+Hash: F5C7BC0A, Key: Flavor, Value: Lightweight treads worn while rallying forces against the Helltide.

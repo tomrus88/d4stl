@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Skeleton Destroyer
+Hash: 003892BF, Key: Desc, Value: Slay 5000 Skeletons.

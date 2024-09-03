@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Kauller?"
+Hash: 5D22EA2D, Key: Line1.B757A, Value: The beast stands atop a mound of gore... Our Chieftain has forbidden any further attempts from our warriors to claim the kill.
+Hash: CC2C505A, Key: VoiceDir1.B757A, Value: Prideful and strong, disgust for the beast

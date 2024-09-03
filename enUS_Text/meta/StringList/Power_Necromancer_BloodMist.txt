@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Blood Mist
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:14}|%|]{/c}
+{/if}Disperse into a bloody mist, becoming {c_important}{u}Immune{/u}{/c} for {c_number}{buffduration:MISTFORM}{/c} seconds. You periodically deal {c_number}{payload:DAMAGE}{/c} damage to enemies and Heal for {c_number}[{SF_3} * 100|1%|]{/c} of your Maximum Life {c_number}([Max(1,PlayerHealthMax() * SF_3)|0|]){/c} .
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Healing {icon:arrow,1.2} {c_number}[{SF_3} * 100|1%|]{/c} Life
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds
+Hash: A99E3406, Key: Buff12_Name, Value: Dreadful Blood Mist
+Hash: D621B749, Key: Buff12_Description, Value: Critical Strike Chance increased.
+Hash: D618A933, Key: Mod0_Description, Value: Casting a Skill that {c_important}{u}Overpowers{/u}{/c} reduces the cooldown of {c_important}Blood Mist{/c} by {c_number}[{SF_13}]{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Blood Mist
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Blood Mist{/c} leaves behind a Corpse every {c_number}{SF_10}{/c} second.
+Hash: 948901D1, Key: Mod1_Name, Value: Ghastly Blood Mist
+Hash: 74D6BC35, Key: Mod2_Description, Value: You gain {c_important}[SF_19 * 100|%+|]{/c} Critical Strike Chance for {c_number}{SF_20}{/c} seconds after {c_important}Blood Mist{/c} ends.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Dreadful Blood Mist

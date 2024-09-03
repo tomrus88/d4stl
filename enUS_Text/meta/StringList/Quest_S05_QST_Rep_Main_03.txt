@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Sins of the Willing
+Hash: 0871A46B, Key: Toast, Value: Istel has made a discovery that may turn the Tides.
+Hash: D53BFF05, Key: Phase0Description, Value: I've cut my way through countless demons and taken the Mother's Gift from them. I should seek Istel back in Zarbinzet and see what she's learned about the Burning Aether.
+Hash: 1EADAE68, Key: Callback2Header, Value: Return to Istel in Zarbinzet
+Hash: C9FCD1EA, Key: Phase5Description, Value: Apparently, Istel has learned how to harness the Burning Aether. She has asked that I meet her back at her house, where she will perform the needful ritual. Something feels off.
+Hash: B8A227EA, Key: Callback4Header, Value: Meet Istel in the House of the Family

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Old Crinkled Letter
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Old Crinkled Letter
+Hash: 5D72A9ED, Key: Line1.EDCC7, Value: Captain Rakin, I have new orders for you. Abandon your post, effective immediately. We need extra swords at the borders of Guulhan. I know you and your soldiers must be eager to see the sunlight again.
+Hash: F767236F, Key: Line3.EDCC7, Value: As for your current duties, seal up the prison. I know the stories. Let them rot in their cages and darkness. If they wanted to be treated like humans, they wouldn’t have lived like animals. Perhaps we will teach them a lesson that they’ll carry into the next life.   
+-Regards, Commander Finbar

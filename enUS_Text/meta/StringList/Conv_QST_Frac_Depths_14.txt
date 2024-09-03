@@ -1,0 +1,5 @@
+Hash: F779CF43, Key: Line3.FEF63, Value: Vasek, just stay calm. Will you say the litanies with me?
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: Pronounciation: Vah-Seck. Trying to talk a desperate and unstable man off the ledge. Calm, slow and steady tone of voice.
+Hash: 3FE2789A, Key: Line5.1298F5, Value: No! No! Stay away!
+Hash: 9018A467, Key: VoiceDir5.1298F5, Value: Terrified, in horrific pain.
+Hash: 2B62C247, Key: Line7.FEF63, Value: Everything is going to be all right.

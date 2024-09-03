@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Blood-streaked Diary
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Blood-streaked Diary
+Hash: 5D3B086B, Key: Line1.BC3FF, Value: Same dream as always. Serpent eyes in the darkness. Shadow slithering through the grass. I shed the skin from this old dying form. Then I am adorned in scales. Free from pain.
+Hash: CC446E98, Key: VoiceDir1.BC3FF, Value: Feverish. Maddened.
+Hash: F72F81ED, Key: Line3.BC3FF, Value: In the scales are reflected faces I know. Villagers who scorned me. Cursed me. Laughed at me. Tongues flick in the darkness. Hear their words in my thoughts.
+Hash: 9123FB6F, Key: Line5.BC3FF, Value: Each life is a sacrifice for us. Each life is a scale for your rebirth. 
+
+I awaken, and a snake is at my feet. Waiting.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Army of Bones
+Hash: 003892BF, Key: Desc, Value: Summon 100 Skeleton Mages or Warriors as a Necromancer.

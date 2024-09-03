@@ -1,0 +1,7 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Soggy Letter
+Hash: 5D72A441, Key: Line1.EDC77, Value: Dear Brother,  
+
+I’m calling in a family favor. We’ve got a spider problem on the farm, and the wife will have my head if I don’t see to it. I reckon there’s a nest somewhere abouts.
+Hash: CC7C0A6E, Key: VoiceDir1.EDC77, Value: Annoyed. Grumbling.
+Hash: F7671DC3, Key: Line3.EDC77, Value: Round up those idiot cousins of ours and bring a jug of rotgut. I won’t do this sober.
+Hash: 667083F0, Key: VoiceDir3.EDC77, Value: Annoyed. Grumbling.

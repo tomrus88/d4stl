@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Fractured Peaks
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Neyrelle...she came seeking the Horadrim of legend. Seeking hope.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: She found neither, but her part in things was far from over.
+Hash: C1F13152, Key: Line9.6D03F, Value: In truth, we would need her more than she needed us.
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Didn’t seem that way at the time, though--for anyone.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Inarius proved to be just as unreliable as I had feared.
+Hash: A313225F, Key: Line15.6D03F, Value: His self-obsession had driven him to murder his son, Rathma.
+Hash: 3D079BE1, Key: Line17.6D03F, Value: And from the corpse left behind, Lilith had taken a key to Hell. Where would she use it?
+Hash: D6FC1563, Key: Line19.6D03F, Value: We could only depend on ourselves to find out.

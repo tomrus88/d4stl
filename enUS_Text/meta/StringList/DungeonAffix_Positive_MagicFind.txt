@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_bonus}Magic Find{/c}
+Hash: EEB7912D, Key: AffixDesc, Value: You find more items from enemies. 

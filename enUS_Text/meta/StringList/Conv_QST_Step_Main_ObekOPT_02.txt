@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Who were the Overseers?”
+Hash: 5A1FE05B, Key: Line1.6E261, Value: Royal blood. Ruled Guulrahn for generations. Decadent and cruel, but they were saints compared to Brol.

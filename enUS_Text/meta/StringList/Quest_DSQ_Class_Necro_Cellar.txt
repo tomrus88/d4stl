@@ -1,0 +1,10 @@
+Hash: D53BFF05, Key: Phase0Description, Value: The Necromancer Maltorius would teach me to craft a Golem. I need to open this Jar of Souls to draw in wandering souls. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Open the Jar of Souls
+Hash: C9FCD1EA, Key: Phase5Description, Value: The Necromancer Maltorius would teach me to craft a Golem. I must harvest wandering souls to give my Golem a mind and a will. 
+Hash: B8A227EA, Key: Callback4Header, Value: Fill the Jar of Souls
+Hash: 61CFD437, Key: Phase11Description, Value: I am ready. I have the bones to form my Golems body, and the souls for its mind. I should speak with the Necromancer Maltorius.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Maltorius
+Hash: F4A9EC5A, Key: Phase14Description, Value: The Necromancer Maltorius would teach me to craft a Golem. I must harvest wandering souls to give my Golem a mind and a will. 
+Hash: 0687FA1D, Key: Callback16Header, Value: Fill the Jar of Souls
+Hash: 8784047D, Key: Phase17Description, Value: The Necromancer Maltorius would teach me to craft a Golem. I must harvest wandering souls to give my Golem a mind and a will. 
+Hash: ED76B060, Key: Callback19Header, Value: Fill the Jar of Souls

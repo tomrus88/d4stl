@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Vigo, I have done as you asked."
+Hash: 5A202CB1, Key: Line1.6DE47, Value: So I like playing cards. Doesn’t make me a sinner.
+Hash: 3D087D48, Key: Line17.6DE47, Value: But that bribe...good soldiers died on account of what I did.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: Is that the kind of man I am? The kind I’ll always be?
+Hash: D6FCF6CA, Key: Line19.6DE47, Value: I just...damn it. I’m praying. Why isn’t this working?
+Hash: 5B6CE5A3, Key: Line21.6DE47, Value: Ah, you made it! That makes one of us, at least.
+Hash: B2324D17, Key: Line23.BAE4, Value: You heard from Prava?
+Hash: 091F8A44, Key: Line13.6DE47, Value: I will, soon. But enough about that. You're about to meet Father Inarius himself!
+Hash: A31403C6, Key: Line15.6DE47, Value: Not everyone comes back, you know. You better. I owe you a stiff drink.

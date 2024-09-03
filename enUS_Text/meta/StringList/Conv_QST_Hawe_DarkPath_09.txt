@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why did you attack me!?"
+Hash: 8EE1287E, Key: Line1.11E7B7, Value: We have been tortured... tormented... for weeks.
+Hash: 676555F8, Key: Line3.11F5A1, Value: Ever since that man... infected us with nightmares. With evil.
+Hash: B79B81C5, Key: VoiceDir3.11F5A1, Value: Emphasis on 'man'. 
+Hash: E2468CE9, Key: Line7.BAE4, Value: This man... was he a swordsman? With a companion?
+Hash: 3FE8FFE0, Key: Line5.11F5B6, Value: Yes! Yes! With only one eye! His companion was better company...

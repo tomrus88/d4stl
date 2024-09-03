@@ -1,0 +1,56 @@
+Hash: 003A6186, Key: Gold, Value: {s1} Gold
+Hash: D56960C1, Key: PvP Currency, Value: {s1} |4Seed:Seeds of Hatred
+Hash: 956224CC, Key: Gambling Currency, Value: {s1} Murmuring |4Obol:Obols
+Hash: B6B2C4AE, Key: Common Leather, Value: {s1} Rawhide
+Hash: 0ACF6AAF, Key: Rare Leather, Value: {s1} Superior Leather
+Hash: E80867CA, Key: Common Herb, Value: {s1} Bundled Herbs
+Hash: 99E1E56B, Key: Rare Herb, Value: {s1} Angelbreath
+Hash: F585647A, Key: Super Rare Herb, Value: {s1} Fiend Rose
+Hash: 2566B25F, Key: Scosglen Herb, Value: {s1} Howler Moss
+Hash: 38FD6D95, Key: Fractured Peaks Herb, Value: {s1} Biteberry
+Hash: 2C060EB4, Key: Dry Steppes Herb, Value: {s1} Reddamine
+Hash: 0F9B0D13, Key: Hawezar Herb, Value: {s1} Blightshade
+Hash: 678EE102, Key: Kehjistan Herb, Value: {s1} Lifesbane
+Hash: 7B6539CF, Key: Common Ore, Value: {s1} Iron |4Chunk:Chunks
+Hash: 71450750, Key: Rare Ore, Value: {s1} Silver Ore
+Hash: 6CFF8B94, Key: Rare Scattered Prism, Value: {s1} Scattered |4Prism:Prisms
+Hash: 1FA7ABE7, Key: Demon Heart, Value: {s1} Demon's |4Heart:Hearts
+Hash: EC21938B, Key: Human Tongue, Value: {s1} Paletongue
+Hash: 7D0F1F11, Key: Undead Dust, Value: {s1} Grave Dust
+Hash: 25FD7427, Key: Wildlife Bones, Value: {s1} Crushed Beast Bones
+Hash: 1D1A7A2D, Key: Rare Salvage, Value: {s1} Veiled |4Crystal:Crystals
+Hash: D26EF79F, Key: Legendary Armor Salvage, Value: {s1} Coiling |4Ward:Wards
+Hash: E9947120, Key: Legendary Jewelry Salvage, Value: {s1} Abstruse |4Sigil:Sigils
+Hash: 91AC6B28, Key: Legendary Weapon Salvage, Value: {s1} Baleful |4Fragment:Fragments
+Hash: 438F8616, Key: Helltide Currency, Value: {s1} Aberrant |4Cinder:Cinders
+Hash: 1E74F170, Key: Sacred Legendary Salvage, Value: {s1} Forgotten |4Soul:Souls
+Hash: 3771B31B, Key: Sigil Salvage, Value: {s1} Sigil Powder
+Hash: 014107B4, Key: Malignant Defensive, Value: {s1} Brutal Malignant Ichor
+Hash: 2817932F, Key: Malignant Utility, Value: {s1} Devious Malignant Ichor
+Hash: EEDBB7A0, Key: Malignant Offensive, Value: {s1} Vicious Malignant Ichor
+Hash: 0F3E92F4, Key: Hibernal Solstice Common, Value: {s1} Blighted |4Fragment:Fragments
+Hash: 11A56777, Key: Hibernal Solstice Uncommon, Value: {s1} Lost |4Heirloom:Heirlooms
+Hash: 229A0935, Key: Hibernal Solstice Rare, Value: Red-Cloaked Trophy
+Hash: F058735E, Key: Hibernal Proofs, Value: {s1} Midwinter |4Proof:Proofs
+Hash: 8293AD7F, Key: Blood Seal Upgrade Mat, Value: {s1} Potent Blood
+Hash: 16690FF1, Key: Ruby Material, Value: {s1} Ruby |4Fragment:Fragments
+Hash: DADF5AA9, Key: Emerald Material, Value: {s1} Emerald |4Fragment:Fragments
+Hash: 7FB8ED8B, Key: Diamond Material, Value: {s1} Diamond |4Fragment:Fragments
+Hash: A2EB875E, Key: Amethyst Material, Value: {s1} Amethyst |4Fragment:Fragments
+Hash: 8B53195D, Key: Topaz Material, Value: {s1} Topaz |4Fragment:Fragments
+Hash: A99F696B, Key: Sapphire Material, Value: {s1} Sapphire |4Fragment:Fragments
+Hash: 89BF669A, Key: Skull Material, Value: {s1} Skull |4Fragment:Fragments
+Hash: 6D5B0908, Key: Blood Lure, Value: {s1} Blood |4Lure:Lure
+Hash: 1C237A68, Key: Seeker Key, Value: {s1} Seeker |4Key:Key
+Hash: C89008C2, Key: Unearthed Machinations Lightning, Value: {s1} Elemental |4Core:Cores
+Hash: B60E9B1E, Key: Construct Debris, Value: {s1} Shattered  |4Stone:Stones
+Hash: 8D01E144, Key: Unearthed Machinations Fire, Value: {s1} Igneous |4Core:Cores
+Hash: 8D0054E0, Key: Unearthed Machinations Cold, Value: {s1} Gelid |4Core:Cores
+Hash: 12C20867, Key: Cryptic Stone, Value: {s1} |4Pearl of Warding:Pearls of Warding
+Hash: C1A59769, Key: Astral Titanite, Value: {s1} Resplendent |4Spark:Sparks
+Hash: A6725ECD, Key: Masterworking Material 1, Value: {s1} Obducite
+Hash: A6725ECE, Key: Masterworking Material 2, Value: {s1} Ingolith
+Hash: A6725ECF, Key: Masterworking Material 3, Value: {s1} Neathiron
+Hash: 83FBCDBD, Key: The Pit Material, Value: {s1} |4Runeshard:Runeshards
+Hash: 06CF966E, Key: Helltide Boss Summoning Material, Value: {s1} Baneful |4Heart:Hearts
+Hash: EEDBDEDE, Key: Infernal Material, Value: {s1} Aethereal |4Ash:Ashes

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ayuzhan Bark
+Hash: 18E96351, Key: Line7.18AEA4, Value: The Vizjerei were a great stain on mage clan history. They brought demons to this world, thought they could control them.
+Hash: F16D0D13, Key: Line9.18AEA4, Value: They were wrong.

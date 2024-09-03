@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: When you cast an {c_important}Agility{/c} Skill, you deal {c_number}[{SF_2}*100|x%|]{/c} increased damage and gain {c_number}[{SF_0}*100|x%|]{/c} increased Energy Regeneration for {c_number}[{SF_1}]{/c} seconds.
+Hash: 101C1614, Key: Buff1_Name, Value: Glyph: Fluidity
+Hash: 7786FD97, Key: Buff1_Description, Value: {c_number}[{SF_2}*100|x%|]{/c} increased damage and {c_number}[{SF_0}*100|x%|]{/c} bonus Energy Regeneration after casting an {c_important}Agility{/c} Skill.

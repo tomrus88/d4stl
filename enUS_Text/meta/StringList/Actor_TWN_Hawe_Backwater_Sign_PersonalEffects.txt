@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Piles of Personal Effects
+Hash: F2CA04D8, Key: NoticeSignText, Value: Tools, weapons, and clothes are of little use to the dead. Folks take as they please from these piles.

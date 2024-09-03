@@ -1,0 +1,14 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you need something from me?"
+Hash: 3D2CA9A1, Key: Line17.8DD12, Value: Welcome, savior. You’ve stopped Lilith—freed Sanctuary of its supposed shackles. I’m sure it’s everything you were hoping for...congratulations.
+Hash: 8D62D56E, Key: VoiceDir17.8DD12, Value: Dripping with sarcasm and mockery. Emphasis on "savior."
+Hash: C50467BD, Key: Line9.C1CD3, Value: Shut up, wretch.
+Hash: 2B0FEE3A, Key: Line7.C1CD2, Value: Always so talkative, new flesh.
+Hash: 911B74B6, Key: Line5.C1CD0, Value: Wanderer, why are you here? Come to strike a deal?
+Hash: 7337041C, Key: Line19.BAE4, Value: My head stays where it is. I’m simply looking for an ally.
+Hash: 723D65C3, Key: Line11.C1CD0, Value: Ally...we might be able to form an arrangement, if it’s not too beneath you.
+Hash: 0C31DF47, Key: Line13.C1CD2, Value: Debts need to be fulfilled. You could claim them.
+Hash: A62658CA, Key: Line15.C1CD3, Value: Yes. Claim their debts. In exchange, we will provide you with power, wealth. Whatever it is you desire.
+Hash: 5E7553A4, Key: Line21.AAAEC, Value: Yes, yes...
+Hash: AEAB7F71, Key: VoiceDir21.AAAEC, Value: All heads in unison.
+Hash: 2C5CA72A, Key: Line27.C1CD0, Value: Meanwhile, you will be the force of “good” curing Sanctuary of its ailments.
+Hash: C65120AE, Key: Line29.C1CD2, Value: Far away in the broken city of Caldeum, there are those indebted to us, demon and man alike. Slay them and claim their debts. The crow will do the rest.

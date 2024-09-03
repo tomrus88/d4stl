@@ -1,0 +1,6 @@
+Hash: 5D59266D, Key: Line1.E723E, Value: Damned bandits are tearing us apart. I can't go out again.
+Hash: CC628C9A, Key: VoiceDir1.E723E, Value: Tired. Anxious. Complaining.
+Hash: F74D9FEC, Key: Line3.E723B, Value: Fine. Just tell my wife I took your shift.
+Hash: 66570619, Key: VoiceDir3.E723B, Value: To Skovina. Shrugging. Apathetic.
+Hash: 91421971, Key: Line5.E723E, Value: You'll die...and she'll kill me.
+Hash: 004B7F9E, Key: VoiceDir5.E723E, Value: Deflated. Depressed. That won't work either...

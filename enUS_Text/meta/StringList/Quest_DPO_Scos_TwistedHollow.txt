@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Our foe is mankind.
+Hash: B8A227EA, Key: Callback4Header, Value: Collect {ITEM} from Animus Carriers
+Hash: C5002A81, Key: Phase57Description, Value: Delve deeper into the cave
+Hash: B78F4DA1, Key: Callback56Header, Value: Travel to the {LEVELAREA}
+Hash: 56D6E5C1, Key: Callback65Header, Value: Interact with {GIZMO}
+Hash: 3DC59C04, Key: Callback68Header, Value: Defeat {MONSTER}
+Hash: 164945C6, Key: Callback88Header, Value: Deposit Animus into {GIZMO}
+Hash: FF68574C, Key: Callback105Header, Value: Return the Stone Carving to the Pedestal: {LEFT}

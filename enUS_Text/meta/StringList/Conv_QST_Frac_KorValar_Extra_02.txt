@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “It looks too large to move.”
+Hash: 2B11D941, Key: Line7.C6308, Value: Faith, rather than flesh, moves the suit. Though, how is only known to a privileged few. The practice has been long abandoned.
+Hash: F728E63D, Key: Line3.C6308, Value: Something big is coming. Holy war. Mark my words. She wouldn’t have asked me to prepare a relic like this otherwise.

@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Encroaching Wrath
+Hash: C6E60718, Key: Buff2_Description, Value: Your next {c_important}Weapon Mastery{/c} Skill deals {c_number}[{SF_1}*100|%|]{/c} increased damage.

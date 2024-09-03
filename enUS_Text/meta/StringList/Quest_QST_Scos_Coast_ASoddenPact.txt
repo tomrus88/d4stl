@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: A Sodden Pact
+Hash: 0871A46B, Key: Toast, Value: A tangled fate returns to a cursed shore.
+Hash: 940CCD20, Key: Phase56Description, Value: Roina showed me victims of the wight on the Abandoned Coast, knotted in damp hair. She says the wight will continue to hunt and claim such victims unless we find its lair.
+
+Roina says we should collect the wight’s hair from its victims. They’re our next step to hunting the fiend.
+Hash: 5183C723, Key: Callback58Header, Value: Collect hair from the Sodden Growths ({DONE}/{NEEDED})
+Hash: 5091BE7E, Key: Phase63Description, Value: Roina and I have collected the wight’s hair from the village. She now wants to scour the beach for any remaining clues to the fiends’ presence here.
+Hash: 56D6E5C1, Key: Callback65Header, Value: Investigate the beach with Roina
+Hash: 45529163, Key: Phase68Description, Value: Roina and I have collected the wight’s hair from the village. She now wants to scour the beach for any remaining clues to the fiends’ presence here.
+Hash: C2358ADD, Key: Callback70Header, Value: Speak with Roina
+Hash: 6EFB6C2C, Key: Phase151Description, Value: Roina has asked me to meet her on the Abandoned Coast in Scosglen to continue tracking down the mysterious creature she calls a "wight."
+Hash: B5C2C96E, Key: Callback152Header, Value: Speak with Roina

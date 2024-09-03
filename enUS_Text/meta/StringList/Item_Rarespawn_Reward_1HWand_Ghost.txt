@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Wand of Abe-Mari
+Hash: F5C7BC0A, Key: Flavor, Value: "So skilled was Abe-Mari at divination, they predicted the date of their own death; a skill that proved so ruinous that no mage since has attempted the feat."
+- Excerpt from Secrets of the Mage-Clans

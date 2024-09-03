@@ -1,0 +1,2 @@
+Hash: 5A3B4CBE, Key: Line1.941B7, Value: Do you know who you are trying to save?
+Hash: C944B2EB, Key: VoiceDir1.941B7, Value: Possessed. Sneering. Mocking the Player's ignorance.

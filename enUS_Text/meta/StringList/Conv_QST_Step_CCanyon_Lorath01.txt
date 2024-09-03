@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What have you found?"
+Hash: 3D079BE1, Key: Line17.6D03F, Value: I had hoped to find a witness who saw Elias. Instead, I have a camp of dead merchants.
+Hash: 8D3DC7AE, Key: VoiceDir17.6D03F, Value: Agitated. Annoyed.
+Hash: A114B2A4, Key: Line56.6D03F, Value: They were slaughtered by demons, that much is plain, but none were summoned here. We should search the canyons.
+Hash: F14ADE71, Key: VoiceDir56.6D03F, Value: Observing, callous. Ready to move on.
+Hash: F1C50B40, Key: Line68.BAE4, Value: Could Elias have summoned these demons?
+Hash: 60CE716D, Key: VoiceDir68.BAE4, Value: Wary. Tense.
+Hash: 8D568785, Key: Line66.6D03F, Value: Easily. And assuming he did, he may still be here.
+Hash: DD8CB352, Key: VoiceDir66.6D03F, Value: Terse. Wary. Elias is not to be trifled with.
+Hash: ABBAEFE0, Key: Line70.6D03F, Value: Stay close to me.
+Hash: FBF11BAD, Key: VoiceDir70.6D03F, Value: Terse. Wary. Elias is not to be trifled with.

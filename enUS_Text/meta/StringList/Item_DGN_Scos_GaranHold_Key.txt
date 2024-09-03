@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Garan's Key
+Hash: A646FFA4, Key: Description, Value: Bound to Garan's Hold
+Hash: F5C7BC0A, Key: Flavor, Value: The master key to all of Garan's Hold. Garan kept the key with him at all times, until he was eaten..

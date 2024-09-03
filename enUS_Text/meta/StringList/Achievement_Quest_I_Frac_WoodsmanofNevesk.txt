@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: The Woodsman of Nevesk
+Hash: 003892BF, Key: Desc, Value: Complete the Woodsman of Nevesk questline in Fractured Peaks.
+Hash: 3DA55488, Key: Crit_236048, Value: The Woodsman of Nevesk
+Hash: 3DA55489, Key: Crit_236049, Value: Chain of Possession
+Hash: 3DA554A1, Key: Crit_236050, Value: Legacy Unmade

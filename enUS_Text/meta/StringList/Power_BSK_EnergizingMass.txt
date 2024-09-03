@@ -1,0 +1,10 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Massive Power
+Hash: C6E60718, Key: Buff2_Description, Value: Unlimited resources.
+Hash: 171B8FF7, Key: Buff4_Name, Value: Massive Power
+Hash: 65A41A1A, Key: Buff4_Description, Value: Unlimited resources.
+Hash: 1BC5E139, Key: Buff6_Name, Value: Massive Power
+Hash: 04622D1C, Key: Buff6_Description, Value: Unlimited resources.
+Hash: 2070327B, Key: Buff8_Name, Value: Massive Power
+Hash: A320401E, Key: Buff8_Description, Value: Unlimited resources.
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Massive Power
+Hash: 3763A447, Key: Buff10_Description, Value: Unlimited resources.

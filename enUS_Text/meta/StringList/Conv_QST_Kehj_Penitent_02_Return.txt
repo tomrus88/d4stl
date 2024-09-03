@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Suna is being held in a house in town by the Knights Penitent.”
+Hash: 8EEB85E0, Key: Line1.136591, Value: Damn it. This is Osric’s doing. The bastard has been stalking my every move.
+Hash: 3FF2D964, Key: Line5.136591, Value: He's an Inquisitor captain. A real zealot, can’t be reasoned with. I’ve tried.
+Hash: 18768326, Key: Line7.136591, Value: Here is how we’ll do this: show this insignia to the guard. Tell them you have an urgent message for their commander.
+Hash: 68ACAEF3, Key: VoiceDir7.136591, Value: Explaining a detailed plan to the player so nothing is missed.
+Hash: 3194C0F2, Key: Line12.136591, Value: Once you're in, hold their attention. Distract them however you can. I’ll be right on your heels.

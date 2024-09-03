@@ -1,0 +1,43 @@
+Hash: 0175E5A3, Key: ExpertiseAxe1Hand, Value: 1-Handed Axe
+Hash: 0187FE24, Key: ExpertiseAxe2Hand, Value: 2-Handed Axe
+Hash: 4795EA5B, Key: ExpertiseMace1Hand, Value: 1-Handed Mace
+Hash: 47A802DC, Key: ExpertiseMace2Hand, Value: 2-Handed Mace
+Hash: C426D854, Key: ExpertiseSword1Hand, Value: 1-Handed Sword
+Hash: C438F0D5, Key: ExpertiseSword2Hand, Value: 2-Handed Sword
+Hash: CE214152, Key: ExpertiseShield, Value: Shield 
+Hash: BBE4EEA9, Key: ExpertisePolearm, Value: Polearm 
+Hash: 047A812C, Key: WeaponExpertiseHeader, Value: Weapon Expertise
+Hash: A52FB50F, Key: TechniqueHeader, Value: Technique
+Hash: EF9E91E2, Key: ExpertiseAxe1HandDesc, Value: {s1}% of damage dealt as Bleed damage.
+Hash: 641B02E3, Key: ExpertiseAxe2HandDesc, Value: Killing an enemy grants +{s1}% Attack Speed for 2 seconds.
+Hash: 9B22329A, Key: ExpertiseMace1HandDesc, Value: You have a {s1}% chance to Overpower crowd controlled enemies.
+Hash: 0F9EA39B, Key: ExpertiseMace2HandDesc, Value: You gain +{s1}% Crushing Blow Damage.
+Hash: ECD6ADE8, Key: ExpertisePolearmDesc, Value: +{s1}% Lucky Hit chance.
+Hash: 94DE2D11, Key: ExpertiseShieldDesc, Value: You gain {s1}% of Block Value as Bonus Damage.
+Hash: B1FB7513, Key: ExpertiseSword1HandDesc, Value: You have a {s1}% chance to generate 3 Fury when hitting a crowd controlled enemy.
+Hash: 2677E614, Key: ExpertiseSword2HandDesc, Value: Your basic attacks have a {s1}% chance to generate an additional 2 Fury.
+Hash: 856EB265, Key: TechniqueDesc, Value: The Technique Slot allows the player to choose a Weapon Expertise Effect that applies to all of their attacks, regardless of which weapon they are using.
+
+Select an expertise of rank 1 or above from the right to set your Technique.
+Hash: 4EFD4D9A, Key: TechniqueUnlockReq, Value: Unlocks at Level {s1} after completing '{s2}'
+Hash: C6D3E105, Key: ExpertiseRank, Value: {c_number}{s1}{/c}/10
+Hash: 33D349E6, Key: TechniqueLabel, Value: Weapon Technique
+Hash: 335B7075, Key: TechniqueEmpty, Value: Empty
+Hash: 5CB3FEB9, Key: ProgressDescription, Value: {s1}/{s2} until Rank {s3}
+Hash: 338830A1, Key: ArsenalDualWield, Value: Dual Wielding Arsenal
+Hash: E6A64854, Key: ArsenalBludgeoning, Value: Bludgeoning Arsenal
+Hash: 8A00156F, Key: ArsenalSlicing, Value: Slashing Arsenal
+Hash: 9B60FBBD, Key: ExpertiseDescriptionLabel, Value: When using a {s1}:
+Hash: B74DC8D5, Key: ProgressLabel, Value: Progress: 
+Hash: 001DF4CE, Key: ProgressComplete, Value: Maximum Rank Reached
+Hash: DBE2644A, Key: TechniqueDescriptionLabel, Value: When using any weapon:
+Hash: BE237CAD, Key: TooltipInstruction, Value: Assign Technique
+Hash: 4B178AB8, Key: NotificationRankUp, Value: {s1} Reached Rank {s2}
+Hash: E13BE2F0, Key: ExpertiseRankTooltip, Value: Rank {s1}/{s2}
+Hash: 0361C52B, Key: NextRank, Value: Next Rank: {s1}
+Hash: 9062D6AC, Key: AdditionalBonusRank, Value: Rank 10 Additional Bonus: {s1}
+Hash: 031AABCA, Key: TechniqueUnlockLevel, Value: Unlock quest at {c_highlight}{s1}{/c}.
+Hash: B9183BD9, Key: TechniqueUnlockQuestTrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2}{c_highlight}{s1}{/c}.
+{hotkey:FAST_QUEST_TRACK} to track.
+Hash: A51C1E3C, Key: TechniqueUnlockQuestUntrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2}{c_highlight}{s1}{/c}.
+{hotkey:FAST_QUEST_TRACK} to untrack.

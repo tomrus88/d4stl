@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you?"
+Hash: 27B4AD0D, Key: Line7.2CDEB, Value: You may call me Shob'ha. I offer solutions, of a kind, to those in need. Yet it is now I who need aid...
+Hash: 59D74087, Key: Line1.2CDEB, Value: And here you are. Coincidence and opportunity are sisters, you know.
+Hash: C8E0A6B4, Key: VoiceDir1.2CDEB, Value: sly, thinking
+Hash: F3CBBA09, Key: Line3.2CDEB, Value: An ominous power stirs within the Dark Thicket. I sent my familiar, Berret, to sniff about, but she has been gone too long.
+Hash: 62D52036, Key: VoiceDir3.2CDEB, Value: pondering. something's not right.
+Hash: 8DC0338B, Key: Line5.2CDEB, Value: If you can find her, I would be in your debt.
+Hash: FCC999B8, Key: VoiceDir5.2CDEB, Value: matter of fact

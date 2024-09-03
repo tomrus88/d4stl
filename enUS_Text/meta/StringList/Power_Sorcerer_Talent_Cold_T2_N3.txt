@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Icy Touch
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0} * 100|%x|]{/c} increased Cold damage to {c_important}{u}Vulnerable{/u}{/c} enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}

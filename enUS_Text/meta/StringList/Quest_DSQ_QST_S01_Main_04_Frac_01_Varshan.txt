@@ -1,0 +1,23 @@
+Hash: 003DFCC1, Key: Name, Value: The Cold Hard Truth
+Hash: 0871A46B, Key: Toast, Value: Fractured Peaks Arc
+Hash: D53BFF05, Key: Phase0Description, Value: Cormond has grown quiet en route to the ritual site. I pray his grief will not impair his focus. I cannot capture Varshan without him.
+Hash: 1EADAE68, Key: Callback2Header, Value: Follow Cormond into the undercroft
+Hash: 9367FF5C, Key: Phase34Description, Value: Varshan’s corruption is captured. His life is ended, but will the Malignant die with him? I should find Cormond by his wagon. 
+Hash: E45EC27D, Key: Callback43Header, Value: Check on Cormond
+Hash: C45B5CBD, Key: Phase35Description, Value: Varshan has come! We must capture him now or the Malignant will never stop. 
+Hash: 7E533BFF, Key: Callback45Header, Value: Kill Varshan
+Hash: F54EBA1E, Key: Phase36Description, Value: The ritual site is ready. I hope Cormond is ready also.
+Hash: 1847B581, Key: Callback47Header, Value: Speak with Cormond to start the summoning
+Hash: 2642177F, Key: Phase37Description, Value: The time has come. I will help Cormond prepare the ritual and together we will face Varshan. This new cage had better work.
+Hash: D5F3B5FC, Key: Callback60Header, Value: Prepare the ritual
+Hash: 573574E0, Key: Phase38Description, Value: The time has come. I will help Cormond prepare the ritual and together we will face Varshan. This new cage had better work.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Speak with Cormond
+Hash: B78F4DA1, Key: Callback56Header, Value: Find the ritual site with Cormond
+Hash: 51B5B2AB, Key: Callback113Header, Value: Clear the corruption from the ritual site
+Hash: 5733766E, Key: Phase117Description, Value: The ritual site is ready. I hope Cormond is ready also.
+Hash: 434AA62A, Key: Callback130Header, Value: Defend Cormond from the Malignant
+Hash: DD3F1FAC, Key: Callback132Header, Value: Capture Varshan's heart
+Hash: E369D82F, Key: Phase145Description, Value: We found a lead pointing to Hawezar but a powerful Malignant attacked and called Cormond by name. Cormond ran off. I will follow once the threat is dealt with.
+Hash: 4A642452, Key: Callback147Header, Value: Defeat Varshan the Consumed
+Hash: 01D5844F, Key: Phase154Description, Value: We found a lead pointing to Hawezar but a powerful Malignant attacked and called Cormond by name. Cormond ran off. I will follow once the threat is dealt with.
+Hash: E9ABBC72, Key: Callback156Header, Value: Find the ritual site with Cormond

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Corpse of Sankekur
+Hash: F2CA04D8, Key: NoticeSignText, Value: The blackened flesh has sunken and hardened. The fists are tightly clenched. And though the eye sockets are empty, you feel its gaze watching... burning straight through you.

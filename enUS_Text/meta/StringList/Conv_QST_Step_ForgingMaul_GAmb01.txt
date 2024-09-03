@@ -1,0 +1,2 @@
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: (sigh) My eyes can only watch so much.
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: frustrated, somewhat tired

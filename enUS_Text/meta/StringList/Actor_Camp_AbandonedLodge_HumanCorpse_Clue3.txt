@@ -1,0 +1,2 @@
+Hash: F2CA04D8, Key: NoticeSignText, Value: The wargs almost tore this hunter to pieces. Though some of the bite marks on his corpse appear... human?
+Hash: 003DFCC1, Key: Name, Value: Gnawed Hunter

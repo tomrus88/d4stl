@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here are your supplies."
+Hash: 5D5EB317, Key: Line1.DB62B, Value: Thank Akarat you came along!
+Hash: CC681944, Key: VoiceDir1.DB62B, Value: Relief. Gratitude.
+Hash: F7532C99, Key: Line3.DB62B, Value: I... I hate to ask more of you, but could you take a message ahead of us?
+Hash: 665C92C6, Key: VoiceDir3.DB62B, Value: Hesitant. Hopeful.
+Hash: 9147A61B, Key: Line5.DB62B, Value: Tell Haddad we'll be late, but we are coming. I'll get us there safe, I swear it.
+Hash: 00510C48, Key: VoiceDir5.DB62B, Value: Sincere. Determined.

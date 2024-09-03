@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Una
+Hash: 5D72A43E, Key: Line1.EDC74, Value: I went to the Umbralwood yesterday to search for anything from the druids.
+Hash: F7671DC0, Key: Line3.EDC74, Value: Lorcan said it was a fool’s errand and refused to come, but I found a small wolf carving that radiated a strange power. I'm almost positive this is how the druids shapeshift.

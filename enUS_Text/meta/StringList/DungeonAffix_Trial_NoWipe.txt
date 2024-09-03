@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: PH Trial: No Wipe
+Hash: EEB7912D, Key: AffixDesc, Value: Complete the Dungeon Objective without the Party wiping to earn a special reward.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Eldhaime Ruins
+Hash: 003892BF, Key: Desc, Value: These overrun battlements should lead to the Great Hall.

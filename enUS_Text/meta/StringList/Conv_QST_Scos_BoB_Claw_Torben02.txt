@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this near one of the victims."
+Hash: 5D201C8E, Key: Line1.B20BA, Value: The mark of a mercenary company from the Days of Ash. Killed man or beast without hesitation.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, earnest; learning angry
+Hash: F7149610, Key: Line3.B20BA, Value: Blackweald Company. The company that put the fabled “Bear” to purpose.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: cold, earnest
+Hash: 91090F92, Key: Line5.B20BA, Value: The last time they visited the Highlands, Brione burned…
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: cold, earnest; learning somber

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sister Octavia's Prayer Book
+Hash: F5C7BC0A, Key: Flavor, Value: A well-loved book of litanies, prayers and psalms. Certain words are underlined, perhaps due to a deeply personal significance to those passages.

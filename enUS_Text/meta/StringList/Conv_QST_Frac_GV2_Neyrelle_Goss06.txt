@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why not?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: She was sick. Tried to hide it from me, but… but I knew she didn’t have long left.
+Hash: F414A633, Key: Line3.6DE47, Value: This sort of thing—the hunt—it made her happy. It made me happy too.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: You have the answers you wanted now?

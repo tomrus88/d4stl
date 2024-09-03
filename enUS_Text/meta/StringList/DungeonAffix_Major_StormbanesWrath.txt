@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Stormbane's Wrath
+Hash: EEB7912D, Key: AffixDesc, Value: Stormbane's Wrath chases players around, releasing deadly pulses when reaching a player.

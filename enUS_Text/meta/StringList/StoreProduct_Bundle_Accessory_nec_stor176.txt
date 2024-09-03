@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Nuptial
+Hash: A646FFA4, Key: Description, Value: With knowledge gleaned from dead attendants, the Lover embarked upon a mission of bloody revenge.
+Hash: 083EE0CE, Key: Quote, Value: Death of the heart.
+Hash: 13A53A8B, Key: Series, Value: "Lover in White" Accessories

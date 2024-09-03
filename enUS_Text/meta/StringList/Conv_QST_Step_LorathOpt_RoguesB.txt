@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How did Elias get a hold of the Sightless Eye?” 
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Not sure. As far as I knew, it was under the protection of the old rogue order—the Sisters of the Sightless Eye.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Heard some rumors that the years have not been kind to them.
+Hash: 832AE43D, Key: Line5.BAE4.Rog, Value: They’ve suffered hardship before, but they’ve always clung on. Endured. As long as even one remains, so will the order and its traditions.

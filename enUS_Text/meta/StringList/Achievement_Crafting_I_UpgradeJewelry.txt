@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Jeweler
+Hash: 003892BF, Key: Desc, Value: Temper a piece of Jewelry.

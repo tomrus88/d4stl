@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you a member of the Cathedral?"
+Hash: 5D82E86E, Key: Line1.FB744, Value: I was never religious until I saw a miracle. Inarius himself blessed a man with the Light. Got up and walked again for the first time in years, right then and there.
+Hash: F77761F0, Key: Line3.FB744, Value: The Light is real, my friend. Take comfort in it.

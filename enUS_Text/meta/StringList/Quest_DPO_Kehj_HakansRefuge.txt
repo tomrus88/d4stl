@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Echoes of opulence.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Travel to the {LEVELAREA}
+Hash: A07C739F, Key: Callback18Header, Value: Slay the Matriarchs: {LEFT}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Return the Ancients Statue to the Pedestal: {LEFT}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Veneration of Hated
+Hash: 003892BF, Key: Desc, Value: A mysterious portal into the realm of Hatred.

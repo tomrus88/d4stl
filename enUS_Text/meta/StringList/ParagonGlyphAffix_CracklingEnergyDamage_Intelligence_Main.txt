@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: For every 5 Intelligence purchased within range, {c_important}{u}Crackling Energy{/u}{/c} deals {c_number}+[{GlyphAffixScalar}|2%|]{/c} increased damage.

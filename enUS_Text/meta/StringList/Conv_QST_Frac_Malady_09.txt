@@ -1,0 +1,4 @@
+Hash: 5D8555C1, Key: Line1.FEF63, Value: I command you to flee this body!
+Hash: CC8EBBEE, Key: VoiceDir1.FEF63, Value: Said with conviction and projection. Talking over a demon's growls. This is a magic ritual and the correct words matter.
+Hash: 675EEADD, Key: Line3.128A6B, Value: No! NO!
+Hash: B79516AA, Key: VoiceDir3.128A6B, Value: Incredulous

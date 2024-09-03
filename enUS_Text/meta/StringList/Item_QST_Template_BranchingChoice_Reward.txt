@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bede's Worn Ring
+Hash: F5C7BC0A, Key: Flavor, Value: A scuffed and tarnished bronze loop

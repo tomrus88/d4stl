@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Corpses of Callum and Devlin
+Hash: F2CA04D8, Key: NoticeSignText, Value: Two young boys. Their bodies are bloated with water, as if they drowned. But they’re too far from water.

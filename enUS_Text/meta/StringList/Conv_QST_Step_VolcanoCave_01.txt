@@ -1,0 +1,2 @@
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: The moment you see Elias, strike him down. Do not hesitate.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Resolute

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Druid Totem
+Hash: F5C7BC0A, Key: Flavor, Value: "To become the wolf is to become the hunter, fierce and free. To return to mundanity thereafter is the real trial."

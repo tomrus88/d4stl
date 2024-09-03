@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Inquisitor's Ledger, Chapter 2
+Hash: F5C7BC0A, Key: Flavor, Value: A section of a larger tome, it is largely illegible due to smears of blood and ashes.

@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Barbaric Blade
+Hash: 003DFCC1, Key: Name, Value: Ramaladni's Magnum Opus
+Hash: F5C7BC0A, Key: Flavor, Value: "Without him the wine is less sweet, the hearth less warm, and our blades less keen. Our blood brother is gone, but Bul-Kathos willing, we will meet again one day."
+- Sorrowsong for Ramaladni

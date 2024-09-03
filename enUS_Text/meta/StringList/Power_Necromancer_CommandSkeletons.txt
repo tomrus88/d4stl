@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: name, Value: Command Skeletons
+Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost: {/c}{c_resource}{Resource Cost}{/c}
+{if:Mod.FocusTarget}Command your skeletons to unleash powerful attacks on an enemy and then focus it for {SF_1} seconds.{else}Command your skeletons to unleash powerful attacks on an enemy.{/if}
+
+{if:SF_11}{c_label}Skirmisher:{/c} {c_number}{payload:TOOLTIP_SKIRMISHER}{/c} damage{/if}{if:SF_12}{c_label}Defender:{/c} {c_number}{payload:TOOLTIP_DEFENDER}{/c} damage{/if}{if:SF_13}{c_label}Reaper:{/c} {c_number}{payload:TOOLTIP_REAPER}{/c} damage{/if}
+{if:SF_14}{c_label}Shadow Mage:{/c} {c_number}{payload:TOOLTIP_SHADOWMAGE}{/c} damage{/if}{if:SF_15}{c_label}Cold Mage:{/c} {c_number}{payload:TOOLTIP_COLDMAGE}{/c} damage{/if}{if:SF_16}{c_label}Sacrifice Mage:{/c} {c_number}{payload:TOOLTIP_SACRIFICEMAGE}{/c} damage{/if}
+{c_label}Priest:{/c} {c_number}{dot:TOOLTIP_PRIEST}{/c} damage
+Hash: F2D5722F, Key: rankup_desc, Value: Damage increased to:
+{if:SF_11}{c_label}Skirmisher:{/c} {c_number}{payload:TOOLTIP_SKIRMISHER}{/c} damage{/if}{if:SF_12}{c_label}Defender:{/c} {c_number}{payload:TOOLTIP_DEFENDER}{/c} damage{/if}{if:SF_13}{c_label}Reaper:{/c} {c_number}{payload:TOOLTIP_REAPER}{/c} damage{/if}
+{if:SF_14}{c_label}Shadow Mage:{/c} {c_number}{payload:TOOLTIP_SHADOWMAGE}{/c} damage{/if}{if:SF_15}{c_label}Cold Mage:{/c} {c_number}{payload:TOOLTIP_COLDMAGE}{/c} damage{/if}{if:SF_16}{c_label}Sacrifice Mage:{/c} {c_number}{payload:TOOLTIP_SACRIFICEMAGE}{/c} damage{/if}
+{c_label}Priest:{/c} {c_number}{dot:TOOLTIP_PRIEST}{/c} damage
+Hash: D618A933, Key: Mod0_Description, Value: Command Skeletons' resource cost is reduced based on the number of unused skeleton slots.
+Hash: 9233D930, Key: Mod0_Name, Value: Upgrade B
+Hash: 2577B2B4, Key: Mod1_Description, Value: Command Skeleton's initial attack deals more damage.
+Hash: 948901D1, Key: Mod1_Name, Value: Upgrade C
+Hash: 74D6BC35, Key: Mod2_Description, Value: Commanded skeletons focus the target for {c_number}6{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Upgrade A

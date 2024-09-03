@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Una's Journal: Entry 1
+Hash: CC3C0A8F, Key: FlavorText, Value: Charred pages from a journal.
+Hash: F2CA04D8, Key: NoticeSignText, Value: The goatmen raids are getting worse. Conall's farm was burnt out last week...the whole family lost.
+
+It used to be the druids protected us. Now they're gone, and they left nothing but their crumbling ruins.

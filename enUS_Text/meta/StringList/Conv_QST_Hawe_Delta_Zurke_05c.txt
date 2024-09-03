@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Ugh… I didn’t pay attention to where I collected it from.”
+Hash: 18415C72, Key: Line7.1086F0, Value: Oh, give it here… (tastes flesh)
+Hash: 6877883F, Key: VoiceDir7.1086F0, Value: Irritated. Rolls eyes then snatches the item away from the Player. Zurke then tastes a piece of raw human flesh like it's not big deal. 
+Hash: F0C50634, Key: Line9.1086F0, Value: Hmm, yes. This, uh, this corpse was treated with (smacks lips) Serpent Thorn and uh... (smacks lips) Oh yes. Blood Fungus.
+Hash: 40FB3201, Key: VoiceDir9.1086F0, Value: Thoughtful/Pondering. Pauses in between ingredient names as he remembers them

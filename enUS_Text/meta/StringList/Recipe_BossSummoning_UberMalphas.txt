@@ -1,0 +1,4 @@
+Hash: BFBB6413, Key: SubHeader, Value: This ritual will unseal
+Hash: D0201B8E, Key: MainHeader, Value: The Vault of the Loom
+Hash: F5C7BC0A, Key: Flavor, Value: "Into bones, into spines, into fingers, into hearts..."
+Hash: ED2058BC, Key: Button, Value: Open the Door

@@ -1,0 +1,4 @@
+Hash: 268F0697, Key: Line17.BAE4.Sor.M, Value: I lack the needed mana.
+Hash: 578263F8, Key: Line18.BAE4.Sor.M, Value: I'm out of mana.
+Hash: 8875C159, Key: Line19.BAE4.Sor.M, Value: Out of mana, once again.
+Hash: 1F468271, Key: Line20.BAE4.Sor.M, Value: I'm low on precious mana.

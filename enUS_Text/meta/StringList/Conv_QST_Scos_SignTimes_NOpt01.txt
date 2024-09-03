@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you bleeding?"
+Hash: F7149636, Key: Line3.B20CF, Value: Oh, I never notice a few scrapes. A bit of blood just shows your commitment, eh, Tavish?
+Hash: 661DFC63, Key: VoiceDir3.B20CF, Value: Playful, slightly drunk
+Hash: 0C1F7A47, Key: Line13.B20CF, Value: Luckily, the booze has me without sense. (dry laugh)

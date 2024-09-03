@@ -1,0 +1,4 @@
+Hash: 059C64AB, Key: Callback5Header, Value: Protect Aria from the attacking werewolves
+Hash: 68161728, Key: Phase3Description, Value: Survive the ambush
+Hash: 1EADAE68, Key: Callback2Header, Value: Protect Aria from the attacking werewolves
+Hash: 003DFCC1, Key: Name, Value: The Traveling Scholar

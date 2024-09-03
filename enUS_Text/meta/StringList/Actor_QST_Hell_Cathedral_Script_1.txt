@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Echoes of Hatred
+Hash: F2CA04D8, Key: NoticeSignText, Value: One of the figures holds a book bound in flesh. Each page is affixed with a withered mortal face. They seem to whisper in your mind: acts of violence, revenge, and depravity fueled by Hatred.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Khamsin Edge
+Hash: A646FFA4, Key: Description, Value: Once many in number, now few remain to protect their charges. The warriors of Khamsin Edge only have enough strength to support safe travel between oases of Alcarnas and Dahlgur.
+Hash: 083EE0CE, Key: Quote, Value: Tribal warriors who protect the oases of Kehjistan.
+Hash: 13A53A8B, Key: Series, Value: Barbarian Armor

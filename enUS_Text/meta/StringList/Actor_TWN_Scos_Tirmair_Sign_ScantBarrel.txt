@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scantly Filled Barrel
+Hash: F2CA04D8, Key: NoticeSignText, Value: A barrel stands mostly empty, save for a few small fish and an eel.

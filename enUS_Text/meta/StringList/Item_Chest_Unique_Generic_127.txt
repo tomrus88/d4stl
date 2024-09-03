@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Angelic Aegis
+Hash: 003DFCC1, Key: Name, Value: Tyrael's Might
+Hash: F5C7BC0A, Key: Flavor, Value: "Thus Tyrael, a perfect aspect of Justice, came to be. None were more vehement against the forces of hell. All demonic entities learned to shudder at Justice's might." 
+-The Books of Jarl, Volume I

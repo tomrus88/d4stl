@@ -1,0 +1,2 @@
+Hash: B8A227EA, Key: Callback4Header, Value: Take the Woodsman's Axe from the tree stump
+Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat The Woodsman

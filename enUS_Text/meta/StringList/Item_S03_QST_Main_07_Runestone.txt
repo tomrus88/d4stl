@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hell-Blessed Runestone
+Hash: F5C7BC0A, Key: Flavor, Value: The culmination of your efforts to save the Loom. The glow of the runes stings your eyes.

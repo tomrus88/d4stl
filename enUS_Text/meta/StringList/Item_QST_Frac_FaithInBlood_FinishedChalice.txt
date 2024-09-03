@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Holy Chalice
+Hash: F5C7BC0A, Key: Flavor, Value: An ornate chalice of precious metal bearing the mark of the Cathedral of Light. There is a strange patina coating the inside of the bowl.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The healing here is different than in the north."
+Hash: 8EE1D504, Key: Line1.11EA1D, Value: I've seen many leave through those gates far healthier than when they arrived. Father forgive me, but maybe there's something to this swamp magic.
+Hash: DF1800D1, Key: VoiceDir1.11EA1D, Value: Confused and a little troubled

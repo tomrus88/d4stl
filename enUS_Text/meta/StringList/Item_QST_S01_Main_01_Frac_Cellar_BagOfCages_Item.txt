@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bag of Cages
+Hash: F5C7BC0A, Key: Flavor, Value: Strange metal devices shift in the bag. They appear claw-like in shape, inscribed with warding runes.

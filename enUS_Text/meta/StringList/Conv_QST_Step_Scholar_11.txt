@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Nurbolat? The scholar from Dry Steppes?"
+Hash: 3FF1BD6F, Key: Line5.1343B7, Value: Oh, hello again. I presented my findings to the Cathedral of Light, but... I doubt they were truly listening.
+Hash: 9027E93C, Key: VoiceDir5.1343B7, Value: Troubled
+Hash: 18756731, Key: Line7.1343B7, Value: I fear they are more like the Zakarum than I want to believe. Perhaps we are doomed to repeat the sins of our past after all.
+Hash: 68AB92FE, Key: VoiceDir7.1343B7, Value: Disappointed

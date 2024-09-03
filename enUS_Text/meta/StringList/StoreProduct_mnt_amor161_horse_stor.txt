@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bard of Undying Loyalty
+Hash: 13A53A8B, Key: Series, Value: "Azeroth Legends"

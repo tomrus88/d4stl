@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Exposed Flesh
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}[Affix."Static Value 0"|%|]{/c} chance to generate {c_random}[Affix_Value_1|1|]{/c} Essence when hitting a {c_important}{u}Vulnerable{/u}{/c} enemy.
+Hash: 82B7D312, Key: CodexDesc, Value: Up to a {c_number}[Affix."Static Value 0"|%|]{/c} chance to generate {c_random}[Affix_Value_1|1|]{/c} Essence when hitting a {c_important}{u}Vulnerable{/u}{/c} enemy.

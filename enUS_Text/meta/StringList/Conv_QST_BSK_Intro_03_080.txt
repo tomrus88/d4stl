@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Locran... What have you done?"
+Hash: A97D1E50, Key: Line22.1BCB9E, Value: Mother... I finished my task! (ragged breath)
+Hash: 0078C3BD, Key: VoiceDir22.1BCB9E, Value: Weak. Dying. Praying.
+Hash: 8200C812, Key: Line24.1BCB9E, Value: I... I opened the way for you, but they will never stop...
+Hash: D8FC6D7F, Key: VoiceDir24.1BCB9E, Value: Weak. Tearful. Scared.
+Hash: 5A8471D4, Key: Line26.1BCB9E, Value: Tell me you’ll hold them back! Tell me... there is hope...
+Hash: B1801741, Key: VoiceDir26.1BCB9E, Value: Weak. Tearful. Scared. Dying in the end.

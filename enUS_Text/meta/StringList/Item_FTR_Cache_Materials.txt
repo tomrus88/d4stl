@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Material Cache
+Hash: A646FFA4, Key: Description, Value: A cache of items found inside Dungeons. Contains an assortment of Crafting Materials.
+Hash: F5C7BC0A, Key: Flavor, Value: Adventurers that want to survive need to adapt. Creating value out of scraps is key to that.

@@ -1,0 +1,4 @@
+Hash: 2B50A177, Key: Line7.EED6F, Value: Our flock has grown!
+Hash: 9A5A07A4, Key: VoiceDir7.EED6F, Value: Excited
+Hash: C5451AF9, Key: Line9.EED6F, Value: Behold the wonders that the Mother has in store for you.
+Hash: 344E8126, Key: VoiceDir9.EED6F, Value: Excited

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EE1D503, Key: Line1.11EA1C, Value: I don't care if it's ground-up plants or magic swamp water they're using, as long as I get to go home to my loved ones.
+Hash: DF1800D0, Key: VoiceDir1.11EA1C, Value: Weak from recovery, but relieved and excited

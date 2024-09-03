@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Stone Guard
+Hash: 003892BF, Key: desc, Value: While you have {c_important}{u}Fortify{/u}{/c} for over {c_number}[{SF_1}*100|%|]{/c} of your Maximum Life, your {c_important}Earth{/c} Skills deal {c_number}[{SF_0} * 100|%x|]{/c} increased damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_0}*100|%x|]{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Measured Assault
+Hash: C6E60718, Key: Buff2_Description, Value: While {c_important}{u}Fortified{/u}{/c} over 50% of your Maximum Health, your {c_important}Earth{/c} Skills deal increased damage.

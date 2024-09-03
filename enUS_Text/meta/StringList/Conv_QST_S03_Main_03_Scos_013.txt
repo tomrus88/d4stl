@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The Vaults—what are they?”
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: You might think of them like... appendages of the Loom. Some are constructed to gather and refine the elemental material – the “thread” – where others weave it into shape. All serve as repositories of some sort or another, thus Vaults.
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: It really is an exquisite system... when the portals are working, that is.

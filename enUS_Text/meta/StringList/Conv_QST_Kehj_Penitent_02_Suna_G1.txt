@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Edgar."
+Hash: 8EED63EE, Key: Line1.138BED, Value: Edgar saved my life. I used to live in Caldeum, you know. The Penitent butchers swept through my corner of the city and killed almost everyone I knew.
+Hash: DF238FBB, Key: VoiceDir1.138BED, Value: She has obvious affection and gratitude for Edgar that should come through in her voice.
+Hash: 67710DB0, Key: Line3.138BED, Value: There was a confrontation in the ranks of the Knights. I only saw part of it, but it was violent. Edgar left the order that day.
+Hash: 3FF4B772, Key: Line5.138BED, Value: By nightfall he was guiding a handful of us across the desert to safety, and he's been returning to rescue more people ever since. I don't think he sleeps.
+Hash: 18786134, Key: Line7.138BED, Value: He was one of them, yes, and maybe he was a killer once...but I believe people can change. I have to believe that.

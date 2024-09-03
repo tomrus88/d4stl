@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Knights Penitent Weaponry 
+Hash: F2CA04D8, Key: NoticeSignText, Value: The Knights’ weaponry appears well polished and unblemished. They haven’t seen much use here in Cerrigar.

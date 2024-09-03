@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Torment
+Hash: C6E60718, Key: Buff2_Description, Value: Essence Regeneration increased by Critical Strikes with {c_important}Bone{/c} Skills.

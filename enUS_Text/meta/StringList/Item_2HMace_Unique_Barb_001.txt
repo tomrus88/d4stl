@@ -1,0 +1,3 @@
+Hash: 1999888C, Key: TransmogName, Value: Hellforged Mace
+Hash: 003DFCC1, Key: Name, Value: Hellhammer
+Hash: F5C7BC0A, Key: Flavor, Value: The demon prince Ikonoth slew hundreds of the Heavenly Host with this infernal hammer before falling to none other than the Archangel Imperius himself.

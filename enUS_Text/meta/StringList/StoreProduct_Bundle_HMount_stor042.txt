@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Tears of Nocturne
+Hash: A646FFA4, Key: Description, Value: "At last, the cold grip closes. Blackness spreads. Fear gives way to night. The endless and empty night." - Askari proverb
+Hash: 083EE0CE, Key: Quote, Value: Quietly into the dark.
+Hash: 13A53A8B, Key: Series, Value: "Nocturne of Steel" Mount & Mount Armor

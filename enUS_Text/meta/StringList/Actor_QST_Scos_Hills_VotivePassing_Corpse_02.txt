@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Hunter
+Hash: F2CA04D8, Key: NoticeSignText, Value: Her quiver only holds a single remaining arrow.

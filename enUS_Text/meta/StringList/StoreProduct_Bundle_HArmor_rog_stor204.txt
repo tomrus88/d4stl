@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Raven
+Hash: A646FFA4, Key: Description, Value: Until recently, these antique armaments had remained safe within the vault of Eastgate Keep for generations. Its protectors believe them to contain the essence of their original, villainous owner.
+Hash: 083EE0CE, Key: Quote, Value: A bloody shadow of the past.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

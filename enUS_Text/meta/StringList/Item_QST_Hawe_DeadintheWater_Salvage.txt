@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Salvaged Resources
+Hash: F5C7BC0A, Key: Flavor, Value: Various resources salvaged from the Hawezar coast, south of Backwater. They smell of rotting flesh.

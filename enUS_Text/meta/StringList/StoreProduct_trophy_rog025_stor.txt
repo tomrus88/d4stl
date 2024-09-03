@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Mirage of the Marshlands"
+Hash: 003DFCC1, Key: Name, Value: Mirage of Acrodonta

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Blood Seeker Note
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] Optional Flavor Note from Unique Elite, can add Lore or just use flavor text.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Worn Gravestone
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Here lie the triplets Mallory.
+The first was trampled in the road.
+The second died of fever.
+The last joined her siblings out of grief."

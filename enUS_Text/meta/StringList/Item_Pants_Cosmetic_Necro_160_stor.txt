@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Coven of the Golden Saint
+Hash: A646FFA4, Key: Description, Value: Bleeding Greaves

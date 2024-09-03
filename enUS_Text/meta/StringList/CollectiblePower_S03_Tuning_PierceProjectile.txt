@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Piercing Support
+Hash: A646FFA4, Key: Description, Value: The supported {c_important}Projectile{/c} Skill will pierce up to {c_number}[Collectible_Power_Value_1#S03_Tuning_PierceProjectile]{/c} enemies.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Pierce Limit {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_PierceProjectile+1]{/c}
+Hash: E971A20F, Key: Modifier, Value: Pierces enemies up to {c_number}[Collectible_Power_Value_1#S03_Tuning_PierceProjectile]{/c} times.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

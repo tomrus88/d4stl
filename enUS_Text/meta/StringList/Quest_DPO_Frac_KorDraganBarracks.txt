@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Woe to the desecrated.
+Hash: 2F5A8F83, Key: Callback85Header, Value: Activate the {GIZMO}: {left}
+Hash: E7B37160, Key: Callback91Header, Value: Travel to the {LEVELAREA}
+Hash: 6896A125, Key: Callback96Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 1879A109, Key: Callback102Header, Value: Open the Barracks Gate

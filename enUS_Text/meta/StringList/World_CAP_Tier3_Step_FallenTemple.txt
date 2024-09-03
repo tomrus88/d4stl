@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fallen Temple
+Hash: 003892BF, Key: Desc, Value: One of the Triune's most formidable temples.

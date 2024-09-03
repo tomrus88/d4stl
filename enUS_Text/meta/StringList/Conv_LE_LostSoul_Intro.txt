@@ -1,0 +1,8 @@
+Hash: 0E7F38E1, Key: Line20.89B3C, Value: Dark, all around. Why did Mother go? I don’t want to be alone... (sob)
+Hash: 5EB564AE, Key: VoiceDir20.89B3C, Value: breathy
+Hash: F56DEF25, Key: Line23.89B3D, Value: So dark and cold...please stay. Grandfather was supposed to walk me home.
+Hash: 45A41AF2, Key: VoiceDir23.89B3D, Value: breathy
+Hash: C34B6CDE, Key: Line29.89F60, Value: My child, all alone in this darkness...please, help me find my baby.
+Hash: 138198AB, Key: VoiceDir29.89F60, Value: breathy
+Hash: 47BB5BCB, Key: Line31.89F5E, Value: Please, I need your help. I can’t see.
+Hash: 97F18798, Key: VoiceDir31.89F5E, Value: breathy

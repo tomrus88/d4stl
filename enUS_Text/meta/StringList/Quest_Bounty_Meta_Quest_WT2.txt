@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Whispers of the Dead: Veteran
+Hash: 0871A46B, Key: Toast, Value: Return to the Tree of Whispers in World Tier 2 to claim your reward.
+Hash: D53BFF05, Key: Phase0Description, Value: Return to the Tree of Whispers in Hawezar to claim your reward.
+Hash: 2A0770E5, Key: Callback78Header, Value: Return to the Tree of Whispers in Veteran World Tier
+Hash: 9211671E, Key: Callback35Header, Value: Choose your reward
+Hash: 6EFD6A9E, Key: Phase72Description, Value: Return to the Tree of Whispers in Hawezar to claim your reward.
+Hash: 4318BAA2, Key: Callback75Header, Value: Offer your Grim Favors to the Tree of Whispers

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tithe Ledger
+Hash: F5C7BC0A, Key: Flavor, Value: A moldering book of accounts for the Church of Zakarum. Locations throughout Hawezar are referenced: settlements, strongholds, and outposts.

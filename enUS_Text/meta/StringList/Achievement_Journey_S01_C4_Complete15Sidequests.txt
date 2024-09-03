@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Benevolent Wanderer
+Hash: 3A4912CF, Key: DescShort, Value: Complete {icon:Marker_SideQuestAvailable, 2.5} priority or side quests

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Crushing Earth
+Hash: 003892BF, Key: desc, Value: {c_important}Earth{/c} Skills deal {c_number}[{SF_1} * 100|%x|]{/c} increased damage to Slowed, Stunned, Immobilized or Knocked Back enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Bonus {icon:arrow,1.2} {c_number}[{SF_1}*100|%x|]{/c}

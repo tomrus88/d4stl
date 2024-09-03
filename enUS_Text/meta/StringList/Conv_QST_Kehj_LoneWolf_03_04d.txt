@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: During Boss - Dawood is hit
+Hash: DE2920DD, Key: Line6.D5161, Value: Aagh!
+Hash: 4D32870A, Key: VoiceDir6.D5161, Value: Sudden impact, severe pain
+Hash: 7812AF1B, Key: Line8.BC41C, Value: (heavy breath) Dawood--?!
+Hash: E71C1548, Key: VoiceDir8.BC41C, Value: Mid-combat. Intense. Concerned.
+Hash: 25569868, Key: Line10.D5161, Value: I'm fine, keep fighting!
+Hash: 758CC435, Key: VoiceDir10.D5161, Value: Mid-combat. Barking. Taking the pain.

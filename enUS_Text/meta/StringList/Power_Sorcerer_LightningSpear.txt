@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Lightning Spear
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:17}|%|]{/c}
+{/if}Conjure a spear of lightning that seeks out enemies for {c_number}[{SF_2}|1|]{/c} seconds, dealing {c_number}{payload:IMPACT_DAMAGE}{/c} damage per hit. Critical Strikes apply {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_19}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT_DAMAGE}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: Casting {c_important}Lightning Spear{/c} spawns an additional {c_important}Lightning Spear{/c} and increases their Critical Strike Chance by {c_number}[{SF_10} * 100|%+|]{/c}.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Lightning Spear
+Hash: 2577B2B4, Key: Mod1_Description, Value: Collecting {c_important}{u}Crackling Energy{/u}{/c} increases the damage of your next {c_important}Lightning Spear{/c} cast by {c_number}[{SF_9} * 100|%x|]{/c}, up to {c_number}[{SF_9} * {SF_13} * 100|%x|]{/c}.
+Hash: 948901D1, Key: Mod1_Name, Value: Summoned Lightning Spear
+Hash: 1394CF37, Key: Mod4_Description, Value: {c_important}Lightning Spear{/c} Stuns enemies for {c_number}{buffduration:UPGRADEB_STUN}{/c} seconds when Critically Striking.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Invoked Lightning Spear

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Altar of Languid Salve
+{c_gold}Offer a{/c} Hateshard{c_gold}. Your potion has increased cooldown.{/c}
+{c_gold}Itemization 2.0 materials rewards are increased by {/c}{c_green}25%{/c}

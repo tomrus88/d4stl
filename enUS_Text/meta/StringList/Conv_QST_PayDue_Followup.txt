@@ -1,0 +1,6 @@
+Hash: 5D286E8B, Key: Line1.AB791, Value: You know this one? His name was Nageed. Used to beg around town, claiming he was a miner. Then one day, out of the winds, he gets a small fortune.
+Hash: CC31D4B8, Key: VoiceDir1.AB791, Value: Gruff. Weary. Jaded. A beat cop telling a bitter story.
+Hash: F71CE80D, Key: Line3.AB791, Value: (scoff) He disappeared for a time, then wandered back into town, broke.
+Hash: 66264E3A, Key: VoiceDir3.AB791, Value: Slightly amused. Gruff. Contempt.
+Hash: 9111618F, Key: Line5.AB791, Value: I caught him looting the dead. What a life... (spits)
+Hash: 001AC7BC, Key: VoiceDir5.AB791, Value: Gruff. Bitter contempt.

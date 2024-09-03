@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: QA Stun Hat
+Hash: 003892BF, Key: desc, Value: {c_gold}Cooldown: {/c}{c_green}{Cooldown Time}{/c}
+Swing wildly, hitting all enemies around you for {c_yellow}{payload:DAMAGE}{/c} damage.
+Hash: F2DE8628, Key: simple_desc, Value: {c_gold}Cooldown: {/c}{c_green}{Cooldown Time}{/c}
+Swing wildly, hitting all enemies around you for {c_yellow}{payload:DAMAGE}{/c} damage.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Scorched Debt Ledger
+Hash: CC3C0A8F, Key: FlavorText, Value: A smoldering book wrapped in leather.
+Hash: F2CA04D8, Key: NoticeSignText, Value: I, Andreea of Lakren's Overlook, offer a debt in exchange for my deepest desires. May this ledger be bound until my desires are granted, or upon my death, whichever comes first.
+
+-Signed, Andreea of Lakren's Overlook

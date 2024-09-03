@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Untangling Truths
+Hash: 0871A46B, Key: Toast, Value: Painful memories never remain submerged.
+Hash: 0132B4FD, Key: Phase53Description, Value: Roina has asked me to place and burn the wight's hair at the shrines around Linnéad to assist in the ritual.
+
+She also mentioned that the spirits here are not fond of visitors. I should watch my step. 
+Hash: 83A65A9D, Key: Callback52Header, Value: Place offerings at the Derelict Shrines {DONE_OVER_NEEDED}
+Hash: 9FF0C7FF, Key: Phase73Description, Value: Roina says her mother taught her a ritual that can locate the wight’s lair. Now that we have its hair, she believes we can find the fiend. 
+
+She’s asked me to meet her at Linnéad, a druid site of power, to assist her in performing the ritual. 
+Hash: 4318BAA2, Key: Callback75Header, Value: Meet Roina at Linnéad
+Hash: EF4FD180, Key: Phase83Description, Value: I’ve burned the wight’s hair at the shrines around Linnéad. 
+Roina now calls me to the center of the site, claiming the ritual is working. I should speak with her.
+Hash: 2F5A8F83, Key: Callback85Header, Value: Speak with Roina

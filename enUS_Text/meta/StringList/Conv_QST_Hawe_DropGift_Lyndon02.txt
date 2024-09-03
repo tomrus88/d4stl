@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This crossbow looks like yours. Know anything about it?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Burning Hells... Rea. Yes, I know it. This is my old crossbow. Named it after the only woman I ever loved. Heh, the only one my brother loved, too. She married him.
+Hash: 6735A8AD, Key: Line3.10088C, Value: Carved her name into the hilt so I'd never forget her, or what she did. But then I got old, and the memories started to fade, or… anyway. Anger just doesn't burn quite as hot now.
+Hash: 3FB9526F, Key: Line5.10088C, Value: Ended up throwing it into the swamp. You keep it. I don't need to hold so tight to her anymore.

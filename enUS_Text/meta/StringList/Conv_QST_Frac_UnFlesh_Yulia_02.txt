@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hello
+Hash: 183F558C, Key: Line7.103AEE, Value: It’s no surprise Feodor was drawn to me, but I have given only what was desired! His petty soul has been torn asunder by agony and ecstasy, but his flesh is unyielding. You will not interfere!
+Hash: 68758159, Key: VoiceDir7.103AEE, Value: Lovingly, then raging.

@@ -1,0 +1,2 @@
+Hash: 92C33198, Key: Phase12Description, Value: Hell Portal
+Hash: 0871A46B, Key: Toast, Value: Dungeon Affixes

@@ -1,0 +1,6 @@
+Hash: F427C5EC, Key: Line3.7FA05, Value: How can you say this changes nothing? Our one potential ally just ran off with our one weapon. What’s your plan now?
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Measured
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: To stop Lilith! And damn the cost. Inarius is mad with pride. We can’t rely on him.
+Hash: 6F2B10C2, Key: Line11.6DE47, Value: Stone or no, there is someone who might stand a chance against Lilith.
+Hash: 69E26198, Key: Line15.BAE4, Value: Me?
+Hash: 3D1B9D01, Key: Line17.7FA05, Value: You bested Astaroth and Andariel both. If we can’t find that stone, you might be our next best weapon.

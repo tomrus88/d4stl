@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The road to Braestaig should be a little quieter."
+Hash: 5D23008C, Key: Line1.B79B1, Value: My thanks, wanderer. I cannot wait to visit my sister’s bairn.
+Hash: CC2C66B9, Key: VoiceDir1.B79B1, Value: Slightly guarded but greatful and hopeful.

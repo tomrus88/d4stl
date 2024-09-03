@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sanguine Chapel
+Hash: 003892BF, Key: Desc, Value: A snowed in abandoned Zakarum church invaded by vampires.

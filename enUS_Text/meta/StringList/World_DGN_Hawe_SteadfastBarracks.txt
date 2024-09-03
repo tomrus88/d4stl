@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Steadfast Barracks
+Hash: 003892BF, Key: Desc, Value: A nest of savage fanatics, drawn to evil long-buried.

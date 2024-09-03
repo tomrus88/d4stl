@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have your demon horn."
+Hash: 5D72A440, Key: Line1.EDC76, Value: Oi! You got one! Ain't that a beaut. This will show that smug bastard.
+Hash: CC7C0A6D, Key: VoiceDir1.EDC76, Value: Happy drunk, but still coherent. Very pleased with himself. 
+Hash: F7671DC2, Key: Line3.EDC76, Value: Wait a second. This looks nothing like Maric’s. Why, that lying bastard! I bet he’s been parading around a goat horn. Ach, I’m gonna kill him!
+Hash: 667083EF, Key: VoiceDir3.EDC76, Value: Realizes his brother has been tricking everyone and has been passing off a fake horn. Outraged. 

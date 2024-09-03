@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Caravan Under Siege
+Hash: C94F0905, Key: Callback87Header, Value: Speak with the villager
+Hash: 3DC59C04, Key: Callback68Header, Value: Survive the Bandit ambush
+Hash: 95661601, Key: Callback83Header, Value: Slay the remaining Bandits
+Hash: 5C2A045F, Key: Callback72Header, Value: Massacre the Bandits

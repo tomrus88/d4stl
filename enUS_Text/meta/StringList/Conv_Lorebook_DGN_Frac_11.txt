@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Blood-Speckled Journal Entry
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Blood-Speckled Journal Entry
+Hash: 59EA27BC, Key: Line1.3F381, Value: They have surrounded us. I'm sure not what or who summoned the demons here, but they overwhelmed us in the mine in mere moments. I tried to run, but stumbled over loose rocks. Now my cursed leg is broken.
+Hash: F3DEA13E, Key: Line3.3F381, Value: I can hear the echoes of other people still alive, but I can't see them. I suppose it doesn't matter. As long as the demons can’t see me, I’m safe.

@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What... Who are you?"
+Hash: 1DC29578, Key: Line13.121FCA, Value: It has been. Long. Long.
+Hash: 74BE3AE5, Key: VoiceDir13.121FCA, Value: Raspy zombie voice. Straining with every word
+Hash: 8ED78585, Key: Line1.121FCA, Value: I. Followed. Him.
+Hash: DF0DB152, Key: VoiceDir1.121FCA, Value: Raspy zombie voice. Straining with every word
+Hash: 675B2F47, Key: Line3.121FCA, Value: Hunted. Him. For Rathma.
+Hash: B7915B14, Key: VoiceDir3.121FCA, Value: Raspy zombie voice. Straining with every word
+Hash: F0E62C8D, Key: Line9.121FCA, Value: Can show you. Old. Spell.
+Hash: 411C585A, Key: VoiceDir9.121FCA, Value: Raspy zombie voice. Straining with every word
+Hash: 453EEBB6, Key: Line11.121FCA, Value: My head. Take it.
+Hash: 9C3A9123, Key: VoiceDir11.121FCA, Value: Raspy zombie voice. Straining with every word
+Hash: 2E37CDB8, Key: Line31.121FCA, Value: Will. Resist. Warned.
+Hash: 85337325, Key: VoiceDir31.121FCA, Value: Raspy zombie voice. Straining with every word

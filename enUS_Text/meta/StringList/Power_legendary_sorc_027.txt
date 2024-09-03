@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Charged Movement
+Hash: 7786FD97, Key: Buff1_Description, Value: Movement Speed increased from collecting {c_important}{u}Crackling Energy{/u}{/c}.

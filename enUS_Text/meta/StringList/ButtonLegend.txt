@@ -1,0 +1,308 @@
+Hash: B8AA9A06, Key: Hotkey_Mount, Value: {hotkey:Mount}
+Hash: 445C6662, Key: ViewParagon_ControllerShortCut, Value: {hotkey:Equippables} to view the Paragon Board
+Hash: A6A093CE, Key: PressHold_Esc, Value: {Icon:KeyPrompt_Escape, 1.2}
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 003766F1, Key: Back, Value: Back
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: 08734775, Key: Track, Value: Track
+Hash: F65A3D95, Key: OpenFlyout, Value: View Items
+Hash: 076DCC45, Key: LootQueue_EquipButton_Controller, Value: {Icon:button1, 2.0} Equip
+Hash: 7C0C84ED, Key: LootQueue_NextButton_Keyboard, Value: {hotkey:TOGGLE_FAST_EQUIP}
+Hash: 271F92CB, Key: LootQueue_PrevButton_Keyboard, Value: {hotkey:TOGGLE_FAST_EQUIP_SCROLL_DOWN}
+Hash: C45D20B2, Key: LootQueue_EquipButton_Keyboard, Value: {hotkey:TOGGLE_FAST_EQUIP_EQUIP}
+Hash: 1A994E1B, Key: Generic_CloseIcon, Value: {Icon:button2, 2.0} Close
+Hash: 1EFB8D55, Key: Generic_AcceptIcon, Value: {Icon:button1, 2.0} Accept
+Hash: EF10C8D6, Key: Generic_BackIcon, Value: {Icon:button2, 2.0} Back
+Hash: B0BDF6CB, Key: Generic_CancelIcon, Value: {Icon:button2, 2.0} Cancel
+Hash: 80B00F65, Key: Generic_SelectIcon, Value: {Icon:button1, 2.0} Select
+Hash: 0001E95F, Key: Pan, Value: Pan
+Hash: 0044CD25, Key: Zoom, Value: Zoom
+Hash: 825B7218, Key: Recenter, Value: Center on Player
+Hash: 720E9276, Key: Quest_Track_Keyboard, Value: [{hotkey:Clear}] Track
+Hash: 0922DD7E, Key: ResetTalents, Value: Reset Talents
+Hash: 9DDD8908, Key: ResetZoom, Value: Reset Zoom
+Hash: 13A1DF00, Key: Select, Value: Select
+Hash: 702A6320, Key: Create_Character, Value: Create Character
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 6B11D277, Key: QuestLog_Controller, Value: {icon:left, 2.0}
+Hash: 3465D7C8, Key: Hotkey_Quests_Keyboard, Value: {hotkey:Quests}
+Hash: 14FF086A, Key: Hotkey_QuestsToggle_Keyboard, Value: {hotkey:Quests_Toggle}
+Hash: 879117DE, Key: Prompt_ViewSkills_Keyboard, Value: {hotkey:Skills} to view Skills
+Hash: D6B77EFC, Key: Prompt_ViewGeneric_Controller, Value: {hotkey:Equippables} to view update
+Hash: 66455AA7, Key: Prompt_Close_Keyboard, Value: {hotkey:Escape} Close
+Hash: 55086091, Key: Hotkey_Map, Value: {hotkey:Map}
+Hash: 9FA61BB2, Key: SortBag, Value: Sort Bag
+Hash: 912C93D1, Key: Prompt_JournalOpen_Controller, Value: Open Journal
+Hash: 0C6C953E, Key: Prompt_JournalOpen_Keyboard, Value: Open Journal
+Hash: E05F5B15, Key: Prompt_JournalClose_Controller, Value: Close Journal
+Hash: 76FCBB82, Key: Prompt_JournalClose_Keyboard, Value: Close Journal
+Hash: BA369373, Key: Inventory_JumpBag, Value: Navigate Bags
+Hash: C6530658, Key: PartyNotification_Prompt, Value: to respond
+Hash: EB652507, Key: PartyNotification_Actions, Value: {icon:button1, 2.0} Accept   {icon:button3,2.0} Decline
+Hash: C4B0EB5A, Key: Prompt_ViewInventory_Keyboard, Value: {hotkey:Equippables} to view Inventory
+Hash: 99BB56F8, Key: Prompt_TrackQuest_Keyboard, Value: {hotkey:Fast_Quest_Track} to Track
+Hash: AD32AC0B, Key: Prompt_TrackQuest_Controller, Value: {icon:up, 2.2} to Track
+Hash: F7875024, Key: Prompt_ViewPoI, Value: Look
+Hash: E98EB7B0, Key: AddPin, Value: Pin Location
+Hash: E76C6355, Key: RemovePin, Value: Remove Pin
+Hash: 64D3B9A5, Key: Remove Pin_Keyboard, Value: Remove Pin
+Hash: E8314DE8, Key: Recenter_Keyboard, Value: Center on Player
+Hash: B81D5638, Key: Hotkey_Evade, Value: {hotkey:Evade}
+Hash: F787419A, Key: Prompt_ViewMap, Value: {hotkey:Map}  Open Map
+Hash: 7EE588AE, Key: Hotkey_Equippables, Value: {hotkey:Equippables}
+Hash: 61F6DC90, Key: Prompt_ViewPoI_InCombat, Value: {c_red}Restricted In Combat{/c}
+Hash: DBADCEE5, Key: Hotkey_Skills, Value: {hotkey:Skills}
+Hash: 8740CDEE, Key: Hotkey_Talents, Value: {hotkey:Talents}
+Hash: BB4D18ED, Key: Prompt_Traverse, Value: Traverse
+Hash: DBF5CEC4, Key: Prompt_ShowStatDetails, Value: {icon:l3, 2.0} Stats & Materials
+Hash: 10D7923E, Key: SkipWarpEffect, Value: Hold {icon:button1, 2.0} to skip cutscene
+Hash: 58F5F6E7, Key: SkipWarpEffectMouse, Value: Hold {icon:lmb, 2.0f} to skip cutscene
+Hash: 0D8E174A, Key: Prompt_Traverse_ClimbDown_Ambient, Value: to Climb Down
+Hash: E0AAF537, Key: Prompt_Traverse_ClimbUp_Ambient, Value: to Climb Up
+Hash: BEA12B84, Key: Prompt_Traverse_Crawl_Ambient, Value: to Duck
+Hash: 084CB7E7, Key: Prompt_Traverse_Jump_Ambient, Value: to Jump
+Hash: 9B4D03B3, Key: Social_PlayerOptions, Value: Player Options
+Hash: 5CE12BA6, Key: Prompt_Traverse_ZipLine_Ambient, Value: to Traverse
+Hash: 6546CC65, Key: DonateWithdraw, Value: Donate/Withdraw
+Hash: 5FDA56B3, Key: WaitSkipWarpEffect, Value: The cutscene will be skipped as soon as the game has finished loading
+Hash: 451AC250, Key: EditTabs, Value: Edit Tabs
+Hash: 36913286, Key: CloseEditTabs, Value: Close Edit Tabs
+Hash: 08099F33, Key: Generic_ConfirmIcon, Value: {Icon:button1, 2.0} Confirm
+Hash: CFB2604E, Key: Confirm, Value: Confirm
+Hash: FC9C3391, Key: SkipCutscene, Value: Skip Cutscene
+Hash: A6A0B0CE, Key: PressHold_LMB, Value: {icon:lmb, 1.2}
+Hash: 887288E0, Key: PressHold_Button1, Value: {icon:button1,1.8}
+Hash: EB7FDC7B, Key: QueueCancel_Actions, Value: {icon:button3,2.0} Decline {icon:button2,2.0} Ignore
+Hash: A6A0CA54, Key: PressHold_RMB, Value: {icon:rmb, 1.2}
+Hash: 887288E2, Key: PressHold_Button3, Value: {icon:button3,1.8}
+Hash: 887288E1, Key: PressHold_Button2, Value: {icon:button2,1.8}
+Hash: AACCCACD, Key: Accept_Action, Value: Accept
+Hash: C9020631, Key: Prompt_Traverse_MantleUp_Ambient, Value: to Mantle
+Hash: 3D9360DC, Key: Prompt_Traverse_Slide_Ambient, Value: to Slide
+Hash: E7AC9239, Key: Shop_JumpToBuyback, Value: Switch to Buyback
+Hash: 02B4CA92, Key: Shop_JumpToShop, Value: Switch to Shop List
+Hash: CE5472BA, Key: Inventory_JumpToInventory, Value: Go to Bags
+Hash: 30C5E8EF, Key: Inventory_JumpToPaperdoll, Value: Paper Doll
+Hash: 95A3836A, Key: Inventory_ViewStatDetails, Value: Stat Details
+Hash: 45332157, Key: Prompt_Traverse_Vault_Ambient, Value: to Vault
+Hash: 67ED4EC4, Key: Prompt_Traverse_MantleDown_Ambient, Value: to Mantle
+Hash: CF817B5A, Key: Options_Legend, Value: {icon:button3, 2.0} Reset to Defaults   {icon:button4, 2.0} Save Changes   {icon:button2, 2.0} Close
+Hash: 46CBFBDD, Key: LinkItem, Value: Link Item
+Hash: 5DB746F4, Key: ChatSubmit, Value: Submit
+Hash: 075001C5, Key: PartyTransfer_Actions, Value: {icon:button1, 2.0} Transfer Now   {icon:button3,2.0} Leave Party   {icon:button2,2.0} Close
+Hash: 35B90544, Key: Generic_SaveEdits, Value: {Icon:button1, 2.0} Save Edits
+Hash: 9EE596C8, Key: StartGame, Value: Start Game
+Hash: 4030EA6F, Key: Generic_Delete, Value: {Icon:button4, 2.0} Delete
+Hash: 75D5DC68, Key: Bank_SwitchToDeposit, Value: Switch to Deposit
+Hash: F62B0ABA, Key: Bank_SwitchToWithdraw, Value: Switch To Withdraw
+Hash: 003EC7F2, Key: Open, Value: Open
+Hash: 0F0BFA9C, Key: Dismiss, Value: Dismiss
+Hash: EA1DA351, Key: BreakingNewsActions, Value: {icon:button1, 2.0} Open {icon:External_Link, 1.2}     {icon:button3,2.0} Dismiss
+Hash: 693C2989, Key: Randomize, Value: Randomize All
+Hash: 05825098, Key: Deposit, Value: Deposit
+Hash: 7B6604EA, Key: Withdraw, Value: Withdraw
+Hash: 3658DAC7, Key: Unequip, Value: Unequip
+Hash: 0763A164, Key: Equip, Value: Equip
+Hash: 5D49C74F, Key: CreateAndStartGame, Value: Start Game
+Hash: 7C743C7F, Key: CustomizeZoomIn, Value: View Face
+Hash: 0AFBE740, Key: CustomizeZoomOut, Value: View Body
+Hash: BFCA5BFA, Key: MainMenu, Value: Game Menu
+Hash: 69CD83B2, Key: CustomizeRotate, Value: Rotate
+Hash: C8185ECC, Key: CustomizeRandomize, Value: Randomize All
+Hash: 82703FED, Key: ScaleUp, Value: Scale Up
+Hash: DF76A840, Key: ScaleDown, Value: Scale Down
+Hash: 9D46233A, Key: RotateLeft, Value: Rotate Left
+Hash: 4679522D, Key: RotateRight, Value: Rotate Right
+Hash: 0039C80B, Key: Flip, Value: Flip
+Hash: E42FC235, Key: EditWheelKBM, Value: Customize
+Hash: EFE6EE5F, Key: EditWheelController, Value: {icon:button1, 2.0} Confirm   {icon:button4, 2.0} Customize
+Hash: 9515E88D, Key: ConversationAdvance, Value: Advance
+Hash: 0D945CE7, Key: Prompt_ViewWheelPVP, Value: {hotkey:SOCIAL_WHEEL}: To flag yourself as Hostile
+Hash: E28B5DD2, Key: ConversationSkip, Value: Skip Conversation
+Hash: B95B7328, Key: Hotkey_Wheel, Value: {hotkey:SOCIAL_WHEEL}
+Hash: FCAB5442, Key: Prompt_Traverse_Shimmy_Ambient, Value: to Shimmy
+Hash: C85A0CDD, Key: EditListPosition_Enable, Value: Edit List Order
+Hash: E8786445, Key: EditListPosition_Save, Value: Save Position
+Hash: E870C21C, Key: EditListPosition_Edit, Value: Edit
+Hash: 80ED49FC, Key: SocialAddFriend, Value: Add Friend
+Hash: A6CB9D3C, Key: PartyNotification_Cancel, Value: {icon:button4, 2.0} Cancel Request
+Hash: 60DDCA1C, Key: generic_return, Value: {Icon:button1, 2.0} Return
+Hash: 14FE3069, Key: generic_DoNotSaveExit, Value: {Icon:button2, 2.0} Discard Changes
+Hash: 8AB94C4B, Key: Back_Esc, Value: {Icon:KeyPrompt_Escape, 2.0} Back
+Hash: 5EF40A77, Key: Clan_ClearLabels, Value: Clear Labels
+Hash: ED81B85C, Key: Waypoint_Discover_Controller, Value: Unlock Waypoint
+Hash: D58D224B, Key: Waypoint_Travel_Controller, Value: {icon:button1, 2.0} Travel
+Hash: 7BD67ED2, Key: Waypoint_Discover_KBM, Value: Unlock Waypoint
+Hash: B3E7C7A1, Key: Waypoint_Travel_KBM, Value: {icon:lmb, 2.0} Travel
+Hash: A1007DFD, Key: Clan_ClearAll, Value: Clear All
+Hash: 1AC040CD, Key: TransmogSelectSlot, Value: Select Item Slot
+Hash: D070CC0B, Key: TransmogBuySnapshot, Value: Purchase
+Hash: AB57F3CA, Key: TransmogSaveSnapshot, Value: Save
+Hash: D667F6FB, Key: TransmogLoadSnapshot, Value: Load
+Hash: 7931EB02, Key: TransmogOverwriteSnapshot, Value: Override
+Hash: BFAC275F, Key: Generic_Salvage, Value: Salvage
+Hash: C9172158, Key: Salvage_Close, Value: Cancel Salvage
+Hash: 16036C8F, Key: SocketCancel, Value: Cancel Socketing
+Hash: 3F65B2D9, Key: CloseFlyout, Value: Close
+Hash: 012E5796, Key: ClearItem, Value: Remove Item
+Hash: 2726CA4D, Key: Options_BindingClear, Value: Clear Binding
+Hash: EFBD1B40, Key: cancel_esc, Value: {icon:KeyPrompt_Escape,1.8}  Cancel
+Hash: C76BE42D, Key: Accept_Enter, Value: Accept
+Hash: 088C663C, Key: Next_Action, Value: Next
+Hash: 7C73F06D, Key: CustomizeValidate, Value: Select
+Hash: AE391AC8, Key: Prompt_ViewAchievements_Keyboard, Value: {hotkey:Collections} to view Challenges
+Hash: D830A3DB, Key: Prompt_ViewAchievements_Controller, Value: {hotkey:Map} to view Challenges
+Hash: F3542442, Key: Clan_JoinRequestOptions, Value: {icon:button4, 2.0} Accept   {icon:button3, 2.0} Reject   {icon:button2, 2.0} Close
+Hash: AC0AA099, Key: stash_Move, Value: Move to another tab
+Hash: 2D92FEE7, Key: stash_Place, Value: Place
+Hash: C0DFDF68, Key: stash_Cancel, Value: Cancel
+Hash: 049542F4, Key: Decline, Value: Decline
+Hash: 7EC0D8E8, Key: Hotkey_FastTrackQuest, Value: {hotkey:Fast_Quest_Track}
+Hash: 64FF73D8, Key: Repair_Close, Value: Cancel Repair
+Hash: 60DB425F, Key: Generic_Repair, Value: Repair
+Hash: 9467EDE0, Key: Sort_All, Value: Sort (All) {Icon:Dots_1Select, 2.0}
+Hash: E3949FE9, Key: Sort_CanCraft, Value: Sort (Can Craft) {icon:Dots_2Select, 2.0}
+Hash: 969C4207, Key: stash_MoveInventory, Value: Move to Inventory
+Hash: FFDC8050, Key: stash_MoveTab, Value: Move to Stash
+Hash: ACF38D1F, Key: Generic_ExitIcon, Value: {icon:button2, 2.0} Exit
+Hash: 79F6FD80, Key: Prompt_ViewClassUI_Keyboard, Value: {hotkey:Class_Screen} to view class update
+Hash: 3C028321, Key: Unsocket_Close, Value: Cancel Unsocketing
+Hash: E85B5DFA, Key: Clan_ClearLabels_Controller, Value: {icon:button3, 2.0}  Clear Labels
+Hash: 6EF8FE4C, Key: Clan_ApplySelection_Controller, Value: {icon:button4, 2.0}  Apply Selection
+Hash: 021456E6, Key: CancelSelect, Value: Cancel Select
+Hash: A174729A, Key: Prompt_Carriable_Drop, Value: {hotkey:Interact} To Drop
+Hash: E34964D9, Key: Generic_DeclineIcon, Value: {Icon:button2, 2.0} Decline
+Hash: 3F663E75, Key: ClanSettings_Changes_Legend, Value: {icon:button4, 2.0} Save Changes   {icon:button3, 2.0} Reset to Defaults   {icon:button2, 2.0} Close
+Hash: ECC90365, Key: FrontEnd_CharacterSelect_KBM, Value: {Icon:lmb, 1.6} Select    {Icon:rmb, 1.6} Overview
+Hash: 35C4F98F, Key: FrontEnd_CharacterSelect_Controller, Value: {Icon:button1, 1.8} Select    {Icon:button4, 1.8} Overview
+Hash: 92810492, Key: CraftingRecipes_KBM, Value: Turn-in all recipes
+Hash: 05E4461C, Key: CraftingRecipes_Controller, Value: {icon:button4,1.8}  Turn-in all recipes
+Hash: 99CEEF08, Key: heraldry_KBM_IconOptions, Value: {icon:KeyPrompt_W, 2} & {icon:KeyPrompt_S, 2} Size     {icon:KeyPrompt_A, 2} & {icon:KeyPrompt_D, 2} Rotate     {icon:KeyPrompt_E, 2} Flip     {icon:KeyPrompt_Escape, 2} Close
+Hash: A92C8152, Key: heraldry_Controller_IconOptions, Value: {icon:Dpad_V_Button, 2.0} Size   {icon:Dpad_H_Button, 2.0} Rotate     {icon:l_down, 2.0} Flip   {Icon:button4, 2.0} Save Changes   {Icon:button3, 2.0} Reset Edits   {Icon:button1, 2.0} Close   {icon:r_down, 2.0} Randomize
+Hash: 56525A9E, Key: heraldry_Controller, Value: {Icon:button4, 2.0} Save Edits     {Icon:button3, 2.0} Reset Edits    {Icon:button1, 2.0} Close     {icon:r_down, 2.0} Randomize
+Hash: CBD723E2, Key: ShowArmor, Value: Show Armor
+Hash: 3E02A61B, Key: HideArmor, Value: Hide Armor
+Hash: 1CE4CF82, Key: Clan_Heraldry_Flip, Value: Flip
+Hash: E7532804, Key: Clan_Heraldry_ScaleUp, Value: Scale Up
+Hash: 08B3F217, Key: Clan_Heraldry_ScaleDown, Value: Scale Down
+Hash: EE2CA7F1, Key: Clan_Heraldry_RotateLeft, Value: Rotate Left
+Hash: B4306DC4, Key: Clan_Heraldry_RotateRight, Value: Rotate Right
+Hash: A8F30BD3, Key: Clan_Heraldry_ResetEdits, Value: Reset Edits
+Hash: 1CEBC346, Key: Clan_Heraldry_Save, Value: Save Changes
+Hash: 1118E687, Key: AddSocket_Close, Value: Cancel Select
+Hash: 1672DB28, Key: SaveChanges, Value: Save Changes
+Hash: 64F30751, Key: RevertChanges, Value: Revert Changes
+Hash: F64B4C66, Key: Selection, Value: Selection
+Hash: EA672ABC, Key: ViewParagon_KBM, Value: {hotkey:Abilities} to view the Paragon Board
+Hash: 47709906, Key: ViewParagon_Controller, Value: Press {hotkey:Equippables} and navigate to "Abilities" to view the Paragon Board
+Hash: 61D587AB, Key: ViewItemLinks, Value: View Links
+Hash: 2B9B4C5E, Key: CollectRewards, Value: {Icon:button4, 1.8} Collect Rewards
+Hash: C45FA599, Key: Complete, Value: Complete
+Hash: 063F0221, Key: FrontEnd_UndoDelete_KBM, Value: Undo Delete
+Hash: 4B298CCB, Key: FrontEnd_UndoDelete_Controller, Value: {Icon:button3, 2.0} Undo Delete
+Hash: 24ACB85C, Key: ZoomIn, Value: Zoom In
+Hash: BA43DEBD, Key: ZoomOut, Value: Zoom Out
+Hash: 04135CB5, Key: ZoomInOrOut, Value: Zoom
+Hash: 03B5A879, Key: Generic_SubmitIcon, Value: {icon:button4, 2.0} Submit
+Hash: 7B1BBFA3, Key: Clan_Heraldry_ShowEditMode, Value: Show Edit Mode
+Hash: B4BC321D, Key: Prompt_ViewJourneyEntry_Controller, Value: {hotkey:Map} to view Eternal Journey
+Hash: B2A8308A, Key: Prompt_ViewJourneyEntry_Keyboard, Value: {hotkey:Map} to view Eternal Journey
+Hash: 90EE8569, Key: Clan_Revoke, Value: Withdraw Invite
+Hash: E32A75C4, Key: LeaveNow_Controller, Value: {icon:button3, 2.0} Leave Now
+Hash: 195CFD29, Key: WorldTier_Confirm, Value: {icon:button4, 2.0} Confirm Selection
+Hash: 90E7C55A, Key: Clan_Reject, Value: Reject
+Hash: ACC48B32, Key: Hotkey_Collections, Value: {hotkey:Collections}
+Hash: 6EEBCEA9, Key: Hotkey_ClassScreen, Value: {hotkey:Class_Screen}
+Hash: DBF2D86E, Key: Hotkey_Social, Value: {hotkey:Social}
+Hash: F60F2431, Key: Hotkey_Clan, Value: {hotkey:Clan}
+Hash: 72571882, Key: Hotkey_GameMenu, Value: {hotkey:Options}
+Hash: D4F027AD, Key: CustomizeViewFace, Value: View Face
+Hash: D4F15130, Key: CustomizeViewHead, Value: View Head
+Hash: D4EE31EC, Key: CustomizeViewBody, Value: View Body
+Hash: 36F4129C, Key: CustomizeViewBodyOrFace, Value: View Body or Face
+Hash: 72818064, Key: RegionProgress_ViewRewards_KBM, Value: {icon:KeyPrompt_W, 2} View Rewards
+Hash: 552D01AE, Key: RegionProgress_ViewRewards_Controller, Value: {icon:button4,2.0} View Rewards
+Hash: CA752BC4, Key: Acknowledge, Value: Acknowledge
+Hash: F37125AA, Key: Delete_Accept_Icon, Value: {Icon:button1, 2.0} Delete
+Hash: 425FC793, Key: Prompt_Store_Details, Value: {Icon:lmb, 1.6} Details
+Hash: B5476E5D, Key: Prompt_Store_Buy, Value: {Icon:lmb, 1.6} Buy
+Hash: 5E4248B2, Key: Prompt_Store_Zoom, Value: {icon:KeyPrompt_ScrollWheel, 1.6} Zoom
+Hash: 7E7DDD24, Key: Prompt_Store_Hide_UI, Value: {icon:mmb, 1.6} Hide UI
+Hash: 368CAA81, Key: WorldTier_Change, Value: Change World Tier
+Hash: D27D6B5E, Key: Prompt_ViewMap_Reward, Value: Rewards available! {hotkey:Map} to claim
+Hash: D74417E6, Key: POI_Cancel_KBM, Value: {icon:KeyPrompt_Escape, 2} to Cancel
+Hash: 59ADD2F0, Key: POI_Cancel_Controller, Value: {icon:button2, 2} to Cancel
+Hash: C0FFCC04, Key: MapFilter, Value: Filter
+Hash: 3F285B9C, Key: CloseFilter, Value: Close Filter
+Hash: CABC41C9, Key: Hotkey_Abilities, Value: {hotkey:Abilities}
+Hash: A1F8AF52, Key: Set_To_Default, Value: Reset to Defaults
+Hash: 38F257BD, Key: Prompt_HideStatDetails, Value: {icon:l3, 2.0} Stats & Materials
+Hash: CCE37BC0, Key: Add Pin_Keyboard, Value: Pin Location
+Hash: 616FE362, Key: BreakingNewsPrompt, Value: {icon:down, 2.0} To Respond
+Hash: DB83E1AE, Key: Back_Action, Value: Back
+Hash: BECCD7E2, Key: Preview, Value: Preview
+Hash: 7B0C8B7F, Key: ClassSelectUndoDelete, Value: {icon:KeyPrompt_U, 2} Undo Character Delete
+Hash: 6F1C2A02, Key: ClassSelectUndoDelete_Controller, Value: {Icon:button3, 2.0} Undo Character Delete
+Hash: 85A90D47, Key: GoToLink, Value: Go To Link
+Hash: 77EC0592, Key: Prompt_ViewAbilities, Value: {hotkey:Abilities} to view Abilities
+Hash: D24532AA, Key: Generic_Button2, Value: {icon:button2, 2.0}
+Hash: 45A6FDE7, Key: Prompt_OpenClassUI, Value: {hotkey:Class_Screen} to equip passives
+Hash: 7734AAED, Key: Options_FTUE_Legend, Value: {icon:button1, 2.0} Continue  {icon:r3, 2.0} Reset to Defaults
+Hash: 3F5893D4, Key: Options_FTUE_Accessibility_Legend, Value: {icon:button3, 2.0} Reset to Defaults   {icon:button4, 2.0} Start Game
+Hash: 0590C0C6, Key: Clan_Heraldry_Rotate, Value: Rotate
+Hash: BA64ECBF, Key: Clan_Heraldry_Scale, Value: Scale
+Hash: 3CFAB9F9, Key: RegionProgress_ClaimRewards_Controller, Value: {icon:button4,2.0} {c:FFbf6b31}Claim Rewards
+Hash: 6F00C70F, Key: RegionProgress_ClaimRewards_KBM, Value: {icon:KeyPrompt_W, 2} {c:FFbf6b31}Claim Rewards
+Hash: F71772D2, Key: Salvage_All_Junk, Value: Salvage All Junk
+Hash: C7A0447B, Key: Prompt_Challenges_Reward, Value: {hotkey:Collections} to claim reward(s)
+Hash: 1D3676B0, Key: Prompt_ViewClassUI, Value: {hotkey:Class_Screen} to view 
+Hash: 1AFC9033, Key: Generic_ReportContent, Value: {icon:l3, 2.0} Report Content
+Hash: AC060D28, Key: stash_Edit, Value: Edit Tab
+Hash: 5A75C5BB, Key: Wheel_Customization_Legend, Value: {icon:button4, 2.0} Save Changes {icon:button3, 2.0} Reset to Defaults   {icon:button2, 2.0} Close
+Hash: F842A8A8, Key: Unassign, Value: Unassign
+Hash: FFDC30F2, Key: stash_MoveAll, Value: Move all to another tab
+Hash: E6669EBB, Key: Stash_SelectAll, Value: Select All
+Hash: F94493E0, Key: Stash_TakeAll, Value: Take All
+Hash: C9BBCAE7, Key: Sit_Down, Value: Sit Down
+Hash: F7A84344, Key: Get_Up, Value: Get Up
+Hash: B919D1E0, Key: Hotkey_Store, Value: {hotkey:Store}
+Hash: DD73396F, Key: PartyPortal_Travel, Value: Travel
+Hash: 3535C4E8, Key: PartyPortal_Invalid, Value: {c_red}Travel Unavailable{/c}
+Hash: 50B30B4C, Key: PartyPortal_LoadingPlayer, Value: Loading Player
+Hash: 5C2EF30B, Key: PromptOnly_POI, Value: {hotkey:Interact}
+Hash: 55B49769, Key: PromptLabel_POI, Value: Look
+Hash: 10CC228A, Key: Generic_Confirm, Value: {icon:button4, 2.0} Confirm
+Hash: 88DD6281, Key: ConfirmDelete, Value: {icon:button3, 2.0} Confirm
+Hash: 22D9D1AB, Key: SortStash, Value: Sort Stash
+Hash: 4D8921B1, Key: PartyNotification_Actions_Block, Value: {icon:button1, 2.0} Accept   {icon:button3,2.0} Decline   {icon:r3, 2.0} Block
+Hash: DB3CF6FC, Key: Hotkey_Season, Value: {hotkey:Season}
+Hash: AF3638D4, Key: Capture, Value: Capture
+Hash: 9C1FCA28, Key: Prompt_ViewSeason_Controller, Value: {hotkey:Map} to view Battle Pass
+Hash: 27D7AB88, Key: GenericDismissPermanently, Value: {icon:button2, 2.0} Dismiss Permanently
+Hash: C9BB7300, Key: ClearAll, Value: {icon:button3, 2.0} Clear All
+Hash: F95ED18E, Key: DismissPermanently_SecondaryButton, Value: {icon:button4, 2.0} Dismiss Permanently
+Hash: C3800371, Key: GoToSeasonJourney_Controller, Value: {icon:button1,2.0} Go to Season Journey
+Hash: 23463702, Key: SeasonEndLogOffMessage, Value: The new season will begin soon.  You will be logged out of this game automatically, prior to the new season beginning. 
+Hash: 2556D315, Key: Prompt_ViewSeasonJourneyController, Value: {hotkey:Map} to view Season Journey
+Hash: A7AEC1C2, Key: Prompt_ViewSeasonJourneyKeybaord, Value: {icon:KeyPrompt_U, 2} to view Season Journey
+Hash: BC975595, Key: Play_Animation, Value: Play Animation
+Hash: 7E54BDA0, Key: Generic_Salvage_One, Value: Salvage One
+Hash: 7E5481D7, Key: Generic_Salvage_All, Value: Salvage Stack
+Hash: CB0B4978, Key: Reputation_ClaimReward_Controller, Value: {icon:button4,2.0} Claim Reward
+Hash: 6165576E, Key: Reputation_ClaimReward_KBM, Value: {icon:KeyPrompt_W, 2} Claim Reward
+Hash: F3966EE7, Key: Enable, Value: Enable
+Hash: 0F054754, Key: Disable, Value: Disable
+Hash: B59BA7AB, Key: LeaderboardsInspectPlayer, Value: {icon:lmb, 2} Inspect Player
+Hash: C313E6F4, Key: LeaderboardsOptions, Value: {icon:rmb, 2} Options
+Hash: CC3F622F, Key: LeaderboardsInspectPlayerController, Value: {icon:button1, 2} Inspect Player
+Hash: E7C210B8, Key: LeaderboardsOptionsController, Value: {icon:button3, 2} Options
+Hash: 6AC03D04, Key: LeaderboardsOptionsParty, Value: {icon:lmb, 2} Options
+Hash: 911D3AC8, Key: LeaderboardsOptionsPartyController, Value: {icon:button1, 2} Options
+Hash: 88AFB5EB, Key: ToggleSound, Value: {hotkey:SYSTEM_TOGGLE_SOUND}
+Hash: EC387F08, Key: OpenBanner, Value: {icon:l3, 2.0} Open Banner
+Hash: 6F002896, Key: SelectBanner, Value: Select Banner
+Hash: 03DA50A7, Key: CycleTrackedQuestPin, Value: Cycle Auto-Pin Objective
+Hash: 0BE43EA7, Key: EnableAutoPin, Value: Enable Auto-Pin
+Hash: 6337BA74, Key: DisableAutoPin, Value: Disable Auto-Pin
+Hash: F45399A0, Key: Expand, Value: Expand
+Hash: C1BC4173, Key: Collapse, Value: Collapse

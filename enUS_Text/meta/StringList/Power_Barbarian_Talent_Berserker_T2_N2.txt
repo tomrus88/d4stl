@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Expose Vulnerability
+Hash: 003892BF, Key: desc, Value: Dealing direct damage with a {c_important}Weapon Mastery{/c} skill causes your next {c_important}Core{/c} Skill to make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}[{SF_0}]{/c} |4second:seconds;.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} {c_important}Vulnerable{/c} Duration {icon:arrow,1.2} {c_number}[{SF_0}|1|]{/c}
+Hash: 14C66756, Key: Buff3_Name, Value: Expose Vulnerability
+Hash: 16451099, Key: Buff3_Description, Value: Dealing direct damage with a {c_important}Weapon Mastery{/c} skill causes your next {c_important}Core{/c} Skill to make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}[{SF_0}]{/c} |4second:seconds;.

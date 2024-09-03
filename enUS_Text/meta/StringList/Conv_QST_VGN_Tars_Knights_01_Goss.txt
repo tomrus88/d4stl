@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's going on here?"
+Hash: 59F2E91B, Key: Line1.5423F, Value: Nothing to do with you. Stay off the road west to Caldeum.

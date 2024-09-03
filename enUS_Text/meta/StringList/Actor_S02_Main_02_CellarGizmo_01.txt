@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lore on Skull of Vampire
+Hash: F2CA04D8, Key: NoticeSignText, Value: Hints about the skull of a powerful vampire that was reduced to only a skull, refusing to die. Feasting off of fear, its life force faded but power lurked just below the surface, waiting. 

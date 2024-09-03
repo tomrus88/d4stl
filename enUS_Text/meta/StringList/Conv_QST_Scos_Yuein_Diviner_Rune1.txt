@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I’m ready."
+Hash: 5D28A609, Key: Line1.AAE9B, Value: Wonderful! Two of the runestones lie within the Deep Forest.
+Hash: CC320C36, Key: VoiceDir1.AAE9B, Value: happy
+Hash: 9111990D, Key: Line5.AAE9B, Value: The third was hidden deep within the Wretched Delve, the entrance to which sits down by the ocean's edge.
+Hash: 65381056, Key: Line13.BAE4, Value: I’m ready to go.
+Hash: 72338A1A, Key: Line11.AAE9B, Value: Return here when you find them.

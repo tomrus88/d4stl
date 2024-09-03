@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Companion Intro
+Hash: 003892BF, Key: Desc, Value: Awards base000 Dog Companion

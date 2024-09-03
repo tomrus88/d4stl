@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Herald of Malphas: Fractured Peaks
+Hash: 0871A46B, Key: Toast, Value: The demon Malphas is easily provoked. Threaten its power, and it will send the strongest of its demons to attack. 
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat a Herald of Malphas: {DONE_OVER_NEEDED}

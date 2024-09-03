@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Focused Rage
+Hash: 003892BF, Key: Desc, Value: After spending {c_random}[Affix_Value_2]{/c} Fury within {c_number}[Affix."Static Value 0"]{/c} seconds, your next Non-{c_important}Basic{/c} Skill's Critical Strike Chance is increased by {c_number}[Affix_Value_1|%+|]{/c}.

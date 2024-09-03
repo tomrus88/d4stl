@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Fury Against Fate
+Hash: 8ED9FF19, Key: Line1.1275AB, Value: Crane Tribe knows well the price of cowardice.
+Hash: DF102AE6, Key: VoiceDir1.1275AB, Value: direct, strong, sincere
+Hash: 675DA8DB, Key: Line3.1275AB, Value: If we stop here, we prove we are no better.
+Hash: B793D4A8, Key: VoiceDir3.1275AB, Value: direct, strong, sincere
+Hash: 3FE1529D, Key: Line5.1275AB, Value: Show these mongrels that we will never again surrender to fear.
+Hash: 90177E6A, Key: VoiceDir5.1275AB, Value: direct, strong, sincere
+Hash: 1864FC5F, Key: Line7.1275AB, Value: Together, we are the mountain that cannot fall.
+Hash: 689B282C, Key: VoiceDir7.1275AB, Value: strong, proud, stirring

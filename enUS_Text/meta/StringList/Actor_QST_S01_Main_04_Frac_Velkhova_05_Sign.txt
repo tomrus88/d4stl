@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Damaged Book
+Hash: F2CA04D8, Key: NoticeSignText, Value: The book is severely damaged from age and neglect, bookmarked to a ritual that is mostly illegible.

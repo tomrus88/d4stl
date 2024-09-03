@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bait the Trap
+Hash: 3FE06F6A, Key: Line5.124D40, Value: You're really going without me again? After what happened?
+Hash: 183CFC31, Key: Line7.10088C, Value: I can handle myself, Orton.
+Hash: F0E7C2EE, Key: Line9.124D40, Value: You’d have never walked into a trap like that before, let alone open the door for it to happen again.
+Hash: 4519651C, Key: Line11.10088C, Value: (sigh) Don’t worry. Should I be mortally wounded, I'll stay alive just long enough to deliver my crossbow to you.
+Hash: 9C150A89, Key: VoiceDir11.10088C, Value: Teasing.
+Hash: 1DC42BD9, Key: Line13.124D40, Value: (chortle) You’d better.
+Hash: 74BFD146, Key: VoiceDir13.124D40, Value: Reluctant good humor.

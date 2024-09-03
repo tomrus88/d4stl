@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hydra's Tongue
+Hash: A646FFA4, Key: Description, Value: The hydra's fire must be controlled, lest it rage beyond sorcerous intent. -Ashval the Red
+Hash: 083EE0CE, Key: Quote, Value: Swiftly spreading fire.
+Hash: 13A53A8B, Key: Series, Value: "Ancient Hydra" Mount Armor

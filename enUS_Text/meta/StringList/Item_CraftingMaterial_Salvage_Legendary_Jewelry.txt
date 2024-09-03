@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Abstruse Sigil
+Hash: A646FFA4, Key: Description, Value: Salvaged from, and used to improve, {c_legendary}Legendary{/c} {c_important}Jewelry{/c}.
+Hash: F5C7BC0A, Key: Flavor, Value: Fragments from storied relics and talismans with truly unusual properties.

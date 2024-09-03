@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Banished Lord's Talisman
+Hash: 7786FD97, Key: Buff1_Description, Value: After spending {SF_1} of your Primary Resource, your next Core Skill is guaranteed to Overpower.

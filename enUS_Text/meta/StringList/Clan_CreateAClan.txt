@@ -1,0 +1,38 @@
+Hash: ADA8F133, Key: CreateAClan, Value: Create Clan
+Hash: 003DFCC1, Key: Name, Value: Clan Name
+Hash: 0001FA5C, Key: Tag, Value: Clan Tag
+Hash: A646FFA4, Key: Description, Value: Clan Description
+Hash: 114A0B04, Key: Region, Value: Region
+Hash: 02FFE5F3, Key: Labels, Value: Labels
+Hash: EF6323D0, Key: EditRegionAndLabels, Value: Edit Region & Labels
+Hash: 00021031, Key: Yes, Value: Yes
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 540804B8, Key: CreateClanDetails, Value: All pending clan applications and invites will be withdrawn once you create your own clan.
+Hash: F8DBF260, Key: CloseRegionAndLabels, Value: Close Region & Labels
+Hash: 2B93007E, Key: CharacterLimit200, Value: 
+Hash: 77B1DAA2, Key: CharacterLimit6, Value: e.g. LC
+Hash: 6DED2E8E, Key: CharacterLimit20, Value: e.g. Lilith's Chosen
+Hash: 70118037, Key: NameBeingUsed, Value: Name in use
+Hash: BF07FC32, Key: TagBeingUsed, Value: Tag in use
+Hash: F275492A, Key: EditRegion, Value: Edit Region
+Hash: E42B2419, Key: EditLabels, Value: Edit Labels
+Hash: 444E4880, Key: TagDescription, Value: Abbreviation of Clan Name
+Hash: 83DA6B18, Key: CharacterLimitReached, Value: Character Limit Reached ({s1})
+Hash: FDD6A72C, Key: RegionAndLabelsTitle, Value: Region & Labels
+Hash: ABDE0F23, Key: RequiredTitle, Value: Required
+Hash: 5DC4B8A7, Key: AdditionalInfoTitle, Value: Additional Information
+Hash: 660D8248, Key: InformationTitle, Value: Information
+Hash: 0DDE0B5D, Key: OptionalFields, Value: Optional
+Hash: B72D1736, Key: CreateAClan_Controller, Value: {icon:button4, 2.0} Create Clan
+Hash: 94C3E3EC, Key: LanguageAndLabelsTitle, Value: Language & Labels
+Hash: 87ED3A10, Key: EditLanguageAndLabels, Value: Edit Language & Labels
+Hash: A4EC1C46, Key: LanguageTitle, Value: Language
+Hash: E57FC64F, Key: CharacterUnderMin, Value: {s1} or more characters required
+Hash: F3B61427, Key: LabelsLimit5, Value: You can select up to 5 labels
+Hash: 866D9651, Key: ClanNameTagWarning, Value: {c_highlight}Important:{/c} You will not be able to change the Clan's Name or Tag after it has been created.
+Hash: 38C92EA8, Key: RenameClanTagWarning, Value: {c_highlight}Important:{/c} You will not be able to change this Clan's Name or Tag for three days after you have confirmed any changes.
+Hash: BA20F41D, Key: RenameCooldown, Value: {s1}d {s2}h still remain before you can change the Clan Name or Tag again
+Hash: A61F29BB, Key: RenameLastEdited, Value: Last edited by {s1}
+Hash: 7685CD36, Key: RenameClan, Value: Rename Clan
+Hash: 93C777FC, Key: RenameDescription, Value: Edit your Clan Name or Tag
+Hash: E111C990, Key: RenameDisabled, Value: You don’t have permission to edit the Clan name and tag

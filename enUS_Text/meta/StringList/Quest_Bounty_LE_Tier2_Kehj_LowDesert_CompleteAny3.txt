@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Southern Expanse Events
+Hash: 0871A46B, Key: Toast, Value: Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.
+Hash: 45172A5D, Key: Callback34Header, Value: Complete events in different areas of the Southern Expanse: {DONE_OVER_NEEDED}

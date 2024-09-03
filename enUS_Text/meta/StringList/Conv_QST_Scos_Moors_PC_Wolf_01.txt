@@ -1,0 +1,12 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who might you be?"
+Hash: F67D63C1, Key: Line15.15481B, Value: (growling)
+Hash: 4D79092E, Key: VoiceDir15.15481B, Value: Wolf is suspicious of this outsider--are they a Knight Penitent?
+Hash: D4479923, Key: Line1.BAE4, Value: Easy, my friend. I’m not one of the Knights.
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: Cautious--interacting with a wild wolf. Don't know if they are a friend or enemy yet.
+Hash: CF010D83, Key: Line17.15481B, Value: (sniffing)
+Hash: 25FCB2F0, Key: VoiceDir17.15481B, Value: Wolf sniffs at the Player, trying to decide whether they are friend or foe.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: I’m looking for your master, Nafain. Think you could help me with that?
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: Hint of hopefulness--maybe this wolf can help us
+Hash: A784B745, Key: Line19.15481B, Value: (bark)
+Hash: FE805CB2, Key: VoiceDir19.15481B, Value: A short affirmative growl-bark--not threatening, but the wolf's way of saying "yes."
+Hash: 65381056, Key: Line13.BAE4, Value: Good boy. Lead the way.

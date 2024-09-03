@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Chalk Writing Over Ancient Symbols
+Hash: CC3C0A8F, Key: FlavorText, Value: "Rathma"
+Hash: F2CA04D8, Key: NoticeSignText, Value: She was so proud in the telling of this part. Lilith and Inarius bore a son together: Rathma. He is wise beyond years, the first to untangle the power of necromancy. She says his lair lies deeper in...

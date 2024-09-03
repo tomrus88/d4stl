@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Well Supplied
+Hash: 003892BF, Key: Desc, Value: Collect every common, uncommon, and rare crafting material.
+Hash: 3A4912CF, Key: DescShort, Value: Collect crafting materials.
+Hash: 3DA46252, Key: Crit_234969, Value: Iron Chunk
+Hash: 3DA4626A, Key: Crit_234970, Value: Rawhide
+Hash: 3DA4626B, Key: Crit_234971, Value: Bundled Herbs
+Hash: 3DA462AC, Key: Crit_234990, Value: Veiled Crystal
+Hash: 3DA462AD, Key: Crit_234991, Value: Scattered Prism

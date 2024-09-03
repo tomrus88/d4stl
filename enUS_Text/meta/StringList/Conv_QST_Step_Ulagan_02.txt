@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is this the right place?"
+Hash: 8EE1116A, Key: Line1.11E336, Value: So, uh... as I was saying, I don't know precisely where it's hidden. But this is the place. So it should be buried around here somewhere.
+Hash: DF173D37, Key: VoiceDir1.11E336, Value: Emphasis on "precisely." Faking sincerity and trying to be amicable, encouraging to the player.
+Hash: 6764BB2C, Key: Line3.11E336, Value: I sure hope nothing's happened to it. Help me look around, will you?
+Hash: B79AE6F9, Key: VoiceDir3.11E336, Value: Faking sincerity and concern while gently encouraging the player to help him.

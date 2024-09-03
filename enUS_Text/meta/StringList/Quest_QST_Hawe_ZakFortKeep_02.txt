@@ -1,0 +1,31 @@
+Hash: 003DFCC1, Key: Name, Value: Entombed Hatred
+Hash: 0871A46B, Key: Toast, Value: Explore the Foul Undercrypts
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with Donan in the Foul Undercrypts
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: 8784047D, Key: Phase17Description, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: EA338665, Key: Phase17OutsideSubzoneHeader, Value: Search the Foul Undercrypts
+Hash: 0687FA1D, Key: Callback16Header, Value: Search the Foul Undercrypts
+Hash: 008DE739, Key: Phase31Description, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: E93E3CA1, Key: Phase31OutsideSubzoneHeader, Value: Slay the Ancient Paladin and his guards in the Foul Undercrypts
+Hash: 112E3759, Key: Callback30Header, Value: Slay the Ancient Paladin and his guards
+Hash: 573574E0, Key: Phase38Description, Value: Donan's ritual failed, and almost killed us both as a result. Hopefully he has an idea of what to do next.
+Hash: 20991628, Key: Phase38OutsideSubzoneHeader, Value: Speak with Donan in the Foul Undercrypts
+Hash: 2C05E0A0, Key: Callback37Header, Value: Speak with Donan
+Hash: D03F579C, Key: Phase52Description, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: 1FA3CC64, Key: Phase52OutsideSubzoneHeader, Value: Accompany Donan to the Black Tomb of Sankekur
+Hash: 81A7EAE2, Key: Callback93Header, Value: Accompany Donan to the Black Tomb of Sankekur
+Hash: 145F3402, Key: Phase67Description, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: 2790FB8A, Key: Phase67OutsideSubzoneHeader, Value: Break down the Warded Door in the Foul Undercrypts
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Break down the Warded Door
+Hash: E410A465, Key: Phase88Description, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: 5DF68B4D, Key: Phase88OutsideSubzoneHeader, Value: Speak with Donan in the Foul Undercrypts
+Hash: C94F0905, Key: Callback87Header, Value: Speak with Donan
+Hash: D6E10F8C, Key: Phase106Description, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: 830B7254, Key: Phase106OutsideSubzoneHeader, Value: Enter the Foul Undercrypts
+Hash: E6570D8F, Key: Callback108Header, Value: Enter the Foul Undercrypts
+Hash: F54CBBAC, Key: Phase115Description, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: A4AAC274, Key: Phase115OutsideSubzoneHeader, Value: Protect Donan in the Foul Undercrypts
+Hash: 859EA5AF, Key: Callback117Header, Value: Protect Donan
+Hash: A6927FEF, Key: Phase127Description, Value: Deep in the crypts below the Zakarum Keep, Donan prepares to attune the soulstone to Mephisto's essence.
+Hash: B9710217, Key: Phase127OutsideSubzoneHeader, Value: Protect Donan in the Foul Undercrypts
+Hash: 2A395C6D, Key: Callback133Header, Value: Destroy the Manifestation of Hate

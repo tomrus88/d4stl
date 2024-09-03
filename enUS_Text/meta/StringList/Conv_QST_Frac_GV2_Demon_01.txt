@@ -1,0 +1,2 @@
+Hash: 8EF3455B, Key: Line1.12E8C1, Value: Thief! You won't take my master's book!
+Hash: DF297128, Key: VoiceDir1.12E8C1, Value: angry   

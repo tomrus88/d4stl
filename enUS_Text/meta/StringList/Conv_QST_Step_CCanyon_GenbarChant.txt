@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Genbar Prayer pt 1
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Genbar
+Hash: 59D05F38, Key: Line1.371E1, Value: Oh Mother, thank you for opening my eyes. Your hatred fills my heart—I cannot stop my hands from working!
+Hash: C8D9C565, Key: VoiceDir1.371E1, Value: Praying to altar of Lilith (5ft away.) Empassioned. Feverish/madness.

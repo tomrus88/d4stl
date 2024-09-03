@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Who can quell the wrath of nature?
+Hash: 3FC40BBF, Key: Callback27Header, Value: Slay all enemies in the Encroaching Thickets{KAM_REVEALED_COUNT}
+Hash: C5FA5A22, Key: Callback39Header, Value: Travel to the {LEVELAREA}
+Hash: CB4D78C0, Key: Callback46Header, Value: Defeat {MONSTER}

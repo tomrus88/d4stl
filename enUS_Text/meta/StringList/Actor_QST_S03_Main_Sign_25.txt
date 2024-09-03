@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scribbled Hypothesis 
+Hash: F2CA04D8, Key: NoticeSignText, Value: "We use runes to bind elements to metal. But perhaps their potential is yet unrealized? Could a rune bind hands to a chair? A soul to a body?" 

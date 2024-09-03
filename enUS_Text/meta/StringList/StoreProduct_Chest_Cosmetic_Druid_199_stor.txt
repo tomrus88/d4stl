@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vitreous Behemoth Carapace
+Hash: 13A53A8B, Key: Series, Value: "Vitreous Scourge"

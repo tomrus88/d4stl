@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A World Apart
+Hash: 3A4912CF, Key: DescShort, Value: Change the {icon:Marker_WorldTiers, 2.5} World Tier. Look for this on your Map

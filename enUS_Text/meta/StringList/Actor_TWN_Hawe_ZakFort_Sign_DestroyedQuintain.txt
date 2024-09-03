@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Destroyed Quintain
+Hash: F2CA04D8, Key: NoticeSignText, Value: A quintain formerly used by the Crusaders to prepare for battle. It has since wasted away with the rest of the fortress.

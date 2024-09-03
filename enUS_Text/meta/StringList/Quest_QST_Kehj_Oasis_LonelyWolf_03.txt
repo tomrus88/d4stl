@@ -1,0 +1,25 @@
+Hash: 003DFCC1, Key: Name, Value: Head of the Snake
+Hash: 0871A46B, Key: Toast, Value: Asa and Dawood have a new lead on the bandits operating around the oasis.
+Hash: 92C33198, Key: Phase12Description, Value: The bandits have no loyalty to the Triune. The cultists are using the bandits as guards. However, the medallion we found should let us in to the Triune Hideout.
+
+We must find the pillar the bandit told us about.
+Hash: 85A4CA58, Key: Callback11Header, Value: Find the pillar
+Hash: 1315987A, Key: Phase23Description, Value: The hideout discovered, it's time to confront the Triune cultists.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Enter the Triune's Hideout
+Hash: F5F387E2, Key: Phase58Description, Value: The bandits have no loyalty to the Triune. The cultists are using the bandits as guards. However, the medallion we found should let us in to the Triune Hideout.
+
+We found the pillar but not an entrance. It should be near by.
+Hash: 04898A62, Key: Callback57Header, Value: Find the hideout's entrance
+Hash: 01D782C1, Key: Phase75Description, Value: Dawood has captured a bandit scouting around Dahlgur. Dawood believes the bandit knows something he isn't telling. I should see if I can learn anything.
+Hash: F61E7DE1, Key: Callback74Header, Value: Interrogate the bandit
+Hash: 5C75B95D, Key: Phase80Description, Value: The bandits have no loyalty to the Triune. The cultists are using the bandits as guards. However, the medallion we found should let us in to the Triune Hideout.
+
+I should speak with the Iron Wolves.
+Hash: 7701ADA6, Key: Callback79Header, Value: Speak with Asa
+Hash: 51368C42, Key: Phase85Description, Value: The bandits have no loyalty to the Triune. The cultists are using the bandits as guards. However, the medallion we found should let us in to the Triune Hideout.
+
+Dawood and Asa are waiting for me near Uldur's Cave.
+Hash: E26052C2, Key: Callback84Header, Value: Speak with Asa near Uldur's Cave
+Hash: CEA227A3, Key: Callback94Header, Value: Enter the Triune's Hideout
+Hash: 13139A08, Key: Phase102Description, Value: The Triune cultist was carrying a medallion. Perhaps it can tell us more about the cultists' plan.
+Hash: CB7F6448, Key: Callback101Header, Value: Speak with Haddad in Dahlgur

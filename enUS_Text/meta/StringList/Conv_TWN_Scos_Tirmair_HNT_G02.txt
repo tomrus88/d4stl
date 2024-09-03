@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D72A5E7, Key: Line1.EDBE0, Value: (sigh) Damn. I thought you were clean. I'll try and find some use for you, little one. Corrupted or no, I'll not let your death be for nothing.
+Hash: CC7C0C14, Key: VoiceDir1.EDBE0, Value: heavy sigh

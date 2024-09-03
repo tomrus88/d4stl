@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: A Deepening Shadow
+Hash: 003892BF, Key: Desc, Value: Complete the A Deepening Shadow questline in Scosglen.
+Hash: 3DA554AA, Key: Crit_236059, Value: A Deepening Shadow
+Hash: 3DA554C2, Key: Crit_236060, Value: The Old Ways
+Hash: 3DA554C3, Key: Crit_236061, Value: A Sliver of Light

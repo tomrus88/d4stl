@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's your story?"
+Hash: 8F18B590, Key: Line1.14FBD8, Value: I was wounded in the Days of Ash. I touched the demon’s flame. Thought I was being brave at the time.
+Hash: 40200914, Key: Line5.14FBD8, Value: I can still feel the fire dancing across my hands… burning the skin away…
+Hash: 18A3B2D6, Key: Line7.14FBD8, Value: Everything hurts to touch--except coin.

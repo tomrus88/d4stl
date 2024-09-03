@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are you feeling about the upcoming fight?"
+Hash: 5D6B62D2, Key: Line1.F79D1, Value: How is sparring and training with dummies supposed to prepare me for fighting ghosts?
+Hash: F75FDC54, Key: Line3.F79D1, Value: What if they turn me into one?

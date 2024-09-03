@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Compound Fracture
+Hash: 003892BF, Key: desc, Value: After Critically Striking {c_number}{SF_1}{/c} times with {c_important}Bone{/c} Skills, your {c_important}Bone{/c} Skills deal {c_number}[{SF_0} * 100|%x|]{/c} increased damage for {c_number}{buffduration:BUFF_BONUS_DAMAGE}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Bonus {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Critical Skill Damage Count
+Hash: C6E60718, Key: Buff2_Description, Value: Critical Skill Damage Count
+Hash: 14C66756, Key: Buff3_Name, Value: Solid Bones
+Hash: 16451099, Key: Buff3_Description, Value: Dealing bonus damage with {c_important}Bone{/c} Skills.

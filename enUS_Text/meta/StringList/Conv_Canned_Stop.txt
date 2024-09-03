@@ -1,0 +1,2 @@
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: Stop!
+Hash: AFDD2476, Key: Line22.BAE4, Value: Wait!

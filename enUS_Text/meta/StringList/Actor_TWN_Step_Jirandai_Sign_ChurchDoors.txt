@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Church Doors
+Hash: F2CA04D8, Key: NoticeSignText, Value: A once-mighty church of the Zakarum, built at the height of their empire. Even ruined, it lends a sense of legitimacy to the new masters of Jirandai- the merchants of the Dry Steppes.

@@ -1,0 +1,7 @@
+Hash: 68F39040, Key: ThreatLevel, Value: Threat Level
+Hash: D2B7E7E4, Key: ThreatLevelDescription, Value: 
+Hash: A5238374, Key: Helltide_ThreatTitle, Value: Threat Level
+Hash: 36A346FA, Key: Helltide_ThreatLevel0, Value: Unseen
+Hash: 36A346FB, Key: Helltide_ThreatLevel1, Value: Noticed
+Hash: 36A346FC, Key: Helltide_ThreatLevel2, Value: Hunted
+Hash: 36A346FD, Key: Helltide_ThreatLevel3, Value: Hellmarked

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Knights Penitent Medallion of the Faithful
+Hash: F5C7BC0A, Key: Flavor, Value: This medallion is given to outsiders as a token of good faith. Iosef said it will grant access to Kor Valar. 

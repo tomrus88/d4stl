@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Conjured Carnage
+Hash: 003892BF, Key: Desc, Value: Get 200 kills with your Conjurations. 

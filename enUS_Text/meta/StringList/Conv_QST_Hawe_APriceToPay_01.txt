@@ -1,0 +1,6 @@
+Hash: 5D6A29D5, Key: Line1.F5300, Value: If you're hiding her, it's going to be worse for you!
+Hash: CC739002, Key: VoiceDir1.F5300, Value: Threatening
+Hash: F75EA60C, Key: Line3.F52F0, Value: I told you to get out! (cough) I don't know where that stupid girl is!
+Hash: 66680C39, Key: VoiceDir3.F52F0, Value: Frustrated, angry, exhausted. Someone you dislike is badgering you about a thing you don't care about.
+Hash: 91531CD9, Key: Line5.F5300, Value: Hmph. I'll be watching.
+Hash: 005C8306, Key: VoiceDir5.F5300, Value: Threatening, said as you walk away.

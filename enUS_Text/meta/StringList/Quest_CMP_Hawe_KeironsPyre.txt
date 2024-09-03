@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Eriman's Pyre
+Hash: 0871A46B, Key: Toast, Value: The flames that engulf this remote settlement have raged for decades
+Hash: B7C13929, Key: Callback111Header, Value: Explore Eriman's Pyre
+Hash: 9CB75DB3, Key: Callback274Header, Value: Retrieve the Villagers' Remains and use them to extinguish Erimans' flames
+Hash: 58D5557C, Key: Callback24Header, Value: Slay Duz'Agur, Eriman's Bane
+Hash: 6A9510E0, Key: Callback55Header, Value: Rekindle the Wanderer's Shrine to conquer Eriman's Pyre
+Hash: 8E467330, Key: Callback172Header, Value: Slay the Fallen Overseer
+Hash: 75352973, Key: Callback175Header, Value: Retrieve the Villagers' Remains
+Hash: 955FF158, Key: Callback189Header, Value: Return to the Pyre
+Hash: 4C68720F, Key: Callback225Header, Value: Speak with the Spirit of the Pyre
+Hash: CB85424A, Key: Callback220Header, Value: Extinguish Eriman's Pyre

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: An Unlawful Order
+Hash: 059C64AB, Key: Callback5Header, Value: Find Osric
+Hash: B98DBD5C, Key: Callback15Header, Value: Speak with Edgar
+Hash: EC8B1AEE, Key: Callback8Header, Value: Defeat Osric and his Knights
+Hash: BEE0DBFA, Key: Callback22Header, Value: Confront Osric 

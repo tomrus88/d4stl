@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Eldritch Conclave
+Hash: 003892BF, Key: Desc, Value: A hidden meeting place for the witches of Hawezar.

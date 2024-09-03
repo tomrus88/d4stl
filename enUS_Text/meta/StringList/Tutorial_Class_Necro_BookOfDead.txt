@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Summoning
+Hash: 7BFE534B, Key: simple_instruction, Value: Level up to unlock more minion types and abilities. 

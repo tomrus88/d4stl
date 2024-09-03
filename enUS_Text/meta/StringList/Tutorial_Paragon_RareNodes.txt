@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Rare Nodes
+Hash: 7BFE534B, Key: simple_instruction, Value: You are approaching a {c_rare}Rare Node{/c}. Rare nodes appear in clusters with Magic nodes and give you higher stats.

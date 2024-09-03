@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this."
+Hash: 5D2A974D, Key: Line1.AF573, Value: This is excellent! You've a keen eye.
+Hash: F71F10CF, Key: Line3.AF573, Value: It's a talisman, a focus. See the face: a fox or a wolf. Druids learning to shape shift use these to focus their power.
+Hash: 91138A51, Key: Line5.AF573, Value: Now, there's one last stop I'd like to make before Túr Dúlra.

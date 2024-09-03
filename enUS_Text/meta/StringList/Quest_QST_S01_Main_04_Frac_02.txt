@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: A Merciful Fate
+Hash: 68161728, Key: Phase3Description, Value: Varshan’s corruption is captured. His life is ended, but will the Malignant die with him? I should find Cormond by his wagon.
+Hash: 1EADAE68, Key: Callback2Header, Value: Meet Cormond at his wagon outside of Velkhova
+Hash: 2F5A8F83, Key: Callback85Header, Value: Speak with Cormond
+Hash: 8229E9A3, Key: Phase86Description, Value: Varshan’s corruption is captured. His life is ended, but will the Malignant die with him? I should find Cormond by his wagon. 
+Hash: 164945C6, Key: Callback88Header, Value: Speak with Cormond

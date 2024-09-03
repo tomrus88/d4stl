@@ -1,0 +1,26 @@
+Hash: 003DFCC1, Key: Name, Value: Votive Passing
+Hash: 0871A46B, Key: Toast, Value: The dead live on in those who survive.
+Hash: 61CFD437, Key: Phase11Description, Value: Chieftain Asgail has asked that I find the bodies of hunters who went missing during the spirit uprising and mark them with charms of passing. 
+
+It’s time to return to the hills and give the dead proper rest.
+Hash: 38AA8D97, Key: Callback10Header, Value: Mark the resting sites of the lost hunters: {DONE_OVER_NEEDED}
+Hash: B87761DE, Key: Phase18Description, Value: A dying man in the hills gave me a handmade torc and whispered thanks to Maisie before passing.
+
+I should visit Braestaig and see if Maisie knows of this man or his torc.
+Hash: 24EC6278, Key: Callback20Header, Value: Deliver the Handmade Torc to Maisie
+Hash: 3226125E, Key: Phase54Description, Value: Maisie attempted to help travelers of the hills with torcs of protection, but now recognizes that death is not so easily avoided. She’s struggling to understand why Airidah welcomed such death. 
+
+I should offer some words of guidance to comfort her.
+Hash: BCE26C3F, Key: Callback63Header, Value: Comfort Maisie
+Hash: D0E42560, Key: Phase74Description, Value: Chieftain Asgail has asked that I find the bodies of hunters who went missing during the spirit uprising and mark them with charms of passing. 
+
+It’s time to return to the hills and give the dead proper rest.
+Hash: 9012F763, Key: Callback76Header, Value: Search for the source of the voice
+Hash: 5C75B95D, Key: Phase80Description, Value: Chieftain Asgail has asked that I find the bodies of hunters who went missing during the spirit uprising and mark them with charms of passing. 
+
+It’s time to return to the hills and give the dead proper rest.
+Hash: 486BD940, Key: Callback82Header, Value: Take the {ITEM}
+Hash: ABD4C2DE, Key: Phase90Description, Value: Chieftain Asgail has asked that I find the bodies of hunters who went missing during the spirit uprising and mark them with charms of passing. 
+
+It’s time to return to the hills and give the dead proper rest.
+Hash: 34ADAE21, Key: Callback92Header, Value: Speak with the Wounded Hunter

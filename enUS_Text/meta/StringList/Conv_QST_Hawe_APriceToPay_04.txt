@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "She tried to cure you?"
+Hash: 5D6A2C8A, Key: Line1.F52F0, Value: That girl was always feeding me some awful concoction made from who knows what.
+Hash: CC7392B7, Key: VoiceDir1.F52F0, Value: The player has asked about your foolish daughter's attempts to cure your chronic illness. All her ideas are bad.
+Hash: 2B479910, Key: Line7.F52F0, Value: Even tried to drag me to Wejinhani. "There's healers there! They can help!" Hah, as if those (cough) hut-dwelling savages know any better.
+Hash: 9A50FF3D, Key: VoiceDir7.F52F0, Value: Pronounciation: Weh-Jin-hahn-Ee. A place of "alternative medicine" you find extremely primitive.

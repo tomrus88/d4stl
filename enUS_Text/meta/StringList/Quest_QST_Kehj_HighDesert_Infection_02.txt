@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Road to Ruin
+Hash: 0871A46B, Key: Toast, Value: Mahjoob's "simple bite" has festered into something more.
+Hash: C45B5CBD, Key: Phase35Description, Value: His wounds worsening, Mahjoob needs to get to his safehouse. I should accompany him to keep him safe from the many dangers of the desert.
+Hash: 45172A5D, Key: Callback34Header, Value: Accompany Mahjoob
+Hash: 9FF0C7FF, Key: Phase73Description, Value: Safety, at last! We made it through the onslaught of fly demons, arriving at Mahjoob's safehouse.
+Hash: 5C2A045F, Key: Callback72Header, Value: Speak with Mahjoob by his safehouse
+Hash: 8229E9A3, Key: Phase86Description, Value: The fly demons are unrelenting, attacking us again and again. The flies seem to be drawn to us.
+Hash: 2C3DAA2A, Key: Callback211Header, Value: Return to Mahjoob
+Hash: CB7F6448, Key: Callback101Header, Value: Help Mahjoob up
+Hash: FF9997EC, Key: Phase214Description, Value: His wounds worsening, Mahjoob needs to get to his safehouse. I should accompany him to keep him safe from the many dangers of the desert.
+Hash: AD20D9EF, Key: Callback216Header, Value: Accompany Mahjoob
+Hash: 7FEBFECE, Key: Phase225Description, Value: The fly demons are unrelenting, attacking us again and again. The flies seem to be drawn to us.
+Hash: FF6E354E, Key: Callback224Header, Value: Check on Mahjoob

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tongue-Collector's Berk
+Hash: 13A53A8B, Key: Series, Value: "Tongue Ripper"

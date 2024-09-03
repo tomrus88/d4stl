@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wonders Distilled
+Hash: 3A4912CF, Key: DescShort, Value: Craft Elixirs of any type at the {icon:Marker_Crafter_Alchemist, 2.5} Alchemist

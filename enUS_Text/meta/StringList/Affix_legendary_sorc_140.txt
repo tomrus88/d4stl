@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Tenuous Destruction
+Hash: 003892BF, Key: Desc, Value: Deal {c_random}[Affix_Value_1|1%x|]{/c} increased damage while you have no {c_important}Defensive{/c} Skills on your Action Bar.

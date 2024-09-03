@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ghoa Ruins 
+Hash: 003892BF, Key: Desc, Value: Once a keep. The swamp reclaims all that mortal hands build.

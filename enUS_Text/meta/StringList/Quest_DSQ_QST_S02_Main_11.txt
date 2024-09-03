@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: Name, Value: A Serpent Cornered
+Hash: C9FCD1EA, Key: Phase5Description, Value: I must meet Erys at the City of the Ancients. She will open the gate, but from there I must enter alone...and use Lord Zir's own power against him.
+Hash: B8A227EA, Key: Callback4Header, Value: Meet Erys at the Courts of Night
+Hash: 61CFD437, Key: Phase11Description, Value: I must meet Erys at the City of the Ancients. She will open the gate, but from there I must enter alone...and use Lord Zir's own power against him.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Erys
+Hash: F4A9EC5A, Key: Phase14Description, Value: I felt my blood boil the moment I passed through the veil. Lord Zir's curse is trying to take hold. I have no choice but to press on and cut a path to his lair.
+Hash: 1F9943DA, Key: Callback13Header, Value: Fight through the city to reach Lord Zir
+Hash: 8784047D, Key: Phase17Description, Value: Lord Zir placed a curse upon me the moment I entered. I have no choice but to press on and cut a path to his lair.
+Hash: 0687FA1D, Key: Callback16Header, Value: Seek out Lord Zir
+Hash: 803B8057, Key: Phase20Description, Value: Lord Zir's thralls have fallen. Now nothing stands between me and the vampire lord himself. Time to end this.
+Hash: E9B1E11B, Key: Callback50Header, Value: Confront Lord Zir
+Hash: 1315987A, Key: Phase23Description, Value: Lord Zir completed his "ascension," but with far less blood than he'd planned. He has become an abomination and must be put down.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Kill Lord Zir
+Hash: A5EFB09D, Key: Phase26Description, Value: Erys has opened the gate. I must pass through the veil of blood and begin the hunt for Lord Zir.
+Hash: A5CF923D, Key: Callback25Header, Value: Enter the City of the Ancients
+Hash: 5C75B95D, Key: Phase80Description, Value: Lord Zir completed his "ascension," but with far less blood than he'd planned. He has become an abomination and must be put down.
+Hash: 64630B47, Key: Phase99Description, Value: Lord Zir's thralls have fallen. Now nothing stands between me and the vampire lord himself. Time to end this.
+Hash: 6573DDCA, Key: Callback103Header, Value: Confront Lord Zir

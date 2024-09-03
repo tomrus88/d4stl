@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Curses chanted, circles cast.
+Hash: 45172A5D, Key: Callback34Header, Value: Travel to Svanjasga's Fortalice
+Hash: 5183C723, Key: Callback58Header, Value: Slay enemies: {LEFT}
+Hash: D5F3B5FC, Key: Callback60Header, Value: Slay the Lieutenants of Svanjasga: {LEFT}
+Hash: A9244120, Key: Callback73Header, Value: Defeat {MONSTER}
+Hash: AE775FBE, Key: Callback80Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 7C54CC44, Key: Callback86Header, Value: Deposit Animus into the {GIZMO}
+Hash: 34ADAE21, Key: Callback92Header, Value: Travel to the {LEVELAREA}

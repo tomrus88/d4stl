@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What hope does Yolanda have?"
+Hash: 8EB65F2C, Key: Line1.1086F0, Value: If she were here I could guess, but she isn’t.

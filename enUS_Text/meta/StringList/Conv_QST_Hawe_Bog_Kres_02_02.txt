@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have something I believe is yours."
+Hash: 5A39A25C, Key: Line1.9118B, Value: Once mine, then lost. He took it, and the swamp took him. The poor fool still lives?
+Hash: C20B8864, Key: Line9.9118B, Value: Then he suffers! We will ease his pain, and tend it.
+Hash: 6F44866D, Key: Line11.9118B, Value: Coax out the snakes of the marsh. Ask them for their venom. We will make a salve.

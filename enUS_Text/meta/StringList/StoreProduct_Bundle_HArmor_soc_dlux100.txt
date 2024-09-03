@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Mercy
+Hash: A646FFA4, Key: Description, Value: We are Mother's mercy. The Mother and Sanctuary are one. She imbues us, and charges us with her will so that we may grant peace to believer and heretic alike.
+Hash: 083EE0CE, Key: Quote, Value: Powerful followers of both the mystic arts and the Mother of Sanctuary.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Armor

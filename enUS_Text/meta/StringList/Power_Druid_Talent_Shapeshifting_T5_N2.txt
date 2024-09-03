@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Lupine Ferocity
+Hash: 003892BF, Key: desc, Value: Every {c_number}3rd{/c} {c_important}Werewolf{/c} Skill hit Critically Strikes and deals {c_number}[{SF_0}*100|1%x|]{/c} increased damage, doubled to {c_number}[{SF_0}*{SF_3}*100|1%x|]{/c} against {c_important}{u}Injured{/u}{/c} enemies.
+Hash: 12713EB5, Key: Buff2_Name, Value: Ferocity
+Hash: C6E60718, Key: Buff2_Description, Value: Critical Strike and bonus damage on {c_number}6th{/c} strike

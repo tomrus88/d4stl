@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Wave Cap 8
+Hash: EEB7912D, Key: AffixDesc, Value: The door to the Fell Council opens after Wave 8.

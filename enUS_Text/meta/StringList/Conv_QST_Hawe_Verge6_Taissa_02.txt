@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How is he?”
+Hash: 6F245388, Key: Line11.789BF, Value: I don’t know yet. He wandered around for hours until the tea wore off. A long journey through the swamp is more rewarding than a short one.
+Hash: 0918CD0A, Key: Line13.789BF, Value: Yours was even longer, it seems. Did you face your inner demons as the Horadrim did?
+Hash: 69E26198, Key: Line15.BAE4, Value: Yes. Hopefully for the last time.
+Hash: D8EBC7C5, Key: VoiceDir15.BAE4, Value: Knowingly, but hiding the truth of their encounter with Mephisto from Taissa.

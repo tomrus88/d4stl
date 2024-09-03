@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Masochistic
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Critical Strikes with {c_important}Shapeshifting{/c} Skills have up to a {c_number}{SF_1}%{/c} chance to Heal you for {c_number}[{SF_0} * 100|%|]{/c} Maximum Life {c_number}([PlayerHealthMax() * SF_0]){/c}.

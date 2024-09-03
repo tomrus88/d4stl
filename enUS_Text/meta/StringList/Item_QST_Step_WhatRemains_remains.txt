@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Erdene's Remains
+Hash: F5C7BC0A, Key: Flavor, Value: The grisly remains of a cannibal victim.

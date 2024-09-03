@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mephisto
+Hash: F730275F, Key: Line3.BD9D3, Value: Hello, friend. Need help?
+Hash: 5D3BADDD, Key: Line1.BD9D3, Value: Take the gateway. It is your only escape.

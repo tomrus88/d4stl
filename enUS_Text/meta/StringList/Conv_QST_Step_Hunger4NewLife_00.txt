@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Oyuun?"
+Hash: 5A1FE05B, Key: Line1.6E261, Value: No. No, no more, please, no. The smell... the taste, I... I won't eat it! No!
+Hash: C9294688, Key: VoiceDir1.6E261, Value: Traumatized. 
+Hash: F41459DD, Key: Line3.6E261, Value: Oyuun. It's me, Zolaya. I'm here. We're not in Guulrahn. You're safe.
+Hash: 631DC00A, Key: VoiceDir3.6E261, Value: Deeply concerned. The woman she's talking is grappling with a traumatic trigger. She's struggling to get through to her.

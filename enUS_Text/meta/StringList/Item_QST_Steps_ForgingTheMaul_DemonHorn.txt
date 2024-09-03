@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Oppressor Horn
+Hash: F5C7BC0A, Key: Flavor, Value: Torn from a servant of the Burning Hells, this horn seethes with ill intent. Only a master of their craft could render this material into a weapon.

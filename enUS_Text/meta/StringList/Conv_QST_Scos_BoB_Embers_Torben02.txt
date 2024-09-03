@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 5D23008C, Key: Line1.B79B1, Value: A mercenary woman… captured us along the roads. (coughing) Took us into the depths of the Scar and… made us watch.
+Hash: CC2C66B9, Key: VoiceDir1.B79B1, Value: agonized, pained speech (heavily burned); exhausted
+Hash: F7177A0E, Key: Line3.B79B1, Value: Watch them burn us… One by one…
+Hash: 6620E03B, Key: VoiceDir3.B79B1, Value: pained speech (heavily burned); exhausted, leading to death/final words
+Hash: 91090F92, Key: Line5.B20BA, Value: Stana. Of all the devils who could have survived that night… why did it have to be her?
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: cold, blunt; leaning frustrated/angry; proncouned: "STAH-nah"
+Hash: 2AFD8914, Key: Line7.B20BA, Value: None matched her joy for suffering. Her eyes said enough.
+Hash: 9A06EF41, Key: VoiceDir7.B20BA, Value: cold, earnest, somber
+Hash: C4F20296, Key: Line9.B20BA, Value: Stana’s madness ends here. If she wants the Bear… she’ll have him.
+Hash: 33FB68C3, Key: VoiceDir9.B20BA, Value: cold, blunt; challenging
+Hash: 722B009F, Key: Line11.B20BA, Value: Meet me near the depths. We’ll find her within.
+Hash: C2612C6C, Key: VoiceDir11.B20BA, Value: cold, blunt

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Creeping Shadows
+Hash: A646FFA4, Key: Description, Value: They say these horsemen travel on the edges of shadows, spurred on from Hell to anywhere touched by darkness.
+Hash: 083EE0CE, Key: Quote, Value: Cast a longer shadow.
+Hash: 13A53A8B, Key: Series, Value: "Shadow Walker" Mount Armor

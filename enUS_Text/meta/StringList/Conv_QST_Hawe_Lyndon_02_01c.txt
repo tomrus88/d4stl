@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Ready for the ambushes?"
+Hash: 6735A8AD, Key: Line3.10088C, Value: There. Not so bad, eh?

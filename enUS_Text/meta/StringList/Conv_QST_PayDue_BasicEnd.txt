@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here is the lockbox."
+Hash: 5D83570B, Key: Line1.FC047, Value: My new friend, well done! Our lost miners can rest avenged, thanks to you. Wish I could have seen you handle those swine...
+Hash: CC8CBD38, Key: VoiceDir1.FC047, Value: Celebrating. Pretends to care about miners. Grinning at the idea of bandits dying.
+Hash: F777D08D, Key: Line3.FC047, Value: Well, forget it, enjoy your share. I know I will.
+Hash: 668136BA, Key: VoiceDir3.FC047, Value: Dismissive. Grinning. Excited.

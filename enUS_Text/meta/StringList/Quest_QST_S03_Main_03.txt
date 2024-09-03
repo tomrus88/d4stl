@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: Name, Value: The Ennead
+Hash: 336FADE6, Key: Phase98Description, Value: The old man is a victim after all. He introduced himself as Ayuzhan of Caldeum, the sorcerer who built this place. He may have the answers I seek.
+Hash: B590DDE6, Key: Callback97Header, Value: Speak with Ayuzhan
+Hash: 07D46CED, Key: Phase107Description, Value: The old man is a victim after all. He introduced himself as Ayuzhan of Caldeum, the sorcerer who built this place. He may have the answers I seek.
+Hash: 4C62940D, Key: Callback106Header, Value: Place Inert Construct
+Hash: 936600EA, Key: Phase113Description, Value: Ayuzhan repaired the inert construct for my use. He promises it will be a boon against the possible dangers ahead. I should speak to the sorcerer once more in the Gatehall.
+Hash: 04BB75EA, Key: Callback112Header, Value: Speak with Ayuzhan
+Hash: B91A3130, Key: Phase119Description, Value: Ayuzhan asked me to find his colleague, Zoltun Kulle. Ayuzhan says we can find him in the Library, but I have my doubts.
+Hash: D298E270, Key: Callback118Header, Value: Find the Library
+Hash: 8E467330, Key: Callback172Header, Value: 118
+Hash: A4030E0A, Key: Callback121Header, Value: Enter the Library
+Hash: 940ACEAE, Key: Phase135Description, Value: The old man is a victim after all. He introduced himself as Ayuzhan of Caldeum, the sorcerer who built this place. He may have the answers I seek.
+Hash: 5E224F71, Key: Callback137Header, Value: Speak with Ayuzhan
+Hash: B2767ACE, Key: Phase144Description, Value: Ayuzhan asked me to find his colleague, Zoltun Kulle. Ayuzhan says we can find him in the Library, but I have my doubts.
+Hash: 167B314E, Key: Callback143Header, Value: Speak with Ayuzhan
+Hash: 4A642452, Key: Callback147Header, Value: Speak with Ayuzhan
+Hash: 63BC3F11, Key: Phase156Description, Value: The old man is a victim after all. He introduced himself as Ayuzhan of Caldeum, the sorcerer who built this place. He may have the answers I seek.
+Hash: 550A618E, Key: Callback161Header, Value: Wait for Ayuzhan

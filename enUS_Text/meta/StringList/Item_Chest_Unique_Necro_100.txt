@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Mutilator Plate
+Hash: F5C7BC0A, Key: Flavor, Value: "The Cathedral of Light's earliest attempts at crafting their penitent armor was to infuse the plate with painful blood magic, before such acts were deemed heretical."
+- Barrett's Book of Implements

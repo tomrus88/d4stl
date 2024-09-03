@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Remnants
+Hash: 5C75B95D, Key: Phase80Description, Value: The old letter found on the tortured corpse said there was to be a rendezvous by the Caldeum bazaar. I should go see if this Hader is still waiting. 
+Hash: CEA227A3, Key: Callback94Header, Value: Search for Hader in Caldeum
+Hash: D6E10F8C, Key: Phase106Description, Value: Hidden under rubble was an alternative entrance to where Hader has fled. I should follow after. 
+Hash: FF68574C, Key: Callback105Header, Value: Enter the Hideout Entrance
+Hash: 13B867CC, Key: Phase124Description, Value: Hader ran from me when I approached, believing me to be a Cathedral of Light agent. I should search for an alternative entrance to where he has fled.
+Hash: 3DF7878C, Key: Callback123Header, Value: Approach Hader
+Hash: C42DD5EF, Key: Callback135Header, Value: Approach Hader
+Hash: F5F18970, Key: Phase137Description, Value: Hader ran from me when I approached, believing me to be a Cathedral of Light agent. I should search for an alternative entrance to where he has fled.
+Hash: 7C86B7CC, Key: Callback141Header, Value: Search under the rubble for an alternative entrance to where Hader fled. 
+Hash: 94AF9C72, Key: Phase157Description, Value: Hader ran from me when I approached, believing me to be a Cathedral of Light agent. I should investigate the hole where he fled.
+Hash: 83A035F4, Key: Callback158Header, Value: Investigate passageway
+Hash: D5ED9153, Key: Callback166Header, Value: Hidden

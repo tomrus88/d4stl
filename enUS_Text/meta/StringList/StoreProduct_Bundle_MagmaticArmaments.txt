@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Magmatic Armaments
+Hash: A646FFA4, Key: Description, Value: Carved from the densest of volcanic glass, these elements are of unearthly sharpness and enchantment given.
+Hash: 083EE0CE, Key: Quote, Value: Felsic mortality.
+Hash: 13A53A8B, Key: Series, Value: "Shards of Vulcan" Weapons

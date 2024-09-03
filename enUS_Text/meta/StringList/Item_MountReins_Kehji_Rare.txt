@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Reins of the Buckskin Bay Steed
+Hash: A646FFA4, Key: Description, Value: Use reins to add the Buckskin Bay Steed to your stable.

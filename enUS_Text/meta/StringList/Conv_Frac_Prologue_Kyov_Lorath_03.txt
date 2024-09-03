@@ -1,0 +1,18 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I had to pay for your weapon.” 
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Ah, apologies.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Very insincere
+Hash: 65381056, Key: Line13.BAE4, Value: He also gave me this amulet. What is it?
+Hash: 294970C2, Key: Line27.6D03F, Value: The mark of the Horadrim. An ancient order of scholars and mages, sworn to protect Sanctuary from demons. These days, we are few in number.
+Hash: 797F9C8F, Key: VoiceDir27.6D03F, Value: Deep in thought
+Hash: C33DEA44, Key: Line29.6D03F, Value: There is another Horadrim. Donan.
+Hash: 13741611, Key: VoiceDir29.6D03F, Value: Keeping his feelings toward Donan guarded.
+Hash: E1A2529F, Key: Line33.6D03F, Value: His breadth of knowledge about demons is equal only to his hubris.
+Hash: 31D87E6C, Key: VoiceDir33.6D03F, Value: Matter-of-factly. Keeping his feelings toward Donan guarded.
+Hash: 477C7557, Key: Line41.BAE4, Value: Sounds like he could help us.
+Hash: AF7FBF25, Key: Line39.6D03F, Value: Hm. You should seek him out in Scosglen.
+Hash: FFB5EAF2, Key: VoiceDir39.6D03F, Value: Hesistant, hiding his feelings about Donan
+Hash: CDE42780, Key: Line43.6D03F, Value: But don’t forget about the Cathedral. They’ll be expecting you, and they might prove to be useful allies too.
+Hash: FA823896, Key: Line31.BAE4, Value: You're not coming with me?
+Hash: 7B96CC21, Key: Line35.6D03F, Value: I am going to the Dry Steppes to find out who that Pale Man is. Join me when you can, just... be careful.
+Hash: CBCCF7EE, Key: VoiceDir35.6D03F, Value: Guarded when he talks about Pale Man
+Hash: 67D8A102, Key: Line45.6D03F, Value: Your ties to Lilith, the visions you see—you are the key to finding her and stopping whatever she has planned.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's that?"
+Hash: A313225F, Key: Line15.6D03F, Value: Here it is. The Sightless Eye.
+Hash: F3494E2C, Key: VoiceDir15.6D03F, Value: In Awe
+Hash: 3D079BE1, Key: Line17.6D03F, Value: Meshif can help us get the artifact far from this place, but we need to hurry before Elias returns.
+Hash: 8D3DC7AE, Key: VoiceDir17.6D03F, Value: Urgent
+Hash: D6FC1563, Key: Line19.6D03F, Value: That opening over there is our best chance of escape.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: Urgent

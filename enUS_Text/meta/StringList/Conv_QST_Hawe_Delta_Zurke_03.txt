@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What are you going to do with this corpse?”
+Hash: F0C50634, Key: Line9.1086F0, Value: I’ve been growin’ a sickness. Deep in the swamp. All completely controlled with my care! Not too much. Not too little. But the Tree perceives it a threat. (sad sigh) It must be purged.
+Hash: 40FB3201, Key: VoiceDir9.1086F0, Value: "...perceived mistake of mine" said sarcastically. Insulted the Tree thinks him incapable. 
+Hash: 451DC55D, Key: Line11.1086F0, Value: To the south, three corpses were prepared with possible cures. I’ll tend our friend here. Bring me a sample from the healthiest corpse there.

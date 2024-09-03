@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Here is your amulet.”
+Hash: 5A196F77, Key: Line1.789BF, Value: Did Timue give you any trouble?
+Hash: DAFC9F3C, Key: Line6.789BF, Value: Good, good. Now, ah...wait.
+Hash: 4A060569, Key: VoiceDir6.789BF, Value: a little scatterbrained
+Hash: 74F118BE, Key: Line8.789BF, Value: I forgot the Nangari eyes. A thousand curses! I cannot focus anymore...
+Hash: E3FA7EEB, Key: VoiceDir8.789BF, Value: Frustrated. Quiet for last line--almost muttered to self.
+Hash: 222A16C7, Key: Line10.789BF, Value: Will you help me gather some?

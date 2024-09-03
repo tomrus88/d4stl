@@ -1,0 +1,2 @@
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the Goatmen
+Hash: EC8B1AEE, Key: Callback8Header, Value: Investigate the Bodies

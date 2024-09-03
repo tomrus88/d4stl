@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Vigo Mourns 1
+Hash: F414A633, Key: Line3.6DE47, Value: The escort... they're all dead...?
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: horrified
+Hash: 916B4ED1, Key: Line5.FA726, Value: (groans)
+Hash: 0074B4FE, Key: VoiceDir5.FA726, Value: Quietly groans in pain
+Hash: 27FD9937, Key: Line7.6DE47, Value: Over there!

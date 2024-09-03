@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Orbei Monastery, Part 1
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Abbot of Orbei
+Hash: 767E0BB7, Key: Line1.0, Value: Commissioned during the Time of Troubles, the Orbei Archive once served to codify heresies for the Inquisition. Since then, the Archive has expanded to the study of all evils, restricted to only the most devout Scholars of Zakarum.
+Hash: AD796364, Key: VoiceDir1.0, Value: Proud. Official.

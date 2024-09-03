@@ -1,0 +1,2 @@
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Go on ahead to the coffin. I’ll look after her.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: To Player. He's kneeling by Neyrelle, who is sleeping after having her arm cut off. He's worried about her.

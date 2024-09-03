@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: The plans for this armor were first found amongst the notes of Xantanil, the master smith, who was executed for conspiring with demons.
+Hash: 003DFCC1, Key: Name, Value: Daemon Claws
+Hash: 13A53A8B, Key: Series, Value: "Daemon Façade"

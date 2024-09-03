@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Recipe: Elixir of Antivenin
+Hash: A646FFA4, Key: Description, Value: Bring to an Alchemist to teach them to craft Elixirs of Antivenin

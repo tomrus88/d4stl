@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Advantage
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet} Increases Attack Speed by {c_number}7%{/c} and Lucky Hit by {c_number}7%{/c}
+{icon:bullet} Experience gained is increased by {c_number}5%{/c}.
+Hash: F5C7BC0A, Key: Flavor, Value: You may only have one Elixir active at a time.

@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Bone Spear
+Hash: 003892BF, Key: desc, Value: {c_label}Essence Cost:{/c} {c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Conjure a bone spear from the ground, dealing {c_number}{payload:DAMAGE}{/c} damage and piercing through enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Bone Spear{/c} breaks into {c_number}{SF_6}{/c} shards when it is destroyed, dealing {c_number}{payload:BONE_SHARD}{/c} damage each.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Bone Spear
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Bone Spear{/c} makes the first enemy hit {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_19}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Supernatural Bone Spear
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Bone Spear{/c} has a {c_number}[{SF_10}*100|%+|]{/c} increased Critical Strike Chance. If {c_important}Bone Spear's{/c} primary projectile Critically Strikes, it fires {c_number}{SF_7}{/c} additional bone shards upon being destroyed.
+Hash: 948901D1, Key: Mod1_Name, Value: Paranormal Bone Spear

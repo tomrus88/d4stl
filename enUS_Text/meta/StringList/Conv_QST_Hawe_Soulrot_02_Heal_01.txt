@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What just happened?"
+Hash: 8EB69A80, Key: Line1.107ED8, Value: Poor Marta...she had what we call gut rot. A nice name for a horrible affliction. She should have sent you with a message rather than coming all this way. Now she's dead and given us gut rot as a parting gift.
+Hash: 673A4442, Key: Line3.107ED8, Value: Make up for bringing her here in the first place. Do what I would have done, were I not sick.
+Hash: 3FBDEE04, Key: Line5.107ED8, Value: Go to Pilgrim's Cave —harvest the Gano Fungus that grows on the creatures that live there and bring it to me.

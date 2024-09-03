@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Seek the path of eternal fire.
+Hash: 1EADAE68, Key: Callback2Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 38AA8D97, Key: Callback10Header, Value: Deposit Animus into the {GIZMO}
+Hash: 6C93809B, Key: Callback14Header, Value: Defeat the {MONSTER}
+Hash: 58D5557C, Key: Callback24Header, Value: Travel to the {LEVELAREA}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Return the Bloodstone to the Pedestal: {LEFT}

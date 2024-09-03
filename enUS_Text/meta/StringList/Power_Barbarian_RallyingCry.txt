@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: name, Value: Rallying Cry
+Hash: 003892BF, Key: desc, Value: {if:Mod.UpgradeA}{c_label}Generate Fury:{/c_label} {c_resource}{SF_13}{/c_resource}
+{/if}{c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+Bellow a rallying cry, increasing your Movement Speed by {c_number}[{SF_4}*100|%+|]{/c} and Resource Generation by {c_number}[{SF_17} * 100|%x|]{/c} for {c_number}[{SF_1|1|}]{/c} seconds, and Nearby allies for {c_number}[{SF_6|1|}]{/c} seconds.
+Hash: F2DE8628, Key: simple_desc, Value: Defensive Skill: Bellow a rallying cry. All allies move faster and regain resources faster.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Resource Generation Bonus {icon:arrow, 1.2} {c_number}[{SF_7} * 100|%x|]{/c}
+Hash: 14C66756, Key: Buff3_Name, Value: Rallying Cry
+Hash: 16451099, Key: Buff3_Description, Value: Increases Resource Generation & Movement Speed
+Hash: 171B8FF7, Key: Buff4_Name, Value: Rallying Cry
+Hash: 65A41A1A, Key: Buff4_Description, Value: Increases Resource Generation & Movement Speed
+Hash: 1394CF37, Key: Mod4_Description, Value: {c_important}Rallying Cry{/c} grants you {c_important}{u}Unstoppable{/u}{/c} while active.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Enhanced Rallying Cry
+Hash: 62F3D8B8, Key: Mod5_Description, Value: {c_important}Rallying Cry{/c} generates {c_number}{SF_13}{/c} Fury and grants you an additional {c_number}[{SF_8} * 100|%x|]{/c} Resource Generation.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Tactical Rallying Cry
+Hash: B252E239, Key: Mod6_Description, Value: {c_important}Rallying Cry{/c} grants you {c_number}[{SF_14}*100|%|]{/c} Maximum Life {c_number}([Max(1,{fortified:MOD_FORTIFY_BASE})|0|]){/c} as {c_important}{u}Fortify{/u}{/c}. While Rallying Cry is active, you gain an additional {c_number}[{SF_15}*100|%|]{/c} Maximum Life {c_number}([Max(1,{fortified:MOD_FORTIFY_PERHIT})|0|]){/c} as {c_important}{u}Fortify{/u}{/c} each time you take or deal direct damage.
+Hash: A032CCF6, Key: Mod6_Name, Value: Strategic Rallying Cry

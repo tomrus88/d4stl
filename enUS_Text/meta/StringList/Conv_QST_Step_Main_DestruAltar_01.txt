@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Barbarian
+Hash: DE05D0F0, Key: Line6.B5F34, Value: The forces of Hell approach!
+Hash: A6167840, Key: Line15.B5F34, Value: Hold them back!
+Hash: 8D052E83, Key: Line18.B5F34, Value: Bul-Kathos, lend me your strength!
+Hash: 5E6F5A1D, Key: Line21.B5F34, Value: We will never fall to the Prime Evils!

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hello
+Hash: A72A65A0, Key: Line19.103AFE, Value: (Gurgling)
+Hash: FE260B0D, Key: VoiceDir19.103AFE, Value: Choking on blood

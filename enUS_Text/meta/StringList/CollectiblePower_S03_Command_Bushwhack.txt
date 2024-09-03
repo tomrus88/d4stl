@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Bushwhack
+Hash: A646FFA4, Key: Description, Value: Quickly ambush up to {c_number}{SF_3}{/c} targets dealing {c_number}{SF_10}{/c} damage to each. May strike the same target multiple times.
+Hash: 70FCEFA9, Key: AttackSpeed, Value: {c_label}Speed:{/c} {c_resource}[{SF_12}|1|]{/c} seconds
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Damage {icon:arrow,1.2} {c_number}{SF_11}{/c}
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating Heralds in Arcane Tremors

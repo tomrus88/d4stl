@@ -1,0 +1,52 @@
+Hash: E5ED2A61, Key: RewardsHeader, Value: Rewards / Milestone {s1}
+Hash: 8EAA0A06, Key: RecentAchievementsHeader, Value: Recently Completed
+Hash: E8ED4273, Key: ProgressBarCount, Value: {c:FFdba864}{s1}{/c} / {s2}
+Hash: 1DED846D, Key: MilestoneValue, Value: {s1} {icon:achievement_tier_icon, 2}
+Hash: 1F5A2814, Key: RewardClaimed, Value: Claimed
+Hash: DF7F6DA2, Key: RewardValue, Value: {s1}
+Hash: B653D426, Key: AchievementCompleted, Value: Completed
+Hash: AD46BC4E, Key: Summary, Value: Summary
+Hash: 43D1810E, Key: LegendFilterAll, Value: Show all
+Hash: 72B3AAF2, Key: LegendFilterCompleted, Value: Show completed
+Hash: D2C88BA1, Key: LegendFilterInProgress, Value: Show in progress
+Hash: 1EA4DC80, Key: LegendBack, Value: Back
+Hash: 8342F44F, Key: LegendSelect, Value: Select
+Hash: 9DF7E682, Key: LegendCollapse, Value: Collapse
+Hash: 63F4AEEF, Key: LegendExpand, Value: Expand
+Hash: 8AF04392, Key: AchievementHeader, Value: Challenges
+Hash: 2F3D827C, Key: Achievements, Value: Challenges
+Hash: D6A2059E, Key: AchievementUnlocked, Value: {icon:Achievement_Completed, 1.5} {c:FF11af00}Completed:{/c} {s1}
+Hash: 1152AF65, Key: Reward, Value: Reward
+Hash: 1B3D3D20, Key: ShowMoreInfo, Value: {icon:expand_arrow_default, 1} Show More Info
+Hash: 30878864, Key: ShowLessInfo, Value: {icon:expand_arrow_clicked, 1} Show Less Info
+Hash: EDEA0A7F, Key: CompletionReward, Value: Reward:
+Hash: 4C5DAFEF, Key: PlayerTitle, Value: (Player Title)
+Hash: A24FDF0E, Key: AchievementReward, Value: {c_white}Reward:{/c} {s1}  {c_gray}({s2})
+Hash: B9A689D3, Key: REWARD_TYPE_PLAYER_TITLE, Value: Player Title
+Hash: D7A0EA5E, Key: REWARD_TYPE_ITEM_TRANSMOG, Value: Item Transmog
+Hash: 3618E7DE, Key: REWARD_TYPE_ITEM_CURRENCY, Value: Currency
+Hash: 4C01459C, Key: REWARD_TYPE_COSMETIC, Value: Cosmetic
+Hash: B5462A87, Key: REWARD_TYPE_ITEM_CACHE, Value: Item Cache
+Hash: 55CBD43E, Key: REWARD_TYPE_STASH_TAB, Value: Stash Tab
+Hash: 65356580, Key: REWARD_TYPE_WORLD_TIER, Value: World Tier
+Hash: 3577F223, Key: Challenge, Value: Challenge
+Hash: 73B8A81E, Key: AchievementProgress, Value: Challenge: {s1} ({s2} / {s3})
+Hash: C6040D97, Key: AchievementProgress_CoOpFormat, Value: {s1} | Challenge: {s2} ({s3} / {s4})
+Hash: 630F19B4, Key: AchievementCurrency, Value:  {c:FFdba864}{s1}{/c} / {s2}
+Hash: 75C3E6FF, Key: AchievementReward_2, Value: {c_white}Reward:{/c} {c_gold}{s1}, {s2}{/c} {c_gray}(Player Titles){/c}
+Hash: 8A6DDB55, Key: AchievementInProgress, Value: In Progress
+Hash: 1C5E2851, Key: AchievementNotStarted, Value: Not Started
+Hash: 2955014B, Key: ClaimReward, Value: Claim
+Hash: 7AE9CAF4, Key: ClaimedReward, Value: Claimed
+Hash: 81227107, Key: Condition, Value:  {c:FFe3e0d9}Condition:{/c} {s1}
+Hash: 5054591D, Key: Completed, Value: Completed
+Hash: 436A0CBC, Key: CriteriaFormat, Value: {s1} ({s2} / {s3})
+Hash: 64B8D89D, Key: LegendFilterNotStarted, Value: Show not started
+Hash: 8DBFB799, Key: AchievementStarted_CoOpFormat, Value: {s1} started on {s2} challenge
+Hash: 5ABE9F60, Key: AchievementStarted, Value: {s1} challenge started
+Hash: 576630A2, Key: AchievementNearCompletion_CoOpFormat, Value: Challenge: {s1} is close to completing "{s2}"
+Hash: 0D58F409, Key: AchievementNearCompletion, Value: Challenge: "{s1}" is close to completion
+Hash: B86FC74E, Key: REWARD_TYPE_ENTITLEMENT, Value: Premium reward
+Hash: 166C5537, Key: REWARD_TYPE_EMBLEM, Value: Emblem
+Hash: F59770E6, Key: Filter, Value: Filter {c:FFdba864}{s1}{/c} 
+Hash: 09021178, Key: REWARD_TYPE_MOUNT, Value: Mount

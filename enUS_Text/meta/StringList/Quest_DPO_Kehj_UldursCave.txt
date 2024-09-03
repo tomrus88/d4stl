@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Coin rules these hearts.
+Hash: 1EADAE68, Key: Callback2Header, Value: Destroy the Barricades: {LEFT}
+Hash: B8A227EA, Key: Callback4Header, Value: Travel to the {LEVELAREA}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay all enemies in the Bandit Hideout {KAM_REVEALED_COUNT}
+Hash: 71E69F39, Key: Callback21Header, Value: Slay the Ringleader

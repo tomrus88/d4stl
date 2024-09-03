@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Polearm
+Hash: 112295E9, Key: BarbarianArsenalOverrideName, Value: Polearm (Slashing)

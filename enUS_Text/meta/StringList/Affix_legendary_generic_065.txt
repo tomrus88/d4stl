@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Crowded Sage
+Hash: 003892BF, Key: Desc, Value: You have {c_number}[Affix."Static Value 0"]%{/c} increased Dodge Chance. Successful Dodges restore {c_random}[Affix_Value_1|%|]{/c} of your Maximum Life.

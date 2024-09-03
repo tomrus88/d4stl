@@ -1,0 +1,71 @@
+Hash: 5FFCE975, Key: CodexOfPower, Value: Codex of Power
+Hash: CACB10CF, Key: Tab_All, Value: All
+Hash: 6699B12F, Key: Tab_Defensive, Value: Defensive
+Hash: 5434611B, Key: Tab_Offensive, Value: Offensive
+Hash: 25073A9E, Key: Tab_Resource, Value: Resource
+Hash: 7EB1A1EA, Key: Tab_Utility, Value: Utility
+Hash: 616B189F, Key: Tab_Mobility, Value: Mobility
+Hash: 16F147C0, Key: Tab_Weapon, Value: Weapon
+Hash: 1516563A, Key: ProgressText, Value: ({c_number}{s1}{/c}/{s2})
+Hash: F51AEF8F, Key: CanBeImbued, Value: Allowed Item Types:
+Hash: B5B24D3D, Key: ClassFilter_Barbarian, Value: {icon:CoP_BarbFilter_Icon, 2.0}  My class only (Barbarian)
+Hash: BC7B7347, Key: AspectPower_Rarity, Value: {s1} Aspect
+Hash: 105B3DAE, Key: AspectPowerName, Value: Exploding Wall
+Hash: 4AD9977F, Key: TooltipAttribute, Value: {icon:legendarystar, 1.4} {s1}
+Hash: 8EBA0FDF, Key: DiscoveredIn, Value: Unlocked by completing{icon:Marker_DungeonEntrance, 2.5}{c_important}{s1}{/c} in {c_important}{s2}{/c} OR salvaging a Legendary item with {c_important}{s3}{/c}
+Hash: DCF11219, Key: DiscoveredIn_AreaOnly, Value: Undiscovered - {c_important}{s1}{/c}
+Hash: 3428E888, Key: ShowAllClasses, Value: Show all classes
+Hash: 9D255364, Key: ProgressCampaignToUnlock, Value: Progress Campaign in {c_important}{s1}{/c} OR salvage a Legendary item with {c_important}{s2}{/c} to unlock
+Hash: 9FB04020, Key: Unlock_SeasonJourney, Value: Unlocked by completing {c_important}{s1}{/c} in {c_important}Season Journey{/c} OR salvaging a Legendary item with {c_important}{s2}{/c}
+Hash: 6AF0BF16, Key: Seasonal, Value: {icon:CoP_SeasonFilter_Icon, 2.0}  Seasonal
+Hash: 6E192626, Key: FilterLabel, Value: Filter
+Hash: 7E0349B7, Key: Tab_All_Icon, Value: {icon:Aspects_Category_All_Icon, 2.0} All ({s1}/{s2})
+Hash: C3E52617, Key: Tab_Defensive_Icon, Value: {icon:Aspects_Category_Defensive_Icon, 2.0} Defensive ({s1}/{s2})
+Hash: 9F06A983, Key: Tab_Offensive_Icon, Value: {icon:Aspects_Category_Offensive_Icon, 2.0} Offensive ({s1}/{s2})
+Hash: 241CECE6, Key: Tab_Resource_Icon, Value: {icon:Aspects_Category_Resource_Icon, 2.0} Resource ({s1}/{s2})
+Hash: 0CA7C3B2, Key: Tab_Utility_Icon, Value: {icon:Aspects_Category_Utility_Icon, 2.0} Utility ({s1}/{s2})
+Hash: 71F0B387, Key: Tab_Mobility_Icon, Value: {icon:Aspects_Category_Mobility_Icon, 2.0} Mobility ({s1}/{s2})
+Hash: 052386A6, Key: RankProgressText, Value: {s1}/{s2}
+Hash: 716A9E32, Key: AspectLocked, Value: LOCKED
+Hash: E5D78ED8, Key: AspectTabName, Value: Aspects
+Hash: FA59DD43, Key: RecipesTabName, Value: Tempering Recipes
+Hash: 13A1DF00, Key: Select, Value: Select
+Hash: 003766F1, Key: Back, Value: Back
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 25044F61, Key: Unlock_RandomDrop, Value: {icon:Crafting_Blacksmith_SalvageItems, 2.0} {c_number_req}Salvage a Legendary item with {c_important}{s1}{/c} to unlock{/c}
+Hash: 6EAE9AA8, Key: FilterTitle, Value: FILTERS
+Hash: BEC97384, Key: KeywordSearchHeader, Value: Keyword Search
+Hash: 0CC599D5, Key: HalfScreenProgressText, Value: ({c_number}{s1}{/c})
+Hash: B50466EB, Key: GraftingRecipeName, Value: Recipe: Title
+Hash: 11114E85, Key: GraftingRecipeRarity, Value: Rarity
+Hash: 1E4548BA, Key: Locked_Icon, Value: {icon:Locked, 2.0} Locked
+Hash: 7021405E, Key: SearchResultNumber, Value: {s1}
+Hash: 990A7FD6, Key: TemperingRecipes, Value: Tempering Recipes
+Hash: CE7560F0, Key: UnlockableViaDungeon, Value: {icon:Marker_DungeonEntrance, 2.0}  Unlockable from a dungeon
+Hash: 564BC608, Key: ClassFilter_Necromancer, Value: {icon:CoP_NecroFilter_Icon, 2.0}  My class only (Necromancer)
+Hash: 77472E00, Key: ClassFilter_Sorcerer, Value: {icon:CoP_SorcFilter_Icon, 2.0}  My class only (Sorcerer)
+Hash: 286FC5FD, Key: ClassFilter_Rogue, Value: {icon:CoP_RogueFilter_Icon, 2.0}  My class only (Rogue)
+Hash: 27744E13, Key: ClassFilter_Druid, Value: {icon:CoP_DruidFilter_Icon, 2.0}  My class only (Druid)
+Hash: DC603F72, Key: DiscoveredInDungeonNameOnly, Value: {c_number_req}Unlocked by completing{/c}{icon:Marker_DungeonEntrance, 2.5}{c_important}{s1}{/c}
+Hash: AF1890FF, Key: EditFilters, Value: Edit Filters
+Hash: B26E3576, Key: AspectUnlocked_Title, Value: Aspect Unlocked
+Hash: 53E65218, Key: AspectUnlocked_Description, Value: {s1} has been added to the Codex of Power
+Hash: B5055C0D, Key: AspectUpgraded_Title, Value: Aspect Upgraded
+Hash: 385BCDEF, Key: AspectUpgraded_Description, Value: {s1} has been upgraded in the Codex of Power
+Hash: AB8B168C, Key: AspectUpgradeDescription, Value: {icon:Crafting_Blacksmith_SalvageItems, 2.0} Salvage a Legendary item with {c_important}{s1}{/c} of higher roll to upgrade
+Hash: B0752EEB, Key: Tooltip_RankProgress, Value: Rank {s1} / {s2}
+Hash: B81DDC8F, Key: Unlock_SeasonJourney_Short, Value: Unlocked by completing {c_important}{s1}{/c} in {c_important}Season Journey{/c}
+Hash: 015B39D0, Key: NewFilter, Value: {icon:CoP_NewlyAcquiredFilter_Icon, 2.0}  Newly acquired
+Hash: B8CB6B0E, Key: SwitchToFilters, Value: Switch to Filters
+Hash: 25EDFFF1, Key: SwitchToList, Value: Switch to List
+Hash: 5D3E0C81, Key: TabNameFormat, Value: {s1} {s2} ({s3}/{s4})
+Hash: 07DE0B06, Key: FavoriteFilter, Value: {icon:CoP_FavoriteFilter_Icon, 2.0} Favorite Aspects
+Hash: 44DCCE2B, Key: MarkFavorite, Value: Mark as Favorite
+Hash: 740D3A2E, Key: UnmarkFavorite, Value: Unmark as Favorite
+Hash: C36EB452, Key: ClearTextFilter, Value: Clear Text
+Hash: 2C060CDF, Key: CloseIcon, Value: {icon:BtnIcon_CloseFull_Up, 1.45}
+Hash: 0BA887FB, Key: Tooltip_DuplicateAspectWarning, Value: {icon:CoP_DuplicateWarning_Icon, 2.0} {c_red}Applied to another equipped item{/c}
+Hash: 57A08F09, Key: Expanded, Value: Expanded
+Hash: F9447037, Key: Collapsed, Value: Collapsed
+Hash: 97153719, Key: CodexProgressPercentages, Value: {c_legendary}{s1}{/c} | {s2}
+Hash: 99800CDB, Key: MaxProgress, Value:  | Max ({s1}/{s2})

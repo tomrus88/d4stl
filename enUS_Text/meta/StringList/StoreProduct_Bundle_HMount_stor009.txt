@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Power
+Hash: A646FFA4, Key: Description, Value: When the Old Gods roamed Sanctuary, they rode upon the most powerful of steeds. They would place powerful runes upon their coats and dressed them in nature's armors.
+Hash: 083EE0CE, Key: Quote, Value: Bred for the Old Gods.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

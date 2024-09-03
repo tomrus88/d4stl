@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Writ of Atonement
+Hash: F2CA04D8, Key: NoticeSignText, Value: "In the name of the Father, let their sins be known in the Light.
+Greum: Assault, Blasphemy
+Adean: Public Disorder, Indecency
+Caitir: Theft, Attempted Bribery "

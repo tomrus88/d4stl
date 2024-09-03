@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Artair, what have you found?"
+Hash: 8EB347FA, Key: Line1.101CF8, Value: Ah good, you're here. I've finally found someone willing to talk about what's going on. Siofra, tell our friend here what you told me.
+Hash: DEE973C7, Key: VoiceDir1.101CF8, Value: excited
+Hash: 915C2981, Key: Line5.EECCF, Value: It was a while after the goatman problem became really bad we began getting glimpses of werewolves hunting them.
+Hash: 00658FAE, Key: VoiceDir5.EECCF, Value: quietly
+Hash: 2B50A303, Key: Line7.EECCF, Value: Edan spotted them first near Lorcan and Una's old place. Edan said he felt a...call to join in the hunt.
+Hash: C5451C85, Key: Line9.EECCF, Value: Soon all of us could feel it. Many of us still resist it, but you've seen what happens to the rest. Once they turn into those things, they never come back to us.
+Hash: 451AAE2B, Key: Line11.101CF8, Value: I have a theory, but I need more information. Will you help me search Lorcan and Una's farm? That seems to be where this whole thing started.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Evernight
+Hash: A646FFA4, Key: Description, Value: The supported Skill grants you {c_number}+4{/c} to all Skills when used for {c_number}[{SF_1}|1|]{/c} seconds.
+Hash: E971A20F, Key: Modifier, Value: Grants you {c_number}+4{/c} to all Skills for {c_number}[{SF_1}|1|]{/c} seconds.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating the Echo of Malphas

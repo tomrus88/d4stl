@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: The Path Divided
+Hash: 0871A46B, Key: Toast, Value: Meet your allies in Zarbinzet
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet your allies in Zarbinzet
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: My allies prepare for a journey through the swamps of Hawezar. I should meet with them.
+Hash: C9FCD1EA, Key: Phase5Description, Value: My allies prepare for a journey through the swamps of Hawezar. I should meet with them.
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Meet your allies in Zarbinzet
+Hash: B8A227EA, Key: Callback4Header, Value: Speak with Taissa
+Hash: 61CFD437, Key: Phase11Description, Value: My allies prepare for a journey through the swamps of Hawezar. I should meet with them.
+Hash: 03E5A75F, Key: Phase11OutsideSubzoneHeader, Value: Speak with Donan in Zarbinzet
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Donan

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Most Dangerous Game
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Elite Monsters while {icon:Wheel_InputIcons_PVP_Normal, 2} Bloodmarked in Hostile areas

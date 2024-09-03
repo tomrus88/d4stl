@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Quelled Hatred
+Hash: 3A4912CF, Key: DescShort, Value: Purify Seeds of Hatred in {icon:Marker_PvPTurnIn, 2.5} hostile areas. Look for this on your Map

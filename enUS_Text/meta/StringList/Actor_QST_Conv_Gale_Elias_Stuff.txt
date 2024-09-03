@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Eccentric Desk 
+Hash: F2CA04D8, Key: NoticeSignText, Value: Books covered with meticulous notes. Scrolls featuring lengthy alchemical formulae. Somehow, you get the sense that everything is half-finished: one project after another abandoned in search of a new discovery.
+Hash: CC3C0A8F, Key: FlavorText, Value: A table strewn with all manner of things.

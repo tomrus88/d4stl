@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: Perceived Threat
+Hash: 0871A46B, Key: Toast, Value: A growing sickness threatens the swamp.
+Hash: FAF02F4B, Key: Phase6Description, Value: There is a new sickness in the swamp, thanks to Zurke’s experiments. He claims to be in control, but the Tree of Whispers wishes it to be cleansed. 
+
+Zurke treated three corpses with possible curses. He needs me to collect a sample from the least corrupted source and bring it back. 
+Hash: 059C64AB, Key: Callback5Header, Value: Find Zurke's experiments 
+Hash: 5690A71C, Key: Phase16Description, Value: I have a piece of uncorrupted flesh collected from one of Zurke's experiments. I should return it to him. 
+Hash: B98DBD5C, Key: Callback15Header, Value: Return the sample to Zurke
+Hash: FD700C3A, Key: Callback40Header, Value: Tell Zurke what corpse the sample came from
+Hash: E45EC27D, Key: Callback43Header, Value: Hidden
+Hash: 7E533BFF, Key: Callback45Header, Value: Hidden
+Hash: 63196FBF, Key: Phase55Description, Value: I brought back Samil’s corpse back to Zurke. He seems pleased, but I do not yet know Zurke’s intentions. I should speak with him and ask. 
+Hash: 1D9AD41F, Key: Callback54Header, Value: Speak to Zurke
+Hash: 9E7E03E4, Key: Callback59Header, Value: Hidden
+Hash: 6FE82F7E, Key: Callback62Header, Value: Collect the {ITEM}

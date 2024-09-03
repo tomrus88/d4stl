@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Learn the meaning of madness.
+Hash: 0BDB18BB, Key: Callback23Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: A5CF923D, Key: Callback25Header, Value: Open the {GIZMO}
+Hash: A07C739F, Key: Callback18Header, Value: Defeat the {MONSTER}
+Hash: 4A6A48FB, Key: Callback41Header, Value: Travel to the {levelarea}

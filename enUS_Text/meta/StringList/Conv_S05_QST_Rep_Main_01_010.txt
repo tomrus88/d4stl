@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Crusader Bark
+Hash: 6AE78517, Key: Line3.1D9565, Value: You! Did I just hear you praying for that Triune filth?
+Hash: BB1DB0E4, Key: VoiceDir3.1D9565, Value: Barking. Hostile. Suspicious.
+Hash: 435EC5C1, Key: Line5.1BCB9E, Value: O-only for the Light to save us from them, my lord!
+Hash: 9394F18E, Key: VoiceDir5.1BCB9E, Value: Afraid. Reassuring.

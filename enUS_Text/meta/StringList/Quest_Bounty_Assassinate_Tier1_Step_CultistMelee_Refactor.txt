@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Lord of Ashes
+Hash: 0871A46B, Key: Toast, Value: One who violates their pact with the Tree of Whispers will always pay the inevitable price.
+Hash: DD0D3424, Key: Callback77Header, Value: Find the corpse
+Hash: 3FC40BBF, Key: Callback27Header, Value: Defeat the Lord of Ashes

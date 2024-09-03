@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Inner Sight
+Hash: 003892BF, Key: desc, Value: Attack enemies to fill your Inner Sight gauge. Marked enemies fill it faster. When full, gain unlimited Energy and {c_number}[SF_11 * 100|%+|]{/c} Critical Strike Chance for {c_number}{buffduration:BUFF_FREE_CAST}{/c} seconds.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Strongbox of Endurant Faith
+Hash: A646FFA4, Key: Description, Value: Contains the Endurant Faith Unique Gloves with 850 Item Power, as well as other powerful items and crafting materials.

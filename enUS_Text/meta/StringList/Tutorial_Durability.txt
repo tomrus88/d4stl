@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Durability
+Hash: 7BFE534B, Key: simple_instruction, Value: Your items {c_highlight}lose durability when you revive{/c} yourself. If an item breaks completely, it will be much less effective in combat.

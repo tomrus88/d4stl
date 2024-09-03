@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Gohr's Devastating Grips
+Hash: F5C7BC0A, Key: Flavor, Value: "The brutish construction of these gloves belies the strength they bestow. Gohr was clearly no craftsman, but it would be foolish to ignore the triumph of his work."
+- Barrett's Book of Implements

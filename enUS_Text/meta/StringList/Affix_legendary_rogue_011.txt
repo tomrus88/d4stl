@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Encircling Blades
+Hash: 003892BF, Key: Desc, Value: {c_important}Flurry{/c} damages enemies in a circle around you and deals {c_random}[Affix_Value_1|%x|]{/c} increased damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Flurry{/c} damages enemies around you and deals {c_random}[Affix_Value_1|%x|]{/c} increased damage.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The dead here...did they all wish to be Oxen?”
+Hash: 59F2EB1C, Key: Line1.541E6, Value: They were Oxen. They set out to protect our land and died well, with honor.
+Hash: C8FC5149, Key: VoiceDir1.541E6, Value: Emphasis on "were." Somber. Reverent.
+Hash: F3E7649E, Key: Line3.541E6, Value: The ancestors say you must avenge them. Do so, and you will have their blessing.
+Hash: 62F0CACB, Key: VoiceDir3.541E6, Value: Reverent. Firm.

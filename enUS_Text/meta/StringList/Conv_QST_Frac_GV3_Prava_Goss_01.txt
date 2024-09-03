@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “You said Vigo would be in good hands. He is dead.”
+Hash: 5A157257, Key: Line1.710B6, Value: Then… his penance is complete. I knew he had the courage.
+Hash: C91ED884, Key: VoiceDir1.710B6, Value: Proud of Vigo
+Hash: F409EBD9, Key: Line3.710B6, Value: This is what he wanted. He is cleansed now: free from his sins.

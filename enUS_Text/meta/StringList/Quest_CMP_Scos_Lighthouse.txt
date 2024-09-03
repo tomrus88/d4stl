@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hope's Light
+Hash: 0871A46B, Key: Toast, Value: A great lighthouse towering above the jagged shores, its sacred flame has been extinguished
+Hash: FC25426F, Key: Callback414Header, Value: Find a way to the Lighthouse
+Hash: BB91C472, Key: Callback318Header, Value: Slay Tidewitch Ne'gana
+Hash: 38A468EE, Key: Callback116Header, Value: Rekindle the Wanderer's Shrine to conquer Hope's Light
+Hash: A0BFF92D, Key: Callback430Header, Value: Ignite Hope's Light

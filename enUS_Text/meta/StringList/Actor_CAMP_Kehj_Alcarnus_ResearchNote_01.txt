@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Research Note #1
+Hash: F2CA04D8, Key: NoticeSignText, Value: A torn and tattered page from a journal. It reads: "The corruption has lingered and festered for years. This is exactly what my work requires."

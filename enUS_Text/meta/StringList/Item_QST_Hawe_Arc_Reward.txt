@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Staff of Whispers
+Hash: F5C7BC0A, Key: Flavor, Value: Upon pledging their life to serving the Tree of Whispers, witches of the swamp are gifted a root or branch to signify their accord.

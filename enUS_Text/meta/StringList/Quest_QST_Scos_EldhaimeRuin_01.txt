@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: In Ruins
+Hash: 0871A46B, Key: Toast, Value: Search for Donan in Eldhaime Keep
+Hash: F5F387E2, Key: Phase58Description, Value: I discovered Lilith had arrived at Eldhaime before me. The keep is in ruins, but Donan was inside during the attack and may still be alive.
+Hash: 95661601, Key: Callback83Header, Value: Find Donan in the Great Hall
+Hash: A09595C3, Key: Phase95Description, Value: I discovered Lilith had arrived at Eldhaime before me. The keep is in ruins, but Donan was inside during the attack and may still be alive.
+Hash: CEA227A3, Key: Callback94Header, Value: Enter Eldhaime Ruins
+Hash: BE5A75AD, Key: Phase161Description, Value: I discovered Lilith had arrived at Eldhaime before me. The keep is in ruins, but Donan was inside during the attack and may still be alive.
+Hash: B31B4892, Key: Phase166Description, Value: After running the gauntlet of Eldhaime Ruins, I've finally found Donan, alive but a little worse for wear, in the Great Hall. But his company of Knights did not fair as well. What happened here? What is the truth of this place? And where is Yorin?
+Hash: 283AECB2, Key: Callback174Header, Value: Speak with Donan
+Hash: 45F560B5, Key: Phase169Description, Value: I learned Donan and the other heroes did not kill Astaroth as the stories say, but imprisoned him in a soulstone buried beneath Eldhaime Keep. Lilith has also learned the location of the tomb. All we can do is follow and hope we are not too late to stop her from resurrecting Astaroth.
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find Donan in the ruins of Eldhaime Keep
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I discovered Lilith had arrived at Eldhaime before me. The keep is in ruins, but Donan was inside during the attack and may still be alive.
+Hash: 6FE20AD5, Key: Callback168Header, Value: Enter Eldhaime barracks
+Hash: 05F1AB6A, Key: Phase58OutsideSubzoneHeader, Value: Find Donan in the Great Hall
+Hash: DD7BE66B, Key: Phase95OutsideSubzoneHeader, Value: Enter Eldhaime Ruins
+Hash: 9DD44D95, Key: Phase161OutsideSubzoneHeader, Value: Find a way to the Great Hall
+Hash: 3315321A, Key: Phase166OutsideSubzoneHeader, Value: Speak with Donan in the Great Hall
+Hash: 263C219D, Key: Phase169OutsideSubzoneHeader, Value: Enter Eldhaime barracks
+Hash: 2D8E0B50, Key: Callback181Header, Value: Find a way to the Great Hall

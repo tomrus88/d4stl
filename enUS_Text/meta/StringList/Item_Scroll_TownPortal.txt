@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scroll of Town Portal
+Hash: A646FFA4, Key: Description, Value: [PH]Returns you to your bound flame.

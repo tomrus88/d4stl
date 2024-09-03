@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Child's Caul
+Hash: F5C7BC0A, Key: Flavor, Value: A blanket made of fine satin. It shimmers in the light.

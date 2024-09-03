@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Defaced Statue
+Hash: F2CA04D8, Key: NoticeSignText, Value: The inscription is badly marred by claw marks:
+"May --- Light of Fath-- Inarius ---- do-n upon all w---y trav----s of this h--y l-nd. Turn ---- face tow---- its r-----ce and find --- ----ngth ---ewed."

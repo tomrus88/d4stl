@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Call of the Wolves
+Hash: D53BFF05, Key: Phase0Description, Value: This broken medallion belonged to one of the Iron Wolves, but its owner is nowhere to be found. I should bring it to the Iron Wolves camp in Kehjistan.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Soudeh in the Iron Wolves Encampment
+Hash: 85A4CA58, Key: Callback11Header, Value: Speak with Soudeh the Anvil
+Hash: D6E30DFE, Key: Phase27Description, Value: The forces of Hell rise. Sanctuary needs my protection. 
+Hash: F2C9CEFE, Key: Callback26Header, Value: Fight in Helltide
+Hash: 6274A1FB, Key: Phase33Description, Value: I have found a piece of a familiar-looking medallion. I should attempt to learn more.
+Hash: AB22B0DB, Key: Callback32Header, Value: Search Helltide for evidence of fallen Iron Wolves

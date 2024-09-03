@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Ready for the ambushes?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Oh, burning Hells. Drowned.
+Hash: DEE82AB8, Key: VoiceDir1.10088C, Value: more annoyed than concerned

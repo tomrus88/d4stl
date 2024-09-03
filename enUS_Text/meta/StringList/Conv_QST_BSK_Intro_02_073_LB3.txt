@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Tongue of Sankekur
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Paladin Inscription
+Hash: E6146D67, Key: Line16.1D9606, Value: Light bind the tongue that poisoned our faith. Let it speak for Hatred no more.
+Hash: 3D1012D4, Key: VoiceDir16.1D9606, Value: A prayer. Somber. Bitter.

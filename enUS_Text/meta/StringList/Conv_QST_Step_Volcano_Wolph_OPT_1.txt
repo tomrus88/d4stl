@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who were those barbarians?"
+Hash: 5D29C46C, Key: Line1.ACEF6, Value: The victims of my brother Baal. He laid waste to the barbarian lands long before your time. I wish I could have seen it with my own eyes...
+Hash: CC332A99, Key: VoiceDir1.ACEF6, Value: A little wistful for the last sentence. Context for Wolphisto's lines: he is talking about barbarians who were killed by Baal in a previous Diablo game. They have appeared in Mephisto's realm, but they shouldn't be there.
+Hash: F71E3DEE, Key: Line3.ACEF6, Value: I had no part in it, though. Elias has upset the balance at the Temple of the Primes, and those shades of the past belong in Baal’s domain, not mine. But I do welcome their hatred.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blood-Splattered Scroll
+Hash: CC3C0A8F, Key: FlavorText, Value: A stained scroll written by an Orbei monk.  
+Hash: F2CA04D8, Key: NoticeSignText, Value: In my dreams, a figure bathed in Light, named Izzoth, came and spoke words of great power. I have written them down and placed the scroll at Khotun’s Reach where only the faithful will find it. Seek the first trail marker at the graveyard of ships.

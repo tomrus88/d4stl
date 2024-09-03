@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Sole Survivor
+Hash: DD0D3424, Key: Callback77Header, Value: Speak to the Adventurer
+Hash: 66CA1CF2, Key: Callback192Header, Value: Slay as many enemy waves as you can before time runs out: {DONE}
+Hash: B590DDE6, Key: Callback97Header, Value: Speak to the Adventurer
+Hash: 8E467330, Key: Callback172Header, Value: Speak to the Adventurer
+Hash: 2D8E0B50, Key: Callback181Header, Value: Defeat {NEEDED} waves to keep the wounded Adventurer alive: {DONE_OVER_NEEDED}
+Hash: FB6B77D6, Key: Callback187Header, Value: Slay the remaining enemies

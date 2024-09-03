@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: (PH) of 100% Dodge During Evade
+Hash: 003892BF, Key: Desc, Value: Gains 100% dodge chance during evade.

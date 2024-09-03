@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "But Prava decreed I am a heretic."
+Hash: 5D8555C1, Key: Line1.FEF63, Value: Hmph. You don't have the eyes of one. What matters is that I need help, and you're here right now.
+Hash: CC8EBBEE, Key: VoiceDir1.FEF63, Value: You aren't concerned with "the rules"
+Hash: F779CF43, Key: Line3.FEF63, Value: As long as you put your back into the work, we're fine. Perhaps I'll beg forgiveness from the Reverend Mother later.

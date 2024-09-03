@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Gospel of the Mother
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Elias
+Hash: 8E2D4C0E, Key: Line5.8DD12, Value: The whole of human knowledge shall be shared among the children of Lilith, and no secret shall be kept from them. And the liars and learned thieves of the world shall perish in their regret.
+Hash: FD36B23B, Key: VoiceDir5.8DD12, Value: Biblical. Righteous. Contempt for the liars and thieves.

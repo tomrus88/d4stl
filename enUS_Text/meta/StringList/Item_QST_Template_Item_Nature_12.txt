@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Rock - Smooth
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] Quest Item Flavor

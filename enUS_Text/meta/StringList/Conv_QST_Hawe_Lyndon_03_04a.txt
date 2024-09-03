@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Lyndon..."
+Hash: 6735A8AD, Key: Line3.10088C, Value: He was right, you know. I was keeping things from him. Didn't think he could handle it. Still don't, heh. But if, if I knew he'd turn, I... Hmm. No. No, I would not have.
+Hash: B76BD47A, Key: VoiceDir3.10088C, Value: As if in the middle of a long thought. Upset, but still sure of his leadership.
+Hash: 3FB9526F, Key: Line5.10088C, Value: I would have done the same if I was him. If I thought he was putting Backwater in danger, if he was cutting me out after all we’ve been through together.
+Hash: 183CFC31, Key: Line7.10088C, Value: But, that doesn’t matter now. Because Backwater needs me. Backwater is me. And I shall do what I must to keep this place alive.
+Hash: 687327FE, Key: VoiceDir7.10088C, Value: Emphasis on "is." 
+Hash: F0C0A5F3, Key: Line9.10088C, Value: I'd be dead without you, y'know? So here, threw in a bit extra. Drinks are on me.

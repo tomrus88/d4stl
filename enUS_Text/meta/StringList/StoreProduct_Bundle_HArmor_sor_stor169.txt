@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bird of Paradise
+Hash: A646FFA4, Key: Description, Value: At the height of the Age of Magic, the arcane arts were celebrated openly; performed on stage and public square in dazzling displays, much like the birds of the deep jungle that flaunt their radiant plumage.
+Hash: 083EE0CE, Key: Quote, Value: A feast for the eyes.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

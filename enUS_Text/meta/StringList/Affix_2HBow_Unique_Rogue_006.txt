@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Hits of {c_important}Barrage{/c} have a {c_random}[Affix_Value_1|%|]{/c} chance to deal double damage and Knock Down enemies.

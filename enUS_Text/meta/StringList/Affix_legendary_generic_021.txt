@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Umbral
+Hash: 003892BF, Key: Desc, Value: Restore {c_random}[Affix_Value_1|1|]{/c} of your Primary Resource when you Crowd Control an enemy.

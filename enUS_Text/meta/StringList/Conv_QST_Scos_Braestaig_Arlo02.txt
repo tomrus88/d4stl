@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How is Yorin faring?"
+Hash: 5A28B2ED, Key: Line1.83542, Value: I see he carries the burden of his father. His promise, and his failures…
+Hash: F41D2C6F, Key: Line3.83542, Value: A child shouldn’t suffer for their parents’ misdeeds…
+Hash: 6326929C, Key: VoiceDir3.83542, Value: Frustrated
+Hash: 8E11A623, Key: Line5.8354D, Value: Do you have misdeeds, dad?
+Hash: 28061F73, Key: Line7.83542, Value: Pfft. None to compare to these Cathedral gobshites.

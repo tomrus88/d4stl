@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Invincible Aspect
+Hash: A646FFA4, Key: Description, Value: With the dark power of his unholy sword, The Lich King raised his once faithful steed into the ranks of the undead.
+Hash: 083EE0CE, Key: Quote, Value: The steed of The Lich King, both in life and death.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

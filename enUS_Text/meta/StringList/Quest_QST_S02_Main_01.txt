@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Money
+Hash: C9FCD1EA, Key: Phase5Description, Value: Rumors of missing merchants swirl about town. They say a local Magistrate in Ked Bardu has put out a call for aid on the public notice board. I should look into this.
+Hash: 5E28741A, Key: Callback31Header, Value: Visit the Magistrate's office in Ked Bardu
+Hash: 61CFD437, Key: Phase11Description, Value: One of Ked Bardu's Magistrates has offered rewards for the rescue of the merchants who have recently gone missing. He's sent me to Vasily's Reach in Scosglen to start my search.
+Hash: 38AA8D97, Key: Callback10Header, Value: Enter the Wayside Cave
+Hash: 4408F5DB, Key: Phase24Description, Value: One of Ked Bardu's Magistrates has offered rewards for the rescue of the merchants who have recently gone missing. He's sent me to Vasily's Reach in Scosglen to start my search.
+Hash: 0BDB18BB, Key: Callback23Header, Value: Look for the merchant in Vasily's Reach
+Hash: D6E30DFE, Key: Phase27Description, Value: Rumors of missing merchants swirl about town. They say a local Magistrate in Ked Bardu has put out a call for aid on the public notice board. I should look into this.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Read the notice from the Magistrate

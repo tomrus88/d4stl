@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: You are prey.
+Hash: 71E69F39, Key: Callback21Header, Value: Travel to the {LEVELAREA}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Defeat the {MONSTER}
+Hash: E9B1E11B, Key: Callback50Header, Value: Return the Mechanical Box to the Pedestal: {LEFT}
+Hash: 995CD0CE, Key: Callback107Header, Value: Slay all enemies in the Defiled Undercroft {KAM_REVEALED_COUNT}
+Hash: B7C13929, Key: Callback111Header, Value: Travel to the {LEVELAREA}

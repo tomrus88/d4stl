@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Maintaining your stock must be difficult all the way out here."
+Hash: 8ED91C07, Key: Line1.124D50, Value: I've a decent enough selection, provided you don't mind secondhand. Heh.
+Hash: DF0F47D4, Key: VoiceDir1.124D50, Value: Salesman. Shifty, yet warm

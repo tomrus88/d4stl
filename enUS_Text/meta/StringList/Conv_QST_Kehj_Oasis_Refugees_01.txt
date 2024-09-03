@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened here?"
+Hash: 5D5EB317, Key: Line1.DB62B, Value: There is a bad slope in this road. Our wagons slid over the side, along with all our supplies.
+Hash: CC681944, Key: VoiceDir1.DB62B, Value: Anxious. Worried.
+Hash: 9147A61B, Key: Line5.DB62B, Value: Ugh, we’ll never reach Dahlgur without them. We were about to climb down, but we heard something moving below.
+Hash: 00510C48, Key: VoiceDir5.DB62B, Value: Anxious. Worried.
+Hash: 2B3C1F9D, Key: Line7.DB62B, Value: Could you... lend us a hand?
+Hash: 9A4585CA, Key: VoiceDir7.DB62B, Value: Hopeful. Anxious.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Symon's Tattered Journal
+Hash: F5C7BC0A, Key: Flavor, Value: A well-loved collection of observations and thoughts. Several of the pages were lost, but you have restored them to where they belong.

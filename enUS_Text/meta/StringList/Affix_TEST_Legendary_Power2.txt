@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Legend 2
+Hash: 003892BF, Key: Desc, Value: This is the descriptive text for the Legendary Power 2 affix

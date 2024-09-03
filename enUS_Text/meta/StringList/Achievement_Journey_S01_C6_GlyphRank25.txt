@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Reaching for Greatness
+Hash: 3A4912CF, Key: DescShort, Value: Improve a {icon:Marker_GlyphUpgrade, 2.5} Paragon Glyph to rank 20 after finishing {icon:Marker_NightmareDungeonEntrance, 2.5} Nightmare Dungeons

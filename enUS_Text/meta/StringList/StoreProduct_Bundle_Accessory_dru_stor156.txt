@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Way of the Spider
+Hash: A646FFA4, Key: Description, Value: Predator one moment. Prey the next. Such is life among the spiders.
+Hash: 083EE0CE, Key: Quote, Value: The weak are consumed.
+Hash: 13A53A8B, Key: Series, Value: "The Grim Recluse" Accessories

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Ghouls
+Hash: F2CA04D8, Key: NoticeSignText, Value: The defenders of this keep slayed countless vampires. It was still not enough.

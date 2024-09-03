@@ -1,0 +1,14 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here is what I found..."
+Hash: F413C4CC, Key: Line3.6D03F, Value: Andariel, chained to the heart of Guulrahn. Her evil will not stay contained here, it will drown the land in suffering.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Thinking, putting the pieces together
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: This is beyond madness.
+Hash: C1F13152, Key: Line9.6D03F, Value: Quite the opposite. Elias’s mind is clear, for once.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: When I knew him, he was searching for purpose. I couldn’t give him one, and so he found it in Lilith.
+Hash: A313225F, Key: Line15.6D03F, Value: I didn’t stop him. I let him become...this.
+Hash: F3494E2C, Key: VoiceDir15.6D03F, Value: Lost in thought
+Hash: 7337041C, Key: Line19.BAE4, Value: Now is our chance to make it right... before things get even worse.
+Hash: E2406A49, Key: VoiceDir19.BAE4, Value: Pulling Lorath back to business
+Hash: 5B6C043C, Key: Line21.6D03F, Value: Yes. We have what we need. The summoning will take place at the Temple of the Primes in Mt. Civo.
+Hash: ABA23009, Key: VoiceDir21.6D03F, Value: Getting back to business
+Hash: F5607DBE, Key: Line23.6D03F, Value: Now to find a way out. Knowing Elias, he would’ve had an escape route in case things didn’t go his way.
+Hash: 4596A98B, Key: VoiceDir23.6D03F, Value: Urgent, but the first line is more to himself, considering. Shortly after this moment, Lorath will look around and find a hidden exit behind a bookcase (he does it, not the player)

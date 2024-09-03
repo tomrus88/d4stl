@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing here?"
+Hash: 8EB3213A, Key: Line1.1029AF, Value: Do--do you see him too? The ghost of...Corik, my son. When he was a boy, he was taken to the Black Asylum, and now he haunts my every moment. Calling to me...begging that I...
+Hash: DEE94D07, Key: VoiceDir1.1029AF, Value:  shaky, tired, and hysterical
+Hash: 6736CAFC, Key: Line3.1029AF, Value: I don't know how much more I can stand. Please, I'll pay you, end his torments. Please, see that he is laid to rest.
+Hash: B76CF6C9, Key: VoiceDir3.1029AF, Value: pleeding and shaky 

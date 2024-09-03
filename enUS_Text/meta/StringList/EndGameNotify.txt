@@ -1,0 +1,14 @@
+Hash: 7338C5C5, Key: AspectUnlock_KBM, Value: You have unlocked {c_highlight}{s1}{/c}! {hotkey:Collections} to view in {c_highlight}Codex of Power{/c}.
+Hash: C5564FEF, Key: AspectUnlock_Controller, Value: You have unlocked {c_highlight}{s1}{/c}! {hotkey:Map} to view in {c_highlight}Codex of Power{/c}.
+Hash: F554BC81, Key: LeaveNow, Value: Leave Now
+Hash: CBB255B3, Key: ReturnToEntrance, Value: You will be returned to the entrance in {c_highlight}{s1}s{/c}
+Hash: 973FBCF2, Key: KeyedDungeonFailureReason, Value: No more Revives available
+Hash: 2C4F5A2A, Key: KeyedDungeonFailure, Value: {s1} Failed
+Hash: E32A75C4, Key: LeaveNow_Controller, Value: {icon:button4, 2.0} Leave Now
+Hash: 30BC537B, Key: KeyedDungeonComplete, Value: {s1} Complete
+Hash: D9028169, Key: DungeonComplete, Value: Dungeon Complete
+Hash: 4A702212, Key: RewardsCompletion, Value: Completion Rewards
+Hash: C9C890B4, Key: RewardsTrial, Value: Trial Rewards
+Hash: 4FE7DB0C, Key: CellarComplete, Value: Cellar Complete
+Hash: CD370CF8, Key: VesselOfHatredComplete, Value: Vessel of Hatred
+Hash: E37FB752, Key: VesselOfHatredSubheader, Value: Event Completed

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Chronicles of the New Horadrim, Part Three
+Hash: A646FFA4, Key: Description, Value: Excerpt from a history of the Horadric Order
+Hash: F5C7BC0A, Key: Flavor, Value: A weighty tome written by Lorath, documenting the Horadrim's struggles in recent decades.

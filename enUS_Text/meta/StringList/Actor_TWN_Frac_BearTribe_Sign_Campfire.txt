@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Campfire
+Hash: F2CA04D8, Key: NoticeSignText, Value: A pungent odor rises from the pot. Some kind of fermented meat?

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mass Grave
+Hash: F2CA04D8, Key: NoticeSignText, Value: A huge pile of loosely covered corpses. The marker reads: "Akarat forgives ALL heretics in death"

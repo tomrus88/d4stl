@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Curious Curios
+Hash: 003892BF, Key: Desc, Value: Complete the A Fiend So Familiar questline in Dry Steppes.
+Hash: 3DA554E3, Key: Crit_236070, Value: Curious Curios
+Hash: 3DA554E4, Key: Crit_236071, Value: Hunting the Relic Hunter
+Hash: 3DA554E5, Key: Crit_236072, Value: More Than Meets the Eyes

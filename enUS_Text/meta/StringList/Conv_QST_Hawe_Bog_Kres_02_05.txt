@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Apply the salve)
+Hash: F371AFC3, Key: Line16.FBA9D, Value: (groan) ...It feels...
+Hash: 43A7DB90, Key: VoiceDir16.FBA9D, Value: wheezing, coughing
+Hash: FE17ECFF, Key: Line30.FBA9D, Value: Ahh! Damn you, you shriveled hag! (gasp)
+Hash: 4E4E18CC, Key: VoiceDir30.FBA9D, Value: in true agony
+Hash: 3200E003, Key: Line34.FBA9D, Value: I...no, no, no...what have I done? (sob)
+Hash: 82370BD0, Key: VoiceDir34.FBA9D, Value: panting, distressed

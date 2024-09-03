@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: 5D23008C, Key: Line1.B79B1, Value: Can't you feel it? Ah, Eldhaime is hallowed ground, my friend. Blessed with Inarius's holy Light.
+Hash: CC2C66B9, Key: VoiceDir1.B79B1, Value: Friendly, happy to explain the significance of this place
+Hash: C4F4E694, Key: Line9.B79B1, Value: Just being here has a way of lifting my spirits.

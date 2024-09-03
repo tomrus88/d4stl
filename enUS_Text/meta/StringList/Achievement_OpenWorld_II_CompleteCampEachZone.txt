@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Stronghold Hero
+Hash: 003892BF, Key: Desc, Value: Conquer a Stronghold in each region.
+Hash: 3DA44C5F, Key: Crit_234410, Value: Dry Steppes Stronghold
+Hash: 3DA44C60, Key: Crit_234411, Value: Fractured Peaks Stronghold
+Hash: 3DA44C61, Key: Crit_234412, Value: Hawezar Stronghold
+Hash: 3DA44C62, Key: Crit_234413, Value: Kehjistan Stronghold
+Hash: 3DA44C63, Key: Crit_234414, Value: Scosglen Stronghold

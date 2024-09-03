@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Creeping Death
+Hash: 003892BF, Key: Desc, Value: You deal {c_random}[Affix_Value_1|1%x|]{/c} increased damage over time to enemies for each different Crowd Control effect they're afflicted by. {c_important}{u}Unstoppable{/u}{/c} enemies and {c_important}Staggered{/c} Bosses take {c_random}[Affix_Value_1 * Affix."Static Value 0"|%x|]{/c} increased damage over time from you instead.

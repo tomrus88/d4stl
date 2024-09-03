@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Your Critical Strike Chance is increased by {c_random}[Affix_Value_1|%|]{/c} of your Movement Speed bonus.
+
+Current Bonus: {c_number}[(Min(Owner.Movement_Scalar_Capped_Total,2)-1) * (Affix_Value_1)|1%|]{/c}

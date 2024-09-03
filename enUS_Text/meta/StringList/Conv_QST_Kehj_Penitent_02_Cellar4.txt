@@ -1,0 +1,3 @@
+Hash: 8EEB85E0, Key: Line1.136591, Value: Suna! Did they hurt you?
+Hash: 67710DB0, Key: Line3.138BED, Value: No, I'm fine...but you need to hurry.
+Hash: B7A7397D, Key: VoiceDir3.138BED, Value: The Knights Penitent have found the refugee camp!

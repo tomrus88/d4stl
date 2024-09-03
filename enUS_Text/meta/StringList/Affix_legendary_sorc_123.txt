@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Bounding Conduit
+Hash: 003892BF, Key: Desc, Value: {c_important}Teleport's{/c} Cooldown is reduced by {c_random}[Affix_Value_1|1|]{/c} seconds. After {c_important}Teleporting{/c}, {c_important}Crackling Energy{/c} hits {c_number}[Affix."Static Value 0"]{/c} additional enemies for {c_number}[Affix."Static Value 1"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Teleport's{/c} Cooldown is reduced by {c_random}[Affix_Value_1|1|]{/c} seconds. After {c_important}Teleporting{/c}, {c_important}Crackling Energy{/c} hits {c_number}[Affix."Static Value 0"]{/c} additional enemies.

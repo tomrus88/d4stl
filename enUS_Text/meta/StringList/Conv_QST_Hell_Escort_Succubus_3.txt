@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Ninsa, Blight of Hatred
+Hash: 8EE98F4D, Key: Line1.131D49, Value: All hail Lilith, Queen of Hatred.
+Hash: DF1FBB1A, Key: VoiceDir1.131D49, Value: Showing her devotion for Lilith--she says this as she swoops down and starts to attack the Player and their allies.

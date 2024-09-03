@@ -1,0 +1,4 @@
+Hash: 8EFE61ED, Key: Line1.146C80, Value: We are ready. Repeat after me: Spirits, I offer you this vessel. Protect us so we may protect the balance.
+Hash: DF348DBA, Key: VoiceDir1.146C80, Value: Calm. dignified 
+Hash: 7B15AFA9, Key: Line3.BAE4.Nec, Value: Spirits, I offer you this vessel. Protect us so we may protect the balance.
+Hash: B18602B6, Key: VoiceDir3.BAE4.Nec, Value: Calm. dignified 

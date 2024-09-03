@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Parchment
+Hash: CC3C0A8F, Key: FlavorText, Value: Looks like it was written in a hurry
+Hash: F2CA04D8, Key: NoticeSignText, Value: [PH] The monsters- they've taken over.  We sealed the door as best we could, but so many of us are wounded or dead.  Please eradicate them and find where they're coming from. No where is safe.

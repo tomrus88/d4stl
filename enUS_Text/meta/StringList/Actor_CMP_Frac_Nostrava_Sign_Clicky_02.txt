@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Woodworking Tools
+Hash: F2CA04D8, Key: NoticeSignText, Value: Tools of master woodworkers. Normally handled with great care, these seem to have been abandoned for some time.

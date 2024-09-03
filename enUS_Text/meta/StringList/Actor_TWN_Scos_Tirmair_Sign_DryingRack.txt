@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rack of Tainted Fish
+Hash: F2CA04D8, Key: NoticeSignText, Value: Drying fish hang from a rack. Chunks of rotten flesh have been removed in the faint hope it will still be edible.

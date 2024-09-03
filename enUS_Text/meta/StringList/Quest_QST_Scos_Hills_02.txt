@@ -1,0 +1,33 @@
+Hash: 003DFCC1, Key: Name, Value: Exhuming the Forgotten
+Hash: 0871A46B, Key: Toast, Value: Pass through the Weeping Cairns to reach Airidah’s domain
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Pass through the Weeping Cairns to reach Airidah’s domain
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Yorin and I need to pass through the Weeping Cairns to find passage to Airidah’s domain in the northern hills. Enraged spirits haunt the surrounding cairns. I doubt we will find a welcome path within.
+Hash: D53BFF05, Key: Phase0Description, Value: Yorin and I need to pass through the Weeping Cairns to find passage to Airidah’s domain in the northern hills. Enraged spirits haunt the surrounding cairns. I doubt we will find a welcome path within.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Enter the Weeping Cairns
+Hash: 1EADAE68, Key: Callback2Header, Value: Enter the Weeping Cairns
+Hash: 54B4823A, Key: Phase175OutsideSubzoneHeader, Value: Find the path through the Weeping Cairns with Yorin
+Hash: 187F7F0B, Key: Callback221Header, Value: Find the path through the Weeping Cairns with Yorin
+Hash: 5D1888AF, Key: Phase181Description, Value: Yorin and I need to pass through the Weeping Cairns to find passage to Airidah’s domain in the northern hills. Enraged spirits haunt the surrounding cairns. I doubt we will find a welcome path within.
+Hash: 832CE2D7, Key: Phase181OutsideSubzoneHeader, Value: Speak with Yorin in the Weeping Cairns
+Hash: C78284D2, Key: Callback183Header, Value: Speak with Yorin
+Hash: 7653D25A, Key: Phase184OutsideSubzoneHeader, Value: Help Yorin open the Runed Passageway in the Weeping Cairns
+Hash: 4C68720F, Key: Callback225Header, Value: Find and place the missing Wardstone within the Runic Standing Stone
+Hash: 3DFD658E, Key: Callback242Header, Value: Help Yorin open the Runed Passageway
+Hash: 82CCB8F5, Key: Phase187Description, Value: Yorin and I need to pass through the Weeping Cairns to find passage to Airidah’s domain in the northern hills. Enraged spirits haunt the surrounding cairns. I doubt we will find a welcome path within.
+Hash: 697AC1DD, Key: Phase187OutsideSubzoneHeader, Value: Find the path through the Weeping Cairns with Yorin
+Hash: 0BDAD214, Key: Callback248Header, Value: Find the path through the Weeping Cairns with Yorin
+Hash: 0E5E4CF2, Key: Phase193Description, Value: Yorin and I need to pass through the Weeping Cairns to find passage to Airidah’s domain in the northern hills. Enraged spirits haunt the surrounding cairns. I doubt we will find a welcome path within.
+Hash: 97F3227A, Key: Phase193OutsideSubzoneHeader, Value: Defeat the Vengeful Wildwood in the Weeping Cairns
+Hash: 4DB8D335, Key: Callback195Header, Value: Defeat the Vengeful Wildwood
+Hash: 8B1A11FD, Key: Phase196OutsideSubzoneHeader, Value: Find the path through the Weeping Cairns with Yorin
+Hash: C986D28F, Key: Callback261Header, Value: Find the path through the Weeping Cairns with Yorin
+Hash: 740803EF, Key: Phase208Description, Value: Yorin and I need to pass through the Weeping Cairns to find passage to Airidah’s domain in the northern hills. Enraged spirits haunt the surrounding cairns. I doubt we will find a welcome path within.
+Hash: ED5B0617, Key: Phase208OutsideSubzoneHeader, Value: Exit the Weeping Cairns
+Hash: DF436D69, Key: Callback210Header, Value: Enter the Ancestor Heights
+Hash: 34127D38, Key: Phase199Description, Value: Yorin and I need to pass through the Weeping Cairns to find passage to Airidah’s domain in the northern hills. Enraged spirits haunt the surrounding cairns. I doubt we will find a welcome path within.
+Hash: 7E410180, Key: Phase199OutsideSubzoneHeader, Value: Speak with Yorin in the Weeping Cairns
+Hash: 3FFBD549, Key: Callback201Header, Value: Speak with Yorin
+Hash: FA341694, Key: Phase205OutsideSubzoneHeader, Value: Find the exit from the Weeping Cairns
+Hash: 940F9032, Key: Callback219Header, Value: Find the exit from the Weeping Cairns
+Hash: FB4AD0DB, Key: Phase266OutsideSubzoneHeader, Value: Speak with Yorin in the Weeping Cairns
+Hash: 36ABD735, Key: Callback276Header, Value: Speak with Yorin

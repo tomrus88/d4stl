@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Heretics Asylum
+Hash: 003892BF, Key: Desc, Value: A jail home to the corrupt and cruel.

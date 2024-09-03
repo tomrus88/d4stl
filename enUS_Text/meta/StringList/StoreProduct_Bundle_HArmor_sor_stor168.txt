@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Drowned Omen
+Hash: A646FFA4, Key: Description, Value: Sailors tell of a sorcerer betrayed on the Twin Seas, cast to the depths by superstitious fools. There, the sorcerer drank of darkness known only to the Drowned and soon rose again to the surface. A wraith of the Seas' revenge.
+Hash: 083EE0CE, Key: Quote, Value: Let the water in.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

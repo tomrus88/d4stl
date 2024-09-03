@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Golden Nymphaea"
+Hash: 003DFCC1, Key: Name, Value: Nymphaea Sandals

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Orders From the Abbot
+Hash: CC3C0A8F, Key: FlavorText, Value: A scroll of strict orders from the Abbot.
+Hash: F2CA04D8, Key: NoticeSignText, Value: The Horadrim Elias and I are not to be disturbed for the remainder of our meeting, except by the arrival of Lorath Nahr. Should he appear, escort him to the Sacristy at once.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Blood-Smeared Ledger
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Blood-Smeared Ledger
+Hash: 59F3313B, Key: Line1.53D35, Value: Brought in three more. I’m closer [illegible] gaining his favor. [illegible] hates me, but they don’t understand. [illegible] way to protect my home.
+Hash: C8FC9768, Key: VoiceDir1.53D35, Value: Suggest leaving gaps in speech, rather than actually saying "illegible." 

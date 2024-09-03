@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Brutalized Knights
+Hash: F2CA04D8, Key: NoticeSignText, Value: The vampires clearly abhor all living things. These fallen knights may have considered their quick deaths a mercy if they'd known of the fate that awaited their comrades.

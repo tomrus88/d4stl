@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Varshan's Severed Head
+Hash: A646FFA4, Key: Description, Value: Grisly proof of Varshan's defeat at your hands.

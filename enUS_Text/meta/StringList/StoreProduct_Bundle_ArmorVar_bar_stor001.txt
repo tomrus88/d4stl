@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Totem of Ursus
+Hash: A646FFA4, Key: Description, Value: Though many members of the Bear Tribe settled in the Refuge, some inhabit the grasslands among the Ox and Crane. 
+Hash: 083EE0CE, Key: Quote, Value: Fierce warriors who bring the spirit of the Great Bear to the harsh lands of the Dry Steppes.
+Hash: 13A53A8B, Key: Series, Value: Barbarian Armor

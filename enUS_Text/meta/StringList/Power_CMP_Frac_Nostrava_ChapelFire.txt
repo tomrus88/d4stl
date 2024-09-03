@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Raging Flames
+Hash: 2827F416, Key: Buff0_Description, Value: Nearby flames damage you.

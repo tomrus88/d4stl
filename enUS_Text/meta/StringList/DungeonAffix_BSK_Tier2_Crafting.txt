@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: More Crafting Materials.
+Hash: EEB7912D, Key: AffixDesc, Value: More Crafting Materials drop from end rewards.

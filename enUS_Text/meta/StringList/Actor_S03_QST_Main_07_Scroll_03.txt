@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "The Cursed Places, As Revealed by the Viz-Jaq'taar"
+Hash: F2CA04D8, Key: NoticeSignText, Value: A catalogue of Vizjerei hideouts supposedly purged by the Mage Hunters. You know for a fact that many of these sites are now overrun with cultists.

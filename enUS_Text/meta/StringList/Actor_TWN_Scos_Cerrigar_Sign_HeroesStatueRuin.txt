@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Destroyed Heroes' Statue
+Hash: F2CA04D8, Key: NoticeSignText, Value: The statue of the former heroes of Scosglen stands in dishonor, defaced by the curses of an angry mob. 

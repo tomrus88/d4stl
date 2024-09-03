@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8F041C84, Key: Line1.13C006, Value: Momma says that tying our hair into the wards makes them stronger.
+Hash: DF3A4851, Key: VoiceDir1.13C006, Value: Eager. Trying to be helpful.

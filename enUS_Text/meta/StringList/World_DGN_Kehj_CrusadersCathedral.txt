@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crusaders' Cathedral
+Hash: 003892BF, Key: Desc, Value: Knights seized this temple and its undead warriors alike.

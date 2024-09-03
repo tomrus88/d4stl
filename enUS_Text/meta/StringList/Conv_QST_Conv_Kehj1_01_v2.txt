@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Feeling better, Taissa?” 
+Hash: 8E02627B, Key: Line5.789BF, Value: I can shut out Andariel’s whispers most of the time, but…not always.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: Trying to look at the bright side of things, but still struggling with this burden she bears.
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Better a whisper than having her walk the world again. Andariel is a part of Lilith’s and Elias’s plan. But how? What do we know so far?
+Hash: AD87FBD5, Key: Line21.BAE4, Value: Lilith made a deal with Astaroth.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Mm. A demon who served her father. Interesting choice of ally.
+Hash: 69E26198, Key: Line15.BAE4, Value: And she has a key to Hell.
+Hash: 3D079BE1, Key: Line17.6D03F, Value: A place where she is seen as a traitor. So why would she go?
+Hash: D6FC1563, Key: Line19.6D03F, Value: And...is she already there?
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: concerned

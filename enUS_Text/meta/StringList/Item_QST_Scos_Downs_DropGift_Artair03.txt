@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Broken Bear Totem
+Hash: F5C7BC0A, Key: Flavor, Value: This carving of a bear's head is part of a larger totem used by druids when learning shapeshifting.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Goatman ambush
+Hash: D8F1EA65, Key: Line3.BAE4, Value: A signal horn.
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: Concerned, wary

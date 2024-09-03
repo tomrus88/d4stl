@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lair of the Despoiler
+Hash: 003892BF, Key: Desc, Value: A dark corruption has entered these halls.

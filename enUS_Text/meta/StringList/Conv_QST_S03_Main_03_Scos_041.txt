@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Malphas
+Hash: 67E43DC2, Key: Line3.18EDEB, Value: Would you take that from me? Would you...cut off my fingers?
+Hash: B81A698F, Key: VoiceDir3.18EDEB, Value: from frustration to false vulnerability

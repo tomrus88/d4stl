@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EE1D4D8, Key: Line1.11EA18, Value: We're running low on venom.
+Hash: DF1800A5, Key: VoiceDir1.11EA18, Value: Gruff and to the point
+Hash: 67657E9B, Key: Line3.11EA19, Value: A few young ones could use the training. We should set a hunt tonight.
+Hash: B79BAA68, Key: VoiceDir3.11EA19, Value: Matter of fact
+Hash: 3FE9285C, Key: Line5.11EA18, Value: No, we need clean kills, so the healers get the best collection. They can train another night.
+Hash: 901F5429, Key: VoiceDir5.11EA18, Value: Gruff and to the point

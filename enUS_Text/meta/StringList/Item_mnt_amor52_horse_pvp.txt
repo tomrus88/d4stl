@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Demonic Warlord's Barding
+Hash: A646FFA4, Key: Description, Value: Barding created from several pieces of armor worn by defeated demonic generals.

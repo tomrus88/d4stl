@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you raving about?"
+Hash: 5D85CC18, Key: Line1.FFA04, Value: You there, yes you! Come now, don't be shy. I need your help, that damned fanatic Theya stole my eyes!
+Hash: CC8F3245, Key: VoiceDir1.FFA04, Value: lude, drunk, or a madman. shouts at everyone 
+Hash: F77A459A, Key: Line3.FFA04, Value: She wears them around her neck, and what horrid suffering I've witnessed. Please, no more. There's so much blood... I can't...
+Hash: 916EBF1C, Key: Line5.FFA04, Value: You must believe me, I can still see from them. Theya and her flock have grown strong in Nostrava. Please, bring me back my eyes.

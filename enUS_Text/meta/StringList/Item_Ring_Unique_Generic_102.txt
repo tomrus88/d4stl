@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: X'Fal's Corroded Signet
+Hash: F5C7BC0A, Key: Flavor, Value: Skulking in the shadows of the Realm of Destruction, the Scarred Baron plots the downfall of the mortal who banished him there.

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Distant Voice
+Hash: 5D837090, Key: Line1.FC646, Value: Though light fades… (cough) we do not disappear. (exhale)
+Hash: CC8CD6BD, Key: VoiceDir1.FC646, Value: Recitation (elegy), tired/pained speech

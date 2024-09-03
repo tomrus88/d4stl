@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Are you Rakhaan’s hunter?"
+Hash: 59F2E8AC, Key: Line1.54219, Value: Yeah, he send you? Thank the spirits. He paid me half up front. Didn’t tell me there’d be bodies.
+Hash: C8FC4ED9, Key: VoiceDir1.54219, Value: emphasis on bodies
+Hash: 8DDBDBB0, Key: Line5.54219, Value: Hell, do you think he hired those poor souls before sending us?

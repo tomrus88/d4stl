@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Hawezar is a part of Sanctuary."
+Hash: 5A196F77, Key: Line1.789BF, Value: Ah, is it?

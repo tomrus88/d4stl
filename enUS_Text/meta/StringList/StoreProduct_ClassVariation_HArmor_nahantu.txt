@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Nahantu Unearthed Armor Bundle
+Hash: A646FFA4, Key: Description, Value: [PH] Nahantu class variation description
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Equipment

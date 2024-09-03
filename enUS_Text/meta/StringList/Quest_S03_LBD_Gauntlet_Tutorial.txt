@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Unlocking the Horn of Trials
+Hash: 68161728, Key: Phase3Description, Value: I have heard strange rumors about the Horn of Trials – a strange obelisk-shaped stone claimed to be the peak of Mount Nymyr. 
+
+How it came to Gea Kul is unknown to me. I should investigate the city docks where the Horn lies and see if the rumors hold any truth. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Investigate the Horn of Trials

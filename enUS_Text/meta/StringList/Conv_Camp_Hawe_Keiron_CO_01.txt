@@ -1,0 +1,2 @@
+Hash: 5A3B4CBE, Key: Line1.941B7, Value: (shouts of pain, weary)
+Hash: C944B2EB, Key: VoiceDir1.941B7, Value: Exhausted. Burning. In pain. 

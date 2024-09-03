@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Fueled by Death
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0} * 100|%x|]{/c} increased damage for {c_number}{buffduration:DAMAGE_BONUS}{/c} seconds after consuming a Corpse.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Fueled By Death
+Hash: C6E60718, Key: Buff2_Description, Value: Dealing bonus damage

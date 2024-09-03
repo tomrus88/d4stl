@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Does killing demons not bother your other half?”
+Hash: 5D73363A, Key: Line1.EECAE, Value: (laughs) I share no kinship with my kind. They are brash, stupid. They come, they squabble, they die. Not me. I’ve chosen longevity.
+Hash: CC7C9C67, Key: VoiceDir1.EECAE, Value: Deeper and hoarser than Rakhaan's normal voice.

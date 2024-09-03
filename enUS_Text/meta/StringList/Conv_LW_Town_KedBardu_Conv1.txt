@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where's all the traders?"
+Hash: 5D6C9FF6, Key: Line1.F8D49, Value: All the crying and worry of Guulrahn survivors is scaring off buyers.
+Hash: F76119A4, Key: Line3.F8D4E, Value: Let’s have some compassion.
+Hash: 915592FA, Key: Line5.F8D49, Value: (scoff) I would rather have coin.

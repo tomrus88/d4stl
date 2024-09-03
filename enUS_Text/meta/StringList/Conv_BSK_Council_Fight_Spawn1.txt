@@ -1,0 +1,4 @@
+Hash: 082CD67E, Key: Line8.1D252B, Value: We are the end!
+Hash: 5863024B, Key: VoiceDir8.1D252B, Value: Unholy scripture. Declaring.
+Hash: 5C8595A7, Key: Line10.1D252B, Value: No Light! Only the fire.
+Hash: B3813B14, Key: VoiceDir10.1D252B, Value: Unholy scripture. Declaring.

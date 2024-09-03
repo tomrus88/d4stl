@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 6F34E331, Key: Line11.84B74, Value: The time of prophecy has come, Knights. Lilith flees through the gate to Hell.
+Hash: 1595F979, Key: Line37.84B74, Value: I will slay her in that cesspit she calls home and open the way to the Heavens. All is as fate decreed: “A spear of Light, piercing Hatred’s heart.”
+Hash: AF8A72FB, Key: Line39.84B74, Value: You who die in battle today, die Heaven-bound!
+Hash: 33FA61D4, Key: Line41.84B74, Value: Rally the troops at the palace. We march on Hell.
+Hash: 3D079BE1, Key: Line17.6D03F, Value: And after that? Your plan?
+Hash: F56B3194, Key: Line23.84B74, Value: Ah. The Horadrim. Always chasing after the battles of your betters.
+Hash: 45A15D61, Key: VoiceDir23.84B74, Value: emphasis on "mine"
+Hash: 8F5FAB16, Key: Line25.84B74, Value: But the angels don’t need you.
+Hash: 294970C2, Key: Line27.6D03F, Value: The stone, Donan.
+Hash: C33DEA44, Key: Line29.6D03F, Value: We don’t need the bloody angels either.
+Hash: 13741611, Key: VoiceDir29.6D03F, Value: simmering fury
+Hash: 47B88CF3, Key: Line31.84B74, Value: The hubris.
+Hash: E1AD0675, Key: Line33.84B74, Value: You boast of a mere fragment of what this once was. The worldstone, debased in the hands of fools.
+Hash: 7BA17FF7, Key: Line35.84B74, Value: Lilith dies by my blade. Prophecy has foretold it.
+Hash: CBD7ABC4, Key: VoiceDir35.84B74, Value: emphasis on "my"

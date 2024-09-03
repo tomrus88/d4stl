@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The drowned have been dealt with for now."
+Hash: 5D72A43F, Key: Line1.EDC75, Value: Thank you. I’ll tell the boys we can get back to work. We’ve been restless bein’ on land this long.
+Hash: CC7C0A6C, Key: VoiceDir1.EDC75, Value: Heavy scos accent

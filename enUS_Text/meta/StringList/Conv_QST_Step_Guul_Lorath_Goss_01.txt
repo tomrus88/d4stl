@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Elias summoned demons long before this, didn’t he?”
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Don’t tell me you were meddling in the Horadric Vault. I put a seal on his quarters for a reason.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Hint of anger, this is a touchy subject
+Hash: F413C4CC, Key: Line3.6D03F, Value: The fool thought he could use their power against the Prime Evils. Fight fire with fire.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: I gave him an ultimatum: stop, or leave the Horadrim. You know the rest.

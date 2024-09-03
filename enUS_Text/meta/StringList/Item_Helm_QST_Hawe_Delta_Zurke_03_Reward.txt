@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Helm of Embalming
+Hash: F5C7BC0A, Key: Flavor, Value: A battered helmet marked with a glyph of the Tree of Whispers. The inside of this helmet reeks of embalming fluid as if it is meant to preserve the head of one who dies within it.

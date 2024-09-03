@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Bursting Bones
+Hash: 003892BF, Key: Desc, Value: When a segment of {c_important}Bone Prison{/c} is destroyed or expires, it deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * (1 + Owner.Main_Hand_Damage_Percent_Bonus) * Affix_Value_1]{/c} damage in an area around itself.

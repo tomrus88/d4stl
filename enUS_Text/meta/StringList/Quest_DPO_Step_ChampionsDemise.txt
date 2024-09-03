@@ -1,0 +1,5 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: Return the Stone Carving to the Pedestal: {LEFT}
+Hash: 9044E2EB, Key: Callback131Header, Value: Slay the {MONSTER}: {LEFT}
+Hash: 5E224F71, Key: Callback137Header, Value: Travel to {LEVELAREA}
+Hash: 2F8C7B0B, Key: Callback140Header, Value: Defeat the {MONSTER}
+Hash: 003DFCC1, Key: Name, Value: Your lands lie in ruins.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Realistic Woodcarving
+Hash: F2CA04D8, Key: NoticeSignText, Value: These carvings are a monument to Nostrava's skilled woodworkers. Their features are so lifelike it seems like they could almost move.

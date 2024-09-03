@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Storm's Companion
+Hash: F5C7BC0A, Key: Flavor, Value: "The storm's rage is my own, brother. I call, and the skies roar in reply."
+- Vasily, to Bul-Kathos

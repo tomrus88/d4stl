@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found a letter from Benen."
+Hash: 0C12076E, Key: Line13.A9B7A, Value: Misfortune? Me? Hah. Saltier than the sea, that bastard.
+Hash: 5C48333B, Key: VoiceDir13.A9B7A, Value: Aghast, angry at accusations
+Hash: A60680F0, Key: Line15.A9B7A, Value: Better off without him, I am. I’ll find my way alone. Prove him wrong.
+Hash: F63CACBD, Key: VoiceDir15.A9B7A, Value: Scoffing
+Hash: DA61C675, Key: Line19.FF04E, Value: Mmm, another pint, Fergus?
+Hash: 2A97F242, Key: VoiceDir19.FF04E, Value: Sympathetic
+Hash: 3FFAFA72, Key: Line17.A9B7A, Value: Huh? Ah no, I’ve had my fill.
+Hash: 9031263F, Key: VoiceDir17.A9B7A, Value: Somber, recognizing own failures

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tala's Fanged Blade
+Hash: F5C7BC0A, Key: Flavor, Value: Fashioned into the shape of a wolf's fang, this blade excels at striking from the shadows.

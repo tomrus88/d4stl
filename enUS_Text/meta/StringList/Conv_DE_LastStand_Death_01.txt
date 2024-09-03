@@ -1,0 +1,24 @@
+Hash: 8A14CE03, Key: Line18.7DD23, Value: No! We've lost someone.
+Hash: DA4AF9D0, Key: VoiceDir18.7DD23, Value: Horror. Shock.
+Hash: FAC691BD, Key: Line30.7DD23, Value: My friend! No!
+Hash: 4AFCBD8A, Key: VoiceDir30.7DD23, Value: Horror. Shock.
+Hash: 94BB0B3F, Key: Line32.7DD23, Value: Keep fighting or we all die!
+Hash: E4F1370C, Key: VoiceDir32.7DD23, Value: Determined. Barking.
+Hash: 20447840, Key: Line51.7DD23, Value: This can't be happening.
+Hash: 707AA40D, Key: VoiceDir51.7DD23, Value: Shock. Terror.
+Hash: 426DAFDF, Key: Line24.7DD22, Value: No! We've lost someone.
+Hash: 92A3DBAC, Key: VoiceDir24.7DD22, Value: Horror. Shock.
+Hash: DC622961, Key: Line26.7DD22, Value: My friend! No!
+Hash: 2C98552E, Key: VoiceDir26.7DD22, Value: Horror. Shock.
+Hash: 7656A2E3, Key: Line28.7DD22, Value: Keep fighting or we all die!
+Hash: C68CCEB0, Key: VoiceDir28.7DD22, Value: Determined. Barking.
+Hash: 07332E82, Key: Line54.7DD22, Value: This can't be happening.
+Hash: 57695A4F, Key: VoiceDir54.7DD22, Value: Shock. Terror.
+Hash: EA00B4A1, Key: Line40.AF367, Value: No! We've lost someone.
+Hash: 3A36E06E, Key: VoiceDir40.AF367, Value: Horror. Shock.
+Hash: D0EF6AE4, Key: Line43.AF367, Value: My friend! No!
+Hash: 212596B1, Key: VoiceDir43.AF367, Value: Horror. Shock.
+Hash: B7DE2127, Key: Line46.AF367, Value: Keep fighting or we all die!
+Hash: 08144CF4, Key: VoiceDir46.AF367, Value: Determined. Barking.
+Hash: F11A32C9, Key: Line57.AF367, Value: This can't be happening.
+Hash: 41505E96, Key: VoiceDir57.AF367, Value: Shock. Terror.

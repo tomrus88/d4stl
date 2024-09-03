@@ -1,0 +1,3 @@
+Hash: 62615AF5, Key: Line13.BAE4.Nec.M, Value: This is unfamiliar to me.
+Hash: 9354B856, Key: Line14.BAE4.Nec.M, Value: I must identify this first.
+Hash: C44815B7, Key: Line15.BAE4.Nec.M, Value: I cannot use this until it is identified.

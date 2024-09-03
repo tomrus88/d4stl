@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Severing the Bond
+Hash: B98DBD5C, Key: Callback15Header, Value: Pour your blood into the Chalice
+Hash: 58D5557C, Key: Callback24Header, Value: Speak to Priest Voszalko
+Hash: 71E69F39, Key: Callback21Header, Value: Speak to Priest Voszalko
+Hash: AB22B0DB, Key: Callback32Header, Value: Accompany Priest Voszalko

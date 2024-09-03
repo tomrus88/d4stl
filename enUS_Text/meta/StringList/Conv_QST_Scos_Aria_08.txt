@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: 91138A51, Key: Line5.AF573, Value: I knew having a companion would be beneficial. What if I’d been alone? heh
+Hash: 001CF07E, Key: VoiceDir5.AF573, Value: (laughs)
+Hash: 5D2A974D, Key: Line1.AF573, Value: Some people think the waterfall formed an explosion of Vasily’s power. That he--
+Hash: CC33FD7A, Key: VoiceDir1.AF573, Value: (loudly over the sound of rushing water)
+Hash: F71F10CF, Key: Line3.AF573, Value: Wait. Do you hear that?

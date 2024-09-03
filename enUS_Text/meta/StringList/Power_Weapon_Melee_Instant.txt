@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Melee
+Hash: 003892BF, Key: desc, Value: Basic melee attack
+Hash: F2DE8628, Key: simple_desc, Value: Basic melee attack

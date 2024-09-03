@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D3A94B9, Key: Line1.BB9A4, Value: Not sure what, but something's changed. Got a clean kill about a stone's throw from Brione.
+Hash: CC43FAE6, Key: VoiceDir1.BB9A4, Value: pronunciation: bree-AN
+Hash: F72F08F2, Key: Line3.BB984, Value: Does that mean it's stopped spreading? Have our prayers finally been answered?
+Hash: 912387BD, Key: Line5.BB9A4, Value: If we can prove it's true, then we should get some more hunters together and map out new hunting grounds.

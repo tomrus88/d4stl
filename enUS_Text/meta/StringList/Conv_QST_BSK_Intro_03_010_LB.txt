@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Blood-soaked Missive
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Iron Wolf
+Hash: D105DDA6, Key: Line20.1D9565, Value: To Captain Soudeh: Triune are gathering at the Hell Gate, summoning demons. More coming, purpose unknown. Send the Wolves!
+Hash: 28018313, Key: VoiceDir20.1D9565, Value: Urgent. Terse. Desperate.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found the inquisitor's ledger." 
+Hash: 5D85D31F, Key: Line1.FFAEF, Value: You see now how they let fear into their hearts? Turned against each other? What the inquisition wrought for these people? Fire and death.
+Hash: DE6902E4, Key: Line6.FFAEF, Value: Too many have forgotten. But now the Zakarum won’t be able to outlive their crimes. Thank you.

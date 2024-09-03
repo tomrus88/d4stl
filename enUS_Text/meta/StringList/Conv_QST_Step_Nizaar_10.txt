@@ -1,0 +1,4 @@
+Hash: 5D1F9315, Key: Line1.B1281, Value: Well well! Someone let you outta yer cage did they, rat? Suppose you learned your lesson?
+Hash: CC28F942, Key: VoiceDir1.B1281, Value: Extremely pleased with yourself. You're talking down to a weasel-y subordinate who had his punishment coming.
+Hash: F705026C, Key: Line3.A5F52, Value: Aye! I know I did wrong, but I brought you the troublemaker who wrecked our camp! A little gift, wrapped up nice!
+Hash: 660E6899, Key: VoiceDir3.A5F52, Value: Nervous but trying to put on an air of confidence. Talking to The Boss, and trying to ingratiate yourself to them.

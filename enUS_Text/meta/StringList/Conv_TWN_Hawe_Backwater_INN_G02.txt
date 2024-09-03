@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is that blood there?"
+Hash: 8ED91C08, Key: Line1.124D51, Value: Blood, wine. Depends who you ask. (chuckle)
+Hash: DF0F47D5, Key: VoiceDir1.124D51, Value: Shrewd and sincere

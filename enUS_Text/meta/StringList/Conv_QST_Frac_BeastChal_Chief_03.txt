@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've returned with the Head of Kauller."
+Hash: F71763AF, Key: Line3.B757A, Value: Ha! Well done! You shall have the honor of mounting the head. Let both friend and foe know that you have brought down the beast.
+Hash: 6620C9DC, Key: VoiceDir3.B757A, Value: A proud and excited warrior 

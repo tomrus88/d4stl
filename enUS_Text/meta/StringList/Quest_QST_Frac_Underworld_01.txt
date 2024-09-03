@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: Name, Value: Below
+Hash: 0871A46B, Key: Toast, Value: Pursue Lilith and Vhenard in the Path of the Firstborn
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Pursue Lilith and Vhenard in the Path of the Firstborn
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must search the vast caverns of the Path of the Firstborn, with Neyrelle and Vigo, for signs of Lilith and Vhenard.
+Hash: 75A12100, Key: Phase47Description, Value: We barely escaped the collapsing mines and now find ourselves in a strange realm even deeper within the earth. Have we just gone from bad to worse?
+Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Speak with Vigo
+Hash: C22F6634, Key: Callback176Header, Value: Speak to Vigo in the Path of the Firstborn
+Hash: 81A1C639, Key: Callback199Header, Value: Speak with Vigo in the Path of the Firstborn
+Hash: BE5A75AD, Key: Phase161Description, Value: We barely escaped the collapsing mines and now find ourselves in a strange realm even deeper within the earth. Have we just gone from bad to worse?
+Hash: 9DD44D95, Key: Phase161OutsideSubzoneHeader, Value: Make the Ore Hoist operational
+Hash: 081024CD, Key: Callback160Header, Value: Make the Ore Hoist operational
+Hash: E40EA5F3, Key: Phase167Description, Value: We barely escaped the collapsing mines and now find ourselves in a strange realm even deeper within the earth. Have we just gone from bad to worse?
+Hash: 84222C9B, Key: Phase167OutsideSubzoneHeader, Value: Bring Vigo and Neyrelle down into the caverns
+Hash: D5ED9153, Key: Callback166Header, Value: Bring Vigo and Neyrelle down into the caverns
+Hash: E4B373B7, Key: Phase189Description, Value: We barely escaped the collapsing mines and now find ourselves in a strange realm even deeper within the earth. Have we just gone from bad to worse?
+Hash: 0B94B6DF, Key: Phase189OutsideSubzoneHeader, Value: Speak with Neyrelle in the Path of the Firstborn
+Hash: 19CFE031, Key: Callback191Header, Value: Speak with Neyrelle

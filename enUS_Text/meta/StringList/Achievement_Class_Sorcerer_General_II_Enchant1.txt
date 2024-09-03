@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Master of Magic
+Hash: 003892BF, Key: Desc, Value: Equip a Skill in every Enchantment Slot.

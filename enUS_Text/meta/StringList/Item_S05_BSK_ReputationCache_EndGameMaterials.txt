@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elements of Hatred
+Hash: A646FFA4, Key: Description, Value: Resources for the endless conflict against the Infernal Hordes.

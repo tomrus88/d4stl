@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Grimace Macabre
+Hash: A646FFA4, Key: Description, Value: Our power is also one of dread and fear. Wear that philosophy upon your countenance and mortals will stand aside.
+Hash: 083EE0CE, Key: Quote, Value: Deathmages who leverage the innate fear that the living have of the dead.
+Hash: 13A53A8B, Key: Series, Value: Necromancer Armor

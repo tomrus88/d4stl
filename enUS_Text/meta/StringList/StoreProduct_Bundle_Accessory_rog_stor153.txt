@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ashes of the Underworld
+Hash: A646FFA4, Key: Description, Value: It is believed the Ash Knight imbibes embers from vanquished prey, making them more resistant to the powers of the minions of hell.
+Hash: 083EE0CE, Key: Quote, Value: Everything returns to ash.
+Hash: 13A53A8B, Key: Series, Value: "Ash Knight" Accessories

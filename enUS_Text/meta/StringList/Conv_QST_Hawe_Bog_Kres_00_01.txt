@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Kres Callouts
+Hash: 2594433D, Key: Line10.FBA9D, Value: (cackling)
+Hash: BF88BCBF, Key: Line12.FBA9D, Value: (pained breathing) (raspy cough)
+Hash: 597D3641, Key: Line14.FBA9D, Value: (incoherent mumbling)

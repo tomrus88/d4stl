@@ -1,0 +1,4 @@
+Hash: CFD531A4, Key: Line10.BAE4.Rog.M, Value: I'm out of stamina.
+Hash: 31BBEC66, Key: Line12.BAE4.Rog.M, Value: I need more stamina.
+Hash: 93A2A728, Key: Line14.BAE4.Rog.M, Value: My stamina is gone.
+Hash: F58961EA, Key: Line16.BAE4.Rog.M, Value: I need a rest.

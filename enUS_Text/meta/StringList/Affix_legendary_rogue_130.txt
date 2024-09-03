@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: of Nebulous Brews
+Hash: 003892BF, Key: Desc, Value: Using a {c_important}Healing Potion{/c} grants {c_random}[Affix_Value_1|%+|]{/c} Movement Speed for {c_number}[Affix."Static Value 0"]{/c} seconds, and you may now drink them while at full Life.
+
+Every {c_number}[Affix."Static Value 1"]{/c} meters you travel, you spawn a {c_important}Healing Potion{/c}.

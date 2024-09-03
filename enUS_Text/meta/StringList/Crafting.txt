@@ -1,0 +1,329 @@
+Hash: 07D39D6C, Key: MaterialValue_Required, Value: / {s2}
+Hash: 41A80E79, Key: DungeonKey, Value: Dungeon Key
+Hash: DC5C0A9F, Key: Dungeon Tier Legendary, Value: Ancestral
+Hash: F94E50E5, Key: Dungeon Tier Magic, Value: Common Sigils
+Hash: 64A8078E, Key: Dungeon Tier Rare, Value: Sacred
+Hash: C2208C6F, Key: Socketing_Add, Value: Visit a {s1} to add a socket
+Hash: 8A349F07, Key: Socketing, Value: Socketing
+Hash: 0CF6D8F7, Key: Socket_Empty, Value: Empty Socket
+Hash: 073FA750, Key: Craft, Value: Craft
+Hash: 085E9545, Key: Smith, Value: Smith
+Hash: BA4CE54E, Key: Inventory, Value: Inventory
+Hash: 629D04EF, Key: CraftGear, Value: Craft Gear
+Hash: 126751C1, Key: ImproveGear, Value: Improve Gear
+Hash: F9F9425F, Key: Helmet, Value: Helmet
+Hash: F82490B0, Key: Gloves, Value: Gloves
+Hash: 073A3E37, Key: Chest, Value: Chest
+Hash: 0821CC86, Key: Pants, Value: Pants
+Hash: 072C2707, Key: Boots, Value: Boots
+Hash: 0848250F, Key: Relic, Value: Relic
+Hash: D1BF47B6, Key: Necklace, Value: Necklace
+Hash: 084A5EE3, Key: Rings, Value: Rings
+Hash: 08624814, Key: Staff, Value: Staff
+Hash: 0042EC4A, Key: Wand, Value: Wand
+Hash: 0D96B3E3, Key: Off-Hand, Value: Off-Hand
+Hash: 08642A4F, Key: Sword, Value: Sword
+Hash: 1CF0A9AA, Key: Weapon, Value: Weapon
+Hash: 629D067C, Key: CraftGems, Value: Craft Gems
+Hash: D4F3CDDA, Key: RemoveGems, Value: Remove Gems
+Hash: DA50A1E4, Key: ConfirmRemoval, Value: Confirm Removal
+Hash: 00408202, Key: Ruby, Value: Ruby
+Hash: 64601DBA, Key: Emerald, Value: Emerald
+Hash: 3F84C2CF, Key: Amethyst, Value: Amethyst
+Hash: 59CAFA3C, Key: Sapphire, Value: Sapphire
+Hash: 8EA00C12, Key: CraftOne, Value: Craft
+Hash: 8EA001F6, Key: CraftMax, Value: Craft Max (s1)
+Hash: 73DA2E81, Key: ScholarInstructions, Value: Select 3 Runes to Create a New Rune
+Hash: FE85E11D, Key: ItemSalvagedNotification, Value: Item Salvaged
+Hash: A5CFC10D, Key: CurrentlyHolding, Value: Owned: {s1}
+Hash: DC238B83, Key: RequiredMaterials, Value: Material Cost
+Hash: A0BA0B6C, Key: CostToCraft, Value: {c_label}Cost To Craft:{/c}
+Hash: 0873DC0D, Key: TheCostToCraft, Value: s1 (s2 Max)
+Hash: 5EAA4306, Key: OneHanded, Value: One Handed
+Hash: F52F537E, Key: TwoHanded, Value: Two Handed
+Hash: B9A20836, Key: CraftingMaterialLocation, Value: Located in (s1)
+Hash: 61647460, Key: NumberOfMaterials, Value: {c_number}{s1}{/c}{c_number_req}
+/{s2}{/c}
+Hash: 8DABDE7A, Key: Alchemist, Value: Alchemist
+Hash: CFB2604E, Key: Confirm, Value: Confirm
+Hash: 432FA9E1, Key: ConfirmCost_Extract, Value: Extract
+Hash: 98148EAB, Key: Imbuing, Value: Imprinting
+Hash: 71490679, Key: Extracting, Value: Extracting
+Hash: BCFF22FA, Key: Occultist, Value: Occultist
+Hash: 557E7F23, Key: ExtractEssenceTitle, Value: Extract Aspect
+Hash: 8FC7A11A, Key: ImbueEssenceTitle, Value: Imprint Aspect
+Hash: 07EFC6B9, Key: Might, Value: Might Aspect
+Hash: 14677F7B, Key: Spirit, Value: Spirit Aspect
+Hash: 0892A427, Key: Vigor, Value: Vigor Aspect
+Hash: 8C3E4DE6, Key: ItemCraftingHeader, Value: {s1} ({c_number}{s2}{/c}{c_number_req}/{s3}{/c})
+Hash: 9DF0AC89, Key: SalvageGrid, Value: Salvage
+Hash: D149DFAD, Key: SalvageBreakText, Value: Directly in Inventory
+Hash: F3091825, Key: SalvageAllCommon, Value: Common
+Hash: F886AA7D, Key: SalvageAllMagic, Value: Magic
+Hash: 9AEF8E26, Key: SalvageAllRare, Value: Rare
+Hash: FC38F382, Key: Blacksmith, Value: Blacksmith
+Hash: F15A7C7B, Key: Donate, Value: Donate: {s1}
+Gain Level {s2} Recipes
+Hash: 5E06053D, Key: CraftingStats, Value: Crafting Stats
+Hash: 04C9213C, Key: SalvageAll, Value: All Items
+Hash: E1047649, Key: SalvageJunkVendor, Value: Salvager
+Hash: D5082216, Key: CostToLearnTalent, Value: Required Cost: {s1}
+Hash: ABAE1B53, Key: RequiredQuest, Value: Complete the quest {c_yellow}{s1}{/c}.
+Hash: EDC1D135, Key: RequiredQuestTitle, Value: Requirements:
+Hash: EF2F42C3, Key: PurchaseTalent, Value: Make Payment
+Hash: C5EB14B2, Key: QuestTurnIn, Value: Turn in quest
+Hash: 50DF09F5, Key: Salvager, Value: Salvager
+Hash: 4FD5D872, Key: Donate_Disabled, Value: Level {s1} required to donate
+Hash: 95AEED23, Key: MaterialAmount, Value: +{s1}
+Hash: EF4645CB, Key: Donate_Max_Reached, Value: Maximum Crafter Level
+Hash: CA8E6AAB, Key: ResourcesFromSalvaging, Value: Resources From Salvaging
+Hash: 64870282, Key: CraftingCritChance, Value: Crafting Crit Chance: {s1}
+Hash: 28B72197, Key: UnlockTransmog, Value: Extract Look
+Hash: BC8D1605, Key: TransmogUnlockVendor, Value: Clothier
+Hash: 114ED7A3, Key: Repair, Value: Repair
+Hash: 76768B60, Key: RepairEquipped, Value: Equipped: {s1}
+Hash: ACCE83BC, Key: RepairAll, Value: All Items: {s1}
+Hash: 17884DE8, Key: Essence_Instructions_Item, Value: Item
+Hash: 3FFD1E5F, Key: Essence_Instructions_Essence, Value: Aspect
+Hash: EF591D24, Key: SalvageButtonText, Value: Salvage by item quality
+Hash: 07FC3082, Key: ItemRepairedNotification, Value: Item Repaired
+Hash: 772F5C1A, Key: KBMSort_All, Value: All
+Hash: B97C0263, Key: KBMSort_CanCraft, Value: Can Craft
+Hash: 21A04C30, Key: Overlay_Item, Value: Item
+Hash: 0359267F, Key: Overlay_ItemMasterwork, Value: Masterworking
+Hash: D3D8CE8E, Key: Jeweler, Value: Jeweler
+Hash: C19961D9, Key: jeweler_unsocket, Value: Unsocket
+Hash: ADBFAAFC, Key: Jeweler_unsocket_secondline, Value: Gems
+Hash: 85F2BE6B, Key: Essence_Details, Value: Legendary Items Only
+Hash: 9C39073F, Key: Essence_Instructions_Collect, Value: To be collected
+Hash: E38A3561, Key: Essence_Instructions_EssencePreview, Value: Aspect Preview
+Hash: D262F523, Key: Essence_Instructions_Destroy, Value: To be destroyed
+Hash: 23CD0021, Key: Essence_Instructions_Modify, Value: To be modified
+Hash: 07D75135, Key: Essence_Instructions_Replace, Value: From Inventory
+Hash: FCBD385C, Key: Essence_Instructions_ModifiedPreview, Value: Preview
+Hash: F6AE77D8, Key: ConfirmCost_Imbue, Value: Imprint
+Hash: B8DD91CD, Key: Warning_EssenceImbue, Value: Imprinting this item will override its existing power. This cannot be undone.
+
+Are you sure you want to proceed?
+Hash: 27D3DE5B, Key: Warning_Essence, Value: Warning
+Hash: 4D8D1516, Key: Warning_EssenceExtract, Value: Extracting this item’s Aspect will destroy the original item. 
+
+Are you sure you want to proceed?
+Hash: 366E3CCE, Key: EssenceOccultist_RunesOnly, Value: Runes Only
+Hash: 4E61782B, Key: EssenceOccultist_UniquesOnly, Value: Unique Gear Only
+Hash: F154DD2C, Key: Essence_Instructions_RandomResults, Value: Random Results
+Hash: 07A84172, Key: Essence_Instructions_Rerolled, Value: To be rerolled
+Hash: 07CF3441, Key: Essence_Instructions_Upgrade, Value: To be upgraded
+Hash: 1762FC0F, Key: Essence_Instructions_UniqueGear, Value: Unique Item
+Hash: 1957CD11, Key: Essence_Instructions_UniqueGearPreview, Value: Unique Item Preview
+Hash: 76B7EF03, Key: Essence_Instructions_LegendaryItem, Value: Legendary Item
+Hash: 7A7474B7, Key: Essence_Instructions_ModifiedLegendaryPreview, Value: {c_legendary}Preview{/c}
+Hash: 811E8D36, Key: Essence_DetailsNon, Value: Non-Legendary
+Items Only
+Hash: BDD0C357, Key: Essence_Instructions_AffixReroll, Value: Affix to be modified
+Hash: AAC42B13, Key: Essence_Instructions_AffixOptions, Value: Affix Options
+Hash: C0227607, Key: Essence_Instructions_AffixSelect, Value: Select One
+Hash: 759F563D, Key: CostToCraft_Instrutions, Value: Place Items to Complete Transaction
+Hash: 619515B1, Key: Essence_Purchase_Imbue, Value: Purchase Imprint
+{s1}
+Hash: 023521FA, Key: Essence_Purchase_Extract, Value: Purchase Extract
+{s1}
+Hash: 1D9256DE, Key: Essence_Purchase_UniqueUpgrade, Value: Purchase Unique
+Upgrade
+{s1}
+Hash: D4AC10BB, Key: Essence_Purchase_AffixRerolling, Value: Purchase Affix Reroll
+{s1}
+Hash: CF4901D6, Key: Purchase_MaterialsMissing, Value: {c_red}Missing Resources{/c}
+Hash: CE56987D, Key: Purchase_MaterialsAvailable, Value: {c_green}Materials Available{/c}
+Hash: 221A5010, Key: tab_occultist_EssenceExtract, Value: Extract Aspect
+Hash: C90BC647, Key: tab_occultist_EssenceImbue, Value: Imprint Aspect
+Hash: 4D8888BD, Key: tab_occultist_SalvageSigils, Value: Salvage Sigils
+Hash: A8A6615F, Key: tab_occultist_EnchantItem, Value: Enchant Item
+Hash: AE0EA8EA, Key: tab_occultist_CraftSigils, Value: Craft Sigils
+Hash: 99B6293A, Key: tab_blacksmith_Salvage, Value: Salvage
+Hash: 486EF4DA, Key: tab_blacksmith_Repair, Value: Repair
+Hash: E96F136F, Key: tab_jeweler_Unsocket, Value: Unsocket 
+Hash: 4A864AB5, Key: tab_jeweler_AddSocket, Value: Add Socket
+Hash: 66307D9F, Key: tab_alchemist_BrewElixirs, Value: Craft Elixirs
+Hash: DF64BBF4, Key: tab_alchemist_Incense, Value: Craft Incense
+Hash: C8004C89, Key: tab_alchemist_ResourceRefining, Value: Refine Resources
+Hash: 223A74AA, Key: Jeweler_Instructions_Socket, Value: To receive socket
+Hash: 295B4979, Key: Jeweler_Purchase_AddSocket, Value: Purchase Socket
+Hash: DE6FC2BA, Key: tab_Jeweler_UpgradeItem, Value: Upgrade Item
+Hash: 0DC65A5C, Key: Diamond, Value: Diamond
+Hash: 085DAE8B, Key: Skull, Value: Skull
+Hash: 74576DE1, Key: tab_Recipes, Value: Recipes
+Hash: E48ECB68, Key: ImbuedItemPreviewName, Value: Modified {s1} to be collected
+Hash: B8D5C709, Key: Potion0, Value: Weak Healing Potion
+Hash: B8D5C70A, Key: Potion1, Value: Tiny Healing Potion
+Hash: B8D5C70B, Key: Potion2, Value: Minor Healing Potion
+Hash: B8D5C70C, Key: Potion3, Value: Light Healing Potion
+Hash: B8D5C70D, Key: Potion4, Value: Moderate Healing Potion
+Hash: B8D5C70E, Key: Potion5, Value: Strong Healing Potion
+Hash: B8D5C70F, Key: Potion6, Value: Greater Healing Potion
+Hash: B8D5C710, Key: Potion7, Value: Major Healing Potion
+Hash: B8D5C711, Key: Potion8, Value: Superior Healing Potion
+Hash: 647B928C, Key: PlayerCrafterLevel, Value: Player Level: {s1}
+Hash: E464F3E3, Key: PotionUpgradeTitle, Value: Potion Upgrades
+Hash: 73743C0C, Key: CraftButton, Value: Craft
+Hash: DB92D0A2, Key: CancelButton, Value: Cancel
+Hash: BBEF4AF0, Key: ItemName, Value: {s1}
+Hash: AE73B296, Key: YourAvailableGold, Value: Available Gold:
+Hash: B2CCDCF0, Key: tab_alchemist_UpgradePotion, Value: Upgrade Potion
+Hash: DE6E6B37, Key: tab_jeweler_UpgradeGems, Value: Craft Gems
+Hash: 929108B4, Key: TotalCraft, Value: /{s1}
+Hash: 00000EC1, Key: Or, Value: Or
+Hash: 0871E1EE, Key: Topaz, Value: Topaz
+Hash: 39B6D027, Key: ItemLevel, Value: Lv. {s1}
+Hash: 3A04B23C, Key: ItemPower, Value: (+ {s1} Item Power)
+Hash: A5949A98, Key: FullyUpgraded, Value: Fully Upgraded
+Hash: 138DD1CF, Key: ItemLevelSecondary, Value: (Lv. {s1})
+Hash: E6D4B657, Key: UpgradeItem, Value: Upgrade Item
+Hash: BE6C086B, Key: ItemUpgrade_Instructions, Value: To upgrade
+Hash: 9AEB7FB4, Key: SalvageAllJunk, Value: All Junk
+Hash: C0DADE23, Key: UpgradeAtMax, Value: Maximum Upgrade Reached
+Hash: F4DC118D, Key: NoRecipesMessage, Value: No Recipes To Display
+Hash: FA2D5574, Key: UpgradeNoItem, Value: Upgrade
+Hash: 51E09C65, Key: Occultist_Info, Value: Enchant {c_rare}Rare{/c} or {c_legendary}Legendary{/c} items by replacing an unwanted affix with a new one. 
+
+Replace the affix as many times as you want by paying the cost for it. 
+Hash: CA15DE01, Key: Occultist_ItemPlacement, Value: To {c_highlight}replace{/c} affix of
+Hash: 8F77698A, Key: ReplaceAffix, Value: Replace Affix
+Hash: 94D33110, Key: EnchantItem, Value: Enchant Item
+Hash: B5BA366E, Key: SelectAffix, Value: Select an affix to {c_highlight}replace{/c}
+Hash: 5DFAE7FE, Key: ReplaceAffix_Info_AccountBind, Value: You will not be able to cancel the Enchanting action once the Occultist has selected your replacement affixes in the next step.
+
+Greater affixes cannot appear as replacement affixes.
+
+Enchanting an item will also {c:FFbf6b31}bind it to your account{/c}, making this item {c:FFbf6b31}untradeable{/c}.
+Hash: 29E6B45B, Key: ReplaceAffixStructure, Value: {s1}
+Hash: CCDE12D1, Key: AffixNoChange, Value: No Change
+({c_red}Materials won't be refunded{/c})
+Hash: 46D3907A, Key: EnchantComplete, Value: Enchant Complete
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 6C009687, Key: ReplacePreviousAffix, Value: Replace previously enchanted affix
+Hash: 5F11CE5B, Key: AffixEnchantInfo, Value: This item already has an enchanted affix and can be replaced by another random affix. 
+Hash: C6ED234B, Key: AffixValue, Value: {c:FFbf6b31}+{s1}{/c} {s2}
+Hash: FB29B295, Key: Cost_Value, Value: + Material Cost: {s1}
+Hash: BEA355C1, Key: SigilCommon, Value: Common
+Hash: E2F320EA, Key: SigilSacred, Value: Sacred
+Hash: A56C4CD5, Key: SigilAncestral, Value: Ancestral
+Hash: AC21D5D1, Key: SigilAll, Value: All Sigils
+Hash: B3969BA9, Key: SalvagedMaterials, Value: Salvaged Materials
+Hash: A1877E63, Key: ShowCanCraft, Value: Show: Can Craft
+Hash: 8F1D581A, Key: ShowAll, Value: Show: All
+Hash: E23515F0, Key: CrafterHeader, Value: {s1}
+Hash: 393D0D41, Key: ItemEntry, Value: {s2} {s1}
+Hash: C6DC320D, Key: CraftableCount, Value: ({s1})
+Hash: E6D158A1, Key: UpgradeCost, Value: Upgrade:
+{s1}
+Hash: 1B0F1D0B, Key: AddSocketCost, Value: Add Socket:
+{s1}
+Hash: CB30859C, Key: ImprintAspectCost, Value: Imprint Aspect:
+{s1}
+Hash: FDC20614, Key: ExtractAspectCost, Value: Extract Aspect:
+{s1}
+Hash: 94CFD35A, Key: EnchantCost, Value: Enchant:
+{s1}
+Hash: 18D3B5D2, Key: FormattedCostToCraft, Value: Cost to Craft: {s1}
+Hash: B7DAADEE, Key: tab_blacksmith_UpgradeItem, Value: Upgrade Item
+Hash: 073C6D67, Key: Clear, Value: Clear
+Hash: 9A69C92E, Key: EnchantSelectAffixToReplace, Value: Select an affix to replace
+Hash: 85678EE0, Key: UnlockCondition_Jeweler, Value: Unlocks at player level 20
+Hash: 0D3F3FCC, Key: UnlockCondition_Occultist, Value: Unlocks at Character level 25 or upon acquiring a Codex of Power Aspect
+Hash: 9DF1CD52, Key: SalvageItem, Value: Salvage Item
+Hash: 2E774237, Key: Warning_RareEssenceImbue, Value: Imprinting this item will add a power aspect to it. This cannot be undone.
+
+Are you sure you want to proceed?
+Hash: 2399D20D, Key: Jeweler_Unsocket_Instructions, Value: Unsocket an embedded gem from an accessory
+Hash: 8E9FD764, Key: CraftCap, Value: You can only craft {s1} items at once. 
+Hash: 9B7C5DF2, Key: CormondBench, Value: Cormond's Workbench
+Hash: 440D08ED, Key: HeartAll, Value: All
+Hash: 88E39C29, Key: MalignantHeart_Red, Value: Red
+Hash: 67FEF12A, Key: MalignantHeart_Yellow, Value: Yellow
+Hash: A54E7B96, Key: MalignantHeart_Blue, Value: Blue
+Hash: 50978EAF, Key: MalignantHeart_White, Value: White
+Hash: 059887DD, Key: SalvageByColor, Value: Salvage by item color
+Hash: 73A88D20, Key: tab_malignant_Craft, Value: Craft Malignant Items
+Hash: A8CBFEF3, Key: tab_malignant_Salvage, Value: Salvage Malignant Items
+Hash: D1A94380, Key: SalvageByType, Value: Salvage by item type
+Hash: 93F2EAFB, Key: Malignant, Value: Malignant Research
+Hash: 70A3CEB4, Key: SalvageByHeartType, Value: Salvage heart by type
+Hash: 455B905F, Key: ModifyArmorPactsWarningMessage, Value: [PH] Not all armor pacts will be applied to this item.
+Hash: 795F0325, Key: Hibernal, Value: Midwinter Proof Exchange
+Hash: 5727ED1D, Key: SalvageGemButtonText, Value: Salvage by gem quality
+Hash: DBE4E755, Key: SalvageGemAll, Value: All Gems
+Hash: 4FAB7174, Key: GemQuality_Crude, Value: Crude
+Hash: D027B2DE, Key: GemQuality_Chipped, Value: Chipped
+Hash: 22221C52, Key: GemQuality_Standard, Value: Standard
+Hash: BB9FB7A2, Key: GemQuality_Flawless, Value: Flawless
+Hash: 39C53443, Key: Exchange, Value: Exchange
+Hash: 7ED860A7, Key: PossibleAffixes, Value: Possible Affixes
+Hash: 47424822, Key: ViewPossibleAffixes, Value: View Possible Affixes
+Hash: BFB4EDAF, Key: SelectItem, Value: Select an Item
+Hash: 35D85C18, Key: AffixToBeReplaced, Value: {c_highlight}Affix{/c} to be replaced
+Hash: B4AA39DA, Key: Recipe_Unlocked_Notification_Header, Value: Recipe Unlocked
+Hash: 2C688435, Key: Recipe_Unlocked_Notification_Description, Value: You can now craft {s1} at the {s2}.
+Hash: 112FCA0C, Key: SalvageAllJunkSigil, Value: All Junk (Sigils)
+Hash: 1A120677, Key: GraftItem_Instructions, Value: To add affixes onto
+Hash: D18D9FCE, Key: GraftItem_Instructions_Recipe, Value: Tempering Recipe
+Hash: 6A28E649, Key: GraftItem_Instructions_Codex, Value: From Codex
+Hash: E05C7824, Key: Overlay_GraftItem, Value: TEMPER COMPLETE
+Hash: 49044F3F, Key: Overlay_MasterworkItem, Value: MASTERWORK SUCCESS
+Hash: BA7366B1, Key: Masterwork_Instructions_Item, Value: Item
+Hash: 32CC5E43, Key: Masterwork_Instructions, Value: To upgrade affixes of
+Hash: 175CB4DA, Key: Masterwork_Info, Value: Select an Ancestral Fully Tempered {c_legendary}Legendary{/c},  {c_unique}Ancestral Unique{/c}, or {c_mythic}Ancestral Mythic Unique{/c} item to improve the affixes of.
+Hash: 19DE6340, Key: Masterwork_ResetMasterwork, Value: Reset Masterwork Ranks
+Hash: 8D45FF35, Key: TemperItemCost, Value: Temper Item
+Hash: 779D40F0, Key: ResetMasterwork_CostToReset, Value: {c_label}Cost to Reset:{/c}
+Hash: 9BE2394F, Key: TemperingOverlayTitle, Value: Tempering
+Hash: E1C45139, Key: CraftingTitleFormat, Value: {s1} ({s2})
+Hash: DA7D12B3, Key: Imbue_EmptyCodex, Value: No Aspects have been added to your Codex of Power yet. Unlock aspects by {c_important}salvaging legendary items{/c} or {c_important}completing dungeons{/c}.
+Hash: FC1571C4, Key: TemperingComplete, Value: TEMPER COMPLETE
+Hash: 43F9CB45, Key: AffixAddedMessage, Value: An affix has been added:
+Hash: 489476A6, Key: Pit Dungeon Key, Value: Artificer's Obelisk
+Hash: C913C52D, Key: UnlockCondition_Pit_Key_Crafter, Value: Complete a Tier 46 (or higher) Nightmare Dungeon
+Hash: 5F30C329, Key: CraftPitKey_DungeonTier, Value: Artificer's Tier
+Hash: 19695747, Key: CraftPitKey_Instruction, Value: Battle through The Pit of the Artificer to earn rewards.
+Defeat the boss fast enough to earn unique metals.
+
+Select an Artificer's Tier to begin.
+Hash: B89282D7, Key: CraftPitKey_Open, Value: OPEN
+Hash: 7DD80130, Key: CraftPitKey_Currency, Value: {s1}
+Hash: 17616DFA, Key: Masterwork_Rank, Value: Rank {s1} to Rank {s2}
+Hash: F0A9E7A8, Key: Masterwork_Success_Chance, Value: Success chance: {c_highlight}{s1}{/c} {c_green}{s2}{/c}
+Hash: 36D46148, Key: Masterwork_Overlay_Success, Value: {s1} has ranked up.
+Hash: 1FE9E537, Key: Masterwork_Overlay_Failure, Value: MASTERWORK FAILED
+Hash: 29E587BF, Key: Masterwork_Overlay_Milestone, Value: A random affix has been upgraded by {s2}
+Hash: 5255660A, Key: Masterwork_Overlay_Cleanse, Value: Masterworking ranks reset
+Hash: B626B0AB, Key: TemperingReplaceAffixWarning, Value: {c_highlight} Note:{/c} Existing affix will be replaced.
+Hash: 41141BB9, Key: Masterwork_NextRank, Value: NEXT RANK
+Hash: BBE720D1, Key: Masterwork_NextRank_Success, Value: All affixes increase by 5%
+Hash: 9C153741, Key: Masterwork_NextRank_SuccessMilestone, Value: One affix increases by 25%
+Hash: F86129F3, Key: TemperItemInfo_NoItem, Value: Select a {c_rare}Rare{/c} / {c_Legendary}Legendary{/c} Item or Recipe
+Hash: E01C6A85, Key: TemperItemInfo_SelectCategory, Value: Select Recipe Category ({c_green}{s1}{/c}/{s2})
+Hash: 63F71F69, Key: TemperItemInfo_TemperReady, Value: Recipe: {s1} ({c_green}{s2}{/c}/{s3})
+Hash: 3605EE05, Key: TemperItemCount, Value: Temper Rerolls: {c_green}{s1}{/c}
+Hash: F12298F9, Key: TemperingNewAffixWarning, Value: {c_highlight} Note:{/c} Adds a random affix from recipe.
+Hash: A631D463, Key: Masterwork_Rank_New, Value: Rank 1
+Hash: 9454DE74, Key: Masterwork_Failure_Result, Value: No affixes upgraded. Materials consumed. 
+Hash: FD7F2F56, Key: TemperItemInfo_SelectItem, Value: Insert a {c_rare}Rare{/c} / {c_Legendary}Legendary{/c} Item
+Hash: 0040E4B7, Key: Skip, Value: Skip
+Hash: C0B5C26E, Key: CraftingAccountBindWarning, Value: This will {c:FFbf6b31}bind it to your account{/c}, making this item {c:FFbf6b31}untradeable{/c}.
+Hash: 466B00D6, Key: Warning_EssenceImbue_AccountBind, Value: Imprinting this item will override its existing power. This cannot be undone. 
+
+This will also {c:FFbf6b31}bind it to your account{/c}, making this item {c:FFbf6b31}untradeable{/c}.
+
+Are you sure you want to proceed?
+Hash: 1D66A040, Key: Warning_RareEssenceImbue_AccountBind, Value: Imprinting this item will add a power aspect to it. This cannot be undone.
+
+This will also {c:FFbf6b31}bind it to your account{/c}, making this item {c:FFbf6b31}untradeable{/c}.
+
+Are you sure you want to proceed?
+Hash: 085B7CF5, Key: ReplaceAffix_Info, Value: You will not be able to cancel the Enchanting action once the Occultist has selected your replacement affixes in the next step.
+
+Greater affixes cannot appear as replacement affixes.
+Hash: A698BE08, Key: UnlockCondition_Pit_Key_Crafter_WorldTier, Value: World Tier 4
+Hash: 5E3232F7, Key: UnlockCondition_Pit_Key_Crafter_Currency, Value: Runeshards collected
+Hash: B83AFD6A, Key: TemperRerollsRemaining, Value: Temper Rerolls Remaining: {c_green}{s1}{/c}
+Hash: 9177EA67, Key: MaterialsGranted, Value: Materials Granted: {c:FFbf6b31}{s1}{/c}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Opportunist
+Hash: 003892BF, Key: Desc, Value: Kill an extremely rare monster in the open world.

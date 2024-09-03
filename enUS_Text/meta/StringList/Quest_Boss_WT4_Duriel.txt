@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: A Lingering Ache
+Hash: 0BDB18BB, Key: Callback23Header, Value: Return to {LEVELAREA}
+Hash: 538236DE, Key: Callback17Header, Value: Slay {MONSTER}
+Hash: 8CBE4880, Key: Callback28Header, Value: Inspect the {GIZMO}
+Hash: 976485BC, Key: Callback42Header, Value: Inspect the {GIZMO}
+Hash: AB22B0DB, Key: Callback32Header, Value: Slay {MONSTER}
+Hash: 79001D61, Key: Callback38Header, Value: Return to {LEVELAREA}

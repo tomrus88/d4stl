@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D6C7532, Key: Line1.F991B, Value: Here, take my token. Eat.
+Hash: 67386815, Key: Line3.1057F9, Value: Really?
+Hash: 91556836, Key: Line5.F991B, Value: Spirits alive, I’m going soft. Yes, really, girl. Quick, before I change my mind.
+Hash: 005ECE63, Key: VoiceDir5.F991B, Value: teasing

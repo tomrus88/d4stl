@@ -1,0 +1,3 @@
+Hash: 5A270F7C, Key: Line1.804B7, Value: (speaking Druidic)
+Hash: C93075A9, Key: VoiceDir1.804B7, Value: chanting
+Hash: F41B88FE, Key: Line3.804B7, Value: (exhale) That did it.

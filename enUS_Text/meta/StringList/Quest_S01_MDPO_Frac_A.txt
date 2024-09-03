@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Mortal enemies dwell in darkness, united by malignancy.
+Hash: 71E69F39, Key: Callback21Header, Value: Slay the Malignant Ghouls: {LEFT}
+Hash: 58D5557C, Key: Callback24Header, Value: Slay Myraleth, Malignant Bloodlord

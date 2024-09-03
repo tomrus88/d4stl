@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Altars of Lilith
+Hash: 7BFE534B, Key: simple_instruction, Value: {c_highlight}Altars of Lilith{/c} are hidden all over Sanctuary. They grant {c_highlight}permanent stat boosts{/c} to all characters on this realm.

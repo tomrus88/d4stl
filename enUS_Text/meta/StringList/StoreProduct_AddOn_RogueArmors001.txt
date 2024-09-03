@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rogue Armor Pack
+Hash: A646FFA4, Key: Description, Value: Includes the "Dressed to Kill" and "Daemon Façade" armor sets!

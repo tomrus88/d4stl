@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Master at Work
+Hash: 3A4912CF, Key: DescShort, Value: Complete {icon:Marker_LocalEvent, 2.5} World Events with Mastery

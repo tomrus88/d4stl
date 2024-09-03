@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: [PH] Note 04
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Zoltun Kulle
+Hash: 8F596641, Key: Line1.197AF2, Value: A demon slipped past our wards. I can see it as I write this: a red mist, wreathing the Loom. Suckling on it. It grows with each moment.
+Hash: DF8F920E, Key: VoiceDir1.197AF2, Value: Overwhelmed by shock
+Hash: 18E46387, Key: Line7.197AF2, Value: A demon. A thing of ether and feeling. And not even that. It shimmers in the light; it can barely maintain its form.
+Hash: 691A8F54, Key: VoiceDir7.197AF2, Value: Uncomprehending, frustration growing
+Hash: F1680D49, Key: Line9.197AF2, Value: And yet...we cannot remove it. No matter what we try, it only grows. Like a suppurated wound.
+Hash: 45C0CC72, Key: Line11.197AF2, Value: Ayuzhan refuses to accept it...but our dream is ending.

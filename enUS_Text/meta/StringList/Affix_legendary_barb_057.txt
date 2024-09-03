@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Bold Chieftain's
+Hash: 003892BF, Key: Desc, Value: Whenever you cast a {c_important}Shout{/c} Skill, its Cooldown is reduced by {c_random}[Affix_Value_1|2|]{/c} seconds per Nearby enemy, up to a maximum of {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Casting a {c_important}Shout{/c} Skill reduces its Cooldown by {c_random}[Affix_Value_1|2|]{/c} seconds per Nearby enemy.

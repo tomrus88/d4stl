@@ -1,0 +1,20 @@
+Hash: 03B1634C, Key: 1Hand, Value: Main Hand
+Hash: 03C37BCD, Key: 2Hand, Value: Two-Handed
+Hash: 073A3E37, Key: Chest, Value: Torso
+Hash: F7545865, Key: ClassItem, Value: Class Item
+Hash: 003AC1F2, Key: Head, Value: Head
+Hash: 55DEFDD6, Key: OffHand, Value: Off-Hand
+Hash: A106D121, Key: Special, Value: Special Item
+Hash: 003E0C81, Key: Neck, Value: Neck
+Hash: 0791066E, Key: Hands, Value: Hands
+Hash: F598525B, Key: Finger, Value: Ring
+Hash: 003CF44B, Key: Legs, Value: Legs
+Hash: 0039A9C4, Key: Feet, Value: Feet
+Hash: A5847E92, Key: 2HandBlunt, Value: Two-Handed Bludgeoning
+Hash: A6B7CAA8, Key: 2HandSlash, Value: Two-Handed Slashing
+Hash: 79479931, Key: 1HandMain, Value: Main Hand
+Hash: 68861587, Key: 1HandOff, Value: Off-Hand
+Hash: 40E76181, Key: MountBody, Value: Mount Armor
+Hash: 427EDA59, Key: MountTrophy, Value: Trophy
+Hash: 7A9BD75E, Key: 2HandRanged, Value: Ranged
+Hash: 3E8C1208, Key: CosmeticBack, Value: Back Trophy

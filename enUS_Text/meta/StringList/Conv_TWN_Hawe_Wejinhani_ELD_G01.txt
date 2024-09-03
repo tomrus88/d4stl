@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EE13183, Key: Line1.11E9F6, Value: How fares the man in your care?
+Hash: DF175D50, Key: VoiceDir1.11E9F6, Value: Motherly. Friendly concern
+Hash: 6764DB75, Key: Line3.11E9FF, Value: (sigh) I'll have to take his leg. He's a farmer from the Steppes, he won't take the news well.
+Hash: B79B0742, Key: VoiceDir3.11E9FF, Value: Pragmatic, but disheartened
+Hash: 3FE88507, Key: Line5.11E9F6, Value: He can lose his leg and gain the rest of his life. That's a fair bargain.
+Hash: 901EB0D4, Key: VoiceDir5.11E9F6, Value: Insightful and wise

@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Salt Begets Salt
+Hash: 0871A46B, Key: Toast, Value: Insatiable greed leads to ill-fated deed.
+Hash: D53BFF05, Key: Phase0Description, Value: Jargal says a jealous merchant stole his beloved goat, Tuji. The merchant was heading towards Qara Yisu.
+
+I should see if I can find the thief and Tuji among the ruins.
+Hash: 1EADAE68, Key: Callback2Header, Value: Search for Tuji in the Ruins of Qara-Yisu
+Hash: 61CFD437, Key: Phase11Description, Value: I've retrieved Tuji's body from Qara Yisu. It seems he and the thief, Gan, were victims of the demonic corruption that turned the city to salt. 
+
+I should return Tuji's body to Jargal.
+Hash: 1F9943DA, Key: Callback13Header, Value: Return Tuji's body to Jargal

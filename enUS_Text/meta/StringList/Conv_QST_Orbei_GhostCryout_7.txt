@@ -1,0 +1,2 @@
+Hash: 5A15710D, Key: Line1.71176, Value: We failed. (crying)
+Hash: C91ED73A, Key: VoiceDir1.71176, Value: Utterly broken.

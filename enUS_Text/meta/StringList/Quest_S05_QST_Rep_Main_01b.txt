@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: The Past Behind Us
+Hash: 0871A46B, Key: Toast, Value: Istel has news of Triune activity.
+Hash: D53BFF05, Key: Phase0Description, Value: I've cut my way through countless demons and taken the Mother's Gift from them. Perhaps it's time to seek Istel back in Zarbinzet and see what she has to say.
+Hash: 1EADAE68, Key: Callback2Header, Value: Return to Istel in Zarbinzet
+Hash: C3B68EF9, Key: Phase13Description, Value: Among other things, Istel said the Triune are gathering near Omath's Redoubt. She seems to have been honest with me, so far. I had better go take a look.
+Hash: D29F0719, Key: Callback12Header, Value: Clear The Omath Breach
+Hash: 71E69F39, Key: Callback21Header, Value: Speak to Istel

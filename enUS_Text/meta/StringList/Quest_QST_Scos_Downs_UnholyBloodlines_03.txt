@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: With Fangs Bared
+Hash: 0871A46B, Key: Toast, Value: Entrap Una and break the curse.
+Hash: D53BFF05, Key: Phase0Description, Value: We need to go to the old druid barrow in Umbralwood.  There we can use the items I gathered to lure and trap Una.
+Hash: 1EADAE68, Key: Callback2Header, Value: Enter the Abandoned Barrow
+Hash: 5CD6EA0D, Key: Phase8Description, Value: We need to go to the old druid barrow in Umbralwood.  There we can use the items I gathered to lure and trap Una.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Complete Artair's ritual in the Abandoned Barrow
+Hash: 61CFD437, Key: Phase11Description, Value: With Una defeated, the farmers should be free of the dark call.  I should return to Wraithstead and check on them.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Artair at Wraithstead

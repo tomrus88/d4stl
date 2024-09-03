@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Buried alive, forbidden to die.
+Hash: 059C64AB, Key: Callback5Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 38AA8D97, Key: Callback10Header, Value: Travel to the {LEVELAREA}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Deposit Animus into the {GIZMO}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Talismans
+Hash: F2CA04D8, Key: NoticeSignText, Value: Druidic charms of wood and bone, carved with runes for health, prosperity, and protection. 

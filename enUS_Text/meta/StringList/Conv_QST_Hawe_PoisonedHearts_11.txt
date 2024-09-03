@@ -1,0 +1,6 @@
+Hash: 2B479923, Key: Line7.F52ED, Value: Mother, listen! Stop--
+Hash: 9A50FF50, Key: VoiceDir7.F52ED, Value: Desperate
+Hash: C53C1292, Key: Line9.F52F0, Value: (convulses and dies)
+Hash: 344578BF, Key: VoiceDir9.F52F0, Value: dying from being unable to breathe. Raspy, wet gasps and choking and a horrible death from being unable to breathe.
+Hash: 727510AE, Key: Line11.F52ED, Value: No. No! (sobs)
+Hash: C2AB3C7B, Key: VoiceDir11.F52ED, Value: Your mother has just died in your arms. Some projection and anger at the situation, but not outright yelling.

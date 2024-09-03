@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Carrion Flower
+Hash: A646FFA4, Key: Description, Value: Striations of muscle. Rivulets of blood. The flowing contours of bone. Where most recoiled from the substance of death, Priestess Anaflora saw only beauty. Exquisite, intoxicating beauty.
+Hash: 083EE0CE, Key: Quote, Value: Take the breath away.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

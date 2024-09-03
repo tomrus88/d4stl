@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5D3AB126, Key: Line1.BAB4F, Value: Only one of us will walk away from this, so let’s enjoy the storm a moment. Ah, nature’s music.
+Hash: CC441753, Key: VoiceDir1.BAB4F, Value: calm, not threatening
+Hash: 7B157C28, Key: Line3.BAE4.Bar, Value: The dead are killing your people as we speak.
+Hash: B185CF35, Key: VoiceDir3.BAE4.Bar, Value: impatient
+Hash: 7B15AFA9, Key: Line3.BAE4.Nec, Value: The dead are killing your people as we speak.
+Hash: 7B15C1FB, Key: Line3.BAE4.Rog, Value: The dead are killing your people as we speak.
+Hash: 7B15C647, Key: Line3.BAE4.Sor, Value: The dead are killing your people as we speak.
+Hash: 7B1586DE, Key: Line3.BAE4.Dru, Value: The dead are killing our people as we speak.
+Hash: DA177B3F, Key: Line19.BAB4F, Value: Some will die, yes...but that is the way of nature. It is a crucible. It devours the weak and makes the strong stronger. And those who survive, they will save this land from Hell.
+Hash: 608DBF14, Key: Line11.BAE4, Value: You’ve fallen for the demon’s lies.
+Hash: 0C3A0EB9, Key: Line13.BAB4F, Value: No, no. This is my choice. Lilith only granted me the power to do what must be done.
+Hash: 5C703A86, Key: VoiceDir13.BAB4F, Value: nonchalant, matter-of-fact
+Hash: 69E26198, Key: Line15.BAE4, Value: And what did you give her?
+Hash: 402301BD, Key: Line17.BAB4F, Value: All things must be earned in the wilds, even knowledge. Prove yourself, and you will have your answers...

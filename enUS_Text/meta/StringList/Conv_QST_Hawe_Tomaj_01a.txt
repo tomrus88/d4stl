@@ -1,0 +1,2 @@
+Hash: 8EB3433E, Key: Line1.101BAB, Value: Oh, don't worry. I've done this while drinking plenty of times before.
+Hash: DEE96F0B, Key: VoiceDir1.101BAB, Value: Partly reassuring, partly like he's just said an inside joke. He's drunk, but it shouldn't be silly.

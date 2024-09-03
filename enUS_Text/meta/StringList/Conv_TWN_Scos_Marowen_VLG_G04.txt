@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EB2027D, Key: Line1.100948, Value: Put your backs into it, lads!
+Hash: DEE82E4A, Key: VoiceDir1.100948, Value: Encouraging.

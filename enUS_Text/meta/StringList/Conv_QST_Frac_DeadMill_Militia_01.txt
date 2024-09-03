@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What kind of services do you provide?"
+Hash: 8EFC7C5A, Key: Line1.144334, Value: I provide a steady supply of, shall we say, specimens... for the clergy nearby. However, their desire for knowledge has become more dangerous to satisfy.
+Hash: DF32A827, Key: VoiceDir1.144334, Value: Sly and discreet
+Hash: 6780261C, Key: Line3.144334, Value: I require a host of intact ghoul hearts from the surrounding area. There's something special about the ravenous dead nearby - they can reanimate with only a few drops of blood.
+Hash: B7B651E9, Key: VoiceDir3.144334, Value: Sly and discreet
+Hash: 4003CFDE, Key: Line5.144334, Value: I'd venture out and retrieve these myself, but I'm more accustomed to dealing with the fully dead. Your discretion is appreciated of course, and you will be rewarded.
+Hash: 9039FBAB, Key: VoiceDir5.144334, Value: Sly and discreet

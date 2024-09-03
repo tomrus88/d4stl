@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Celestial Visions
+Hash: A646FFA4, Key: Description, Value: "White fires aloft in the black above, signals in the darkness...What way are we meant to travel?" - Excerpt from the Scéal Fada
+Hash: 083EE0CE, Key: Quote, Value: Beseech the midnight sky.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

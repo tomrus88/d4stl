@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Boss Bark
+Hash: FAC6CDD0, Key: Line30.7F064, Value: Iron Wolves--?!
+Hash: 4AFCF99D, Key: VoiceDir30.7F064, Value: Caught off-guard. Alarmed. Disbelief.
+Hash: 94BB4752, Key: Line32.7F064, Value: Kill them all! The weak must die!
+Hash: E4F1731F, Key: VoiceDir32.7F064, Value: Barking orders. Violent. Desperate. Failure is not an option.

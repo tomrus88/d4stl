@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ritual Pens Key
+Hash: A646FFA4, Key: Description, Value: Bound to Oblivion
+Hash: F5C7BC0A, Key: Flavor, Value: Those trapped here when the prison caught fire were lost to oblivion.

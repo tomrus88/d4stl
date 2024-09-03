@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Your hunter is badly hurt. She spoke of coin...”  
+Hash: 5D73363A, Key: Line1.EECAE, Value: So she lives! Good! Worry not, friend. I’ll see she’s helped and paid in full.

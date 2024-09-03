@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Exceeded Potential
+Hash: 3A4912CF, Key: DescShort, Value: Improve a {icon:Marker_GlyphUpgrade, 2.5} Paragon Glyph to rank 4 after finishing {icon:Marker_NightmareDungeonEntrance, 2.5} Nightmare Dungeons

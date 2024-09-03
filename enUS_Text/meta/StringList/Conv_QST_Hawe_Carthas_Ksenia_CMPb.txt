@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you told others of the paladins?"
+Hash: 58D92C8B, Key: Line10.103673, Value: There were attempts, yes. Some could not believe. And others, I think, chose not to believe. But we were able to gather additional markers and this plaque here.
+Hash: 315CD64D, Key: Line12.103673, Value: It is not much. I wish I could do more. But I hope that this at least means future generations will learn of their sacrifice.

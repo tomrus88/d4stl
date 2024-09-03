@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hidden
+Hash: 8EB65F2C, Key: Line1.1086F0, Value: Stiff, slight bloat. Beautiful blistering already. No ruptures. Not dead three days yet.
+Hash: DEEC8AF9, Key: VoiceDir1.1086F0, Value: Talking to himself. Admiration and fasination for the decomposition process.

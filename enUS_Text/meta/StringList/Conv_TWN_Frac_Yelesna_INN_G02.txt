@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How is Yelesna surviving?"
+Hash: 5D6D27AA, Key: Line1.F9C10, Value: The Cathedral mostly. Though people don't want to admit it. Too proud. (sigh) Don't want them here, but can't survive if they leave.

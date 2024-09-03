@@ -1,0 +1,6 @@
+Hash: E7B37160, Key: Callback91Header, Value: Survive the enemy attack {TIMELEFT}
+Hash: 51B5B2AB, Key: Callback113Header, Value: Slay all Phantoms
+Hash: D298E270, Key: Callback118Header, Value: Slay the Sentinel Guardian
+Hash: 71E07A90, Key: Callback127Header, Value: Activate the {GIZMO}s: {LEFT}
+Hash: 7733992E, Key: Callback134Header, Value: Destroy the Construct
+Hash: C980F48D, Key: Callback142Header, Value: Slay the Treasure Goblin

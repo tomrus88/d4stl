@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Seal Major 004
+Hash: 003892BF, Key: Desc, Value: Lucky Hit: You have up to a 50% chance to spawn a pool of blood that will heal you if you stand in it.  
+
+{c_green}Consumes 5 Green Pacts{/c}

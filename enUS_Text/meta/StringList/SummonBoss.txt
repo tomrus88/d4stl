@@ -1,0 +1,8 @@
+Hash: E65414D8, Key: bossname, Value: {s1} ({s2})
+Hash: 1199BF31, Key: ritual, Value: This ritual will summon
+Hash: F6A38202, Key: required_items, Value: Required Items
+Hash: 14C416FF, Key: summon, Value: Summon
+Hash: AE3B84ED, Key: item_quantity, Value: {c:FFdba864}{s1}{/c} {c:FF928C82}/ {s2}{/c}
+Hash: C12458CB, Key: required_currency, Value: {c:FFdba864}{s1}{/c} {c:FF928C82}/ {s2}{/c}
+Hash: 989A5308, Key: boss_summon_altar, Value: Boss Summon Altar
+Hash: 2DC22021, Key: boss_recipe_amount, Value: {s1} / {s2}

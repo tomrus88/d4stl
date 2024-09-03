@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Looking for something?"
+Hash: 3FBA4C53, Key: Line5.102113, Value: An axe. Specifically, the axe of "the woodsman," a man who stalked and butchered travelers in this area. Rumor has it the woodsman disappeared recently and left his weapon behind.
+Hash: 8FF07820, Key: VoiceDir5.102113, Value: direct
+Hash: 183DF615, Key: Line7.102113, Value: The priest who hired me didn't offer much more to go on. At this rate I'll freeze before I find the damn thing.
+Hash: F0C19FD7, Key: Line9.102113, Value: If you help me find the axe, I'll cut you in on the pay. Check the woods around town. I'm staying here where it's safe.
+Hash: 40F7CBA4, Key: VoiceDir9.102113, Value: direct

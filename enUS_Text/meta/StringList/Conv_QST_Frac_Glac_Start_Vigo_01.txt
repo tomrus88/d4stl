@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Hey Vigo, are you ready?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Hail.

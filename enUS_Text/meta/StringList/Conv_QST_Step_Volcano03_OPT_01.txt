@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Brol is dead."
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Well, there's one bit of good news. With him gone, perhaps the cannibals in Guulrahn will fall into disarray.

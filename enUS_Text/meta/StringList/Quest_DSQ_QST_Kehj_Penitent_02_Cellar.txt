@@ -1,0 +1,5 @@
+Hash: 5296A16C, Key: Callback6Header, Value: Speak with the Inquisitor
+Hash: 003DFCC1, Key: Name, Value: Acts of Atonement
+Hash: EC8B1AEE, Key: Callback8Header, Value: Speak with the Inquisitor
+Hash: 1F9943DA, Key: Callback13Header, Value: Defeat Knights Penitent
+Hash: 0687FA1D, Key: Callback16Header, Value: Speak with Suna

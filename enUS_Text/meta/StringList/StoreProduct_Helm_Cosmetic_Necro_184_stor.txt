@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: The hidden cache of a hero long past was discovered deep in the marshes of Scosglen. A mystic more elusive than spirits, they repelled those who wandered too near their quagmire "kingdom."
+Hash: 003DFCC1, Key: Name, Value: Aloof Crown
+Hash: 13A53A8B, Key: Series, Value: "Reign of Solitude"

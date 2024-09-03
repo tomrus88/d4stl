@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What now?"
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: We must leave this place. Quickly.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cursed Well
+Hash: A07C739F, Key: Callback18Header, Value: Survive the enemy assault
+Hash: 71E69F39, Key: Callback21Header, Value: Slay the remaining enemies
+Hash: D9B88541, Key: Callback29Header, Value: Slay {NEEDED} possessed enemies: {DONE_OVER_NEEDED}

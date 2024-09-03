@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Light Bearer
+Hash: A646FFA4, Key: Description, Value: The reach of the Church is great, and this is in no small part due to the power and endurance of its warhorses.
+Hash: 083EE0CE, Key: Quote, Value: Carrying the Light to the far corners of Sanctuary.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

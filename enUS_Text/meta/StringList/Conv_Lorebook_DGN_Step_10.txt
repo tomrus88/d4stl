@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Blood-stained Page
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Elias
+Hash: 5A44590A, Key: Line1.8DD12, Value: Should your neighbor raise their hand against you, strike it from their wrist. For as the strong shall endure the chaos to come, the weak shall be devoured.
+Hash: C94DBF37, Key: VoiceDir1.8DD12, Value: Biblical. Firm. Speaking truth.

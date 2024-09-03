@@ -1,0 +1,9 @@
+Hash: 038186F2, Key: 01Yes, Value: Yes.
+Hash: 001B357F, Key: 02No, Value: No.
+Hash: AA0457D7, Key: 03DontKnow, Value: I don't know.
+Hash: E582B6BC, Key: 04Understand, Value: I understand.
+Hash: 8E0BAB00, Key: 05Probably, Value: Probably.
+Hash: F46A0FD9, Key: 06Great, Value: Great!
+Hash: 7419941B, Key: 07Okay, Value: Okay.
+Hash: 111D8001, Key: 08CantDo, Value: I can't do that.
+Hash: F4CDA594, Key: 06Maybe, Value: Maybe.

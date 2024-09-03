@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Beware: scales can glitter like gold.
+Hash: 059C64AB, Key: Callback5Header, Value: Return the Mechanical Box to the Pedestal: {LEFT}
+Hash: 85A4CA58, Key: Callback11Header, Value: Defeat {MONSTER}
+Hash: 71E69F39, Key: Callback21Header, Value: Travel to the {LEVELAREA}

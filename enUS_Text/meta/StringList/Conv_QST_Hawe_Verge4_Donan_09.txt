@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's wrong?"
+Hash: A327237F, Key: Line15.7FA05, Value: No! It’s not working!
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: Enraged, disbelief
+Hash: 3D1B9D01, Key: Line17.7FA05, Value: (yelling)
+Hash: 8D51C8CE, Key: VoiceDir17.7FA05, Value: Furious, frustrated yell

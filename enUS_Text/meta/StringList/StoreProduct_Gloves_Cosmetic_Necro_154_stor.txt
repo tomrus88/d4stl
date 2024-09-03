@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hands of Vitae
+Hash: 13A53A8B, Key: Series, Value: "Coven of the Blood Saint"

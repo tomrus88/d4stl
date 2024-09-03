@@ -1,0 +1,44 @@
+Hash: 003DFCC1, Key: Name, Value: Whispers from the Past
+Hash: 0871A46B, Key: Toast, Value: Find your way into the Tyrant's palace
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Pursue Elias into the Tyrant's palace
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We must travel through some old tunnels to find the passageway Oyuun described. If we can find it, it should lead us into the Tyrant's palace, and to Elias.
+Hash: 4408F5DB, Key: Phase24Description, Value: We have found Oyuun's old escape tunnel. Now to follow it into the palace, and to Elias.
+Hash: 69B8E183, Key: Phase24OutsideSubzoneHeader, Value: Follow the old escape tunnel within the Tyrant's Court
+Hash: F2C9CEFE, Key: Callback26Header, Value: Discover a way into the palace
+Hash: 4FECF0BA, Key: Phase41Description, Value: We must travel through caverns to find the old escape tunnel Oyuun described. If we can find it, it should lead us into the Tyrant's palace, and to Elias.
+Hash: 5BEA8742, Key: Phase41OutsideSubzoneHeader, Value: Speak to Lorath at the entrance of the Offal Pits in Jakha Basin
+Hash: D7F1DF10, Key: Callback244Header, Value: Speak to Lorath at the entrance of the Offal Pits
+Hash: EEAB03BC, Key: Phase61Description, Value: We must travel through caverns to find the old escape tunnel Oyuun described. If we can find it, it should lead us into the Tyrant's palace, and to Elias.
+Hash: 41431C84, Key: Phase61OutsideSubzoneHeader, Value: Speak with Lorath 
+Hash: 56D6E5C1, Key: Callback65Header, Value: Speak with Lorath
+Hash: 027C5085, Key: Phase97Description, Value: We must travel through caverns to find the old escape tunnel Oyuun described. If we can find it, it should lead us into the Tyrant's palace, and to Elias.
+Hash: 7F95DB6D, Key: Phase97OutsideSubzoneHeader, Value: Find the old escape tunnel within the Offal Pits
+Hash: A20A7C51, Key: Callback281Header, Value: Find the entrance to the old escape tunnel with Lorath
+Hash: 69BB27AF, Key: Phase109Description, Value: Lorath heard voices coming from the other side of the wall. I should find out what they're saying.
+Hash: 763261D7, Key: Phase109OutsideSubzoneHeader, Value: Follow the old escape tunnel within the Tyrant's Court
+Hash: 9EAFEF6C, Key: Callback114Header, Value: Eavesdrop through the wall
+Hash: C4FE2C0F, Key: Phase136Description, Value: Elias has left his chosen disciple to guard something on the third floor of the palace. Whatever it is must be important.
+Hash: DB105237, Key: Phase136OutsideSubzoneHeader, Value: Enter Elias' Sanctum within the Tyrant's Court
+Hash: 167B314E, Key: Callback143Header, Value: Enter Elias' Sanctum with Lorath
+Hash: F5F18970, Key: Phase137Description, Value: We have found Elias' Sanctum, filled with heretical tomes and dark knowledge. Of him however, there is no trace. His ritual must have already begun.
+Hash: 2C1D4CB8, Key: Phase137OutsideSubzoneHeader, Value: Share your findings with Lorath within Elias' Sanctum
+Hash: B06FAAD0, Key: Callback145Header, Value: Discuss your findings with Lorath
+Hash: 57D84432, Key: Phase139Description, Value: We have found Elias' Sanctum, filled with heretical tomes and dark knowledge. Of him however, there is no trace. His ritual must have already begun.
+Hash: CE3741BA, Key: Phase139OutsideSubzoneHeader, Value: Search for information on Elias' ritual within Elias' Sanctum
+Hash: 19CFE031, Key: Callback191Header, Value: Search for information on Elias' ritual
+Hash: 4E53D3A9, Key: Phase202Description, Value: Elias has left his chosen disciple to guard something within this palace. Whatever it is must be important.
+Hash: 070D2711, Key: Phase202OutsideSubzoneHeader, Value: Slay Mother's Judgement within the Tyrant's Court
+Hash: 3FFBD549, Key: Callback201Header, Value: Slay {MONSTER}
+Hash: 740803EF, Key: Phase208Description, Value: We need to find a way to enter Elias' Sanctum and uncover clues about his plan.
+Hash: ED5B0617, Key: Phase208OutsideSubzoneHeader, Value: Track down Elias within the Tyrant's Court
+Hash: 132C606D, Key: Callback214Header, Value: Inspect the ward of sealing
+Hash: DA8A356A, Key: Phase230Description, Value: We have learned that Elias is searching for an ancient Triune temple where he plans to summon Andariel.
+Hash: BCF811F2, Key: Phase230OutsideSubzoneHeader, Value: Speak with Lorath
+Hash: 1F98FD33, Key: Callback238Header, Value: Speak with Lorath outside
+Hash: 66FF361A, Key: Phase247OutsideSubzoneHeader, Value: Enter the Offal Pits in Jakha Basin
+Hash: 71E65892, Key: Callback246Header, Value: Enter the Offal Pits
+Hash: 0CC72E53, Key: Phase275Description, Value: We have found Oyuun's old escape tunnel. Now to follow it into the palace, and to Elias.
+Hash: 1CEA20FB, Key: Phase275OutsideSubzoneHeader, Value: Enter the Bowels of the Palace
+Hash: 36ABD735, Key: Callback276Header, Value: Enter the Bowels of the Palace
+Hash: 3E89711B, Key: Phase284OutsideSubzoneHeader, Value: Search for Elias within the Tyrant's Court
+Hash: 3BFEF5D3, Key: Callback283Header, Value: Search for Elias within the Tyrant's Court

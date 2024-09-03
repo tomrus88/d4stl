@@ -1,0 +1,4 @@
+Hash: C7087C2A, Key: tagname_nightmare_dungeon, Value: Nightmare Dungeon
+Hash: FFC0B67F, Key: tagname_search_nightmare_dungeon, Value: Any Nightmare Dungeon
+Hash: 2DBEE79F, Key: tagname_quick_clear, Value: Quick Clear
+Hash: E76AA972, Key: tagname_first_time, Value: First Time

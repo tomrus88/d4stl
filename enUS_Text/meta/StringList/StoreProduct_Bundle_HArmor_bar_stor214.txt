@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hands of Judgement
+Hash: A646FFA4, Key: Description, Value: "Let the Light of Inarius burn away wickedness. Let not temptation lead you from his holy radiance. Let righteousness sear away corruption and sin. Cast out thy darkness, for only Light must remain." -Reverend Mother Prava
+Hash: 083EE0CE, Key: Quote, Value: The Father's instrument.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

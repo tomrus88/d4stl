@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: To the Edge of the Abyss
+Hash: ED76B060, Key: Callback19Header, Value: Find the Well of Hatred
+Hash: 71E69F39, Key: Callback21Header, Value: Place Locran's Talisman
+Hash: A5CF923D, Key: Callback25Header, Value: Wait for Locran
+Hash: 2C05E0A0, Key: Callback37Header, Value: Defeat {MONSTER}
+Hash: 79001D61, Key: Callback38Header, Value: Defeat {MONSTER}
+Hash: CB4D78C0, Key: Callback46Header, Value: Keep enemies away from Locran
+Hash: 22EDF2BD, Key: Callback61Header, Value: Defeat {MONSTER}
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Keep enemies away from Locran
+Hash: 164945C6, Key: Callback88Header, Value: Wait for Locran
+Hash: E7B37160, Key: Callback91Header, Value: Enter the Abyssal Verge
+Hash: FF68574C, Key: Callback105Header, Value: Enter the the Well of Hatred
+Hash: 51B5B2AB, Key: Callback113Header, Value: Enter the Council Chambers
+Hash: D298E270, Key: Callback118Header, Value: Enter the Council Chambers
+Hash: 3DF7878C, Key: Callback123Header, Value: Enter the Council Chambers
+Hash: 2A395C6D, Key: Callback133Header, Value: Speak to Locran

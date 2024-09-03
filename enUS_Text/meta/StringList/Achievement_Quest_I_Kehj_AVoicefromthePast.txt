@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: A Voice from the Past
+Hash: 003892BF, Key: Desc, Value: Complete the A Voice from the Past questline in Kehjistan.
+Hash: 3DA5552B, Key: Crit_236096, Value: A Voice from the Past
+Hash: 3DA5552C, Key: Crit_236097, Value: Izel of the Vizjerei

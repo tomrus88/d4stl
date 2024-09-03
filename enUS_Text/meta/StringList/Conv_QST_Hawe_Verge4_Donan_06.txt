@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened, Donan?"
+Hash: A327237F, Key: Line15.7FA05, Value: Or is it three times? (sigh) Give it another turn.
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value:  Distracted, trying to clear his mind to give precise instructions

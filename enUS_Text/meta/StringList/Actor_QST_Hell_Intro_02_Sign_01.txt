@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Protection Wards
+Hash: F2CA04D8, Key: NoticeSignText, Value: The sigils emit the sulfuric tang of Triune magic, yet they remain passive towards us. It seems they are meant for others.

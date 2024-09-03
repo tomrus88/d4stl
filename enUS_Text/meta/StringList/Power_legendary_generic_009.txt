@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Might
+Hash: C6E60718, Key: Buff2_Description, Value: {c_important}Basic{/c} Skills grant {c_number}[{SF_0}*100|%|]{/c} Damage Reduction

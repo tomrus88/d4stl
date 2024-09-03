@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “We found the Tree of Whispers, and none of us are dead.” 
+Hash: F42E1BDE, Key: Line3.9118B, Value: Not yet.
+Hash: 6337820B, Key: VoiceDir3.9118B, Value: A little sad
+Hash: 5A39A25C, Key: Line1.9118B, Value: Watch after the child, will you? Do not let her make a bargain.
+Hash: C9430889, Key: VoiceDir1.9118B, Value: Not joyful. She knows making a deal with the tree is never good. Child here refers to Neyrelle.

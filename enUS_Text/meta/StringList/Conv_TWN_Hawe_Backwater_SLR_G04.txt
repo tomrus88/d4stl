@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED9E9E7, Key: Line1.1270C3, Value: Let me tell unto ye, of the Westmarchy three!
+Hash: DF1015B4, Key: VoiceDir1.1270C3, Value: To a tune; quietly singing to himself
+Hash: 675D93A9, Key: Line3.1270C3, Value: Each a lover of the other, with their mistress the Sea.
+Hash: B793BF76, Key: VoiceDir3.1270C3, Value: To a tune; quietly singing to himself

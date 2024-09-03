@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I’m looking for a Katherina."
+Hash: 5D23006C, Key: Line1.B79A2, Value: Katherina? Oh, you mean Katherina Kressen. That old crone died when I was a child. More wrinkle than woman, they used to say.
+Hash: F71779EE, Key: Line3.B79A2, Value: She was burned and buried out back under the memorial wall. Might be nice to stop by and pay respects. She don't get too many visitors.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Stana."
+Hash: 5D201C8E, Key: Line1.B20BA, Value: She was cruel, but effective. Blackweald Company was feared yet respected under her command.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, honest
+Hash: F7149610, Key: Line3.B20BA, Value: The Days of Ash changed everything. She was consumed by the horrors we witnessed - and they consumed her, in turn.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: cold, honest; leaning somber
+Hash: 91090F92, Key: Line5.B20BA, Value: Her body remained, but her soul was long extinguished.
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: cold, honest; leaning somber

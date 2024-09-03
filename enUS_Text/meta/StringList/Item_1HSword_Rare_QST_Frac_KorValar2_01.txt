@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Heretic's Requiem
+Hash: F5C7BC0A, Key: Flavor, Value: “Lo, the light took the form of a sword and on its blade shone countless twisting faces of those for whom the Father had ordained would die at its point.”
+- Excerpt From The Trials of Prava

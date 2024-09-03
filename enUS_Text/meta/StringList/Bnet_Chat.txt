@@ -1,0 +1,48 @@
+Hash: A4B3049B, Key: ChatLink_WhisperedTo, Value: {s1} whispers: {s2}
+Hash: 111EF3ED, Key: ChatLink_Says, Value: {s1} says: {s2}
+Hash: 401B4ED8, Key: ChatLink_YouWhisperedTo, Value: To {s1}: {s2}
+Hash: 0D301342, Key: ChatLink_YouEarnedAchievement, Value: You have earned the Challenge: {s1}
+Hash: 985AC672, Key: ChatLink_PlayerEarnedAchievement, Value: {s1} has earned the Challenge: {s2}
+Hash: D496AF52, Key: WhisperPlayerOffline, Value: That player is offline.
+Hash: BE0FAFEC, Key: ChatLink_PublicChatSays, Value: [{s1}]{s2}: {s3}
+Hash: BD789FCA, Key: ChatLink_ChatWelcomeStarterEdition, Value: Welcome to Diablo IV! (v{s1})
+Type /? for a list of available chat commands.
+Hash: E6E59A79, Key: ChatPlayerInfo, Value: [{s1}]: {s2} - {s3}
+Hash: 48C92F87, Key: ChatPlayerInfoLevelClass, Value: Level {s1} {s2}
+Hash: 7EED21EF, Key: ChatPlayerInfoLevelClassHardcore, Value: Level {s1} Hardcore {s2}
+Hash: 34C70ADD, Key: ChatLink_Party, Value: [Party]{s1}: {s2}
+Hash: BC262B3C, Key: InvalidEmoteWhileNotInGame, Value: You can't do that command when not in-game. Type /? for more info.
+Hash: 7ACB0B41, Key: ChatLink_JoinedConversation, Value: {s1} has joined {s2}.
+Hash: 405FD373, Key: ChatLink_LeftConversation, Value: {s1} has left channel: {s2}
+Hash: D7232681, Key: UnnamedChatChannel, Value: <private chat>
+Hash: 27E2A644, Key: JoinErrorFull_PublicChannel, Value: You may only be in {s1} public chat channels at one time.
+Hash: C5596A20, Key: JoinErrorFull_PrivateChannel, Value: You may only be in {s1} private chat channels at one time.
+Hash: 39E256FE, Key: ChannelListHeader, Value: {s1} chat |4channel:channels; joined:
+Hash: 030B32B8, Key: ChatInvitedSomebodyToChat, Value: {s1} invited {s2} to {s3}.
+Hash: 342EFE82, Key: ChatLink_Guild, Value: [{s1}]{s2}: {s3}
+Hash: 0BBB8E03, Key: Notification_NobodyToTalkTo, Value: No one can hear you. No members in channel at this time.
+Hash: 45C0A937, Key: Notification_NobodyToTalkTo_Guild, Value: There are no clan members online to hear you.
+Hash: DB4CD6F5, Key: Notification_NobodyToTalkTo_GuildOfficer, Value: There are no clan officers online to hear you.
+Hash: 00209FD1, Key: slashCommand_GuilfFinder_Error, Value: You are already in a clan.
+Hash: CBE6E579, Key: AllChatLabel, Value: All
+Hash: 2675D63F, Key: slashCommand_NotInGuild_Error, Value: You are not in a clan.
+Hash: 45B70D95, Key: slashCommand_NotGuildLeader_Error, Value: Can't disband a clan if not the leader.
+Hash: 23445F77, Key: slashCommand_GuildLeaderCantLeave_Error, Value: You must disband your clan to leave.
+Hash: F4D5D3EC, Key: slashCommand_HasNotPermissionMotd_Error, Value: You don't have the permission to set the message of the day.
+Hash: 7ACD9838, Key: slashCommand_MotdTooLong_Error, Value: The message of the day is too long.
+Hash: 2D2DDEFC, Key: slashCommand_logout_Error, Value: You must leave the game first before logging out.
+Hash: A2CAEE6F, Key: slashCommand_logoutOnlyInGame_Error, Value: The /logout command only works in game.
+Hash: B5EB4E57, Key: PartyChatInvalid, Value: You are not in a party.
+Hash: 8DE3E24B, Key: ChatLink_YouEarnedSeasonAchievement, Value: You have earned the season Challenge: {s1}
+Hash: B7F4397B, Key: ChatLink_PlayerEarnedSeasonAchievement, Value: {s1} has earned the season Challenge: {s2}
+Hash: 11185DC7, Key: ChatLink_Game, Value: [General]{s1}: {s2}
+Hash: 7A2756E9, Key: CurrentSubZoneChatLabel, Value: General
+Hash: E535EDFE, Key: ClanChatLabel, Value: Clan
+Hash: BBAA6EC3, Key: ChatLink_BnetGroup, Value: [{s1} - {s2}]{s3}: {s4}
+Hash: 90941F36, Key: ChatHyperlink, Value: [{s1}]
+Hash: 3E865370, Key: VoiceChatNoticePTT, Value: You have joined {s1} voice chat. Press {hotkey:VOICE_PTT} to transmit voice. Settings can be changed in Game Options.
+Hash: A0426BE3, Key: VoiceChatNoticeOpenMic, Value: You have joined {s1} voice chat with an open microphone. Settings can be changed in Game Options.
+Hash: 02D80D8B, Key: VoiceChatNoticeConsole, Value: You have joined {s1} voice chat with an open microphone.
+Hash: 52665B76, Key: CrossPlayWarning, Value: You have cross network play enabled, and may encounter players on other platforms.
+Hash: 34ED51AB, Key: DisconnectCountdown, Value: The season is ending and your client will be disconnected from the server in {s1}. You can log back in after updating your client to the latest version.
+Hash: 77D4F7C9, Key: VoiceChatNoticeListenOnly, Value: You have joined {s1} voice chat with listen only.

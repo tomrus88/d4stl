@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: The Voice in the Night
+Hash: D53BFF05, Key: Phase0Description, Value: I've made progress in the fight against Hell. I should report to Soudeh at the Iron Wolves camp.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Soudeh
+Hash: C9FCD1EA, Key: Phase5Description, Value: Soudeh has asked me to meet her in the Low Desert to put an end to the demon threat once and for all. 
+Hash: ED76B060, Key: Callback19Header, Value: Meet Soudeh in the Low Desert
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Soudeh
+Hash: F4A9EC5A, Key: Phase14Description, Value: Soudeh seeks the source of the demonic voices in a disused crypt. She may need my protection.
+Hash: 1F9943DA, Key: Callback13Header, Value: Enter the Necrotic Tomb
+Hash: 8784047D, Key: Phase17Description, Value: The demon is dead. I should return to the Iron Wolves camp.
+Hash: 0687FA1D, Key: Callback16Header, Value: Meet with Soudeh at the Iron Wolves camp
+Hash: 74FC533C, Key: Phase25Description, Value: I sense Soudeh and the Wolves have more to share. I need to prove myself fighting against the Helltide to earn their trust.
+Hash: 58D5557C, Key: Callback24Header, Value: Achieve Honor Rank 9 with the Iron Wolves

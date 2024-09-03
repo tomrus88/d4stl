@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fleshrot Parasite
+Hash: A646FFA4, Key: Description, Value: The fleshrot affliction can also attract a unique parasite. These worms live off the decayed flesh created by the affliction.
+Hash: 083EE0CE, Key: Quote, Value: A growth that consumes.
+Hash: 13A53A8B, Key: Series, Value: "Fleshrot" Mount Armor

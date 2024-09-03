@@ -1,0 +1,3 @@
+Hash: CF8742CB, Key: Line10.BAE4.Nec.F, Value: I lack the materials.
+Hash: 316DFD8D, Key: Line12.BAE4.Nec.F, Value: I cannot make this right now.
+Hash: 9354B84F, Key: Line14.BAE4.Nec.F, Value: There's not enough materials.

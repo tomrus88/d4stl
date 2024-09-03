@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You've been living in here?"
+Hash: 9257723D, Key: Line1.1BCB9E, Value: Sometimes. It’s quiet, nobody comes calling. Hatred is heavy in the air, but I don’t mind it. It reminds me of Her.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Humble. Comfortable. Wistful.

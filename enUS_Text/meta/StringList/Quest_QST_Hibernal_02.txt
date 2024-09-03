@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Song of the Lost Dawn
+Hash: 0871A46B, Key: Toast, Value: An old tradition, the Midwinter Blight, is a symbol of hope in a difficult time. 
+Hash: D53BFF05, Key: Phase0Description, Value: Speak with Gileon the Bard in Kyovashad to learn more about the Midwinter Blight. 
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Gileon the Bard in Kyovashad

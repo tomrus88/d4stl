@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Odd Rabbit Doll
+Hash: F2CA04D8, Key: NoticeSignText, Value: A well-worn child’s toy. The letter “T” is stitched onto one ear. 

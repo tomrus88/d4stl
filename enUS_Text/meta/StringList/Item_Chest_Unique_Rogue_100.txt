@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Scoundrel's Leathers
+Hash: F5C7BC0A, Key: Flavor, Value: "Rumor has it he lost them in a game of Skull & Anchor, but the boss is a devil with the dice. I think he wanted to give the poor sod something to keep him warm without wounding his pride."
+- Elstir

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: You are the next sacrifice. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Travel to the {LEVELAREA}
+Hash: 38AA8D97, Key: Callback10Header, Value: Slay all enemies in the Flooded Ruins {KAM_REVEALED_COUNT}
+Hash: 58D5557C, Key: Callback24Header, Value: Slay the Cultist Harbinger

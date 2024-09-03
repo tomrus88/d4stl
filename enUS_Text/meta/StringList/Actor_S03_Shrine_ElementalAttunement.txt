@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Statue of Zoltun Kulle
+{c_gold}Exchange{/c} {c_green}1{/c} {c_gold}Pearl of Warding for {c_green}10{/c} charges of Zoltun's Warding{/c}
+Hash: 18959B3F, Key: UIName, Value: Statue of Zoltun Kulle

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bone Altar
+Hash: F2CA04D8, Key: NoticeSignText, Value: A druidic altar of the sea constructed from a whale's bones. A fresh offering rests atop the shrine in hopes of appeasing the spirits and bringing loved ones home safely.

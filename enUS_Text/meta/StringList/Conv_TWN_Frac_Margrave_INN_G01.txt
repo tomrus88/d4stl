@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What can you tell me of Margrave?” 
+Hash: F74D9FFE, Key: Line3.E7252, Value: We are the last Light in the south Peaks. Our ways are hard, but our people are kind. Honor the Father and be welcome.
+Hash: 6657062B, Key: VoiceDir3.E7252, Value: To Player. Sincere. Gentle. Humble.

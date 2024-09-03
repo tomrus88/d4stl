@@ -1,0 +1,20 @@
+Hash: 003DFCC1, Key: Name, Value: Answers in the Ashes
+Hash: 4FECF0BA, Key: Phase41Description, Value: I returned to the wagon but Cormond and his horse have gone. It seems he’s left me a note... 
+Hash: FD700C3A, Key: Callback40Header, Value: Read Note from Cormond
+Hash: E2C708DD, Key: Phase44Description, Value: Cormond’s note said that he found something under Orbei. I should meet him outside the monastery and see what this is about. 
+Hash: E45EC27D, Key: Callback43Header, Value: Find Cormond at the Orbei Monastery 
+Hash: 75A12100, Key: Phase47Description, Value: I have held the Malignant at bay yet their spread continues. I should return to Cormond's wagon and hope his search has borne fruit. 
+Hash: CB4D78C0, Key: Callback46Header, Value: Investigate Cormond's wagon
+Hash: B23C2F03, Key: Callback49Header, Value: Speak with Cormond
+Hash: 5091BE7E, Key: Phase63Description, Value: Cormond has found a Hall of Records under the ruins of Orbei. It may contain knowledge about this "cure.” I will escort him through the crypt and see for myself. 
+Hash: 6FE82F7E, Key: Callback62Header, Value: Enter the Crypts of Orbei
+Hash: E36BD6A1, Key: Phase66Description, Value: I found Cormond outside the crypts of Orbei, thankfully unharmed. I must ask him how he knows this powerful new Malignant. 
+Hash: 56D6E5C1, Key: Callback65Header, Value: Speak to Cormond
+Hash: 6EFD6A9E, Key: Phase72Description, Value: We found a lead pointing to Hawezar but a powerful Malignant attacked. It called Cormond by name. When I tried to capture it, the cage exploded and it escaped. I must look for Cormond outside. He clearly knows more than he has said.
+Hash: 0F2FC79E, Key: Callback71Header, Value: Find Cormond outside the Crypts of Orbei
+Hash: C5A4F845, Key: Phase79Description, Value: I found Cormond outside the crypts of Orbei, thankfully unharmed. I must ask him how he knows this powerful new Malignant. 
+Hash: 95661601, Key: Callback83Header, Value: Speak to Cormond
+Hash: BE5C741F, Key: Phase82Description, Value: I found Cormond outside the crypts of Orbei, thankfully unharmed. I must ask him how he knows this powerful new Malignant. 
+Hash: E26052C2, Key: Callback84Header, Value: Speak to Cormond
+Hash: B31D4704, Key: Phase87Description, Value: Malignant have swarmed Cormond’s wagon but thankfully he wasn't there. I should deal with them then search for Cormond. 
+Hash: 7C54CC44, Key: Callback86Header, Value: Defeat the Malignant Ambush

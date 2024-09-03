@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened? Are you hurt?"
+Hash: 18ABE7DA, Key: Line7.163AA1, Value: Th-The exorcism… I... I did everything right. As I have done so many times before!  But y-you…
+Hash: 68E213A7, Key: VoiceDir7.163AA1, Value: Delirious, disassociated. His worldview is unravelling. A life-changing moment, and he knows it.
+Hash: F12F919C, Key: Line9.163AA1, Value: Begone. Begone! The angel Inarius… H-he casts you out! Casts you out…
+Hash: 4165BD69, Key: VoiceDir9.163AA1, Value: Flitting between moments of righteous anger and blank horror.
+Hash: 458850C5, Key: Line11.163AA1, Value: Leave. Leave, please! Please!
+Hash: 9C83F632, Key: VoiceDir11.163AA1, Value: Sobbing.

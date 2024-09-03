@@ -1,0 +1,22 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A157257, Key: Line1.710B6, Value: Donan. You’ve come back to us, and not alone. Blessed be the Light. The Father will deliver us, together.
+Hash: C91ED884, Key: VoiceDir1.710B6, Value: pleased
+Hash: F427C5EC, Key: Line3.7FA05, Value: He seized our soulstone.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: testing waters
+Hash: 8DFE655B, Key: Line5.710B6, Value: His is the will of the Light.
+Hash: FD07CB88, Key: VoiceDir5.710B6, Value: careful, pointed
+Hash: 2810B8F0, Key: Line7.7FA05, Value: You still believe that?
+Hash: 971A1F1D, Key: VoiceDir7.7FA05, Value: pushing
+Hash: C1E7585F, Key: Line9.710B6, Value: How can you doubt us after everything we’ve done for you and Yorin?
+Hash: 6F205668, Key: Line11.710B6, Value: At least he doesn’t have to see you like this.
+Hash: 5B80055C, Key: Line21.7FA05, Value: (growls)
+Hash: ABB63129, Key: VoiceDir21.7FA05, Value: growling in anger
+Hash: F556A4CB, Key: Line23.710B6, Value: Stand down, brethren.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Easy.
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: to Donan
+Hash: A309496C, Key: Line15.710B6, Value: Sin reaps consequence. I have faith the Father acted righteously.
+Hash: F33F7539, Key: VoiceDir15.710B6, Value: zealous, intense
+Hash: 3D079BE1, Key: Line17.6D03F, Value: We want to stop Lilith, same as you.
+Hash: 8F68F860, Key: Line25.7FA05, Value: Unbelievable...
+Hash: D6F23C70, Key: Line19.710B6, Value: Inarius awaits us at the mouth to Hell.
+Hash: 2728683D, Key: VoiceDir19.710B6, Value: resolute

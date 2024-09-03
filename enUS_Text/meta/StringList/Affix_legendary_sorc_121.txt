@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Splintering Energy
+Hash: 003892BF, Key: Desc, Value: Critical Hits with {c_important}Lightning Spear{/c} cause lightning to arc from it dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage to its target and up to {c_number}[Affix."Static Value 0"]{/c} other enemies. This damage is increased by your Critical Strike Damage Bonus.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Lightning Spear{/c} arcs for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage to its target and nearby enemies

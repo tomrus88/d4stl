@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Deactivated Ring
+Hash: F5C7BC0A, Key: Flavor, Value: This ring of unknown origin has a disabled enchantment. If it was imbued with enough energy, perhaps it could be restored. 

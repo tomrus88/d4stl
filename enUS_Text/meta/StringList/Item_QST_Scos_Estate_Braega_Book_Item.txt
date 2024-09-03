@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A History of Scosglen
+Hash: F5C7BC0A, Key: Flavor, Value: A volume of the comprehensive history of Scosglen, authored by Braega.

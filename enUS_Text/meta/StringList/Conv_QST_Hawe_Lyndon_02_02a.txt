@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you ready?"
+Hash: 6735A8AD, Key: Line3.10088C, Value: Through here. Another of our stashes.

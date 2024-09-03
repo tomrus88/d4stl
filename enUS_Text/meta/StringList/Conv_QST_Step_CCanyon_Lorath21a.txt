@@ -1,0 +1,2 @@
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Make yourself useful and head for the Orbei Monastery. See what's keeping that bloody Abbot.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Ordering. Dismissive. 

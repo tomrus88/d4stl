@@ -1,0 +1,7 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Fell Council
+Hash: BE943CAF, Key: Line18.1D252B, Value: (laughs)
+Hash: 158FE21C, Key: VoiceDir18.1D252B, Value: Sinister. Amused. Anticipating Player's destruction.
+Hash: 5A8D03EE, Key: Line26.1D252B, Value: (laughs)
+Hash: B188A95B, Key: VoiceDir26.1D252B, Value: different version of the laugh
+Hash: 3310ADB0, Key: Line28.1D252B, Value: (laughs)
+Hash: 8A0C531D, Key: VoiceDir28.1D252B, Value: another different version of the laugh

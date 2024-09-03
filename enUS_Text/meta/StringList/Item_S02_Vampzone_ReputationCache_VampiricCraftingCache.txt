@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Vampiric Crafting Supplies
+Hash: A646FFA4, Key: Description, Value: An assortment of materials taken from the Vampires.
+Hash: F5C7BC0A, Key: Flavor, Value: Vampires are known to collect and hoard objects with any semblance of power, these goods are no exception.

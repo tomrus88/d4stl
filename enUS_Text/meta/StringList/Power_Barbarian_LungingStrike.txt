@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Lunging Strike
+Hash: 003892BF, Key: desc, Value: {if:SF_21}{c_label}Fury Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{c_label}Generate Fury:{/c_label} {c_resource}{SF_3}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Lunge forward and strike an enemy for {c_number}{payload:DAMAGE}{/c} damage.
+Hash: F2DE8628, Key: simple_desc, Value: Primary Skill: Lunge forward and strike an enemy.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:DAMAGE}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Lunging Strike{/c} deals {c_number}[{SF_15}*100|x%|]{/c} increased damage and Heals you for {c_number}[{SF_16}*100|%|]{/c} Maximum Life {c_number}([PlayerHealthMax() * SF_16]){/c} when it damages a {c_important}{u}Healthy{/u}{/c} enemy.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Lunging Strike
+Hash: 1394CF37, Key: Mod4_Description, Value: {c_important}Lunging Strike{/c} also inflicts {c_number}{dot:BLEEDING}{/c} Bleeding damage over {c_number}{buffduration:BLEEDING}{/c} seconds.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Battle Lunging Strike
+Hash: 62F3D8B8, Key: Mod5_Description, Value: Critical Strikes with {c_important}Lunging Strike{/c} grant you {c_important}{u}Berserking{/u}{/c} for {c_number}[{SF_9}|1|]{/c} seconds.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Combat Lunging Strike

@@ -1,0 +1,76 @@
+Hash: 31A26A50, Key: WorldTiers_Title, Value: World Tiers
+Hash: 03732D0D, Key: WorldTier1, Value: Adventurer
+Hash: 03732D0F, Key: WorldTier3, Value: Nightmare
+Hash: 03732D10, Key: WorldTier4, Value: Torment
+Hash: F310A78F, Key: WorldTier1_Recommended, Value: {icon:bullet, 1}  Players who are new to Diablo or want a light challenge
+{icon:bullet, 1}  Levels {c_highlight}1-50{/c}
+Hash: A30F00C9, Key: WorldTier3_ItemInfo, Value: {icon:bullet, 1}  {c_highlight}Sacred{/c} items and new {c_highlight}Unique{/c} items can drop
+{icon:bullet, 1}  {c_highlight}Nightmare Sigils{/c} can drop that unseal {c_highlight}Nightmare Dungeons{/c}
+{icon:bullet, 1}  {c_highlight}Champion{/c} monsters with damage resistance auras can appear
+Hash: A71991EA, Key: WorldTier4_ItemInfo, Value: {icon:bullet, 1}  {c_highlight}Ancestral{/c} items can drop
+Hash: F808B6E4, Key: WorldTiers_Warning, Value: Changing your World Tier terminates all active portals, resets all incomplete Whisper progress, and closes any active Nightmare Dungeon.
+Hash: 97B8FFFB, Key: Unlock_WorldTier4, Value: World Tier 4: Torment Unlocked
+Hash: 97B8FFFA, Key: Unlock_WorldTier3, Value: World Tier 3: Nightmare Unlocked
+Hash: 2BCBA672, Key: WorldTier3_Detail1, Value: Champion monsters now have a chance to appear.
+Hash: 2BCBA673, Key: WorldTier3_Detail2, Value: Sacred items now have a low chance of dropping.
+Hash: 2BCBA674, Key: WorldTier3_Detail3, Value: Nightmare Sigils which in turn unseal Nightmare Dungeons are unlocked.
+Hash: A0481773, Key: WorldTier4_Detail1, Value: Sacred items drop more frequently.
+Hash: A0481774, Key: WorldTier4_Detail2, Value: Rare Nightmare Sigils unsealing more difficult challenges are unlocked.
+Hash: 2BCBA675, Key: WorldTier3_Detail4, Value: Players gain 100% XP bonus. Resistances to All Elements are reduced by 25%.
+Hash: A0481775, Key: WorldTier4_Detail3, Value: Players gain 150% XP bonus. Resistances to All Elements are reduced by 50%.
+Hash: 14D76C1C, Key: WorldTiers_Confirm, Value: {Icon:button4, 2.0} Confirm Selection
+Hash: 03732D0E, Key: WorldTier2, Value: Veteran
+Hash: 8B811041, Key: WorldTier2_MonsterInfo, Value: {icon:bullet, 1}  Enemies are more challenging
+{icon:bullet, 1}  Monsters give {c_highlight}50%{/c} increased Experience
+{icon:bullet, 1}  Monsters drop {c_highlight}20%{/c} more Gold
+{icon:bullet, 1}  Monsters drop more items
+Hash: 71D8D5F6, Key: WorldTierH2, Value: Select Difficulty
+Hash: 0002095C, Key: WT1, Value: World Tier 1
+Hash: 0002095D, Key: WT2, Value: World Tier 2
+Hash: 0002095E, Key: WT3, Value: World Tier 3
+Hash: 0002095F, Key: WT4, Value: World Tier 4
+Hash: 706D77BC, Key: SelectButton, Value: Select
+Hash: 265F706D, Key: BackButton, Value: Back
+Hash: 2EBD3B80, Key: SelectButtonController, Value: {icon:button1, 2} Select
+Hash: CA9E8571, Key: BackButtonController, Value: {icon:button2, 2} Back
+Hash: 42D2C470, Key: WorldTier1_Detail1, Value: {icon:bullet, 1}  Recommended for players who are new to Diablo or want a light challenge
+Hash: 42D2C471, Key: WorldTier1_Detail2, Value: Enemies are easy to defeat
+Hash: 42D2C472, Key: WorldTier1_Detail3, Value: Drops are average
+Hash: B74F3571, Key: WorldTier2_Detail1, Value: Recommended for Diablo veterans who want to be tested
+Hash: B74F3572, Key: WorldTier2_Detail2, Value: Enemies will challenge you
+Hash: B74F3573, Key: WorldTier2_Detail3, Value: Players gain 50% XP bonus
+Hash: B74F3574, Key: WorldTier2_Detail4, Value: Players gain 20% Gold bonus
+Hash: CFB2604E, Key: Confirm, Value: Confirm
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 1A1A3997, Key: Close_Prompt, Value: {icon:button2, 2} Close
+Hash: 3DC134AF, Key: Confirm_Prompt, Value: {icon:button4, 2} Confirm
+Hash: DF275D0A, Key: EnemyInfo, Value: Enemy Details:
+Hash: 392D10B7, Key: ItemDrops, Value: New:
+Hash: 85F2B555, Key: Recommeded, Value: Recommended for:
+Hash: 3C2206C0, Key: WorldTier1_MonsterInfo, Value: {icon:bullet, 1}  Enemies are easy to defeat
+Hash: 9AF9DE87, Key: WorldTier1_ItemInfo, Value: 
+Hash: 426FB110, Key: WorldTier2_Recommended, Value: {icon:bullet, 1}  Players who desire more challenge
+{icon:bullet, 1}  Levels {c_highlight}1-50{/c}
+Hash: 5825C91A, Key: WorldTier3_Unlock, Value: Unlocked by completing the Campaign and {c_highlight}Cathedral of Light{/c} Capstone Dungeon {icon:Marker_DungeonChallenge, 2.0} in Kyovashad, {c_highlight}World Tier 2: Veteran{/c}.
+Hash: B0714328, Key: WorldTier3_Recommend, Value: {icon:bullet, 1}  Levels {c_highlight}50-70{/c}
+Hash: DAE019C2, Key: WorldTier3_MonsterInfo, Value: {icon:bullet, 1}  Enemies are more formidable
+{icon:bullet, 1}  Monsters give {c_highlight}150%{/c} increased Experience 
+{icon:bullet, 1}  Monsters drop {c_highlight}20%{/c} more Gold
+{icon:bullet, 1}  Your Resistances to All Elements are reduced by {c_highlight}25%{/c}
+Hash: 44679DFB, Key: WorldTier4_Unlock, Value: Unlocked by completing the {c_highlight}Fallen Temple{/c} Capstone Dungeon {icon:Marker_DungeonChallenge, 2.0} in northeastern Dry Steppes, {c_highlight}World Tier 3: Nightmare{/c}.
+Hash: 35CDF869, Key: WorldTier4_Recommend, Value: {icon:bullet, 1}  Levels {c_highlight}70+{/c}
+Hash: 2A3F2343, Key: WorldTier4_MonsterInfo, Value: {icon:bullet, 1}  Enemies are more fearsome
+{icon:bullet, 1}  Monsters give {c_highlight}250%{/c} increased Experience 
+{icon:bullet, 1}  Monsters drop {c_highlight}20%{/c} more Gold
+{icon:bullet, 1}  Your Resistances to All Elements are reduced by {c_highlight}50%{/c}
+Hash: 9F046FA8, Key: WorldTier2_ItemInfo, Value: 
+Hash: 5BB7C474, Key: WT1_Bullet1, Value: Recommended for new players to Diablo or want a light challenge
+Hash: 5BB7C475, Key: WT1_Bullet2, Value: Enemies are easy to defeat
+Hash: D0343575, Key: WT2_Bullet1, Value: {icon:bullet, 1}  Recommended for Diablo veterans who want more of a challenge
+Hash: D0343577, Key: WT2_Bullet3, Value: Enemies are more challenging
+Hash: D0343578, Key: WT2_Bullet4, Value: Monsters give {c_highlight}50%{/c} increased Experience
+Hash: D0343579, Key: WT2_Bullet5, Value: Monsters drop {c_highlight}20%{/c} more Gold
+Hash: D0343576, Key: WT2_Bullet2, Value: Levels {c_highlight}1-50{/c}
+Hash: E985491C, Key: Active, Value: Active
+Hash: B74F3575, Key: WorldTier2_Detail5, Value: Items drop more frequently
+Hash: D034357A, Key: WT2_Bullet6, Value: Monsters drop more items

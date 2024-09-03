@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Fell Council
+Hash: D10206A8, Key: Line20.1D252B, Value: (roars)
+Hash: 27FDAC15, Key: VoiceDir20.1D252B, Value: Violent. Furious. (2-3 sec)
+Hash: 6E4B2F0D, Key: Line25.1D252B, Value: (roars)
+Hash: C546D47A, Key: VoiceDir25.1D252B, Value: Violent. Furious. (2-3 sec)

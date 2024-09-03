@@ -1,0 +1,2 @@
+Hash: CB4D78C0, Key: Callback46Header, Value: Destroy the Demonic Effigies
+Hash: 1D9AD41F, Key: Callback54Header, Value: Investigate villagers' homes

@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened here?"
+Hash: 9BD2A927, Key: Line49.7B54B, Value: That old man there...he claims to be Horadrim, but he drinks like an ox.
+Hash: EC08D4F4, Key: VoiceDir49.7B54B, Value: To Player. Mildly amused.
+Hash: 203182DF, Key: Line51.6D03F, Value: (snores)
+Hash: 7067AEAC, Key: VoiceDir51.6D03F, Value: Deep sleep. Snoring like an ox.
+Hash: 542B8B27, Key: Line55.7B55D, Value: He came to town days ago, looking for a servant of the demon Lilith. A "pale man." It seems he didn't like what he found.
+Hash: A461B6F4, Key: VoiceDir55.7B55D, Value: Annoyed. Terse.
+Hash: A275A5DE, Key: Line57.BAE4, Value: I see. I will take it from here.
+Hash: 117F0C0B, Key: VoiceDir57.BAE4, Value: Weary. Slightly annoyed.
+Hash: 88147E2B, Key: Line59.7B55D, Value: Who are you?
+Hash: D84AA9F8, Key: VoiceDir59.7B55D, Value: Eyebrow raised. Terse. 
+Hash: E170EED9, Key: Line61.BAE4, Value: He and I met in the Fractured Peaks. I saw his pale man in a vision, if you can believe it--
+Hash: 507A5506, Key: VoiceDir61.BAE4, Value: Trying to explain. Suspects they won't believe.
+Hash: A678E686, Key: Line63.7B55D, Value: Enough, he's yours. Just keep away from the bottle, both of you.
+Hash: F6AF1253, Key: VoiceDir63.7B55D, Value: Fed up. Dismissive. You're both crazy, stay sober.

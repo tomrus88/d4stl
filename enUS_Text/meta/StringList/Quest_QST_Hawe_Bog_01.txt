@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: Name, Value: Judgement of the Swamp
+Hash: 0871A46B, Key: Toast, Value: Meet Lorath and Neyrelle in the bogs of the Writhing Mire
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Catch up to Lorath and Neyrelle
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Lorath and Neyrelle have found the location of the altar where we must burn the incense. I should catch up to them.
+Hash: D53BFF05, Key: Phase0Description, Value: Lorath and Neyrelle have found the location of the altar where we must burn the incense. I should catch up to them.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Catch up to Lorath and Neyrelle
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Neyrelle
+Hash: C9FCD1EA, Key: Phase5Description, Value: Lorath and Neyrelle have found the location of the altar where we must burn the incense.
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Follow your allies through the Writhing Mire
+Hash: 58D5557C, Key: Callback24Header, Value: Slay the Nangari
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Lorath and Neyrelle have found the location of the altar where we must burn the incense.
+Hash: 9589ADF5, Key: Phase8OutsideSubzoneHeader, Value: Light the incense at the altar in the Writhing Mire
+Hash: AB22B0DB, Key: Callback32Header, Value: Light the Incense
+Hash: 61CFD437, Key: Phase11Description, Value: Lorath and Neyrelle have found the location of the altar where we must burn the incense.
+Hash: 03E5A75F, Key: Phase11OutsideSubzoneHeader, Value: Follow your allies through the Writhing Mire
+Hash: 8CBE4880, Key: Callback28Header, Value: Follow Lorath
+Hash: E2223B19, Key: Phase22Description, Value: Lorath and Neyrelle have found the location of the altar where we must burn the incense.
+Hash: C79EEC81, Key: Phase22OutsideSubzoneHeader, Value: Speak with Lorath

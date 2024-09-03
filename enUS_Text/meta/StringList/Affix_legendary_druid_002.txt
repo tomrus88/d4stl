@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Unsatiated
+Hash: 003892BF, Key: Desc, Value: After killing an enemy with {c_important}Shred{/c}, you gain {c_number}[Affix."Static Value 0"]{/c} Spirit. Your {c_important}Werewolf{/c} Skills deal {c_random}[Affix_Value_1|1%x|]{/c} increased damage when cast above {c_number}[Affix."Static Value 1"]{/c} Spirit.
+Hash: 82B7D312, Key: CodexDesc, Value: Killing an enemy with {c_important}Shred{/c} gives {c_number}[Affix."Static Value 0"]{/c} Spirit. Your {c_important}Werewolf{/c} Skills deal {c_random}[Affix_Value_1|1%x|]{/c} increased damage when cast above {c_number}[Affix."Static Value 1"]{/c} Spirit.

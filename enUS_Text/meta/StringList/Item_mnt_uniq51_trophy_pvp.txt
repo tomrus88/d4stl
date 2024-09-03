@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloody Warlord's Warning
+Hash: A646FFA4, Key: Description, Value: A gruesome warning to anyone unfortunate enough to cross your path.

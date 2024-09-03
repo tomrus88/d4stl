@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Snap Freeze
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} {c_important}Frost{/c} Skills have up to a {c_number}{SF_0}%{/c} chance to instantly {c_important}{u}Freeze{/u}{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Chance {icon:arrow,1.2} {c_number}{SF_0}%{/c}

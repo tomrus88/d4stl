@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tomb of Hallows
+Hash: 003892BF, Key: Desc, Value: Death is in the halls. Ancient and fresh. Dying and undying.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've come for the gemstones belonging to Meros."
+Hash: 5D83A0E8, Key: Line1.FBAA7, Value: Meros sent you? That spineless merchant? Ha! This will cost him dearly.
+Hash: CC8D0715, Key: VoiceDir1.FBAA7, Value: vitrol and hardened 

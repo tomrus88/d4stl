@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Acolyte's Head
+Hash: A646FFA4, Key: Description, Value: Bound to the Strange Refuge
+Hash: F5C7BC0A, Key: Flavor, Value: The rotting, severed head of an Acolyte of Rathma. It speaks in a low moaning voice.

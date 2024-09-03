@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Anger Management
+Hash: 003892BF, Key: Desc, Value: While above {c_random}[Affix_Value_1]{/c} Fury, you are {c_important}{u}Berserk{/u}{/c}, but lose {c_number}[Affix."Static Value 0"]{/c} Fury per second.

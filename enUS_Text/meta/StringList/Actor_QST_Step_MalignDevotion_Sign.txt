@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Lakren's Builders Notice
+Hash: F2CA04D8, Key: NoticeSignText, Value: All brave volunteers are needed to help rebuild this broken world. Train under Lakren the master builder and help save Sanctuary.
+Tools and coin will be provided.

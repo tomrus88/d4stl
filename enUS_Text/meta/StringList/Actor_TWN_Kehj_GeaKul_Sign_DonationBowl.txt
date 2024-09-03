@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Donation Bowl
+Hash: F2CA04D8, Key: NoticeSignText, Value: If there were coin, the Zakarum priests would distribute it to the poor and lame. As of now, it stands empty.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value:  “I found these journals.”
+Hash: 5D28A524, Key: Line1.AAE2D, Value: I see. So my mother was a Knight Penitent. (sigh) Would she have made the same choice if she saw what the world has become?
+Hash: F71D1EA6, Key: Line3.AAE2D, Value: Thank you for bringing these to me.

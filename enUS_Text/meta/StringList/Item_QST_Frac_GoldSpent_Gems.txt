@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Payment of Gemstones
+Hash: F5C7BC0A, Key: Flavor, Value: This large bag bears the mark of Merchant Meros and is heavy with various gems inside. 

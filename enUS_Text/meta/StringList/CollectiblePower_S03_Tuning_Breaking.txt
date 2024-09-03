@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Breaking Support
+Hash: A646FFA4, Key: Description, Value: Damage from the supported Skill instantly destroys enemy Barrier effects. In addition, there is a {c_number}[Collectible_Power_Value_1#S03_Tuning_Breaking]%{/c} chance to make enemies {c_important}Vulnerable{/c} for {c_number}2{/c} seconds.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: {c_important}Vulnerable{/c} Chance {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_Breaking+10]%{/c}
+Hash: E971A20F, Key: Modifier, Value: Destroys enemy barrier effects and has a{c_number}[Collectible_Power_Value_1#S03_Tuning_Breaking]%{/c} chance to make enemies {c_important}Vulnerable{/c}.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

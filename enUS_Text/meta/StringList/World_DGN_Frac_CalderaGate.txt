@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Caldera Gate
+Hash: 003892BF, Key: Desc, Value: The demons in this icy cave are growing stronger.

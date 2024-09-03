@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "So Hell is truly coming. Can nothing be done?"
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: Hell is eternal. Kill all the Triune you want, slaughter the legions on every continent, Hell will keep coming until they break through the veil... There is only one thing left to do.
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Somber. Heavy. Foreboding.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: I can take you through the Hell Gate... and you will face the demons in their own realm. Push them screaming to the edge of the abyss!
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Grim. Bitter.
+Hash: A97D1E50, Key: Line22.1BCB9E, Value: Perhaps you will buy us – buy humanity the time to find another way. Or a moment’s peace before the end.
+Hash: 0078C3BD, Key: VoiceDir22.1BCB9E, Value: Grim. Bitter.
+Hash: 8200C812, Key: Line24.1BCB9E, Value: I'll await you at the Hell Gate.
+Hash: D8FC6D7F, Key: VoiceDir24.1BCB9E, Value: Somber. Grim. Resolute.

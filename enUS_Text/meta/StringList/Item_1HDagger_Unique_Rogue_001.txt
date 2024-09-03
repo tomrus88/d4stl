@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Sawtooth Shiv
+Hash: 003DFCC1, Key: Name, Value: Condemnation
+Hash: F5C7BC0A, Key: Flavor, Value: "I've never seen such ruthless butchery. He deserves to be be shipped off to die in the swamps with the rest of the godless murderers."
+- Witness to the murder of Sergeant Walcot

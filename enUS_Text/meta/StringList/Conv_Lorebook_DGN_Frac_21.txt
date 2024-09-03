@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Journal Page
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Journal Page
+Hash: 5D72A442, Key: Line1.EDC78, Value: Forgive me, Father Inarius, for I have sinned.
+Hash: 915B9746, Key: Line5.EDC78, Value: I have tasted human blood. Gorged myself on it. Taken lives to do it. Damnedest of all, I enjoy it every time, hating myself all the while. I pray in the moments I still have clarity. But these moments slip from me like water through a sieve.
+Hash: F7671DC4, Key: Line3.EDC78, Value: I’ve killed too many...I can live no longer. Tonight, I seal myself in this cave so that I might harm no others. 
+
+In the name of the Light.

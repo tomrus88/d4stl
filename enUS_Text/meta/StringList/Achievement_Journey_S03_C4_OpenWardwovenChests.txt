@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Zoltun's Prize
+Hash: 3A4912CF, Key: DescShort, Value: Unlock Wardwoven Chests by preserving Zoltun's Warding

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Carved Wooden Knight
+Hash: F5C7BC0A, Key: Flavor, Value: A weathered carving of a knight missing several pieces. 

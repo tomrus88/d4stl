@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Undead Undone
+Hash: 003892BF, Key: Desc, Value: Kill 666 Ghosts, Skeletons, or Zombies.
+Hash: 3DA4E22A, Key: Crit_235681, Value: Kill Ghosts
+Hash: 3DA4E229, Key: Crit_235680, Value: Kill Skeleton
+Hash: 3DA4E211, Key: Crit_235679, Value: Kill Zombie

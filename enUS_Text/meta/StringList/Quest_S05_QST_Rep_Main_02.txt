@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: The Seething Mountain
+Hash: 0871A46B, Key: Toast, Value: Istel has news of Triune activity.
+Hash: D53BFF05, Key: Phase0Description, Value: I've cut my way through countless demons and taken the Mother's Gift from them. Time again to seek Istel back in Zarbinzet and see what else she knows.
+Hash: 1EADAE68, Key: Callback2Header, Value: Return to Istel in Zarbinzet
+Hash: B8A227EA, Key: Callback4Header, Value: Clear The Civo Breach with Istel
+Hash: 74FC533C, Key: Phase25Description, Value: Istel said Mount Civo is next, but this time, she wants to accompany me. Fate is strange to send me back to that mountain with the enemy I fought there... Yet, I fear, the worse enemy awaits us.
+Hash: 58D5557C, Key: Callback24Header, Value: Meet Istel on Mt. Civo
+Hash: 112E3759, Key: Callback30Header, Value: Find the entrance to The Civo Breach

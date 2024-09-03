@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hectic
+Hash: 003892BF, Key: Desc, Value: After casting {c_number}[Affix."Static Value 0"]{/c} {c_important}Basic{/c} Skills, one of your active Cooldowns is reduced by {c_random}[Affix_Value_1|1|]{/c} seconds.

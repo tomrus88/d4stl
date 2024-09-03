@@ -1,0 +1,6 @@
+Hash: 8EDB5654, Key: Line1.128F75, Value: Keep walking before I--
+Hash: DF118221, Key: VoiceDir1.128F75, Value: Tough, you're turning people away at the door. You're about to say the word "stranger" when you realize you recognize the person.
+Hash: 675F0016, Key: Line3.128F75, Value: Oh... oh, it's you! Thank goodness. The Sister is in the cellar, come quickly.
+Hash: B7952BE3, Key: VoiceDir3.128F75, Value: You reecognize the player. Suddenly turn to grateful tone but rushing.
+Hash: 3FE2A9D8, Key: Line5.128F75, Value: And... thank you for trying to save my poor Vasek. I know you tried your best.
+Hash: 9018D5A5, Key: VoiceDir5.128F75, Value: Earnest but sad. Pronounciation: Vah-Seck

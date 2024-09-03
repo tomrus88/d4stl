@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Osric's garrison
+Hash: 003892BF, Key: Desc, Value: A home commandeered as a base by the Knights Penitent

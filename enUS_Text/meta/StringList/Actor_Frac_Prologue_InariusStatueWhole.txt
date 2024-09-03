@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Statue of Inarius
+Hash: F2CA04D8, Key: NoticeSignText, Value: “May the Light of Father Inarius shine down upon all weary travelers of this holy land. Turn your face toward his radiance and find your strength renewed.”

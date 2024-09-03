@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have a message for your commander, here is an insignia."
+Hash: 59F2E91B, Key: Line1.5423F, Value: You are a new informant? Quite the strange outfit you have on there.
+Hash: C8FC4F48, Key: VoiceDir1.5423F, Value: Suspicious, looking the player up and down
+Hash: 8DDBDC1F, Key: Line5.5423F, Value: Hmph. Guess we're working with anybody these days. Go on, get inside.
+Hash: FCE5424C, Key: VoiceDir5.5423F, Value: Seriously considering the risk of stopping the player if they are legitimate... it's not worth it. 

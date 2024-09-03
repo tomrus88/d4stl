@@ -1,0 +1,10 @@
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: P-please! Leave me alone!
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: Terrified, pleading. A mob is threatening to attack you.
+Hash: F75EA357, Key: Line3.F5300, Value: Cursed creature! Heretic! You will pay!
+Hash: 66680984, Key: VoiceDir3.F5300, Value: Hateful, projected.
+Hash: 91531FA1, Key: Line5.F52ED, Value: Stop! Please!
+Hash: 005C85CE, Key: VoiceDir5.F52ED, Value: Terrified, pleading
+Hash: 2B47965B, Key: Line7.F5300, Value: Cursed! C--
+Hash: 9A50FC88, Key: VoiceDir7.F5300, Value: Hateful, projected.
+Hash: C53C12A5, Key: Line9.F52ED, Value: STOP!
+Hash: 344578D2, Key: VoiceDir9.F52ED, Value: Yelled. You've lost control and all your magic is erupting from you

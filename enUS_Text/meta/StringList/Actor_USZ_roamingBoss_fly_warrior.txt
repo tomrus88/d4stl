@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kixxarth
+Hash: CC38ADCB, Key: FlavorName, Value:  Helltide Assassin

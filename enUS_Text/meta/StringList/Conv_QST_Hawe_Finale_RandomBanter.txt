@@ -1,0 +1,16 @@
+Hash: DB167C2F, Key: Line6.7FA05, Value: (Speaking Horadric)
+Hash: 4A1FE25C, Key: VoiceDir6.7FA05, Value: Straining. Chanting.
+Hash: 74F6F491, Key: Line8.6D03F, Value: It's taking too long!
+Hash: E4005ABE, Key: VoiceDir8.6D03F, Value: Straining. Doubting. Anxious about Elias.
+Hash: 1AF26561, Key: Line44.7FA05, Value: For once in your miserable life, stay with me!
+Hash: 6B28912E, Key: VoiceDir44.7FA05, Value: Straining. Commanding. Desperate. Lorath abandoned him in the past.
+Hash: 2230D401, Key: Line10.6DE47, Value: (Speaking Horadric)
+Hash: 7266FFCE, Key: VoiceDir10.6DE47, Value: Straining. Chanting.
+Hash: BC246C1C, Key: Line12.6D03F, Value: Fight, girl! Command it!
+Hash: 0C5A97E9, Key: VoiceDir12.6D03F, Value: Straining. Barking instruction at Neyrelle.
+Hash: 5618E59E, Key: Line14.6D03F, Value: Burning bastard Hells!
+Hash: A64F116B, Key: VoiceDir14.6D03F, Value: Straining. Cursing.
+Hash: F0216040, Key: Line16.7FA05, Value: That's it, old man!
+Hash: 40578C0D, Key: VoiceDir16.7FA05, Value: Straining. Encouraging Lorath.
+Hash: B4D2DDC3, Key: Line46.6D03F, Value: Aaagh!
+Hash: 05090990, Key: VoiceDir46.6D03F, Value: Furious. Pushing against crushing weight.

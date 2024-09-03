@@ -1,0 +1,33 @@
+Hash: 7EE7D509, Key: StoneType_Command, Value: Governing Stone
+Hash: BF5216BF, Key: StoneType_Tuning, Value: Tuning Stone
+Hash: 6968E858, Key: StoneType_Plural_Command, Value: Governing Stones
+Hash: 2B467C2E, Key: StoneType_Plural_Tuning, Value: Tuning Stones
+Hash: C73530B2, Key: StoneType_Melee, Value: Melee
+Hash: B93DD1BB, Key: StoneType_Ranged, Value: Ranged
+Hash: F3E11A3E, Key: StoneType_Utility, Value: Utility
+Hash: 392735E2, Key: StoneType_Melee_Ranged, Value: Melee & Ranged
+Hash: D7837F23, Key: StoneType_All, Value: All
+Hash: 933DEEB6, Key: Tooltip_Rank, Value: Rank {s1} / {s2}
+Hash: 38B700F4, Key: Tooltip_Modifiers_Header, Value: Modifiers
+Hash: 30F51A27, Key: Tooltip_Progress_Header, Value: Progress:
+Hash: E22758A9, Key: Tooltip_Progess_Value, Value: {c_number}{s1} / {s2}{/c} until Rank {s3}
+Hash: 762F445D, Key: Tooltip_NextRank_Header, Value: Next Rank:
+Hash: 0208CB2A, Key: Tooltip_Status_Equipped, Value: Currently Equipped
+Hash: 7DB26D1F, Key: Tooltip_Status_Locked, Value: Not Yet Unlocked
+Hash: FB94C184, Key: Tooltip_Status_Incompatible, Value: Incompatible
+Hash: FA24D0D0, Key: Tooltip_Status_MissingStone, Value: Missing Governing Stone
+Hash: 716C47EA, Key: Tooltip_ActiveStones_Header, Value: Active Governing Stones
+Hash: 451613F9, Key: Legend_Toggle_Stone_Type, Value: Stone Type
+Hash: BF42FAAE, Key: Legend_Alter_Stone, Value: Alter Stones
+Hash: 36CA413D, Key: Tooltip_Legend_Assign, Value: Assign
+Hash: 52219F13, Key: Tooltip_Legend_Swap, Value: Swap
+Hash: 32A1B8DC, Key: PickUpText_Unlock, Value: {s1} unlocked
+Hash: B4099A40, Key: PickUpText_XPGained, Value: +{s2} XP {s1}
+Hash: F0732E9C, Key: PickUpText_Upgraded, Value: {s1} upgraded
+Hash: A01340BE, Key: WrongSlotErrorMessage, Value: That stone is the wrong type for this slot.
+Hash: 32F8960E, Key: PickUpText_MaxLevel, Value: {s1} max level
+Hash: 4947C4EE, Key: PickUpToast_Description_Unlocked, Value: {s1} has been unlocked.
+Hash: D7C78645, Key: PickUpToast_Description_Upgraded, Value: {s1} has reached Rank {s2}
+Hash: 8C72282B, Key: PickUpToast_Description_MaxRank, Value: {s1} has reached Rank {s2} (max rank)
+Hash: 862B56BC, Key: StoneType_Command_No_Localization_Markup, Value: Governing Stone
+Hash: 607EFBB2, Key: StoneType_Tuning_No_Localization_Markup, Value: Tuning Stone

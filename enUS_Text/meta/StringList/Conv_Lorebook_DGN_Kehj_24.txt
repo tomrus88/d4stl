@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Journal page
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Journal Page
+Hash: 5D3BC9FA, Key: Line1.BCB66, Value: Finally, my latest discovery tracing the path of the legendary Abd al-Hazir; the Caldeum Aqueducts. With the city closed, I didn’t think I’d be able to gain entry.
+Hash: F730437C, Key: Line3.BCB66, Value: Piecing together the location of an entrance outside the city was difficult, but luckily persistence paid off. And with a generous donation to those Iron Wolves, I am ready to continue my journey.
+Hash: 9124BCFE, Key: Line5.BCB66, Value: Now, Abd al-Hazir mentioned this place being infested with vermin. Tomorrow I shall see what time has done to this place.

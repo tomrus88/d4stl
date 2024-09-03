@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found your camel. She was trapped in a thicket."
+Hash: 8ECD5D3A, Key: Line1.10B59B, Value: Neema?! Neema, you’re alive! I feared the worst. Oh, thank you kind wanderer, thank you!
+Hash: DF038907, Key: VoiceDir1.10B59B, Value: Elated. Relieved. Can barely believe his camel-friend has been found.
+Hash: 6751DCAA, Key: Line3.10BFC5, Value: (shakes her head)

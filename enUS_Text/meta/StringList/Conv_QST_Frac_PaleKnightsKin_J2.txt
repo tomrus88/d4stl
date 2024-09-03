@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Archivist
+Hash: 5D287236, Key: Line1.AB83A, Value: We received the order. Our company has been called away on a mission for the Light. I know that, like the others who have been called to serve, we will not return.
+Hash: F71CEBB8, Key: Line3.AB83A, Value: We have already given everything to the Church. Must we give up our lives as well...?

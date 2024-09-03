@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Snap Frozen
+Hash: 003892BF, Key: Desc, Value: Each {c_important}{u}Chilled{/u}{/c} or {c_important}{u}Frozen{/u}{/c} enemy you {c_important}Evade{/c} through grants you a {c_important}{u}Barrier{/u}{/c} that absorbs {c_random}[Affix_Flat_Value_1]{/c} damage for {c_number}[Affix."Static Value 0"]{/c} seconds, absorbing up to a maximum of {c_random}[Affix_Flat_Value_1 * Affix."Static Value 1"]{/c} damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}{u}Chilled{/u}{/c} or {c_important}{u}Frozen{/u}{/c} enemies you {c_important}Evade{/c} through grant a {c_important}{u}Barrier{/u}{/c} absorbing {c_random}[Affix_Flat_Value_1]{/c} damage.

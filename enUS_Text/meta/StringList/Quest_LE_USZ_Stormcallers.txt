@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Those Who Call the Storm
+Hash: 187F7F0B, Key: Callback221Header, Value: Investigate the ritual
+Hash: 77397730, Key: Callback253Header, Value: Dismantle the Tortured Effigies: {DONE_OVER_NEEDED}
+Hash: 904AC0ED, Key: Callback250Header, Value: Slay the Helltide Commander
+Hash: 6C9339F4, Key: Callback239Header, Value: Dismantle them before the ritual is complete

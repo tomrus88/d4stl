@@ -1,0 +1,5 @@
+Hash: FB719C7F, Key: Callback81Header, Value: Travel to the {LEVELAREA}
+Hash: 003DFCC1, Key: Name, Value: Rot with the rest of them.
+Hash: 5E28741A, Key: Callback31Header, Value: Activate the {GIZMO}
+Hash: 0BDB18BB, Key: Callback23Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 2A0770E5, Key: Callback78Header, Value: Slay the Plague Ship Rower

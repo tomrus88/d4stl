@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Eldritch Bounty
+Hash: 003892BF, Key: desc, Value: When you attack with an {c_important}Imbued{/c} Skill you gain {c_number}[{SF_3}*100|+%|]{/c} Maximum Resistance and {c_number}[{SF_1}*100|x%|]{/c} increased damage for that {c_important}Imbuement’s{/c} element for {c_number}{SF_2}{/c} seconds.
+Hash: 1BC5E139, Key: Buff6_Name, Value: Overflowing Poison Imbue
+Hash: 04622D1C, Key: Buff6_Description, Value: Increased Poison Resistance and damage
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Overflowing Cold Imbue
+Hash: 53C1369D, Key: Buff7_Description, Value: Increased Cold Resistance and damage
+Hash: 2070327B, Key: Buff8_Name, Value: Overflowing Shadow Imbue
+Hash: A320401E, Key: Buff8_Description, Value: Increased Shadow Resistance and damage

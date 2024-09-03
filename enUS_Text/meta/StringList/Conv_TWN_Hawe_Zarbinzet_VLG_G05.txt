@@ -1,0 +1,2 @@
+Hash: 8ED96EF0, Key: Line1.1264F6, Value: A traveler! Where are you from? What’s it like?
+Hash: 675D18B2, Key: Line3.1264F6, Value: No, don’t tell me. I’ll see for myself, when I’ve got the coin to leave. Seems like anywhere’s better than here.

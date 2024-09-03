@@ -1,0 +1,3 @@
+Hash: 8B25FF68, Key: Line8.BAE4.Bar.M, Value: I must identify this first.
+Hash: CEAC2B11, Key: Line10.BAE4.Bar.M, Value: I can't use this until it's identified.
+Hash: 3092E5D3, Key: Line12.BAE4.Bar.M, Value: This is unfamiliar to me.

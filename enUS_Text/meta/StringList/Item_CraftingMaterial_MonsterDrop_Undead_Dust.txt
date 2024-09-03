@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Grave Dust
+Hash: A646FFA4, Key: Description, Value: Found in the bodies, bones, or cerements of the undead.
+Hash: F5C7BC0A, Key: Flavor, Value: Long exposure to the walking dead imbues this dust with their inverse vitality, used in necromantic alchemies.

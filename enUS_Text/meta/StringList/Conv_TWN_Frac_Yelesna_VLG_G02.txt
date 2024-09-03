@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What of the farms?"
+Hash: 5D6D27D1, Key: Line1.F9C26, Value: Hope the fish are bitin' today.

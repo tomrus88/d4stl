@@ -1,0 +1,34 @@
+Hash: 003DFCC1, Key: Name, Value: The Jewel of the East
+Hash: 0871A46B, Key: Toast, Value: Join Horadrim in Caldeum
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Join your allies in the search for Lilith in Caldeum
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We're not the only ones searching for Lilith. Inarius amassed an army of Knights Penitent, and marched on Caldeum to stop her.
+Hash: 259D49BB, Key: Phase15Description, Value: Neyrelle and Lorath are waiting near Caldeum, which is burning as the Pale Knights also pursue Lilith. I should join my companions.
+Hash: 48199163, Key: Phase15OutsideSubzoneHeader, Value: Speak with Horadrim in Caldeum Bazaar
+Hash: 6C93809B, Key: Callback14Header, Value: Speak with the Horadrim in Caldeum Bazaar
+Hash: B87761DE, Key: Phase18Description, Value: A group of Pale Knights led by Prava is under attack by demonic forces. Despite our differences in the past, we must aid her.
+Hash: 3B4080E6, Key: Phase18OutsideSubzoneHeader, Value: Speak with Prava in Caldeum
+Hash: 538236DE, Key: Callback17Header, Value: Speak with Prava
+Hash: CF9A89D8, Key: Phase30Description, Value: A group of Pale Knights led by Prava is under attack by demonic forces. Despite our differences in the past, we must aid her.
+Hash: 98314220, Key: Phase30OutsideSubzoneHeader, Value: Slay the demons attacking Prava in Caldeum
+Hash: D9B88541, Key: Callback29Header, Value: Slay the demons attacking Prava
+Hash: C45B5CBD, Key: Phase35Description, Value: We are too late. Lilith has opened the Gates to the Burning Hells, and now demons are pouring into Caldeum. We must fight our way through and reach our goal.
+Hash: 2D7226A5, Key: Phase35OutsideSubzoneHeader, Value: Search for the Gates of Hell in Caldeum
+Hash: 45172A5D, Key: Callback34Header, Value: Search for the Gates of Hell
+Hash: E2C708DD, Key: Phase44Description, Value: Caldeum is in chaos, but our goal lies within. We must follow Lilith's trail. 
+Hash: 4F1176C5, Key: Phase44OutsideSubzoneHeader, Value: Search Caldeum for Lilith
+Hash: BCE26C3F, Key: Callback63Header, Value: Search for Lilith
+Hash: BE5C741F, Key: Phase82Description, Value: The Angel Inarius has landed in Caldeum, we should go to him. 
+Hash: 77A8AC47, Key: Phase82OutsideSubzoneHeader, Value: Find Inarius in Caldeum
+Hash: E26052C2, Key: Callback84Header, Value: Follow Inarius
+Hash: 336FADE6, Key: Phase98Description, Value: I should find out what the Horadrim are talking about. 
+Hash: D0A2D5EE, Key: Phase98OutsideSubzoneHeader, Value: Speak with Lorath in Caldeum
+Hash: B590DDE6, Key: Callback97Header, Value: Speak with Lorath
+Hash: 0F69DDEF, Key: Phase110OutsideSubzoneHeader, Value: Defeat cultists hiding in Caldeum
+Hash: 0A7DFC98, Key: Phase128OutsideSubzoneHeader, Value: Open the gate
+Hash: 71E07A90, Key: Callback127Header, Value: Open the gate
+Hash: 9FEEC98D, Key: Phase152Description, Value: We are too late. Lilith has opened the Gates to the Burning Hells, and now demons are pouring into Caldeum. We must fight our way through and reach our goal.
+Hash: 7C34FD75, Key: Phase152OutsideSubzoneHeader, Value: Open the alley gate in Caldeum
+Hash: E9ABBC72, Key: Callback156Header, Value: Open the alley gate
+Hash: F6965734, Key: Phase159Description, Value: The Angel Inarius has landed in Caldeum, we should go to him. 
+Hash: B38FD6FC, Key: Phase159OutsideSubzoneHeader, Value: Find Inarius in Caldeum
+Hash: C63223AC, Key: Callback213Header, Value: Find Inarius with your allies

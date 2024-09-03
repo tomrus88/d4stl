@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Superior Leather
+Hash: A646FFA4, Key: Description, Value: Rare leather used for improving armor. Can be obtained from the various wildlife and beasts.
+Hash: F5C7BC0A, Key: Flavor, Value: Supple, rugged leather used for fine garments and even finer armor.

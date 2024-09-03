@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: A Wolf's Armor
+Hash: A62EDCE9, Key: Line15.BC41C, Value: That is Alim.
+Hash: F66508B6, Key: VoiceDir15.BC41C, Value: Pointing. Somber.
+Hash: 4023566B, Key: Line17.BC41C, Value: He fell first, shouting to warn us. We will remember.
+Hash: 90598238, Key: VoiceDir17.BC41C, Value: Somber. Ritual remembrance. 

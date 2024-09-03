@@ -1,0 +1,4 @@
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: Zoltun! Damn you, Zoltun Kulle, answer me!
+Hash: F6CD1FC0, Key: Line15.18AEA4, Value: He is not here.
+Hash: 4DC8C52D, Key: VoiceDir15.18AEA4, Value: Crestfallen.
+Hash: CF50C982, Key: Line17.18AEA4, Value: Men of his pride don't just vanish without a trace. There must be something...

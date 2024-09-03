@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here's your ring."
+Hash: 5906A2BA, Key: Line10.11E336, Value: Oh, thank you. I'll treasure it for... wait. What is this?
+Hash: B0024827, Key: VoiceDir10.11E336, Value: Initially gracious and almost sickeningly sweet... until he begins to realize the ring they've found is inherently worthless. Then, disbelieving.
+Hash: 0A0DF63E, Key: Line14.11E336, Value: This isn't real gold! Oh, this is so like him. I bet he's laughing up at me from the Burning Hells. You know what...  just keep it.
+Hash: 61099BAB, Key: VoiceDir14.11E336, Value: Indignant, haughty. 
+Hash: 318A4C7C, Key: Line12.11E336, Value: Maybe take it to that weird merchant in the Boiling Plains. I've heard he collects all kinds of worthless stuff like this.
+Hash: 8885F1E9, Key: VoiceDir12.11E336, Value: Condescending when referring to the "weird merchant." Generally acting superior but feeling a bit defeated; he's just been thwarted but is trying to act above it all.
+Hash: E291A000, Key: Line16.11E336, Value: Maybe he'll give you something for it. I'll just... find my own way home. I need to be alone.
+Hash: 398D456D, Key: VoiceDir16.11E336, Value: Increasingly annoyed and feeling defeated as the line goes on. Disdainful.

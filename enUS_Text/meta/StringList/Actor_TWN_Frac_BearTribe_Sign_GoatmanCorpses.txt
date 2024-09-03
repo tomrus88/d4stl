@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Goatman Corpses
+Hash: F2CA04D8, Key: NoticeSignText, Value: The burned bodies of goatmen lay in a pile. The unpleasant stench of charred fur and blood clings to the frigid cave air.

@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: Growing Reminders
+Hash: 0871A46B, Key: Toast, Value: Kres seeks to right a wrong from his past.
+Hash: D53BFF05, Key: Phase0Description, Value: Kres wants to return an object he stole, but he is having trouble remembering who it belonged to. If we talk, maybe I can help him remember.
+Hash: 059C64AB, Key: Callback5Header, Value: Help Kres remember who "the woman" is
+Hash: 30DC76D6, Key: Phase10Description, Value: Kres wants to return an object he stole, but he is having trouble remembering who it belonged to. If we talk, maybe I can help him remember.
+Hash: 4F855768, Key: Callback99Header, Value: Help Kres remember who "the woman" is
+Hash: 259D49BB, Key: Phase15Description, Value: Kres remembered "the woman" he stole from was Timue. I should return the item to her.
+Hash: 6C93809B, Key: Callback14Header, Value: Deliver the Stolen Idol to Timue
+Hash: B87761DE, Key: Phase18Description, Value: Having returned the item, Timue offered to create a salve to help Kres. I need to collect the venom of marsh snakes.
+Hash: 538236DE, Key: Callback17Header, Value: Collect {ITEM} from Nangari Spitters: {DONE_OVER_NEEDED}
+Hash: B12EDDB8, Key: Phase21Description, Value: With Timue's salve, I should return to Kres. He will want to know about Timue's reaction.
+Hash: 24EC6278, Key: Callback20Header, Value: Give Kres Timue's salve
+Hash: 0BDB18BB, Key: Callback23Header, Value: Give Timue the Marsh Snake Venom
+Hash: 2642177F, Key: Phase37Description, Value: Kres asked that I apply Timue's salve to him, given that he can't do it himself.
+Hash: DF0BA3DF, Key: Callback36Header, Value: Apply the salve to Kres
+Hash: 9E7E03E4, Key: Callback59Header, Value: Acquire {ITEM}

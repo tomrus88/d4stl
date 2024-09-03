@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What do you do here?”
+Hash: 8F2289AC, Key: Line1.166A25, Value: Why, I’m merely a humble servant to the merchants of this town. Their safety at home, as well as on their journeys, is my sole concern.
+Hash: DF58B579, Key: VoiceDir1.166A25, Value: False humility.
+Hash: 67A6336E, Key: Line3.166A25, Value: (cough) So you can imagine why this situation must be rectified as soon as possible.
+Hash: B7DC5F3B, Key: VoiceDir3.166A25, Value: Evasive.

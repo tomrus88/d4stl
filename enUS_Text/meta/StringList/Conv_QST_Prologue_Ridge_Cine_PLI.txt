@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: If you’re going to trespass into my home, rifle through my things...
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: slight edge to his voice
+Hash: 410E018D, Key: Line4.6D03F, Value: ... then at least have the decency to join me for supper. I’m bloody hungry.
+Hash: B01767BA, Key: VoiceDir4.6D03F, Value: serious

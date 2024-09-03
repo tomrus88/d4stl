@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gateway: Vault of Copper
+Hash: 18959B3F, Key: UIName, Value: Vault Teleporter

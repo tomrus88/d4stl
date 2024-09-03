@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Jade Scorpion
+Hash: A646FFA4, Key: Description, Value: A swift sell-sword who moves in the dark taking out the assigned targets with poisoned tools. A favorite, but expensive, hire for competing merchants and treasure hunters eager to remove their competition.
+Hash: 083EE0CE, Key: Quote, Value: A deep green death.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

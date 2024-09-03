@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Alchemist's Fortune
+Hash: 003892BF, Key: desc, Value: Non-Physical damage you deal has a {c_number}[{SF_0}*100|%+|]{/c} increased Lucky Hit Chance.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Lucky Hit Chance Bonus {icon:arrow,1.2} {c_number}[{SF_0}*100|%+|]{/c}

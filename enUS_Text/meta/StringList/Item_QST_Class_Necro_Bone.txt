@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Unbroken Bone
+Hash: F5C7BC0A, Key: Flavor, Value: A bone from a fallen enemy, mostly intact. This looks worthy of crafting into the body of a Golem.

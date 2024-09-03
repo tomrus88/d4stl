@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Géaga of the Keeper
+Hash: 13A53A8B, Key: Series, Value: "The Oaken Keeper"

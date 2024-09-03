@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Terramote
+Hash: C6E60718, Key: Buff2_Description, Value: Consumed by Landslide to deal a guaranteed Critical Strike for [{SF_1}*100]% increased damage.

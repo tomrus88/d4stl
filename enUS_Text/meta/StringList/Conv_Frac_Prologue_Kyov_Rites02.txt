@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's this about?"
+Hash: F413C4CC, Key: Line3.6D03F, Value: (sigh) To enter Kyovashad, you must perform a cleansing ritual. A meaningless gesture, but some people take comfort in it.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Exasperated sigh prior to line. 
+Hash: 2AEC1D30, Key: Line7.A393C, Value: How dare you--
+Hash: 99F5835D, Key: VoiceDir7.A393C, Value: Incensed, offended
+Hash: C4E09672, Key: Line9.A391E, Value: Just let him through, lad. I've tried for years to get Lorath to do the ritual.
+Hash: 33E9FC9F, Key: VoiceDir9.A391E, Value: Calm. She has seen Lorath and this situation before.
+Hash: 721994BB, Key: Line11.A393C, Value: Fine. But this one stays.
+Hash: C24FC088, Key: VoiceDir11.A393C, Value: Referring to the Player
+Hash: 091EA8DD, Key: Line13.6D03F, Value: I’ll meet you inside.
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: To the player

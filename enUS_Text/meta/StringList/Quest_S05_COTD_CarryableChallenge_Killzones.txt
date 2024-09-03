@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: [ph] Disturbing the Hatespires
+Hash: 9E7E03E4, Key: Callback59Header, Value: [ph] Feed the Altar a Hateshard
+Hash: B8A227EA, Key: Callback4Header, Value: [ph] Slay demons near the Tortured Channelers to destroy them: {DONE_OVER_NEEDED}
+Hash: 538236DE, Key: Callback17Header, Value: [ph] Destroy them quickly to summon a Hell Lord
+Hash: 38AA8D97, Key: Callback10Header, Value: [ph]Defeat the Hell Boss

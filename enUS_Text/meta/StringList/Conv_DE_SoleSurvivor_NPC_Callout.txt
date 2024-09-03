@@ -1,0 +1,8 @@
+Hash: 0C864D21, Key: Line61.7DD23, Value: I can't take any more!
+Hash: 5CBC78EE, Key: VoiceDir61.7DD23, Value: Under attack. Overwhelmed. Desperate. 
+Hash: F3750364, Key: Line64.7DD23, Value: Is there no end?!
+Hash: 43AB2F31, Key: VoiceDir64.7DD23, Value: Under attack. Overwhelmed. Desperate. 
+Hash: CBF8AD25, Key: Line84.7DD22, Value: I can't take any more!
+Hash: 1C2ED8F2, Key: VoiceDir84.7DD22, Value: Under attack. Overwhelmed. Desperate. 
+Hash: 65ED26A7, Key: Line86.7DD22, Value: Is there no end?!
+Hash: B6235274, Key: VoiceDir86.7DD22, Value: Under attack. Overwhelmed. Desperate. 

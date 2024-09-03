@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Drop of Blood
+Hash: 3A4912CF, Key: DescShort, Value: Activate a Vampiric Power, available after completing or skipping the Campaign

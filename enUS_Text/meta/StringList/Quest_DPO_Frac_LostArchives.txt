@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hate makes death irrelevant.
+Hash: 1EADAE68, Key: Callback2Header, Value: Return the Mechanical Box to the Pedestal: {LEFT}
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat the {MONSTER}
+Hash: 58D5557C, Key: Callback24Header, Value: Activate the {GIZMO}
+Hash: 4A6A48FB, Key: Callback41Header, Value: Slay the Demonic Vanguard: {LEFT}
+Hash: 83A65A9D, Key: Callback52Header, Value: Travel to {LEVELAREA}

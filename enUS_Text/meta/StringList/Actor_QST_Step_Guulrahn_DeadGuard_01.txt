@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sun-Ravaged Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: The body has been ravaged by being weeks in the hot sun. One of the many guards strewn across the marketplace, they must have fought so hard for their lives. These poor souls never stood a chance.

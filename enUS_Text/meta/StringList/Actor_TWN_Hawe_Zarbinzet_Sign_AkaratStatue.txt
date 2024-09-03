@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Statue of Akarat
+Hash: F2CA04D8, Key: NoticeSignText, Value: A statue of Akarat tarnished by time and nature. Surprisingly, the tome he holds is still legible. 
+"Embrace the Light with all that you are and you will overcome any evil that stands before you." 

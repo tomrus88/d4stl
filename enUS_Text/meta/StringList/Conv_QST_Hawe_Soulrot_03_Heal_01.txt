@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What comes next?"
+Hash: 8EB69A80, Key: Line1.107ED8, Value: (cough) Well, that...is unfortunate.
+Hash: DEECC64D, Key: VoiceDir1.107ED8, Value: (ragged breathing) 
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: Why can't you keep it down?
+Hash: 3FBDEE04, Key: Line5.107ED8, Value: In all likelihood, the vermin are stronger than the fungus.
+Hash: 8FF419D1, Key: VoiceDir5.107ED8, Value: (ragged breathing)
+Hash: 184197C6, Key: Line7.107ED8, Value: (cough) Dammit. You'll have to seek out Zurke. He's the only one who might have an answer.
+Hash: 451E00B1, Key: Line11.107ED8, Value: He'll need an offering. Take the werewolf head nailed to the village gate. He makes his home in... Corpsewail Deluge.
+Hash: 1DA1AA73, Key: Line13.107ED8, Value: Make the offering. Light the torches. Get me a cure.
+Hash: 749D4FE0, Key: VoiceDir13.107ED8, Value: (gritting teeth) 

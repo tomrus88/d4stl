@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You're a criminal?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Scoundrel, wanderer. Handsome rogue of Kingsport. But that’s all in the past. Someone had to step up to keep these wretches in line.

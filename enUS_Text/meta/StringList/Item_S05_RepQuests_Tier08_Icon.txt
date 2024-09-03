@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Ritual of Anathema
+Hash: A646FFA4, Key: Description, Value: Reward:  Continue Yiru's story. And make Helltide more lucrative
+Hash: F5C7BC0A, Key: Flavor, Value: Yiru has prepared the Ritual of Anathema.

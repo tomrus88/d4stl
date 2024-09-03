@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Allowance Cache
+Hash: A646FFA4, Key: Description, Value: Contains a Legendary item. Available from level 20-50.

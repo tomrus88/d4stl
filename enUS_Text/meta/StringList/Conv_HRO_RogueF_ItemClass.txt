@@ -1,0 +1,4 @@
+Hash: BD426355, Key: Line9.BAE4.Rog.F, Value: I can't equip this.
+Hash: 5113ADA2, Key: VoiceDir9.BAE4.Rog.F, Value: Spoken to oneself.  Matter of fact.
+Hash: CFD5319D, Key: Line10.BAE4.Rog.F, Value: This isn't meant for me.
+Hash: DDCFC58A, Key: VoiceDir10.BAE4.Rog.F, Value: Spoken to oneself.  Matter of fact.

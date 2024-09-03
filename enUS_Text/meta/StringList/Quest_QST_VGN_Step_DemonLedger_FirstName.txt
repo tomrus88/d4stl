@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Scorched Debts
+Hash: 1EADAE68, Key: Callback2Header, Value: Find the First Name in the ledger
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat Andreea and her group of bandits.
+Hash: D29F0719, Key: Callback12Header, Value: Question Andreea about the scorched ledger

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How do I get there?"
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: Normally you could travel by portal, quick as light, but that is not an option. Entering on foot will be tricky–I've marked where you should begin your search for an entrance.

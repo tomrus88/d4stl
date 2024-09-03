@@ -1,0 +1,18 @@
+Hash: 4C8A97D2, Key: DungeonTitle, Value: Malignant Tunnel
+Hash: 985813D3, Key: FauxDungeonAffixName, Value: Malignant Enemies
+Hash: 9852A9D1, Key: FauxDungeonAffixDesc, Value: All Elite enemies can convey {c_important}Hearts{/c} within this tunnel; an {c_important}outgrowth{/c} found within can summon a powerful Malignant enemy with the use of a {c_important}matching Invoker{/c}.
+Hash: EA23DD2A, Key: SeasonName, Value: The Season of the Malignant
+Hash: 5DD12FED, Key: SeasonDescription, Value: A new form of Lilith's corruption spreads across Sanctuary, and you must stop it! This unlocks {c_highlight}after Campaign completion{/c}.
+Hash: 1CBFC5D3, Key: SeasonBeginText, Value: Begins {s1}
+Hash: BD77CD05, Key: SeasonEndText, Value: Ends {s1}
+Hash: 21D081BA, Key: SeasonInfoText, Value: A malignancy borne of Lilith's corruption spreads across Sanctuary. You must defeat this scourge, no matter the cost!
+
+{c_highlight}{icon:bullet, 1}All new Questline & Boss:{/c} Discover the source of the Malignant.
+
+{c_highlight}{icon:bullet, 1}32 new Malignant Powers:{/c} Cage the Malignant to enhance your Character's power.
+
+{c_highlight}{icon:bullet, 1}All new Season Journey:{/c} Conquer 7 Chapters of challenges.
+
+{c_highlight}{icon:bullet, 1}7 new Legendary Aspects & 6 new Unique Items:{/c} Explore new ways to build and play each Class.
+
+{c_highlight}{icon:bullet, 1}All new Cosmetics:{/c} Acquire seasonally themed looks in the Battle Pass and other new looks in the Shop.

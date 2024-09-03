@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mysterious Voice
+Hash: 8F3B878D, Key: Line1.16E226, Value: It’s good to be alone. You have much to see...
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Tempting, but sinister.

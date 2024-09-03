@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Slowing Projectiles
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monster attacks from a distance have a 50% chance to slow targets.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monster attacks from a distance have a 40% chance to slow targets.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monster attacks from a distance have a 30% chance to slow targets.

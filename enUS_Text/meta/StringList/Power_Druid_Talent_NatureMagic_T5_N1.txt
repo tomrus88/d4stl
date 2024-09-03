@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: name, Value: Earthen Might
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Damaging enemies with {c_important}Earth{/c} Skills has up to a {c_number}{SF_0}%{/c} chance to:
+{icon:bullet,1.2} Restore all of your Spirit
+{icon:bullet,1.2} Cause your attacks to be guaranteed Critical Strikes for {c_number}{buffduration:CRIT_CHANCE_BONUS}{/c} seconds
+
+This chance is increased by:
+{icon:bullet,1.2} {c_number}{SF_3}%{/c} for Critical Strikes
+{icon:bullet,1.2} {c_number}{SF_4}%{/c} if the target is Stunned, Immobilized, or Knocked Back
+Hash: 101C1614, Key: Buff1_Name, Value: Earthen Might
+Hash: 7786FD97, Key: Buff1_Description, Value: Attacks are guaranteed Critcal Strikes

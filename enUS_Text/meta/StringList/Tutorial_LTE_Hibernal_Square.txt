@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Midwinter Square
+Hash: 7BFE534B, Key: simple_instruction, Value: The {icon:hibernal_event_icon, 2.5}{c_highlight}Midwinter Square{/c} is the anchor of Midwinter Blight event progression, {icon:Quest_LiveEvent_Available, 2.5}event quests, and rewards.

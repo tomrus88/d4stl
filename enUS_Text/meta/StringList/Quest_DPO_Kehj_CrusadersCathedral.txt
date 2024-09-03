@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Dead flesh given form again.
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay the Blasphemists: {LEFT} 
+Hash: 1F9943DA, Key: Callback13Header, Value: Defeat the {MONSTER}
+Hash: 0687FA1D, Key: Callback16Header, Value: Travel to the {LEVELAREA}
+Hash: 8CBE4880, Key: Callback28Header, Value: Use the Pristine Key to open the {GIZMO}
+Hash: DF0BA3DF, Key: Callback36Header, Value: Collect the Pristine Key from the {GIZMO}
+Hash: 79001D61, Key: Callback38Header, Value: Travel to the {LEVELAREA}

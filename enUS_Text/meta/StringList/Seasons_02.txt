@@ -1,0 +1,24 @@
+Hash: 9AF2B4DE, Key: Season2UpgradeToAcceleratedNotificationDescription, Value: {c_highlight}Receive 20 Tier Skips + “Vampire's Repose" Emote
+Hash: 42BCB607, Key: Season2UpgradeToAcceleratedNotificationDescription20Tiers, Value: {c_highlight}Complete the Battle Pass with 20 tier skips + "Vampire's Repose" Emote
+Hash: C2D60C19, Key: Season2_FreeOptionDescription, Value: Access to 28 FREE rewards Including:
+Hash: 9A8F6D5D, Key: Season2_FreeOption_Bullet01, Value: 20 Smoldering Ashes
+Hash: 9A8F6D5E, Key: Season2_FreeOption_Bullet02, Value: 5 Weapon Cosmetics
+Hash: 9A8F6D5F, Key: Season2_FreeOption_Bullet03, Value: 1 Set of Roleplay Clothing per class
+Hash: 108492FA, Key: Season2_PremiumOption_Bullet01, Value: 2 Sets of Armor Cosmetics per class (10 total)
+Hash: 108492FB, Key: Season2_PremiumOption_Bullet02, Value: 19 Weapon Cosmetics
+Hash: 108492FC, Key: Season2_PremiumOption_Bullet03, Value: 2 Emotes per class (10 total)
+Hash: 108492FD, Key: Season2_PremiumOption_Bullet04, Value: 2 Headstones, Town Portals, and Titles
+Hash: 108492FE, Key: Season2_PremiumOption_Bullet05, Value: 2 Mounts and Mount Armors
+Hash: 108492FF, Key: Season2_PremiumOption_Bullet06, Value: 5 Mount Trophies
+Hash: 10849300, Key: Season2_PremiumOption_Bullet07, Value: 700 Platinum
+Hash: 3CE08348, Key: Season2_AcceleratedOption_Bullet01, Value: {c_highlight}20 Tier Skips{/c}
+Hash: 3CE08349, Key: Season2_AcceleratedOption_Bullet02, Value: {c_highlight}"Vampire's Repose" Emote for each class {/c}
+Hash: 9A8F6D60, Key: Season2_FreeOption_Bullet04, Value: 1 Town Portal, Mount Trophy, and Title
+Hash: 9A8F6D61, Key: Season2_FreeOption_Bullet05, Value: [ph]1 Title
+Hash: 9A8F6D62, Key: Season2_FreeOption_Bullet06, Value: [ph]1 Town Portal
+Hash: 9A8F6D63, Key: Season2_FreeOption_Bullet07, Value: 
+Hash: 9A8F6D64, Key: Season2_FreeOption_Bullet08, Value: 
+Hash: 10849301, Key: Season2_PremiumOption_Bullet08, Value: [ph] 2 Titles
+Hash: 10849302, Key: Season2_PremiumOption_Bullet09, Value: [ph] 2 Headstones
+Hash: 1084931A, Key: Season2_PremiumOption_Bullet10, Value: [ph] 700 Platinum
+Hash: 3CE0834A, Key: Season2_AcceleratedOption_Bullet03, Value: 

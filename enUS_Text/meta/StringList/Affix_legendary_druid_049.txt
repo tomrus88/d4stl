@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Trampled Earth
+Hash: 003892BF, Key: Desc, Value: {c_important}Trample{/c} now summons {c_number}[Affix."Static Value 0"]{/c} {c_important}Landslide{/c} pillars of earth during its duration that deal {c_random}[Affix_Value_1|%|]{/c} normal damage. {c_important}Trample{/c} is now also a {c_important}Nature Magic{/c} and {c_important}Earth{/c} Skill.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Trample{/c} summons {c_important}Landslide{/c} pillars that deal {c_random}[Affix_Value_1|%|]{/c} normal damage. {c_important}Trample{/c} is also a {c_important}Nature Magic{/c} and {c_important}Earth{/c} Skill.

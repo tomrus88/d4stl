@@ -1,0 +1,531 @@
+Hash: 0040F6E8, Key: Sort, Value: Sort
+Hash: BAC5FDAC, Key: BulletWithLine, Value: {icon:Tooltip_Bullet_WithLine, 1.5}
+Hash: 639C8728, Key: BulletUpgradeLevel, Value: {icon:Crafting_UpgradePip_Unlocked, 1.5} Upgrades: {s1}/{s2}
+Hash: 77347F0E, Key: Prompt_Tutorial_Interact, Value: {icon:button4, 2}  Interact
+Hash: 644431AA, Key: Prompt_Tutorial_Close, Value: {icon:button2, 2}  Close
+Hash: 1B1383BB, Key: Notification_RewardTitleBody, Value: Set your title from your Profile screen
+Hash: C09B2133, Key: Notification_RewardAspectGained, Value: Aspect Gained
+Hash: E0F61FAE, Key: ValuePercent, Value: {PCT}%
+Hash: 00000EBA, Key: OK, Value: Accept
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 003766F1, Key: Back, Value: Back
+Hash: 00396EBA, Key: Exit, Value: Exit
+Hash: E28825AE, Key: ConversationMore, Value: More
+Hash: 95652A3C, Key: DeathMenuCountdown, Value: Waiting To Revive {s1}
+Hash: EB9FEDA3, Key: DeathMenuCheckpoint, Value: Revive at Checkpoint
+Hash: AB28A963, Key: VideoOptions, Value: Video Options
+Hash: 6EBA4755, Key: SoundOptions, Value: Sound Options
+Hash: 8A078B1C, Key: GameplayOptions, Value: Gameplay Options
+Hash: D2CC9B7D, Key: KeyboardOptions, Value: Keyboard Options
+Hash: DB1C965D, Key: ReturnToGame, Value: Return to Game
+Hash: 91A07424, Key: MasterVolume, Value: Master Volume
+Hash: 564575B8, Key: EffectsVolume, Value: Effects Volume
+Hash: BC50A659, Key: MusicVolume, Value: Music Volume
+Hash: D7E0B10E, Key: VoiceVolume, Value: Voice Volume
+Hash: 9F2314D5, Key: SoundChannels, Value: Sound Channels
+Hash: 16906E58, Key: AmbientVolume, Value: Ambient Volume
+Hash: E1ED7849, Key: 3DSoundQuality, Value: 3D Sound Quality
+Hash: 077EEAC3, Key: Gamma, Value: Gamma
+Hash: C700696E, Key: Contrast, Value: Contrast
+Hash: 37BD6703, Key: ClutterDensity, Value: Clutter Density
+Hash: 6F0A9F0E, Key: ClutterDistance, Value: Clutter Distance
+Hash: BFCA5BFA, Key: MainMenu, Value: Main Menu
+Hash: E9BED29A, Key: OtherMultiplayer, Value: Other Multiplayer Options
+Hash: 891DFA0F, Key: LocalNetworkGame, Value: Local Network Game
+Hash: 146A7623, Key: BattleNet, Value: Battle.net
+Hash: DB6A5618, Key: BattleNetDisconnectedTitle, Value: Battle.net notice
+Hash: A1CCDADB, Key: BattleNetDisconnectedText, Value: You have been disconnected from the Battle.net service.
+Hash: 9368F5BD, Key: BattleNetGame, Value: Battle.net Game
+Hash: F8B2A81E, Key: BattleNetLoginTitle, Value: Log in to Battle.net
+Hash: BB201BDC, Key: BattleNetLoginUsername, Value: Battle.net Account (e-mail)
+Hash: D4FE2ACF, Key: BattleNetLoginPassword, Value: Password
+Hash: 00E9BC9C, Key: BattleNetLogin, Value: Login
+Hash: ACFEFEE4, Key: BattleNetPasswordConfirm, Value: Password confirmation:
+Hash: 7273FB51, Key: BattleNetOptionsTitle, Value: Battle.net Options
+Hash: E0111E24, Key: BattleNetCreateAccount, Value: Create Account
+Hash: 0957F257, Key: BattleNetCreate, Value: Create
+Hash: D481E7C5, Key: BattleNetCheckingVersion, Value: Checking Version
+Hash: 5F953754, Key: BattleNetPatchRequired, Value: Patch Required
+Hash: 0B815413, Key: BattleNetPatchRequiredDesc, Value: A patch must be downloaded before you can connect to Battle.net.
+Hash: 1CEE772C, Key: BattleNetVersioningFailed, Value: Versioning Failed
+Hash: EDC8A741, Key: BattleNetLoginFailed, Value: Login Failed
+Hash: B4D75B4B, Key: BattleNetConnecting, Value: Connecting...
+Hash: E8D1B66E, Key: BattleNetCreateAccountError, Value: Create Account Error
+Hash: 45A5C86E, Key: BattleNetNoAccountName, Value: A Battle.net account name was not entered.
+Hash: 63B24C86, Key: BattleNetNameTooShort, Value: Battle.net account name is not long enough.
+Hash: ADAC58C6, Key: BattleNetNameTooLong, Value: Battle.net account name is too long.
+Hash: F2E5ABB3, Key: BattleNetNoPassword, Value: A Battle.net password was not entered.
+Hash: 007DCD78, Key: BattleNetPasswordTooShort, Value: Battle.net password does not contain enough characters.
+Hash: C9B28378, Key: BattleNetPasswordTooLong, Value: Battle.net password contains too many characters.
+Hash: 9A2414C0, Key: BattleNetPasswordsDifferent, Value: Password and confirmation are different.
+Hash: 1D1D115D, Key: BattleNetCreatingAccount, Value: Creating account...
+Hash: 75D8F348, Key: BattleNetAccountCreated, Value: Account Created
+Hash: D469EA07, Key: BattleNetAccountCreatedDesc, Value: You can now log in with your new Battle.net account!
+Hash: F7A81FE6, Key: BattleNetLoginError, Value: Login Error
+Hash: 9DA7F4A1, Key: BattleNetLoggingIn, Value: Logging account in to Battle.net
+Hash: 611281CA, Key: BattleNetCreatingGame, Value: Creating Battle.net game
+Hash: 02432CFE, Key: BattleNetContactingGameServer, Value: Contacting game server
+Hash: E8814D08, Key: BattleNetContactingMatchmakingServer, Value: Contacting matchmaking server
+Hash: FC06B602, Key: BattleNetJoinGameErrorNoHero, Value: Could not find hero '{HERO}' for account '{ACCOUNT}'.
+Hash: 61131FDE, Key: BattleNetCreatingHero, Value: Creating Battle.net character...
+Hash: 3A878E51, Key: BattleNetCreateHeroErrorTitle, Value: Failed to create character.
+Hash: CD3E9DCA, Key: BattleNetCreateHeroErrorDuplicate, Value: That character name is already in use.
+Hash: B7ABE9F6, Key: BattleNetCreateHeroErrorInvalid, Value: That character name is invalid.
+Hash: 1890CD0A, Key: BattleNetErrorStartingService, Value: Could not start the Battle.net service
+Hash: D60DE52E, Key: Credits, Value: Credits
+Hash: 3F82E740, Key: Cinematics, Value: Cinematics
+Hash: F4501251, Key: ExitD3, Value: Quit
+Hash: A9D39FF8, Key: CreateNewGame, Value: Create New Game
+Hash: 003C0650, Key: Join, Value: Join
+Hash: 086249AE, Key: Start, Value: Start
+Hash: 073C5EB6, Key: Class, Value: Class
+Hash: 07DBBC18, Key: Level, Value: Level
+Hash: FF98BD08, Key: Experience, Value: Experience
+Hash: 6F302AB7, Key: NextLevel, Value: Next Level
+Hash: 003A6186, Key: Gold, Value: Gold
+Hash: F05C975F, Key: Damage, Value: Damage
+Hash: 8D3E98FD, Key: AttackRating, Value: Attack
+Hash: 12B1D1AC, Key: DamageReduction, Value: Damage Reduction
+Hash: 02795851, Key: CharacterResistances, Value: Resistances
+Hash: 003D707D, Key: Mana, Value: Mana
+Hash: 003E3870, Key: None, Value: None
+Hash: 1AA26EEE, Key: Vendor, Value: Merchant
+Hash: CFC78391, Key: TooltipRatingLabelArmor, Value: Armor
+Hash: 0EC40D57, Key: TooltipRatingLabelDPS, Value: Damage Per Second
+Hash: 53B9F292, Key: CurrentlyEquippedPlayer, Value: Currently Equipped
+Hash: 148DB6ED, Key: LoadCharacter, Value: Load Character
+Hash: 39C58794, Key: ScreenResolution, Value: Screen Resolution:
+Hash: EC202744, Key: ScreenTextures, Value: Textures Quality:
+Hash: 98BA3B59, Key: ScreenShadows, Value: Shadow Quality:
+Hash: 74812333, Key: VideoOptionPhysics, Value: Physics Quality:
+Hash: 7E8ABA3E, Key: ScreenReflections, Value: Reflection Quality:
+Hash: 64831D3B, Key: ScreenFSAA, Value: FSAA:
+Hash: F8CC0D43, Key: VideoOptionVSync, Value: Vertical Sync
+Hash: 83D11049, Key: VideoOptionLetterbox, Value: Letterbox
+Hash: 170527AB, Key: VideoOptionFSAA, Value: Antialiasing
+Hash: BD2A2AB4, Key: OptionOff, Value: Off
+Hash: BD2A1F2B, Key: OptionLow, Value: Low
+Hash: B798E9DA, Key: OptionMedium, Value: Medium
+Hash: 626BB7D9, Key: OptionHigh, Value: High
+Hash: 335D1225, Key: OptionHighest, Value: Highest
+Hash: BAABF616, Key: OptionNotSet, Value: {c_red}--{/c}
+Hash: 5A05F40C, Key: DisconnectTitle, Value: Network Disconnect
+Hash: E3B28A4F, Key: DisconnectText, Value: The game connection has been lost: your client has been disconnected from the server.
+Hash: 313AD0FF, Key: DiedTitleArena, Value: You have died
+Waiting to resurrect
+Hash: B808F5B8, Key: DiedTitle, Value: You have died!
+Hash: 2FDB97ED, Key: SelectCharacter, Value: Select a character to play
+Hash: FBC631F9, Key: NewCharacterTitle, Value: Name Your Character
+Hash: 7433FEBD, Key: NewCharacterEdit, Value: Default
+Hash: 003F42D6, Key: Play, Value: Play
+Hash: C9BDF197, Key: NewCharacter, Value: Create New Character
+Hash: 3D35B200, Key: DeleteCharacter, Value: Delete
+Hash: 11D5C91C, Key: PlayGameOptions, Value: Options
+Hash: E63891DE, Key: StartingQuest, Value: Quest:
+Hash: 7B5820A8, Key: StartingStep, Value: Step:
+Hash: 074AA507, Key: Debug, Value: Debug:
+Hash: 6E3945C6, Key: MultiplayerGameDetailsStart, Value: Players: 
+Hash: 1A9767C7, Key: MultiplayerGameDetailsItem, Value: {PLAYER} (L{LEVEL} {CLASS})
+Hash: A915A358, Key: GameplayTab1, Value: General
+Hash: A915A359, Key: GameplayTab2, Value: ToolTips
+Hash: A915A35A, Key: GameplayTab3, Value: Other
+Hash: B83C7C39, Key: GameplayOptionFloatingNumbers, Value: Display Damage Numbers
+Hash: 8665F8C7, Key: GameplayOptionCriticals, Value: Display Critical Damage Numbers
+Hash: 63141B1A, Key: GameplayOptionDefensiveMessages, Value: Display Defensive Messages
+Hash: C61485B2, Key: GameplayOptionShowMonsterHPBars, Value: Display Injured Monster Health Bars
+Hash: ACA6A815, Key: GameplayOptionShowEnemyPlayerHPBars, Value: Display Injured Enemy Player Health Bars
+Hash: 73A4BAE9, Key: GameplayOptionShowItemTooltipsOnDrop, Value: Show Item Labels On Drop
+Hash: 57008BC4, Key: GameplayOptionFriendlyHealthBars, Value: Display Health Bars for Friendly Players
+Hash: 5D943346, Key: GameplayOptionLockSkillbar, Value: Lock Skills
+Hash: 06694200, Key: SoundOptionEAX, Value: Use EAX
+Hash: 418843C1, Key: SoundOptionSubtitles, Value: Subtitles
+Hash: 4021ECFC, Key: SoundOptionReverseSpeakers, Value: Reverse left/right speakers
+Hash: 5FF369C8, Key: BindingCharacter, Value: Character Menu:
+Hash: D7917629, Key: BindingInventory, Value: Inventory Menu:
+Hash: B038B28D, Key: BindingSkills, Value: Skills Menu:
+Hash: AC4143A0, Key: BindingQuests, Value: Quests Menu:
+Hash: F4E690CD, Key: BindingHireling, Value: Follower Menu:
+Hash: D93931A0, Key: BindingWeaponSwap, Value: Swap Weaponset:
+Hash: 65D321C9, Key: BindingAutoRun, Value: Auto-Run Toggle:
+Hash: 90875F81, Key: BindingToggleRunWalk, Value: Run-Walk Toggle:
+Hash: E5201E26, Key: BindingMiniMap, Value: Map Toggle:
+Hash: 133075C2, Key: BindingMessageLog, Value: Message Log:
+Hash: A66B4F65, Key: BindingSimpleChat, Value: Chat Line:
+Hash: F15E380E, Key: BindingConsole, Value: Console Window:
+Hash: D720157C, Key: BindingCloseWindows, Value: Close All:
+Hash: B038B24B, Key: BindingSkill1, Value: Skill 1:
+Hash: B038B24C, Key: BindingSkill2, Value: Skill 2:
+Hash: B038B24D, Key: BindingSkill3, Value: Skill 3:
+Hash: B038B24E, Key: BindingSkill4, Value: Skill 4:
+Hash: B038B24F, Key: BindingSkill5, Value: Skill 5:
+Hash: BBC4F2C3, Key: SelectCharacterClass, Value: Select Class
+Hash: 5FF5F498, Key: InvalidHeroNameTitle, Value: Invalid Character Name
+Hash: C07D7BC5, Key: CNS_TooShort, Value: Your character name must be at least several letters long.
+Hash: 3C1F1C25, Key: CNS_TooLong, Value: Your character name is too long. Please create a shorter name.
+Hash: 4E4DE0AA, Key: CNS_InvalidCharacters, Value: For your character name, please type a name between 1 and 32 characters, and avoid special characters like '.', '!', or other punctuation.
+Hash: A2EB5371, Key: CNS_HeroExists, Value: That character name already exists. Please create a new name, or delete the existing character before trying to use the name again.
+Hash: F5C65627, Key: CNS_SpaceInName, Value: Your character name must not include any spaces.
+Hash: 9F2921DD, Key: CNS_UnknownError, Value: Your character name is is invalid, but we don't know why.
+Hash: E53CA278, Key: QuitDisconnectedTitle, Value: {c_red}Waiting For Server{/c}
+Hash: 9A571B3B, Key: QuitDisconnectedText, Value: Saving character before exiting. To quit immediately without saving, press the Quit Without Saving button below.
+Hash: 6B3A1F87, Key: ShopPageUnknown, Value: ERROR!
+Hash: 1A66C56E, Key: Waypoints, Value: Waypoints
+Hash: 5C93E07C, Key: LastCheckpoint, Value: Last Checkpoint
+Hash: FE160E0A, Key: ActiveWaypoints, Value: Active Waypoints
+Hash: 7E291C47, Key: ToCompanion, Value: To Companion
+Hash: 13A1DF00, Key: Select, Value: Select
+Hash: C7DDDF95, Key: QuestUpdate, Value: Quest Update: 
+Hash: 8D8C9A07, Key: ActiveSkillRank, Value: Rank: {LEVEL}
+Hash: 08734790, Key: Trade, Value: Trade
+Hash: 47031E9F, Key: TradeGoldMine, Value: Gold (Mine)
+Hash: 27911298, Key: TradeGoldOther, Value: Gold (Other)
+Hash: 8987DF5A, Key: TradeNameMine, Value: Name (Mine)
+Hash: BAADEAB3, Key: TradeNameOther, Value: Name (Other)
+Hash: 4D59C987, Key: MessageLog, Value: MessageLog
+Hash: 87DF7218, Key: GoldEnterAmount, Value: Enter Gold Amount
+Hash: 72347E1B, Key: GoldDrop, Value: Drop Gold
+Hash: B9E58CD6, Key: GoldTrade, Value: Trade Gold
+Hash: C399D299, Key: QuestUpdated, Value: Quest Log
+Hash: 7991B4EE, Key: Objectives, Value: Objectives:
+Hash: A3DAF196, Key: QuestLogTitle, Value: Quest Log
+Hash: C37EFE07, Key: QuestsTitle, Value: Quests
+Hash: 06A01DC1, Key: QuestsActive, Value: Active Quests
+Hash: 03C927A2, Key: QuestsCompleted, Value: Completed Quests
+Hash: 9FABAB45, Key: QuestsMapTitle, Value: Map
+Hash: 23C01540, Key: QuestsSelectedQuest, Value: No Selected Quest
+Hash: 9BA05413, Key: QuestsObjectives, Value: Objectives
+Hash: CBD66883, Key: QuestsCurrentObjective, Value: Current Objective
+Hash: 085123AF, Key: QuestsMainQuests, Value: Main Quests
+Hash: 725EC74F, Key: QuestsSideQuests, Value: Side Quests
+Hash: 3229BC48, Key: GameTypeOptions, Value: Game Type:
+Hash: 08B074E9, Key: Normal, Value: Normal
+Hash: A1B1D799, Key: EnhanceButtonTooltip, Value: Enhance an item
+Hash: 1278B2A9, Key: Quality, Value: Quality
+Hash: 3D7BFAE8, Key: QualityFilterAll, Value: All
+Hash: 8D396B70, Key: QualityFilterMagic, Value: Magic
+Hash: ED047CB9, Key: QualityFilterRare, Value: Rare
+Hash: D76D4B1E, Key: Help_Buffs, Value: Boosts
+Hash: 244CD1C4, Key: Help_Go_Boost, Value: Boost!
+Hash: 3923189E, Key: Help_Go, Value: Go!
+Hash: 31C8AE04, Key: Help_Go_Skillkit, Value: Change!
+Hash: DC5FA67D, Key: Help_Button_God, Value: Toggle God
+Hash: E940B041, Key: Help_Button_EasyKill, Value: Toggle EasyKill
+Hash: 1C635CFC, Key: Help_Utility, Value: Utility
+Hash: DC5FA26C, Key: Help_Button_FPS, Value: Toggle FPS
+Hash: 5D8653FE, Key: Help_PVP, Value: PvP
+Hash: C85E0F43, Key: DeleteConfirmTitle, Value: Do you want to delete
+{CHARACTER}?
+Hash: 33E45B06, Key: DeleteConfirmMessage, Value: Type "DELETE" into the field to confirm.
+Hash: E970F058, Key: DeleteToType, Value: DELETE
+Hash: 0F14DDDF, Key: HeroListFullTitle, Value: Character List Full
+Hash: 038940A2, Key: HeroListFullMessage, Value: You must delete a character before you can create a new character.
+Hash: 2C5D951A, Key: Number1, Value: 1
+Hash: 2C5D951B, Key: Number2, Value: 2
+Hash: 2C5D951C, Key: Number3, Value: 3
+Hash: 2C5D951D, Key: Number4, Value: 4
+Hash: 2C5D951E, Key: Number5, Value: 5
+Hash: 2C5D951F, Key: Number6, Value: 6
+Hash: 43F7D4B0, Key: LeftMouseButton, Value: LMB
+Hash: DF0AEFE3, Key: RightMouseButton, Value: RMB
+Hash: 0001FA57, Key: Tab, Value: Tab
+Hash: 003F5CDD, Key: Prev, Value: Prev
+Hash: 003E0F3F, Key: Next, Value: Next
+Hash: 003D6FE5, Key: Main, Value: Main
+Hash: 57C47126, Key: SkillButtonLeft, Value: L
+Hash: 50C15D99, Key: SkillButtonRight, Value: R
+Hash: 00021031, Key: Yes, Value: Yes
+Hash: 00000E9D, Key: No, Value: No
+Hash: 0039EF86, Key: Fury, Value: Fury
+Hash: 14677F7B, Key: Spirit, Value: Spirit
+Hash: 957A0240, Key: LoreAcquired, Value: New Lore
+Hash: 6DBB319D, Key: LevelUp, Value: Level {s1}
+Hash: D5CC7733, Key: AvailableSkills, Value: Available Potions
+Hash: 60B01FE6, Key: NewGameBarbarian, Value: Barbarian
+Hash: A4DC1163, Key: NewGameWitch, Value: Witch
+Hash: 793C5174, Key: XPPickup, Value: +{s1} XP
+Hash: 0040E4B7, Key: Skip, Value: Skip
+Hash: 3F588C8D, Key: CharacterLife, Value: {c:ffffff80}Life:{/c} {VAL}
+Hash: 8FA234F5, Key: CharacterResource, Value: {c:ffffff80}{RESOURCE}:{/c} {VAL}
+Hash: 0038906E, Key: Dead, Value: Dead
+Hash: C06FC730, Key: BindConfirmMessage, Value: Equipping this will cause the item to become bound to you permanently!
+Hash: 37EC68ED, Key: BindConfirmTitle, Value: Warning!
+Hash: 3A9B5F58, Key: InspectTitle, Value: {s1}'s Inventory
+Hash: 1AE6308F, Key: ViewAs, Value: Appearance:
+Hash: 071BAA81, Key: Armor, Value: Armor
+Hash: 4990B05D, Key: WindowMode, Value: Window Mode:
+Hash: BAA9B44C, Key: OptionFullscreen, Value: Fullscreen
+Hash: CF3A47F1, Key: OptionWindow, Value: Windowed
+Hash: 3FAAB6E4, Key: OptionFullscreenWindow, Value: Windowed (Fullscreen)
+Hash: B9B190B5, Key: QuestHUDTitle, Value: Objectives
+Hash: 7A7E3B3C, Key: CurrentLocation, Value: Current Location
+Hash: B30817F2, Key: BindingTraits, Value: Traits Menu:
+Hash: A7C1FC2D, Key: BindingLore, Value: Journal Menu:
+Hash: 71D2FBC8, Key: KeyBindInstruction, Value: Press a key to bind: 
+{c_highlight}{s1}{/c}
+Hash: F74443DC, Key: KeyBindWarning, Value: {s1} Function is Now Unbound!
+Hash: 6F9A280A, Key: ActionUIInventory, Value: Toggle Inventory Menu
+Hash: 5788616A, Key: ActionUIHero, Value: Toggle Character Menu
+Hash: F1C00A8E, Key: ActionUIHireling, Value: Toggle Follower Menu
+Hash: 7536C80E, Key: ActionUISkills, Value: Toggle Skills Menu
+Hash: 713F5921, Key: ActionUIQuests, Value: Toggle Quests Menu
+Hash: 3132C25A, Key: ActionUIMap, Value: Toggle Map
+Hash: A0803BA4, Key: BindingSound, Value: Toggle Sound:
+Hash: A016E9BC, Key: BindingMusic, Value: Toggle Music:
+Hash: A180B238, Key: BindingVolumeUp, Value: Volume Up:
+Hash: 046CD94B, Key: BindingVolumeDown, Value: Volume Down:
+Hash: 08484263, Key: Reset, Value: Reset
+Hash: F1CAAE5A, Key: OptionHPBarsShow, Value: Shows Health Bars while held
+Hash: F1C4A8F3, Key: OptionHPBarsHide, Value: Hides Health Bars while held
+Hash: 91FEE83B, Key: OptionHPBarsToggle, Value: Toggles Health Bars ON/OFF
+Hash: 2B4D0488, Key: OptionItemsOnGroundShow, Value: Push to show
+Hash: 2B46FF21, Key: OptionItemsOnGroundHide, Value: Hides Item Labels while held
+Hash: 356F81E9, Key: OptionItemsOnGroundToggle, Value: Push to toggle (On/Off)
+Hash: 7BF94D35, Key: OptionItemsOnGroundShowForDuration, Value: Push to show for 10 seconds
+Hash: FE0A65BF, Key: LevelUpTitle, Value: You Have Reached
+Hash: 48A061D4, Key: ExitGame, Value: Exit Game
+Hash: B2E3AB16, Key: Warning, Value: Warning!
+Hash: 36BD069B, Key: SavePointTitle, Value: Reached
+Hash: 47F2D8F9, Key: SavePoint, Value: Checkpoint
+Hash: 9E9BAA1C, Key: AcceptOptions, Value: Accept new options?
+
+Reverting in {c_white}{s1}{/c} sec.
+Hash: B4C6567E, Key: QuestBonusReward, Value: +{s1} XP and +{s2} Gold
+Hash: 5B518571, Key: QuitConfirm, Value: Are you sure you want to quit? 
+Hash: A363799C, Key: GameplayOptionInventoryZoom, Value: Zoom When Inventory Is Open
+Hash: 71DD6F48, Key: GameplayOptionAutoequipItems, Value: Auto-equip Items
+Hash: 5B22DED1, Key: GameplayOptionShowTutorials, Value: Show Tutorials
+Hash: A7C9A920, Key: BindingZoom, Value: Zoom Toggle:
+Hash: D57D1557, Key: ConversationWaitNotification, Value: Waiting for other players to finish the conversation...
+Hash: 64426450, Key: Latency, Value: Latency: {s1} msec
+Hash: 066F989D, Key: TraitSlotUnlockedTitle, Value: You Have Unlocked
+Hash: 26686B68, Key: Skills_SlotUnlocked, Value: {s1} Slot Unlocked
+Hash: 74E28314, Key: Skills_Update, Value: Skill Tree Update
+Hash: 41575EF4, Key: GameplayOptionShowBreadCrumbs, Value: Show Destination Pings
+Hash: 5290BC97, Key: BindingHoldPosition, Value: Hold Position:
+Hash: E12A7E56, Key: BindingToggleInjuredMonsterHPBars, Value: Toggle Injured Monster HP:
+Hash: B0BFF8C8, Key: BindingToggleEnemyPlayerHPBars, Value: Toggle Enemy Player HP:
+Hash: 06AE7767, Key: BindingToggleFriendlyPlayerHPBars, Value: Toggle Friendly Player HP:
+Hash: 4179C64B, Key: BindingToggleItemsOnGround, Value: Toggle Item Labels:
+Hash: 3F900463, Key: ActionZoom, Value: Zoom Toggle
+Hash: 561EFDAF, Key: ActionUIConsole, Value: Show Console Window
+Hash: 483DB223, Key: ActionUIClear, Value: Close All
+Hash: 47179C8E, Key: ActionSystemToggleSound, Value: Toggle Sound
+Hash: 46AE4AA6, Key: ActionSystemToggleMusic, Value: Toggle Music
+Hash: 730DA46C, Key: ActionSystemMasterVolumeUp, Value: Volume Up
+Hash: 6CFF287F, Key: ActionSystemMasterVolumeDown, Value: Volume Down
+Hash: AF232ED8, Key: ActionUIHoldPosition, Value: Hold Position
+Hash: 7536C7CC, Key: ActionUISkill1, Value: Skill 1
+Hash: 7536C7CD, Key: ActionUISkill2, Value: Skill 2
+Hash: 7536C7CE, Key: ActionUISkill3, Value: Skill 3
+Hash: 7536C7CF, Key: ActionUISkill4, Value: Skill 4
+Hash: 7536C7D0, Key: ActionUISkill5, Value: Skill 5
+Hash: 193F4E57, Key: ActionUIToggleInjuredMonsterHPBars, Value: Toggle Injured Monster HP
+Hash: 9B71E069, Key: ActionUIToggleEnemyPlayerHPBars, Value: Toggle Enemy Player HP
+Hash: 3EC34768, Key: ActionUIToggleFriendlyPlayerHPBars, Value: Toggle Friendly Player HP
+Hash: D34F056C, Key: ActionUIToggleItemsOnGround, Value: Toggle Item Labels
+Hash: 2A9B6432, Key: Resolution_16_9, Value: {s1}x{s2} (16:9 Widescreen)
+Hash: 7E07E99A, Key: Resolution_16_10, Value: {s1}x{s2} (16:10 Widescreen)
+Hash: 828C0595, Key: Resolution_Other, Value: {s1}x{s2}
+Hash: 1E216AFD, Key: BattleNetLogout, Value: Logout
+Hash: 52A6A3A2, Key: BattleNetLoggingOut, Value: Leaving Game...
+Hash: 757BD197, Key: ActionUISocial, Value: Social
+Hash: 578860A5, Key: ActionUIHelp, Value: Help
+Hash: 437AA44B, Key: ActionUISkillCycle, Value: Cycle Secondary Skill
+Hash: FA66D95D, Key: ActionUIDesignerDialog, Value: Mini Debug Menu
+Hash: B8E2AADF, Key: ActionUIEmoteHelp, Value: Emote Help
+Hash: 78438029, Key: ActionUIEmoteFollow, Value: Emote Follow
+Hash: B8E230C1, Key: ActionUIEmoteGive, Value: Emote Give
+Hash: 98670D3F, Key: ActionUIEmoteThanks, Value: Emote Thanks
+Hash: D604AA55, Key: ActionUIEmoteSorry, Value: Emote Sorry
+Hash: 5AEF8196, Key: ActionUIEmoteBye, Value: Emote Bye
+Hash: 5AEF8808, Key: ActionUIEmoteDie, Value: Emote Die
+Hash: 5AEFC52B, Key: ActionUIEmoteRun, Value: Emote Run
+Hash: B8EAD32B, Key: ActionUIEmoteWait, Value: Emote Wait
+Hash: EB7B9FAC, Key: ActionUIEmoteGo, Value: Emote Go
+Hash: 119A47B5, Key: Unlocked, Value: Unlocked
+Hash: B440E51D, Key: Congratulations, Value: Congratulations!
+Hash: ADC12D9B, Key: GameEndsIn, Value: Dungeon Ends In
+Hash: 34471896, Key: OptionOn, Value: On
+Hash: 12518161, Key: ReleaseInBossFight, Value: If you release during this encounter, you will be unable to rejoin your allies!
+Hash: 1B272C9D, Key: BindingChatPageUp, Value: Chat Page Up
+Hash: 819B80F0, Key: BindingChatPageDown, Value: Chat Page Down
+Hash: B4461A9E, Key: ActionUIChatPageUp, Value: Chat Page Up
+Hash: DE2DF331, Key: ActionUIChatPageDown, Value: Chat Page Down
+Hash: 1DBE58AA, Key: SoundOption_Channels_Lowest, Value: Lowest (16)
+Hash: 7106047E, Key: SoundOption_Channels_Low, Value: Low (32)
+Hash: 1F54324D, Key: SoundOption_Channels_Medium, Value: Medium (64)
+Hash: 91C4478C, Key: SoundOption_Channels_High, Value: High (128)
+Hash: 9610C4AA, Key: ActionUIVoicePTT, Value: Push to Talk
+Hash: AB86D68A, Key: ActionUIWhisperReply, Value: Reply to Last Whisper
+Hash: C6FBB185, Key: Continue, Value: Continue
+Hash: 18C8F379, Key: QuestRewardTitle, Value: Quest Complete
+Hash: 9CB76B29, Key: EventRewardTitle, Value: Event Complete
+Hash: A4606A9A, Key: DeathMenuResurrect, Value: Accept Resurrection
+Hash: C93C6BA3, Key: DeathMenuHardcore, Value: Your deeds of valor will be remembered.
+Hash: 50D2A372, Key: FPSFormat, Value: FPS: {s1}
+Hash: E8AE1DFB, Key: MatchSummary, Value: Match Summary
+Hash: DACFB7BD, Key: GameStartingIn, Value: Game Starting In
+Hash: CE7A9436, Key: AltLevelUpRewards, Value: {s1} Magic Find.
+{s2} Gold Find.
+Hash: 22EDD40D, Key: ExperienceRewardLabel, Value: Experience: 
+Hash: DC88EDCB, Key: GoldRewardLabel, Value: Gold: 
+Hash: F4A354EA, Key: MailNotification, Value: {s1} |4Message:Messages; Pending.
+Hash: 007BAEA3, Key: DeathMenuTown, Value: Revive in Town
+Hash: E6778A87, Key: DeathMenuCorpse, Value: !!!You shouldn't be seeing this!!!
+Hash: 283EDFF4, Key: DungeonFinderBonusReward, Value: Bonus Reward
+Hash: 08B17CE2, Key: Notice, Value: Notice!
+Hash: 5B8D94A3, Key: NoticeAlt, Value: Notice
+Hash: 33FD8545, Key: Dynamic, Value: Dynamic
+Hash: 1BC87361, Key: AssignButton, Value: Assign
+Hash: 00390E32, Key: Easy, Value: Easy
+Hash: 6104A1FB, Key: DungeonFinderBossButton, Value: Enter Boss Room
+Hash: D233BB97, Key: CurrencyPickup, Value: +{s1}
+Hash: 073C5D66, Key: Claim, Value: Claim
+Hash: 1309257C, Key: Mail_ClaimImmediately, Value: Claim Immediately
+Hash: E1726B6B, Key: Mail_DoesNotExpire, Value: Does not Expire
+Hash: DE05AC60, Key: Mail_ExpireDays, Value: Expire in {s1} |4day:days;
+Hash: 9F0B3700, Key: Mail_ExpireHours, Value: Expire in {s1} |4Hour:Hours;
+Hash: A3B0BDE5, Key: DeathMenuMissionFailure, Value: You have died. 
+Hash: 9A679654, Key: Recovering, Value: Recovering
+Hash: A21EDCCF, Key: DiedTitle_Multiplayer, Value: Your party is dead
+Hash: E2D82A12, Key: DiedText_Multiplayer, Value: You will all rersurrect in {s1}.
+Hash: E519330C, Key: WaitingForRezTimer, Value: Revive at Checkpoint: {s1}
+Hash: 72D4BB8D, Key: DeathGoldLoss, Value: You dropped {s1} gold.
+Hash: 63426DCB, Key: QuestComplete, Value: Quest Complete
+Hash: 0071354D, Key: DeathMenuAlly, Value: Revive at Ally
+Hash: 6F84E333, Key: DeathMenuLocalInCombat, Value: Revive at Ally (In Combat)
+Hash: 4904C0BD, Key: Equipped, Value: Equipped
+Hash: BA4CE54E, Key: Inventory, Value: Inventory
+Hash: F9108D4A, Key: BagType_Gear, Value: Equipment
+Hash: D194CDE7, Key: BagType_Consumables, Value: Consumables
+Hash: 1D51F65F, Key: BagType_QuestItems, Value: Quest
+Hash: 84456C24, Key: BagType_Essences, Value: Aspects
+Hash: 140CEBD2, Key: Skills, Value: Skills
+Hash: 1E0EBA12, Key: Skills_RankUnlocked, Value: {s1} Rank {s2}
+Hash: A8664234, Key: DeathMenuWaitingForResurrect, Value: Wait to be Resurrected
+Hash: 98C7CF09, Key: CharacterZoomIn, Value: Zoom on Character
+Hash: 2A6895F5, Key: DruidCharges, Value: Primal Wrath
+Hash: 8685ED90, Key: DeathMenuPvPResurrect, Value: Accept Resurrection ({s1})
+Hash: ED5D3717, Key: RuneFlippyFormat, Value: {s1} Rune
+Hash: 5A41D8BC, Key: Skill_PointsAvailable, Value: Skill Points Available
+Hash: 2E95783E, Key: SkillPoints_Update, Value: Skills Update
+Hash: 7A23897B, Key: ItemPickup, Value: +{s1} {s2}
+Hash: 3271C9F1, Key: Notification_PointAvailable, Value: Point Available
+Hash: 2E8F65C4, Key: Notification_PointsAvailable, Value: Points Available
+Hash: 291CD57A, Key: SoundOption_CinematicsSubtitles_Off, Value: Off
+Hash: 378C829C, Key: SoundOption_CinematicsSubtitles_On, Value: On
+Hash: C9608807, Key: SoundOption_CinematicsSubtitles_ClosedCaption, Value: Closed Caption
+Hash: 93AA2030, Key: PvPDeathMenuResurrect, Value: Resurrect
+Hash: D462E8A2, Key: PvPwaitingForRezTimer, Value: Resurrect in : {s1}
+Hash: B7A5BDE9, Key: Skill_PointAvailable, Value: Skill Point Available
+Hash: 11515F60, Key: Return, Value: Return
+Hash: 8879C03B, Key: BagType_NecroArmy, Value: Army
+Hash: A16F4354, Key: OptionCustom, Value: Custom
+Hash: 24598F5D, Key: OptionAniso2x, Value: 2x
+Hash: 24598F9F, Key: OptionAniso4x, Value: 4x
+Hash: 24599023, Key: OptionAniso8x, Value: 8x
+Hash: AF8B6EB2, Key: OptionAniso16x, Value: 16x
+Hash: 44FD9C72, Key: LocaleOption_English, Value: English
+Hash: E8F54AF8, Key: LocaleOption_SpanishEU, Value: Spanish (Castilian)
+Hash: 6A66B64D, Key: LocaleOption_SpanishLatam, Value: Spanish (Latin-American)
+Hash: FCF1BC5E, Key: LocaleOption_French, Value: French
+Hash: 8678EDEA, Key: LocaleOption_Italian, Value: Italian
+Hash: FE62C2E2, Key: LocaleOption_German, Value: German
+Hash: 086C3868, Key: LocaleOption_Korean, Value: Korean
+Hash: 5327439E, Key: LocaleOption_Portuguese_Brazil, Value: Brazilian Portuguese
+Hash: 3EE3C90D, Key: LocaleOption_Russian, Value: Russian
+Hash: 16403BAC, Key: LocaleOption_Chinese_Simplified, Value: Chinese (Simplified)
+Hash: 320BFCC1, Key: LocaleOption_Chinese_Traditional, Value: Chinese (Traditional)
+Hash: 1412CC97, Key: LocaleOption_Polish, Value: Polish
+Hash: AD7F218F, Key: LocaleOption_Japanese, Value: Japanese
+Hash: 1B949A5E, Key: BagType_Mount, Value: Mount
+Hash: CACBF482, Key: CoreStatPoints, Value: Stat 
+Points
+Hash: 92C7BC3C, Key: SkillPoints, Value: Skill 
+Points
+Hash: F398E3EA, Key: Energy, Value: Energy
+Hash: E2B8CD24, Key: OptionDLSSUltraPerf, Value: Ultra Performance
+Hash: F1B17B5C, Key: OptionDLSSPerf, Value: Performance
+Hash: ECD9C7F9, Key: OptionDLSSBalanced, Value: Balanced
+Hash: 14D44C78, Key: OptionDLSSQuality, Value: Quality
+Hash: 6953A940, Key: OptionDLSSUltraQuality, Value: Ultra Quality
+Hash: 6461D54A, Key: UnspentPoints, Value: Unspent Points
+Hash: C6E0810B, Key: OptionSwitch, Value: Switch
+Hash: F34675BC, Key: OptionXboxOne, Value: XboxOne
+Hash: BD2A3070, Key: OptionPS4, Value: PS4
+Hash: BF7B8601, Key: OptionPS4Pro, Value: PS4Pro
+Hash: 98D40858, Key: OptionXboxSeriesS, Value: XboxSeriesS
+Hash: 98D4085D, Key: OptionXboxSeriesX, Value: XboxSeriesX
+Hash: 5C152DB4, Key: OptionXboxOneX, Value: XboxOneX
+Hash: BD2A3071, Key: OptionPS5, Value: PS5
+Hash: 220D5A10, Key: OptionFramerate, Value: Frame rate
+Hash: F10FC1ED, Key: OptionResolution, Value: Resolution
+Hash: 0CEF279B, Key: RefreshRate, Value: {s1} Hz
+Hash: BB0B54B9, Key: TooltipRatingLabelAttackSpeed, Value: {s1} Attacks per Second {s2}
+Hash: 888F269B, Key: TooltipRatingLabelDamagePerHit, Value: {s1} Damage per Hit
+Hash: 67A37DC8, Key: OptionChatTimestampFormatSixHour, Value: 6:30
+Hash: 65743113, Key: OptionChatTimestampFormatSixHourAmPm, Value: 6:30 PM
+Hash: CAC9EE8B, Key: OptionChatTimestampFormatTwelveHour, Value: 18:30
+Hash: 7F9E59A6, Key: OptionChatTimestampFormatNone, Value: None
+Hash: 78A132C6, Key: OptionFrameLimit30, Value: 30
+Hash: 78A13329, Key: OptionFrameLimit60, Value: 60
+Hash: A67591CE, Key: OptionFrameLimitUnlimited, Value: Display Native
+Hash: A08CFC05, Key: ParagonPoints, Value: Paragon
+Points
+Hash: 4F13283D, Key: ParagonUnlocked, Value: Paragon Unlocked
+Hash: 324982C4, Key: TooltipRatingLabelDamagePerHitHeader, Value: Damage per Hit
+Hash: D8046A34, Key: LorePrompt, Value: {icon:r3, 2}  Stop / Close
+Hash: E65414D8, Key: BossName, Value: {s1} {icon:Social_Title_Bullet} {s2}
+Hash: 52E191D4, Key: Tutorial, Value: Tutorial
+Hash: E2501FED, Key: BulletText, Value: {icon:bullet_generic, 1.5} {s1}
+Hash: 7787678C, Key: BulletLabelDescription, Value: {icon:bullet_generic, 1.5} {s1}: {s2}
+Hash: 51CA8AE5, Key: OptionImageQuality, Value: Image Quality
+Hash: 1D1B0137, Key: Notification_RewardUnlock, Value: Reward Unlocked
+Hash: EE4D1659, Key: Notification_RewardAspectBody, Value: View Codex of Power
+Hash: 38B26F15, Key: Notification_RewardTitleGained, Value: Title Gained
+Hash: F3997BF7, Key: KeyBindInstructionGamepad, Value: Press a button to bind: 
+{c_highlight}{s1}{/c}
+Hash: D8C1C952, Key: LocaleOption_Turkish, Value: Turkish
+Hash: 0F0619B7, Key: OptionReflexDisabled, Value: Disabled
+Hash: 408DBFCA, Key: OptionReflexEnabled, Value: Enabled
+Hash: 25CD8DD5, Key: OptionReflexEnabledPlusBoost, Value: Enabled + Boost
+Hash: F1A98608, Key: OptionDLSSAuto, Value: Auto
+Hash: 906AA842, Key: Notification_RewardCosmetic, Value: Cosmetic Gained
+Hash: 76C5ACE4, Key: OptionResolutionScalingDLSS, Value: NVIDIA DLSS Super Resolution
+Hash: 03996BB9, Key: OptionResolutionScalingFSR, Value: AMD FSR 1.0
+Hash: 76C6E30B, Key: OptionResolutionScalingFSR2, Value: AMD FSR 2
+Hash: 2F1B13AB, Key: OptionResolutionScalingCheckerboard, Value: Checkerboard
+Hash: EB916F93, Key: Notification_WardrobeCosmetic, Value: Visit the Wardrobe to equip
+Hash: F1AB0261, Key: OptionDLSSDLAA, Value: DLAA
+Hash: B0CFCFA1, Key: OptionUltra, Value: Ultra
+Hash: 09757AD1, Key: OptionDisabled, Value: Disabled
+Hash: 086249EF, Key: Stats, Value: Stats
+Hash: 865C1D65, Key: FlyoutMaterials, Value: {icon:Bag_Tab_Materials, 3}
+Hash: 9C189FF2, Key: FlyoutStats, Value: {icon:Bag_Tab_Stats, 3}
+Hash: 52EA0D5C, Key: InventoryTitleInfo, Value: Set titles within Profile
+Hash: E6602D51, Key: QuestLimit, Value: ({s1} / {s2})
+Hash: 891DB606, Key: Duration, Value: Duration: 00:{s1}
+Hash: 73557DC6, Key: Essence, Value: Essence
+Hash: D6A8BFF9, Key: ParagonPointReceived, Value: {c:FFdba864}+{s1}{/c} Paragon |4Point:Points;
+Hash: 9804D888, Key: Paragon, Value: Paragon
+Hash: FB85E0B3, Key: Notification_RewardGained, Value: Reward Gained
+Hash: D98805DE, Key: Notification_RewardMount, Value: Mount
+Hash: C7EB678C, Key: Notification_RewardMountBody, Value: Visit the Stablemaster to equip
+Hash: 5CAC25FD, Key: Notification_ItemGained, Value: Item Gained
+Hash: D8B0630C, Key: Notification_RewardArmor, Value: Mount Armor
+Hash: 1B0FE4B1, Key: Notification_RewardTrophy, Value: Mount Trophy
+Hash: 81728086, Key: LevelUpSkillPoint, Value: {c:FFbf6b31}+ {s1}{/c} Skill |4Point:Points; {icon:Skill_Icon, 2}
+Hash: 1688566F, Key: LevelUpParagonPoint, Value: {c:FFbf6b31}+ {s1}{/c} Paragon |4Point:Points; {icon:ParagonPoint_Icon, 2}
+Hash: 76D086B1, Key: OptionResolutionScalingXeSS, Value: Intel XeSS
+Hash: 0A2BF8B3, Key: OptionResolutionScalingDefault, Value: None
+Hash: CC31E45F, Key: DisconnectPatchText, Value: The season has ended and your client has been disconnected from the server. Please update your client to the lastest version to log in.
+Hash: 8EAD9D1F, Key: OptionRayTracingLow, Value: Ray Tracing Low
+Hash: 034D134E, Key: OptionRayTracingMedium, Value: Ray Tracing Medium
+Hash: 645EF44D, Key: OptionRayTracingHigh, Value: Ray Tracing High
+Hash: F12A9A95, Key: OptionRayTracingUltra, Value: Ray Tracing Ultra
+Hash: A28484A3, Key: BulletMasterworkRank, Value: {s3} Masterwork: {s1} / {s2}
+Hash: 93BAE5BD, Key: Notification_RewardCompanionBody, Value: Visit the Wardrobe to equip
+Hash: 3E8BD3A8, Key: TemperManualFlippyFormat, Value: Manual: {s1}
+Hash: EEDC6271, Key: OptionXESSUltraQualityPlus, Value: Ultra Quality Plus
+Hash: 40A88D65, Key: OptionXESSNativeAA, Value: Native Anti-Aliasing

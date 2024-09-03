@@ -1,0 +1,2 @@
+Hash: 5D82E831, Key: Line1.FB729, Value: A demon! A blood-soaked horror!
+Hash: CC8C4E5E, Key: VoiceDir1.FB729, Value: Terrified.

@@ -1,0 +1,2 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value:  Accursed Mark
+Hash: 65A41A1A, Key: Buff4_Description, Value: Contributing to the Accursed Ritual grants increased rewards from the next Blood Maiden kill.

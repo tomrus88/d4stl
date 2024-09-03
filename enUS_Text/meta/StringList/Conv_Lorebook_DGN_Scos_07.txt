@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Abandoned Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Abandoned Journal
+Hash: 5D72A43F, Key: Line1.EDC75, Value: Do you hear it? The howling? The hideous howling? I no longer know whether that horrific sound is in the air or in my head. My mind will not be still since I‘ve come to this place.
+Hash: F7671DC1, Key: Line3.EDC75, Value: So many have disappeared, taken down into the earth by … something … never to be seen again. Is that the fate awaiting me? I am drawn to it, and have no will to resist.

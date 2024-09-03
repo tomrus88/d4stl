@@ -1,0 +1,22 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It's good you came when you did."
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Goatmen. They've never dared come so close to the estate before.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Disgusted, angry
+Hash: D8F1EA65, Key: Line3.BAE4, Value: Perhaps they were drawn by Lilith’s presence. I saw a vision of her in your study.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: What do you mean, a vision?
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: Surprised, suspicious. Donan didn't know this about the Player.
+Hash: B6DC9E59, Key: Line25.BAE4, Value: I don't fully understand how, but...it isn't the first time.
+Hash: 25E60486, Key: VoiceDir25.BAE4, Value: Troubled--this isn't something the Player ever asked for. It is a power forced upon them.
+Hash: F5747EDE, Key: Line23.7FA05, Value: Full of surprises, aren’t you? No wonder you caught Lorath’s attention.
+Hash: 45AAAAAB, Key: VoiceDir23.7FA05, Value: Intrigued.
+Hash: 295D71E2, Key: Line27.7FA05, Value: Well...now you understand my predicament. The Daughter of Hatred in my own home! She must be furious I cast her out.
+Hash: 79939DAF, Key: VoiceDir27.7FA05, Value: Incredulous for the "Daughter of Hatred" line. Bravado for the final line.
+Hash: E2468CE9, Key: Line7.BAE4, Value: That painting on your wall, who are the others in it?
+Hash: C2053272, Key: Line9.7FA05, Value: Why do you ask?
+Hash: 310E989F, Key: VoiceDir9.7FA05, Value: Taken off guard a moment. Curious.
+Hash: 608DBF14, Key: Line11.BAE4, Value: Lilith seemed to leave after seeing them.
+Hash: 0932A9FD, Key: Line13.7FA05, Value: Nafain and Airidah. The druids who helped me slay Astaroth.
+Hash: 5968D5CA, Key: VoiceDir13.7FA05, Value: Mulling over the implications
+Hash: A327237F, Key: Line15.7FA05, Value: Yes, yes. I think you’re on to something. I resisted her, so she might question them about the demon next.
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: Concerned
+Hash: 5B80055C, Key: Line21.7FA05, Value: There are knights stationed in villages near the druids. If Lilith passed through, they must have seen her.
+Hash: ABB63129, Key: VoiceDir21.7FA05, Value: Serious, concerned

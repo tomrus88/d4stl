@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Warding Supplies
+Hash: F2CA04D8, Key: NoticeSignText, Value: Bottles of salt and resin, bags of dried herbs and bark, and various other components used to create the wards that guard this town.

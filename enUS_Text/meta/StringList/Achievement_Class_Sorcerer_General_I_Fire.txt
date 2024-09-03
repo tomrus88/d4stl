@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crash and Burn
+Hash: 003892BF, Key: Desc, Value: Kill 200 enemies with Fire damage in a single dungeon.

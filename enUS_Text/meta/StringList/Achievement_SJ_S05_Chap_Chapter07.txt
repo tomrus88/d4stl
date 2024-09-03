@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Destroyer
+Hash: 003892BF, Key: Desc, Value: Complete your Paragon journey. Defeat the most challenging foes. Fully immerse yourself in the ordeals you face.

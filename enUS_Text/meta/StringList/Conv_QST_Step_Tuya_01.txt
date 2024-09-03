@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you Tuya?"
+Hash: 8EB413D2, Key: Line1.1040BD, Value: Did my father send you? He never responded to my last letter, and I've been worried.
+Hash: DEEA3F9F, Key: VoiceDir1.1040BD, Value: anxious
+Hash: F0C2BADA, Key: Line9.1040BD, Value: My doll. Father kept it. We argued just before I left. He felt it was too dangerous becoming a mercenary. But so was mining in that area.
+Hash: 40F8E6A7, Key: VoiceDir9.1040BD, Value: quiet and sad
+Hash: 451B7A03, Key: Line11.1040BD, Value: I was going to come home. After I'd saved up enough gold to move him somewhere nicer. Somewhere he didn't have to work so hard.
+Hash: 1D9F23C5, Key: Line13.1040BD, Value: Thank you for returning this to me.
+Hash: 749AC932, Key: VoiceDir13.1040BD, Value: stronger

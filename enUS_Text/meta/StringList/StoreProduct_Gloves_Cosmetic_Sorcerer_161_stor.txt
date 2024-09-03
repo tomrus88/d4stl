@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sandy Grips
+Hash: 13A53A8B, Key: Series, Value: "Magic of the Sands"

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Profane Mindcage
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}60{/c} minutes:
+{icon:bullet} Increases Helltide Monster Level by {c_number}10{/c}
+{icon:bullet} Increases Aberrant Cinder drop rate
+Hash: F5C7BC0A, Key: Flavor, Value: Stacks up to 3 times
+Monsters in World Tiers 1 and 2 are capped at Level 50.

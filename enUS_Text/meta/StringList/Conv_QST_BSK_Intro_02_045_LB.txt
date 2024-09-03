@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Crumpled Parchment
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Locran's Writings
+Hash: 9257723D, Key: Line1.1BCB9E, Value: Will I get used to the screams? My ears ring with them. Almost deaf now, but I see the faces clear.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Haunted. Crushing Guilt. Deep despair.
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: Mouths and eyes pried open. Hands grasping for revenge. Thousands of them, here in the dark with me until the world burns... and I join them, screaming.

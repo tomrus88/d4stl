@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What did you write in the letter?"
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: The beginnings of a plan to thwart Lilith.
+Hash: F413C4CC, Key: Line3.6D03F, Value: One thing’s for sure, we need a soulstone. And that means we need Donan. He’ll understand when you deliver the letter.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Death in Hawezar
+Hash: A646FFA4, Key: Description, Value: The moors hold many secrets. And more than one coterie braves the swamps seeking to discover the mystery of what lies beyond death.
+Hash: 083EE0CE, Key: Quote, Value: Life has little place in the swamps of Hawezar.
+Hash: 13A53A8B, Key: Series, Value: Necromancer Armor

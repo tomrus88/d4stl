@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Rat Race
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: (laughing) Sorry, I forgot how fun this could be. This is like the trouble Orton and I used to get into.
+Hash: 6735A8AD, Key: Line3.10088C, Value: When we first arrived, Backwater was little more than a soggy, waterlogged wood.
+Hash: 3FB9526F, Key: Line5.10088C, Value: Now look at it. Get drunk enough you might mistake it for a real town.

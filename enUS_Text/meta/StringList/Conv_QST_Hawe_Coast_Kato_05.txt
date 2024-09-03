@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "That Drowned was Flinn?"
+Hash: 92A95F8A, Key: Line25.EFA01, Value: Sure was. Shame he had to go that way. Appreciate your help, though.
+Hash: E2DF8B57, Key: VoiceDir25.EFA01, Value: Neutral
+Hash: 31F0F7AA, Key: Line34.EFA01, Value: What for? ...oh, you mean Flinn? Don't be.
+Hash: 82272377, Key: VoiceDir34.EFA01, Value: Confused at first. She's not sure why the player is apologizing
+Hash: 97FC7E28, Key: Line32.EFA01, Value: These things tend to happen round here. You get used to it - ya have to. Backwater ain't for the faint of heart.
+Hash: E832A9F5, Key: VoiceDir32.EFA01, Value: Again, not cold; just pragmatic. For the last sentence only, a bit knowingly/amused.
+Hash: 2C9DD90C, Key: Line27.EFA01, Value: Ah, I should get going now. Here's somethin' for your trouble.
+Hash: 7CD404D9, Key: VoiceDir27.EFA01, Value: Thanking the player, saying goodbye. She has somewhere to be.

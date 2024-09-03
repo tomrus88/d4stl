@@ -1,0 +1,3 @@
+Hash: C9FCD1EA, Key: Phase5Description, Value: Kill the goatman raiding party
+Hash: B8A227EA, Key: Callback4Header, Value: Kill the goatman chieftan
+Hash: 003DFCC1, Key: Name, Value: Fields of Ruin

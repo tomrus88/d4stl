@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Bigger Rep Cache
+Hash: A646FFA4, Key: Description, Value: [PH] Powerful items and rare crafting mats.
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] Feel the power of hatred surge through you.

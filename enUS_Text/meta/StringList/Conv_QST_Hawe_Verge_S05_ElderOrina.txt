@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about this new sickness."
+Hash: 8EB31D05, Key: Line1.1028C0, Value: It started with a man... I think his name was Brecht? Poor fellow. As I recall, he came here with his sister, both refugees from the north.
+Hash: DEE948D2, Key: VoiceDir1.1028C0, Value: thinking. recalling

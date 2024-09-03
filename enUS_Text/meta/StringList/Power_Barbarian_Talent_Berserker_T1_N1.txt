@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Swiftness
+Hash: 003892BF, Key: desc, Value: Movement Speed is increased by {c_number}[{Script Formula 0}*sLevel*100|%+|]{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Movement Speed {icon:arrow, 1.2} {c_number}[{Script Formula 0}*sLevel*100|%+|]{/c}

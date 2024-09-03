@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Igneous Brazier
+Hash: 2BBA1840, Key: UITitle, Value: Igneous Brazier

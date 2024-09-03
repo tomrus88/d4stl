@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Walker of the Woods"
+Hash: 003DFCC1, Key: Name, Value: Wood Wraith Trunks

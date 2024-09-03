@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What else can you tell me about the cleaver?"
+Hash: 5D73363A, Key: Line1.EECAE, Value: Rumor has it, the Overseer who first owned it was a man consumed by jealousy. His partners feared him more than loved him.
+Hash: CC7C9C67, Key: VoiceDir1.EECAE, Value: As if sharing a secret; spooky and foreshadowing
+Hash: F767AFBC, Key: Line3.EECAE, Value: But I hear his daughter was even worse.
+Hash: 667115E9, Key: VoiceDir3.EECAE, Value: Spooky, cryptic
+Hash: 915C293E, Key: Line5.EECAE, Value: I'll know more for sure once you've retrieved the cleaver.
+Hash: 00658F6B, Key: VoiceDir5.EECAE, Value: Anticipatory

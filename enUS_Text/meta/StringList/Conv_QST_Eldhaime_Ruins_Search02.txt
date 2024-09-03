@@ -1,0 +1,4 @@
+Hash: 750AF5B1, Key: Line8.7FA05, Value: This knight...he was with Yorin.
+Hash: E4145BDE, Key: VoiceDir8.7FA05, Value: Worried, confused (why are Yorin and his guards in here?)
+Hash: BC386D3C, Key: Line12.7FA05, Value: One of...Yorin’s protectors.
+Hash: 0C6E9909, Key: VoiceDir12.7FA05, Value: Worried, confused (why are Yorin and his guards in here?)

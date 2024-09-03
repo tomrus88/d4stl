@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What makes these people sinners?”
+Hash: C5448FEE, Key: Line9.EDCC0, Value: They harbored a cultist in their home.
+Hash: 727D8DF7, Key: Line11.EDCC0, Value: They claim ignorance. The truth of it remains to be seen.

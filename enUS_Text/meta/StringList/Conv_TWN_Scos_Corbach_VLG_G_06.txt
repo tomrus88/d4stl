@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 9155680A, Key: Line5.F9916, Value: (sniff) I can’t eat you. (sob) I can’t. Oh spirits, we’ve been best friends for ages.
+Hash: 005ECE37, Key: VoiceDir5.F9916, Value: crying
+Hash: 2B49E18C, Key: Line7.F9916, Value: (sniff) It’s just you and me, boy. (sigh)

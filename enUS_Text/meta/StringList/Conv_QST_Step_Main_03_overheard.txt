@@ -1,0 +1,4 @@
+Hash: 40185DD2, Key: Line5.157D24, Value: (horse neighing)
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Keep that beast quiet!
+Hash: F41459DD, Key: Line3.6E261, Value: Shhhh, it's safe now... nothing will get you up here...
+Hash: 631DC00A, Key: VoiceDir3.6E261, Value: To the horse

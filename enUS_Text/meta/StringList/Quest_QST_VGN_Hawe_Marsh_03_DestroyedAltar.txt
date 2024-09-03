@@ -1,0 +1,5 @@
+Hash: 6C93809B, Key: Callback14Header, Value: Find the Right Eye
+Hash: 3FC40BBF, Key: Callback27Header, Value: Collect the Right Eye
+Hash: D9B88541, Key: Callback29Header, Value: Return the Right Eye
+Hash: 5E28741A, Key: Callback31Header, Value: Search the cultist corpses
+Hash: 003DFCC1, Key: Name, Value: Wrack & Ruin

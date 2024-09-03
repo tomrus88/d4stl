@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hellgate Inquisitor
+Hash: A646FFA4, Key: Description, Value: Their master once held the key to the Gates of Hell, barring all from entry. Their Mother would open the way.
+Hash: 083EE0CE, Key: Quote, Value: Open wide the Gates of Hell.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Interrogation Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Interrogation Journal
+Hash: 59F2E8A4, Key: Line1.54211, Value: The vile bloodsuckers are only capable of lies... unless properly motivated. We have many useful tools to inflict pain upon these soulless beasts.
+Hash: F3E76226, Key: Line3.54211, Value: Their screams, harsh and howling, eventually become like a song of truth. It is a blessing to be able to end their suffering and send their demented souls back to Hell.

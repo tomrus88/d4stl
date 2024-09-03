@@ -1,0 +1,4 @@
+Hash: CFD531A4, Key: Line10.BAE4.Rog.M, Value: I'm out of energy.
+Hash: 31BBEC66, Key: Line12.BAE4.Rog.M, Value: I'm low on energy.
+Hash: 93A2A728, Key: Line14.BAE4.Rog.M, Value: I need more energy.
+Hash: F58961EA, Key: Line16.BAE4.Rog.M, Value: I don't have enough energy.

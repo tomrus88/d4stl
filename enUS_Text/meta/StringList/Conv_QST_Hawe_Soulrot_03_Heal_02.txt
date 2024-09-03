@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Yolanda, I've brought the remedy. Make sure to keep it down."
+Hash: 8EB69A80, Key: Line1.107ED8, Value: (gags) That was...what was in that? Light, don’t tell me.
+Hash: 673A4442, Key: Line3.107ED8, Value: But...(gags) I can feel...they’re moving less. The pain subsiding.
+Hash: 3FBDEE04, Key: Line5.107ED8, Value: If Calv had listened to me...we lost him...he had the good sense to die without infecting anyone. Little though it may comfort his children.
+Hash: 8FF419D1, Key: VoiceDir5.107ED8, Value: (more subdued, a bit harsh)

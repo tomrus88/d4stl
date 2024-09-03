@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ascended Blood Seekers Tome
+Hash: F5C7BC0A, Key: Flavor, Value: A list of especially powerful Blood Seekers. They must be killed. 

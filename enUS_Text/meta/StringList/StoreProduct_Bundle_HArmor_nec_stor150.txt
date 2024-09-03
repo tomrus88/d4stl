@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Deathspeaker
+Hash: A646FFA4, Key: Description, Value: In order for a powerful Necromancer to be granted the title of "Deathspeaker", they must first travel to Rathma's lost temple. There they face deadly trials to determine their worth.
+Hash: 083EE0CE, Key: Quote, Value: Follower of Rathma, leader of Necromancers.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

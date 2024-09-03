@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Whale Shrine
+Hash: F2CA04D8, Key: NoticeSignText, Value: A towering shrine of whale bone reminding visitors and trespassers alike that Marowen's people are as formidable as her waters.

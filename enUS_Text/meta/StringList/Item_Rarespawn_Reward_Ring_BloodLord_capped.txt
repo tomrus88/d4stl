@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blood-Cursed Band
+Hash: F5C7BC0A, Key: Flavor, Value: "Unhand me, filth! A single drop of my blood is worth an ocean of yours! Within it churns a power you could never hope to understand!"
+- Lord Eònan, last words

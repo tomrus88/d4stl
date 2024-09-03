@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fire and Ash
+Hash: A646FFA4, Key: Description, Value: "I've seen war make monsters of men, but this war on Hell? Even if, by some miracle, we survive... can we live with what we become?" - Nurjim, Priest of Zakarum, after the fall of Caldeum
+Hash: 083EE0CE, Key: Quote, Value: Cry havoc and ride unto Hell.
+Hash: 13A53A8B, Key: Series, Value: "Ash Knight" Mount Armor

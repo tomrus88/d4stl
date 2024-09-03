@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Darkness has spread across the Dry Steppes…”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: So first Elias summons Lilith. Then he tries to bring a Lesser Evil into the world.
+Hash: F427C5EC, Key: Line3.7FA05, Value: The knowledge required for such things… it is immense. Elias is capable of more—trust me. And as long as he remains alive, he will cloud Lorath’s judgment.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Hint of respect for Elias

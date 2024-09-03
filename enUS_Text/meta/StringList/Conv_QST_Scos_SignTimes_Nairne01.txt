@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did you take this sign?"
+Hash: F7149636, Key: Line3.B20CF, Value: This here trophy? Sure did! Nicked it to honor dear Tavish, my best mate.
+Hash: 661DFC63, Key: VoiceDir3.B20CF, Value: Cheery, with confidence from drinking
+Hash: 0C1F7A47, Key: Line13.B20CF, Value: The goatmen tore him to pieces in this spot, not three nights ago…
+Hash: 5C55A614, Key: VoiceDir13.B20CF, Value: Recognizing somber reality
+Hash: A613F3C9, Key: Line15.B20CF, Value: I thought it right to bring the Goose to him. One last drink together beneath her wings.
+Hash: F64A1F96, Key: VoiceDir15.B20CF, Value: Hopeful
+Hash: 40086D4B, Key: Line17.B20CF, Value: We agreed to a “List of Last Deeds,” you know.
+Hash: D9FCE6CD, Key: Line19.B20CF, Value: Could you… help me finish it? I like to think it’d give Tavish some semblance of peace. Prove he’s not to be forgotten.
+Hash: 2A33129A, Key: VoiceDir19.B20CF, Value: Hopeful. Attempting to get past gloom.
+Hash: 5E6CD5A6, Key: Line21.B20CF, Value: If we place his daggers at the locations on the list, it’ll mark our mischief eternal.

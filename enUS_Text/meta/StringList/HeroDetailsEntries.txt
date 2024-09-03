@@ -1,0 +1,1077 @@
+Hash: 3A89C1E2, Key: 279_name, Value: Level
+Hash: 72E9B70C, Key: 279_tooltip, Value: {c_label}Level: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The Level of your character, which is increased by accumulating Experience.
+{icon:bullet} With each Level, you gain Base Life and Core Stats.
+{icon:bullet} Each Level until Level 50 grants a Skill Point. Afterwards, each quarter of a Level grants a Paragon Point.
+{icon:bullet} Damage dealt between you and an enemy are adjusted according to the Level difference.
+{icon:bullet} Monsters at this Level have {c_number}{s2}{/c_number} visible damage reduction.
+Hash: 311B1B19, Key: 108_name, Value: Strength
+Hash: 5CC698E3, Key: 108_tooltip, Value: {c_label}Strength: {c_number}{s1}{/c_number} {c_lightgray}(Item Contribution: {c_blue}{s2}{/c_blue}){/c}{/c}{STR_BENEFIT}
+{icon:bullet} Increases Armor by {c_number}{s3}{/c_number}
+Hash: 337043BA, Key: 109_name, Value: Intelligence
+Hash: D14309E4, Key: 109_tooltip, Value: {c_label}Intelligence: {c_number}{s1}{/c_number} {c_lightgray}(Item Contribution: {c_blue}{s2}{/c_blue}){/c}{/c}{INT_BENEFIT}
+{icon:bullet} Increases Resistance to All Elements by {c_number}{s3}{/c}
+Hash: 6B6C12D2, Key: 110_name, Value: Willpower
+Hash: BCEDA1FC, Key: 110_tooltip, Value: {c_label}Willpower: {c_number}{s1}{/c_number} {c_lightgray}(Item Contribution: {c_blue}{s2}{/c_blue}){/c}{/c}{WILL_BENEFIT}
+{icon:bullet} Improves Healing Received by {c_number}{s3}{/c_number}
+{icon:bullet} Increases {c_important}{u}Overpower{/u}{/c_important} Damage by {c_number}{s4}{/c_number}
+Hash: 6DC13B73, Key: 111_name, Value: Dexterity
+Hash: 316A12FD, Key: 111_tooltip, Value: {c_label}Dexterity: {c_number}{s1}{/c_number} {c_lightgray}(Item Contribution: {c_blue}{s2}{/c_blue}){/c}{/c}{DEX_BENEFIT}
+{icon:bullet} Increases Dodge Chance by {c_number}{s3}{/c_number}
+Hash: 5BA8F0CE, Key: 86_name, Value: Weapon Damage
+Hash: 0D638E78, Key: 86_tooltip, Value: {c_label}Weapon Damage: {c_number}({s2} - {s3}){/c_number}{/c}
+{icon:bullet} The base damage of your equipped weapon(s).
+{icon:bullet} Skills scale their base damage using this value.
+{icon:bullet} When wielding One-Handed weapons, this is the sum of their base attack values.
+{icon:bullet} When wielding a Two-Handed weapon, this is its base attack value.
+Hash: A1A3B3AC, Key: 93_name, Value: Ranged Weapon Damage
+Hash: B3F8CC96, Key: 93_tooltip, Value: {c_label}Ranged Damage: {c_number}({s2} - {s3}){/c_number}{/c}
+{icon:bullet} The base damage of your Two-Handed Ranged Weapon.
+{icon:bullet} Skills wielding this weapon scale their base damage using this value.
+{icon:bullet} Equal to the weapon's base attack value.
+Hash: 256AD529, Key: 45_name, Value: Bludgeoning Weapon Damage
+Hash: 88BCD8F3, Key: 45_tooltip, Value: {c_label}Bludgeoning Weapon Damage: {c_number}({s2} - {s3}){/c_number}{/c}
+{icon:bullet} The base damage of your Two-Handed Bludgeoning Weapon.
+{icon:bullet} Skills wielding this weapon scale their base damage using this value.
+{icon:bullet} Equal to the weapon's base attack value.
+Hash: 27BFFDCA, Key: 46_name, Value: Dual Wielded Weapon Damage
+Hash: FD3949F4, Key: 46_tooltip, Value: {c_label}Dual Wielded Weapon Damage: {c_number}({s2} - {s3}){/c_number}{/c}
+{icon:bullet} The base damage of your dual wielded One-Handed Weapons.
+{icon:bullet} Skills wielding these weapons scale their base damage using this value.
+{icon:bullet} Equal to the sum of the weapons' base attack values.
+Hash: 2A15266B, Key: 47_name, Value: Slashing Weapon Damage
+Hash: 71B5BAF5, Key: 47_tooltip, Value: {c_label}Slashing Weapon Damage: {c_number}({s2} - {s3}){/c_number}{/c}
+{icon:bullet} The base damage of your Two-Handed Slashing Weapon.
+{icon:bullet} Skills wielding this weapon scale their base damage using this value.
+{icon:bullet} Equal to the weapon's base attack value.
+Hash: 74C0B556, Key: 114_name, Value: Weapon Speed
+Hash: 8EDF6600, Key: 114_tooltip, Value: {c_label}Weapon Speed: {c_number}{s1} Attacks per Second{/c_number}{/c}
+{icon:bullet} This is the base Attack Speed inherent to your weapon before applying bonuses.
+{icon:bullet} When wielding One-Handed weapons, their weapon speeds are averaged.
+Hash: 7DEC2CB3, Key: 3_name, Value: Attack Speed Bonus
+Hash: CD9E7C3D, Key: 3_tooltip, Value: {c_label}Bonus Attack Speed: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You attack {c_number}{s1}{/c_number} faster than your base Weapon Speed.
+{icon:bullet} Combined with your weapon, your total Attack Speed is {c_number}{s2}{/c_number} Attacks per Second.
+Hash: 3DF3D09A, Key: 172_name, Value: Attack Speed from Dodging
+Hash: BE25EAC4, Key: 172_tooltip, Value: {c_label}Bonus Attack Speed after Dodging: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You gain {c_number}{s1}{/c_number} bonus Attack Speed for {c_number}{s2}{/c_number} seconds after Dodging an incoming attack.
+Hash: 20C6FEB2, Key: 101_name, Value: Minion Attack Speed
+Hash: 2D5F81DC, Key: 101_tooltip, Value: {c_label}Minion Attack Speed Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Attack Speed of your summoned Minions. This includes your Skeletal Warriors, Skeletal Mages, and Golem.
+Hash: 80415554, Key: 4_name, Value: Critical Strike Chance
+Hash: 421AED3E, Key: 4_tooltip, Value: {c_label}Critical Strike Chance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} When a Skill deals damage, it has a chance to Critically Strike.
+{icon:bullet} Critical Strikes deal {c_number}x{s2}{/c_number} bonus damage, further increased by your personal bonuses.
+{icon:bullet} Damage over time cannot Critically Strike.
+Hash: 40F1C697, Key: 241_name, Value: Critical Strike Chance vs Injured
+Hash: C2E67BA1, Key: 241_tooltip, Value: {c_label}Bonus Critical Strike Chance vs Injured Enemies: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Your Critical Strike Chance is increased by {c_number}{s1}{/c_number} when damaging enemies who are below {c_number}35%{/c} Life.
+{icon:bullet} Your total chance to Critically Strike {c_important}{u}Injured{/u}{/c_important} enemies is {c_number}{s2}{/c_number}{/c}.
+Hash: 82967DF5, Key: 5_name, Value: Critical Strike Damage
+Hash: B6975E3F, Key: 5_tooltip, Value: {c_label}Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to Skills when they Critically Strike.
+{icon:bullet} Includes the inherent {c_number}x{s2}{/c_number} increased damage dealt by Critical Strikes.
+{icon:bullet} You have {c_number}+{s3}{/c_number} of this stat from items and Paragon.
+Hash: A8A9A85A, Key: 154_name, Value: Critical Strike Damage vs Vulnerable
+Hash: 9F09AA84, Key: 154_tooltip, Value: {c_label}Bonus Critical Strike Damage vs Vulnerable Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to Skills when they Critically Strike {c_important}{u}Vulnerable{/u}{/c_important} enemies.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: 43EFBC94, Key: 310_name, Value: Critical Strike Damage vs Crowd Controlled
+Hash: C7A70C7E, Key: 310_tooltip, Value: {c_label}Bonus Critical Strike Damage vs Crowd Controlled Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to Skills when they Critically Strike Crowd Controlled enemies.
+{icon:bullet} This includes those affected by Slow, Immobilize, Stun, Knockback, Knockdown, Taunt, Fear, Tether, {c_important}{u}Daze{/u}{/c_important}, {c_important}{u}Chill{/u}{/c_important}, or {c_important}{u}Freeze{/u}{/c_important}.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types for the Staggered duration.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: AAFED0FB, Key: 155_name, Value: Critical Strike Damage with Physical
+Hash: 13861B85, Key: 155_tooltip, Value: {c_label}Physical Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to your Physical damage that Critically Strikes.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: 882CCBFF, Key: 357_name, Value: Critical Strike Damage with Fire
+Hash: 07386809, Key: 357_tooltip, Value: {c_label}Fire Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to your Fire damage that Critically Strikes.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: B4FC40DB, Key: 227_name, Value: Critical Strike Damage with Lightning
+Hash: 75BBFF65, Key: 227_tooltip, Value: {c_label}Lightning Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to your Lightning damage that Critically Strikes.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: B751697C, Key: 228_name, Value: Critical Strike Damage with Cold
+Hash: EA387066, Key: 228_tooltip, Value: {c_label}Cold Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to your Cold damage that Critically Strikes.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: F1A26135, Key: 230_name, Value: Critical Strike Damage with Poison
+Hash: 4A5F797F, Key: 230_tooltip, Value: {c_label}Poison Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to your Poison damage that Critically Strikes.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: B9A6921D, Key: 229_name, Value: Critical Strike Damage with Shadow
+Hash: 5EB4E167, Key: 229_tooltip, Value: {c_label}Shadow Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to your Shadow damage that Critically Strikes.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: 65ACDB79, Key: 216_name, Value: Critical Strike Damage with Dual Wield
+Hash: FD34FD43, Key: 216_tooltip, Value: {c_label}Bonus Critical Strike Damage with Dual Wielded Weapons: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to Critical Strikes while Dual Wielding One-Handed weapons.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: 004A2257, Key: 304_name, Value: Critical Strike Damage with Core
+Hash: 958E3F61, Key: 304_tooltip, Value: {c_label}Bonus Critical Strike Damage with Core Skills: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to {c_important}Core{/c_important} Skills when they Critically Strike.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 459C17D9, Key: 243_name, Value: Critical Strike Damage with Bone
+Hash: ABDF5DA3, Key: 243_tooltip, Value: {c_label}Bonus Critical Strike Damage with Bone Skills: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to {c_important}Bone{/c_important} Skills when they Critically Strike.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: AFA9223D, Key: 157_name, Value: Critical Strike Damage with Earth
+Hash: FC7EFD87, Key: 157_tooltip, Value: {c_label}Bonus Critical Strike Damage with Earth Skills: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to {c_important}Earth{/c_important} Skills when they Critically Strike.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: AD53F99C, Key: 156_name, Value: Critical Strike Damage with Imbued
+Hash: 88028C86, Key: 156_tooltip, Value: {c_label}Bonus Critical Strike Damage with Imbued Skills: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to {c_important}Imbued{/c_important} Skills when they Critically Strike.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+Hash: B1FE4ADE, Key: 158_name, Value: Critical Strike Damage with Werewolf
+Hash: 70FB6E88, Key: 158_tooltip, Value: {c_label}Critical Strike Damage Bonus with Werewolf Skills: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Extra damage granted to {c_important}Werewolf{/c_important} Skills when they Critically Strike.
+{icon:bullet} Stacks with your normal Critical Strike Damage Bonus.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 8740CF37, Key: 7_name, Value: Overpower Chance
+Hash: 9F904041, Key: 7_tooltip, Value: {c_label}Overpower Chance:{/c} {c_number}{s1}{/c}
+{icon:bullet} When you cast a Skill, it has a chance to {c_important}{u}Overpower{/u}{/c_important} all of the damage it deals.
+{icon:bullet} {c_important}{u}Overpowers{/u}{/c_important} deal bonus damage based on your current Life, up to {c_number}x{s2}{/c_number} when at maximum Life, further increased by your personal bonuses.
+{icon:bullet} Damage over time, passive abilities, and {c_important}Channeled{/c_important} Skills cannot {c_important}{u}Overpower{/u}{/c_important}.
+{icon:bullet} Your chance to {c_important}{u}Overpower{/u}{/c_important} cannot increase as a basic stat, but they can be guaranteed by specific effects.
+Hash: AFA2A772, Key: 99_name, Value: Overpower Damage
+Hash: 6EE3729C, Key: 99_tooltip, Value: {c_label}Overpower Damage Bonus:{/c} {c_number}{s1}{/c}
+{icon:bullet} Extra damage granted to Skills when they {c_important}{u}Overpower{/u}{/c_important}, further increased at the moment of impact based on your Maximum Life and Fortify amount.
+{icon:bullet} Includes the inherent increased damage dealt by {c_important}{u}Overpowers{/u}{/c_important} based on your current Life, up to {c_number}x{s2}{/c_number} when at maximum Life.
+{icon:bullet} You have {c_number}+{s4}{/c_number} of this stat from Willpower, items, and Paragon.
+Hash: 4AEF3677, Key: 313_name, Value: Overpower Damage with Bludgeoning
+Hash: 251C5F81, Key: 313_tooltip, Value: {c_label}Overpower Damage with Two-Handed Bludgeoning Weapons:{/c} {c_number}{s1}{/c}
+{icon:bullet} Extra damage granted to Skills when they {c_important}{u}Overpower{/u}{/c_important} while wielding a Two-Handed Bludgeoning weapon..
+{icon:bullet} Stacks with your normal Overpower Damage Bonus.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 4D445F18, Key: 314_name, Value: Overpower Damage with Werebear
+Hash: 9998D082, Key: 314_tooltip, Value: {c_label}Overpower Damage with Werebear Skills:{/c} {c_number}{s1}{/c}
+{icon:bullet} Extra damage granted to Skills that have the {c_important}Werebear{/c_important} tag when they {c_important}{u}Overpower{/u}.
+{icon:bullet} Stacks with your normal Overpower Damage Bonus.
+Hash: D8709868, Key: 35_name, Value: Vulnerable Damage
+Hash: 84B247D2, Key: 35_tooltip, Value: {c_label}Vulnerable Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Extra damage granted to Skills against {c_important}{u}Vulnerable{/u}{/c_important} enemies.
+{icon:bullet} Includes the inherent {c_number}x{s2}{/c_number} increased damage that {c_important}{u}Vulnerable{/u}{/c_important} enemies take from all sources.
+{icon:bullet} You have {c_number}+{s3}{/c_number} of this stat from items and Paragon.
+Hash: 7941DB71, Key: 1_name, Value: All Damage
+Hash: E4A59A3B, Key: 1_tooltip, Value: {c_label}Bonus to All Damage: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases all of your damage dealt.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 1E71D611, Key: 100_name, Value: Damage with Physical
+Hash: B8E310DB, Key: 100_tooltip, Value: {c_label}Physical Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Physical damage dealt. This includes both direct Physical damage and Bleeding damage over time.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 2EBF77AD, Key: 49_name, Value: Damage with Fire
+Hash: 5AAE9CF7, Key: 49_tooltip, Value: {c_label}Fire Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Fire damage dealt. This includes both direct Fire damage and Burning damage over time.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 66BB46C5, Key: 50_name, Value: Damage with Lightning
+Hash: 4659350F, Key: 50_tooltip, Value: {c_label}Lightning Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Lightning damage dealt.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 69106F66, Key: 51_name, Value: Damage with Cold
+Hash: BAD5A610, Key: 51_tooltip, Value: {c_label}Cold Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Cold damage dealt.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 6B659807, Key: 52_name, Value: Damage with Poison
+Hash: 2F521711, Key: 52_tooltip, Value: {c_label}Poison Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Poison damage dealt. This includes both direct Poison damage and Poisoning damage over time.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 6DBAC0A8, Key: 53_name, Value: Damage with Shadow
+Hash: A3CE8812, Key: 53_tooltip, Value: {c_label}Shadow Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Shadow damage dealt. This includes both direct Shadow damage and Shadow damage over time.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 47F1407A, Key: 244_name, Value: Damage with Bleeding
+Hash: 205BCEA4, Key: 244_tooltip, Value: {c_label}Bleeding Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Bleeding damage dealt. This includes Physical damage over time, but not direct Physical damage.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 4C9B91BC, Key: 246_name, Value: Damage with Burning
+Hash: 0954B0A6, Key: 246_tooltip, Value: {c_label}Burning Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Burning damage dealt. This includes Fire damage over time, but not direct Fire damage.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 31351F5E, Key: 275_name, Value: Damage with Poisoning
+Hash: A0F7F308, Key: 275_tooltip, Value: {c_label}Poisoning Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Poisoning damage dealt. This includes Poison damage over time, but not direct Poison damage.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 4A46691B, Key: 245_name, Value: Damage with Shadow Damage Over Time
+Hash: 94D83FA5, Key: 245_tooltip, Value: {c_label}Bonus Shadow Damage Over Time: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Shadow damage dealt over time. This excludes direct Shadow damage.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 3B9EA7F9, Key: 171_name, Value: Damage with Bludgeoning
+Hash: 49A979C3, Key: 171_tooltip, Value: {c_label}Bonus Damage with Two-Handed Bludgeoning Weapons:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while wielding a Two-Handed Bludgeoning weapon.
+Hash: 9697D880, Key: 187_name, Value: Damage with Slashing
+Hash: 089EB0EA, Key: 187_tooltip, Value: {c_label}Bonus Damage with Two-Handed Slashing Weapons:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while wielding a Two-Handed Slashing weapon.
+Hash: 98ED0121, Key: 188_name, Value: Damage with Ranged
+Hash: 7D1B21EB, Key: 188_tooltip, Value: {c_label}Bonus Damage with Ranged Weapons:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while wielding a Two-Handed Ranged weapon.
+Hash: 9B4229C2, Key: 189_name, Value: Damage with Dual Wield
+Hash: F19792EC, Key: 189_tooltip, Value: {c_label}Bonus Damage with Dual Wielded Weapons:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while Dual Wielding One-Handed weapons.
+Hash: 4EF0BA5D, Key: 247_name, Value: Damage with Mace
+Hash: 7DD121A7, Key: 247_tooltip, Value: {c_label}Bonus Damage with Maces:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while wielding either a One-Handed or Two-Handed Mace.
+Hash: 539B0B9F, Key: 249_name, Value: Damage with Sword
+Hash: 66CA03A9, Key: 249_tooltip, Value: {c_label}Bonus Damage with Swords:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while wielding either a One-Handed or Two-Handed Sword.
+Hash: 8B96DAB7, Key: 250_name, Value: Damage with Axe
+Hash: 52749BC1, Key: 250_tooltip, Value: {c_label}Bonus Damage with Axes:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while wielding either a One-Handed or Two-Handed Axe.
+Hash: 5145E2FE, Key: 248_name, Value: Damage with Polearm
+Hash: F24D92A8, Key: 248_tooltip, Value: {c_label}Bonus Damage with Polearms:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while wielding a Two-Handed Polearm.
+Hash: 9442AFDF, Key: 186_name, Value: Damage with Swapped Weapons
+Hash: 94223FE9, Key: 186_tooltip, Value: {c_label}Bonus Damage when Swapping Weapons:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases the damage dealt by your Skills that use different weapon(s) than you were previously wielding.
+Hash: 675936BE, Key: 149_name, Value: Damage with Basic
+Hash: E16D4E68, Key: 149_tooltip, Value: {c_label}Bonus Damage with Basic Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Basic{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 2EDFF6BD, Key: 274_name, Value: Damage with Core
+Hash: 2C7B8207, Key: 274_tooltip, Value: {c_label}Bonus Damage with Core Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Core{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 4F9987B9, Key: 315_name, Value: Damage with Ultimate
+Hash: 0E154183, Key: 315_tooltip, Value: {c_label}Bonus Damage with Ultimate Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Ultimate{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 2C8ACE1C, Key: 273_name, Value: Damage with Brawling
+Hash: B7FF1106, Key: 273_tooltip, Value: {c_label}Bonus Damage with Brawling Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Brawling{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 9995CE7D, Key: 256_name, Value: Damage with Weapon Mastery
+Hash: 0D5F41C7, Key: 256_tooltip, Value: {c_label}Bonus Damage with Weapon Mastery Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Weapon Mastery{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 90412BF9, Key: 252_name, Value: Damage with Cutthroat
+Hash: 3B6D7DC3, Key: 252_tooltip, Value: {c_label}Bonus Damage with Cutthroat Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Cutthroat{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: E43AE29D, Key: 265_name, Value: Damage with Marksman
+Hash: 9CED61E7, Key: 265_tooltip, Value: {c_label}Bonus Damage with Marksman Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Marksman{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 8DEC0358, Key: 251_name, Value: Damage with Imbued
+Hash: C6F10CC2, Key: 251_tooltip, Value: {c_label}Bonus Damage with Imbued Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that are enhanced by an {c_important}Imbuement{/c_important}.
+Hash: D8911778, Key: 260_name, Value: Damage with Imbuement
+Hash: 567F2CE2, Key: 260_tooltip, Value: {c_label}Bonus Damage with Imbuement Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Imbuement{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: E1E5B9FC, Key: 264_name, Value: Damage with Trap
+Hash: 2870F0E6, Key: 264_tooltip, Value: {c_label}Bonus Damage with Trap Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Trap{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 9740A5DC, Key: 255_name, Value: Damage with Pyromancy
+Hash: 98E2D0C6, Key: 255_tooltip, Value: {c_label}Bonus Damage with Pyromancy Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Pyromancy{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: DF90915B, Key: 263_name, Value: Damage with Shock
+Hash: B3F47FE5, Key: 263_tooltip, Value: {c_label}Bonus Damage with Shock Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Shock{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: A0954860, Key: 259_name, Value: Damage with Frost
+Hash: 6AD494CA, Key: 259_tooltip, Value: {c_label}Bonus Damage with Frost Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Frost{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: DD3B68BA, Key: 262_name, Value: Damage with Conjuration
+Hash: 3F780EE4, Key: 262_tooltip, Value: {c_label}Bonus Damage with Conjuration Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Conjuration{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 489A0DD6, Key: 312_name, Value: Damage with Mastery
+Hash: B09FEE80, Key: 312_tooltip, Value: {c_label}Bonus Damage with Mastery Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Mastery{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 9296549A, Key: 253_name, Value: Damage with Nature Magic
+Hash: AFE9EEC4, Key: 253_tooltip, Value: {c_label}Bonus Damage with Nature Magic Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Nature Magic{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 029F4AF8, Key: 305_name, Value: Damage with Earth
+Hash: 0A0AB062, Key: 305_tooltip, Value: {c_label}Bonus Damage with Earth Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Earth{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: DAE64019, Key: 261_name, Value: Damage with Storm
+Hash: CAFB9DE3, Key: 261_tooltip, Value: {c_label}Bonus Damage with Storm Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Storm{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 9E401FBF, Key: 258_name, Value: Damage with Shapeshifting
+Hash: F65823C9, Key: 258_tooltip, Value: {c_label}Bonus Damage with Shapeshifting Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Shapeshifting{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 04F47399, Key: 306_name, Value: Damage with Werebear
+Hash: 7E872163, Key: 306_tooltip, Value: {c_label}Bonus Damage with Werebear Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Werebear{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 94EB7D3B, Key: 254_name, Value: Damage with Werewolf
+Hash: 24665FC5, Key: 254_tooltip, Value: {c_label}Bonus Damage with Werewolf Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Werewolf{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 9BEAF71E, Key: 257_name, Value: Damage with Companion
+Hash: 81DBB2C8, Key: 257_tooltip, Value: {c_label}Bonus Damage with Companion Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Companion{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 27E07CDA, Key: 271_name, Value: Damage with Bone
+Hash: CF062F04, Key: 271_tooltip, Value: {c_label}Bonus Damage with Bone Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Bone{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 258B5439, Key: 270_name, Value: Damage with Blood
+Hash: 5A89BE03, Key: 270_tooltip, Value: {c_label}Bonus Damage with Blood Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Blood{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: ED8F8521, Key: 269_name, Value: Damage with Darkness
+Hash: 6EDF25EB, Key: 269_tooltip, Value: {c_label}Bonus Damage with Darkness Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Darkness{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 2A35A57B, Key: 272_name, Value: Damage with Summoning
+Hash: 4382A005, Key: 272_tooltip, Value: {c_label}Bonus Damage with Summoning Skills:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt by your Skills that have the {c_important}Summoning{/c_important} tag.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: D33DF8DA, Key: 190_name, Value: Damage with Crackling Energy
+Hash: DD422B04, Key: 190_tooltip, Value: {c_label}Bonus Damage with Crackling Energy:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases the damage dealt by your {c_important}{u}Crackling Energy{/u}{/c_important} applications.
+Hash: 11B324D5, Key: 203_name, Value: Damage with Minions
+Hash: 9BB5191F, Key: 203_tooltip, Value: {c_label}Minion Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases damage dealt by your summoned Minions. This includes your Skeletal Warriors, Skeletal Mages, and Golem.
+Hash: E5E73DE2, Key: 198_name, Value: Damage with Warriors
+Hash: 8125B30C, Key: 198_tooltip, Value: {c_label}Skeletal Warrior Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases damage dealt by your Skeletal Warriors.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 0D08D393, Key: 201_name, Value: Damage with Mages
+Hash: B2BC371D, Key: 201_tooltip, Value: {c_label}Skeletal Mage Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases damage dealt by your Skeletal Mages.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 0AB3AAF2, Key: 200_name, Value: Damage with Golem
+Hash: 3E3FC61C, Key: 200_tooltip, Value: {c_label}Golem Damage Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases damage dealt by your Golem.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: DAC5C109, Key: 36_name, Value: Damage vs Close
+Hash: F92EB8D3, Key: 36_tooltip, Value: {c_label}Bonus Damage vs Close Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies in melee range.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: DD1AE9AA, Key: 37_name, Value: Damage vs Distant
+Hash: 6DAB29D4, Key: 37_tooltip, Value: {c_label}Bonus Damage vs Distant Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies far away from you.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 7B970412, Key: 2_name, Value: Damage vs Elites
+Hash: 59220B3C, Key: 2_tooltip, Value: {c_label}Bonus Damage vs Elites: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases damage dealt to Champions, Elites, Bosses and Players.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 8B765BA7, Key: 25_name, Value: Damage vs Crowd Controlled
+Hash: 80A7B6B1, Key: 25_tooltip, Value: {c_label}Bonus Damage vs Crowd Controlled Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to Crowd Controlled enemies.
+{icon:bullet} This includes those affected by Slow, Immobilize, Stun, Knockback, Knockdown, Taunt, Fear, Tether, {c_important}{u}Daze{/u}{/c_important}, {c_important}{u}Chill{/u}{/c_important}, or {c_important}{u}Freeze{/u}{/c_important}.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types for the Staggered duration.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 8DCB8448, Key: 26_name, Value: Damage vs Slowed
+Hash: F52427B2, Key: 26_tooltip, Value: {c_label}Bonus Damage vs Slowed Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to Slowed enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including Slow, for the Staggered duration.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 9020ACE9, Key: 27_name, Value: Damage vs Immobilized
+Hash: 69A098B3, Key: 27_tooltip, Value: {c_label}Bonus Damage vs Immobilized Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to Immobilized enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including Immobilize, for the Staggered duration.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: AD4D7ED1, Key: 98_name, Value: Damage vs Stunned
+Hash: FA67019B, Key: 98_tooltip, Value: {c_label}Bonus Damage vs Stunned Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to Stunned enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including Stun, for the Staggered duration.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: D3C64726, Key: 33_name, Value: Damage vs Knocked Down
+Hash: 9BB965D0, Key: 33_tooltip, Value: {c_label}Bonus Damage vs Knocked Down Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to Knocked Down enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including Knockdown, for the Staggered duration.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: D22912C3, Key: 298_name, Value: Damage vs Dazed
+Hash: 0682684D, Key: 298_tooltip, Value: {c_label}Bonus Damage vs Dazed Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to Daze enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including {c_important}{u}Daze{/u}{/c_important}, for the Staggered duration.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: CF1BF5E4, Key: 31_name, Value: Damage vs Chilled
+Hash: B2C083CE, Key: 31_tooltip, Value: {c_label}Bonus Damage vs Chilled Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to {c_important}{u}Chilled{/u}{/c_important} enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including {c_important}{u}Chill{/u}{/c_important}, for the Staggered duration.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: D1711E85, Key: 32_name, Value: Damage vs Frozen
+Hash: 273CF4CF, Key: 32_tooltip, Value: {c_label}Bonus Damage vs Frozen Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to {c_important}{u}Frozen{/u}{/c_important} enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including {c_important}{u}Freeze{/u}{/c_important}, for the Staggered duration.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 74BA3A8B, Key: 56_name, Value: Damage vs Healthy
+Hash: 0143DB15, Key: 56_tooltip, Value: {c_label}Bonus Damage vs Healthy Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies who are above {c_number}80%{/c} Life.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 770F632C, Key: 57_name, Value: Damage vs Injured
+Hash: 75C04C16, Key: 57_tooltip, Value: {c_label}Bonus Damage vs Injured Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies who are below {c_number}35%{/c} Life.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: F34EBC7A, Key: 163_name, Value: Damage vs Bleeding
+Hash: 2E97CAA4, Key: 163_tooltip, Value: {c_label}Bonus Damage vs Bleeding Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies who are Bleeding.
+Hash: FCA35EFE, Key: 167_name, Value: Damage vs Burning
+Hash: 00898EA8, Key: 167_tooltip, Value: {c_label}Bonus Damage vs Burning Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies who are Burning.
+Hash: FA4E365D, Key: 166_name, Value: Damage vs Poisoned
+Hash: 8C0D1DA7, Key: 166_tooltip, Value: {c_label}Bonus Damage vs Poisoned Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies who are Poisoned.
+Hash: F7F90DBC, Key: 165_name, Value: Damage vs Shadow DoT
+Hash: 1790ACA6, Key: 165_tooltip, Value: {c_label}Bonus Damage vs Enemies Affected by Shadow Damage Over Time:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies who are affected by Shadow damage over time.
+Hash: F5A3E51B, Key: 164_name, Value: Damage vs Trapped
+Hash: A3143BA5, Key: 164_tooltip, Value: {c_label}Bonus Damage vs Trapped Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases damage dealt to enemies who are affected by a Rogue's {c_important}Trap{/c_important} Skills.
+Hash: 62AEE57C, Key: 147_name, Value: Damage while Healthy
+Hash: F8746C66, Key: 147_tooltip, Value: {c_label}Bonus Damage while Healthy:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while you are above {c_number}80%{/c} Life.
+{icon:bullet} You have {c_number}+{s2}{/c_number} of this stat from items and Paragon.
+Hash: 165D7617, Key: 205_name, Value: Damage while Fortified
+Hash: 84ADFB21, Key: 205_tooltip, Value: {c_label}Bonus Damage while Fortified:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while your {c_important}{u}Fortify{/u}{/c_important} is greater than or equal to your current Life.
+Hash: 726511EA, Key: 55_name, Value: Damage while Berserking
+Hash: 8CC76A14, Key: 55_tooltip, Value: {c_label}Bonus Damage while Berserking:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while you are {c_important}{u}Berserking{/u}{/c_important}.
+Hash: 014DB040, Key: 169_name, Value: Damage while Human
+Hash: E98270AA, Key: 169_tooltip, Value: {c_label}Bonus Damage while in Human Form:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while you are in Human Form.
+Hash: 39497F58, Key: 170_name, Value: Damage while Shapeshifted
+Hash: D52D08C2, Key: 170_tooltip, Value: {c_label}Bonus Damage while Shapeshifted:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while you are Shapeshifted. This includes both Werewolf and Werebear forms.
+{icon:bullet} Stacks with form-specific bonuses.
+Hash: F8A1DB18, Key: 233_name, Value: Damage while Werebear
+Hash: A7D4CC82, Key: 233_tooltip, Value: {c_label}Bonus Damage while in Werebear Form:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while Shapeshifted into a Werebear.
+Hash: FAF703B9, Key: 234_name, Value: Damage while Werewolf
+Hash: 1C513D83, Key: 234_tooltip, Value: {c_label}Bonus Damage while in Werewolf Form:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases your damage dealt while Shapeshifted into a Werewolf.
+Hash: 429E21DC, Key: 174_name, Value: Damage from Elite Kill
+Hash: A71ECCC6, Key: 174_tooltip, Value: {c_label}Bonus Damage Upon Killing an Elite:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You deal {c_number}{s1}{/c} bonus damage for {c_number}{s2}{/c_number} seconds after killing a Champion, Elite, Boss or Player.
+Hash: FEF8879F, Key: 168_name, Value: Damage from Warriors
+Hash: 7505FFA9, Key: 168_tooltip, Value: {c_label}Bonus Damage with Skeletal Warriors Active:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You deal {c_number}{s1}{/c} bonus damage while you have at least one Skeletal Warrior alive.
+Hash: 61028A37, Key: 214_name, Value: Damage from Mages
+Hash: 143C1B41, Key: 214_tooltip, Value: {c_label}Bonus Damage with Skeletal Mages Active:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You deal {c_number}{s1}{/c} bonus damage while you have at least one Skeletal Mage alive.
+Hash: 6357B2D8, Key: 215_name, Value: Damage from Golem
+Hash: 88B88C42, Key: 215_tooltip, Value: {c_label}Bonus Damage with Golem Active:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You deal {c_number}{s1}{/c} bonus damage while your Golem is alive.
+Hash: 5EAD6196, Key: 213_name, Value: Damage from Blood Orb
+Hash: 9FBFAA40, Key: 213_tooltip, Value: {c_label}Bonus Damage Upon Picking Up a Blood Orb:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You deal {c_number}{s1}{/c} bonus damage for {c_number}{s2}{/c_number} seconds after picking up a {c_important}{u}Blood Orb{/u}{/c_important}.
+Hash: 4048F93B, Key: 173_name, Value: Damage from Dodging
+Hash: 32A25BC5, Key: 173_tooltip, Value: {c_label}Bonus Damage Upon Dodging:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You deal {c_number}{s1}{/c} bonus damage for {c_number}{s2}{/c_number} seconds after Dodging an incoming attack.
+Hash: 7715DDF7, Key: 115_name, Value: Lucky Hit Execute
+Hash: 035BD701, Key: 115_tooltip, Value: {c_label}Lucky Hit Execute: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to instantly kill enemies who are below {c_number}35%{/c} Life when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+{icon:bullet} Cannot activate against Champions, Elites, Bosses, or Players.
+Hash: 700FE949, Key: 54_name, Value: Thorns
+Hash: 184AF913, Key: 54_tooltip, Value: {c_label}Thorns:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Deals damage to attackers when hit by direct attacks. Excludes attacks that are entirely damage over time.
+{icon:bullet} Damage dealt is affected by the Skill damage increase from your Strength.
+Hash: D47E3B64, Key: 299_name, Value: Thorns
+Hash: 7AFED94E, Key: 299_tooltip, Value: {c_label}Thorns:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Deals damage to attackers when hit by direct attacks. Excludes attacks that are entirely damage over time.
+{icon:bullet} Damage dealt is affected by the Skill damage increase from your Dexterity.
+Hash: F6F57FD3, Key: 300_name, Value: Thorns
+Hash: C39C7B5D, Key: 300_tooltip, Value: {c_label}Thorns:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Deals damage to attackers when hit by direct attacks. Excludes attacks that are entirely damage over time.
+{icon:bullet} Damage dealt is affected by the Skill damage increase from your Intelligence.
+Hash: F94AA874, Key: 301_name, Value: Thorns
+Hash: 3818EC5E, Key: 301_tooltip, Value: {c_label}Thorns:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Deals damage to attackers when hit by direct attacks. Excludes attacks that are entirely damage over time.
+{icon:bullet} Damage dealt is affected by the Skill damage increase from your Willpower.
+Hash: 4748731E, Key: 176_name, Value: Warrior Thorns
+Hash: 9017AEC8, Key: 176_tooltip, Value: {c_label}Bonus Thorns Inherited by your {c_label}Skeletal Warriors{/c_label}:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Your {c_important}Skeletal Warriors{/c_important} inherit {c_number}{s1}{/c_number} more Thorns from you than normal.
+{icon:bullet} Their total Thorns inherited from you is now {c_number}{s2}{/c_number}.
+Hash: 499D9BBF, Key: 177_name, Value: Mage Thorns
+Hash: 04941FC9, Key: 177_tooltip, Value: {c_label}Bonus Thorns Inherited by your {c_label}Skeletal Mages{/c_label}:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Your {c_important}Skeletal Mages{/c_important} inherit {c_number}{s1}{/c_number} more Thorns from you than normal.
+{icon:bullet} Their total Thorns inherited from you is now {c_number}{s2}{/c_number}.
+Hash: 4BF2C460, Key: 178_name, Value: Golem Thorns
+Hash: 791090CA, Key: 178_tooltip, Value: {c_label}Bonus Thorns Inherited by your {c_label}Golem{/c_label}:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Your {c_important}Golem{/c_important} inherits {c_number}{s1}{/c_number} more Thorns from you than normal.
+{icon:bullet} Its total Thorns inherited from you is now {c_number}{s2}{/c_number}.
+Hash: 79648BCD, Key: 58_name, Value: Maximum Life
+Hash: EA3CBD17, Key: 58_tooltip, Value: {c_label}Maximum Life: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} If you lose all your Life, you die.
+{icon:bullet} You have {c_number}{s3}{/c_number} Base Life at Level {c_number}{s2}{/c_number} and {c_number}{s4}{/c_number} bonus Life from other sources.
+Hash: 8D4335FC, Key: 183_name, Value: Minion Life Bonus
+Hash: 36ACECE6, Key: 183_tooltip, Value: {c_label}Minion Life Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Life of your summoned Minions. This includes your Skeletal Warriors, Skeletal Mages, and Golem.
+Hash: 1B07C759, Key: 207_name, Value: Warrior Life Bonus
+Hash: 6DA6DD23, Key: 207_tooltip, Value: {c_label}Maximum Skeletal Warrior Life Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Maximum Life of your Skeletal Warriors.
+Hash: 1D5CEFFA, Key: 208_name, Value: Mage Life Bonus
+Hash: E2234E24, Key: 208_tooltip, Value: {c_label}Maximum Skeletal Mage Life Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Maximum Life of your Skeletal Mages.
+Hash: 1FB2189B, Key: 209_name, Value: Golem Life Bonus
+Hash: 569FBF25, Key: 209_tooltip, Value: {c_label}Maximum Golem Life Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Maximum Life of your Golem.
+Hash: 1359054F, Key: 78_name, Value: Potion Capacity
+Hash: F251DF59, Key: 78_tooltip, Value: {c_label}Maximum Potion Capacity: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The total number of Healing Potions you can have available at a time.
+{icon:bullet} Includes the base {c_number}{s2}{/c_number} Potion Capacity you start with and {c_number}{s3}{/c_number} additional Capacity from Zone Progress and items.
+Hash: 4E47ED01, Key: 179_name, Value: Potion Drop Bonus
+Hash: ED8D01CB, Key: 179_tooltip, Value: {c_label}Potion Drop Rate Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the rate that Healing Potions are dropped from all sources.
+Hash: 8643BC19, Key: 180_name, Value: All Healing
+Hash: D93799E3, Key: 180_tooltip, Value: {c_label}Bonus to All Healing: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases healing received from all sources.
+Hash: 231C2753, Key: 102_name, Value: Healing from Potions
+Hash: A1DBF2DD, Key: 102_tooltip, Value: {c_label}Potion Healing Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases Life healed from Healing Potions.
+Hash: 9F5505D6, Key: 150_name, Value: Healing from Blood Orbs
+Hash: CD17E680, Key: 150_tooltip, Value: {c_label}Blood Orb Healing Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases healing received from {c_important}{u}Blood Orbs{/u}{/c_important}.
+Hash: 1103DCAE, Key: 77_name, Value: Lucky Hit Life
+Hash: 7DD56E58, Key: 77_tooltip, Value: {c_label}Lucky Hit Life: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You have a base 5% chance to heal {c_number}{s1}{/c_number} Life for every enemy you hit.
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 5DFE196F, Key: 87_name, Value: Life on Hit
+Hash: 81DFFF79, Key: 87_tooltip, Value: {c_label}Life on Hit: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You recover {c_number}{s1}{/c_number} Life every time you deal damage to an enemy.
+{icon:bullet} This applies to both direct damage and damage over time.
+Hash: E7E1A5F6, Key: 402_name, Value: Life on Kill
+Hash: 31F212A0, Key: 402_tooltip, Value: {c_label}Life on Kill: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You recover {c_number}{s1}{/c_number} Life for every enemy you kill.
+Hash: A3F8DC4D, Key: 94_name, Value: Life per Second
+Hash: 28753D97, Key: 94_tooltip, Value: {c_label}Life Regeneration per Second: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You recover {c_number}{s1}{/c_number} Life per second, both in and out of combat.
+Hash: BD0A260A, Key: 64_name, Value: Armor
+Hash: 1C558A34, Key: 64_tooltip, Value: {c_label}Armor: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming Physical damage taken, up to {c_number}{s6}{/c}.
+{icon:bullet} {c_number}{s7}{/c} Armor is required for maximum reduction from Level {c_number}{s8}{/c} enemies and beyond.
+{icon:bullet} You have {c_number}{s2}{/c_number} Armor from primary equipment stats, {c_number}{s3}{/c_number} Armor from your Strength, and {c_number}{s4}{/c_number} bonus Armor from other sources.
+Hash: DEE7C3FF, Key: 195_name, Value: Armor from Warriors
+Hash: 23B06009, Key: 195_tooltip, Value: {c_label}Bonus Armor with Skeletal Warriors Active: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Armor while you have at least one Skeletal Warrior alive.
+Hash: 5A031054, Key: 211_name, Value: Armor from Mages
+Hash: B6C6C83E, Key: 211_tooltip, Value: {c_label}Bonus Armor with Skeletal Mages Active: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Armor while you have at least one Skeletal Mage alive.
+Hash: 5C5838F5, Key: 212_name, Value: Armor from Golem
+Hash: 2B43393F, Key: 212_tooltip, Value: {c_label}Bonus Armor with Golems Active: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Armor while your Golem is alive.
+Hash: D7E84A1C, Key: 192_name, Value: Werebear Armor
+Hash: C63B0D06, Key: 192_tooltip, Value: {c_label}Bonus Armor while in Werebear Form: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Armor while Shapeshifted into a Werebear.
+Hash: 8F985E9D, Key: 184_name, Value: Werewolf Armor
+Hash: AB295DE7, Key: 184_tooltip, Value: {c_label}Bonus Armor while in Werewolf Form: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases your Armor while Shapeshifted into a Werewolf.
+Hash: 57ADE7B3, Key: 210_name, Value: Minion Armor
+Hash: 424A573D, Key: 210_tooltip, Value: {c_label}Bonus Armor for your Minions: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Armor of your summoned Minions. This includes your Skeletal Warriors, Skeletal Mages, and Golem.
+Hash: 14084D76, Key: 204_name, Value: Warrior Armor
+Hash: 10318A20, Key: 204_tooltip, Value: {c_label}Bonus Armor for your Skeletal Warriors: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Armor of your Skeletal Warriors.
+Hash: DC929B5E, Key: 194_name, Value: Mage Armor
+Hash: AF33EF08, Key: 194_tooltip, Value: {c_label}Bonus Armor for your Skeletal Mages: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Armor of your Skeletal Mages.
+Hash: DA3D72BD, Key: 193_name, Value: Golem Armor
+Hash: 3AB77E07, Key: 193_tooltip, Value: {c_label}Bonus Armor for your Golem: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the Armor of your Golem.
+Hash: B3B58386, Key: 60_name, Value: Block Chance
+Hash: 4A63C630, Key: 60_tooltip, Value: {c_label}Block Chance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} When you receive direct damage, you have a chance to Block it.
+{icon:bullet} Blocks reduce {c_number}{s2}{/c_number} of incoming damage.
+{icon:bullet} Equal to the equipped Shield's Block Chance.
+Hash: 2EC5F278, Key: 107_name, Value: Block Reduction
+Hash: E84A27E2, Key: 107_tooltip, Value: {c_label}Blocked Damage Reduction: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The portion of damage prevented when you Block direct damage.
+{icon:bullet} Equal to the equipped Shield's Blocked Damage Reduction.
+Hash: 91ED873E, Key: 185_name, Value: Minion Resist All
+Hash: 1FA5CEE8, Key: 185_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Minions: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces non-Physical damage taken by your summoned Minions. This includes your Skeletal Warriors, Skeletal Mages, and Golem.
+Hash: 85D7A35E, Key: 356_name, Value: Warrior Resist All
+Hash: 92BBF708, Key: 356_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Skeletal Warriors: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces non-Physical damage taken by your Skeletal Warriors.
+Hash: E3921541, Key: 197_name, Value: Mage Resist All
+Hash: 0CA9420B, Key: 197_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Skeletal Mages: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces non-Physical damage taken by your Skeletal Mages.
+Hash: E13CECA0, Key: 196_name, Value: Golem Resist All
+Hash: 982CD10A, Key: 196_tooltip, Value: {c_label}Bonus Resistance to All Elements for your Golem: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces non-Physical damage taken by your Golem.
+Hash: C8B3F12F, Key: 69_name, Value: All Damage Reduction
+Hash: 62C3BF39, Key: 69_tooltip, Value: {c_label}Damage Reduction from All Sources: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming damage taken from all sources, after applying your Armor or non-Physical Resistances.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 0BF3ED7C, Key: 309_name, Value: DoT Damage Reduction
+Hash: DBFC7466, Key: 309_tooltip, Value: {c_label}Damage Reduction from Damage Over Time: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming damage over time taken from all sources, after applying your Armor or non-Physical Resistances. This includes Bleeding, Burning, Poisoning, and Shadow damage over time, but not direct damage.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: D593217B, Key: 191_name, Value: Damage Reduction from Elites
+Hash: 51BE9C05, Key: 191_tooltip, Value: {c_label}Damage Reduction from Elites:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from Champions, Elites, Bosses and Players.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 055A1189, Key: 72_name, Value: Damage Reduction from Vulnerable
+Hash: 37673953, Key: 72_tooltip, Value: {c_label}Damage Reduction from Vulnerable Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from {c_important}{u}Vulnerable{/u}{/c_important} enemies.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: FB9FD115, Key: 302_name, Value: Damage Reduction from Slowed
+Hash: AC955D5F, Key: 302_tooltip, Value: {c_label}Damage Reduction from Slowed Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from Slowed enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including Slow, for the Staggered duration.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 07499C3A, Key: 307_name, Value: Damage Reduction from Chilled
+Hash: F3039264, Key: 307_tooltip, Value: {c_label}Damage Reduction from Chilled Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from {c_important}{u}Chilled{/u}{/c_important} enemies.
+{icon:bullet} After fully Staggering a Boss, they are considered affected by all Crowd Control types, including {c_important}{u}Chill{/u}{/c_important}, for the Staggered duration.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: F64CB277, Key: 232_name, Value: Damage Reduction from Close
+Hash: 33585B81, Key: 232_tooltip, Value: {c_label}Damage Reduction from Close Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from enemies in melee range.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 07AF3A2A, Key: 73_name, Value: Damage Reduction from Distant
+Hash: ABE3AA54, Key: 73_tooltip, Value: {c_label}Damage Reduction from Distant Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from enemies far away from you.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: B453737F, Key: 159_name, Value: Damage Reduction from DoT
+Hash: E577DF89, Key: 159_tooltip, Value: {c_label}Damage Reduction from Enemies Affected by Damage Over Time:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from enemies that are affected by any Damage Over Time effect. This includes Bleeding, Burning, Poisoning, and Shadow Damage Over Time.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: ADFCC6F8, Key: 224_name, Value: Damage Reduction from Bleeding
+Hash: 1846AC62, Key: 224_tooltip, Value: {c_label}Damage Reduction from Bleeding Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from enemies that are Bleeding.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: EC4F4297, Key: 160_name, Value: Damage Reduction from Burning
+Hash: D12277A1, Key: 160_tooltip, Value: {c_label}Damage Reduction from Burning Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from enemies that are Burning.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: EEA46B38, Key: 161_name, Value: Damage Reduction from Poisoned
+Hash: 459EE8A2, Key: 161_tooltip, Value: {c_label}Damage Reduction from Poisoned Enemies:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from enemies that are Poisoned.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: F0F993D9, Key: 162_name, Value: Damage Reduction from Shadow DoT
+Hash: BA1B59A3, Key: 162_tooltip, Value: {c_label}Damage Reduction from Enemies Affected by Shadow Damage Over Time:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from enemies that are affected by Shadow damage over time.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: ABA79E57, Key: 223_name, Value: Damage Reduction from Trapped
+Hash: A3CA3B61, Key: 223_tooltip, Value: {c_label}Damage Reduction from Enemies Affected by Traps:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken from enemies that are affected by a Rogue's {c_important}Trap{/c_important} Skills.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 18B29EB8, Key: 206_name, Value: Damage Reduction while Healthy
+Hash: F92A6C22, Key: 206_tooltip, Value: {c_label}Damage Reduction while Healthy:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken while you are above {c_number}80%{/c} Life.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: FDF4F9B6, Key: 303_name, Value: Damage Reduction while Injured
+Hash: 2111CE60, Key: 303_tooltip, Value: {c_label}Damage Reduction while Injured:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken while you are below {c_number}35%{/c} Life.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 4346EF38, Key: 242_name, Value: Damage Reduction while Fortified
+Hash: 3762ECA2, Key: 242_tooltip, Value: {c_label}Damage Reduction while Fortified:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken while your {c_important}{u}Fortify{/u}{/c_important} is greater than or equal to your current Life.
+{icon:bullet} Does not include the damage reduction inherently received from being {c_important}{u}Fortified{/u}{/c_important}.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: F3F789D6, Key: 231_name, Value: Damage Reduction with Barrier
+Hash: BEDBEA80, Key: 231_tooltip, Value: {c_label}Damage Reduction with an Active Barrier:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken while you have an active {c_important}{u}Barrier{/u}{/c_important}.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 0C598B6C, Key: 75_name, Value: Minion Damage Reduction
+Hash: 94DC8C56, Key: 75_tooltip, Value: {c_label}Damage Reduction for your Minions:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces incoming damage taken by your Minions from all sources. This includes your Skeletal Warriors, Skeletal Mages, and Golem.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 25714FF4, Key: 103_name, Value: Fortify Bonus
+Hash: 165863DE, Key: 103_tooltip, Value: {c_label}Fortify Generation Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the amount of {c_important}{u}Fortify{/u}{/c_important} generated from your {c_important}{u}Fortify{/u}{/c_important} effects.
+Hash: 27C67895, Key: 104_name, Value: Barrier Bonus
+Hash: 8AD4D4DF, Key: 104_tooltip, Value: {c_label}Barrier Generation Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Increases the amount of {c_important}{u}Barrier{/u}{/c_important} generated from your {c_important}{u}Barrier{/u}{/c_important} effects.
+Hash: B60AAC27, Key: 61_name, Value: Dodge Chance
+Hash: BEE03731, Key: 61_tooltip, Value: {c_label}Dodge Chance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} When you would receive direct damage, you have a chance to Dodge it.
+{icon:bullet} Dodged attacks deal no damage.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: C8D4703F, Key: 294_name, Value: Dodge Chance Against Close Enemies
+Hash: 3490A449, Key: 294_tooltip, Value: {c_label}Dodge Chance Against Close Enemies: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Your Dodge Chance is increased when you would be damaged by enemies in melee range.
+{icon:bullet} Your total Dodge Chance from Close enemies is {c_number}{s2}{/c_number}.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: CFD3EA22, Key: 297_name, Value: Dodge Chance Against Distant Enemies
+Hash: 9205F74C, Key: 297_tooltip, Value: {c_label}Dodge Chance Against Distant Enemies: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Your Dodge Chance is increased when you would be damaged by enemies far away from you.
+{icon:bullet} Your total Dodge Chance from Distant enemies is {c_number}{s2}{/c_number}.
+{icon:bullet} As this stat increases, additional bonuses become less effective.
+Hash: 0304E8E8, Key: 71_name, Value: Class Damage Reduction
+Hash: C2EAC852, Key: 71_tooltip, Value: {c_label}Class Damage Reduction: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Inherent damage reduction granted by your Class against monsters.
+Hash: 4FFF25A9, Key: 81_name, Value: Maximum {PRIMARY_RESOURCE}
+Hash: C6F55973, Key: 81_tooltip, Value: {c_label}Maximum {PRIMARY_RESOURCE}: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Used to cast various Skills.
+Hash: 52544E4A, Key: 82_name, Value: {PRIMARY_RESOURCE} Cost Reduction
+Hash: 3B71CA74, Key: 82_tooltip, Value: {c_label}{PRIMARY_RESOURCE} Cost Reduction: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Reduces the {PRIMARY_RESOURCE} cost of Skills that consume {PRIMARY_RESOURCE}.
+Hash: 728590FA, Key: 280_name, Value: Fury Regeneration
+Hash: 5E944F24, Key: 280_tooltip, Value: {c_label}Passive Fury Regeneration: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} You regenerate {c_number}{s1}{/c_number} Fury per second.
+{icon:bullet} Fury decays rapidly while out of combat.
+Hash: 808484C0, Key: 286_name, Value: Energy Regeneration
+Hash: 197EF52A, Key: 286_tooltip, Value: {c_label}Passive Energy Regeneration: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} You regenerate {c_number}{s1}{/c_number} Energy per second.
+Hash: C42A1EFD, Key: 292_name, Value: Mana Regeneration
+Hash: 4B97C247, Key: 292_tooltip, Value: {c_label}Passive Mana Regeneration: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} You regenerate {c_number}{s1}{/c_number} Mana per second.
+Hash: C1D4F65C, Key: 291_name, Value: Spirit Regeneration
+Hash: D71B5146, Key: 291_tooltip, Value: {c_label}Passive Spirit Regeneration: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} You regenerate {c_number}{s1}{/c_number} Spirit per second.
+Hash: BF7FCDBB, Key: 290_name, Value: Essence Regeneration
+Hash: 629EE045, Key: 290_tooltip, Value: {c_label}Passive Essence Regeneration: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} You regenerate {c_number}{s1}{/c_number} Essence per second.
+Hash: 79850ADD, Key: 283_name, Value: Fury Generation
+Hash: BC09A227, Key: 283_tooltip, Value: {c_label}Bonus Fury Generation: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Gaining Fury from any source grants {c_number}{s1}{/c_number} more Fury than normal.
+Hash: C67F479E, Key: 293_name, Value: Energy Generation
+Hash: C0143348, Key: 293_tooltip, Value: {c_label}Bonus Energy Generation: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Gaining Energy from any source grants {c_number}{s1}{/c_number} more Energy than normal.
+Hash: 772FE23C, Key: 282_name, Value: Mana Generation
+Hash: 478D3126, Key: 282_tooltip, Value: {c_label}Bonus Mana Generation: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Gaining Mana from any source grants {c_number}{s1}{/c_number} more Mana than normal.
+Hash: 74DAB99B, Key: 281_name, Value: Spirit Generation
+Hash: D310C025, Key: 281_tooltip, Value: {c_label}Bonus Spirit Generation: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Gaining Spirit from any source grants {c_number}{s1}{/c_number} more Spirit than normal.
+Hash: 7BDA337E, Key: 284_name, Value: Essence Generation
+Hash: 30861328, Key: 284_tooltip, Value: {c_label}Bonus Essence Generation: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Gaining Essence from any source grants {c_number}{s1}{/c_number} more Essence than normal.
+Hash: 6802041A, Key: 217_name, Value: Fury On Kill
+Hash: 71B16E44, Key: 217_tooltip, Value: {c_label}Fury On Kill: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You will restore {c_number}{s1}{/c_number} Fury for every enemy you kill.
+Hash: 6CAC555C, Key: 219_name, Value: Energy On Kill
+Hash: 5AAA5046, Key: 219_tooltip, Value: {c_label}Energy On Kill: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You will restore {c_number}{s1}{/c_number} Energy for every enemy you kill.
+Hash: A95275B6, Key: 222_name, Value: Mana On Kill
+Hash: 2F4DCA60, Key: 222_tooltip, Value: {c_label}Mana On Kill: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You will restore {c_number}{s1}{/c_number} Mana for every enemy you kill.
+Hash: A6FD4D15, Key: 221_name, Value: Spirit On Kill
+Hash: BAD1595F, Key: 221_tooltip, Value: {c_label}Spirit On Kill: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You will restore {c_number}{s1}{/c_number} Spirit for every enemy you kill.
+Hash: A4A82474, Key: 220_name, Value: Essence On Kill
+Hash: 4654E85E, Key: 220_tooltip, Value: {c_label}Essence On Kill: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You will restore {c_number}{s1}{/c_number} Essence for every enemy you kill.
+Hash: 4DA9FD08, Key: 80_name, Value: Movement Speed
+Hash: 5278E872, Key: 80_tooltip, Value: {c_label}Movement Speed:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You run at {c_number}{s1}{/c} of base Movement Speed.
+{icon:bullet} You may have a maximum of {c_number}{s2}{/c_number} Movement Speed, including bonuses.
+Hash: 5E04943A, Key: 145_name, Value: Elite Kill Movement Speed
+Hash: 0F7B8A64, Key: 145_tooltip, Value: {c_label}Bonus Movement Speed Upon Elite Kill:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You gain {c_number}{s1}{/c} Movement Speed for {c_number}{s2}{/c_number} seconds after killing a Champion, Elite, Boss or Player.
+Hash: 9F4E8B0B, Key: 92_name, Value: Cooldown Reduction
+Hash: 3F7C5B95, Key: 92_tooltip, Value: {c_label}Cooldown Reduction:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces the Cooldowns of all active Skills.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c}.
+Hash: A1AA2E77, Key: 151_name, Value: Shout Cooldown Reduction
+Hash: 41945781, Key: 151_tooltip, Value: {c_label}Cooldown Reduction for {c_important}Shouts{/c_important}:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces the cooldown of your {c_important}Shouts{/c_important}.
+{icon:bullet} Stacks with your normal Cooldown Reduction.
+Hash: A3FF5718, Key: 152_name, Value: Imbuement Cooldown Reduction
+Hash: B610C882, Key: 152_tooltip, Value: {c_label}Cooldown Reduction for Imbuements:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces the cooldown of your {c_important}Imbuements{/c_important}.
+{icon:bullet} Stacks with your normal Cooldown Reduction.
+Hash: A6547FB9, Key: 153_name, Value: Trap Cooldown Reduction
+Hash: 2A8D3983, Key: 153_tooltip, Value: {c_label}Cooldown Reduction for Traps:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces the cooldown of your {c_important}Traps{/c_important}.
+{icon:bullet} Stacks with your normal Cooldown Reduction.
+Hash: 9AA439C9, Key: 90_name, Value: Trap Arm Time Reduction
+Hash: 56837993, Key: 90_tooltip, Value: {c_label}Trap Arm Time Reduction:{/c} {c_number}{s1}{/c_number} seconds
+{icon:bullet} Reduces the time taken for your {c_important}Trap{/c_important} Skills to become activatable by {c_number}{s1}{/c_number} seconds.
+Hash: 8898E4BA, Key: 181_name, Value: Lucky Hit Chance Bonus
+Hash: 4DB40AE4, Key: 181_tooltip, Value: {c_label}Bonus Lucky Hit Chance:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases the chance of triggering Lucky Hit effects when your Skills deal damage.
+{icon:bullet} Base Lucky Hit Chance varies per Skill.
+{icon:bullet} If you have multiple Lucky Hit effects, their probabilities roll independently.
+Hash: 44F34A7D, Key: 175_name, Value: Lucky Hit Chance with Barrier
+Hash: 1B9B3DC7, Key: 175_tooltip, Value: {c_label}Bonus Lucky Hit Chance with an Active Barrier:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases the chance of triggering Lucky Hit effects when your Skills deal damage while you have an active {c_important}{u}Barrier{/u}{/c_important}.
+{icon:bullet} Base Lucky Hit Chance varies per Skill.
+{icon:bullet} If you have multiple Lucky Hit effects, their probabilities roll independently.
+Hash: 65040E1D, Key: 148_name, Value: Crowd Control Duration Bonus
+Hash: 6CF0DD67, Key: 148_tooltip, Value: {c_label}Crowd Control Duration Bonus:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases the duration of your outgoing Crowd Control effects, excluding Knockback.
+{icon:bullet} These effects include Slow, Immobilize, Stun, Knockdown, Taunt, Fear, Tether, {c_important}{u}Daze{/u}{/c_important}, {c_important}{u}Chill{/u}{/c_important}, and {c_important}{u}Freeze{/u}{/c_important}.
+Hash: B051EF99, Key: 225_name, Value: Chill Application
+Hash: 8CC31D63, Key: 225_tooltip, Value: {c_label}Chill Application Bonus:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Increases the effectiveness of your outgoing {c_important}{u}Chill{/u}{/c_important}, causing enemies to {c_important}{u}Freeze{/u}{/c_important} more quickly.
+Hash: 62A86AB1, Key: 89_name, Value: Impairment Reduction
+Hash: 6AD8E17B, Key: 89_tooltip, Value: {c_label}Control Impairment Duration Reduction:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces the duration of incoming Control Impairing Effects, excluding Knockback.
+{icon:bullet} These effects include Slow, Immobilize, Stun, Knockdown, Taunt, Fear, Tether, {c_important}{u}Daze{/u}{/c_important}, {c_important}{u}Chill{/u}{/c_important}, and {c_important}{u}Freeze{/u}{/c_important}.
+Hash: 3E9C9DF6, Key: 240_name, Value: Slow Duration Reduction
+Hash: 4E6A0AA0, Key: 240_tooltip, Value: {c_label}Slow Duration Reduction:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} Reduces the duration of incoming Slows.
+{icon:bullet} Stacks with Impairment Reduction.
+Hash: 51EEB05A, Key: 316_name, Value: Berserking Duration Bonus
+Hash: 8291B284, Key: 316_tooltip, Value: {c_label}Berserking Duration Bonus:{/c_label} {c_number}{s1}{/c_number}
+{icon:bullet} Increases the duration of {c_important}{u}Berserking{/u}{/c_important} granted by all sources.
+Hash: 2C70C9D7, Key: 106_name, Value: Shrine Duration Bonus
+Hash: 73CDB6E1, Key: 106_tooltip, Value: {c_label}Shrine Duration Bonus:{/c_label} {c_number}{s1}{/c_number}
+{icon:bullet} Increases the duration of buffs received from {c_important}Shrines{/c_important} in the world.
+Hash: 0C600637, Key: 133_name, Value: Lucky Hit {PRIMARY_RESOURCE}
+Hash: 22781741, Key: 133_tooltip, Value: {c_label}Lucky Hit {PRIMARY_RESOURCE}:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}5%{/c_number} chance to gain {c_number}{s1}{/c_number} {PRIMARY_RESOURCE} when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: E58C7D55, Key: 401_name, Value: Lucky Hit Vulnerable
+Hash: BD75A19F, Key: 401_tooltip, Value: {c_label}Lucky Hit Vulnerable:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to make enemies {c_important}{u}Vulnerable{/u}{/c_important} when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 6059BCDB, Key: 146_name, Value: Lucky Hit Slow
+Hash: 83F7FB65, Key: 146_tooltip, Value: {c_label}Lucky Hit Slow:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to Slow enemies when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 0EB52ED8, Key: 134_name, Value: Lucky Hit Immobilize
+Hash: 96F48842, Key: 134_tooltip, Value: {c_label}Lucky Hit Immobilize:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to Immobilize enemies when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 338A47FF, Key: 276_name, Value: Lucky Hit Daze
+Hash: 15746409, Key: 276_tooltip, Value: {c_label}Lucky Hit Daze:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to {c_important}{u}Daze{/u}{/c_important} enemies when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 0A0ADD96, Key: 132_name, Value: Lucky Hit Stun
+Hash: ADFBA640, Key: 132_tooltip, Value: {c_label}Lucky Hit Stun:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to Stun enemies when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 15B4A8BB, Key: 137_name, Value: Lucky Hit Knockdown
+Hash: F469DB45, Key: 137_tooltip, Value: {c_label}Lucky Hit Knockdown:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to Knockdown enemies when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 110A5779, Key: 135_name, Value: Lucky Hit Chill
+Hash: 0B70F943, Key: 135_tooltip, Value: {c_label}Lucky Hit Chill:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to {c_important}{u}Chill{/u}{/c_important} enemies when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 135F801A, Key: 136_name, Value: Lucky Hit Freeze
+Hash: 7FED6A44, Key: 136_tooltip, Value: {c_label}Lucky Hit Freeze:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to {c_important}{u}Freeze{/u}{/c_important} enemies when you damage them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 1A5EF9FD, Key: 139_name, Value: Lucky Crit Slow
+Hash: DD62BD47, Key: 139_tooltip, Value: {c_label}Lucky Crit Slow:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to Slow enemies when you Critically Strike them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 525AC915, Key: 140_name, Value: Lucky Crit Immobilize
+Hash: C90D555F, Key: 140_tooltip, Value: {c_label}Lucky Crit Immobilize:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to Immobilize enemies when you Critically Strike them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 35DF70A0, Key: 277_name, Value: Lucky Crit Daze
+Hash: 89F0D50A, Key: 277_tooltip, Value: {c_label}Lucky Crit Daze:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to {c_important}{u}Daze{/u}{/c_important} enemies when you Critically Strike them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 1809D15C, Key: 138_name, Value: Lucky Crit Stun
+Hash: 68E64C46, Key: 138_tooltip, Value: {c_label}Lucky Crit Stun:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to Stun enemies when you Critically Strike them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 595A42F8, Key: 143_name, Value: Lucky Crit Knockdown
+Hash: 2682A862, Key: 143_tooltip, Value: {c_label}Lucky Crit Knockdown:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to Knockdown enemies when you Critically Strike them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 54AFF1B6, Key: 141_name, Value: Lucky Crit Chill
+Hash: 3D89C660, Key: 141_tooltip, Value: {c_label}Lucky Crit Chill:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to {c_important}{u}Chill{/u}{/c_important} enemies when you Critically Strike them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 57051A57, Key: 142_name, Value: Lucky Crit Freeze
+Hash: B2063761, Key: 142_tooltip, Value: {c_label}Lucky Crit Freeze:{/c} {c_number}{s1}{/c_number}
+{icon:bullet} You have a base {c_number}{s1}{/c_number} chance to {c_important}{u}Freeze{/u}{/c_important} enemies when you Critically Strike them. 
+{icon:bullet} This probability scales with the Skill used and your Lucky Hit Chance Bonus.
+Hash: 8A81F4A0, Key: 358_name, Value: Experience Bonus
+Hash: 7BB4D90A, Key: 358_tooltip, Value: {c_label}Experience Bonus: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} You gain {c_number}{s1}{/c_number} more Experience from kills.
+{icon:bullet} Includes the {c_number}x{s2}{/c_number} bonus from being in World Tier {c_number}{s3}{/c_number}.
+Hash: 8CD71D41, Key: 359_name, Value: Death Blow Effect Size
+Hash: F0314A0B, Key: 359_tooltip, Value: {c_label}Death Blow Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Death Blow's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 18CCA2FD, Key: 373_name, Value: Double Swing Effect Size
+Hash: 3D5BC647, Key: 373_tooltip, Value: {c_label}Double Swing Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Double Swing's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 16777A5C, Key: 372_name, Value: Dust Devil Effect Size
+Hash: C8DF5546, Key: 372_tooltip, Value: {c_label}Dust Devil Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Dust Devil's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 142251BB, Key: 371_name, Value: Earthquake Effect Size
+Hash: 5462E445, Key: 371_tooltip, Value: {c_label}Earthquake Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Earthquake's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 11CD291A, Key: 370_name, Value: Ground Stomp Effect Size
+Hash: DFE67344, Key: 370_tooltip, Value: {c_label}Ground Stomp Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Ground Stomp's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: D9D15A02, Key: 369_name, Value: Hammer of the Ancients Effect Size
+Hash: F43BDB2C, Key: 369_tooltip, Value: {c_label}Hammer of the Ancients Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Hammer of the Ancients' size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: D77C3161, Key: 368_name, Value: Leap Effect Size
+Hash: 7FBF6A2B, Key: 368_tooltip, Value: {c_label}Leap Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Leap's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: D07CB77E, Key: 365_name, Value: Rend Effect Size
+Hash: 224A1728, Key: 365_tooltip, Value: {c_label}Rend Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Rend's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: D2D1E01F, Key: 366_name, Value: Rupture Effect Size
+Hash: 96C68829, Key: 366_tooltip, Value: {c_label}Rupture Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Rupture's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: D52708C0, Key: 367_name, Value: Upheaval Effect Size
+Hash: 0B42F92A, Key: 367_tooltip, Value: {c_label}Upheaval Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Upheaval's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 1B21CB9E, Key: 374_name, Value: Whirlwind Effect Size
+Hash: B1D83748, Key: 374_tooltip, Value: {c_label}Whirlwind Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Whirlwind's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 1D76F43F, Key: 375_name, Value: Cyclone Armor Effect Size
+Hash: 2654A849, Key: 375_tooltip, Value: {c_label}Cyclone Armor Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Cyclone Armor's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 1FCC1CE0, Key: 376_name, Value: Hurricane Effect Size
+Hash: 9AD1194A, Key: 376_tooltip, Value: {c_label}Hurricane Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Hurricane's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 22214581, Key: 377_name, Value: Maul Effect Size
+Hash: 0F4D8A4B, Key: 377_tooltip, Value: {c_label}Maul Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Maul's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 24766E22, Key: 378_name, Value: Pulverize Effect Size
+Hash: 83C9FB4C, Key: 378_tooltip, Value: {c_label}Pulverize Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Pulverize's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 26CB96C3, Key: 379_name, Value: Ravens Effect Size
+Hash: F8466C4D, Key: 379_tooltip, Value: {c_label}Ravens Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Ravens' size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 5EC765DB, Key: 380_name, Value: Blight Effect Size
+Hash: E3F10465, Key: 380_tooltip, Value: {c_label}Blight Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Blight's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 611C8E7C, Key: 381_name, Value: Blood Surge Effect Size
+Hash: 586D7566, Key: 381_tooltip, Value: {c_label}Blood Surge Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Blood Surge's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 6371B71D, Key: 382_name, Value: Bone Spirit Effect Size
+Hash: CCE9E667, Key: 382_tooltip, Value: {c_label}Bone Spirit Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Bone Spirit's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 65C6DFBE, Key: 383_name, Value: Corpse Explosion Effect Size
+Hash: 41665768, Key: 383_tooltip, Value: {c_label}Corpse Explosion Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Corpse Explosion's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 681C085F, Key: 384_name, Value: Corpse Tendrils Effect Size
+Hash: B5E2C869, Key: 384_tooltip, Value: {c_label}Corpse Tendrils Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Corpse Tendrils' size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 6A713100, Key: 385_name, Value: Decompose Effect Size
+Hash: 2A5F396A, Key: 385_tooltip, Value: {c_label}Decompose Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Decompose's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 6CC659A1, Key: 386_name, Value: Decrepify Effect Size
+Hash: 9EDBAA6B, Key: 386_tooltip, Value: {c_label}Decrepify Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Decrepify's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 6F1B8242, Key: 387_name, Value: Hemorrhage Effect Size
+Hash: 13581B6C, Key: 387_tooltip, Value: {c_label}Hemorrhage Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Hemorrhage's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 7170AAE3, Key: 388_name, Value: Iron Maiden Effect Size
+Hash: 87D48C6D, Key: 388_tooltip, Value: {c_label}Iron Maiden Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Iron Maiden's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 73C5D384, Key: 389_name, Value: Sever Effect Size
+Hash: FC50FD6E, Key: 389_tooltip, Value: {c_label}Sever Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Sever's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: ABC1A29C, Key: 390_name, Value: Caltrops Effect Size
+Hash: E7FB9586, Key: 390_tooltip, Value: {c_label}Caltrops Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Caltrops' size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: AE16CB3D, Key: 391_name, Value: Flurry Effect Size
+Hash: 5C780687, Key: 391_tooltip, Value: {c_label}Flurry Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Flurry's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: B06BF3DE, Key: 392_name, Value: Poison Trap Effect Size
+Hash: D0F47788, Key: 392_tooltip, Value: {c_label}Poison Trap Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Poison Trap's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: B2C11C7F, Key: 393_name, Value: Shadow Imbuement Effect Size
+Hash: 4570E889, Key: 393_tooltip, Value: {c_label}Shadow Imbuement Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Shadow Imbuement's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: B5164520, Key: 394_name, Value: Stun Grenades Effect Size
+Hash: B9ED598A, Key: 394_tooltip, Value: {c_label}Stun Grenades Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Stun Grenades' size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: B76B6DC1, Key: 395_name, Value: Blizzard Effect Size
+Hash: 2E69CA8B, Key: 395_tooltip, Value: {c_label}Blizzard Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Blizzard's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: B9C09662, Key: 396_name, Value: Firewall Effect Size
+Hash: A2E63B8C, Key: 396_tooltip, Value: {c_label}Firewall Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Firewall's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: BC15BF03, Key: 397_name, Value: Frost Nova Effect Size
+Hash: 1762AC8D, Key: 397_tooltip, Value: {c_label}Frost Nova Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Frost Nova's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: BE6AE7A4, Key: 398_name, Value: Incinerate Effect Size
+Hash: 8BDF1D8E, Key: 398_tooltip, Value: {c_label}Incinerate Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Incinerate's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: C0C01045, Key: 399_name, Value: Meteor Effect Size
+Hash: 005B8E8F, Key: 399_tooltip, Value: {c_label}Meteor Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Meteor's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: E33754B4, Key: 400_name, Value: Teleport Effect Size
+Hash: 48F9309E, Key: 400_tooltip, Value: {c_label}Teleport Effect Size Bonus: {/c}{c_number}{s1}{/c_number}
+{icon:bullet} Teleport's size is increased by {c_number}{s1}{/c_number}.
+{icon:bullet} This amount is capped at {c_number}{s2}{/c_number}.
+Hash: 00AFC047, Key: 70_name, Value: Damage Reduction
+Hash: 4E6E5751, Key: 70_tooltip, Value: {c_label}PvP Damage Reduction: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Inherent damage reduction granted against other Players in PvP.
+{icon:bullet} Stacks with all other sources of Damage Reduction.
+Hash: 796B0698, Key: 116_name, Value: Gold
+Hash: 77D84802, Key: 116_tooltip, Value: {c_label}Gold:{/c}
+{icon:bullet} The main currency of Sanctuary, used across most Vendors and Crafters. 
+{icon:bullet} Can be used to refund points invested into the Skill Tree or Paragon.
+{icon:bullet} Earned from most activities in Sanctuary and selling items.
+Hash: 7E1557DA, Key: 118_name, Value: Obols
+Hash: 60D12A04, Key: 118_tooltip, Value: {c_label}Murmuring Obols:{/c}
+{icon:bullet} Used to purchase items from the Purveyor of Curiosities.
+{icon:bullet} Earned from random Events in Sanctuary.
+Hash: 7BC02F39, Key: 117_name, Value: Red Dust
+Hash: EC54B903, Key: 117_tooltip, Value: {c_label}Red Dust:{/c}
+{icon:bullet} Used to purchase items from PvP Vendors in Dry Steppes and Kehjistan.
+{icon:bullet} Earned from Altars of Extraction by successfully purifying Seeds of Hatred.
+{icon:bullet} Seeds of Hatred are only obtainable in PvP zones.
+Hash: 4644E535, Key: 311_name, Value: Midwinter Proofs
+Hash: 3C237D7F, Key: 311_tooltip, Value: {c_label}Midwinter Proofs:{/c}
+{icon:bullet} Used to purchase Event Rewards from Gileon at the Midwinter Square in Kyovashad.
+{icon:bullet} Earned by exchanging Event Materials (Blighted Fragments, Lost Heirlooms, Red-Cloaked Trophy) at the Midwinter Square’s Collections Table in Kyovashad.
+Hash: 38DD669D, Key: 346_name, Value: Fire Resistance
+Hash: 8EB165E7, Key: 346_tooltip, Value: {c_label}Fire Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming Fire damage by {c_number}{s1}{/c_number}. This applies to both direct Fire damage and Burning damage over time.
+{icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
+{icon:bullet} You currently have {c_number}+{s3}{/c_number} Fire Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Fire Resistance).
+Hash: 7C8300DA, Key: 352_name, Value: Lightning Resistance
+Hash: C0CA3304, Key: 352_tooltip, Value: {c_label}Lightning Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming Lightning damage by {c_number}{s1}{/c_number}.
+{icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
+{icon:bullet} You currently have {c_number}+{s3}{/c_number} Lightning Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Lightning Resistance).
+Hash: 83827ABD, Key: 355_name, Value: Cold Resistance
+Hash: 1E3F8607, Key: 355_tooltip, Value: {c_label}Cold Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming Cold damage by {c_number}{s1}{/c_number}.
+{icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
+{icon:bullet} You currently have {c_number}+{s3}{/c_number} Cold Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Cold Resistance).
+Hash: 7ED8297B, Key: 353_name, Value: Poison Resistance
+Hash: 3546A405, Key: 353_tooltip, Value: {c_label}Poison Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming Poison damage by {c_number}{s1}{/c_number}. This applies to both direct Poison damage and Poisoning damage over time.
+{icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
+{icon:bullet} You currently have {c_number}+{s3}{/c_number} Poison Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Poison Resistance).
+Hash: 812D521C, Key: 354_name, Value: Shadow Resistance
+Hash: A9C31506, Key: 354_tooltip, Value: {c_label}Shadow Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces incoming Shadow damage by {c_number}{s1}{/c_number}. This applies to both direct Shadow damage and Shadow damage over time.
+{icon:bullet} This value is capped at your Maximum Resistance of {c_number}{s2}{/c_number}. Maximum Resistance can be increased by various sources, but cannot exceed {c_number}{s5}{/c_number}.
+{icon:bullet} You currently have {c_number}+{s3}{/c_number} Shadow Resistance from bonuses and {c_number}-{s6}{/c_number} from penalties ({c_number}{s4}{/c_number} away from your Maximum Shadow Resistance).

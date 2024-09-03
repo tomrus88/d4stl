@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: When you Stun, {c_important}{u}Freeze{/u}{/c}, or Immobilize an Elite, you Pull In all Nearby enemies and deal {c_random}[Affix_Value_1|%x|]{/c} increased damage to them for {c_number}[Affix."Static Value 0"]{/c} seconds. Can only occur once every {c_number}[Affix."Static Value 1"]{/c} seconds.
+
+Against Bosses, this effect triggers when dealing damage instead.

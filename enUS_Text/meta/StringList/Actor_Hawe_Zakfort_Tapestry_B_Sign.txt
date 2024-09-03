@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Solemn Oath is Sworn
+Hash: F2CA04D8, Key: NoticeSignText, Value: And those that loved Sankekur the most bore his body to the edge of the world, and swore to keep it safe from those who would seek the evil that still poured from it.

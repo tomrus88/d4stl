@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Stemming the Tide
+Hash: 0871A46B, Key: Toast, Value: Shambling hordes of the drowned threaten Marowen's livelihood.
+Hash: 99097489, Key: Phase4Description, Value: Drowned are invading the Northshore, landlocking the fishermen. The villagers of Marowen rely on fish to keep themselves fed. If the problem isn’t dealt with, they risk starvation.
+
+One fisherman, Aigidh, hired me to hunt the Drowned along the Cursed Scarpes. 
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay Drowned: {DONE_OVER_NEEDED}
+Hash: C9FCD1EA, Key: Phase5Description, Value: The Drowned population has been lessened along the shore. I should return to Aigidh and tell her they can resume fishing. 
+Hash: 398557AF, Key: Callback9Header, Value: Return to Aigidh

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Protean Axe
+Hash: 13A53A8B, Key: Series, Value: "Crypt Hunter"
+Hash: A646FFA4, Key: Description, Value: Adaptation is the key to survival. This spade fulfills the role of both an implement of death, and a means to dispose of the body.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Asheara
+Hash: A646FFA4, Key: Description, Value: Using this item adds Asheara to your Pet Collection in the Wardrobe.

@@ -1,0 +1,2 @@
+Hash: 14C66756, Key: Buff3_Name, Value: Stun Cooldown
+Hash: 16451099, Key: Buff3_Description, Value: Close Stun not ready.

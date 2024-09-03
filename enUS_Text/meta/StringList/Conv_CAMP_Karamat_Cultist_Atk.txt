@@ -1,0 +1,3 @@
+Hash: 33A0C1EC, Key: Line41.371E1, Value: This is as far as you’ll go!
+Hash: CD953B6E, Key: Line43.371E1, Value: You won’t leave here alive!
+Hash: 6789B4F0, Key: Line45.371E1, Value: The Light can’t protect you here!

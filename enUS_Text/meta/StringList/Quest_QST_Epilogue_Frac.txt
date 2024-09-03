@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: A Heavy Burden
+Hash: 0871A46B, Key: Toast, Value: Search for Neyrelle at the Horadric Vault.
+Hash: D53BFF05, Key: Phase0Description, Value: While Lorath takes Donan to his final resting place, I am to search the Horadric Vault in hopes that Neyrelle took the Soulstone there for safe keeping.
+Hash: 1EADAE68, Key: Callback2Header, Value: Search for Neyrelle in the Horadric Vault
+Hash: C9FCD1EA, Key: Phase5Description, Value: Neyrelle was not at the vault, though she clearly stopped in to steal something. The glass case that once held the charts of the old empire is shattered, and in their place rests a tightly rolled and sealed scroll.
+Hash: B8A227EA, Key: Callback4Header, Value: Inspect the Runed Letter
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Search for Neyrelle in the Horadric Vault
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Search for Neyrelle in the Horadric Vault
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Search for Neyrelle at the Horadric Vault
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: There was no sign of Neyrelle at the desert chapel. I should go to the Horadric Vault to see if she returned there while Lorath heads to Firebreak Manor.

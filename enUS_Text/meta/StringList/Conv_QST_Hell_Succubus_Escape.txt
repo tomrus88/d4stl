@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Ninsa, Blight of Hatred
+Hash: 8EE98F4D, Key: Line1.131D49, Value: This is not over yet. I will draw out your suffering.
+Hash: DF1FBB1A, Key: VoiceDir1.131D49, Value: Venmous. She was losing the fight, so she has to fly away and recover (she will fight us later in the story). But she wants to save face and make it feel like she's still winning.

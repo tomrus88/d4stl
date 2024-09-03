@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Quiet of the Grave
+Hash: A646FFA4, Key: Description, Value: Rathma spent years contemplating the mysteries of life and death alone, in the stifling quiet of a vacant temple.
+Hash: 083EE0CE, Key: Quote, Value: The mysteries reveal themselves only in silence.
+Hash: 13A53A8B, Key: Series, Value: "Ancient Deathspeaker" Accessories

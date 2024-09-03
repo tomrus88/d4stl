@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Every {c_number}{SF_0}{/c} seconds, your next attack will {c_important}{u}Overpower{/u}{/c}.
+Hash: 101C1614, Key: Buff1_Name, Value: Glyph: Dominate
+Hash: 7786FD97, Key: Buff1_Description, Value: Your next attack will {c_important}{u}Overpower{/u}{/c}.

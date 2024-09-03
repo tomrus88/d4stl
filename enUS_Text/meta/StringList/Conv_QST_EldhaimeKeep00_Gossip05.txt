@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Gossip
+Hash: 5D23008B, Key: Line1.B79B0, Value: Oh, no. You another one of his bootlickers? Donan this. Donan that. People always going on about the man like he’s a god among us.
+Hash: CC2C66B8, Key: VoiceDir1.B79B0, Value: Annoyed. Mocking for "Donan this. Donan that."
+Hash: 910BF38F, Key: Line5.B79B0, Value: Where was he when the Knights Penitent scoffed at our offerings to the forest? Hm?
+Hash: 001559BC, Key: VoiceDir5.B79B0, Value: Angry
+Hash: 2B006D11, Key: Line7.B79B0, Value: I'll tell you where, up in his pretty keep. Prancing about like the cock of the walk.
+Hash: 9A09D33E, Key: VoiceDir7.B79B0, Value: Angry

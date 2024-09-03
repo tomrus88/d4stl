@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I won't submit myself to this."
+Hash: 925779D5, Key: Line1.1BCD2B, Value: Not to worry, wanderer! You're only here to bear witness.
+Hash: E28DA5A2, Key: VoiceDir1.1BCD2B, Value: Wolfish grin. Preparing to ascend.

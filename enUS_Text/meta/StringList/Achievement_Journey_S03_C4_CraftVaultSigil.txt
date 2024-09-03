@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Harnessing Nightmares
+Hash: 3A4912CF, Key: DescShort, Value: Craft a Vault Sigil at the {icon:Marker_Essence, 2.5} Occultist

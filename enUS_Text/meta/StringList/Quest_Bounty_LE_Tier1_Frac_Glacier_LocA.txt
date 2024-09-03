@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Fields of Judgment Event
+Hash: 0871A46B, Key: Toast, Value: Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.
+Hash: 538236DE, Key: Callback17Header, Value: Complete an event in {LEVELAREA}

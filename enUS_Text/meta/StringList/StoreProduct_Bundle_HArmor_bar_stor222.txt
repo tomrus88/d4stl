@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Ivory Titan
+Hash: A646FFA4, Key: Description, Value: Commissioned as a gift for the Council of Elders at Sescheron, this armor was crafted from the bones of mighty beasts that once roamed the Kehjan Empire. The Elders debated returning it but kept it out of respect...for the beasts.
+Hash: 083EE0CE, Key: Quote, Value: Honor the mighty.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

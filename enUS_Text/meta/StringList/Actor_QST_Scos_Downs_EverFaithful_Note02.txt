@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Broken Restraints
+Hash: F2CA04D8, Key: NoticeSignText, Value: Heavy chains, bolted to the floor. A few of the links have snapped.

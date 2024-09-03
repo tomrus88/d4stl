@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Exquisite Blood
+Hash: A646FFA4, Key: Description, Value: Used in Ancients' Seat within The Darkened Way in Fractured Peaks to summon a powerful enemy. Requires {c_number}9{/c}. Collected from World Bosses, Legion Events, and the Blood Maiden in Helltides. 
+
+Drops randomly from Elites, Local Events, Treasure Goblins, Whisper Caches, and Hellborne.
+Hash: F5C7BC0A, Key: Flavor, Value: You can almost feel a heartbeat through the glass.

@@ -1,0 +1,28 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5B6CAC74, Key: Line21.6E5FE, Value: (exhale)
+Hash: ABA2D841, Key: VoiceDir21.6E5FE, Value: exhales smoke from pipe
+Hash: F56125F6, Key: Line23.6E5FE, Value: (grunt)
+Hash: 459751C3, Key: VoiceDir23.6E5FE, Value: grunts in approval
+Hash: 92A6EF02, Key: Line25.EC166, Value: (gurgling)
+Hash: E2DD1ACF, Key: VoiceDir25.EC166, Value: blood-gurgling exhale as he dies
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Dammit, Elias...
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: under his breath, angry
+Hash: F413C4CC, Key: Line3.6D03F, Value: I warned you not to walk this path...
+Hash: 8E083E4E, Key: Line5.6D03F, Value: (grunts)
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: exertion from yanking chisel away
+Hash: 2821C590, Key: Line7.8DD12, Value: Lorath. Have you --
+Hash: 972B2BBD, Key: VoiceDir7.8DD12, Value: cold, with a smirk
+Hash: 6F4F3D1B, Key: Line11.8DD12, Value: (gurgles)
+Hash: BF8568E8, Key: VoiceDir11.8DD12, Value: gurgle/groan of pain from getting stabbed
+Hash: 091EA8DD, Key: Line13.6D03F, Value: (gasp)
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: seeing the spell/missing body
+Hash: A30D468C, Key: Line15.789BF, Value: (screams)
+Hash: F3437259, Key: VoiceDir15.789BF, Value: terrified scream
+Hash: 294394EF, Key: Line27.789BF, Value: (breathing)
+Hash: 7979C0BC, Key: VoiceDir27.789BF, Value: hysterical breathing
+Hash: 3D079BE1, Key: Line17.6D03F, Value: Please! Come with me!
+Hash: 8D3DC7AE, Key: VoiceDir17.6D03F, Value: urgent
+Hash: D6FCBD9B, Key: Line19.6E5FE, Value: (growls)
+Hash: 2732E968, Key: VoiceDir19.6E5FE, Value: growl, then beat, then indistinct battle cry
+Hash: C33E927C, Key: Line29.6E5FE, Value: (battle cry)
+Hash: 1374BE49, Key: VoiceDir29.6E5FE, Value: indistinct battle cry

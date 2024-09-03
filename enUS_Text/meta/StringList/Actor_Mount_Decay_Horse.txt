@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Decaying Steed
+Hash: CC38ADCB, Key: FlavorName, Value: Dripping and bleeding, this diseased husk looks like it should have died long ago.

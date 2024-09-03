@@ -1,0 +1,3 @@
+Hash: 76E748CE, Key: 0_desc, Value: Taissa has sent Lorath and Neyrelle deep into the marshes to look for someone named Timue who holds the secret of how to find the Tree of Whispers.
+Hash: 793C716F, Key: 1_desc, Value: Timue's cryptic instructions mention being tested by "The Swamp". Whatever that means, I need to find the ruins of a town called Yngovani and enter a temple of snake worship. There I will find a special incense needed for this test.
+Hash: 7B919A10, Key: 2_desc, Value: I have opened the temple built into the cave on the edge of Yngovani. The incense must be inside, but I suspect, so is a fierce snake named Mohlon.

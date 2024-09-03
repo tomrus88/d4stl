@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Nature's Fury
+Hash: 003892BF, Key: desc, Value: Casting an {c_important}Earth{/c} Skill has a {c_number}{SF_0}%{/c} chance to trigger a free {c_important}Storm{/c} Skill of the same category, and vice versa.
+
+In addition, these free Skills count as both {c_important}Earth{/c} and {c_important}Storm{/c} Skills.

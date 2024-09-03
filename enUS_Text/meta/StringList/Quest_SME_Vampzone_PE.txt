@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Harvest
+Hash: 0871A46B, Key: Toast, Value: Slay the Vampire Hordes, rescue villagers, impede rituals

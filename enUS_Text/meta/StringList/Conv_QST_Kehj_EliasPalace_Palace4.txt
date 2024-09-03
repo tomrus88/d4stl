@@ -1,0 +1,6 @@
+Hash: A313225F, Key: Line15.6D03F, Value: (sigh) It is over.
+Hash: F3494E2C, Key: VoiceDir15.6D03F, Value: Relieved, thinking Elias is dead.
+Hash: D6FC1563, Key: Line19.6D03F, Value: We should find the Sightless Eye while we still have time. We can’t leave it with these fanatics.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: Relieved, thinking Elias is dead. Turning his attention on what he sees as another threat: the Sightless Eye.
+Hash: AD87FBD5, Key: Line21.BAE4, Value: Hold on. I see something. Blood petals.
+Hash: 1C916202, Key: VoiceDir21.BAE4, Value: Curious

@@ -1,0 +1,2 @@
+Hash: 5D28A609, Key: Line1.AAE9B, Value: It’s working.
+Hash: CC320C36, Key: VoiceDir1.AAE9B, Value: excited

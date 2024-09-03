@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Lorath
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Forgive my familiarity as I write. Harsh words better tell the tale of hard times.
+Hash: F413C4CC, Key: Line3.6D03F, Value: Maybe the end of those times nears. Our leader, the archangel Tyrael, led us to this vault before setting off on a task of his own. He’s entrusted me to lead in his place.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: A little more optimistic then Lorath usually is--this is written decades ago.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: The rebirth of the Horadric Order is up to the few of us who remain.

@@ -1,0 +1,4 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Natural Balance
+Hash: C6E60718, Key: Buff2_Description, Value: {c_important}Storm{/c} Skills Critical Strike Chance increased.
+Hash: 14C66756, Key: Buff3_Name, Value: Natural Balance
+Hash: 16451099, Key: Buff3_Description, Value: {c_important}Earth{/c} Skills Critical Strike Damage increased.

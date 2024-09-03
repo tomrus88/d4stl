@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Merchant
+Hash: F2CA04D8, Key: NoticeSignText, Value: One of the merchants who was with Perithan. Anything of value has been stripped from the body.

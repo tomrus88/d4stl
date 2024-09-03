@@ -1,0 +1,4 @@
+Hash: 5D85493D, Key: Line1.FEC80, Value: Help! Help me!
+Hash: CC8EAF6A, Key: VoiceDir1.FEC80, Value: Struggling against captors. Shouting. Terrified. Desperate.
+Hash: F3E76270, Key: Line3.54239, Value: Stop struggling!
+Hash: 62F0C89D, Key: VoiceDir3.54239, Value: To captive. Irritated. Violent.

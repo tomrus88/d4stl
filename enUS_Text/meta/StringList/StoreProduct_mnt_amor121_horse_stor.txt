@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Madness by degrees brings insight, they say. The search is without and within.
+Hash: 003DFCC1, Key: Name, Value: Lyssa's Coat
+Hash: 13A53A8B, Key: Series, Value: "Host of Chaos"

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 673744FD, Key: Line3.103673, Value: Do you feel it? The hatred lingers here like smoke.
+Hash: 3FBAEEBF, Key: Line5.103673, Value: This is where we must perform the ritual. Place the cursed blades here.

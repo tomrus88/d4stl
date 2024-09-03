@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Blood anoints those who spill it. To be awash in the life of another is to know true power.
+Hash: 003DFCC1, Key: Name, Value: Gift of the Pit
+Hash: 13A53A8B, Key: Series, Value: "Bathed in Blood"

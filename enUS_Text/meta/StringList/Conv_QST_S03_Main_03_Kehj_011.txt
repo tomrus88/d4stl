@@ -1,0 +1,4 @@
+Hash: 18E96351, Key: Line7.18AEA4, Value: (pants) What... What happened? Who are you? What are you doing in the Gatehall?
+Hash: 691F8F1E, Key: VoiceDir7.18AEA4, Value: Panting. Catching his breath.
+Hash: F16D0D13, Key: Line9.18AEA4, Value: What am I doing here?
+Hash: 41A338E0, Key: VoiceDir9.18AEA4, Value: Finding his strength

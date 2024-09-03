@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Large Book
+Hash: F2CA04D8, Key: NoticeSignText, Value: A hefty tome entitled "A Guide to the Weights and Measures of Ancient Kehjan: Volume II". The pages are well-worn and riddled with handwritten notes.

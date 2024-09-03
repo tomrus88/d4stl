@@ -1,0 +1,4 @@
+Hash: 3D1A9141, Key: Line17.7DD22, Value: The beasts can't resist the scent of blood, even their own. I've enough here to lure out a few. Care to join the hunt?
+Hash: 8D50BD0E, Key: VoiceDir17.7DD22, Value: A seasoned hunter. Confident. Inviting. Grinning.
+Hash: 4EDA4CA6, Key: Line48.7DD23, Value: The beasts can't resist the scent of blood, even their own. I've enough here to lure out a few. Care to join the hunt?
+Hash: 9F107873, Key: VoiceDir48.7DD23, Value: A seasoned hunter. Confident. Inviting. Grinning.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Rogue: True Potential
+Hash: 0871A46B, Key: Toast, Value: I decide to speak to Leyrana, a master rogue, to see if they can help me begin to unlock my full potential. 
+Hash: A5EFB09D, Key: Phase26Description, Value: Search for Bakira within the Forsaken Quarry.
+Hash: A5CF923D, Key: Callback25Header, Value: Inspect Bakira's Corpse
+Hash: 13BA663E, Key: Phase45Description, Value: Search for Bakira within the Forsaken Quarry.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Defeat Bakira's ghost

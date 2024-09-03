@@ -1,0 +1,4 @@
+Hash: 89908DD6, Key: 8_desc, Value: Neyrelle, Vigo, and I have discovered a massive and wondrous cave below the mines of Yelesna. Here we must resume our pursuit of Lilith and Vhenard.
+Hash: 76E748CE, Key: 0_desc, Value: Neyrelle, Vigo, and I have discovered a massive and wondrous cave below the mines of Yelesna. Here we must resume our pursuit of Lilith and Vhenard.
+Hash: 7DE6C2B1, Key: 3_desc, Value: Evidence points to Lilith and Vhenard entering the City of the Ancients. Neyrelle and I must continue our pursuit.
+Hash: 803BEB52, Key: 4_desc, Value: Lilith and Vhenard's trail leads Neyrelle and I to the Mourning Shore.

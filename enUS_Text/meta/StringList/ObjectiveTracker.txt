@@ -1,0 +1,42 @@
+Hash: 344716C6, Key: Optional, Value: {icon:Mastery_Icon, 1.8} {c:FFdba864}Mastery: {/c}
+Hash: 1152AF65, Key: Reward, Value: {s1}
+Hash: 9A1BC3A0, Key: RewardLootChestImproved, Value: Loot Chest Improved
+Hash: EB345922, Key: DungeonKeyHeader, Value: {s2} (Tier {s1})
+Hash: 09CCA2FD, Key: PVPShardTrackerHeader, Value: Fields of Hatred
+Hash: 46191B38, Key: PVPShardTrackerDescription, Value: Purify Seeds of Hatred at an Altar of Extraction to turn them into Red Dust
+Hash: 19038268, Key: PVPShardsOfHatred, Value: Seeds of Hatred
+Hash: EF4BFB1C, Key: PVPShardsOfHatredCleansing, Value: Purifying Seeds of Hatred
+Hash: 4E8F2ED8, Key: PVPShardCleansingFail, Value: Ritual fails in
+Hash: E3B8071D, Key: PVPShardRitualSlotLoose, Value: Loosing slot in 
+Hash: 5504E47D, Key: DungeonKeyRevives, Value: Revives remaining: {c_green}{s1}{/c}
+Hash: A7C3D2F5, Key: PVPVesselOfHatred, Value: Hatred's Chosen
+Hash: 92EF3975, Key: PVPVesselOfHatred_Player_Progress, Value: {s1} 's Progress
+Hash: 7E1A02BC, Key: PVPVesselOfHatred_Default_Description, Value: Defeat players to gain Hatred
+Hash: 6948FC1B, Key: PVPVesselOfHatred_Status_Description, Value: Survive and remain in the Fields of Hatred to be rewarded
+Entering town will remove the status
+Hash: 09133D3D, Key: PVPVesselOfHatred_ProgressAmount, Value: {c:FFdba864}{s1} / {c:FF928c82}{s2}
+Hash: 14614AE5, Key: NewContentLabel, Value: Update
+Hash: 14C6CB97, Key: NewContentQuest, Value: New Quests Available!
+Hash: 3E1C6861, Key: BountyExpires, Value: {icon:Tracker_Bounty_Timer, 1.7}  {s1}
+Hash: EA7CE5F9, Key: HelltideBody, Value: Slay monsters to collect Aberrant Cinders, and use that to unlock rewards
+Hash: D821A457, Key: HelltideCurrencyName, Value: Aberrant Cinders
+Hash: CF99A6D1, Key: HelltideDuration, Value: Helltide: {icon:Tracker_Bounty_Timer, 1.5}{c:FFbf6b31}{s1}{/c}
+Hash: 8A9655F4, Key: HelltideHeader, Value: Helltide Zone
+Hash: 5826D476, Key: BountyProgress, Value: {c:FFdba864}{s1} / {c:FF928c82}{s2}
+Hash: E688AAE4, Key: Reminder_NewQuests, Value: New Quests Available!
+Hash: 040BFDC5, Key: Reminder_AccessMap, Value: {hotkey:Map} Map & Journal
+Hash: 0001E16A, Key: New, Value: New
+Hash: 689F7009, Key: QuestProgress_Update, Value: {c:FFbf6b31}{s1}{/c} progressed
+Hash: 7B7E7F62, Key: Quest_Progress_Value, Value: {c:FFdba864}{s1} / {c:FF928c82}{s2}
+Hash: 46F0D014, Key: PVPShardTracker, Value: {c:FFdba864}{s1} / {c:FF928c82}{s2}
+Hash: E4CD05B8, Key: PVPEvent, Value: PVP Event
+Hash: 3A53C88D, Key: HelltideEvent, Value: Helltide
+Hash: 01F0E10D, Key: SharingCampaignState, Value: Sharing {s1}'s campaign
+Hash: F94E8E6A, Key: Duration_Minutes, Value: {s1}m
+Hash: BD0CE6F4, Key: Duration_Seconds, Value: {s1}s
+Hash: 3B902494, Key: SME_Vampzone_Name, Value: Blood Harvest
+Hash: 34DC3D80, Key: SME_S03_OpenWorldActivity, Value: Arcane Tremors
+Hash: 8C4A93E8, Key: EventDuration, Value: {icon:Tracker_Bounty_Timer, 1.5}{c:FFbf6b31}{s1}{/c}
+Hash: D9028169, Key: DungeonComplete, Value: Dungeon cleared
+Hash: 794FD8B1, Key: ChallengeRiftComplete, Value: Your Gauntlet Run has Completed. You may now exit the dungeon.
+Hash: 4FE7DB0C, Key: CellarComplete, Value: Cellar cleared

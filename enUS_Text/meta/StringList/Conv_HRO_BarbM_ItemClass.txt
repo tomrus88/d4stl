@@ -1,0 +1,2 @@
+Hash: F84BE745, Key: Line5.BAE4.Bar.M, Value: I can't equip this.
+Hash: 8B25FF68, Key: Line8.BAE4.Bar.M, Value: This is not meant for me.

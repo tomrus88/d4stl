@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Sly Steps
+Hash: 003892BF, Key: Desc, Value: When you would accumulate {c_number}[Affix_Value_1]%{/c} of your Maximum Life lost, you automatically cast an equipped {c_important}Defensive{/c}, {c_important}Subterfuge{/c} or {c_important}Macabre{/c} Skill before receiving damage. Can only occur once every {c_random}[Affix_Value_2]{/c} seconds and cannot cast {c_important}Mobility{/c} Skills.

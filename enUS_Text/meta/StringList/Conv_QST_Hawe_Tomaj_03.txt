@@ -1,0 +1,6 @@
+Hash: 6736ED00, Key: Line3.101BAB, Value: Wait... do you hear that?
+Hash: B76D18CD, Key: VoiceDir3.101BAB, Value: Pauses, having heard someone cry out nearby.
+Hash: 3FBA9B07, Key: Line5.101CAF, Value: Help! Someone, please!
+Hash: 8FF0C6D4, Key: VoiceDir5.101CAF, Value: Panicked; calling out for help.
+Hash: 8EB3433E, Key: Line1.101BAB, Value: There! Up on the ship mast!
+Hash: DEE96F0B, Key: VoiceDir1.101BAB, Value: Pointing, having found the source of the noise he heard.

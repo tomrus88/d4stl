@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0} * 100 |x%|]{/c} increased damage for {c_number}{SF_1}{/c} |4second:seconds; after casting a {c_important}Defensive{/c} Skill. This duration is increased by {c_number}{SF_1}{/c} seconds for each {c_important}Defensive{/c} Skill not on your Action Bar.
+Hash: A99E3406, Key: Buff12_Name, Value: Glyph: Tactician
+Hash: D621B749, Key: Buff12_Description, Value: Damage increased after casting a {c_important}Defensive{/c} Skill.

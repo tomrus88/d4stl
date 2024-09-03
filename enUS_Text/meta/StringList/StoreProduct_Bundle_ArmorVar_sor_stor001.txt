@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Magic of the Sands
+Hash: A646FFA4, Key: Description, Value: The swirling sands of the Kehjistani landscape hold secrets few sorcerers dare to discover. In a land as dangerous as it is ancient, power lies in waiting for those brave enough to take it.
+Hash: 083EE0CE, Key: Quote, Value: Nomadic magi delving into the mysteries of the Kehjistan wastes.
+Hash: 13A53A8B, Key: Series, Value: Sorcerer Armor

@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How has she survived out here, all this time?"
+Hash: 5D71D84F, Key: Line1.ED393, Value: She's infected. I don't know why, but I've heard they're not bothered by anything out here.
+Hash: 4460A722, Key: Line4.ED90F, Value: The swamp doesn't harm what it thinks belongs to it.
+Hash: 78499A26, Key: Line8.ED90F, Value: I've been here, waiting, all these years. I never thought you'd come back, but to hear your voice again... that's all I've ever wanted.
+Hash: DE550814, Key: Line6.ED393, Value: You'll hear it every day, mother. I won't leave you, not again.
+Hash: 25827F9F, Key: Line10.ED393, Value: Without my friend here, I don't think I would have made it. You've helped me find home again. Thank you, and farewell.

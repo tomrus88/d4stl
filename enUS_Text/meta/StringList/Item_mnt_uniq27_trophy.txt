@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Horadric Tome
+Hash: A646FFA4, Key: Description, Value: A codex of knowledge and secrets particular to the Horadrim, kept at a rider's easy reach for consultation on the go.

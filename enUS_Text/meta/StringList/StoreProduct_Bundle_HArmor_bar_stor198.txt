@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sounds of War
+Hash: A646FFA4, Key: Description, Value: From the moment I don the armor, something in me changed. My fear gave way to rage and the clamor of battle became music to my ears. -Tylk the Battler
+Hash: 083EE0CE, Key: Quote, Value: A cacophony of violence.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

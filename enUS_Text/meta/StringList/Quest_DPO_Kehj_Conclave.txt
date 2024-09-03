@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: A sanctum of atrocity.
+Hash: FD700C3A, Key: Callback40Header, Value: Slay all enemies in the Infested Laboratory {KAM_REVEALED_COUNT}
+Hash: E7B37160, Key: Callback91Header, Value: Search the Slain Villagers for the {ITEM}
+Hash: F61E7DE1, Key: Callback74Header, Value: Travel to the {LEVELAREA}
+Hash: DD0D3424, Key: Callback77Header, Value: Slay the {MONSTER}s: {LEFT}
+Hash: AE775FBE, Key: Callback80Header, Value: Slay the Swarm Master
+Hash: 7C54CC44, Key: Callback86Header, Value: Use the Laboratory Key to open the {GIZMO}
+Hash: 6896A125, Key: Callback96Header, Value: Travel to the {LEVELAREA}

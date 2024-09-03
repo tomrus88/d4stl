@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Guulrahn
+Hash: 003892BF, Key: Desc, Value: The blood-soaked streets where cannibals feed.

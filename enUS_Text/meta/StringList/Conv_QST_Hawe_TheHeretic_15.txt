@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where could Aneta have gone?"
+Hash: 5D6A2C8A, Key: Line1.F52F0, Value: Tch, she goes to a horrid cave just outside of town to sulk.
+Hash: CC7392B7, Key: VoiceDir1.F52F0, Value: The player asked where your troublesome daughter has gone. Condescending and rude.
+Hash: 91531F8E, Key: Line5.F52F0, Value: If she's gone anywhere, it's probably there. (cough)
+Hash: 005C85BB, Key: VoiceDir5.F52F0, Value: The player asked where your troublesome daughter has gone. Condescending and rude.

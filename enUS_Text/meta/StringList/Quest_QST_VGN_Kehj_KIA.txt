@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bandit wave for Thicker Than Water
+Hash: D53BFF05, Key: Phase0Description, Value: This discription text will not be displayed.
+Hash: C9FCD1EA, Key: Phase5Description, Value: This description text will not be displayed.
+Hash: 1EADAE68, Key: Callback2Header, Value: Defeat Malik and his gang

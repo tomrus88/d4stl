@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Remnants of Faith
+Hash: F7671DBD, Key: Line3.EDC71, Value: You can't be serious, Tomyris. Maugan's Folly is lost. In ruins. Going back is...
+Hash: 667083EA, Key: VoiceDir3.EDC71, Value: Sympathetic, but tired. Downtrodden. Voice trails off at the end, remembering "what happened last time"
+Hash: 8ED7735D, Key: Line1.121C9F, Value: This isn't like before. This isn't for the fort, for Akarat. Surely you understand that.
+Hash: 18853AF4, Key: Line7.140002, Value: (grumbling)
+Hash: 68BB66C1, Key: VoiceDir7.140002, Value: Knowing you should do something, but still not wanting to.

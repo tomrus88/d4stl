@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I believe you were possessed by a demon."
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: A demon?
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: processing, in the midst of revelation
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: …Yes. Yes, I understand. It metastasized faster than I expected. We must- (winces)
+Hash: 5983F75B, Key: Line10.18AEA4, Value: (grunts) Stiff joints. Forgive me – I need a moment.
+Hash: B07F9CC8, Key: VoiceDir10.18AEA4, Value: in pain

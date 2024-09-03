@@ -1,0 +1,2 @@
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: No more time to rest. You should check on Donan. We’ll meet you at the Zakarum Keep later.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Determined

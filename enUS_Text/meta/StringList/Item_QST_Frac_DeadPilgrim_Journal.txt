@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Pilgrim's Journal
+Hash: A646FFA4, Key: Description, Value: "A Cold Faith"
+Hash: F5C7BC0A, Key: Flavor, Value: Looking forward to my studies at the Cathedral. I hope I'll find peace there. Perhaps Priest Malone back in Margrave will see me as an equal now? Doubtful, but I should at least earn his respect...

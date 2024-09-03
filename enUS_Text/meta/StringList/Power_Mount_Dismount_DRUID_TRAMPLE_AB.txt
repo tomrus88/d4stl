@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Pummel
+Hash: 003892BF, Key: desc, Value: Shapeshift into a Werebear as you leap from your mount and slam the ground, dealing {c_number}{altpayload:PAYLOAD_LANDING_DAMAGE}{/c} damage and Knocking Down enemies hit for {c_number}{buffduration:KNOCKDOWN}{/c} seconds.
+Hash: F2DE8628, Key: simple_desc, Value: Dismount - Slam

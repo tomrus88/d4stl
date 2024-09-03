@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Chilling Weight
+Hash: 003892BF, Key: desc, Value: {c_important}{u}Chilled{/u}{/c} enemies have their Movement Speed further reduced by up to {c_number}[{SF_0} * 100|%|]{/c} and you gain {c_number}[{SF_1} * 100|%x|]{/c} increased {c_important}{u}Chill{/u}{/c} effect.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Movement Speed Reduction {icon:arrow,1.2} {c_number}[{SF_0} * 100|%|]{/c}
+{icon:bullet,1.2} Increased {c_important}{u}Chill{/u}{/c} Effect {icon:arrow,1.2} {c_number}[{SF_1}*100|%x|]{/c}

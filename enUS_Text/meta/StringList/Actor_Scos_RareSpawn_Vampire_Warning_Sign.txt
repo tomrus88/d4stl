@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: LORD EÒNAN
+
+A gaunt figure has been spotted in the Dark Thicket, in the Deep Forest to the south. The possibility that the blood-mad Lord Eònan has returned from the grave is too dangerous to ignore.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

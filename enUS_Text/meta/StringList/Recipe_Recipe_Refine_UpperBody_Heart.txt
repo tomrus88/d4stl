@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Transmute Malignant - Heart
+Hash: 9E3ACE5E, Key: Category, Value: Summoning Item

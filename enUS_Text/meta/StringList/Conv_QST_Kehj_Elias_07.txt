@@ -1,0 +1,14 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have news of Elias."
+Hash: 5B662869, Key: Line21.789BF, Value: Did you kill him?
+Hash: AB9C5436, Key: VoiceDir21.789BF, Value: Hopeful that we killed Elias, but she doesn't know the full story yet
+Hash: 091EA8DD, Key: Line13.6D03F, Value: More than once, in fact. Trouble is he won’t stay dead.
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: frustrated
+Hash: F55AA1EB, Key: Line23.789BF, Value: Hmm, he is more powerful than I thought. I underestimated him.
+Hash: 4590CDB8, Key: VoiceDir23.789BF, Value: Disappointed
+Hash: 7B96CC21, Key: Line35.6D03F, Value: So did I.
+Hash: C33DEA44, Key: Line29.6D03F, Value: But we took something important from him, at least. The Sightless Eye. I think he was using it to commune with Lilith from afar.
+Hash: 13741611, Key: VoiceDir29.6D03F, Value: Eye is reference to Sightless Eye, which we took from Elias in the previous beat of the story
+Hash: 158569D0, Key: Line37.789BF, Value: A powerful piece of magic.
+Hash: 47ADD91D, Key: Line31.6D03F, Value: And dangerous.
+Hash: E1A2529F, Key: Line33.6D03F, Value: Perhaps we can use it to our advantage. Give me some time to study it.
+Hash: 31D87E6C, Key: VoiceDir33.6D03F, Value: Mulling over the possibilities

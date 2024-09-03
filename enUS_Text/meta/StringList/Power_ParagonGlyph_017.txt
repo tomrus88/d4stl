@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Whenever you {c_important}{u}Chill{/u}{/c} or {c_important}{u}Freeze{/u}{/c} an enemy, you deal {c_number}[{SF_0}*100|%x|]{/c} increased Cold damage for {c_number}[{SF_2}]{/c} seconds, up to {c_number}[{SF_0}*{SF_3}*100|%x|]{/c}.
+Hash: 12713EB5, Key: Buff2_Name, Value: Glyph: Winter
+Hash: C6E60718, Key: Buff2_Description, Value: Cold damage increased by {c_important}{u}Chilling{/u}{/c} an enemy.

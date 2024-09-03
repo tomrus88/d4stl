@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Weapon of a Wolf
+Hash: 0871A46B, Key: Toast, Value: Barez, an Iron Wolf at the Palace Library, may be interested in this recovered sword.
+Hash: D53BFF05, Key: Phase0Description, Value: Barez, an Iron Wolf at the Palace Library, may be interested in this recovered sword.
+Hash: 059C64AB, Key: Callback5Header, Value: Return the sword to an Iron Wolf

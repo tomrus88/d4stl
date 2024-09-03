@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: OMW
+Hash: 8EB3213A, Key: Line1.1029AF, Value: I'm coming, Corik...
+Hash: DEE94D07, Key: VoiceDir1.1029AF, Value: Shaky but calmed from his previous hysteria 

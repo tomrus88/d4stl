@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can you remember anything else?" 
+Hash: 8EE1AC36, Key: Line1.11F5A1, Value: Symon tried to convince us to join them. He said they sought sacred and hidden knowledge.
+Hash: DF17D803, Key: VoiceDir1.11F5A1, Value: Pronounciation: Simon
+Hash: 676555F8, Key: Line3.11F5A1, Value: I didn't believe that, and I tried to convince Symon to remain with us. He didn't listen.
+Hash: 3FE8FFBA, Key: Line5.11F5A1, Value: He said if we changed our minds, they were venturing east, to an underground camp marked by tusks in the marshes.

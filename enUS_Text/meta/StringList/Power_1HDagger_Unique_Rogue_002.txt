@@ -1,0 +1,2 @@
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Asheara's Khanjar
+Hash: 53C1369D, Key: Buff7_Description, Value: Increased Attack Speed per stack.

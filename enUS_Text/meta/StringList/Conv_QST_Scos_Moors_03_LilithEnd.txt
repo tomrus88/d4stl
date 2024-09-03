@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Lilith
+Hash: 5D3B8DF4, Key: Line1.BD31C, Value: Come to me, spawn of Hatred. We have tender meat to hunt.
+Hash: CC44F421, Key: VoiceDir1.BD31C, Value: Lilith calling to the Amalgam of Hatred beast. She calling it to her from afar (we can't see her on screen). The "tender meat" is a reference to easier prey--not like the Hero, who is tough.

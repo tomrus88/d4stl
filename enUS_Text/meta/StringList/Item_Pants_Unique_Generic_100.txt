@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Temerity
+Hash: F5C7BC0A, Key: Flavor, Value: "The revelation that master tailor Callas was in fact a witch only served to further fuel the desire for her uniquely enchanted legwraps."
+- Barrett's Book of Implements

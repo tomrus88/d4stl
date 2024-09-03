@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Skinner
+Hash: 003892BF, Key: Desc, Value: Collect 250 Rawhide
+Hash: 3A4912CF, Key: DescShort, Value: Collect Rawhide.

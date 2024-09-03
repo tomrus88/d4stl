@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: The Midwinter Blight
+Hash: 0871A46B, Key: Toast, Value: An old tradition, the Midwinter Blight, is a symbol of hope in a difficult time. 
+Hash: D53BFF05, Key: Phase0Description, Value: Speak with Gileon the Bard in Kyovashad to learn more about the Midwinter Blight.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Gileon the Bard in Kyovashad
+Hash: E2223B19, Key: Phase22Description, Value: Collect Midwinter Materials from Blightfiends, Frigid Husks, and the Red-Cloaked Horror in Fractured Peaks. Exchange them for a Midwinter Proof at the Collection's Table in Kyovashad.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Gather and exchange Midwinter Materials for a Midwinter Proof

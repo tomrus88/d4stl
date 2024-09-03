@@ -1,0 +1,4 @@
+Hash: 5D3281B4, Key: Line1.C1CD2, Value: Ohh, what a lucky day! (lucky day...)
+Hash: CC3BE7E1, Key: VoiceDir1.C1CD2, Value: Elated. Celebrating. ((Voices of the Tree overlap/echo))
+Hash: C2163F12, Key: Line9.8DD12, Value: Shut your wretched mouths! We want to hear this...
+Hash: 311FA53F, Key: VoiceDir9.8DD12, Value: Interrupting. Irritated and barking at the other heads.

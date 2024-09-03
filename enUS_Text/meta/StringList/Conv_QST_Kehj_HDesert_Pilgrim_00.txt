@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you injured?"
+Hash: F7671DBC, Key: Line3.EDC70, Value: Y-yes, I... (groans)
+Hash: 667083E9, Key: VoiceDir3.EDC70, Value: In terrible pain. Difficulty speaking.

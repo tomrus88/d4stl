@@ -1,0 +1,7 @@
+Hash: 46D1521C, Key: DebugMenu, Value: BLIZZCON DEBUG MENU
+Hash: 07C882A9, Key: DebugInstruction, Value: -blizzcondebug to hide/show the debug menu
+Hash: A203D030, Key: LoadSnapshot, Value: Load Snapshot
+Hash: 9BF3D646, Key: ControllerInstruction, Value: {icon:l_horiz,2.75} Switch Class      {icon:button1,2} Select Class
+Hash: 1A6E9F38, Key: ControllerInstruction2, Value: {icon:l_horiz,2.75} Change Appearance     {icon:button1,2} Play    {icon:button2,2} Back
+Hash: 2EB4E04E, Key: EmailAddress, Value: Enter Blizzard Email Address
+Hash: C16AE3F0, Key: PlayGame, Value: Play

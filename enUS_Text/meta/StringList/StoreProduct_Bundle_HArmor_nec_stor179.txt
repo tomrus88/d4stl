@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Herald of Pestilence
+Hash: A646FFA4, Key: Description, Value: "Balance isn't kept with the waving of fingers or the wielding of scythes. Balance is kept through the application of will and manipulation of Sanctuary's forces." - Talbot
+Hash: 083EE0CE, Key: Quote, Value: Discrete bringer of death.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

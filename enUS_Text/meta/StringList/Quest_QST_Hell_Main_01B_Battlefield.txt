@@ -1,0 +1,39 @@
+Hash: 003DFCC1, Key: Name, Value: In Desolation's Wake
+Hash: 0871A46B, Key: Toast, Value: Search for Inarius in Hell
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Rejoin your allies in in the Burning Hells
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Along with Donan, Lorath and Neyrelle I continue this journey through the Realm of Hatred in the Burning Hells, to find and confront Lilith.
+Hash: ECC46394, Key: Phase348Description, Value: Prava said that Inarius followed Lilith into the spire. With the Soulstone in our hands, we still have a chance to stop her.
+Hash: 8041CF5C, Key: Phase348OutsideSubzoneHeader, Value: Speak to Donan in the Burning Hells
+Hash: 335D0654, Key: Callback347Header, Value: Speak to Donan
+Hash: FFC72A7A, Key: Phase355OutsideSubzoneHeader, Value: Escort your Horadrim allies through Hell
+Hash: 1F9EDB35, Key: Callback357Header, Value: Escort your allies through the Realm of Hatred
+Hash: 8B827696, Key: Phase368Description, Value: Demons continue to ambush us. I must defeat them so we can continue the journey to the spire. We must stop Lilith.
+Hash: 659A649E, Key: Phase368OutsideSubzoneHeader, Value: Defeat the ambushers
+Hash: 0BE0B016, Key: Callback367Header, Value: Defeat the ambushers in the Burning Hells
+Hash: 8439F270, Key: Phase371Description, Value: Prava said that Inarius followed Lilith into the spire. With the Soulstone in our hands, we still have a chance to stop her.
+Hash: A0EBD5B8, Key: Phase371OutsideSubzoneHeader, Value: Escort your Horadrim allies through the Burning Hells
+Hash: DD4ADBB0, Key: Callback370Header, Value: Escort your allies through the Realm of Hatred
+Hash: DAE18017, Key: Phase378Description, Value: Prava said that Inarius followed Lilith into the spire. With the Soulstone in our hands, we still have a chance to stop her.
+Hash: D846AF3F, Key: Phase378OutsideSubzoneHeader, Value: Return to your Horadrim allies in the Burning Hells
+Hash: C2E930CD, Key: Callback403Header, Value: Return to your allies
+Hash: 28049D35, Key: Phase448Description, Value: Prava said that Inarius followed Lilith into the spire. With the Soulstone in our hands, we still have a chance to stop her.
+Hash: 48776E1D, Key: Phase448OutsideSubzoneHeader, Value: Kill Karum, Hound of Hatred in the Burning Hells
+Hash: F184E335, Key: Callback519Header, Value: Kill Karum, Hound of Hatred
+Hash: A10E7FF1, Key: Phase462Description, Value: Prava said that Inarius followed Lilith into the spire. With the Soulstone in our hands, we still have a chance to stop her.
+Hash: 47822459, Key: Phase462OutsideSubzoneHeader, Value: Defeat the demons ambushing in the Burning Hells
+Hash: B27FB491, Key: Callback461Header, Value: Defeat the demons
+Hash: 33E89814, Key: Phase465Description, Value: We have the Soulstone. There is some hope that we can stop Lilith. We have to keep going, but the Burning Hells is throwing everything at us.
+Hash: 3AA913DC, Key: Phase465OutsideSubzoneHeader, Value: Speak to Lorath
+Hash: 996E6AD4, Key: Callback464Header, Value: Speak to Lorath
+Hash: C6C2B037, Key: Phase468Description, Value: We find ourselves confronted by a terror known as Ashava. This huge demon could tear us asunder, but it must be defeated if we are to find and stop Lilith.
+Hash: 2DD0035F, Key: Phase468OutsideSubzoneHeader, Value: Defeat Ashava in the Burning Hells
+Hash: 805D2117, Key: Callback467Header, Value: Defeat Ashava
+Hash: 0BE68E18, Key: Callback486Header, Value: Speak to Lorath
+Hash: ED8CCF4B, Key: Phase510Description, Value: Prava said that Inarius followed Lilith into the spire. With the Soulstone in our hands, we still have a chance to stop her.
+Hash: 304058F3, Key: Phase510OutsideSubzoneHeader, Value: Guide your Horadrim allies through the Twisted Pathway
+Hash: FC2B2071, Key: Callback533Header, Value: Guide your allies through the Twisted Pathway
+Hash: E7208D98, Key: Phase524OutsideSubzoneHeader, Value: Speak to Lorath in the Burning Hells
+Hash: 0FE94B90, Key: Callback523Header, Value: Speak to Lorath
+Hash: 1FC9C834, Key: Phase555Description, Value: Prava said that Inarius followed Lilith into the spire. With soulstone in our hands we still have a chance to stop her.
+Hash: 903267FC, Key: Phase555OutsideSubzoneHeader, Value: Follow Lorath in the Burning Hells
+Hash: F4D99218, Key: Callback567Header, Value: Follow Lorath

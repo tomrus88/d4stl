@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Lunar Awakening
+Hash: 0871A46B, Key: Toast, Value: The shrines of Sanctuary are enchanted with immense and prosperous power.
+Hash: B8A227EA, Key: Callback4Header, Value: Find and use Lunar Shrines to raise your Ancestral Favor with Ying-Yue
+Hash: 3722B9C7, Key: Phase2Description, Value: I should speak with Ying-Yue in Ked Bardu to learn more about the Lunar Awakening.
+Hash: D29F0719, Key: Callback12Header, Value: Speak with Ying-Yue in Ked Bardu
+Hash: E2223B19, Key: Phase22Description, Value: I've increased my Ancestral Favor. I should return to Ying-Yue in Ked Bardu.
+Hash: 71E69F39, Key: Callback21Header, Value: Speak with Ying-Yue in Ked Bardu

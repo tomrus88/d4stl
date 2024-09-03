@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: of Imitated Imbuement
+Hash: 003892BF, Key: Desc, Value: Your Shadow Clones also mimic the {c_important}Imbuements{/c} applied to your Skills. 
+Casting an {c_important}Imbuement{/c} Skill grants your active {c_important}Shadow Clone{/c} {c_random}[Affix_Value_1|%x|]{/c} increased damage for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Your Shadow Clones also mimic the {c_important}Imbuements{/c}. Casting {c_important}Imbuement{/c} Skill grants your active {c_important}Shadow Clone{/c} {c_random}[Affix_Value_1|%x|]{/c} increased damage.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will the Great Oak heal?"
+Hash: 5D28A609, Key: Line1.AAE9B, Value: Ah, we’ll see. This place used to be blooming with magic and nature. The Tree was the heart of it.
+Hash: CC320C36, Key: VoiceDir1.AAE9B, Value: worried
+Hash: 2B06128F, Key: Line7.AAE9B, Value: Many of the Túr Dúlra runestones were destroyed during the Days of Ash, but if one survived, we might be able to use it to heal the Tree. If not, it may never recover.
+Hash: 9A0F78BC, Key: VoiceDir7.AAE9B, Value: deep concern.
+Hash: 9111990D, Key: Line5.AAE9B, Value: The chances are very slim but, perhaps you could search through the rubble for it?
+Hash: 001AFF3A, Key: VoiceDir5.AAE9B, Value: hopeful

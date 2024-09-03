@@ -1,0 +1,2 @@
+Hash: 8EF252E7, Key: Line1.12BBC6, Value: No! NO! How is she still fighting?
+Hash: DF287EB4, Key: VoiceDir1.12BBC6, Value: surprised, confused.

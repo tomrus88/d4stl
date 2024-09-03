@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why did you whisper to me?"
+Hash: 5D6A30AD, Key: Line1.F53E3, Value: You're the one trying to help Aneta. She's such a kind soul, she doesn't deserve any of this.
+Hash: CC7396DA, Key: VoiceDir1.F53E3, Value: Kindly, sad. Pronounciation: Ah-net-uh
+Hash: 915323B1, Key: Line5.F53E3, Value: She wants to cure her "curse". There's an old book of folk remedies that mentions "tainted blood". If you find it, perhaps you can figure out where she went.
+Hash: 005C89DE, Key: VoiceDir5.F53E3, Value: Kindly, sad but this information is important.
+Hash: 2B479D33, Key: Line7.F53E3, Value: And please, hurry. You might be the only other person in all of Hawezar who cares what happens to that girl.
+Hash: 9A510360, Key: VoiceDir7.F53E3, Value: Kindly, sad, pleading for help.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Northshore Events
+Hash: 0871A46B, Key: Toast, Value: Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Complete events in different areas of the Northshore: {DONE_OVER_NEEDED}

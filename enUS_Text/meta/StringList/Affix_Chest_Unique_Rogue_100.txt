@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: While you have unlimited Energy from {c_important}Inner Sight{/c}, casting a {c_important}Core{/c} Skill has a {c_random}[Affix_Value_1|%|]{/c} chance to spawn {c_important}Caltrops{/c}, {c_important}Poison Trap{/c}, or {c_important}Death Trap{/c}.

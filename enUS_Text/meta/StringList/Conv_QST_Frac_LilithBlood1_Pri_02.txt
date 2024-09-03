@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found a petal of blood."
+Hash: 8F20EA94, Key: Line1.163AA1, Value: Ah! You see? You see how the petal pulses as it touches your skin? You are sullied, just as I said! The demon burrows into your soul!
+Hash: DF571661, Key: VoiceDir1.163AA1, Value: Vindicated, energized.
+Hash: 67A49456, Key: Line3.163AA1, Value: A terrible fate. But… perhaps Voszalko will help you. An exorcism. This is what you need.
+Hash: B7DAC023, Key: VoiceDir3.163AA1, Value: With ego-driven benevolence. Voszalko is pronounced (voh-shall-koh).
+Hash: 40283E18, Key: Line5.163AA1, Value: Go to Mercy’s Reach, search the crypts. You will find a holy relic – the Child’s Caul, touched by the Angel himself. I will require this to purge the blood.

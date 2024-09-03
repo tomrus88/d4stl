@@ -1,0 +1,2 @@
+Hash: 5D6B43A2, Key: Line1.F7383, Value: Cathedral said we’ll have paved roads, yet here I am! Keepin’ the mud tidy.
+Hash: CC74A9CF, Key: VoiceDir1.F7383, Value: To Player, complaining while she sweeps. 

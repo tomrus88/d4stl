@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Fields of Ruin
+Hash: 0871A46B, Key: Toast, Value: Help Farmer Phelan protect Blycroft from the khazra.
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Blycroft farms in the Downs are having problems with constant khazra attacks.
+
+Artair, a young druid newly arrived in the area, has brought wardstones to deter the attacks. I should help him place them around the farm.  
+Hash: F2C9CEFE, Key: Callback26Header, Value: Pick up the Druid Wardstones
+Hash: 45172A5D, Key: Callback34Header, Value: Place the Wardstones: {DONE_OVER_NEEDED}
+Hash: D787DBC2, Key: Phase49Description, Value: I've finished placing the wardstones. I should return to Phelan to see if he has any more tasks for me.
+Hash: 6541F242, Key: Callback48Header, Value: Speak to Phelan
+Hash: D03F579C, Key: Phase52Description, Value: Phelan is skeptical of Artair's solution to the khazra problem. He would like me to take a more direct approach by killing the khazra chieftain and bringing a trophy back.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Travel to the Unhallowed Pits
+Hash: 63196FBF, Key: Phase55Description, Value: I must slay Blackhorn and bring his head back to Phelan.
+
+Slaughtering his clansmen in the Unhallowed Pits should draw him out.
+Hash: 1D9AD41F, Key: Callback54Header, Value: Slay Blood Clan Khazra to draw out Blackhorn
+Hash: 56D6E5C1, Key: Callback65Header, Value: Slay Blackhorn and acquire his head
+Hash: D5F3B5FC, Key: Callback60Header, Value: Slay Blackhorn and acquire his head
+Hash: 5091BE7E, Key: Phase63Description, Value: I have killed Blackhorn and acquired his head.  I should bring it back to Phelan at Blycroft Manor.
+Hash: 6FE82F7E, Key: Callback62Header, Value: Return to Phelan

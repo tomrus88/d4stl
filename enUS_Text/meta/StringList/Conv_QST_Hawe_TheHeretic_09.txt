@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here are your flowers."
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: Thank you so much. I'm so glad you found me!
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: Timid but appreciative and warm.
+Hash: F75EA61F, Key: Line3.F52ED, Value: Let's get back to my mother before it gets too late.
+Hash: 66680C4C, Key: VoiceDir3.F52ED, Value: Timid but appreciative and warm.

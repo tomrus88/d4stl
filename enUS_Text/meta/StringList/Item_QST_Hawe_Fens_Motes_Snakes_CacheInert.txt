@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hungering Necrolyte's Cache
+Hash: A646FFA4, Key: Description, Value: Harvest death anima to open.
+Hash: F5C7BC0A, Key: Flavor, Value: Sealed by necromancy. Its lock hungers for the essence of death.

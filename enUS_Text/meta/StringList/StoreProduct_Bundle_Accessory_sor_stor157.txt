@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sights Unseen
+Hash: A646FFA4, Key: Description, Value: The oracles surmise that their prolonged contact with the Eye has gifted them with a fraction of its power.
+Hash: 083EE0CE, Key: Quote, Value: Tools of the clairvoyant.
+Hash: 13A53A8B, Key: Series, Value: "Sightless Seer" Accessories

@@ -1,0 +1,65 @@
+Hash: 003DFCC1, Key: Name, Value: To the Edge of the Abyss
+Hash: 68161728, Key: Phase3Description, Value: If the Hells will invade Sanctuary, then I will take the war to their threshold. Locran believes he can show me where to strike to buy Sanctuary the most time.
+
+Locran and I will begin at the Gates to Hell...
+Hash: 1EADAE68, Key: Callback2Header, Value: Descend to the Gates to Hell
+Hash: FAF02F4B, Key: Phase6Description, Value: Locran and I stand before the Gates to Hell, beneath Caldeum. Lorath's seal keeping our two realms separate holds firm, at least for the moment. The Horadrim may advise against breaking their magics and the nature of Locran's strategy, but then again, we've never shied away from confronting hell before.
+
+I will counsel Locran on our next steps.
+Hash: 059C64AB, Key: Callback5Header, Value: Speak to Locran
+Hash: 92C33198, Key: Phase12Description, Value: The Gates of Hell have been roused, their once-secure seal now broken. Locran ventured into the fiery abyss, his compass serving as his beacon. I shall soon follow suit. The Realm of Hatred awaits...
+Hash: 85A4CA58, Key: Callback11Header, Value: Return to the Burning Hells
+Hash: 259D49BB, Key: Phase15Description, Value: As Locran and I battled through the Desolation Fields, his guiding compass malfunctioned. The vile spawn of Hatred now block our path. 
+
+I must hold the line and defend Locran while repairs his guide.
+Hash: 6C93809B, Key: Callback14Header, Value: Protect Locran while he fixes the compass
+Hash: 44ADC39F, Key: Phase46Description, Value: As Locran and I battled through the Desolation Fields, his guiding compass malfunctioned. The vile spawn of Hatred now block our path. 
+
+I must hold the line and defend Locran while repairs his guide.
+Hash: 7E533BFF, Key: Callback45Header, Value: Protect Locran while he fixes the compass
+Hash: 0132B4FD, Key: Phase53Description, Value: Once more we push into the Realm of Hatred. Together, Locran and I will find the origin of the demon's influence.
+
+We continue to delve deeper into the Desolation Fields and fight whatever evils stir.
+Hash: 83A65A9D, Key: Callback52Header, Value: Continue to search for the Well of Hatred
+Hash: 45529163, Key: Phase68Description, Value: Once more we push into the Realm of Hatred. Together, Locran and I will find the origin of the demon's influence - the Well of Hatred.
+
+We continue to delve deeper into the Desolation Fields and fight whatever evils stir.
+Hash: F0CB5F43, Key: Callback67Header, Value: Continue to search for the Well of Hatred
+Hash: 94B19AE4, Key: Phase78Description, Value: The priests of Hatred have been repelled for now... Yet even as they dissipated into smoke and ash, I heard their voices. I fear this war is far from over.
+
+Locran, gravely wounded, somehow managed to conjure a portal back to the Gates of Hell. I must speak with him there - I believe for the last time.
+Hash: DD0D3424, Key: Callback77Header, Value: Speak to Locran by the Gates to Hell
+Hash: 8229E9A3, Key: Phase86Description, Value: If the Hells will invade Sanctuary, then I must invade the Hells – take this war to their threshold. Locran believes he can show me where to strike to buy Sanctuary the most time.
+
+Locran travels to the Caldeum Imperial Palace. I will meet him there. 
+Hash: 2F5A8F83, Key: Callback85Header, Value: Meet Locran in the Caldeum Imperial Palace
+Hash: DCC8203F, Key: Phase91Description, Value: Locran and I stand before the Gates to Hell, beneath Caldeum. Lorath's seal keeping our two realms separate holds firm, at least for the moment. 
+
+Locran urges me to retrieve a demonic heart from nearby.
+Hash: 9AB9349F, Key: Callback90Header, Value: Gather the Demonic Heart
+Hash: 0DBB7DA0, Key: Phase92Description, Value: Locran and I stand before the Gates to Hell, beneath Caldeum. Lorath's seal keeping our two realms separate holds firm, at least for the moment. 
+
+I retrieved the demonic heart for Locran. I should give it to him. 
+Hash: CEA227A3, Key: Callback94Header, Value: Speak to Locran
+Hash: 4406F769, Key: Phase103Description, Value: Once again, I venture into the Realm of Hatred. Locran appears unsettled, yet his resolve and his guiding compass holds steadfast. Together we will find the origin of the demon's influence.
+
+We will delve deeper into the Desolation Fields and fight whatever evils stir.
+Hash: 3BF917D1, Key: Callback164Header, Value: Find the Well of Hatred
+Hash: 32C8E1B0, Key: Phase155Description, Value: Locran and I stand before the Gates to Hell, beneath Caldeum. Lorath's seal keeping our two realms separate holds firm, at least for the moment...
+Hash: 4FB742F0, Key: Callback154Header, Value: Wait for Locran
+Hash: 573574E0, Key: Phase38Description, Value: We entered the Realm of Hatred. Locran appears to be holding together, determined to lead me to the demons' source. I must follow.
+Hash: 2C05E0A0, Key: Callback37Header, Value: Follow Locran to the demons' source
+Hash: FD700C3A, Key: Callback40Header, Value: Find Holdout 01
+Hash: 0DB97F2E, Key: Phase171Description, Value: The priests of Hatred have been repelled for now... Yet even as they dissipated into smoke and ash, I heard their voices. I fear this war is far from over.
+
+Locran used his last strength to conjure a portal back to Sanctuary. I shall leave the Infernal Hordes alone...
+Hash: DB40AFF1, Key: Callback173Header, Value: Return to Sanctuary
+Hash: 75352973, Key: Callback175Header, Value: Gaze into the Opening into Darkness
+Hash: 95546A36, Key: Phase179Description, Value: We have discovered the source of the demon, yet the "Priests" from the Black Tomb have cornered us. Foul are these spawns of hatred, and even fouler is their influence on Sanctuary. 
+
+Here in the The Infernal Hordes, Locran and I must diminish their power. 
+Hash: 5C23DFB6, Key: Callback178Header, Value: Enter the Infernal Hordes
+Hash: 704507B4, Key: Phase195Description, Value: Once more we push into the Realm of Hatred. Together, Locran and I will find the origin of the demon's influence - the Well of Hatred.
+
+We continue to delve deeper into the Desolation Fields and fight whatever evils stir.
+Hash: 00BE9674, Key: Callback194Header, Value: Wait for Locran to open a channel down

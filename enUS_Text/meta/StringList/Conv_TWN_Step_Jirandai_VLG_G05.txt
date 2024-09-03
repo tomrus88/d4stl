@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who do you hide from?"
+Hash: 5D6B5E60, Key: Line1.F78AC, Value: Would it be so bad if they found out?
+Hash: F75FD7D2, Key: Line3.F78B2, Value: I'm the son of a merchant, promised to wed some useful daughter of the Steppes.
+Hash: 91545164, Key: Line5.F78AC, Value: (sigh) My poor, rich northern boy...

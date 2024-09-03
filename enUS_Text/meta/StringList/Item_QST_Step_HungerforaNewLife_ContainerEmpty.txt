@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Empty Tea Infuser
+Hash: F5C7BC0A, Key: Flavor, Value: Empty container from Zolaya, to be filled with herbs. Zolaya would often brew herbal teas for Oyuun, and hopes that one of these familiar brews will calm her.

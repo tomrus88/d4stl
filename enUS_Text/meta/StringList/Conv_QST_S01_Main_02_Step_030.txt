@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you need from me?"
+Hash: 8F104F47, Key: Line1.157838, Value: I need time. The Malignant have spread to the Dry Steppes. Every day, they encroach on villages, towns... soon they’ll reach us here, at Orbei.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Anxious. Worried.
+Hash: 6793F909, Key: Line3.157838, Value: I've seen them rise from holes in the ground. I dared not approach, but you could venture inside. Hold them at bay, and I swear, we will end this nightmare.
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Explaining. Hopeful. Projecting confidence.

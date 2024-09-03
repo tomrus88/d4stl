@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you all right?"
+Hash: 27FD4CE1, Key: Line7.6E261, Value: Oh, we made it. I can’t stop my hands from shaking. Give me a moment.
+Hash: 9706B30E, Key: VoiceDir7.6E261, Value: Relieved, shaky breath. Post-adrenaline crash--needs a moment to recover.

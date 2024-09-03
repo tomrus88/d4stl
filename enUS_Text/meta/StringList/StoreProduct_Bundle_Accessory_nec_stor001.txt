@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Death Throes
+Hash: A646FFA4, Key: Description, Value: A necromancer's charge is to protect the balance between life and death. But they must do this from the "living" side, and must forever question: "for how long?"
+Hash: 083EE0CE, Key: Quote, Value: The veil between the world of the living and the world of the dead is so very thin.
+Hash: 13A53A8B, Key: Series, Value: "Wraith Lord" Accessories

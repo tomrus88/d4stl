@@ -1,0 +1,9 @@
+Hash: 086EAA02, Key: title, Value: Arcane Tremors
+Hash: 3D08DF31, Key: 0_instruction, Value: Constructs and traps have breached the surface near {c_highlight}Vault{/c} entrances. Defeat them to earn loot and a special currency.
+Hash: 6C158A74, Key: 0_instruction_controller, Value: Constructs and traps have breached the surface near {c_highlight}Vault{/c} entrances. Defeat them to earn loot and a special currency.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Loot {c_highlight}Obelisks{/c} to retrieve their {c_highlight}Cores{/c}.
+Hash: 3AFF0155, Key: 1_instruction_controller, Value: Loot {c_highlight}Obelisks{/c} to retrieve their {c_highlight}Cores{/c}.
+Hash: DBC6F233, Key: 2_instruction, Value: Immolate {c_highlight}Cores{/c} at elemental {c_highlight}Braziers{/c} to summon {c_highlight}Heralds of Malphas{/c}: powerful elite Demons that drop {c_highlight}Pearls of Warding{/c}.
+Hash: 09E87836, Key: 2_instruction_controller, Value: Immolate {c_highlight}Cores{/c} at elemental {c_highlight}Braziers{/c} to summon {c_highlight}Heralds of Malphas{/c}: powerful elite Demons that drop {c_highlight}Pearls of Warding{/c}.
+Hash: 2B25FBB4, Key: 3_instruction, Value: {c_highlight}Pearls of Warding{/c} grant access to {c_highlight}Wardwoven Chests{/c} found within {c_highlight}Vaults{/c}.
+Hash: D8D1EF17, Key: 3_instruction_controller, Value: {c_highlight}Pearls of Warding{/c} grant access to {c_highlight}Wardwoven Chests{/c} found within {c_highlight}Vaults{/c}.

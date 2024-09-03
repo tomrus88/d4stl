@@ -1,0 +1,3 @@
+Hash: 72185676, Key: Line11.A109C, Value: Cecil...?
+Hash: C24E8243, Key: VoiceDir11.A109C, Value: Shaken
+Hash: 0C0CCFF8, Key: Line13.A109C, Value: It's already started...

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EE1D505, Key: Line1.11EA1E, Value: Come pray with me if you need healing. Together, in the Light, we shall cleanse your ills.
+Hash: DF1800D2, Key: VoiceDir1.11EA1E, Value: Devout with an air of begging

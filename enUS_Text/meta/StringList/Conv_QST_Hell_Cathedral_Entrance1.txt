@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mephisto
+Hash: F730275F, Key: Line3.BD9D3, Value: You've arrived before Lilith, but she is close.
+Hash: 66398D8C, Key: VoiceDir3.BD9D3, Value: (pleased, but hint of urgency)

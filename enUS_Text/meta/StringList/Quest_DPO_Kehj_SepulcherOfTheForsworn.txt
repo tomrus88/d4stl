@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Destruction awaits.
+Hash: D29F0719, Key: Callback12Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: B8A227EA, Key: Callback4Header, Value: Deposit Animus into the {GIZMO}
+Hash: 538236DE, Key: Callback17Header, Value: Defeat the {MONSTER}
+Hash: 24EC6278, Key: Callback20Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 8CBE4880, Key: Callback28Header, Value: Travel to the {LEVELAREA}
+Hash: AB22B0DB, Key: Callback32Header, Value: Travel to the {LEVELAREA}

@@ -1,0 +1,5 @@
+Hash: F41D2C6F, Key: Line3.83542, Value: Returned to the worms. May they find rest.
+Hash: 6F31F38D, Key: Line11.804B7, Value: Arlo!
+Hash: 09281080, Key: Line13.83542, Value: Did you think we’d so easily join the dead, lad? How did you find your way up here?
+Hash: A31AE691, Key: Line15.804B7, Value: Through the cairns.
+Hash: 3D110384, Key: Line17.83542, Value: Through them? Mighty brave of you. And mighty foolish.

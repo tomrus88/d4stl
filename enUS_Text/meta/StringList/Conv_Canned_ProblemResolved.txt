@@ -1,0 +1,12 @@
+Hash: 6C378A39, Key: Line16.BAE4, Value: It is done.
+Hash: EA4156B9, Key: Line22.BAE4.Bar, Value: You will not be bothered any longer.
+Hash: EA418A3A, Key: Line22.BAE4.Nec, Value: You will not be accosted again.
+Hash: EA41616F, Key: Line22.BAE4.Dru, Value: You will not be bothered any longer.
+Hash: EA41A0D8, Key: Line22.BAE4.Sor, Value: You needn't worry about them again.
+Hash: EA419C8C, Key: Line22.BAE4.Rog, Value: They will never bother you again.
+Hash: BDDC183C, Key: Line28.BAE4, Value: You no longer need to worry.
+Hash: 77B32E3C, Key: Line34.BAE4.Bar, Value: Your problem is no more.
+Hash: 77B361BD, Key: Line34.BAE4.Nec, Value: Your problem has been resolved.
+Hash: 77B338F2, Key: Line34.BAE4.Dru, Value: Your problem is no more.
+Hash: 77B3785B, Key: Line34.BAE4.Sor, Value: Your problem has been solved.
+Hash: 77B3740F, Key: Line34.BAE4.Rog, Value: Your problem is no more.

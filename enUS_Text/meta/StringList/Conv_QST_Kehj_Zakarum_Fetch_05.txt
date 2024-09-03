@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hidden
+Hash: 5A4309C3, Key: Line1.8C674, Value: I don’t understand why they attacked. We didn’t do anything wrong.
+Hash: C94C6FF0, Key: VoiceDir1.8C674, Value: Bewildered. Innocent. Scared.

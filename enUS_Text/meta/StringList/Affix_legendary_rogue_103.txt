@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Uncanny Treachery
+Hash: 003892BF, Key: Desc, Value: Dealing damage to a {c_important}{u}Dazed{/u}{/c} Enemy with an {c_important}Agility{/c} Skill grants {c_important}{u}Stealth{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds. 
+
+When {c_important}{u}Stealth{/u}{/c} breaks, you gain {c_random}[Affix_Value_1*100|%+|]{/c} Dodge Chance for {c_number}[Affix."Static Value 1"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Agility{/c} Skills dealt to a {c_important}{u}Dazed{/u}{/c} enemy grant {c_important}{u}Stealth{/u}{/c}. {c_important}{u}Stealth{/u}{/c} breaking grants {c_random}[Affix_Value_1*100|%+|]{/c} Dodge Chance.

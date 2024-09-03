@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are you old one?"
+Hash: 8ED9AC0C, Key: Line1.125E08, Value: Have you coin for a drink? Wet these old lips one last time, wanderer.
+Hash: DF0FD7D9, Key: VoiceDir1.125E08, Value: (hoarse) 
+Hash: 675D55CE, Key: Line3.125E08, Value: Death comes for me. Strong water eases the passin'.

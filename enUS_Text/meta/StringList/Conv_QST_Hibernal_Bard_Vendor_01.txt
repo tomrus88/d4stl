@@ -1,0 +1,6 @@
+Hash: A7A72639, Key: Line19.171196, Value: Ah, good! Good. We’re a little further through the darkness.
+Hash: FEA2CBA6, Key: VoiceDir19.171196, Value: Pleased with player's progress.
+Hash: 1C23973A, Key: Line29.171196, Value: “Hearths lit and… blankets knit?” Ugh, well that’s just terrible.
+Hash: 731F3CA7, Key: VoiceDir29.171196, Value: Trying to come up with new rhymes for a festival song.
+Hash: 2E916133, Key: Line31.171196, Value: (humming) Too cheery.
+Hash: 858D06A0, Key: VoiceDir31.171196, Value: Peaceful. Humming accolade song under breath.

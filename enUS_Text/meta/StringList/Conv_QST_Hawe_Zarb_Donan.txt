@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will you journey with Lorath and Neyrelle into the swamp?"
+Hash: 5A334C6A, Key: Line1.7FA05, Value: I think not. I have to take care of the soulstone. Lorath will be fine alone.
+Hash: F427C5EC, Key: Line3.7FA05, Value: Northeast of here is a Zakarum keep. We know Hatred has a strong presence there. Perhaps we can use it to prepare the soulstone to trap Lilith.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: I could use your assistance, if you're able.

@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Formal Request
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Formal Request
+Hash: 5D226C1B, Key: Line1.B67DA, Value: Captain Batai. It has been four days since Guulrahn called the Onyx Watch to their aid, yet still, we hold our posts. We, the undersigned officers, request your leave to march on the capital at once.
+Hash: CC2BD248, Key: VoiceDir1.B67DA, Value: Concerned. Respectful. Firm.
+Hash: F716E59D, Key: Line3.B67DA, Value: Let no one say that the Onyx Watch lacked the courage to fight for the Steppes.
+Hash: 66204BCA, Key: VoiceDir3.B67DA, Value: Concerned. Respectful. Firm.

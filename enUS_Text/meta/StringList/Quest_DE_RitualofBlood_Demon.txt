@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Ritual of Blood
+Hash: F2C9CEFE, Key: Callback26Header, Value: Investigate the Ritual Statues
+Hash: D9B88541, Key: Callback29Header, Value: Slay the remaining enemies
+Hash: 36AC1DDC, Key: Callback51Header, Value: Slay enemies in the ritual circle to summon Sanguine Champions: {DONE_OVER_NEEDED}
+Hash: F81CED9C, Key: Callback33Header, Value: Survive the ritual

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Bone Leg Reinforcements
+Hash: A646FFA4, Key: Description, Value: Several pairs of pants reinforced with Blood Bone.
+Hash: F5C7BC0A, Key: Flavor, Value: Bone imbued with Blood Magic becomes as durable as steel while remaining lightweight.

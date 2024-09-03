@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Starting Skill
+Hash: 7BFE534B, Key: simple_instruction, Value: Press {hotkey:Skills} to change your selected Skill

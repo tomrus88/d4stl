@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How do you know Yorin?”
+Hash: 5A28B2ED, Key: Line1.83542, Value: I’m a friend of his father. Met him in the Days of Ash. Saved his life, actually.
+Hash: A31C8A02, Key: Line15.83542, Value: Heh. If you asked him, he’d probably claim he saved mine.
+Hash: 3D110384, Key: Line17.83542, Value: Hasn’t come up this way in a long while, but he used to.
+Hash: D7057D06, Key: Line19.83542, Value: Now and then, I’d even go and share a pint with him in his fancy house. That’s how I came to know Yorin.

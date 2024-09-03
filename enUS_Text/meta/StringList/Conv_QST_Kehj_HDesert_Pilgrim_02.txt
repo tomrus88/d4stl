@@ -1,0 +1,1 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Give a sip of a Healing Potion.)

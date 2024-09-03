@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: One-Handed Axe Expertise
+Hash: 003892BF, Key: desc, Value: {c_number}[{SF_1} * 100 |1%+|]{/c} increased Critical Strike Chance against {c_important}Injured{/c} enemies. Double this amount when using two Axes.{if:SF_8}
+
+{c_label}Lucky Hit:{/c} Critical Strikes have up to a {c_number}{SF_5}%{/c} chance to grant {c_number}[{SF_6} * 100|%+|]{/c} increased Attack Speed for {c_number}{SF_7}{/c} seconds. Double the Attack Speed bonus when using two Axes.{/if}
+Hash: F2DE8628, Key: simple_desc, Value: {c_number}[{SF_1} * 100 * 2 |1%+|]{/c} increased Critical Strike Chance against {c_important}Injured{/c} enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: Critical Strike Chance against {c_important}Injured{/c} enemies increased to {c_number}[{SF_2} * 100 |1%+|]{/c}.

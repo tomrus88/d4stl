@@ -1,0 +1,2 @@
+Hash: 14C66756, Key: Buff3_Name, Value: Bonfire's Warmth
+Hash: 16451099, Key: Buff3_Description, Value: Grants [{SF_1}*100|0||%+|] Bonus Experience per stack.

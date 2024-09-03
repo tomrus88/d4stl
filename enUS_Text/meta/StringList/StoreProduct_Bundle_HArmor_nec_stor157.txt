@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fanatic Martyr
+Hash: A646FFA4, Key: Description, Value: A relatively small sect, the Breath of Gamuel venerate the life of their namesake and his dedication to the Prophet. Armed with the teaching of Rathma, the martyrs hope to persevere where their lord could not.
+Hash: 083EE0CE, Key: Quote, Value: To give everything for the cause.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

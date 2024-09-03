@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wrath's Beating Heart
+Hash: 3A4912CF, Key: DescShort, Value: Acquire a Wrathful Malignant Heart, available after completing or skipping the Campaign

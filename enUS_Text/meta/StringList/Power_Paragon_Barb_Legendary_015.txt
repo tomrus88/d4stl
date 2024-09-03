@@ -1,0 +1,4 @@
+Hash: 2070327B, Key: Buff8_Name, Value: Bone Breaker
+Hash: A320401E, Key: Buff8_Description, Value: Every {SF_0} seconds, your next Skill is guaranteed to Overpower.
+Hash: 003DFCC1, Key: name, Value: Bone Breaker
+Hash: 003892BF, Key: desc, Value: Every {c_number}{SF_0}{/c} seconds, your next Skill is guaranteed to {c_important}{u}Overpower{/u}{/c}.

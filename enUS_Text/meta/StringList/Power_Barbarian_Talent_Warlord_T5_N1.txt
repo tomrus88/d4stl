@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Walking Arsenal
+Hash: 003892BF, Key: desc, Value: Dealing direct damage with Two-Handed Bludgeoning, Two-Handed Slashing, or Dual Wielded weapons grants {c_number}[{SF_0}*100|%x|]{/c} increased damage for {c_number}{buffduration:BUFF_BLUNT_DAMAGE}{/c} seconds.
+
+While all three damage bonuses are active, you gain an additional {c_number}[{SF_7}*100|%x|]{/c} increased damage and Attack Speed.
+Hash: 2070327B, Key: Buff8_Name, Value: 100,000 Steps Cooldown
+Hash: A320401E, Key: Buff8_Description, Value: 100,000 Steps Cooldown

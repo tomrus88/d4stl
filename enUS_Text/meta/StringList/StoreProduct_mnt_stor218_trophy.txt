@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spirit of the War-cat
+Hash: 13A53A8B, Key: Series, Value: "Vessel of Hatred"

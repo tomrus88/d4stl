@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Attack Speed
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monsters attack 25% faster.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monsters attack 20% faster.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monsters attack 15% faster.

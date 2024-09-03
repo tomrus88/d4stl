@@ -1,0 +1,5 @@
+Hash: 086EAA02, Key: title, Value: The Infernal Hordes
+Hash: 8C67E8B2, Key: 1_instruction, Value: Use the {c_highlight}Infernal Compass{/c} to face the {c_highlight}Infernal Hordes{/c}.
+Hash: 2B25FBB4, Key: 3_instruction, Value: After consuming an {c_highlight}Infernal Compass{/c}, open your map and select the {c_highlight}Gates of Hell{/c}.
+Hash: 3D08DF31, Key: 0_instruction, Value: Survive each wave within the {c_highlight}time limit. Slay foes{/c} and fill the bar to {c_highlight}spawn more Aether{/c}.
+Hash: DBC6F233, Key: 2_instruction, Value: {c_highlight}Defeat The Fell Council{/c} and {c_highlight}spend Aether{/c} to open their coffers and {c_highlight}obtain their riches{/c}. 

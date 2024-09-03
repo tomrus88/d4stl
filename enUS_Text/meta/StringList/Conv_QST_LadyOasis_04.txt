@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How did you come to be trapped here?”
+Hash: 3FDEBD97, Key: Line5.121A3D, Value: Such is a long history. Many wars were fought in my time. I survived the conflicts, only to attract the Viz-Jaq'taar’s attention. Three were sent. Three died, but the last injured me.
+Hash: 9014E964, Key: VoiceDir5.121A3D, Value: Bitter at mentioning the Viz-Jaq'taar. 
+Hash: 18626759, Key: Line7.121A3D, Value: I crawled here. My mortal shell was spent, so I possessed the shrine. I had intended this to be a temporary inconvenience, that my clan would seek me out, but… here I am.
+Hash: 68989326, Key: VoiceDir7.121A3D, Value: Quieter and more vulnerable than typically displayed by Izel at "but… here I am."

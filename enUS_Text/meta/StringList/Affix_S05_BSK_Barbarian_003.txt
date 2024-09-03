@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Executioner's
+Hash: 003892BF, Key: Desc, Value: Killing an enemy with an {c_important}Overpower{/c} leaves behind an {c_important}Earthquake{/c} at their location, dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Physical damage over {c_number}[PowerTag.Barbarian_Earthquake."Script Formula 1"]{/c} seconds. Can only occur once every {c_number}[Affix."Static Value 0"]{/c} seconds.

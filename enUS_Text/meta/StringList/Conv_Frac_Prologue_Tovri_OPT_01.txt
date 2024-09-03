@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I will rest here a moment."
+Hash: 59EA27BC, Key: Line1.3F381, Value: If Devmir's taking up all the space by the fire, just give him a shove. (chuckles)
+Hash: C8F38DE9, Key: VoiceDir1.3F381, Value: Warm, trying to be friendly

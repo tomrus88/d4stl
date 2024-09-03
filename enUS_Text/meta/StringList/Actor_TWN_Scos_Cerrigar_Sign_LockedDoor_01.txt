@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Locked Door
+Hash: F2CA04D8, Key: NoticeSignText, Value: The door is locked. Faint cries and murmurs can be heard inside.

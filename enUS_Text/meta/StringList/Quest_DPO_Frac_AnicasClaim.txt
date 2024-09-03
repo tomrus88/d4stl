@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value:  A massacre, frozen in time.
+Hash: 71E69F39, Key: Callback21Header, Value: Deposit Animus into the {GIZMO}
+Hash: A5CF923D, Key: Callback25Header, Value: Collect {ITEM} from Animus Carriers
+Hash: C5FA5A22, Key: Callback39Header, Value: Interact with the {GIZMO}
+Hash: 20432EE1, Key: Phase84Description, Value: Defeat the {MONSTER}
+Hash: 7C54CC44, Key: Callback86Header, Value: Slay {MONSTER}
+Hash: 976485BC, Key: Callback42Header, Value: Slay enemies protecting the Frozen Heart of Zagraal: {LEFT}
+Hash: FF68574C, Key: Callback105Header, Value: Travel to the {LEVELAREA}
+Hash: E6570D8F, Key: Callback108Header, Value: Return the Ancients Statue to the Pedestal: {LEFT}

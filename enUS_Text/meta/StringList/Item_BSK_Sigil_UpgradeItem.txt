@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Abyssal Scroll
+Hash: A646FFA4, Key: Description, Value: Upgrades an Infernal Compass to the next tier.
+Hash: F5C7BC0A, Key: Flavor, Value: A forbidden rite of the Triune used to inscribe an Infernal Compass with special instructions for the journey to Hell.

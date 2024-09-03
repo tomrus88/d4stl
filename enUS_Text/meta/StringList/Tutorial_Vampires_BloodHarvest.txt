@@ -1,0 +1,4 @@
+Hash: 086EAA02, Key: title, Value: Blood Harvests
+Hash: 3D08DF31, Key: 0_instruction, Value: Hordes of Vampires periodically invade areas of Sanctuary.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Slay Vampires, save civilians, and collect {c_highlight}Blood Lures{/c} that can be used to draw out powerful Blood Seekers.
+Hash: DBC6F233, Key: 2_instruction, Value: Defeat Vampires to gain acclaim with the Hunters, and earn various rewards at their bounty board

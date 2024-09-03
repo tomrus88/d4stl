@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen this book before?"
+Hash: DF6BCE32, Key: Line35.13C54D, Value: Spirits save me, it can't be!
+Hash: 3667739F, Key: VoiceDir35.13C54D, Value: Terrified. Someone has brought a cursed object you thought lost back to you
+Hash: 400B85FF, Key: Line5.13C54D, Value: My brother, Lyruk, he’s an archaeologist. He found that cursed thing on a dig. He said that it whispered to him... told him it would grant him any wish.
+Hash: 9041B1CC, Key: VoiceDir5.13C54D, Value: Pronounciation: Lih-rukk
+Hash: 06E82470, Key: Line33.13C54D, Value: I begged Lyruk to destroy it, but he refused to listen. If anyone knows more about that... thing... it's him. He's camping out in the Crown of Fiends.
+Hash: 5DE3C9DD, Key: VoiceDir33.13C54D, Value: emphasis on "thing," horror and disgust.

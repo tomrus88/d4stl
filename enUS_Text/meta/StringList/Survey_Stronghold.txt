@@ -1,0 +1,3 @@
+Hash: D86DF989, Key: Question1, Value: How fun was this Stronghold?
+Hash: D86DF98A, Key: Question2, Value: How challenging was this Stronghold?
+Hash: D86DF98B, Key: Question3, Value: How clear were the objectives of this Stronghold?

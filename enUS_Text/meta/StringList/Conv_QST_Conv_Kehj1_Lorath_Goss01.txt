@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “If Lilith consumes Mephisto, could it help Sanctuary?”
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: It would strike a blow against Hell, that much is certain. But is it really for our benefit, as she claims?
+Hash: F413C4CC, Key: Line3.6D03F, Value: All her actions are driven by Hatred. That is her nature, and she can never change it.

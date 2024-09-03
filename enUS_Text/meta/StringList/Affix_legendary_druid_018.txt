@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Quicksand
+Hash: 003892BF, Key: Desc, Value: Damage from {c_important}Earth{/c} Skills Slow enemies hit by {c_random}[Affix_Value_1|%|]{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Damage from {c_important}Earth{/c} Skills Slows enemies by {c_random}[Affix_Value_1|%|]{/c}.

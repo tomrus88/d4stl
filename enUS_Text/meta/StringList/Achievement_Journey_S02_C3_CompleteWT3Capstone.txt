@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Father's Gate
+Hash: 3A4912CF, Key: DescShort, Value: Complete the {icon:Marker_DungeonChallenge, 2.5} Cathedral of Light to unlock the {icon:Icon_WorldTier_3, 2.5} Nightmare World Tier

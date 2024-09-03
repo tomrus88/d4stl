@@ -1,0 +1,3 @@
+Hash: 5A334C6A, Key: Line1.7FA05, Value: The stone will need to be attuned to Lilith before Lorath marches up to her. It won’t hold her well, otherwise.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: wistful
+Hash: F427C5EC, Key: Line3.7FA05, Value: I put together some notes on the process before I left...

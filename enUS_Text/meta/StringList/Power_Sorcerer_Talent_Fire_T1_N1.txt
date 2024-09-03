@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: name, Value: Soulfire
+Hash: 003892BF, Key: desc, Value: Your {c_important}Pyromancy{/c} Skills cost {c_number}[{SF_2} * 100|%|]{/c} less Mana and deal {c_number}[{SF_4}*100|%x|]{/c} increased damage. Double these bonuses after standing still for {c_number}[{SF_0}||]{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Cost Reduction {icon:arrow,1.2} {c_number}[{SF_2}* 100|%|]{/c}
+{icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_4}* 100|%x|]{/c}
+Hash: 171B8FF7, Key: Buff4_Name, Value: Soulfire
+Hash: 65A41A1A, Key: Buff4_Description, Value: {c_important}Pyromancy{/c} Skill costs and damage are much better.
+Hash: 1970B898, Key: Buff5_Name, Value: Soulfire
+Hash: B503239B, Key: Buff5_Description, Value: {c_important}Pyromancy{/c} Skill costs and damage are slightly better.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Shadows of the Living
+Hash: A646FFA4, Key: Description, Value: "Widowed, alone, and left to find their own salvation, this dark figure lurks within the shadows, carrying the burden of their losses and the weight of Mother's words."
+Hash: 083EE0CE, Key: Quote, Value: Born of suffering.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

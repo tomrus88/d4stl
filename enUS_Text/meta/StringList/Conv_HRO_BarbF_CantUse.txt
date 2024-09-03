@@ -1,0 +1,2 @@
+Hash: 9279A08E, Key: Line14.BAE4.Bar.F, Value: I can't use that.
+Hash: C36CFDEF, Key: Line15.BAE4.Bar.F, Value: This is of no use to me.

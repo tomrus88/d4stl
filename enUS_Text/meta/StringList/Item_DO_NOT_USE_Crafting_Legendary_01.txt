@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forgotten Soul
+Hash: A646FFA4, Key: Description, Value: Obtained by using the Blacksmith to salvage {c_legendary}legendary{/c} weapons and armor.

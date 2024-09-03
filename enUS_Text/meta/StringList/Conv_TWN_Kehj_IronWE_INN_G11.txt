@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is there a safe path... anywhere?"
+Hash: 8EDA92D6, Key: Line1.12887E, Value: The path south has become overrun. Everywhere is dangerous now.

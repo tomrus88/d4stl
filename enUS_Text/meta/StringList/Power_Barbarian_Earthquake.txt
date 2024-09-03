@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Earthquake
+Hash: ABF35CA7, Key: Buff13_Name, Value: Earthquake Damage Reduction
+Hash: 2580C0CA, Key: Buff13_Description, Value: {c_number}[{SF_8}*100|%|]{/c} Damage Reduction
+Hash: B09DADE9, Key: Buff15_Name, Value: Earthquake Damage Increase
+Hash: C43ED3CC, Key: Buff15_Description, Value: {c_number}[{SF_9}*100|%x|]{/c} Damage Increase

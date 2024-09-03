@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Ravenous Soul
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak to the Ravenous Soul
+Hash: B98DBD5C, Key: Callback15Header, Value: Survive the onslaught
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay the remaining enemies
+Hash: 1D9AD41F, Key: Callback54Header, Value: Speak to the Ravenous Soul
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Slay soul-imbued enemies to feed the Wandering Soul
+Hash: CB7F6448, Key: Callback101Header, Value: Slay the remaining enemies

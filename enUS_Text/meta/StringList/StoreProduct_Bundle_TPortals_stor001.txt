@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hell and Back
+Hash: A646FFA4, Key: Description, Value: Go forth and conquer.
+Hash: 13A53A8B, Key: Series, Value: Prestige Portals

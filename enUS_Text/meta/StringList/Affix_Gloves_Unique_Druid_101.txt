@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Cataclysm{/c}'s lightning strikes now prioritize enemies.
+
+While {c_important}Cataclysm{/c} is active, you gain unlimited Spirit and deal {c_random}[Affix_Value_1|%x|]{/c} increased damage.

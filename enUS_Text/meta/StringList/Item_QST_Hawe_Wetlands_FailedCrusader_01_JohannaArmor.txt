@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Johanna's Armor
+Hash: F5C7BC0A, Key: Flavor, Value: An expertly crafted suit of armor. It hums with divine energy.

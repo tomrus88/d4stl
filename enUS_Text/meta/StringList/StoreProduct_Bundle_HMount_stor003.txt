@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Penitent Dragoon
+Hash: A646FFA4, Key: Description, Value: Many of Sanctuary's heroes face pain and torment in their lives, undaunted. Even their mounts bear the burden of their masters' struggles.
+Hash: 083EE0CE, Key: Quote, Value: There is no joy without suffering.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

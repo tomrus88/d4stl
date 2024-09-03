@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Manifestations of the Prime Evils
+Hash: CC3C0A8F, Key: FlavorText, Value: A dusty tome bound in thick red hide.

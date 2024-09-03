@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's going on here?"
+Hash: D6FCF6CA, Key: Line19.6DE47, Value: What’s it to you?
+Hash: 27332297, Key: VoiceDir19.6DE47, Value: terse, brutish
+Hash: 3D08825C, Key: Line17.6DF9E, Value: Oswen, hush. I’m sorry, wanderer. You’ve come at a difficult time.
+Hash: 8D3EAE29, Key: VoiceDir17.6DF9E, Value: Calm, trying to placate the Hero
+Hash: 5B6CEAB7, Key: Line21.6DF9E, Value: This madman just stumbled into town and started causing trouble.
+Hash: ABA31684, Key: VoiceDir21.6DF9E, Value: Calm, trying to placate the Hero
+Hash: 091FC7AD, Key: Line13.6F0BE, Value: Demons...spilling from the ruins...kill us all...kill us all...
+Hash: 5955F37A, Key: VoiceDir13.6F0BE, Value: crazy, frantic, tripping out
+Hash: D8F1EA65, Key: Line3.BAE4, Value: Ruins? What is he talking about?
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: Curious, on edge

@@ -1,0 +1,3 @@
+Hash: CED9BB40, Key: Line10.BAE4.Dru.F, Value: I do not have the materials.
+Hash: 30C07602, Key: Line12.BAE4.Dru.F, Value: I cannot make this right now.
+Hash: 92A730C4, Key: Line14.BAE4.Dru.F, Value: There's not enough materials.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I noticed the pyre outside...” 
+Hash: 5D59267C, Key: Line1.E7252, Value: The pyre is meant to be noticed. Let the wicked see the flames and think twice before they threaten us here.
+Hash: CC628CA9, Key: VoiceDir1.E7252, Value: Retorting to Player. Proud. Justified.

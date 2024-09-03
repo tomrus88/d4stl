@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hollowed Tree Stump
+Hash: F2CA04D8, Key: NoticeSignText, Value: An old tree stump, spattered with dried blood.
+
+You find a rusty mug tucked inside, inscribed with the name "Oswen".

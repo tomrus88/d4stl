@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Damaged Journal
+Hash: 5D72A43A, Key: Line1.EDC70, Value: We have held out against the damned Wolves for three days. They’re more stubborn than we gave ‘em credit for, and we’re about out of water.
+Hash: F7671DBC, Key: Line3.EDC70, Value: Our brothers won’t be back for a fortnight, and without water or food we won’t survive waiting for ‘em.
+Hash: 915B973E, Key: Line5.EDC70, Value: I told Zulak we should have rejoined the main caravan and now here we are, about to be another victory to grow the legend of the Iron Wolves.

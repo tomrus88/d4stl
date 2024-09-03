@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Veneration of Hatred
+Hash: 0871A46B, Key: Toast, Value: Receive the Dark Blessing
+Hash: 398557AF, Key: Callback9Header, Value: Find the Altar of Hatred
+Hash: 486BD940, Key: Callback82Header, Value: Go to the Altar of Hatred

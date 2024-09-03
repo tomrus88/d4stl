@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Swamp-Stained Satchel
+Hash: F5C7BC0A, Key: Flavor, Value: A bag, likely once owned by a crusader lost to the swamp, with fittings indicating Orbei Monastery as its origin.

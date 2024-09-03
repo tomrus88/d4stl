@@ -1,0 +1,144 @@
+Hash: 123D5773, Key: Line994.3F392, Value: No, no, no!
+Hash: 6938FCE0, Key: VoiceDir994.3F392, Value: terrified
+Hash: E1E6D211, Key: Line1003.3F392, Value: Oh, no!
+Hash: 1857251E, Key: VoiceDir1003.3F392, Value: terrified
+Hash: C8D58854, Key: Line1006.3F392, Value: Light show me mercy!
+Hash: FF45DB61, Key: VoiceDir1006.3F392, Value: terrified
+Hash: 5D464C5B, Key: Line1270.EDC78, Value: No, no, no!
+Hash: 93B69F68, Key: VoiceDir1270.EDC78, Value: terrified
+Hash: 4435029E, Key: Line1273.EDC78, Value: Oh, no!
+Hash: 7AA555AB, Key: VoiceDir1273.EDC78, Value: terrified
+Hash: 2B23B8E1, Key: Line1276.EDC78, Value: Light show me mercy!
+Hash: 61940BEE, Key: VoiceDir1276.EDC78, Value: terrified
+Hash: B766F07C, Key: Line1522.EDC79, Value: No, no, no!
+Hash: EDD74389, Key: VoiceDir1522.EDC79, Value: terrified
+Hash: 9E55A6BF, Key: Line1525.EDC79, Value: Oh, no!
+Hash: D4C5F9CC, Key: VoiceDir1525.EDC79, Value: terrified
+Hash: 85445D02, Key: Line1528.EDC79, Value: Light show me mercy!
+Hash: BBB4B00F, Key: VoiceDir1528.EDC79, Value: terrified
+Hash: 1496DBD5, Key: Line1513.3F381, Value: No, no, no!
+Hash: 4B072EE2, Key: VoiceDir1513.3F381, Value: terrified
+Hash: FB859218, Key: Line1516.3F381, Value: Oh, no!
+Hash: 31F5E525, Key: VoiceDir1516.3F381, Value: terrified
+Hash: E274485B, Key: Line1519.3F381, Value: Light show me mercy!
+Hash: 18E49B68, Key: VoiceDir1519.3F381, Value: terrified
+Hash: 78D7C065, Key: Line1504.EDC7B, Value: No, no, no!
+Hash: AF481372, Key: VoiceDir1504.EDC7B, Value: terrified
+Hash: 5FC676A8, Key: Line1507.EDC7B, Value: Oh, no!
+Hash: 9636C9B5, Key: VoiceDir1507.EDC7B, Value: terrified
+Hash: 3130A242, Key: Line1510.EDC7B, Value: Light show me mercy!
+Hash: 67A0F54F, Key: VoiceDir1510.EDC7B, Value: terrified
+Hash: 9FA6080F, Key: Line1495.EDC7C, Value: No, no, no!
+Hash: D6165B1C, Key: VoiceDir1495.EDC7C, Value: terrified
+Hash: 8694BE52, Key: Line1498.EDC7C, Value: Oh, no!
+Hash: BD05115F, Key: VoiceDir1498.EDC7C, Value: terrified
+Hash: 91E90A23, Key: Line1501.EDC7C, Value: Light show me mercy!
+Hash: C8595D30, Key: VoiceDir1501.EDC7C, Value: terrified
+Hash: 000ECC0D, Key: Line1486.B79B0, Value: No, no, no!
+Hash: 367F1F1A, Key: VoiceDir1486.B79B0, Value: terrified
+Hash: E6FD8250, Key: Line1489.B79B0, Value: Oh, no!
+Hash: 1D6DD55D, Key: VoiceDir1489.B79B0, Value: terrified
+Hash: B867ADEA, Key: Line1492.B79B0, Value: I’m done for!
+Hash: EED800F7, Key: VoiceDir1492.B79B0, Value: terrified
+Hash: 6116D7A0, Key: Line1477.EDC74, Value: No, no, no!
+Hash: 97872AAD, Key: VoiceDir1477.EDC74, Value: terrified
+Hash: 3281033A, Key: Line1480.EDC74, Value: Oh, no!
+Hash: 68F15647, Key: VoiceDir1480.EDC74, Value: terrified
+Hash: 196FB97D, Key: Line1483.EDC74, Value: I’m done for!
+Hash: 4FE00C8A, Key: VoiceDir1483.EDC74, Value: terrified
+Hash: C1CF3F81, Key: Line1468.EDC75, Value: No, no, no!
+Hash: F83F928E, Key: VoiceDir1468.EDC75, Value: terrified
+Hash: 93396B1B, Key: Line1471.EDC75, Value: Oh, no!
+Hash: C9A9BE28, Key: VoiceDir1471.EDC75, Value: terrified
+Hash: 7A28215E, Key: Line1474.EDC75, Value: I’m done for!
+Hash: B098746B, Key: VoiceDir1474.EDC75, Value: terrified
+Hash: 223803AE, Key: Line1459.B79B1, Value: No, no, no!
+Hash: 58A856BB, Key: VoiceDir1459.B79B1, Value: terrified
+Hash: F3A22F48, Key: Line1462.B79B1, Value: Oh, no!
+Hash: 2A128255, Key: VoiceDir1462.B79B1, Value: terrified
+Hash: DA90E58B, Key: Line1465.B79B1, Value: I’m done for!
+Hash: 11013898, Key: VoiceDir1465.B79B1, Value: terrified
+Hash: 6DBB8499, Key: Line1450.EDC76, Value: No, no, no!
+Hash: A42BD7A6, Key: VoiceDir1450.EDC76, Value: terrified
+Hash: 54AA3ADC, Key: Line1453.EDC76, Value: Oh, no!
+Hash: 8B1A8DE9, Key: VoiceDir1453.EDC76, Value: terrified
+Hash: 3B98F11F, Key: Line1456.EDC76, Value: I’m done for!
+Hash: 7209442C, Key: VoiceDir1456.EDC76, Value: terrified
+Hash: CE73EC7A, Key: Line1441.EDC77, Value: No, no, no!
+Hash: 04E43F87, Key: VoiceDir1441.EDC77, Value: terrified
+Hash: B562A2BD, Key: Line1444.EDC77, Value: Oh, no!
+Hash: EBD2F5CA, Key: VoiceDir1444.EDC77, Value: terrified
+Hash: 9C515900, Key: Line1447.EDC77, Value: I’m done for!
+Hash: D2C1AC0D, Key: VoiceDir1447.EDC77, Value: terrified
+Hash: 2EDC15FB, Key: Line1432.B6757, Value: No, no, no!
+Hash: 654C6908, Key: VoiceDir1432.B6757, Value: terrified
+Hash: 15CACC3E, Key: Line1435.B6757, Value: Oh, no!
+Hash: 4C3B1F4B, Key: VoiceDir1435.B6757, Value: terrified
+Hash: FCB98281, Key: Line1438.B6757, Value: By the Fates!
+Hash: 3329D58E, Key: VoiceDir1438.B6757, Value: terrified
+Hash: 8FE4BC67, Key: Line1423.EDC7D, Value: No, no, no!
+Hash: C6550F74, Key: VoiceDir1423.EDC7D, Value: terrified
+Hash: 76D372AA, Key: Line1426.EDC7D, Value: Oh, no!
+Hash: AD43C5B7, Key: VoiceDir1426.EDC7D, Value: terrified
+Hash: 5DC228ED, Key: Line1429.EDC7D, Value: By the Fates!
+Hash: 94327BFA, Key: VoiceDir1429.EDC7D, Value: terrified
+Hash: F09D2448, Key: Line1414.EDC7E, Value: No, no, no!
+Hash: 270D7755, Key: VoiceDir1414.EDC7E, Value: terrified
+Hash: D78BDA8B, Key: Line1417.EDC7E, Value: Oh, no!
+Hash: 0DFC2D98, Key: VoiceDir1417.EDC7E, Value: terrified
+Hash: A8F60625, Key: Line1420.EDC7E, Value: By the Fates!
+Hash: DF665932, Key: VoiceDir1420.EDC7E, Value: terrified
+Hash: 51055137, Key: Line1405.B6807, Value: No, no, no!
+Hash: 8775A444, Key: VoiceDir1405.B6807, Value: terrified
+Hash: 37F4077A, Key: Line1408.B6807, Value: Oh, no!
+Hash: 6E645A87, Key: VoiceDir1408.B6807, Value: terrified
+Hash: 095E3314, Key: Line1411.B6807, Value: By the Fates!
+Hash: 3FCE8621, Key: VoiceDir1411.B6807, Value: terrified
+Hash: 7823D3D2, Key: Line1396.EDC7F, Value: No, no, no!
+Hash: AE9426DF, Key: VoiceDir1396.EDC7F, Value: terrified
+Hash: 5F128A15, Key: Line1399.EDC7F, Value: Oh, no!
+Hash: 9582DD22, Key: VoiceDir1399.EDC7F, Value: terrified
+Hash: 6A66D5E6, Key: Line1402.EDC7F, Value: By the Fates!
+Hash: A0D728F3, Key: VoiceDir1402.EDC7F, Value: terrified
+Hash: D8DC3B9D, Key: Line1387.EDC80, Value: No, no, no!
+Hash: 0F4C8EAA, Key: VoiceDir1387.EDC80, Value: terrified
+Hash: AA466737, Key: Line1390.EDC80, Value: Oh, no!
+Hash: E0B6BA44, Key: VoiceDir1390.EDC80, Value: terrified
+Hash: 91351D7A, Key: Line1393.EDC80, Value: By the Fates!
+Hash: C7A57087, Key: VoiceDir1393.EDC80, Value: terrified
+Hash: 682AEC23, Key: Line1324.BC3FE, Value: No, no, no!
+Hash: 9E9B3F30, Key: VoiceDir1324.BC3FE, Value: terrified
+Hash: 4F19A266, Key: Line1327.BC3FE, Value: Oh, no!
+Hash: 8589F573, Key: VoiceDir1327.BC3FE, Value: terrified
+Hash: 2083CE00, Key: Line1330.BC3FE, Value: Akarat protect me!
+Hash: 56F4210D, Key: VoiceDir1330.BC3FE, Value: terrified
+Hash: C91AEFD3, Key: Line1315.EDC70, Value: No, no, no!
+Hash: FF8B42E0, Key: VoiceDir1315.EDC70, Value: terrified
+Hash: B009A616, Key: Line1318.EDC70, Value: Oh, no!
+Hash: E679F923, Key: VoiceDir1318.EDC70, Value: terrified
+Hash: 8173D1B0, Key: Line1321.EDC70, Value: Akarat protect me!
+Hash: B7E424BD, Key: VoiceDir1321.EDC70, Value: terrified
+Hash: 29D357B4, Key: Line1306.EDC71, Value: No, no, no!
+Hash: 6043AAC1, Key: VoiceDir1306.EDC71, Value: terrified
+Hash: 10C20DF7, Key: Line1309.EDC71, Value: Oh, no!
+Hash: 47326104, Key: VoiceDir1309.EDC71, Value: terrified
+Hash: E22C3991, Key: Line1312.EDC71, Value: Akarat protect me!
+Hash: 189C8C9E, Key: VoiceDir1312.EDC71, Value: terrified
+Hash: 506A038D, Key: Line1297.BC3FF, Value: No, no, no!
+Hash: 86DA569A, Key: VoiceDir1297.BC3FF, Value: terrified
+Hash: 5BBE4F5E, Key: Line1300.BC3FF, Value: Oh, no!
+Hash: 922EA26B, Key: VoiceDir1300.BC3FF, Value: terrified
+Hash: 42AD05A1, Key: Line1303.BC3FF, Value: Akarat protect me!
+Hash: 791D58AE, Key: VoiceDir1303.BC3FF, Value: terrified
+Hash: B15A073E, Key: Line1288.EDC72, Value: No, no, no!
+Hash: E7CA5A4B, Key: VoiceDir1288.EDC72, Value: terrified
+Hash: 82C432D8, Key: Line1291.EDC72, Value: Oh, no!
+Hash: B93485E5, Key: VoiceDir1291.EDC72, Value: terrified
+Hash: 69B2E91B, Key: Line1294.EDC72, Value: Akarat protect me!
+Hash: A0233C28, Key: VoiceDir1294.EDC72, Value: terrified
+Hash: 12126F1F, Key: Line1279.EDC73, Value: No, no, no!
+Hash: 4882C22C, Key: VoiceDir1279.EDC73, Value: terrified
+Hash: E37C9AB9, Key: Line1282.EDC73, Value: Oh, no!
+Hash: 19ECEDC6, Key: VoiceDir1282.EDC73, Value: terrified
+Hash: CA6B50FC, Key: Line1285.EDC73, Value: Akarat protect me!
+Hash: 00DBA409, Key: VoiceDir1285.EDC73, Value: terrified

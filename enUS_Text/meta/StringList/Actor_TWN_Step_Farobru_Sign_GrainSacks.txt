@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sacks of Grain
+Hash: F2CA04D8, Key: NoticeSignText, Value: Most of Farobru's wealth comes from its rich harvests and position along the supply route.

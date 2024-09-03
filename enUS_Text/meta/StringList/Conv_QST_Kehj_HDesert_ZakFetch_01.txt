@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is there anything I can do to help?"
+Hash: 2B193680, Key: Line7.BCB66, Value: Ah... well, yes. There is. There is a sacred Zakarum relic within our tombs. I have learned of a thief who wishes to add it to their collection.
+Hash: 9A229CAD, Key: VoiceDir7.BCB66, Value: Deciding if he could ask you for such a thing.
+Hash: C50DB002, Key: Line9.BCB66, Value: The relic is a symbol, you see, used to properly lay our dead to rest. It represents the Light that shines eternal within all of us. It is a beacon of hope for all. It uh... forgive me. It is quite important.
+Hash: 3417162F, Key: VoiceDir9.BCB66, Value: Rambling. His passion is overwhelming his restraint. Returning to stoicism at the end.
+Hash: 9124BCFE, Key: Line5.BCB66, Value: If you could return the holy symbol, we would be in your debt. Not only for keeping it out of the hands of a thief, but also for bringing some comfort to our sick here.

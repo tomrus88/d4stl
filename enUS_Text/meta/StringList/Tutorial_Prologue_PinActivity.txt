@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Pinning Activities
+Hash: 7BFE534B, Key: simple_instruction, Value: {c_highlight}Pin activities on the map{/c} with {icon:rmb, 2.0}. Pins can be also seen by other party members.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Pin activities on the map with {icon:button3, 2.0}. Pins can be also seen by other party members.

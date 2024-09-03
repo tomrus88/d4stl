@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Elixir of Cold Resistance II
+Hash: 2827F416, Key: Buff0_Description, Value: Cold Resistance increased. Experience increased by 8%.

@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Left in Ashes
+Hash: 0871A46B, Key: Toast, Value: Scholar Yuein seeks the spirit of his late apprentice.
+Hash: 24E63DCF, Key: Callback126Header, Value: Slay Éadaoin's Spirit
+Hash: A6927FEF, Key: Phase127Description, Value: Éadaoin's spirit has been banished and put to rest. I should return to Túr Dúlra and tell Yuein my findings.
+Hash: 0BD4F412, Key: Callback129Header, Value: Return to Scholar Yuein
+Hash: C4595E4B, Key: Phase114Description, Value: Scholar Yuein's previous apprentice died during the Astaroth attacks. He has sensed her spirit in the Deepwood, unable to pass on. He wishes for me to find her.
+Hash: 38A468EE, Key: Callback116Header, Value: Search for Éadaoin's spirit
+Hash: B2767ACE, Key: Phase144Description, Value: I found the spot where Éadaoin perished. Investigating the remains may reveal what befell the young druid. 
+Hash: 167B314E, Key: Callback143Header, Value: Investigate Éadaoin's remains

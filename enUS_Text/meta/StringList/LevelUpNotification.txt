@@ -1,0 +1,29 @@
+Hash: 7E78385A, Key: JewelerUnlock, Value: Jeweler Unlocked
+Hash: B1EF45AA, Key: JewelryUpgrade, Value: Jewelry Upgrade Unlocked
+Hash: 68883121, Key: GemUpgrade, Value: Gem Upgrade Unlocked
+Hash: 7902DD7A, Key: GemExtraction, Value: Gem Extraction Unlocked
+Hash: A5C28192, Key: PotionUpgrade1, Value: Tiny Healing Potion Upgrade Unlocked
+Hash: D4176067, Key: GearUpgrade, Value: Weapon/Armor Upgrade Unlocked
+Hash: C19F2DC6, Key: OccultistUnlock, Value: Occultist Unlocked
+Hash: 18C507DC, Key: LegendaryExtraction, Value: Legendary Extraction Unlocked
+Hash: F43D4301, Key: LegendaryImbuement, Value: Legendary Imbuement Unlocked
+Hash: 9B887E3E, Key: AffixReroll, Value: Item Enchanting Unlocked
+Hash: AC2655D4, Key: ParagonUnlock, Value: Paragon Board Unlocked
+Hash: E158B409, Key: SorcEnchant1, Value: Enchantment Quest Available
+Hash: 334498D0, Key: BarbExpertise, Value: Weapon Expertise Unlocked
+Hash: 9BA8875D, Key: BarbTechnique, Value: Weapon Technique Quest Available
+Hash: 040FDF73, Key: DruidPassive, Value: Spirits Boons Quest Available
+Hash: B5DF9512, Key: RogueSpecialization1, Value: Specialization Quest Available
+Hash: B5DF9513, Key: RogueSpecialization2, Value: Preparation Unlocked
+Hash: B5DF9514, Key: RogueSpecialization3, Value: Inner Sight Unlocked
+Hash: E158B40A, Key: SorcEnchant2, Value: New Enchantment Slot Unlocked
+Hash: A5C28193, Key: PotionUpgrade2, Value: Minor Healing Potion Upgrade Unlocked
+Hash: A5C28194, Key: PotionUpgrade3, Value: Light Healing Potion Upgrade Unlocked
+Hash: A5C28195, Key: PotionUpgrade4, Value: Moderate Healing Potion Upgrade Unlocked
+Hash: A5C28196, Key: PotionUpgrade5, Value: Strong Healing Potion Upgrade Unlocked
+Hash: A5C28197, Key: PotionUpgrade6, Value: Greater Healing Potion Upgrade Unlocked
+Hash: A5C28198, Key: PotionUpgrade7, Value: Major Healing Potion Upgrade Unlocked
+Hash: A5C28199, Key: PotionUpgrade8, Value: Superior Healing Potion Upgrade Unlocked
+Hash: 11F6E733, Key: IncenseCrafting, Value: Incense Crafting Unlocked
+Hash: D18DD12B, Key: Tempering, Value: Item Tempering Unlocked
+Hash: E2836F01, Key: Imprinting, Value: Aspect Imprinting Unlocked

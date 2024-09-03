@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Reins of the Brigand's Steed
+Hash: A646FFA4, Key: Description, Value: Use reins to add the Brigand's Steed to your stable.

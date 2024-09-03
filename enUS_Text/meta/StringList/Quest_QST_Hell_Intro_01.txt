@@ -1,0 +1,31 @@
+Hash: 003DFCC1, Key: Name, Value: The Eyes of the Enemy
+Hash: DCC8203F, Key: Phase91Description, Value: Amidst the aftermath of battle, the earth is a canvas of the fallen. The Triune and the Crusaders now rest together in eternal stillness. Only two have survived – myself and a condemned Triune hung on a nearby crucifix. He seems joyed to see me...
+Hash: 22E7CE14, Key: Callback167Header, Value: Speak to Locran
+Hash: 3BF917D1, Key: Callback164Header, Value: Defend Zarbinzet from the Triune
+Hash: 936600EA, Key: Phase113Description, Value: A growing disturbance is unfolding outside of the Zarbinzet chapel. Within the city walls, the air is heavy with palpable tension. Worry is etched into the townspeople and the usual solemn countenances of the Crusaders oath sworn to protect the city. 
+
+An unknown and potentially grave threat is brewing. This beckons a swift investigation.
+Hash: 04BB75EA, Key: Callback112Header, Value: Investigate the commotion in Zarbinzet
+Hash: 2640190D, Key: Phase116Description, Value: A growing disturbance is unfolding outside of the Zarbinzet chapel. Within the city walls, the air is heavy with palpable tension. Worry is etched into the townspeople, but one Captain Cireska seems to be rallying the guard. I should speak with her to discover what threat hangs over the city.
+Hash: EBAA2C2D, Key: Callback115Header, Value: Speak to Captain Cireska
+Hash: B91A3130, Key: Phase119Description, Value: The danger against Zarbinzet emanates from Triune cultists, whose nefarious presence now encroaches upon the city's very gates. Their audacity in nearing the heart of the Zakarum cannot be ignored. 
+
+Captain Cireska and her crusaders went forth to confront the threat. I shall join them upon the battlefield. To Arms!
+Hash: D298E270, Key: Callback118Header, Value: Find the Triune Cultists outside Zarbinzet
+Hash: 44ABC52D, Key: Phase125Description, Value: Locran brands Zarbinzet's attackers as "heretics" intent on unleashing chaos upon Sanctuary. He offers an olive branch, proposing assistance against a larger threat. But are his words sincere? Trusting him may prove perilous, but if he betrays me, Locran will face the same fate of all those who make that mistake.
+Hash: 8AF1C44D, Key: Callback124Header, Value: Free Locran from the crucifix
+Hash: BEDAB751, Key: Callback128Header, Value: Speak to Locran
+Hash: D03D592A, Key: Phase131Description, Value: Locran claims a larger congregation of Triune Cultists amass near Rakhat Keep. I know that place well from my travels alongside the Horadrim, where I learned this decrypted tomb harbors great evil. I will accompany Locran there to verify if he is telling the truth. 
+Hash: 434AA62A, Key: Callback130Header, Value: Find the Triune Heretics outside the Ruins of Rakhat Keep
+Hash: 940ACEAE, Key: Phase135Description, Value: Locran's report of an assembly of Triune Cultists near Rakhat Keep proves truthful. Their dark intent is unmistakable: demon summoning. I must swiftly stop them before they unleash untold chaos Sanctuary.
+Hash: 5E224F71, Key: Callback137Header, Value: Slay the Demons
+Hash: B2767ACE, Key: Phase144Description, Value: The Triune and their plans are no more. Rakhat Keep is silent once again, but I do not feel at peace. Someone looms from beneath the keep... 
+
+Locran stands untainted by deceit thus far. I should council with him on our next steps.
+Hash: 167B314E, Key: Callback143Header, Value: Speak to Locran
+Hash: 455092F1, Key: Phase147Description, Value: The Triune and their plans are no more. Rakhat Keep is silent once again, but I do not feel at peace. Someone looms from beneath the keep... 
+
+Locran proposes a search of the cultists' ruined camp. Amidst remnants, clues may surface—clues that could shed light on the full extent of the Triune's schemes.
+Hash: 9AB30FF6, Key: Callback196Header, Value: Search for evidence in the Ruins of Rakhat Keep: {DONE_OVER_NEEDED}
+Hash: D0E226EE, Key: Phase153Description, Value: I followed Locran to the Triune in the Ruins of Rakhat Keep and killed all who dwelled there. It appears Locran has been truthful, so far. Whatever the Triune are up to, we'll see what Locran makes of it.
+Hash: B5C2C96E, Key: Callback152Header, Value: Show Locran the evidence

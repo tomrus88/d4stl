@@ -1,0 +1,2 @@
+Hash: 8B25FF61, Key: Line8.BAE4.Bar.F, Value: I can't afford that.
+Hash: CEAC2B0A, Key: Line10.BAE4.Bar.F, Value: I don't have the coin.

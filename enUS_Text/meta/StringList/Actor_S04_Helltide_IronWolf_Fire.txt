@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolf
+Hash: 0001AB01, Key: Alt, Value: Corrupted Iron Wolf
+Hash: CC38ADCB, Key: FlavorName, Value: Iron Wolf
+Hash: DA72BB62, Key: SuperElite, Value: Iron Wolf

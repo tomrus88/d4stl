@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Black Asylum
+Hash: 003892BF, Key: Desc, Value: An abandoned prison teeming with the wails of its inmates.

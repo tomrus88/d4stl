@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wardrobe
+Hash: F2CA04D8, Key: NoticeSignText, Value: Filled with a woman’s garments, seemingly untouched for years. A dust-covered note atop the clothing reads: “Crafted by Caldeum’s own royal tailor. They call it silk woven of sunlight. Who better to wear than you, my love?”

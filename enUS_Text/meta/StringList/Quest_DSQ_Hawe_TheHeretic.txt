@@ -1,0 +1,4 @@
+Hash: B98DBD5C, Key: Callback15Header, Value: Save Aneta from the villagers
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the Demons
+Hash: EC8B1AEE, Key: Callback8Header, Value: Speak with Aneta
+Hash: 003DFCC1, Key: Name, Value: The Heretic

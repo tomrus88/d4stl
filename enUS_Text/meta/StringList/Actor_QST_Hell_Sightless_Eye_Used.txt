@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Sightless Eye
+Hash: F2CA04D8, Key: NoticeSignText, Value: The artifact’s edge is cracked, but it still pulses with magic. Glimpses of the nightmare realm flicker across the Eye’s surface. 
+Hash: CC3C0A8F, Key: FlavorText, Value: Fallen, but not shattered.

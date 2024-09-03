@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Bonded in Essence
+Hash: 003892BF, Key: desc, Value: Every {c_number}{SF_1}{/c} seconds, your Skeletal Priest's Healing will Heal your Skeletons for an additional {c_number}[{SF_0} * 100|%|]{/c} of their Maximum Life.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Healing Amount {icon:arrow,1.2} {c_number}[{SF_0} * 100|%|]{/c}

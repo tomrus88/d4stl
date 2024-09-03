@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Seeker Key
+Hash: A646FFA4, Key: Description, Value: Unlocks Seeker Caches
+Hash: F5C7BC0A, Key: Flavor, Value: Only Lord Zir's most powerful servants are entrusted with access to his vast treasure hoard.

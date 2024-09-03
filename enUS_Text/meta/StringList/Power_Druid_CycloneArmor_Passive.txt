@@ -1,0 +1,4 @@
+Hash: A99E3406, Key: Buff12_Name, Value: Cyclone Armor Bonus
+Hash: D621B749, Key: Buff12_Description, Value: Taking reduced damage.
+Hash: 1970B898, Key: Buff5_Name, Value: Cyclone Armor Bonus
+Hash: B503239B, Key: Buff5_Description, Value: Taking damage grants you Damage Reduction.

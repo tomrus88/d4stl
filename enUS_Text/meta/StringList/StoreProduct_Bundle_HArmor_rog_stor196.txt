@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Peacock
+Hash: A646FFA4, Key: Description, Value: The somewhat vainglorious scapegrace known only as The Peacock had several suits of this stylish armor made, gifting them to other rogues who assist in his schemes.
+Hash: 083EE0CE, Key: Quote, Value: Elegant chicanery.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

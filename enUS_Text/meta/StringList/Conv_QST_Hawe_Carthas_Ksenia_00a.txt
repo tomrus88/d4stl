@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Lost Legacy
+Hash: 8EB39B3B, Key: Line1.103673, Value: Praise Akarat, His will be done. Lead us to darkness, so our Light may shine and purify.
+Hash: DEE9C708, Key: VoiceDir1.103673, Value: A prayer/holy chant.

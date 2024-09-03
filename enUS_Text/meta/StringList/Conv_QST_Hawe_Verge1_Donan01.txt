@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Secrets of the Zakarum"
+Hash: 6F3E307B, Key: Line11.7FA05, Value: Do you feel that? Mephisto's touch is heavy here. All that hatred.
+Hash: 0932A9FD, Key: Line13.7FA05, Value: It's just what we need to attune the soulstone--to make it ready for Lilith.
+Hash: A327237F, Key: Line15.7FA05, Value: I'm too old to climb, but you can get in and open the portcullis.

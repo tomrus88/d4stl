@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What will you do now, Yolanda?"
+Hash: 8EB69A80, Key: Line1.107ED8, Value: Make Zurke explain this remedy to me. Did he tell you how to make it so potent? I’ll have to go knocking on his door, won’t I? And no head to smooth the way.
+Hash: 673A4442, Key: Line3.107ED8, Value: Before that, however, I'll rest. Nearly dying is exhausting.

@@ -1,0 +1,3 @@
+Hash: A5A61F93, Key: Line28.BAE4.Bar.F, Value: That doesn't belong to me.
+Hash: 9279A08E, Key: Line14.BAE4.Bar.F, Value: That belongs to someone else.
+Hash: 3092E5CC, Key: Line12.BAE4.Bar.F, Value: That isn't mine.

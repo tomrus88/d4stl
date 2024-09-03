@@ -1,0 +1,4 @@
+Hash: 2070327B, Key: Buff8_Name, Value: Malignant Rage
+Hash: A320401E, Key: Buff8_Description, Value: Your next non-{c_important}Basic{/c} Skill has a {c_number}[SF_1*100]%{/c} increased critical strike chance.
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Malignant Rage
+Hash: 3763A447, Key: Buff10_Description, Value: Critical Strike Chance increased by {c_number}[SF_1*100]%{/c} while channeling.

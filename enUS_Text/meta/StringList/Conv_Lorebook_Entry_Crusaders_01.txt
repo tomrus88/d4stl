@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Graverobber's Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Graverobber's Journal
+Hash: 5D3B086B, Key: Line1.BC3FF, Value: It took a few bottles, but the good Sir Trystan is with us. He says to leave the smaller crypts. Just common soldiers in those. Take iron tools and go for the big tombs, that's where the gold will be.
+Hash: CC446E98, Key: VoiceDir1.BC3FF, Value: To self, anxious, hopeful.
+Hash: F72F81ED, Key: Line3.BC3FF, Value: Akarat forgive and watch over us. Give us full bellies tonight.

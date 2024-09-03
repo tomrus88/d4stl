@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Fury Against Fate
+Hash: 003892BF, Key: Desc, Value: Complete the Fury Against Fate questline in Dry Steppes.
+Hash: 3DA554E6, Key: Crit_236073, Value: Consumed by Pride
+Hash: 3DA554E7, Key: Crit_236074, Value: Raising Spears
+Hash: 3DA554E8, Key: Crit_236075, Value: Fury Against Fate

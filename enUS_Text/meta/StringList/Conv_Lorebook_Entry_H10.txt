@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Curate Symon
+Hash: 8EE12459, Key: Line1.11E6C2, Value: A man has come to our small town. Many people pass through, but there is something different about this one. Something... enigmatic.
+Hash: 6764CE1B, Key: Line3.11E6C2, Value: Father Dymus has warned me against him, but the swordsman has invited me to journey with him. 'There are places filled with knowledge,' he says. I mean to find them.
+Hash: B79AF9E8, Key: VoiceDir3.11E6C2, Value: Pronounciation: Dye-muss
+Hash: 3FE877DD, Key: Line5.11E6C2, Value: We will make camp at the Decaying Farmstead, east of here.

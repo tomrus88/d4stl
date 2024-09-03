@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm ready to go."
+Hash: 5D27EBD7, Key: Line1.AA8C3, Value: This is where I found Bearfa.
+Hash: F71C6559, Key: Line3.AA8C3, Value: It looks like she trailed blood here--it goes up that way.

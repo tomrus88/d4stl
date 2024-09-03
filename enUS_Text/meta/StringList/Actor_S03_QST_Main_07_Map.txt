@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Map of a Sanctuary Past
+Hash: F2CA04D8, Key: NoticeSignText, Value: An almost-familiar map. Though the geography matches the Sanctuary you know, many of the cities, strongholds, and major features are different. With some effort, you can discern the marked locations.

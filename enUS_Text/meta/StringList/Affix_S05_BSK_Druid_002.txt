@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rejuvenating
+Hash: 003892BF, Key: Desc, Value: When falling below {c_number}[Affix."Static Value 0"]{/c} Spirit, there is a {c_random}[Affix_Value_1|%|]{/c} chance to fully restore your Spirit.

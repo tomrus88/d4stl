@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Incence Burner
+Hash: F2CA04D8, Key: NoticeSignText, Value: The sickly-sweet odor of Hawezari flora wafts from the incense. Cut off from major supply routes, incense herbs must be foraged.

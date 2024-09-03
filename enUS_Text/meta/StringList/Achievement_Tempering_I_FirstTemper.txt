@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Heat Treat
+Hash: 003892BF, Key: Desc, Value: Temper a piece of gear for the first time.

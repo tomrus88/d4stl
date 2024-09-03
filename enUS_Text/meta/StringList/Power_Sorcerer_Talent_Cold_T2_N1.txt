@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Cold Front
+Hash: 003892BF, Key: desc, Value: While you have a {c_important}{u}Barrier{/u}{/c} active, you apply {c_number}[{SF_0} * 100|x%|]{/c} more {c_important}{u}Chill{/u}{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Chill {icon:arrow,1.2} {c_number}[{SF_0} * 100|x%|]{/c}

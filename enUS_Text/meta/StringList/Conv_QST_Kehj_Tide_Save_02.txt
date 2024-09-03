@@ -1,0 +1,4 @@
+Hash: F74D2DA6, Key: Line3.E6891, Value: Always thought you’d outlive me.
+Hash: 665693D3, Key: VoiceDir3.E6891, Value: Voice breaking, but trying to stay tough.
+Hash: 78305D6B, Key: Line8.E6891, Value: We’ll avenge you...cousin Azim.
+Hash: E739C398, Key: VoiceDir8.E6891, Value: regaining composure, cold anger for the first part of the line. For the second part, remembering the Hero's presence and adding in "cousin" to keep up the illusion this is his "family."

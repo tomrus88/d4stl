@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Frozen Tundra
+Hash: 003892BF, Key: Desc, Value: While {c_important}Deep Freeze{/c} is active, exploding {c_important}Ice Spikes{/c} form in the area, dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Cold damage. Your {c_important}Ice Spikes{/c} have a {c_number}[Affix_Value_1 * 100|%|]{/c} increased explosion radius.
+Hash: 82B7D312, Key: CodexDesc, Value: If {c_important}Deep Freeze{/c} is active, {c_important}Ice Spikes{/c} form in the area and deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Cold damage. {c_important}Ice Spikes{/c} have increased radius.

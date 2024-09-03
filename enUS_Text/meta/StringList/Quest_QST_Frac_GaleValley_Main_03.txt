@@ -1,0 +1,23 @@
+Hash: 003DFCC1, Key: Name, Value: The Knight and the Magpie
+Hash: 0871A46B, Key: Toast, Value: Speak with Vigo at the mines about his report of Lilith's presence
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Search for Vigo
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must seek out Knight Penitent Captain Vigo at the mines in Gale Valley and investigate reports of Lilith's presence.
+Hash: D785DD50, Key: Phase128Description, Value: A demon woman has been sighted in Gale Valley. A Knight Penitent named Vigo posted at the mines may know more.
+Hash: 0A7DFC98, Key: Phase128OutsideSubzoneHeader, Value: Go to the mining camp at Pine Hill
+Hash: 47155371, Key: Callback218Header, Value: Go to the mining camp at Pine Hill
+Hash: 60269D2E, Key: Callback215Header, Value: Go to the mining camp at Pine Hill
+Hash: C4FE2C0F, Key: Phase136Description, Value: A demon woman has been sighted in Gale Valley. A Knight Penitent named Vigo posted at the mines may know more.
+Hash: DB105237, Key: Phase136OutsideSubzoneHeader, Value: Speak with Vigo at the mining camp in Pine Hill
+Hash: 6FE20AD5, Key: Callback168Header, Value: Speak with Vigo
+Hash: 704507B4, Key: Phase195Description, Value: My search for Vigo caused me to cross paths with a young academic named Neyrelle at the mines.
+Hash: 3A0D177C, Key: Phase195OutsideSubzoneHeader, Value: Speak with Vigo at the mining camp in Pine Hill
+Hash: E7AD4CB7, Key: Callback197Header, Value: Speak with Vigo
+Hash: 145D3590, Key: Phase146Description, Value: Vigo, Neyrelle, and I venture into the mines to pursue Lilith and Neyrelle's mother, Vhenard.
+Hash: 4DBC9CD8, Key: Phase146OutsideSubzoneHeader, Value: Follow Vigo to the Ore Hoist
+Hash: D9F04ECB, Key: Callback203Header, Value: Follow Vigo to the Ore Hoist
+Hash: 9FEEC98D, Key: Phase152Description, Value: Vigo, Neyrelle, and I venture into the mines to pursue Lilith and Neyrelle's mother, Vhenard.
+Hash: 7C34FD75, Key: Phase152OutsideSubzoneHeader, Value: Slay the ghouls
+Hash: 081024CD, Key: Callback160Header, Value: Slay the ghouls
+Hash: 3F51AA53, Key: Phase194Description, Value: Vigo, Neyrelle, and I venture into the mines to pursue Lilith and Neyrelle's mother, Vhenard.
+Hash: E9001CFB, Key: Phase194OutsideSubzoneHeader, Value: Go to the Sealed Gate with Vigo
+Hash: B3C459B3, Key: Callback193Header, Value: Go to the Sealed Gate with Vigo

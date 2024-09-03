@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Give the heart to Locran.)
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: Good. I will enchant the Horadric seal and we’ll slip through the Gate. It will remain shut to all but us.
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Adrenaling pumping. Terrified. Keeping focused.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: Once we’re through, this heart will be our compass. It will guide us to the demons’ source... That is where you'll make your stand.
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Adrenaling pumping. Terrified. Keeping focused.
+Hash: A97D1E50, Key: Line22.1BCB9E, Value: (panting) Are you ready?
+Hash: 0078C3BD, Key: VoiceDir22.1BCB9E, Value: Adrenaling pumping. Terrified. Keeping focused.

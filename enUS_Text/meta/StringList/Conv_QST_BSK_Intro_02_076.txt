@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this talisman?"
+Hash: E60800D3, Key: Line16.1BCB9E, Value: A relic blessed by the Mother's own hand. A symbol of the free will she gave us.
+Hash: 3D03A640, Key: VoiceDir16.1BCB9E, Value: Reverent. Somber.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: Its power has faded each day since she fell... but it will hold.
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Somber, then reassuring Player (but mostly himself)

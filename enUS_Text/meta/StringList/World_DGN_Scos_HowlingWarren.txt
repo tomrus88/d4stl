@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Howling Warren
+Hash: 003892BF, Key: Desc, Value: A corrupted den of wolves and wargs, hungry for human flesh.

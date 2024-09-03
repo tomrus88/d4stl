@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: A reeking sore on Orbei’s doorstep.
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay all enemies in the Infected Warrens {KAM_REVEALED_COUNT}
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Arandok, Malignant Warchief

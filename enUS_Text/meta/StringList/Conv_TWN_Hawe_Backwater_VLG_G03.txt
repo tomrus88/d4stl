@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 675CC5DC, Key: Line3.124D4D, Value: He was already dead. Weren’t me that killed him. I just... just kept him dead.
+Hash: B792F1A9, Key: VoiceDir3.124D4D, Value: Shaky, haunted
+Hash: 8ED91C1A, Key: Line1.124D4D, Value: That thing wasn’t him. Think, think. Remember him afore he drowned. It wasn’t really him.
+Hash: DF0F47E7, Key: VoiceDir1.124D4D, Value: Shaky, haunted

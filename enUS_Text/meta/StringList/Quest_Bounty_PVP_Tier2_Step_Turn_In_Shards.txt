@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: {c_red}PvP:{/c} Purify Seeds of Hatred
+Hash: 0871A46B, Key: Toast, Value: The power of the Seeds of Hatred has intrigued the Tree of Whispers.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Complete a ritual at an Altar of Extraction
+Hash: 0BDB18BB, Key: Callback23Header, Value: Complete a ritual at an Altar of Extraction

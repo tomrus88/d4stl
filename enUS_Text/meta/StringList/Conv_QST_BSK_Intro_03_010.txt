@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The Hell Gate awaits. Are you ready?"
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: I was ready the day we followed the Mother here. When “tears of blood rained upon a desert jewel, and the way to Hell was torn asunder.”
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Somber. Nostalgic.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: Now it's just me, you, and the Realm of Hatred... May the Mother witness our rage.
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Bracing. Summoning the will to fight.

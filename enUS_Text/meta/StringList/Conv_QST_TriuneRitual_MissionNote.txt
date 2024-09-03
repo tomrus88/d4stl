@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Knight Penitent Commander Kyran 
+Hash: 911D606D, Key: Line5.C634B, Value: Ser Matias, stay alert. The Triune have been investigating the inactive plate by the Hell Gate. If they are interested, foul magic is afoot. We are trying to decipher the text. If you discover anything relevant to this, report back.
+Hash: 0026C69A, Key: VoiceDir5.C634B, Value: A grizzled, older Commander gives orders

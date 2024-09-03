@@ -1,0 +1,7 @@
+Hash: 5A270F7C, Key: Line1.804B7, Value: Dad, I need to be out in the field with the other Knights.
+Hash: C93075A9, Key: VoiceDir1.804B7, Value: Not whiny, but trying to argue a point.
+Hash: F427C5EC, Key: Line3.7FA05, Value: Why the rush, my boy? You know, I-I found some of my old Horadric tomes. Stay here and we can go through them together.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Trying to entice his son with the "a shipment of tomes" line.
+Hash: C1F8F584, Key: Line9.804B7, Value: I can take some with me.
+Hash: 6F31F38D, Key: Line11.804B7, Value: We have a visitor.
+Hash: BF681F5A, Key: VoiceDir11.804B7, Value: Noticing the player

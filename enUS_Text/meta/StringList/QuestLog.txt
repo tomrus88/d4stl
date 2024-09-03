@@ -1,0 +1,96 @@
+Hash: 039A3B4F, Key: Listen, Value: {icon:audio} Listen to Quest
+Hash: F9502067, Key: TitleQuests, Value: Quests
+Hash: 9414FB34, Key: TitleLore, Value: Journal
+Hash: F4DF4D42, Key: NoQuests, Value: You currently have no quests.
+Hash: 3BA89C78, Key: Rewards, Value: Quest Rewards
+Hash: B0BC2C8D, Key: RewardXP, Value: {s1} XP
+Hash: B93C8F16, Key: RewardItemTitle, Value: Item:
+Hash: 4F9EF4BF, Key: QuestRewardXP, Value: {s1} XP
+Hash: B325D81D, Key: QuestRewardGold, Value: {s1}
+Hash: 1412FFDF, Key: QuestRewardLogGold, Value: Gold received: {s1}
+Hash: 183B4401, Key: QuestRewardLogXP, Value: XP received: {s1} {c:FFefeadc}XP{/c}
+Hash: B359D459, Key: TitleVanityPets, Value: Pets
+Hash: D6988465, Key: PetDismiss, Value: Dismiss
+Hash: 22920BA8, Key: PetSummon, Value: Summon
+Hash: 0D18E2EB, Key: TitleBounties, Value: Bounties
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: 049542F4, Key: Decline, Value: Decline
+Hash: 15C4B4A7, Key: Title_Gold, Value: Gold:
+Hash: B2BE4EC6, Key: Title_Reward, Value: Reward
+Hash: B6E926C9, Key: Title_XP, Value: XP:
+Hash: 4945B196, Key: SelectedQuest_Title_Objective, Value: Objective
+Hash: CA9000DC, Key: Title_Objective, Value: Objective
+Hash: A91263A5, Key: Title_Description, Value: Description
+Hash: 9B5EB34A, Key: Title_Header, Value: Quest Log
+Hash: 1BA0D699, Key: QuestTypeMain, Value: Main
+Hash: 6E8C1CF5, Key: QuestTypeBounty, Value: Bounty
+Hash: 1BA44239, Key: QuestTypeSide, Value: Side
+Hash: 91627459, Key: StepIndicator, Value: {s1}/{s2}
+Hash: 4C63EB9B, Key: DungeonRecap, Value: {icon:right} Leave Dungeon
+Hash: 9AAE8CF9, Key: WorldEventBeginsIn, Value: Begins in {s1}
+Hash: E47636F6, Key: Challenges, Value: Challenges
+Hash: 94DC6EE6, Key: Quest_Track, Value: Track 
+Hash: E742BF09, Key: Quest_Track_Controller, Value: Track
+Hash: 10B03AA8, Key: New_Quest_Added_To_Journal, Value: New Quest
+Hash: D6EBB68B, Key: QuestAccepted, Value: Quest Accepted
+Hash: C399D299, Key: QuestUpdated, Value: Quest Updated
+Hash: B3270546, Key: QuestRewardItem, Value: {icon:QuestReward_Icon_Item,2.2} {s1}
+Hash: 03DE78D5, Key: Tracked_Highlight, Value: Tracked
+Hash: 425AC4BE, Key: DungeonObjectives, Value: Objective
+Hash: 1F2F0087, Key: CampaignChapter, Value: Chapter {s1}
+Hash: F6B1A02B, Key: StoryQuestInstanceOutsideSubzone, Value: Travel to the quest marker
+Hash: CB0802B1, Key: EventBeginsIn, Value: Begins in {s1}
+Hash: C8D05963, Key: EventEndsIn, Value: Ends in {s1}
+Hash: 8B1FC7F0, Key: NoQuestTracked_Controller, Value: Open the Map & Journal {hotkey:Map} to track a quest  
+Hash: 8DF49A21, Key: DungeonQuestAlreadyCompleted, Value: Quest cannot advance until this dungeon has reset.
+Hash: 0E2FACE6, Key: NoQuestTracked_KBM, Value: Open the Journal {hotkey:QUESTS} to track a quest  
+Hash: EB85F1C8, Key: Campaign_Header, Value: Campaign
+Hash: 1381297A, Key: Quest_Header, Value: Quests
+Hash: FD0C38B8, Key: CampaignStateShared, Value: Using {s1}'s campaign status
+Hash: 0D0016B6, Key: CampaignQuestUnavailable, Value: {icon:Warning_Icon, 1.5} {c_red}Cannot progress due to party's campaign state.{/c}
+Hash: A03EE1BF, Key: CampaignShared_Header, Value: Shared Campaign
+Hash: 5FF15F78, Key: CampaignQuestSynced, Value: {icon:Synced, 1.8} You are also on this step of the quest and will receive full completion credit.
+Hash: DA5FF39E, Key: CampaignReset_Button, Value: {icon:button4, 2}  Return to your campaign state
+Hash: C80795AB, Key: ObjectiveUnknown, Value: Undiscovered Objective
+Hash: 4C643033, Key: DungeonReset, Value: Reset Dungeons
+Hash: AB7A5306, Key: DungeonResetDisabledPartyTooltip, Value: Only the party leader can reset dungeons.
+Hash: 9A995F05, Key: DungeonResetDisabledNATooltip, Value: Option not available until a dungeon is cleared.
+Hash: 1683E573, Key: Abandon, Value: Abandon
+Hash: E16CD56A, Key: AbandonQuestMessage, Value: Abandoning a quest will reset your progress, destroy any related quest items, and close any related quest dungeons. Any abandoned quests can be picked up again.
+
+Abandon the quest {s1}?
+Hash: 773FDF2E, Key: AbandonQuestHeader, Value: Abandon Quest?
+Hash: 46D1FF9A, Key: DungeonResetHold, Value: Reset Dungeons
+Hash: AE5865AC, Key: SideQuestStartMsg, Value: This Item Starts A Side Quest
+Hash: F04E80DA, Key: QuestProgressSaved, Value: {icon:QuestLog_CheckboxComplete02, 1.8} Quest Progress Saved
+Hash: FD42747F, Key: SideQuest_Header, Value: Side Quests
+Hash: 3E70781C, Key: PriorityQuest_Header, Value: Priority Quests
+Hash: A066E75B, Key: NoAcceptedQuests, Value: You currently have no quests.
+Hash: E65E218A, Key: QuestLevel, Value: Lv. {s1}+
+Hash: 8FF277D9, Key: QuestInBlockedZone, Value: {c_red}This quest cannot be progressed in this version of the game.{/c}
+Hash: E85C54BE, Key: UnflippedCampQuestUnavailable, Value: {icon:Warning_Icon, 2} {c_red}Stronghold must be conquered first.{/c}
+Hash: 83B54C80, Key: QuestChapterAndStage, Value: Chapter: {s1} • Quest {s2}/{s3}
+Hash: B8F942E9, Key: Quest_Type_Shared, Value: Shared
+Hash: C073965A, Key: Quest_Type_Limited, Value: Limited
+Hash: C5CD7126, Key: Quest_Type_Blocked, Value: Blocked
+Hash: D740F465, Key: LimitedQuestDifferentStage, Value: You are on quest {s1}/{s2}.
+Hash: B5104A59, Key: LimitedQuestAlreadyCompleted, Value: You have completed this chapter.
+Hash: E8E2F6C8, Key: LimitedQuestNotEligible, Value: You are not yet eligible for this quest.
+Hash: 4CCF9520, Key: SharedQuestTooltipInfo, Value: "Shared" quests mean you are on the same step of the quest as the party. You will receive full rewards and credit on completion.
+Hash: A0E2C851, Key: LimitedQuestTooltipInfo, Value: "Limited" quests are those you have already completed or are not yet eligible for. You will not receive a reward for assisting.
+Hash: A4BAE039, Key: Blocked_LeaderDoesntHave_QuestTooltipInfo, Value: "Blocked" quests are unavailable in your current state. The party is not on the same quest step.
+Hash: 11B6C689, Key: Blocked_DontHaveExpansion_QuestTooltipInfo, Value: "Blocked" quests are unavailable in your current state. This quest requires you to purchase the expansion {s1}.
+Hash: 23EB93B0, Key: Blocked_RestrictedZone_QuestTooltipInfo, Value: "Blocked" quests are unavailable in your current state. This quest is in an area you do not have access to.
+Hash: 64CC7871, Key: SharedQuestProgressSaved, Value: {icon:QuestLog_CheckboxComplete02, 1.8} Personal Quest Progress Saved
+Hash: 86CD4B99, Key: LimtedQuestProgressSaved, Value: Quest Saved for Party
+Hash: 501FE295, Key: LimitedQuestCompletePrompt, Value: No reward. You have already completed this quest or not yet eligible.
+Hash: 5054591D, Key: Completed, Value: Completed
+Hash: 344DC07E, Key: QuestPersonalProgressSaved, Value: {icon:QuestLog_CheckboxComplete02, 1.8} Personal Quest Progress Saved
+Hash: 8E865FAA, Key: QuestPartyProgressSaved, Value: Quest Saved for Party
+Hash: EB29DB76, Key: QuestNoRewardPrompt, Value: No reward received. You have already completed this quest or are not yet eligible.
+Hash: 51247274, Key: CampaignResetConfirmation_Header, Value: Campaign Progress
+Hash: AD402D0F, Key: CampaignResetConfirmation_Description, Value: Are you sure you want to return to your campaign state?
+Hash: BC5162E3, Key: SeasonQuest_Header, Value: Season Journey Objectives
+Hash: EA24A0CB, Key: SeasonOnly, Value: Show seasonal only
+Hash: A3F2B209, Key: SeasonJourneyTooltipDescriptionWIthCount, Value: {s1}: {c_questobjval}{s2}/{s3}{/c}
+Hash: 0CB1DBC2, Key: HideFromQuestLog, Value: Hide from Journal

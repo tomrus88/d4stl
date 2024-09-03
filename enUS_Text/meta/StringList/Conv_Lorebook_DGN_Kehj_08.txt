@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ragged Piece of Cloth
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Ragged Piece of Cloth
+Hash: 5D72150B, Key: Line1.ECAC8, Value: ...the buzzing...the incessant buzzing. Constantly. Everywhere. In my ears. In my head. Then the stench...putrid. Foul. Cloying. Corrupt...
+Hash: F7668E8D, Key: Line3.ECAC8, Value: There is no escape. Am I dead already? Is this hell? Who knows? Would it be so different than life in Sanctuary?

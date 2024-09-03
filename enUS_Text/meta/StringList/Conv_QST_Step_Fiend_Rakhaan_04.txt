@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Your hunter was petrified."
+Hash: 5D73363A, Key: Line1.EECAE, Value: I know. Awful, just awful. Doesn’t feel good, hiring my people, losing them. But you! You have promise.
+Hash: F767AFBC, Key: Line3.EECAE, Value: There’s one last relic, if you’re feeling up to a challenge.

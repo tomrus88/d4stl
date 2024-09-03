@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Journal Entry
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Journal Entry
+Hash: 5D20E755, Key: Line1.B2A6C, Value: This might very well be my last journal. The Knights Penitent have fallen. I hid and listened to the screams as they were torn and devoured by the creatures. I didn’t want to end up like the others, nothing but a blood splatter on the floor.
+Hash: F71560D7, Key: Line3.B2A6C, Value: The city walls that kept us safe have trapped us in with them. I pray the Cathedral sends reinforcements soon and will have mercy when they know of my cowardice.
+Hash: 9109DA59, Key: Line5.B2A6C, Value: The sounds have stopped. I’m going to try to escape.

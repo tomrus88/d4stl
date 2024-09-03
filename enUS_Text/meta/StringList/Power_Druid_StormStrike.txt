@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Storm Strike
+Hash: 003892BF, Key: desc, Value: {if:SF_19}{c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{c_label}Generate Spirit:{/c_label} {c_resource}{SF_2}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Electricity gathers around your weapon, dealing {c_number}{payload:MELEE_DAMAGE}{/c} damage to your target and chaining to up to {c_number}{SF_3}{/c} surrounding enemies, dealing {c_number}[SF_4 *100|%|]{/c} less damage each time it chains.
+
+You gain {c_number}[{SF_9}*100|%|]{/c} Damage Reduction for {c_number}{buffduration:DAMAGE_REDUCTION}{/c} seconds after dealing damage with {c_important}Storm Strike{/c} .
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:MELEE_DAMAGE}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Storm Strike{/c} has a {c_number}[{SF_10}*100|%|]{/c} chance to Immobilize all enemies hit for {c_number}[{buffduration:IMMOBILIZE}|1|]{/c} seconds.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Storm Strike
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Storm Strike{/c} has a {c_number}[{SF_12} * 100|%|]{/c} chance to make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_13}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Fierce Storm Strike
+Hash: 5110F53B, Key: Mod8_Description, Value: {c_important}Storm Strike{/c} chains to {c_number}[SF_7]{/c} additional targets.
+Hash: A4DD1E38, Key: Mod8_Name, Value: Wild Storm Strike

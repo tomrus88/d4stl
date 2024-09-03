@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Drums of the Vault
+Hash: 4FEAF248, Key: Phase120Description, Value: I freed what villagers I could. Now to return to the Gatehall and tell Ayuzhan what I found.
+Hash: 1F931F31, Key: Callback119Header, Value: Speak with Ayuzhan in the Gatehall
+Hash: 759F228E, Key: Phase126Description, Value: Ayuzhan needs raw materials to enhance my Seneschal. The traps outside the Vaults should suit our needs, but salvaging them may not be easy.
+Hash: D7EC010E, Key: Callback125Header, Value: Gather Shattered Stones from Constructs {DONE_OVER_NEEDED}
+Hash: 2F8C7B0B, Key: Callback140Header, Value: Gather Cores from Obelisks {DONE_OVER_NEEDED}
+Hash: 5E224F71, Key: Callback137Header, Value: Gather Materials
+Hash: 08793AB1, Key: Phase129Description, Value: I have the materials Ayuzhan needed. I should return to the Gatehall and improve the Seneschal there.
+Hash: BEDAB751, Key: Callback128Header, Value: Upgrade the Seneschal using the Brazier in the Gatehall
+Hash: 940ACEAE, Key: Phase135Description, Value: I succeeded in upgrading the Seneschal. I should inform Ayuzhan.
+Hash: 7733992E, Key: Callback134Header, Value: Speak with Ayuzhan
+Hash: B3C459B3, Key: Callback193Header, Value: Gather a Pearl of Warding from Heralds of Malphas

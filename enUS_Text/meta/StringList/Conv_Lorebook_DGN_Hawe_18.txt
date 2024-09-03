@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Defector's note
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Defector's Note
+Hash: 59EA27BC, Key: Line1.3F381, Value: I never thought I’d be throwing my lot in with this rabble, but here I am. Maybe I can organize these bandits into something that resembles an effective unit. At least effective enough to allow me an escape when the Church eventually finds us.

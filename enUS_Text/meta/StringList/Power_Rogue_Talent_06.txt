@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Rapid Gambits
+Hash: 003892BF, Key: desc, Value: {c_important}Evading{/c} through an enemy {c_important}{u}Dazes{/u}{/c} them for {c_number}[{SF_1}||]{/c} seconds. Your {c_important}Evade{/c} Cooldown is reduced by {c_number}[{SF_0}|2|]{/c} seconds when you {c_important}{u}Daze{/u}{/c} an enemy.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Cooldown Reduction {icon:arrow,1.2} {c_number}[{SF_0}|2|]{/c}

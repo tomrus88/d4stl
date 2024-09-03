@@ -1,0 +1,4 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Nearby Player Bonus
+Hash: C6E60718, Key: Buff2_Description, Value: Gain {c_yellow}5%{/c} bonus experience for being near another player, double this effect if they are your party member.
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Nearby Player Bonus
+Hash: 53C1369D, Key: Buff7_Description, Value: Gain {c_yellow}5%{/c} bonus experience for being near another player, double this effect if they are your party member.

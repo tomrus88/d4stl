@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happens now?"
+Hash: 5ED062FF, Key: Line21.FBCF5, Value: You and me, we’re done here. You saw masters in action. Bested one, even. I can’t teach you better than that.
+Hash: F8C4DC81, Key: Line23.FBCF5, Value: As for Bakira... (long sigh) She needs a burial. I’ll see it done. And the Sisterhood should know of the coin. Let them figure out what to do with it.
+Hash: 92B95603, Key: Line25.FBCF5, Value: You did good. Be smarter than she was. Alright?

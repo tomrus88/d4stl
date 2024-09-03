@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Medical Notes
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Medical Notes
+Hash: 5D28EFE8, Key: Line1.AC3FD, Value: Subject 23: The Plague of Alcarnus was born from the dead of this city. Like all of the corpses here, 23's tissue appears flush with the demonic aether... (laughs) still alive, in a sense, after decades of decay.
+Hash: CC325615, Key: VoiceDir1.AC3FD, Value: Intrigued. Excited.
+Hash: F71D696A, Key: Line3.AC3FD, Value: If this "vitality" can be distilled, oh, I may have found more than a cure.

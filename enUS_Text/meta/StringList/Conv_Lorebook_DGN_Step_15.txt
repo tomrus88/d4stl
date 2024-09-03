@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Blood-written Sermon
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Blood-written Sermon
+Hash: 5D7334F1, Key: Line1.EED6F, Value: Agony is the divine catalyst! Thy bones shall crack as they lengthen and twist. Thy flesh, rent asunder to be molded anew. Fur, fang, hoof, and horn!
+Hash: CC7C9B1E, Key: VoiceDir1.EED6F, Value: Preaching. Exultant. Human, not a "creature voice." Accent is slight (can lean Greek, if possible.)
+Hash: F767AE73, Key: Line3.EED6F, Value: Drink thee now of the blood and bile. As Humanity bleeds away, let Hell take its place!
+Hash: 667114A0, Key: VoiceDir3.EED6F, Value: Preaching. Exultant. (Human, not a "creature voice")
+Hash: 915C27F5, Key: Line5.EED6F, Value: Al'Diabolos! Dul'Mephistos! Tor'Baalos!
+Hash: 00658E22, Key: VoiceDir5.EED6F, Value: Preaching. Exultant. Chanting the holy names of the Prime Evils. 

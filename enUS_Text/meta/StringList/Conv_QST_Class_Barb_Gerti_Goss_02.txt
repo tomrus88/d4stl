@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You said there are many like me?"
+Hash: 1877E124, Key: Line7.137EC4, Value: Not all you see here were born of the Oxen Tribe. Some found us as you did... guided by fate.
+Hash: 68AE0CF1, Key: VoiceDir7.137EC4, Value: Looking around at her people. Proud.
+Hash: F0FB8AE6, Key: Line9.137EC4, Value: They tell us of others who wander without a tribe. As for their fate... only the ancestors know.
+Hash: 4131B6B3, Key: VoiceDir9.137EC4, Value: Somber. Hopes they will find their way.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found Brecht's body. Here's his journal."
+Hash: 1D9E2CFB, Key: Line13.1028C3, Value: He’s the brother of our local "miracle worker," Aldara. This amulet… this could be the cause of the sickness. It would explain why we've been powerless to fight it. If you can get hold of Aldara's amulet, I can break the power and cleanse the curse from it.
+Hash: 7499D268, Key: VoiceDir13.1028C3, Value: excited, putting all the clues together. "I found Brecht's body. Here's his journal."
+Hash: 8EB31D08, Key: Line1.1028C3, Value: The journal also says something about Aldara's plans to hide amongst the heretics in Light's Refuge if things went badly here. Perhaps you should look for her there?
+Hash: DEE948D5, Key: VoiceDir1.1028C3, Value: Interested  

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Drowned Seahag's Head
+Hash: A646FFA4, Key: Description, Value: Enables Dismount Skill {c_white}Ice Dash (Rank 2){/c}.
+
+{c_white}Ice Dash{/c}: Dashing off the mount at target location, {c_important}{u}Freezing enemies{/u}{/c_important} caught in the way.

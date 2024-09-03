@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Flamethrower's
+Hash: 003892BF, Key: Desc, Value: {c_important}Incinerate{/c} splits into {c_number}3{/c} beams, each dealing {c_random}[Affix_Value_1|%x|]{/c} of normal damage.

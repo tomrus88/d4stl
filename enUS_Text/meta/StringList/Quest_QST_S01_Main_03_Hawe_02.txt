@@ -1,0 +1,21 @@
+Hash: 003DFCC1, Key: Name, Value: Ruins of the Faith
+Hash: D53BFF05, Key: Phase0Description, Value: Cormond should have learned something from the documents by now. I should check on him near Zarbinzet. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Meet Cormond at the Zakarum Ruins
+Hash: 5CD6EA0D, Key: Phase8Description, Value: The ritual worked and Karamat's Reach is open! Perhaps Cormond is right to hope... We will find out inside. 
+Hash: 9F90DE2D, Key: Callback7Header, Value: Enter Karamat's Reach
+Hash: 3181449A, Key: Phase32Description, Value: Cormond thinks the cages were made in the outpost of Karamat’s Reach. If we can find a stronger cage, Cormond believes it will cure his mentor. I hope he is right. 
+Hash: 5E28741A, Key: Callback31Header, Value: Speak with Cormond
+Hash: C45B5CBD, Key: Phase35Description, Value: Cormond thinks the cages were made in the outpost of Karamat’s Reach. If we can find a stronger cage, Cormond believes it will cure his mentor. I hope he is right. 
+Hash: 45172A5D, Key: Callback34Header, Value: Follow Cormond
+Hash: C5FA5A22, Key: Callback39Header, Value: Defeat the Malignant
+Hash: E45EC27D, Key: Callback43Header, Value: Follow Cormond
+Hash: A6947E61, Key: Phase48Description, Value: We have arrived at the location of Karamat’s Reach but it seems the entrance is hidden. I must work with Cormond to open the way. 
+Hash: 1847B581, Key: Callback47Header, Value: Speak with Cormond
+Hash: 9F4BFA3B, Key: Phase51Description, Value: It seems the entrance is locked by an old Zakarum ritual. Cormond says we must perform the “Sign of the Light” in front of the statues nearby. Why was this place sealed? 
+Hash: E9B1E11B, Key: Callback50Header, Value: Perform the Sign of the Light near the statue
+Hash: 1F9E611D, Key: Phase62Description, Value: It seems the entrance is locked by an old Zakarum ritual. Cormond says we must perform the “Sign of the Light” in front of the statues nearby. Why was this place sealed? 
+Hash: 09DCA900, Key: Callback64Header, Value: Perform the Sign of the Light near the statue
+Hash: 3DC59C04, Key: Callback68Header, Value: Find the second statue
+Hash: A9244120, Key: Callback73Header, Value: Speak with Cormond
+Hash: 4FECF0BA, Key: Phase41Description, Value: Cormond thinks the cages were made in the outpost of Karamat’s Reach. If we can find a stronger cage, Cormond believes it will cure his mentor. I hope he is right. 
+Hash: 7645EEC4, Key: Phase69Description, Value: It seems the entrance is locked by an old Zakarum ritual. Cormond says we must perform the “Sign of the Light” in front of the statues nearby. Why was this place sealed? 

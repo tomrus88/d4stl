@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “But Orbei Monastery was destroyed.”
+Hash: 8F104F47, Key: Line1.157838, Value: Much of it, yes, but luckily not all. Find me at Orbei and I promise, we can slow their spread... perhaps buy time to find a cure.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Less nervous, projecting confidence.

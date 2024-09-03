@@ -1,0 +1,29 @@
+Hash: 003DFCC1, Key: Name, Value: Light Extinguished
+Hash: 0871A46B, Key: Toast, Value: Search for Lilith in Hell
+Hash: D6E10F8C, Key: Phase106Description, Value: I witnessed Lilith killing Inarius. She is powerful... and we have no idea if we can stop her from reaching the Cathedral of Hatred before us. We have to decide our next steps.
+Hash: E6570D8F, Key: Callback108Header, Value: Speak to Neyrelle
+Hash: AC779230, Key: Phase191Description, Value: I have witnessed Lilith killing Inarius... She is powerful and we have no idea if we can stop her from reaching Cathedral of Hatred before us. We have to decide our next steps.
+Hash: CCD5A370, Key: Callback190Header, Value: Use the Sightless Eye
+Hash: FF9997EC, Key: Phase214Description, Value: I have witnessed Lilith killing Inarius... She is powerful and we have no idea if we can stop her from reaching Cathedral of Hatred before us. We have to decide our next steps.
+Hash: C63223AC, Key: Callback213Header, Value: Defeat the enemies
+Hash: 18065B6E, Key: Phase270Description, Value: I have witnessed Lilith killing Inarius... She is powerful and we have no idea if we can stop her from reaching Cathedral of Hatred before us. We have to decide our next steps.
+Hash: 3158B897, Key: Callback269Header, Value: Speak to Donan
+Hash: 02C2E431, Key: Callback272Header, Value: Follow Lorath
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Rejoin your Allies in the Burning Hells
+Hash: F61E373A, Key: Callback299Header, Value: Speak to Lorath
+Hash: B478464A, Key: Callback301Header, Value: Investigate the Spire of Torment
+Hash: E861394E, Key: Callback305Header, Value: Follow your allies to the Spire of Torment
+Hash: 0D6BFC17, Key: Phase297Description, Value: We've learned that Inarius followed Lilith to the spire located in the middle of the battleground, where the Knights Penitent fought the demonic horde. We must go there to find out what happened.
+Hash: D4A30E2F, Key: Callback315Header, Value: Inspect the blood petals
+Hash: 830B7254, Key: Phase106OutsideSubzoneHeader, Value: Speak to Neyrelle at the Spire of Torment in the Burning Hells
+Hash: F5D92D78, Key: Phase191OutsideSubzoneHeader, Value: Use the Sightless Eye at the Spire of Torment
+Hash: 87A93C76, Key: Phase270OutsideSubzoneHeader, Value: Speak to Donan in the Spire of Torment
+Hash: 7AD02BF9, Key: Phase273OutsideSubzoneHeader, Value: Follow Lorath through the Spire of Torment
+Hash: 7A91E3F4, Key: Phase294Description, Value: We're making our way to the Spire of Torment. How much more of this Hell  must we endure to reach Lilith? 
+Hash: B135BBBC, Key: Phase294OutsideSubzoneHeader, Value: Speak to Lorath in the Burning Hells
+Hash: AB854155, Key: Phase295Description, Value: We're making our way to the Spire of Torment. How much more of this hell must we endure to reach Lilith? 
+Hash: 0242B63D, Key: Phase295OutsideSubzoneHeader, Value: Investigate the Spire of Torment in the Burning Hells
+Hash: 534FB0BE, Key: Phase296OutsideSubzoneHeader, Value: Follow your allies to Spire of Torment
+Hash: A45CAB3F, Key: Phase297OutsideSubzoneHeader, Value: Inspect blood petals in the Spire of Torment
+Hash: 1BD366B4, Key: Phase214OutsideSubzoneHeader, Value: Defeat the enemies in the Spire of Torment
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We're making our way to the Spire of Torment. How much more of this hell must we endure to reach Lilith? 

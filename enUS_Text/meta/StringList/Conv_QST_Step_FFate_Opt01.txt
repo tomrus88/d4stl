@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Does Crane Tribe fight alone? Where are the other tribes?”
+Hash: 50619DC1, Key: Line6.1275AB.Bar, Value: Did you not hear the stories? Hmm. Not sure whether I should be further shamed, or surprised.
+Hash: E432E80E, Key: VoiceDir6.1275AB.Bar, Value: amused, sincere
+Hash: 5061A877, Key: Line6.1275AB.Dru, Value: They will not aid betrayers. My kin are marked by dishonor.
+Hash: 5061D142, Key: Line6.1275AB.Nec, Value: They will not aid betrayers. My kin are marked by dishonor.
+Hash: 5061E394, Key: Line6.1275AB.Rog, Value: They will not aid betrayers. My kin are marked by dishonor.
+Hash: 5061E7E0, Key: Line6.1275AB.Sor, Value: They will not aid betrayers. My kin are marked by dishonor.
+Hash: 31833A2B, Key: Line12.1275AB, Value: We carry the shame of our ancestor, Nihlathak. His cowardice stood before his pride when facing Baal beneath the mountain.
+Hash: 887EDF98, Key: VoiceDir12.1275AB, Value: blunt, candid, carrying contempt
+Hash: 0A06E3ED, Key: Line14.1275AB, Value: Crane Tribe’s honor fell with Arreat, as did our place among the tribes.
+Hash: 6102895A, Key: VoiceDir14.1275AB, Value: cold, earnest
+Hash: E28A8DAF, Key: Line16.1275AB, Value: We fight alone, as we must.
+Hash: 3986331C, Key: VoiceDir16.1275AB, Value: cold, blunt

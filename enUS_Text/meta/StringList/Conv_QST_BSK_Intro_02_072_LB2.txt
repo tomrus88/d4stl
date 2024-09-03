@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ears of Sankekur
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Paladin Inscription
+Hash: E6146D67, Key: Line16.1D9606, Value: Light seal the ears that delighted in our cries. Let them hear only silence.
+Hash: 3D1012D4, Key: VoiceDir16.1D9606, Value: A prayer. Somber. Bitter.

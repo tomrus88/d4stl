@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Devilish
+Hash: 003892BF, Key: Desc, Value: After generating {c_number}[Affix."Static Value 0"]{/c} Fury your next direct damage creates {c_number}[Affix."Static Value 1"]{/c} {c_important}Dust Devils{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage to enemies along their path.
+Hash: 82B7D312, Key: CodexDesc, Value: After generating {c_number}[Affix."Static Value 0"]{/c} Fury your next direct damage creates {c_important}Dust Devils{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage.

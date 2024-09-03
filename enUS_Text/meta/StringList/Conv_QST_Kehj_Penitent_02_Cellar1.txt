@@ -1,0 +1,6 @@
+Hash: 5A28BD3C, Key: Line1.836C1, Value: We know you're a friend of the deserter. Our spies have seen the two of you together.
+Hash: C9322369, Key: VoiceDir1.836C1, Value: Calculating, cruel, and on a petty power trip
+Hash: 67710DB0, Key: Line3.138BED, Value: I don't know who you mean. I'm a merchant, I sell fish to everyone in Gea Kul.
+Hash: 8E11B040, Key: Line5.836C1, Value: Your lies are tedious. I hoped I would not need to shed blood today.
+Hash: 18786134, Key: Line7.138BED, Value: Please! I swear I don't know anything, I'm a faithful member of the church!
+Hash: 3D110DD3, Key: Line17.836C1, Value: (sigh) I knew this was a waste of time. Should have just done as Osric suggested and killed you straight away.

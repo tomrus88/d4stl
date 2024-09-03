@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Evade
+Hash: 7BFE534B, Key: simple_instruction, Value: Press {hotkey:Evade} to Evade enemy attacks.

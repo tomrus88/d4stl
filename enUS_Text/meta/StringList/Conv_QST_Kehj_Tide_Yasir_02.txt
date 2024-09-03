@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "There you go. Freedom."
+Hash: 5D58B424, Key: Line1.E6891, Value: (stretches) Much obliged. There’s just one other thing...some of my family is still alive, captured. If we don't help them, they're next in the sand.
+Hash: CC621A51, Key: VoiceDir1.E6891, Value: Has been unburied. Shaking off the sand and stretching. Becoming sly, trying to drag the Player into a scheme
+Hash: 0C5811B7, Key: Line13.E6891, Value: Trust me, stranger. The gang that did this is bad news. For Gea Kul. For all of us. It's best for everyone that they're stopped. Plus, I'll throw in some extra coin.
+Hash: 5C8E3D84, Key: VoiceDir13.E6891, Value: Sly, trying to drag the Player into a scheme. Brief pauses as he thinks of what sounds most convincing
+Hash: A64C8B39, Key: Line15.E6891, Value: Come. Help me find a blade. Wouldn't want you protecting me like some smooth faced child.
+Hash: F682B706, Key: VoiceDir15.E6891, Value: Doesn't wait for a response from the player. Sly, trying to drag the Player into a scheme

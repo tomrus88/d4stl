@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Winding tracks lead into the mire.
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay all enemies in the Vile Burrow {KAM_REVEALED_COUNT}
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Alicanthe, Malignant Serpent
+Hash: 9F90DE2D, Key: Callback7Header, Value: Destroy the {MONSTER}

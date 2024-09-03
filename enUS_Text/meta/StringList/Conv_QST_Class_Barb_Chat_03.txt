@@ -1,0 +1,4 @@
+Hash: 59F2EB1C, Key: Line1.541E6, Value: Clean kill. The Forgemaster was right to send you. You might just survive.
+Hash: C8FC5149, Key: VoiceDir1.541E6, Value: In combat, barely winded. Smiling. Impressed.
+Hash: 7B157C28, Key: Line3.BAE4.Bar, Value: Survive what?
+Hash: B185CF35, Key: VoiceDir3.BAE4.Bar, Value: In combat, active. Puzzled by Katra's comment.

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Zir
+Hash: 8F3B878D, Key: Line1.16E226, Value: I offered you power... now you seek to steal it from me?
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Angry. Offended. Venomous.

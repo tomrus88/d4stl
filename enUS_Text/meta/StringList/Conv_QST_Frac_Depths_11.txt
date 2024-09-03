@@ -1,0 +1,4 @@
+Hash: 8EDB2516, Key: Line1.1298F5, Value: P-please...I'm so cold!
+Hash: DF1150E3, Key: VoiceDir1.1298F5, Value: Shivering, in intense pain. Terrified.
+Hash: F779CF43, Key: Line3.FEF63, Value: Where are you, Vasek?
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: Pronounciation: Vah-Seck. Projected. The man you're speaking to is somewhere nearby but you don't know where.

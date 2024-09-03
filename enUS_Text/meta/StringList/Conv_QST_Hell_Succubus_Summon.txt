@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Ninsa, Blight of Hatred
+Hash: 8EE98F4D, Key: Line1.131D49, Value: Heed my call, Karum! Strike down the enemies of Lilith!
+Hash: DF1FBB1A, Key: VoiceDir1.131D49, Value: Commanding. Says this while summoning a demon.

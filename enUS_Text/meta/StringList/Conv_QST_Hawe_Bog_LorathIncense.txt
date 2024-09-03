@@ -1,0 +1,2 @@
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: When you’re ready, light the incense.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: To the Player

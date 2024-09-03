@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to you?"
+Hash: F716E300, Key: Line3.B6807, Value: My neighbors...I begged them, don't trust the voice in the mines. I couldn't make them listen...
+Hash: 6620492D, Key: VoiceDir3.B6807, Value: Grieving, guilty, lost.

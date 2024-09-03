@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Missing Pieces
+Hash: 0871A46B, Key: Toast, Value: Meet Lorath in Kyovashad
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet Lorath in Kyovashad
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must find Lorath in Kyovashad and together we will present ourselves to the Cathedral of Light.
+Hash: D53BFF05, Key: Phase0Description, Value: The guardsman has allowed me to enter Kyovashad. I must find Lorath and together we will present ourselves to the Cathedral of Light.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Speak with Lorath
+Hash: 71E69F39, Key: Callback21Header, Value: Speak with Lorath
+Hash: C9FCD1EA, Key: Phase5Description, Value: Lorath has asked a favor of me: to retrieve some of his belongings held by a town merchant. If this will get us closer to our goal, so be it.
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Purchase Lorath's Polearm
+Hash: B8A227EA, Key: Callback4Header, Value: Purchase Lorath's Polearm
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Lorath's items were revealed to be a weapon and a kind of amulet, both pawned for gold which I had to repay. I will have words with this old man when I return his belongings.
+Hash: 9589ADF5, Key: Phase8OutsideSubzoneHeader, Value: Return the items to Lorath
+Hash: 9F90DE2D, Key: Callback7Header, Value: Return the items to Lorath
+Hash: F4A9EC5A, Key: Phase14Description, Value: Lorath has asked a favor of me: to retrieve some of his belongings held by a town merchant. If this will get us closer to our goal, so be it.
+Hash: F70C96E2, Key: Phase14OutsideSubzoneHeader, Value: Pick up the Strange Amulet
+Hash: 1F9943DA, Key: Callback13Header, Value: Pick up the Strange Amulet
+Hash: B87761DE, Key: Phase18Description, Value: Lorath has asked a favor of me: to retrieve some of his belongings held by a town merchant. If this will get us closer to our goal, so be it.
+Hash: 3B4080E6, Key: Phase18OutsideSubzoneHeader, Value: Speak with the Merchant
+Hash: ED76B060, Key: Callback19Header, Value: Speak with the Merchant

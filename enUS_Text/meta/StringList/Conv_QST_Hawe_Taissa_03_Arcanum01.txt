@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What happened here?”
+Hash: F40DE8F9, Key: Line3.789BF, Value: This is where they caught me trying to kill Elias.
+Hash: 27F6DBFD, Key: Line7.789BF, Value: If I had been more careful, I could have ended it here.
+Hash: 9700422A, Key: VoiceDir7.789BF, Value: Hard on herself
+Hash: 8E08E686, Key: Line5.6E5FE, Value: Now what should we do with this little rat we’ve trapped?
+Hash: FD124CB3, Key: VoiceDir5.6E5FE, Value: Menacing. Brol has captured Taissa trying to assassinate Elias. Imagine he is looming over her as he says this.

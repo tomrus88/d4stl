@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [ph] Ritual Ingredient B
+Hash: A646FFA4, Key: Description, Value: Bound to [PH] Valthek's Challenge
+Hash: F5C7BC0A, Key: Flavor, Value: [ph] ritual ingredient words

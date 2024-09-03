@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Devotional
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Devotional
+Hash: 5D72A9F7, Key: Line1.EDCBB, Value: Our queen has fallen. The cowardly ran, but the truly faithful have come to this sacred place.
+Hash: CC7C1024, Key: VoiceDir1.EDCBB, Value: mad
+Hash: F7672379, Key: Line3.EDCBB, Value: The pond in here radiates with magic. We will turn these powerful waters red with blood spilt to honor her. We pray Queen Mohlon will hear our call and answer, and thus be reborn.
+Hash: 667089A6, Key: VoiceDir3.EDCBB, Value: determined

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Snake Worship
+Hash: 486BD940, Key: Callback82Header, Value: Slay the remaining Cultists
+Hash: C980F48D, Key: Callback142Header, Value: Slay Cultists near the Snake God
+Hash: D09A72B5, Key: Callback159Header, Value: Interrupt the Worshippers
+Hash: F61E7DE1, Key: Callback74Header, Value: Survive the enemy assault

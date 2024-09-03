@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ophidian Ferry
+Hash: A646FFA4, Key: Description, Value: Some in Hawezar do not fear serpents but admire them, seeking to leverage the beasts' gifts for their own ends.
+Hash: 083EE0CE, Key: Quote, Value: Voyage of the serpent's adherent.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

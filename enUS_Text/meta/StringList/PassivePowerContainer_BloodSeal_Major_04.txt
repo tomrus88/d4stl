@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Bathe in Blood
+Hash: A646FFA4, Key: Description, Value: While {c_important}Channeling{/c} a Skill, you form a pool of blood beneath you. While channeling a skill in a pool, your {c_important}Channeled{/c} Skills deal {c_random}[SF_13|1]%{/c}{c_gray}[x]{/c} increased damage and you gain {c_number}[SF_12|1]%{/c} Damage Reduction. 
+
+A pool can only form once every {c_number}[SF_11|0]{/c} seconds.
+
+{icon:bullet}Damage: {c_random}[SF_14|1]%{/c} {icon:arrow} {c_random}[SF_15|1]%{/c} {icon:arrow} {c_random}[SF_16|1]%{/c}

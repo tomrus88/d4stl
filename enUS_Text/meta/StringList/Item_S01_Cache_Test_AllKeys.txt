@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Every Invoker
+Hash: A646FFA4, Key: Description, Value: Contains all the Malignant Invokers.
+Hash: F5C7BC0A, Key: Flavor, Value: All of them! Every single one!

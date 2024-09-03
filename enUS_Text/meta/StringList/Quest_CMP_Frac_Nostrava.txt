@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Nostrava
+Hash: 0871A46B, Key: Toast, Value: A quiet mountain village with a sinister secret
+Hash: 955FF158, Key: Callback189Header, Value: Speak with the Priestess
+Hash: E45EC27D, Key: Callback43Header, Value: Rekindle the Wanderer's Shrine to conquer Nostrava
+Hash: AE713B15, Key: Callback186Header, Value: Investigate the village
+Hash: B279D68F, Key: Callback342Header, Value: Return to the chapel
+Hash: D4A30E2F, Key: Callback315Header, Value: Return to the chapel
+Hash: 8AFD8051, Key: Callback362Header, Value: Survive the Crazed Villagers' assault

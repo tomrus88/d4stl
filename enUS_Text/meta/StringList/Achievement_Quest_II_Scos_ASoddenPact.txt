@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: A Sodden Pact
+Hash: 003892BF, Key: Desc, Value: Complete the A Sodden Pact questline in Scosglen.
+Hash: 3DA554A6, Key: Crit_236055, Value: Whispers from Below
+Hash: 3DA554A7, Key: Crit_236056, Value: A Sodden Pact
+Hash: 3DA554A8, Key: Crit_236057, Value: Untangling Truths
+Hash: 3DA554A9, Key: Crit_236058, Value: Threads of Envy

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Backwater's Missing Supplies
+Hash: F5C7BC0A, Key: Flavor, Value: Bundles of food and clothes. Nothing looks overly valuable.

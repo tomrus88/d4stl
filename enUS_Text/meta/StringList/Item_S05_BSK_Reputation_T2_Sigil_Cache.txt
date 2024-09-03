@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Infernal Compass
+Hash: A646FFA4, Key: Description, Value: Contains some Infernal Compasses that grant access to Tier 2 of the Infernal Hordes.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Remembrance
+Hash: 3A4912CF, Key: DescShort, Value: Defeat the Echo of Varshan in {icon:Icon_WorldTier_4, 2.5} Torment, summoned beneath the {icon:Marker_Bounties_TurnIn, 2.5} Tree of Whispers with materials from {icon:Icon_WorldTier_3, 2.5} Nightmare or {icon:Icon_WorldTier_4, 2.5} Torment Whisper Caches

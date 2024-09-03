@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Glimmering Herb Supply
+Hash: A646FFA4, Key: Description, Value: A box of Herbs gathered throughout Helltide. Some equipment mysteriously appeared inside overnight.

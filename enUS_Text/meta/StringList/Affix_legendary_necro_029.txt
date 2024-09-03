@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Hungry Blood
+Hash: 003892BF, Key: Desc, Value: Each cast of {c_important}Blood Lance{/c} will launch an additional {c_important}Blood Lance{/c} at a Nearby enemy when it first hits an enemy that is already lanced, dealing {c_random}[Affix_Value_1|%|]{/c} of normal damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Blood Lance{/c} launches an additional {c_important}Blood Lance{/c} when it first hits an enemy that is already lanced, dealing {c_random}[Affix_Value_1|%|]{/c} of normal damage.

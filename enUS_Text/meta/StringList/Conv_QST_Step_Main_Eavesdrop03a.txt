@@ -1,0 +1,4 @@
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Andariel, the Maiden of Anguish. That is the Lesser Evil he means to summon.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Worried. Things just got worse.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Heavens help us.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Urgent

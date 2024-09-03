@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crude Talismans
+Hash: F2CA04D8, Key: NoticeSignText, Value: The basket overflows with salvaged metal pieces, hastily bent into Zakarum crosses.

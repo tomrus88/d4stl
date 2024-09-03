@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What can we expect inside these ruins?”
+Hash: F87C3848, Key: Line23.BC41C, Value: The dead walk inside. More than I dared to count on my last visit.
+Hash: 9270B1CA, Key: Line25.BC41C, Value: No mistakes this time. We must find Alim and Tala, collect their belongings, and leave. Quickly.

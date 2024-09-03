@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Beneath the Wine-Dark Sea
+Hash: 8E2D4C0E, Key: Line5.8DD12, Value: Every tome, every scroll, every book in this temple produces the same answer. The only being willing to stand against the Eternal Conflict, against the Prime Evils, was Lilith.
+Hash: E2468CE9, Key: Line7.BAE4, Value: The day I’m done with this self-righteous bastard will be a great one.
+Hash: 2B756176, Key: VoiceDir7.BAE4, Value: To self, muttered under breath

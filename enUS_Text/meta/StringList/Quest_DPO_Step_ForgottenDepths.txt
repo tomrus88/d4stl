@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: To venture below is to embrace doom.
+Hash: 6FE82F7E, Key: Callback62Header, Value: Defeat the {MONSTER}
+Hash: 63438287, Key: Callback89Header, Value: Free the Prisoners: {LEFT}
+Hash: 34ADAE21, Key: Callback92Header, Value: Travel to the {LEVELAREA}
+Hash: 6896A125, Key: Callback96Header, Value: Return the Mechanical Box to the Pedestal: {LEFT}

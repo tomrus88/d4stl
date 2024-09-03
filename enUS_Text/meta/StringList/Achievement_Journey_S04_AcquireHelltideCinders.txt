@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Veteran of Ashes
+Hash: 3A4912CF, Key: DescShort, Value: Acquire {icon:Helltide_Currency, 2.5} Aberrant Cinders during {icon:Marker_Helltide, 2.5} Helltide

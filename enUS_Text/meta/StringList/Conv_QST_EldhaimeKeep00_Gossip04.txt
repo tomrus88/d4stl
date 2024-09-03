@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What has become of the druids here?"
+Hash: 5D23008C, Key: Line1.B79B1, Value: Fewer than before, but we remain. So long as the forest speaks, there will be those who listen.

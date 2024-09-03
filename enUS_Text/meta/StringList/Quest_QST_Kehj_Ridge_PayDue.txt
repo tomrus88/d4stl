@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Payment Past Due
+Hash: 0871A46B, Key: Toast, Value: A destitute miner seeks a lost lockbox.
+Hash: A5EDB22B, Key: Phase105Description, Value: A man named Nageed asked me to retrieve a lockbox from the mines. Inside are the wages of workers like him, stolen by bandits who now plague the south. I hope there is something left to give back.
+Hash: B26E1A8B, Key: Callback104Header, Value: Search for the Miner's Lockbox in Rezam's Excavation
+Hash: F54CBBAC, Key: Phase115Description, Value: I found the lockbox in the mines, thankfully still intact. I should return it to Nageed, as promised.
+Hash: 9EAFEF6C, Key: Callback114Header, Value: Return to Nageed
+Hash: 859EA5AF, Key: Callback117Header, Value: Return to Nageed
+Hash: EEFEDB10, Key: Callback163Header, Value: Take the Miner's Lockbox

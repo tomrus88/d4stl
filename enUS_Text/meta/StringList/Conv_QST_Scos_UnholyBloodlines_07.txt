@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you ready?"
+Hash: 8EB347FA, Key: Line1.101CF8, Value: While you were gathering everything, I was researching the ritual we'll need to perform. We are going to summon Una, and once we do, I will bind her to that location.
+Hash: 6736F1BC, Key: Line3.101CF8, Value: Defeat her there, and I will seal the magic back within the totem. I know of an old barrow in Umbralwood where we won't be disturbed.
+Hash: 3FBA9B7E, Key: Line5.101CF8, Value: Let's go.

@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: name, Value: Death Blow
+Hash: 003892BF, Key: desc, Value: {if:SF_22}{c_label}Fury Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{/if}{if:SF_25}{if:SF_8}{c_label}Charges:{/c} {c_resource}{SF_10}{/c}
+{c_label}Charge Cooldown:{/c_label} {c_resource}{Recharge Time}{/c} seconds
+{/if}{if:SF_9}{c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{/if}{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Attempt a killing strike, dealing {c_number}{payload:EXECUTE_IMPACT}{/c} damage to enemies in front of you.{if:SF_25}
+
+{if:SF_9}If this kills an enemy, its Cooldown is reset.{/if}{if:SF_8}If this kills an enemy, a Charge is refunded.{/if}{/if}
+Hash: F2DE8628, Key: simple_desc, Value: Weapon Mastery: A powerful strike that can be repeated if an enemy is slain.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:EXECUTE_IMPACT}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Death Blow{/c} deals {c_number}[{SF_12} * 100|%x|]{/c} increased damage to Bosses.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Death Blow
+Hash: 1394CF37, Key: Mod4_Description, Value: If {c_important}Death Blow{/c} damages at least one enemy, gain {c_number}{SF_15}{/c} Fury.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Fighter's Death Blow
+Hash: 62F3D8B8, Key: Mod5_Description, Value: If {c_important}Death Blow{/c} damages at least one enemy, gain {c_important}{u}Berserking{/u}{/c} for {c_number}{SF_16}{/c} seconds.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Warrior's Death Blow

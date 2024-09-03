@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Gutted Abattoir
+Hash: 003892BF, Key: Desc, Value: Complete the Abattoir of Zir at Tier 20 or higher.

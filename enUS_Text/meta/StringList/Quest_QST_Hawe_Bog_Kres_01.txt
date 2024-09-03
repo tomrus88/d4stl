@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Tangled Memories
+Hash: 0871A46B, Key: Toast, Value: A mass of vines and viscera groans for help.
+Hash: D53BFF05, Key: Phase0Description, Value: I met a mutilated corpse of a man deep within the Hawezar swamps. He asked that I find puffball reeds and deliver them to his daughter in Backwater.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Find a puffball reed
+Hash: 61CFD437, Key: Phase11Description, Value: I've found the puffball reeds. Now, I just need to find Kres' daughter, Katharina. He said she lived in Backwater. I should ask some of the locals.
+Hash: E9B1E11B, Key: Callback50Header, Value: Ask around Backwater for Katherina
+Hash: F4A9EC5A, Key: Phase14Description, Value: I've discovered Katherina has been dead for some time. Since I've come all this way, I should place the flowers on her grave.
+Hash: 1F9943DA, Key: Callback13Header, Value: Leave the flowers at Katherina's grave
+Hash: 8784047D, Key: Phase17Description, Value: Kres will want to know his daughter's fate. I should return to him.
+Hash: 0687FA1D, Key: Callback16Header, Value: Speak with Kres
+Hash: 4318BAA2, Key: Callback75Header, Value: Gather the Puffball Reed

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you okay?"
+Hash: 5D71D84F, Key: Line1.ED393, Value: I was on my way to my parents' farmhouse. I thought it'd be fine but, well - you can see my horse.
+Hash: 11C45480, Key: Line20.ED393, Value: I haven’t heard from my parents since they sent me away ten years ago. I just... need some answers.
+Hash: ABB8CE02, Key: Line22.ED393, Value: Would you accompany me? I don't think traveling through the swamps alone is smart.

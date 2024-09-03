@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hellfire Hauberk
+Hash: F5C7BC0A, Key: Flavor, Value: A stygian suit of armor bearing the smoldering name of a "faithful" soul on every scale and plate. While worn, a chorus of barely audible screams can always be heard.

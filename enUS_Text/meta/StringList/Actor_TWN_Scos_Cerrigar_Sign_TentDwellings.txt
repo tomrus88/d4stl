@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tent Dwellings
+Hash: F2CA04D8, Key: NoticeSignText, Value: Having lost their homes, folk from the lower city seek shelter wherever they can.

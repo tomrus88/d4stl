@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Deathdealer Memento
+Hash: A646FFA4, Key: Description, Value: To serve the Balance is to consign oneself service eternal. To battle for the survival of Sanctuary in perpetuity.
+Hash: 083EE0CE, Key: Quote, Value: Bearing the burden of death.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Accessories

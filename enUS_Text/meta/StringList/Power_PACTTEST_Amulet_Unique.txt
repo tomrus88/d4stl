@@ -1,0 +1,6 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Red Pacts
+Hash: C6E60718, Key: Buff2_Description, Value: Red Pacts
+Hash: 171B8FF7, Key: Buff4_Name, Value: Green Pacts
+Hash: 65A41A1A, Key: Buff4_Description, Value: Green Pacts
+Hash: 1BC5E139, Key: Buff6_Name, Value: Blue Pacts
+Hash: 04622D1C, Key: Buff6_Description, Value: Blue Pacts

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Worn Key
+Hash: A646FFA4, Key: Description, Value: Bound to Witchwater
+Hash: F5C7BC0A, Key: Flavor, Value: A key to the Slithering Crawl. Chipped and covered with rust, this key has seen a lot of use.

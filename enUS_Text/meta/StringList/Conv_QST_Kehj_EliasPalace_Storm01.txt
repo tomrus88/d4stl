@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why have you stopped here?"
+Hash: 7BBB4122, Key: Line35.8CA44, Value: Ah, just savoring the moment!
+Hash: E1C6C7A0, Key: Line33.8CA44, Value: This is going to be a trek to remember, eh, Deckard? I can’t wait!
+Hash: 31FCF36D, Key: VoiceDir33.8CA44, Value: Project over the sounds of a sandstorm. Excitement. Finally, an adventure!

@@ -1,0 +1,39 @@
+Hash: 06551B7A, Key: News_Event_PlayerJoin, Value: {c_white}{s1}{/c} joined the Clan!
+Hash: F3FB0AAA, Key: News_Event_PlayerLeaves, Value: {c_white}{s1}{/c} left the Clan.
+Hash: 3F4A5B64, Key: News_Event_Promotion, Value: {c_white}{s1}{/c} promoted to {s2} by {c_white}{s3}{/c}.
+Hash: 9501337C, Key: News_Event_Demotion, Value: {c_white}{s1}{/c} demoted to {s2} by {c_white}{s3}{/c}.
+Hash: 1EF4A2FA, Key: News_Date, Value: {s1}/{s2}/{s3}
+Hash: F2D1391A, Key: News_Date_Today, Value: {c_white}Today{/c}   {s1}/{s2}/{s3}
+Hash: B649FD13, Key: News_Date_Yesterday, Value: {c_white}Yesterday{/c}   {s1}/{s2}/{s3}
+Hash: F1EF2DF5, Key: News_Event_PlayerKicked, Value: {c_white}{s1}{/c} removed from the Clan by {c_white}{s2}{/c}.
+Hash: DC661132, Key: News_Event_PlayerBanned, Value: {c_white}{s1}{/c} banned from the Clan by {c_white}{s2}{/c}.
+Hash: 918123F1, Key: News_Event_MOTD, Value: Message of the Day updated by {c_white}{s1}{/c}.
+Hash: 48F1B303, Key: News_Event_LeadershipTransfer, Value: {c_white}{s1}{/c} transferred leadership of {c_white}{s2}{/c} to {c_white}{s3}{/c}.
+Hash: B570D40F, Key: News_Event_RecruitmentEnded, Value: {c_white}{s1}{/c} removed the Recruiting Flag from the Clan.
+Hash: 6F6878DE, Key: News_Event_HeraldryEdit, Value: {c_white}{s1}{/c} updated the Clan Heraldry.
+Hash: 5AE542D5, Key: News_Event_AchievementEarned, Value: {c_white}{s1}{/c} earned a Challenge: {c_white}{s2}{/c}.
+Hash: 817C988C, Key: News_TargetPlayer_PlayerJoin, Value: You joined {c_white}{s1}{/c}.
+Hash: D6F6143C, Key: News_TargetPlayer_PlayerLeaves, Value: You left {c_white}{s1}{/c}.
+Hash: C3507FF7, Key: News_TargetPlayer_Banned, Value: You were banned from {c_white}{s1}{/c} by {c_white}{s2}{/c}.
+Hash: D4EA3787, Key: News_TargetPlayer_PlayerKicked, Value: You were kicked from {c_white}{s1}{/c} by {c_white}{s2}{/c}.
+Hash: 620D7E36, Key: News_TargetPlayer_Promotion, Value: You were promoted to {c_white}{s1}{/c} by {c_white}{s2}{/c}.
+Hash: E3A2440E, Key: News_TargetPlayer_Demotion, Value: You were demoted to {c_white}{s1}{/c} by {c_white}{s2}{/c}.
+Hash: EF062215, Key: News_TargetPlayer_LeadershipTransfer, Value: You transferred Leadership of {c_white}{s1}{/c} to {c_white}{s2}{/c}.
+Hash: 25BF585D, Key: DateHeaderOlder, Value: Older
+Hash: 4D7FFDC1, Key: DateHeaderLastMonth, Value: Last Month
+Hash: BD7D99C7, Key: DateHeaderFiveWeeksAgo, Value: Five Weeks Ago
+Hash: C3F10539, Key: DateHeaderFourWeeksAgo, Value: Four Weeks Ago
+Hash: DB5837F5, Key: DateHeaderThreeWeeksAgo, Value: Three Weeks Ago
+Hash: A4BBED37, Key: DateHeaderTwoWeeksAgo, Value: Two Weeks Ago
+Hash: 025E8647, Key: DateHeaderLastWeek, Value: Last Week
+Hash: D93BD20F, Key: DateHeaderMonday, Value: Monday
+Hash: 28F21846, Key: DateHeaderTuesday, Value: Tuesday
+Hash: 6EA8E9CB, Key: DateHeaderWednesday, Value: Wednesday
+Hash: 83C8C09B, Key: DateHeaderThursday, Value: Thursday
+Hash: C91B4146, Key: DateHeaderFriday, Value: Friday
+Hash: 7A8FD6F4, Key: DateHeaderSaturday, Value: Saturday
+Hash: E7A758DB, Key: DateHeaderSunday, Value: Sunday
+Hash: E849C281, Key: DateHeaderYesterday, Value: Yesterday
+Hash: 261B7788, Key: DateHeaderToday, Value: Today
+Hash: A4D5A4F6, Key: News_Event_Dethrone, Value: {c_white}{s1}{/c} dethroned as clan leader by {c_white}{s2}{/c} due to inactivity.
+Hash: F376B588, Key: News_TargetPlayer_Dethrone, Value: You were dethroned by {c_white}{s1}{/c} due to inactivity.

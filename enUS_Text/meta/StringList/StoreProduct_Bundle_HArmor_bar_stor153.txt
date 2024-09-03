@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Undying Rage
+Hash: A646FFA4, Key: Description, Value: No one understands the true nature of the spirit inhabiting these armaments. Still, it is clear that the warrior who dons this armor and wields these weapons becomes a nigh-unstoppable engine of destruction.
+Hash: 083EE0CE, Key: Quote, Value: Avatar of Ruin.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

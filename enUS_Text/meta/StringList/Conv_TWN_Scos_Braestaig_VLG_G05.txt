@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to the Knights?"
+Hash: 5D6C0645, Key: Line1.F7A00, Value: The fog disappeared and so did the Knights, praising their “Father” for his deeds all the way.
+Hash: CC756C72, Key: VoiceDir1.F7A00, Value: Annoyed
+Hash: F7607FC7, Key: Line3.F7A00, Value: What a crock of shite.

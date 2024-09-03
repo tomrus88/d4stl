@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened here?"
+Hash: 5A28B2ED, Key: Line1.83542, Value: Airidah came through with a horned woman. Not her normal company, to be sure.
+Hash: 6F31F38D, Key: Line11.804B7, Value: Ah, Lilith…
+Hash: 3D110384, Key: Line17.83542, Value: They headed toward Solitude, the top of the hill. The sound of Airidah’s talharpa carried with the wind, and then this madness began.
+Hash: 8F5E5EE3, Key: Line25.83542, Value: If your aim is to follow them, you won't get far with all this fog.
+Hash: 2952D865, Key: Line27.83542, Value: It seems to be drawn to the risen remains.
+Hash: C34751E7, Key: Line29.83542, Value: We spotted others in the hills before this one tore from the earth.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "So, what now?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: So, not a waste of time after all.
+Hash: DEE82AB8, Key: VoiceDir1.10088C, Value: Distant, pondering next move.
+Hash: 183CFC31, Key: Line7.10088C, Value: On to business, then: I shall tell Orton to meet me in the storage cellar in Backwater. Give us the privacy to sort this whole thing out.
+Hash: 687327FE, Key: VoiceDir7.10088C, Value: Serious, slightly bitter. No joking here. Lyndon is in all business mode.
+Hash: F0C0A5F3, Key: Line9.10088C, Value: I’d like you there when that happens. I’m not much for gambling anymore.
+Hash: 40F6D1C0, Key: VoiceDir9.10088C, Value: Bitterly.

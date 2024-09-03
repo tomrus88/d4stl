@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Inside the Black Tomb
+Hash: 9FF0C7FF, Key: Phase73Description, Value: Triune have been exploiting the lingering Hatred emanating from the Black Tomb. Locran believes this Hatred stems from Sankekur's body, a former host of Mephisto and used to rupture Sanctuary's protective veil against Hell.
+
+We must annihilate what is left of Sankekur. But what will we find if we open that tomb?
+Hash: 5C2A045F, Key: Callback72Header, Value: Enter the Foul Undercrypts
+Hash: 94B19AE4, Key: Phase78Description, Value: Emerging victorious from the depths of the Black Tomb, Locran and I achieved our mission to destroy Sankekur. Yet, we leave not entirely whole. A demon unknown to me – Maffer the Cruel – gave Locran a vision during the ritual. Hell is coming. Hell is here.
+
+Clearly, he is shaken... I should speak with him again in Rakhat Keep.
+Hash: DD0D3424, Key: Callback77Header, Value: Speak to Locran in the Ruins of Rakhat Keep
+Hash: 027C5085, Key: Phase97Description, Value: Triune have been exploiting the lingering Hatred emanating from the Black Tomb. Locran believes this Hatred stems from Sankekur's body, a former host of Mephisto and used to rupture Sanctuary's protective veil against Hell.
+
+We must annihilate what is left of Sankekur. Locran and I will travel to Rakhat Keep Ruins where the tomb door lies.
+Hash: 6896A125, Key: Callback96Header, Value: Find the entrance to the Foul Undercrypts
+Hash: 4F855768, Key: Callback99Header, Value: Break the Horadric Seal

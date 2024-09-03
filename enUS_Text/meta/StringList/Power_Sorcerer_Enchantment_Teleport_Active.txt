@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Teleport - Evade Version
+Hash: 003892BF, Key: desc, Value: {c_red}Teleport description here - since this is a skill that replaces your Evade button, you should never see this.{/c}

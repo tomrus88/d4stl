@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Remnants of Faith
+Hash: 8ED7735D, Key: Line1.121C9F, Value: Another poor soul... Look at us. Warriors of Light... Protectors of the people...
+Hash: DF0D9F2A, Key: VoiceDir1.121C9F, Value: You're freeing prisoners but you were too late. This one has already died. Mixture of sorrow and anger
+Hash: 675B1D1F, Key: Line3.121C9F, Value: This fort is a monument to our arrogance.

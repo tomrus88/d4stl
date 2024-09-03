@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why would the Triune want to kill Iron Wolves?"
+Hash: 4429BC17, Key: Line4.BC41C, Value: "The weak must die, so the strong may rise."
+Hash: B3332244, Key: VoiceDir4.BC41C, Value: Quoting a hated phrase. Utter contempt.
+Hash: DE1E3599, Key: Line6.BC41C, Value: Iron Wolves devote our lives to protect and shelter the weak...
+Hash: 4D279BC6, Key: VoiceDir6.BC41C, Value: Adamant. Reverent.
+Hash: 7812AF1B, Key: Line8.BC41C, Value: We are in the bastards' way.
+Hash: E71C1548, Key: VoiceDir8.BC41C, Value: Seething. Bitter.

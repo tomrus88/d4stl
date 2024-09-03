@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED91BE9, Key: Line1.124D43, Value: A sailor should go with the sea, damn it. He deserves better.
+Hash: DF0F47B6, Key: VoiceDir1.124D43, Value: Upset.
+Hash: 675CC5AC, Key: Line3.124D44, Value: He deserves peace in death, mate. Let the fires give it to him.
+Hash: B792F179, Key: VoiceDir3.124D44, Value: Pragmatic, but understanding.
+Hash: 3FE06F6D, Key: Line5.124D43, Value: Damn the Drowned.
+Hash: 90169B3A, Key: VoiceDir5.124D43, Value: Upset, now irritated.

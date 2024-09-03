@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Your people are starving. It appears to be your fault."
+Hash: 6738683E, Key: Line3.1057FB, Value: What? No. I only want what's best for my people. But some of them are stuck in the old ways, and can't see the way forward. The Cathedral of Light is our future.
+Hash: 3FBC1200, Key: Line5.1057FB, Value: The famine may have been sent to test us, but we will persevere. I will be strong, for everyone. Faith and prayer will lead us out of the darkness.

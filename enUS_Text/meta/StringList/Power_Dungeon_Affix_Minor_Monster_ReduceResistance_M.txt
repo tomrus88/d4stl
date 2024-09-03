@@ -1,0 +1,6 @@
+Hash: 14C66756, Key: Buff3_Name, Value: Reduced Resistance
+Hash: 16451099, Key: Buff3_Description, Value: Resistance to All Elements reduced by [{SF_0}*100|+%|].
+Hash: 1970B898, Key: Buff5_Name, Value: Reduced Resistance
+Hash: B503239B, Key: Buff5_Description, Value: Resistance to All Elements reduced by [{SF_1}*100|+%|].
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Reduced Resistance
+Hash: 53C1369D, Key: Buff7_Description, Value: Resistance to All Elements reduced by [{SF_2}*100|+%|].

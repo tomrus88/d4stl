@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cultist Recruiters
+Hash: CC3C0A8F, Key: FlavorText, Value: The mutilated remains of several Triune.
+Hash: F2CA04D8, Key: NoticeSignText, Value: The corpses of the Triune cultists sent to bring the Word of Lilith to these bandits. All valuables have been stripped from the bodies. A trail of blood leads elsewhere. Perhaps there's a survivor.

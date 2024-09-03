@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: A new feast for the larvae.
+Hash: 1EADAE68, Key: Callback2Header, Value: Travel to the {LEVELAREA}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 85A4CA58, Key: Callback11Header, Value: Return the Ancients Statue to the Pedestal: {LEFT}
+Hash: A07C739F, Key: Callback18Header, Value: Travel to the {LEVELAREA}

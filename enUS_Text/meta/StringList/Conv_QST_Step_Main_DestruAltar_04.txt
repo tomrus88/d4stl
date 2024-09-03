@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Trial of Hatred
+Hash: DA068E85, Key: Line19.ACEF6, Value: Ah, we meet again.
+Hash: 2A3CBA52, Key: VoiceDir19.ACEF6, Value: This wolf met us earlier in the game and helped us through a maze of Horadric magic
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Mephisto. I know who you are now.
+Hash: 26CB1034, Key: VoiceDir5.BAE4, Value: Confident
+Hash: F71E3DEE, Key: Line3.ACEF6, Value: Yes, but that doesn’t mean we can’t help each other.
+Hash: 7234A87D, Key: Line11.ACEF6, Value: That mortal Elias seeks to use the power of the Primes for his own ends. No one knows their place anymore, do they?
+Hash: A61D9B81, Key: Line15.ACEF6, Value: His meddling has drawn echoes of the past to my refuge of Hatred. But you and I can put things back in order.
+Hash: 40121503, Key: Line17.ACEF6, Value: Once you’ve brought peace to this realm, I will be able to give you my blessing.

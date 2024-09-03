@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vizjerei Athenaeum
+Hash: 003892BF, Key: Desc, Value: Ruins belonging to the once great Vizjerei Mage Clan.

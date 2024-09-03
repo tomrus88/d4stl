@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Joy Pipe
+Hash: F2CA04D8, Key: NoticeSignText, Value: Strange bittersweet scents cling to the pipe. The substance inside is probably banned in other cities.

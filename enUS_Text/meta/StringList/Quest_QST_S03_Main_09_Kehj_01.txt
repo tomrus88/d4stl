@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: The Miracle
+Hash: 07D46CED, Key: Phase107Description, Value: We failed to exorcise Malphas from the Loom. That leaves only one option. I should find Ayuzhan in the Gatehall; we have much to discuss.
+Hash: 33514A50, Key: Callback109Header, Value: Speak with Ayuzhan in the Gatehall
+Hash: 759F228E, Key: Phase126Description, Value: I spoke with a despondent Ayuzhan. He reflected on Zoltun's words, and realized what needed to be done. So long as the Loom exists, demons like Malphas will use it for their own ends. I must destroy the Loom, and Malphas with it.
+Hash: D7EC010E, Key: Callback125Header, Value: Enter the Vault of the Loom

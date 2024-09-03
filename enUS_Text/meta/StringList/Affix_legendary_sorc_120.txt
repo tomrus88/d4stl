@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mage-Lord's
+Hash: 003892BF, Key: Desc, Value: The {c_important}Vyr's Mastery{/c} Key Passive also grants {c_random}[Affix_Value_1|1%|]{/c} Damage Reduction, tripled while fighting a Close enemy.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Endless Tempest
+Hash: 003892BF, Key: desc, Value: Increase the duration of {c_important}Hurricane{/c} and {c_important}Cataclysm{/c} by {c_number}[{SF_1} * 100|%x|]{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Duration {icon:arrow,1.2} {c_number}[{SF_1}*100|%x|]{/c}

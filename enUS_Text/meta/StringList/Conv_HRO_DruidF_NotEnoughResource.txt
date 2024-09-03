@@ -1,0 +1,4 @@
+Hash: CED9BB40, Key: Line10.BAE4.Dru.F, Value: I'm out of spirit.
+Hash: 30C07602, Key: Line12.BAE4.Dru.F, Value: I'm low on spirit.
+Hash: 92A730C4, Key: Line14.BAE4.Dru.F, Value: I need more spirit.
+Hash: F48DEB86, Key: Line16.BAE4.Dru.F, Value: I do not have enough spirit.

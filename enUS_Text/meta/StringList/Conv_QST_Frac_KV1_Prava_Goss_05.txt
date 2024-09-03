@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I bring dire news from Scosglen…”
+Hash: 5A157257, Key: Line1.710B6, Value: A bastion of Light brought low. A demon unleashed on the land.
+Hash: C91ED884, Key: VoiceDir1.710B6, Value: Taking in the news, dire
+Hash: F409EBD9, Key: Line3.710B6, Value: What you saw in Scosglen, that is what Lilith wants for all of Sanctuary.
+Hash: 8DFE655B, Key: Line5.710B6, Value: But rest assured, justice will come for Donan and his son—and for all who suffered.
+Hash: FD07CB88, Key: VoiceDir5.710B6, Value: Resolute

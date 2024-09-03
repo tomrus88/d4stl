@@ -1,0 +1,5 @@
+Hash: 6C93809B, Key: Callback14Header, Value: Search the Mysterious Pot
+Hash: 4A6A48FB, Key: Callback41Header, Value: Perform the gesture spell on the relic
+Hash: D5F3B5FC, Key: Callback60Header, Value: Defeat the remaining skeletons
+Hash: BCE26C3F, Key: Callback63Header, Value: Slay the skeletons
+Hash: 4318BAA2, Key: Callback75Header, Value: Wait for the Relic Hunter to investigate

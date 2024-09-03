@@ -1,0 +1,2 @@
+Hash: A99E3406, Key: Buff12_Name, Value: Mortality Support
+Hash: D621B749, Key: Buff12_Description, Value: Healing effects reduced by {c_number}[{}*100]%{/c}.

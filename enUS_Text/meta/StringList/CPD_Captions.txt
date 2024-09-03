@@ -1,0 +1,11 @@
+Hash: 6024704F, Key: CPD_Line1, Value: "I saw my corpse,
+and from my mouth crawled Hatred,
+A father burned his children on a pyre, 
+and a mother molded a new age from the ashes,
+Hash: 60247050, Key: CPD_Line2, Value: “I saw the weak made strong,
+a pack of lambs feasting on wolves,
+Tears of blood rained on a desert jewel,
+and the way to Hell was torn asunder,
+Hash: 64B27AD2, Key: CPD_Line3A, Value: “Then came a spear of light, piercing Hatred’s heart,
+And he who was bound in chains was set free."
+Hash: 64B27AD3, Key: CPD_Line3B, Value: --Rathma’s Prophecy

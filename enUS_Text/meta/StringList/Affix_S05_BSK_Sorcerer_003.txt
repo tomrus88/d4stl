@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Firestarter
+Hash: 003892BF, Key: Desc, Value: When newly Burning an enemy, you deal an additional {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Fire damage to them.
+
+This effect is treated as a {c_important}Pyromancy{/c} Skill.

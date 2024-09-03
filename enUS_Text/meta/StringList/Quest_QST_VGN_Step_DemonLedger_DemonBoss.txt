@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Scorched Debts
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat the Orrostus the Collector
+Hash: 5091BE7E, Key: Phase63Description, Value: Lyruk wants to attempt to summon the demonic owner of the ledger. It is an extremely dangerous plan, but the only one we have.
+Hash: B26E1A8B, Key: Callback104Header, Value: Wait for Lyruk to perform the summoning ritual
+Hash: E6570D8F, Key: Callback108Header, Value: Speak to Lyruk to begin the ritual

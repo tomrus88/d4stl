@@ -1,0 +1,4 @@
+Hash: 8ED9FF19, Key: Line1.1275AB, Value: The ancestors’ strength returns. I will see these spears back to the hutmoot.
+Hash: DF102AE6, Key: VoiceDir1.1275AB, Value: direct, proud
+Hash: 675DA8DB, Key: Line3.1275AB, Value: Together, we will show the cannibals that Crane Tribe fears no fate.
+Hash: B793D4A8, Key: VoiceDir3.1275AB, Value: direct, confident

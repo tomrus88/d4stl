@@ -1,0 +1,23 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Go ahead. I have your back."
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Mother?
+Hash: F716D740, Key: Line3.B6582, Value: Neyrelle...
+Hash: 66203D6D, Key: VoiceDir3.B6582, Value: confused
+Hash: 910B50C2, Key: Line5.B6582, Value: You’re just in time. Beyond this lake lies the Necropolis of the Firstborn. A trove of magic and knowledge.
+Hash: 2AFFCA44, Key: Line7.B6582, Value: I opened the way for Lilith, but I could not pass through with her. I...I lack the divine element, you see?
+Hash: 294A5229, Key: Line27.6DE47, Value: Stop--
+Hash: C640FCB8, Key: Line29.B6582, Value: But I can find it. I’m so close...I simply need--
+Hash: C1F212B9, Key: Line9.6DE47, Value: Mother, stop! Look at what Lilith has done to you. You’re writing in your own blood.
+Hash: 722D41CF, Key: Line11.B6582, Value: My little magpie, she awakened me. She showed me things...I can’t even put into words. Once I’ve finished, you will understand...
+Hash: 091F8A44, Key: Line13.6DE47, Value: I don’t care what she showed you. Please, let’s just get out of here.
+Hash: F8639032, Key: Line23.B6582, Value: (effort)
+Hash: 4899BBFF, Key: VoiceDir23.B6582, Value: exertion from moving
+Hash: A61634D3, Key: Line15.B6582, Value: Oh. I see. Yes...clever magpie. Trying to lead me away so you can take all this for yourself? Hmm?
+Hash: F64C60A0, Key: VoiceDir15.B6582, Value: movement exertion
+Hash: 3D087D48, Key: Line17.6DE47, Value: (staggering)
+Hash: 8D3EA915, Key: VoiceDir17.6DE47, Value: extertion sounds, trying to break away
+Hash: D9FF27D7, Key: Line19.B6582, Value: This is my discovery. Not yours.
+Hash: 2A3553A4, Key: VoiceDir19.B6582, Value: crazed, paranoid
+Hash: E1A33406, Key: Line33.6DE47, Value: (heavy breathing)
+Hash: 5E6F16B0, Key: Line21.B6582, Value: I will finish these runes with your blood.
+Hash: 47AEBA84, Key: Line31.6DE47, Value: (gasp)
+Hash: 97E4E651, Key: VoiceDir31.6DE47, Value: exertion from getting blasted by magic

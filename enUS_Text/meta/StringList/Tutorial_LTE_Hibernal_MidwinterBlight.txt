@@ -1,0 +1,5 @@
+Hash: 086EAA02, Key: title, Value: The Midwinter Blight
+Hash: 3D08DF31, Key: 0_instruction, Value: The {c_highlight}Red-Cloaked Horror{/c} and its mischievous {c_highlight}Blightfiends{/c} are relentlessly terrorizing the Fractured Peaks.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Conquer Midwinter Blight monsters and activities to collect {c_highlight}Blighted Fragments{/c}, {c_highlight}Lost Heirlooms{/c}, and {c_highlight}Red-Cloaked Trophy{/c} event materials. 
+Hash: DBC6F233, Key: 2_instruction, Value: Exchange event materials for {c_highlight}Midwinter Proofs{/c} at the {c_highlight}Collections Table{/c} in Kyovashad to {c_highlight}upgrade the Midwinter Square{/c} and unlock a series of rewards.
+Hash: 2B25FBB4, Key: 3_instruction, Value: Use {icon:hibernal_proofs, 2.5}{c_highlight}Midwinter Proofs{/c} to purchase {c_highlight}limited-time event rewards{/c} from {c_highlight}Gileon{/c}.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Pathways
+Hash: A646FFA4, Key: Description, Value: Traverse all of Sanctuary through portals keyed to every class with the Hell and Back Portal Bundle, as well as 1000 Platinum.
+Hash: 13A53A8B, Key: Series, Value: Dark Pathways

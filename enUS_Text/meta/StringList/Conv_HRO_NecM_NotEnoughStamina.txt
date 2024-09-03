@@ -1,0 +1,4 @@
+Hash: 262ED079, Key: Line17.BAE4.Nec.M, Value: I need a rest.
+Hash: 57222DDA, Key: Line18.BAE4.Nec.M, Value: I'm out of stamina.
+Hash: 88158B3B, Key: Line19.BAE4.Nec.M, Value: I need more stamina.
+Hash: 1EE64C53, Key: Line20.BAE4.Nec.M, Value: My stamina is exhausted.

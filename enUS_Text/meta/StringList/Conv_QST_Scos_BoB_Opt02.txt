@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about the Days of Ash."
+Hash: 5D201C8E, Key: Line1.B20BA, Value: The time of Astaroth’s reign in Scosglen. Countless suffered. The lucky ones died quickly.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: grim, earnest
+Hash: F7149610, Key: Line3.B20BA, Value: The Heroes saw an end to it, and we survivors well remember the cost.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: cold, earnest
+Hash: 91090F92, Key: Line5.B20BA, Value: It’s not to be made little of with made-up stories.
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: cold, earnest; scolding

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fully Avowed
+Hash: 3A4912CF, Key: DescShort, Value: Possess 20 total Pacts across equipped armor at once

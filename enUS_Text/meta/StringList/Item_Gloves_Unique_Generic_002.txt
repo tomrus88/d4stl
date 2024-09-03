@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Fists of Fate
+Hash: F5C7BC0A, Key: Flavor, Value: "Will you let fear cheat you, or will you risk everything to find understanding? After all, death is simply the coin with which we purchase life."
+- Zurke

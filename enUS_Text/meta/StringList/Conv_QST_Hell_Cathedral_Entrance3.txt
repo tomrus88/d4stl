@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mephisto
+Hash: 5D3BADDD, Key: Line1.BD9D3, Value: Yes. A wise ploy. And you can leave the stone with me. I will ensure that Lilith never troubles your world again.
+Hash: CC45140A, Key: VoiceDir1.BD9D3, Value: (pleased)
+Hash: F730275F, Key: Line3.BD9D3, Value: You return home; I remain in Hell.
+Hash: 9124A0E1, Key: Line5.BD9D3, Value: All as it should be.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Which Overseer’s relic is this?”
+Hash: 5D73363A, Key: Line1.EECAE, Value: Overseer Salak. Sick bastard liked to pour lava down his victims’ throats.

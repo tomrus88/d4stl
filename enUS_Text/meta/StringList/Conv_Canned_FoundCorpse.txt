@@ -1,0 +1,5 @@
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: I'm too late.
+Hash: AFDD2476, Key: Line22.BAE4, Value: Damn. I couldn't save them.
+Hash: B48775B8, Key: Line24.BAE4, Value: They're already dead.
+Hash: B931C6FA, Key: Line26.BAE4, Value: Dead.
+Hash: FCD76137, Key: Line32.BAE4, Value: Poor soul.

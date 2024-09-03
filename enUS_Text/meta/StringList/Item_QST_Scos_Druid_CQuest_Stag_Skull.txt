@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stag Skull
+Hash: F5C7BC0A, Key: Flavor, Value: This stag skull is covered in gore and feels unnaturally heavy. 

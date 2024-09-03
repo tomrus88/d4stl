@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Defaced Medallion
+Hash: F2CA04D8, Key: NoticeSignText, Value: Ysad's medallion. The Iron Wolf sigil is scratched out. A message is daubed in feces:
+
+"YOU LIVED, CALDEUM DIED"

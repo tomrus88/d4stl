@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Call of the Ancients
+Hash: 0871A46B, Key: Toast, Value: The mighty chieftain of the Bear Tribe requests your presence.
+Hash: 5CD6EA0D, Key: Phase8Description, Value: The chieftain of the Bear Tribe has declared you his Champion. Now he asks that you accompany him to answer the Ancients Call. 
+
+The Glacial Tunnels below the camp await. 
+Hash: 9F90DE2D, Key: Callback7Header, Value: Enter the Hallowed Glacier

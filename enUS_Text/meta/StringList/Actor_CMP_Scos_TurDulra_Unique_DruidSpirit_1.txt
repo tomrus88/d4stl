@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Brighde
+Hash: CC38ADCB, Key: FlavorName, Value: Druid of Túr Dúlra

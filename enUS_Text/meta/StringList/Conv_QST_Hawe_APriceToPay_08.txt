@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you sure about this?"
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: (coughing) No, but it's the only way I can go home again...
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: Nervous but determined. The only thing that matters is going back home again.
+Hash: F75EA61F, Key: Line3.F52ED, Value: Oh...oh gods...it hurts...!
+Hash: 66680C4C, Key: VoiceDir3.F52ED, Value: Terrified. You just drank poison hoping it would cure you, but you might drop dead right here and now.
+Hash: 91531FA1, Key: Line5.F52ED, Value: (vomits) ughhh
+Hash: 727514C2, Key: Line11.F53E7, Value: Of course it hurts, you drank boiled poison.
+Hash: C2AB408F, Key: VoiceDir11.F53E7, Value: Strong, straight to the point but hiding slight bemusement at the situation.
+Hash: 2B479923, Key: Line7.F52ED, Value: W-who are you!? Leave me alone!
+Hash: 9A50FF50, Key: VoiceDir7.F52ED, Value: Terrified. A blood-soaked strange woman is walking towards you.
+Hash: C53C16B9, Key: Line9.F53E7, Value: Your blood is enflamed. Close your eyes and breathe slowly.
+Hash: 34457CE6, Key: VoiceDir9.F53E7, Value: Attempting to explain a situation but also calm a young girl getting herself worked up liable to hurt herself.
+Hash: A65E03B2, Key: Line15.F52ED, Value: How...?
+Hash: F6942F7F, Key: VoiceDir15.F52ED, Value: How did this strange woman stop your curse from manifesting?
+Hash: 40528148, Key: Line17.F53E7, Value: Questions later. First, drink this before you drop dead from your short-sighted brew.
+Hash: 9088AD15, Key: VoiceDir17.F53E7, Value: Matter of fact, urgent but not without care. You want this girl to be okay.

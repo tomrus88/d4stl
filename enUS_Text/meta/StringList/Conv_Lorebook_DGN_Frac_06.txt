@@ -1,0 +1,14 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Large Scroll
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Large Scroll
+Hash: 59EA27DE, Key: Line1.3F392, Value: ALL HUNTERS BEWARE! TURN BACK IF YOU VALUE YOUR LIFE! 
+
+A new beast nests in these caves. They are man-shaped, bearing fur and massive horns. If you see one:
+
+Do not approach. 
+Do not engage. 
+Do not attack.
+Hash: F3DEA160, Key: Line3.3F392, Value: Turn back and leave as quietly as you can. 
+
+Once noticed and hunted by these beasts, you are beyond saving. Let the corpses here speak for themselves.
+
+LIGHT GO WITH YOU.

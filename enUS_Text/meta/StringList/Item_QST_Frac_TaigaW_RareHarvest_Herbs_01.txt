@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Frostbloom
+Hash: F5C7BC0A, Key: Flavor, Value: A stalk of small violet blooms gathered while harvesting other herbs.

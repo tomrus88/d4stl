@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Aggrend of the Bear Tribe
+Hash: CC38ADCB, Key: FlavorName, Value: Ascended Blood Seeker

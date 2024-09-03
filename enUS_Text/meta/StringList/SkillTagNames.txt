@@ -1,0 +1,109 @@
+Hash: 6309331B, Key: SKILL_TAG_ANCIENT, Value: Ancient
+Hash: 3FFB2D33, Key: SKILL_TAG_BEAR, Value: Werebear
+Hash: 0A4D993E, Key: SKILL_TAG_BERSERKER, Value: Berserking
+Hash: 11AF50B6, Key: SKILL_TAG_BLACK_MAGIC, Value: Elemental Ice
+Hash: 3F64B9F5, Key: SKILL_TAG_BLEED, Value: Bleed
+Hash: 3F64E5C9, Key: SKILL_TAG_BLOOD, Value: Blood
+Hash: 3FFB595D, Key: SKILL_TAG_BONE, Value: Bone
+Hash: 3FFBE57B, Key: SKILL_TAG_COLD, Value: Frost
+Hash: 0853DA4A, Key: PRIMARY_TAG_CORPSE, Value: Corpse
+Hash: 74A0FBE0, Key: PRIMARY_TAG_CURSE, Value: Curse
+Hash: 3F85053F, Key: SKILL_TAG_DEATH, Value: Death
+Hash: 2DB26AAC, Key: SKILL_TAG_DISMOUNT, Value: Dismount
+Hash: 3FFD71DF, Key: SKILL_TAG_FIRE, Value: Pyromancy
+Hash: 29511210, Key: SKILL_TAG_JUSTICE, Value: Justice
+Hash: E0D5323D, Key: SKILL_TAG_LIGHTNING, Value: Shock
+Hash: DF675477, Key: SKILL_TAG_CUTTHROAT, Value: Cutthroat
+Hash: 7CD959BB, Key: SKILL_TAG_NATURE_MAGIC_EARTH, Value: Earth
+Hash: 7DE10EFC, Key: SKILL_TAG_NATURE_MAGIC_STORM, Value: Storm
+Hash: 023616B6, Key: SKILL_TAG_PHYSICAL, Value: Physical
+Hash: 4CDCE9D1, Key: SKILL_TAG_POISON, Value: Poison
+Hash: 11B9B4B3, Key: SKILL_TAG_MARKSMAN, Value: Marksman
+Hash: 5359155F, Key: SKILL_TAG_SHADOW, Value: Darkness
+Hash: 3CC60986, Key: SKILL_TAG_SHAPESHIFTING, Value: Shapeshifting
+Hash: 53EE7734, Key: SKILL_TAG_SPIRIT, Value: Spirit
+Hash: 544B0EB8, Key: SKILL_TAG_SUMMON, Value: Companion
+Hash: 40054350, Key: SKILL_TAG_TRAP, Value: Trap
+Hash: 409655AC, Key: SKILL_TAG_SHOUT, Value: Shout
+Hash: E3489B34, Key: SKILL_TAG_WARLORD, Value: Warlord
+Hash: 4006DD11, Key: SKILL_TAG_WOLF, Value: Werewolf
+Hash: 40E3F7BF, Key: SKILL_TAG_WRATH, Value: Wrath
+Hash: 658C2ED1, Key: PRIMARY_TAG_AGILITY, Value: Agility
+Hash: F2D55AC9, Key: PRIMARY_TAG_MACABRE, Value: Macabre
+Hash: 7483EEC0, Key: PRIMARY_TAG_BASIC, Value: Basic
+Hash: 4033B7F4, Key: PRIMARY_TAG_BRAWLING, Value: Brawling
+Hash: 81040202, Key: PRIMARY_TAG_COMPANION, Value: Companion
+Hash: C951532A, Key: PRIMARY_TAG_CONJURATION, Value: Conjuration
+Hash: BD20D8EE, Key: SKILL_TAG_CORRUPTION, Value: Corruption
+Hash: 875BB757, Key: PRIMARY_TAG_DEFENSIVE, Value: Defensive
+Hash: B6243AC4, Key: PRIMARY_TAG_ESSENCE, Value: Essence
+Hash: 68639D44, Key: PRIMARY_TAG_FURY, Value: Fury
+Hash: 341A2697, Key: PRIMARY_TAG_IMBUEMENTS, Value: Imbuements
+Hash: 6B1543EA, Key: PRIMARY_TAG_MAJOR_DESTRUCTION, Value: Major Destruction
+Hash: F4015AE3, Key: PRIMARY_TAG_MASTERY, Value: Mastery
+Hash: 59DC29F6, Key: PRIMARY_TAG_MINOR_DESTRUCTION, Value: Minor Destruction
+Hash: 0850DE94, Key: PRIMARY_TAG_COMBAT, Value: Combat
+Hash: 2DB394B9, Key: PRIMARY_TAG_SPIRIT, Value: Spirit
+Hash: B3C8401A, Key: PRIMARY_TAG_SUBTERFUGE, Value: Subterfuge
+Hash: 4C53EC5B, Key: PRIMARY_TAG_SUMMONING, Value: Summoning
+Hash: 268E3023, Key: PRIMARY_TAG_ULTIMATE, Value: Ultimate
+Hash: FC81C44C, Key: PRIMARY_TAG_WEAPON_MASTERY, Value: Weapon Mastery
+Hash: 7608F8A4, Key: PRIMARY_TAG_WRATH, Value: Wrath
+Hash: F1EB5587, Key: SKILL_TAG_BLUDGEONING, Value: Bludgeoning
+Hash: 8BB25514, Key: SKILL_TAG_DUALWIELD, Value: Dual Wield
+Hash: 1BE374BB, Key: SKILL_TAG_CHANNELED, Value: Channeled
+Hash: 79669008, Key: SKILL_TAG_NATURE_MAGIC, Value: Nature Magic
+Hash: A95BE095, Key: DAMAGE_BURN, Value: Burn
+Hash: D4D2CBBA, Key: DAMAGE_BLEED, Value: Bleed
+Hash: 2A6E316B, Key: DAMAGE_SHADOWDOT, Value: Shadow Damage Over Time
+Hash: E880EF46, Key: DAMAGE_NONPHYSICAL, Value: Non Physical
+Hash: A2406B4B, Key: CRITICAL, Value: Critical Strikes
+Hash: 7B106B6D, Key: RESOURCE_FURY, Value: Fury
+Hash: C8BD5CC5, Key: COOLDOWN, Value: Cooldown
+Hash: 96895FC4, Key: DAMAGE_SHADOW, Value: Shadow
+Hash: BED09E82, Key: DAMAGE_LIGHTNING, Value: Lightning
+Hash: A95C52A0, Key: DAMAGE_COLD, Value: Cold
+Hash: A95DDF04, Key: DAMAGE_FIRE, Value: Fire
+Hash: D2A28E5B, Key: DAMAGE_PHYSICAL, Value: Physical
+Hash: FEE7F4CB, Key: DAMAGE_REDUCTION, Value: Damage Reduction
+Hash: BDE69CB0, Key: STATS_DEXTERITY, Value: Dexterity
+Hash: 7A9AFDE1, Key: STATS_INTELLIGENCE, Value: Intelligence
+Hash: AE53D87D, Key: STATS_STRENGTH, Value: Strength
+Hash: 668BD733, Key: STATS_WILLPOWER, Value: Willpower
+Hash: 62300A68, Key: ATTACK_SPEED, Value: Attack Speed
+Hash: CB8DD19B, Key: MOVEMENT_SPEED, Value: Movement Speed
+Hash: 003D0520, Key: LIFE, Value: Life
+Hash: ED5CEA29, Key: DAMAGE_OVERTIME, Value: Damage Over Time
+Hash: 900D3436, Key: DAMAGE_POISON, Value: Poison
+Hash: 071BAA81, Key: ARMOR, Value: Armor
+Hash: 8AAE2EF1, Key: RESISTANCE, Value: Resistance
+Hash: 2F00A6FF, Key: CROWD_CONTROL, Value: Crowd Control
+Hash: F734C56C, Key: SHAPE_SHIFTING, Value: Shape Shifting
+Hash: 9ECC9122, Key: RESOURCE_SPIRIT, Value: Spirit
+Hash: 7B13EC64, Key: RESOURCE_MANA, Value: Mana
+Hash: 7DFDF591, Key: RESOURCE_ENERGY, Value: Energy
+Hash: 4A5CC44D, Key: RESOURCE_ESSENCE, Value: Essence
+Hash: 71BCFF05, Key: DAMAGE_DOT, Value: Damage Over Time
+Hash: 0760B1D3, Key: ELITE, Value: Elite Monsters
+Hash: FC7BDE6E, Key: STATIONARY, Value: Stationary
+Hash: 07502783, Key: DODGE, Value: Dodge
+Hash: 05EC788A, Key: MINION, Value: Minion
+Hash: 385A04F8, Key: HEALING, Value: Healing
+Hash: 9AFAA071, Key: INJURED, Value: Injured
+Hash: 625EDFA7, Key: BARRIER, Value: Barrier
+Hash: 385A330F, Key: HEALTHY, Value: Healthy
+Hash: AE1D9872, Key: BLOOD_ORB, Value: Blood Orb
+Hash: 9507B2D7, Key: CRACKLING_ENERGY, Value: Crackling Energy
+Hash: D91CCD29, Key: OVERPOWER, Value: Overpower
+Hash: B6F12463, Key: FORTIFY, Value: Fortify
+Hash: CCE94570, Key: VULNERABLE, Value: Vulnerable
+Hash: 073A4E4C, Key: CHILL, Value: Chill
+Hash: F05C975F, Key: DAMAGE, Value: Damage
+Hash: F63639A1, Key: FREEZE, Value: Frozen
+Hash: 7E00F913, Key: EXECUTE, Value: Execute
+Hash: 6861DE87, Key: PRIMARY_TAG_CORE, Value: Core
+Hash: DF6EEB8B, Key: FROM_EQUIPMENT, Value: From Equipment
+Hash: AA5A6A15, Key: STEALTH, Value: Stealth
+Hash: 3A621EAF, Key: SKILL_TAG_GRENADE, Value: Grenade
+Hash: D0C0649F, Key: SKILL_TAG_IMBUEABLE, Value: Imbueable
+Hash: 003882A4, Key: DAZE, Value: Daze

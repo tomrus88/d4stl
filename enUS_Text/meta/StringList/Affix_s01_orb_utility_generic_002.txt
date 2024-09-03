@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Retaliation
+Hash: 003892BF, Key: Desc, Value: Deal {c_number}[Affix_Flat_Value_1]{/c} Fire damage to surrounding enemies whenever a Crowd Control effect is removed from you.

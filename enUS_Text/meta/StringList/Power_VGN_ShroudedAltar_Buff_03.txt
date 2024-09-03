@@ -1,0 +1,4 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Virtue's Reward
+Hash: 7786FD97, Key: Buff1_Description, Value: Gold rains down upon you on your next monster kill.
+Hash: ABF35CA7, Key: Buff13_Name, Value: Virtue's Reward
+Hash: 2580C0CA, Key: Buff13_Description, Value: Gold rains down upon you on your next kill.

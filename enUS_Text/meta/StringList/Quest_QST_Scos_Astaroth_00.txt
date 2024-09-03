@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Shadow Over Cerrigar
+Hash: 0871A46B, Key: Toast, Value: Join Donan in Cerrigar
+Hash: D03F579C, Key: Phase52Description, Value: Lilith has ventured to release Astaroth from his prison underneath Elhaime Keep and unleash him on the innocents of Cerrigar. I must help Donan stop her nefarious plan and save his son, Yorin, before it is too late.
+Hash: F61E7DE1, Key: Callback74Header, Value: Enter Lower Cerrigar
+Hash: 6AC6FC68, Key: Callback110Header, Value: Join Donan outside Lower Cerrigar
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Join Donan in Cerrigar
+Hash: 1FA3CC64, Key: Phase52OutsideSubzoneHeader, Value: Enter Lower Cerrigar
+Hash: DD7BE66B, Key: Phase95OutsideSubzoneHeader, Value: Meet Donan outside Lower Cerrigar
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Donan wants me to meet him in Cerrigar. We must try to stop Astaroth and cling to the hope that we can save Yorin before it is too late. 
+Hash: A09595C3, Key: Phase95Description, Value: Donan wants me to meet him in Cerrigar. We must try to stop Astaroth and cling to the hope that we can save Yorin before it's too late. 

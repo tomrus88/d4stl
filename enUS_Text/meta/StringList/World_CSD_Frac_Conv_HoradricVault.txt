@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Horadric Vault
+Hash: 003892BF, Key: Desc, Value: A hall of magical study built upon ancient mage clan ruins.

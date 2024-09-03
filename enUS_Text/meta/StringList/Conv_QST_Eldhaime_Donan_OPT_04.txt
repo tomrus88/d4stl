@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's your relationship with Lorath?"
+Hash: 5A334C6A, Key: Line1.7FA05, Value: We haven’t spoken much in recent years, but the two of us have history. We are brothers of the Horadrim. I'm probably the closest thing to a friend he has nowadays.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Politician, choosing his words for the first two sentences. Trying to act casual for the third sentence.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Forging bonds is not exactly a strength of his, as I’m sure you’ve noticed.

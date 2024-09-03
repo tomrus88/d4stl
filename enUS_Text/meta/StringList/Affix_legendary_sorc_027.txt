@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Charged
+Hash: 003892BF, Key: Desc, Value: Collecting {c_important}{u}Crackling Energy{/u}{/c} increases your Movement Speed by {c_random}[Affix_Value_1|%+|]{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Collecting {c_important}{u}Crackling Energy{/u}{/c} increases your Movement Speed by {c_random}[Affix_Value_1|%+|]{/c}.

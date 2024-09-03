@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Annointed Immortal
+Hash: 3A4912CF, Key: DescShort, Value: Reach Level 100

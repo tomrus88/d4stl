@@ -1,0 +1,4 @@
+Hash: BFBB6413, Key: SubHeader, Value: Destroy Elemental Cores to summon a 
+Hash: D0201B8E, Key: MainHeader, Value: Voltaic Herald of Malphas
+Hash: F5C7BC0A, Key: Flavor, Value: To threaten a demon's power is to threaten its life—and it will always respond in kind.
+Hash: ED2058BC, Key: Button, Value: Activate

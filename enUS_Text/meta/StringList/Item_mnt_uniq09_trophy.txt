@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Witch's Travel-Totem
+Hash: A646FFA4, Key: Description, Value: A grim fetish of bone, horn, and charms.

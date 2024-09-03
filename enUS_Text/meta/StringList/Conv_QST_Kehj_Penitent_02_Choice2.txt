@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why should I help you?”
+Hash: 8EEB85E0, Key: Line1.136591, Value: Do as you please. Maybe you’ve got a strong stomach for innocent deaths you could have prevented. Myself, I can’t stand another one, especially not if it’s Suna.
+Hash: DF21B1AD, Key: VoiceDir1.136591, Value: Frustrated by the question, but cordially making it clear that he will proceed whether the player helps or not. 
+Hash: 676F2FA2, Key: Line3.136591, Value: I’m heading in there, with or without your help.

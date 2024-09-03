@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Readying for Bloodshed
+Hash: 003892BF, Key: Desc, Value: Masterwork gear 50 times.

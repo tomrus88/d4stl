@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Head of Malphas
+Hash: A646FFA4, Key: Description, Value: A grim trophy proving your defeat of the Keeper of the Vaults.

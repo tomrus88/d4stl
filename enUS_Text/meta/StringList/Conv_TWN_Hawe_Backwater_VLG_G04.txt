@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you alright?"
+Hash: 8ED91C1C, Key: Line1.124D4F, Value: That’s a mighty fine weapon, that is. Give me a peep.
+Hash: DF0F47E9, Key: VoiceDir1.124D4F, Value: Sleazy
+Hash: 675CC5DE, Key: Line3.124D4F, Value: Oh, don’t fuss! A moment’s all I want. Quick, quick, give it here.

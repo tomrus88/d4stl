@@ -1,0 +1,6 @@
+Hash: 003C2078, Key: Junk, Value: Marked as Junk
+Hash: 03FDE1F2, Key: Locked, Value: Favorited Item
+Hash: A8270D77, Key: SR_Init_ErrorVoice, Value: Error: ScreenReader Voice for the selected langauge is not installed or not working, please check your system settings.
+Hash: 54A83F81, Key: SR_Init_Error, Value: Error: ScreenReader was not able to start.
+Hash: 424019E0, Key: Compatible, Value: Compatible
+Hash: A3E74897, Key: Incompatible, Value: Incompatible

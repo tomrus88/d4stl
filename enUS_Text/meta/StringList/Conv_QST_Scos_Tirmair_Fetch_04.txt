@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have killed many of the swarms. I hope they give you less trouble."
+Hash: 5D73367D, Key: Line1.EECCF, Value: Bless ye and all yer descendants! Perhaps there’s hope after all. Maybe we’ll try plantin’ the fields again.
+Hash: CC7C9CAA, Key: VoiceDir1.EECCF, Value: Thick Scos accent, Hopeful

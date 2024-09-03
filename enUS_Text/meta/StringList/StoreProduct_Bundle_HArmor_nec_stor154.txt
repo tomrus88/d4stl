@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Coven of the Blood Saint
+Hash: A646FFA4, Key: Description, Value: In the days of the Ancients, Zir gathered his kinsmen and made an offer of power. "We were born with eternal blood yet not enough to preserve us. To claim eternity, we must claim the blood of our bretheren."
+Hash: 083EE0CE, Key: Quote, Value: Drink to eternity.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

@@ -1,0 +1,6 @@
+Hash: 5D82E859, Key: Line1.FB72A, Value: Downright sinful, the price you're asking.
+Hash: CC8C4E86, Key: VoiceDir1.FB72A, Value: Speaking to a merchant. Angry at the high food prices.
+Hash: F77761DD, Key: Line3.FB72C, Value: Just last week, I paid half that for carrots! (spits)
+Hash: 6680C80A, Key: VoiceDir3.FB72C, Value: Speaking to a merchant. Angry at the high food prices.
+Hash: 3FD4AF8D, Key: Line5.10B519, Value: You keep this up, we'll either be broke or starving by the next moon!
+Hash: 900ADB5A, Key: VoiceDir5.10B519, Value: Speaking to a merchant. Angry at the high food prices.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Shipwrecked mariner’s log
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Shipwrecked Mariner’s Log
+Hash: 5D226C1B, Key: Line1.B67DA, Value: Good that we wrecked here, I suppose. Managed to make it to these caves without the dead on the shore paying too much notice. From the looks of it, we aren’t the first ones to wash up here.
+Hash: F716E59D, Key: Line3.B67DA, Value: Some of the others want to head further in, see if maybe there’s something to be found. I don’t like it. We need to get to Ked Bardu and let them know we’ve lost the idol.

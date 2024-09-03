@@ -1,0 +1,6 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Elixir of Death Evasion
+Hash: 2827F416, Key: Buff0_Description, Value: Escape death by becoming invulnerable, but only once.
+Hash: 14C66756, Key: Buff3_Name, Value: Invulnerable
+Hash: 16451099, Key: Buff3_Description, Value: You cannot be harmed.
+Hash: 171B8FF7, Key: Buff4_Name, Value: Death Awaits
+Hash: 65A41A1A, Key: Buff4_Description, Value: You cannot benefit from another Elixir of Death Evasion.

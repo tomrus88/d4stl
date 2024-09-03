@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Pound of Flesh Vignette
+Hash: 1EADAE68, Key: Callback2Header, Value: Find the bandit camp

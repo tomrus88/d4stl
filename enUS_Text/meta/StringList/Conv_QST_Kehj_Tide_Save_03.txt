@@ -1,0 +1,8 @@
+Hash: 59F2E8EE, Key: Line1.54239, Value: How can this be?
+Hash: C8FC4F1B, Key: VoiceDir1.54239, Value: Scared, trembling
+Hash: F74D2DA6, Key: Line3.E6891, Value: You can thank our new friend later, Yaqub.
+Hash: 665693D3, Key: VoiceDir3.E6891, Value: Yah-koob
+Hash: DAD618B3, Key: Line6.54239, Value: So, you’re alive, brother?
+Hash: 49DF7EE0, Key: VoiceDir6.54239, Value: Stammering. Confused.
+Hash: 25695B74, Key: Line10.E6891, Value: Wait for me by the bridge, you idiot.
+Hash: 759F8741, Key: VoiceDir10.E6891, Value: Annoyed, "Idiot" here doesn't have a lot of venom--it's like an older brother chastising his little brother

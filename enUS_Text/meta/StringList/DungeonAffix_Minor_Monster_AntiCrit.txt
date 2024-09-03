@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Critical Resist
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monster attacks reduce the damage of your Critical Strikes for 3 seconds by 6%, stacking up to 60%.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monster attacks reduce the damage of your Critical Strikes for 3 seconds by 4.5%, stacking up to 45%.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monster attacks reduce the damage of your Critical Strikes for 3 seconds by 3%, stacking up to 30%.

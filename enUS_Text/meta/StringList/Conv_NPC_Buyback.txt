@@ -1,0 +1,247 @@
+Hash: DE04F8F3, Key: Line6.B539D, Value: Can't let it go?
+Hash: C4F3AF36, Key: Line9.B539D, Value: Thought we had a deal?
+Hash: BF26EA00, Key: Line12.B539D, Value: Hmm. Alright, keep it.
+Hash: 400A19C6, Key: Line17.B539E, Value: Can't let it go?
+Hash: 11744560, Key: Line20.B539E, Value: Thought we had a deal?
+Hash: F862FBA3, Key: Line23.B539E, Value: Hmm. Alright, keep it.
+Hash: 79463060, Key: Line28.B53A5, Value: A little too quick, eh?
+Hash: 4AB05BFA, Key: Line31.B53A5, Value: You see something I don't?
+Hash: 319F123D, Key: Line34.B53A5, Value: Sure, have it back.
+Hash: B282422E, Key: Line39.B53AA, Value: A little too quick, eh?
+Hash: 83EC6DC8, Key: Line42.B53AA, Value: You see something I don't?
+Hash: 6ADB240B, Key: Line45.B53AA, Value: Sure, have it back.
+Hash: D639C8F9, Key: Line50.B53A3, Value: I too have a hard time letting go.
+Hash: BD287F3C, Key: Line53.B53A3, Value: Wanting to hold on to that one?
+Hash: A417357F, Key: Line56.B53A3, Value: Here. Maybe next time.
+Hash: 0F75DA9C, Key: Line61.B53A4, Value: I too have a hard time letting go.
+Hash: 5FAC0669, Key: VoiceDir61.B53A4, Value: Quick. Nodding. Pleased.
+Hash: F66490DF, Key: Line64.B53A4, Value: Wanting to hold on to that one?
+Hash: DD534722, Key: Line67.B53A4, Value: Here. Maybe next time.
+Hash: BB2A0A8C, Key: Line94.B539F, Value: A mite indecisive?
+Hash: A218C0CF, Key: Line97.B539F, Value: Not just yet?
+Hash: EF5801D0, Key: Line100.B539F, Value: Are you certain you want to keep that?
+Hash: 703B3687, Key: Line105.B53A0, Value: A mite indecisive?
+Hash: 5729ECCA, Key: Line108.B53A0, Value: Not just yet?
+Hash: 28941864, Key: Line111.B53A0, Value: Are you certain you want to keep that?
+Hash: A977430A, Key: Line116.B5399, Value: No?
+Hash: 9065F94D, Key: Line119.B5399, Value: She's a beauty. I'd keep her too.
+Hash: 61D024E7, Key: Line122.B5399, Value: Not ready to let her go?
+Hash: E2B354D4, Key: Line127.B539A, Value: No?
+Hash: B41D806E, Key: Line130.B539A, Value: She's a beauty. I'd keep her too.
+Hash: 9B0C36B1, Key: Line133.B539A, Value: Not ready to let her go?
+Hash: 1BF0073A, Key: Line138.B682F, Value: If you like it so much...
+Hash: 72EBACA7, Key: VoiceDir138.B682F, Value: Shrugging. Agreement.
+Hash: ED5A32D4, Key: Line141.B682F, Value: Good deal for me.
+Hash: 4455D841, Key: VoiceDir141.B682F, Value: Shrugging. Agreement.
+Hash: D448E917, Key: Line144.B682F, Value: It is yours.
+Hash: 2B448E84, Key: VoiceDir144.B682F, Value: Shrugging. Agreement.
+Hash: 552C18E8, Key: Line149.B6840, Value: If you like it so much...
+Hash: AC27BE55, Key: VoiceDir149.B6840, Value: Shrugging. Agreement.
+Hash: 26964482, Key: Line152.B6840, Value: Good deal for me.
+Hash: 7D91E9EF, Key: VoiceDir152.B6840, Value: Shrugging. Agreement.
+Hash: 0D84FAC5, Key: Line155.B6840, Value: It is yours.
+Hash: 6480A032, Key: VoiceDir155.B6840, Value: Shrugging. Agreement.
+Hash: 78E3A035, Key: Line160.B685C, Value: There you go.
+Hash: CFDF45A2, Key: VoiceDir160.B685C, Value: Shrugging. Apathetic. Agreement.
+Hash: 5FD25678, Key: Line163.B685C, Value: Alright, take it.
+Hash: B6CDFBE5, Key: VoiceDir163.B685C, Value: Shrugging. Apathetic. Agreement.
+Hash: 46C10CBB, Key: Line166.B685C, Value: Back to you, then.
+Hash: 9DBCB228, Key: VoiceDir166.B685C, Value: Shrugging. Apathetic. Agreement.
+Hash: B21FB1DA, Key: Line171.B685F, Value: There you go.
+Hash: 091B5747, Key: VoiceDir171.B685F, Value: Shrugging. Apathetic. Agreement.
+Hash: 990E681D, Key: Line174.B685F, Value: Alright, take it.
+Hash: F00A0D8A, Key: VoiceDir174.B685F, Value: Shrugging. Apathetic. Agreement.
+Hash: 7FFD1E60, Key: Line177.B685F, Value: Back to you, then.
+Hash: D6F8C3CD, Key: VoiceDir177.B685F, Value: Shrugging. Apathetic. Agreement.
+Hash: EB5BC34D, Key: Line182.B6857, Value: No problems.
+Hash: 425768BA, Key: VoiceDir182.B6857, Value: Shrugging. Smiling. Agreement.
+Hash: D24A7990, Key: Line185.B6857, Value: Trade is trade.
+Hash: 29461EFD, Key: VoiceDir185.B6857, Value: Shrugging. Smiling. Agreement.
+Hash: B9392FD3, Key: Line188.B6857, Value: There. Yours again.
+Hash: 1034D540, Key: VoiceDir188.B6857, Value: Shrugging. Smiling. Agreement.
+Hash: 2497D519, Key: Line193.B685A, Value: No problems.
+Hash: 7B937A86, Key: VoiceDir193.B685A, Value: Shrugging. Smiling. Agreement.
+Hash: 0B868B5C, Key: Line196.B685A, Value: Trade is trade.
+Hash: 628230C9, Key: VoiceDir196.B685A, Value: Shrugging. Smiling. Agreement.
+Hash: F275419F, Key: Line199.B685A, Value: There. Yours again.
+Hash: 4970E70C, Key: VoiceDir199.B685A, Value: Shrugging. Smiling. Agreement.
+Hash: 0A362A15, Key: Line226.B684A, Value: Very well, take it back.
+Hash: 6131CF82, Key: VoiceDir226.B684A, Value: Slightly annoyed.
+Hash: F124E058, Key: Line229.B684A, Value: Bad luck to break a deal...
+Hash: 482085C5, Key: VoiceDir229.B684A, Value: Slightly annoyed.
+Hash: C28F0BF2, Key: Line232.B684A, Value: (sigh) Here you are.
+Hash: 198AB15F, Key: VoiceDir232.B684A, Value: Slightly annoyed.
+Hash: 43723BBA, Key: Line237.B684D, Value: Very well, take it back.
+Hash: 9A6DE127, Key: VoiceDir237.B684D, Value: Slightly annoyed.
+Hash: 14DC6754, Key: Line240.B684D, Value: Bad luck to break a deal...
+Hash: 6BD80CC1, Key: VoiceDir240.B684D, Value: Slightly annoyed.
+Hash: FBCB1D97, Key: Line243.B684D, Value: (sigh) Here you are.
+Hash: 52C6C304, Key: VoiceDir243.B684D, Value: Slightly annoyed.
+Hash: 7CAE4D90, Key: Line248.B6875, Value: Changed your mind, eh?
+Hash: D3A9F2FD, Key: VoiceDir248.B6875, Value: Smiling. Teasing a little.
+Hash: 4E18792A, Key: Line251.B6875, Value: Eh. If you insist.
+Hash: A5141E97, Key: VoiceDir251.B6875, Value: Shrugging. Agreement.
+Hash: 35072F6D, Key: Line254.B6875, Value: Alright, then, no trouble.
+Hash: 8C02D4DA, Key: VoiceDir254.B6875, Value: Shrugging. Agreement.
+Hash: D44EC78B, Key: Line263.B6873, Value: Changed your mind, eh?
+Hash: 2B4A6CF8, Key: VoiceDir263.B6873, Value: Smiling. Teasing a little.
+Hash: BB3D7DCE, Key: Line266.B6873, Value: Eh. If you insist.
+Hash: 1239233B, Key: VoiceDir266.B6873, Value: Shrugging. Agreement.
+Hash: A22C3411, Key: Line269.B6873, Value: Alright, then, no trouble.
+Hash: F927D97E, Key: VoiceDir269.B6873, Value: Shrugging. Agreement.
+Hash: 7394DC5C, Key: Line272.B2A4B, Value: I thought you might.
+Hash: CA9081C9, Key: VoiceDir272.B2A4B, Value: Selling an item back to the player. Matter of fact.
+Hash: 5A83929F, Key: Line275.B2A4B, Value: And it's yours again.
+Hash: B17F380C, Key: VoiceDir275.B2A4B, Value: Selling an item back to the player. Matter of fact.
+Hash: 417248E2, Key: Line278.B2A4B, Value: Held onto it for you.
+Hash: 986DEE4F, Key: VoiceDir278.B2A4B, Value: Selling an item back to the player. Matter of fact.
+Hash: B2240CD0, Key: Line290.B2A73, Value: I thought you might.
+Hash: 091FB23D, Key: VoiceDir290.B2A73, Value: Selling an item back to the player. Matter of fact.
+Hash: 9912C313, Key: Line293.B2A73, Value: And it's yours again.
+Hash: F00E6880, Key: VoiceDir293.B2A73, Value: Selling an item back to the player. Matter of fact.
+Hash: 80017956, Key: Line296.B2A73, Value: Held onto it for you.
+Hash: D6FD1EC3, Key: VoiceDir296.B2A73, Value: Selling an item back to the player. Matter of fact.
+Hash: 254A3E76, Key: Line301.B2A4C, Value: Changed your mind, eh?
+Hash: 7C45E3E3, Key: VoiceDir301.B2A4C, Value: Selling an item back to the player. Terse, grounded.
+Hash: 0C38F4B9, Key: Line304.B2A4C, Value: We all make mistakes.
+Hash: 63349A26, Key: VoiceDir304.B2A4C, Value: Selling an item back to the player. Terse, grounded. Shrugging.
+Hash: F327AAFC, Key: Line307.B2A4C, Value: It's a fine piece, true.
+Hash: 4A235069, Key: VoiceDir307.B2A4C, Value: Selling an item back to the player. Terse, grounded.
+Hash: 5E865050, Key: Line312.B2A78, Value: Changed your mind, eh?
+Hash: B581F5BD, Key: VoiceDir312.B2A78, Value: Selling an item back to the player. Terse, grounded.
+Hash: 45750693, Key: Line315.B2A78, Value: We all make mistakes.
+Hash: 9C70AC00, Key: VoiceDir315.B2A78, Value: Selling an item back to the player. Terse, grounded, shrugging.
+Hash: 2C63BCD6, Key: Line318.B2A78, Value: It's a fine piece, true.
+Hash: 835F6243, Key: VoiceDir318.B2A78, Value: Selling an item back to the player. Terse, grounded.
+Hash: 31B6DB3F, Key: Line325.B2A4F, Value: It's yours.
+Hash: 88B280AC, Key: VoiceDir325.B2A4F, Value: Selling an item back to the player. Polite.
+Hash: 18A59182, Key: Line328.B2A4F, Value: Changed your mind?
+Hash: 6FA136EF, Key: VoiceDir328.B2A4F, Value: Selling an item back to the player. Polite.
+Hash: EA0FBD1C, Key: Line331.B2A4F, Value: Very well, then.
+Hash: 410B6289, Key: VoiceDir331.B2A4F, Value: Selling an item back to the player. Polite.
+Hash: D0FE7393, Key: Line334.B2A77, Value: It's yours.
+Hash: 27FA1900, Key: VoiceDir334.B2A77, Value: Selling an item back to the player. Polite.
+Hash: B7ED29D6, Key: Line337.B2A77, Value: Changed your mind?
+Hash: 0EE8CF43, Key: VoiceDir337.B2A77, Value: Selling an item back to the player. Polite.
+Hash: 89575570, Key: Line340.B2A77, Value: Very well, then.
+Hash: E052FADD, Key: VoiceDir340.B2A77, Value: Selling an item back to the player. Polite.
+Hash: 7CB2A839, Key: Line367.B2A59, Value: Of course. It's yours.
+Hash: D3AE4DA6, Key: VoiceDir367.B2A59, Value: Selling an item back to the player. Direct, polite.
+Hash: 4E1CD3D3, Key: Line370.B2A59, Value: Happy to sell.
+Hash: A5187940, Key: VoiceDir370.B2A59, Value: Selling an item back to the player. Direct, polite.
+Hash: 350B8A16, Key: Line373.B2A59, Value: Missed it, did you?
+Hash: 8C072F83, Key: VoiceDir373.B2A59, Value: Selling an item back to the player. Direct, polite, slight grin.
+Hash: D4532273, Key: Line382.B2A74, Value: Of course. It's yours.
+Hash: 2B4EC7E0, Key: VoiceDir382.B2A74, Value: Selling an item back to the player. Direct, polite.
+Hash: BB41D8B6, Key: Line385.B2A74, Value: Happy to sell.
+Hash: 123D7E23, Key: VoiceDir385.B2A74, Value: Selling an item back to the player. Direct, polite.
+Hash: A2308EF9, Key: Line388.B2A74, Value: Missed it, did you?
+Hash: F92C3466, Key: VoiceDir388.B2A74, Value: Selling an item back to the player. Direct, polite, slight grin.
+Hash: 739ABA82, Key: Line391.B2A5E, Value: I thought you'd reconsider...
+Hash: CA965FEF, Key: VoiceDir391.B2A5E, Value: Selling an item back to the player. Amused.
+Hash: 5A8970C5, Key: Line394.B2A5E, Value: Have it back, then.
+Hash: B1851632, Key: VoiceDir394.B2A5E, Value: Selling an item back to the player. Shrugging.
+Hash: 41782708, Key: Line397.B2A5E, Value: Suit yourself.
+Hash: 9873CC75, Key: VoiceDir397.B2A5E, Value: Selling an item back to the player. Shrugging.
+Hash: 4CCC72E7, Key: Line400.B2A71, Value: I thought you'd reconsider...
+Hash: A3C81854, Key: VoiceDir400.B2A71, Value: Selling an item back to the player. Amused.
+Hash: 33BB292A, Key: Line403.B2A71, Value: Have it back, then.
+Hash: 8AB6CE97, Key: VoiceDir403.B2A71, Value: Selling an item back to the player. Shrugging.
+Hash: 1AA9DF6D, Key: Line406.B2A71, Value: Suit yourself.
+Hash: 71A584DA, Key: VoiceDir406.B2A71, Value: Selling an item back to the player. Shrugging.
+Hash: 8622A309, Key: Line411.BC422, Value: Indecisive, are we?
+Hash: 6D11594C, Key: Line414.BC422, Value: Well, alright. Have it back.
+Hash: 54000F8F, Key: Line417.BC422, Value: That's yours again.
+Hash: BF7CE5E9, Key: Line422.E7618, Value: Indecisive, are we?
+Hash: A66B9C2C, Key: Line425.E7618, Value: Well, alright. Have it back.
+Hash: 8D5A526F, Key: Line428.E7618, Value: That's yours again.
+Hash: F89AC64E, Key: Line433.BC423, Value: Changed your mind?
+Hash: DF897C91, Key: Line436.BC423, Value: Alright.
+Hash: C67832D4, Key: Line439.BC423, Value: Hmmm.
+Hash: 31F50959, Key: Line444.E761D, Value: Changed your mind?
+Hash: 18E3BF9C, Key: Line447.E761D, Value: Alright.
+Hash: EA4DEB36, Key: Line450.E761D, Value: Hmmm.
+Hash: 6B12E997, Key: Line455.BC428, Value: Well I suppose I'll have to give it back.
+Hash: 52019FDA, Key: Line458.BC428, Value: That belongs to you.
+Hash: 236BCB74, Key: Line461.BC428, Value: You like that more than coin?
+Hash: A46D2C9C, Key: Line466.E761C, Value: Well I suppose I'll have to give it back.
+Hash: 8B5BE2DF, Key: Line469.E761C, Value: That belongs to you.
+Hash: 5CC60E79, Key: Line472.E761C, Value: You like that more than coin?
+Hash: 5003302C, Key: Line499.BC41F, Value: How did that end up there?
+Hash: 5B577BFD, Key: Line502.BC41F, Value: Make up your mind, friend.
+Hash: 42463240, Key: Line505.BC41F, Value: Why did I pay for that, then?
+Hash: ADC308B0, Key: Line510.E761A, Value: How did that end up there?
+Hash: 94B1BEF3, Key: Line513.E761A, Value: Make up your mind, friend.
+Hash: 7BA07536, Key: Line516.E761A, Value: Why did I pay for that, then?
+Hash: E6E0E90B, Key: Line521.BC431, Value: Sure, sure, have it back.
+Hash: CDCF9F4E, Key: Line524.BC431, Value: It was taking up room.
+Hash: B4BE5591, Key: Line527.BC431, Value: Glad to give that back to you.
+Hash: 203B2BCA, Key: Line532.E7617, Value: Sure, sure, have it back.
+Hash: 0729E20D, Key: Line535.E7617, Value: It was taking up room.
+Hash: EE189850, Key: Line538.E7617, Value: Glad to give that back to you.
+Hash: 5941804A, Key: Line543.B8617, Value: Perhaps for the better.
+Hash: B03D25B7, Key: VoiceDir543.B8617, Value: Educated, superior.
+Hash: 4030368D, Key: Line546.B8617, Value: Think on it wisely next time.
+Hash: 972BDBFA, Key: VoiceDir546.B8617, Value: Educated, superior.
+Hash: 271EECD0, Key: Line549.B8617, Value: Very well.
+Hash: 7E1A923D, Key: VoiceDir549.B8617, Value: Educated, superior.
+Hash: 927D91ED, Key: Line554.B8618, Value: Perhaps for the better.
+Hash: E979375A, Key: VoiceDir554.B8618, Value: Educated, superior.
+Hash: 796C4830, Key: Line557.B8618, Value: Think on it wisely next time.
+Hash: D067ED9D, Key: VoiceDir557.B8618, Value: Educated, superior.
+Hash: 4AD673CA, Key: Line560.B8618, Value: Very well.
+Hash: A1D21937, Key: VoiceDir560.B8618, Value: Educated, superior.
+Hash: 3E31C6FF, Key: Line587.B861D, Value: Unfortunate.
+Hash: 952D6C6C, Key: VoiceDir587.B861D, Value: Grounded, direct.
+Hash: 0F9BF299, Key: Line590.B861D, Value: If it must be so.
+Hash: 66979806, Key: VoiceDir590.B861D, Value: Grounded, direct.
+Hash: F68AA8DC, Key: Line593.B861D, Value: Take it if you must.
+Hash: 4D864E49, Key: VoiceDir593.B861D, Value: Grounded, direct.
+Hash: 776DD8A2, Key: Line598.B861E, Value: Unfortunate.
+Hash: CE697E0F, Key: VoiceDir598.B861E, Value: Grounded, direct.
+Hash: 82C22473, Key: Line601.B861E, Value: If it must be so.
+Hash: D9BDC9E0, Key: VoiceDir601.B861E, Value: Grounded, direct.
+Hash: 69B0DAB6, Key: Line604.B861E, Value: Take it if you must.
+Hash: C0AC8023, Key: VoiceDir604.B861E, Value: Grounded, direct.
+Hash: EA9331CA, Key: Line609.B5F3E, Value: Hold onto it, if it's so important.
+Hash: BBFD5D64, Key: Line612.B5F3E, Value: Keep it, or don't.
+Hash: A2EC13A7, Key: Line615.B5F3E, Value: Can't say I'm surprised.
+Hash: 0E4AB8C4, Key: Line620.B5F3F, Value: Hold onto it, if it's so important.
+Hash: F5396F07, Key: Line623.B5F3F, Value: Keep it, or don't.
+Hash: DC28254A, Key: Line626.B5F3F, Value: Can't say I'm surprised.
+Hash: 47872975, Key: Line631.B79A2, Value: (grumble) I had plans for that...
+Hash: 9E82CEE2, Key: VoiceDir631.B79A2, Value: Dim, twitchy, paranoid.
+Hash: 2E75DFB8, Key: Line634.B79A2, Value: Oh, so we're just breakin' deals now, are we?
+Hash: 85718525, Key: VoiceDir634.B79A2, Value: Dim, twitchy, paranoid.
+Hash: 156495FB, Key: Line637.B79A2, Value: You're playin' with my emotions.
+Hash: 6C603B68, Key: VoiceDir637.B79A2, Value: Dim, twitchy, paranoid.
+Hash: 80C33B18, Key: Line642.B79A3, Value: (grumble) I had plans for that...
+Hash: D7BEE085, Key: VoiceDir642.B79A3, Value: Dim, twitchy, paranoid.
+Hash: 67B1F15B, Key: Line645.B79A3, Value: Oh, so we're just breakin' deals now?
+Hash: BEAD96C8, Key: VoiceDir645.B79A3, Value: Dim, twitchy, paranoid.
+Hash: 4EA0A79E, Key: Line648.B79A3, Value: You're playin' with my emotions.
+Hash: A59C4D0B, Key: VoiceDir648.B79A3, Value: Dim, twitchy, paranoid.
+Hash: B9FF4CBD, Key: Line653.B79A6, Value: Mine. Yours. Make up your mind.
+Hash: 10FAF22A, Key: VoiceDir653.B79A6, Value: Savvy. Cynical. Confident.
+Hash: A0EE0300, Key: Line656.B79A6, Value: No more take-backs, eh?
+Hash: F7E9A86D, Key: VoiceDir656.B79A6, Value: Savvy. Cynical. Confident.
+Hash: 87DCB943, Key: Line659.B79A6, Value: Fine, fine.
+Hash: DED85EB0, Key: VoiceDir659.B79A6, Value: Savvy. Cynical. Confident.
+Hash: F33B5E60, Key: Line664.B79A7, Value: Mine. Yours. Make up your mind.
+Hash: 4A3703CD, Key: VoiceDir664.B79A7, Value: Savvy. Cynical. Confident.
+Hash: DA2A14A3, Key: Line667.B79A7, Value: No more take-backs, eh?
+Hash: 3125BA10, Key: VoiceDir667.B79A7, Value: Savvy. Cynical. Confident.
+Hash: AB94403D, Key: Line670.B79A7, Value: Fine, fine.
+Hash: 028FE5AA, Key: VoiceDir670.B79A7, Value: Savvy. Cynical. Confident.
+Hash: 9EEF9370, Key: Line697.B79AA, Value: This ain't a bank, ya know...
+Hash: F5EB38DD, Key: VoiceDir697.B79AA, Value: Apathetic, direct, business-minded.
+Hash: AA43DF41, Key: Line700.B79AA, Value: More coin for me.
+Hash: 013F84AE, Key: VoiceDir700.B79AA, Value: Shrugging.
+Hash: 91329584, Key: Line703.B79AA, Value: There's cheaper ways to stash things, friend.
+Hash: E82E3AF1, Key: VoiceDir703.B79AA, Value: A little irritated.
+Hash: 1215C54A, Key: Line708.B79AB, Value: This ain't a bank, ya know...
+Hash: 69116AB7, Key: VoiceDir708.B79AB, Value: Apathetic, direct, business-minded.
+Hash: E37FF0E4, Key: Line711.B79AB, Value: More coin for me.
+Hash: 3A7B9651, Key: VoiceDir711.B79AB, Value: Shrugging.
+Hash: CA6EA727, Key: Line714.B79AB, Value: There's cheaper ways to stash things, friend.
+Hash: 216A4C94, Key: VoiceDir714.B79AB, Value: A little irritated.

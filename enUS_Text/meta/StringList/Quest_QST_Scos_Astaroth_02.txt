@@ -1,0 +1,20 @@
+Hash: 003DFCC1, Key: Name, Value: As the World Burns
+Hash: 0871A46B, Key: Toast, Value: Follow Astaroth
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Defeat Astaroth
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Lilith claimed the soulstone that once bound the demon Astaroth, but before I could stop her, Astaroth attacked Cerrigar.
+Hash: E96ABF3F, Key: Phase19Description, Value: Lilith claimed the soulstone that once bound the demon Astaroth, but before I could stop her, Astaroth attacked Cerrigar.
+Hash: 8C4D7B67, Key: Phase19OutsideSubzoneHeader, Value: Defeat Astaroth in Cerrigar
+Hash: A07C739F, Key: Callback18Header, Value: Defeat Astaroth
+Hash: 9367FF5C, Key: Phase34Description, Value: Astaroth was defeated but the toll was high. Parts of Cerrigar lie in ruins and Donan's son, Yorin, is lost.
+Hash: DC652C24, Key: Phase34OutsideSubzoneHeader, Value: Speak with Donan in Cerrigar
+Hash: F81CED9C, Key: Callback33Header, Value: Speak with Donan
+Hash: 2642177F, Key: Phase37Description, Value: Astaroth was defeated but the toll was high. Parts of Cerrigar lie in ruins and Donan's son, Yorin, is lost.
+Hash: CF8C1BA7, Key: Phase37OutsideSubzoneHeader, Value: Speak to the guard at the gate to Lower Cerrigar
+Hash: 934560C9, Key: Phase48OutsideSubzoneHeader, Value: Speak to the guard at the gate to Lower Cerrigar
+Hash: 1847B581, Key: Callback47Header, Value: Speak to the guard at the gate
+Hash: 1F9E611D, Key: Phase62Description, Value: Lilith claimed the soulstone that once bound the demon Astaroth, but before I could stop her, Astaroth attacked Cerrigar.
+Hash: 92501705, Key: Phase62OutsideSubzoneHeader, Value: Defeat Astaroth in Cerrigar
+Hash: 3DC59C04, Key: Callback68Header, Value: Defeat Astaroth
+Hash: E36BD6A1, Key: Phase66Description, Value: Lilith claimed the soulstone that once bound the demon Astaroth, but before I could stop her, Astaroth attacked Cerrigar.
+Hash: D6840109, Key: Phase66OutsideSubzoneHeader, Value: Defeat Astaroth in Cerrigar
+Hash: C2358ADD, Key: Callback70Header, Value: Defeat Astaroth

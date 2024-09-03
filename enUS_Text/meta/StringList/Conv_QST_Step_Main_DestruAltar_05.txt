@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Blessing of Hatred
+Hash: 40121503, Key: Line17.ACEF6, Value: Well done. You were born for this.
+Hash: E2468CE9, Key: Line7.BAE4, Value: I didn’t expect a Prime Evil would need a mortal’s help.
+Hash: 2B756176, Key: VoiceDir7.BAE4, Value: Suspicious
+Hash: 9112B770, Key: Line5.ACEF6, Value: Yes, I have had some bad luck in recent years. Trapped in those soulstone trinkets. Cast back to Hell.
+Hash: 001C1D9D, Key: VoiceDir5.ACEF6, Value: Hint of mocking
+Hash: C4FBAA74, Key: Line9.ACEF6, Value: My essence is reforming, and so my power has limits. We all have our ups and downs, don’t we?
+Hash: 340510A1, Key: VoiceDir9.ACEF6, Value: Hint of mocking
+Hash: 608DBF14, Key: Line11.BAE4, Value: You deserve far worse.
+Hash: CF972541, Key: VoiceDir11.BAE4, Value: Not too aggressive
+Hash: 0C2921FF, Key: Line13.ACEF6, Value: All I have done is offer you help, and yet you repay me with Hatred. Why not focus that anger on Lilith for the time being?
+Hash: A61D9B81, Key: Line15.ACEF6, Value: Take my blessing. Destroy her. Save your world.
+Hash: 7337041C, Key: Line19.BAE4, Value: (pained groan)

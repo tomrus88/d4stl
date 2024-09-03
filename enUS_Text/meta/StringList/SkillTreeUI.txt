@@ -1,0 +1,33 @@
+Hash: E56B210C, Key: SkillPower, Value: Skill Power
+Hash: 67CB26C6, Key: TalentPointsAvailable, Value: Root Points Available
+Hash: 88CC165D, Key: SkillPointsAvailable, Value: Skill Points Available
+Hash: 315CE09A, Key: DebugLegendController, Value: {icon:button2, 2.0} Return to Skills
+Hash: 8DB15414, Key: MajorSkillsHeader, Value: Key Passives
+Hash: 7C783A20, Key: MinorSkillsHeader, Value: Minor Passives
+Hash: BA12DB8D, Key: SpiritSkills, Value: Druidic Passives
+Hash: 7CD7F75B, Key: SkillTreeGateTooltip, Value: Spend the number of Skill Points indicated to enable this connection
+Hash: 8552EA66, Key: SkillPointsSpent, Value: {s1} |4point:points; spent
+Hash: 0A7C3F49, Key: SkillModCoreStatText, Value: {s1}: {s2}
+Hash: 2DD031EA, Key: SkillModTooltipLabel, Value: Modifies {s1}
+Hash: DEC99D93, Key: SkillModTooltipHeader, Value: {s1} Upgrade {s2}
+Hash: E8494029, Key: SkillModReqSingle, Value: {s1} {s2}
+Hash: C5BC3322, Key: SkillModReqDouble, Value: {s1} {s2} and {s3} {s4}
+Hash: 311882E5, Key: SkillModReqDoubleSameValue, Value: {s1} {s2} and {s3}
+Hash: A745633A, Key: StatPointsAvailable, Value: Stat Points Available
+Hash: 0FAE4AE4, Key: StatPointPendingChanges, Value: *
+Hash: 1672DB28, Key: SaveChanges, Value: Save Stat Changes
+Hash: 16FA4ACD, Key: SkillPointsNoneAvailable, Value: No Skill Points Available
+Hash: C344A593, Key: SpendStatPoints, Value: Spend Stat Points
+Hash: 387F0314, Key: ViewStatPoints, Value: View Stat Points
+Hash: 314C78D5, Key: ReturnToSkills, Value: Return to Skills
+Hash: 4A75E8A4, Key: CloseSpiritPanel_Controller, Value: Close Spirit Panel
+Hash: 641DDB9D, Key: OpenSpiritPanel, Value: Open Spirit Panel
+Hash: CF1568DE, Key: AvailablePoints, Value: Available Points
+Hash: 4D93FDA4, Key: BackToPanel, Value: Back
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 51C087FD, Key: ControllerPrompt_SkillAssignment, Value: Skill Assignment
+Hash: 52BEC901, Key: ExclusiveChoice_SkillMod, Value: {c_warning}You may only select one upgrade.{/c}
+Hash: 91AF7EE7, Key: ExclusiveChoice_Ultimate, Value: {c_warning}You may only select one Ultimate Skill.{/c}
+Hash: 31318A0A, Key: ExclusiveChoice_Talent, Value: {c_warning}You may only select one Key Passive.{/c}
+Hash: 56D9EC45, Key: SkillPoint_Value, Value: {icon:Skill_Icon, 1.7}{s1}
+Hash: F22E0AF7, Key: KeyPassive_RootNode_Tooltip, Value: {c_important}Key Passives{/c} drive vital synergies through unique interactions

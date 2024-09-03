@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Bane of Thirst
+Hash: C6E60718, Key: Buff2_Description, Value: Increased Potion Cooldown

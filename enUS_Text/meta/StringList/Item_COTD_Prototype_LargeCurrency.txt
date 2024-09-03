@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [ph] Hateshard
+Hash: A646FFA4, Key: Description, Value: Relic gained from completing mini-events or slaying special mobs in Realm of Hatred. How many can you get per run?

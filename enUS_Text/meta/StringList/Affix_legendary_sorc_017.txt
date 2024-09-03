@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Frostblitz
+Hash: 003892BF, Key: Desc, Value: {c_important}Frost Nova{/c_important} gains an additional Charge but the Cooldown per Charge is increased by {c_random}[Affix_Value_1*100|%|]{/c}.

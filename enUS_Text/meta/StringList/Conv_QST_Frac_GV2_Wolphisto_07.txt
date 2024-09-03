@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why do you want to stop Lilith?” 
+Hash: F71E3DEE, Key: Line3.ACEF6, Value: I like the world the way it was--without Lilith. Her little game of rebellion will only lead to chaos. You’ve already seen visions of the damage she can do.
+Hash: 9112B770, Key: Line5.ACEF6, Value: Yes. I know you were fed her blood. Do you feel it changing you? Perhaps not yet, but as long as Lilith walks in your world, it is only a matter of time.

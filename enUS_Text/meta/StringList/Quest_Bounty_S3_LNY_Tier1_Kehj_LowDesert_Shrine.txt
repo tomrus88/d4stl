@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cleanse Southern Expanse Shrine
+Hash: 0871A46B, Key: Toast, Value: Amongst the joyful chorus of honored ancestral travelers are the discordant wails of miserly spirits. Silence them.
+Hash: B8A227EA, Key: Callback4Header, Value: Cleanse Lunar Shrine of Miserly Spirits

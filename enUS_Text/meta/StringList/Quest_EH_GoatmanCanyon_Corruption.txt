@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: A Creeping Rot
+Hash: 5183C723, Key: Callback58Header, Value: Clear out the corruption
+Hash: 0F2FC79E, Key: Callback71Header, Value: Enter {EVENT_LEVELAREA}
+Hash: 4F855768, Key: Callback99Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: A3D12282, Key: Callback66Header, Value: {TIMELEFT} remaining
+Hash: EBAA2C2D, Key: Callback115Header, Value: Travel to the central corruption mass

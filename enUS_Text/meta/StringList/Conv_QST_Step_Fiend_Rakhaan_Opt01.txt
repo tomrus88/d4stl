@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Who were the Overseers?”
+Hash: 5D73363A, Key: Line1.EECAE, Value: The old slaver kings of Guulrahn. Ruled the Steppes with an iron fist.
+Hash: F767AFBC, Key: Line3.EECAE, Value: Long gone, now. But their relics spread suffering in their stead.

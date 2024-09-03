@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Travel Supplies
+Hash: F2CA04D8, Key: NoticeSignText, Value: Dwindling rations, soiled bandages, potion bottles near drained...sure signs of a losing battle.

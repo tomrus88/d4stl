@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm sorry about Yorin."
+Hash: D7101683, Key: Line19.7FA05, Value: Yes. Yes, I am, too.
+Hash: 27464250, Key: VoiceDir19.7FA05, Value: Weighted pause between "Yes" and "Yes, I am, too."
+Hash: 5B80055C, Key: Line21.7FA05, Value: If I had written to Lorath and stayed in Eldhaime...if I raised Yorin to be a scholar rather than a soldier...
+Hash: ABB63129, Key: VoiceDir21.7FA05, Value: Emotional
+Hash: F5747EDE, Key: Line23.7FA05, Value: (sigh) It doesn't matter...
+Hash: 45AAAAAB, Key: VoiceDir23.7FA05, Value: (weary sigh) before the line read

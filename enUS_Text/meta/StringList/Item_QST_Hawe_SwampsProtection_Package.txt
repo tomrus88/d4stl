@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Timue's Supplies
+Hash: F5C7BC0A, Key: Flavor, Value: A bag of medicine and food Timue made to ease the suffering of the infected.

@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: The Wages of Hatred
+Hash: 0871A46B, Key: Toast, Value: Istel offers an earnest gift.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Approach Istel
+Hash: 99097489, Key: Phase4Description, Value: I found Istel in Zarbinzet. Her quest for power is finished, but she has offered to help with mine. For once, she seems sincere. Perhaps I will accept.
+Hash: 538236DE, Key: Callback17Header, Value: Respond to Istel
+Hash: 1F9943DA, Key: Callback13Header, Value: Read Istel's Grimoire
+Hash: ED76B060, Key: Callback19Header, Value: Look for Istel in Zarbinzet
+Hash: 1315987A, Key: Phase23Description, Value: As my blood burns with the Mother's Gift, I can't help wondering about Istel. Will she show her face in Zarbinzet again? Only one way to find out.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Return to Istel in Zarbinzet

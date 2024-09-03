@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Huntsman Treads
+Hash: 003DFCC1, Key: Name, Value: Beastfall Boots
+Hash: F5C7BC0A, Key: Flavor, Value: "Genai grew proud and fond of boasting of her hunting prowess. She claimed she was fast enough to catch even the spirit Leraye, who cursed her for such an insult."
+- Fable of Genai's Twenty Trials

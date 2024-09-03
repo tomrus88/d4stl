@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Accursed Altar
+{c_gold}Requires{/c} {c_green}1{/c} {c_gold}Baneful Heart{/c}

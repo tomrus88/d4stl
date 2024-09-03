@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Bone Splinters
+Hash: 003892BF, Key: desc, Value: {if:SF_27}{c_label}Essence Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{c_label}Generate Essence:{/c} {c_resource}{SF_5}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Fire {c_number}3{/c} splinters of bone, dealing {c_number}{payload:DAMAGE}{/c} damage each. Each subsequent time an enemy is hit by the same cast of {c_important}Bone Splinters{/c}, you gain {c_number}{SF_4}{/c} Essence.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Bone Splinters{/c} has a {c_number}[{SF_10} * 100|%|]{/c} chance to fire {c_number}{SF_8}{/c} additional projectiles if cast while you have {c_number}{SF_15}{/c} or more Essence.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Bone Splinters
+Hash: D618A933, Key: Mod0_Description, Value: Hitting the same enemy at least {c_number}{SF_20}{/c} times with the same cast of {c_important}Bone Splinters{/c} grants {c_number}[{SF_21} * 100|%+|]{/c} Critical Strike Chance for {c_number}{SF_22}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Acolyte's Bone Splinters
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Bone Splinters{/c} has a {c_number}[{SF_12} * 100|%|]{/c} chance per hit to make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_13}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Initiate's Bone Splinters
+Hash: A99E3406, Key: Buff12_Name, Value: Path of Trag'Oul
+Hash: D621B749, Key: Buff12_Description, Value: Maximum Essence Increased

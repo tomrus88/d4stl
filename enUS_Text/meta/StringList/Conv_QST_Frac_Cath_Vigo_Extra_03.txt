@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Inarius foretold this?"
+Hash: 8E095D1E, Key: Line5.6F0BE, Value: He was given a prophecy. “Light piercing Hatred’s heart,” it said. He knew what it meant. That he was fated to kill Lilith.
+Hash: 5A206A1A, Key: Line1.6F0BE, Value: And when he does, he will be redeemed, and he will ascend to the Heavens once more.

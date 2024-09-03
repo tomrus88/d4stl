@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Unstoppable Monsters
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monsters become Unstoppable when life drops below 30%.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monsters become Unstoppable when life drops below 22%.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monsters become Unstoppable when life drops below 15%.

@@ -1,0 +1,5 @@
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay Demons
+Hash: 8CBE4880, Key: Callback28Header, Value: Slay Demons
+Hash: 003DFCC1, Key: Name, Value: Cull Demons
+Hash: 0871A46B, Key: Toast, Value: The endless waves of demons threaten to overwhelm Sanctuary's meager defenses. Obliterate them and drive back the tides of Hell.
+Hash: F81CED9C, Key: Callback33Header, Value: Slay Demons: {DONE_OVER_NEEDED}

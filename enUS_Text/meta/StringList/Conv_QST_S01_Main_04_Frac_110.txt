@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Capture the heart"
+Hash: 8F104F47, Key: Line1.157838, Value: Forgive me, my friend.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Grieving.

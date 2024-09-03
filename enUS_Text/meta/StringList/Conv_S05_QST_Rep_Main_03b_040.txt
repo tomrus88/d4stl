@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you make of Locran?"
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: (chuckles) Oh, he’s smitten with you. Locran put the Mother up on quite the pedestal, but after you knocked her down, he stuck you right in her place.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Amused. Pities Locran.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: We did some horrible shite to help the Mother save Sanctuary. Helping you? That's his last chance to make it all worth it.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Pity. Shaking head.

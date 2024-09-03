@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Rep Cache
+Hash: A646FFA4, Key: Description, Value: [PH] A chance for powerful items and common crafting mats.
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] A taste of the power of hatred.

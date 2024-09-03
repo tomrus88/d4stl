@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Pit of the Artificer
+Hash: D53BFF05, Key: Phase0Description, Value: With these Runeshards I can enter The Pit of the Artificer. According to Donan's tale, The Pit will hold many rare materials to upgrade weapons and armor.
+Hash: 6BA7EB29, Key: Callback3Header, Value: Travel to Cerrigar and investigate the strange obelisk
+Hash: FAF02F4B, Key: Phase6Description, Value: I am reminded of a tale Donan used to tell about a young smith. If there is any truth in that tale, I will find it within Nightmare Dungeons.
+Hash: 059C64AB, Key: Callback5Header, Value: Complete a Tier 46+ Nightmare Dungeon
+Hash: F4A9EC5A, Key: Phase14Description, Value: Donan's tale had more truth to it than not. I will need to find Runeshards from powerful enemies to learn more.
+Hash: 0687FA1D, Key: Callback16Header, Value: Collect Runeshards from Whisper Bounties, Helltide or Legion Chests, and from Nightmare Dungeons and World Bosses

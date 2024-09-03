@@ -1,0 +1,18 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "We're hunting a man named Elias."
+Hash: 8F6F4E52, Key: Line25.9118B, Value: Never heard of him.
+Hash: DFA57A1F, Key: VoiceDir25.9118B, Value: Dissuading. Timue is fated to direct people toward the Tree, but she knows it often ends in death for these people. It's her fate--but she doesn't necessarily enjoy it.
+Hash: 294A5229, Key: Line27.6DE47, Value: We think Elias made a pact with the swamp to become immortal. Taissa said you could help--
+Hash: 79807DF6, Key: VoiceDir27.6DE47, Value: Pressing the issue
+Hash: C3584156, Key: Line29.9118B, Value: Taissa? Only she would be coldhearted enough to send a child to die out here.
+Hash: 138E6D23, Key: VoiceDir29.9118B, Value: Interrupting, annoyed. She has a tense relationship with Taissa--she feels Taissa has abandoned her. "Child" refers to Neyrelle. Timue knows death comes for those who seek out the Tree, and she doesn't want Neyrelle to die.
+Hash: A313225F, Key: Line15.6D03F, Value: We’ve no intention of dying.
+Hash: C20B8864, Key: Line9.9118B, Value: One of you will. That’s the way it always ends. Go back where you came from. I won’t have a child’s blood on my hands.
+Hash: 3114EE91, Key: VoiceDir9.9118B, Value: Cryptic. Making up her mind for the last part of the line--she doesn't want to send a child to her death.
+Hash: E1A33406, Key: Line33.6DE47, Value: I saw my mother possessed by Lilith. Driven so mad it killed her. I’m not a child anymore.
+Hash: 31D95FD3, Key: VoiceDir33.6DE47, Value: Firm, spitting it all out
+Hash: D7166C75, Key: Line19.9118B, Value: (sigh) So be it.
+Hash: 274C9842, Key: VoiceDir19.9118B, Value: Considering this revelation from Neyrelle. Giving in, but not exactly happy about it. She's still concerned of putting a child in harm's way.
+Hash: 67F2F814, Key: Line45.9118B, Value: If this Elias made a pact, it was with the Tree of Whispers.
+Hash: B82923E1, Key: VoiceDir45.9118B, Value: Considering this revelation from Neyrelle. Giving in, but not exactly happy about it. She's still concerned of putting a child in harm's way.
+Hash: 47C8302F, Key: Line31.9118B, Value: There are many paths to reach it, but the nearest is in Yngovani.
+Hash: CDFE7E92, Key: Line43.9118B, Value: A sacred incense is kept in the temple there. Retrieve it, and your path to the Tree begins.

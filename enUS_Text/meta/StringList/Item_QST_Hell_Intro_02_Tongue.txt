@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Bound to Foul Undercrypts
+Hash: 003DFCC1, Key: Name, Value: Tongue of Sankekur
+Hash: F5C7BC0A, Key: Flavor, Value: "Light bind the tongue that poisoned our Faith. Let it speak for Hatred no more." - Paladin's prayer

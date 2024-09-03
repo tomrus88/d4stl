@@ -1,0 +1,15 @@
+Hash: 186619E3, Key: Challenge_Category_13, Value: Chapter 1
+Hash: 381541A6, Key: Challenge_Category_Description_13, Value: Complete 9 of 11 Objectives To Complete The Chapter.
+Hash: 186619E4, Key: Challenge_Category_14, Value: Chapter 2
+Hash: 381541A7, Key: Challenge_Category_Description_14, Value: Complete 8 of 10 Objectives To Complete The Chapter.
+Hash: 186619E5, Key: Challenge_Category_15, Value: Chapter 3
+Hash: 381541A8, Key: Challenge_Category_Description_15, Value: Complete 9 of 11 Objectives To Complete The Chapter.
+Hash: 186619E6, Key: Challenge_Category_16, Value: Chapter 4
+Hash: 381541A9, Key: Challenge_Category_Description_16, Value: Complete 9 of 11 Objectives To Complete The Chapter.
+Hash: 186619E7, Key: Challenge_Category_17, Value: Chapter 5
+Hash: 381541AA, Key: Challenge_Category_Description_17, Value: Complete 8 of 10 Objectives To Complete The Chapter.
+Hash: 186619E8, Key: Challenge_Category_18, Value: Chapter 6
+Hash: 381541AB, Key: Challenge_Category_Description_18, Value: Complete 8 of 10 Objectives To Complete The Chapter.
+Hash: 186619E9, Key: Challenge_Category_19, Value: Chapter 7
+Hash: 381541AC, Key: Challenge_Category_Description_19, Value: Complete 9 of 11 Objectives To Complete The Chapter.
+Hash: 18661A01, Key: Challenge_Category_20, Value: Hidden

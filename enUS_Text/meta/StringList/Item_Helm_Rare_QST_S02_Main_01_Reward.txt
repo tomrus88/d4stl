@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forgotten Hero's Helm
+Hash: F5C7BC0A, Key: Flavor, Value: This battle-scarred pot helm clearly saved the life of a powerful warrior on many occasions. Why was it abandoned here?

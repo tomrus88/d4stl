@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: War Cry
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+Bellow a mighty war cry, increasing your damage dealt by {c_number}[{SF_1}*100|1%x|]{/c} for {c_number}[{SF_2}|1|]{/c} seconds, and Nearby allies for {c_number}[{SF_5}|1|]{/c} seconds.
+Hash: F2DE8628, Key: simple_desc, Value: Brawling Skill: Bellow a mighty war cry. Allies gain increased damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage Bonus {icon:arrow, 1.2} {c_number}[{SF_1}*100|1%x|]{/c}
+Hash: 0DC6ED73, Key: Buff0_Name, Value: War Cry
+Hash: 2827F416, Key: Buff0_Description, Value: Damage Increased
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}War Cry{/c} grants you {c_important}{u}Berserking{/u}{/c} for {c_number}{SF_10}{/c} seconds.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced War Cry
+Hash: 1394CF37, Key: Mod4_Description, Value: If at least {c_number}{SF_12}{/c} enemies are Nearby when you cast {c_important}War Cry{/c}, your damage bonus is increased by an additional {c_number}[{SF_9} *100|%x|]{/c}.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Power War Cry
+Hash: 62F3D8B8, Key: Mod5_Description, Value: {c_important}War Cry{/c} grants you {c_number}[{SF_15}*100|%|]{/c} Maximum Life {c_number}([Max(1,{fortified:MOD_FORTIFY_BASE})|0|]){/c} as {c_important}{u}Fortify{/u}{/c}.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Mighty War Cry

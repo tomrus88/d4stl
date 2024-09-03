@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Dark knowledge comes at a cost.
+Hash: 1EADAE68, Key: Callback2Header, Value: Use the Rotten Key to open the {GIZMO}
+Hash: 85A4CA58, Key: Callback11Header, Value: Defeat the {MONSTER}
+Hash: 5E28741A, Key: Callback31Header, Value: Slay the Decayed Keymaster and collect the {ITEM}
+Hash: 8CBE4880, Key: Callback28Header, Value: Travel to the {LEVELAREA}

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: 100,000 Steps
+Hash: F5C7BC0A, Key: Flavor, Value: "While many Barbarians remained in the Dreadlands, small groups from the Oxen, Crane and Bear tribes instead chose to search the land for a new home."
+- A History of the Children of Bul-Kathos

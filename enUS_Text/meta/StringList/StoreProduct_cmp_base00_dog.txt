@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Asheara
+Hash: A646FFA4, Key: Description, Value: Named after the legendary leader of the Iron Wolves, Asheara fears no enemy, stands with her allies, and never forgets a face.
+Hash: 083EE0CE, Key: Quote, Value: Honor and duty.
+Hash: 13A53A8B, Key: Series, Value: "Asheara"

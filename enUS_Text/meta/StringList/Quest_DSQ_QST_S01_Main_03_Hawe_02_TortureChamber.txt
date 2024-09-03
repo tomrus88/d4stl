@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: Ruins of the Faith
+Hash: 0871A46B, Key: Toast, Value: I must explore Karamat’s Reach with Cormond to look for a stronger cage. With any luck, we can use it to cure Varshan. 
+Hash: D53BFF05, Key: Phase0Description, Value: The ritual worked and Karamat's Reach is open! Perhaps Cormond is right to hope... We will find out inside. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Regroup with Cormond
+Hash: C9FCD1EA, Key: Phase5Description, Value: I found something but the ghosts of Karamat’s Reach refuse to let me to take it. I cannot let them stop us.
+Hash: B8A227EA, Key: Callback4Header, Value: Search the chamber
+Hash: C3B68EF9, Key: Phase13Description, Value: I found something but the ghosts of Karamat’s Reach refuse to let me take it. I cannot let them stop us. 
+Hash: D29F0719, Key: Callback12Header, Value: Slay the Angry Spirit
+Hash: 5690A71C, Key: Phase16Description, Value: By fortune, I found a stronger cage in Karamat’s Reach. It can capture Varshan but it seems the process will kill him. I must break the news to Cormond. 
+Hash: B98DBD5C, Key: Callback15Header, Value: Speak with Cormond
+Hash: 4A6A48FB, Key: Callback41Header, Value: Open the gate to the next room {DONE}/{NEEDED}
+Hash: E45EC27D, Key: Callback43Header, Value: Speak with Cormond
+Hash: D0A0975E, Key: Callback53Header, Value: Defeat the Vengeful Spirits
+Hash: C5002A81, Key: Phase57Description, Value: The ritual worked and Karamat's Reach is open! Perhaps Cormond is right to hope... We will find out inside. 
+Hash: BCE26C3F, Key: Callback63Header, Value: Listen to Cormond

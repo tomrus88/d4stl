@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Beastmane
+Hash: A646FFA4, Key: Description, Value: The Beastmane is crafted for those whose rage channels the heart of the Rewa. Once that gift is revealed, only then may the ritual to build and bind the Beastmane begin.
+Hash: 083EE0CE, Key: Quote, Value: Powerful warriors who claim the spirits of beasts inhabit their armor. 
+Hash: 13A53A8B, Key: Series, Value: Barbarian Armor

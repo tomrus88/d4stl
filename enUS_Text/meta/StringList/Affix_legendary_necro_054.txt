@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Shielding Storm
+Hash: 003892BF, Key: Desc, Value: Each time that {c_important}Bone Storm{/c} damages an enemy, gain a {c_important}{u}Barrier{/u}{/c} equal to {c_random}[Affix_Value_1|%|]{/c} of your Maximum Life for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Damaging an enemy with {c_important}Bone Storm{/c} grants a {c_important}{u}Barrier{/u}{/c} equal to {c_random}[Affix_Value_1|%|]{/c} of your Maximum Life.

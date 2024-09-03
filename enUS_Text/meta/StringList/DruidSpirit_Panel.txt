@@ -1,0 +1,45 @@
+Hash: F2FEC1BC, Key: SpiritName, Value: {s1} Spirit
+Hash: 21B2AC78, Key: MajorSkill, Value: Major Boon
+Hash: 769D8804, Key: MinorSkill, Value: Minor Boons
+Hash: 43C76C63, Key: Offerings, Value: Offerings
+Hash: 78DE3F68, Key: OfferingsText, Value: Select an amount to offer to the spirit
+Hash: 8265EC15, Key: PanelText, Value: Increase your reputation with this spirit by giving it offerings.
+The spirit will reward you with Boons.
+Hash: F2FDE52D, Key: SpiritLore, Value: "Spirit specific lore comes here. Lorem ipsum dolor lorem ipsum dolor ipsum dolor lorem dolor ipsum dolor ipsum dolor."
+Hash: F1FA0BA1, Key: DruidTotem, Value: Druid Totem
+Hash: BA4CE54E, Key: Inventory, Value: Inventory
+Hash: C8D05D88, Key: MakeOfferingKBM, Value: Make Offering
+Hash: EDF1B4B0, Key: SpiritProgress, Value: {s1} / {s2}
+Progress
+Hash: F86D2F37, Key: SpiritSkillValue, Value: {icon:DruidSpirit_OfferIcon, 2}{s1}
+Hash: 04281A41, Key: MakeOfferingConsole, Value: {icon:button4, 2} Make Offering
+Hash: 78DB1E53, Key: OfferingsNone, Value: {c_red}You don't have any offerings{/c}
+Hash: 42B50677, Key: AssignSkills, Value: Spirit Boons 
+Hash: 232CADBB, Key: AssignSkillsDescription, Value: Give Druidic Spirit Offerings to the animal spirits in {c:FFbf6b31}Túr Dúlra{/c} to unlock their Boons. Select an unlocked Boon to activate its effect.
+Hash: 581574B4, Key: SkillProgress, Value: {s1}  /  3
+Hash: 8BFF01EC, Key: Spirit_Snake, Value: Snake
+Hash: 51D3A3D2, Key: Spirit_Wolf, Value: Wolf
+Hash: 8AFAA398, Key: Spirit_Eagle, Value: Eagle
+Hash: 51C90D3A, Key: Spirit_Deer, Value: Deer
+Hash: 83CB07FC, Key: BindSkill, Value: Bind Skill
+Hash: CFB2604E, Key: Confirm, Value: Confirm
+Hash: E97AF15C, Key: SpiritBonding, Value: Spirit Bonding
+Hash: 03FDE1F2, Key: Locked, Value: (Locked)
+Hash: E825B686, Key: CurrentBond, Value: Current Bond: {c:FFbf6b31}{s1}
+Hash: BFFFB80D, Key: BondingInfo, Value: Unlock every Boon from every spirit to gain access to Spirit Bonding. This will let you activate an additional Boon with a spirit of your choice.
+Hash: F304C45C, Key: ChooseSpirit, Value: Choose Spirit 
+Hash: 03F85CBE, Key: SnakeInfo, Value: The snake has no trust in humans, therefore all Boons are hidden. You must {c:FFbf6b31}give 100 offerings at once{/c} to unlock its boons.
+Hash: A3951EDA, Key: OfferingsTextSnake, Value: You can only offer the maximum amount
+Hash: 6D17F3BC, Key: AllPassivesUnlocked, Value: You've unlocked every Boon for this spirit.
+Hash: 69042B75, Key: OfferMaxValue, Value: / {s1}
+Hash: 39925994, Key: SpiritLocation, Value: Spirit Location: {c:FFbf6b31}Túr Dúlra
+Hash: 7496A62A, Key: ActivePassives, Value: {c:FFdba864}{s1}{/c} {c:FF928c82}/ {s2} Boons Activated
+Hash: 33B43ADF, Key: UnbindSkill, Value: Unbind Skill
+Hash: EF78FE62, Key: SnakeOffering, Value: You must {c:FFbf6b31}give a 100 offerings at once{/c} to unlock all Boons.
+Hash: 47804DC1, Key: BondingInfo_Unlocked, Value: Choose a spirit to bond with, so you can gain an additional Boon.
+Hash: B5DA5C28, Key: BondingInfo_Active, Value: You can now {c:FFbf6b31}activate an additional {s1} Boon{/c} from your Spirit Boons panel.
+Hash: 97108128, Key: UnlockConditionTrack, Value: To unlock, complete {icon:Druid_Priority_Quest_Icon, 2} {c:FFbf6b31}{s1}{/c}. {hotkey:FAST_QUEST_TRACK} to track.
+Hash: 2D94D23C, Key: BondingInfo_Short, Value: Unlock every Boon from every spirit and visit {c:FFbf6b31}Túr Dúlra{/c} to gain access to Spirit Bonding. 
+Hash: E23AF34B, Key: UnlockConditionUntrack, Value: To unlock, complete {icon:Druid_Priority_Quest_Icon, 2} {c:FFbf6b31}{s1}{/c}. {hotkey:FAST_QUEST_TRACK} to untrack.
+Hash: 51CEB4AA, Key: Spirit_None, Value: None
+Hash: 0C04B877, Key: BondingInfo_Active_Panel, Value: You can now {c:FFbf6b31}activate an additional {s1} Boon{/c} from this panel.

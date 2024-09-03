@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gelwa's Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: Her body was pulled apart from within. Internal organs, flesh, even skin is missing in large swathes. Her face is frozen in a hateful snarl. Whatever killed her, she fought it until the very end.

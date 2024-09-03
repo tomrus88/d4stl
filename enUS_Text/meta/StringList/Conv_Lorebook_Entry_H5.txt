@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Elias
+Hash: 5A44590A, Key: Line1.8DD12, Value: In these halls, he has left all the history of Sanctuary, from its strange beginnings and through all its turmoil. All the destruction wrought, and lives lost, it all lives here.
+Hash: F438D28C, Key: Line3.8DD12, Value: The ill-fated meeting of Lilith and Inarius, the birth of their children, and the coming of Heaven and Hell.

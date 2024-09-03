@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Kaan's Note
+Hash: A646FFA4, Key: Description, Value: A note written by Yonca's father, Kaan.
+Hash: F5C7BC0A, Key: Flavor, Value: Written hastily and with many scribbled out sections, this shabby old note is hard to read.

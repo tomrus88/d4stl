@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Witch of the Woods
+Hash: A646FFA4, Key: Description, Value: The deep forests of Scosglen hide a sorcerer falsely accused and cast out from their homeland. Branded a witch, heretic, and betrayer of their people, they now live as a recluse in the woods, using their powers to cull the hordes of Hell that threaten Sanctuary.
+Hash: 083EE0CE, Key: Quote, Value: Wielder of exotic power.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

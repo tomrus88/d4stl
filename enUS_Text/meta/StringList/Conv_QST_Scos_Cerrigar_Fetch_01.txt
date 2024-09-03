@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you selling?"
+Hash: 5D21C90C, Key: Line1.B538C, Value: I got day-old bread and these fun rocks I found. The bread's not so bad if you toast it.
+Hash: CC2B2F39, Key: VoiceDir1.B538C, Value: Friendly. Naive. Happy someone is talking to him, since most ignore him.
+Hash: F716428E, Key: Line3.B538C, Value: My best sellers were my carved charger tusks. If you carve the right pattern, they're good luck! That's what Da told me.
+Hash: 910ABC10, Key: Line5.B538C, Value: I'm all out of tusks, though. And money...oh, but if you bring me some tusks, I'll cut you in on the profits!

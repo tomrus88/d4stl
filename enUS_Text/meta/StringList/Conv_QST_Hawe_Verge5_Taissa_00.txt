@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Complex Conversation - Soulstone Ritual 
+Hash: F427C5EC, Key: Line3.7FA05, Value: Why do we go to this place? There is nothing left for me to do. Can't you see that?
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: [exhausted] 
+Hash: C2053272, Key: Line9.7FA05, Value: Let me return--
+Hash: 27F6DBFD, Key: Line7.789BF, Value: Return? Return where?
+Hash: 9700422A, Key: VoiceDir7.789BF, Value: interrupting
+Hash: 6F3E307B, Key: Line11.7FA05, Value: ...
+Hash: BF745C48, Key: VoiceDir11.7FA05, Value: For this line, can we get a low exhale from Donan. Like he knows Taissa caught him in a trap--he has nowhere to go, but doesn't want to say anything.
+Hash: 0918CD0A, Key: Line13.789BF, Value: Ah. No, Horadrim. You will remain with us. There is still more to do.

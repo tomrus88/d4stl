@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Confront the Creature
+Hash: 3A4912CF, Key: DescShort, Value: Defeat the Blood Maiden during {icon:Marker_Helltide, 2.5} Helltide in {icon:Icon_WorldTier_3, 2} Nightmare or higher

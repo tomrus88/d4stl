@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Profaned Knight
+Hash: A646FFA4, Key: Description, Value: The warrior had died a good death—struck down beside their kin on the battlefield. It was there the Priest of Rathma found them and raised their corpse into service. Profaned. Hollow. Undying.
+Hash: 083EE0CE, Key: Quote, Value: Stolen from death to serve eternal.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

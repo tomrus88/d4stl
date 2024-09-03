@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Corroded Plaque
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Paladin Inscription
+Hash: E6146D67, Key: Line16.1D9606, Value: Holy Akarat, we commit to you the body of your fallen servant, Que-Hegan Sankekur. Carry his spirit from this tainted shell, and let no one disturb the evil that remains.
+Hash: 3D1012D4, Key: VoiceDir16.1D9606, Value: Fervent. Somber. Mournful.

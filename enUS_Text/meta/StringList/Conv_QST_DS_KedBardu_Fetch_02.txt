@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here is the food I could recover."
+Hash: F76119B7, Key: Line3.F8D66, Value: The supplies! Bless you! We all pitched in and scrounged up a proper reward for you. It’s yours.
+Hash: 666A7FE4, Key: VoiceDir3.F8D66, Value: Hopeful, relieved, exhausted.

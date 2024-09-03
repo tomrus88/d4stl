@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: (PH) of Ensnaring Current
+Hash: 003892BF, Key: Desc, Value: {c_white}Ball Lightning{/c} pulls enemies with it as it travels.

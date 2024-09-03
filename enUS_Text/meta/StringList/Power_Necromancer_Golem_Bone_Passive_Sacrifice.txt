@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Sacrifice
+Hash: 003892BF, Key: desc, Value: You gain {c_number}[{SF_1}|%+|]{/c} increased Attack Speed, but you lose the ability to summon a Golem.

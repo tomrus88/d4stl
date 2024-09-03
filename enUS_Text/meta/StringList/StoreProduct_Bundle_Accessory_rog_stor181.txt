@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Dogma Evident
+Hash: A646FFA4, Key: Description, Value: The Eye considers themselves the savior of Sanctuary, always watching for denigrators ripe for punishment.
+Hash: 083EE0CE, Key: Quote, Value: A covert inquisition.
+Hash: 13A53A8B, Key: Series, Value: "Eye of Zakarum" Accessories

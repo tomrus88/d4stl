@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D6B62E1, Key: Line1.F79CA, Value: (inhales) Good. They’re burning the pine resin. I hope it will keep us safe.
+Hash: CC74C90E, Key: VoiceDir1.F79CA, Value: Inhales before the line, taking in the smell of the burning resin. Relaxed and hopeful.
+Hash: F75FDC3B, Key: Line3.F79C9, Value: It always has before. Trust in the old ways.

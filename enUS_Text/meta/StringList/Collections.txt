@@ -1,0 +1,26 @@
+Hash: 26318475, Key: CampaignProgress, Value: Campaign Progress
+Hash: E47636F6, Key: Challenges, Value: Challenges
+Hash: 25887578, Key: FallenHeroes, Value: Fallen Characters
+Hash: 8EAA5A40, Key: Campaign, Value: Campaign
+Hash: D891B72B, Key: ChallengesProgress, Value: Challenges Progress
+Hash: BBCDD4EF, Key: RemainingSlots, Value: Remaining Character Slots
+Hash: E662C2ED, Key: FallenHeroesSlots, Value: {s1} {c:FF928c82}/ {s2}
+Hash: 281BFA8B, Key: CollectReward, Value: Reward(s) available to collect!
+Hash: F770602B, Key: FallenHeroesFull, Value: Capacity reached
+Hash: 60A360BB, Key: RecentlyUnlocked, Value: Recently Completed
+Hash: A1A27525, Key: FallenHeroesLatest, Value: Last Fallen Character
+Hash: 36D88413, Key: ChallengeNone, Value: You haven't completed any challenges yet.
+Hash: F774A9E8, Key: FallenHeroesNone, Value: You don't have any fallen Hardcore characters.
+Hash: 72E41282, Key: CampaignCompleteHeader, Value: Complete
+Hash: 5E47880C, Key: CampaignCompleteSubheader, Value: 
+Hash: 5FFCE975, Key: CodexOfPower, Value: Codex of Power
+Hash: A8D7E914, Key: RecentlyAcquired, Value: Recently Acquired
+Hash: 5D8C9E7F, Key: UnlockAspects, Value: Salvage Legendary Items or Clear Dungeons to Unlock Aspects
+Hash: AEB0EA35, Key: Progress, Value: Progress
+Hash: E2B028B5, Key: TotalAspectsAndRecipes, Value: Aspects & Recipes
+Hash: E9312D86, Key: ChallengeNoneSubheader, Value: 
+Hash: 36DA9B18, Key: ChallengeRift, Value: Challenge Rift
+Hash: 6A0476E8, Key: HighestScore, Value: Highest Score
+Hash: 1E3BD93C, Key: ChallengeScoreValue, Value: {s1}
+Hash: 72650DAB, Key: TrialsComingSoon, Value: Coming Soon
+Hash: 16E0912F, Key: Trials, Value: Trials

@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have returned with the skull of the Spirit Lord."
+Hash: C5291F35, Key: Line9.E2C66, Value: Gathlen, healer of spirits, your den is safe once more. The winter of the Great Tree’s corruption has passed. Honor us with your return.
+Hash: 72621D3E, Key: Line11.E2C66, Value: (speaks in Druidic magic)
+Hash: C298490B, Key: VoiceDir11.E2C66, Value: some sounds for inspiration: itom tua créoror , bog mi bha iga pí chléc scím
+Hash: 1DD45246, Key: Line13.132114, Value: Save your prayers for ailing spirits. I have much work to do.
+Hash: 74CFF7B3, Key: VoiceDir13.132114, Value: weary

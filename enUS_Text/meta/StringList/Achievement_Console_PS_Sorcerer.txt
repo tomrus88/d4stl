@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Master of the Elements
+Hash: 003892BF, Key: Desc, Value: Kill 100 enemies with Fire, Frost, or Lightning damage as a Sorcerer.
+Hash: 3DA4E56A, Key: Crit_235708, Value: Lightning Kills
+Hash: 3DA4E583, Key: Crit_235710, Value: Fire Kills
+Hash: 3DA4E584, Key: Crit_235711, Value: Frost Kills

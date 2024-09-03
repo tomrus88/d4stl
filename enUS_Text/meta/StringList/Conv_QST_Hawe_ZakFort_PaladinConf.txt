@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Chronicles of Paladin Lord Carthas
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Squire of Paladin Lord Carthas
+Hash: 5D3A6ED5, Key: Line1.BB0D6, Value: Our souls have fled ever forward, seeking sanctuary from evil. It pursues us, relentless in its hunt.
+Hash: F72EE857, Key: Line3.BB0D6, Value: And so we have come to rest here, damned, bereft of life and hope, and we have built a sanctuary where there was none.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where is everyone?"
+Hash: 5A28B2ED, Key: Line1.83542, Value: I told them to stay put, but they all fled when the fog crept in.
+Hash: F41B88FE, Key: Line3.804B7, Value: I’m sure they’re safe. They know these hills better than anyone.
+Hash: C1FA98F5, Key: Line9.83542, Value: But fear has a way of making the wise into fools.

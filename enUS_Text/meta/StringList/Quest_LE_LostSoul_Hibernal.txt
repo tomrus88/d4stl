@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Wayward Soul
+Hash: 5E224F71, Key: Callback137Header, Value: Speak to the Wayward Soul
+Hash: 995CD0CE, Key: Callback107Header, Value: Escort the Wayward Soul to their loved one
+Hash: C42DD5EF, Key: Callback135Header, Value: Wayward Soul
+Hash: 5C23DFB6, Key: Callback178Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: DD0D3424, Key: Callback77Header, Value: Slay the enemies
+Hash: 9CB17FB1, Key: Callback155Header, Value: Find their loved one before time runs out
+Hash: C22F6634, Key: Callback176Header, Value: Slay the remaining enemies

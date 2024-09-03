@@ -1,0 +1,3 @@
+Hash: 6F245388, Key: Line11.789BF, Value: The moment we stepped inside, Andariel grew desperate. But her screams are only a whisper now.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: This is holy ground. Her influence will be weaker here.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Implying it's safer here for Taissa, if she stays

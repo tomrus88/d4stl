@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Bleeding Support
+Hash: A646FFA4, Key: Description, Value: {c_number}[{SF_6}*100]%{/c} of the supported skill's damage dealt is applied as Bleeding damage over {c_number}[{SF_1}+{SF_4}|1|]{/c} seconds. Enemies take {c_number}[Collectible_Power_Value_1#S03_Tuning_DoT_Physical*100|%x|]{/c} bonus Bleeding damage from all sources while moving.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Bonus Bleed Damage {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_DoT_Physical*100+1|%x|]{/c}
+Hash: E971A20F, Key: Modifier, Value: {c_number}[{SF_0}*100]%{/c} of the damage is applied as Bleeding damage.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

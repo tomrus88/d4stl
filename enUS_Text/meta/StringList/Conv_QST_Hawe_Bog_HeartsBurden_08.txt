@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found your son in the swamp. He was killed by snakes. I'm so sorry."
+Hash: 7274008D, Key: Line11.F34FB, Value: His dagger...
+Hash: C2AA2C5A, Key: VoiceDir11.F34FB, Value: The player has just returned your missing son's dagger, proving that he is in fact dead. Disbelief, a horrible realization.
+Hash: 5D691C7C, Key: Line1.F34FB, Value: No...Luka...my son...
+Hash: CC7282A9, Key: VoiceDir1.F34FB, Value: Absolute heartbreak. Your only son was killed while lost in the swamps.
+Hash: F75D95FE, Key: Line3.F34FB, Value: My poor boy. I...you're all I have left...
+Hash: 6666FC2B, Key: VoiceDir3.F34FB, Value: Absolute heartbreak. Your only son was killed while lost in the swamps.
+Hash: 2B468902, Key: Line7.F34FB, Value: (sobs)
+Hash: 9A4FEF2F, Key: VoiceDir7.F34FB, Value: Absolute heartbreak. Your only son was killed while lost in the swamps.

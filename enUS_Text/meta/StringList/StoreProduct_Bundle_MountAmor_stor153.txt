@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Seraphic Intonation
+Hash: A646FFA4, Key: Description, Value: This companion set of mount fittings is even more rarely constructed than its counterpart.
+Hash: 083EE0CE, Key: Quote, Value: Spreading the message of the divine.
+Hash: 13A53A8B, Key: Series, Value: "Angelic Resonance" Mount Armor

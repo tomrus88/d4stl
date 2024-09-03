@@ -1,0 +1,45 @@
+Hash: 74C6AEB2, Key: Not Available, Value: Not Available
+Hash: 6E5BB882, Key: Invite To Party, Value: Invite To Party
+{s1}
+Hash: 6EAD2282, Key: Invite To Trade, Value: Invite To Trade
+{s1}
+Hash: 28D42601, Key: KBMScrollDown, Value: {icon:KeyPrompt_ScrollWheel_Down,3}
+Hash: DB21596E, Key: KBMScrollUp, Value: {icon:KeyPrompt_ScrollWheel_Up,3}
+Hash: 07615C0F, Key: Empty, Value: Empty
+Hash: 838CBD41, Key: Invite Not Available, Value: Not Available
+Hash: CC254216, Key: Invite To Party Plain, Value: Invite To Party
+Hash: A25E2C16, Key: Invite To Trade Plain, Value: Invite To Trade
+Hash: 0F9156D4, Key: Invite To Party Not Available, Value: No player to invite
+Hash: 5D1440D4, Key: Invite To Trade Not Available, Value: No player to trade with
+Hash: ED8CED83, Key: tab_emotes, Value: Emotes
+Hash: B2920072, Key: tab_consumables, Value: Consumables
+Hash: 923A8C16, Key: tab_playerinteractions, Value: Miscellaneous
+Hash: 72557365, Key: wheel_directions_right, Value: Right
+Hash: B1585E16, Key: wheel_directions_middle, Value: Middle
+Hash: 5106FD72, Key: wheel_directions_left, Value: Left
+Hash: 466F97A2, Key: Player Menu, Value: Player Menu {s1}
+Hash: 408EB032, Key: Open chat, Value: Open chat
+Hash: 6923F177, Key: Flag for PvP, Value: Mark for Blood
+Hash: D28D5AC7, Key: Flagged for PvP, Value: You are Bloodmarked
+Hash: 77DA72BA, Key: PvP unavailable, Value: PvP Unavailable
+Hash: 3CD5A03A, Key: Player Menu Disabled, Value: Player Menu Not Available
+Hash: 0044CD25, Key: Zoom, Value: Zoom
+Hash: A863341B, Key: ValidateFailPremiumMismatch, Value: Premium status is required to use this feature
+Hash: 4E00B5BE, Key: ValidateFailPremiumMismatchPS, Value: A PlayStation®Plus subscription is required to use this feature
+Hash: 4E00B6B5, Key: ValidateFailPremiumMismatchXB, Value: Action unavailable.
+Hash: D91AA9DD, Key: Leave Dungeon, Value: Leave Dungeon
+Hash: 0E529371, Key: tab_social, Value: Social
+Hash: 9B9A8796, Key: Inspect, Value: Inspect {s1}
+Hash: 53F1E908, Key: InspectNotAvailable, Value: No player to inspect
+Hash: 82DC1FAF, Key: InspectOption, Value: Inspect
+Hash: C0ABF936, Key: Player Menu Plain, Value: Player Menu
+Hash: F075160C, Key: ThrottleWarning, Value: Too many messages! Wait a few seconds.
+Hash: 855B8AFA, Key: Town Portal, Value: Town Portal
+Hash: 7AAEBA11, Key: Command Summon Mount, Value: Summon Mount
+Hash: 789F8792, Key: Command Dismount, Value: Dismount
+Hash: EC631FFC, Key: SocialWheelTownPortalLocked, Value: Town Portal Unavailable
+Hash: D7E20035, Key: SocialWheelMountLocked, Value: Summon Mount Unavailable
+Hash: 68CB5D41, Key: SocialWheelMountAlreadyMounted, Value: You are already mounted
+Hash: 8925D4F5, Key: SocialWheelMountNotAvailable, Value: Summon Mount Unavailable
+Hash: 25AE0F28, Key: PartyFinder, Value: [PH] Party Finder
+Hash: F4BB5B9A, Key: PartyFinderNotAvailable, Value: [PH] Party Finder Not Available

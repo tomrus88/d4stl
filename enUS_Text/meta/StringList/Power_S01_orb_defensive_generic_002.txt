@@ -1,0 +1,2 @@
+Hash: 22C55B1C, Key: Buff9_Name, Value: Prudent Heart Cooldown
+Hash: F27F499F, Key: Buff9_Description, Value: {c_important}{u}Immune{/u}{/c} not ready.

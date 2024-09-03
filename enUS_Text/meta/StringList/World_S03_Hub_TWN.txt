@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Gatehall
+Hash: 003892BF, Key: Desc, Value: A nexus of portals to distant Vaults.

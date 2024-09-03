@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Glacial Fissure
+Hash: 003892BF, Key: Desc, Value: An ancient cavern reopened by the shifting ice.

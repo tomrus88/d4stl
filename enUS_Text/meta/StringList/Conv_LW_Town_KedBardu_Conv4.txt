@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are these weapons barbarian made?"
+Hash: 5D6CA035, Key: Line1.F8D66, Value: Are you telling customers that barbarians made those shoddy swords of yours?
+Hash: F76119D6, Key: Line3.F8D74, Value: It's only when I'm struggling with sales.
+Hash: 91559339, Key: Line5.F8D66, Value: You know, friend, if you're caught they'll cut off those sly hands.

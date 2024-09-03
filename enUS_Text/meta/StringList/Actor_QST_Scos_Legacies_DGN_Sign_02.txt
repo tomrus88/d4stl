@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cathedral Cross
+Hash: CC3C0A8F, Key: FlavorText, Value: "The Father rebukes the wicked."
+Hash: F2CA04D8, Key: NoticeSignText, Value: Another pile of broken, inactive wardstones. Whatever power they once held over the evil in this place is gone.

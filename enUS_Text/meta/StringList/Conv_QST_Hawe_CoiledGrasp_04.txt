@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where are the hostages?"
+Hash: 5D6D2CD2, Key: Line1.F9D80, Value: They are being held near the temple ruins in the eastern fens. The cultists vomited forth a ramshackle village on the other side of its walls.
+Hash: F761A654, Key: Line3.F9D80, Value: Light praise my Brothers' and Sisters' bravery, but our numbers are few. What matters now is rescuing them. Every single one of their lives is too valuable a weapon to lose.

@@ -1,0 +1,30 @@
+Hash: AB28A963, Key: VideoOptions, Value: Video
+Hash: 6EBA4755, Key: SoundOptions, Value: Sound
+Hash: 8A078B1C, Key: GameplayOptions, Value: Gameplay
+Hash: D2CC9B7D, Key: KeyboardOptions, Value: Keyboard
+Hash: 48A061D4, Key: ExitGame, Value: Exit Diablo IV
+Hash: DB1C965D, Key: ReturnToGame, Value: Return to Game
+Hash: 9FE83987, Key: LeaveGame, Value: Leave Game
+Hash: 69C19F93, Key: LeaveGameWithParty, Value: Leave Game with Party
+Hash: 338F3E48, Key: EscapeMenuTitle, Value: Game Menu (Esc)
+Hash: 4D60DD23, Key: CustomerService, Value: Customer Service
+Hash: 0400269A, Key: Logout, Value: Logout
+Hash: 4E85CC70, Key: OptionMenuTitle, Value: Options
+Hash: 6E30B32C, Key: Options, Value: Options
+Hash: 2F3D827C, Key: Achievements, Value: Challenges
+Hash: 50BE7B5C, Key: LowerDifficulty, Value: Lower Difficulty
+Hash: 1205FF8F, Key: Rotate, Value: {icon:lmb, 1.5} to Rotate.
+Hash: 7EF5322B, Key: GameSettings, Value: Current Settings
+Hash: 774F4907, Key: RaiseDifficulty, Value: Raise Difficulty
+Hash: 2EDD9658, Key: CurrentProgress, Value: Current Progress
+Hash: B966DD37, Key: MainQuest, Value: Main Quest
+Hash: 1451F55B, Key: Social, Value: Social
+Hash: D77E9EC6, Key: LeaveWarground, Value: Leave Warground
+
+Hash: 9BB7133A, Key: BugReport, Value: Report a Bug
+Hash: 79FA78B7, Key: ContentReport, Value: Report Concerning Content
+Hash: D60DE52E, Key: Credits, Value: Credits
+Hash: 888A40C7, Key: ExitConfirmationDescription, Value: Are you sure you want to exit Diablo IV?
+Hash: B56C8CE5, Key: ExitConfirmationTitle, Value: Exit Diablo IV?
+Hash: 0549708C, Key: ExitConfirmation_ConfirmButton, Value: Yes
+Hash: 1CB1D688, Key: GameGuide, Value: Game Guide

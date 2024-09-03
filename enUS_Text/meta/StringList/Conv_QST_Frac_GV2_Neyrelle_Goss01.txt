@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I must tell you what I saw Lilith do in Scosglen…”
+Hash: 5A202CB1, Key: Line1.6DE47, Value: All that death for what? So Lilith could make some deal with Astaroth?
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Sad
+Hash: F414A633, Key: Line3.6DE47, Value: She veiled her appearance here, but what she did in Scosglen, that was her true face. Hatred.

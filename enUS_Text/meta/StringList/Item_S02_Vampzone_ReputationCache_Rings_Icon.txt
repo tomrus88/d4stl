@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hunters' Insignia Cache
+Hash: A646FFA4, Key: Description, Value: A set of rings used to signify membership with the Vampire Hunters.
+Hash: F5C7BC0A, Key: Flavor, Value: Heavy, corroded, and poorly crafted, these rings nevertheless show dedication to the Vampire Hunters. 

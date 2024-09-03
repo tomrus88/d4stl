@@ -1,0 +1,5 @@
+Hash: D8F1EA65, Key: Line3.BAE4, Value: When was the last time you saw Yorin?
+Hash: 2810B8F0, Key: Line7.7FA05, Value: Just before the attack. When Lilith stormed the keep, I ordered some guards to lead him out of Eldhaime.
+Hash: 971A1F1D, Key: VoiceDir7.7FA05, Value: worried
+Hash: C2053272, Key: Line9.7FA05, Value: I should have...stayed with him...
+Hash: 310E989F, Key: VoiceDir9.7FA05, Value: Almost to himself, worried

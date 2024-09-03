@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Callous Saber-mask 
+Hash: 13A53A8B, Key: Series, Value: "The Callous Adversary"

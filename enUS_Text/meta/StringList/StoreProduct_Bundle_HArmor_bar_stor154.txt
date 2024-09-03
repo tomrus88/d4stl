@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Death Toll
+Hash: A646FFA4, Key: Description, Value: When Zakarum forces sacked and plundered Klath-Ulna's village, little did they suspect someone survived that massacre. Yet he did, returning to visit that treatment in kind on Zakarum-held settlements, defiling their holy symbols and stripping them of their gold.
+Hash: 083EE0CE, Key: Quote, Value: Blood-gilded revenge.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

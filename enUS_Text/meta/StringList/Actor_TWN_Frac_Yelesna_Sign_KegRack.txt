@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Keg Rack
+Hash: F2CA04D8, Key: NoticeSignText, Value: The barrels are stacked neatly, with tight corks. The drink inside is clearly high quality and valuable.  

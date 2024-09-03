@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bought with Blood
+Hash: A646FFA4, Key: Description, Value: Not all of Sanctuary's killers look like villains clad in black. Some dress in bright fineries bought with the lives of others. 
+Hash: 083EE0CE, Key: Quote, Value: "There's no blood on 'these' hands!" -Thadeus
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

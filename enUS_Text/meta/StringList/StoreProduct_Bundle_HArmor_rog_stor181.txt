@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Eye of Zakarum
+Hash: A646FFA4, Key: Description, Value: This new inquisitor calling themselves the Eye of Zakarum, proclaims to continue the work of their forbearers. The inquisitor travels throughout Sanctuary to cleanse the world of non-believers.
+Hash: 083EE0CE, Key: Quote, Value: "I have seen you and you shall be judged." -Eye of Zakarum before an execution.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

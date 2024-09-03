@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Enemies damaged by your {c_important}Lightning Bolts{/c} or {c_important}Dancing Bolts{/c} take {c_number}[SF_0 * 100|%x|]{/c} increased damage from you for {c_number}[SF_3]{/c} seconds.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood-cleansing Bowl
+Hash: F2CA04D8, Key: NoticeSignText, Value: Those emerging from the Fields victorious may wish to clean their hands of blood before conducting business in town.

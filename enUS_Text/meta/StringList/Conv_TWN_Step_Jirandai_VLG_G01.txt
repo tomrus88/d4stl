@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's the news?"
+Hash: 5D6B590C, Key: Line1.F7897, Value: They brought Taidji down from the gate. You want to see him?
+Hash: F75FD28F, Key: Line3.F7898, Value: Ah, I've seen enough corpses on this trip. Kehjistan had better be worth it.

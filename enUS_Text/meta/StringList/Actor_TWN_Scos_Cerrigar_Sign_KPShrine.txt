@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Altar of Light
+Hash: F2CA04D8, Key: NoticeSignText, Value: An altar to Father Inarius presides over this makeshift chapel. Beneath it lies an old druidic shrine, almost hidden from view.

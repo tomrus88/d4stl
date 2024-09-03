@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The roads are clear, for now."
+Hash: 5D3B086A, Key: Line1.BC3FE, Value: (gasp) By your guidance and my shelter, the meek are saved. Truly the Light works through us all.
+Hash: CC446E97, Key: VoiceDir1.BC3FE, Value: Said like a prayer

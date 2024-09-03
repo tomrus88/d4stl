@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Repair your Items
+Hash: 7BFE534B, Key: simple_instruction, Value: Your items are {c_highlight}close to breaking{/c}. You can {c_highlight}repair items{/c} for gold at a {icon:Marker_Blacksmith, 2.5}{c_highlight} Blacksmith{/c}.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Oasis Healer
+Hash: A646FFA4, Key: Description, Value: Upon discovering the sacred oasis and donning the ancient mask found within, T'jier became one with the oasis. Thus began his days of helping those lost among the sands. In exchange for knowledge of their deepest secret, T'jier would happily heal their ailments and send them on towards their destination.
+Hash: 083EE0CE, Key: Quote, Value: Spirit of the desert sanctum.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

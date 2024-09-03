@@ -1,0 +1,8 @@
+Hash: 6C378A39, Key: Line16.BAE4, Value: What!?
+Hash: AFDD2476, Key: Line22.BAE4, Value: What was that?
+Hash: BDDC183C, Key: Line28.BAE4, Value: What is that?
+Hash: 77B32E3C, Key: Line34.BAE4.Bar, Value: It cannot be!
+Hash: 77B361BD, Key: Line34.BAE4.Nec, Value: Impossible!
+Hash: 77B338F2, Key: Line34.BAE4.Dru, Value: No, it cannot be!
+Hash: 77B3785B, Key: Line34.BAE4.Sor, Value: No! Impossible!
+Hash: 77B3740F, Key: Line34.BAE4.Rog, Value: It cannot be!

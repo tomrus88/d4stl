@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Graven Greatsword
+Hash: 003DFCC1, Key: Name, Value: Fields of Crimson
+Hash: F5C7BC0A, Key: Flavor, Value: "We've been fighting these flesh-eaters for so long, been soaked in so much blood, that after a while it's difficult to tell what side you're truly on."
+- Daelyr, Crane Tribe warrior

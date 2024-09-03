@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Left in Ashes
+Hash: 6C93809B, Key: Callback14Header, Value: Slay Éadaoin's Spirit
+Hash: C45B5CBD, Key: Phase35Description, Value: Kill the Druid Ghost

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Moon Breeches
+Hash: F5C7BC0A, Key: Flavor, Value: A naturally occurring curiosity, the blood moon persists as a sign of woe for the most superstitious Zakarum faithful. Children born under it are often considered cursed and cast out, lest it spread.

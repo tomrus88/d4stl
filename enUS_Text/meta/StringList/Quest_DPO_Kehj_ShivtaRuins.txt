@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: They are waiting for a new host.
+Hash: C5FA5A22, Key: Callback39Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: 9EAFEF6C, Key: Callback114Header, Value: Defeat the {MONSTER}
+Hash: 112812B0, Key: Callback136Header, Value: Travel to the {LEVELAREA}

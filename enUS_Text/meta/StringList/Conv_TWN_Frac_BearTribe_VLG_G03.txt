@@ -1,0 +1,4 @@
+Hash: 5D7331E5, Key: Line1.EEBB0, Value: You were right about the food in Yelesna.
+Hash: CC7C9812, Key: VoiceDir1.EEBB0, Value: "By the way..." Chatting. Disappointed by the food.
+Hash: F767AB68, Key: Line3.EEBB1, Value: (scoff) They can burn a man at the stake, but they can't season a goat.
+Hash: 66711195, Key: VoiceDir3.EEBB1, Value: Flat. Matter of fact.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Seeker's
+Hash: 003892BF, Key: Desc, Value: {c_important}Blood Lance{/c} deals {c_random}[Affix_Value_1|%x|]{/c} increased damage to its primary target per lanced enemy.

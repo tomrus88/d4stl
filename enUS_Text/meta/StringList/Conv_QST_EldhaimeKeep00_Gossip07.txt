@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Donan."
+Hash: 5D23008C, Key: Line1.B79B1, Value: Ah, you'll never meet a man with a bigger heart. Came to see about getting my son some work, and he hired the lad as a clerk. Right on the spot!
+Hash: CC2C66B9, Key: VoiceDir1.B79B1, Value: Sincere
+Hash: F7177A0E, Key: Line3.B79B1, Value: Don't know how I'll ever repay him, but I'll find a way.
+Hash: 6620E03B, Key: VoiceDir3.B79B1, Value: Sincere

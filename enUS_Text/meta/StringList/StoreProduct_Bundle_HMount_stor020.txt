@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bioluminescence
+Hash: A646FFA4, Key: Description, Value: Tales have been told of an elusive and mysterious creature, a beautiful steed that seemingly glows with ethereal lights dancing on its form. It rides hastily in the wind, captivating any fortunate enough to see it pass.
+Hash: 083EE0CE, Key: Quote, Value: Aglow from the sea.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

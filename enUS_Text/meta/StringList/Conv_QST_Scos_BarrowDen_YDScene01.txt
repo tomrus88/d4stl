@@ -1,0 +1,2 @@
+Hash: 8E100280, Key: Line5.804B7, Value: I see the entrance to the Cairns below.
+Hash: 28047C02, Key: Line7.804B7, Value: There should be a path to the east that will lead us there.

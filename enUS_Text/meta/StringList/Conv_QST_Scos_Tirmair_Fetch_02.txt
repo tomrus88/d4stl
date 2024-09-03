@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I brought back thorn beast meat."
+Hash: 59F3313B, Key: Line1.53D35, Value: Ah, we'll sleep well tonight with full bellies. I can't remember the last time that happened. You've done more than you know.
+Hash: C8FC9768, Key: VoiceDir1.53D35, Value: Grateful

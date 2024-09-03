@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Allure
+Hash: 13A53A8B, Key: Series, Value: "Mother's Kiss"

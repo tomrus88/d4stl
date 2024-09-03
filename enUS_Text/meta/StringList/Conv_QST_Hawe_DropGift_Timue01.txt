@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Timue, can you tell me about this crimson herb?"
+Hash: 5A39A25C, Key: Line1.9118B, Value: Oh, you shouldn't be touching things like this! Do you even know what this is? Unbelievable. Do you have no sense?
+Hash: F42E1BDE, Key: Line3.9118B, Value: Ah, well... perhaps you did not recognize it. Most don't bother to consider how someone like me becomes... like this. Not until it's too late.
+Hash: 8E229560, Key: Line5.9118B, Value: It's easier to think it a punishment for some imagined problem, or some other such nonsense. Those who believe that do so for their own comfort, to distance themselves, to say that this could never happen to them.
+Hash: 28170EE2, Key: Line7.9118B, Value: But we are all just one little thing, one moment... one little red sprig away from harm. Remember that and you will always have compassion.

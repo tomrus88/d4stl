@@ -1,0 +1,2 @@
+Hash: 8EEBC951, Key: Line1.135F47, Value: My brother sent you to take my amulet, didn't he? Weak! It was our chance at a good life!
+Hash: DF21F51E, Key: VoiceDir1.135F47, Value: angry, mad  

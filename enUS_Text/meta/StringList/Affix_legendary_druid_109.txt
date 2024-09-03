@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stormshifter's
+Hash: 003892BF, Key: Desc, Value: While {c_important}Hurricane{/c} is active, gain {c_random}[Affix_Value_1|~|]{/c} Ranks to your {c_important}Shapeshifting{/c} Skills.

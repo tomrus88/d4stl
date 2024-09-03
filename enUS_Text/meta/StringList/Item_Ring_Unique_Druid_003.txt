@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hunter's Zenith
+Hash: F5C7BC0A, Key: Flavor, Value: "By fang, claw, spear, or sword - send the bastards back to the flames from which they crawled! Soak the peat with their blood! For Fiacla-Géar! For Scosglen!"
+- Nafain, during the Days of Ash

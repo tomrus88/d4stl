@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Contract Reforged
+Hash: 3A4912CF, Key: DescShort, Value: Add or remove Pacts from a piece of armor, available after completing or skipping the Campaign

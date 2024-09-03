@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pool of magic
+Hash: F2CA04D8, Key: NoticeSignText, Value: The magic here feels wild and untamed.  It carries an undertone of contempt for living things but does not feel demonic in nature.

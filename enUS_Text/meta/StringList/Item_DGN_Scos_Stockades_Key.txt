@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Rusty Metal Key
+Hash: A646FFA4, Key: Description, Value: Bound to Stockades
+Hash: F5C7BC0A, Key: Flavor, Value: A key to a heavy gate. It looks like it hasn't been used for years.

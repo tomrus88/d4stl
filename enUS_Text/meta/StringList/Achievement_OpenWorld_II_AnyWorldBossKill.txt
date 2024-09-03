@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: World Boss Challenger
+Hash: 003892BF, Key: Desc, Value: Kill a World Boss.

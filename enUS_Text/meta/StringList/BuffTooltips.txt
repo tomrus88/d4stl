@@ -1,0 +1,8 @@
+Hash: D485865E, Key: // Label, Value: Text
+Hash: 00009989, Key: ###, Value: This line must be last
+Hash: 8E34516B, Key: BuffGained, Value: Gained {s1}
+Hash: 4AD84DF4, Key: DebuffGained, Value: Afflicted by {s1}
+Hash: E642B665, Key: DebuffDurability, Value: Equipment has broken;
+visit a Blacksmith to repair.
+Hash: BAE372B8, Key: DebuffDurabilityCaution, Value: Equipment is close to breaking;
+visit a Blacksmith to repair.

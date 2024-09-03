@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Weights and Measures
+Hash: A646FFA4, Key: Description, Value: "A word of advice. When taking a job in a foreign land, spend some time figuring out who your mark is. Our morals and judgement are what separate us from the savages."
+-Thad
+Hash: 083EE0CE, Key: Quote, Value: The cost of a life is negotiable.
+Hash: 13A53A8B, Key: Series, Value: "Blood for Money" Accessories

@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Though seemingly safe for human contact, the alchemized demon-bone and crystal barding has had an unforeseen effect on equine physiology.
+Hash: 003DFCC1, Key: Name, Value: Crystal Capita
+Hash: 13A53A8B, Key: Series, Value: "Vitreous Scourge"

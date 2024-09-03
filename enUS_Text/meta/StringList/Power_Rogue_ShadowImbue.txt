@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Shadow Imbuement
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Imbue your weapons with festering shadows. Your next {c_number}{SF_0}{/c} {c_important}Imbueable{/c} Skills deal Shadow damage and infect enemies for {c_number}{SF_2}{/c} seconds. Infected enemies explode on death, dealing {c_number}{payload:DEATH_AOE}{/c} damage to all surrounding enemies. 
+
+If the infection expires before the enemy dies, it will deal {c_number}{payload:DEATH_AOE}{/c} damage to only that enemy.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Explosion Damage {icon:arrow,1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
+{icon:bullet,1.2} Expiration Damage {icon:arrow,1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: You have {c_number}[{SF_15}*100|%+|]{/c} increased Critical Strike Chance against {c_important}{u}Injured{/u}{/c} enemies infected by {c_important}Shadow Imbuement{/c}.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Shadow Imbuement
+Hash: 2577B2B4, Key: Mod1_Description, Value: Enemies infected by {c_important}Shadow Imbuement{/c} take {c_number}[{SF_17}*100|%x|]{/c} increased Non-Physical damage from you for {c_number}{buffduration:AMPLIFY_DAMAGE}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Mixed Shadow Imbuement
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Shadow Imbuement’s{/c} primary explosion makes enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_14}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Blended Shadow Imbuement

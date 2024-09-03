@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've awoken the runestones in the forest."
+Hash: 5D28A609, Key: Line1.AAE9B, Value: Brilliant! They’re humming again! I can feel the life force surging.
+Hash: CC320C36, Key: VoiceDir1.AAE9B, Value: excited
+Hash: F71D1F8B, Key: Line3.AAE9B, Value: Let us not waste a moment. Help me wake up the runestone and restore Túr Dúlra.
+Hash: 662685B8, Key: VoiceDir3.AAE9B, Value: excited

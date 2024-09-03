@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What else do I need to do?”
+Hash: 5A202CB1, Key: Line1.6DE47, Value: We still need a blessing. Perhaps the Cathedral could help?
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: thoughtful
+Hash: F414A633, Key: Line3.6DE47, Value: You should visit Prava.
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Disgusted

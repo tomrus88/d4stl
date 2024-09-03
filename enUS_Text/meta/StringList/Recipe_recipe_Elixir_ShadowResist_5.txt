@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Shadow Resistance II
+Hash: 9E3ACE5E, Key: Category, Value: Advanced Elixirs

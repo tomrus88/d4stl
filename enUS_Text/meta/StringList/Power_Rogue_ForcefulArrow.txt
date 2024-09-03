@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Forceful Arrow
+Hash: 003892BF, Key: desc, Value: {if:SF_19}{c_label}Energy Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{if:SF_12}{c_label}Generate Combo Point:{/c} {c_resource}{SF_10}{/c}
+{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Fire a powerful arrow at an enemy, dealing {c_number}{payload:IMPACT}{/c} damage. Every {c_number}3rd{/c} cast makes enemies hit {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_15}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
+Hash: 2577B2B4, Key: Mod1_Description, Value: Every {c_number}3rd{/c} cast of {c_important}Forceful Arrow{/c} additionally has a {c_number}[{SF_14}*100|%+|]{/c} increased Critical Strike Chance.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Forceful Arrow
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Forceful Arrow{/c} Knocks Back Non-Elite enemies if they are Close. If they collide with another enemy, both are Knocked Down for {c_number}{buffduration:KNOCKDOWN}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Fundamental Forceful Arrow
+Hash: 74D6BC35, Key: Mod2_Description, Value: Every {c_number}3rd{/c} cast of {c_important}Forceful Arrow{/c} pierces through all enemies hit.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Primary Forceful Arrow

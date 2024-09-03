@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You sound troubled."
+Hash: 5D6A29D5, Key: Line1.F5300, Value: There's a powerful evil out there killing folks! Surely you've seen the demons, or those...horrible charred remains?
+Hash: CC739002, Key: VoiceDir1.F5300, Value: The player has just inserted themselves into your conversation. You're desperate and frightened.
+Hash: 91531CD9, Key: Line5.F5300, Value: Please, would you look for survivors near the old ruins to the northeast? We're desperate!
+Hash: 005C8306, Key: VoiceDir5.F5300, Value: The player has just inserted themselves into your conversation. You're desperate and frightened.

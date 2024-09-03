@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ayuzhan Bark
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: You can hear it too, can’t you?
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: speaking as much to himself as Player

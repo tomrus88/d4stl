@@ -1,0 +1,10 @@
+Hash: 95D40EE9, Key: NotificationTitle, Value: Realm Power Collected
+Hash: 0CCD7479, Key: StatPoints, Value: {s1} has been increased by {c_number}{s2}{/c} for all characters on this realm.
+Hash: 92C7BC3C, Key: SkillPoints, Value: {c_number}{s1}{/c} |4Skill Point has:Skill Points have; been unlocked for all characters on this realm.
+Hash: 94C986B1, Key: NotificationError, Value: Reward type doesn't have notifications setup properly. Ask gameplay!
+Hash: 56ADEF65, Key: FlatMaxHP, Value: Maximum HP has been raised by {c_number}{s1} {/c} for all characters on this realm.
+Hash: CE295556, Key: PotionCharges, Value: Healing Potion Capacity has been increased by {c_number}{s1}{/c} for all characters on this realm.
+Hash: A08CFC05, Key: ParagonPoints, Value: {c_number}{s1}{/c} |4Paragon Point has:Paragon Points have; been unlocked for all characters on this realm.
+Hash: F681EC8C, Key: GamblingCurrency, Value: Maximum capacity of Murmuring Obols has been increased by {c_number}{s1}{/c} for all characters on this realm.
+Hash: 739E6A4D, Key: IgrRewardGold, Value: {s1} has received {s2} Gold
+Hash: B8994B12, Key: IgrRewardTierSkip, Value: {s1} has received {s2} |4Battle Pass Tier Skip:Battle Pass Tier Skips;

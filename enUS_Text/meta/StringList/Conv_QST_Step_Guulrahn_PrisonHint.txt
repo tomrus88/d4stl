@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Prison Hint
+Hash: E2468CE9, Key: Line7.BAE4, Value: Have you seen someone named Oyuun?
+Hash: 5D72A46E, Key: Line1.EDC7D, Value: I… I don’t know. The cannibals are rounding everyone up. Killing. Feasting.
+Hash: CC7C0A9B, Key: VoiceDir1.EDC7D, Value: breathless, frantic
+Hash: F7671DF0, Key: Line3.EDC7D, Value: But a few, they drag away. The prisons, I heard.
+Hash: 6670841D, Key: VoiceDir3.EDC7D, Value: breathless, frantic
+Hash: 915B9772, Key: Line5.EDC7D, Value: Why would these monsters keep anyone alive?
+Hash: 0064FD9F, Key: VoiceDir5.EDC7D, Value: breathless, frantic

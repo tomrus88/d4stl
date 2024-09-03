@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "Beware!"
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Beware! Many lives have been lost to this canyon. Some say vampires lurk in its shadows."

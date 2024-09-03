@@ -1,0 +1,21 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Elias summoned Andariel.”
+Hash: F3620E03, Key: Line64.6D03F, Value: Bloody hell. He finished the ritual from the volcano, then.
+Hash: 7B97AD88, Key: Line35.6DE47, Value: Elias...that’s the man who summoned Lilith. You’re saying he summoned a lesser evil, too?
+Hash: CBCDD955, Key: VoiceDir35.6DE47, Value: awe
+Hash: 18DFF486, Key: Line85.6D03F, Value: Keep up, girl. Is Andariel gone?
+Hash: 69162053, Key: VoiceDir85.6D03F, Value: First sentence directed at Neyrelle, second sentence directed at player
+Hash: 89645C21, Key: Line87.BAE4, Value: Yes.
+Hash: 3D01C00E, Key: Line17.789BF, Value: And Elias?
+Hash: 8D37EBDB, Key: VoiceDir17.789BF, Value: ragged breathing
+Hash: 411470A2, Key: Line79.BAE4, Value: He fled.
+Hash: A30D468C, Key: Line15.789BF, Value: Before going to the Steppes, Elias came to Hawezar. Took something that wasn’t his. It’s why I’m hunting him.
+Hash: F3437259, Key: VoiceDir15.789BF, Value: considering
+Hash: B4CD01F0, Key: Line46.789BF, Value: I have a...friend in Hawezar who has mastered the art of immortality. She might know his secret. Let me take you to her.
+Hash: A128B3C4, Key: Line56.7FA05, Value: I thought we were after Lilith, not Elias?
+Hash: F15EDF91, Key: VoiceDir56.7FA05, Value: disbelief at "Elias"
+Hash: 2C9F010C, Key: Line75.6DE47, Value: Finding him may lead to her...
+Hash: 7CD52CD9, Key: VoiceDir75.6DE47, Value: considering
+Hash: 3B092C26, Key: Line58.6D03F, Value: And while we look for him, you’ll have time to work on the stone. That’s what you wanted, isn’t it?
+Hash: BF8D1C1F, Key: Line60.7FA05, Value: (sigh) Damn it. I’ll bite. On one of those rare occasions you gave me good advice, you said, “The answers you need are often in the place you least want to look.”
+Hash: 596D9481, Key: Line62.6D03F, Value: It was you who said that.
+Hash: C6A69A47, Key: Line77.7FA05, Value: Ah. You’re right. (chuckle) Let’s get the horses ready.

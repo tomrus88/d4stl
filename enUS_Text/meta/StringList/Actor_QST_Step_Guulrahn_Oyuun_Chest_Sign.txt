@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Small Chest
+Hash: F2CA04D8, Key: NoticeSignText, Value: Filled with an assortment of knickknacks: a simple dagger, a few coins, and a lock of dark hair, bound by a blue ribbon.

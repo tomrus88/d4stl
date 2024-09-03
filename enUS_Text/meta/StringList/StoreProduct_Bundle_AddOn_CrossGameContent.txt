@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Exclusive Cross Game Content
+Hash: A646FFA4, Key: Description, Value: Includes the World of Warcraft® Amalgam of Rage Mount, and Diablo Immortal™ Umber Winged Darkness Cosmetics Set.
+Hash: 13A53A8B, Key: Series, Value: Cross Game

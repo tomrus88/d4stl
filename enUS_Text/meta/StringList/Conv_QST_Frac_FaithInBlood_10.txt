@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 5D8555E3, Key: Line1.FEF74, Value: Right after you left, the Sister, she...the demon inside her is speaking through her! She's in terrible pain!
+Hash: CC8EBC10, Key: VoiceDir1.FEF74, Value: Frantic, panicked.
+Hash: F779CF65, Key: Line3.FEF74, Value: She told me about the chalice. Here, I'll place it while you prepare. We must hurry!
+Hash: 66833592, Key: VoiceDir3.FEF74, Value: Frantic, panicked, earnest.

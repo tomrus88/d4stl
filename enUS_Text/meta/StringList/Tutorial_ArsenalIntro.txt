@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Weapon Swapping
+Hash: 7BFE534B, Key: simple_instruction, Value: You can {c_highlight}equip multiple weapons{/c} at the same time, and skills will automatically select the most appropriate weapon to use.

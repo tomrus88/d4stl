@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Treasure Note
+Hash: A646FFA4, Key: Description, Value: Partially faded note
+Hash: F5C7BC0A, Key: Flavor, Value: Next to the river, along the sea, a lonesome tree, stands guard for me.

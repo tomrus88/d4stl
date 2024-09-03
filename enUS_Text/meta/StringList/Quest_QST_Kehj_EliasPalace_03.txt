@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Beneath the Mask
+Hash: 0871A46B, Key: Toast, Value: Infiltrate the Exalted Terrace
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Infiltrate the Exalted Terrace
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: With Meshif's assistance, we've found Elias' palace beyond the sandstorm.  If the fallen Horadrim hides within, we will be sure to find him and put an end his schemes.
+Hash: 13BA663E, Key: Phase45Description, Value: With Meshif's assistance, we've found Elias' palace beyond the sandstorm.  If the fallen Horadrim hides within, we will be sure to find him and put an end his schemes.
+Hash: A01E7146, Key: Phase45OutsideSubzoneHeader, Value: Find the entrance to the Exalted Terrace
+Hash: 22EDF2BD, Key: Callback61Header, Value: Find the entrance to the Exalted Terrace with Lorath
+Hash: 13B867CC, Key: Phase124Description, Value: With Meshif's assistance, we've found Elias' palace beyond the sandstorm.  If the fallen Horadrim hides within, we will be sure to find him and put an end his schemes.
+Hash: C64A1294, Key: Phase124OutsideSubzoneHeader, Value: Meet Meshif at the entrance to the Outer Gardens
+Hash: 3DF7878C, Key: Callback123Header, Value: Speak with Meshif
+Hash: B9710217, Key: Phase127OutsideSubzoneHeader, Value: Speak to the noble in the Outer Gardens
+Hash: 24E63DCF, Key: Callback126Header, Value: Speak to the noble
+Hash: BF739DB5, Key: Phase170OutsideSubzoneHeader, Value: Speak to the noble in the Outer Gardens
+Hash: BCDC4796, Key: Callback169Header, Value: Speak with the noble

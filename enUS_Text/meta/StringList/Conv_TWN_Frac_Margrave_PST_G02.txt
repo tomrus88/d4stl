@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The Cathedral supports these burnings?” 
+Hash: 5D12BA4E, Key: Line1.A9F43, Value: (snort) We are far from Kyovashad, friend, beyond their notice or care.
+Hash: CC1C207B, Key: VoiceDir1.A9F43, Value: Defensive. Resentful. (The Church doesn't care.)
+Hash: F70733D0, Key: Line3.A9F43, Value: But (inhale) the Father sees our Light burn from high atop his glacier. He knows that Margrave will suffer no evil.
+Hash: 661099FD, Key: VoiceDir3.A9F43, Value: Pride. Reverence. Conviction. (God cares)

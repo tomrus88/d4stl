@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How is the town faring?”
+Hash: 5D6B62B4, Key: Line1.F79C4, Value: The shadow has passed, but the loss remains. We’ll make do as we always have...and grieve the missing in our own time.
+Hash: CC74C8E1, Key: VoiceDir1.F79C4, Value: Solomn and earnest

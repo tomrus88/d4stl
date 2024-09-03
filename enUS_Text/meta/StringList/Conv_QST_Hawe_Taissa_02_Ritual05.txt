@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why did you disrupt the ritual?”
+Hash: C20B8864, Key: Line9.9118B, Value: Because we all know it won’t work for Taissa.
+Hash: 3114EE91, Key: VoiceDir9.9118B, Value: Relationship between Taissa and Timue is chilly, so there is tension between them. But deep down, Timue cares about Taissa.
+Hash: 3D21F2F3, Key: Line17.9118B, Value: You wish to rid yourself of a demon? You won’t find an answer from the mouths of these witches, or in that tea you brew.
+Hash: D6F63990, Key: Line19.789BF, Value: I already know that. I tried -- it didn’t work.
+Hash: 272C655D, Key: VoiceDir19.789BF, Value: A retort--she isn't happy Timue interrupted the ritual.
+Hash: DC698B13, Key: Line26.9118B, Value: Of course not. It can help an old man heal from the loss of a child, yes, but you are plagued by more than just grief. You must face your fears.
+Hash: 765E0495, Key: Line28.9118B, Value: So tell me: where is the last place you want to be?
+Hash: C88B2D0F, Key: Line36.789BF, Value: With Andariel… where it all began…
+Hash: 18C158DC, Key: VoiceDir36.789BF, Value: Hard for her to say--hard for her to admit she is scared
+Hash: 2EB6E672, Key: Line34.9118B, Value: Then that is the path you must walk. Now go. The first step is always the hardest. Just remember: you control how tight the chains are.
+Hash: 0AD654FD, Key: Line38.BAE4, Value: Taissa, whatever lies ahead, I will be at your side.
+Hash: E6EF956A, Key: Line40.789BF, Value: Then… perhaps I have a chance to see it through. Meet me at my tower. I will prepare everything.

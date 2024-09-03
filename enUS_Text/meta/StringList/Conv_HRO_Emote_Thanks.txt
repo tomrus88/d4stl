@@ -1,0 +1,6 @@
+Hash: 608DBF14, Key: Line11.BAE4, Value: Thank you.
+Hash: CF972541, Key: VoiceDir11.BAE4, Value: Said quickly, but sincerely, as if just handed a small gift.
+Hash: 7337041C, Key: Line19.BAE4, Value: I appreciate that.
+Hash: E2406A49, Key: VoiceDir19.BAE4, Value: Said quickly, but sincerely, as if you just bumped into someone.
+Hash: C03140DD, Key: Line29.BAE4, Value: Thanks.
+Hash: 2F3AA70A, Key: VoiceDir29.BAE4, Value: Said quickly, but sincerely, as if just handed a small gift.

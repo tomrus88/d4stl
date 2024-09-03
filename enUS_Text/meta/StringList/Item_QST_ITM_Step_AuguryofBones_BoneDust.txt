@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bone Dust
+Hash: F5C7BC0A, Key: Flavor, Value: Powdered remains from the ancient dead of the Valley of the Strayed.

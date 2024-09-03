@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: The Beast in Ice
+Hash: EEB7912D, Key: AffixDesc, Value: Face a more challenging Beast in Ice at the end of this frozen cave.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Defensive Posture
+Hash: 003892BF, Key: desc, Value: Increases the amount of {c_important}{u}Fortify{/u}{/c} you gain from all sources by {c_number}[{SF_0} * 100|%+|]{/c} and you gain {c_number}[{SF_1} * 100|%|]{/c} Damage Reduction while {c_important}{u}Fortified{/u}{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Fortify{/u}{/c} Bonus {icon:arrow,1.2} {c_number}[{SF_0}*100|%+|]{/c}
+{icon:bullet,1.2} Damage Reduction while {c_important}{u}Fortified{/u}{/c} {icon:arrow,1.2} {c_number}[{SF_1}*100|%|]{/c}

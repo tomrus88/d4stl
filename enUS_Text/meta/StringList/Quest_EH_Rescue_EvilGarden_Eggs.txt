@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Eradication
+Hash: 1EADAE68, Key: Callback2Header, Value: Destroy the Nangari Eggs: {LEFT}
+Hash: E9B1E11B, Key: Callback50Header, Value: Enter {EVENT_LEVELAREA}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Event Complete
+Hash: CB4D78C0, Key: Callback46Header, Value: {TIMELEFT} remaining
+Hash: F0CB5F43, Key: Callback67Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: D53BFF05, Key: Phase0Description, Value: Enter the Nangari hatchery and destroy their eggs

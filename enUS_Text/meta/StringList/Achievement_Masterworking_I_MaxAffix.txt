@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Focused Design
+Hash: 003892BF, Key: Desc, Value: Have a piece of gear roll all its Masterworking upgrades into one affix.

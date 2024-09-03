@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cruenta Via
+Hash: A646FFA4, Key: Description, Value: Blood anoints those who spill it. To be awash in the life of another is to know true power.
+Hash: 083EE0CE, Key: Quote, Value: Everything in service of bloodshed.
+Hash: 13A53A8B, Key: Series, Value: "Bathed in Blood" Accessories

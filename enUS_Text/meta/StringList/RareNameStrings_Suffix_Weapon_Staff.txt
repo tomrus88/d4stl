@@ -1,0 +1,25 @@
+Hash: ECA91225, Key: Staff001, Value: Staff
+Hash: ECA91226, Key: Staff002, Value: Rod
+Hash: ECA91227, Key: Staff003, Value: Cane
+Hash: ECA91228, Key: Staff004, Value: Beam
+Hash: ECA91229, Key: Staff005, Value: Cypress
+Hash: ECA9122A, Key: Staff006, Value: Oak
+Hash: ECA9122B, Key: Staff007, Value: Willow
+Hash: ECA9122C, Key: Staff008, Value: Walking Stick
+Hash: ECA9122D, Key: Staff009, Value: Spruce
+Hash: ECA91245, Key: Staff010, Value: Pointer
+Hash: ECA91246, Key: Staff011, Value: Focus
+Hash: ECA91247, Key: Staff012, Value: Bane
+Hash: ECA91248, Key: Staff013, Value: Post
+Hash: ECA91249, Key: Staff014, Value: Rod
+Hash: ECA9124A, Key: Staff015, Value: Dominion
+Hash: ECA9124B, Key: Staff016, Value: Conductor
+Hash: ECA9124C, Key: Staff017, Value: Baton
+Hash: ECA9124D, Key: Staff018, Value: Pilon
+Hash: ECA9124E, Key: Staff019, Value: Cane
+Hash: ECA91266, Key: Staff020, Value: Pillar
+Hash: ECA91267, Key: Staff021, Value: Obelisk
+Hash: ECA91268, Key: Staff022, Value: Boom
+Hash: ECA91269, Key: Staff023, Value: Rail
+Hash: ECA9126A, Key: Staff024, Value: Rib
+Hash: ECA9126B, Key: Staff025, Value: Reach

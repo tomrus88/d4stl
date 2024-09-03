@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Lilith’s return was prophesied?” 
+Hash: 294970C2, Key: Line27.6D03F, Value: There was a prophecy, yes. It foretold the rise of the Prime Evils. The return of Lilith and Inarius. The doom of our world.
+Hash: 797F9C8F, Key: VoiceDir27.6D03F, Value: Somewhat reluctant to get into details
+Hash: C33DEA44, Key: Line29.6D03F, Value: Inarius adopted the prophecy for his own selfish purposes—put it in the Cathedral of Light’s gospel and made it seem like he would be the hero to save us.

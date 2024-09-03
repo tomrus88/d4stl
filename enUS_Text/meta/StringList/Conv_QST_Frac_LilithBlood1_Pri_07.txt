@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What makes Nevesk so important?"
+Hash: 8F20EA94, Key: Line1.163AA1, Value: It is not important. It is a vile shithole.
+Hash: DF571661, Key: VoiceDir1.163AA1, Value: Emphasis: not
+Hash: 67A49456, Key: Line3.163AA1, Value: But to you? To you, it is a place of birth.
+Hash: 40283E18, Key: Line5.163AA1, Value: Ach. You will see.
+Hash: 905E69E5, Key: VoiceDir5.163AA1, Value: dismissive, as if he couldn't be bothered to explain it

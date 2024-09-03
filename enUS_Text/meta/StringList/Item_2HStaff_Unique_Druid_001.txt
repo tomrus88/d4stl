@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Witchborne Rod
+Hash: 003DFCC1, Key: Name, Value: Greatstaff of the Crone
+Hash: F5C7BC0A, Key: Flavor, Value: "She has existed in Scosglen since before Fiacla-Géar walked the land. Her purpose is a mystery to us all. However, approach her with deference; she may grant you her counsel."
+- Airidah, to Donan

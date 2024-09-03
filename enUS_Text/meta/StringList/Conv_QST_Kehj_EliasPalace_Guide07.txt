@@ -1,0 +1,10 @@
+Hash: 5A43C04B, Key: Line1.8CA44, Value: Oh… oh, no! No! Back! We need to go back!
+Hash: C94D2678, Key: VoiceDir1.8CA44, Value: high energy. True desperation and horror
+Hash: 8E083E4E, Key: Line5.6D03F, Value: What? What’s wrong?
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: genuine serious concern. Your travelling companion is horrified by something.
+Hash: 28212CD1, Key: Line7.8CA44, Value: My pipe! I left my pipe back in the chapel! We must go back and get it!
+Hash: 972A92FE, Key: VoiceDir7.8CA44, Value: This is a true life-or-death issue. Said straight with horror.
+Hash: C1F13152, Key: Line9.6D03F, Value: Old man, if you turn your back now, I’ll be the first to bury a blade in it!
+Hash: 30FA977F, Key: VoiceDir9.6D03F, Value: Angry, frustrated. Your companion is freaking out over a very minor inconvenience.
+Hash: 6F4EA45C, Key: Line11.8CA44, Value: Bah! Fine, but I won’t forget this betrayal, Deckard, you know I won’t!
+Hash: BF84D029, Key: VoiceDir11.8CA44, Value: Browbeaten and annoyed.

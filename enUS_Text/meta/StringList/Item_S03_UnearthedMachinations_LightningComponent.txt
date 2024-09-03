@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Elemental Core
+Hash: A646FFA4, Key: Description, Value: Destroy this in a Brazier to summon a Herald of Malphas.
+Hash: F5C7BC0A, Key: Flavor, Value: A concentrated mote of elemental energy woven by the Loom.

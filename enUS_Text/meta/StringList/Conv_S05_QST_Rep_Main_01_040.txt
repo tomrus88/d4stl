@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Locran Bark
+Hash: 1BE26F83, Key: Line7.1BCB9E, Value: Everyone be calm! Calm...I invited the wanderer to be our guest.
+Hash: 6C189B50, Key: VoiceDir7.1BCB9E, Value: Shouting. Commanding. Tense.
+Hash: F46620DD, Key: Line9.1BCD2B, Value: Our what?!
+Hash: 449C4CAA, Key: VoiceDir9.1BCD2B, Value: Confusion. Disbelief. Anger.

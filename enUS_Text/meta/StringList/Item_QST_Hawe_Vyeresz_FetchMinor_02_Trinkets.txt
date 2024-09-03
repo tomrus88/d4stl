@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Zakarum Prayer Amulet
+Hash: F5C7BC0A, Key: Flavor, Value: The charms lining the amulet represent the prophet Akarat’s virtues. Each Crusader is granted one upon initiation into the order. 

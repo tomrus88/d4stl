@@ -1,0 +1,89 @@
+Hash: D4574729, Key: ReportPlayer, Value: Report
+Hash: 1ACE336F, Key: Send Message, Value: Send Message
+Hash: DFB263C6, Key: RemoveFriend, Value: Remove Friend
+Hash: A26C4C22, Key: InviteToParty, Value: Invite to Party
+Hash: 9D925E9D, Key: LeaveParty, Value: Leave Party
+Hash: 31D347D2, Key: RemoveFromParty, Value: Remove from Party
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 13A1DF00, Key: Select, Value: Select
+Hash: 74D61E41, Key: AddFriend, Value: Add Friend
+Hash: E0770A26, Key: PromoteToPartyLeader, Value: Promote to Party Leader
+Hash: 4223A339, Key: ReportForHarassment, Value: Report For Harassment
+Hash: 0679BA39, Key: ReportForInappropriateBattleTag, Value: Report For Inappropriate Battletag
+Hash: 43F45988, Key: RemoveFriendTitle, Value: Remove Friend
+Hash: 3A1DB00F, Key: RemoveFriendConfirmation, Value: Are you sure you want to remove {s1} from your friends list?
+Hash: C297C582, Key: Whisper, Value: Whisper
+Hash: 87CCBB96, Key: RemovePartyMember, Value: Remove Party Member
+Hash: 096E25AC, Key: AddToFavorite, Value: Add to Favorites
+Hash: 3ABADD22, Key: RemoveFromFavorite, Value: Remove from Favorites
+Hash: A53FF4AC, Key: RequestToJoinParty, Value: Request to Join Party
+Hash: 88C60630, Key: InviteToClan, Value: Invite to Clan
+Hash: 476E55E0, Key: JoinParty, Value: Join Party
+Hash: 3E0ECBDC, Key: PromoteClanMember, Value: Promote
+Hash: F3098F94, Key: DemoteClanMember, Value: Demote
+Hash: 5060D658, Key: KickClanMember, Value: Kick from Clan
+Hash: 6F093C68, Key: MutePlayer, Value: Mute
+Hash: 1C18CBAB, Key: UnmutePlayer, Value: Unmute
+Hash: 75C4F736, Key: JoinPartyVoice, Value: Join Party Voice Chat
+Hash: A48CFE13, Key: LeavePartyVoice, Value: Leave Party Voice Chat
+Hash: 72D0F2F0, Key: ReportForInappropriateHeroName, Value: Report For Inappropriate Character Name
+Hash: 50E8C4D9, Key: RequestTrade, Value: Request Trade
+Hash: F3935979, Key: PresenceStatus, Value: Status
+Hash: B32A2EBA, Key: BlockPlayerTitle, Value: Block Player
+Hash: C6AD7901, Key: BlockPlayerConfirmation, Value: Are you sure you want to block {s1}?
+Hash: DB0FB1B8, Key: BlockPlayer, Value: Block Player
+Hash: 59A726BA, Key: Unblock_Player, Value: Unblock Player
+Hash: 5BA7EB0C, Key: BlockedPlayerTooltip, Value: This player is currently blocked.
+Hash: B76BE64A, Key: Whisper_Icon, Value: {icon:Social_Whisper, 1.5}  Whisper
+Hash: A43D90EA, Key: InviteToParty_Icon, Value: {icon:Social_RequestToJoinParty, 1.5}  Invite to Party
+Hash: 88242E13, Key: UnmutePlayer_Icon, Value: {icon:Social_VoiceChat_None, 1.5}  Unmute Player
+Hash: 2BB99CF0, Key: MutePlayer_Icon, Value: {icon:Social_VoiceChat_None, 1.5}  Mute
+Hash: B1ADE440, Key: BlockPlayer_Icon, Value: {icon:Social_Block, 1.5}  Block Player
+Hash: 42780F0E, Key: RemoveFriend_Icon, Value: {icon:Social_RemoveFriend, 1.5}  Remove Friend
+Hash: 6A63C3B8, Key: InviteToClan_Icon, Value: {icon:Social_InviteToClan, 1.5}  Invite to Clan
+Hash: 0536F0B4, Key: AddToFavorite_Icon, Value: {icon:Icon_Favorite, 1.5}  Add to Favorites
+Hash: D94EC1EA, Key: RemoveFromFavorite_Icon, Value: {icon:Social_RemoveFavorite, 1.5}  Remove from Favorites
+Hash: 56251401, Key: RequestTrade_Icon, Value: {icon:Social_Trade, 1.5}  Request Trade
+Hash: D6E0CA82, Key: Unblock_Player_Icon, Value: {icon:Social_Block, 1.5}  Unblock Player
+Hash: 83EA8E69, Key: AddFriend_Icon, Value: {icon:FriendRequest_Icon, 1.5}  Add Friend
+Hash: 74216168, Key: JoinParty_Icon, Value: {icon:Social_InviteToParty, 1.5}  Join Party
+Hash: 7603B16E, Key: PromoteToPartyLeader_Icon, Value: {icon:Social_PromotePartyLeader, 1.5}  Promote to Party Leader
+Hash: E0D1C8DE, Key: RemovePartyMember_Icon, Value: {icon:Social_RemoveFromParty, 1.5}  Remove Party Member
+Hash: A2E96845, Key: LeaveParty_Icon, Value: {icon:Social_LeaveParty, 1.5}  Leave Party
+Hash: 0DA0217B, Key: LeavePartyVoice_Icon, Value: {icon:Social_LeavePartyVoice, 1.5}  Leave Party Voice Chat
+Hash: C626F4E4, Key: PromoteClanMember_Icon, Value: {icon:Social_PromoteClanMember, 1.5}  Promote
+Hash: 908EECE0, Key: KickClanMember_Icon, Value: {icon:Social_KickClanMember, 1.5}  Kick from Clan
+Hash: 27918851, Key: ReportPlayer_Icon, Value: {icon:Social_ReportPlayer, 1.5}  Report Player
+Hash: 67CA86F7, Key: SendMessage_Icon, Value: {icon:Social_Invitation, 1.5}  Send Message
+Hash: 3288CB9C, Key: DemoteClanMember_Icon, Value: {icon:Social_DemoteClanMember, 1.5}  Demote 
+Hash: 87821FB4, Key: RequestToJoinParty_Icon, Value: {icon:Social_RequestToJoinParty, 1.5}  Request to Join Party
+Hash: 5F60487E, Key: JoinPartyVoice_Icon, Value: {icon:Social_JoinPartyVoice, 1.5}  Join Party Voice Chat
+Hash: A83CA42C, Key: ViewProfile, Value: View Profile
+Hash: 29587F34, Key: ViewProfile_Icon, Value: {icon:Social_ViewProfile, 1.5}  View Profile
+Hash: 44BBE1F0, Key: ShowClanProfile, Value: {icon:Social_ViewClanProfile, 1.5}  Show Clan Profile
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 2196EE6F, Key: BanClanMember_Icon, Value: {icon:Social_BanPlayer, 1.5}  Ban
+Hash: 2EF8EC7A, Key: SetFriendNote, Value: {icon:Social_Note_Icon, 1.5}  Set Friend Note
+Hash: 17A95CA2, Key: NoteCharacterLimit, Value: Character Limit: {c:FFdba864}{s1}{/c} / 127
+Hash: 226271DC, Key: NoteTypeHere, Value: Type here...
+Hash: 0AB81B4B, Key: SetNoteHeader, Value: Set a Note
+Hash: 8873A5E2, Key: SetNote, Value: Set Note
+Hash: CAD07D92, Key: BlockPlayerConfirmationExtended, Value: Are you sure you want to block {s1}? This will apply to all characters associated with the account and also:
+
+{s2}
+Hash: FE59A662, Key: BlockPlayerConfirmationExtendedParty, Value: - Remove you from this party.
+Hash: B3694CAA, Key: BlockPlayerConfirmationExtendedFriend, Value: - Remove them from your friends list.
+Hash: FEAB1062, Key: BlockPlayerConfirmationExtendedTrade, Value: - Cancel this trade
+Hash: 935AA60F, Key: DethroneClanMember, Value: Dethrone
+Hash: 1DE226F7, Key: DethroneClanMember_Icon, Value: Dethrone
+Hash: D086F65F, Key: ViewConsoleProfile, Value: View Console Profile
+Hash: C1A3304D, Key: SetNote_Info, Value: This note is for your own personal reference only you can see. 
+Hash: C31F4D24, Key: SetNoteTitle, Value: Set Player Note
+Hash: 699AA815, Key: InviteToGameIcon, Value: {icon:Social_RequestToJoinParty, 1.5}  Invite to Game
+Hash: 7403958C, Key: BlockPlayerConfirmationWithHeroName, Value: Are you sure you want to block {s1} ({s2})?
+Hash: 35A0FB9D, Key: BlockPlayerConfirmationExtendedWithHeroName, Value: Are you sure you want to block {s1} ({s2})? This will apply to all characters associated with the account and also:
+
+{s3}
+Hash: 161196AB, Key: ViewCedarProfile, Value: View Steam Profile
+Hash: 5A30EF43, Key: DeclineAndReport, Value: Decline & Report
+Hash: 8F1EE287, Key: BanClanMember, Value: Ban

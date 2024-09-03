@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm not going to hurt you."
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: You're not one of those things? Oh, thank the gods!
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: You realize the player is not a demon here to kill you.
+Hash: F75EA61F, Key: Line3.F52ED, Value: I am Aneta. I was looking for flowers for my mother when suddenly there was f-fire--fire everywhere. And those horrible creatures!
+Hash: 66680C4C, Key: VoiceDir3.F52ED, Value: Timid, shy, still in shock.
+Hash: 91531FA1, Key: Line5.F52ED, Value: My mother, she's sick. I can't go home empty handed. Please, will you help me? In case those things come back!
+Hash: 005C85CE, Key: VoiceDir5.F52ED, Value: timid, pleading, scared.

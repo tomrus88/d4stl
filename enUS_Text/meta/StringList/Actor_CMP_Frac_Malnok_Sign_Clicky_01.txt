@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Frozen Villagers
+Hash: F2CA04D8, Key: NoticeSignText, Value: Trapped by the Khazra's icy storm, these villagers' shelter became their tomb.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Tending Nature
+Hash: 92C33198, Key: Phase12Description, Value: Defend yourself
+Hash: 85A4CA58, Key: Callback11Header, Value: Deal with the poachers
+Hash: AE775FBE, Key: Callback80Header, Value: Deal with the poachers

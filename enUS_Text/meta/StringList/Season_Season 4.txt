@@ -1,0 +1,4 @@
+Hash: EA23DD2A, Key: SeasonName, Value: Season of Loot Reborn
+Hash: 5DD12FED, Key: SeasonDescription, Value: Temper your gear and stand alongside the Iron Wolves against the rising Helltide that threaten to spread corruption and chaos across Sanctuary.
+Hash: 1CBFC5D3, Key: SeasonBeginText, Value: Begins {s1}
+Hash: BD77CD05, Key: SeasonEndText, Value: Ends {s1}

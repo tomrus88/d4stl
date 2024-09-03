@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Heretic Hidden
+Hash: 0871A46B, Key: Toast, Value: Controls ash statues in Crossway

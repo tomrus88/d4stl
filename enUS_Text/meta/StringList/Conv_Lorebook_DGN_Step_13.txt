@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Mystic’s Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mystic’s Journal
+Hash: 5D22660D, Key: Line1.B675B, Value: This foreigner dares bring his army to this sacred place! Long have we endured their ignorance and false faith, meddling with powers beyond their understanding.
+Hash: F716DF8F, Key: Line3.B675B, Value: Now they will bear the weight of that folly for eternity.

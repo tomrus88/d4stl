@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: {c_red}PvP:{/c} Seething Abomination
+Hash: 0871A46B, Key: Toast, Value: One who violates their pact with the Tree of Whispers will always pay the inevitable price.
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat the {MONSTER}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sacred Triune Arms Cache
+Hash: A646FFA4, Key: Description, Value: Contains an assortment of items as well as a Sacred Legendary Item with 650 Item Power.

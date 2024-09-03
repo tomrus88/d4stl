@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You have a worried face, elder. Is there anything I can aid with?"
+Hash: 5D73367D, Key: Line1.EECCF, Value: The fly swarms plaguin’ us. We’ve done all we could: burnin’ corpses, coverin’ open water, rubbin' ourselves with gallowvine. Barely done any good.
+Hash: CC7C9CAA, Key: VoiceDir1.EECCF, Value: World weary, Concerned, Thick accent
+Hash: 915C2981, Key: Line5.EECCF, Value: Folk have had heavier worries on their minds, but the flies bit our last milkin’ cow to death.
+Hash: F767AFFF, Key: Line3.EECCF, Value: The problem ain’t going away by ignorin’ it. I have some coin saved if ye can help with the infestation.

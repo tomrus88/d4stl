@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Battle Caster's
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} When your {c_important}Conjuration{/c} Skills hit you have up to a {c_random}[Affix_Value_1|%|]{/c} chance to gain {c_number}+[Affix."Static Value 0"]{/c} Rank to your {c_important}Conjuration{/c} skills for {c_number}[Affix."Static Value 1"]{/c} seconds.  This can stack up to {c_number}[Affix."Static Value 2"]{/c} times.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Conjuration{/c} Skill hits have a {c_random}[Affix_Value_1|%|]{/c} chance to grant {c_number}+[Affix."Static Value 0"]{/c} Ranks to your {c_important}Conjuration{/c} skills.

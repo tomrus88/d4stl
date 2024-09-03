@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Descent into Delirium
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Elite Monsters while using the Profane Mindcage during {icon:Marker_Helltide, 2.5} Helltide in {icon:Icon_WorldTier_3, 2} Nightmare or higher

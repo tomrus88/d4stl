@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pile of Coins
+Hash: F2CA04D8, Key: NoticeSignText, Value: A wish from a simpler time when these waters held magic, not bodies.

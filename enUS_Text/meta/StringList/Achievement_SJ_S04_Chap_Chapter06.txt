@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Champion
+Hash: 003892BF, Key: Desc, Value: At this point, you know how to get stronger, and what challenges lie in store for you. Can you overcome them?

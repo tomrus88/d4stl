@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Let’s find Stana."
+Hash: 5D201C8E, Key: Line1.B20BA, Value: There are so many terrible memories etched into this place. Memories I hoped to forget.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, somewhat somber; recalling shameful past
+Hash: F7149610, Key: Line3.B20BA, Value: It’s only right she joins them.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: cold, blunt
+Hash: 91090F92, Key: Line5.B20BA, Value: Come.
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: cold, blunt

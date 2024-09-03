@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sanguine Channeler
+Hash: CC38ADCB, Key: FlavorName, Value: Speaker for the Damned

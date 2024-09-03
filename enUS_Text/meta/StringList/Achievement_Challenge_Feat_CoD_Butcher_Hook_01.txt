@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Haunted by Duty
+Hash: 003892BF, Key: Desc, Value: Participated in the Haunting event in Call of Duty.

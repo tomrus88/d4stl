@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Vhenard goes down
+Hash: 722D41CF, Key: Line11.B6582, Value: Ahhhhh!
+Hash: C2636D9C, Key: VoiceDir11.B6582, Value: screams out in terror and exhaustion
+Hash: C1F212B9, Key: Line9.6DE47, Value: No!
+Hash: 0C21BB51, Key: Line13.B6582, Value: (dying breaths)

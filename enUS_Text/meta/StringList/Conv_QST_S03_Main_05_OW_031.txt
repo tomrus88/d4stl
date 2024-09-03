@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What is the Loom, exactly? What purpose does it serve?”
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: (chuckles) I will answer, but you will wish you hadn’t asked.
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: with a self-effacing chuckle
+Hash: 4065B98F, Key: Line5.18AEA4, Value: You are familiar with the principle of dispersion, yes? Our world trends toward decay. Fire turns to embers, water to mist, and so on. Elements disperse, reorganizing into less useful forms.
+Hash: 18E96351, Key: Line7.18AEA4, Value: Zoltun and I believed that this process could be undone. Inert energy could be spun into streams of elemental force–much as sorcerers summon fire from air.
+Hash: F16D0D13, Key: Line9.18AEA4, Value: The Loom was the culmination of this theory. It is a forge that never goes out, never needs wood or coal. A thing of pure creation.
+Hash: 41A338E0, Key: VoiceDir9.18AEA4, Value: softened by the love of the work

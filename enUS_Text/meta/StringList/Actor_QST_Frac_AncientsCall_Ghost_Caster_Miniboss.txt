@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cyhrach the First Born
+Hash: CC38ADCB, Key: FlavorName, Value: Deathless Ancient

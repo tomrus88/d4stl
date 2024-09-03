@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bear Cub Bale
+Hash: A646FFA4, Key: Description, Value: In just a few short years, this adorable cub will gain enough size and strength to rip a man's arm clean off.
+Hash: 083EE0CE, Key: Quote, Value: Miniature mauler of the frozen wastes.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Accessories

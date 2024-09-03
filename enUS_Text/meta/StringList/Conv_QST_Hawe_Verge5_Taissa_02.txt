@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Swamp Taissa
+Hash: 5A196F77, Key: Line1.789BF, Value: Good. Make haste, the Horadrim tires of waiting. Set the swamp's gift in the pot to brew a tea.
+Hash: F427C5EC, Key: Line3.7FA05, Value: I simply think this is a waste of your time, and mine.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Grumbling

@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Bred in the Fields of Judgment below the Alabaster Monastery, attendants say the steeds are suffuse with His radiant energy.
+Hash: 003DFCC1, Key: Name, Value: Shelter of Light's Messenger
+Hash: 13A53A8B, Key: Series, Value: "Heaven-Sent"

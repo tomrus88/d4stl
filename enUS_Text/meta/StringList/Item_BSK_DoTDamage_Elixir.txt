@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Vitriol
+Hash: A646FFA4, Key: Description, Value: Increases your DoT Damage by 2% for every completed wave in the Infernal Hordes.
+
+Bonus is only applied in the Infernal Hordes.
+Only one Anointment can be active at one time.

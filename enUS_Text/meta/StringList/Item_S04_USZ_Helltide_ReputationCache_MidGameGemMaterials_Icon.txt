@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolves Vanity Chest
+Hash: A646FFA4, Key: Description, Value: Gemstones and accessories confiscated from the Iron Wolves to stop them from getting distracted.

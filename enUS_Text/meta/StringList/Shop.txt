@@ -1,0 +1,32 @@
+Hash: 07ECDCAD, Key: SellValue, Value: {c_gold}Sell Value:{/c_gold} {COST}
+Hash: 003830F9, Key: Cost, Value: {c_gold}Cost {QUICK_BUY_INDICATOR}:{/c} {COST}
+Hash: 00C36180, Key: SellValueCannotSell, Value: {c_gold}Sell Value:{/c_gold} Cannot Be Sold
+Hash: EF36ADF4, Key: Create, Value: Create
+Hash: F765AFCB, Key: TimeToComplete, Value: Time to complete:
+Hash: B6C11B92, Key: BlackSmithFee, Value: Blacksmith Fee:
+Hash: A4226C81, Key: Required, Value: Required
+Hash: 0AEDD7D8, Key: OnHand, Value: On Hand
+Hash: F3347DE2, Key: Materials, Value: Materials
+Hash: 15B2F9BE, Key: RecipeDetails, Value: Recipe Details
+Hash: 1A555E5B, Key: Repair_Cost, Value: Repair Cost: 
+Hash: F782D3D1, Key: Add_Socket, Value: Add Socket: 
+Hash: 917BCF61, Key: Buyback, Value: Buyback
+Hash: F82DA0A7, Key: AvailableGold, Value: Your Available Gold:
+Hash: 2429F1D4, Key: TabWeapons, Value: Weapons
+Hash: 245AB338, Key: TabArmor, Value: Armor
+Hash: DFDA804B, Key: TabTrinkets, Value: Trinkets
+Hash: CAD2E103, Key: TabMisc, Value: Miscellaneous
+Hash: 19C96A3A, Key: MysteryValue, Value: ???
+Hash: FA9FE1D8, Key: TabBuyback, Value: Buyback Items
+Hash: B2E3AB16, Key: Warning, Value: This is a special item that cannot be replaced. Are you sure you want to sell this?
+Hash: AA77CCF6, Key: AvailableBloodShards, Value: Your Available Red Dust:
+Hash: ABB49791, Key: InventoryReset_Countdown, Value: {s1}
+Hash: 9C512B7B, Key: Purchase, Value: Purchase
+Hash: 0040CB90, Key: Sell, Value: Sell
+Hash: FCEB98F4, Key: InBags, Value: {c_gold}In bags:{/c} {s1}
+Hash: 1AA26EEE, Key: Vendor, Value: Vendor
+Hash: BA4CE54E, Key: Inventory, Value: Inventory
+Hash: F4F7BC15, Key: BuybackBlocked, Value: Unable to sell items to this vendor.
+Hash: 1BA4C270, Key: InventoryReset_Label, Value: New Stock Delivery
+Hash: 6811656A, Key: QuickBuyIndicator, Value: (x{QUICKBUY_STACK_AMOUNT})
+Hash: 788A31FE, Key: CannotPurchase, Value: No more items left to purchase.

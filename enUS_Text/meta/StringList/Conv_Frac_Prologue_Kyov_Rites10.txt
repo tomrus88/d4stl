@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It is done."
+Hash: 5D0EB0AA, Key: Line1.A393C, Value: Good. You must feel as though a great weight has been lifted from you.
+Hash: F7032A2C, Key: Line3.A393C, Value: Welcome to Kyovashad.

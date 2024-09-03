@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you ready?"
+Hash: F427C5EC, Key: Line3.7FA05, Value: Let us begin.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Takes a deep breath before he speaks--preparing himself for what's to come

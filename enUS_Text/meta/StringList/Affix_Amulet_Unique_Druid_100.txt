@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Boulder{/c} while {c_important}Hurricane{/c} is active causes the {c_important}Boulder{/c} to rotate around you instead. {c_important}Boulder's{/c} damage is increased by {c_random}[Affix_Value_1 * 100|%x|]{/c} for each one currently rotating.
+
+You may have up to {c_number}10{/c} {c_important}Boulders{/c} active at a time.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Faded Entry
+Hash: F2CA04D8, Key: NoticeSignText, Value: “The Sigils of Dendas. Dated ~1000, found 1245 in the ashes of Old Tristram. Horadric ritual for the attunement of demonic energies—"

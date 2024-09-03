@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Blood Font
+Hash: A646FFA4, Key: Description, Value: A desecrated vessel used by the Triune as part of their rituals.

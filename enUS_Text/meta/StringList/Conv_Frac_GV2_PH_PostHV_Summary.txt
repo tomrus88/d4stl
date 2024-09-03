@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I found this book.”
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Interesting. This ledger was written by the Horadrim. This is chronicling spells and theories created by Rathma, the first necromancer.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Surprised, intrested
+Hash: 6C378A39, Key: Line16.BAE4, Value: That’s not what we are looking for.
+Hash: DB40F066, Key: VoiceDir16.BAE4, Value: patient
+Hash: 27FD9937, Key: Line7.6DE47, Value: No, but it can still work. There must be a spell in this book we can use to bring my mother back. She knows the ritual to cross the Black Lake.
+Hash: 9706FF64, Key: VoiceDir7.6DE47, Value: Determined
+Hash: AB32D334, Key: Line20.BAE4, Value: Are you sure this is a good idea?
+Hash: 1A3C3961, Key: VoiceDir20.BAE4, Value: concered
+Hash: 8A02BA09, Key: Line18.6DE47, Value: It’s all we have. My mother will help us through.
+Hash: DA38E5D6, Key: VoiceDir18.6DE47, Value: Determined
+Hash: A8672264, Key: Line22.6DE47, Value: Meet me down there.
+Hash: F89D4E31, Key: VoiceDir22.6DE47, Value: Determined

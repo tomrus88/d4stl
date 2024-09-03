@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Return to Hell
+Hash: 003892BF, Key: Desc, Value: Gained access to face the Infernal Hordes.
+Hash: 3DB67AA9, Key: Crit_244950, Value: The Eyes of the Enemy
+Hash: 3DB67AAA, Key: Crit_244951, Value: Inside the Black Tomb
+Hash: 3DB67AAB, Key: Crit_244952, Value: To the Edge of the Abyss

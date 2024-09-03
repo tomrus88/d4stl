@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_bonus}Battle Hardened{/c}
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Gain 6% damage reduction for every 10% Health you are missing.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Gain 5% damage reduction for every 10% Health you are missing.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Gain 4% damage reduction for every 10% Health you are missing.

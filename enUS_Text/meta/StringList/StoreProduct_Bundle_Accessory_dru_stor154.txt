@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sacred Ivories
+Hash: A646FFA4, Key: Description, Value: Some Nahantu locals have been known to make gifts for the Tusked Lord, believing the spirits favor him. Others simply enjoy his presence, laughing from the jungle.
+Hash: 083EE0CE, Key: Quote, Value: Gifts for the jovial beast.
+Hash: 13A53A8B, Key: Series, Value: "The Tusked Lord" Accessories

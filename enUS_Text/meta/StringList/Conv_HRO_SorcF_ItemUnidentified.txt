@@ -1,0 +1,3 @@
+Hash: 62C1910C, Key: Line13.BAE4.Sor.F, Value: This is unfamiliar to me.
+Hash: 93B4EE6D, Key: Line14.BAE4.Sor.F, Value: I must identify this first.
+Hash: C4A84BCE, Key: Line15.BAE4.Sor.F, Value: I cannot use this until it is identified.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What can you tell me of Jirandai?"
+Hash: 5D6B5E54, Key: Line1.F78B6, Value: It's the safest town this side of the Steppes. Good bones...built on the shoulders of the Old Empire. You and your coin are most welcome here.

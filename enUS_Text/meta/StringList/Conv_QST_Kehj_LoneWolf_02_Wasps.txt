@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Found Corpse
+Hash: 4429BC17, Key: Line4.BC41C, Value: Demon maggots? This is the poison they're feeding us?
+Hash: B3332244, Key: VoiceDir4.BC41C, Value: Shock. Disgust. Anger.
+Hash: DE1E3599, Key: Line6.BC41C, Value: We must find every cage. Destroy them all.
+Hash: 4D279BC6, Key: VoiceDir6.BC41C, Value: Bitter anger. Determination.

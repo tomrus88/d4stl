@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are we going to stop Elias?"
+Hash: 5A196F77, Key: Line1.789BF, Value: We must break his hold on immortality. He cannot continue to escape his judgment.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Yes, and without Elias, we may have more success against Lilith. Where do we start?
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: [contemplative] 
+Hash: 8E02627B, Key: Line5.789BF, Value: Seek out Timue in the marshes. She traded with the power in the swamp and received long life. She may have the answer to killing Elias for good.
+Hash: A313225F, Key: Line15.6D03F, Value: Neyrelle and I will start looking for her.
+Hash: 3D087D48, Key: Line17.6DE47, Value: What about Donan?
+Hash: 8D3EA915, Key: VoiceDir17.6DE47, Value: Donan is in a different part of the village at the moment--not near the group.
+Hash: D6FC1563, Key: Line19.6D03F, Value: He has his hands full with the soulstone. A heavy burden to bear alone. Might be wise to offer him assistance.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: [contemplative] 

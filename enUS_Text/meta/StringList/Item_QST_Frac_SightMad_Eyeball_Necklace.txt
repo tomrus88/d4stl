@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Necklace of Eyes
+Hash: F5C7BC0A, Key: Flavor, Value: This necklace contains a pair of eyeballs hooked into the small chain. While still wet to the touch, the pupils can also be observed dilating as if alive. 

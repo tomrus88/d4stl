@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Gale Keeper
+Hash: A646FFA4, Key: Description, Value: Most call these druids heretical, but a few call them savvy. Gale Keepers pass through Cathedral controlled areas relatively unharmed.
+Hash: 083EE0CE, Key: Quote, Value: These Druids of the Fractured Peaks have enfolded the Light into their Ways.
+Hash: 13A53A8B, Key: Series, Value: Druid Armor

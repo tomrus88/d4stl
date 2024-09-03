@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crates of Illicit Goods
+Hash: F2CA04D8, Key: NoticeSignText, Value: All manner of alcohol hailing from all of Sanctuary’s sunless corners, collected here. Even the dregs of society need a taste of home it seems.

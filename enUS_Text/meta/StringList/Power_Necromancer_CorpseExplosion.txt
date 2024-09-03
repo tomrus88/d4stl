@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Corpse Explosion
+Hash: 003892BF, Key: desc, Value: {if:SF_10}{c_label}Essence Cost:{/c} {c_resource}{Resource Cost}{/c}
+{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:20}|%|]{/c}
+{/if}{if:Mod.Miasma}Release a vile miasma from a Corpse, dealing {c_number}{dot:MIASMA_DOT_TOOLTIP}{/c} Shadow damage over {c_number}{buffduration:MIASMA_DOT_TOOLTIP}{/c} seconds.{else}Detonate a Corpse, dealing {c_number}{payload:DAMAGE}{/c} damage to surrounding enemies.{/if}
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {if:Mod.Miasma}{c_number}{dot:MIASMA_DOT_TOOLTIP}{/c}{else}{c_number}{payload:DAMAGE}{/c}{/if}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Corpse Explosion's{/c} radius is increased by {c_number}[{SF_1}*100|%|]{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Corpse Explosion
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Corpse Explosion{/c} becomes a {c_important}Darkness{/c} Skill and, instead of exploding, releases a vile miasma dealing {c_number}{dot:MIASMA_DOT_TOOLTIP}{/c} Shadow damage over {c_number}{SF_12}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Blighted Corpse Explosion
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Corpse Explosion{/c} deals {c_number}[{SF_15}*100|%x|]{/c} increased damage to enemies that are Slowed, Stunned or {c_important}{u}Vulnerable{/u}{/c}. These damage bonuses can stack.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Plagued Corpse Explosion

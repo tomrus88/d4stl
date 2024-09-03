@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: For every {c_number}{SF_0}{/c} seconds in Cooldowns you spend, you spawn an {c_important}Ice Blades{/c} on a random enemy.
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Ice Blades Enchantment
+Hash: 2827F416, Key: Buff0_Description, Value: Cooldowns spawn {c_important}Ice Blades{/c}.

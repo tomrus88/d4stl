@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you wounded? Where is the Abbot?"
+Hash: 5A15710D, Key: Line1.71176, Value: The Abbot...opened the door! And the pale devil smiled. He took the forbidden knowledge!
+Hash: C91ED73A, Key: VoiceDir1.71176, Value: Disturbed, then loudly horrified.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: Shh, it's all right. I've cleared the way out. Can you walk?
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: Urgent. Hushed. Trying to calm the monk before he alerts more ghosts.
+Hash: C1E75715, Key: Line9.71176, Value: There is no way out! What knowledge remains must never leave...
+Hash: 30F0BD42, Key: VoiceDir9.71176, Value: Humorless laughing. Disturbed.
+Hash: 6F20551E, Key: Line11.71176, Value: "Unto Evening, I shall keep it safe! And into the Night hereafter!"
+Hash: BF5680EB, Key: VoiceDir11.71176, Value: Crazed. Shouting a sacred oath to the rafters.
+Hash: 0914CEA0, Key: Line13.71176, Value: We must. Protect. The Archive.
+Hash: 594AFA6D, Key: VoiceDir13.71176, Value: Disturbed. Dark.

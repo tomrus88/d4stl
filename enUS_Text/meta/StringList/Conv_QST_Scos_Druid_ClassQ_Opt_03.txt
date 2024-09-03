@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have purged the evil from this place! What comes next?"
+Hash: F74BB2AF, Key: Line3.E2C66, Value: Greetings, Druid. Return once you are more powerful - we have much to accomplish.

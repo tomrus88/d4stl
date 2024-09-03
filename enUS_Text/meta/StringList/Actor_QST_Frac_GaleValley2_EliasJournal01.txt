@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Old Journal
+Hash: F2CA04D8, Key: NoticeSignText, Value: Donan brought a book on his visit. The writing is ancient! A scroll from the Vizjerei. Lorath will not be pleased. But if I’m to fight by his side one day, I need to study everything. Lorath is wise but he's cautious. I’ll prove myself to him yet.

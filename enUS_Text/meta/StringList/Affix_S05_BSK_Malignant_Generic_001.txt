@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: of the Dark Dance
+Hash: 003892BF, Key: Desc, Value: Every {c_number}[Affix."Static Value 1"]{/c} seconds, your next {c_important}Core{/c} Skill costs {c_random}[Affix_Flat_Value_1]{/c} Life instead of Primary Resource. Will only occur if you have at least {c_number}[Affix."Static Value 0"]%{/c} of your Maximum Life.
+
+Skills that consume Life deal {c_number}[Affix_Value_1|x%|]{/c} increased damage.

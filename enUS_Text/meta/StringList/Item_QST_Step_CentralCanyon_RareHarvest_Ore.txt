@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Strange Ore Sample
+Hash: F5C7BC0A, Key: Flavor, Value: A small, unusual piece of ore found while mining in the Dry Steppes.

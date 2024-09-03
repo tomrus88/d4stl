@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloated Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: The bloated remains are slimy and gray from decay. Small tendrils of hair cling to the body.

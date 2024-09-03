@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why are you doing this?"
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: On my way here, I passed the old orphanage in the bazaar. I grew up in one just like it. No family by blood, but dozens of brothers, sisters...
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Somber. Heavy.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: It was filled with children like them when we arrived with the Mother. A few of them came out to fight us. One was barely ten years old, holding a plank of wood...
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Somber. Heavy. Trailing off in memory.
+Hash: A97D1E50, Key: Line22.1BCB9E, Value: I told myself I was sparing him from the horror to come... but standing here, I imagine how he felt. Knowing I can’t win. But knowing I have to fight.
+Hash: 0078C3BD, Key: VoiceDir22.1BCB9E, Value: Coming to the point. Somber. Heavy.

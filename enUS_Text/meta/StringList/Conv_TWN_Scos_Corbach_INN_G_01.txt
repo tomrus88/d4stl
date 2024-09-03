@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you have on offer?"
+Hash: 5D6C7525, Key: Line1.F9924, Value: Ugh, no ration card, no food. And no rooms for visitors.
+Hash: CC75DB52, Key: VoiceDir1.F9924, Value: short

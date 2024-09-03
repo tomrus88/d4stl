@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Map
+Hash: F2CA04D8, Key: NoticeSignText, Value: The Tides of Hell are precisely outlined, each with a fiery sigil at its epicenter. Lines radiate from these sigils to converge on a single location: the Black Tomb of Sankekur.

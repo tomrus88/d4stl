@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Frostbite
+Hash: 003892BF, Key: Desc, Value: Freeze enemies 500 times.

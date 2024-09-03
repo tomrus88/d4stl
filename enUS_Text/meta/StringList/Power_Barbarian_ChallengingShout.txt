@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Challenging Shout
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+Taunt Nearby enemies and gain {c_number}[{SF_11} * 100|%|]{/c} Damage Reduction for  {c_number}[{SF_2}|1|]{/c} seconds.
+Hash: F2DE8628, Key: simple_desc, Value: Warlord Skill:  Taunt nearby enemies and take less damage, generating bonus fury when struck.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage Reduction {icon:arrow, 1.2} {c_number}[{SF_11} * 100|%|]{/c}
+Hash: 171B8FF7, Key: Buff4_Name, Value: Challenging Shout
+Hash: 65A41A1A, Key: Buff4_Description, Value: Reduce damage taken
+Hash: 1394CF37, Key: Mod4_Description, Value: While {c_important}Challenging Shout{/c} is active, gain {c_number}[{SF_17} *100|%x|]{/c} bonus Maximum Life.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Enhanced Challenging Shout
+Hash: 62F3D8B8, Key: Mod5_Description, Value: While {c_important}Challenging Shout{/c} is active, you gain {c_number}{SF_4}{/c} Fury each time you take damage.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Tactical Challenging Shout
+Hash: B252E239, Key: Mod6_Description, Value: While {c_important}Challenging Shout{/c} is active, gain Thorns equal to {c_number}[{SF_12} * 100|%|]{/c} of your Maximum Life.
+Hash: A032CCF6, Key: Mod6_Name, Value: Strategic Challenging Shout

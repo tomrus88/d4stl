@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Reap
+Hash: 003892BF, Key: desc, Value: {if:SF_16}{c_label}Essence Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{c_label}Generate Essence:{/c_label} {c_resource}{SF_2}{/c_resource} per enemy hit
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Sweep an ethereal scythe in front of you, dealing {c_number}{payload:DAMAGE}{/c} damage. Hitting an enemy with {c_important}Reap{/c} increases your Damage Reduction by {c_number}[{SF_8}*100|%|]{/c} for {c_number}{buffduration:DAMAGE_REDUCTION}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
+Hash: 2070327B, Key: Buff8_Name, Value: Enhanced Reap
+Hash: A320401E, Key: Buff8_Description, Value: Attack Speed increased.
+Hash: C435C5B6, Key: Mod3_Description, Value: If an enemy hit by {c_important}Reap{/c} dies within {c_number}{SF_4}{/c} seconds, you gain {c_number}[{SF_5} * 100|%+|]{/c} Attack Speed for {c_number}{buffduration:MOD_ATTACK_SPEED}{/c} seconds.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Reap
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Reap{/c} forms a Corpse under the first enemy hit. Can only occur every {c_number}{SF_6}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Acolyte's Reap
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Reap{/c} instantly kills enemies below {c_number}[{SF_7}*100|%|]{/c} Life. This does not work on Bosses or Players.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Initiate's Reap

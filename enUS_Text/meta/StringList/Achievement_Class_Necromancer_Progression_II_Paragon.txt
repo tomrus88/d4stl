@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Priest of Rathma
+Hash: 003892BF, Key: Desc, Value: Unlock 2 Legendary Paragon Nodes as a Necromancer. 

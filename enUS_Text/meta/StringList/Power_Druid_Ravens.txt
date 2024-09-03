@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Ravens
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:18}|%|]{/c}
+{/if}{c_label}Passive{/c}: {c_number}{SF_1}{/c} |4Raven:Ravens; |4flies:fly; above you and periodically |4attacks:attack; your enemies for {c_number}{payload:TOOLTIP_DAMAGE}{/c} damage every {c_number}{SF_2}{/c} seconds.
+
+{c_label}Active{/c}: The target area is swarmed with ravens, dealing {c_number}{payload:POOL_TOOLTIP_DAMAGE}{/c} damage over {c_number}{SF_4}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Passive Damage {icon:arrow,1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
+{icon:bullet,1.2} Active Damage {icon:arrow,1.2} {c_number}{payload:POOL_TOOLTIP_DAMAGE}{/c}
+Hash: 74D6BC35, Key: Mod2_Description, Value: You have {c_number}[{SF_9}*100|%+|]{/c} increased Critical Strike Chance against enemies for {c_number}{SF_10}{/c} seconds after they are hit by {c_important}Ravens{/c} .
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Ravens
+Hash: D618A933, Key: Mod0_Description, Value: Enemies inside the swarm of {c_important}Ravens{/c} when it is activated become {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_11}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Ferocious Ravens
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_number}{SF_14}{/c} additional {c_important}Ravens{/c} periodically attack enemies. Increases the passive damage of {c_important}Ravens{/c} by {c_number}[SF_23 * 100|%x|]{/c}.
+Hash: 99335313, Key: Mod3_Name, Value: Brutal Ravens

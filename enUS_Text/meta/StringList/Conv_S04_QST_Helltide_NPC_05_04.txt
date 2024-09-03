@@ -1,0 +1,2 @@
+Hash: 923D2945, Key: Line1.1B3CA4, Value: To me!
+Hash: E2735512, Key: VoiceDir1.1B3CA4, Value: commanding, forceful

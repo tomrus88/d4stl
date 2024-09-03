@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5D3B8DF4, Key: Line1.BD31C, Value: Sanctuary was meant as an escape from the Eternal Conflict...and yet here we are...again...
+Hash: CC44F421, Key: VoiceDir1.BD31C, Value: labored exertion
+Hash: 2B18FA7A, Key: Line7.BD31C, Value: I gave you free will...and you’ve squandered it...wasting it on a crusade you don’t understand...
+Hash: 72467205, Key: Line11.BD31C, Value: You chose tyranny when offered freedom. A poor legacy for my gift.
+Hash: 0C3AEB87, Key: Line13.BD31C, Value: Without me...you would have no...victory. And its cost will be more...than you can pay.
+Hash: 5C711754, Key: VoiceDir13.BD31C, Value: wrathful

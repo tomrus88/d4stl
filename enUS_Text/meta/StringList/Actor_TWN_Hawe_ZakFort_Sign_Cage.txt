@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mossy Cage
+Hash: F2CA04D8, Key: NoticeSignText, Value: A rusty cage once used to hold deserters and enemies of the Zakarum.

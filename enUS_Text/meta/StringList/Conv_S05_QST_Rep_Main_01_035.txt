@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Istel Bark
+Hash: 48BEE006, Key: Line11.1BCD2B, Value: You?!
+Hash: 9FBA8573, Key: VoiceDir11.1BCD2B, Value: Shock. Alarm. Hatred.
+Hash: 214289C8, Key: Line13.1BCD2B, Value: Set the fires, the wanderer is on us—!
+Hash: 783E2F35, Key: VoiceDir13.1BCD2B, Value: Raising the alarm. (Interrupted at the end by Locran)

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forgotten Depths
+Hash: 003892BF, Key: Desc, Value: A shadow lies below these hallowed stones.

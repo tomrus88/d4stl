@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ravening Pit
+Hash: 003892BF, Key: Desc, Value: Craft a Brutal Invoker to clear the outgrowths within.

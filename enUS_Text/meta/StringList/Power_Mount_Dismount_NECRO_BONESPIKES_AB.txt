@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Bone Spikes
+Hash: 003892BF, Key: desc, Value: Leap from your mount and slam the ground, unleashing trails of spikes that deal {c_number}{altpayload:DAMAGE}{/c} damage and Stun enemies for {c_number}{buffduration:STUN}{/c} seconds.
+Hash: F2DE8628, Key: simple_desc, Value: Dismount - Bone Spikes

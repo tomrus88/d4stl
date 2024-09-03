@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grotesque Effigy
+Hash: F2CA04D8, Key: NoticeSignText, Value: Body parts assembled in the shape of a man, albeit distorted: shoulders too wide, hands with seven fingers, torso filled with all the wrong organs.

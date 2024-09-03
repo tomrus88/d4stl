@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Slay the Malignant
+Hash: 45172A5D, Key: Callback34Header, Value: Inspect the {GIZMO}
+Hash: 04898A62, Key: Callback57Header, Value: Inspect the {GIZMO}
+Hash: 81A7EAE2, Key: Callback93Header, Value: Defeat {MONSTER}
+Hash: 028B1AA7, Key: Callback98Header, Value: Defeat {MONSTER}
+Hash: 6573DDCA, Key: Callback103Header, Value: Defeat {MONSTER}

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cull Highland Wilds Vampires
+Hash: 0871A46B, Key: Toast, Value: The Vampires' reckless use of blood magicks is tainting the Tree's soil. Exterminate their leadership and drive them from these lands. 
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay Sanguine Magi: {DONE_OVER_NEEDED}
+Hash: A07C739F, Key: Callback18Header, Value: Slay Crimsonblades: {DONE_OVER_NEEDED}

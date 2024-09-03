@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cache of Worthy
+Hash: A646FFA4, Key: Description, Value: Rewards for reaching Worthy rank in the ladder. Contains Ancestral Legendary or Unique items with the highest item power.

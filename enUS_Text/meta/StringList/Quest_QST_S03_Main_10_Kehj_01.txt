@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: The Span of Our Arms
+Hash: 6FA23862, Key: Phase94Description, Value: The Loom is dead. Malphas is gone. All that's left is to speak with Ayuzhan in the Gatehall. I can only hope he finds peace in this.
+Hash: 6896A125, Key: Callback96Header, Value: Speak with Ayuzhan in the Gatehall

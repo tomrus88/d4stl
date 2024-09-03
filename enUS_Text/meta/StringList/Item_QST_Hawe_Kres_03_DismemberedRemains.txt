@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Exsanguinated Remains
+Hash: F5C7BC0A, Key: Flavor, Value: A burlap sack filled with human remains, dried and shriveled. The lack of blood and viscera has created a desiccated, leathery corpse.

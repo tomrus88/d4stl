@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gruesome Banner
+Hash: A646FFA4, Key: Description, Value: This banner was earned through bloody conflict against other would-be heroes in the Dry Steppes.

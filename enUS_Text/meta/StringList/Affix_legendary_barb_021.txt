@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Relentless Armsmaster
+Hash: 003892BF, Key: Desc, Value: Gain {c_random}[Affix_Value_1|1%x|]{/c} increased Fury Generation and {c_number}[Affix."Static Value 0"|%|]{/c} reduced Fury cost while all damage bonuses from the {c_important}Walking Arsenal{/c} Key Passive are active.
+Hash: 82B7D312, Key: CodexDesc, Value: Gain {c_random}[Affix_Value_1|1%x|]{/c} increased Fury Generation and reduced Fury cost while all damage bonuses from {c_important}Walking Arsenal{/c} are active.

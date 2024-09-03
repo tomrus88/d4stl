@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Borza's Hideout
+Hash: 003892BF, Key: Desc, Value: Borza, the thief who left Nizaar to die, hides in the caves.

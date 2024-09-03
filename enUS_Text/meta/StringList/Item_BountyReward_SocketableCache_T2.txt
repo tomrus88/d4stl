@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [ph] Large Pouch of Socketables
+Hash: A646FFA4, Key: Description, Value: Contains an assortment of Runes and Gems.

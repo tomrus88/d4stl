@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shroud of Khanduras
+Hash: F5C7BC0A, Key: Flavor, Value: "In fairer times, the Emperor gifted Prince Aidan a gilded shroud. Still a boy, not yet full height, it dwarfed poor Aiden. Briefly, Leoric's growing madness abated from laughter." -Deckard Cain

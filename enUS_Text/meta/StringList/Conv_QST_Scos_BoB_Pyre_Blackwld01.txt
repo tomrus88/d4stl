@@ -1,0 +1,8 @@
+Hash: 5D72A440, Key: Line1.EDC76, Value: You're not the Bear.
+Hash: CC7C0A6D, Key: VoiceDir1.EDC76, Value: direct, hostile, angry
+Hash: F7149610, Key: Line3.B20BA, Value: Half-buried traps and a lookout who doesn’t mind his back. Predictable, and disappointing.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: scrutinizing; cold, candid, mocking
+Hash: 915B9744, Key: Line5.EDC76, Value: The Bear has finally left its den…
+Hash: 0064FD71, Key: VoiceDir5.EDC76, Value: direct, cold; false confidence
+Hash: 2AFD8914, Key: Line7.B20BA, Value: You never should have returned here.
+Hash: 9A06EF41, Key: VoiceDir7.B20BA, Value: blunt, gruff, somewhat threatening

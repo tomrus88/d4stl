@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me more about meeting Elias and Symon."
+Hash: 675C0CA0, Key: Line3.1247DE, Value: If I were smart, I'd have listened to my friends - something was off.
+Hash: 3FDFB662, Key: Line5.1247DE, Value: Elias kept flashing coin, telling us we'd be rich. But if it was just coin, why was Symon interested? Couldn't keep his nose out of a book. Too sweet to be treasure hunting.
+Hash: 9015E22F, Key: VoiceDir5.1247DE, Value: Pronounciation: Simon
+Hash: 18636024, Key: Line7.1247DE, Value: Still can't figure out how they got along.

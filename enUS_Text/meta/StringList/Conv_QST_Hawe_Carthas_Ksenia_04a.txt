@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm ready to begin the ritual."
+Hash: 8EB39B3B, Key: Line1.103673, Value: Good. The spirits will cling to their hatred. I am trusting you to defend me.
+Hash: 673744FD, Key: Line3.103673, Value: Let us bring these paladins peace.

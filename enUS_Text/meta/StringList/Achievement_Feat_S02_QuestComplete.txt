@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Erys's Ally
+Hash: 003892BF, Key: Desc, Value: Assisted Erys in the Season of Blood.

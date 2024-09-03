@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Serration
+Hash: 003892BF, Key: Desc, Value: The {c_important}Ossified Essence{/c} Key Passive also increases the Critical Strike Damage of your {c_important}Bone{/c} Skills by {c_number}[Affix."Static Value 0"|%x|]{/c} per Essence above {c_number}[Affix."Static Value 1"]{/c}, up to {c_random}[Affix_Value_1|%x|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: The {c_important}Ossified Essence{/c} Key Passive increases the Critical Strike Damage of your {c_important}Bone{/c} Skills per Essence above {c_number}[Affix."Static Value 1"]{/c}, up to {c_random}[Affix_Value_1|%x|]{/c}.

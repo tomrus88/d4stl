@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Heads of the Snake
+Hash: 3A4912CF, Key: DescShort, Value: Kill 5 {icon:Marker_Boss, 2.5} Helltide Commanders during {icon:Marker_Helltide, 2.5} Helltide

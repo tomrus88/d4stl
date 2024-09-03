@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Old Worn Map
+Hash: CC3C0A8F, Key: FlavorText, Value: Map of Mt. Civo
+Hash: F2CA04D8, Key: NoticeSignText, Value: At the center of the map is the Temple of the Primes, an ancient complex buried beneath Mt. Civo. Notes are scrawled across the paper. They appear to be calculations for how much of Guulrahn’s populace would be needed to excavate the temple. 

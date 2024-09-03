@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Head of Kauller
+Hash: F5C7BC0A, Key: Flavor, Value: The head of Kauller is heavy for its size and appears fixed in a sightless snarl. 

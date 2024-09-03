@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: This pack includes "The Host of Chaos" Sorcerer equipment, "Elder Symbology" accessories, and "Furthering Madness" mount armor.
+Hash: 003DFCC1, Key: Name, Value: Host of Chaos Collection Pack
+Hash: 13A53A8B, Key: Series, Value: The Host of Chaos

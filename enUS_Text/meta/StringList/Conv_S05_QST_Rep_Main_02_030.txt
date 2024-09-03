@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This aether... It feels like the Mother's Gift. Only stronger."
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: Your powers of observation astound. Indeed it is “stronger." If I’m right, it might be Burning Aether—the very core of a demon’s essence.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Sarcastic. Mocking. Then fascinated.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: You can leave this with me. Keep the Triune busy while I suss it out.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Eager to study the Aether.

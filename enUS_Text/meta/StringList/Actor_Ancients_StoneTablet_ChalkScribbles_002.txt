@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Vhenard's Record
+Hash: CC3C0A8F, Key: FlavorText, Value: Chalk scribbling on stone slab
+Hash: F2CA04D8, Key: NoticeSignText, Value: How silly my idle fancies of yesterday seem now. I believed in the Horadrim, but I was misled. With them as our champions, we can barely survive. But Lilith will make us victors. All my life, I’ve been searching...but it was me that needed to be found.

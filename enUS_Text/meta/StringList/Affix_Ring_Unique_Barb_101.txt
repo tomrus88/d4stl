@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Rend's{/c} duration is increased by {c_random}[Affix_Value_1|1|]{/c} seconds. 
+
+Damaging enemies with your {c_important}Brawling{/c} Skills applies {c_number}[Affix."Static Value 0"]{/c} stacks of {c_important}Rend's{/c} Bleed. This can only affect each enemy once every {c_number}[Affix."Static Value 1"]{/c} second.

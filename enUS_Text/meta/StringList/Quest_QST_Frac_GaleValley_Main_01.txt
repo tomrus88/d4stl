@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Tarnished Luster
+Hash: 0871A46B, Key: Toast, Value: Speak with Vigo in Yelesna about his report of Lilith's presence
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Travel to Yelesna
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must seek out Knight Penitent Captain Vigo in Yelesna and investigate reports of Lilith's presence.
+Hash: 92C33198, Key: Phase12Description, Value: A demon woman has been sighted in Gale Valley near Yelesna. I must investigate with the help of Vigo.
+Hash: 54F2A1E0, Key: Phase12OutsideSubzoneHeader, Value: Enter the Knights' Garrison in Yelensa
+Hash: E6570D8F, Key: Callback108Header, Value: Enter the Knights' Garrison
+Hash: 6274A1FB, Key: Phase33Description, Value: A demon woman has been sighted in Gale Valley near Yelesna. I must investigate with the help of Vigo.
+Hash: 8B5831A3, Key: Phase33OutsideSubzoneHeader, Value: Travel to Yelesna
+Hash: EBAA2C2D, Key: Callback115Header, Value: Travel to Yelesna
+Hash: 027C5085, Key: Phase97Description, Value: A demon woman has been sighted in Gale Valley near Yelesna. I must investigate with the help of Vigo.
+Hash: 7F95DB6D, Key: Phase97OutsideSubzoneHeader, Value: Speak to Captain Ankers in Yelensa
+Hash: 9044E2EB, Key: Callback131Header, Value: Speak with Captain Ankers

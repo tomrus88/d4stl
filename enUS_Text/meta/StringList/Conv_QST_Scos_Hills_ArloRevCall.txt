@@ -1,0 +1,3 @@
+Hash: 5A270F7C, Key: Line1.804B7, Value: The roads are clear now. We need to get to Braestaig. It's safer there.
+Hash: F41D2C6F, Key: Line3.83542, Value: We've lasted this long, and survived worse.
+Hash: 8E100280, Key: Line5.804B7, Value: You've been fortunate.

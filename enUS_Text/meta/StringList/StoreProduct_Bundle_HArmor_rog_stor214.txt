@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nahantu Eaglecaller
+Hash: A646FFA4, Key: Description, Value: Outside the reach of Old Kurast, the Eaglecaller was once a symbol of hope for the common people; a warrior born from the soil who spoke to the skies.
+Hash: 083EE0CE, Key: Quote, Value: Let your heart take flight.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Equipment

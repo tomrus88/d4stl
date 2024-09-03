@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: 
+CORLIN HULLE
+
+A foul sorcerer waits in northern Sinner's Pass to assail the unaware. Challenge him with vigilance, as he practices various uncanny magicks.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

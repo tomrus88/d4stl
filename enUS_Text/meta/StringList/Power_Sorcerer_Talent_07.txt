@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Protection
+Hash: 003892BF, Key: desc, Value: Using a Cooldown grants {c_number}[{SF_0} * 100|%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_0]){/c} as a {c_important}{u}Barrier{/u}{/c} for {c_number}{buffduration:BUFF_BARRIER}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Barrier{/u}{/c} Amount {icon:arrow,1.2} {c_number}[{SF_0} * 100|%|]{/c} Maximum Life {c_number}([PlayerHealthMax() * SF_0]){/c}

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What of the cannibals at the gates?"
+Hash: 5D6B5E54, Key: Line1.F78B6, Value: Ah, the brutes make a little noise, but our mercenaries are the best in the business. They'll have it sorted out very soon.

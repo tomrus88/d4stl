@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 673744FD, Key: Line3.103673, Value: The Light should have protected them. Their faith should have...
+Hash: B76D70CA, Key: VoiceDir3.103673, Value: Anger building. Succumbing to hate.
+Hash: 3FBAEEBF, Key: Line5.103673, Value: No. Now is not the time to falter. We must succeed. To give them the rest they deserve.
+Hash: 8FF11A8C, Key: VoiceDir5.103673, Value: Steeling herself. More certain of her quest

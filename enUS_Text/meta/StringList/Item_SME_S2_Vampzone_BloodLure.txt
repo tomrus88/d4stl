@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Lure
+Hash: A646FFA4, Key: Description, Value: Used to activate Sanguine Altars
+Hash: F5C7BC0A, Key: Flavor, Value: A swatch of dried congealed blood. Strangely warm to the touch.

@@ -1,0 +1,219 @@
+Hash: EAD29689, Key: Lorebook_Lore_Template, Value: Lore Template
+Hash: CC5A6AD8, Key: Lorebook_Lore_DS4, Value: Festering Scripture
+Hash: CC5A6AD9, Key: Lorebook_Lore_DS5, Value: Ravaged Journal
+Hash: FBF2D1F9, Key: Lorebook_Lore_OrbeiJournal_01, Value: The Birth of Hell
+Hash: CC5A6AD5, Key: Lorebook_Lore_DS1, Value: Formal Request
+Hash: CC5A72F4, Key: Lorebook_Lore_FP1, Value: Vani's Journal
+Hash: CC5A72F5, Key: Lorebook_Lore_FP2, Value: Specimen Notes
+Hash: 7FA54448, Key: Lorebook_Lore_KeironsPyre, Value: Eriman's Plea
+Hash: 92B09189, Key: QST_Scos_BrinyFate_BenenLetter, Value: Letter from Benen
+Hash: 61FE1AD0, Key: Lorebook_DGN_Step_01, Value: Vardok’s Note
+Hash: D761D2D7, Key: Lorebook_DGN_Kehj_20, Value: Silver Scroll
+Hash: 61FE1AD2, Key: Lorebook_DGN_Step_03, Value: Kemir's Stockpile
+Hash: 61FE1AD3, Key: Lorebook_DGN_Step_04, Value: Shredded Orders
+Hash: 61FE1AD4, Key: Lorebook_DGN_Step_05, Value: Letter
+Hash: 61FE1AD5, Key: Lorebook_DGN_Step_06, Value: Ammuit Acolyte's Journal
+Hash: 61FE1AD6, Key: Lorebook_DGN_Step_07, Value: Crumpled Paper
+Hash: 61FE1AD7, Key: Lorebook_DGN_Step_08, Value: Acrid Caverns
+Hash: 61FE1AD8, Key: Lorebook_DGN_Step_09, Value: Orbei Scholar's Notes
+Hash: 61FE1AF0, Key: Lorebook_DGN_Step_10, Value: Elias
+Hash: 61FE1AF1, Key: Lorebook_DGN_Step_11, Value: War Chief’s Journal
+Hash: 61FE1AF2, Key: Lorebook_DGN_Step_12, Value: Triune Decree
+Hash: 61FE1AF3, Key: Lorebook_DGN_Step_13, Value: Mystic’s Journal
+Hash: 61FE1AF4, Key: Lorebook_DGN_Step_14, Value: Survivor’s Journal
+Hash: 61FE1AF5, Key: Lorebook_DGN_Step_15, Value: Blood-written Sermon
+Hash: 61FE1AF6, Key: Lorebook_DGN_Step_16, Value: Bandit's Notes
+Hash: 61FE1AF7, Key: Lorebook_DGN_Step_17, Value: Triune Missive
+Hash: 61FE1AF8, Key: Lorebook_DGN_Step_18, Value: Patriarch's Den
+Hash: 61FE1AF9, Key: Lorebook_DGN_Step_19, Value: Shipwrecked Mariner’s Log
+Hash: 61FE1B11, Key: Lorebook_DGN_Step_20, Value: Timeworn Letter
+Hash: 61FE1B12, Key: Lorebook_DGN_Step_21, Value: Vizjerei Journal Page
+Hash: 61FE1B13, Key: Lorebook_DGN_Step_22, Value: Ornate Triune Letter
+Hash: 61FE1B14, Key: Lorebook_DGN_Step_23, Value: Bloodstained Parchment
+Hash: 61FE1B15, Key: Lorebook_DGN_Step_24, Value: Monk’s Journal
+Hash: 61FE1B17, Key: Lorebook_DGN_Step_26, Value: Oyuun's Letter
+Hash: 4443D606, Key: Lorebook_Lore_OrbeiNote2, Value: The Orbei Monastery, Part 1
+Hash: 175169DB, Key: Lorebook_Lore_ZakFortKeep_Paladin_Lord, Value: Last Chronicle of Paladin Lord Carthas
+Hash: 38817619, Key: Lorebook_Lore_ZakFortKeep_Paladin_Orders, Value: Paladin Squire's Journal, Part Two
+Hash: F193DF45, Key: QST_Scos_Hills_WeepingCairns_AiridahJournal01, Value: A letter from Airidah discussing the forgotten dead.
+Hash: F193DF46, Key: QST_Scos_Hills_WeepingCairns_AiridahJournal02, Value: A letter from Airidah discussing the fading presence of druids.
+Hash: 4443D607, Key: Lorebook_Lore_OrbeiNote3, Value: The Orbei Monastery, Part 2
+Hash: 4443D60B, Key: Lorebook_Lore_OrbeiNote7, Value: Handwritten personal journal
+Hash: 744F30D0, Key: Lorebook_DGN_Frac_01, Value: Abandoned Journal
+Hash: 744F30D1, Key: Lorebook_DGN_Frac_02, Value: High Priestess' Missive
+Hash: 744F30D3, Key: Lorebook_DGN_Frac_04, Value: Journal Entry
+Hash: 744F30D4, Key: Lorebook_DGN_Frac_05, Value: Journal Page
+Hash: 744F30D5, Key: Lorebook_DGN_Frac_06, Value: Large Scroll
+Hash: 744F30D7, Key: Lorebook_DGN_Frac_08, Value: Research Log
+Hash: 744F30D8, Key: Lorebook_DGN_Frac_09, Value: Hastily Written Note
+Hash: 744F30F0, Key: Lorebook_DGN_Frac_10, Value: Child's Journal
+Hash: 744F30F3, Key: Lorebook_DGN_Frac_13, Value: Scrap of Paper
+Hash: 744F30F4, Key: Lorebook_DGN_Frac_14, Value: Letter
+Hash: 744F30F5, Key: Lorebook_DGN_Frac_15, Value: Iron Tunnels
+Hash: 744F30F6, Key: Lorebook_DGN_Frac_16, Value: Unsent Letter
+Hash: 744F30F7, Key: Lorebook_DGN_Frac_17, Value: Crumpled Paper
+Hash: 744F30F8, Key: Lorebook_DGN_Frac_18, Value: Bandit Note
+Hash: 744F3111, Key: Lorebook_DGN_Frac_20, Value: Bill of Mortality
+Hash: 744F3112, Key: Lorebook_DGN_Frac_21, Value: Journal Page
+Hash: 744F3113, Key: Lorebook_DGN_Frac_22, Value: Holy Order
+Hash: 744F3114, Key: Lorebook_DGN_Frac_23, Value: Note
+Hash: 744F3116, Key: Lorebook_DGN_Frac_25, Value: Burned Parchment
+Hash: 3B0D024E, Key: Lorebook_DGN_Scos_03, Value: Tattered Zakarum Missive
+Hash: 3B0D024F, Key: Lorebook_DGN_Scos_04, Value: Blood-Smeared Ledger
+Hash: 3B0D0252, Key: Lorebook_DGN_Scos_07, Value: Abandoned Journal
+Hash: 3B0D0270, Key: Lorebook_DGN_Scos_14, Value: Tale of Oldstones
+Hash: 3B0D0272, Key: Lorebook_DGN_Scos_16, Value: Soggy Letter
+Hash: 3B0D0275, Key: Lorebook_DGN_Scos_19, Value: Tattered Page
+Hash: 3B0D028E, Key: Lorebook_DGN_Scos_21, Value: Knight Commander's Log
+Hash: 3B0D0290, Key: Lorebook_DGN_Scos_23, Value: Bloodstained Journal
+Hash: 3B0D0291, Key: Lorebook_DGN_Scos_24, Value: Crumpled Journal Page
+Hash: 3B0D0293, Key: Lorebook_DGN_Scos_26, Value: Worn Journal
+Hash: 053F63CB, Key: Lorebook_Lore_ZakFortKeep_Paladin_Lord_Confess, Value: Paladin Squire's Journal, Part One
+Hash: 9A3A8C04, Key: Lorebook_Lore_FP_Camp_Malnok, Value: Frozen Journal
+Hash: 38C0DD36, Key: Lorebook_QST_Conv_Vault_03, Value: Excerpt from the Chronicles of the New Horadrim
+Hash: 38C0DD34, Key: Lorebook_QST_Conv_Vault_01, Value: Excerpt from the Chronicles of the New Horadrim
+Hash: 38C0DD35, Key: Lorebook_QST_Conv_Vault_02, Value: Excerpt from the Chronicles of the New Horadrim
+Hash: 6EB2498A, Key: QST_Hawe_S04_Clue01_Letter, Value: Kaan's Note
+Hash: EBBEFAED, Key: Lorebook_Lore_KJ_Camp_Omaths, Value: Crumbling Leaflet
+Hash: EDC6F05C, Key: Lorebook_Lore_QaraYisu_01, Value: Qara Yisu Watchman's Log
+Hash: 3B0D026C, Key: Lorebook_DGN_Scos_10, Value: Crumpled Warning
+Hash: 3B0D028D, Key: Lorebook_DGN_Scos_20, Value: Torn Tome Pages
+Hash: 744F30F9, Key: Lorebook_DGN_Frac_19, Value: Note
+Hash: 744F30D6, Key: Lorebook_DGN_Frac_07, Value: Old Crinkled Letter
+Hash: 744F30F1, Key: Lorebook_DGN_Frac_11, Value: Blood-Speckled Journal Entry
+Hash: 3B0D0251, Key: Lorebook_DGN_Scos_06, Value: Chieftain's Orders
+Hash: 3B0D0274, Key: Lorebook_DGN_Scos_18, Value: Cathedral Orders
+Hash: 3B0D026D, Key: Lorebook_DGN_Scos_11, Value: Faded Letter
+Hash: 61FE1B16, Key: Lorebook_DGN_Step_25, Value: Torn Parchment
+Hash: 3B0D0292, Key: Lorebook_DGN_Scos_25, Value: Discarded Journal
+Hash: 3B0D0273, Key: Lorebook_DGN_Scos_17, Value: Scorched Demands
+Hash: 3B0D024C, Key: Lorebook_DGN_Scos_01, Value: Torn Paper
+Hash: D7A5A66D, Key: Lorebook_Lore_H8, Value: Timue's Journal
+Hash: A11490BC, Key: Lorebook_Lore_Frac_DreadMartyr_Note, Value: Bloody Parchment
+Hash: AB9CDF07, Key: QST_Frac_Epilogue_PravasOrders, Value: Prava's Decree
+Hash: 7CF91496, Key: Lorebook_Item_QST_ZakFetch_ThiefNote, Value: Handwritten Note
+Hash: 0426D6CD, Key: Lorebook_Lore_Guulrahn_Prison, Value: Villager Journal
+Hash: 6EFE6908, Key: QST_Hawe_M09_ClosingtheBook_Page01, Value: Inquisitor's Ledger, Chapter 1
+Hash: 6EFE6909, Key: QST_Hawe_M09_ClosingtheBook_Page02, Value: Inquisitor's Ledger, Chapter 2
+Hash: 6EFE690A, Key: QST_Hawe_M09_ClosingtheBook_Page03, Value: Inquisitor's Ledger, Chapter 3
+Hash: 6EFE690B, Key: QST_Hawe_M09_ClosingtheBook_Page04, Value: Inquisitor's Ledger, Chapter 4
+Hash: CFE51965, Key: QST_Step_Guulrahn02_Prison_Lore, Value: Last Entry
+Hash: F67E9634, Key: QST_Step_Guulrahn04_Elias_Journal_Lore, Value: Elias' Sanctum Journal Entry
+Hash: 6C1CDAFB, Key: QST_Step_AbahruRift_MerchantLetter, Value: Merchant Letter
+Hash: D4EF1314, Key: Lorebook_QST_EliasPalace_Elias_01, Value: Gospel of the Mother
+Hash: D4EF1315, Key: Lorebook_QST_EliasPalace_Elias_02, Value: Gospel of the Mother
+Hash: D4EF1316, Key: Lorebook_QST_EliasPalace_Elias_03, Value: Gospel of the Mother
+Hash: 994B77E0, Key: QST_Step_Orbei_EliasLetter, Value: Gospel of the Mother
+Hash: D07C9CEE, Key: QST_Hawe_PoisonedHearts_AnetasLetter, Value: Aneta's Letter
+Hash: 59297E88, Key: Lorebook_DGN_Scos_Legacies, Value: A list of the family line of the house of Garan.
+Hash: 5794625B, Key: Lorebook_Lore_Camp_Nostrava, Value: Hidden Letter
+Hash: 57E61687, Key: QST_Kehj_Remnants_NoteLore, Value: Crumpled Note
+Hash: 38B10EDC, Key: QST_Step_Orbei_ScholarsJournal, Value: Scholar's Journal
+Hash: 4CE62DDA, Key: QST_Step_Orbei_AbbotLetter_01, Value: Message from the Abbot
+Hash: D7A5A66E, Key: Lorebook_Lore_H9, Value: Villager's Journal
+Hash: D7A5A667, Key: Lorebook_Lore_H2, Value: Cultist Writings
+Hash: D7A5A668, Key: Lorebook_Lore_H3, Value: Cultist Writings
+Hash: 2F602E48, Key: QST_Class_RogueInnerSight_BakiraNote, Value: Hastily Written Note
+Hash: 7C9A57FC, Key: QST_Hawe_ZakFort_Carthas_CarthasNote, Value: Unsent Letter Addressed to the Zakarum Church
+Hash: D7A5A66B, Key: Lorebook_Lore_H6, Value: Elias' Notes, Part 3
+Hash: D7A5A669, Key: Lorebook_Lore_H4, Value: Elias' Notes, Part 1
+Hash: D7A5A66A, Key: Lorebook_Lore_H5, Value: Elias' Notes, Part 2
+Hash: D7A5A66C, Key: Lorebook_Lore_H7, Value: Elias' Notes, Part 4
+Hash: CC5A7357, Key: Lorebook_Lore_H11, Value: A Record of My Journey Pt. II
+Hash: CC5A7356, Key: Lorebook_Lore_H10, Value: A Record of My Journey Pt. I
+Hash: AD6EF26A, Key: QST_Frac_PaleKnightsKin_J3, Value: Archivist's Journal: Volume III
+Hash: AD6EF268, Key: QST_Frac_PaleKnightsKin_J1, Value: Archivist's Journal: Volume I
+Hash: AD6EF269, Key: QST_Frac_PaleKnightsKin_J2, Value: Archivist's Journal: Volume II
+Hash: CC5A7359, Key: Lorebook_Lore_H13, Value: A Record of My Journey Pt. III
+Hash: D761D2D9, Key: Lorebook_DGN_Kehj_22, Value: Undelivered Letter
+Hash: D761D2DB, Key: Lorebook_DGN_Kehj_24, Value: Journal Page
+Hash: D761D2D8, Key: Lorebook_DGN_Kehj_21, Value: Sealed Letter
+Hash: D761D2DA, Key: Lorebook_DGN_Kehj_23, Value: Adventurer's Note
+Hash: D761D2BE, Key: Lorebook_DGN_Kehj_18, Value: Knight's Journal
+Hash: 744F3117, Key: Lorebook_DGN_Frac_26, Value: Malnok Cliffs 
+Hash: 744F3118, Key: Lorebook_DGN_Frac_27, Value: Scrap of Paper
+Hash: 744F3119, Key: Lorebook_DGN_Frac_28, Value: Bloodstained Scrap of Paper
+Hash: 744F311A, Key: Lorebook_DGN_Frac_29, Value: Caretaker's Memoirs
+Hash: 3B0D02B1, Key: Lorebook_DGN_Scos_33, Value: Drafted Letter
+Hash: 3B0D02B3, Key: Lorebook_DGN_Scos_35, Value: Tattered Missive
+Hash: 3B0D02B4, Key: Lorebook_DGN_Scos_36, Value: Dusty Slip of Parchment
+Hash: 3B0D02B5, Key: Lorebook_DGN_Scos_37, Value: Soot-stained Letter
+Hash: C10F26B3, Key: QST_Hawe_Verge_Taissa_01_Sign_Journal_Lore, Value: Taissa's Journal
+Hash: 3B0D02AF, Key: Lorebook_DGN_Scos_31, Value: Hunter's Journal
+Hash: 3B0D02B0, Key: Lorebook_DGN_Scos_32, Value: Embossed Leather Belt
+Hash: 3B0D02B2, Key: Lorebook_DGN_Scos_34, Value: Blood-spattered Prayer Book
+Hash: D761D296, Key: Lorebook_DGN_Kehj_01, Value: Torn Notebook Page
+Hash: D761D297, Key: Lorebook_DGN_Kehj_02, Value: Mine Foreman Logbook
+Hash: D761D298, Key: Lorebook_DGN_Kehj_03, Value: Letter to Exalted Lazira
+Hash: D761D299, Key: Lorebook_DGN_Kehj_04, Value: Hidden Oasis
+Hash: D761D29A, Key: Lorebook_DGN_Kehj_05, Value: Blood-Soaked Paper
+Hash: D761D29B, Key: Lorebook_DGN_Kehj_06, Value: Notes on Looters’ Hand Drawn Map
+Hash: D761D29C, Key: Lorebook_DGN_Kehj_07, Value: Piece of Parchment
+Hash: D761D29D, Key: Lorebook_DGN_Kehj_08, Value: Ragged Piece of Cloth
+Hash: D761D29E, Key: Lorebook_DGN_Kehj_09, Value: Tattered Map
+Hash: D761D2B6, Key: Lorebook_DGN_Kehj_10, Value: Faded Letter
+Hash: D761D2B7, Key: Lorebook_DGN_Kehj_11, Value: Journal Page
+Hash: D761D2B8, Key: Lorebook_DGN_Kehj_12, Value: Parchment
+Hash: D761D2B9, Key: Lorebook_DGN_Kehj_13, Value: Creased Invitation
+Hash: D761D2BA, Key: Lorebook_DGN_Kehj_14, Value: Experiment Log
+Hash: D761D2BB, Key: Lorebook_DGN_Kehj_15, Value: Journal Entry
+Hash: D761D2BC, Key: Lorebook_DGN_Kehj_16, Value: Damaged Journal
+Hash: D761D2BD, Key: Lorebook_DGN_Kehj_17, Value: Journal Page
+Hash: CC5AA894, Key: Lorebook_Lore_SC1, Value: Cathedral Bounty
+Hash: E82B2B7A, Key: Lorebook_DGN_Hawe_02, Value: Blood-streaked Diary
+Hash: E82B2B7B, Key: Lorebook_DGN_Hawe_03, Value: Charred Journal
+Hash: E82B2B7C, Key: Lorebook_DGN_Hawe_04, Value: Zoological Survey
+Hash: E82B2B7D, Key: Lorebook_DGN_Hawe_05, Value: Journal Page
+Hash: E82B2B7E, Key: Lorebook_DGN_Hawe_06, Value: Journal Page
+Hash: E82B2B7F, Key: Lorebook_DGN_Hawe_07, Value: Journal Page
+Hash: E82B2B80, Key: Lorebook_DGN_Hawe_08, Value: Ledger Page
+Hash: E82B2B81, Key: Lorebook_DGN_Hawe_09, Value: Scavenger’s Journal
+Hash: E82B2B9A, Key: Lorebook_DGN_Hawe_11, Value: Ragged Piece of Parchment
+Hash: E82B2B9B, Key: Lorebook_DGN_Hawe_12, Value: Interrogation Journal
+Hash: E82B2B9C, Key: Lorebook_DGN_Hawe_13, Value: Cultist Prayer Book
+Hash: E82B2B9D, Key: Lorebook_DGN_Hawe_14, Value: Faded Journal Page
+Hash: E82B2B9E, Key: Lorebook_DGN_Hawe_15, Value: Devotional
+Hash: E82B2B9F, Key: Lorebook_DGN_Hawe_16, Value: Journal Page
+Hash: E82B2BA0, Key: Lorebook_DGN_Hawe_17, Value: Scrap of Paper
+Hash: E82B2BA1, Key: Lorebook_DGN_Hawe_18, Value: Defector's Note
+Hash: E82B2B79, Key: Lorebook_DGN_Hawe_01, Value: Scavenger’s Journal
+Hash: CC5AA896, Key: Lorebook_Lore_SC3, Value: Scorched Page
+Hash: 66FD3FAA, Key: QST_Scos_EverFaithful_Confession_02, Value: Faolan's Confession
+Hash: 42BC8DC9, Key: QST_Scos_EverFaithful_Confession, Value: Letter to Brenna
+Hash: 0D578795, Key: Lorebook_CCanyon_Genbar, Value: Genbar's Journal
+Hash: 100416BB, Key: QST_Frac_FaithInBlood_OctaviaLetter, Value: Sister Octavia's Letter
+Hash: 45F8BE8C, Key: Lorebook_Entry_CrusadersMonument, Value: Graverobber's Journal
+Hash: F349FADD, Key: QST_Frac_Glacier_Prava_Tablet_01, Value: To the Sinner 
+Hash: F349FADE, Key: QST_Frac_Glacier_Prava_Tablet_02, Value: To the Sufferer
+Hash: F349FADF, Key: QST_Frac_Glacier_Prava_Tablet_03, Value: To the Searcher
+Hash: F349FAE0, Key: QST_Frac_Glacier_Prava_Tablet_04, Value: To the Penitent
+Hash: 9A772876, Key: Lorebook_Lore_GV2_HVault_Elias_Journal, Value: Strange Journal 
+Hash: 539DF02F, Key: QST_Conv_Gale_Book, Value: Manifestations of the Prime Evils
+Hash: F1E2C9A3, Key: QST_Hawe_S05_AldaraJournal_Lore, Value: Aldara's Journal
+Hash: 3763AD76, Key: QST_Hawe_S05_BrechtJournal_Lore, Value: Brecht's Journal
+Hash: 5985DC41, Key: Lorebook_Lore_FP_GaleV00_VigoReport, Value: Vigo's Report
+Hash: 897E2AC1, Key: Lorebook_Lore_FP_GaleV01_VigoJournal, Value: Knight Vigo's Log
+Hash: 2E1E66DB, Key: Lorebook_Lore_FP_Camp_KorDragan, Value: Bloody Condemnation
+Hash: 9CFA0107, Key: Lorebook_Lore_Camp_SnakeCultist, Value: Lost Journal
+Hash: E82B2BA2, Key: Lorebook_DGN_Hawe_19, Value: Bloodstained Confession
+Hash: E82B2BBA, Key: Lorebook_DGN_Hawe_20, Value: Crusader's Letter
+Hash: E82B2BBB, Key: Lorebook_DGN_Hawe_21, Value: Scrap of Paper
+Hash: 485E842A, Key: CMP_Kehj_Alcarnus_Lore, Value: Medical Notes
+Hash: 2EC7AA30, Key: QST_Step_WeightofSin_ConfessionLetter_Lore, Value: Nekhii's Confession
+Hash: E82B2BBC, Key: Lorebook_DGN_Hawe_22, Value: Scrap of Paper
+Hash: E82B2BBE, Key: Lorebook_DGN_Hawe_24, Value: Ledger of Tithes Received
+Hash: E82B2BBD, Key: Lorebook_DGN_Hawe_23, Value: Waterlogged Missive
+Hash: 3749C096, Key: QST_Scos_LochRaeth_BottledLetter_Lore, Value: Letter from Bottle
+Hash: 6EFD0684, Key: Lorebook_Kehj_AltarOfRuin, Value: Excavation Log
+Hash: D761D2DC, Key: Lorebook_DGN_Kehj_25, Value: Journal Page
+Hash: 8FE6817D, Key: Lorebook_Lore_ErimansPyre_02, Value: Anonymous Letter
+Hash: 871831BA, Key: QST_Step_HungerforaNewLife_Lorebook_Lore, Value: Oyuun's Journals
+Hash: BEE71597, Key: QST_Kehj_TriuneRitual_MissionNote, Value: Orders to Ser Matias
+Hash: 6469B8F9, Key: S03_ClassLoreSecret_Necro_01, Value: [PH] Abandoned Journal
+Hash: FEDD5743, Key: S03_Main_Lorebook_Zoltun_03, Value: Journal of Zoltun Kulle, Entry 2
+Hash: FEDD5741, Key: S03_Main_Lorebook_Zoltun_01, Value: Journal of Zoltun Kulle, Entry 5
+Hash: FEDD5742, Key: S03_Main_Lorebook_Zoltun_02, Value: Journal of Zoltun Kulle, Entry 1
+Hash: FEDD5744, Key: S03_Main_Lorebook_Zoltun_04, Value: Journal of Zoltun Kulle, Entry 3
+Hash: FEDD5745, Key: S03_Main_Lorebook_Zoltun_05, Value: Journal of Zoltun Kulle, Entry 4
+Hash: 1EAF35B8, Key: QST_BSK_Intro_02_071_LB1, Value: Corroded Plaque
+Hash: 3C93BCE4, Key: QST_Hell_Intro_02_LoreBook_01, Value: Crumpled Parchment

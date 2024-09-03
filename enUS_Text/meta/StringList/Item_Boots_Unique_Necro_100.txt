@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Greaves of the Empty Tomb
+Hash: F5C7BC0A, Key: Flavor, Value: "The massive door to my family's crypt, which had taken a dozen men to close, was thrown open. Had I known the horrors to come I never would have set foot inside!"
+-The Ebon Pages, Canto I, Verse VII

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Culling of Flesh
+Hash: 0871A46B, Key: Toast, Value: Crane tribesmen are overwhelmed with the cannibal uprising. 
+Hash: 68161728, Key: Phase3Description, Value: Kaida told me of Crane Tribe’s efforts in quelling the growing cannibal numbers. It is a never ending battle, and the tribesmen are too few to eradicate the problem entirely. Kaida asked me to slay cannibals in the Field of Broken Spears while she tends to her injured brother. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay cannibals in the The Field of Broken Spears: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: The field is stained red with cannibal blood. I should report my success to Kaida at the Crane Tribe Hutmoot. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Kaida 

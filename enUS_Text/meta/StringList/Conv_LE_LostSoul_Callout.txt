@@ -1,0 +1,8 @@
+Hash: 0E7F38E1, Key: Line20.89B3C, Value: Is someone there?
+Hash: 5EB564AE, Key: VoiceDir20.89B3C, Value: scared, breathy
+Hash: F56DEF25, Key: Line23.89B3D, Value: Is someone there?
+Hash: 45A41AF2, Key: VoiceDir23.89B3D, Value: scared, breathy
+Hash: 2956F35C, Key: Line27.89F60, Value: Is someone there?
+Hash: 798D1F29, Key: VoiceDir27.89F60, Value: scared, breathy
+Hash: C34B6CF2, Key: Line29.89F5E, Value: Is someone there?
+Hash: 138198BF, Key: VoiceDir29.89F5E, Value: scared, breathy

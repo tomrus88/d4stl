@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cleaning Day
+Hash: 3A4912CF, Key: DescShort, Value: Defeat 666 Monsters within 6 Minutes while using a Profane Mindcage during {icon:Marker_Helltide, 2.5} Helltide in {icon:Icon_WorldTier_4, 2} Torment

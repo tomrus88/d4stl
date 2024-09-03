@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you need me to do?"
+Hash: 5D8555C1, Key: Line1.FEF63, Value: Take my chalice and place it in front of the boy. I need to read through my prayer book for the right passages.

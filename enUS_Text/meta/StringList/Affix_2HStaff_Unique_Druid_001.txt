@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Claw{/c} is now a {c_important}Storm{/c} Skill and also casts {c_important}Storm Strike{/c} at {c_random}[Affix_Value_1|%|]{/c} normal damage.

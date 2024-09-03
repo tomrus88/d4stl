@@ -1,0 +1,4 @@
+Hash: 76E748CE, Key: 0_desc, Value: My investigations into the Triune cult point towards the fallen city of Guulrahn. I should meet Lorath there as soon as possible.
+Hash: 793C716F, Key: 1_desc, Value: We enter the blood-soaked streets of Guulrahn. Oyuun, a prisoner who holds secrets necessary to enter the palace, languishes in the depths of the city. We must brave the charnel alleys to reach the prison and rescue Oyuun.
+Hash: 7B919A10, Key: 2_desc, Value: We head to the outskirts of Guulrahn to reunite with Oyuun and find a path into the palace.
+Hash: 7DE6C2B1, Key: 3_desc, Value: The gore-ridden sewers of Guulrahn hold a hidden path into the palace. Using Oyuun's details, we hunt for the secret passage into the palace undercroft. With the palace breached, Magnus is within reach.

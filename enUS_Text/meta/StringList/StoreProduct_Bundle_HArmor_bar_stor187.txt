@@ -1,0 +1,4 @@
+Hash: A646FFA4, Key: Description, Value: Coveting the fanciful garments of southern monarchs, Margeor the Vain had armor forged to reflect the shining trappings of the kings and queens he envied.
+Hash: 083EE0CE, Key: Quote, Value: All hail...
+Hash: 003DFCC1, Key: Name, Value: The Vain Monarch
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

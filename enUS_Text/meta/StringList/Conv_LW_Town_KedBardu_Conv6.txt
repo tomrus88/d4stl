@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are there many threats to Ked Bardu?"
+Hash: 5D82D32E, Key: Line1.FB249, Value: Every day I hear of a new threat in our lands.
+Hash: F7774CDB, Key: Line3.FB24D, Value: What of it? Our gates and people are strong.
+Hash: 916BC632, Key: Line5.FB249, Value: Arrogance is what topples cities.

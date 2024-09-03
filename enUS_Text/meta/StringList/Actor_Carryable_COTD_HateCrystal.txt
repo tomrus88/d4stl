@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Glowing Hateshard
+{c_gold}Deposit into a {/c} {c_red}Tortured Altar{/c} {c_gold} to release its power.{/c}

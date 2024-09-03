@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have lit the old brazier."
+Hash: F70733D0, Key: Line3.A9F43, Value: Ah, so you have. I can smell it from here. I wish I could have seen the flames dance.
+Hash: 661099FD, Key: VoiceDir3.A9F43, Value: pleased
+Hash: 5D12BA4E, Key: Line1.A9F43, Value: The Light shines through you, wanderer.

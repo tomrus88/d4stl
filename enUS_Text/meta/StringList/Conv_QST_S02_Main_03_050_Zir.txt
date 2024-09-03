@@ -1,0 +1,2 @@
+Hash: 8F3B878D, Key: Line1.16E226, Value: Come closer. I can feel the blood within you is like no other.
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Sinister.

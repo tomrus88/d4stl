@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Lilith is in the Necropolis of the Firstborn.”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: It is said that Rathma frequents the ruins.
+Hash: F427C5EC, Key: Line3.7FA05, Value: He rebelled against his mother and father. He would find no common cause in her. Or perhaps time, and the Prophecy he saw, have changed him.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are you feeling?"
+Hash: 5D72A43A, Key: Line1.EDC70, Value: I...forgive me. (deep breath) Our well was taken by the flies. I tried to clear them away, but I was not made for such work.
+Hash: CC7C0A67, Key: VoiceDir1.EDC70, Value: Recovering. Embarassed. ("Flies" are fly demons.)
+Hash: F7671DBC, Key: Line3.EDC70, Value: Please, c-could you cleanse our well? If you can, come to the chapel after. Akarat will return your kindness.
+Hash: 667083E9, Key: VoiceDir3.EDC70, Value: Realizing the Player was made for such work. Hopeful. Respectful. Akarat (Ah-kah-raht)

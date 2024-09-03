@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Reign of the Wicked
+Hash: A646FFA4, Key: Description, Value: In the ancient days when the Mage Clans clashed, Bartuc, Warlord of Blood, built an army of horrors—throngs of demons, summoned from the Hells, and human warriors every inch as wicked.
+Hash: 083EE0CE, Key: Quote, Value: Evil's embrace.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

@@ -1,0 +1,36 @@
+Hash: 914F8EF7, Key: Monster XP Bonus_Name, Value: Urn of Aggression
+Hash: 9B83391A, Key: Monster XP Bonus_Description, Value:  Boost to XP earned from monster kills.
+Hash: DB346147, Key: Silver Tongue_Name, Value: Urn of Bargaining
+Hash: 321A516A, Key: Silver Tongue_Description, Value: Boost to the amount of Gold earned from vendor sales.
+Hash: 33E3D14A, Key: Salvage Bonus_Name, Value:  Urn of Reclamation
+Hash: A1D1400D, Key: Salvage Bonus_Description, Value: Boost to the chance of rare materials from salvage.
+Hash: 27847B73, Key: Elixir Duration_Name, Value: Urn of Prolonging
+Hash: CF59C216, Key: Elixir Duration_Description, Value: Boost to the duration of all Elixirs.
+Hash: 167CBA76, Key: Malignant Heart Bonus_Name, Value: Urn of Malignance
+Hash: 2F7A9FB9, Key: Malignant Heart Bonus_Description, Value: Boost to the chance of powerful Malignant Heart drops.  Hearts drop after completing the campaign.
+Hash: CBA9C910, Key: Helltide Loot Bonus_Name, Value: Urn of Helltides
+Hash: 6945FD13, Key: Helltide Loot Bonus_Description, Value: Chance to receive an extra equipment item in Helltide chests.  The extra item will be Legendary or better.
+Hash: 5A80969F, Key: Mount Sprint Cooldown Bonus_Name, Value: Urn of Swift Travel
+Hash: DB9A13C2, Key: Mount Sprint Cooldown Bonus_Description, Value: Boost how quickly your mount recovers from sprinting.
+Hash: 5E0FDF46, Key: Vampire Reputation Bonus_Name, Value: Urn of Blood
+Hash: 0B1A3A89, Key: Vampire Reputation Bonus_Description, Value: Boost the Hunter's Acclaim you earn from Blood Harvest activities.
+Hash: 15961AC1, Key: Gold Pickup Radius Bonus_Name, Value: [ph] Urn of Magnetism
+Hash: FF915DA4, Key: Gold Pickup Radius Bonus_Description, Value: [ph] Boost the distance that gold and other currencies are automatically picked up.
+Hash: 4402DE16, Key: Shrine Duration Bonus_Name, Value: Urn of Enduring Grace
+Hash: D3806F59, Key: Shrine Duration Bonus_Description, Value: Boost to the duration of Shrine effects.
+Hash: 3646F29B, Key: Wardwoven Chest Bonus_Name, Value: Urn of Tuning
+Hash: F4199C3E, Key: Wardwoven Chest Bonus_Description, Value: Chance to receive an additional Tuning Stone from Wardwoven chests.
+Hash: 9904C30A, Key: Whisper Greater Chest Bonus_Name, Value: Urn of Whispers
+Hash: 2DB8B9CD, Key: Whisper Greater Chest Bonus_Description, Value: Boost the chance to receive a Greater Collection from Whisper rewards.
+Hash: 8183A33D, Key: Helltide Reputation Bonus_Name, Value: Urn of Iron
+Hash: 87D902A0, Key: Helltide Reputation Bonus_Description, Value: Boost your reputation with the Iron Wolves from Helltide activities.
+Hash: 34F7D073, Key: Glyph XP Bonus_Name, Value: Urn of Nightmares
+Hash: B91B7716, Key: Glyph XP Bonus_Description, Value: Boost Paragon Glyph XP earned in Nightmare Dungeons.
+Hash: 2BA23A1E, Key: Helltide Obol Bonus_Name, Value: Urn of Burning Obols
+Hash: 1CCEF261, Key: Helltide Obol Bonus_Description, Value: Boost amount of Obols you find in Helltide chests, which contain Obols during this season.
+Hash: CF5ACFB0, Key: BSK Consumable Bonus_Name, Value: Urn of Abyssal Knowledge
+Hash: 6FF94FB3, Key: BSK Consumable Bonus_Description, Value: Boost the chance to receive an Abyssal Scroll from Spoils of Hell chests, found while fighting the Infernal Hordes.
+Hash: 11D93352, Key: BSK Reputation Bonus_Name, Value: Urn of the Blessed Mother
+Hash: 2FB30915, Key: BSK Reputation Bonus_Description, Value: Boost the chance for existing sources to drop additional Mother's Gifts, used to progress the Reputation Questline.
+Hash: 4B8944E2, Key: BSK Legendary Bonus_Name, Value: Urn of Spoils
+Hash: E78DB8A5, Key: BSK Legendary Bonus_Description, Value: Boost the chance to receive a Legendary Item from Spoils of Hell chests, found while fighting the Infernal Hordes.

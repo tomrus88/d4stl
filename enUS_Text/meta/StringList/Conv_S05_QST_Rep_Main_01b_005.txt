@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is it safe to talk openly here?"
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: Hmm? Oh, yes. Vladan and I have an understanding.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Unconcerned. Dismissive.

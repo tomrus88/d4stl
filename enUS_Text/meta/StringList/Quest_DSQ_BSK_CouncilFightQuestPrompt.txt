@@ -1,0 +1,2 @@
+Hash: 398557AF, Key: Callback9Header, Value: Open the Council Gate
+Hash: D9B88541, Key: Callback29Header, Value: Select an Infernal Offer

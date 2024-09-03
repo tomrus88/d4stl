@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Bear of Blackweald
+Hash: 5D201C8E, Key: Line1.B20BA, Value: I cannot forget my past—but I will move past it. The Goose is where I put my strength now.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: earnest, emotional, confident
+Hash: F7149610, Key: Line3.B20BA, Value: It offers peace I never thought possible, and still doubt I deserve.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: earnest, emotional; leaning somber
+Hash: 91090F92, Key: Line5.B20BA, Value: I was so used to only seeing terror in faces… it took a long time to recognize the worth of a smile.
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: earnest, emotional, introspective
+Hash: 2AFD8914, Key: Line7.B20BA, Value: Please. Take my sword. It’s seen enough blood by my hands.
+Hash: 9A06EF41, Key: VoiceDir7.B20BA, Value: earnest, emotional; leaning somber

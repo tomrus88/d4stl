@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What in the Hells are you doing?!"
+Hash: 5C7D0B25, Key: Line10.1BCD2B, Value: Nothing, eh? Try a bigger one!
+Hash: B378B092, Key: VoiceDir10.1BCD2B, Value: Grinning. Entertained. Summoning another demon in reply.

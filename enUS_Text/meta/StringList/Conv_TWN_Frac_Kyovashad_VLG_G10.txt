@@ -1,0 +1,4 @@
+Hash: F77761E0, Key: Line3.FB72F, Value: For a hundred generations, Hell itself imprisoned Father Inarius, but they could not break him. He cast off his infernal shackles and returned to us.
+Hash: 6680C80D, Key: VoiceDir3.FB72F, Value: Very pious, excited. Telling a grand tale about her benefactor, the angel Inarius.
+Hash: 916BDB62, Key: Line5.FB72F, Value: And now he will guide the faithful along the path of deliverance.
+Hash: 0075418F, Key: VoiceDir5.FB72F, Value: Very pious, excited. Telling a grand tale about her benefactor, the angel Inarius.

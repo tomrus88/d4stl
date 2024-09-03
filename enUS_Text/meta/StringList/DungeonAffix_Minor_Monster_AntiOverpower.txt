@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Overpower Resist
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monster attacks reduce the damage of your next Overpower attack by 12%. Stacking up to 60%.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monster attacks reduce the damage of your next Overpower attack by 9%. Stacking up to 45%.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monster attacks reduce the damage of your next Overpower attack by 6%. Stacking up to 30%.

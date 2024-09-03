@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Salt-Crusted Mining Tools
+Hash: F2CA04D8, Key: NoticeSignText, Value: This equipment looks worn and corroded from the salt. Miners of this town would have had significant maintenance costs to keep them in working condition.

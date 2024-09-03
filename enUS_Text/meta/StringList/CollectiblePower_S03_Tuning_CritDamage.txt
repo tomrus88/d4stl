@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Devastation Support
+Hash: A646FFA4, Key: Description, Value: Supported Skill gains a {c_number}[Collectible_Power_Value_1#S03_Tuning_CritDamage*100|%x|]{/c} Critical Strike Damage bonus. 
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Critical Strike Damage Bonus {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_CritDamage*100+5|%x|]{/c}
+Hash: E971A20F, Key: Modifier, Value: Critical Strike Damage increased by {c_number}[Collectible_Power_Value_1#S03_Tuning_CritDamage*100|%x|]{/c}.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

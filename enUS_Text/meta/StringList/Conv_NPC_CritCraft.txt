@@ -1,0 +1,240 @@
+Hash: DE04F8A5, Key: Line6.B5387, Value: An exquisite concoction!
+Hash: C4F3AEE8, Key: Line9.B5387, Value: Excellent.
+Hash: BF26E9B2, Key: Line12.B5387, Value: A potent quantity indeed.
+Hash: 400A1978, Key: Line17.B5388, Value: An exquisite concoction!
+Hash: 11744512, Key: Line20.B5388, Value: Excellent.
+Hash: F862FB55, Key: Line23.B5388, Value: A potent quantity indeed.
+Hash: 79462B1B, Key: Line28.B5389, Value: More there than I thought.
+Hash: 4AB056B5, Key: Line31.B5389, Value: Some solid bits here.
+Hash: 319F0CF8, Key: Line34.B5389, Value: There's a good one.
+Hash: B2823CE5, Key: Line39.B538A, Value: More there than I thought.
+Hash: 83EC687F, Key: Line42.B538A, Value: Some solid bits here.
+Hash: 6ADB1EC2, Key: Line45.B538A, Value: There's a good one.
+Hash: 702E3D53, Key: Line52.B5393, Value: What color and brilliance!
+Hash: 571CF396, Key: Line55.B5393, Value: Well done!
+Hash: 3E0BA9D9, Key: Line58.B5393, Value: The stars made manifest!
+Hash: 0F75D574, Key: Line61.B5394, Value: What color and brilliance!
+Hash: F6648BB7, Key: Line64.B5394, Value: Well done!
+Hash: DD5341FA, Key: Line67.B5394, Value: The stars made manifest!
+Hash: E2A66099, Key: Line74.B5395, Value: Sublime!
+Hash: C99516DC, Key: Line77.B5395, Value: Masterful work!
+Hash: 9AFF4276, Key: Line80.B5395, Value: Impeccable!
+Hash: 81EDF8BA, Key: Line83.B5396, Value: Sublime!
+Hash: 68DCAEFD, Key: Line86.B5396, Value: Masterful work!
+Hash: 4FCB6540, Key: Line89.B5396, Value: Impeccable!
+Hash: 551E83DF, Key: Line96.B5397, Value: Damn. Saved almost all of it.
+Hash: 3C0D3A22, Key: Line99.B5397, Value: Turned out better than expected.
+Hash: 894C7B23, Key: Line102.B5397, Value: Fate's smiled on that one.
+Hash: 703B3167, Key: Line105.B5398, Value: Damn. Saved almost all of it.
+Hash: 5729E7AA, Key: Line108.B5398, Value: Turned out better than expected.
+Hash: 28941344, Key: Line111.B5398, Value: Fate's smiled on that one.
+Hash: 436C5F94, Key: Line118.B67E0, Value: Mmm, a fine balance, there!
+Hash: 9A680501, Key: VoiceDir118.B67E0, Value: Smiling. Pleased. Slightly manic.
+Hash: 14D68B2E, Key: Line121.B67E0, Value: Ahh, excellent purity!
+Hash: 6BD2309B, Key: VoiceDir121.B67E0, Value: Smiling. Pleased. Slightly manic.
+Hash: FBC54171, Key: Line124.B67E0, Value: Careful with this one! Very potent.
+Hash: 52C0E6DE, Key: VoiceDir124.B67E0, Value: Smiling. Pleased. Slightly manic.
+Hash: E2B3F7B5, Key: Line127.B67E1, Value: Mmm, a fine balance, there!
+Hash: 39AF9D22, Key: VoiceDir127.B67E1, Value: Smiling. Pleased. Slightly manic.
+Hash: B41E234F, Key: Line130.B67E1, Value: Ahh, excellent purity!
+Hash: 0B19C8BC, Key: VoiceDir130.B67E1, Value: Smiling. Pleased. Slightly manic.
+Hash: 9B0CD992, Key: Line133.B67E1, Value: Careful with this one! Very potent.
+Hash: F2087EFF, Key: VoiceDir133.B67E1, Value: Smiling. Pleased. Slightly manic.
+Hash: A05FF5E3, Key: Line140.B6826, Value: One of my better pieces.
+Hash: F75B9B50, Key: VoiceDir140.B6826, Value: Proud. Beaming.
+Hash: 874EAC26, Key: Line143.B6826, Value: You see? The finest quality.
+Hash: DE4A5193, Key: VoiceDir143.B6826, Value: Proud. Beaming.
+Hash: 6E3D6269, Key: Line146.B6826, Value: Ha! Let's see the barbs make that!
+Hash: C53907D6, Key: VoiceDir146.B6826, Value: Proud. Beaming.
+Hash: 552C18AB, Key: Line149.B6825, Value: One of my better pieces.
+Hash: AC27BE18, Key: VoiceDir149.B6825, Value: Proud. Beaming.
+Hash: 26964445, Key: Line152.B6825, Value: You see? The finest quality.
+Hash: 7D91E9B2, Key: VoiceDir152.B6825, Value: Proud. Beaming.
+Hash: 0D84FA88, Key: Line155.B6825, Value: Ha! Let's see the barbs make that!
+Hash: 64809FF5, Key: VoiceDir155.B6825, Value: Proud. Beaming.
+Hash: 12D81928, Key: Line162.B6827, Value: That could be an heirloom, no?
+Hash: 69D3BE95, Key: VoiceDir162.B6827, Value: Proud. Slight smile. A highlight in their day.
+Hash: F9C6CF6B, Key: Line165.B6827, Value: Now this...is worthy of my mark.
+Hash: 50C274D8, Key: VoiceDir165.B6827, Value: Proud. Slight smile. A highlight in their day.
+Hash: E0B585AE, Key: Line168.B6827, Value: It seems I still have the touch.
+Hash: 37B12B1B, Key: VoiceDir168.B6827, Value: Proud. Slight smile. A highlight in their day.
+Hash: B21FB149, Key: Line171.B6828, Value: That could be an heirloom, no?
+Hash: 091B56B6, Key: VoiceDir171.B6828, Value: Proud. Slight smile. A highlight in their day.
+Hash: 990E678C, Key: Line174.B6828, Value: Now this...is worthy of my mark.
+Hash: F00A0CF9, Key: VoiceDir174.B6828, Value: Proud. Slight smile. A highlight in their day.
+Hash: 7FFD1DCF, Key: Line177.B6828, Value: It seems I still have the touch.
+Hash: D6F8C33C, Key: VoiceDir177.B6828, Value: Proud. Slight smile. A highlight in their day.
+Hash: 85503C6E, Key: Line184.B6829, Value: Ah! How nice.
+Hash: DC4BE1DB, Key: VoiceDir184.B6829, Value: Calm. Smiling. Feeling the magic radiate from an item.
+Hash: 6C3EF2B1, Key: Line187.B6829, Value: Radiant! Do you feel it?
+Hash: C33A981E, Key: VoiceDir187.B6829, Value: Calm. Smiling. Feeling the magic radiate from an item.
+Hash: 3DA91E4B, Key: Line190.B6829, Value: Fortune walks with you.
+Hash: 94A4C3B8, Key: VoiceDir190.B6829, Value: Calm. Smiling. Feeling the magic radiate from an item.
+Hash: 2497D4B6, Key: Line193.B682A, Value: Ah! How nice.
+Hash: 7B937A23, Key: VoiceDir193.B682A, Value: Calm. Smiling. Feeling the magic radiate from an item.
+Hash: 0B868AF9, Key: Line196.B682A, Value: Radiant! Do you feel it?
+Hash: 62823066, Key: VoiceDir196.B682A, Value: Calm. Smiling. Feeling the magic radiate from an item.
+Hash: F275413C, Key: Line199.B682A, Value: Fortune walks with you.
+Hash: 4970E6A9, Key: VoiceDir199.B682A, Value: Calm. Smiling. Feeling the magic radiate from an item.
+Hash: 97BE0725, Key: Line204.B6881, Value: There's a surprise, eh?
+Hash: EEB9AC92, Key: VoiceDir204.B6881, Value: Excited. Pleased.
+Hash: 7EACBD68, Key: Line207.B6881, Value: Ahh, the wind favors you!
+Hash: D5A862D5, Key: VoiceDir207.B6881, Value: Excited. Pleased.
+Hash: 5016E902, Key: Line210.B6881, Value: Ha! What luck!
+Hash: A7128E6F, Key: VoiceDir210.B6881, Value: Excited. Pleased.
+Hash: D0FA18C6, Key: Line215.B6880, Value: There's a surprise, eh?
+Hash: 27F5BE33, Key: VoiceDir215.B6880, Value: Excited. Pleased.
+Hash: B7E8CF09, Key: Line218.B6880, Value: Ahh, the wind favors you!
+Hash: 0EE47476, Key: VoiceDir218.B6880, Value: Excited. Pleased.
+Hash: 8952FAA3, Key: Line221.B6880, Value: Ha! What luck!
+Hash: E04EA010, Key: VoiceDir221.B6880, Value: Excited. Pleased.
+Hash: A4292011, Key: Line228.B2A28, Value: Ahh, perfect balance.
+Hash: FB24C57E, Key: VoiceDir228.B2A28, Value: Impressed.
+Hash: 75934BAB, Key: Line231.B2A28, Value: A good batch, there.
+Hash: CC8EF118, Key: VoiceDir231.B2A28, Value: Impressed.
+Hash: 5C8201EE, Key: Line234.B2A28, Value: There's a fine brew.
+Hash: B37DA75B, Key: VoiceDir234.B2A28, Value: Impressed.
+Hash: 4370B8B6, Key: Line237.B2A69, Value: Ahh, perfect balance.
+Hash: 9A6C5E23, Key: VoiceDir237.B2A69, Value: Impressed.
+Hash: 14DAE450, Key: Line240.B2A69, Value: A good batch, there.
+Hash: 6BD689BD, Key: VoiceDir240.B2A69, Value: Impressed.
+Hash: FBC99A93, Key: Line243.B2A69, Value: There's a fine brew.
+Hash: 52C54000, Key: VoiceDir243.B2A69, Value: Impressed.
+Hash: 011CB8D7, Key: Line250.B2A2C, Value: Unexpected.
+Hash: 58185E44, Key: VoiceDir250.B2A2C, Value: Gruff, but impressed.
+Hash: E80B6F1A, Key: Line253.B2A2C, Value: That there's worth the coin.
+Hash: 3F071487, Key: VoiceDir253.B2A2C, Value: Gruff, but impressed.
+Hash: CEFA255D, Key: Line256.B2A2C, Value: Hm. Not bad.
+Hash: 25F5CACA, Key: VoiceDir256.B2A2C, Value: Gruff, but impressed.
+Hash: B5E8DC22, Key: Line259.B2A6A, Value: Mm. Unexpected.
+Hash: 0CE4818F, Key: VoiceDir259.B2A6A, Value: Gruff, but impressed.
+Hash: 875307BC, Key: Line262.B2A6A, Value: That there's worth the coin.
+Hash: DE4EAD29, Key: VoiceDir262.B2A6A, Value: Gruff, but impressed.
+Hash: 6E41BDFF, Key: Line265.B2A6A, Value: Hm. Not bad.
+Hash: C53D636C, Key: VoiceDir265.B2A6A, Value: Gruff, but impressed.
+Hash: 7394DC0C, Key: Line272.B2A33, Value: That--is good quality.
+Hash: CA908179, Key: VoiceDir272.B2A33, Value: Surprise.
+Hash: 5A83924F, Key: Line275.B2A33, Value: Hm. One of my better pieces.
+Hash: B17F37BC, Key: VoiceDir275.B2A33, Value: Surprise.
+Hash: 41724892, Key: Line278.B2A33, Value: By the Light...
+Hash: 986DEDFF, Key: VoiceDir278.B2A33, Value: Surprise.
+Hash: 12DC74C1, Key: Line281.B2A6E, Value: That--is good quality.
+Hash: 69D81A2E, Key: VoiceDir281.B2A6E, Value: Surprise.
+Hash: F9CB2B04, Key: Line284.B2A6E, Value: Hm. One of my better pieces.
+Hash: 50C6D071, Key: VoiceDir284.B2A6E, Value: Surprise.
+Hash: E0B9E147, Key: Line287.B2A6E, Value: By the Light...
+Hash: 37B586B4, Key: VoiceDir287.B2A6E, Value: Surprise.
+Hash: E60CFF53, Key: Line294.B2A36, Value: Oh, you've caught a rare one!
+Hash: 3D08A4C0, Key: VoiceDir294.B2A36, Value: Chuffed.
+Hash: CCFBB596, Key: Line297.B2A36, Value: Ahhh, good fortune, that is.
+Hash: 23F75B03, Key: VoiceDir297.B2A36, Value: Chuffed.
+Hash: D8500167, Key: Line300.B2A36, Value: Mmm. That's a good omen.
+Hash: 2F4BA6D4, Key: VoiceDir300.B2A36, Value: Chuffed.
+Hash: BF3EB83D, Key: Line303.B2A6F, Value: Oh, you've caught a rare one!
+Hash: 163A5DAA, Key: VoiceDir303.B2A6F, Value: Chuffed.
+Hash: A62D6E80, Key: Line306.B2A6F, Value: Ahhh, good fortune, that is.
+Hash: FD2913ED, Key: VoiceDir306.B2A6F, Value: Chuffed.
+Hash: 8D1C24C3, Key: Line309.B2A6F, Value: Mmm. That's a good omen.
+Hash: E417CA30, Key: VoiceDir309.B2A6F, Value: Chuffed.
+Hash: 926F432C, Key: Line316.B2A61, Value: Huh. Look at that.
+Hash: E96AE899, Key: VoiceDir316.B2A61, Value: Gruff, but impressed.
+Hash: 795DF96F, Key: Line319.B2A61, Value: I'll be damned. Not bad.
+Hash: D0599EDC, Key: VoiceDir319.B2A61, Value: Gruff, but impressed.
+Hash: 4AC82509, Key: Line322.B2A61, Value: I'd say that's pretty good.
+Hash: A1C3CA76, Key: VoiceDir322.B2A61, Value: Gruff, but impressed.
+Hash: 31B6DB6C, Key: Line325.B2A70, Value: Huh. Look at that.
+Hash: 88B280D9, Key: VoiceDir325.B2A70, Value: Gruff, but impressed.
+Hash: 18A591AF, Key: Line328.B2A70, Value: I'll be damned. Not bad.
+Hash: 6FA1371C, Key: VoiceDir328.B2A70, Value: Gruff, but impressed.
+Hash: EA0FBD49, Key: Line331.B2A70, Value: I'd say that's pretty good.
+Hash: 410B62B6, Key: VoiceDir331.B2A70, Value: Gruff, but impressed.
+Hash: 05018522, Key: Line338.BC41D, Value: Oh, that's one of my best.
+Hash: D66BB0BC, Key: Line341.BC41D, Value: The clarity--remarkable.
+Hash: BD5A66FF, Key: Line344.BC41D, Value: Well! Don't waste that!
+Hash: A4674E67, Key: Line347.E7610, Value: Oh, that's one of my best.
+Hash: 75D17A01, Key: Line350.E7610, Value: The clarity--remarkable.
+Hash: 5CC03044, Key: Line353.E7610, Value: Well! Don't waste that!
+Hash: 61F51DBE, Key: Line360.BC41E, Value: Never seen something finer.
+Hash: 48E3D401, Key: Line363.BC41E, Value: Of kingly make--use it well.
+Hash: 2FD28A44, Key: Line366.BC41E, Value: Rare to have something so fine.
+Hash: 16DF71AC, Key: Line369.E7611, Value: Never seen something finer.
+Hash: E8499D46, Key: Line372.E7611, Value: Of kingly make--use it well.
+Hash: CF385389, Key: Line375.E7611, Value: Rare to have something so fine.
+Hash: D46D4113, Key: Line382.BC434, Value: Beautiful and handy.
+Hash: BB5BF756, Key: Line385.BC434, Value: Akarat's blessing on that one.
+Hash: A24AAD99, Key: Line388.BC434, Value: I hope you appreciate that.
+Hash: 73D30A4A, Key: Line391.E7614, Value: Beautiful and handy.
+Hash: 5AC1C08D, Key: Line394.E7614, Value: Akarat's blessing on that one.
+Hash: 41B076D0, Key: Line397.E7614, Value: I hope you appreciate that.
+Hash: 80CF8469, Key: Line404.BC420, Value: Exquisite.
+Hash: 67BE3AAC, Key: Line407.BC420, Value: Splendid result.
+Hash: 39286646, Key: Line410.BC420, Value: What a superior product.
+Hash: 20354DC6, Key: Line413.E7615, Value: Exquisite.
+Hash: 07240409, Key: Line416.E7615, Value: Splendid result.
+Hash: EE12BA4C, Key: Line419.E7615, Value: What a superior product.
+Hash: F3486C10, Key: Line426.BCB6A, Value: Aren't you pleased with that, honored customer?
+Hash: DA372253, Key: Line429.BCB6A, Value: How resplendent!
+Hash: ABA14DED, Key: Line432.BCB6A, Value: Magnificent!
+Hash: 92AD710B, Key: Line435.E7616, Value: Aren't you pleased with that, honored customer?
+Hash: 799C274E, Key: Line438.E7616, Value: How resplendent!
+Hash: 4B0652E8, Key: Line441.E7616, Value: Magnificent!
+Hash: 65A83F3D, Key: Line448.B861F, Value: Now that's fine work.
+Hash: BCA3E4AA, Key: VoiceDir448.B861F, Value: Eccentric, interested.
+Hash: 37126AD7, Key: Line451.B861F, Value: A thing like that takes a skilled hand.
+Hash: 8E0E1044, Key: VoiceDir451.B861F, Value: Eccentric, interested.
+Hash: 1E01211A, Key: Line454.B861F, Value: A true gift from the Father.
+Hash: 74FCC687, Key: VoiceDir454.B861F, Value: Eccentric, interested.
+Hash: 04EFD74A, Key: Line457.B8622, Value: Now that's fine work.
+Hash: 5BEB7CB7, Key: VoiceDir457.B8622, Value: Eccentric, interested.
+Hash: D65A02E4, Key: Line460.B8622, Value: A thing like that takes a skilled hand.
+Hash: 2D55A851, Key: VoiceDir460.B8622, Value: Eccentric, interested.
+Hash: BD48B927, Key: Line463.B8622, Value: A true gift from the Father.
+Hash: 14445E94, Key: VoiceDir463.B8622, Value: Eccentric, interested.
+Hash: C29AFFA6, Key: Line470.B5F7A, Value: Honor upon the Ancients!
+Hash: 1996A513, Key: VoiceDir470.B5F7A, Value: Youthful.
+Hash: A989B5E9, Key: Line473.B5F7A, Value: Bul-Kathos guides the hand!
+Hash: 00855B56, Key: VoiceDir473.B5F7A, Value: Youthful.
+Hash: 90786C2C, Key: Line476.B5F7A, Value: Magnificent!
+Hash: E7741199, Key: VoiceDir476.B5F7A, Value: Youthful.
+Hash: 776721C2, Key: Line479.B5F38, Value: Honor upon the Ancients!
+Hash: CE62C72F, Key: VoiceDir479.B5F38, Value: Youthful.
+Hash: 48D14D5C, Key: Line482.B5F38, Value: Bul-Kathos guides the hand!
+Hash: 9FCCF2C9, Key: VoiceDir482.B5F38, Value: Youthful.
+Hash: 2FC0039F, Key: Line485.B5F38, Value: Magnificent!
+Hash: 86BBA90C, Key: VoiceDir485.B5F38, Value: Youthful.
+Hash: 35132256, Key: Line492.B5F40, Value: This will prove useful in battle!
+Hash: 8C0EC7C3, Key: VoiceDir492.B5F40, Value: Self-assured, experienced.
+Hash: 1C01D899, Key: Line495.B5F40, Value: The ancestors would approve.
+Hash: 72FD7E06, Key: VoiceDir495.B5F40, Value: Self-assured, experienced.
+Hash: 02F08EDC, Key: Line498.B5F40, Value: Fine craftsmanship.
+Hash: 59EC3449, Key: VoiceDir498.B5F40, Value: Self-assured, experienced.
+Hash: 0E44DAAE, Key: Line501.B5F41, Value: This will prove useful in battle!
+Hash: 6540801B, Key: VoiceDir501.B5F41, Value: Self-assured, experienced.
+Hash: F53390F1, Key: Line504.B5F41, Value: The ancestors would approve.
+Hash: 4C2F365E, Key: VoiceDir504.B5F41, Value: Self-assured, experienced.
+Hash: DC224734, Key: Line507.B5F41, Value: Fine craftsmanship.
+Hash: 331DECA1, Key: VoiceDir507.B5F41, Value: Self-assured, experienced.
+Hash: E175C4F5, Key: Line514.B79A2, Value: Might you, um, consider sellin' that back?
+Hash: 38716A62, Key: VoiceDir514.B79A2, Value: Dim, twitchy, paranoid.
+Hash: C8647B38, Key: Line517.B79A2, Value: Yeah, congratu-bloody-lations...
+Hash: 1F6020A5, Key: VoiceDir517.B79A2, Value: Dim, twitchy, paranoid.
+Hash: 99CEA6D2, Key: Line520.B79A2, Value: Ugh, fine! Take it.
+Hash: F0CA4C3F, Key: VoiceDir520.B79A2, Value: Dim, twitchy, paranoid.
+Hash: 80BD5D16, Key: Line523.B79A3, Value: Might you, um, consider sellin' that back?
+Hash: D7B90283, Key: VoiceDir523.B79A3, Value: Dim, twitchy, paranoid.
+Hash: 67AC1359, Key: Line526.B79A3, Value: Yeah, congratu-bloody-lations...
+Hash: BEA7B8C6, Key: VoiceDir526.B79A3, Value: Dim, twitchy, paranoid.
+Hash: 4E9AC99C, Key: Line529.B79A3, Value: Ugh, fine! Take it.
+Hash: A5966F09, Key: VoiceDir529.B79A3, Value: Dim, twitchy, paranoid.
+Hash: 53EDE86C, Key: Line536.B79AE, Value: Well, well. I'll be damned.
+Hash: AAE98DD9, Key: VoiceDir536.B79AE, Value: Keen, but sloppy. Tipsy.
+Hash: 3ADC9EAF, Key: Line539.B79AE, Value: Huh. Would you look at that?
+Hash: 91D8441C, Key: VoiceDir539.B79AE, Value: Keen, but sloppy. Tipsy.
+Hash: 0C46CA49, Key: Line542.B79AE, Value: That's a damn rare talent.
+Hash: 63426FB6, Key: VoiceDir542.B79AE, Value: Keen, but sloppy. Tipsy.
+Hash: F335808D, Key: Line545.B79AF, Value: Well, well. I'll be damned.
+Hash: 4A3125FA, Key: VoiceDir545.B79AF, Value: Keen, but sloppy. Tipsy.
+Hash: DA2436D0, Key: Line548.B79AF, Value: Huh. Would you look at that?
+Hash: 311FDC3D, Key: VoiceDir548.B79AF, Value: Keen, but sloppy. Tipsy.
+Hash: AB8E626A, Key: Line551.B79AF, Value: That's a damn rare talent.
+Hash: 028A07D7, Key: VoiceDir551.B79AF, Value: Keen, but sloppy. Tipsy.

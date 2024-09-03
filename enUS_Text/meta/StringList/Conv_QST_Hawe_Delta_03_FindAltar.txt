@@ -1,0 +1,2 @@
+Hash: D4479923, Key: Line1.BAE4, Value: Elias’ magic still bars the way forward.
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: To self. Player reaches a barred passage in the dungeon. They must deal with Elias's lingering presence elsewhere before moving forward.

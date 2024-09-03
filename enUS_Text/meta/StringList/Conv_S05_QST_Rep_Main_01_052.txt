@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Fine. What is it you offer?"
+Hash: 5C7D038D, Key: Line10.1BCB9E, Value: (sighs) Blessed Mother. To begin, we offer a taste of the Mother’s power—your birthright.
+Hash: B378A8FA, Key: VoiceDir10.1BCB9E, Value: Deep relief. Welcoming. Sincere.
+Hash: 3500B4E7, Key: Line12.1BCD2B, Value: Oh sure, why not?
+Hash: 8BFC5A54, Key: VoiceDir12.1BCD2B, Value: Flippant. Submitting to a bad idea. Barks for others to open the gate.

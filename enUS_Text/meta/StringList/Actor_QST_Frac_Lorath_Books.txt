@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Odd Book Collection
+Hash: F2CA04D8, Key: NoticeSignText, Value: A variety of texts on local history, old kingdoms, and forgotten faiths. 

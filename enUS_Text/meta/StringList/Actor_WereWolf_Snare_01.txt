@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rusted Trap
+Hash: F2CA04D8, Key: NoticeSignText, Value: Coated in dried blood. Is this intended to catch beast or human?

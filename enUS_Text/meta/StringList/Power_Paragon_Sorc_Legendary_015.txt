@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Enchantment Master
+Hash: 003892BF, Key: desc, Value: Your {c_important}Enchantments{/c} are {c_number}[{SF_0} * 100|%|]{/c} stronger.

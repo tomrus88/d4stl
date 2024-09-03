@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Ignoring Pain
+Hash: 003892BF, Key: Desc, Value: Incoming damage has a {c_random}[Affix_Value_1]%{/c} chance of being ignored and instead Healing you for {c_random}[Affix_Flat_Value_1]{/c}.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Haunted Crossbow
+Hash: F5C7BC0A, Key: Flavor, Value: "Those who came before shall bear witness to your deeds."
+- Inscription on the hilt

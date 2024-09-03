@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Skullbreaker's
+Hash: 003892BF, Key: Desc, Value: Stunning a Bleeding enemy deals {c_random}[Affix_Value_1|%|]{/c} of their total Bleeding amount to them as Physical damage.
+Hash: 82B7D312, Key: CodexDesc, Value: Stunning a Bleeding enemy deals {c_random}[Affix_Value_1|%|]{/c} of total Bleeding amount.

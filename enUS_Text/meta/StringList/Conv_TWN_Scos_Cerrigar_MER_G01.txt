@@ -1,0 +1,4 @@
+Hash: 5D6B43A8, Key: Line1.F7389, Value: (cough) So strong! What is this drink?
+Hash: CC74A9D5, Key: VoiceDir1.F7389, Value: To Wynna. Coughing. Surprised.
+Hash: 915436B8, Key: Line5.F737F, Value: (laugh) It’s just glenbeer, love! Our children drink it at supper.
+Hash: 005D9CE5, Key: VoiceDir5.F737F, Value: To Anuun. Good natured teasing.

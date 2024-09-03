@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Not shown
+Hash: 0482D13D, Key: Line8.106C0E, Value: Can’t let it all burn down...
+Hash: 54B8FD0A, Key: VoiceDir8.106C0E, Value: distressed
+Hash: 58DB9066, Key: Line10.106C0E, Value: I won’t lose my home!
+Hash: AFD735D3, Key: VoiceDir10.106C0E, Value: furious

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shademist
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Minions{/c} deal {c_number}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Shadow damage per second to enemies around them. The damage over time lasts for {c_random}[Affix_Value_2|1|]{/c} seconds after leaving the aura.

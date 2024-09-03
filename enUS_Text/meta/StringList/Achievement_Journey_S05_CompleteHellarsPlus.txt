@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Purging the Infernal
+Hash: 3A4912CF, Key: DescShort, Value: Complete {icon:Marker_Dungeon_Seasonal, 2.5} Hellbreaches

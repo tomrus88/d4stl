@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are you feeling?"
+Hash: 8EB39B3B, Key: Line1.103673, Value: I had come here certain that I could purge the evil from this place. I believed my faith and my blade could cut through any darkness.
+Hash: 673744FD, Key: Line3.103673, Value: But I see now that the Light brought us here for a different purpose. These paladins have suffered through much.
+Hash: 3FBAEEBF, Key: Line5.103673, Value: Though Mephisto may still corrupt this land, his hold over these spirits will cease. That, at least, I can do.

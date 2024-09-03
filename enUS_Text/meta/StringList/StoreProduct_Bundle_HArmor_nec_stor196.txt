@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: A Rose for the King
+Hash: A646FFA4, Key: Description, Value: The late King Korelan awakened in his tomb, heavy with flowers and gold. Before him stood a grinning stranger. "Ahhh there he is," hissed the stranger, "the last heir of Rakkis...You will call me 'master.'"
+Hash: 083EE0CE, Key: Quote, Value: King in life. Servant in death.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

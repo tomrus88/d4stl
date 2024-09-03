@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Knights gamble a lot?"
+Hash: 5D6D27AE, Key: Line1.F9C14, Value: It's a hard life here, what with the dangers and the mines. But if I'm lucky? Could make it five more years without sight of injury or death.
+Hash: CC768DDB, Key: VoiceDir1.F9C14, Value: initially cheerful 

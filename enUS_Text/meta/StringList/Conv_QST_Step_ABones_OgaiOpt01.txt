@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "'The Grinning One?'"
+Hash: 8ECE2685, Key: Line1.10BCF2, Value: The Old One. Bringer of Bliss Eternal. When I saw its smile… nothing else mattered. I felt it. Heard its whisper, but then... silence.
+Hash: DF045252, Key: VoiceDir1.10BCF2, Value: emotional, spoken with deep respect.; sad closure
+Hash: 6751D047, Key: Line3.10BCF2, Value: More visits. More silence.
+Hash: B787FC14, Key: VoiceDir3.10BCF2, Value: disheartened
+Hash: 3FD57A09, Key: Line5.10BCF2, Value: But I know it can speak. Know these dead have heard its words.
+Hash: 900BA5D6, Key: VoiceDir5.10BCF2, Value: emotional, rising enthusiasm
+Hash: 185923CB, Key: Line7.10BCF2, Value: I, too, will know. Will speak with the Grinning One. Prove Ogai is worthy!
+Hash: 688F4F98, Key: VoiceDir7.10BCF2, Value: growing confidence; pronounced: "Oh-guy"

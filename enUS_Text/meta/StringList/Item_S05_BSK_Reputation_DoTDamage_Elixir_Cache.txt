@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Antipathy Parcel
+Hash: A646FFA4, Key: Description, Value: Contains a number of the Antipathy Anointments as well as some gear and a few crafting mats.

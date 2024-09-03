@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are there other farms?"
+Hash: 8EB4BB95, Key: Line1.105800, Value: This here bit of land is all we have left, but it sure as shite ain't enough to feed all those mouths in there.
+Hash: DEEAE762, Key: VoiceDir1.105800, Value: bitter

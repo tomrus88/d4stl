@@ -1,0 +1,3 @@
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: In my search for you, I retraced your steps here... only to find your Horadrim sealed this door. Very tricky, but easily circumvented.
+Hash: BB1147CC, Key: VoiceDir3.1BCB9E, Value: Excited. Showing off a bit.
+Hash: 435EC5C1, Key: Line5.1BCB9E, Value: Master Elias taught me himself.

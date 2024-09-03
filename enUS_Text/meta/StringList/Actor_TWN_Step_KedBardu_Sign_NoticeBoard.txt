@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Notice Board
+Hash: F2CA04D8, Key: NoticeSignText, Value: The survivors of Guulrahn have settled in makeshift camps on the west side of town. Ked Bardu doesn't have the resources to build quick enough to house its growing population.

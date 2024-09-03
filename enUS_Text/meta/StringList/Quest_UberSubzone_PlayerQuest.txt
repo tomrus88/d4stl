@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Helltide Rises
+Hash: 0871A46B, Key: Toast, Value: Slay foes and complete activities to collect Aberrant Cinders used to unlock Tortured Gifts

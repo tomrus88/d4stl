@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What will you do now?"
+Hash: 11D6181E, Key: Line20.FBA9D, Value: The swamp will take me soon enough. (groan) Least now I can die knowing who I am... (groan) what I've done. I miss the fog. I miss not knowing. (groan) But it wasn't right. (groan)
+Hash: 620C43EB, Key: VoiceDir20.FBA9D, Value: Quiet. Defeated. Given up.
+Hash: ABCA91A0, Key: Line22.FBA9D, Value: Just... leave me be. You've given more kindness (groan) than I deserve. (groan) I thank you for that.

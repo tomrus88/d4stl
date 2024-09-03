@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: One must always rule.
+Hash: B8A227EA, Key: Callback4Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 398557AF, Key: Callback9Header, Value: Travel to the {LEVELAREA}
+Hash: D29F0719, Key: Callback12Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 71E69F39, Key: Callback21Header, Value: Deposit Animus into the {GIZMO}

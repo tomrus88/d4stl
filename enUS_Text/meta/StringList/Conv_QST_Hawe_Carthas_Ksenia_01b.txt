@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Lost Legacy
+Hash: 8EB39B3B, Key: Line1.103673, Value: Onward. May the Light guide our way.
+Hash: DEE9C708, Key: VoiceDir1.103673, Value: Confident. "May the Light guide our way" is said like a prayer

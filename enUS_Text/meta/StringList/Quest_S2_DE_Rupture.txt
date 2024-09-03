@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Rupture
+Hash: 38AA8D97, Key: Callback10Header, Value: Investigate the Rupture
+Hash: B8A227EA, Key: Callback4Header, Value: Survive the enemy assault
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay the remaining enemies
+Hash: 6FE82F7E, Key: Callback62Header, Value: Slay Bats before they merge

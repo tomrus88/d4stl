@@ -1,0 +1,14 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Your fallen warriors have been avenged. I slew many cannibals.”
+Hash: 832DCE1C, Key: Line3.5421D.Bar, Value: You honor your clan. But I will wear this dishonor forever.
+Hash: 87A882C9, Key: VoiceDir3.5421D.Bar, Value: Saddened. Solemn. 
+Hash: 832DD8D2, Key: Line3.5421D.Dru, Value: The outsider succeeded where I failed. I will wear this dishonor forever.
+Hash: 87A88D7F, Key: VoiceDir3.5421D.Dru, Value: Saddened. Solemn. 
+Hash: 832E019D, Key: Line3.5421D.Nec, Value: The outsider succeeded where I failed. I will wear this dishonor forever.
+Hash: 87A8B64A, Key: VoiceDir3.5421D.Nec, Value: Saddened. Solemn. 
+Hash: 832E13EF, Key: Line3.5421D.Rog, Value: The outsider succeeded where I failed. I will wear this dishonor forever.
+Hash: 87A8C89C, Key: VoiceDir3.5421D.Rog, Value: Saddened. Solemn. 
+Hash: 832E183B, Key: Line3.5421D.Sor, Value: The outsider succeeded where I failed. I will wear this dishonor forever.
+Hash: 87A8CCE8, Key: VoiceDir3.5421D.Sor, Value: Saddened. Solemn. 
+Hash: 27D0555B, Key: Line7.5421B, Value: Don’t be foolish. There is no shame in injury. Ugh, stop touching it!
+Hash: 96D9BB88, Key: VoiceDir7.5421B, Value: Tries to be comforting. Then lectures her brother for picking at his injury
+Hash: 08F2466A, Key: Line13.5421D, Value: I can't help it!

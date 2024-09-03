@@ -1,0 +1,2 @@
+Hash: D4479923, Key: Line1.BAE4, Value: I don’t like this. (spit) The air here is thick.
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: disgusted

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: King Korelan's Shield
+Hash: 13A53A8B, Key: Series, Value: "Flowers for the Crown"

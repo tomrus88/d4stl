@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: GASPAR STILBIAN
+
+As dangerous as The Scar in the northeastern Highland Wilds is, the appearance of this cruel stranger has made it worse. Gaspar has overpowered any who have attempted to capture him, his fists wreathed in fire.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

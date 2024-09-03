@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [ph] Hateshard Core
+Hash: A646FFA4, Key: Description, Value: Totally rad-dad currency gained by mysterious means. How many can you get per run?

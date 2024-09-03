@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What was that elegy?"
+Hash: 5A28B31F, Key: Line1.8354D, Value: Though light fades, we do not disappear.
+Hash: C932194C, Key: VoiceDir1.8354D, Value: Recitation (elegy), compassionate
+Hash: F41D2CA1, Key: Line3.8354D, Value: Unseen, unheard, we’re always here.
+Hash: 632692CE, Key: VoiceDir3.8354D, Value: Recitation (elegy), compassionate
+Hash: 8E11A623, Key: Line5.8354D, Value: In memories of those held dear.
+Hash: FD1B0C50, Key: VoiceDir5.8354D, Value: Recitation (elegy), compassionate

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Letter from Cormond
+Hash: F2CA04D8, Key: NoticeSignText, Value: "If you’re reading this, I’ve gone to search the ruins of Orbei. I'm not sure how long this will take. Help yourself to my workbench and tools. I hope to have news for you soon. --Cormond"

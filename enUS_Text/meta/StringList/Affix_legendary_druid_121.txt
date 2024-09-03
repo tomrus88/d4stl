@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Subterranean
+Hash: 003892BF, Key: Desc, Value: {c_important}Poison Creeper's{/c} active also casts {c_important}Landslide{/c} in a circle around you. {c_important}Earth{/c} Skills deal {c_random}[Affix_Value_1|%|]{/c} increased damage to Poisoned enemies.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Poison Creeper{/c} casts {c_important}Landslide{/c}. {c_important}Earth Skills{/c} deal {c_random}[Affix_Value_1|%|]{/c} increased damage to Poisoned enemies.

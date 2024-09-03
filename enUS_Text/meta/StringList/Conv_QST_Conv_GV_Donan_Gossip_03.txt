@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What is the cost?”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: A soulstone must always be guarded. It consumes your days, your dreams. You become a prisoner just as much as the demon contained in the stone.
+Hash: F427C5EC, Key: Line3.7FA05, Value: And, despite your efforts, the evil eventually finds a way to break free.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Quiet, in his own thoughts--musing about his own experience with the soulstone
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Even so, I know of no better way to contain a demon. I wish I did, though.

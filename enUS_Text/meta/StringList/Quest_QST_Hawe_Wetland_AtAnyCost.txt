@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: At Any Cost
+Hash: 0871A46B, Key: Toast, Value: Track Elias' dark path through the marshes of Hawezar.
+Hash: D53BFF05, Key: Phase0Description, Value: My heart sinks upon learning that Symon's traveling companion was Elias. If true, it is hard to imagine that Symon still lives. 
+
+Still, if there is even the smallest chance he is alive, I will continue on. The pilgrims directed me towards a refuge in the marshes marked by giant tusks.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Find the refuge marked by giant tusks
+Hash: 30DC76D6, Key: Phase10Description, Value: My heart sinks upon learning that Symon's traveling companion was Elias. If true, it is hard to imagine that Symon still lives. 
+
+Still, if there is even the smallest chance he is alive, I will continue on. The pilgrims directed me towards a refuge in the marshes marked by giant tusks.
+Hash: 398557AF, Key: Callback9Header, Value: Enter the Strange Refuge

@@ -1,0 +1,6 @@
+Hash: 1AA42CD3, Key: 01GroupUp, Value: Do you want to party up?
+Hash: F0EC9D1B, Key: 02JoinRequest, Value: Can I join your party?
+Hash: 24B5E175, Key: 03HelpRequest, Value: Can you help me?
+Hash: 0D74D8E5, Key: 04ItemOffer, Value: Do you want this item?
+Hash: 106D6B93, Key: 05JoinClan, Value: Do you want to join my clan?
+Hash: 291039BD, Key: 06JoinClanRequest, Value: Can I join your clan?

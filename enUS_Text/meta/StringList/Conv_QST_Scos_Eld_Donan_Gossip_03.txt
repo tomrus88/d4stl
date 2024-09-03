@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The two of you are friends?”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: We haven’t spoken much in recent years, but yes. I’m the only friend he has.
+Hash: F427C5EC, Key: Line3.7FA05, Value: Forging bonds is not exactly a strength of his, as I’m sure you’ve noticed.

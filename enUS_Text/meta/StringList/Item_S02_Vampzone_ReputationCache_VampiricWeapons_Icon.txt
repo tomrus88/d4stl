@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Seeker's Weapon Cache
+Hash: A646FFA4, Key: Description, Value: An assortment of weapons once belonging to a Blood Seeker.
+Hash: F5C7BC0A, Key: Flavor, Value: In return for their eternal fealty, Blood Seekers are trusted with Zir's most powerful arms and artifacts.

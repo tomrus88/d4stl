@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Sack of Vampiric Torques
+Hash: A646FFA4, Key: Description, Value: Various amulets formerly worn by Blood Lords.
+Hash: F5C7BC0A, Key: Flavor, Value: Despite their violent tendencies, Vampires are able craftsmen with a keen eye for aesthetics.

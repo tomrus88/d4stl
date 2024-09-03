@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Björnfang's Tusks (Not used, we reuse for future!)
+Hash: F5C7BC0A, Key: Flavor, Value: Few skalds still recite the Björnfang Saga, tale of the first bears to walk Sanctuary. The Saga's final line goes as such, "One who wields the Björnfang's tooth, shall thus become its maw."

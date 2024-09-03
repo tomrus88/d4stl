@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why so much secrecy?"
+Hash: 0C84B376, Key: Line13.FEF74, Value: The Cathedral of Light used to perform these kinds of rituals whenever anyone was in need, but it seems that lately they would rather burn the demon along with the victim.
+Hash: A6792CF8, Key: Line15.FEF74, Value: I still believe in the Father and his holy grace, but I couldn't let that happen to the Sister, not after she saved my boy. No matter what happens to me.

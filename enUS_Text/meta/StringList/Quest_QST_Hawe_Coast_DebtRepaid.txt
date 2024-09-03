@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: A Debt Repaid
+Hash: 0871A46B, Key: Toast, Value: Help a woman square away a debt she owes, before her ship leaves Backwater.
+Hash: 5CD6EA0D, Key: Phase8Description, Value: We found Flinn alive, north of Backwater, but as with so many others in this area, he had been turned into a Drowned. To square Kato’s debt with Flinn, we mercy killed him. I should check in with her.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Kato
+Hash: D53BFF05, Key: Phase0Description, Value: I found a woman in Backwater who said she owes a debt to a man named Flinn. Her ship is getting ready to leave, and she is determined to clear her debt before departing. However, Flinn has recently gone missing. She says he was expected up the road north of Backwater, so we should begin our search there.
+Hash: 34ADAE21, Key: Callback92Header, Value: Find Flinn

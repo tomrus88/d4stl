@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Backstabbers
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Close monster attacks from behind cause you to become Vulnerable. Vulnerable damage taken is increased by 35%.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Close monster attacks from behind cause you to become Vulnerable. Vulnerable damage taken is increased by 15%.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Close monster attacks from behind cause you to become Vulnerable.

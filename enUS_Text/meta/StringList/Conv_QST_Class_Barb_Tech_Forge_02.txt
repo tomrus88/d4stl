@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have returned."
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: Welcome, kindred warrior. Katra tells me she’s never seen such skill... that you must be an Ancient reborn.
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: Genuine. Reverent. Then grinning at Katra.  
+Hash: 3CDB3BB3, Key: Line17.541E6, Value: She exaggerates--
+Hash: 8D116780, Key: VoiceDir17.541E6, Value: Scoffing. Frowning.
+Hash: A762F117, Key: Line19.137EC4, Value: But you are not Oxen Tribe yet. Not without a crest, made in the Great Forge...
+Hash: FE5E9684, Key: VoiceDir19.137EC4, Value: Interjecting. Official. Pleased.
+Hash: B9D0BB10, Key: Line21.137EC4, Value: May it guard you on the path. And always guide you home.
+Hash: 10CC607D, Key: VoiceDir21.137EC4, Value: A traditional phrase. Reverent and warm.

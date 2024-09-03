@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Butchered Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: After the body was stripped of anything valuable, it was propped up for target practice.

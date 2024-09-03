@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: No respect for the dead.
+Hash: F81CED9C, Key: Callback33Header, Value: Defeat the {MONSTER}
+Hash: 1879A109, Key: Callback102Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: F0FD4ACB, Key: Callback122Header, Value: Deposit Animus into the {GIZMO}
+Hash: 8AF1C44D, Key: Callback124Header, Value: Travel to the {LEVELAREA}
+Hash: 6FE82F7E, Key: Callback62Header, Value: Collect {ITEM} from Animus Carriers

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is there something you need?"
+Hash: 5D6D2CD2, Key: Line1.F9D80, Value: You there! The Light has use for you. We march to rescue our Brothers and Sisters who have fallen prey to the vile cultists lurking in the ruins to the east!
+Hash: F761A654, Key: Line3.F9D80, Value: Normally we wouldn't stoop to hiring mercenaries, but I've sworn to send any aid I can. What say you? Will you join in our impending victory?
+Hash: 257DD422, Key: Line10.F9D80, Value: Excellent. The Light will not forget you. Report to Crusader Berolt in the eastern fens for your orders.

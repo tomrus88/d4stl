@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Delights of Agony
+Hash: A646FFA4, Key: Description, Value: Many who suffer dwell in the shadows, as though judgment would deepen their pain. Few ride through town with agony laid bare: a revelation for all to see.
+Hash: 083EE0CE, Key: Quote, Value: What doesn't kill us...
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Malphas
+Hash: 8F609400, Key: Line1.18EDEB, Value: (exhale)
+Hash: DF96BFCD, Key: VoiceDir1.18EDEB, Value: livid

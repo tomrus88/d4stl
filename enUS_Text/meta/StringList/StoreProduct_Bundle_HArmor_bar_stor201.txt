@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Bloody Hawk
+Hash: A646FFA4, Key: Description, Value: "Bloodhawks are vermin. They're filthy, vicious, damn difficult to kill...I like bloodhawks." - Katra of Oxen Tribe
+Hash: 083EE0CE, Key: Quote, Value: Homage to the red-winged menace.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of the Calm Breeze
+Hash: 003892BF, Key: Desc, Value: {c_important}Wind Shear{/c} now deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Poisoning damage over {c_number}[Affix."Static Value 0"]{/c} seconds.
+
+{c_label}Lucky Hit:{/c} {c_important}Wind Shear{/c} has up to a {c_random}[Affix_Value_1|1%|]{/c} chance to fully restore your Spirit.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Wind Shear{/c} now deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Poisoning damage, and has a {c_random}[Affix_Value_1|1%|]{/c} chance to fully restore your Spirit.

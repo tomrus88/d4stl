@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: BLIND EDLIN
+
+While it is true that Blind Edlin is a story told to wayward children, there can be no denying the sound of a bell issuing forth from the Blood Vale. Whether or not the stories are true, be wary while traveling through that accursed place.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

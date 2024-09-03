@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Poisoning damage effects have a {c_number}[{SF_0}*100|%|]{/c} chance to deal double the amount of damage over their duration.

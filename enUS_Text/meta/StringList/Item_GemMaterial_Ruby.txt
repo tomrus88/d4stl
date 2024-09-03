@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ruby Fragment
+Hash: A646FFA4, Key: Description, Value: Shards of Ruby, which can be made into a Gem at the Jeweler.

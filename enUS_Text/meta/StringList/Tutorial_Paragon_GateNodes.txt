@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Gate Nodes
+Hash: 7BFE534B, Key: simple_instruction, Value: {icon:ParagonNode_Icon_Gate, 2.5} Gate nodes allow you to attach additional paragon boards.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hatred
+Hash: F71E3DEE, Key: Line3.ACEF6, Value: I know your scent. Hm. You have come so far.
+Hash: 6627A41B, Key: VoiceDir3.ACEF6, Value: Knowingly--this demonic wolf has met the player before (in the prologue)
+Hash: 9112B770, Key: Line5.ACEF6, Value: But still so far to go. Fear not. Hatred will light the way. All you need to do is set your anger free.

@@ -1,0 +1,4 @@
+Hash: 9242137D, Key: Line23.128869, Value: I checked everywhere, sir. Dawood is not in camp.
+Hash: E93DB8EA, Key: VoiceDir23.128869, Value: Respectful. Apologetic.
+Hash: 5E92AA0F, Key: Line21.D5166, Value: That boy's got more sand than sense.
+Hash: AEC8D5DC, Key: VoiceDir21.D5166, Value: Muttering to self. Frustrated. Worried.

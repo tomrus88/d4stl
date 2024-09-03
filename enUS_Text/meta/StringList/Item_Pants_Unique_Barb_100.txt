@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Leatherbound Kecks
+Hash: 003DFCC1, Key: Name, Value: Arreat's Bearing
+Hash: F5C7BC0A, Key: Flavor, Value: "Rise clansmen and reclaim our trampled honor! Ancients' blood runs through us all! We are storms - earth breaking, maelstrom wielding. The fire of the gods burn still! They are with us!" 
+- Ealda

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Druidic Banner
+Hash: F2CA04D8, Key: NoticeSignText, Value: A banner of the chieftains of Cerrigar, tattered and faded with age. 

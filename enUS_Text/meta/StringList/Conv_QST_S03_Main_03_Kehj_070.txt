@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing?"
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: Zoltun insisted on security... security which Malphas has felicitously taken advantage of.
+Hash: 75451B6B, Key: VoiceDir13.18AEA4, Value: winded, frustrated. Empashasis on "insisted" 

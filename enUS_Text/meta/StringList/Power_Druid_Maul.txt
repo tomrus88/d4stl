@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Maul
+Hash: 003892BF, Key: desc, Value: {if:SF_13}{c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{c_label}Generate Spirit:{/c_label} {c_resource}{SF_0}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Shapeshift into a Werebear and maul enemies in front of you, dealing {c_number}{payload:MELEE_PAYLOAD}{/c} damage. 
+Hash: F2DE8628, Key: simple_desc, Value: Basic Skill: Turn into a Werebear and tear at an enemy.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:MELEE_PAYLOAD}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: If an enemy is hit by {c_important}Maul{/c}, then {c_important}{u}Fortify{/u}{/c} for {c_number}[{SF_2}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,{fortified:FORTIFY_CASTER})|0|]){/c}. 
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Maul
+Hash: 2577B2B4, Key: Mod1_Description, Value: Increases the range and radius of {c_important}Maul{/c} by {c_number}[SF_3 *100|%|]{/c}.
+Hash: 948901D1, Key: Mod1_Name, Value: Fierce Maul
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Maul{/c} has a {c_number}[{SF_6}*100|%|]{/c} chance to Knock Down enemies for {c_number}{SF_7}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Wild Maul

@@ -1,0 +1,2 @@
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Why do I only hear one set of footsteps?
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Concerned, weary. He was hoping we would return with Neyrelle, but we are alone. Bad news.

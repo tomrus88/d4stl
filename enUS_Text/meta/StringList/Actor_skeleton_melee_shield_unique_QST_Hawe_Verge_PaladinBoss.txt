@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Paladin
+Hash: CC38ADCB, Key: FlavorName, Value: Protector of the Tomb

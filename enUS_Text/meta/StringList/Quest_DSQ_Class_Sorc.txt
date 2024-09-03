@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Legacy of the Magi
+Hash: D53BFF05, Key: Phase0Description, Value: Mordarin has invited me to participate in a ritual to learn more about the Codex. 
+Hash: B8A227EA, Key: Callback4Header, Value: Follow Mordarin
+Hash: 8DCA476E, Key: Phase9Description, Value: I must light these magic braziers to help Mordarin prepare his ritual. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Light the {GIZMO}
+Hash: D29F0719, Key: Callback12Header, Value: Light the {GIZMO}
+Hash: 1F9943DA, Key: Callback13Header, Value: Light the {GIZMO}
+Hash: 6C93809B, Key: Callback14Header, Value: Light the {GIZMO}
+Hash: 8784047D, Key: Phase17Description, Value: The braziers are lit, we can begin Mordarin's ritual.
+Hash: 0687FA1D, Key: Callback16Header, Value: Speak with Mordarin
+Hash: 803B8057, Key: Phase20Description, Value: Mordarin's ritual has gone wrong.  I must slay these demons. 
+Hash: ED76B060, Key: Callback19Header, Value: Slay demons

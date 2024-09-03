@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Zir's Bloody Skull
+Hash: A646FFA4, Key: Description, Value: A gruesome display of your victory over the Vampire Lord.

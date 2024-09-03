@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm looking for a guide to help me pass through the northern storm."
+Hash: 5A431844, Key: Line1.8C8DF, Value: Hmph. You’ll find none fool enough to accept that request here. Give up and stay alive a day longer.
+Hash: C94C7E71, Key: VoiceDir1.8C8DF, Value: Disdainful, haughty

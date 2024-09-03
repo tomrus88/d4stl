@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Large Event Reward Cache
+Hash: A646FFA4, Key: Description, Value: Grants items on use
+Hash: F5C7BC0A, Key: Flavor, Value: Reward for completing an event and its optional objective

@@ -1,0 +1,2 @@
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: That is a proper demon! Watch your arse!
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Alarmed. Barking orders in combat.

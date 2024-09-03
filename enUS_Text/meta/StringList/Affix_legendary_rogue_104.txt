@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Cruel Sustenance
+Hash: 003892BF, Key: Desc, Value: Explosions from the {c_important}Victimize{/c} Key Passive Heal you for {c_random}[Affix_Flat_Value_1]{/c} Life for each enemy damaged, up to a maximum of {c_random}[Affix_Flat_Value_1 * Affix."Static Value 0"]{/c} Life.
+Hash: 82B7D312, Key: CodexDesc, Value: Explosions from the {c_important}Victimize{/c} Key Passive Heal you for {c_random}[Affix_Flat_Value_1]{/c} Life for each enemy damaged.

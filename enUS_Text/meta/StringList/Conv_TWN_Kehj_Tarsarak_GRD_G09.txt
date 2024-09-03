@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you news of the Knights?"
+Hash: 6752BA20, Key: Line3.10E7E5, Value: "Heretics" they called us. Their damned angel can rot in Hell.
+Hash: B788E5ED, Key: VoiceDir3.10E7E5, Value: Bitter, simmering anger. "They" were knights that seized the town and killed several of his neighbors.

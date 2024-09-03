@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Incendiary
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Damage from your {c_important}Pyromancy{/c} Skills has up to a {c_random}[Affix_Value_1|1%|]{/c} chance to restore {c_number}[Affix."Static Value 0"]{/c} Mana.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Pyromancy{/c} Skills have {c_random}[Affix_Value_1|1%|]{/c} chance to restore Mana.

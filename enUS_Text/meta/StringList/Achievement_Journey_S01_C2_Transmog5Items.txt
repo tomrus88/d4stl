@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Warrior of Taste
+Hash: 3A4912CF, Key: DescShort, Value: Change your gear's appearance at the {icon:Marker_Wardrobe, 2.5} Wardrobe 

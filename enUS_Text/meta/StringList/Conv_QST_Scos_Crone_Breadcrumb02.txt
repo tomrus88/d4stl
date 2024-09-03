@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you hurt?"
+Hash: 5D23008B, Key: Line1.B79B0, Value: Yes. I was travelling to petition the Crone for a blessing when I was attacked by a wild animal. The deep forest has always been dangerous, but the animals seem more aggressive than normal.
+Hash: F7177A0D, Key: Line3.B79B0, Value: I managed to fend it off, but it took a chunk out of my leg in the process. Might you have a potion I could drink?

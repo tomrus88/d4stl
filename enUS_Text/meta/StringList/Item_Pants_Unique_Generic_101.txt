@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tassets of the Dawning Sky
+Hash: F5C7BC0A, Key: Flavor, Value: “May the Light of Father Inarius shine down upon all weary travelers of this holy land. Turn your face toward his radiance and find your strength renewed.”
+- Statue Inscription

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ravenous
+Hash: 003892BF, Key: Desc, Value: Killing a {c_important}{u}Vulnerable{/u}{/c} enemy grants you {c_random}[Affix_Value_1|1%x|]{/c} increased Energy Regeneration for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Killing a {c_important}{u}Vulnerable{/u}{/c} enemy grants you {c_random}[Affix_Value_1|1%x|]{/c} increased Energy Regeneration.

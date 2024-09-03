@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You can see it too?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: This creature...it’s magnificent. I can see myself in the scales. Walking on them like...a path through the swamp. The serpent is the path.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Slightly dreamy feel, under the effects of mystic incense. Awe. Realization coming to her for the final line.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Serpent? What are you talking about?
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Confused, slightly out of it. Slightly dreamy feel, under the effects of mystic incense.
+Hash: C1F212B9, Key: Line9.6DE47, Value: You don’t see it?
+Hash: 30FB78E6, Key: VoiceDir9.6DE47, Value: Slightly dreamy feel, under the effects of mystic incense.
+Hash: F413C4CC, Key: Line3.6D03F, Value: No...only a cloud of smoke.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Concerned, unsettled. Slightly dreamy feel, under the effects of mystic incense.
+Hash: 6F2B10C2, Key: Line11.6DE47, Value: Oh.
+Hash: BF613C8F, Key: VoiceDir11.6DE47, Value: Curious, finds it strange Lorath can only see smoke. Slightly dreamy feel, under the effects of mystic incense.

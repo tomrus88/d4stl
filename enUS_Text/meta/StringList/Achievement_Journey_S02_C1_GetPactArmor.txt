@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Contract Forged
+Hash: 3A4912CF, Key: DescShort, Value: Equip a piece of Pact Armor, available after completing or skipping the Campaign

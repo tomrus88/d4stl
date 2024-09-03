@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What comes next?"
+Hash: 8ED899EA, Key: Line1.123EBF, Value: We did it... the axe is no more.
+Hash: DF0EC5B7, Key: VoiceDir1.123EBF, Value: tired and now with a guilty conscience, somewhat sad
+Hash: 675C43AC, Key: Line3.123EBF, Value: I know not what has become of the souls of its victims. We can but pray they have found the Light.
+Hash: B7926F79, Key: VoiceDir3.123EBF, Value: tired and now with a guilty conscience, somewhat sad

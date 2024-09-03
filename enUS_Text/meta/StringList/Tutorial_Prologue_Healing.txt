@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Healing Potions
+Hash: 7BFE534B, Key: simple_instruction, Value: Healing Potions can drop from {c_highlight}enemies and objects{/c} and are automatically picked up when not at max capacity.

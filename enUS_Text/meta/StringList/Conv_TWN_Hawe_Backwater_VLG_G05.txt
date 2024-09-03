@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED9E9ED, Key: Line1.1270C9, Value: Boss, sir, you can rely on me—no, no, you gotta stand out, man.
+Hash: DF1015BA, Key: VoiceDir1.1270C9, Value: Talking to himself. Practicing.
+Hash: 675D93AF, Key: Line3.1270C9, Value: Boss, I’m as strong a fighter as any... fighter. No, stupid!
+Hash: B793BF7C, Key: VoiceDir3.1270C9, Value: Talking to himself. Practicing.

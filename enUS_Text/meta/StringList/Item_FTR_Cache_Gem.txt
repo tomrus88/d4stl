@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Gem Cache
+Hash: A646FFA4, Key: Description, Value: A cache of items found inside Dungeons. Contains an assortment of Gems.
+Hash: F5C7BC0A, Key: Flavor, Value: Precious gems embody innate magical abilities. When set into a socketed item these gems can add powerful magic effects. Higher grades of gems have stronger effects.

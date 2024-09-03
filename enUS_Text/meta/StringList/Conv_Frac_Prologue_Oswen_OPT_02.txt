@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did he hurt you?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: You need a wet nurse or something? Piss off.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Grumpy, angry

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Silver Ore
+Hash: A646FFA4, Key: Description, Value: Rare metal used for improving weapons and jewelry. Found in veins nearly everywhere.
+Hash: F5C7BC0A, Key: Flavor, Value: Silver is prized by artisans for both its beauty and potency against dangerous creatures throughout Sanctuary.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Major Wardwoven Chest
+{c_gold}Requires{/c} {c_green}10{/c} {c_gold}charges of Zoltun's Warding{/c}

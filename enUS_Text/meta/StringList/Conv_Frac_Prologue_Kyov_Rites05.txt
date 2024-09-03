@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Inscribe "Fear" into the wood.
+Hash: D4479923, Key: Line1.BAE4, Value: Fear...
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: Quiet, muttered under breath.

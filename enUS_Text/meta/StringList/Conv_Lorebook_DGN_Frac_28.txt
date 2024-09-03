@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bloodstained Scrap of Paper
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Bloodstained Scrap of Paper
+Hash: 5D20E754, Key: Line1.B2A6B, Value: My name is Pomuk Zlicek. I write this as I bleed out my last among the corrupted tombs of those who might have been my brothers. I have hunted these wretched creatures for as long as I've been able to wield a knife against them.
+Hash: 2AFE53DA, Key: Line7.B2A6B, Value: They feed on blood and grow strong in numbers. I have chased them into this nest and been caught in a trap.
+Hash: C4F2CD5C, Key: Line9.B2A6B, Value: Their leader can raise the dead and I fear for all who wander unknowingly into these crypts. If you have the skill, hunt them down. Do not let my death be for naught.

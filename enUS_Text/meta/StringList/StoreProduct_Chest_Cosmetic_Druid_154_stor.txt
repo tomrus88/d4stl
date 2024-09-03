@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Deep in the jungles of Nahantu, some claim to have met a lone druid. Strong beyond measure, part man and part tusked beast, he is said to walk with the spirits.
+Hash: 003DFCC1, Key: Name, Value: Craiceaan Liath
+Hash: 13A53A8B, Key: Series, Value: "The Tusked Lord"

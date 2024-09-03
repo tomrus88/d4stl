@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bait the Trap
+Hash: 6735A8AD, Key: Line3.10088C, Value: ...Makes no sense...he couldn’t have...
+Hash: B76BD47A, Key: VoiceDir3.10088C, Value: To self, frustrated.

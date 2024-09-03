@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Feeling all right?" 
+Hash: 5A196F77, Key: Line1.789BF, Value: Andariel is getting louder. Screaming...or laughing. I can't tell the difference.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: troubled
+Hash: F40DE8F9, Key: Line3.789BF, Value: I tried to push her down, but being stuck in that cramped room...
+Hash: 63174F26, Key: VoiceDir3.789BF, Value: troubled. trailing off for the last line as if to say "I can't think straight being stuck in that room."
+Hash: 8E02627B, Key: Line5.789BF, Value: I just need a moment of quiet.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: Taking a breath/trying to stay calm

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Burial Jar
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Light blind the eyes that watched our innocent burn. Let them rot in darkness."
+
+The jar is cracked, the eyes missing.

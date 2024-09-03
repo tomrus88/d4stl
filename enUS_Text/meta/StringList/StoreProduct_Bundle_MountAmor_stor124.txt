@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Flesheater Appendage
+Hash: A646FFA4, Key: Description, Value: Cannibals are not the mindless brutes most think. At the very least, they have the intelligence to use mounts to spread their terror across Sanctuary.
+Hash: 083EE0CE, Key: Quote, Value: Speed of the cannibal horde.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Temple Gatekeeper tells Lorath and PC to stop
+Hash: 5D2269C2, Key: Line1.B6829, Value: Trespassers! Your screams will welcome Andariel to the world!
+Hash: CC2BCFEF, Key: VoiceDir1.B6829, Value: Yelling, angry. Heretics are invading your holy (evil) place

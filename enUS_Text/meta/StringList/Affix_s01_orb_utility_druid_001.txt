@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Inexorable Force
+Hash: 003892BF, Key: Desc, Value: Up to {c_random}[Affix_Value_1]{/c} Distant enemies are pulled toward you while you have an {c_important}Ultimate{/c} Skill active.

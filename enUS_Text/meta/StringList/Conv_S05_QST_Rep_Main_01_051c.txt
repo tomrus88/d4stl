@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Your friend seems to disagree with you."
+Hash: 1BE26F83, Key: Line7.1BCB9E, Value: Istel may be stubborn, but—
+Hash: 6C189B50, Key: VoiceDir7.1BCB9E, Value: Grieved. Tense.
+Hash: 0D845EA9, Key: Line14.1BCD2B, Value: Me? Nah, we're all friends here! I mean, you slaughtered our brethren and killed our Mother, but hey. Bygones, yeah?
+Hash: 64800416, Key: VoiceDir14.1BCD2B, Value: Interrupting. Smiling. Seething.

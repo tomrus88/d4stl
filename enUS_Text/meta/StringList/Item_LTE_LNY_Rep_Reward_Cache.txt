@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Greater Awakened Spoils
+Hash: A646FFA4, Key: Description, Value: A cache containing a collection of highly valuable rewards such as Ancestors' Favor Nightmare Dungeon Sigils and Armor.

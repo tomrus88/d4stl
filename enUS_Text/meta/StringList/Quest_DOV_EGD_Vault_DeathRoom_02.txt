@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Wayward Soul
+Hash: 5C23DFB6, Key: Callback178Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: 34A78978, Key: Callback198Header, Value: Enter The Crucible
+Hash: FA1B16B0, Key: Callback217Header, Value: {c_yellow}Zoltan's Mastery:{/c} Remain in the ring: {LEFT}
+Hash: 2C3DAA2A, Key: Callback211Header, Value: Survive the onslaught 

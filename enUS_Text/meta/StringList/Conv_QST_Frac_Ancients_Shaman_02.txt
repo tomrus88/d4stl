@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What has befallen you!?"
+Hash: 8EDA82FB, Key: Line1.1283AE, Value: You! You're the warrior, he -- he is near! You must not let him consume you too... oh, no, no, no!
+Hash: DF10AEC8, Key: VoiceDir1.1283AE, Value: final "no" especially emphatic
+Hash: 675E2CBD, Key: Line3.1283AE, Value: Chieftain of the Bear Tribe! You are here to answer the call! Now you are mine, just as those who have come before you!

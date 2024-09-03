@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bladedancer's
+Hash: 003892BF, Key: Desc, Value: {c_important}Twisting Blades{/c} orbit for a short time after they return to you, dealing {c_random}[Affix_Value_1|%|]{/c} of {c_important}Twisting Blades'{/c} return damage per hit.

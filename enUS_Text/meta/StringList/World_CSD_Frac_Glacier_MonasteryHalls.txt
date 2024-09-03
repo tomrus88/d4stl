@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Alabaster Monastery
+Hash: 003892BF, Key: Desc, Value: Inarius meditates in the solitude of this holy place.

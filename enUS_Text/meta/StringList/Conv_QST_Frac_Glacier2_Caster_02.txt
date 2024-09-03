@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why must I kneel?”
+Hash: A67637A6, Key: Line15.FA865, Value: No, no, no, it's not about kneeling. It’s about wonder. Awe. The Light itself, divinity itself, radiates from that room.
+Hash: 406AB128, Key: Line17.FA865, Value: Though my flesh is cold and numb, my spirit is warm with reverence. What can we do but kneel?

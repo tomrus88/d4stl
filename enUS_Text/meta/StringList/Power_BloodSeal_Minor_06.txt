@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Anticipation
+Hash: C6E60718, Key: Buff2_Description, Value: Ultimate Damage increased by {c_number}[{SF_4}*100|%]{/c} per nearby enemy affected by your Damage Over Time effects.

@@ -1,0 +1,37 @@
+Hash: 8FB09156, Key: SubCategory_HeroName, Value: Character Name
+Hash: B11A0E4C, Key: SubCategory_TextChat, Value: Text Chat
+Hash: 4DB7577D, Key: SubCategory_VoiceChat, Value: Voice Chat
+Hash: C583C6D8, Key: SubCategory_Spam, Value: Spam Messages
+Hash: CA16BBDE, Key: SubCategory_Botting, Value: Botting Accounts
+Hash: 76135F9C, Key: SubCategory_Hacking, Value: Hacking
+Hash: A69AECA7, Key: SubCategory_Username, Value: Inappropriate Username
+Hash: BF4D255F, Key: SubCategory_Battletag, Value: Inappropriate Battletag
+Hash: E5854706, Key: SubCategory_ClanName, Value: Clan Name
+Hash: E584F719, Key: SubCategory_ClanMOTD, Value: Clan Message of the Day
+Hash: AAF56A49, Key: SubCategory_ClanDescription, Value: Clan Description
+Hash: DB39AA60, Key: SubCategory_ClanHeraldry, Value: Clan Heraldry
+Hash: 0EB69001, Key: SubCategory_ClanTag, Value: Clan Tag
+Hash: E582BF91, Key: SubCategory_ClanInfo, Value: Clan Information
+Hash: 5C89F0F8, Key: Diablo4-PlayerUGC, Value: Inappropriate User Generated Content
+Hash: B62B9766, Key: Diablo4-PlayerUGC-Name, Value: Inappropriate User Generated Name
+Hash: EF271552, Key: ActionTaken_Title, Value: Your Report Matters
+Hash: D0E7E3FE, Key: ActionTaken_Body, Value: Thank you for your report. Players who cannot abide by our policies are disruptive to the Diablo IV community and your reports help us identify them.
+
+Your report has led to actions against a player and their account, although we can't provide specific details about account penalties for privacy reasons.
+
+If you come across more bad behavior, we encourage you {c_highlight}continue{/c} to protect the Diablo IV community by reporting it to us.
+
+Let's protect all of Sanctuary and make it a friendlier place for everyone.
+
+Thank you!
+
+Regards,
+Blizzard Support
+Hash: 3B8F8A39, Key: NearPenaltyWarning, Value: Behavior Warning
+Hash: 661C970A, Key: NearPenaltyWarningBodyFirstHalf, Value: Due to recent actions on your account, you are receiving this warning for
+
+
+Hash: 723EF9FE, Key: NearPenaltyWarningBodySecondHalf, Value: 
+Your fellow players reported you multiple times, since your recent behavior is not in line with how most Diablo players act. Additional reports may result in account restrictions, uncluding communication silences, suspended access, or permanent closure of your account.
+
+We do not tolerate any hateful, discriminatory, obscene, or disruptive behavior, so please be respectful and help keep the Diablo Community positive.

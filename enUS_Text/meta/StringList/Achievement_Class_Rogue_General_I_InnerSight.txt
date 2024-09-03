@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fatal Flaw
+Hash: 003892BF, Key: Desc, Value: Kill 100 enemies marked with Inner Sight.

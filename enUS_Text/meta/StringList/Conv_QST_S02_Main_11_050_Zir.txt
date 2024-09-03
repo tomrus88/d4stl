@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Zir
+Hash: 8F3B878D, Key: Line1.16E226, Value: Foolish child. I gave you your power... You were mine the moment you crossed my threshold.
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Calm. Superior. Venomous.

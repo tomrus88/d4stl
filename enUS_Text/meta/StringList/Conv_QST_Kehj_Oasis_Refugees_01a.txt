@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The roads are dangerous. Why travel to Dahlgur?”
+Hash: 5D5EB317, Key: Line1.DB62B, Value: We came for the Iron Wolves. They've protected my people since before I was born, often asking nothing in return.
+Hash: CC681944, Key: VoiceDir1.DB62B, Value: Sincere. Grateful.
+Hash: 9147A61B, Key: Line5.DB62B, Value: Heh, well, poor practice for mercenaries, if you ask me... So we will repay them however we can. Keep them fighting.
+Hash: 00510C48, Key: VoiceDir5.DB62B, Value: Grinning, poking fun. Then sincere again.

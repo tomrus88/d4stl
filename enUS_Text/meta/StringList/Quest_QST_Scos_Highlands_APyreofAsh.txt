@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Pyre of Ash
+Hash: 0871A46B, Key: Toast, Value: Embers rise again from fires extinguished long ago.
+Hash: D53BFF05, Key: Phase0Description, Value: Torben told me the worn insignia belonged to a mercenary company from the Days of Ash. Blackweald Company. The same company of the fabled killer, the Bear of Blackweald.
+
+Torben seems disturbed by the idea that they have returned. I should speak with him to see how they’re related to the merchant killings.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Torben about Blackweald Company
+Hash: 61CFD437, Key: Phase11Description, Value: As Torben was telling me about Blackweald Company, we were interrupted by news of a large fire spotted on the southern ridge. Torben seemed disquieted by the news, saying he believes the fires are connected to Blackweald Company’s return.
+
+He asked that I search for the source of the fires while he protects the Goose and its patrons.
+Hash: 1F9943DA, Key: Callback13Header, Value: Find the source of the smoke
+Hash: 5690A71C, Key: Phase16Description, Value: I found the source of the smoke—a pyre of human corpses. Scorched bodies lead to a nearby cellar entrance. I’m sure to find answers within.
+Hash: B98DBD5C, Key: Callback15Header, Value: Enter the Embered Recess

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Blood of Brigands 
+Hash: 0871A46B, Key: Toast, Value: The glenfolk will pay anyone willing to keep the roads safe.
+Hash: FAF02F4B, Key: Phase6Description, Value: A man in Cerrigar claims the roads have become even more dangerous following Astaroth's attack.
+
+He has hired me to strike fear into bandits throughout the Emerald Chase in hopes that he may travel again soon.
+Hash: 059C64AB, Key: Callback5Header, Value: Slay Bandits: {DONE_OVER_NEEDED}
+Hash: 92C33198, Key: Phase12Description, Value: Bandit blood has been spilt outside of Cerrigar. I should return to Bryce in town for my payment. 
+Hash: 85A4CA58, Key: Callback11Header, Value: Return to Bryce

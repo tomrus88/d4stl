@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Demon Bark
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Malphas
+Hash: F16F3B08, Key: Line9.18EDEB, Value: You cherished him...

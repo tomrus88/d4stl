@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nafain's Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: He makes no sound and draws no breath, but his eyes seem to be watching you.

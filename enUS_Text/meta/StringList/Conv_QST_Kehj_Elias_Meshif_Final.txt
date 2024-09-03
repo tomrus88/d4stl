@@ -1,0 +1,4 @@
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Put pressure here. We need to stop the bleeding.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Concerned
+Hash: 2AFEA817, Key: Line7.B4310, Value: It seems I've lost a step in my old age, eh, Deckard?
+Hash: 9A080E44, Key: VoiceDir7.B4310, Value: Mortally wounded, but still joking as "Meshif"

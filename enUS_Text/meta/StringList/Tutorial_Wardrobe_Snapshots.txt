@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Ensembles
+Hash: 7BFE534B, Key: simple_instruction, Value: Ensembles allow you to {c_highlight}save and load{/c} your favorite combinations of looks.

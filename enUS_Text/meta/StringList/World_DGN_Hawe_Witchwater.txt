@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Witchwater
+Hash: 003892BF, Key: Desc, Value: Nangari cultists lure prey here with songs sung in dreams.

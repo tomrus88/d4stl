@@ -1,0 +1,6 @@
+Hash: 5953B7B8, Key: S04TIP004, Value: Increasing your {icon:Marker_IronWolf, 2.0} {c_highlight}Wolf's Honor{/c} within {icon:Marker_Helltide, 2.0} Helltide provides many kinds of rewards, including equipment, materials, and {c_highlight}Temper Manuals{/c}. 
+Hash: 5953B7B5, Key: S04TIP001, Value: The {c_highlight}Season Journey{/c} can be found in the {c_highlight}Seasons{/c} tab in the Menu.
+Hash: 5953B7B6, Key: S04TIP002, Value: Follow the {icon:Quest_Season_Progress, 2.0} {c_highlight}Seasonal Quest mark{/c} on the Map or in the Journal to explore Seasonal content.
+Hash: 5953B7B7, Key: S04TIP003, Value: {c_highlight}Seasonal items{/c} only last the current season. Seasonal characters will be moved to the {c_highlight}Eternal realm{/c} when the current season ends.
+Hash: 5953B7B9, Key: S04TIP005, Value: During the Season of Loot Reborn, you may find rare {c_rare}Seasonal Elixirs{/c}. These offer powerful effects to hasten progress, but will expire at the end of the season.
+Hash: 5953B7BA, Key: S04TIP006, Value: Starting in World Tier 3: Nightmare, you may find {c_rare}Profane Mindcages{/c} in {icon:Marker_Helltide, 2.0} Helltide. Using one will increase both monster level and rewards, but only within Helltide and during the Season of Loot Reborn.

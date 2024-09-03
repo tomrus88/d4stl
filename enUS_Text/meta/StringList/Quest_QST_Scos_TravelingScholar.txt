@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: The Traveling Scholar
+Hash: 0871A46B, Key: Toast, Value: Escort Scholar Aria to Túr Dúlra.
+Hash: FAF02F4B, Key: Phase6Description, Value: Aria, a travelling scholar, is excited about the druids returning to Túr Dúlra and wants to study with them.  She would like me to escort her through  the dangers of the Deep Forest and safely to Túr Dúlra.
+Hash: DF0BA3DF, Key: Callback36Header, Value: Take Aria to the ruins
+Hash: 7C54CC44, Key: Callback86Header, Value: Search by the water
+Hash: 36AC1DDC, Key: Callback51Header, Value: Show artifact to Aria
+Hash: 63196FBF, Key: Phase55Description, Value: After finding a druid relic in some old ruins, Aria wants to make a final stop at a waterfall where Vasily used to meditate.
+Hash: 1D9AD41F, Key: Callback54Header, Value: Take Aria to the waterfall overlook
+Hash: BDB7A65B, Key: Phase60Description, Value: We have been attacked by dangerous creatures while at Vasily's waterfall.  I must defeat them to protect Aria.
+Hash: 9E7E03E4, Key: Callback59Header, Value: Survive the ambush
+Hash: F0CB5F43, Key: Callback67Header, Value: Speak to Aria
+Hash: 7645EEC4, Key: Phase69Description, Value: We have passed through the most dangerous part of the Deep Forest and are on the threshold of Túr Dúlra.
+Hash: 0F2FC79E, Key: Callback71Header, Value: Speak to Aria
+Hash: 32CAE022, Key: Phase76Description, Value: Before Aria goes to Túr Dúlra, she wants to find something of value to prove her worth.
+Hash: 486BD940, Key: Callback82Header, Value: Search for druid artifacts {DONE_OVER_NEEDED}

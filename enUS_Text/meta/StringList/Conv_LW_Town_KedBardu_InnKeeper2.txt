@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why's it so busy here?"
+Hash: 5D6C5C93, Key: Line1.F938B, Value: Aye, since bandits blocked the pass in the south, babbling merchants have been haunting my inn. (chuckle)
+Hash: CC75C2C0, Key: VoiceDir1.F938B, Value:  (annoyed sigh) follows delivery of line.

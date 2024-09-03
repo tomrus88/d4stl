@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value:  Elixir of Iron Barbs
+Hash: 2827F416, Key: Buff0_Description, Value: Armor and Thorns increased. Experience increased by 5%.

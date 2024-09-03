@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Alkor
+Hash: A646FFA4, Key: Description, Value: Alkor wandered into an alchemist's hut, seemingly attracted by the strange smells. He soon accepted morsels and occasional scratches, yet to this day, his mind always seems to be elsewhere, deep in thought.
+Hash: 083EE0CE, Key: Quote, Value: A curious little creature.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Companion

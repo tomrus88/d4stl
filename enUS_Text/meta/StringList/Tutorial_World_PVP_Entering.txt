@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: PVP Zone
+Hash: 7BFE534B, Key: simple_instruction, Value: You have entered into {c_highlight}hostile territory{/c}. Find safety in a nearby town.

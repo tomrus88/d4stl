@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Legendary Supplies
+Hash: 003892BF, Key: Desc, Value: Gather all legendary crafting materials.
+Hash: 3DA462AE, Key: Crit_234992, Value: Coiling Ward
+Hash: 3DA462AF, Key: Crit_234993, Value: Abstruse Sigil
+Hash: 3DA462B0, Key: Crit_234994, Value: Baleful Fragment

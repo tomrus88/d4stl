@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What else can we do to destroy the ledger?"
+Hash: 5D2B52BC, Key: Line1.AFA94, Value: I... I suppose we could summon the demon who owns the ledger. You'll have to slay him before he can... collect...
+Hash: CC34B8E9, Key: VoiceDir1.AFA94, Value: worried. you know that "collect" means "kills me"
+Hash: F71FCC3E, Key: Line3.AFA94, Value: Here, give me the book.

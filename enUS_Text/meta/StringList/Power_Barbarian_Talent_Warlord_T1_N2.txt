@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Tough as Nails
+Hash: 003892BF, Key: desc, Value: Increase your Thorns by {c_number}[{SF_0}*100|%+|]{/c}. When enemies hit you, they take an additional {c_number}[{SF_3} * 100]%{/c} of your Thorns as Bleeding damage over {c_number}{buffduration:BLEEDING}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Thorns {icon:arrow, 1.2} {c_number}[{SF_0}*100|%+|]{/c}

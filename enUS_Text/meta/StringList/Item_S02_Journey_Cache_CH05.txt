@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fifth Journey Cache
+Hash: A646FFA4, Key: Description, Value: Contains a number of late game resources, Pact Armor, Potent Blood, and a {c_important}Scroll of Amnesia{/c}, which refunds all allocated Skill Points and Paragon Points.

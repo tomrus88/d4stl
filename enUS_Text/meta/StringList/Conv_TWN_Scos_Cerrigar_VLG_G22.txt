@@ -1,0 +1,4 @@
+Hash: 8EB459E8, Key: Line1.103C19, Value: Fancy seein' you again! Word is, the Cathedral wants your head. Offerin' a fair bit of gold for it, too.
+Hash: DEEA85B5, Key: VoiceDir1.103C19, Value: To Player. Smirking. 
+Hash: 673803D4, Key: Line3.103C1C, Value: A wagon-full, to be exact. The bastards can keep it.
+Hash: B76E2FA1, Key: VoiceDir3.103C1C, Value: To Player, smiling. Reassuring. We're on your side.

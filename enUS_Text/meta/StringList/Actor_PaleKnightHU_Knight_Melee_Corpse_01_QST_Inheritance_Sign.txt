@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gruesome Remains
+Hash: F2CA04D8, Key: NoticeSignText, Value: This knight has had much of his flesh picked to the bone. Large gashes have shattered the skull and chest. 

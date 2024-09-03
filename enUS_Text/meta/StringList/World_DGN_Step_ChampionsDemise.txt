@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Champion's Demise
+Hash: 003892BF, Key: Desc, Value: Once beautiful homelands now overrun with demons.

@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "The Red Confessor"
+Hash: 003DFCC1, Key: Name, Value: Confessor's Bracers

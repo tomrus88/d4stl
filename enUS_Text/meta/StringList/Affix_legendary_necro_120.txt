@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Embalmer
+Hash: 003892BF, Key: Desc, Value: Consuming a {c_important}Corpse{/c} has a {c_random}[Affix_Value_1|%|]{/c} chance to spawn a {c_important}{u}Blood Orb{/u}{/c}.

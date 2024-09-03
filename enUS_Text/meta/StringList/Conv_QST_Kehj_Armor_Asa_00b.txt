@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Where do you need to go? Perhaps I can help.”
+Hash: F87C3848, Key: Line23.BC41C, Value: (sigh) A generous offer. But this is my responsibility.
+Hash: 48B26415, Key: VoiceDir23.BC41C, Value: Gracious but tired. Heavy. 
+Hash: 9270B1CA, Key: Line25.BC41C, Value: I led my soldiers into those damned ruins, and two of them lost their lives. Alim and Tala... I must retrieve their belongings.
+Hash: E2A6DD97, Key: VoiceDir25.BC41C, Value: Heavy. Regretful. Angry with herself.
+Hash: 437306AE, Key: Line27.13C52A, Value: Well, you need not go alone.
+Hash: 9A6EAC1B, Key: VoiceDir27.13C52A, Value: Sad acceptance.
+Hash: C659A4CE, Key: Line29.BC41C, Value: Fine. I will accept your aid, wanderer. Meet me outside the old ruins to the west. And steel yourself for a fight.
+Hash: 168FD09B, Key: VoiceDir29.BC41C, Value: Terse. Direct. Determined.

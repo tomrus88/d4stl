@@ -1,0 +1,21 @@
+Hash: 003DFCC1, Key: Name, Value: The Ennead
+Hash: 68161728, Key: Phase3Description, Value: Ayuzhan asked me to find his colleague, Zoltun Kulle. Ayuzhan says we can find him in the Library, but I have my doubts.
+Hash: 1EADAE68, Key: Callback2Header, Value: Follow Ayuzhan
+Hash: FAF02F4B, Key: Phase6Description, Value: Ayuzhan asked me to find his colleague, Zoltun Kulle. Ayuzhan says we can find him in the Library, but I have my doubts.
+Hash: 059C64AB, Key: Callback5Header, Value: Speak with Ayuzhan
+Hash: 4F855768, Key: Callback99Header, Value: Operate the Disabling Switch
+Hash: E96ABF3F, Key: Phase19Description, Value: Ayuzhan asked me to find his colleague, Zoltun Kulle. Ayuzhan says we can find him in the Library, but I have my doubts.
+Hash: A07C739F, Key: Callback18Header, Value: Find Zoltun's Study
+Hash: E2223B19, Key: Phase22Description, Value: Zoltun Kulle is nowhere to be found. Perhaps he left a message to Ayuzhan? I should search Zoltun's Study for clues. 
+Hash: 1B9C6464, Key: Callback95Header, Value: Search for Evidence
+Hash: 07D66B5F, Key: Phase28Description, Value: Before Ayuzhan and I could return to the Gatehall, the demon intervened. It appears to have some power over the old mage. I need to protect Ayuzhan from constructs while he regains control.
+Hash: 3FC40BBF, Key: Callback27Header, Value: Protect Ayuzhan
+Hash: 008DE739, Key: Phase31Description, Value: Before Ayuzhan and I could return to the Gatehall, the demon—Malphas— intervened. It appears to have some power over the old mage. 
+
+I need to protect Ayuzhan from constructs while he regains control.
+Hash: 112E3759, Key: Callback30Header, Value: Slay the constructs
+Hash: 8828D241, Key: Phase39Description, Value: Before Ayuzhan and I could return to the Gatehall, the demonic voice found us. It appears to have some power over the old mage. I hope defeating the hostile constructs prevents Ayuzhan from becoming possessed once more. 
+Hash: 79001D61, Key: Callback38Header, Value: Enter Zoltun's Study
+Hash: 13BA663E, Key: Phase45Description, Value: The constructs are defeated and Ayuzhan possesses his own mind. We need to return to the Gatehall before Malphas returns again. 
+Hash: 3EAEDB01, Key: Phase93Description, Value: The letter revealed the truth: Kulle abandoned Ayuzhan. So be it. We'll fight the demon on our own. I should return to the Gatehall and discuss our options with Ayuzhan.
+Hash: 34ADAE21, Key: Callback92Header, Value: Speak with Ayuzhan

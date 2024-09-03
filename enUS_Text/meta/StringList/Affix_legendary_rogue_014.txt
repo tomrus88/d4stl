@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Energizing
+Hash: 003892BF, Key: Desc, Value: Damaging an Elite enemy with a {c_important}Basic{/c} Skill generates {c_number}[Affix."Static Value 0"]{/c} Energy. 
+
+Gain {c_random}[Affix_Value_1|1|]{/c} Energy after killing an Elite enemy with a {c_important}Basic{/c} Skill.
+Hash: 82B7D312, Key: CodexDesc, Value: Damaging an Elite with a {c_important}Basic{/c} Skill generates {c_random}[Affix."Static Value 0"]{/c} Energy. Killing an Elite with a {c_important}Basic{/c} Skill grants {c_random}[Affix_Value_1|1|]{/c} Energy.

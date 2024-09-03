@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mithering Descent
+Hash: 003892BF, Key: Desc, Value: A hidden recess leading to the hair-lined depths.

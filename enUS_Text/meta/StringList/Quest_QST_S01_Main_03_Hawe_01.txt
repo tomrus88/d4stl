@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: A Prayer for Salvation
+Hash: D53BFF05, Key: Phase0Description, Value: Cormond confessed that he created the Malignant during his attempt to cleanse his mentor, Varshan. Cormond remains determined to find a cure somewhere in Hawezar. He can't do it alone. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Cormond near Zarbinzet
+Hash: C9FCD1EA, Key: Phase5Description, Value: At Orbei we learned that the cages were made by the Zakarum somewhere in Hawezar. Cormond has asked that I search their ruins for clues to exactly where.
+Hash: B8A227EA, Key: Callback4Header, Value: Collect {ITEM} near Crusader's Monument
+Hash: B98DBD5C, Key: Callback15Header, Value: Collect {ITEM} near Eriman's Pyre
+Hash: 0687FA1D, Key: Callback16Header, Value: Collect {ITEM} near Zakarum Belfry
+Hash: A5EFB09D, Key: Phase26Description, Value: I have found several Zakarum documents that could point to the origin of the cages. Cormond will want to see them. 
+Hash: 04898A62, Key: Callback57Header, Value: Speak with Cormond
+Hash: E45EC27D, Key: Callback43Header, Value: Collect the {ITEM}
+Hash: E9B1E11B, Key: Callback50Header, Value: Collect the {ITEM} from the Charred Chest
+Hash: D0A0975E, Key: Callback53Header, Value: Collect the {ITEM}

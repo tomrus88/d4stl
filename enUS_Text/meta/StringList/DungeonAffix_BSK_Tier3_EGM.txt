@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_highlight}Bonus Chest with a Crafting Jackpot drops after earning 150 Aether.{/c}
+Hash: EEB7912D, Key: AffixDesc, Value: A Bonus Chest spawns with the end rewards after earning 150 Aether that includes Masterworking materials.

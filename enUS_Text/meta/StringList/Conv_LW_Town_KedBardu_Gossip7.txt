@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How's the game?"
+Hash: 5D6CA223, Key: Line1.F8CF5, Value: Dice are hot, my friend. Bet your coin.

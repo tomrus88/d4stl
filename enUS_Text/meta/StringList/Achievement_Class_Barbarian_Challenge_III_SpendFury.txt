@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fury Frenzy
+Hash: 003892BF, Key: Desc, Value: Spend 130 Fury in 5 seconds.

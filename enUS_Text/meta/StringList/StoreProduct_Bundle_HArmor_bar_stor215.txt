@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Might of the Sun
+Hash: A646FFA4, Key: Description, Value: Ongr and her fellows had claimed victory in Aranoch, yet found themselves stranded in open desert. They walked for days to reach the mountains, and one by one they fell...all except Ongr. To the cruel sun above, she pledged her life—forsaking the night forever.
+Hash: 083EE0CE, Key: Quote, Value: Banisher of night.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

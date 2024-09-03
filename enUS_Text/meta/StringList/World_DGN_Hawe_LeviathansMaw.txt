@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Leviathan's Maw
+Hash: 003892BF, Key: Desc, Value: Cultists lurk in these flooded ruins.

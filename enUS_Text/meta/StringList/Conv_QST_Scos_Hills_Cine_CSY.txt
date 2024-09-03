@@ -1,0 +1,30 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A270F87, Key: Line1.804AC, Value: You picked a fine time to visit Braestaig, wanderer. The whetstones are singing. Hearts are pounding.
+Hash: C93075B4, Key: VoiceDir1.804AC, Value: ironic
+Hash: E1AA16DC, Key: Line33.804AC, Value: Sweet music for a red day.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: Donan sent me.
+Hash: 8E10028B, Key: Line5.804AC, Value: Huh, at least you’re not another Knight Penitent.
+Hash: FD1968B8, Key: VoiceDir5.804AC, Value: wry
+Hash: 2AFC7F8C, Key: Line7.B053E, Value: At least? It is us who will protect this village with our lives.
+Hash: 9A05E5B9, Key: VoiceDir7.B053E, Value: solemn and offended
+Hash: C1F8F584, Key: Line9.804B7, Value: Let it be.
+Hash: 31025BB1, Key: VoiceDir9.804B7, Value: quiet and diplomatic
+Hash: 6F31F398, Key: Line11.804AC, Value: Pah.
+Hash: 6AD868BE, Key: Line45.B053E, Value: (sigh)
+Hash: BB0E948B, Key: VoiceDir45.B053E, Value: scoff/grunt
+Hash: 7B9E905E, Key: Line35.804AC, Value: There's an ominous fog uphill. Mad spirits emerge from it. They'll be here shortly.
+Hash: CBD4BC2B, Key: VoiceDir35.804AC, Value: grave
+Hash: 159309E0, Key: Line37.804AC, Value: Are you here to help us ward them off?
+Hash: 6C378A39, Key: Line16.BAE4, Value: I seek a demon who passed through.
+Hash: 8A099CDF, Key: Line18.804AC, Value: So...that’s what it was.
+Hash: DA3FC8AC, Key: VoiceDir18.804AC, Value: grim
+Hash: AF878362, Key: Line39.804AC, Value: (sigh) Well, this day keeps getting better, doesn’t it?
+Hash: FFBDAF2F, Key: VoiceDir39.804AC, Value: sarcastic
+Hash: 33F7723B, Key: Line41.804AC, Value: The demon went uphill, to Airidah’s domain.
+Hash: CDEBEBBD, Key: Line43.804AC, Value: But unless you want to join the spirits, I wouldn’t go there. It’s best you stay with us.
+Hash: F56841F0, Key: Line23.804B7, Value: I can lead you to Airidah.
+Hash: 459E6DBD, Key: VoiceDir23.804B7, Value: confident
+Hash: 9254BEFC, Key: Line25.B053E, Value: Out of the question.
+Hash: E28AEAC9, Key: VoiceDir25.B053E, Value: alerted
+Hash: 295134F4, Key: Line27.804B7, Value: I'll be safe. Donan puts his trust in this traveler. So shall we all.
+Hash: 47B59D4F, Key: Line31.804B7, Value: Tell me when you’re ready to move.

@@ -1,0 +1,10 @@
+Hash: F7666A61, Key: Line3.ED90F, Value: I hear... someone... Yonca?
+Hash: 666FD08E, Key: VoiceDir3.ED90F, Value: not sure if you're imagining this
+Hash: 5D71D84F, Key: Line1.ED393, Value: (chokes) Mother...you're alive?
+Hash: 915AE3E3, Key: Line5.ED90F, Value: Infected... but not gone. Yes, I am alive.
+Hash: 00644A10, Key: VoiceDir5.ED90F, Value: sad
+Hash: 2B4F44D5, Key: Line7.ED393, Value: I thought... Father told me you died. I never would have left you here alone, Mother. Never!
+Hash: 9A58AB02, Key: VoiceDir7.ED393, Value: distressed, sad
+Hash: C543D6E7, Key: Line9.ED90F, Value: Wait, my child! No hugs, it is not safe... I am glad you lived a life, even if I could not be in it. Glad.
+Hash: 344D3D14, Key: VoiceDir9.ED90F, Value: worried, then warm
+Hash: 727CD4F0, Key: Line11.ED90F, Value: What your father did... He could not even bear it. Let him rest.

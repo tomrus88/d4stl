@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Resource Burn
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: After you spend resource, you burn an additional 30% of the resource spent for every time you were hit by a Distant enemy.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: After you spend resource, you burn an additional 20% of the resource spent for every time you were hit by a Distant enemy.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: After you spend resource, you burn an additional 10% of the resource spent for every time you were hit by a Distant enemy.

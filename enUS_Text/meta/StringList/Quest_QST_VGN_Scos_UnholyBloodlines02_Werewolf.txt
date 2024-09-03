@@ -1,0 +1,2 @@
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Enraged Werewolves inside the ritual circle
+Hash: 003DFCC1, Key: Name, Value: The Snare

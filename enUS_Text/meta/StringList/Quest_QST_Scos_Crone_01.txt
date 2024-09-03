@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: A Deepening Shadow
+Hash: 0871A46B, Key: Toast, Value: An ominous power is stirring within the Dark Thicket.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Find evidence of what happened to Barret
+Hash: FAF02F4B, Key: Phase6Description, Value: I found Barret twisted by wild magic into a thing of rage--like the other creatures in the Dark Thicket.
+
+I recovered the bear's heart. Perhaps Shob'ha can get more useful information from it.
+Hash: 059C64AB, Key: Callback5Header, Value: Return to Shob'ha
+Hash: 1315987A, Key: Phase23Description, Value: Shob'ha sent her familiar, Barret, to investigate a dark presence in the forest, but the creature has not returned.
+
+She has asked me to search for signs of Barret in the Dark Thicket.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Search for Barret in the Dark Thicket
+Hash: D6E30DFE, Key: Phase27Description, Value: I have found a site that pulses with an unsettling magic, but I have not found Shob'ha's familiar.  I should investigate further.
+Hash: 4A6A48FB, Key: Callback41Header, Value: Examine the area

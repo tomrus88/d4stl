@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Insidious Ritual
+Hash: 2A0770E5, Key: Callback78Header, Value: Enter {EVENT_LEVELAREA}
+Hash: B273F88D, Key: Callback223Header, Value: Defeat the High Inquisitors: {LEFT}
+Hash: FA1B16B0, Key: Callback217Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: A408EC0C, Key: Callback240Header, Value: {TIMELEFT} remaining

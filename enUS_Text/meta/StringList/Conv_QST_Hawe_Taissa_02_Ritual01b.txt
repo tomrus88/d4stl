@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What happens now?”
+Hash: 561309CB, Key: Line14.789BF, Value: Now to summon my fellow witches inside the conclave.
+Hash: 62E2E7B5, Key: Line12.BAE4, Value: Where is this conclave?
+Hash: 222A16C7, Key: Line10.789BF, Value: Right before us. Stand back.

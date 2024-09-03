@@ -1,0 +1,3 @@
+Hash: 3D21F2F3, Key: Line17.9118B, Value: Hm. Only two kinds of people come looking for old Timue: those running away from trouble, and those running toward it.
+Hash: 8D581EC0, Key: VoiceDir17.9118B, Value: Character note for these re-records: Timue is no longer forgetful. Her mind and purpose are clear. However, there is a bit of a sage/oracle-flavor to her. She knows much about the swamp and its power. Her fate is that she must guide people toward the Tree of Whispers who are seeking it--but she knows that will often end badly for them. A hint of sadness to her life.
+Hash: 8F6F4E52, Key: Line25.9118B, Value: Which kind are you, I wonder?

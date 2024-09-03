@@ -1,0 +1,6 @@
+Hash: 0E84BCDB, Key: Line20.7DD22, Value: You deserve this. Never seen anyone fight like you.
+Hash: 5EBAE8A8, Key: VoiceDir20.7DD22, Value: Tired. Relieved. Thankful for the help.
+Hash: 4565FDE3, Key: Line24.AF367, Value: Here. Something for your troubles.
+Hash: 959C29B0, Key: VoiceDir24.AF367, Value: Tired. Relieved. Thankful for the help.
+Hash: DC622962, Key: Line26.7DD23, Value: Take this, my friend. It’s not much, but I hope it helps.
+Hash: 2C98552F, Key: VoiceDir26.7DD23, Value: Tired. Relieved. Thankful for the help.

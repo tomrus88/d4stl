@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I’m a friend of Donan’s. He said you could provide a horse.”
+Hash: 400937DB, Key: Line17.B2A71, Value: Donan? Ach, now there’s a good man. A champion of the faith.
+Hash: F71560C6, Key: Line3.B2A71, Value: Not like that old crank you were with earlier. What was his name? Lorfam? Morath? Heh, doesn’t matter.
+Hash: 5E6DA036, Key: Line21.B2A71, Value: I know Donan’s been through some hard times of late, so I’m happy to help him however I can.
+Hash: F86219B8, Key: Line23.B2A71, Value: Take one of my steeds, free of charge.

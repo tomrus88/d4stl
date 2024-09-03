@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Prologue
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: I wonder what old Deckard Cain would have written in his chronicles if he had seen us.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Two old friends reunited. New allies eager to learn from our vast knowledge.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Bound as one against the encroaching darkness, like the Horadrim of old.
+Hash: C1F13152, Key: Line9.6D03F, Value: They were probably lost and bitter just like us, but Cain had a gift for seeing the good in people.
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: One thing was certain, at least: Lilith meant to devour Mephisto and claim his power as her own.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Had that been her goal all along?
+Hash: A313225F, Key: Line15.6D03F, Value: Not Sanctuary, but a bid to reign in Hell?
+Hash: 3D079BE1, Key: Line17.6D03F, Value: And Elias, the damn fool, was too blind to see it.
+Hash: D6FC1563, Key: Line19.6D03F, Value: Perhaps we weren’t perfect, but we knew we had to make a stand.
+Hash: 5B6C043C, Key: Line21.6D03F, Value: We were the world’s only hope.

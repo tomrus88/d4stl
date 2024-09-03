@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Shredding Blades
+Hash: 003892BF, Key: Desc, Value: {c_important}Ice Blades'{/c} chance to apply {c_important}{u}Vulnerable{/u}{/c} is increased by {c_number}[Affix."Static Value 0"|%+|]{/c} and the {c_important}{u}Vulnerable{/u}{/c} duration is increased by {c_number}[Affix."Static Value 1"]{/c} seconds. You gain {c_random}[Affix_Value_1|%x|]{/c} Vulnerable Damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Ice Blades'{/c} chance to apply {c_important}{u}Vulnerable{/u}{/c} and the {c_important}{u}Vulnerable{/u}{/c} duration are increased. You gain {c_random}[Affix_Value_1|%x|]{/c} Vulnerable Damage.

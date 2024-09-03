@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Any dangers about?"
+Hash: 5D6CA221, Key: Line1.F8CF3, Value: Be alert. Bandits haunt the roads around here.

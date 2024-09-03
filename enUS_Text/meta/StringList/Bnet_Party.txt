@@ -1,0 +1,96 @@
+Hash: 72CDBCE8, Key: OptionsButton, Value: Party Options
+Hash: BF74CCFF, Key: DialogErrorText, Value: Select the invite level of your party:
+Hash: FC29477A, Key: DialogConfirmationRequired, Value: Confirmation Required
+Hash: 4F2E4BF0, Key: DialogOpenToFriends, Value: Open to Friends
+Hash: 642196A2, Key: DialogOpen, Value: Open
+Hash: 1AA9A161, Key: LeaderIconTooltip, Value: This player is the Party Leader.
+Hash: B8D0BC8A, Key: VoiceChatIconTooltip, Value: Voice Chat Indicator
+Hash: 0347B66D, Key: Leader, Value: Party Leader
+Hash: 9D925E9D, Key: LeaveParty, Value: Leave Party
+Hash: CF4DB899, Key: ManageParty, Value: Call to Arms
+Hash: A26C4C22, Key: InviteToParty, Value: Invite
+Hash: A682C2B4, Key: SlotOpen, Value: Open to Real ID Friends
+Hash: E85F2C42, Key: SlotOpenToFriends, Value: Open to Real ID Friends
+Hash: B9B79436, Key: SlotOpenToPublic, Value: to public
+Hash: FBE5E89C, Key: SlotOpenToRecentlyPlayed, Value: to recently played characters
+Hash: 07DBBC18, Key: Level, Value: lv
+Hash: 3A37A781, Key: InviteDialogTitle, Value: Invite
+Hash: 97B856A4, Key: InviteDialogContext, Value: invites you to a party - {s1}
+Hash: 7095D4A8, Key: InviteDialogTimeRemaining, Value: Time Remaining
+Hash: 74632A4B, Key: InviteDialogAcceptButton, Value: Accept
+Hash: 6ED30F2F, Key: InviteDialogDeclineButton, Value: Decline
+Hash: 71C7590B, Key: JoinRequestDialogTitle, Value: Join Request
+Hash: F1FA92AE, Key: JoinRequestDialogContext, Value: has requested to join your party. - {s1}
+Hash: 246D7F14, Key: JoinRequestDialogInviteButton, Value: Invite
+Hash: 40F6FD89, Key: JoinRequestDialogIgnoreButton, Value: Ignore
+Hash: D3FDFD2A, Key: InviteAcceptConfirmationTitle, Value: There are pending invites.
+Hash: A7375EAD, Key: InviteAcceptConfirmationMessage, Value: Accepting this invite will remove all other invites. Do you really want to accept this invite?
+Hash: CDF6E207, Key: SlotPending, Value: Invite Sent...
+Hash: 980A1519, Key: ChannelLabel, Value: Party
+Hash: C6620F78, Key: LeaveConfirmationTitle, Value: Leave Party?
+Hash: C2E93C7B, Key: LeaveConfirmationMessage, Value: Are you sure you would like to leave the party?
+Hash: A8A0A1B3, Key: JoinLeaveWarning, Value: Joining this party will cause you to leave your current party. Do you accept?
+Hash: 23091893, Key: LeaveWithSentInvitesConfirmationMessage, Value: Leaving the party now will cancel all the other party invites you've sent. Do you want to leave the party?
+Hash: 270FDCC8, Key: StayInParty, Value: Stay in Party
+Hash: 57B289F1, Key: JoinLeaveWithInvitesWarning, Value: Joining this party will cause you to leave your current party and cancel all outstanding party invites you've sent. Do you accept?
+Hash: 685C89C4, Key: JoinWithInvitesWarning, Value: Joining this party will cancel all outstanding party invites you've sent. Accept?
+Hash: 4B331F54, Key: AcceptPartyInviteWithInvitesPendingPrompt, Value: Accepting the party invite will cancel all outstanding party invites you've sent.
+Hash: D5225353, Key: ButtonSocialRequests, Value: Party
+Hash: 20DCA220, Key: PartyPanel, Value: Party
+Hash: F6F96CAF, Key: AcceptPartyInvite, Value: Accept party invite?
+Hash: EB692C15, Key: CancelInvite, Value: Cancel Invite
+Hash: B56BE31A, Key: ClickToProfile, Value: {icon:lmb} to view profile. {icon:rmb} for player options.
+Hash: A5939BDF, Key: ClickToBanner, Value: {icon:lmb} to customize banner.
+Hash: 9550C5F4, Key: KickedFromGameBecausePartyFull, Value: {s1} tried to join the game, but the game is full.
+Hash: E4FF1CF3, Key: ClickToJoinGame, Value: {icon:lmb} to join game.
+Hash: 570D0FD4, Key: InvitePending, Value: {C:FFC47D30}Invite Pending{/c:c47d30}
+Hash: AE818EA9, Key: ClickToSwitchHero, Value: {icon:lmb} to switch character. {icon:rmb} for player options.
+Hash: 8F5A7880, Key: PartyInviteTimer, Value: {s1} - {s2}
+Hash: F3518330, Key: PendingInviteRequestsLabel, Value: {s1} Pending invite requests
+Hash: 87ADFF6C, Key: SelectingHero, Value: Selecting Character
+Hash: 7BC4D552, Key: HeroLevelInfo, Value: Level {s1}
+{s2}
+Hash: 106B62BA, Key: HeroLevelInfoHardCore, Value: Level {s1}
+Hardcore {s2}
+Hash: 385EBC10, Key: LeaveGameAndPartyWithSentInvitesConfirmationMessage, Value: Leaving the party now will cancel all the other party invites you've sent. Do you want to leave the party and the game?
+Hash: F272B598, Key: LeaveGameAndPartyConfirmationMessage, Value: Are you sure you would like to leave the party and the game?
+Hash: CFACDA15, Key: Portrait, Value: {s1}
+{s2}
+Hash: 9100AD4A, Key: UnableToAddMemberToGame_ContentLevel, Value: {s1} is unable to join this game because the player is not eligible for the current game content.
+Hash: 6FDAFCD9, Key: UnableToJoinPartysGame_ContentLevel, Value: Unable to join the party's game because you are not eligible to play the current game content.
+Hash: E7F78BED, Key: PartyNotJoinable_AlreadyInParty, Value: That player is in your party.
+Hash: 3FD22F47, Key: PartyNotJoinable_PartyFull, Value: This party is full.
+Hash: 024BBBD4, Key: PartyNotJoinable_VersionMistmatch, Value: Different versions of Diablo IV cannot play together.  Make sure all players are running the latest version of Diablo IV.
+Hash: AD6EE506, Key: PartyNotJoinable_PartyNotAvailable, Value: Party unavailable.
+Hash: 6589E0E2, Key: ConfirmForceTransfer, Value: You are about to be transferred to the Party Leader's world.
+Hash: C1F7D606, Key: PartyNotJoinable_NotInGame, Value: This player is not in game.
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 1732BB82, Key: PartyNotJoinable_HardcoreMismatch, Value: Different character types cannot play together. Make sure all players have Hardcore characters.
+Hash: AF98F403, Key: PartyNotJoinable_SeasonMismatch, Value: Different character types cannot play together. Make sure all players have seasonal characters.
+Hash: CD236206, Key: CancelPartyJoin, Value: Leave Party
+Hash: F57F6B67, Key: ConfirmTransferNow, Value: Transfer Now
+Hash: CAC846F6, Key: PartyNotJoinable_QueuedForLFP, Value: The party is queued for Looking-for-Party, invites are not available.
+Hash: F808404F, Key: CancelRequest, Value: Cancel Request
+Hash: 8AA89786, Key: PartyNotJoinable_PartyLocked, Value: The party is locked; invites are not available.
+Hash: 371F2F6D, Key: ConfirmTurningHostile, Value: You will become {c_highlight}Bloodmarked{/c} if you join this party.
+Hash: 89894392, Key: ConfirmJoinNow, Value: Join Now
+Hash: C7D719ED, Key: PartyNotJoinable_CrossplayDenied, Value: Crossplay is not available with this player's platform.
+Hash: A143801A, Key: PartyContentInvite, Value: {s1} is about to start {s2}. Would you like to join them?
+Hash: B630B90C, Key: PartyRequiredContent, Value: {s1} is initiating content that requires the full party. You will be teleported to them at the end of the countdown.
+Hash: 8BDF6EB2, Key: PartyRequiredContentDetails, Value: If you do not wish to be teleported, you must leave the party.
+Hash: 6986CBD3, Key: PlayerNotUnmutable_CrossPlayDenied, Value: Cannot unmute player due to crossplay incompatibility
+Hash: 9DC45DD3, Key: PartyNotJoinable_NotInvitable, Value: This player is already in a party.
+Hash: 14F9E1D5, Key: PartyNotJoinable_MultiplayerNotAllowed, Value: Action unavailable.
+Hash: 4538897B, Key: PartyNotJoinable_IneligibleForWorldTier, Value: That player has not unlocked access to your current World Tier.
+Hash: 3CC15031, Key: PartyNotJoinable_PrologueContainment, Value: That player must complete the prologue before they can join your party.
+Hash: C7115605, Key: PartyNotJoinable_PlayerBlocked, Value: Player is blocked.
+Hash: 75309FA3, Key: PartyNotJoinable_IneligibleForWorldTier_Request, Value: You have not unlocked access to the party's current World Tier.
+Hash: A82F04FA, Key: PartyNotJoinable_CrossPlayMismatch, Value: Crossplay settings must match. 
+Hash: 9791F5B9, Key: PartyNotJoinable_TargetDeceased, Value: This player is deceased.
+Hash: C34A2213, Key: PartyNotJoinable_InviterDeceased, Value: You are deceased.
+Hash: 629F3F46, Key: PartyCampaignState_Warning, Value: Your party campaign state does not match with the party leader's. You will only be making progress on the party leader's campaign.
+Hash: E8688879, Key: PartyNotJoinable_AlreadyInvited, Value: The player is already invited to your party.
+Hash: 43BF8A72, Key: SetCampaignStateNotAllowed_PrologueContainment, Value: You cannot return to your campaign state because one or more players in your party have not completed the Prologue yet.
+Hash: 13244EF4, Key: PartyNotJoinable_NotInvitableInChallengerRift, Value: This player is busy and cannot be invited yet.
+Hash: 2A348AE3, Key: PartyNotJoinable_TargetHostile, Value: You cannot invite Bloodmarked players to your party while not Bloodmarked.
+Hash: 652B890B, Key: PartyNotJoinable_TargetHostile_Request, Value: You cannot request to join a party which is not Bloodmarked while Bloodmarked.

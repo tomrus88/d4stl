@@ -1,0 +1,228 @@
+Hash: A6159FF5, Key: Line15.B5387, Value: Distillation complete.
+Hash: 8D045638, Key: Line18.B5387, Value: Some base reagents have been recovered.
+Hash: 5E6E81D2, Key: Line21.B5387, Value: The separation was successful.
+Hash: DF51B198, Key: Line26.B5388, Value: Distillation complete.
+Hash: C64067DB, Key: Line29.B5388, Value: Some base reagents have been recovered.
+Hash: 97AA9375, Key: Line32.B5388, Value: The separation was successful.
+Hash: 188DC33B, Key: Line37.B5389, Value: Much still got some good in it.
+Hash: E9F7EED5, Key: Line40.B5389, Value: Better than starting from nothin’.
+Hash: D0E6A518, Key: Line43.B5389, Value: Ha, what’s left you ask!
+Hash: 51C9D505, Key: Line48.B538A, Value: Here's what's left.
+Hash: 2334009F, Key: Line51.B538A, Value: We managed to save some for the forge.
+Hash: 0A22B6E2, Key: Line54.B538A, Value: Put those pieces to good use.
+Hash: 8B05E69A, Key: Line59.B5393, Value: You lose a little mass to dust.
+Hash: 5C701234, Key: Line62.B5393, Value: Here you are.
+Hash: 435EC877, Key: Line65.B5393, Value: Fashion this into something exquisite.
+Hash: AEBD6D94, Key: Line70.B5394, Value: You lose a little mass to dust.
+Hash: 95AC23D7, Key: Line73.B5394, Value: Here you are.
+Hash: 7C9ADA1A, Key: Line76.B5394, Value: Fashion this into something exquisite.
+Hash: E7F97F37, Key: Line81.B5395, Value: Here are the reclaimed constituents.
+Hash: CEE8357A, Key: Line84.B5395, Value: Elements for future magicks.
+Hash: B5D6EBBD, Key: Line87.B5395, Value: Create new magicks from the old.
+Hash: 213590DA, Key: Line92.B5396, Value: Here are the reclaimed constituents.
+Hash: 0824471D, Key: Line95.B5396, Value: Elements for future magicks.
+Hash: EF12FD60, Key: Line98.B5396, Value: Create new magicks from the old.
+Hash: D646B7E4, Key: Line103.B5397, Value: We'll make good use of this.
+Hash: BD356E27, Key: Line106.B5397, Value: Let's see what we can get.
+Hash: A424246A, Key: Line109.B5397, Value: What have we here?
+Hash: 0F82C987, Key: Line114.B5398, Value: We'll make good use of this.
+Hash: F6717FCA, Key: Line117.B5398, Value: Let's see what we can get.
+Hash: C7DBAB64, Key: Line120.B5398, Value: What have we here?
+Hash: 48BF7E32, Key: Line125.B67E0, Value: Nothing lost, nothing wasted.
+Hash: 9FBB239F, Key: VoiceDir125.B67E0, Value: Quick. Smiling. Slightly manic.
+Hash: 2FAE3475, Key: Line128.B67E0, Value: There! All done.
+Hash: 86A9D9E2, Key: VoiceDir128.B67E0, Value: Quick. Smiling. Slightly manic.
+Hash: 0118600F, Key: Line131.B67E0, Value: Ingredients, fresh and pure.
+Hash: 5814057C, Key: VoiceDir131.B67E0, Value: Quick. Smiling. Slightly manic.
+Hash: 81FB8FD5, Key: Line136.B67E1, Value: Nothing lost, nothing wasted.
+Hash: D8F73542, Key: VoiceDir136.B67E1, Value: Quick. Smiling. Slightly manic.
+Hash: 68EA4618, Key: Line139.B67E1, Value: There! All done.
+Hash: BFE5EB85, Key: VoiceDir139.B67E1, Value: Quick. Smiling. Slightly manic.
+Hash: 3A5471B2, Key: Line142.B67E1, Value: Ingredients, fresh and pure.
+Hash: 9150171F, Key: VoiceDir142.B67E1, Value: Quick. Smiling. Slightly manic.
+Hash: BB379F2A, Key: Line147.B6826, Value: Mm. Good salvage.
+Hash: 12334497, Key: VoiceDir147.B6826, Value: Nodding. 
+Hash: 8CA1CAC4, Key: Line150.B6826, Value: Plenty worth keeping.
+Hash: E39D7031, Key: VoiceDir150.B6826, Value: Nodding. 
+Hash: 73908107, Key: Line153.B6826, Value: That got most of it.
+Hash: CA8C2674, Key: VoiceDir153.B6826, Value: Nodding. 
+Hash: F473B0CB, Key: Line158.B6825, Value: Mm. Good salvage.
+Hash: 4B6F5638, Key: VoiceDir158.B6825, Value: Nodding. 
+Hash: C5DDDC65, Key: Line161.B6825, Value: Plenty worth keeping.
+Hash: 1CD981D2, Key: VoiceDir161.B6825, Value: Nodding. 
+Hash: ACCC92A8, Key: Line164.B6825, Value: That got most of it.
+Hash: 03C83815, Key: VoiceDir164.B6825, Value: Nodding. 
+Hash: 2DAFC26F, Key: Line169.B6827, Value: Nothing gone to waste.
+Hash: 84AB67DC, Key: VoiceDir169.B6827, Value: Nodding. Slight pride.
+Hash: FF19EE09, Key: Line172.B6827, Value: Out with the old...
+Hash: 56159376, Key: VoiceDir172.B6827, Value: Nodding. Slight pride.
+Hash: E608A44C, Key: Line175.B6827, Value: Finished.
+Hash: 3D0449B9, Key: VoiceDir175.B6827, Value: Nodding. Slight pride.
+Hash: 51674969, Key: Line180.B6828, Value: Nothing gone to waste.
+Hash: A862EED6, Key: VoiceDir180.B6828, Value: Nodding. Slight pride.
+Hash: 3855FFAC, Key: Line183.B6828, Value: Out with the old...
+Hash: 8F51A519, Key: VoiceDir183.B6828, Value: Nodding. Slight pride.
+Hash: 1F44B5EF, Key: Line186.B6828, Value: Finished.
+Hash: 76405B5C, Key: VoiceDir186.B6828, Value: Nodding. Slight pride.
+Hash: 8AA35B0C, Key: Line191.B6829, Value: One form to another.
+Hash: E19F0079, Key: VoiceDir191.B6829, Value: Calm. Cryptic.
+Hash: 7192114F, Key: Line194.B6829, Value: Wood to ash, bone to dust.
+Hash: C88DB6BC, Key: VoiceDir194.B6829, Value: Calm. Cryptic.
+Hash: 5880C792, Key: Line197.B6829, Value: What is done is done.
+Hash: AF7C6CFF, Key: VoiceDir197.B6829, Value: Calm. Cryptic.
+Hash: FDC98D0D, Key: Line202.B682A, Value: One form to another.
+Hash: 54C5327A, Key: VoiceDir202.B682A, Value: Calm. Cryptic.
+Hash: E4B84350, Key: Line205.B682A, Value: Wood to ash, bone to dust.
+Hash: 3BB3E8BD, Key: VoiceDir205.B682A, Value: Calm. Cryptic.
+Hash: CBA6F993, Key: Line208.B682A, Value: What is done is done.
+Hash: 22A29F00, Key: VoiceDir208.B682A, Value: Calm. Cryptic.
+Hash: 37059F45, Key: Line213.B6881, Value: There now!
+Hash: 8E0144B2, Key: VoiceDir213.B6881, Value: Satisfied. Happy with the work.
+Hash: 1DF45588, Key: Line216.B6881, Value: Nice and neat.
+Hash: 74EFFAF5, Key: VoiceDir216.B6881, Value: Satisfied. Happy with the work.
+Hash: 04E30BCB, Key: Line219.B6881, Value: All done!
+Hash: 5BDEB138, Key: VoiceDir219.B6881, Value: Satisfied. Happy with the work.
+Hash: 7041B0E6, Key: Line224.B6880, Value: There now!
+Hash: C73D5653, Key: VoiceDir224.B6880, Value: Satisfied. Happy with the work.
+Hash: 57306729, Key: Line227.B6880, Value: Nice and neat.
+Hash: AE2C0C96, Key: VoiceDir227.B6880, Value: Satisfied. Happy with the work.
+Hash: 289A92C3, Key: Line230.B6880, Value: All done!
+Hash: 7F963830, Key: VoiceDir230.B6880, Value: Satisfied. Happy with the work.
+Hash: A97C3EAF, Key: Line235.B2A28, Value: That's done for that.
+Hash: 0077E41C, Key: VoiceDir235.B2A28, Value: Terse, busy
+Hash: 906AF4F2, Key: Line238.B2A28, Value: All finished.
+Hash: E7669A5F, Key: VoiceDir238.B2A28, Value: Terse, busy
+Hash: 61D5208C, Key: Line241.B2A28, Value: Here's what's left.
+Hash: B8D0C5F9, Key: VoiceDir241.B2A28, Value: Terse, busy
+Hash: E2B850D6, Key: Line246.B2A69, Value: That's done for that.
+Hash: 39B3F643, Key: VoiceDir246.B2A69, Value: Terse, busy
+Hash: C9A70719, Key: Line249.B2A69, Value: All finished.
+Hash: 20A2AC86, Key: VoiceDir249.B2A69, Value: Terse, busy
+Hash: 9B1132B3, Key: Line252.B2A69, Value: Here's what's left.
+Hash: F20CD820, Key: VoiceDir252.B2A69, Value: Terse, busy
+Hash: 1BF4621E, Key: Line257.B2A2C, Value: Came apart nicely.
+Hash: 72F0078B, Key: VoiceDir257.B2A2C, Value: Gruff, terse, simple
+Hash: ED5E8DB8, Key: Line260.B2A2C, Value: Good salvage, that.
+Hash: 445A3325, Key: VoiceDir260.B2A2C, Value: Gruff, terse, simple
+Hash: D44D43FB, Key: Line263.B2A2C, Value: You can take what's left.
+Hash: 2B48E968, Key: VoiceDir263.B2A2C, Value: Gruff, terse, simple
+Hash: 55307442, Key: Line268.B2A6A, Value: Came apart nicely.
+Hash: AC2C19AF, Key: VoiceDir268.B2A6A, Value: Gruff, terse, simple
+Hash: 269A9FDC, Key: Line271.B2A6A, Value: That's good salvage.
+Hash: 7D964549, Key: VoiceDir271.B2A6A, Value: Gruff, terse, simple
+Hash: 0D89561F, Key: Line274.B2A6A, Value: You can take what's left.
+Hash: 6484FB8C, Key: VoiceDir274.B2A6A, Value: Gruff, terse, simple
+Hash: 8E6C8553, Key: Line279.B2A33, Value: Plenty left over.
+Hash: E5682AC0, Key: VoiceDir279.B2A33, Value: Polite.
+Hash: 5FD6B0ED, Key: Line282.B2A33, Value: Here you are.
+Hash: B6D2565A, Key: VoiceDir282.B2A33, Value: Polite.
+Hash: 46C56730, Key: Line285.B2A33, Value: Done. Keep the off-cuts.
+Hash: 9DC10C9D, Key: VoiceDir285.B2A33, Value: Polite.
+Hash: B2240CE1, Key: Line290.B2A6E, Value: Plenty left over.
+Hash: 091FB24E, Key: VoiceDir290.B2A6E, Value: Polite.
+Hash: 9912C324, Key: Line293.B2A6E, Value: Here you are.
+Hash: F00E6891, Key: VoiceDir293.B2A6E, Value: Polite.
+Hash: 80017967, Key: Line296.B2A6E, Value: Done. Keep the off-cuts.
+Hash: D6FD1ED4, Key: VoiceDir296.B2A6E, Value: Polite.
+Hash: 254A3E28, Key: Line301.B2A36, Value: All finished.
+Hash: 7C45E395, Key: VoiceDir301.B2A36, Value: Pleased.
+Hash: 0C38F46B, Key: Line304.B2A36, Value: Good bit left there.
+Hash: 633499D8, Key: VoiceDir304.B2A36, Value: Pleased.
+Hash: F327AAAE, Key: Line307.B2A36, Value: Ah, done.
+Hash: 4A23501B, Key: VoiceDir307.B2A36, Value: Pleased.
+Hash: 5E86505D, Key: Line312.B2A6F, Value: All finished.
+Hash: B581F5CA, Key: VoiceDir312.B2A6F, Value: Pleased.
+Hash: 457506A0, Key: Line315.B2A6F, Value: Good bit left there.
+Hash: 9C70AC0D, Key: VoiceDir315.B2A6F, Value: Pleased.
+Hash: 2C63BCE3, Key: Line318.B2A6F, Value: Ah, done.
+Hash: 835F6250, Key: VoiceDir318.B2A6F, Value: Pleased.
+Hash: 97C261CA, Key: Line323.B2A61, Value: Here's what's left.
+Hash: EEBE0737, Key: VoiceDir323.B2A61, Value: Gruff, impatient
+Hash: 7EB1180D, Key: Line326.B2A61, Value: There's a few bits for you.
+Hash: D5ACBD7A, Key: VoiceDir326.B2A61, Value: Gruff, impatient
+Hash: 659FCE50, Key: Line329.B2A61, Value: Came apart easy.
+Hash: BC9B73BD, Key: VoiceDir329.B2A61, Value: Gruff, impatient
+Hash: D0FE738C, Key: Line334.B2A70, Value: Here's what's left.
+Hash: 27FA18F9, Key: VoiceDir334.B2A70, Value: Gruff, impatient
+Hash: B7ED29CF, Key: Line337.B2A70, Value: There's a few bits for you.
+Hash: 0EE8CF3C, Key: VoiceDir337.B2A70, Value: Gruff, impatient
+Hash: 89575569, Key: Line340.B2A70, Value: Came apart easy.
+Hash: E052FAD6, Key: VoiceDir340.B2A70, Value: Gruff, impatient
+Hash: 0A54A3C0, Key: Line345.BC41D, Value: I can sieve that out, no problem!
+Hash: F1435A03, Key: Line348.BC41D, Value: That's still useable.
+Hash: C2AD859D, Key: Line351.BC41D, Value: Oh, look at these elements!
+Hash: 43AEE687, Key: Line356.E7610, Value: I can sieve that out, no problem!
+Hash: 2A9D9CCA, Key: Line359.E7610, Value: That's still useable.
+Hash: FC07C864, Key: Line362.E7610, Value: Oh, look at these elements!
+Hash: 16C14087, Key: Line369.BC41E, Value: I can break that down.
+Hash: E82B6C21, Key: Line372.BC41E, Value: You can still use these.
+Hash: CF1A2264, Key: Line375.BC41E, Value: There's that.
+Hash: B62709CC, Key: Line378.E7611, Value: I can break that down.
+Hash: 87913566, Key: Line381.E7611, Value: You can still use these.
+Hash: 6E7FEBA9, Key: Line384.E7611, Value: There's that.
+Hash: 73B4D933, Key: Line391.BC434, Value: That came apart nicely.
+Hash: 5AA38F76, Key: Line394.BC434, Value: Good result.
+Hash: 419245B9, Key: Line397.BC434, Value: Ah, that's finished.
+Hash: 4D04C2A1, Key: Line400.E7614, Value: That came apart nicely.
+Hash: 33F378E4, Key: Line403.E7614, Value: Good result.
+Hash: 1AE22F27, Key: Line406.E7614, Value: Ah, that's finished.
+Hash: 20171C89, Key: Line413.BC420, Value: That's how that's done.
+Hash: 0705D2CC, Key: Line416.BC420, Value: Very good--still intact.
+Hash: EDF4890F, Key: Line419.BC420, Value: Flawless essence.
+Hash: BF7CE5E6, Key: Line422.E7615, Value: That's how that's done.
+Hash: A66B9C29, Key: Line425.E7615, Value: Very good--still intact.
+Hash: 8D5A526C, Key: Line428.E7615, Value: Flawless essence.
+Hash: 92900430, Key: Line435.BCB6A, Value: See how nicely that turned out?
+Hash: 797EBA73, Key: Line438.BCB6A, Value: Cleanly done, if I do say so myself.
+Hash: 4AE8E60D, Key: Line441.BCB6A, Value: Ah.
+Hash: 31F5092B, Key: Line444.E7616, Value: See how nicely that turned out?
+Hash: 18E3BF6E, Key: Line447.E7616, Value: Cleanly done, if I do say so myself.
+Hash: EA4DEB08, Key: Line450.E7616, Value: Ah.
+Hash: 04EFD75D, Key: Line457.B861F, Value: Made quick work of it.
+Hash: 5BEB7CCA, Key: VoiceDir457.B861F, Value: Eccentric, interested.
+Hash: D65A02F7, Key: Line460.B861F, Value: Easy enough.
+Hash: 2D55A864, Key: VoiceDir460.B861F, Value: Eccentric, interested.
+Hash: BD48B93A, Key: Line463.B861F, Value: Here's the bits.
+Hash: 14445EA7, Key: VoiceDir463.B861F, Value: Eccentric, interested.
+Hash: A4376F6A, Key: Line466.B8622, Value: Made quick work of it.
+Hash: FB3314D7, Key: VoiceDir466.B8622, Value: Eccentric, interested.
+Hash: 8B2625AD, Key: Line469.B8622, Value: Easy enough.
+Hash: E221CB1A, Key: VoiceDir469.B8622, Value: Eccentric, interested.
+Hash: 5C905147, Key: Line472.B8622, Value: Here's the bits.
+Hash: B38BF6B4, Key: VoiceDir472.B8622, Value: Eccentric, interested.
+Hash: DD72A8ED, Key: Line477.B5F7A, Value: It came apart quick. Here you go.
+Hash: 346E4E5A, Key: VoiceDir477.B5F7A, Value: Youthful, eager to help.
+Hash: AEDCD487, Key: Line480.B5F7A, Value: These bits still have some life in them yet.
+Hash: 05D879F4, Key: VoiceDir480.B5F7A, Value: Youthful, eager to help.
+Hash: 95CB8ACA, Key: Line483.B5F7A, Value: Here you are. A worthy exchange!
+Hash: ECC73037, Key: VoiceDir483.B5F7A, Value: Youthful, eager to help.
+Hash: 16AEB9E2, Key: Line488.B5F38, Value: It came apart quick. Here you go.
+Hash: 6DAA5F4F, Key: VoiceDir488.B5F38, Value: Youthful, eager to help.
+Hash: E818E57C, Key: Line491.B5F38, Value: These bits still have some life in them yet.
+Hash: 3F148AE9, Key: VoiceDir491.B5F38, Value: Youthful, eager to help.
+Hash: CF079BBF, Key: Line494.B5F38, Value: Here you are. A worthy exchange!
+Hash: 2603412C, Key: VoiceDir494.B5F38, Value: Youthful, eager to help.
+Hash: 0E44DAAD, Key: Line501.B5F40, Value: Fast and easy.
+Hash: 6540801A, Key: VoiceDir501.B5F40, Value: Self-assured, experienced.
+Hash: F53390F0, Key: Line504.B5F40, Value: Done and done.
+Hash: 4C2F365D, Key: VoiceDir504.B5F40, Value: Self-assured, experienced.
+Hash: DC224733, Key: Line507.B5F40, Value: Hardly a challenge. Here you are.
+Hash: 331DECA0, Key: VoiceDir507.B5F40, Value: Self-assured, experienced.
+Hash: AD8C72CE, Key: Line510.B5F41, Value: Fast and easy.
+Hash: 0488183B, Key: VoiceDir510.B5F41, Value: Self-assured, experienced.
+Hash: 947B2911, Key: Line513.B5F41, Value: Done and done.
+Hash: EB76CE7E, Key: VoiceDir513.B5F41, Value: Self-assured, experienced.
+Hash: 7B69DF54, Key: Line516.B5F41, Value: Hardly a challenge. Here you are.
+Hash: D26584C1, Key: VoiceDir516.B5F41, Value: Self-assured, experienced.
+Hash: 80BD5D48, Key: Line523.B79AE, Value: Take the bits, I've no use for 'em.
+Hash: D7B902B5, Key: VoiceDir523.B79AE, Value: Keen, but sloppy. Tipsy.
+Hash: 67AC138B, Key: Line526.B79AE, Value: Yeah, yeah. Here you go.
+Hash: BEA7B8F8, Key: VoiceDir526.B79AE, Value: Keen, but sloppy. Tipsy.
+Hash: 4E9AC9CE, Key: Line529.B79AE, Value: Take the rest, I don't give a damn.
+Hash: A5966F3B, Key: VoiceDir529.B79AE, Value: Keen, but sloppy. Tipsy.
+Hash: 2004F569, Key: Line532.B79AF, Value: Take the bits, I've no use for 'em.
+Hash: 77009AD6, Key: VoiceDir532.B79AF, Value: Keen, but sloppy. Tipsy.
+Hash: 06F3ABAC, Key: Line535.B79AF, Value: Yeah, yeah. Here you go.
+Hash: 5DEF5119, Key: VoiceDir535.B79AF, Value: Keen, but sloppy. Tipsy.
+Hash: EDE261EF, Key: Line538.B79AF, Value: Take the rest, I don't give a damn.
+Hash: 44DE075C, Key: VoiceDir538.B79AF, Value: Keen, but sloppy. Tipsy.

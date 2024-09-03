@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Writings of Airidah's Grief
+Hash: CC3C0A8F, Key: FlavorText, Value: A letter from Airidah expressing her sorrow.

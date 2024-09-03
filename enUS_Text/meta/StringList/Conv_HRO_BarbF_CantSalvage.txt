@@ -1,0 +1,2 @@
+Hash: 96652C7C, Key: Line3.BAE4.Bar.F, Value: I cannot salvage that.
+Hash: 5A32A200, Key: Line7.BAE4.Bar.F, Value: That cannot be salvaged.

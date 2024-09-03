@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sixth Journey Cache
+Hash: A646FFA4, Key: Description, Value: Contains a number of late game resources and Nightmare Sigils, to pursue greater heights and challenges, as well as jewelry.

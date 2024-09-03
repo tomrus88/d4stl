@@ -1,0 +1,17 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Begin the ritual."
+Hash: 923F0679, Key: Line23.121FCA, Value: Hezar ilan tora dormu!
+Hash: E93AABE6, Key: VoiceDir23.121FCA, Value: Magical incantation words.
+Hash: 8ED73C0B, Key: Line1.12259A, Value: You can dispense with the absurd disguise, Elias. It cannot hide what I know lies within.
+Hash: F438D28C, Key: Line3.8DD12, Value: Why do you pursue me? What do you hope to achieve?
+Hash: 3FDE8F8F, Key: Line5.12259A, Value: Your end, Elias. For you tamper with powers you don't understand, and will doom us all with your arrogance.
+Hash: 6AC266C1, Key: Line25.12259A, Value: And I will act in accordance with my master's wishes.
+Hash: 2821C590, Key: Line7.8DD12, Value: Rathma ignored Sanctuary, in his life and death. I would save it!
+Hash: 453EA23C, Key: Line11.12259A, Value: You will bring ruin!
+Hash: 0943B69D, Key: Line13.8DD12, Value: I will bring your ruin.
+Hash: 5979E26A, Key: VoiceDir13.8DD12, Value: Emphasis on "your."
+Hash: CEC99F82, Key: Line17.12259A, Value: N-no... (groans)
+Hash: 25C544EF, Key: VoiceDir17.12259A, Value: death sound
+Hash: F64FDE0E, Key: Line15.11E6C2, Value: Elias, are you still... Akarat! What happened?
+Hash: 4D4B837B, Key: VoiceDir15.11E6C2, Value: Emphasis on 'Akarat,' interrupts the original thought
+Hash: B9BB133F, Key: Line21.12259C, Value: An assassin. I warned you our journey would be difficult.
+Hash: 43461085, Key: Line27.12259C, Value: Come. We must leave now if we mean to reach Backwater in daylight.

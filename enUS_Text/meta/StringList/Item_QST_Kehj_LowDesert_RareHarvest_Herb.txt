@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spotted Mushroom
+Hash: F5C7BC0A, Key: Flavor, Value: An unusual mushroom picked while harvesting herbs in Kehjistan. 

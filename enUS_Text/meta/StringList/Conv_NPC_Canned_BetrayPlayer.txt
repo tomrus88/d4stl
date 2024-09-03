@@ -1,0 +1,144 @@
+Hash: AE8D4B20, Key: Line2359.3F392, Value: You were a fool to trust me!
+Hash: E4FD9E2D, Key: VoiceDir2359.3F392, Value: Contempt
+Hash: 7FF776BA, Key: Line2362.3F392, Value: You are far too trusting!
+Hash: B667C9C7, Key: VoiceDir2362.3F392, Value: Contempt
+Hash: 66E62CFD, Key: Line2365.3F392, Value: Fell right into my trap.
+Hash: 9D56800A, Key: VoiceDir2365.3F392, Value: Contempt
+Hash: FD49A4BB, Key: Line2350.EDC78, Value: You were a fool to trust me!
+Hash: 33B9F7C8, Key: VoiceDir2350.EDC78, Value: Contempt
+Hash: E4385AFE, Key: Line2353.EDC78, Value: You are far too trusting!
+Hash: 1AA8AE0B, Key: VoiceDir2353.EDC78, Value: Contempt
+Hash: CB271141, Key: Line2356.EDC78, Value: Fell right into my trap.
+Hash: 0197644E, Key: VoiceDir2356.EDC78, Value: Contempt
+Hash: 5E020C9C, Key: Line2341.EDC79, Value: You were a fool to trust me!
+Hash: 94725FA9, Key: VoiceDir2341.EDC79, Value: Contempt
+Hash: 44F0C2DF, Key: Line2344.EDC79, Value: You are far too trusting!
+Hash: 7B6115EC, Key: VoiceDir2344.EDC79, Value: Contempt
+Hash: 2BDF7922, Key: Line2347.EDC79, Value: Fell right into my trap.
+Hash: 624FCC2F, Key: VoiceDir2347.EDC79, Value: Contempt
+Hash: B5250EBE, Key: Line2098.3F381, Value: You were a fool to trust me!
+Hash: EB9561CB, Key: VoiceDir2098.3F381, Value: Contempt
+Hash: C0795A8F, Key: Line2101.3F381, Value: You are far too trusting!
+Hash: F6E9AD9C, Key: VoiceDir2101.3F381, Value: Contempt
+Hash: A76810D2, Key: Line2104.3F381, Value: Fell right into my trap.
+Hash: DDD863DF, Key: VoiceDir2104.3F381, Value: Contempt
+Hash: 91DF43C5, Key: Line2107.EDC7B, Value: You were a fool to trust me!
+Hash: C84F96D2, Key: VoiceDir2107.EDC7B, Value: Contempt
+Hash: 63496F5F, Key: Line2110.EDC7B, Value: You are far too trusting!
+Hash: 99B9C26C, Key: VoiceDir2110.EDC7B, Value: Contempt
+Hash: 4A3825A2, Key: Line2113.EDC7B, Value: Fell right into my trap.
+Hash: 80A878AF, Key: VoiceDir2113.EDC7B, Value: Contempt
+Hash: 3126DBE6, Key: Line2116.EDC7C, Value: You were a fool to trust me!
+Hash: 67972EF3, Key: VoiceDir2116.EDC7C, Value: Contempt
+Hash: 18159229, Key: Line2119.EDC7C, Value: You are far too trusting!
+Hash: 4E85E536, Key: VoiceDir2119.EDC7C, Value: Contempt
+Hash: E97FBDC3, Key: Line2122.EDC7C, Value: Fell right into my trap.
+Hash: 1FF010D0, Key: VoiceDir2122.EDC7C, Value: Contempt
+Hash: D01ED024, Key: Line2125.B79B0, Value: You were a fool to trust me!
+Hash: 068F2331, Key: VoiceDir2125.B79B0, Value: Contempt
+Hash: B70D8667, Key: Line2128.B79B0, Value: You are far too trusting!
+Hash: ED7DD974, Key: VoiceDir2128.B79B0, Value: Contempt
+Hash: 8877B201, Key: Line2131.B79B0, Value: Fell right into my trap.
+Hash: BEE8050E, Key: VoiceDir2131.B79B0, Value: Contempt
+Hash: 6FB60BF7, Key: Line2134.EDC74, Value: You were a fool to trust me!
+Hash: A6265F04, Key: VoiceDir2134.EDC74, Value: Contempt
+Hash: 56A4C23A, Key: Line2137.EDC74, Value: You are far too trusting!
+Hash: 8D151547, Key: VoiceDir2137.EDC74, Value: Contempt
+Hash: 280EEDD4, Key: Line2140.EDC74, Value: Fell right into my trap.
+Hash: 5E7F40E1, Key: VoiceDir2140.EDC74, Value: Contempt
+Hash: 0EFDA418, Key: Line2143.EDC75, Value: You were a fool to trust me!
+Hash: 456DF725, Key: VoiceDir2143.EDC75, Value: Contempt
+Hash: F5EC5A5B, Key: Line2146.EDC75, Value: You are far too trusting!
+Hash: 2C5CAD68, Key: VoiceDir2146.EDC75, Value: Contempt
+Hash: DCDB109E, Key: Line2149.EDC75, Value: Fell right into my trap.
+Hash: 134B63AB, Key: VoiceDir2149.EDC75, Value: Contempt
+Hash: 4D3D30A5, Key: Line2161.B79B1, Value: You were a fool to trust me!
+Hash: 83AD83B2, Key: VoiceDir2161.B79B1, Value: Contempt
+Hash: 342BE6E8, Key: Line2164.B79B1, Value: You are far too trusting!
+Hash: 6A9C39F5, Key: VoiceDir2164.B79B1, Value: Contempt
+Hash: 1B1A9D2B, Key: Line2167.B79B1, Value: Fell right into my trap.
+Hash: 518AF038, Key: VoiceDir2167.B79B1, Value: Contempt
+Hash: AE453C39, Key: Line2152.EDC76, Value: You were a fool to trust me!
+Hash: E4B58F46, Key: VoiceDir2152.EDC76, Value: Contempt
+Hash: 9533F27C, Key: Line2155.EDC76, Value: You are far too trusting!
+Hash: CBA44589, Key: VoiceDir2155.EDC76, Value: Contempt
+Hash: 7C22A8BF, Key: Line2158.EDC76, Value: Fell right into my trap.
+Hash: B292FBCC, Key: VoiceDir2158.EDC76, Value: Contempt
+Hash: ECD46C7A, Key: Line2170.EDC77, Value: You were a fool to trust me!
+Hash: 2344BF87, Key: VoiceDir2170.EDC77, Value: Contempt
+Hash: D3C322BD, Key: Line2173.EDC77, Value: You are far too trusting!
+Hash: 0A3375CA, Key: VoiceDir2173.EDC77, Value: Contempt
+Hash: BAB1D900, Key: Line2176.EDC77, Value: Fell right into my trap.
+Hash: F1222C0D, Key: VoiceDir2176.EDC77, Value: Contempt
+Hash: A15050E4, Key: Line2179.B6757, Value: You were a fool to trust me!
+Hash: D7C0A3F1, Key: VoiceDir2179.B6757, Value: Contempt
+Hash: 72BA7C7E, Key: Line2182.B6757, Value: You are far too trusting!
+Hash: A92ACF8B, Key: VoiceDir2182.B6757, Value: Contempt
+Hash: 59A932C1, Key: Line2185.B6757, Value: Fell right into my trap.
+Hash: 901985CE, Key: VoiceDir2185.B6757, Value: Contempt
+Hash: 40E82790, Key: Line2188.EDC7D, Value: You were a fool to trust me!
+Hash: 77587A9D, Key: VoiceDir2188.EDC7D, Value: Contempt
+Hash: 1252532A, Key: Line2191.EDC7D, Value: You are far too trusting!
+Hash: 48C2A637, Key: VoiceDir2191.EDC7D, Value: Contempt
+Hash: F941096D, Key: Line2194.EDC7D, Value: Fell right into my trap.
+Hash: 2FB15C7A, Key: VoiceDir2194.EDC7D, Value: Contempt
+Hash: E02FBFB1, Key: Line2197.EDC7E, Value: You were a fool to trust me!
+Hash: 16A012BE, Key: VoiceDir2197.EDC7E, Value: Contempt
+Hash: EB840B82, Key: Line2200.EDC7E, Value: You are far too trusting!
+Hash: 21F45E8F, Key: VoiceDir2200.EDC7E, Value: Contempt
+Hash: D272C1C5, Key: Line2203.EDC7E, Value: Fell right into my trap.
+Hash: 08E314D2, Key: VoiceDir2203.EDC7E, Value: Contempt
+Hash: B9113D17, Key: Line2206.B6807, Value: You were a fool to trust me!
+Hash: EF819024, Key: VoiceDir2206.B6807, Value: Contempt
+Hash: 9FFFF35A, Key: Line2209.B6807, Value: You are far too trusting!
+Hash: D6704667, Key: VoiceDir2209.B6807, Value: Contempt
+Hash: 716A1EF4, Key: Line2212.B6807, Value: Fell right into my trap.
+Hash: A7DA7201, Key: VoiceDir2212.B6807, Value: Contempt
+Hash: 58A91029, Key: Line2215.EDC7F, Value: You were a fool to trust me!
+Hash: 8F196336, Key: VoiceDir2215.EDC7F, Value: Contempt
+Hash: 3F97C66C, Key: Line2218.EDC7F, Value: You are far too trusting!
+Hash: 76081979, Key: VoiceDir2218.EDC7F, Value: Contempt
+Hash: 1101F206, Key: Line2221.EDC7F, Value: Fell right into my trap.
+Hash: 47724513, Key: VoiceDir2221.EDC7F, Value: Contempt
+Hash: F7F0A834, Key: Line2224.EDC80, Value: You were a fool to trust me!
+Hash: 2E60FB41, Key: VoiceDir2224.EDC80, Value: Contempt
+Hash: DEDF5E77, Key: Line2227.EDC80, Value: You are far too trusting!
+Hash: 154FB184, Key: VoiceDir2227.EDC80, Value: Contempt
+Hash: B0498A11, Key: Line2230.EDC80, Value: Fell right into my trap.
+Hash: E6B9DD1E, Key: VoiceDir2230.EDC80, Value: Contempt
+Hash: 6832BFCC, Key: Line2287.BC3FE, Value: You were a fool to trust me!
+Hash: 9EA312D9, Key: VoiceDir2287.BC3FE, Value: Contempt
+Hash: 399CEB66, Key: Line2290.BC3FE, Value: You are far too trusting!
+Hash: 700D3E73, Key: VoiceDir2290.BC3FE, Value: Contempt
+Hash: 208BA1A9, Key: Line2293.BC3FE, Value: Fell right into my trap.
+Hash: 56FBF4B6, Key: VoiceDir2293.BC3FE, Value: Contempt
+Hash: 07B1F3BC, Key: Line2296.EDC70, Value: You were a fool to trust me!
+Hash: 3E2246C9, Key: VoiceDir2296.EDC70, Value: Contempt
+Hash: EEA0A9FF, Key: Line2299.EDC70, Value: You are far too trusting!
+Hash: 2510FD0C, Key: VoiceDir2299.EDC70, Value: Contempt
+Hash: F9F4F5D0, Key: Line2302.EDC70, Value: Fell right into my trap.
+Hash: 306548DD, Key: VoiceDir2302.EDC70, Value: Contempt
+Hash: 802B4434, Key: Line2314.EDC71, Value: You were a fool to trust me!
+Hash: B69B9741, Key: VoiceDir2314.EDC71, Value: Contempt
+Hash: 6719FA77, Key: Line2317.EDC71, Value: You are far too trusting!
+Hash: 9D8A4D84, Key: VoiceDir2317.EDC71, Value: Contempt
+Hash: 38842611, Key: Line2320.EDC71, Value: Fell right into my trap.
+Hash: 6EF4791E, Key: VoiceDir2320.EDC71, Value: Contempt
+Hash: E0AC1044, Key: Line2305.BC3FF, Value: You were a fool to trust me!
+Hash: 171C6351, Key: VoiceDir2305.BC3FF, Value: Contempt
+Hash: C79AC687, Key: Line2308.BC3FF, Value: You are far too trusting!
+Hash: FE0B1994, Key: VoiceDir2308.BC3FF, Value: Contempt
+Hash: 9904F221, Key: Line2311.BC3FF, Value: Fell right into my trap.
+Hash: CF75452E, Key: VoiceDir2311.BC3FF, Value: Contempt
+Hash: 1F72DC55, Key: Line2323.EDC72, Value: You were a fool to trust me!
+Hash: 55E32F62, Key: VoiceDir2323.EDC72, Value: Contempt
+Hash: 06619298, Key: Line2326.EDC72, Value: You are far too trusting!
+Hash: 3CD1E5A5, Key: VoiceDir2326.EDC72, Value: Contempt
+Hash: ED5048DB, Key: Line2329.EDC72, Value: Fell right into my trap.
+Hash: 23C09BE8, Key: VoiceDir2329.EDC72, Value: Contempt
+Hash: BEBA7476, Key: Line2332.EDC73, Value: You were a fool to trust me!
+Hash: F52AC783, Key: VoiceDir2332.EDC73, Value: Contempt
+Hash: A5A92AB9, Key: Line2335.EDC73, Value: You are far too trusting!
+Hash: DC197DC6, Key: VoiceDir2335.EDC73, Value: Contempt
+Hash: 8C97E0FC, Key: Line2338.EDC73, Value: Fell right into my trap.
+Hash: C3083409, Key: VoiceDir2338.EDC73, Value: Contempt

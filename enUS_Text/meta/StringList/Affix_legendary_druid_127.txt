@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Rushing Wilds
+Hash: 003892BF, Key: Desc, Value: Casting a {c_important}Companion{/c} Skill grants you {c_random}[Affix_Value_1|%+1|]{/c} Movement Speed for {c_number}[Affix."Static Value 0"]{/c} seconds, up to {c_random}[Affix_Value_1 * Affix."Static Value 1"|%+1|]{/c}.

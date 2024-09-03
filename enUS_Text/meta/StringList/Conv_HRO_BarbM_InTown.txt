@@ -1,0 +1,2 @@
+Hash: F84BE745, Key: Line5.BAE4.Bar.M, Value: Not while I'm in town.
+Hash: 5A32A207, Key: Line7.BAE4.Bar.M, Value: I can't do that here.

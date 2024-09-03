@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can you open this door?"
+Hash: A31403C6, Key: Line15.6DE47, Value: It’s the same seal as before. Should be easy enough to break it again, but why would someone use it here?
+Hash: F34A2F93, Key: VoiceDir15.6DE47, Value: Interested, curious
+Hash: 7337041C, Key: Line19.BAE4, Value: One way to find out.
+Hash: E2406A49, Key: VoiceDir19.BAE4, Value: Determined
+Hash: 3D087D48, Key: Line17.6DE47, Value: Of course, we can’t let anything stop our pursuit of Lilith. I’ll open the door, and if we split up, we’ll work faster that way.
+Hash: 8D3EA915, Key: VoiceDir17.6DE47, Value: Determined
+Hash: B2324D17, Key: Line23.BAE4, Value: Only if you stay on this side of the door.
+Hash: 213BB344, Key: VoiceDir23.BAE4, Value: calm
+Hash: 8F55D8A7, Key: Line25.6DE47, Value: Fine.
+Hash: DF8C0474, Key: VoiceDir25.6DE47, Value: unhappy
+Hash: 477C7557, Key: Line41.BAE4, Value: What am I looking for?
+Hash: CDE508E7, Key: Line43.6DE47, Value: Don’t you know? A book, a scroll, or anything that will help us cross the Black Lake.

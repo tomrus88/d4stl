@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scribbled Note
+Hash: F2CA04D8, Key: NoticeSignText, Value: "If you must abscond from the library in the dead of night, do remember to throw the lever. I've no desire to be throttled by thieves. -Z”

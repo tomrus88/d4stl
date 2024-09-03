@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Dawood, I take it? Your captain is looking for you."
+Hash: C517D720, Key: Line9.D5161, Value: He hired an outsider to find me? (scoff) He must be angry.
+Hash: 34213D4D, Key: VoiceDir9.D5161, Value: Taken aback. Shrugging. Knows Haddad well.
+Hash: 5E92AA0A, Key: Line21.D5161, Value: But I won’t just stand at my post, waiting for the next ambush to kill my friends.
+Hash: AEC8D5D7, Key: VoiceDir21.D5161, Value: Restrained anger. Determined.
+Hash: F887238C, Key: Line23.D5161, Value: I’ve tracked the killers to the beach. Since you’re here, you can help me teach them a lesson.
+Hash: 48BD4F59, Key: VoiceDir23.D5161, Value: Restrained anger. Determined.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Leather Cache
+Hash: A646FFA4, Key: Description, Value: Contains an assortment of Leather.
+Hash: F5C7BC0A, Key: Flavor, Value: Used universally for almost all durable, flexible purposes, both in armor and tool production, fine quality leather enjoys a status as key commodity in Sanctuary.

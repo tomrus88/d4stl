@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: An Old and Angry Wound
+Hash: 0871A46B, Key: Toast, Value: Istel speaks of the Burning Aether and the next battle to come.
+Hash: 68161728, Key: Phase3Description, Value: Istel said she was right about the Burning Aether, the very essence from which a demon is reborn. I'm not sure I trust her with this power, but Túr Dúlra is in danger. The druids will need my help.
+Hash: A07C739F, Key: Callback18Header, Value: Clear The Dúlra Breach
+Hash: B98DBD5C, Key: Callback15Header, Value: Respond to Istel
+Hash: C9FCD1EA, Key: Phase5Description, Value: I've cut my way through countless demons and taken the Mother's Gift from them. Time again to seek Istel back in Zarbinzet and see what else she knows.
+Hash: 1F9943DA, Key: Callback13Header, Value: Return to Istel in Zarbinzet

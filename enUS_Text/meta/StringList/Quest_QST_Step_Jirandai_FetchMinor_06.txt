@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Blistered Heart
+Hash: 0871A46B, Key: Toast, Value: The Spider Queen has taken her last victim. 
+Hash: 5CD6EA0D, Key: Phase8Description, Value: A grieving mother seeks revenge for her son. He was mutilated by spiders in Blistered Barrens. I’ve been hired to exterminate the vermin to draw out the Spider Queen. 
+Hash: 6C93809B, Key: Callback14Header, Value: Slay spiders to draw out the broodmother
+Hash: E2223B19, Key: Phase22Description, Value: The Spider Queen is slain and I’ve collected her heart. I should return it to Sorga in Jirandai. 
+Hash: 71E69F39, Key: Callback21Header, Value: Return to Sorga
+Hash: 38C9C8C0, Key: Phase29Description, Value: The blood of her slain children has drawn out the Spider Queen. Sorga tasked me with slaying her and retrieving her heart.
+Hash: 5E28741A, Key: Callback31Header, Value: Retrieve the {ITEM}
+Hash: F81CED9C, Key: Callback33Header, Value: Hidden

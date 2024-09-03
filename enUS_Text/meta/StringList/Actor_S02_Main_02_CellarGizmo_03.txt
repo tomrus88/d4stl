@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crumpled Note
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Two barbarians, one druid, and a dabbling sorcerer...not nearly enough! Master needs more to join his Blood Seekers, far more."

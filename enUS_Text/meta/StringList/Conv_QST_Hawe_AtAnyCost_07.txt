@@ -1,0 +1,4 @@
+Hash: 8ED78585, Key: Line1.121FCA, Value: Are. Ready?
+Hash: DF0DB152, Key: VoiceDir1.121FCA, Value: Raspy zombie voice. Straining with every word
+Hash: 675B2F47, Key: Line3.121FCA, Value: Begin.
+Hash: B7915B14, Key: VoiceDir3.121FCA, Value: Raspy zombie voice. Straining with every word

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hoar Frost Cache
+Hash: A646FFA4, Key: Description, Value: The inclemency of the tundra makes for hearty Frost Lords and dulls the efficacy of their enemies.
+Hash: 083EE0CE, Key: Quote, Value: Winter consequence.
+Hash: 13A53A8B, Key: Series, Value: "Frost Lord" Accessories

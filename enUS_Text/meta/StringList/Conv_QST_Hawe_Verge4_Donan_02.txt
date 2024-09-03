@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Burnt Forest Close
+Hash: 5B80055C, Key: Line21.7FA05, Value: First off, the...the quicksilver. Mix some of it into the pot.
+Hash: ABB63129, Key: VoiceDir21.7FA05, Value: Distracted, trying to clear his mind to give precise instructions

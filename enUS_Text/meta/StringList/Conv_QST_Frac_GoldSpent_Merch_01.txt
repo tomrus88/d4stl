@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you need?"
+Hash: 5D83A108, Key: Line1.FBAB6, Value: An arrangement I made went awry and I was extorted by the ruffian Luskas for "protection".
+Hash: CC8D0735, Key: VoiceDir1.FBAB6, Value: arrogant and irritated 
+Hash: F7781A8A, Key: Line3.FBAB6, Value: He's camped somewhere near the pass to the northwest. Return the gemstones he stole and I’ll make it worth your while.

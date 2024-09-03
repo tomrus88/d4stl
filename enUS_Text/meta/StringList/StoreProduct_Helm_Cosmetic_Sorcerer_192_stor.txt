@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hubris Coronet
+Hash: 13A53A8B, Key: Series, Value: "Father's Indignation"

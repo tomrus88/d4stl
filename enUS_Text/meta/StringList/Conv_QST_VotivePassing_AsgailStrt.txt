@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Is there anything I can help with?”
+Hash: 5A270F87, Key: Line1.804AC, Value: Some of our finest hunters did not return from the hills. Became prey themselves when the fog came with hunger.
+Hash: C93075B4, Key: VoiceDir1.804AC, Value: Candid with facts of loss
+Hash: F41B8909, Key: Line3.804AC, Value: Now their bodies lay bare for scavenging. It’s wrong in all ways.
+Hash: 6324EF36, Key: VoiceDir3.804AC, Value: Frustrated. Angered by the irreverence of their death.
+Hash: 8E10028B, Key: Line5.804AC, Value: They should be marked with charms of passing. The rites of the Old Ways to see them to peace.
+Hash: FD1968B8, Key: VoiceDir5.804AC, Value: Sincere, passionate toward necessary burial
+Hash: 28047C0D, Key: Line7.804AC, Value: You’re well familiar with our lands, and as brave as those we lost. Could you see them to proper rest?
+Hash: 970DE23A, Key: VoiceDir7.804AC, Value: Complimentary (towards player), sincere request

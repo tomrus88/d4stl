@@ -1,0 +1,2 @@
+Hash: 5D28EFE8, Key: Line1.AC3FD, Value: Don’t you see? I could end suffering! Cure death!
+Hash: CC325615, Key: VoiceDir1.AC3FD, Value: mad

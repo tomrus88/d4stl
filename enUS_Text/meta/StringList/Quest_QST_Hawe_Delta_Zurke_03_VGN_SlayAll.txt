@@ -1,0 +1,7 @@
+Hash: 95661601, Key: Callback83Header, Value: Protect Zurke as he completes the ritual
+Hash: 7C54CC44, Key: Callback86Header, Value: Protect Zurke as he completes the ritual
+Hash: 003DFCC1, Key: Name, Value: Song of Rot
+Hash: CEA227A3, Key: Callback94Header, Value: Hidden
+Hash: 63438287, Key: Callback89Header, Value: Protect Zurke as he completes the ritual
+Hash: 1B9C6464, Key: Callback95Header, Value: Hidden
+Hash: 6896A125, Key: Callback96Header, Value: Hidden

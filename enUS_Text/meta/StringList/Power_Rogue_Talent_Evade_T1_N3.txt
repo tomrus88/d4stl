@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Relentless Pursuit
+Hash: 003892BF, Key: desc, Value: You can immediately evade again after using a attack or skill.

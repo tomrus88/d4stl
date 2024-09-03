@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Catch anything?"
+Hash: 11C521F9, Key: Line20.EDBD2, Value: Pa always said, patience and endurance will see us through.
+Hash: ABB99B7B, Key: Line22.EDBD2, Value: Caught a fish this morning. It was just a minnow, but it’s my minnow!

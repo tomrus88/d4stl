@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Greed turns the blade to its wielder.
+Hash: 8E467330, Key: Callback172Header, Value: Slay Killian Rex and collect the {ITEM}
+Hash: 0F29A2F5, Key: Callback177Header, Value: Use the Ancient Miner's Key to open the {GIZMO}
+Hash: 7A884811, Key: Callback182Header, Value: Travel to the {LEVELAREA}
+Hash: 6176FE54, Key: Callback185Header, Value: Return the Ancients Statue to the Pedestal: {LEFT}
+Hash: CCD5A370, Key: Callback190Header, Value: Travel to the {LEVELAREA}
+Hash: B3C459B3, Key: Callback193Header, Value: Defeat the {MONSTER}

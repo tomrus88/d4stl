@@ -1,0 +1,18 @@
+Hash: 927D43C7, Key: Line73.54239, Value: Got a smart one here! Cut them down!
+Hash: E2B36F94, Key: VoiceDir73.54239, Value: Surprised but fearless
+Hash: 796BFA0A, Key: Line76.54239, Value: We're spotted! Blades out!
+Hash: C9A225D7, Key: VoiceDir76.54239, Value: Surprised but fearless
+Hash: 605AB04D, Key: Line79.54239, Value: No soup, then! Attack!
+Hash: B090DC1A, Key: VoiceDir79.54239, Value: Surprised but fearless
+Hash: A63B6EE4, Key: Line63.54237, Value: Got a smart one here! Cut them down!
+Hash: F6719AB1, Key: VoiceDir63.54237, Value: Surprised but fearless
+Hash: 8D2A2527, Key: Line66.54237, Value: We're spotted! Blades out!
+Hash: DD6050F4, Key: VoiceDir66.54237, Value: Surprised but fearless
+Hash: 7418DB6A, Key: Line69.54237, Value: No soup, then! Attack!
+Hash: C44F0737, Key: VoiceDir69.54237, Value: Surprised but fearless
+Hash: D1459A08, Key: Line91.8998F, Value: Got a smart one here! Cut them down!
+Hash: 217BC5D5, Key: VoiceDir91.8998F, Value: Surprised but fearless
+Hash: B834504B, Key: Line94.8998F, Value: We're spotted! Blades out!
+Hash: 086A7C18, Key: VoiceDir94.8998F, Value: Surprised but fearless
+Hash: 9F23068E, Key: Line97.8998F, Value: No soup, then! Attack!
+Hash: EF59325B, Key: VoiceDir97.8998F, Value: Surprised but fearless

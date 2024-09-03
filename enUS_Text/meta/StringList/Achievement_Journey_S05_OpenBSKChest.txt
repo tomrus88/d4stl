@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Unholy Coffers
+Hash: 3A4912CF, Key: DescShort, Value: Open a Greater Spoils of Hell chest after defeating The Fell Council in the Infernal Hordes

@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Red-Cloaked Trophy
+Hash: 7BFE534B, Key: simple_instruction, Value: Collect the {c_highlight}Red-Cloaked Trophy{/c} by defeating the {c_highlight}Red-Cloaked Horror{/c}. Exchange them for {icon:hibernal_proofs, 2.5}Midwinter Proofs at the Collections Table in the {icon:hibernal_event_icon, 2.5}Midwinter Square.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you all right?"
+Hash: 8ED9FF19, Key: Line1.1275AB, Value: Last night, my ancestors spoke to me. The Cranes fought well, they said. Our time has come at last to rejoin the tribes.
+Hash: DF102AE6, Key: VoiceDir1.1275AB, Value: Pensive. Proud yet anxious.
+Hash: 675DA8DB, Key: Line3.1275AB, Value: I will not meet the Oxen Tribe on my knees...proper tribute must be made. Arreat steel, from the mountain that fell.
+Hash: B793D4A8, Key: VoiceDir3.1275AB, Value: Thinking out loud. Dismissive, then pleased with her own idea.
+Hash: 3FE1529D, Key: Line5.1275AB, Value: My ancestors say they lie with such steel, deep in their tomb to the east. If you would recover it, deliver it to the Oxen forgemaster. Tell her it is time we met.
+Hash: 90177E6A, Key: VoiceDir5.1275AB, Value: Firm. Solemn. Bracing for what comes next.

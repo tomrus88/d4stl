@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Warmth
+Hash: A646FFA4, Key: Description, Value: We are Mother's warmth. The Mother and Sanctuary are one. She uplifts us that we may hold her children to the fire and lay claim to their birthright.
+Hash: 083EE0CE, Key: Quote, Value: Brutal warriors in service to the Mother of Sanctuary.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Armor

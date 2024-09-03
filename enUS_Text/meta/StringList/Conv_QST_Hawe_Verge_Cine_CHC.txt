@@ -1,0 +1,27 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Taissa the Witch
+Hash: 5A334C6A, Key: Line1.7FA05, Value: (groans)
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: pained, drugged groan
+Hash: 295D71E2, Key: Line27.7FA05, Value: (groans)
+Hash: 79939DAF, Key: VoiceDir27.7FA05, Value: groan of exertion as Donan stands
+Hash: C351EB64, Key: Line29.7FA05, Value: (gasp)
+Hash: 13881731, Key: VoiceDir29.7FA05, Value: sharp gasp
+Hash: E1B653BF, Key: Line33.7FA05, Value: (breathing)
+Hash: 31EC7F8C, Key: VoiceDir33.7FA05, Value: heavy breathing
+Hash: 7B9E9053, Key: Line35.804B7, Value: Oh no! They're coming!
+Hash: 159309D5, Key: Line37.804B7, Value: Father...
+Hash: AF878357, Key: Line39.804B7, Value: I will, don't worry...
+Hash: 47C1DA3D, Key: Line31.7FA05, Value: (gasp)
+Hash: 97F8060A, Key: VoiceDir31.7FA05, Value: sharp gasp
+Hash: 8E100280, Key: Line5.804B7, Value: Father.
+Hash: F427C5EC, Key: Line3.7FA05, Value: Yorin? My son? How...how is it possible...?
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: pained, confused
+Hash: 2810B8F0, Key: Line7.7FA05, Value: My son... please come back to me... come back... I shouldn’t have let you go...
+Hash: C2053272, Key: Line9.7FA05, Value: I should have said no! Should have kept you with me at Eldhaime...
+Hash: 6F31F38D, Key: Line11.804B7, Value: Why did you let me go?
+Hash: 0932A9FD, Key: Line13.7FA05, Value: I don’t know. I... the look on your face... you were ready...
+Hash: A327237F, Key: Line15.7FA05, Value: (deep breath) ...you needed to go...
+Hash: 3D0F6013, Key: Line17.804B7, Value: I did. And I do again.
+Hash: D7101683, Key: Line19.7FA05, Value: Stop. Just... just... (sobs)
+Hash: 5B73C86E, Key: Line21.804B7, Value: Father. I’m ready.
+Hash: F5747EDE, Key: Line23.7FA05, Value: (sobbing)
+Hash: 45AAAAAB, Key: VoiceDir23.7FA05, Value: sobbing

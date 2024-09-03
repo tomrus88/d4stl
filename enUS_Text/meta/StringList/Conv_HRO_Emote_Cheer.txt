@@ -1,0 +1,10 @@
+Hash: 608DBF14, Key: Line11.BAE4, Value: Impressive.
+Hash: CF972541, Key: VoiceDir11.BAE4, Value: Meant as a compliment.
+Hash: 70E1DB7B, Key: Line18.BAE4, Value: Well done.
+Hash: DFEB41A8, Key: VoiceDir18.BAE4, Value: Genuine, meant as a compliment.
+Hash: FA6BE55C, Key: Line26.BAE4.Sor, Value: I'm impressed.
+Hash: FA6BA5F3, Key: Line26.BAE4.Dru, Value: The beast lives within you.
+Hash: FA6B9B3D, Key: Line26.BAE4.Bar, Value: Brutal. I like it.
+Hash: FA6BE110, Key: Line26.BAE4.Rog, Value: Efficient.
+Hash: FA6BCEBE, Key: Line26.BAE4.Nec, Value: That was, not bad.
+Hash: FEE6836B, Key: VoiceDir26.BAE4.Nec, Value: Almost a grudging admission, but still genuine.

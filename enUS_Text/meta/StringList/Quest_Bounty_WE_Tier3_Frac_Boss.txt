@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: World Boss
+Hash: 0871A46B, Key: Toast, Value: Ashava the Pestilent, Avarice the Gold-cursed, and the Wandering Death have occasionally been seen at this location.
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the World Boss

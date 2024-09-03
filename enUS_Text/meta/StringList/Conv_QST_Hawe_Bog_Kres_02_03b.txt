@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have collected the snake venom."
+Hash: 0938FFEF, Key: Line13.9118B, Value: It will ease his wounds. But the pain of the heart...
+Hash: 0E8C1E8D, Key: Line20.9118B, Value: It will hurt. He will suffer. Then he will not. Understand?
+Hash: 8A1C2FB4, Key: Line18.9118B, Value: You may tell him that he is forgiven.

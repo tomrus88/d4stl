@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Wrathful Malignant Invoker
+Hash: A646FFA4, Key: Description, Value: Invokes a powerful Wrathful Malignant foe from the most powerful Malignant Pustules found within Tunnels.
+Hash: F5C7BC0A, Key: Flavor, Value: The perfect tool for remedying a boil.

@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Lightning Damage
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monsters deal an additional 20% of their Physical damage dealt as Lightning.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monsters deal an additional 15% of their Physical damage dealt as Lightning.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monsters deal an additional 10% of their Physical damage dealt as Lightning.

@@ -1,0 +1,37 @@
+Hash: C14FDD9F, Key: ClanName, Value: Name
+Hash: C7CC377A, Key: ClanTag, Value: Tag
+Hash: 0040DE5B, Key: Size, Value: Size
+Hash: 74A068F6, Key: DateCreated, Value: Created
+Hash: A646FFA4, Key: Description, Value: Description
+Hash: 114A0B04, Key: Region, Value: Region
+Hash: 02FFE5F3, Key: Labels, Value: Labels
+Hash: 505546CB, Key: ClanLeader, Value: Leader
+Hash: D4CEDCC6, Key: BottomNav_SubmitJoinRequest, Value: Apply to Join
+Hash: 8F68083F, Key: BottomNav_Cancel, Value: Cancel
+Hash: 79D66EB8, Key: BottomNav_ReportRecruitmentProfile, Value: Report Clan
+Hash: 96FD1264, Key: SizeNumber, Value: {s1}/150
+Hash: 35E60C73, Key: DateCreated_Date, Value: {s1}/{s2}/{s3}
+Hash: F3A6FEED, Key: TopNav_Search, Value: {s1}/{s2}
+Hash: D3788F78, Key: TopNav_PendingRequests, Value: {s1}/{s2}
+Hash: 38EE410D, Key: BottomNav_Search_AddNote, Value: Add a note for clan leadership to review.
+Hash: 859916E3, Key: BottomNav_Search_Instructions, Value: Players may only have 5 pending applications.
+Hash: 6D567EDC, Key: BottomNav_PlayerNote, Value: Player Note
+Hash: FFFDF3F4, Key: BottomNav_DateSubmited, Value: Submitted
+Hash: F856A984, Key: BottomNav_ActiveTime, Value: Active Time
+Hash: 9BC82631, Key: BottomNav_DateSubmited_Date, Value: {s1}/{s2}/{s3}
+Hash: 44C99AD8, Key: BottomNav_CancelJoinRequest, Value: Withdraw Application
+Hash: D5D2E7EF, Key: BottomNav_Close, Value: Close
+Hash: 8ADBE9C9, Key: BottomNav_Accept, Value: Accept
+Hash: D1F5E2ED, Key: BottomNav_Decline, Value: Decline
+Hash: F450B509, Key: BottomNav_DeclineReport, Value: Decline & Report
+Hash: BFD71D9C, Key: BottomNav_Invite_Instructions, Value: Players may only be in one clan at a time.
+Hash: 0001E16A, Key: New, Value: New!
+Hash: C405B04E, Key: InvitedBy, Value: Invited By
+Hash: 7ECB4240, Key: Expires, Value: Expires
+Hash: 2A6B0020, Key: Expires_Countdown, Value: {s1}
+Hash: 10C9BCF2, Key: BottomNav_ActiveTime_Time, Value: {s1}
+Hash: 8A830CB8, Key: DateSent, Value: Sent
+Hash: 466F5975, Key: DateSent_Date, Value: {s1}/{s2}/{s3}
+Hash: D7F533CF, Key: BottomNav_Note, Value: Note
+Hash: AD5E28FA, Key: BottomNav_NoteLimitReached, Value: Character Limit Reached (200)
+Hash: 3C15624A, Key: ApplicationNote, Value: Note: {s1}

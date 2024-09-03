@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Malphas
+Hash: F16F3B08, Key: Line9.18EDEB, Value: Skitter about my body. Claw and bite at my appendages. It does not matter. I am many.
+Hash: 41A566D5, Key: VoiceDir9.18EDEB, Value: taunting

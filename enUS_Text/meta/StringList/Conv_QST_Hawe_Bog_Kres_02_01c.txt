@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Was it someone from Backwater?"
+Hash: F371AFC3, Key: Line16.FBA9D, Value: Backwater? No, I...definitely not. Pricks ran me out. Place was a death sentence. (cough)
+Hash: 43A7DB90, Key: VoiceDir16.FBA9D, Value: wheezing, coughing, pained groans 

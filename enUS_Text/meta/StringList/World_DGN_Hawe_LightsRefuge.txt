@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Light's Refuge
+Hash: 003892BF, Key: Desc, Value: In a forgotten home lies a nest made of teeth and armor.

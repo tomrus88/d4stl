@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: After casting {c_important}Double Swing{/c} {c_number}[Affix."Static Value 0" - 1]{/c} times, your next {c_important}Double Swing{/c} will hit {c_number}[Affix."Static Value 1"]{/c} additional times, each dealing {c_random}[Affix_Value_1|%x|]{/c} increased damage.

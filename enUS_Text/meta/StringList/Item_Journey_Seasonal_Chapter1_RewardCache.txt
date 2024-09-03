@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Chapter 1 Reward Cache
+Hash: A646FFA4, Key: Description, Value: Contains a Dagger, Off-Hand, and 500 Gold

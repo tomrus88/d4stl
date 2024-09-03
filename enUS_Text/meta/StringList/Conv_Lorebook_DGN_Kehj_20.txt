@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Silver Scroll
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Silver Scroll
+Hash: 5D7334F1, Key: Line1.EED6F, Value: Rejoice, my loyal servants, 
+
+Word of your deeds has stirred the hearts of the faithful. Our enemies in Kehjistan assailed you with lies and blades alike, but never once did your devotion waver. Now peace has come to this land plagued by conflict and evil.
+Hash: CC7C9B1E, Key: VoiceDir1.EED6F, Value: Hallowed, reverent. A message from Diablo's equivalent of the Pope.
+Hash: F767AE73, Key: Line3.EED6F, Value: For your selfless and holy triumph, it is my honor to sanctify you in the Light. You are absolved of what was done to protect the faith and bring wisdom to the ignorant. Henceforth, you will be known as Saint Omath, Saint Aniya, and Saint Sehruz.
+Hash: 915C27F5, Key: Line5.EED6F, Value: Forevermore you will shine as beacons of the Zakarum. 
+
+Que-Hegan Sankekur

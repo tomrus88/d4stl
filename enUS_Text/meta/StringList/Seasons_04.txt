@@ -1,0 +1,24 @@
+Hash: A583F7A0, Key: Season4UpgradeToAcceleratedNotificationDescription, Value: {c_highlight}Receive 20 Tier Skips + “Wings of Hell’s Legion” Emote
+Hash: A2F30A89, Key: Season4UpgradeToAcceleratedNotificationDescription20Tiers, Value: {c_highlight}Complete the Battle Pass with 20 tier skips + “Wings of Hell’s Legion” Emote
+Hash: 5341499B, Key: Season4_FreeOptionDescription, Value: Access to 28 FREE rewards Including:
+Hash: 3CA9625F, Key: Season4_FreeOption_Bullet01, Value: 20 Smoldering Ashes
+Hash: 3CA96260, Key: Season4_FreeOption_Bullet02, Value: 5 Weapon Cosmetics
+Hash: 3CA96261, Key: Season4_FreeOption_Bullet03, Value: 1 Set of Roleplay Clothing per class
+Hash: AE5780BC, Key: Season4_PremiumOption_Bullet01, Value: 2 Sets of Armor Cosmetics per class (10 total)
+Hash: AE5780BD, Key: Season4_PremiumOption_Bullet02, Value: 19 Weapon Cosmetics
+Hash: AE5780BE, Key: Season4_PremiumOption_Bullet03, Value: 5 Mount Trophies
+Hash: AE5780BF, Key: Season4_PremiumOption_Bullet04, Value: 4 Headstones
+Hash: AE5780C0, Key: Season4_PremiumOption_Bullet05, Value: 3 Emblems
+Hash: AE5780C1, Key: Season4_PremiumOption_Bullet06, Value: 2 Mounts and Mount Armors
+Hash: AE5780C2, Key: Season4_PremiumOption_Bullet07, Value: 2 Town Portals, and Titles
+Hash: 4218820A, Key: Season4_AcceleratedOption_Bullet01, Value: {c_highlight}20 Tier Skips{/c}
+Hash: 4218820B, Key: Season4_AcceleratedOption_Bullet02, Value: {c_highlight}“Wings of Hell’s Legion” Emote for each class{/c}
+Hash: 3CA96262, Key: Season4_FreeOption_Bullet04, Value: 1 Town Portal, Mount Trophy, and Title
+Hash: 3CA96263, Key: Season4_FreeOption_Bullet05, Value: 
+Hash: 3CA96264, Key: Season4_FreeOption_Bullet06, Value: 
+Hash: 3CA96265, Key: Season4_FreeOption_Bullet07, Value: 
+Hash: 3CA96266, Key: Season4_FreeOption_Bullet08, Value: 
+Hash: AE5780C3, Key: Season4_PremiumOption_Bullet08, Value: 1 Emote per class (5 total)
+Hash: AE5780C4, Key: Season4_PremiumOption_Bullet09, Value: 700 Platinum
+Hash: AE5780DC, Key: Season4_PremiumOption_Bullet10, Value: 
+Hash: 4218820C, Key: Season4_AcceleratedOption_Bullet03, Value: 

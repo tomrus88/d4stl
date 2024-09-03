@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Dragoon's Path
+Hash: A646FFA4, Key: Description, Value: This barding was blessed by priests of the Cathedral of Light. The prayer is believed to steady its wearer's resolve in the face of the legions of Hell.
+Hash: 083EE0CE, Key: Quote, Value: Burden of the Light.
+Hash: 13A53A8B, Key: Series, Value: "Penitent Dragoon" Mount Armor

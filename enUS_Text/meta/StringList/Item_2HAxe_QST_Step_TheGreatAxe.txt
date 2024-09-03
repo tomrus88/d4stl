@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Raekor's Valor
+Hash: F5C7BC0A, Key: Flavor, Value: Famed Oxen Tribe ancestral weapon wielded by Warmaster Raekor. It is stained with the blood of demons from Mt. Arreat.

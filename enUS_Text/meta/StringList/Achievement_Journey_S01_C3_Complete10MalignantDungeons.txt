@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Corruption Cleansed
+Hash: 3A4912CF, Key: DescShort, Value: Complete {icon:Marker_Dungeon_Seasonal, 2.5} Malignant Tunnels, available after completing or skipping the Campaign

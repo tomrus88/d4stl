@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Poacher
+Hash: 003892BF, Key: Desc, Value: Kill 10 different extremely rare monsters in the open world.

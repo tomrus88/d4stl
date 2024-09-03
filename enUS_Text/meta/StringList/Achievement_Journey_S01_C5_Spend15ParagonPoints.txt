@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Paragon's Path
+Hash: 3A4912CF, Key: DescShort, Value: Unlock 15 Paragon nodes after reaching level 50, through using {icon:ParagonPoint_Icon, 2.5} Paragon points

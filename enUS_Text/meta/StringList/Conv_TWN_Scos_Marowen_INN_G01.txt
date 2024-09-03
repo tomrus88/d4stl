@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is everyone here a fisherman?"
+Hash: 5D84FC5C, Key: Line1.FF04E, Value: No, I could never be one. I can’t stand the smell of fish. It will linger on you for days.
+Hash: CC8E6289, Key: VoiceDir1.FF04E, Value: bitter

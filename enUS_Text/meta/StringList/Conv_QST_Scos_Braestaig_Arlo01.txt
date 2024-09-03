@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How is Braestaig treating you?"
+Hash: 5A28B2ED, Key: Line1.83542, Value: Hmph. I trust Chieftain Asgail.
+Hash: F41D2C6F, Key: Line3.83542, Value: Can't say as much for the shiny sprags and their preaching. All I've been getting from them is hard eyes.
+Hash: 8E11A623, Key: Line5.8354D, Value: Isn't that because you're giving them hard eyes too, dad?
+Hash: 28061F73, Key: Line7.83542, Value: Might be. But they bloody deserve it.

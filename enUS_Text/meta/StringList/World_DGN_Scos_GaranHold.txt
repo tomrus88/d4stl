@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Garan Hold
+Hash: 003892BF, Key: Desc, Value: A once mighty stronghold, doomed to burn.

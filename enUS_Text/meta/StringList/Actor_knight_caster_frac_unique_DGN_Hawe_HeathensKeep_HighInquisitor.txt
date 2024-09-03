@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: High Inquisitor
+Hash: CC38ADCB, Key: FlavorName, Value: Arbiter of the Cathedral

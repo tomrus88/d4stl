@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ring of Starless Skies
+Hash: F5C7BC0A, Key: Flavor, Value: "Yours is the power to pluck the stars from the heavens with the ease of a child gathering fruit from the bough."
+- Unknown

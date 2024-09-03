@@ -1,0 +1,6 @@
+Hash: 4017A2CB, Key: Line5.157838, Value: Almost there, just down this corridor!
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: To Player (5ft away.) Walk/talk. Excited. Eager.
+Hash: 18ACBF53, Key: Line7.16623D, Value: (rubble shifts, debris falls)
+Hash: 68E2EB20, Key: VoiceDir7.16623D, Value: SFX. Not acted.
+Hash: F11EF64F, Key: Line9.157838, Value: Let’s hurry...
+Hash: 4155221C, Key: VoiceDir9.157838, Value: Suddenly nervous. Excitement dampened.

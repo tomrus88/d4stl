@@ -1,0 +1,2 @@
+Hash: B09DADE9, Key: Buff15_Name, Value: Infiltrator's Trap Cooldown
+Hash: C43ED3CC, Key: Buff15_Description, Value: {c_important}Poison Trap{/c} Cooldown after exiting {c_important}{u}Stealth{/u}{/c}

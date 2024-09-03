@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do we have everything we need for the exorcism?"
+Hash: 18E96351, Key: Line7.18AEA4, Value: We do. We will go to the Vault in Hawezar and isolate the demon there. Once trapped, we can force it to manifest physically and kill it.
+Hash: 691F8F1E, Key: VoiceDir7.18AEA4, Value: terse, thin-lipped
+Hash: 45C5CC3C, Key: Line11.18AEA4, Value: Find a gateway within the Vault – I will open a portal and join you.
+Hash: 9CC171A9, Key: VoiceDir11.18AEA4, Value: a moment of quiet honesty, vulnerability

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you alright?"
+Hash: 675C0CA0, Key: Line3.1247DE, Value: Hell, I shouldn't have come... There weren't so many demons before.
+Hash: 3FDFB662, Key: Line5.1247DE, Value: Elias did this, didn't he?
+Hash: E2468CE9, Key: Line7.BAE4, Value: In all likelihood.
+Hash: F0E709E6, Key: Line9.1247DE, Value: (exhales) Alright. We were digging in a chapel, just there. Let's go.

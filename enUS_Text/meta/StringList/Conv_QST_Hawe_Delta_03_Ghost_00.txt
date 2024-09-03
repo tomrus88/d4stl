@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Beneath the Wine-Dark Sea
+Hash: 8E2D4C0E, Key: Line5.8DD12, Value: Rathma, I have come to your temple. I know the answers I seek are within.
+Hash: FD36B23B, Key: VoiceDir5.8DD12, Value: Speaking aloud, but to himself. He has come to Rathma's hidden temple in search of knowledge.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Petr? Why are you whispering?"
+Hash: 5D8555E3, Key: Line1.FEF74, Value: Our mutual friend needs your help, but we must be cautious. Here, she wanted me to give you this letter.
+Hash: CC8EBC10, Key: VoiceDir1.FEF74, Value: Hushed voice. Furtive. You don't want to get caught.

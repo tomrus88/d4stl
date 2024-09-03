@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Midwinter Purse
+Hash: A646FFA4, Key: Description, Value: A cache containing a bounty of Gold as a testament to your triumph over the Midwinter Blight.
+Hash: F5C7BC0A, Key: Flavor, Value: The gold shimmers against the lights of the Midwinter Square.

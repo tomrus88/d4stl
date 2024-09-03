@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Enemy of Sanctuary
+Hash: 003892BF, Key: Desc, Value: Get 100 PvP kills.

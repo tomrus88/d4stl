@@ -1,0 +1,8 @@
+Hash: 5D12A9DB, Key: Line1.A9B7A, Value: There once was a lad that tamed the sea.
+Hash: CC1C1008, Key: VoiceDir1.A9B7A, Value: Singing (sea shanty). Styled to sea shanty, "Wellerman." Drunk, confident
+Hash: F707235D, Key: Line3.A9B7A, Value: The name of the lad was Benen the Free.
+Hash: 6610898A, Key: VoiceDir3.A9B7A, Value: Singing (sea shanty). Styled to sea shanty, "Wellerman." Drunk, confident
+Hash: 90FB9CDF, Key: Line5.A9B7A, Value: But winds blew up, and down went he.
+Hash: 0005030C, Key: VoiceDir5.A9B7A, Value: Singing (sea shanty). Styled to sea shanty, "Wellerman." Drunk, confident
+Hash: 2AF01661, Key: Line7.A9B7A, Value: Oh lo, my brother is gone...
+Hash: 99F97C8E, Key: VoiceDir7.A9B7A, Value: Singing (sea shanty). Styled to sea shanty, "Wellerman." Drunk, somber

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've cleared out the well."
+Hash: 727D884B, Key: Line11.EDC70, Value: Bless Akarat's holy name! He sent you to save us. Take this with our blessing.
+Hash: C2B3B418, Key: VoiceDir11.EDC70, Value: Awash in relief. Reverence. Eager to repay the Player. Akarat (Ah-kah-raht)
+Hash: 0C3B278D, Key: Line13.BCB66, Value: Naglaa! We cannot afford--
+Hash: 5C71535A, Key: VoiceDir13.BCB66, Value: Shocked. Protesting the size of the reward Naglaa (Nah-zh-lah) gives the Player.
+Hash: A6667B4F, Key: Line15.EDC70, Value: May it help you on your path.
+Hash: F69CA71C, Key: VoiceDir15.EDC70, Value: To Player. Smiling. Sincere. Closing Player's hand around a sizeable bag of gold.

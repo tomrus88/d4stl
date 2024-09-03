@@ -1,0 +1,4 @@
+Hash: 923D2945, Key: Line1.1B3CA4, Value: We're close. I can smell its foul breath on the air.
+Hash: E2735512, Key: VoiceDir1.1B3CA4, Value: walking
+Hash: 48A48F76, Key: Line11.1B3CA4, Value: What will it offer me? (scoffs) What could it possibly think I would accept?
+Hash: 9FA034E3, Key: VoiceDir11.1B3CA4, Value: walking. idle curiosity - then exagerated repulsion

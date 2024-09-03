@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It's safe now"
+Hash: 8EEB85E0, Key: Line1.136591, Value: Come on, let's move.
+Hash: DF21B1AD, Key: VoiceDir1.136591, Value: Edgar is converned about the welfare of the refugees he has sworn to protect. 

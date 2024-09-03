@@ -1,0 +1,6 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Formal Parchment
+Hash: 59EA27DE, Key: Line1.3F392, Value: In the name of our Father the Angel Inarius, I, Lady Aniya of Kyovashad, hereby entrust the mines (and all land, ores, and other materials enclosed therein) located to the north of Nostrava, unto Lord Azhak of Gea Kul for the price of five hundred thousand gold pieces.
+Hash: F3DEA160, Key: Line3.3F392, Value: On the sole condition that the constructed cobblestone walls at the bottommost depths of the mine never be disturbed, nor removed, nor inquired into, from now until the end of time. 
+-Here signed,
+Lady Aniya
+Lord Azhak

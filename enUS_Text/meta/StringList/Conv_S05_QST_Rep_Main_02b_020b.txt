@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Truly? You can harness it?"
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: Steady on, now! You had power enough to charge into Hell and walk out alive, and still you crave more. The rest of us, meanwhile...
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Back off! Irritated. Critical. Jealous.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: You should go. The heretics have descended on Túr Dúlra. I’m sure the druids can't handle it.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Dismissive.

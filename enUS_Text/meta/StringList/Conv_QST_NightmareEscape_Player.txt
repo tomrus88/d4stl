@@ -1,0 +1,2 @@
+Hash: D4479923, Key: Line1.BAE4, Value: Nothing is sealed yet. That's why you're still talking.
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: (defiant, needling)

@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Malnok
+Hash: 0871A46B, Key: Toast, Value: An icebound settlement besieged by a ceaseless blizzard
+Hash: B98DBD5C, Key: Callback15Header, Value: Slay the Ice Clan Stormcallers
+Hash: ED76B060, Key: Callback19Header, Value: Slay Frosthorn
+Hash: 71E69F39, Key: Callback21Header, Value: Rekindle the Wanderer's Shrine to conquer Malnok
+Hash: D9B88541, Key: Callback29Header, Value: Search for the source of the storm
+Hash: 9AB9349F, Key: Callback90Header, Value: Return to the center of Malnok
+Hash: 081024CD, Key: Callback160Header, Value: Return to the center of Malnok
+Hash: A91E1C77, Key: Callback179Header, Value: Slay the remaining Ice Clan

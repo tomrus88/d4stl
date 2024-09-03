@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Golden Priest of Trag'Oul
+Hash: A646FFA4, Key: Description, Value: A powerful scholar of death, professing to be the direct servant to the source of necromantic knowledge itself, Trag'Oul.
+Hash: 083EE0CE, Key: Quote, Value: Servant of the Dragon.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

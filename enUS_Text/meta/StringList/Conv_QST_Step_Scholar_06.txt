@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did you know Batzorig?"
+Hash: 5D22697E, Key: Line1.B6807, Value: Hmph. If the Zakarum want answers, they'll have to find them elsewhere. You think you can march in here and take whatever you want?
+Hash: CC2BCFAB, Key: VoiceDir1.B6807, Value: Defiant
+Hash: 676E13AD, Key: Line3.1343B7, Value: Eh... eh, please, we only want to understand what happened here. We've come all this way; we aren't leaving without answers.
+Hash: B7A43F7A, Key: VoiceDir3.1343B7, Value: Nervous, not intimidating. He doesn't want all his effort up to this point to have been a waste
+Hash: 2AFFD604, Key: Line7.B6807, Value: Then, you'll have to go through us to get them!
+Hash: 9A093C31, Key: VoiceDir7.B6807, Value: Defiant, then attacking at the end of the line.

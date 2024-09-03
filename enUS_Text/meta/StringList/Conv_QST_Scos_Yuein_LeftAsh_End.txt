@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I’ve laid Éadaoin’s spirit to rest.”
+Hash: 9111990D, Key: Line5.AAE9B, Value: You have? Oh, spirits. Thank you. Truly. I...
+Hash: 001AFF3A, Key: VoiceDir5.AAE9B, Value: he tries to ground himself here from the emotional intensity. shuddering breath
+Hash: 2B06128F, Key: Line7.AAE9B, Value: She was days away from finishing her apprenticeship. I had a staff fashioned for the occasion. Almost buried it with her. But it didn’t seem right.
+Hash: C4FA8C11, Key: Line9.AAE9B, Value: Here. I think she’d want to see it put to good use. Not rotting in the ground.

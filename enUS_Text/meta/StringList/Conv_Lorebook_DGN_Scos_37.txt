@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Soot-stained Letter
+Hash: 2B006D12, Key: Line7.B79B1, Value: We managed to capture one of the abominations. The ugly brute laid waste to half the garrison before we got it in the cage. The next time the Cathedral visits, we’ll have something to welcome them.
+Hash: C4F4E694, Key: Line9.B79B1, Value: I locked it in the main chamber, and when they arrive, we’ll see how their holiness protects them from the darkest parts of Sanctuary. 
+
+- Garan

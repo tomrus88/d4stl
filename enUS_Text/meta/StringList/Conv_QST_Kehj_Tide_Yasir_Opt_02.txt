@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Politics?"
+Hash: 5D58B424, Key: Line1.E6891, Value: A rival was encroaching into our territory. We voiced our displeasure. We got buried in the sand up to our teeth.
+Hash: CC621A51, Key: VoiceDir1.E6891, Value: Matter-of-fact. With a shrug: "That's just how it is."
+Hash: 2B3620AA, Key: Line7.E6891, Value: (scoff) Politics.

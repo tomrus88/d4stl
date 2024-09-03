@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Pestilent Points
+Hash: 003892BF, Key: Desc, Value: Every {c_number}3rd{/c} cast of {c_important}Puncture{/c} is {c_important}Poison Imbued{/c} with {c_random}[Affix_Value_1|%|]{/c} of normal potency.

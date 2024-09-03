@@ -1,0 +1,2 @@
+Hash: 3A4912CF, Key: DescShort, Value: Equip a piece of Ancestral armor with 5 identical pacts engraved on it
+Hash: 003DFCC1, Key: Name, Value: In Agreement

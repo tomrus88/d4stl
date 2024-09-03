@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dubious Allegiance
+Hash: 3A4912CF, Key: DescShort, Value: Meet with Istel in Zarbinzet and increase Mother's Gift reputation to Rank 1

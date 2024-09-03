@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Waterlogged Missive
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Waterlogged Missive
+Hash: 5D3B05D6, Key: Line1.BC41E, Value: To the Healer in Wejinhani:
+Hash: 9123F8DA, Key: Line5.BC41E, Value: I’ve a young man in my care who’s been bitten by a spider. His parents died just last week, bearing similar bites. The venom took them in mere hours... but something slows it in him. He's been clinging on for days.
+Hash: 2B18725C, Key: Line7.BC41E, Value: Symptoms: Fever, cold sweat, wheezing breath. Odd little bumps that sometimes move beneath the skin. Won’t take food or water.
+Hash: C50CEBDE, Key: Line9.BC41E, Value: The strangest one of all: other spiders won’t leave the poor lad alone. What draws them to the bite? Please, send help.

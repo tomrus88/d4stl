@@ -1,0 +1,2 @@
+Hash: 2B000D92, Key: Line7.B5F26, Value: Do not feed that foolish dog. She was meant to be a hunter.
+Hash: 9A0973BF, Key: VoiceDir7.B5F26, Value: To Player. Grumbling. Disappointed in the dog, but still loves her.

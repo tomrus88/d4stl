@@ -1,0 +1,2 @@
+Hash: 5D3B05D4, Key: Line1.BC41C, Value: Your silence only damns you further!
+Hash: CC446C01, Key: VoiceDir1.BC41C, Value: yelling through a door

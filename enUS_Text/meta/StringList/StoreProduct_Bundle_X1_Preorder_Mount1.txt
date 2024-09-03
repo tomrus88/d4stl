@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nahantu War-cat
+Hash: A646FFA4, Key: Description, Value: The Spiritborn maintain a relationship with the jungle that few outsiders can fathom. Nowhere is this more evident than in their bond with the jaguar, among the fiercest predators of Nahantu.
+Hash: 083EE0CE, Key: Quote, Value: An ally untamed.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Mount & Mount Armor

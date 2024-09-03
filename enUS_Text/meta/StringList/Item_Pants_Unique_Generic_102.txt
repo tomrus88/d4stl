@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tibault's Will
+Hash: F5C7BC0A, Key: Flavor, Value: "The younger apprentices think wearing heavy plate in the swamps is foolish. They fail to understand that our armor is our legacy, and without it we are nothing."
+- Crusader Pembroke

@@ -1,0 +1,3 @@
+Hash: 76E748CE, Key: 0_desc, Value: Travel to the Mistral Woods
+Hash: 793C716F, Key: 1_desc, Value: Locate Neyrelle in the Boundless Holt
+Hash: 7DE6C2B1, Key: 3_desc, Value: Find clues to cross the Black Lake

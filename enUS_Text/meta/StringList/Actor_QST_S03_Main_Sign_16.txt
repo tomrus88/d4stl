@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Memoir of Zoltun Kulle
+Hash: F2CA04D8, Key: NoticeSignText, Value: Only the first few pages are written: a diatribe against the Ennead Mages and their "lack of imagination."

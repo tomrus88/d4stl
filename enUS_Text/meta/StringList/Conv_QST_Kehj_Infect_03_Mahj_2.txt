@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Only Cure
+Hash: 282084CA, Key: Line7.8C8DF, Value: (strain) N-no! Help... me!
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: Creature voice - Raspy. Alien. Terror and rage.

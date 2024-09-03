@@ -1,0 +1,101 @@
+Hash: 1CF0A9AA, Key: Weapon, Value: Weapon
+Hash: 0001AC7E, Key: Axe, Value: Axe
+Hash: 08642A4F, Key: Sword, Value: Sword
+Hash: 003D6F16, Key: Mace, Value: Mace
+Hash: 1630E18A, Key: Thrust, Value: Thrust
+Hash: 085DE6BB, Key: Slash, Value: Slash
+Hash: F059666A, Key: Dagger, Value: Dagger
+Hash: B84296B0, Key: Polearm, Value: Polearm
+Hash: 75B5C819, Key: 1-Hand, Value: 1H Weapon
+Hash: 780AF0BA, Key: 2-Hand, Value: 2H Weapon
+Hash: 0001AFA8, Key: Bow, Value: Bow
+Hash: B032BFF2, Key: Crossbow, Value: Hand Crossbow
+Hash: 0042EC4A, Key: Wand, Value: Wand
+Hash: 08624814, Key: Staff, Value: Staff
+Hash: 071BAA81, Key: Armor, Value: Armor
+Hash: 13D68479, Key: Shield, Value: Shield
+Hash: 003AC366, Key: Helm, Value: Helm
+Hash: C2B86318, Key: ChestArmor, Value: Chest Armor
+Hash: D3D8D042, Key: Jewelry, Value: Jewelry
+Hash: 00405070, Key: Ring, Value: Ring
+Hash: 0D5BCFB9, Key: Potion, Value: Potion
+Hash: 8DCB100F, Key: HealthPotion, Value: Potion
+Hash: 003A6186, Key: Gold, Value: Gold
+Hash: 55DEFDD6, Key: Offhand, Value: Offhand
+Hash: 4A2DF9F6, Key: UseOnPickup, Value: UseOnPickup
+Hash: 71CB8CA2, Key: Collectible, Value: Collectible
+Hash: EA3AD528, Key: Amulet, Value: Amulet
+Hash: 9E075BCB, Key: Currency, Value: Currency
+Hash: F82490B0, Key: Gloves, Value: Gloves
+Hash: 072C2707, Key: Boots, Value: Boots
+Hash: 003CF44B, Key: Legs, Value: Pants
+Hash: 3AEF253B, Key: SorcererOffhand, Value: SorcererOffhand
+Hash: 401B6425, Key: AutoPickup, Value: AutoPickup
+Hash: 00418295, Key: Tome, Value: Tome
+Hash: 0001C399, Key: Gem, Value: Gem
+Hash: 0040837A, Key: Rune, Value: Rune
+Hash: 879D5C74, Key: CraftingReagent, Value: Crafting Material
+Hash: 1B62FEA6, Key: CraftingRecipe, Value: Crafting Recipe
+Hash: 41A80E79, Key: DungeonKey, Value: DungeonKey
+Hash: 07852664, Key: Glyph, Value: Glyph
+Hash: E0F0B942, Key: DemonScroll, Value: DemonScroll
+Hash: 3FB22001, Key: ConditionRune, Value: ConditionRune
+Hash: 72176667, Key: EffectRune, Value: EffectRune
+Hash: 73557DC6, Key: Essence, Value: Aspect
+Hash: E2AEBDC2, Key: HorseArmor, Value: Horse Armor
+Hash: 16E41AC6, Key: Trophy, Value: Trophy
+Hash: 13850F50, Key: Scythe, Value: Scythe
+Hash: C1CE040E, Key: DruidOffhand, Value: Totem
+Hash: DC105FED, Key: NecroOffhand, Value: NecroOffhand
+Hash: F376FE2D, Key: Elixir, Value: Elixir
+Hash: 1D8D8D3D, Key: Lorebook, Value: Lorebook
+Hash: 4B524B64, Key: DungeonCache, Value: Dungeon Cache
+Hash: A8D336B6, Key: EventCache, Value: Event Reward Cache
+Hash: 138123EF, Key: Scroll, Value: Scroll
+Hash: 81267A55, Key: PlayerEquippable, Value: PlayerEquippable
+Hash: 0DD836EE, Key: PvPEar, Value: PvPEar
+Hash: 598E93EC, Key: ParagonGlyph, Value: Paragon Glyph
+Hash: 9A731FA5, Key: Incense, Value: Incense
+Hash: 0B648508, Key: Cosmetic Back, Value: Cosmetic Back
+Hash: CF6FC7C1, Key: Offhand Book, Value: Offhand Book
+Hash: E6078BD6, Key: QuestGlyph, Value: QuestGlyph
+Hash: FE4F03CB, Key: Malignant Cage, Value: Malignant Cage
+Hash: 6D5E9975, Key: Blood Seal, Value: Blood Seal
+Hash: 7775FAA8, Key: [Unknown], Value: [Unknown]
+Hash: 2F881C6A, Key: - None -, Value: - None -
+Hash: 89FCE208, Key: DemonicKey, Value: Key
+Hash: 10134727, Key: Quartz, Value: Quartz
+Hash: 07EDAA08, Key: Melee, Value: Melee
+Hash: 3F84C2CF, Key: Amethyst, Value: Amethyst
+Hash: 88CAA8C2, Key: Bracers, Value: Bracers
+Hash: 1E2E07D0, Key: Horseshoe, Value: Horseshoe
+Hash: 59CAFA3C, Key: Sapphire, Value: Sapphire
+Hash: 0718BC87, Key: Amber, Value: Amber
+Hash: 64EC11D8, Key: ElixirOfVitality, Value: ElixirOfVitality
+Hash: 0001AAF9, Key: All, Value: Other
+Hash: 0185A773, Key: RejuvenationPotion, Value: Rejuvenation potion
+Hash: 80681324, Key: ElixirOfDexterity, Value: ElixirOfDexterity
+Hash: 94D523F5, Key: Enchantment, Value: Enchantment
+Hash: 64601DBA, Key: Emerald, Value: Emerald
+Hash: D0C3EADD, Key: Socketable, Value: Socketable
+Hash: A078DB65, Key: ElixirOfRegeneration, Value: ElixirOfRegeneration
+Hash: 003EC76C, Key: Opal, Value: Opal
+Hash: 085BB512, Key: Shard, Value: Shard
+Hash: 0823C674, Key: Pearl, Value: Pearl
+Hash: 4EDB0A4B, Key: HearthScroll, Value: Scroll
+Hash: 0871E1EE, Key: Topaz, Value: Topaz
+Hash: C72A8DB0, Key: ScoundrelSpecial, Value: Scoundrel Token
+Hash: 003BCA14, Key: Jade, Value: Jade
+Hash: 0DC65A5C, Key: Diamond, Value: Diamond
+Hash: 08641048, Key: Swing, Value: Swing
+Hash: E45339DF, Key: EnchantressSpecial, Value: Enchantress Focus
+Hash: 4F5B973C, Key: GreaterShard, Value: Greater Shard
+Hash: F75F0641, Key: Garnet, Value: Garnet
+Hash: EA865071, Key: ElixirOfStrength, Value: ElixirOfStrength
+Hash: 0001B962, Key: Dye, Value: Dye
+Hash: 110575D1, Key: Ranged, Value: Ranged
+Hash: 00408202, Key: Ruby, Value: Ruby
+Hash: 290D4DA7, Key: ElixirOfWillpower, Value: ElixirOfWillpower
+Hash: 3B804DDD, Key: QuestItemQuestNameFormat, Value: {s1}: "{s2}"
+Hash: A4340991, Key: ElixirOfSuperiority, Value: ElixirOfSuperiority
+Hash: 255B7C99, Key: Hibernal Cache, Value: Hibernal Cache Openable

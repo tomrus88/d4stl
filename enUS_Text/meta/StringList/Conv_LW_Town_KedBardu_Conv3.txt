@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where were the barbarians?"
+Hash: 5D6CA031, Key: Line1.F8D62, Value: The barbarians chose to ignore another crisis, I see.
+Hash: F76119DB, Key: Line3.F8D79, Value: They’re working. Their craftsmanship built Ked Bardu.
+Hash: 91559335, Key: Line5.F8D62, Value: Well, next time they look up from their work, I hope they don’t see a town that has been overrun with cannibals.

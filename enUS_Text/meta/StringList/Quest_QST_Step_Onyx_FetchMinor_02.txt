@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Kith and Kin
+Hash: 0871A46B, Key: Toast, Value: An old woman seeks mementos from those who have died of an ancient curse.
+Hash: FAF02F4B, Key: Phase6Description, Value: An ancient curse has long called unfortunate souls to their doom. Now, an elder named Chabi has asked me to seek the living dead in Khargai Crags and collect any personal effects to remember them by.
+Hash: 059C64AB, Key: Callback5Header, Value: Collect {ITEM} from Skeletons: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I have collected various mementos from the living dead in the Khargai Crags. I should return them to Chabi at the Onyx Watchtower. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Chabi

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Treasure Room Key
+Hash: A646FFA4, Key: Description, Value: Bound to Renegade's Retreat
+Hash: F5C7BC0A, Key: Flavor, Value: The key to the "secret" treasure room. It's kept by only the most trusted renegades.

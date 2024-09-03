@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The Crane Tribe sends a gift. Ealda wants to meet."
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: I am sorry, but I cannot accept--
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: Firm. Flat refusal, interrupted by seeing the gift.
+Hash: 67708DA0, Key: Line3.137EC4, Value: This is Arreat steel...smithed in the forges of Harrogath before the mountain fell...
+Hash: B7A6B96D, Key: VoiceDir3.137EC4, Value: Eyes widen, surprised to see the steel. Reverent.
+Hash: 3FF43762, Key: Line5.137EC4, Value: No gift can restore what Crane destroyed, but I must know where Ealda found this. Perhaps...I will ask her.
+Hash: 902A632F, Key: VoiceDir5.137EC4, Value: Regaining composure, yet still impressed. Receptive.

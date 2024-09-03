@@ -1,0 +1,45 @@
+Hash: 459FEEEE, Key: Upsell_Bundle_Name, Value: {BundleName}
+Hash: 6AA701BF, Key: Purchase_Text, Value: Buy {Up_Bundle_Name}
+Hash: E6FB0A75, Key: Expansion_Name, Value: {Expansion Name}
+Hash: A7C82A81, Key: Available_Timer, Value: VESSEL OF HATRED {c_gray}| Available on October 8, 2024{/c}
+Hash: DDF3F8AC, Key: Bundle_Price, Value: {Bundle Price}
+Hash: 9CBAD464, Key: Expansion_Info_Text, Value: Expansion Info
+Hash: AC1BDD5A, Key: Close_Text, Value: Close
+Hash: 25A7CBE9, Key: Expansion_Modal_Header, Value: Expansion 1
+Hash: C6AA0656, Key: Upsell_Loading_Failed, Value: There was an error loading, unable to make the offer at this time.
+Hash: 85B926C8, Key: Expansion_Deluxe_Edition_Preorder, Value: [ph]{expansion name} {expansion SKU} pre-purchase
+Hash: 9185F32F, Key: Expansion_Purchase, Value: [PH]{expansion name}{expansion SKU}
+Hash: 8D22D997, Key: Expansion_Preorder, Value: [PH]{Expansion name}{expansion SKU} pre-purchase
+Hash: D0032A44, Key: UnlocksWIthX1, Value: Unlocks with Vessel of Hatred
+Hash: 98521445, Key: UnlocksInstantly, Value: Unlocks Instantly
+Hash: DAC03EC7, Key: ExpansionInfoControllerPrompt, Value: {icon:button3,2.0} Expansion Info
+Hash: E71F73FE, Key: IncludesExpansionAccess, Value: Includes Expansion Access
+Hash: 66C9B6BD, Key: StandardEdition, Value: Standard
+Hash: 8D0D9BB3, Key: DeluxeEdition, Value: Deluxe
+Hash: 4820BD11, Key: UltimateEdition, Value: Ultimate
+Hash: 3B2793A8, Key: Upgrade, Value: Upgrade
+Hash: 8E8E55E9, Key: X1_Name, Value: Vessel of Hatred
+Hash: 081BC25D, Key: Owned, Value: Owned
+Hash: 44D5F5BC, Key: ComingSoon, Value: Coming Soon
+Hash: 87BB7A0D, Key: ComingSoonUpgradeDeluxeTitle, Value: The Deluxe Edition Upgrade contains the following:
+Hash: 39577DC7, Key: ComingSoonUpgradeStdToDelItem1, Value: Nahantu Veilwalker Spiritborn Armor
+Hash: 39577DC8, Key: ComingSoonUpgradeStdToDelItem2, Value: Nahantu War-Cat Mount Bundle
+Hash: 39577DC9, Key: ComingSoonUpgradeStdToDelItem3, Value: Hratli, Canine Pet
+Hash: 39577DCA, Key: ComingSoonUpgradeStdToDelItem4, Value: Seasonal Premium Battle Pass Unlock
+Hash: 17F8D449, Key: ComingSoonUpgradeStdToUltTitle, Value: The Ultimate Edition Upgrade contains the following:
+Hash: 17378F07, Key: ComingSoonUpgradeStdToUltItem1, Value: All the rewards in the Deluxe Edition
+Hash: 17378F08, Key: ComingSoonUpgradeStdToUltItem2, Value: Nahantu Unearthed Armor Bundle
+Hash: 17378F09, Key: ComingSoonUpgradeStdToUltItem3, Value: Natalya, Tiger Pet
+Hash: 17378F0A, Key: ComingSoonUpgradeStdToUltItem4, Value: 3,000 Platinum
+Hash: 17378F0B, Key: ComingSoonUpgradeStdToUltItem5, Value: Wings of the Faith Back Trophy
+Hash: 17378F0C, Key: ComingSoonUpgradeStdToUltItem6, Value: Road to Kurast Town Portal
+Hash: 562D61F0, Key: UpgardeBullet, Value: {icon:AttributeBullet, .8}
+Hash: D7E8E040, Key: ExploreProduct, Value: Explore {s1}
+Hash: E1A55072, Key: NotAvailable, Value: Not Available
+Hash: EC6530B1, Key: StandardEditionFullName, Value: Standard Edition
+Hash: 69E1ABA7, Key: DeluxeEditionFullName, Value: Deluxe Edition
+Hash: 58374B05, Key: UltimateEditionFullName, Value: Ultimate Edition
+Hash: 44CCA308, Key: UnlocksInstantlyNoAsterisk, Value: Unlocks Instantly
+Hash: 92346DB1, Key: PrePurchaseItem, Value: Pre-purchase reward
+Hash: 7B6183E7, Key: GamePass_Promo_2Months, Value: + 1 Month  {icon:GamePass_Ultimate, 1.5} *
+Hash: 206FBC53, Key: GamePass_Promo_1Month, Value: + 1 Month  {icon:GamePass_Ultimate, 1.5} *

@@ -1,0 +1,31 @@
+Hash: 003DFCC1, Key: Name, Value: Dirge of the Mire
+Hash: 0871A46B, Key: Toast, Value: Continue deeper into the mire
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Lorath to continue following the serpentine path
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: 4FECF0BA, Key: Phase41Description, Value: The snake creatures tried to ambush us in the half-sunken ruins of an old village. Neyrelle's quick thinking saved us, and we now press on deeper into the mire.
+Hash: 5BEA8742, Key: Phase41OutsideSubzoneHeader, Value: Speak with Neyrelle in the Writhing Mire
+Hash: 9044E2EB, Key: Callback131Header, Value: Speak with Neyrelle
+Hash: 45529163, Key: Phase68Description, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: 789DF60B, Key: Phase68OutsideSubzoneHeader, Value: Survive the ambushin the Voiceless Grove
+Hash: C2358ADD, Key: Callback70Header, Value: Slay all enemies
+Hash: 9FF0C7FF, Key: Phase73Description, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: 56095C27, Key: Phase73OutsideSubzoneHeader, Value: Follow your allies into the Voiceless Grove
+Hash: 5C2A045F, Key: Callback72Header, Value: Destroy the Wailing Soul
+Hash: 8D6916BE, Key: Phase81Description, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: 269BB1C6, Key: Phase81OutsideSubzoneHeader, Value: Follow Neyrelle out of the Voiceless Grove
+Hash: 7C54CC44, Key: Callback86Header, Value: Follow Neyrelle
+Hash: 3EAEDB01, Key: Phase93Description, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: 3B61F169, Key: Phase93OutsideSubzoneHeader, Value: Find a way through the Writhing Mire
+Hash: 34ADAE21, Key: Callback92Header, Value: Find a way through the mire
+Hash: 38C7CA4E, Key: Phase108Description, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: 25256756, Key: Phase108OutsideSubzoneHeader, Value: Follow the serpent with your allies
+Hash: 995CD0CE, Key: Callback107Header, Value: Destroy the dead trees
+Hash: 57D84432, Key: Phase139Description, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: CE3741BA, Key: Phase139OutsideSubzoneHeader, Value: Follow the serpent with your allies
+Hash: E4589DD4, Key: Callback149Header, Value: Follow the serpent with your allies
+Hash: EEA9054A, Key: Phase140Description, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: 676EBDD2, Key: Phase140OutsideSubzoneHeader, Value: Follow the serpent with your allies
+Hash: DB40AFF1, Key: Callback173Header, Value: Follow the serpent with your allies
+Hash: E369D82F, Key: Phase145Description, Value: We press on deeper into the mire, following the massive serpent. Elias must have done the same...
+Hash: FCAFA257, Key: Phase145OutsideSubzoneHeader, Value: Follow your allies into the Voiceless Grove
+Hash: C22F6634, Key: Callback176Header, Value: Follow your allies into the Voiceless Grove

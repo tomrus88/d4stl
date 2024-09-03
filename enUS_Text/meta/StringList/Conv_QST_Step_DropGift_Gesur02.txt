@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this pouch full of old coins."
+Hash: 5D6B5E63, Key: Line1.F78AF, Value: There are so many different coins here. Perhaps they belonged to a trader from Ked Bardu. I'll give them a place of honor in memory of this fallen traveler.

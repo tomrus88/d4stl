@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Magistrate's Ring
+Hash: F5C7BC0A, Key: Flavor, Value: Under the caked-on blood, a red stone glints dimly.

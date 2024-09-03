@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is the city recovering?"
+Hash: 5D6B43D4, Key: Line1.F738E, Value: By the spirits’ love, it is. Glenfolk have come in from all over to lend a hand. A few druids among them, too.
+Hash: CC74AA01, Key: VoiceDir1.F738E, Value: Proud. Relief. 
+Hash: F75FBD56, Key: Line3.F738E, Value: About time we remembered who we are.
+Hash: 66692383, Key: VoiceDir3.F738E, Value: Proud. Relief. 

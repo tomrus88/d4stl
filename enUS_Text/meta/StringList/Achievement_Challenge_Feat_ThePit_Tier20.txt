@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Delve the Depths
+Hash: 003892BF, Key: Desc, Value: Complete a Tier 20 or higher of The Pit.

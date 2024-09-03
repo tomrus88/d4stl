@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Yuein and the others don’t trust you."
+Hash: 59D74087, Key: Line1.2CDEB, Value: I respect your people’s bond with nature, but there are other ways to protect the forest. Power left ungoverned can become dangerous.
+Hash: C8E0A6B4, Key: VoiceDir1.2CDEB, Value: direct

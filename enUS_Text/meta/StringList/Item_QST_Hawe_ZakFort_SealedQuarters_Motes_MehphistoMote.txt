@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Mephisto's Corruption
+Hash: A646FFA4, Key: Description, Value: Bound to Sealed Quarters
+Hash: F5C7BC0A, Key: Flavor, Value: Collect the manifestation of Mephisto's hatred to aid Ksenia's ritual.

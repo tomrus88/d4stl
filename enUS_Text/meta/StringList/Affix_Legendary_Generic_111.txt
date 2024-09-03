@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Exploiter's
+Hash: 003892BF, Key: Desc, Value: You have {c_number}[Affix."Static Value 0"|%+|]{/c} increased Crowd Control Duration. While enemies are {c_important}{u}Unstoppable{/u}{/c}, you deal {c_random}[Affix_Value_1|%x|]{/c} increased damage to them.
+Hash: 82B7D312, Key: CodexDesc, Value: You have {c_number}[Affix."Static Value 0"|%+|]{/c} increased Crowd Control Duration. You deal {c_random}[Affix_Value_1|%x|]{/c} increased damage to {c_important}{u}Unstoppable{/u}{/c} enemies.

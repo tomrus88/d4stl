@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Many locals seem worried."
+Hash: 5D3BCEA8, Key: Line1.BCC8A, Value: Bah. People whine about the smallest things.
+Hash: F730482A, Key: Line3.BCC8A, Value: So, the harvests aren’t as bountiful as before? It happens. Cycles or something.

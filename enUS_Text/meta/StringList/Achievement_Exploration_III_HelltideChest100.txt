@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Infernal Riches
+Hash: 003892BF, Key: Desc, Value: Pick up 1000 Cinders in Helltide areas.

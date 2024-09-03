@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Eluding
+Hash: 003892BF, Key: Desc, Value: Becoming {c_important}{u}Injured{/u}{/c} while Crowd Controlled grants you {c_important}{u}Unstoppable{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds. This effect has a {c_random}[Affix_Value_1]{/c} second Cooldown.
+Hash: 82B7D312, Key: CodexDesc, Value: Becoming {c_important}{u}Injured{/u}{/c} while Crowd Controlled grants you {c_important}{u}Unstoppable{/u}{/c}. This effect has a {c_random}[Affix_Value_1]{/c} second Cooldown.

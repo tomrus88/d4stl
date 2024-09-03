@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Traveling Gear
+Hash: F2CA04D8, Key: NoticeSignText, Value: Provisions, water-skins, saddles, tents, and weapons. Tools of the trade for any desert guide.

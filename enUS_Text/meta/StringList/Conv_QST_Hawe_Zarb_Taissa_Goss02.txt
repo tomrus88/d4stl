@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you know about Zarbinzet?"
+Hash: 5A196F77, Key: Line1.789BF, Value: It is a town at the edge of Hawezar, forever between Sanctuary's power and the swamp's.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: A soft laugh at the beginning. She speaks these words knowingly--there is much more to this land than the Player knows.

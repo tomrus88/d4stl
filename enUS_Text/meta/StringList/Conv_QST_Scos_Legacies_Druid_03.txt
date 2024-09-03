@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What will happen now?"
+Hash: F53463DE, Key: Line23.53D3D, Value: Now that the tunnels are cleared and the farmers are free, we can start to rebuild.
+Hash: 8F28DD60, Key: Line25.53D3D, Value: The Chieftain will see reason after he sees results. Thank you.

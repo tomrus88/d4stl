@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Eugen's Grave Marker
+Hash: F2CA04D8, Key: NoticeSignText, Value: In memoriam of
+Eugen Kovak
+Died at 34
+Never a finer smith
+Blades sharp and strong
+Shame you weren't better with them

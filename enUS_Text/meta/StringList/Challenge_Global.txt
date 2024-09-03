@@ -1,0 +1,53 @@
+Hash: D231A3B1, Key: Challenge_Category_2, Value: Classes
+Hash: D231A3B6, Key: Challenge_Category_7, Value: Barbarian
+Hash: D231A3B8, Key: Challenge_Category_9, Value: Druid
+Hash: 186619E1, Key: Challenge_Category_11, Value: Necromancer
+Hash: 186619E0, Key: Challenge_Category_10, Value: Rogue
+Hash: D231A3B7, Key: Challenge_Category_8, Value: Sorcerer
+Hash: D231A3B2, Key: Challenge_Category_3, Value: Crafting
+Hash: 186619E2, Key: Challenge_Category_12, Value: General
+Hash: 186619E3, Key: Challenge_Category_13, Value: Alchemist
+Hash: 186619E5, Key: Challenge_Category_15, Value: Jeweler
+Hash: D231A3B0, Key: Challenge_Category_1, Value: Challenge
+Hash: D231A3B5, Key: Challenge_Category_6, Value: Challenge
+Hash: 18661A64, Key: Challenge_Category_50, Value: Exploration
+Hash: 18661AA6, Key: Challenge_Category_70, Value: World
+Hash: 18661A66, Key: Challenge_Category_52, Value: Dungeons
+Hash: 18661A67, Key: Challenge_Category_53, Value: Helltide
+Hash: 18661AAE, Key: Challenge_Category_78, Value: The Pit
+Hash: 18661AAF, Key: Challenge_Category_79, Value: Infernal Hordes
+Hash: 18661A2B, Key: Challenge_Category_39, Value: Hardcore
+Hash: 18661A43, Key: Challenge_Category_40, Value: General
+Hash: 18661A44, Key: Challenge_Category_41, Value: Enemies
+Hash: 18661A45, Key: Challenge_Category_42, Value: Progression
+Hash: D231A3B3, Key: Challenge_Category_4, Value: Monsters
+Hash: 186619E6, Key: Challenge_Category_16, Value: Bandits
+Hash: 186619E7, Key: Challenge_Category_17, Value: Cannibals
+Hash: 186619E8, Key: Challenge_Category_18, Value: Cultists
+Hash: 186619E9, Key: Challenge_Category_19, Value: Fallen
+Hash: 18661A01, Key: Challenge_Category_20, Value: Demons
+Hash: 18661A02, Key: Challenge_Category_21, Value: Drowned
+Hash: 18661A03, Key: Challenge_Category_22, Value: Ghosts
+Hash: 18661A04, Key: Challenge_Category_23, Value: Goatmen
+Hash: 18661A05, Key: Challenge_Category_24, Value: Knights
+Hash: 18661A06, Key: Challenge_Category_25, Value: Skeletons
+Hash: 18661A07, Key: Challenge_Category_26, Value: Snakes
+Hash: 18661A08, Key: Challenge_Category_27, Value: Spiders
+Hash: 18661A09, Key: Challenge_Category_28, Value: Vampires
+Hash: 18661A0A, Key: Challenge_Category_29, Value: Werewolves
+Hash: 18661A22, Key: Challenge_Category_30, Value: Zombies
+Hash: 18661A88, Key: Challenge_Category_63, Value: Multiplayer
+Hash: 18661A89, Key: Challenge_Category_64, Value: General
+Hash: 18661A8A, Key: Challenge_Category_65, Value: PvP
+Hash: 18661A26, Key: Challenge_Category_34, Value: Open World
+Hash: 18661A27, Key: Challenge_Category_35, Value: General
+Hash: 18661A2A, Key: Challenge_Category_38, Value: Whispers
+Hash: 18661A29, Key: Challenge_Category_37, Value: Discovery
+Hash: 18661A28, Key: Challenge_Category_36, Value: Events
+Hash: 18661A8B, Key: Challenge_Category_66, Value: Quests
+Hash: 18661A8C, Key: Challenge_Category_67, Value: Campaign
+Hash: 18661A8D, Key: Challenge_Category_68, Value: Side Quests
+Hash: 18661A8E, Key: Challenge_Category_69, Value: Console Achievements
+Hash: 18661AA7, Key: Challenge_Category_71, Value: Hidden
+Hash: 18661AA9, Key: Challenge_Category_73, Value: Feats of Strength
+Hash: 18661AAA, Key: Challenge_Category_74, Value: Feats

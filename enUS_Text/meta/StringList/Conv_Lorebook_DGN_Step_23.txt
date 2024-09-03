@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bloodstained Parchment
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Bloodstained Parchment
+Hash: 5D733638, Key: Line1.EECAC, Value: … blood is the ideal medium for inscribing the runes. The circle will remain dormant until activated, at which point all the energy stored in the blood ink will be channeled into the spell.
+Hash: F767AFBA, Key: Line3.EECAC, Value: It is a crude means of transport, especially compared to stone waypoints which can be used time and time again. But for destinations across planes, no better solution has been configured. See the index for related magical studies...

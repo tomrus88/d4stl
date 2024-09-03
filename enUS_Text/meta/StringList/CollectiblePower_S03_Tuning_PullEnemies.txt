@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Gripping Support
+Hash: A646FFA4, Key: Description, Value: Damage and effects done by the supporting Skill to Distant enemies pulls them towards the Seneschal Construct. Can only occur once every {c_number}{SF_0}{/c} seconds per enemy.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Frequency {icon:arrow,1.2} {c_number}[{SF_0}-1]{/c} Seconds
+Hash: E971A20F, Key: Modifier, Value: Enemies hit are pulled in every {c_number}{SF_0}{/c} seconds.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

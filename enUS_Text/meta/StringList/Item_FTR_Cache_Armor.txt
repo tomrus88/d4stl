@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Armor Cache
+Hash: A646FFA4, Key: Description, Value: A cache of items found inside Dungeons. Contains an assortment of Armor.
+Hash: F5C7BC0A, Key: Flavor, Value: Even the finest weapon and the most violent attack halt before the mightiest armor.

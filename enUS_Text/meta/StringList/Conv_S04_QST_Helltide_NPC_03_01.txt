@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You look concerned. Did something happen?"
+Hash: 923D2945, Key: Line1.1B3CA4, Value: I received a letter from Kyovashad. Another Iron Wolf has gone missing—our youngest this time, Telan. A promising warrior, but too proud. If a demon tempts him with false promises, I fear he will not resist long.
+Hash: E2735512, Key: VoiceDir1.1B3CA4, Value: murmured, conspiratorial
+Hash: 6AC0D307, Key: Line3.1B3CA4, Value: You must save Telan from himself.  Look for him in the pine wilderness of the Fractured Peaks. He will be there, honing his skill, hunting for glory.

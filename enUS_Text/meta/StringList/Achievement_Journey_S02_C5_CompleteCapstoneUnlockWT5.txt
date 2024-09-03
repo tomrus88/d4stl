@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Threshold of Damnation
+Hash: 3A4912CF, Key: DescShort, Value: Complete the {icon:Marker_DungeonChallenge, 2.5} Fallen Temple to unlock the {icon:Icon_WorldTier_4, 2.5} Torment World Tier

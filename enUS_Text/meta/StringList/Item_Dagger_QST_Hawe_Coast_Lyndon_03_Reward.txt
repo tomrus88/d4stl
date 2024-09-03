@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Skeleton Key
+Hash: F5C7BC0A, Key: Flavor, Value: With enough finesse, a simple dagger will open virtually any lock.

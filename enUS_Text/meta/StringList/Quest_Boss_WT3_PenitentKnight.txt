@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Reborn in Faith
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay {MONSTER}
+Hash: D9B88541, Key: Callback29Header, Value: Return to {LEVELAREA}
+Hash: 2C05E0A0, Key: Callback37Header, Value: Inspect the {GIZMO}
+Hash: 83A65A9D, Key: Callback52Header, Value: Inspect the {GIZMO}
+Hash: C5FA5A22, Key: Callback39Header, Value: Inspect the {GIZMO}
+Hash: CB4D78C0, Key: Callback46Header, Value: Slay {MONSTER}
+Hash: 9E7E03E4, Key: Callback59Header, Value: Return to {LEVELAREA}
+Hash: 6FE82F7E, Key: Callback62Header, Value: Slay {MONSTER}

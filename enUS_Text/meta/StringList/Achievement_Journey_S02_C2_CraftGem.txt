@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bejeweled
+Hash: 3A4912CF, Key: DescShort, Value: Craft a Gem at the {icon:Marker_Crafter_Jeweler, 2.5} Jeweler

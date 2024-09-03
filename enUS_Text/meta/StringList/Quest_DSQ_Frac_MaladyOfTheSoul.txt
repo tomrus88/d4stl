@@ -1,0 +1,6 @@
+Hash: 5296A16C, Key: Callback6Header, Value: Place the holy chalice
+Hash: 398557AF, Key: Callback9Header, Value: Speak with Sister Octavia
+Hash: D29F0719, Key: Callback12Header, Value: Slay the Carvers
+Hash: B98DBD5C, Key: Callback15Header, Value: Slay {MONSTER}
+Hash: 5E28741A, Key: Callback31Header, Value: Speak with Sister Octavia
+Hash: 003DFCC1, Key: Name, Value: Malady of the Soul

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Zakarum Holy Relic
+Hash: F5C7BC0A, Key: Flavor, Value: A Zakarum relic used for honoring the dead. Though grime, dust, and blood dull the once impressive craftsmanship, it still brings a feeling of comfort to the followers of the Zakarum faith.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Statue of the Mother
+Hash: F2CA04D8, Key: NoticeSignText, Value: Small, yet well cared for. Drops of blood stain her feet, both dried and fresh.

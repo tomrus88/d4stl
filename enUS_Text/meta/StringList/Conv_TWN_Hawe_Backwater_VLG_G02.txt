@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you like it here?"
+Hash: 8ED91C1B, Key: Line1.124D4E, Value: No one gives a damn about you here, but at least they're honest about it. Anywhere else, they lie with a smile.
+Hash: DF0F47E8, Key: VoiceDir1.124D4E, Value: Matter of fact

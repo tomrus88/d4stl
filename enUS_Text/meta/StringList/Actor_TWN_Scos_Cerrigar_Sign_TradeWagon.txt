@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Trade Wagon
+Hash: F2CA04D8, Key: NoticeSignText, Value: Fine pelts, supple leather, healing herbs, and rare minerals; bound for trade in the market.

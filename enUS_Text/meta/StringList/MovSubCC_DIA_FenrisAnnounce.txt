@@ -1,0 +1,168 @@
+Hash: 001B24C1, Key: 0001, Value: {2000-4125}[wind gusting]
+Hash: 001B24C2, Key: 0002, Value: {4208-6208}[bell tolling lazily]
+Hash: 001B24C3, Key: 0003, Value: {12500-13833}[door slams]
+Hash: 001B24C4, Key: 0004, Value: {13917-15750}[wind howling]
+Hash: 001B24C5, Key: 0005, Value: {15833-17458}[bell tolling lazily]
+Hash: 001B24C6, Key: 0006, Value: {20000-22333}[man] Blessed Akarat,
+thy eternal Light protects me.
+Hash: 001B24C7, Key: 0007, Value: {22417-23833}Thy divine wisdom guides me.
+Hash: 001B24C8, Key: 0008, Value: {23917-27292}Though my path is wrought with darkness,
+guide my soul to thy sacred Light.
+Hash: 001B24C9, Key: 0009, Value: {27375-30208}Blessed Akarat, thy eternal Light
+protects me. Thy divine wisdom--
+Hash: 001B24E1, Key: 0010, Value: {30292-33333}-[man 2] Shh! Quiet.
+-[man] Though my path is wrought with--
+Hash: 001B24E2, Key: 0011, Value: {33417-35667}[man 2] Shut up!
+Hash: 001B24E3, Key: 0012, Value: {39958-42708}[debris tumbling]
+Hash: 001B24E4, Key: 0013, Value: {42792-45250}[monsters snarling]
+Hash: 001B24E5, Key: 0014, Value: {45333-48208}-[man 3] They have our scent. Run!
+-[snarling intensifies]
+Hash: 001B24E6, Key: 0015, Value: {48708-51917}[sinister music]
+Hash: 001B24E7, Key: 0016, Value: {58542-61042}[suspenseful music]
+Hash: 001B24E8, Key: 0017, Value: {61125-63125}[monsters snarling]
+Hash: 001B24E9, Key: 0018, Value: {63208-64417}[men panting]
+Hash: 001B24EA, Key: 0019, Value: {64500-65917}Leave him!
+Hash: 001B2502, Key: 0020, Value: {66000-67958}Just keep running.
+Hash: 001B2503, Key: 0021, Value: {68042-71167}[monsters screeching]
+Hash: 001B2504, Key: 0022, Value: {73208-74875}Are you out of your mind?
+Hash: 001B2505, Key: 0023, Value: {74958-76917}He's not going to make it.
+Hash: 001B2506, Key: 0024, Value: {77542-78583}He has to.
+Hash: 001B2507, Key: 0025, Value: {79333-82875}Blessed Akarat,
+thy eternal Light protects me.
+Hash: 001B2508, Key: 0026, Value: {82958-85792}-Thy divine wisdom guides me.
+-[Swordsman] Hey. Look at me!
+Hash: 001B2509, Key: 0027, Value: {86625-91083}All the gold we want... is right there.
+Hash: 001B250A, Key: 0028, Value: {92083-93583}[Cleric] No, I...
+Hash: 001B250B, Key: 0029, Value: {93667-97208}I-I just came here for...
+knowledge. [coughs]
+Hash: 001B2523, Key: 0030, Value: {97292-98500}[snarling]
+Hash: 001B2524, Key: 0031, Value: {98583-100125}[Rogue] They're coming!
+Hash: 001B2525, Key: 0032, Value: {100208-102042}-I know.
+-[Rogue] Get over here!
+Hash: 001B2526, Key: 0033, Value: {102125-104958}Now, breach the seal.
+Hash: 001B2527, Key: 0034, Value: {105042-106625}Get us through that door.
+Hash: 001B2528, Key: 0035, Value: {110042-112833}[monsters screeching]
+Hash: 001B2529, Key: 0036, Value: {113792-114792}[grunts]
+Hash: 001B252A, Key: 0037, Value: {115458-116667}Oh, Light help me.
+Hash: 001B252B, Key: 0038, Value: {121625-124250}"B-b-by three they come."
+Hash: 001B252C, Key: 0039, Value: {124333-125458}[monsters snarling]
+Hash: 001B2544, Key: 0040, Value: {126333-128625}[Cleric] "By three thy way opens."
+Hash: 001B2545, Key: 0041, Value: {128708-129958}-[snarling]
+-[yelling]
+Hash: 001B2546, Key: 0042, Value: {131042-133000}"Blood shows..."
+Hash: 001B2547, Key: 0043, Value: {134583-136083}This doesn't make any sense.
+Hash: 001B2548, Key: 0044, Value: {141125-142125}Blood...
+Hash: 001B2549, Key: 0045, Value: {143125-144792}Blood... Blood is the key.
+Hash: 001B254A, Key: 0046, Value: {145708-148250}-B-blood is the key!
+-What?!
+Hash: 001B254B, Key: 0047, Value: {148917-150625}[Cleric] I need two of you, now!
+Hash: 001B254C, Key: 0048, Value: {150708-153500}Go! I'll hold them. Go!
+Hash: 001B254D, Key: 0049, Value: {154917-157875}So, i-it says,
+"The blood of the willing goes--"
+Hash: 001B2565, Key: 0050, Value: {157958-159000}[Brute grunts]
+Hash: 001B2566, Key: 0051, Value: {159583-161333}[Rogue] You've got to be kidding me!
+Hash: 001B2567, Key: 0052, Value: {162583-164417}[Cleric panting]
+Hash: 001B2568, Key: 0053, Value: {164500-165500}[Cleric grunts]
+Hash: 001B2569, Key: 0054, Value: {170625-172083}[air gusts]
+Hash: 001B256A, Key: 0055, Value: {172167-173792}Ha! It worked!
+Hash: 001B256B, Key: 0056, Value: {175250-177292}[monsters snarling]
+Hash: 001B256C, Key: 0057, Value: {177375-178750}We have to help him!
+Hash: 001B256D, Key: 0058, Value: {178833-180667}He's dead already.
+Hash: 001B256E, Key: 0059, Value: {180750-181875}[Swordsman grunts]
+Hash: 001B2586, Key: 0060, Value: {187083-189417}[grunts] No!
+Hash: 001B2587, Key: 0061, Value: {191875-193875}[Cleric panting]
+Hash: 001B2588, Key: 0062, Value: {199667-201542}A shame he didn't make it.
+Hash: 001B2589, Key: 0063, Value: {203125-204208}Oh, well! Cheer up!
+Hash: 001B258A, Key: 0064, Value: {204292-206625}Gold splits better
+three ways instead of four.
+Hash: 001B258B, Key: 0065, Value: {208542-209583}[Cleric grunts]
+Hash: 001B258C, Key: 0066, Value: {210125-213875}[Rogue] Must be hidden here
+somewhere. Read this.
+Hash: 001B258D, Key: 0067, Value: {214458-216042}[grunts]
+Hash: 001B258E, Key: 0068, Value: {216125-217833}[groans]
+Hash: 001B258F, Key: 0069, Value: {223250-224250}[gasps]
+Hash: 001B25A7, Key: 0070, Value: {226708-228958}"B-by three they come,
+by three thy way opens,
+Hash: 001B25A8, Key: 0071, Value: {229042-230625}by the blood of the...
+Hash: 001B25A9, Key: 0072, Value: {231625-232625}willing.
+Hash: 001B25AA, Key: 0073, Value: {233708-235167}Hail...
+Hash: 001B25AB, Key: 0074, Value: {235250-238125}Hail the Cre... the Creator."
+Hash: 001B25AC, Key: 0075, Value: {239042-240292}[gasps]
+Hash: 001B25AD, Key: 0076, Value: {240375-242250}"Hail the Daughter of..."
+Hash: 001B25AE, Key: 0077, Value: {243375-247125}-Oh, no. No, no, no.
+-[sighs] What about the coin?
+Hash: 001B25AF, Key: 0078, Value: {247208-248208}What does it say?
+Hash: 001B25B0, Key: 0079, Value: {248792-250667}This is forbidden.
+Hash: 001B25C8, Key: 0080, Value: {250750-252375}This is a summoning.
+Hash: 001B25C9, Key: 0081, Value: {252458-253625}I-I cannot speak this!
+Hash: 001B25CA, Key: 0082, Value: {253708-254708}Don't lie to me!
+Hash: 001B25CB, Key: 0083, Value: {254792-257417}[Brute] We came here for treasure.
+Hash: 001B25CC, Key: 0084, Value: {257500-258542}What is this place?
+Hash: 001B25CD, Key: 0085, Value: {259125-261708}[Cleric choking] I... I-I don't know!
+Hash: 001B25CE, Key: 0086, Value: {261792-264417}-[Brute grunts]
+-M-maybe... Maybe it's a temple.
+Hash: 001B25CF, Key: 0087, Value: {264500-266292}[spluttering] Or... Or a tomb, or--
+Hash: 001B25D0, Key: 0088, Value: {266375-269083}[disembodied voice echoing] It's a gate.
+Hash: 001B25D1, Key: 0089, Value: {270792-272417}[suspenseful music]
+Hash: 001B25E9, Key: 0090, Value: {284042-287000}-[guttural choking]
+-[bones cracking]
+Hash: 001B25EA, Key: 0091, Value: {287083-290875}[disembodied voice echoing]
+And blood is the key.
+Hash: 001B25EB, Key: 0092, Value: {294250-296250}-[Brute yells]
+-[blood splatters]
+Hash: 001B25EC, Key: 0093, Value: {297333-299625}-[bones cracking]
+-[sinister music]
+Hash: 001B25ED, Key: 0094, Value: {305333-306667}[Brute gasps]
+Hash: 001B25EE, Key: 0095, Value: {306750-308500}[grunts]
+Hash: 001B25EF, Key: 0096, Value: {309292-311667}[mechanism whirring]
+Hash: 001B25F0, Key: 0097, Value: {321417-322417}[gasps]
+Hash: 001B25F1, Key: 0098, Value: {322500-323833}[whimpers]
+Hash: 001B25F2, Key: 0099, Value: {323917-326083}Blessed Akarat,
+thy eternal Light protects me.
+Hash: 001B2901, Key: 0100, Value: {326167-328000}Thy divine wisdom guides me.
+Hash: 001B2902, Key: 0101, Value: {328083-331292}Though my path is wrought with darkness,
+guide my soul to thy sacred Light.
+Hash: 001B2903, Key: 0102, Value: {331375-335958}[disembodied voice]
+From the Abyss we seek thy salvation.
+Hash: 001B2904, Key: 0103, Value: {336875-339000}By three they come.
+Hash: 001B2905, Key: 0104, Value: {339583-343125}By three thy way opens.
+Hash: 001B2906, Key: 0105, Value: {343750-346375}By the blood of the willing...
+Hash: 001B2907, Key: 0106, Value: {351083-353875}...we call thee home.
+Hash: 001B2908, Key: 0107, Value: {360250-361250}Come.
+Hash: 001B2909, Key: 0108, Value: {361333-362875}[Cleric whimpers]
+Hash: 001B290A, Key: 0109, Value: {362958-365333}Blessed Akarat,
+thy eternal Light protects me.
+Hash: 001B2922, Key: 0110, Value: {365417-368833}-Thy divine wisdom guides me. Though my--
+-Open your eyes.
+Hash: 001B2923, Key: 0111, Value: {371000-372833}[Cleric whimpers]
+Hash: 001B2924, Key: 0112, Value: {372917-374208}Eternal Light protects me.
+Hash: 001B2925, Key: 0113, Value: {374292-377375}Eternal Light protects me.
+Eternal Light protects me. Eternal--
+Hash: 001B2926, Key: 0114, Value: {377458-379458}[Summoner] There is no Light here.
+Hash: 001B2927, Key: 0115, Value: {381417-385333}You came to the darkness for knowledge.
+Hash: 001B2928, Key: 0116, Value: {390042-391333}[Cleric inhales]
+Hash: 001B2929, Key: 0117, Value: {392375-394792}[exhales deeply] Yes.
+Hash: 001B292A, Key: 0118, Value: {396292-399667}And all the knowledge you seek is here.
+Hash: 001B292B, Key: 0119, Value: {401208-402375}Surrender.
+Hash: 001B2943, Key: 0120, Value: {406250-407958}Speak the words.
+Hash: 001B2944, Key: 0121, Value: {410042-411625}Call her home.
+Hash: 001B2945, Key: 0122, Value: {415458-416833}[Cleric inhales]
+Hash: 001B2946, Key: 0123, Value: {417583-418792}[sighs softly]
+Hash: 001B2947, Key: 0124, Value: {419333-422667}By three they come.
+Hash: 001B2948, Key: 0125, Value: {423667-425625}[structure creaks]
+Hash: 001B2949, Key: 0126, Value: {425708-429875}By three thy way opens.
+Hash: 001B294A, Key: 0127, Value: {429958-431333}[structure creaks]
+Hash: 001B294B, Key: 0128, Value: {431875-435125}By the blood of the willing...
+Hash: 001B294C, Key: 0129, Value: {436667-440333}we call thee home.
+Hash: 001B2964, Key: 0130, Value: {441292-444500}[dramatic orchestral music]
+Hash: 001B2965, Key: 0131, Value: {446583-447417}[Cleric gasps]
+Hash: 001B2966, Key: 0132, Value: {461750-466875}Hail, Daughter of Hatred.
+Hash: 001B2967, Key: 0133, Value: {471292-472708}Creator...
+Hash: 001B2968, Key: 0134, Value: {472792-474375}[whimpers]
+Hash: 001B2969, Key: 0135, Value: {474458-476333}...of Sanctuary.
+Hash: 001B296A, Key: 0136, Value: {482292-483125}Hail...
+Hash: 001B296B, Key: 0137, Value: {491375-492750}...Lilith.
+Hash: 001B296C, Key: 0138, Value: {496792-498792}[sinister orchestral music]
+Hash: 001B296D, Key: 0139, Value: {515292-517250}Blessed Mother...
+Hash: 001B2985, Key: 0140, Value: {519667-521042}...save us.
+Hash: 001B2986, Key: 0141, Value: {529833-531833}[music crescendos]

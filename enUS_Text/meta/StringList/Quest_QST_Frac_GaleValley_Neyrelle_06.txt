@@ -1,0 +1,47 @@
+Hash: 003DFCC1, Key: Name, Value: Fledgling Scholar
+Hash: 0871A46B, Key: Toast, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Search the Horadric Vault
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Neyrelle and I found the Horadric Vault. Our hopes of traveling beyond the Black Lake to pursue Lilith rest upon the mysteries contained within.
+Hash: 6EADE915, Key: Phase277Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: BF0415FD, Key: Phase277OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 80574315, Key: Callback348Header, Value: Speak with Neyrelle
+Hash: B31D4704, Key: Phase87Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: 0CE990CC, Key: Phase87OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 9AB9349F, Key: Callback90Header, Value: Search for access to the Main Chamber
+Hash: 1C6E256D, Key: Phase305Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: C269B555, Key: Phase305OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 9B66FC8D, Key: Callback304Header, Value: Take the Horadric Book to Neyrelle
+Hash: D186F4B2, Key: Phase175Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: 54B4823A, Key: Phase175OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 5C23DFB6, Key: Callback178Header, Value: Investigate the Door to the Main Chamber with Neyrelle
+Hash: BCE22598, Key: Callback288Header, Value: Investigate the Door to the Middle Wing with Neyrelle
+Hash: E7B7CBD1, Key: Phase291Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: BE0ECC39, Key: Phase291OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 2840CAB4, Key: Callback293Header, Value: Explore the Horadric Vault
+Hash: 09E6742C, Key: Phase313Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: 92FC0AF4, Key: Phase313OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 87A8D16E, Key: Callback314Header, Value: Speak to Neyrelle
+Hash: 0132B4FD, Key: Phase53Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: 70B0C6E5, Key: Phase53OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 6A9510E0, Key: Callback55Header, Value: Slay Tchort
+Hash: 26E6E543, Key: Phase59Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: 56FEA5EB, Key: Phase59OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 3158B897, Key: Callback269Header, Value: Inspect the spellbook
+Hash: 74FC533C, Key: Phase25Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: BAC5DC04, Key: Phase25OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 3FC40BBF, Key: Callback27Header, Value: Bring the Pulsing Spellbook to Neyrelle
+Hash: 1D12F331, Key: Phase327Description, Value: Neyrelle and I discovered the Darkened Holt to be a magical illusion created by the Horadrim and escaped. Just beyond lies their Horadric Vault. We must explore its confines in the hope of finding the tools necessary to travel beyond the Black Lake.
+Hash: 49DC3F99, Key: Phase327OutsideSubzoneHeader, Value: Travel to the Horadric Vault
+Hash: 2C43882C, Key: Callback330Header, Value: Travel to the Horadric Vault
+Hash: 4E065092, Key: Phase328Description, Value: Neyrelle and I discovered the Darkened Holt to be a magical illusion created by the Horadrim and escaped. Just beyond lies their Horadric Vault. We must explore its confines in the hope of finding the tools necessary to travel beyond the Black Lake.
+Hash: 9AE93A1A, Key: Phase328OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: E662C993, Key: Callback346Header, Value: Enter the Horadric Vault
+Hash: 8BCFF9AD, Key: Phase242Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: D1BE5195, Key: Phase242OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: D7F7BD12, Key: Callback363Header, Value: Search for clues to cross the Black Lake
+Hash: 166F3CCF, Key: Phase352Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: 0CA03AF7, Key: Phase352OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 38B024F2, Key: Callback354Header, Value: Follow Neyrelle
+Hash: 0B300FB4, Key: Phase357Description, Value: Neyrelle and I search the Horadric Vault for the key to traveling beyond the Black Lake in pursuit of Lilith. What secrets have the Horadrim left behind?
+Hash: A1E11F7C, Key: Phase357OutsideSubzoneHeader, Value: Search the Horadric Vault for means of crossing the Black Lake
+Hash: 3E034390, Key: Callback361Header, Value: Follow Neyrelle

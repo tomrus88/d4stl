@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Unused Components
+Hash: F2CA04D8, Key: NoticeSignText, Value: Spearpoints and spigots, ready to be made into deadly traps.

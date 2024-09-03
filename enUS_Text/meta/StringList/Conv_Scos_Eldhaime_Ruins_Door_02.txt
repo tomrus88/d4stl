@@ -1,0 +1,8 @@
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Yorin's mace is here. I told them to get out!
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Worried, trying to make sense of what's happening
+Hash: E2468CE9, Key: Line7.BAE4, Value: Maybe he and the knights tried to stop Lilith. Could she have taken him somewhere?
+Hash: 2B756176, Key: VoiceDir7.BAE4, Value: Dire, urgent
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: What possible reason would she have? He means nothing to her.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: worried, flustered
+Hash: F427C5EC, Key: Line3.7FA05, Value: We need to move. The way to Astaroth is through here.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Gathering himself. Urgent.

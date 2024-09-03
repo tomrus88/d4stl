@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Heart's Burden
+Hash: CF9A89D8, Key: Phase30Description, Value: I have the sorrowful task of finding someone in town who knew this boy and returning his dagger to them.
+Hash: D9B88541, Key: Callback29Header, Value: Speak with Damen
+Hash: 9F4BFA3B, Key: Phase51Description, Value: I have the sorrowful task of finding someone in town who knew this boy and returning his dagger to them.
+Hash: E9B1E11B, Key: Callback50Header, Value: Search for answers in Wejinhani

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: These wounds look fatal.
+Hash: 5D837090, Key: Line1.FC646, Value: In memories… of those held dear.
+Hash: CC8CD6BD, Key: VoiceDir1.FC646, Value: Recitation (elegy), tired speech turning relaxed
+Hash: F777EA12, Key: Line3.FC646, Value: Thank you… Maisie… (exhale)
+Hash: 6681503F, Key: VoiceDir3.FC646, Value: Relaxed speech, at peace. Dying words.

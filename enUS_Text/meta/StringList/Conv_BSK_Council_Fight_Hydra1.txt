@@ -1,0 +1,4 @@
+Hash: 1BEB019D, Key: Line7.1D252B, Value: (hisses)
+Hash: 6C212D6A, Key: VoiceDir7.1D252B, Value: Hateful. Venomous. (2 sec, max)
+Hash: 35093F69, Key: Line12.1D252B, Value: (hisses)
+Hash: 8C04E4D6, Key: VoiceDir12.1D252B, Value: Hateful. Venomous. (2 sec, max)

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mirage Remedy
+Hash: A646FFA4, Key: Description, Value: With each secret gained, the Oasis grew more powerful and expanded its borders.
+Hash: 083EE0CE, Key: Quote, Value: Sand-buried secrets.
+Hash: 13A53A8B, Key: Series, Value: "Oasis Healer" Accessories

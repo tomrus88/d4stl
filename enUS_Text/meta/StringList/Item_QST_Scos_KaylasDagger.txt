@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kayla's Dagger
+Hash: A646FFA4, Key: Description, Value: An old dagger with some etchings on the side.

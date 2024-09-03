@@ -1,0 +1,2 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value: Expectant
+Hash: 65A41A1A, Key: Buff4_Description, Value: Next {c_important}Core{/c} Skill deals bonus damage.

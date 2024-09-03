@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of The Barber
+Hash: 003892BF, Key: Desc, Value: Critical Strikes and all subsequent damage within {c_random}[Affix_Value_1|1|]{/c} seconds is absorbed by your target. Then, the absorbed damage erupts onto surrounding enemies. Stored damage is increased by {c_number}[Affix_Value_2|%x|]{/c} per second.

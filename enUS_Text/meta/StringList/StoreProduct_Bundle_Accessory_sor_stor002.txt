@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Elder Symbology
+Hash: A646FFA4, Key: Description, Value: "Order and chaos are matters of perspective. The orderly maintain a stagnant view of reality, full of unchanging patterns and unbreakable rules. And then there are those who maintain a different view for they know those patterns and rules to be malleable." -Maeven
+Hash: 083EE0CE, Key: Quote, Value: A gaze beyond a veil unseen.
+Hash: 13A53A8B, Key: Series, Value: "The Host of Chaos" Accessories

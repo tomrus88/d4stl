@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What happened between him and Donan?” 
+Hash: 5D4E7D6A, Key: Line1.CDDE3, Value: Not sure, but I met the druid once. I was riding through the Moors, minding my own business, when he came up and spoke in the beast-tongue.
+Hash: CC57E397, Key: VoiceDir1.CDDE3, Value: Irritated--remembering a bad memory
+Hash: F742F6EC, Key: Line3.CDDE3, Value: Caused my horse to throw me. I broke my leg. Hasn’t been the same since.
+Hash: 664C5D19, Key: VoiceDir3.CDDE3, Value: Irritated--remembering a bad memory
+Hash: 9137706E, Key: Line5.CDDE3, Value: I don’t care what happened between them. I’m just glad Donan came to his senses and broke it off with that brute.
+Hash: 0040D69B, Key: VoiceDir5.CDDE3, Value: Irritated--remembering a bad memory

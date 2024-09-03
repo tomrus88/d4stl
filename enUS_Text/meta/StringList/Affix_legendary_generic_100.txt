@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ghostwalker
+Hash: 003892BF, Key: Desc, Value: While {c_important}{u}Unstoppable{/u}{/c} and for {c_number}[Affix."Static Value 0"]{/c} seconds after, you gain {c_random}[Affix_Value_1|%+|]{/c} increased Movement Speed and are {c_important}{u}Unhindered{/u}{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}{u}Unstoppable{/u}{/c} grants {c_random}[Affix_Value_1|%+|]{/c} Movement Speed and are {c_important}{u}Unhindered{/u}{/c}.

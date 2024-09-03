@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Conceited
+Hash: 003892BF, Key: Desc, Value: Deal {c_random}[Affix_Value_1|%x|]{/c} increased damage while you have a {c_important}{u}Barrier{/u}{/c} active.

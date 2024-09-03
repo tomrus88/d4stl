@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Paroxysm Fury
+Hash: A646FFA4, Key: Description, Value: The power of this spirit is everlasting; it is the essence of its wearer that eventually falters.
+Hash: 083EE0CE, Key: Quote, Value: The yoke of perpetual aggression.
+Hash: 13A53A8B, Key: Series, Value: "Undying Rage" Accessories

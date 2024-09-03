@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: One Little Red Sprig
+Hash: 0871A46B, Key: Toast, Value: I found a curious item that Timue might be able to tell me about. 
+Hash: D53BFF05, Key: Phase0Description, Value: I found a curious item that Timue might be able to tell me about. 
+Hash: 059C64AB, Key: Callback5Header, Value: Bring the Budding Crimson Thorn to Timue

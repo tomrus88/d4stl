@@ -1,0 +1,12 @@
+Hash: 8EB32129, Key: Line1.1029B4, Value: Father...is that--
+Hash: DEE94CF6, Key: VoiceDir1.1029B4, Value: speaks with child-like sadness and a damning calmness. 
+Hash: 6736CAFC, Key: Line3.1029AF, Value: NO! No no no no! You're dead!
+Hash: B76CF6C9, Key: VoiceDir3.1029AF, Value: fearful and histerical 
+Hash: 3FBA74AD, Key: Line5.1029B4, Value: Father? Won't you come visit me?
+Hash: 8FF0A07A, Key: VoiceDir5.1029B4, Value: speaks with child-like sadness and a damning calmness. 
+Hash: 183E1E80, Key: Line7.1029AF, Value: NO! They took you away for what you did! You--
+Hash: 68744A4D, Key: VoiceDir7.1029AF, Value: still fearful, but doubling down on his attempt at outrage 
+Hash: F0C1C831, Key: Line9.1029B4, Value: Father, please visit. I'm waiting at the Asylum...
+Hash: 40F7F3FE, Key: VoiceDir9.1029B4, Value: speaks with child-like sadness and a damning calmness. 
+Hash: 451A876B, Key: Line11.1029AF, Value: Be gone! Be gone...please be gone.
+Hash: 9C162CD8, Key: VoiceDir11.1029AF, Value: pleading and fearful

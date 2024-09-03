@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spider Venom
+Hash: F5C7BC0A, Key: Flavor, Value: An acrid and extremely potent venom.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Walker of the Woods
+Hash: A646FFA4, Key: Description, Value: The petrified bark of a wood wraith has long been thought to hold curative properties. True or not, it's as hard as folded steel.
+Hash: 083EE0CE, Key: Quote, Value: Among the striding trees.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

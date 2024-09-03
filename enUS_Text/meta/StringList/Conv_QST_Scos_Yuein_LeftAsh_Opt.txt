@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “You can’t do this yourself?”
+Hash: 794D0842, Key: Line28.AAE9B, Value: I’ve...tried. Spirits, I’ve tried. But I can’t--I can’t fight her. Not like this.
+Hash: FDBCF71B, Key: Line30.AAE9B, Value: I’m sorry. You’ve already done so much to help. I wish I didn’t have to ask more of you.

@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You're the madman from the shed."
+Hash: F414E39C, Key: Line3.6F0BE, Value: Madman? Those heretics drugged me after I returned from the ruins... just like you.
+Hash: 631E49C9, Key: VoiceDir3.6F0BE, Value: Scoffing for first line. For rest of the lines, he is incensed at the villagers for deceiving/drugging him.
+Hash: A314412F, Key: Line15.6F0BE, Value: I came to my wits and escaped. Tried to get inside the chapel, but it was locked and--
+Hash: F34A6CFC, Key: VoiceDir15.6F0BE, Value: Incensed at what happened to him. Concerned about the chapel.
+Hash: EAC5915D, Key: Line65.BAE4, Value: (retching)
+Hash: 59CEF78A, Key: VoiceDir65.BAE4, Value: Suddenly the Hero feels weezy, coughs, and wretches.
+Hash: BA271B31, Key: Line53.6F0BE, Value: What manner of evil is this? Petals… of blood?
+Hash: 0A5D46FE, Key: VoiceDir53.6F0BE, Value: Shocked upon seeing what the Player has vomited up: petals of blood.
+Hash: EF6FE29F, Key: Line67.BAE4, Value: They... they must have fed them to me.
+Hash: 5E7948CC, Key: VoiceDir67.BAE4, Value: Winded, pained from just vomiting.
+Hash: 880487B7, Key: Line59.6F0BE, Value: A blasphemous ritual. How did they learn this?
+Hash: D83AB384, Key: VoiceDir59.6F0BE, Value: Disgusted
+Hash: 0C747690, Key: Line61.6F0BE, Value: Perhaps the answer lies in the chapel. They kept it locked up for a reason...
+Hash: 5CAAA25D, Key: VoiceDir61.6F0BE, Value: Concerned, suspicious
+Hash: A668F012, Key: Line63.6F0BE, Value: The key might be on that woman who was leading them.

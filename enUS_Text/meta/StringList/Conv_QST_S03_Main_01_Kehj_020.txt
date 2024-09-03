@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's happening here?"
+Hash: F72F7F58, Key: Line3.BC41E, Value: Possession. Demon-thought.
+Hash: A62EDCEB, Key: Line15.BC41E, Value: You see those people? They listened to the old man’s stories – the Vaults, the sorcerer, the treasure. Thought they would strike it rich.
+Hash: 4023566D, Key: Line17.BC41E, Value: (scoffs) So much for that. They can’t even talk now.

@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Desiccation
+Hash: 0871A46B, Key: Toast, Value: An acolyte of Akarat seeks to aid the Zakarum Chapel.
+Hash: 30DC76D6, Key: Phase10Description, Value: I've discovered a traveler in the desert. She seems to be injured, her horse attacked by flies. One of my Healing Potions may be able to help.
+Hash: AE775FBE, Key: Callback80Header, Value: Give Naglaa a Healing Potion
+Hash: 5690A71C, Key: Phase16Description, Value: I've cleared out the well's infestation. I should return to Naglaa with the good news.
+Hash: B98DBD5C, Key: Callback15Header, Value: Travel to the Zakarum Chapel
+Hash: D6E30DFE, Key: Phase27Description, Value: I've been asked to purify the chapel's well. Naglaa believes their waters have been infested by flies. She urges me to be cautious of the swarms that have made the desert their home.
+Hash: AB22B0DB, Key: Callback32Header, Value: Destroy the Fly Nests: {DONE}/{NEEDED}
+Hash: CF9A89D8, Key: Phase30Description, Value: I've cleared out the well's infestation. I should return to Naglaa with the good news.
+Hash: D9B88541, Key: Callback29Header, Value: Speak with Naglaa
+Hash: 486BD940, Key: Callback82Header, Value: Speak with Naglaa

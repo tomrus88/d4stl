@@ -1,0 +1,3 @@
+Hash: 76E748CE, Key: 0_desc, Value: Return to Donan with news about Lilith's actions in Scosglen
+Hash: 793C716F, Key: 1_desc, Value: Find Donan in ruined Eldhaime Keep
+Hash: 7B919A10, Key: 2_desc, Value: Go with Donan to check Astaroth's tomb

@@ -1,0 +1,4 @@
+Hash: 5A1FE05B, Key: Line1.6E261, Value: No... I... I thought it would be safe this way...
+Hash: C9294688, Key: VoiceDir1.6E261, Value: Scared
+Hash: D8F1EA65, Key: Line3.BAE4, Value: We’ll get through. Stay close.
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: Encouraging, battle mode

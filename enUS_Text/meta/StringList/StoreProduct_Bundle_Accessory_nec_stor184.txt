@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Forever Alone
+Hash: A646FFA4, Key: Description, Value: The souls of those slain within its borders are the only heirs to this kingdom.
+Hash: 083EE0CE, Key: Quote, Value: And die alone.
+Hash: 13A53A8B, Key: Series, Value: "Reign of Solitude" Accessories

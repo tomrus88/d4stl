@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who is speaking?"
+Hash: 3180A525, Key: Line12.121A3D, Value: You stand before Izel of the Vizjerei!
+Hash: 887C4A92, Key: VoiceDir12.121A3D, Value: Commanding and proud, as if you should recognize her name
+Hash: B9BB4145, Key: Line21.121A3D, Value: (Disgusted sigh) That name should have made you fall to your knees in reverence. We brought forth a golden age, and what was my reward? Hmph! Trapped in this rock. Doomed to watch peasants water camels for eternity. Hmph!
+Hash: 10B6E6B2, Key: VoiceDir21.121A3D, Value: Disgusted. 
+Hash: CEC9CD8A, Key: Line17.121A3D, Value: Hmm, but you're no peasant, are you? Even in this form, I can sense that... It's decided, then! I will allow you to assist me.
+Hash: 25C572F7, Key: VoiceDir17.121A3D, Value: Trying to butter up the Player

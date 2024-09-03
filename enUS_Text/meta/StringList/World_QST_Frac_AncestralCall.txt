@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Hallowed Glacier
+Hash: 003892BF, Key: Desc, Value: The Glacial Tunnels beneath the Bear Tribe encampment.

@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Rapid Fire{/c} now lobs exploding arrows that deal {c_random}[Affix_Value_1|%x|]{/c} increased damage.

@@ -1,0 +1,4 @@
+Hash: A7490B65, Key: Buff11_Name, Value: Cold Attunement
+Hash: 86C2ADC8, Key: Buff11_Description, Value: You are highly resistant to COLD and can pass through Frost Doors.
+Hash: 003DFCC1, Key: name, Value: Cold Attunement
+Hash: 003892BF, Key: desc, Value: You are highly resistant to COLD and can pass through Frost Doors.

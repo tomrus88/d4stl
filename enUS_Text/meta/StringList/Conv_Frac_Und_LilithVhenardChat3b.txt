@@ -1,0 +1,21 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Underworld - Red Ghost Lilith and Vhenard Chat 3
+Hash: 912480F8, Key: Line5.BD31C, Value: You’ve mastered your fear, but I still sense your pain. You miss your daughter.
+Hash: F716D740, Key: Line3.B6582, Value: My magpie. She's scared right now, she must be.
+Hash: F87CC068, Key: Line23.BD31C, Value: Go, or stay. It is time to choose.
+Hash: 48B2EC35, Key: VoiceDir23.BD31C, Value: (to the Priest) 
+Hash: 2C4C8336, Key: Line27.B6582, Value: I...I trained her well. She’s a good kid. Strong. She’ll be alright, she...
+Hash: 7C82AF03, Key: VoiceDir27.B6582, Value: (conflicted, convincing herself) 
+Hash: 927139EA, Key: Line25.BD31C, Value: You’ve chosen well, my child.
+Hash: E2A765B7, Key: VoiceDir25.BD31C, Value: (after a long beat, pleased) 
+Hash: C65A2CEE, Key: Line29.BD31C, Value: To reach Rathma, we will need to cross a lake at the bottom of these ruins. It requires a ritual. I will teach you.
+Hash: 169058BB, Key: VoiceDir29.BD31C, Value: (smiling) 
+Hash: 6ADBB376, Key: Line45.B6582, Value: As you wish, Mother.
+Hash: BB11DF43, Key: VoiceDir45.B6582, Value: (hardening, she sees through the hedging)
+Hash: 7EB30ECB, Key: Line35.BD31C, Value: Good. You're ready for lesson one. Blood is the key.
+Hash: CEE93A98, Key: VoiceDir35.BD31C, Value: (smiling) 
+Hash: 158C270A, Key: Line37.6DE47, Value: What did you see this time? I don’t need sparing. Tell me.
+Hash: 65C252D7, Key: VoiceDir37.6DE47, Value: (calm, not defensive)
+Hash: 0D2B7D9E, Key: Line39.BAE4, Value: Lilith plans to teach your mother a ritual. One that needs blood. Your mother seemed...receptive.
+Hash: 7C34E3CB, Key: VoiceDir39.BAE4, Value: awkward beat at the start
+Hash: 33F08F65, Key: Line41.6DE47, Value: We have to reach them.
+Hash: 8426BB32, Key: VoiceDir41.6DE47, Value: (hardening, she sees through the hedging) 

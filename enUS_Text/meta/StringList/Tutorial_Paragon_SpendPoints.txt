@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Paragon points received
+Hash: 7BFE534B, Key: simple_instruction, Value: Spend points to unlock nodes. Drag {icon:lmb,2.0} and zoom {icon:mmb, 2.0} for better visibility.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Spend points to unlock nodes. Pan {icon:l_all,2.0} and zoom {icon:r_vertical,2.0} for better visibility.

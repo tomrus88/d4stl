@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Aneta has run away! Where could she have gone?"
+Hash: 5D6A2C8A, Key: Line1.F52F0, Value: Again? Hmph, I hope she stays gone this time. I'm better off alone.
+Hash: CC7392B7, Key: VoiceDir1.F52F0, Value: Short-tempered and frustrated. Your daughter is beyond useless.
+Hash: 91531F8E, Key: Line5.F52F0, Value: So much for all her big ideas to (cough) cure me.
+Hash: 005C85BB, Key: VoiceDir5.F52F0, Value: Short-tempered and frustrated. Your daughter is beyond useless.

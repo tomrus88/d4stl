@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What troubles Yelesna?"
+Hash: 5D6D27D0, Key: Line1.F9C25, Value: Been working on this door for days... not much else to do 'round here. Even less to sell. Hm, should fetch a nice price.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This was quite the experience."
+Hash: F17E4302, Key: Line9.19A16A, Value: Kudos, wanderer! Because of you, more Celebrants can follow in your footsteps.
+Hash: 45D7022B, Key: Line11.19A16A, Value: The Awakening is everywhere for the first time… not just in our humble corner. I’ve been seeing the spirit of this season... on everyone’s faces.
+Hash: 1E5AABED, Key: Line13.19A16A, Value: That’s all I ever wanted. Thank you. Gods, I can’t wait for next year.

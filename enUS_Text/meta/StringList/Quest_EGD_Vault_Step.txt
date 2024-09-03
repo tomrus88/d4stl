@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: An ever-burning forge.
+Hash: 1EADAE68, Key: Callback2Header, Value: Find a path to the Caldron
+Hash: 3FC40BBF, Key: Callback27Header, Value: Find the Vault treasure
+Hash: CF9A89D8, Key: Phase30Description, Value: Grab Your Loot!
+Hash: D9B88541, Key: Callback29Header, Value: Open the Vault treasure
+Hash: D29F0719, Key: Callback12Header, Value: Find the Vault treasure

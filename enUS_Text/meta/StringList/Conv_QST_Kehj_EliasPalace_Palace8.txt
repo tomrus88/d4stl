@@ -1,0 +1,3 @@
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Ugh, that stench. Unnatural. Some kind of necromancy.
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: Curious
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Where did he find this power?

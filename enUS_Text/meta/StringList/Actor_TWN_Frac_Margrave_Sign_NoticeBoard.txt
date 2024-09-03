@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Notice Board
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Citizens and pilgrims of Margrave - At the toll of the bell, all men, women, and children must assemble around the Pyre. Together, we bear witness to the wages of sin." 

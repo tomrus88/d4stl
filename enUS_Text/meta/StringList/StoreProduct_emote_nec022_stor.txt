@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vampire's Repose
+Hash: 13A53A8B, Key: Series, Value: "Season of Blood"

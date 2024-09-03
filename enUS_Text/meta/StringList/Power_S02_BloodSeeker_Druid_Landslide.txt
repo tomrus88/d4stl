@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Landslide
+Hash: 003892BF, Key: desc, Value: {c_label}Spirit Cost: {/c}{c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Crush enemies between {c_number}2{/c} pillars of earth, dealing up to {c_number}{payload:TOOLTIP_DAMAGE}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
+Hash: 2577B2B4, Key: Mod1_Description, Value: After {c_important}Landslide{/c} damages enemies {c_number}{SF_9}{/c} times, the next hit will Immobilize enemies for {c_number}{buffduration:IMMOBILIZE}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Landslide
+Hash: D618A933, Key: Mod0_Description, Value: When you Immobilize or Stun an enemy, you gain a Terramote. Each enemy hit by {c_important}Landslide{/c} consumes a Terramote causing a guaranteed Critical Strike with {c_number}[{SF_7} * 100|%x|]{/c} Critical Strike Damage. Bosses always have up to a {c_number}[{SF_8} * 100|%|]{/c} chance to grant a Terramote when hit.
+Hash: 9233D930, Key: Mod0_Name, Value: Primal Landslide
+Hash: 74D6BC35, Key: Mod2_Description, Value: When you strike an Immobilized or Stunned enemy with {c_important}Landslide{/c}, an additional pillar of earth is formed.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Raging Landslide

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Cathedral Orders
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Cathedral Orders
+Hash: 5A270FDE, Key: Line1.804E6, Value: We have received more reports of undead prowling the north. The glenfolk say these creatures are the work of a necromancer. As the locals tell it, a healer named Tomas turned to profane arts after his family succumbed to illness. It could be just a legend. However, it warrants further investigation. If this fiend is real, we must destroy him.
+Hash: C930760B, Key: VoiceDir1.804E6, Value: Authoritative. A commander issuing a holy order.
+Hash: F41B8960, Key: Line3.804E6, Value: Go forth, Knights Penitent, and show the unbelievers that we can cleanse this land of evil. 
+
+Blessed be the Light, Watch Commander Antje

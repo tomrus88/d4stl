@@ -1,0 +1,12 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I meant no offense. I just want to know what happened.”
+Hash: 8E02627B, Key: Line5.789BF, Value: She showed me kindness when I was young. Not long ago, I finally found a way to repay that debt. A salve to cure her affliction.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: Opening up a bit
+Hash: 27F6DBFD, Key: Line7.789BF, Value: But she refused it. Called me a fool for even trying to change her fate.
+Hash: 9700422A, Key: VoiceDir7.789BF, Value: Hurt and bitter
+Hash: C1EB557F, Key: Line9.789BF, Value: That was the last time I saw her. It is quite clear she does not want my help.
+Hash: 608DBF14, Key: Line11.BAE4, Value: Not the salve, no. But maybe it’s enough just to be at her side.
+Hash: CF972541, Key: VoiceDir11.BAE4, Value: Even, measured.
+Hash: 0918CD0A, Key: Line13.789BF, Value: It is not enough for me.
+Hash: 69E26198, Key: Line15.BAE4, Value: Then is all this really about her or you?
+Hash: D8EBC7C5, Key: VoiceDir15.BAE4, Value: Even, measured.
+Hash: 3D01C00E, Key: Line17.789BF, Value: ...

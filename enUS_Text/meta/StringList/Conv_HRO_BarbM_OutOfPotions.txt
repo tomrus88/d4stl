@@ -1,0 +1,3 @@
+Hash: 5A32A207, Key: Line7.BAE4.Bar.M, Value: I'm out of potions.
+Hash: BC195CC9, Key: Line9.BAE4.Bar.M, Value: I have no potions.
+Hash: FF9F8872, Key: Line11.BAE4.Bar.M, Value: I don't have any potions.

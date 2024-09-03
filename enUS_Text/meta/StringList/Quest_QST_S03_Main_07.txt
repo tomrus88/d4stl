@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: The World He Knew
+Hash: 936600EA, Key: Phase113Description, Value: Malphas is a servant of Diablo, the Lord of Terror. To make certain this exorcism works, I need this runestone to invoke Diablo's authority over Malphas.
+Hash: 04BB75EA, Key: Callback112Header, Value: Attune the Inert Runestone to Terror
+Hash: 2640190D, Key: Phase116Description, Value: I will need to receive Diablo's blessing to seal the runestone. I've done this once before, at Mount Civo. I can only hope I won't be twice-damned.
+Hash: EBAA2C2D, Key: Callback115Header, Value: Receive the Blessing of Diablo
+Hash: D298E270, Key: Callback118Header, Value: Seal the Hell-Blessed Runestone using the Vizjerei Altar
+Hash: B1D1AD0A, Key: Phase122Description, Value: I found the library. One of these books must have the knowledge we need to exorcise Malphas.
+Hash: 68C88CAD, Key: Callback151Header, Value: Research Vizjerei rituals
+Hash: 167B314E, Key: Callback143Header, Value: Find Vizjerei writings in the Caldeum library
+Hash: BE5A75AD, Key: Phase161Description, Value: The runestone has been blessed by Diablo. Now to find a Vizjerei outpost and seal the magic within it.
+Hash: 081024CD, Key: Callback160Header, Value: Find the Vizjerei outpost
+Hash: AE713B15, Key: Callback186Header, Value: Research Vizjerei rituals
+Hash: 7B8434CF, Key: Phase190Description, Value: Ayuzhan is no expert on demons. He's asked me to travel to Caldeum and find Vizjerei texts there. I'm not sure if he realizes the state Caldeum is in.
+Hash: 81A1C639, Key: Callback199Header, Value: Reach level 20 to unlock the Jeweler
+Hash: 955FF158, Key: Callback189Header, Value: Craft an Uncertain Seneschal Stone Cache from the Cofferer

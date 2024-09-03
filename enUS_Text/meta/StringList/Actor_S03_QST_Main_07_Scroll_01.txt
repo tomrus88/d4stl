@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "The Binding"
+Hash: F2CA04D8, Key: NoticeSignText, Value: "To harness Fear, a mage must bow to fear. At Mount Civo, speak Fear's name: Al'Diabolos. Fear will rise to answer, and smile at himself within you."

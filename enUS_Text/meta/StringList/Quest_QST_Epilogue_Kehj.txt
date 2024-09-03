@@ -1,0 +1,24 @@
+Hash: 003DFCC1, Key: Name, Value: Promises
+Hash: 0871A46B, Key: Toast, Value: Meet Neyrelle at the Forsaken Chapel
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet Neyrelle at the Forsaken Chapel
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Lilith is defeated. Lorath and I make for the old desert chapel to meet up with Neyrelle, who escaped with the Soulstone containing Mephisto's essence.
+Hash: D53BFF05, Key: Phase0Description, Value: Lilith is defeated. Lorath and I make for the old desert chapel to meet up with Neyrelle, who escaped with the Soulstone containing Mephisto's essence.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Meet Lorath and Neyrelle at the Forsaken Chapel
+Hash: 2F5A8F83, Key: Callback85Header, Value: Travel to the Forsaken Chapel
+Hash: C9FCD1EA, Key: Phase5Description, Value: Lilith is defeated. Lorath and I make for the old desert chapel to meet up with Neyrelle, who escaped with the Soulstone containing Mephisto's essence.
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Meet Lorath and Neyrelle at the Forsaken Chapel
+Hash: 2A0770E5, Key: Callback78Header, Value: Meet Neyrelle in the chapel
+Hash: 56FEA5EB, Key: Phase59OutsideSubzoneHeader, Value: Speak with Lorath at the Forsaken Chapel
+Hash: BCE26C3F, Key: Callback63Header, Value: Talk to Lorath
+Hash: 008DE739, Key: Phase31Description, Value: I found no signs of Neyrelle in the chapel. She was never here. Heading outside to break the news to Lorath, I see Iosef and a small group of Knights Penitent approaching.
+Hash: E93E3CA1, Key: Phase31OutsideSubzoneHeader, Value: Meet Lorath outside the Forsaken Chapel
+Hash: 112E3759, Key: Callback30Header, Value: Head outside with Lorath
+Hash: 9367FF5C, Key: Phase34Description, Value: Iosef appears to be searching for Neyrelle and the Soulstone. Surely the Cathedral of Light thinks all of us are heretics now. Lorath seems to be out of patience.
+Hash: DC652C24, Key: Phase34OutsideSubzoneHeader, Value: Confront the Knights Penitent
+Hash: F81CED9C, Key: Callback33Header, Value: Speak with Iosef
+Hash: F4A9EC5A, Key: Phase14Description, Value: We have no choice but to defend ourselves from the Knights Penitent.
+Hash: F70C96E2, Key: Phase14OutsideSubzoneHeader, Value: Confront the Knights Penitent
+Hash: 1F9943DA, Key: Callback13Header, Value: Defeat the Knights Penitent
+Hash: 803B8057, Key: Phase20Description, Value: With the Knights Penitent dead at our feet, Lorath and I must make our plan to find Neyrelle and the Soulstone.
+Hash: 2584F77F, Key: Phase20OutsideSubzoneHeader, Value: Speak with Lorath outside the Forsaken Chapel
+Hash: ED76B060, Key: Callback19Header, Value: Speak with Lorath

@@ -1,0 +1,30 @@
+Hash: 927D43C7, Key: Line73.54239, Value: Ah, smells good. Don’t stir too much though.
+Hash: E2B36F94, Key: VoiceDir73.54239, Value: Relaxed. Talking by the fire.
+Hash: 796BFA0A, Key: Line76.54239, Value: How long we going to stay here? This place reeks.
+Hash: C9A225D7, Key: VoiceDir76.54239, Value: Relaxed. Idle complaining.
+Hash: 605AB04D, Key: Line79.54239, Value: Why are we always the ones who get watch duty?
+Hash: B090DC1A, Key: VoiceDir79.54239, Value: Relaxed. Idle complaining.
+Hash: DF847497, Key: Line127.54239, Value: Hey! No nodding off!
+Hash: 36801A04, Key: VoiceDir127.54239, Value: Chiding a fellow bandit.
+Hash: 97DD5674, Key: Line133.54239, Value: So then I stuck the fool with his own blade! (chuckle)
+Hash: EED8FBE1, Key: VoiceDir133.54239, Value: Finishing a story. Thinks it's great.
+Hash: A63B6EE4, Key: Line63.54237, Value: Ah, smells good. Don’t stir too much though.
+Hash: F6719AB1, Key: VoiceDir63.54237, Value: Relaxed. Talking by the fire.
+Hash: 8D2A2527, Key: Line66.54237, Value: How long we going to stay here? This place reeks.
+Hash: DD6050F4, Key: VoiceDir66.54237, Value: Relaxed. Idle complaining.
+Hash: D86AF66D, Key: Line110.54237, Value: Why are we always the ones who get watch duty?
+Hash: 2F669BDA, Key: VoiceDir110.54237, Value: Relaxed. Idle complaining.
+Hash: F895BE52, Key: Line124.54237, Value: Hey! No nodding off!
+Hash: 4F9163BF, Key: VoiceDir124.54237, Value: Chiding a fellow bandit.
+Hash: B0EEA02F, Key: Line130.54237, Value: So then I stuck the fool with his own blade! (chuckle)
+Hash: 07EA459C, Key: VoiceDir130.54237, Value: Finishing a story. Thinks it's great.
+Hash: 0A8E9FB9, Key: Line155.8998F, Value: Ah, smells good. Don’t stir too much though.
+Hash: 618A4526, Key: VoiceDir155.8998F, Value: Relaxed. Talking by the fire.
+Hash: F17D55FC, Key: Line158.8998F, Value: How long we going to stay here? This place reeks.
+Hash: 4878FB69, Key: VoiceDir158.8998F, Value: Relaxed. Idle complaining.
+Hash: C2E78196, Key: Line161.8998F, Value: Why are we always the ones who get watch duty?
+Hash: 19E32703, Key: VoiceDir161.8998F, Value: Relaxed. Idle complaining.
+Hash: A9D637D9, Key: Line164.8998F, Value: Hey! No nodding off!
+Hash: 00D1DD46, Key: VoiceDir164.8998F, Value: Chiding a fellow bandit.
+Hash: 90C4EE1C, Key: Line167.8998F, Value: So then I stuck the fool with his own blade! (chuckle)
+Hash: E7C09389, Key: VoiceDir167.8998F, Value: Finishing a story. Thinks it's great.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Serac Conjurer
+Hash: A646FFA4, Key: Description, Value: The magical power of these stoics is a welcome addition to the Bear Tribe's defenses. Many of the Ice Clan have fallen to their spells.
+Hash: 083EE0CE, Key: Quote, Value: Protecting the Fractured Peaks alongside their Bear Tribe brethren.
+Hash: 13A53A8B, Key: Series, Value: Sorcerer Armor

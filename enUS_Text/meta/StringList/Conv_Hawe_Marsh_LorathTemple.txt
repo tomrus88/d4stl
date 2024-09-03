@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I think I have what we need."
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Good. You found the incense. I'll keep it safe for us.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: While you were gone, Timue warmed up to us. (laughs) Well, to Lorath. He's surprisingly nimble with old women.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Neyrelle!
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Embarassed
+Hash: C1F212B9, Key: Line9.6DE47, Value: (laughs) She says there's an altar, that's what the incense is for. It's not far from here.

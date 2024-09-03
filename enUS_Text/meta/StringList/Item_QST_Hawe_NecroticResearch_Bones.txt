@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Necrotic Flesh
+Hash: F5C7BC0A, Key: Flavor, Value: A pile of flesh and bone fragments from a Nangari necromancer's minion.

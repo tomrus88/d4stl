@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Spite
+Hash: 003892BF, Key: Desc, Value: When you are afflicted with a Crowd Control effect, there is a {c_random}[Affix_Value_1]%{/c} chance that the same enemy and enemies around you are also afflicted with the same effect for {c_random}[Affix_Value_2]{/c} seconds.

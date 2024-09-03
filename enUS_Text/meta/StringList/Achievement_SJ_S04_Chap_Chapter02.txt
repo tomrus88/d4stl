@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Chapter II
+Hash: 003892BF, Key: Desc, Value: Continue your journey. Secure strongholds to gain access to new waypoints and dungeons. Complete cellars and dungeons for resources, and gear to increase your power. Keep your elixirs stocked and mind your gems.

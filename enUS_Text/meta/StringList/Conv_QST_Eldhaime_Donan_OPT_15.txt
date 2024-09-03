@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Airidah...she told Lilith about the stone.” 
+Hash: F427C5EC, Key: Line3.7FA05, Value: Just like Nafain. Traitors...
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Flustered, hint of anger
+Hash: 0932A9FD, Key: Line13.7FA05, Value: They did this to me...to my boy!
+Hash: 5968D5CA, Key: VoiceDir13.7FA05, Value: Flustered, hint of anger

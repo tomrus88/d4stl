@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED9AECD, Key: Line1.125DEE, Value: Twenty happy customers, cured of the plague! You could be next!
+Hash: 675D588F, Key: Line3.125DEE, Value: A fair price is all I ask, folks. For only ten gold, I’ll make you healthy again!

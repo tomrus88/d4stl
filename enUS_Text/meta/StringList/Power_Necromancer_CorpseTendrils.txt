@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Corpse Tendrils
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c} {c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Veins burst out of a Corpse, Pulling in enemies, Stunning them for {c_number}{buffduration:STUN}{/c} seconds, and dealing {c_number}{payload:DAMAGE}{/c} damage to them. Does not consume the Corpse.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds
+Hash: 1BC5E139, Key: Buff6_Name, Value: Grasping Veins
+Hash: 04622D1C, Key: Buff6_Description, Value: Increased Critical Strike Chance.
+Hash: 74D6BC35, Key: Mod2_Description, Value: Enemies who are in range of {c_important}Corpse Tendrils{/c} are Slowed by {c_number}[{SF_10}*100|%|]{/c} before being Pulled.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Corpse Tendrils
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Corpse Tendrils{/c} has a {c_number}[{SF_9} * 100|%|]{/c} chance to drop a {c_important}{u}Blood Orb{/u}{/c} when damaging enemies.
+Hash: 9233D930, Key: Mod0_Name, Value: Blighted Corpse Tendrils
+Hash: 2577B2B4, Key: Mod1_Description, Value: Enemies damaged by {c_important}Corpse Tendrils{/c} are made {c_important}{u}Vulnerable{/u}{/c} for {c_number}[{SF_11}]{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Plagued Corpse Tendrils

@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5EA7D723, Key: Line21.E9EBE, Value: (breathing, screaming)
+Hash: AEDE02F0, Key: VoiceDir21.E9EBE, Value: quick heavy breathing
+Hash: 5D3B8DF4, Key: Line1.BD31C, Value: Mephisto. Diablo. Baal.
+Hash: 9290CA27, Key: Line25.E9EBE, Value: (groaning in agony)
+Hash: E2C6F5F4, Key: VoiceDir25.E9EBE, Value: groaning in pain
+Hash: 4ACA1BC7, Key: Line31.BD31C, Value: The ruination of Sanctuary is imminent. And yet you doubt.
+Hash: F438D28C, Key: Line3.8DD12, Value: Only zealots and fools are completely certain, Mother. If we are to be saved, it will be by your hand.
+Hash: 912480F8, Key: Line5.BD31C, Value: I have not come to save, but to empower.
+Hash: 0C3AEB87, Key: Line13.BD31C, Value: In my shadow, the strong will oppose the might of Hell itself.
+Hash: A62F6509, Key: Line15.BD31C, Value: Let the weak fend for themselves.
+Hash: C679BD2B, Key: Line29.E9EBE, Value: (death screams)
+Hash: 16AFE8F8, Key: VoiceDir29.E9EBE, Value: death screams
+Hash: C2163F12, Key: Line9.8DD12, Value: Andariel lives. The Horadrim die.
+Hash: 72467205, Key: Line11.BD31C, Value: Whatever the cost.
+Hash: D7212323, Key: Line19.8DD12, Value: Whatever the cost.

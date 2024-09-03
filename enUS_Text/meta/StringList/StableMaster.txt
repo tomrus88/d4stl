@@ -1,0 +1,70 @@
+Hash: 1CD47D57, Key: VendorHeader, Value: Purchase goods
+Hash: E016CB68, Key: CollectionsHeader, Value: Stable
+Hash: 5E80CEB3, Key: MountLabel, Value: Selected
+Hash: FA9084C4, Key: MountEquipmentDisplay_Controller, Value: {button4, 2.0} Toggle Equipment
+Hash: 2EDE2B81, Key: MountEquipmentDisplay, Value: Toggle Equipment
+Hash: 699B34F8, Key: Equipment, Value: Equipment
+Hash: 757BC953, Key: CollectionSection_Favorites, Value: Favorites
+Hash: EFAC5A89, Key: AcquisitionLabel, Value: Acquisition:
+Hash: 40EDBB94, Key: MountName, Value: Mount Name
+Hash: 40F16C55, Key: MountType, Value: {PH} Mount Type
+Hash: 152008AF, Key: MountActive, Value: Active
+Hash: 5F50DB79, Key: MountOwnedHeader, Value: Owned Mounts   ({s1})
+Hash: B4D25237, Key: MountPurchaseHeader, Value: Purchase Mounts
+Hash: 5F35F050, Key: MountValue, Value: {s1}
+Hash: 47B3D56F, Key: Player2Join, Value: Player 2
+Press {icon:button4, 2} to join
+Hash: 5051B417, Key: MountPurchaseConfirmation, Value: Are you sure you want to buy this mount?  Mounts can not be sold back once purchased.
+Hash: 816D91FE, Key: MountTypeCommon, Value: Common
+Hash: FA09BDBF, Key: MountTypeRare, Value: {c:b59833}Rare
+Hash: F38C4770, Key: MountTypeLegendary, Value: {c:913d15}Legendary
+Hash: 40EB4D82, Key: MountItem, Value: Mounts
+Hash: EEF8B822, Key: MountItemSaddles, Value: Mount Armors
+Hash: 22329A45, Key: MountItemHorseshoes, Value: Horseshoes
+Hash: 688C10E3, Key: MountItemsTrophies, Value: Trophies
+Hash: 463D2E81, Key: MountVendor, Value: Vendor
+Hash: 3AE6CD36, Key: MountTypeMagic, Value: {c:494f73}Magic
+Hash: B330CAAB, Key: MountClosePrompt, Value: {icon:button2, 2} Close
+Hash: CB50474F, Key: MountNumbers, Value: {s1} / {s2}
+Hash: 9D2EB4ED, Key: VendorNoItems, Value: Out of stock. Come back later.
+Hash: ACC21F24, Key: MountLimitedHeader, Value: Limited Access
+Hash: 9BC4A329, Key: MountLimitedBody, Value: Progress the campaign and complete {icon:Marker_PriorityQuestProgress_Untracked, 2} {c:FFbf6b31}{s1}{/c} to gain access to mounts.
+Hash: 45EE0962, Key: AcquiredFrom, Value: Acquired from:
+Hash: D3BD2BB1, Key: ItemPreview, Value: Item Preview
+Hash: EDA3B456, Key: CurrentMount, Value: Current mount
+Hash: 9211C949, Key: DisplayMount, Value: Display mount
+Hash: 14AB3ABB, Key: Stable, Value: Stable
+Hash: 4904C0BD, Key: Equipped, Value: Equipped
+Hash: 0AB62629, Key: OwnedItemValue, Value: Owned {s1}: {s2} / {s3}
+Hash: 2A3A91B0, Key: ArmorItem, Value: Armor
+Hash: 6B761BBD, Key: ApplyCosmetic, Value: Apply Look
+Hash: 1D859AD7, Key: UnequippedCosmetic, Value: No Cosmetic
+Hash: F5B45179, Key: PreviewCosmetic, Value: Preview Cosmetic
+Hash: 1D82CB5F, Key: MountCollection, Value: Your Collection
+Hash: DA5C292E, Key: VendorLabel, Value: Buy new mounts and mount accessories
+Hash: 992B9587, Key: StableInfo, Value: Select your current mount and its accessories
+Hash: BF62D19D, Key: StableTitle, Value: Manage your Stable
+Hash: B26758F7, Key: NoMountStablemaster, Value: You do not own any mounts yet.
+Hash: 18579FED, Key: NoItemsVendor, Value: You have purchased all available items of this type.
+Hash: E4F36F26, Key: NoItemsStablemaster, Value: You do not own any of this type of item yet.
+Hash: 2DCC4DB1, Key: NoMountsVendor, Value: You have purchased all available mounts.
+Hash: 59074A9F, Key: MountLimitedBody_SkipCampaign, Value: Reach {c:FFbf6b31}level 25{/c} to gain access to mounts.
+Hash: 1E2EDCA3, Key: HorseType, Value: Horse
+Hash: AF7EAB9A, Key: CatType, Value: Cat
+Hash: 5F164335, Key: MountTitle, Value: {s1}
+Hash: 1307CB1F, Key: MountErrorTitle, Value: Incompatible Mount
+Hash: 79CDC281, Key: MountErrorDescription, Value: Unable to equip this {c:FFbf6b31}{s1} Mount Armor{/c} due to the {c:FFbf6b31}{s2} Mount{/c} being currently equipped.
+Hash: A6B230AE, Key: AcquiredWithProductPreorder, Value: Acquired with {s1} pre-purchase
+Hash: AB154A46, Key: AcquiredWithproductPurchase, Value: Acquired with {s1}
+Hash: 60A4A792, Key: AcquiredWIthProductPreOrderDescription, Value: Pre-purchase {s1} to unlock this {s2}
+Hash: D5C5922A, Key: AcquiredWithProductPurchaseDescription, Value: Purchase {s1} to unlocki this {s2}
+Hash: F55117C1, Key: LearnMoreAboutProduct, Value: Explore {s1}
+Hash: 63D29D02, Key: ButtonPrompt_LearnMore, Value: {icon:button3, 2.0}  Explore Vessel of Hatred
+Hash: 3AD38692, Key: AcquiredWithPreOrderDescriptionOr, Value: Pre-purchase {s1} or {s2} to unlock this {s3}
+Hash: A2B03428, Key: AcquiredVOHDeluxeOrUltimate, Value: Pre-purchase Vessel of Hatred Deluxe or Ultimate Edition to acquire this {s1}
+Hash: BF033B7A, Key: AcquiredWithVOHPreOrder, Value: This {s1} is included with one or more of the Vessel of Hatred Pre-purchase options.
+Hash: E2471D7B, Key: AcquiredWithVOHProductPreorder, Value: Acquired with Vessel of Hatred Pre-purchase
+Hash: B0FCFCFC, Key: AcquiredWithVOHUltimate, Value: Pre-purchase Vessel of Hatred Ultimate Edition to acquire this {s1}
+Hash: 95328B8D, Key: LearnMoreAboutVOH, Value: Explore Vessel of Hatred
+Hash: AB69F2D3, Key: LabelMount, Value: mount
+Hash: 7BF1CD6A, Key: LabelMountCosmetic, Value: mount cosmetic

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Dust Devil's
+Hash: 003892BF, Key: Desc, Value: {c_important}Whirlwind{/c} leaves behind {c_important}Dust Devils{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage to enemies in their path.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Whirlwind{/c} leaves behind {c_important}Dust Devils{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cultist's Sketch
+Hash: F2CA04D8, Key: NoticeSignText, Value: A graphite sketch: a beautiful woman rises from a caravan's worth of bodies, and two armored figures bask in her light.

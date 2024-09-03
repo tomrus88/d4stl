@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Stygian Stone
+Hash: A646FFA4, Key: Description, Value: Bring this stone to the altar of powerful foes to unleash their full might. Acquired from delving into the depths of The Pit on World Tier 4: Torment
+Hash: F5C7BC0A, Key: Flavor, Value: Evil-steeped over eons, this grotesque stone murmurs ancient blasphemies.

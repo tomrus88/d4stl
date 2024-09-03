@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Fearful Bones
+Hash: B78F4DA1, Key: Callback56Header, Value: Slay the Claustrophobic Skeleton
+Hash: 22EDF2BD, Key: Callback61Header, Value: Gather the Corrupted Remains {LEFT}
+Hash: 6896A125, Key: Callback96Header, Value: Slay all monsters before time runs out
+Hash: 4C62940D, Key: Callback106Header, Value: Enter {EVENT_LEVELAREA}
+Hash: A5CF923D, Key: Callback25Header, Value: Lay the bones to rest in the Empty Grave

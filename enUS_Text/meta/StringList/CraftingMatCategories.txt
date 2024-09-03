@@ -1,0 +1,11 @@
+Hash: 6AF0BF16, Key: Seasonal, Value: Seasonal
+Hash: 6D807DBD, Key: LTE_Hibernal_Mats, Value: Midwinter Blight
+Hash: 0D1B30F2, Key: Plants, Value: Plants
+Hash: 0001E746, Key: Ore, Value: Ore
+Hash: 085D7BC8, Key: Skins, Value: Skins
+Hash: 39DEDC72, Key: MonsterParts, Value: Monster Parts
+Hash: 7E926523, Key: Salvage, Value: Salvage
+Hash: B2475828, Key: GemMaterial, Value: Gem Fragments
+Hash: 1B9C99E0, Key: Stock Goods, Value: Stock Goods
+Hash: 243270CF, Key: Unusual Materials, Value: Unusual Materials
+Hash: F17C58A8, Key: Harvested Materials, Value: Harvested Materials

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Father's Conceit
+Hash: A646FFA4, Key: Description, Value: Suits of this macabre armor have recently been unearthed in deepest Kehjistan. During the Sin War, they belonged to a cabal of powerful religious zealots who followed the Cathedral of Light and the Prophet. Unfortunately, like many other heroes of the time, they were eventually corrupted and turned away from the Light.
+Hash: 083EE0CE, Key: Quote, Value: Only darkness remains.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

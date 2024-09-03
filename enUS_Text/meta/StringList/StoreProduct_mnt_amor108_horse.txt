@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Faithless Cage
+Hash: A646FFA4, Key: Description, Value: The style and symbols which adorn this barding are unmistakably of Triune fashioning; marking the rider as a member of that accursed cult.
+Hash: 13A53A8B, Key: Series, Value: "Three-fold Nightmare"

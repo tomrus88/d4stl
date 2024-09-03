@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Lunar Night Market
+Hash: 7BFE534B, Key: simple_instruction, Value: The {icon:Lunar_Hub_Icon, 2.5}{c_highlight}Lunar Night Market{/c} is the anchor of Lunar Awakening event progression,{icon:Quest_LiveEvent_Available, 2.5}quests, and rewards.

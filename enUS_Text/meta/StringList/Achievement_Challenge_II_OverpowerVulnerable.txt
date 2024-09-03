@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Advantageous Strikes
+Hash: 003892BF, Key: Desc, Value: Slay 1,000 enemies with Critical or Overpowering Strikes.

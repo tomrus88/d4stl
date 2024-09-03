@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: To Walk a Dark Path
+Hash: C5FA5A22, Key: Callback39Header, Value: Subdue the Frightened Pilgrims
+Hash: 9211671E, Key: Callback35Header, Value: Speak with the Frightened Pilgrim

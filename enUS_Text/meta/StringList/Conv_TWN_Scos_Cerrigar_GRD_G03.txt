@@ -1,0 +1,2 @@
+Hash: 5D6B43A7, Key: Line1.F7388, Value: It--it was a beast! A hound of Hell!
+Hash: CC74A9D4, Key: VoiceDir1.F7388, Value: Reporting to Player. Shock. Terror. 

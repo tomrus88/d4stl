@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Disobedience
+Hash: 003892BF, Key: Desc, Value: You gain {c_random}[Affix_Value_1|1%+|]{/c} increased Armor for {c_number}[Affix."Static Value 1"]{/c} seconds when you deal any form of damage, stacking up to {c_random}[Affix_Value_1*Affix."Static Value 0"|1%+|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: You gain {c_random}[Affix_Value_1|1%+|]{/c} increased Armor when dealing damage.

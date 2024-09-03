@@ -1,0 +1,6 @@
+Hash: F438D28C, Key: Line3.8DD12, Value: Yes, Lorath. The Lords of Hell threaten our existence, and we are doing something about it.
+Hash: 634238B9, Key: VoiceDir3.8DD12, Value: Disdain
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Elias? How are you still alive?
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: At a loss. Lorath just killed Elias... and yet he has come back to life.
+Hash: 2821C590, Key: Line7.8DD12, Value: You will never understand what I have done for this world.
+Hash: 972B2BBD, Key: VoiceDir7.8DD12, Value: Disdain

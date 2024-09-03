@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Rathma
+Hash: 0C3AEB87, Key: Line13.BD31C, Value: My son was wiser than even the Horadrim, but it was not in his nature to be a shepherd either.
+Hash: A62F6509, Key: Line15.BD31C, Value: His Prophecy was a warning, but rather than use it to unite Sanctuary, he let it breed chaos.
+Hash: 4023DE8B, Key: Line17.BD31C, Value: Inarius. Elias. Lorath. They wanted so badly to see their own meaning in the Prophecy, they were blind to the simple truth of it.
+Hash: DA18580D, Key: Line19.BD31C, Value: We are prisoners of the Eternal Conflict. The pawns of angels and demons.
+Hash: 5E8846E6, Key: Line21.BD31C, Value: It will always be a part of us. We must fight to survive.

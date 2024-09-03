@@ -1,0 +1,21 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Taissa... I need to speak with him.
+Hash: F40DE8F9, Key: Line3.789BF, Value: Then do so, Horadrim.
+Hash: 8E2D4C0E, Key: Line5.8DD12, Value: Lorath. (coughs)
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Oh, Elias. Was all this worth it, then? Truly?
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: deep breath before the line
+Hash: C2163F12, Key: Line9.8DD12, Value: I brought Lilith to Sanctuary. A thing no one thought possible. And when Hell rises to sweep across this world, I should be there beside her, ready to push it back.
+Hash: 6F4F3D1B, Key: Line11.8DD12, Value: You left me alone to cross the lines you would dare not attempt and you have nothing to show for it. You are nothing but a wasted life. Do not look to forgive me, old man, because it is you who brought us here.
+Hash: A338301F, Key: Line15.8DD12, Value: “Was it worth it?” That is a coward’s question, Lorath. It suits you.
+Hash: 3D01C00E, Key: Line17.789BF, Value: Elias of Aranoch...
+Hash: D7212323, Key: Line19.8DD12, Value: Oh, spare me.
+Hash: 5B662869, Key: Line21.789BF, Value: ...of your own free will, you swore an oath to the Tree of Whispers.
+Hash: F5858B7E, Key: Line23.8DD12, Value: This is not the life I deserved.
+Hash: 158569D0, Key: Line37.789BF, Value: (effort)
+Hash: 65BB959D, Key: VoiceDir37.789BF, Value: exertion sounds while cutting
+Hash: E1C7605F, Key: Line33.8DD12, Value: (gasps)
+Hash: 31FD8C2C, Key: VoiceDir33.8DD12, Value: gasps as his throat is cut
+Hash: 8F4F1B6D, Key: Line25.789BF, Value: The Tree does not forget oaths, and it does not forgive debts.
+Hash: 7BBBD9E1, Key: Line35.8DD12, Value: (gurgles)
+Hash: CBF205AE, Key: VoiceDir35.8DD12, Value: gurgles and gasps as he bleeds out and dies
+Hash: 294394EF, Key: Line27.789BF, Value: It is time to let go.

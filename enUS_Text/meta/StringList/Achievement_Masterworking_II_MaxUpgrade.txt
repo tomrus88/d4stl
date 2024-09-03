@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Magnum Opus
+Hash: 003892BF, Key: Desc, Value: Masterwork a piece of gear to Rank 12.

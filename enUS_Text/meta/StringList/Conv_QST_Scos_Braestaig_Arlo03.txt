@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You can return home now. It's safe."
+Hash: 5A28B2ED, Key: Line1.83542, Value: Ah, I see...
+Hash: C932191A, Key: VoiceDir1.83542, Value: Knowingly
+Hash: 8E11A623, Key: Line5.8354D, Value: That mean you talked some sense into Airidah?
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: Not exactly...
+Hash: 6F339730, Key: Line11.8354D, Value: What happened then?
+Hash: 09281080, Key: Line13.83542, Value: Easy, lass. Best to leave some things unsaid.

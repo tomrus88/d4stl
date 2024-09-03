@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why did you run?"
+Hash: 675C0CA0, Key: Line3.1247DE, Value: We all realized one night that we were having the same dreams. Even Symon. Raining blood... fire... serpents...
+Hash: 3FDFB662, Key: Line5.1247DE, Value: The more we talked about the dreams, the more it got under Elias’ skin.  But the dreams got worse, and we couldn't stop picking at 'em. Like a scab.
+Hash: 18636024, Key: Line7.1247DE, Value: I kept awake that night, to hold off the nightmares. And I saw Elias. His true face.
+Hash: 68998BF1, Key: VoiceDir7.1247DE, Value: Emphasis on 'true'.
+Hash: F0E709E6, Key: Line9.1247DE, Value: I ran. And I didn't stop.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Penitent Shield
+Hash: F2CA04D8, Key: NoticeSignText, Value: The shield bears the scars of many battles. An inscription reads: "Faith in the Light shields against the darkness." 

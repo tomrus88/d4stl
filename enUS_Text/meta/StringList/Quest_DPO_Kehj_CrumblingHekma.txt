@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Descend into the root of Hatred.
+Hash: 56D6E5C1, Key: Callback65Header, Value: Slay all enemies in the Desolate Sacellum {KAM_REVEALED_COUNT}
+Hash: 83A65A9D, Key: Callback52Header, Value: Defeat the {MONSTER}
+Hash: F0CB5F43, Key: Callback67Header, Value: Travel to the {LEVELAREA}
+Hash: C2358ADD, Key: Callback70Header, Value: Slay the Redeemers: {LEFT}
+Hash: AE775FBE, Key: Callback80Header, Value: Travel to the {LEVELAREA}

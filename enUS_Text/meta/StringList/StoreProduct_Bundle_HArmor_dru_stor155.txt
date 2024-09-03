@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Thorns of Penitence
+Hash: A646FFA4, Key: Description, Value: Asalon turned his back upon his own people and became a knight in the service of the Cathedral of Light. But when the Cathedral destroyed his homeland, Asalon broke from the church and returned to the Old Ways. Ever tortured by his betrayal, he bears the Thorns of Penitence.
+Hash: 083EE0CE, Key: Quote, Value: To suffer is to know Truth.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Beckoning Thunder
+Hash: A646FFA4, Key: Description, Value: Answer the call of the elements with the Beckoning Thunder pack. The Beckoning Thunder pack includes the Storm Courser Mount Bundle containing the Fulgur's Courser mount, Storm Courser's Cage mount armor, 2 mount trophies, and 1800 Platinum.
+Hash: 13A53A8B, Key: Series, Value: "Beckoning Thunder"

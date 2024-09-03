@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Light's Resolve
+Hash: 0871A46B, Key: Toast, Value: Speak with Neyrelle at the Horadric Vault
+Hash: 80E04E1B, Key: Phase42Description, Value: The pursuit of Lilith in Fractured Peaks draws to a close. She obtained a key of some kind from the murdered corpse of Rathma, but to what end? Meanwhile, Neyrelle took her mother's corpse to the Horadric Vault for a proper burial.
+Hash: 4A6A48FB, Key: Callback41Header, Value: Speak with Neyrelle
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Neyrelle
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I've discovered what Lilith was after in the Necropolis of the Firstborn. I must reconvene with Neyrelle at the Horadric Vault.
+Hash: ACF781C3, Key: Phase42OutsideSubzoneHeader, Value: Speak with Neyrelle outside the Horadric Vault 
+Hash: 05F1AB6A, Key: Phase58OutsideSubzoneHeader, Value: Speak with Neyrelle

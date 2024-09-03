@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ancestral Triune Arms Cache
+Hash: A646FFA4, Key: Description, Value: Contains a guaranteed Ancestral Legendary with 925 item power.

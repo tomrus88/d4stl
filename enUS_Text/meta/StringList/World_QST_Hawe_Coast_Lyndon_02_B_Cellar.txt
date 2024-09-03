@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Quiet Clearing
+Hash: 003892BF, Key: Desc, Value: A hidden clearing Lyndon uses to stash "the good stuff."

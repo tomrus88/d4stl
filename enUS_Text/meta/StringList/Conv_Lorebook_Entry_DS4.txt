@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Cannibal Acolyte
+Hash: 5D72A43D, Key: Line1.EDC73, Value: The locals come to trespass in the temple of our god.
+Hash: CC7C0A6A, Key: VoiceDir1.EDC73, Value: raspy, lower pitched and somber
+Hash: F7671DBF, Key: Line3.EDC73, Value: They scream and resist and fight us.
+Hash: 667083EC, Key: VoiceDir3.EDC73, Value: raspy, lower pitched and somber
+Hash: 915B9741, Key: Line5.EDC73, Value: But our god has been in this temple longer than their families have had names.
+Hash: 0064FD6E, Key: VoiceDir5.EDC73, Value: raspy, lower pitched and somber
+Hash: 2B5010C3, Key: Line7.EDC73, Value: And those who come will be sacrificed. That is our way.
+Hash: 9A5976F0, Key: VoiceDir7.EDC73, Value: raspy, lower pitched and somber

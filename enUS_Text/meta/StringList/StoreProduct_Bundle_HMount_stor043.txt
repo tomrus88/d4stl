@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Winter's Vengeance
+Hash: A646FFA4, Key: Description, Value: At last, Sivalir emerged from his glacier. The roiling hate that once ruled him had frozen to a sharpened point. He would make his enemies suffer. And he knew exactly how.
+Hash: 083EE0CE, Key: Quote, Value: Swift. Certain. Cold.
+Hash: 13A53A8B, Key: Series, Value: "The Bitter Winter" Mount & Mount Armor

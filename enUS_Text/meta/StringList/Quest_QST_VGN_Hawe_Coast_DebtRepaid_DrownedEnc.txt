@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: A Debt Repaid
+Hash: C9FCD1EA, Key: Phase5Description, Value: I helped Kato find the man to whom she is indebted, but like so many in the area, he has unfortunately been turned into a Drowned. Killing him now would be a mercy.
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Flinn
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I helped Kato find Flinn, the man to whom she is indebted. We should confront him.
+Hash: 1F9943DA, Key: Callback13Header, Value: Speak with Flinn
+Hash: 1EADAE68, Key: Callback2Header, Value: Find Flinn
+Hash: D53BFF05, Key: Phase0Description, Value: I found a woman in Backwater who said she owes a debt to a man named Flinn. Her ship is getting ready to leave, and she is determined to clear her debt before departing. However, Flinn has recently gone missing. She says he was expected up the road north of Backwater, so we should begin our search there.

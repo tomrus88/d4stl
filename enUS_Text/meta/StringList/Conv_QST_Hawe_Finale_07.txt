@@ -1,0 +1,30 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happens now?"
+Hash: B2890E8D, Key: Line39.AAAEC, Value: (distant laughter)
+Hash: 5A196F77, Key: Line1.789BF, Value: Ahh, I hear laughter on the wind. Elias' head hangs from the Tree of Whispers. And your soulstone is attuned. This is where I leave you.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: Weary. Relieved. Then resolute.
+Hash: 2810B8F0, Key: Line7.7FA05, Value: Leaving? We go to face Lilith. I had hoped you would join us.
+Hash: 971A1F1D, Key: VoiceDir7.7FA05, Value: Confused. Disappointed.
+Hash: 8E02627B, Key: Line5.789BF, Value: I know the weight of your reasons, but Lilith remains your concern. Mine lies elsewhere.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: Sincere, understanding, but adamant. She feels for Donan, but her troubles aren't over.
+Hash: 8F68F860, Key: Line25.7FA05, Value: This is farewell, then. And thank you...for the tea.
+Hash: DF9F242D, Key: VoiceDir25.7FA05, Value: Sad but accepting. Grateful.
+Hash: 0918CD0A, Key: Line13.789BF, Value: Take care of yourself, Donan.
+Hash: 594EF8D7, Key: VoiceDir13.789BF, Value: Genuine. Somber. Worried for him. 
+Hash: A327237F, Key: Line15.7FA05, Value: She called me by my name. Lorath won't believe--where is he?
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: Pleased. Smiling. Then confused, concerned.
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: I've not seen him since...since Elias spent his last words calling him a coward.
+Hash: DD961907, Key: VoiceDir17.BAE4, Value: Thinking back. Realizing. Concerned.
+Hash: D7101683, Key: Line19.7FA05, Value: And to prove his courage, he what? Rode to face Lilith alone?
+Hash: 27464250, Key: VoiceDir19.7FA05, Value: Heavy. Frustrated. 
+Hash: BB86EF9B, Key: Line27.BAE4, Value: Elias never told us where to find her.
+Hash: 2A9055C8, Key: VoiceDir27.BAE4, Value: Concerned. Grim.
+Hash: C33ECBAB, Key: Line29.6DE47, Value: But his head is on the Tree of Whispers...so the Tree knows where Lilith is going.
+Hash: 1374F778, Key: VoiceDir29.6DE47, Value: Realizing. Reasoning.
+Hash: 47AEBA84, Key: Line31.6DE47, Value: Lorath could ask, but he'll have to pay the price.
+Hash: 97E4E651, Key: VoiceDir31.6DE47, Value: Realizing a serious problem. Alarmed.
+Hash: E1B653BF, Key: Line33.7FA05, Value: What price?
+Hash: 31EC7F8C, Key: VoiceDir33.7FA05, Value: Terse. Dread.
+Hash: 7B97AD88, Key: Line35.6DE47, Value: The same Elias paid. Eternity on the Tree.
+Hash: CBCDD955, Key: VoiceDir35.6DE47, Value: Grim. Worried.
+Hash: 159F46C3, Key: Line37.7FA05, Value: Brother, no. Get to the Tree, now! Stop him!
+Hash: 65D57290, Key: VoiceDir37.7FA05, Value: Deep grief and alarm. Barking orders, desperate.

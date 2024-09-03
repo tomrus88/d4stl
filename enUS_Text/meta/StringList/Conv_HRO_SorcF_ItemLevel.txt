@@ -1,0 +1,3 @@
+Hash: 62C1910C, Key: Line13.BAE4.Sor.F, Value: I must hone my abilities first.
+Hash: 93B4EE6D, Key: Line14.BAE4.Sor.F, Value: I am not yet capable of that.
+Hash: C4A84BCE, Key: Line15.BAE4.Sor.F, Value: I cannot use that yet.

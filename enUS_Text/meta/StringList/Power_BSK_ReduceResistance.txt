@@ -1,0 +1,2 @@
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Bane of Frailty
+Hash: 3763A447, Key: Buff10_Description, Value: Reduced All Resist

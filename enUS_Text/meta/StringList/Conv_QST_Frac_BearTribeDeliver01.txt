@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this at the site of a khazra ambush..."
+Hash: F6478448, Key: Line15.125004, Value: An ambush?! Damn these... beasts.
+Hash: 4D4329B5, Key: VoiceDir15.125004, Value: Anger spills uncontrollably 
+Hash: CECB2E0A, Key: Line17.125004, Value: This was Namran's chain. Thank you for returning it.
+Hash: 25C6D377, Key: VoiceDir17.125004, Value: calming down as she thinks of Namran

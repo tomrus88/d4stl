@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Wraith Lord
+Hash: A646FFA4, Key: Description, Value: Some necromancers explore beyond the body, blood, and bones of the dead. Skilled necromancers manipulate the spirit, putting that energy to use as well. 
+Hash: 083EE0CE, Key: Quote, Value: Their souls answer my call.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

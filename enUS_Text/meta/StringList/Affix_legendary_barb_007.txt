@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Vocalized Empowerment
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Shout{/c} Skills generate {c_random}[Affix_Value_1|1|]{/c} Primary Resource per second while active.

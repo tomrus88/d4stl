@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Traveling Scholar
+Hash: 5D2A974D, Key: Line1.AF573, Value: You've come to visit!
+Hash: F71F10CF, Key: Line3.AF573, Value: When I arrived, I told Yuein about my traveling companion, and he said he thinks he's met you! He wasn't surprised to hear how helpful you were.
+Hash: 91138A51, Key: Line5.AF573, Value: Perhaps one day you really will become a scholar. (giggles)
+Hash: 001CF07E, Key: VoiceDir5.AF573, Value: laughing

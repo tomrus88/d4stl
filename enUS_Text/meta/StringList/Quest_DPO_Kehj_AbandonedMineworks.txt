@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The dark of the labyrinth awaits. 
+Hash: 059C64AB, Key: Callback5Header, Value: Travel to the {LEVELAREA}
+Hash: B23C2F03, Key: Callback49Header, Value: Slay the Forsaken Miners: {LEFT}
+Hash: D0A0975E, Key: Callback53Header, Value: Free the Prisoners: {LEFT}

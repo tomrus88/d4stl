@@ -1,0 +1,2 @@
+Hash: F41B88FE, Key: Line3.804B7, Value: That’s the entrance to the Cairns ahead.
+Hash: 8E100280, Key: Line5.804B7, Value: Wait...why is the passage blocked?

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "One less monster out there."
+Hash: 8EEB85E0, Key: Line1.136591, Value: I'm not sure how to thank you, my friend.
+Hash: DF21B1AD, Key: VoiceDir1.136591, Value: Edgar surprised in spite of himself to realize there are still good people out there fighting for justice. 
+Hash: 676F2FA2, Key: Line3.136591, Value: I can't stop trying to make up for the deaths I've caused. I thought I could just hide people outside the city for a while, wait for things to blow over, but now...I fear for Caldeum.
+Hash: B7A55B6F, Key: VoiceDir3.136591, Value: Wistful - a long journey is over, but there is little satisfaction in it - too many good people are dead. 
+Hash: 18768326, Key: Line7.136591, Value: I'm going to take some people to Gea Kul, maybe get on a boat myself, disappear for a while.
+Hash: 59111730, Key: Line10.136591, Value: Here, I want you to take my weapon. With Osric dead, it suddenly feels too heavy for me. I think it will do more good with you.

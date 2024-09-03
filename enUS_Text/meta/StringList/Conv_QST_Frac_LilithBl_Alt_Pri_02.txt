@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've been declared an enemy of the Church. Why are you helping me?"
+Hash: 18ABE7DA, Key: Line7.163AA1, Value: Pfeh—if I could cast you into Hell myself, I would! But I know you would kill me for trying. Let no one say Iosef's martyrdom was without purpose!
+Hash: 68E213A7, Key: VoiceDir7.163AA1, Value: spiteful
+Hash: F12F919C, Key: Line9.163AA1, Value: So long as that she-demon nests in your heart, you sully Kyovashad. I do this not for you, but for my flock.

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Inferno
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}*2|%|]{/c}
+{/if}Summon a fiery serpent that continually constricts the target area, Burning enemies for {c_number}[{dot:BUFF_BURNING} * SF_3]{/c} damage over {c_number}{SF_5}{/c} seconds.
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Inferno{/c} repeatedly Pulls enemies to its center.
+Hash: 948901D1, Key: Mod1_Name, Value: Prime Inferno
+Hash: 74D6BC35, Key: Mod2_Description, Value: While {c_important}Inferno{/c} is active, your {c_important}Pyromancy{/c} Skills cost no Mana.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Supreme Inferno

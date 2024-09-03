@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Thunderstruck
+Hash: 003892BF, Key: desc, Value: {c_important}Storm{/c} Skills deal increased damage equal to {c_number}[{SF_0}*100|x%|]{/c} of your Damage vs Close and Damage vs Distant bonuses, up to {c_number}[{SF_2}*100|x%|]{/c}.
+
+Current Bonus: {c_number}[SF_3 * 100|%x|]{/c}

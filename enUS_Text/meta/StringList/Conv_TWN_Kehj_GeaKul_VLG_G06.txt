@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's this?"
+Hash: 8ED9AEBD, Key: Line1.125DF4, Value: Smell that? (deep inhale) That’s what a damn good time smells like, my friend.
+Hash: DF0FDA8A, Key: VoiceDir1.125DF4, Value: Deep inhale after "Smell that?"

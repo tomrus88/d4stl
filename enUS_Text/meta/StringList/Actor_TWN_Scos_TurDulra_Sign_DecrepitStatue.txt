@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Decrepit Statue
+Hash: F2CA04D8, Key: NoticeSignText, Value: This statue—once exquisitely carved and a thing of beauty—now sits neglected and eroded. The moss growing over its surface covers old scorch marks.

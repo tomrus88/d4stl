@@ -1,0 +1,5 @@
+Hash: 086EAA02, Key: title, Value: Find Your Purchases
+Hash: 3D08DF31, Key: 0_instruction, Value: Locations on the Map {hotkey:map} marked with {icon:New_Indicator_Secondary, 2.0} contain new purchased items.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Purchased armor, weapon and other character cosmetics are found in the {icon:Marker_Wardrobe, 2.2} Wardrobe.
+Hash: DBC6F233, Key: 2_instruction, Value: Purchased mounts and mount cosmetics are found in the {icon:Marker_Vendor_Stable, 2.5} Stable.
+Hash: 2B25FBB4, Key: 3_instruction, Value: Purchased emotes are found when editing the {icon:Store_Icon_Wheel, 2.0} Action Wheel.

@@ -1,0 +1,6 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Strange Voice
+Hash: 911B74B6, Key: Line5.C1CD0, Value: An old drunk, the judge of what is real? (laughter) We are real, and so is the law of the swamp.
+Hash: 0024DAE3, Key: VoiceDir5.C1CD0, Value: Referencing a line from Lorath where he talks to himself and says "You aren't real," trying to quiet the voices in his head.
+Hash: 2B0FEE3B, Key: Line7.C1CD3, Value: To get the answers you seek, you must offer payment. A head for knowledge.
+Hash: C50467BA, Key: Line9.C1CD0, Value: Not yet. They have another purpose first.
+Hash: 340DCDE7, Key: VoiceDir9.C1CD0, Value: Reference to the heads thinking Player and team can help them track down Elias, the character who betrayed the Tree of Whispers.

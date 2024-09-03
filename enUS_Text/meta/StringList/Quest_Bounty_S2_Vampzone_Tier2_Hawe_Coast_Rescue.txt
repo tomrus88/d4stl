@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Rescue Forsaken Coast Villagers
+Hash: 0871A46B, Key: Toast, Value: The Vampires' dark rituals are fueled by vast quantities of fresh blood. Find and rescue those who would be consumed.
+Hash: B8A227EA, Key: Callback4Header, Value: Save Villagers: {DONE_OVER_NEEDED}

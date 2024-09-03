@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Heretic Ritual
+Hash: A646FFA4, Key: Description, Value: Some say that hags and demons, who call these swamps home, will teach their dark arts to a sorcerer willing to undertake their morbid rituals.
+Hash: 083EE0CE, Key: Quote, Value: Practitioners of bizarre sorcery, born in the depths of the Hawezari swamps.
+Hash: 13A53A8B, Key: Series, Value: Sorcerer Armor

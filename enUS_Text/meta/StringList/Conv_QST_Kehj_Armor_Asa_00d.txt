@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are their belongings worth such risk?"
+Hash: F87C3848, Key: Line23.BC41C, Value: To survive in the desert, a pack of wolves can't allow anything to go to waste.
+Hash: 48B26415, Key: VoiceDir23.BC41C, Value: Heavy. Reverent.
+Hash: 9270B1CA, Key: Line25.BC41C, Value: When an Iron Wolf dies, all that they carried is shared among the rest. It’s how we honor them.
+Hash: E2A6DD97, Key: VoiceDir25.BC41C, Value: Heavy. Reverent.

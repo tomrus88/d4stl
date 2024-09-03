@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mercenary Weapons
+Hash: F2CA04D8, Key: NoticeSignText, Value: The wealth of the merchants provides safety. The mercenaries prioritize protecting those with money.

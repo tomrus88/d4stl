@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The venomous lie in wait.
+Hash: 6C93809B, Key: Callback14Header, Value: Slay all enemies in the Webbed Caverns {KAM_REVEALED_COUNT}
+Hash: 538236DE, Key: Callback17Header, Value: Travel to the {LEVELAREA}
+Hash: 24EC6278, Key: Callback20Header, Value: Destroy the Ward of Eyes: {LEFT}

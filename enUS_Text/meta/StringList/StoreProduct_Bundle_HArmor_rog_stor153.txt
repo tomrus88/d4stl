@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ash Knight
+Hash: A646FFA4, Key: Description, Value: The minions of hell hide in the dark places of the world. The Ash Knight lurks in these same shadows, dispatching the demons that dare set foot on Sanctuary.
+Hash: 083EE0CE, Key: Quote, Value: Smother the fires of the Burning Hells in ash.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

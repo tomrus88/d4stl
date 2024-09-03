@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barding of Mount Arreat
+Hash: A646FFA4, Key: Description, Value: Robust barding of iron, horn, and leather, and woad, for a horse as fierce as their rider.

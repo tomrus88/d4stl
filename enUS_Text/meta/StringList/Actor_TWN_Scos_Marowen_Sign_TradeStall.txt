@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Trade Stall
+Hash: F2CA04D8, Key: NoticeSignText, Value: Purveyors of the practical and outlandish come to these docks to sell items of the woods and waves.

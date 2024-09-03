@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shrine of Piety
+Hash: F2CA04D8, Key: NoticeSignText, Value: A plaque at the shrine reads: “Children of the Light, be not afraid. Pluck your finger and let the blood drip into the flames as a sign of your faith and courage.”

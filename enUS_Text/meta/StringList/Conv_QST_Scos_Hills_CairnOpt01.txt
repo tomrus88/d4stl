@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How do you know so much about the druids?"
+Hash: 5A270F7C, Key: Line1.804B7, Value: Father always respected their beliefs and customs. It was important that I grew to understand his admiration.
+Hash: F41B88FE, Key: Line3.804B7, Value: Whenever he talked about coming here to meet Airidah, I saw a light in his eyes that rivaled any fire.
+Hash: 8E100280, Key: Line5.804B7, Value: The two were close. Though...I think time has seen them drift apart.

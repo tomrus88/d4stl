@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Template Character
+Hash: 5A1501D1, Key: Line1.70829, Value: This is a placeholder Lore entry. Make sure to use the correct Speaker record on the lines and enter the character name in the Conversation data.
+Hash: F4097B53, Key: Line3.70829, Value: This is a second line of Lore. Keep these conversations within 1-2 lines.

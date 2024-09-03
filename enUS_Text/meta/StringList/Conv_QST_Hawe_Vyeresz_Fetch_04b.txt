@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm sorry, I don't have any healing potions."
+Hash: 9151B871, Key: Line5.F1C75, Value: (cough) Please...help...
+Hash: 005B1E9E, Key: VoiceDir5.F1C75, Value: Coughing blood. Weak. Dying.

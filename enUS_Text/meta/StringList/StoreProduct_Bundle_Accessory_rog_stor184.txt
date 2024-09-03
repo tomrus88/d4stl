@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Quagmire Camouflage
+Hash: A646FFA4, Key: Description, Value: Some speculate that the Mirage is capable of changing the very nature of their skin, giving them the ability to alter their appearance to blend into their natural surroundings.
+Hash: 083EE0CE, Key: Quote, Value: In plain sight.
+Hash: 13A53A8B, Key: Series, Value: "Mirage of the Marshlands" Accessories

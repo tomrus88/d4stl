@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charnel Cave
+Hash: 003892BF, Key: Desc, Value: P:ermeated by a faint scent of desiccating remains

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about gem crafting."
+Hash: 5D20E70A, Key: Line1.B2A59, Value: Ah! I see you have an eye for quality! Hmm. You'll find no finer gemcutter in all of Sanctuary!
+Hash: 9109DA0E, Key: Line5.B2A59, Value: Bring me your unhewn stones and I will perform miracles! You will see!

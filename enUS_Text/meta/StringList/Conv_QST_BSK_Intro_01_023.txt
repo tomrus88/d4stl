@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How can I possibly trust you?"
+Hash: 9257723D, Key: Line1.1BCB9E, Value: You won’t remember, but I tried to kill you in Caldeum. (scoff) "Tried." You cast me aside like a child’s toy. Broke six of my ribs. I could only watch as you tore my brethren apart.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Smiling in memory.
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: It was a revelation. Out of all the suffering we created, there you were. Better than us, stronger than Elias. Stronger than even the Mother imagined.
+Hash: BB1147CC, Key: VoiceDir3.1BCB9E, Value: Describing a religious epiphany. 
+Hash: 435EC5C1, Key: Line5.1BCB9E, Value: Yes... You are the weapon we hoped to create.
+Hash: 9394F18E, Key: VoiceDir5.1BCB9E, Value: Describing a religious epiphany. 

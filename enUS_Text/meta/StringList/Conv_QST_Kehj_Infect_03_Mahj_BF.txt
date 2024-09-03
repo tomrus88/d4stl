@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found the ghost palm flower."
+Hash: 282084CA, Key: Line7.8C8DF, Value: Yes, give it here! Now, to grind the petals-- (groan)
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: Desperate. Gravely ill. Interrupted by strange, excruciating pain.
+Hash: C214FE4C, Key: Line9.8C8DF, Value: What? What is-- AAAAAGH!
+Hash: 311E6479, Key: VoiceDir9.8C8DF, Value: Confused. Terrified. Flesh-tearing agony.

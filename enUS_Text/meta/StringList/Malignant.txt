@@ -1,0 +1,22 @@
+Hash: B10F8AAC, Key: Malignant_Color_Utility, Value: Devious
+Hash: 95AF825D, Key: Malignant_Color_Offensive, Value: Vicious
+Hash: A814D271, Key: Malignant_Color_Defensive, Value: Brutal
+Hash: C09BF751, Key: Malignant_Color_Universal, Value: Wrathful
+Hash: 288E983D, Key: HeartType_Any, Value: Any
+Hash: 288E97EE, Key: HeartType_All, Value: All
+Hash: A5589110, Key: MalignantHeart_Type, Value: {s1} Heart
+Hash: 4FCF1166, Key: MalignantHeart_Level, Value: Level {s1}
+Hash: 5D229293, Key: MalignantHeartDescription, Value: Can be inserted into {c_important}{s1}{/c} malignant sockets, found in {c_important}Jewelry{/c}. 
+{c_warning}Once inserted, hearts can be replaced, but not removed.{/c}
+Hash: B9B743B4, Key: SalvageAllMalignantHeartsWarning, Value: This action will irreversibly destroy {c_highlight}all Hearts{/c} in your inventory. Are you sure you want to do this?
+Hash: 492F06DB, Key: SalvageMalignantHeartsWarning, Value: This action will irreversibly destroy {c_highlight}all {s1} Hearts{/c} in your inventory. Are you sure you want to do this?
+Hash: F701D523, Key: IAR_CannotSalvageMalignantHearts, Value: You have no {s1} Hearts to salvage.
+Hash: D055D35C, Key: IAR_CannotSalvageAllMalignantHearts, Value: You have no Hearts to salvage.
+Hash: A490F71D, Key: HeartSocketingWrongColorWarning, Value: There is no eligible socket in the item. You can only insert a matching heart or a Wrathful heart.
+Hash: DCA10DD3, Key: EmptyMalignantSocket, Value: Empty {s1} malignant socket
+Hash: 5A0BCC4B, Key: CraftMalignant, Value: Craft Malignant Items
+Hash: 4F78C77E, Key: SalvageMalignant, Value: Salvage Malignant Items
+Hash: 60DC26CA, Key: MalignantNPCTile, Value: Malignant Crafting
+Hash: 3E787625, Key: MalignantNPCIconLabel, Value: Cormond's Wagon
+Hash: E6136330, Key: HeartRecipeDescription, Value: Craft a random {s1} that is relative to your character's level.
+Hash: 96636CD6, Key: CraftMalignant_Unlock, Value: To unlock, complete {c_highlight}Burning from Within{/c} {icon:Marker_SeasonQuestAvailable, 2.5}

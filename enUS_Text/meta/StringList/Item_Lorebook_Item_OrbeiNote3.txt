@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Orbei Monastery, Part 2
+Hash: A646FFA4, Key: Description, Value: Written by the Abbot of Orbei Monastery, in a steady, practiced hand.

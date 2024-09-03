@@ -1,0 +1,230 @@
+Hash: 2C678208, Key: WeaponCategory, Value: Main Hand
+Hash: 135F6B6B, Key: WeaponName, Value: Soldier's Pride
+Hash: 13631C2C, Key: WeaponType, Value: Crude Shortsword
+Hash: 7FDD9B07, Key: WeaponValue, Value: 5
+Hash: F4D64CCC, Key: WeaponLongQuest, Value: Debug UI String Slash 100 enemies at full health and do a few other things that make the summary
+Hash: 066FDFFE, Key: WeaponShortDescription, Value: +4 Damage And a few other things to get to a new line
+Hash: 8825A857, Key: WeaponSubtitleName, Value: Slash
+Hash: 00000031, Key: 1, Value: 1
+Hash: 00000032, Key: 2, Value: 2
+Hash: 13619D16, Key: WeaponRank, Value: Rank
+Hash: 79D30854, Key: RankScale, Value: 83/100
+Hash: DE003923, Key: Current, Value: Current
+Hash: 003E0F3F, Key: Next, Value: Next
+Hash: 806BF1C6, Key: WeaponRankPotential, Value: Rank 1/5
+Hash: 563FA1BE, Key: WeaponLongDescription, Value: Debug UI String Chance on hit to summon a fallen Cabal hero Chance on hit to summon a fallen Cabal hero Chance on hit to summon a fallen Cabal heroChance on hit to summon a fallen Cabal hero
+Hash: 0361C52B, Key: NextRank, Value: Next Rank
+Hash: 6B7B27EF, Key: HeroName, Value: Lysimachus
+Hash: 764583C9, Key: ItemSwapDamage, Value: 5
+Hash: 8E810F71, Key: PaperDollItemDesc, Value: Attacks ignore armor
+Hash: 8E8A2A34, Key: PaperDollItemType, Value: 
+Hash: 8E867973, Key: PaperDollItemName, Value: Conviction Cowl
+Hash: 42F1AF65, Key: PaperDollTitle, Value: {c_gold}{s1}{/c}
+{s2} {s3}
+Hash: C3F74EC5, Key: PaperDollSlot, Value: Head
+Hash: BBEF4AF0, Key: ItemName, Value: Honed Sword
+Hash: C15C3851, Key: ItemSwapCurrentDescription, Value: Debug UI String Moves heavy Objects
+Hash: 74705C8B, Key: ItemSwapChoose, Value: Choose
+Hash: 4412C6E1, Key: FrontEndLevelNumber, Value: 16
+Hash: ABB6783D, Key: FrontEndHeroNameClassLevel, Value: Debug UI String - Benny Level 3 Slayer
+Hash: 79E8BBEE, Key: RankTitle, Value: Rank
+Hash: 00000EE3, Key: r1, Value: {icon:r1, 2.0}
+Hash: 004189AD, Key: TQBF, Value: The quick brown fox jumps over the lazy dog , : ' . ? ! 1 2 3 4 5 6 7 8 9 0   ! @ # $ % ^ & * ( ) _ + - = ~ [ ] { } 
+Hash: 39A89363, Key: LootQueueTest, Value: {icon:ItemUpgrade, 2.0} Item Name
+Hash: 8D62BEA9, Key: MonsterName, Value: Monster Name
+Hash: 479C9555, Key: Player1Abbr, Value: P1
+Hash: 47AEADD6, Key: Player2Abbr, Value: P2
+Hash: 508376C6, Key: Tracker_QuestHeader, Value: {c_orange}P1{/c}:{icon:Tracker_Quest_Side, 1.75} Protect the Shrouded Moors
+Hash: C700278A, Key: LootQueueTestCompare, Value: {icon:Stat_Attack} {icon:up1} {icon:Stat_Armor} {icon:down1}
+Hash: 5FC93F81, Key: ItemTooltipTestCompare, Value: {icon:up1} {c_green}14{/c}
+Hash: BCA7C428, Key: Rank_RomanTest, Value: Rank IV
+Hash: C1F9B13C, Key: Numeral_I, Value: I
+Hash: 012FDAD2, Key: Numeral_VI, Value: VI
+Hash: 5BA828BB, Key: QuestLog_OpenClose, Value: [~]
+Hash: 96DC64FD, Key: QuestLog_ToolTip_Select, Value: Select
+Hash: 5D323E00, Key: QuestLog_ToolTip_Unselect, Value: Unselect
+Hash: 1524E559, Key: QuestLog_ToolTip_IconsSelect, Value: {icon:button1, 2.0}
+Hash: 010F2B10, Key: QuestLog_ToolTip_Abandon, Value: Abandon
+Hash: 4867B6EC, Key: QuestLog_ToolTip_IconsAbandon, Value: {icon:button3, 2.0}
+Hash: 870C2BB6, Key: QuestLog_ToolTip_MKB_Select, Value: [Space]
+Hash: F737C8E9, Key: QuestLog_ToolTip_MKB_Abandon, Value: [Y]
+Hash: 02DAFF26, Key: ChallengesLog_ToolTip_Reward, Value: Challenges Reward
+Hash: BC7C3F79, Key: LongNumber, Value: 39485
+Hash: 30256EB2, Key: Debug_Options, Value: This only exists so that you can reset Gameplay options to "Defaults" to fix a nameplate bug.
+Hash: 787A7C91, Key: ZoneProgressTest, Value: Scosglen Chapter 1
+Hash: 69D8ACC1, Key: TimerTest, Value: 2:41
+Hash: 00000033, Key: 3, Value: 3
+Hash: 00000034, Key: 4, Value: 4
+Hash: 00000035, Key: 5, Value: 5
+Hash: 00000036, Key: 6, Value: 6
+Hash: 00000037, Key: 7, Value: 7
+Hash: 00000038, Key: 8, Value: 8
+Hash: 00000039, Key: 9, Value: 9
+Hash: 00000681, Key: 10, Value: 10
+Hash: 00000682, Key: 11, Value: 11
+Hash: 00000683, Key: 12, Value: 12
+Hash: 00000684, Key: 13, Value: 13
+Hash: 00000685, Key: 14, Value: 14
+Hash: 00000686, Key: 15, Value: 15
+Hash: 00000687, Key: 16, Value: 16
+Hash: 00000688, Key: 17, Value: 17
+Hash: 00000689, Key: 18, Value: 18
+Hash: 0000068A, Key: 19, Value: 19
+Hash: 4458DC7C, Key: ClanTest_ClanName, Value: WWWWWWWWWWWWWWWWWWWW
+Hash: 02124EB7, Key: ClanTest_ClanTag, Value: <WWWWWW>
+Hash: F5A77EFF, Key: ClanTest_ClanDescription, Value: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+Hash: 00FA1F0E, Key: SansSerif, Value: Sans Serif
+Hash: BCFC7385, Key: SansSerif_Light, Value: Sans Serif Light
+Hash: EEA011DB, Key: SansSerif_LightItalic, Value: Sans Serif Light Italicized
+Hash: 564F3D83, Key: SansSerif_Italic, Value: Sans Serif Italicized
+Hash: 1C127D93, Key: BlizzardGlobal, Value: Blizzard Global
+Hash: D71FEBE0, Key: ExocetLight, Value: Exocet Light
+Hash: BD288E29, Key: ExocetMedium, Value: Exocet Medium
+Hash: 085A5719, Key: Serif, Value: Serif
+Hash: 000006A2, Key: 20, Value: 20
+Hash: 000006A3, Key: 21, Value: 21
+Hash: 000006A4, Key: 22, Value: 22
+Hash: 000006A5, Key: 23, Value: 23
+Hash: 000006A6, Key: 24, Value: 24
+Hash: 000006AA, Key: 28, Value: 28
+Hash: 000006C3, Key: 30, Value: 30
+Hash: F45314A8, Key: Exocet, Value: Exocet
+Hash: E2F38158, Key: Serif_SmallCaps, Value: Serif Small Caps
+Hash: 5C99FCEC, Key: TQBF_SmallCaps, Value: The Quick Brown Fox Jumps Over The Lazy Dog , : ' . ? ! 1 2 3 4 5 6 7 8 9 0   ! @ # $ % ^ & * ( ) _ + - = ~ [ ] { } 
+Hash: 44D5F5BC, Key: ComingSoon, Value: Coming Soon!
+Hash: B65E6023, Key: ObjectiveTextPlaceholder, Value: {c_red}You should not see this text. It is just a placeholder for Quest Objectives in the UI! Enter a bug for Gameplay Engineering if you see this.{/c}
+Hash: C94D619D, Key: LevelText, Value: Level 50
+Hash: 94EEBC17, Key: SummonMountRussian, Value: Вызов средства передвижения
+Hash: 07616C8F, Key: Emtpy, Value: Emtpy (UI Debug)
+Hash: 29E67616, Key: ReplacedByCode, Value: [PH] To be replaced by code
+Hash: 05FCB0C6, Key: ReplacedByCodeLong, Value: [PH] Placeholder string to be replaced by code. This is a longer format for testing large text controls.
+Hash: 9C504FE7, Key: SkillTreePH, Value: WIP
+Hash: B7C19B75, Key: SkillTree_GrantAllSkills, Value: Grant All Skills
+Hash: 26B3482F, Key: SkillTree_GrantTalentPoints, Value: Grant Talent Points
+Hash: D7E6C4AC, Key: ChatBubbleTest, Value: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+Hash: 003D2032, Key: Lore, Value: Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance. [PH]
+Hash: 00000030, Key: 0, Value: 0
+Hash: 073C5EB6, Key: Class, Value: Class
+Hash: 3F59842E, Key: CharacterName, Value: WWWWWWWWWWWW
+Hash: FC156DCC, Key: DataPrivacyDisclaimer_PreReleaseBuild, Value: This game play test is for testing purposes only. All data gathered during this test period will be used for testing, troubleshooting, finding inconsistencies, glitches, or bugs in the software/game experience, or other quality assurance purposes, or research purposes to help in building our intellectual property, trade secrets, and copyright for this game. All data collected will be deleted at the conclusion of the alpha testing period, but no later than the public launch of the game. This game testing period will be restricted to only Blizzard, Activision, and King employees, Joint Venture employees, and contractors in order to collect feedback to improve the game.  Game play testing should only be done in the authorized manner as dictated by the development team and all information related to this game play test is and should be maintained as privileged and confidential.
+Hash: 7BEE5388, Key: ParagonBoardPH, Value: Prototype of the paragon system. Placeholder UI layout.
+Hash: EF04F9E9, Key: Common, Value: Common Node
+Hash: 7F8CC719, Key: PlayerIDLimit, Value: WWWWWWWWWWWW
+Hash: D7CC021F, Key: service vendor, Value: Service Vendor
+Hash: BF284DD5, Key: territoryname, Value: TerritoryName
+Hash: 7892AF49, Key: PlayerIDLimit_PSN, Value: WWWWWWWWWWWWWWWW
+Hash: 0000D6D1, Key: 100, Value: 100
+Hash: F8F7B525, Key: GlyphName, Value: Glyph Name (code to replace)
+Hash: 502C606C, Key: GlyphUpgradeTest, Value: 9999 / 9999
+Hash: EFF0FD11, Key: CustomNoteTest, Value: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+Hash: 146A8F18, Key: BattleTag, Value: Battletag_12
+Hash: B43D20E7, Key: PlayerProfile_Error, Value: This is a WIP screen; some functionalities are still missing
+Hash: EEBCFB2F, Key: AffixName, Value: Affix Name
+Hash: A1C5DD36, Key: NumberRange, Value: 5-20
+Hash: 5669AD15, Key: ModerateHealingVial, Value: Moderate Healing Potion
+Hash: 647B928C, Key: PlayerCrafterLevel, Value: Player Level: 100 | Crafter Level: 100
+Hash: 4BCAC205, Key: PlayerLevel, Value: Player Level: 100
+Hash: C152193F, Key: CrafterLevel, Value: Crafter Level: 100
+Hash: B764261D, Key: ElixirItemName, Value: Elixir of Demon Slaying
+Hash: 95AEED23, Key: MaterialAmount, Value: 250/15
+Hash: A0BA0B6C, Key: CostToCraft, Value: Cost to Craft: 1,000
+Hash: AE73B296, Key: YourAvailableGold, Value: Your Available Gold: 100,000
+Hash: 98646AA2, Key: CountDownTimer, Value: 4s
+Hash: 148347A1, Key: ClanTestName02, Value: Singing Janitors
+Hash: 9223E6A2, Key: ClanTestDescription, Value: This is the optional clan description. Aoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliqu
+Hash: 768D681F, Key: ClanTestMemberAndDateCreated, Value: 40 members • Created Jan 4, 2021 
+Hash: A53BEEE5, Key: NumOfFriendsInClan, Value: 8 Friends in this clan
+Hash: E44C073E, Key: ClanFriendsInClan, Value: Azmodan, Cassia, Chromie, Falstad, Fenix, Gall, Greymane, Gul'dan
+Hash: 0CD1AF75, Key: ph_map, Value: Journal not showing whilst collapsed is a known issue. 
+Hash: 956A5584, Key: AssignSkill, Value: {hotkey:Skills} to assign skills
+Hash: 60B6C999, Key: lan_korean_test, Value: 로봇마술사
+Hash: 1B46E45D, Key: UnlockRequirement, Value: Unlocks at {s1}
+Hash: 23FE39EE, Key: HeaderText, Value: HeaderText
+Hash: 38668F18, Key: SubheaderText, Value: Subheader Text
+Hash: 6402F214, Key: FooterText, Value: Footer Text
+Hash: F2F38E96, Key: RequirementText, Value: Requirement Text
+Hash: 001BB116, Key: 100%, Value: 100%
+Hash: 367DDD77, Key: 9999/9999, Value: 9999/9999
+Hash: 0072892A, Key: NewLabel, Value: 
+Hash: D60DE52E, Key: Credits, Value: {c:FFe3e0d9}CREDITS PLACEHOLDER{/c}
+{c:FFba1916}Diablo IV{/c}
+
+{c:FFdba864}DEPARTMENT{/c}
+{c:FFe2cfb1}Placeholder Name{/c}
+
+{c:FFdba864}DEPARTMENT{/c}
+{c:FFe2cfb1}Placeholder Name{/c}
+
+{c:FFdba864}DEPARTMENT{/c}
+{c:FFe2cfb1}Placeholder Name{/c}
+
+{c:FFdba864}DEPARTMENT{/c}
+{c:FFe2cfb1}Placeholder Name{/c}
+
+{c:FFdba864}DEPARTMENT{/c}
+{c:FFe2cfb1}Placeholder Name{/c}
+
+{c:FFdba864}DEPARTMENT{/c}
+{c:FFe2cfb1}Placeholder Name{/c}
+
+{c:FFdba864}DEPARTMENT{/c}
+{c:FFe2cfb1}Placeholder Name{/c}
+
+{c:FFdba864}DEPARTMENT{/c}
+{c:FFe2cfb1}Placeholder Name{/c}
+
+
+
+Hash: 911BF786, Key: CreditsPH, Value: {c:FFe3e0d9}CREDITS PLACEHOLDER{/c}
+{c:FFba1916}Diablo IV{/c}
+Hash: 9B3DBC4F, Key: AffixRandom, Value: +1000 Random Affix Name Comes Here
+Hash: 9FB4AE96, Key: ClanTeset_MotD, Value: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+Hash: 086E8B61, Key: timer, Value: 12h 45m 45s
+Hash: D59A38AE, Key: SharedCampaign_PH, Value: Sharing Playername12's campaign
+Hash: 86697E0A, Key: QuestName_PH, Value: Very very very very  long quest name comes here
+Hash: A716DF2D, Key: Example_Prompt, Value: {icon:button2, 2.0} Replace string
+Hash: CC3C0A8F, Key: FlavorText, Value: [PH] Flavor text goes here. If you are seeing this, it means flavor text hasn't been added to this item yet
+Hash: 00020830, Key: WIP, Value: Work In Progress
+Hash: 00203BA4, Key: 9999, Value: 9999
+Hash: 580B3FB5, Key: UpgradeCostAmount, Value: Upgrade: {s1}
+Hash: 00000792, Key: 99, Value: 99
+Hash: 004158E0, Key: test, Value: Materials & Stats
+Hash: D8707BF3, Key: QuestName, Value: Quest Name Comes here
+Hash: 732CDC4E, Key: FullName_WorstCase, Value: WWWWWWWWWWWW ( {icon:PlatformIcon_PS, 2.0}  WWWWWWWWWWWWWWWW)
+Hash: 868299F0, Key: LastEdited_FullName_WorstCase, Value: Last Edited by WWWWWWWWWWWW ( {icon:PlatformIcon_PS, 2.0}  WWWWWWWWWWWWWWWW)
+Hash: C9411E60, Key: PlatformName_WorstCase, Value: {icon:PlatformIcon_PS, 2.0}  WWWWWWWWWWWWWWWW
+Hash: D5111BB8, Key: ClanLeaderWithString_WorstCase, Value: Clan Leader: WWWWWWWWWWWW ( {icon:PlatformIcon_PS, 2.0}  WWWWWWWWWWWWWWWW)
+Hash: 92933086, Key: PlatformName, Value: {icon:PlatformIcon_PS, 2.0}  precert2_test
+Hash: 4CB00AB9, Key: Copyright, Value: COPYRIGHT {icon:Copyright_Icon, 1.2} All Rights Reserved
+Hash: C4C4DDE8, Key: Copyright_Long, Value: This is where all the legal information would be present. This might get really long with a lot of W's.
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+Hash: 0427B05D, Key: 99999, Value: 99999
+Hash: E476CBA8, Key: SmallSingleCharacter, Value: .
+Hash: 03490013, Key: TQBF_TextOnly, Value: The quick brown fox jumps over the lazy dog
+Hash: CE2227A0, Key: lan_japanese_test, Value: これは非常に一般的な日本語の文になります。また、これは非常に長くなるため、テストするのに適しています
+Hash: 01B16B03, Key: lan_turkish_test, Value: Bu Japonca'da çok genel bir cümle olacak. Ayrıca bu gerçekten uzun olacak, bu yüzden test etmek iyi. Ayrıca daha rastgele şeyler eklemek istiyorum.
+Hash: 7CE26EB8, Key: lan_chinese_test, Value: 这将只是一个非常通用的日语句子。此外，这将非常长 因此可以对其进行测试。我还想添加更多随机的东西
+Hash: 1C566747, Key: lan_chinese_short_test, Value: 奖励：玩家头衔来了
+Hash: E23C84B4, Key: FundamentalRussian, Value: Основополагающий Вызов средства
+Hash: 148347A2, Key: ClanTestName03, Value: <LCF> Lilith's Conjured Familiars
+Hash: 97D98B7B, Key: ShowItemTooltip, Value: This is a placeholder tooltip. Hovering this item should show the corresponding item tooltip.
+Hash: 030A640C, Key: CheckboxText, Value: Checkbox condition text
+Hash: 6E192626, Key: FilterLabel, Value: [PH]Filter Label
+Hash: 3B6B1A92, Key: Results, Value: ({s1})
+Hash: 3956C4FF, Key: FilterOption, Value: [PH]Filter option entry
+Hash: 94885835, Key: EnchantQuestSample, Value: To unlock, complete {c_highlight}Sorcerer: Legacy of the Magi But Longer for Localization{/c} {icon:Marker_PriorityQuestAvailable, 2.5}.
+Hash: 9F4B1AC5, Key: PlatformName_WorstCase_NoIcon, Value: WWWWWWWWWWWWWWWW
+Hash: DD455B72, Key: BattleTag_WorstCase, Value: WWWWWWWWWWWW#9999
+Hash: 1D974212, Key: loretest, Value: Test lore - 'After the demon went silent, lorem ipsum dolor.'
+Hash: C9F2A05A, Key: goldamount, Value: 45,600 / 800,000,000
+Hash: 0CDF7890, Key: TransmogRussian, Value: трансмогрификации трансмогрификации
+Hash: D731720B, Key: CourtBug, Value: Ruins of Rakhat Keep: Inner Court
+Hash: A62DAD8A, Key: MultilineTestString, Value: Test string
+with multiple lines
+
+Hash: CF8DD677, Key: AffixStatRange, Value: +[88.8% - 88.8%]

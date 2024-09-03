@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: Summons of the Deathless
+Hash: 803B8057, Key: Phase20Description, Value: The Magistrate's been killed by his own, and with him our chance for interrogation. I should try to learn everything I can here regardless.
+Hash: ED76B060, Key: Callback19Header, Value: Speak with Erys
+Hash: D53BFF05, Key: Phase0Description, Value: Magistrate Oren is a cultist, trapping people and converting them into vampires. This hunter, Erys, wants me to join the search for him. The Magistrate's tricks end now.
+Hash: 1EADAE68, Key: Callback2Header, Value: Search for Magistrate Oren
+Hash: 74FC533C, Key: Phase25Description, Value: The Magistrate's been killed by his own, and with him our chance for interrogation. I should try to learn everything I can here regardless.
+Hash: 112E3759, Key: Callback30Header, Value: Investigate the area for a lead on the vampire cult
+Hash: 6274A1FB, Key: Phase33Description, Value: The Magistrate's been killed by his own, and with him our chance for interrogation. I should try to learn everything I can here regardless.
+Hash: 9211671E, Key: Callback35Header, Value: Explore Hallows' End
+Hash: 13BA663E, Key: Phase45Description, Value: While searching for clues on these vampires, I heard a voice call out to me. It seems to be leading me somewhere.
+Hash: 3158FF3E, Key: Callback44Header, Value: Speak with the Apparition
+Hash: 63196FBF, Key: Phase55Description, Value: While searching for clues on these vampires, I heard a voice call out to me. It seems to be leading me somewhere.
+Hash: 9AB9349F, Key: Callback90Header, Value: Fight off the Vampire Lord's minions
+Hash: 5091BE7E, Key: Phase63Description, Value: Magistrate Oren is a cultist, trapping people and converting them into vampires. This hunter, Erys, wants me to join the search for him. The Magistrate's tricks end now.
+Hash: 6FE82F7E, Key: Callback62Header, Value: Slay the vampires

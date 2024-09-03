@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: A Meeting of the Minds
+Hash: 0871A46B, Key: Toast, Value: Return to the Forsaken Chapel
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with your allies at the Forsaken Chapel
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: What are the next steps? I should meet with the others at the Forsaken Chapel and find out.
+Hash: D787DBC2, Key: Phase49Description, Value: A strange sandstorm seems to have whipped up around the chapel out of nowhere. Neyrelle went out into it to look for Taissa. I should find them.  
+Hash: E4525B4A, Key: Phase49OutsideSubzoneHeader, Value: Speak with Neyrelle outside the Forsaken Chapel
+Hash: 0F2FC79E, Key: Callback71Header, Value: Speak with Neyrelle
+Hash: D0E42560, Key: Phase74Description, Value: A strange sandstorm seems to have whipped up around the chapel out of nowhere. Neyrelle went out into it to look for Taissa. I should find them. 
+Hash: A71656A8, Key: Phase74OutsideSubzoneHeader, Value: Look for Taissa outside the Forsaken Chapel
+Hash: 9012F763, Key: Callback76Header, Value: Look for Taissa
+Hash: B1D3AB7C, Key: Phase43Description, Value: What are the next steps? I should meet with the others at the Forsaken Chapel and find out.
+Hash: FE047C44, Key: Phase43OutsideSubzoneHeader, Value: Meet your allies at the Forsaken Chapel
+Hash: 2A0770E5, Key: Callback78Header, Value: Speak with Neyrelle

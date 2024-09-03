@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What now?"
+Hash: E60800D3, Key: Line16.1BCB9E, Value: (gasp) Mother’s blood, the Hatred! Sankekur is down there, somewhere. We need his body intact, every piece!
+Hash: 3D03A640, Key: VoiceDir16.1BCB9E, Value: Breathtaken. Excited.
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: We'll have to be quick. This talisman will shield us from the Lord’s Hatred, but I can't say for how long.
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Excited. Itching to go.

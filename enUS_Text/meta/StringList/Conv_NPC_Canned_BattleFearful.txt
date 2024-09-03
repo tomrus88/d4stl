@@ -1,0 +1,96 @@
+Hash: 2C878A4E, Key: Line485.3F392, Value: Get them away!
+Hash: 13764091, Key: Line488.3F392, Value: Protect me!
+Hash: E4E06C2B, Key: Line491.3F392, Value: Can’t hold them off!
+Hash: 3BDC1198, Key: VoiceDir491.3F392, Value: Fearful, desperately fighting off enemies
+Hash: CF579ED2, Key: Line494.EDC78, Value: Get them away!
+Hash: B6465515, Key: Line497.EDC78, Value: Protect me!
+Hash: C19AA0E6, Key: Line500.EDC78, Value: Can’t hold them off!
+Hash: 18964653, Key: VoiceDir500.EDC78, Value: Fearful, desperately fighting off enemies
+Hash: A889572A, Key: Line503.EDC79, Value: Get them away!
+Hash: 8F780D6D, Key: Line506.EDC79, Value: Protect me!
+Hash: 7666C3B0, Key: Line509.EDC79, Value: Can’t hold them off!
+Hash: CD62691D, Key: VoiceDir509.EDC79, Value: Fearful, desperately fighting off enemies
+Hash: 444872C3, Key: Line512.3F381, Value: Get them away!
+Hash: 2B372906, Key: Line515.3F381, Value: Protect me!
+Hash: 1225DF49, Key: Line518.3F381, Value: Can’t hold them off!
+Hash: 692184B6, Key: VoiceDir518.3F381, Value: Fearful, desperately fighting off enemies
+Hash: E7188793, Key: Line521.EDC7B, Value: Get them away!
+Hash: CE073DD6, Key: Line524.EDC7B, Value: Protect me!
+Hash: B4F5F419, Key: Line527.EDC7B, Value: Can’t hold them off!
+Hash: 0BF19986, Key: VoiceDir527.EDC7B, Value: Fearful, desperately fighting off enemies
+Hash: 86601FB4, Key: Line530.EDC7C, Value: Get them away!
+Hash: 6D4ED5F7, Key: Line533.EDC7C, Value: Protect me!
+Hash: 543D8C3A, Key: Line536.EDC7C, Value: Can’t hold them off!
+Hash: AB3931A7, Key: VoiceDir536.EDC7C, Value: Fearful, desperately fighting off enemies
+Hash: 3ADC9E9B, Key: Line539.B79B0, Value: Get them away!
+Hash: 0C46CA35, Key: Line542.B79B0, Value: Protect me!
+Hash: F3358078, Key: Line545.B79B0, Value: Can’t hold them off!
+Hash: 4A3125E5, Key: VoiceDir545.B79B0, Value: Fearful, desperately fighting off enemies
+Hash: DA73DA6E, Key: Line548.EDC74, Value: Get them away!
+Hash: ABDE0608, Key: Line551.EDC74, Value: Protect me!
+Hash: 92CCBC4B, Key: Line554.EDC74, Value: Can’t hold them off!
+Hash: E9C861B8, Key: VoiceDir554.EDC74, Value: Fearful, desperately fighting off enemies
+Hash: 79BB728F, Key: Line557.EDC75, Value: Get them away!
+Hash: 4B259E29, Key: Line560.EDC75, Value: Protect me!
+Hash: 3214546C, Key: Line563.EDC75, Value: Can’t hold them off!
+Hash: 890FF9D9, Key: VoiceDir563.EDC75, Value: Fearful, desperately fighting off enemies
+Hash: 18B366FC, Key: Line566.B79B1, Value: Get them away!
+Hash: FFA21D3F, Key: Line569.B79B1, Value: Protect me!
+Hash: D10C48D9, Key: Line572.B79B1, Value: Can’t hold them off!
+Hash: 2807EE46, Key: VoiceDir572.B79B1, Value: Fearful, desperately fighting off enemies
+Hash: B84AA2D0, Key: Line575.EDC76, Value: Get them away!
+Hash: 9F395913, Key: Line578.EDC76, Value: Protect me!
+Hash: 70A384AD, Key: Line581.EDC76, Value: Can’t hold them off!
+Hash: C79F2A1A, Key: VoiceDir581.EDC76, Value: Fearful, desperately fighting off enemies
+Hash: 57923AF1, Key: Line584.EDC77, Value: Get them away!
+Hash: 3E80F134, Key: Line587.EDC77, Value: Protect me!
+Hash: 0FEB1CCE, Key: Line590.EDC77, Value: Can’t hold them off!
+Hash: 66E6C23B, Key: VoiceDir590.EDC77, Value: Fearful, desperately fighting off enemies
+Hash: F68994B2, Key: Line593.B6757, Value: Get them away!
+Hash: DD784AF5, Key: Line596.B6757, Value: Protect me!
+Hash: C4670138, Key: Line599.B6757, Value: Can’t hold them off!
+Hash: 1B62A6A5, Key: VoiceDir599.B6757, Value: Fearful, desperately fighting off enemies
+Hash: D00B8B95, Key: Line602.EDC7D, Value: Get them away!
+Hash: B6FA41D8, Key: Line605.EDC7D, Value: Protect me!
+Hash: 9DE8F81B, Key: Line608.EDC7D, Value: Can’t hold them off!
+Hash: F4E49D88, Key: VoiceDir608.EDC7D, Value: Fearful, desperately fighting off enemies
+Hash: 6F5323B6, Key: Line611.EDC7E, Value: Get them away!
+Hash: 5641D9F9, Key: Line614.EDC7E, Value: Protect me!
+Hash: 3D30903C, Key: Line617.EDC7E, Value: Can’t hold them off!
+Hash: 942C35A9, Key: VoiceDir617.EDC7E, Value: Fearful, desperately fighting off enemies
+Hash: 0E4A80E5, Key: Line620.B6807, Value: Get them away!
+Hash: F5393728, Key: Line623.B6807, Value: Protect me!
+Hash: DC27ED6B, Key: Line626.B6807, Value: Can’t hold them off!
+Hash: 332392D8, Key: VoiceDir626.B6807, Value: Fearful, desperately fighting off enemies
+Hash: C366DEA0, Key: Line629.EDC7F, Value: Get them away!
+Hash: 94D10A3A, Key: Line632.EDC7F, Value: Protect me!
+Hash: 7BBFC07D, Key: Line635.EDC7F, Value: Can’t hold them off!
+Hash: D2BB65EA, Key: VoiceDir635.EDC7F, Value: Fearful, desperately fighting off enemies
+Hash: 62AE76AB, Key: Line638.EDC80, Value: Get them away!
+Hash: 3418A245, Key: Line641.EDC80, Value: Protect me!
+Hash: 1B075888, Key: Line644.EDC80, Value: Can’t hold them off!
+Hash: 7202FDF5, Key: VoiceDir644.EDC80, Value: Fearful, desperately fighting off enemies
+Hash: F75623D1, Key: Line701.BC3FE, Value: Get them away!
+Hash: DE44DA14, Key: Line704.BC3FE, Value: Protect me!
+Hash: C5339057, Key: Line707.BC3FE, Value: Can’t hold them off!
+Hash: 1C2F35C4, Key: VoiceDir707.BC3FE, Value: Fearful, desperately fighting off enemies
+Hash: 96D557C1, Key: Line710.EDC70, Value: Get them away!
+Hash: 7DC40E04, Key: Line713.EDC70, Value: Protect me!
+Hash: 64B2C447, Key: Line716.EDC70, Value: Can’t hold them off!
+Hash: BBAE69B4, Key: VoiceDir716.EDC70, Value: Fearful, desperately fighting off enemies
+Hash: 4BA17A8B, Key: Line719.EDC71, Value: Get them away!
+Hash: 1D0BA625, Key: Line722.EDC71, Value: Protect me!
+Hash: 03FA5C68, Key: Line725.EDC71, Value: Can’t hold them off!
+Hash: 5AF601D5, Key: VoiceDir725.EDC71, Value: Fearful, desperately fighting off enemies
+Hash: EAB176DB, Key: Line728.BC3FF, Value: Get them away!
+Hash: BC1BA275, Key: Line731.BC3FF, Value: Protect me!
+Hash: A30A58B8, Key: Line734.BC3FF, Value: Can’t hold them off!
+Hash: FA05FE25, Key: VoiceDir734.BC3FF, Value: Fearful, desperately fighting off enemies
+Hash: 8A30AACC, Key: Line737.EDC72, Value: Get them away!
+Hash: 5B9AD666, Key: Line740.EDC72, Value: Protect me!
+Hash: 42898CA9, Key: Line743.EDC72, Value: Can’t hold them off!
+Hash: 99853216, Key: VoiceDir743.EDC72, Value: Fearful, desperately fighting off enemies
+Hash: 297842ED, Key: Line746.EDC73, Value: Get them away!
+Hash: 1066F930, Key: Line749.EDC73, Value: Protect me!
+Hash: E1D124CA, Key: Line752.EDC73, Value: Can’t hold them off!
+Hash: 38CCCA37, Key: VoiceDir752.EDC73, Value: Fearful, desperately fighting off enemies

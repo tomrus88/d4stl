@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How has Donan been?"
+Hash: 5A196F77, Key: Line1.789BF, Value: Even more restless than before.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: contemplative
+Hash: C3380E71, Key: Line29.789BF, Value: He's lost a son, and inside his grief chips at him every moment he refuses to face it.

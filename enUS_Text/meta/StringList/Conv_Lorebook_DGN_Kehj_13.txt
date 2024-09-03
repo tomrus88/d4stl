@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: A well-creased invitation
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Creased Invitation
+Hash: 5D72A46E, Key: Line1.EDC7D, Value: Brothers and sisters of the Triune! You are hereby called upon to witness the unveiling of a new weapon in our fight to win Sanctuary.
+Hash: 915B9772, Key: Line5.EDC7D, Value: In a feat of necromantic expertise, our members have patched together a fearsome warrior, sculpted from the bodies of fallen legends.  The Cathedral boasts of their angel—we now have a contender.
+Hash: F7671DF0, Key: Line3.EDC7D, Value: He shall slumber until called upon. On the next blood moon, gather at the Altar and awaken him with us!

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you?"
+Hash: 8EFE61ED, Key: Line1.146C80, Value: A teacher… one who’s devoted his entire existence to preserving the lessons of Rathma, our first and greatest Necromancer. I’ve heard the spirits whispering of you. They say you’re a true friend of death and the shadows. Worthy of his greatest teaching.
+Hash: DF348DBA, Key: VoiceDir1.146C80, Value: Proud
+Hash: 67820BAF, Key: Line3.146C80, Value: Rathma understood death was a transformation, not an end. He saw the potential for transformation in all things, from a pile of bones with merely a spark of lingering life, to a cartload of raw iron born of the dead earth. From Rathma’s theories rose the Golems.
+Hash: B7B8377C, Key: VoiceDir3.146C80, Value: teacher mode. Informing the player
+Hash: 4005B571, Key: Line5.146C80, Value: It’s time I pass you this final secret and induct you into the ranks of Rathma's priesthood. You will need to collect unbroken bones to form the body of your Golem. Afterwards, I will instruct you further.
+Hash: 903BE13E, Key: VoiceDir5.146C80, Value: excited 

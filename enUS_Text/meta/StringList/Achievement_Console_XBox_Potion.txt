@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: First Aid
+Hash: 003892BF, Key: Desc, Value: Upgrade your Healing Potion to max tier. 

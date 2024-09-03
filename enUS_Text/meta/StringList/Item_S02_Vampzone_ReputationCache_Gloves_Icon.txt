@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Pack of Ghoul-Skin Gloves
+Hash: A646FFA4, Key: Description, Value: A collection of gloves used by Blood Lords.
+Hash: F5C7BC0A, Key: Flavor, Value: You can't help but wonder if there was a less disgusting material available to the Vampires.

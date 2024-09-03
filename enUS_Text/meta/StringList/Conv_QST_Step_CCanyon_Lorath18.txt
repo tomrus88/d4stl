@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happens now?"
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Bad news first. Genbar was expecting someone...seems Elias has turned others to his madness.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Grim. Observing. Contempt.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Taught them to summon too, I’d wager. You heard Genbar, “the Master has all he needs.” They’re about to do something drastic.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Grim. Observing. Foreboding.
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: And the good news?
+Hash: DD961907, Key: VoiceDir17.BAE4, Value: Heavy. Hoping there's an upside.
+Hash: C1F13152, Key: Line9.6D03F, Value: (scoff) Elias gave us a “gift,” remember?
+Hash: 30FA977F, Key: VoiceDir9.6D03F, Value: Slight sneer.
+Hash: A313225F, Key: Line15.6D03F, Value: This demon he sent to kill us...it is unique. It requires constant feeding—human sacrifices, in fact.
+Hash: F3494E2C, Key: VoiceDir15.6D03F, Value: Observing. Driving toward good news.
+Hash: D6FC1563, Key: Line19.6D03F, Value: If I cut open its belly, someone inside might hold a clue...tell us where it came from.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: Daring to hope.
+Hash: 5B6C043C, Key: Line21.6D03F, Value: I must have it brought to Ked Bardu for examination.
+Hash: ABA23009, Key: VoiceDir21.6D03F, Value: Terse. Time to work.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barding of Rathma
+Hash: A646FFA4, Key: Description, Value: Barding of iron and bone, stern and unyielding as should any priest of Rathma be.

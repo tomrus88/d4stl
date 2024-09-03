@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Epic Adventurer
+Hash: 003892BF, Key: Desc, Value: Reach Level 50 with every class in Hardcore Mode.
+Hash: 3DA450A0, Key: Crit_234510, Value: Barbarian
+Hash: 3DA45109, Key: Crit_234546, Value: Druid
+Hash: 3DA4510A, Key: Crit_234547, Value: Necromancer
+Hash: 3DA4510B, Key: Crit_234548, Value: Rogue
+Hash: 3DA4510C, Key: Crit_234549, Value: Sorcerer

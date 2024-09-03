@@ -1,0 +1,28 @@
+Hash: FA1B16B0, Key: Callback217Header, Value: Burn your sin
+Hash: 003DFCC1, Key: Name, Value: Rite of Passage
+Hash: 0871A46B, Key: Toast, Value: Head north to Kyovashad
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Accompany Lorath to Kyovashad
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: The hermit, a man named Lorath Nahr, claims the demon I saw in the chapel was none other than Lilith, the creator of Sanctuary! He has agreed to meet with the Cathedral of Light as requested, and so we head for Kyovashad.
+Hash: 803B8057, Key: Phase20Description, Value: The hermit, a man named Lorath Nahr, claims the demon I saw in the chapel was none other than Lilith, the creator of Sanctuary! He has agreed to meet with the Cathedral of Light as requested, and so we head for Kyovashad.
+Hash: 2584F77F, Key: Phase20OutsideSubzoneHeader, Value: Speak with Lorath
+Hash: 0BDB18BB, Key: Callback23Header, Value: Speak with Lorath
+Hash: 8828D241, Key: Phase39Description, Value: My entry into Kyovashad was prevented by a guardsman who demanded I participate in a cleansing ritual first. Lorath has gone ahead, but I'm left with no choice but to complete the ritual.
+Hash: 71A610A9, Key: Phase39OutsideSubzoneHeader, Value: Inscribe a sin into the piece of wood
+Hash: 63196FBF, Key: Phase55Description, Value: I've completed the cleansing ritual. The guard should have no reason to bar my way any further.
+Hash: 12CABBE7, Key: Phase55OutsideSubzoneHeader, Value: Speak with the guard
+Hash: 1D9AD41F, Key: Callback54Header, Value: Speak with the guard
+Hash: 9FEEC98D, Key: Phase152Description, Value: The hermit, a man named Lorath Nahr, claims the demon I saw in the chapel was none other than Lilith, the creator of Sanctuary! He has agreed to meet with the Cathedral of Light as requested, and so we head for Kyovashad.
+Hash: 7C34FD75, Key: Phase152OutsideSubzoneHeader, Value: Accompany Lorath to Kyovashad
+Hash: 3BF917D1, Key: Callback164Header, Value: Accompany Lorath to Kyovashad
+Hash: E40EA5F3, Key: Phase167Description, Value: The hermit, a man named Lorath Nahr, claims the demon I saw in the chapel was none other than Lilith, the creator of Sanctuary! He has agreed to meet with the Cathedral of Light as requested, and so we head for Kyovashad.
+Hash: 84222C9B, Key: Phase167OutsideSubzoneHeader, Value: Slay the Fallen
+Hash: D5ED9153, Key: Callback166Header, Value: Slay the Fallen
+Hash: DCC621CD, Key: Phase170Description, Value: The hermit, a man named Lorath Nahr, claims the demon I saw in the chapel was none other than Lilith, the creator of Sanctuary! He has agreed to meet with the Cathedral of Light as requested, and so we head for Kyovashad.
+Hash: BF739DB5, Key: Phase170OutsideSubzoneHeader, Value: Speak with Lorath
+Hash: 6176FE54, Key: Callback185Header, Value: Speak with Lorath
+Hash: A0939751, Key: Phase174Description, Value: The hermit, a man named Lorath Nahr, claims the demon I saw in the chapel was none other than Lilith, the creator of Sanctuary! He has agreed to meet with the Cathedral of Light as requested, and so we head for Kyovashad.
+Hash: 03A787B9, Key: Phase174OutsideSubzoneHeader, Value: Accompany Lorath to Kyovashad
+Hash: C22F6634, Key: Callback176Header, Value: Accompany Lorath to Kyovashad
+Hash: A1386515, Key: Phase196Description, Value: The hermit, a man named Lorath Nahr, claims the demon I saw in the chapel was none other than Lilith, the creator of Sanctuary! He has agreed to meet with the Cathedral of Light as requested, and so we head for Kyovashad.
+Hash: 8B1A11FD, Key: Phase196OutsideSubzoneHeader, Value: Accompany Lorath to Saint's Cross
+Hash: 4DB8D335, Key: Callback195Header, Value: Accompany Lorath to Father's Cross

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED9AC47, Key: Line1.125E21, Value: You’re on our turf.
+Hash: 675D560D, Key: Line3.125E25, Value: Funny. I was thinkin’ it could be ours if we killed the sad sots squattin’ in it.
+Hash: 3FE0FFCB, Key: Line5.125E21, Value: Last fool to try is still hanging by the docks. Now get the hell out of my face. Unless you’d care to join him?

@@ -1,0 +1,2 @@
+Hash: B547FF2B, Key: Buff17_Name, Value: Tal'Rasha's Tragedy
+Hash: 62FCE6CE, Key: Buff17_Description, Value: Damage is increased for each elemental attack.

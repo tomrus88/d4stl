@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Chapter 2 Reward Cache
+Hash: A646FFA4, Key: Description, Value: Contains a Helm, Chest, Boots, Herbs and 1000 Gold.

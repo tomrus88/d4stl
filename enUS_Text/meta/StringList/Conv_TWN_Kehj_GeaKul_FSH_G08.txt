@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 8ED9AC05, Key: Line1.125E01, Value: It was only his coin we wanted. Why’d he have to draw his sword like that?
+Hash: 675D55C7, Key: Line3.125E01, Value: Didn’t mean to kill him. Didn’t want to.
+Hash: B7938194, Key: VoiceDir3.125E01, Value: (teary)

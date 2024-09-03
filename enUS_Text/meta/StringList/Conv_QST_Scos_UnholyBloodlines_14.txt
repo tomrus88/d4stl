@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Una
+Hash: 5D72A43E, Key: Line1.EDC74, Value: I haven't told Lorcan, but every night I sneak out to a secluded place and try to unlock the totem.
+Hash: CC7C0A6B, Key: VoiceDir1.EDC74, Value: tired
+Hash: F7671DC0, Key: Line3.EDC74, Value: I barely sleep anymore, and when I do, I dream of running on all fours through the woods hunting the goatmen. They're calling to me.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Discarded Vials
+Hash: F2CA04D8, Key: NoticeSignText, Value: This outpost was abandoned in a hurry. Various magical implements are scattered about, abandoned despite their quality.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fractured Winterglass
+Hash: F5C7BC0A, Key: Flavor, Value: Winterglass refracts light and also manipulates mana - forming complex arrays of spells and enchantments. These distinct characteristics possess great power, yet the outcomes remain unpredictable.

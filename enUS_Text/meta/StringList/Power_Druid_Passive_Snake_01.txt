@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Obsidian Slam
+Hash: 003892BF, Key: desc, Value: Every {c_number}{SF_0}th{/c} kill will cause your next {c_important}Earth{/c} Skill to {c_important}{u}Overpower{/u}{/c}.
+Hash: 171B8FF7, Key: Buff4_Name, Value: Obsidian Slam
+Hash: 65A41A1A, Key: Buff4_Description, Value: Kills will lead to a guaranteed Overpower.
+Hash: 14C66756, Key: Buff3_Name, Value: Obsidian Slam: Overpower
+Hash: 16451099, Key: Buff3_Description, Value: Your next Earth Skill will Overpower.

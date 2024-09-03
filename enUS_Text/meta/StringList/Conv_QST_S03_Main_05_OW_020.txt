@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What now?"
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: Now we begin the real work. This is what I intend: to isolate the demon from the Loom, exorcise it, and kill it. I do not expect it to be easy, but I know it is possible.
+Hash: 4065B98F, Key: Line5.18AEA4, Value: Go to the Fractured Peaks, to the Vault nestled in the mountains. Find my engraving tools, bring them here. I will provide guidance along the way.

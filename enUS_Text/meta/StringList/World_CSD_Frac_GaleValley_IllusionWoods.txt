@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Darkened Holt
+Hash: 003892BF, Key: Desc, Value: An arcane mist shrouds these forested paths.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen a priest and a one-eyed swordsman recently?"
+Hash: 675CC5DA, Key: Line3.124D4B, Value: Tch. Lots of swordsmen come through 'ere, but that's a pair who sticks out.
+Hash: 3FE06F9C, Key: Line5.124D4B, Value: Can't say I've seen 'em. But someone must've. I'd keep askin'.

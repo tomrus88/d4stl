@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Rustic Bands
+Hash: 003DFCC1, Key: Name, Value: Unsung Ascetic's Wraps
+Hash: F5C7BC0A, Key: Flavor, Value: "The storm caller returns, day after day, demanding to meet the Tree. He beats his chest and demonstrates his powers, refusing to believe that he will never be chosen."
+- Excerpt from Gulyas' Diary

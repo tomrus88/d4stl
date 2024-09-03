@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Piled Scribblings
+Hash: F2CA04D8, Key: NoticeSignText, Value: "...I heard it in my sleep—a voice, echoing from down a long hallway. 'Malphas,' it said. And I knew my foe's name..."

@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Soul Counter
+Hash: C6E60718, Key: Buff2_Description, Value: Using a Defensive, Macabre, or Agility Skill will unleash the captured souls on enemies.

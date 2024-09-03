@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED91BE7, Key: Line1.124D41, Value: You stuffed it up for the last time! Where’s our coin?!
+Hash: DF0F47B4, Key: VoiceDir1.124D41, Value: Angry
+Hash: 675CC5AA, Key: Line3.124D42, Value: At the bottom of the accursed sea, ain’t it?
+Hash: B792F177, Key: VoiceDir3.124D42, Value: Angry
+Hash: 3FE06F6B, Key: Line5.124D41, Value: If you're unlucky enough to wake up tomorrow, you best figure out how to make up the money to us.
+Hash: 90169B38, Key: VoiceDir5.124D41, Value: Angry, but reserved
+Hash: 1864192E, Key: Line7.124D42, Value: Otherwise, mate, you're a dead man.
+Hash: 689A44FB, Key: VoiceDir7.124D42, Value: Angry, whispered

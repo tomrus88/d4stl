@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How's the flock?"
+Hash: 8EB202A8, Key: Line1.10094C, Value: Hmm, sheep's mighty talkative today. Could be rain on the winds.

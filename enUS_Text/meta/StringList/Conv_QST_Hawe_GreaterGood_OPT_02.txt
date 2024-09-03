@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Backwater is a town of miscreants, outcasts, and people who don't fit in anywhere else.
+Hash: 53777D8E, Key: Line4.10088C, Value: If you have problems and the right amount of coin, we’ll gladly relieve you of both.

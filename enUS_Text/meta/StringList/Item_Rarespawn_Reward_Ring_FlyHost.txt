@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Trembling Ring
+Hash: F5C7BC0A, Key: Flavor, Value: "Dearest Will, this ring is like my love for you. Both have no end. May this ring keep you safe and help keep me in your heart during your travels. - Lucya"
+- Inscription on the band

@@ -1,0 +1,4 @@
+Hash: CF08DED2, Key: simple_instruction_gameguide, Value: {c_highlight}Refunding{/c} skill points is free for the first {c_highlight}8{/c} Levels. The cost increases as you level up.
+Hash: 700F6595, Key: simple_instruction_controller_gameguide, Value: {c_highlight}Refunding{/c} skill points is free for the first {c_highlight}8{/c} Levels. The cost increases as you level up.
+Hash: 086EAA02, Key: title, Value: Refund
+Hash: 7BFE534B, Key: simple_instruction, Value: {c_highlight}Refund{/c} is free for the first {c_highlight}8{/c} Levels. The cost increases as you level up.

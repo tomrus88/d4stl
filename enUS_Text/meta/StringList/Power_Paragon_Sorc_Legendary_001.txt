@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Burning Instinct
+Hash: 003892BF, Key: desc, Value: Your Burning damage is increased by {c_number}[{SF_0} * 100|%x|]{/c} of your Critical Strike Damage Bonus, plus {c_number}[{SF_1} * 100|%x|]{/c} for every {c_number}{SF_2}{/c} Intelligence you have, up to {c_number}[{SF_7} * 100|x%|]{/c}.
+
+Current Burning Damage Bonus: {c_number}[{SF_6} * 100|%x|]{/c}

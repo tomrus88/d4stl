@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Torment
+Hash: 003892BF, Key: Desc, Value: Critical Strikes with {c_important}Bone{/c} Skills increase your Essence Regeneration by {c_random}[Affix_Value_1|1%x|]{/c} for {c_number}[Affix."Affix Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Critical Strikes with {c_important}Bone{/c} Skills increase your Essence Regeneration by {c_random}[Affix_Value_1|1%x|]{/c}.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blast-Trapper's
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Dealing damage to enemies affected by your {c_important}Trap{/c} Skills has a {c_random}[Affix_Value_1|%|]{/c} chance to cause an explosion that deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Shadow damage and applies {c_important}{u}Vulnerable{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Damaging enemies affected by {c_important}Trap{/c} Skills has a {c_random}[Affix_Value_1|%|]{/c} chance to cause an explosion and apply {c_important}{u}Vulnerable{/u}{/c}.

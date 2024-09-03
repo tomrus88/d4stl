@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Armor of the Wolf
+Hash: F2CA04D8, Key: NoticeSignText, Value: Armor dedicated to those who came before and those yet to come.

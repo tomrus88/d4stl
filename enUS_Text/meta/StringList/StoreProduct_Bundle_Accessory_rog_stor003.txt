@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Jester's Privilege
+Hash: A646FFA4, Key: Description, Value: "To mock a king, a glorious thing. But mind what is said, or off comes your head."
+Hash: 083EE0CE, Key: Quote, Value: Sometimes it's hard to have the last laugh.
+Hash: 13A53A8B, Key: Series, Value: "The Mad Jester" Accessories

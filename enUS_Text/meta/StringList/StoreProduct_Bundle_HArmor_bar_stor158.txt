@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hired Muscle
+Hash: A646FFA4, Key: Description, Value: The old ways are dead. To adhere to the noble code of the Barbarians is a fool's errand in these dark times. Ruthlessness and cruelty are the paths to the finer side of life in Sanctuary. Silks from Xiansai, jewels from Caldeum, and the finest caviars of Kingsport are all possible with muscle.
+Hash: 083EE0CE, Key: Quote, Value: "There's money to be made."
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

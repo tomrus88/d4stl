@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you need something?"
+Hash: 318A4C7C, Key: Line12.11E336, Value: Ah, yes. I was devastated to hear my uncle perished in Guulrahn. But he always told me I would inherit his ring should anything happen to him.
+Hash: 8885F1E9, Key: VoiceDir12.11E336, Value: Pretending to be emotionally choked up.
+Hash: 6764BB2C, Key: Line3.11E336, Value: I'm afraid I'm little use defending myself, but... if you could take me to search the ruins in Desolation's Reach, I'd be most grateful.
+Hash: B79AE6F9, Key: VoiceDir3.11E336, Value: Pretending to be sincere and earnest.
+Hash: 0A0DF63E, Key: Line14.11E336, Value: My family used to have a home there, and he buried it for safekeeping. Bit of a paranoid old man, really.
+Hash: 61099BAB, Key: VoiceDir14.11E336, Value: Pretending to be friendly, light-hearted. He's trying to befriend the player for his own means here.
+Hash: 04ADE391, Key: Line8.11E336, Value: Oh, thank you. I do hope it's still there. It would mean so much to me.
+Hash: 54E40F5E, Key: VoiceDir8.11E336, Value: Almost too sweet/sincere; he's deceiving the player here, as he has ulterior motives, but we don't want it to be overly obvious just yet.

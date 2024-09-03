@@ -1,0 +1,4 @@
+Hash: 268F0690, Key: Line17.BAE4.Sor.F, Value: I must rest.
+Hash: 578263F1, Key: Line18.BAE4.Sor.F, Value: I am out of stamina.
+Hash: 8875C152, Key: Line19.BAE4.Sor.F, Value: I need more stamina.
+Hash: 1F46826A, Key: Line20.BAE4.Sor.F, Value: My stamina is exhausted.

@@ -1,0 +1,21 @@
+Hash: ECA91225, Key: Staff001, Value: Sage's
+Hash: ECA91226, Key: Staff002, Value: Mentor's
+Hash: ECA91228, Key: Staff004, Value: Savant's
+Hash: ECA91227, Key: Staff003, Value: Academy
+Hash: ECA91229, Key: Staff005, Value: Magistrate's
+Hash: ECA9122A, Key: Staff006, Value: Knowledge
+Hash: ECA9122B, Key: Staff007, Value: Erudite
+Hash: ECA9122C, Key: Staff008, Value: Spellcaster's
+Hash: ECA9122D, Key: Staff009, Value: High Council's
+Hash: ECA91245, Key: Staff010, Value: Ambassador's
+Hash: ECA91246, Key: Staff011, Value: Folk
+Hash: ECA91247, Key: Staff012, Value: Prodigy
+Hash: ECA91248, Key: Staff013, Value: Elder
+Hash: ECA91249, Key: Staff014, Value: Diplomacy
+Hash: ECA9124A, Key: Staff015, Value: Scholar's
+Hash: ECA9124B, Key: Staff016, Value: Adept's
+Hash: ECA9124C, Key: Staff017, Value: Doyen's
+Hash: ECA9124D, Key: Staff018, Value: Occult
+Hash: ECA9124E, Key: Staff019, Value: Black Magic
+Hash: ECA91266, Key: Staff020, Value: Arcane
+Hash: ECA91267, Key: Staff021, Value: The

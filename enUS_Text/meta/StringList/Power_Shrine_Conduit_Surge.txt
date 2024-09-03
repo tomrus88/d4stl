@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Surge
+Hash: 003892BF, Key: desc, Value: Burst through a target enemy, dealing {c_yellow}{payload:DAMAGE}{/c} damage in your wake.

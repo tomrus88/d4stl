@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Avenger
+Hash: EEB7912D, Key: AffixDesc, Value: Killing a monster enrages monsters near it after a short delay, making them deal more damage.

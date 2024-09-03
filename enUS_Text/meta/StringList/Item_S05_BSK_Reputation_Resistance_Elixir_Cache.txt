@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Vitriol Parcel
+Hash: A646FFA4, Key: Description, Value: Contains a number of the Vitriol Anointments as well as some gear and a few crafting mats.

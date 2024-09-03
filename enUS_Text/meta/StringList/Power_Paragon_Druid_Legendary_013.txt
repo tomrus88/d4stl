@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Inner Beast
+Hash: 003892BF, Key: desc, Value: After Shapeshifting, your Spirit costs are reduced by {c_number}[{SF_0}*100|%|]{/c} for {c_number}{SF_2}{/c} seconds, up to {c_number}[{SF_0}*100*{SF_1}|%|]{/c}. If you reach {c_number}{SF_1}{/c} stacks, this bonus resets and reduces the Cooldown of your {c_important}Ultimate{/c} Skill by {c_number}{SF_3}{/c} seconds.
+Hash: 101C1614, Key: Buff1_Name, Value: Inner Beast
+Hash: 7786FD97, Key: Buff1_Description, Value: You have {c_number}[{SF_0}*100|%|]{/c} reduced Spirit costs per stack.

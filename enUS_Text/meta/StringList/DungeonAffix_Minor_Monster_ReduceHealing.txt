@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Potion Breakers
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monster attacks from a distance increase the cooldown of your next potion by 0.75 seconds, up to 7 seconds.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monster attacks from a distance increase the cooldown of your next potion by 0.5 seconds, up to 6 seconds.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monster attacks from a distance increase the cooldown of your next potion by 025 seconds, up to 5 seconds.

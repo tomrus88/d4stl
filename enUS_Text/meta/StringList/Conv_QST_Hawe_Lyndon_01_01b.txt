@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm going to need more than that."
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: (laughs) But of course you are.
+Hash: BAE63743, Key: Line18.10088C, Value: Fine, you'll be a bodyguard. My bodyguard, to be more specific.
+Hash: 3FE06F6A, Key: Line5.124D40, Value: Why is this the first I'm hearing of this?
+Hash: 183CFC31, Key: Line7.10088C, Value: Eh, I need you here, Orton. To keep everyone in line. I shall take care of the rest.
+Hash: F0E7C2EE, Key: Line9.124D40, Value: You remember the last time you did a deal without me?
+Hash: 4519651C, Key: Line11.10088C, Value: Of course I do. And I do believe I've paid up for that bet.

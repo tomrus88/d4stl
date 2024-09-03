@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hostage
+Hash: 3DC59C04, Key: Callback68Header, Value: Investigate the camp
+Hash: B8A227EA, Key: Callback4Header, Value: Survive the enemy assault
+Hash: 5E28741A, Key: Callback31Header, Value: Slay the remaining enemies
+Hash: E45EC27D, Key: Callback43Header, Value: Free the Hostages
+Hash: 22EDF2BD, Key: Callback61Header, Value: Keep at least one Hostage alive: {LEFT} Remaining

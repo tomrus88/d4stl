@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Delved Deep
+Hash: 3A4912CF, Key: DescShort, Value: Complete Artificer's Tier 21 or higher in The Pit, located at the Artificer's Obelisk in Cerrigar and activated with {icon:Icons_Quest_MiscTrinkets_RuneShards, 2.5} Runeshards

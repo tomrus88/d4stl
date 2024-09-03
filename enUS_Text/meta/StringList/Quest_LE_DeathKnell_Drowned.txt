@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Death Knell
+Hash: F2C9CEFE, Key: Callback26Header, Value: Claim your reward!
+Hash: D298E270, Key: Callback118Header, Value: Slay the remaining Drowned
+Hash: 995CD0CE, Key: Callback107Header, Value: Bells Destroyed: {DONE}
+Hash: B590DDE6, Key: Callback97Header, Value: Survive the Drowned assault
+Hash: 486BD940, Key: Callback82Header, Value: Destroy the Drowned Bell
+Hash: EBAA2C2D, Key: Callback115Header, Value: Destroy {NEEDED} Drowned Bells before time runs out: {DONE_OVER_NEEDED}

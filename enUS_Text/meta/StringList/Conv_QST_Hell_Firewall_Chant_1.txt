@@ -1,0 +1,4 @@
+Hash: 5A202CB1, Key: Line1.6DE47, Value: (speaking Horadric)
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: /tahny sub thyˈleh kit dohs ./
+Hash: F414A633, Key: Line3.6DE47, Value: (gasp) Demons!
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Surprised. She stops chanting her spell when she sees demons coming through the fire.

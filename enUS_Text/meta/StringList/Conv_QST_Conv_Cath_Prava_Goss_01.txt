@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why did Inarius turn Donan away?”
+Hash: 5A157257, Key: Line1.710B6, Value: There is a time to act, and there is a time to sit in prayer and reflection.
+Hash: F409EBD9, Key: Line3.710B6, Value: Donan must learn this on his own. If he does, he will be welcome to stand with the Father in the battle to come.

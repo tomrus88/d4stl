@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Niche Carver
+Hash: 003892BF, Key: Desc, Value: Add a socket to an item.

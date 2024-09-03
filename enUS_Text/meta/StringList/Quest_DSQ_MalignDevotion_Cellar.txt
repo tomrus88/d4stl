@@ -1,0 +1,5 @@
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat Lakren
+Hash: ED76B060, Key: Callback19Header, Value: Investigate the crypt below the Lost Monument
+Hash: 112E3759, Key: Callback30Header, Value: Defeat the summoned demon
+Hash: 003DFCC1, Key: Name, Value: Malign Devotion
+Hash: D29F0719, Key: Callback12Header, Value: Inspect the Gospel of the Mother

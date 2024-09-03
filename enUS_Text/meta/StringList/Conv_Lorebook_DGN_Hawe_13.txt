@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Cultist Prayer Book
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Cultist Prayer Book
+Hash: 5D5936FA, Key: Line1.E7610, Value: I am not sure if our prisoners should be praised or pitied. They will have the honor to mate with our lords. The virile offspring should allow us the power we need to take back the camp from these heretics.
+Hash: F74DB07C, Key: Line3.E7610, Value: However, I do not envy them the process that will surely be deadly. Service demands sacrifice.

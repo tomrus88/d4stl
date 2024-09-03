@@ -1,0 +1,22 @@
+Hash: 003DFCC1, Key: Name, Value: An Unforeseen Visit
+Hash: 0871A46B, Key: Toast, Value: Find the Horadrim known as Donan in Scosglen
+Hash: D53BFF05, Key: Phase0Description, Value: I have ventured to Scosglen to find the Horadrim known as Donan, and tell him of Lilith's presence.
+Hash: 1EADAE68, Key: Callback2Header, Value: Find Donan in Eldhaime Keep
+Hash: 4FECF0BA, Key: Phase41Description, Value: I have ventured to Scosglen to find the Horadrim known as Donan, and tell him of Lilith's presence.
+Hash: FD700C3A, Key: Callback40Header, Value: Speak with the guard
+Hash: 75A12100, Key: Phase47Description, Value: At the edge of Scosglen, guarding the path from the Fractured Peaks, I find myself at a fortification known as Eldhaime Keep. Donan is here. He commands this place?
+Hash: CB4D78C0, Key: Callback46Header, Value: Enter the keep
+Hash: C5A4F845, Key: Phase79Description, Value: At the edge of Scosglen, guarding the path from the Fractured Peaks, I find myself at a fortification known as Eldhaime Keep. Donan is here. He commands this place?
+Hash: 95661601, Key: Callback83Header, Value: Find Donan
+Hash: 8229E9A3, Key: Phase86Description, Value: Eldhaime Keep is home to a garrison of Knights Penitent. Donan must be their commander? I know he is here. Now to speak to him and deliver Lorath's message about Lilith and the peril her presence heralds.
+Hash: 164945C6, Key: Callback88Header, Value: Speak with Donan
+Hash: 3EAEDB01, Key: Phase93Description, Value: I have ventured to Scosglen to find the Horadrim known as Donan, and tell him of Lilith's presence.
+Hash: 1B9C6464, Key: Callback95Header, Value: Speak to the watch commander
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find Donan at Eldhaime Keep
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Lorath has asked me to go to Scosglen and find the Horadrim known as  Donan. I'm to deliver a message to tell him of Lilith's presence and the peril that brings.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Find Donan in Eldhaime Keep
+Hash: 5BEA8742, Key: Phase41OutsideSubzoneHeader, Value: Speak with the guard at Eldhaime Keep
+Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Enter the keep
+Hash: 3C573B2D, Key: Phase79OutsideSubzoneHeader, Value: Find Donan in the Keep
+Hash: BBDC964B, Key: Phase86OutsideSubzoneHeader, Value: Speak with Donan
+Hash: 3B61F169, Key: Phase93OutsideSubzoneHeader, Value: Speak to the watch commander at Eldhaime Keep

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Staring into the Abyss
+Hash: 003892BF, Key: Desc, Value: Complete a Tier 40 or higher of The Pit.

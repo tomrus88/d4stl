@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Heir to Transcendence
+Hash: 3A4912CF, Key: DescShort, Value: Equip Ancestral Legendary items in every slot

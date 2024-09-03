@@ -1,0 +1,42 @@
+Hash: 08DC94E9, Key: TransmogUnlockedHeader, Value: Transmog Unlocked
+Hash: F4491C7E, Key: TransmogBodyText, Value: Visit the Wardrobe to view it 
+Hash: C58DD755, Key: DruidSkillUnlockedHeader, Value: Boon(s) Unlocked
+Hash: AD1CD285, Key: StableMasterUnlockedHeader, Value: {s1} purchased
+Hash: CC02551A, Key: StableMasterBodyText, Value: Go to your Inventory to view it
+Hash: E11FF19F, Key: DruidSkillUnlockedBodyText, Value: Activate your boon(s) from within the Spirit Boons panel.
+Hash: 070CB100, Key: SkillAvailable, Value: Skill Available
+Hash: 0BD5F7A3, Key: SkillUnavailable, Value: Skill Unavailable
+Hash: 20F45433, Key: SkillAvailableBodyText, Value: {c_highlight}{s1}{/c} has been granted to you by an item. Equip it from your Abilities panel.
+Hash: 10DF8DD6, Key: SkillUnavailableBodyText, Value: Re-equip item to access Skill: {s1}
+Hash: 27EED5EC, Key: SkillAvailableMultiple, Value: Skills Available
+Hash: 17DA0F8F, Key: SkillUnavailableMultiple, Value: Skills Unavailable
+Hash: 6E34099E, Key: WeaponTransmogHeader, Value: Transmog Removed
+Hash: 90E5A723, Key: WeaponTransmogBody, Value: Transmog removed due to different weapon type
+Hash: D40C9A45, Key: SpiritBondingHeader, Value: Spirit Bonding Unlocked
+Hash: 8A5B308F, Key: SpiritBondingBodyText, Value: Talk to any spirit
+Hash: 4ABC91CD, Key: RecipeUnlockHeader, Value: Recipe Learned
+Hash: 3C005792, Key: RecipeUnlockBody, Value: {s1}: Go to the {s2} to craft this item
+Hash: 34E428C2, Key: SkillUnavailableBodyTextMultiple, Value: Re-equip item to access Skills
+Hash: A993FC1F, Key: SkillAvailableBodyTextMultiple, Value: Go to Skill Assignment to equip Skills
+Hash: 3931E130, Key: MountItemBody, Value: Go to the Stablemaster to equip it
+Hash: 4536BB18, Key: PlayerTitleHeader, Value: Player title received.
+Hash: A2B9B21D, Key: PlayerTitleBody, Value: Go to Character Profile to set your title.
+Hash: 546E78A0, Key: ItemUpgradeHeader, Value: {s1} upgraded
+Hash: E0546DA5, Key: ItemUpgradeBody, Value: {s1} Masterworked to Rank {s2}
+Hash: 40E76181, Key: MountBody, Value: Go to the Stable Master to select it
+Hash: 258DD37C, Key: MountHeader, Value: New Mount {s1}
+Hash: 2BF5A42B, Key: ItemUpgradeBodyMax, Value: {s1} fully upgraded
+Hash: 5A92639C, Key: ActionWheelHeader, Value: Wheel Updated
+Hash: C978ABA6, Key: ActionWheelBodyText, Value: Your changes have been saved.
+Hash: 35538A56, Key: ItemReceived, Value: Item Received
+Hash: A07B895B, Key: CraftedItems, Value: You crafted {s1} x{s2}
+Hash: AE2EE08D, Key: SkillAssignHeader, Value: Skill Assigned
+Hash: 762828D7, Key: SkillAssignBodyText, Value: A skill has been auto 
+assigned to the {c_highlight}Action Bar{/c}
+Hash: A44B5E69, Key: ExchangedItems, Value: You exchanged {s1} x{s2}
+Hash: B900B753, Key: SkillTreeRespecAcceptedHeader, Value: Skill Tree Updated
+Hash: 7CCAC91D, Key: SkillTreeRespecAcceptedBodyText, Value: Respec was successful
+Hash: BBB8331C, Key: RecipeLearnedHeader, Value: Recipe Learned
+Hash: EBB55921, Key: RecipeLearnedBody, Value: {s1} can now be used for Tempering
+Hash: 9522346D, Key: CompanionHeader, Value: New Pet
+Hash: BD5CD232, Key: CompanionBody, Value: Visit the {icon:Marker_Wardrobe, 2.5}Wardrobe to equip it

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this letter addressed to you."
+Hash: 8ED9AC39, Key: Line1.125E0E, Value: This thing looks like it's been through hell. Let's see what we've got.
+Hash: 675D55FB, Key: Line3.125E0E, Value: A damned invoice. Of course. This could have stayed lost, you know...
+Hash: 3FE0FFBD, Key: Line5.125E0E, Value: Ah, actually, I better get this paid. It's dangerous to be in debt around here. Thanks for your help.

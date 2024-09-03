@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Malignance Blooms
+Hash: F2C9CEFE, Key: Callback26Header, Value: Claim your reward!
+Hash: D298E270, Key: Callback118Header, Value: Slay the remaining enemies
+Hash: B590DDE6, Key: Callback97Header, Value: Survive the malignant assault
+Hash: 434AA62A, Key: Callback130Header, Value: Destroy Malignant Pustules before time runs out: {DONE}
+Hash: 486BD940, Key: Callback82Header, Value: Destroy the Malignant Pustule
+Hash: EBAA2C2D, Key: Callback115Header, Value: Destroy {NEEDED} Malignant Pustules: {DONE_OVER_NEEDED}

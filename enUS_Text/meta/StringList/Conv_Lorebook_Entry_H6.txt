@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Elias
+Hash: 5A44590A, Key: Line1.8DD12, Value: I forget that Rathma and Sanctuary both have two parents: Inarius and Lilith.
+Hash: F438D28C, Key: Line3.8DD12, Value: But humanity repulsed him and when Lilith took our side, he cast her into the void.
+Hash: 8E2D4C0E, Key: Line5.8DD12, Value: But she can...be summoned back...
+Hash: FD36B23B, Key: VoiceDir5.8DD12, Value: hesitant

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mark of Vampirism
+Hash: 3A4912CF, Key: DescShort, Value: Upgrade a Vampiric Power to Level 3 by consuming {icon:Icon_Potent_Blood_001, 2.5} Potent Blood, available after completing or skipping the Campaign

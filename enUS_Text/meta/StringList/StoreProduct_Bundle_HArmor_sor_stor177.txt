@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Siren of the Red Sands
+Hash: A646FFA4, Key: Description, Value: The Kehjistan desert is filled with corpses who braved the open sands. Those who survive will sometimes report hearing a jingling of coins and a sweet voice on the air, promising to lead them to safety. They were wise not to listen.
+Hash: 083EE0CE, Key: Quote, Value: Beware what glitters out on the dunes.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

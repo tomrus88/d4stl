@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Murmuring Cache
+Hash: A646FFA4, Key: Description, Value: Contains 50 Murmuring Obols.
+Hash: F5C7BC0A, Key: Flavor, Value: Eerie, ancient, possibly cursed: The murmuring obol is largely used in trade among collectors and occultists. So, naturally, an adventurer should carry plenty.

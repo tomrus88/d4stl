@@ -1,0 +1,23 @@
+Hash: 6874A292, Key: HowTo_Title, Value: How to earn rewards
+Hash: 7BBC8537, Key: Current_Tier_Title, Value: Current {s2} Rank: {c_number}{s1}{/c} 
+Hash: 3059CD63, Key: Next_Reward, Value: {c_number}{s1}{/c} {c_number_req}/ {s2}{/c}
+Hash: C3889E34, Key: Rewards_List_Title, Value: Rewards
+Hash: 9F8A43B0, Key: Tooltip_Header_RepRequired_NotEnough, Value: {c_highlight}Unlock requires {c_red}{s1}{/c} {s2} {/c}
+Hash: 2C13F433, Key: Tooltip_Header_RepRequired_Claimable, Value: {c_highlight}Unlock requires {c_green}{s1}{/c} {s2} {/c}
+Hash: 015EB686, Key: Tooltip_Header_Tier, Value: Tier {s1} Reward
+Hash: 4C74D3D6, Key: Tooltip_Reward_XP, Value: + {c_gold}{s1}{/c} Experience
+Hash: 5D80FE16, Key: BonusObjectives_Title, Value: Bonus Objectives
+Hash: 9E66DA39, Key: Tooltip_Reward_Currency, Value: + {c_gold}{s1} {/c_gold}{s2}
+Hash: 4D334F1E, Key: Repeatable_Infinity, Value: ∞
+Hash: 90D18C07, Key: Tooltip_Header_Repeatable, Value: Repeatable Reward
+Hash: 1FD04B3F, Key: Notification_LeveledUp_Tier, Value: Tier {s1}
+Hash: CC1256E5, Key: Notification_LeveledUp_RepeatableReward, Value: Reward Earned
+Hash: 8CFD1D69, Key: Tooltip_Autoclaim, Value: This reward is automatically claimed when reached.
+Hash: 72A5FFDF, Key: Tooltip_Repeatable, Value: This reward is infinitely repeatable.
+Hash: 93A77FBA, Key: Quest_Count, Value: {c_number}{s1}{/c}{c_number_req}/{s2}{/c}
+Hash: 1B4F753D, Key: Quest_InProgress, Value: {c_highlight}Quest currently in progress{/c}
+Hash: B2F5D10E, Key: Quest_Completed, Value: {c_green}Quest Completed{/c}
+Hash: C719EB85, Key: Quest_Blocked, Value: {c_highlight}Complete previous Quest to Start{/c}
+Hash: 349EA4AD, Key: SeasonalSideQuest, Value: Seasonal Side Quest
+Hash: 36770BFB, Key: RewardQuestDescription, Value: Receive a new Seasonal Side Quest
+Hash: 43EE2496, Key: Quest_Count_Completed, Value: {c_green}{s1}/{s2}{/c}

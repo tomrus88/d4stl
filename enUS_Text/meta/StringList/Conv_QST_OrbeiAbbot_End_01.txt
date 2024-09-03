@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Abbot! We need to leave, now!"
+Hash: 767E0BB7, Key: Line1.0, Value: No...I deserve to burn...with the rest of it.
+Hash: AD796364, Key: VoiceDir1.0, Value: Weak. Forlorn. Bleeding out.
+Hash: 65381056, Key: Line13.BAE4, Value: Where is Elias?
+Hash: D4417683, Key: VoiceDir13.BAE4, Value: Urgent. Pressing.
+Hash: 767E1CBB, Key: Line5.0, Value: Gone. He said...the ruin of Sanctuary was imminent and...only I could help.
+Hash: AD797468, Key: VoiceDir5.0, Value: Weak. Ashamed. Tearful.
+Hash: 767E253D, Key: Line7.0, Value: He is going to summon a Lesser Evil! He took...all he needed, and then...
+Hash: AD797CEA, Key: VoiceDir7.0, Value: Horrified. Ashamed. Tearful.
+Hash: 463FA8CE, Key: Line17.0, Value: My scholars...he murdered them, he--
+Hash: 5CA5F61B, Key: VoiceDir17.0, Value: Horror. Shame. Sorrow.

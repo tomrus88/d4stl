@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Istel's Begrudging Ally
+Hash: 003892BF, Key: Desc, Value: Completed every Journey objective in the Season of The Infernal.

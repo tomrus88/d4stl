@@ -1,0 +1,4 @@
+Hash: 8EDB2516, Key: Line1.1298F5, Value: It hurts! IT HURTS!
+Hash: DF1150E3, Key: VoiceDir1.1298F5, Value: Terrified, in horrible pain.
+Hash: F779CF43, Key: Line3.FEF63, Value: He's close!
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: Hurried. Said to someone standing next to you.

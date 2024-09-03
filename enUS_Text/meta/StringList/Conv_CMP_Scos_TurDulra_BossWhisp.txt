@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mysterious Voice
+Hash: 5D3B0EEF, Key: Line1.BC676, Value: Here, hatred burns eternal.
+Hash: CC44751C, Key: VoiceDir1.BC676, Value: Whisper

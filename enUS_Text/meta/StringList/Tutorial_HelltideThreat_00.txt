@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Helltide Threat
+Hash: 7BFE534B, Key: simple_instruction, Value: Conquer Helltide to build {c_highlight}Threat{/c} and attract increasingly perilous demonic ambushes.

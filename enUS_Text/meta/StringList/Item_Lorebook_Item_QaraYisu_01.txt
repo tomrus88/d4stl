@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Watchman's Log
+Hash: A646FFA4, Key: Description, Value: Written by a watcher of Qara-Yisu
+Hash: F5C7BC0A, Key: Flavor, Value: The cannibals took twelve more of us this week, but Elder Davan has finally gone to the mines. He will free the Ancient Spirit and we will claim its power. No one will threaten Qara Yisu again.

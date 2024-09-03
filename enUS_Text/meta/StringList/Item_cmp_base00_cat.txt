@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Natalya
+Hash: A646FFA4, Key: Description, Value: Using this item adds Natalya to your Companion collection in the Wardrobe.

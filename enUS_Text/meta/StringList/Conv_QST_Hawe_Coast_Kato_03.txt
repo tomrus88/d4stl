@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Kato bark 01
+Hash: 5D73B394, Key: Line1.EFA01, Value: There - I see him!
+Hash: CC7D19C1, Key: VoiceDir1.EFA01, Value: Mild relief
+Hash: F7682D16, Key: Line3.EFA01, Value: Flinn!
+Hash: 66719343, Key: VoiceDir3.EFA01, Value: Calling out, trying to get his attention

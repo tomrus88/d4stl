@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Found the hideout
+Hash: 7812AF1B, Key: Line8.BC41C, Value: You've done it! All right, weapons ready... follow me.
+Hash: E71C1548, Key: VoiceDir8.BC41C, Value: To Player. Excited, then bracing for battle.

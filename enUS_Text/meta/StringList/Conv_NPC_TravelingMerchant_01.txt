@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you?"
+Hash: 8ECE1D9E, Key: Line1.10BAC0, Value: A purveyor of exquisite goods and rare artifacts. You'll not find finer wares in all of Sanctuary.

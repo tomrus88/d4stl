@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The ring doesn't appear to be here."
+Hash: 2C2A39CF, Key: Line6.11E336, Value: Damn it! How can it not be here? I don't understand.
+Hash: 7C60659C, Key: VoiceDir6.11E336, Value: Grief-stricken and bewildered. He's quite upset they haven't found what they're looking for.
+Hash: D6CFB305, Key: Line19.54237, Value: Looking for this?
+Hash: 2705DED2, Key: VoiceDir19.54237, Value: Amused, bullying.
+Hash: B9C4E89C, Key: Line21.11E336, Value: Hey! That's mine. How--?
+Hash: 10C08E09, Key: VoiceDir21.11E336, Value: Indignant, almost childish
+Hash: F5341B60, Key: Line23.54237, Value: Overheard you outside Guulrahn going on and on about some priceless ring. Me and my boys had to see it for ourselves.
+Hash: 456A472D, Key: VoiceDir23.54237, Value: Gloating.
+Hash: C31187E6, Key: Line29.54237, Value: So what are you willing to give us for it?
+Hash: 1347B3B3, Key: VoiceDir29.54237, Value: Amused.
+Hash: 6ACC3C20, Key: Line25.11E336, Value: Excuse me. That ring belonged to my family. With my uncle gone, it's rightfully passed to me.
+Hash: C1C7E18D, Key: VoiceDir25.11E336, Value: Entitled, matter-of-factly.
+Hash: 291D0E64, Key: Line27.54237, Value: Is that so? Well then, I suppose I'll have to kill you so it can pass to me, eh? Get him.
+Hash: 79533A31, Key: VoiceDir27.54237, Value: Chuckling a bit to herself; she's made a little joke and is looking forward to the impending fight.

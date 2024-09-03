@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Seed to Evil
+Hash: 3A4912CF, Key: DescShort, Value: Collect Baneful Hearts by defeating Hellborne during {icon:Marker_Helltide, 2.5} Helltide in {icon:Icon_WorldTier_3, 2} Nightmare or higher

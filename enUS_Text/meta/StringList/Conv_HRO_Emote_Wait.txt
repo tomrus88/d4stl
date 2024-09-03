@@ -1,0 +1,10 @@
+Hash: 60DA1057, Key: Line11.BAE4.Bar, Value: Don't go any further.
+Hash: 6554C504, Key: VoiceDir11.BAE4.Bar, Value: Spoken as a command.  Short, not threatening.
+Hash: 60DA562A, Key: Line11.BAE4.Rog, Value: Don't go any further.
+Hash: 60DA1B0D, Key: Line11.BAE4.Dru, Value: Do not go any further.
+Hash: 60DA43D8, Key: Line11.BAE4.Nec, Value: Don't go any further.
+Hash: 60DA5A76, Key: Line11.BAE4.Sor, Value: Do not go any further.
+Hash: 7337041C, Key: Line19.BAE4, Value: Halt.
+Hash: E2406A49, Key: VoiceDir19.BAE4, Value: Spoken as a command.  Short, not threatening.
+Hash: BB86EF9B, Key: Line27.BAE4, Value: Wait.
+Hash: 2A9055C8, Key: VoiceDir27.BAE4, Value: Spoken as a command.  Short, not threatening.

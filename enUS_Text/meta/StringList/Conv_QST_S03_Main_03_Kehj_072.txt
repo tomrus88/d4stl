@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you need me to do?"
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: This hall is rigged with traps. They can be timed and avoided, but I doubt I would make it. Better if you throw the switch at the end of the hall, and I'll catch up.

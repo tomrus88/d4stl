@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Petal
+Hash: F5C7BC0A, Key: Flavor, Value: "Lilith's blood is soft to the touch, warm despite the cold. It reacts to you."

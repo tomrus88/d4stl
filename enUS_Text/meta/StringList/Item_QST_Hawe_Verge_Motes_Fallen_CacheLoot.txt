@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Unchained Zakarum Repository
+Hash: A646FFA4, Key: Description, Value: Grants items on use.
+Hash: F5C7BC0A, Key: Flavor, Value: A mysterious repository with chains that no longer bind it closed.

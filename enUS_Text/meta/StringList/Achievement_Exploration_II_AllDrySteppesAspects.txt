@@ -1,0 +1,23 @@
+Hash: 003DFCC1, Key: Name, Value: Dry Steppes Delver
+Hash: 003892BF, Key: Desc, Value: Collect all Legendary Aspects in Dry Steppes  by completing Dungeons or Salvaging Legendaries.
+Hash: 3DA4D8A3, Key: Crit_235404, Value: Aspect of Volatile Shadows
+Hash: 3DA4D8A4, Key: Crit_235405, Value: Aspect of Potent Blood
+Hash: 3DA4D8A5, Key: Crit_235406, Value: Aspect of Bursting Bones
+Hash: 3DA4D8A6, Key: Crit_235407, Value: Shepherd's Aspect
+Hash: 3DA4D8A7, Key: Crit_235408, Value: Rapid Aspect
+Hash: 3DA4D8A8, Key: Crit_235409, Value: Aspect of the Umbral
+Hash: 3DA4D8C0, Key: Crit_235410, Value: Aspect of the Iron Warrior
+Hash: 3DA4D8C1, Key: Crit_235411, Value: Aspect of Perpetual Stomping
+Hash: 3DA4D8C2, Key: Crit_235412, Value: Aspect of Might
+Hash: 3DA4D8C4, Key: Crit_235414, Value: Aspect of Biting Cold
+Hash: 3DA4D8C3, Key: Crit_235413, Value: Calm Breeze Aspect
+Hash: 3DA4D8C5, Key: Crit_235415, Value: Trickster's Aspect
+Hash: 3DA4D8C6, Key: Crit_235416, Value: Splintering Aspect
+Hash: 3DA4D8C7, Key: Crit_235417, Value: Aspect of the Bounding Conduit
+Hash: 3DA4D8C8, Key: Crit_235418, Value: Aspect of Berserk Ripping
+Hash: 3DA4D8C9, Key: Crit_235419, Value: Storm Swell Aspect
+Hash: 3DA4D8E1, Key: Crit_235420, Value: Elementalist's Aspect
+Hash: 3DA4D8E2, Key: Crit_235421, Value: Aspect of Mending Stone
+Hash: 3DA4D8E3, Key: Crit_235422, Value: Aspect of Retaliation
+Hash: 3DA4D8E4, Key: Crit_235423, Value: Ravenous Aspect
+Hash: 3DA4D8A2, Key: Crit_235403, Value: Aspect of Unstable Imbuements

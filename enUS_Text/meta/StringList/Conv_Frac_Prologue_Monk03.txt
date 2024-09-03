@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What were you doing in Nevesk?"
+Hash: 091FC7AD, Key: Line13.6F0BE, Value: Looking for the town priest. He stopped sending tithes, and I came to find out why.
+Hash: A314412F, Key: Line15.6F0BE, Value: As I neared the village, I sensed darkness around the ruins. I went to investigate. Found the priest’s body... demons...
+Hash: F34A6CFC, Key: VoiceDir15.6F0BE, Value: Haunted as he talks about finding the body and demons
+Hash: 5A206A1A, Key: Line1.6F0BE, Value: Foolishly, I took shelter in Nevesk and ate their food. You know the rest...
+Hash: C929D047, Key: VoiceDir1.6F0BE, Value: Upset with himself for being trusting/naive

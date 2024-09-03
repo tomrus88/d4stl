@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Silver Spirit Armwraps
+Hash: 13A53A8B, Key: Series, Value: "Spirit of the Silver Fog"

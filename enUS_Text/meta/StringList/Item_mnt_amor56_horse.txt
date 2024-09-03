@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fresh Meaty Barding
+Hash: A646FFA4, Key: Description, Value: Handled by the Butcher himself, this tack will never spoil. The mystery of its make remains; perhaps it was meant to dress a meal.

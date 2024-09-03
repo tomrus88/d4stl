@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Hangman's Garden
+Hash: 3A4912CF, Key: DescShort, Value: Collect Gallowvine, found nearly anywhere

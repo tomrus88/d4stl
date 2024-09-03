@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "We meet at last."
+Hash: 5A28225E, Key: Line1.8243F, Value: Aye, I've waited for one such as you. A proven warrior who knows honor and glory. You may not be of the tribe, but your deeds make you kin nonetheless.
+Hash: C931888B, Key: VoiceDir1.8243F, Value: You have done much to aid my tribe in such a trying time, and they have no doubt asked much of you already.
+Hash: F41C9BE0, Key: Line3.8243F, Value: Far has the call of the ancients brought me. Even now I can hear their words, offering redemption for our failures at Mount Arreat so long ago.
+Hash: 6326020D, Key: VoiceDir3.8243F, Value: We have traveled far to be here, only to be met with a series of bloody setbacks, which is why I have made a decision.
+Hash: 8E111562, Key: Line5.8243F, Value: Be my champion. Accompany me into the glacier. Help me gain the wisdom of the ancients, and give purpose to my broken people.
+Hash: FD1A7B8F, Key: VoiceDir5.8243F, Value: You are the one I have been waiting for, a champion of the tribe need not be of the tribe... a lesson we learned in Arreat, so I ask something colossal of you.

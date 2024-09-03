@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elemental Heart
+Hash: A646FFA4, Key: Description, Value: A pulsing core of elemental energy, kept close at hand while riding in the event of its need.

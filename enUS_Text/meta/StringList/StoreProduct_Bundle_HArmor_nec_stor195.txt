@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Void Jackal
+Hash: A646FFA4, Key: Description, Value: Prowl the depths of Sanctuary's darkest dungeons. Don the motif of the Jackal, and reap the treasures of the dead.
+Hash: 083EE0CE, Key: Quote, Value: A howl from the void.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

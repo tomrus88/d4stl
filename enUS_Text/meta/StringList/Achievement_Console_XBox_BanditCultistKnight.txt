@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Tortured Souls
+Hash: 003892BF, Key: Desc, Value: Kill 666 Bandits, Cultists, or Knights.
+Hash: 3DA55864, Key: Crit_236116, Value: Kill Bandits
+Hash: 3DA55865, Key: Crit_236117, Value: Kill Cultists
+Hash: 3DA55866, Key: Crit_236118, Value: Kill Knights

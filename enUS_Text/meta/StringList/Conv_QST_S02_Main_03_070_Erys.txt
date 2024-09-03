@@ -1,0 +1,2 @@
+Hash: 8F238278, Key: Line1.1697C7, Value: Take these supplies, and hurry. The vampires may hit your camp within the week.
+Hash: DF59AE45, Key: VoiceDir1.1697C7, Value: Compassionate.

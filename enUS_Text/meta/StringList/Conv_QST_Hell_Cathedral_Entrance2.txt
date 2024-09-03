@@ -1,0 +1,7 @@
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Something isn't right...
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: (under her breath, worried, suspicious)
+Hash: F414A633, Key: Line3.6DE47, Value: Mephisto led you to this moment. We're in his realm. Should we really be doing what he wants?
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: (under her breath, worried, suspicious)
+Hash: 8E091FB5, Key: Line5.6DE47, Value: Between him and Lilith, he is the greater evil...
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: (under her breath, worried, suspicious)
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: You want to use the stone on him?

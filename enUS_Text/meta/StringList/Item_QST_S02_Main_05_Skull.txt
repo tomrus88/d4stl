@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Profane Vampire Skull
+Hash: F5C7BC0A, Key: Flavor, Value: The skull of a powerful vampire. 

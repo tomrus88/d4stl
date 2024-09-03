@@ -1,0 +1,50 @@
+Hash: B6E91E08, Key: Title_61, Value: Prologue: Wandering
+Hash: E421521B, Key: CampaignCodexTitle_61, Value: Prologue
+Hash: 25E06A1A, Key: CampaignCodexName_61, Value: Wandering
+Hash: A8A57582, Key: CampaignCodexGroup154_Header, Value: Dusk on the Mountain
+Hash: 94E74A63, Key: CampaignCodexGroup155_Header, Value: Missing Pieces
+Hash: B6E91D69, Key: Title_17, Value: Act I: A Cold and Iron Faith
+Hash: E421517C, Key: CampaignCodexTitle_17, Value: Act I
+Hash: 25E0697B, Key: CampaignCodexName_17, Value: A Cold and Iron Faith
+Hash: 81291F44, Key: CampaignCodexGroup156_Header, Value: Ill Tidings
+Hash: 6D6AF425, Key: CampaignCodexGroup157_Header, Value: Pilgrimage
+Hash: 59ACC906, Key: CampaignCodexGroup158_Header, Value: Secrets of the Horadrim
+Hash: 45EE9DE7, Key: CampaignCodexGroup159_Header, Value: Beyond the Black Lake
+Hash: B6E91DE6, Key: Title_50, Value: Act II: The Knife Twists Again
+Hash: E42151F9, Key: CampaignCodexTitle_50, Value: Act II
+Hash: 25E069F8, Key: CampaignCodexName_50, Value: The Knife Twists Again
+Hash: 6C1A92FF, Key: CampaignCodexGroup160_Header, Value: Donan
+Hash: 585C67E0, Key: CampaignCodexGroup161_Header, Value: Encroaching Shadows
+Hash: 449E3CC1, Key: CampaignCodexGroup162_Header, Value: Feral Nature
+Hash: 30E011A2, Key: CampaignCodexGroup163_Header, Value: Ashen Legacy
+Hash: B6E91D66, Key: Title_14, Value: Act III: The Making of Monsters
+Hash: E4215179, Key: CampaignCodexTitle_14, Value: Act III
+Hash: 25E06978, Key: CampaignCodexName_14, Value: The Making of Monsters
+Hash: 1D21E683, Key: CampaignCodexGroup164_Header, Value: Ked Bardu
+Hash: 0963BB64, Key: CampaignCodexGroup165_Header, Value: Abahru Rift
+Hash: F5A59045, Key: CampaignCodexGroup166_Header, Value: Orbei Monastery
+Hash: E1E76526, Key: CampaignCodexGroup167_Header, Value: City of Blood and Dust
+Hash: CE293A07, Key: CampaignCodexGroup168_Header, Value: Volcano
+Hash: BA6B0EE8, Key: CampaignCodexGroup169_Header, Value: Elias' Palace
+Hash: 940CC9D2, Key: Title_100, Value: Act IV: A Gathering Storm
+Hash: 684B8045, Key: CampaignCodexTitle_100, Value: Act IV
+Hash: E1ED9824, Key: CampaignCodexName_100, Value: A Gathering Storm
+Hash: CCD8D8E1, Key: CampaignCodexGroup171_Header, Value: Prying the Eye
+Hash: B6E91E6E, Key: Title_94, Value: Act V: Secrets Bartered, Fates Sold
+Hash: E4215281, Key: CampaignCodexTitle_94, Value: Act V
+Hash: 25E06A80, Key: CampaignCodexName_94, Value: Secrets Bartered, Fates Sold
+Hash: B91AADC2, Key: CampaignCodexGroup172_Header, Value: Zarbinzet
+Hash: A55C82A3, Key: CampaignCodexGroup173_Header, Value: Echo of Hatred
+Hash: 919E5784, Key: CampaignCodexGroup174_Header, Value: Following Whispers
+Hash: 7DE02C65, Key: CampaignCodexGroup175_Header, Value: Mending the Stone
+Hash: 6A220146, Key: CampaignCodexGroup176_Header, Value: Sunken Temple
+Hash: 5663D627, Key: CampaignCodexGroup177_Header, Value: On the Precipice
+Hash: B6E91DE9, Key: Title_53, Value: Act VI: Dance of the Makers
+Hash: E42151FC, Key: CampaignCodexTitle_53, Value: Act VI
+Hash: 25E069FB, Key: CampaignCodexName_53, Value: Dance of the Makers
+Hash: 42A5AB08, Key: CampaignCodexGroup178_Header, Value: A Righteous Crusade
+Hash: 2EE77FE9, Key: CampaignCodexGroup179_Header, Value: The Burning Hells
+Hash: B6E91E2A, Key: Title_72, Value: Epilogue: From the Wound Spilled
+Hash: E421523D, Key: CampaignCodexTitle_72, Value: Epilogue
+Hash: 25E06A3C, Key: CampaignCodexName_72, Value: From the Wound Spilled
+Hash: 55137501, Key: CampaignCodexGroup180_Header, Value: Legacy of the Horadrim

@@ -1,0 +1,4 @@
+Hash: BCF47483, Key: Line9.BAE4.Nec.F, Value: I cannot equip this.
+Hash: 50C5BED0, Key: VoiceDir9.BAE4.Nec.F, Value: Spoken to oneself.  Matter of fact.
+Hash: CF8742CB, Key: Line10.BAE4.Nec.F, Value: This is not meant for me.
+Hash: DD81D6B8, Key: VoiceDir10.BAE4.Nec.F, Value: Spoken to oneself.  Matter of fact.

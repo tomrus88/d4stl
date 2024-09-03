@@ -1,0 +1,2 @@
+Hash: F77A459A, Key: Line3.FFA04, Value: Hey! I don't need eyes to hear you passing by me!
+Hash: 6683ABC7, Key: VoiceDir3.FFA04, Value: presumably a madman. shouts at everyone since he can't tell how far away they are (blind)

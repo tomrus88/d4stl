@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: A Serpent Cornered
+Hash: 0871A46B, Key: Toast, Value: Enter the Courts of Night and slay the Vampire Lord Zir. 
+Hash: C9FCD1EA, Key: Phase5Description, Value: Lord Zir's thralls have fallen. Now nothing stands between me and the vampire lord himself. Time to end this.
+Hash: B8A227EA, Key: Callback4Header, Value: Enter the City of the Ancients
+Hash: 8DCA476E, Key: Phase9Description, Value: I must meet Erys at the City of the Ancients. She will open the gate, but from there I must enter alone...and use Lord Zir's own power against him.
+Hash: 1F9943DA, Key: Callback13Header, Value: Meet Erys at the City of the Ancients
+Hash: 30DC76D6, Key: Phase10Description, Value: I felt my blood boil the moment I passed through the veil. Lord Zir's curse is trying to take hold. I have no choice but to press on and cut a path to his lair.
+Hash: 538236DE, Key: Callback17Header, Value: Approach the City of the Ancients
+Hash: 61CFD437, Key: Phase11Description, Value: Erys has opened the gate. I must pass through the veil of blood and begin the hunt for Lord Zir.
+Hash: ED76B060, Key: Callback19Header, Value: Enter the City of the Ancients

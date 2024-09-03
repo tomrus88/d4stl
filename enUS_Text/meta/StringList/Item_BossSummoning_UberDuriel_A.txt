@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Mucus-Slick Egg
+Hash: A646FFA4, Key: Description, Value: Merged in Gaping Crevasse in southern Kehjistan with Shard of Agony to summon a powerful enemy. Requires {c_number}2{/c}. Acquired from Malignant Burrow in World Tier 4: Torment only by the one who performs the summoning. 
+
+Drops randomly from World Bosses.
+Hash: F5C7BC0A, Key: Flavor, Value: A powerful, nascent being wriggles within.

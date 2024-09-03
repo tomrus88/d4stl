@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fleshrot Overgrowth
+Hash: A646FFA4, Key: Description, Value: Both life and death suffuse the swamps of Hawezar. There exists a rotting affliction that destroys animal flesh, yet promotes plant growth.
+Hash: 083EE0CE, Key: Quote, Value: Nature reclaims the barely living.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Let all things come to rot.
+Hash: 71E69F39, Key: Callback21Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: A5CF923D, Key: Callback25Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 5E28741A, Key: Callback31Header, Value: Deposit Animus into the {GIZMO}
+Hash: BCE26C3F, Key: Callback63Header, Value: Travel to the {LEVELAREA}

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Abandoned Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Abandoned Journal
+Hash: 59EA27DE, Key: Line1.3F392, Value: Mother Anica says the Light delivered us to these mines. She says... she says we were sent to do good work, to deliver good materials to the fine folk at Kor Valar. She says it’s part of the Father’s grand design.
+Hash: F3DEA160, Key: Line3.3F392, Value: (sigh) I’m faithful, truly I am. But to say this is the Father's work? Oh ho, I hear strange noises. I catch whiffs of a foul odor. And the structures?
+Hash: 8DD31AE2, Key: Line5.3F392, Value: We’ve found sharp wooden poles scattered throughout the tunnels. Obviously handmade, but not by us. Who made them? Hmm, why? And what is this place exactly?

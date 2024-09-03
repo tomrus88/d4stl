@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've seen what your power costs."
+Hash: 1BE26F83, Key: Line7.1BCB9E, Value: And we have seen the costs of your power. Killing Knights Penitent, serving the Tree of Whispers, desecrating the Black Tomb...
+Hash: 6C189B50, Key: VoiceDir7.1BCB9E, Value: Uncritical. Making a point.
+Hash: F4661945, Key: Line9.1BCB9E, Value: A trail of blood, death, and blasphemy—all for the good of Sanctuary.
+Hash: 449C4512, Key: VoiceDir9.1BCB9E, Value: Uncritical. Making a point.

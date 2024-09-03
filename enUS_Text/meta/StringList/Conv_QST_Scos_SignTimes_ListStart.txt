@@ -1,0 +1,2 @@
+Hash: 5D201CB4, Key: Line1.B20CF, Value: Let's get to it then.
+Hash: CC2982E1, Key: VoiceDir1.B20CF, Value: Confident

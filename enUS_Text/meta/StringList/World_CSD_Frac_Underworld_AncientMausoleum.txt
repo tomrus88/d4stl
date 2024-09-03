@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Necropolis of the Firstborn
+Hash: 003892BF, Key: Desc, Value: The first humans were laid to rest beyond the Black Lake.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cursed Scroll of Recklessness
+Hash: A646FFA4, Key: Description, Value: Increases movement speed by {c_yellow}40%{/c} for {c_yellow}15{/c} seconds, but deals {c_yellow}2%{/c} of your Maximum Life as bleed damage per second.
+
+{c_red}Only works in Fields of Hatred.{/c}

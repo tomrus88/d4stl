@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Nocturne of Steel"
+Hash: 003DFCC1, Key: Name, Value: Nocturnal Procession

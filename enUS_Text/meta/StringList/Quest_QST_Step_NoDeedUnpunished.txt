@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: No Deed Unpunished
+Hash: 0871A46B, Key: Toast, Value: Prevent the Triune from recruiting bandits near Onyx Watchtower.
+Hash: D53BFF05, Key: Phase0Description, Value: I found a letter detailing the Triune's efforts to recruit followers amongst the bandits of the Onyx Watchtower. I should find these cultists and put a stop to their plans.
+Hash: 1EADAE68, Key: Callback2Header, Value: Stop the cultists' recruiting efforts
+Hash: 5CD6EA0D, Key: Phase8Description, Value: The bodies indicate they were killed by the bandits they tried to convert. A blood trail leading away may indicate a survivor.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Look for survivors
+Hash: 8DCA476E, Key: Phase9Description, Value: I found the cultists dead in the bandit camp. I should check the bodies to see what happened.
+Hash: 85A4CA58, Key: Callback11Header, Value: Examine the corpses

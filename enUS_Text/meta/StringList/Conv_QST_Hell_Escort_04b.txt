@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "That was close."
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Bloody hell...
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Very winded from fighting, heavy breathing
+Hash: F414A633, Key: Line3.6DE47, Value: Lorath, are you--
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Concerned
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Just catching my breath.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Very winded from fighting, heavy breathing
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: I see the spire up ahead. Come on.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Winded, but wants to push on. 

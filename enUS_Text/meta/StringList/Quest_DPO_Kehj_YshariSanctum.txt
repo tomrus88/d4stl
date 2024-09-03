@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hate poisons the halls.
+Hash: 5296A16C, Key: Callback6Header, Value: Slay Emerus and collect the {ITEM}
+Hash: B8A227EA, Key: Callback4Header, Value: Travel to {LEVELAREA}
+Hash: EC8B1AEE, Key: Callback8Header, Value: Defeat the {MONSTER}
+Hash: 85A4CA58, Key: Callback11Header, Value: Use the Key to open the {GIZMO}
+Hash: 71E69F39, Key: Callback21Header, Value: Slay all enemies in the Occult Forums {KAM_REVEALED_COUNT}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spirit Anima
+Hash: A646FFA4, Key: Description, Value: Collect Spirit Anima to fulfill the exorcist's pledge.

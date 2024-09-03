@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spectral Charger
+Hash: CC38ADCB, Key: FlavorName, Value: A ghostly visage that still heeds the call of its master.

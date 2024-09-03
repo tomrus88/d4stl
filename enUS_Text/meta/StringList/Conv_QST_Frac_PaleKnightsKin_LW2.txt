@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What do you know about Light's Watch?"
+Hash: 5D28A524, Key: Line1.AAE2D, Value: Only that it was once a bastion of the Knights Penitent, the holy order of Cathedral knights who patrolled the roads, delivering the Light's justice to evil.
+Hash: CC320B51, Key: VoiceDir1.AAE2D, Value: admiration for the storied knights, almost naiive
+Hash: F71D1EA6, Key: Line3.AAE2D, Value: That is... until they marched away.
+Hash: 662684D3, Key: VoiceDir3.AAE2D, Value: but then reality hits. his mother was one of these knights who left on a holy march and never returned

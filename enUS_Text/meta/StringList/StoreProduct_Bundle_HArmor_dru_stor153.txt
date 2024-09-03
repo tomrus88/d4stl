@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ursa Noctua
+Hash: A646FFA4, Key: Description, Value: Created by unknown hands, Ursa Noctua is a mythical armor worn throughout the ages. Imbued with ancient knowledge, its hosts can harness the feral strength of the wilderness.
+Hash: 083EE0CE, Key: Quote, Value: The wilds teem with power and myth.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

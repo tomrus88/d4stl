@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How does Zarbinzet survive in a place so unforgiving?”
+Hash: 8ED96C35, Key: Line1.126500, Value: Crusaders used to keep us safe. But they’ve gone and started dying off. Folks are scared, looking to leave. Hell, so am I.
+Hash: 675D15F7, Key: Line3.126500, Value: We’ve survived, yes. But I’m not sure this place will hold out for much longer.

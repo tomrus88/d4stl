@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Let me have a look..."
+Hash: F414A633, Key: Line3.6DE47, Value: Any sign of it?
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Looking for the coffin in the distance
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Hmm. There’s something at the far end of those ships.
+Hash: 26CB1034, Key: VoiceDir5.BAE4, Value: Straining as they look. They think they spot the coffin floating at the far end of a line of shipwrecks.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: I see it too. We’ll have to cross the wreckage to reach it.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Confirming

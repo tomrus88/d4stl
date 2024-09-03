@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Inner Calm
+Hash: C6E60718, Key: Buff2_Description, Value: Damage increased significantly while standing still.

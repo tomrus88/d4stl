@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fate of all Magi
+Hash: A646FFA4, Key: Description, Value: Even the most learned of the magi have yet to conquer death. No matter how powerful, the call of the grave beckons us all.
+Hash: 083EE0CE, Key: Quote, Value: Inevitable demise.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Accessories

@@ -1,0 +1,22 @@
+Hash: 003DFCC1, Key: Name, Value: Picking Through the Bones
+Hash: 0871A46B, Key: Toast, Value: Find the coffin amongst the wrecks
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Traverse the shipwrecks with your allies
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We've found the coffin the Tree of Whispers spoke of, sitting among a massive collection of shipwrecks. Whatever Elias is hiding, somehow it's out there.
+Hash: 259D49BB, Key: Phase15Description, Value: We've found the coffin the Tree of Whispers spoke of, sitting among a massive collection of shipwrecks. Whatever Elias is hiding, somehow it's out there.
+Hash: 48199163, Key: Phase15OutsideSubzoneHeader, Value: Traverse the shipwrecks with your allies
+Hash: 36AC1DDC, Key: Callback51Header, Value: Search for the coffin beyond the wrecks with your allies
+Hash: B87761DE, Key: Phase18Description, Value: We've found the coffin the Tree of Whispers spoke of, sitting among a massive collection of shipwrecks. Whatever Elias is hiding, somehow it's out there.
+Hash: 3B4080E6, Key: Phase18OutsideSubzoneHeader, Value: Traverse the shipwrecks with your allies
+Hash: 538236DE, Key: Callback17Header, Value: Break down the waterlogged door
+Hash: B12EDDB8, Key: Phase21Description, Value: We've found the coffin the Tree of Whispers spoke of, sitting among a massive collection of shipwrecks. Whatever Elias is hiding, somehow it's out there.
+Hash: 7691F200, Key: Phase21OutsideSubzoneHeader, Value: Traverse the shipwrecks with your allies
+Hash: B23C2F03, Key: Callback49Header, Value: Save Neyrelle
+Hash: 4408F5DB, Key: Phase24Description, Value: Neyrelle has been seriously wounded by the Drowned that infest these crumbling shipwrecks!
+Hash: 69B8E183, Key: Phase24OutsideSubzoneHeader, Value: Speak with Neyrelle at the ship wrecks in Rotspill Delta
+Hash: 0BDB18BB, Key: Callback23Header, Value: Speak with Neyrelle
+Hash: D6E30DFE, Key: Phase27Description, Value: Lorath was forced to amputate Neyrelle's arm to prevent the Drowned necrosis from killing her. I must continue on to the coffin, and trust that he will take care of the poor girl.
+Hash: 5CDFD106, Key: Phase27OutsideSubzoneHeader, Value: Search for the coffin beyond the wrecks
+Hash: 6A9510E0, Key: Callback55Header, Value: Reach the coffin
+Hash: E36BD6A1, Key: Phase66Description, Value: Lorath was forced to amputate Neyrelle's arm to prevent the Drowned necrosis from killing her. I must continue on to the coffin, and trust that he will take care of the poor girl.
+Hash: D6840109, Key: Phase66OutsideSubzoneHeader, Value: Search for the coffin beyond the wrecks
+Hash: 0F2FC79E, Key: Callback71Header, Value: Inspect the coffin

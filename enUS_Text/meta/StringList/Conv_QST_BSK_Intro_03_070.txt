@@ -1,0 +1,4 @@
+Hash: A97D1E50, Key: Line22.1BCB9E, Value: Embrace me, Mother! My task will be done!
+Hash: 0078C3BD, Key: VoiceDir22.1BCB9E, Value: Desperate. Ecstatic. Prepared to die.
+Hash: 8200C812, Key: Line24.1BCB9E, Value: (screams)
+Hash: D8FC6D7F, Key: VoiceDir24.1BCB9E, Value: Agony. Taking the pain.

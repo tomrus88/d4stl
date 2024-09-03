@@ -1,0 +1,40 @@
+Hash: 003DFCC1, Key: Name, Value: What Lies Ahead
+Hash: 0871A46B, Key: Toast, Value: Find Mephisto's Essence in the Cathedral of Hatred and Confront Lilith
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Neyrelle in the Burning Hells
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must speak with Neyrelle and prepare to confront Lilith. There must be a way to find the daughter of Hatred.
+Hash: D53BFF05, Key: Phase0Description, Value: The Daughter of Hatred caught up to us, but I will buy Neyrelle all the time that she needs and finally face Lilith in battle.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Defeat Lilith in the Cathedral of Hatred
+Hash: 1EADAE68, Key: Callback2Header, Value: Defeat Lilith
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Approach the Throne in the Cathedral of Hatred
+Hash: B8A227EA, Key: Callback4Header, Value: Approach the Throne
+Hash: C3B68EF9, Key: Phase13Description, Value: The Daughter of Hatred caught up to us, but I will buy Neyrelle all the time that she needs and finally face Lilith in battle.
+Hash: A5FF9C61, Key: Phase13OutsideSubzoneHeader, Value: Defeat Lilith in the Cathedral of Hatred
+Hash: 803B8057, Key: Phase20Description, Value: Once again the Lord of Hatred offers his aid. But is this really the only way for us to stop Lilith's plan? We must venture to Cathedral of Hatred with Neyrelle to finish what we started.
+Hash: 2584F77F, Key: Phase20OutsideSubzoneHeader, Value: Enter Fiery Portal in the Burning Hells
+Hash: ED76B060, Key: Callback19Header, Value: Enter the Fiery Portal
+Hash: 1315987A, Key: Phase23Description, Value: Once again the Lord of Hatred offers his aid. But is this really the only way for us to stop Lilith's plan? We must venture to Cathedral of Hatred with Neyrelle to finish what we started.
+Hash: 18ABE702, Key: Phase23OutsideSubzoneHeader, Value: Find Mephisto in the Cathedral of Hatred
+Hash: BEE0DBFA, Key: Callback22Header, Value: Find Mephisto in the Cathedral of Hatred
+Hash: A5EFB09D, Key: Phase26Description, Value: The Essence of Mephisto is almost reborn, but we still have a chance to stop Lilith's plan. The time is now. I know that together with Neyrelle, we can succeed.
+Hash: 0BD2D685, Key: Phase26OutsideSubzoneHeader, Value: Speak to Neyrelle
+Hash: A5CF923D, Key: Callback25Header, Value: Speak to Neyrelle in the Cathedral of Hatred
+Hash: 3181449A, Key: Phase32Description, Value: I can't believe that Donan died in this cursed place. I must speak with Neyrelle now.
+Hash: 3A4B3722, Key: Phase32OutsideSubzoneHeader, Value: Speak with Neyrelle
+Hash: 45172A5D, Key: Callback34Header, Value: Speak with Neyrelle in the Burning Hells
+Hash: 38C9C8C0, Key: Phase29Description, Value: I escaped the nightmare and was able to join Lorath, Donan and Neyrelle who bravely defended my lifeless body when I was stuck in the nightmare.
+Hash: FEF9C608, Key: Phase29OutsideSubzoneHeader, Value: Speak to Neyrelle in the Burning Hells
+Hash: C94F0905, Key: Callback87Header, Value: Speak to Neyrelle
+Hash: 1EF99359, Key: Phase40Description, Value: Lilith is defeated... I can't believe we succeeded. I should return to Lorath now. Neyrelle should have already joined him.
+Hash: 0ADD8CC1, Key: Phase40OutsideSubzoneHeader, Value: Speak to Lorath in the Burning Hells
+Hash: CB4D78C0, Key: Callback46Header, Value: Speak to Lorath
+Hash: ACF781C3, Key: Phase42OutsideSubzoneHeader, Value: Defeat Lilith in the Cathedral of Hatred
+Hash: 83A65A9D, Key: Callback52Header, Value: Approach the Throne
+Hash: E2C708DD, Key: Phase44Description, Value: The Daughter of Hatred caught up to us, but I will buy Neyrelle all the time that she needs and finally face Lilith in battle.
+Hash: 4F1176C5, Key: Phase44OutsideSubzoneHeader, Value: Defeat Lilith in the Cathedral of Hatred
+Hash: 5183C723, Key: Callback58Header, Value: Defeat Lilith
+Hash: 5091BE7E, Key: Phase63Description, Value: I can't believe that Donan died in this cursed place. I must speak with Neyrelle now.
+Hash: E35D1186, Key: Phase63OutsideSubzoneHeader, Value: Find Neyrelle in the Burning Hells
+Hash: 6FE82F7E, Key: Callback62Header, Value: Find Neyrelle
+Hash: 9FF0C7FF, Key: Phase73Description, Value: Once again the Lord of Hatred offers his aid. But is this really the only way for us to stop Lilith's plan? We must venture to Cathedral of Hatred with Neyrelle to finish what we started.
+Hash: 56095C27, Key: Phase73OutsideSubzoneHeader, Value: Bring Neyrelle to Mephisto in the Cathedral of Hatred
+Hash: 5C2A045F, Key: Callback72Header, Value: Bring Neyrelle to Mephisto

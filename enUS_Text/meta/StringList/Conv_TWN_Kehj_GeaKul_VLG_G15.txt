@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED9AC9C, Key: Line1.125E3E, Value: Five... ten... twenty... should be enough for passage.
+Hash: 675D564C, Key: Line3.125E42, Value: (coughing) Where are we going, papa?
+Hash: 3FE10020, Key: Line5.125E3E, Value: Somewhere better, child. Somewhere safer, where you won’t get sick anymore.

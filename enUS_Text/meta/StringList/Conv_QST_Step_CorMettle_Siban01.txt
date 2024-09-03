@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem troubled."
+Hash: 8EB4BA1E, Key: Line1.1056EF, Value: It's my sons, Ordun and Khada. They used to work here with me in Ked Bardu, but then they got it in their heads to set up a new shop in Jirandai. You know how young men get when they're of age. Desperate to prove themselves.
+Hash: DEEAE5EB, Key: VoiceDir1.1056EF, Value: Pronounciation: Jeer-an-dye
+Hash: 451C204F, Key: Line11.1056EF, Value: If you are headed that way, would you mind checking up on them? The roads are so dangerous these days, and I haven't heard from them in so long.

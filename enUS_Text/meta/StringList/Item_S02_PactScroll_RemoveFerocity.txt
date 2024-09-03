@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cleansing Acid - Ferocity
+Hash: A646FFA4, Key: Description, Value: Removes two{icon:Vampire_Pact_Red_Icon, 2.3}Pacts of Ferocity from a piece of armor.

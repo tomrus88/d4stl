@@ -1,0 +1,47 @@
+Hash: 003DFCC1, Key: Name, Value: Lost Arts
+Hash: 0871A46B, Key: Toast, Value: Meet Donan in the Horadric Vault.
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Enter the Horadric Vault at Mistral Woods
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: After delivering Lorath's letter I've been asked to assist Donan with his research in the Horadric Vault.
+Hash: D53BFF05, Key: Phase0Description, Value: After delivering Lorath's letter I've been asked to assist Donan with his research in the Horadric Vault.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 1EADAE68, Key: Callback2Header, Value: Enter the Horadric Vault
+Hash: C9FCD1EA, Key: Phase5Description, Value: After delivering Lorath's letter I've been asked to assist Donan with his research in the Horadric Vault.
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: B8A227EA, Key: Callback4Header, Value: Speak with Donan
+Hash: E36BD6A1, Key: Phase66Description, Value: We've gathered all the research and items Donan says we will need for Lorath's plan. Will it be enough? No one knows for sure. For now we go back to the study to gather what remains.
+Hash: D6840109, Key: Phase66OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 56D6E5C1, Key: Callback65Header, Value: Speak with Neyrelle
+Hash: 6272A389, Key: Phase112Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: B183D2F1, Key: Phase112OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: B7C13929, Key: Callback111Header, Value: Open the study door
+Hash: F54CBBAC, Key: Phase115Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: A4AAC274, Key: Phase115OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: B5C2C96E, Key: Callback152Header, Value: Speak with Neyrelle
+Hash: E40EA5F3, Key: Phase167Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: 84222C9B, Key: Phase167OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: D5ED9153, Key: Callback166Header, Value: Bring Donan to his desks
+Hash: D186F4B2, Key: Phase175Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: 54B4823A, Key: Phase175OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 283AECB2, Key: Callback174Header, Value: Guard Donan
+Hash: 2C252B4E, Key: Phase180Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: 321FE856, Key: Phase180OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 904AC0ED, Key: Callback250Header, Value: Bring Donan to his desks
+Hash: 20E5FE33, Key: Phase185Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: C760CCDB, Key: Phase185OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: A408EC0C, Key: Callback240Header, Value: Clear out the spiders
+Hash: 7B8434CF, Key: Phase190Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: A4CC32F7, Key: Phase190OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 955FF158, Key: Callback189Header, Value: Guard Donan
+Hash: 0E5E4CF2, Key: Phase193Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: 97F3227A, Key: Phase193OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 66CA1CF2, Key: Callback192Header, Value: Bring Donan to his desks
+Hash: 7F47310A, Key: Phase203Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: 581A2192, Key: Phase203OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 8CF6120A, Key: Callback202Header, Value: Speak with Donan
+Hash: 9DB2DD2A, Key: Phase212Description, Value: We've gathered all the research and items Donan says we will need for Lorath's plan. Will it be enough? No one knows for sure. For now we go back to the study to gather what remains.
+Hash: 79B971B2, Key: Phase212OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 2C3DAA2A, Key: Callback211Header, Value: Return to the study
+Hash: 8826D3CF, Key: Phase118Description, Value: I should assist Donan with his research in the Horadric Vault.
+Hash: 97D1B1F7, Key: Phase118OutsideSubzoneHeader, Value: Assist Donan with his research in the Horadric Vault.
+Hash: 6579BBCC, Key: Callback222Header, Value: Follow Donan
+Hash: BEE09553, Key: Callback247Header, Value: Bring Donan to his desks

@@ -1,0 +1,4 @@
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: (pants) Well done...
+Hash: 75451B6B, Key: VoiceDir13.18AEA4, Value: Winded
+Hash: BB929E63, Key: Line18.18AEA4, Value: I'll be better... once we find Zoltun.
+Hash: 128E43D0, Key: VoiceDir18.18AEA4, Value: Catching breath. Focusing.

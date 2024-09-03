@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Wagered Honor
+Hash: 0871A46B, Key: Toast, Value: A wager between brothers has gone awry.
+Hash: 8DCA476E, Key: Phase9Description, Value: I killed the largest demon I could find and took its horn. I should return to Ewan and see if it large enough to win his wager. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Ewan
+Hash: 30DC76D6, Key: Phase10Description, Value: Ewan and his brother have a wager on who can claim the biggest demon horn. But with Ewan drunk at the inn, he’s hired me to hunt demons for him.
+
+Demons roam the Heroes Triumph where Astaroth was originally defeated. I should search there for a demon of adequate size. 
+Hash: D29F0719, Key: Callback12Header, Value: Retrieve a {ITEM}
+Hash: 6C93809B, Key: Callback14Header, Value: Hidden

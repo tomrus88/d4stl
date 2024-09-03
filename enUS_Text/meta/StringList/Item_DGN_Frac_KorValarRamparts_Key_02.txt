@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Stained Key
+Hash: A646FFA4, Key: Description, Value: Bound to Kor Valar Ramparts
+Hash: F5C7BC0A, Key: Flavor, Value: An old metal key branded with the remains of what looks like the Cathedral of Light sigil. Someone has attempted to cover over sigil on the key with an unknown substance.

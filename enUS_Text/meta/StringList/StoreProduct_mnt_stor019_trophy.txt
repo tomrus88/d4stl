@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Message of the Triune
+Hash: 13A53A8B, Key: Series, Value: "Three-fold Nightmare"

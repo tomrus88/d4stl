@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Numbing Wrath
+Hash: 003892BF, Key: Desc, Value: Each point of Fury generated while at Maximum Fury grants {c_random}[Max(1, Affix_Flat_Value_1)]{/c} {c_important}{u}Fortify{/u}{/c}.

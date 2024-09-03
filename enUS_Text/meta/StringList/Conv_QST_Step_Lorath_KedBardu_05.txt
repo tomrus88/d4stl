@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm here. What is next?"
+Hash: F00D5F20, Key: Line16.6D03F, Value: At last. Elias' pet demon is inside, ready for the knife.
+Hash: 40438AED, Key: VoiceDir16.6D03F, Value: Terse. Eager to get started
+Hash: AB32D334, Key: Line20.BAE4, Value: Could Elias know we survived his attack?
+Hash: 1A3C3961, Key: VoiceDir20.BAE4, Value: Concerned. Thinking.
+Hash: A86640FD, Key: Line22.6D03F, Value: Oh, he knows. And that means we are running out of time.
+Hash: F89C6CCA, Key: VoiceDir22.6D03F, Value: Projecting confidence. Grim determination.
+Hash: 425ABA7F, Key: Line24.6D03F, Value: Come. Let's see if his demon ate something useful.
+Hash: 9290E64C, Key: VoiceDir24.6D03F, Value: Projecting confidence. Grim determination.

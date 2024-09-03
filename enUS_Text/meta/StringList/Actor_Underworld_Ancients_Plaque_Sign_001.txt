@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Chalk Writing Over Ancient Symbols
+Hash: CC3C0A8F, Key: FlavorText, Value: "The Eternal Conflict"
+Hash: F2CA04D8, Key: NoticeSignText, Value: Lilith showed me the ugly truth of our cosmos. The Eternal Conflict. Angels and demons have battled over control of all creation for all time. To what end? I asked, and she simply laughed.

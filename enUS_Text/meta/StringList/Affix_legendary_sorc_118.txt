@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Recharging
+Hash: 003892BF, Key: Desc, Value: Each time {c_important}Chain Lightning{/c} bounces, gain {c_random}[Affix_Value_1|1|]{/c} Mana.

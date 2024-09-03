@@ -1,0 +1,7 @@
+Hash: D10A4E26, Key: LevelUpNotificationTitle, Value: Mother's Gift Waiting to Be Claimed
+Hash: 86AC49E7, Key: UIHeader, Value: The Mother's Gift
+Hash: 3CEFC1B1, Key: ReputationNameText, Value: The Mother's Gift
+Hash: 3546905B, Key: ReputationNPCFlavorText, Value: Mother's Triune
+Hash: 3B352C7C, Key: ReputationNPCConversationMenuLabel, Value: "I have gathered the Mother's Gift."
+Hash: 3FB6579C, Key: HowToEarnText, Value: {c_highlight}Mother's Gifts{/c} drop from slaying powerful servants of Hell, including {c_highlight}Elites{/c}, {c_highlight}Champions{/c}, {c_highlight}Hellborne{/c}, and {c_highlight}Bosses{/c}.
+Hash: A0AEE1F0, Key: BonusObjectiveRewardFormat, Value: {s1}

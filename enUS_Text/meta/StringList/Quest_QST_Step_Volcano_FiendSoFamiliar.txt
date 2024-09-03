@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Curious Curios
+Hash: 0871A46B, Key: Toast, Value: A curio collector seeks strange relics of the Overseers.
+Hash: D53BFF05, Key: Phase0Description, Value: I found an injured person searching for a strange relic, which may be hidden among the artifacts around the Searing Pools.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Search the Searing Pools for the relic
+Hash: 92C33198, Key: Phase12Description, Value: I've uncovered a strange relic that seems to hum with some strange darkness.
+Hash: D0A0975E, Key: Callback53Header, Value: Perform the gesture spell on the relic
+Hash: 75A12100, Key: Phase47Description, Value: I've gone to speak with a collector of curios named Rakhaan, who knows more about these strange and sinister relics.
+Hash: 5C2A045F, Key: Callback72Header, Value: Speak to Rakhaan

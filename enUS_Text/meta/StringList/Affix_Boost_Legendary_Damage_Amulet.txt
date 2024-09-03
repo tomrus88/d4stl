@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Damage
+Hash: 003892BF, Key: Desc, Value: You deal {c_number}x[Affix_Value_1*100|%|]{/c} increased damage.

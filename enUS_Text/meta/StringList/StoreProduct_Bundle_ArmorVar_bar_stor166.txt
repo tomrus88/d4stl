@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Might of Gorgos
+Hash: A646FFA4, Key: Description, Value: Stout warriors testing their blades against the evils of the snakemen and their thralls.
+Hash: 083EE0CE, Key: Quote, Value: Rage across the fetid swamps of Hawezar.
+Hash: 13A53A8B, Key: Series, Value: Barbarian Armor

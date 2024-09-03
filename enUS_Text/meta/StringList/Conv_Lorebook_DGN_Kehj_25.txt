@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Journal page
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Journal Page
+Hash: 5D7334EE, Key: Line1.EED6C, Value: Charinus,
+We’ve finally opened the tomb! Thousands of properly embalmed corpses, housed in stone coffins, undisturbed by soil.
+Hash: F767AE70, Key: Line3.EED6C, Value: Living hosts succumb within days. But these bodies are hardier. Multiple colonies of fly demons can thrive in them for months. Our work here is secure. Baal smiles upon us! 
+-Volanis

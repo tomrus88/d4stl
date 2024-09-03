@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Acts of Atonement
+Hash: 0871A46B, Key: Toast, Value: The mysterious Edgar suggested I find him in Gea Kul. 
+Hash: 44ADC39F, Key: Phase46Description, Value: Edgar was supposed to meet Suna, but she never arrived. I should ask around Gea Kul to see if anyone knows anything.
+Hash: 09DCA900, Key: Callback64Header, Value: Ask about Suna in Gea Kul
+Hash: 3E0A0D3D, Key: Phase71Description, Value: Edgar wants my help to rescue Suna from the Knights Penitent. I must present myself as an informant to keep them distracted.
+Hash: C2358ADD, Key: Callback70Header, Value: Speak with the Penitent guard
+Hash: EF4FD180, Key: Phase83Description, Value: Edgar wants my help to rescue Suna from the Knights Penitent.
+Hash: 486BD940, Key: Callback82Header, Value: Enter the house
+Hash: E410A465, Key: Phase88Description, Value: Edgar has extended an offer to meet him in Gea Kul.
+Hash: C94F0905, Key: Callback87Header, Value: Speak with Edgar 
+Hash: 028B1AA7, Key: Callback98Header, Value: Tell Edgar what you've learned
+Hash: 6AC6FC68, Key: Callback110Header, Value: Take {ITEM} from Edgar

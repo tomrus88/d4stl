@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: of the Long Shadow
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Your Shadow Damage Over Time effects have a {c_random}[Affix_Value_1|1%|]{/c} chance to generate {c_number}[Affix."Static Value 0"]{/c} Essence. 
+Damage from your {c_important}Shadowblight{/c} Key Passive will always generate {c_number}[Affix."Static Value 1"]{/c} Essence.
+Hash: 82B7D312, Key: CodexDesc, Value: Your Shadow Damage Over Time effects have a {c_random}[Affix_Value_1|1%|]{/c} chance to generate {c_number}[Affix."Static Value 0"]{/c} Essence.

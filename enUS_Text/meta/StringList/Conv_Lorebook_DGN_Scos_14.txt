@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Tale of Oldstones
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Tale of Oldstones
+Hash: 5D23008B, Key: Line1.B79B0, Value: 'Twas once a farmer lived in the muck, 
+Sowed a sacred field to change his luck, 
+Never once asked the land its blessing, 
+Oh nature’s wrath was quite distressing,
+Hash: CC2C66B8, Key: VoiceDir1.B79B0, Value: Not too dire or light--it's a grim fairy tale that parents might tell to their children
+Hash: F7177A0D, Key: Line3.B79B0, Value: From his seeds sprouted dust and hunger, 
+Beast and root tore his house asunder, 
+So it is even now we must bleed, 
+To right the wrong of that farmer’s greed.

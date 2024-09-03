@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: The nature of Sanctuary is chaos. Maeven of Kurast embraced this fact, and called out to the ancient forces that embody bedlam and turmoil. The gift: eldritch power. The cost: sanity, in becoming a vessel for whirling madness.
+Hash: 003DFCC1, Key: Name, Value: Nihil Sign
+Hash: 13A53A8B, Key: Series, Value: "The Host of Chaos"

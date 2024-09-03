@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “That man doesn’t seem so dangerous.” 
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Watch out. He's a biter.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Gruff, brutish

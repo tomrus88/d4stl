@@ -1,0 +1,4 @@
+Hash: 086EAA02, Key: title, Value: Exploring Sanctuary
+Hash: 3D08DF31, Key: 0_instruction, Value: {c_highlight}Waypoints allow you to fast travel{/c} freely across Sanctuary. Activate waypoints as you explore to expand your waypoint options.
+Hash: 8C67E8B2, Key: 1_instruction, Value: You can {c_highlight}earn Renown by completing various activities{/c} across the continent.
+Hash: DBC6F233, Key: 2_instruction, Value: Obtaining {c_highlight}Renown will grant rewards{/c} at certain thresholds. View the status of your Renown for each region from the Map {hotkey:Map}

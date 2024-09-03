@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Escape Artist's
+Hash: 003892BF, Key: Desc, Value: Upon taking damage from surrounding enemies, you drop a {c_important}Smoke Grenade{/c} and Dodge the next {c_random}[Affix_Value_1]{/c} attacks within {c_number}[Affix."Static Value 1"]{/c} seconds. Can only occur once every {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Upon taking damage you drop a {c_important}Smoke Grenade{/c} and Dodge the next {c_random}[Affix_Value_1]{/c} attacks.

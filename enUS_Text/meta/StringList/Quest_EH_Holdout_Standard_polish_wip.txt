@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Hold your Ground
+Hash: 36AC1DDC, Key: Callback51Header, Value: Talk to the Wanderer
+Hash: 3FC40BBF, Key: Callback27Header, Value: Protect the Wanderer
+Hash: 9F90DE2D, Key: Callback7Header, Value: Survive the enemy waves: {LEFT} left
+Hash: 2A0770E5, Key: Callback78Header, Value: Enter {EVENT_LEVELAREA}

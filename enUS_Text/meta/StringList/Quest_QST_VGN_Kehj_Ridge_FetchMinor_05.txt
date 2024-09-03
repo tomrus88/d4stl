@@ -1,0 +1,7 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay {MONSTER}
+Hash: 6C93809B, Key: Callback14Header, Value: Slay {MONSTER}
+Hash: B98DBD5C, Key: Callback15Header, Value: Slay {MONSTER}
+Hash: 003DFCC1, Key: Name, Value: Strayed from the Path
+Hash: 0871A46B, Key: Toast, Value: After the Cathedral’s purge on Tarsarak, blood will have blood.
+Hash: D53BFF05, Key: Phase0Description, Value: The Knights Penitent culled the town of Tarsarak looking for heretics. Ciniss lost his son during this purge. He hired me to hunt down some of the knights outside town and exact justice. 
+Hash: 68161728, Key: Phase3Description, Value: The Knights Penitent culled the town of Tarsarak looking for heretics. Ciniss lost his son during this purge. He hired me to hunt down some of the knights outside town and exact justice. 

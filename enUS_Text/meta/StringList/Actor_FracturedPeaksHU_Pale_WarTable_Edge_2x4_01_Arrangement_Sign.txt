@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: War Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: A map of Estuar, with a throng of red markers and arrows all pointing towards the fabled city of Caldeum. 

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D3BD028, Key: Line1.BCBF4, Value: Leave it, Mairi! You don't know what's been infected. The lighter our cart, the faster we can leave these forsaken lands behind us.
+Hash: F73049D7, Key: Line3.BCBFA, Value: I’ve lived here my whole life. I can’t just pick up as easy as you.
+Hash: 9124C32C, Key: Line5.BCBF4, Value: We'll make home wherever we are, love. This is just a place. A place that is dying and cursed.

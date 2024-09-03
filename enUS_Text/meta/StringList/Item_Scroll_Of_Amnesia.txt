@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scroll of Amnesia
+Hash: A646FFA4, Key: Description, Value: Refunds all of your allocated Skill Points and Paragon Points.

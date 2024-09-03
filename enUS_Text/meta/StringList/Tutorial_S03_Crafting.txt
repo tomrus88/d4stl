@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Seneschal Crafting
+Hash: 7BFE534B, Key: simple_instruction, Value: At the Jeweler, you can craft {c_highlight}Shattered Stones{/c} into useful {c_highlight}Governing Stones{/c} or {c_highlight}Tuning Stones{/c}.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: At the Jeweler, you can craft {c_highlight}Shattered Stones{/c} into useful {c_highlight}Governing Stones{/c} or {c_highlight}Tuning Stones{/c}.

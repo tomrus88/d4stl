@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Registered Damage Support
+Hash: A646FFA4, Key: Description, Value: Any damage caused from the supported Skill is registered. The registered damage explodes at {c_number}[Collectible_Power_Value_1#S03_Tuning_RegisterDamage*100]%{/c} effectiveness when the target dies as Fire damage.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Damage {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_RegisterDamage*100+2]%{/c}
+Hash: E971A20F, Key: Modifier, Value: Damage registered at {c_number}[Collectible_Power_Value_1#S03_Tuning_RegisterDamage*100]%{/c} effectiveness. Explodes on target death.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

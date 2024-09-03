@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here, drink this."
+Hash: 8EB381DA, Key: Line1.103087, Value: (sigh) I thought I could make it... to see Omath's stronghold.
+Hash: 67372B9C, Key: Line3.103087, Value: But this must be a sign. Akarat wants me to turn back.

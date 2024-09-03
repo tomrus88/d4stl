@@ -1,0 +1,2 @@
+Hash: 793C716F, Key: 1_desc, Value: Help Neyrelle open the way into the Black Lake.
+Hash: 7B919A10, Key: 2_desc, Value: Follow Lilith's trail through the Profaned Catacombs.

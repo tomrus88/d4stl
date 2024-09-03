@@ -1,0 +1,2 @@
+Hash: 5D71D84F, Key: Line1.ED393, Value: My father's pipe... it was practically a part of him. Now it's covered in cobwebs.
+Hash: CC7B3E7C, Key: VoiceDir1.ED393, Value: curious, bittersweet

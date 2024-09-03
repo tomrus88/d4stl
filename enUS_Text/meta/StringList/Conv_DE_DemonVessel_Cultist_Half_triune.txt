@@ -1,0 +1,4 @@
+Hash: DAB38EFD, Key: Line6.371E1, Value: This is what true power looks like. You will never have it.
+Hash: 49BCF52A, Key: VoiceDir6.371E1, Value: Hostile. Defiant.
+Hash: C20462C6, Key: Line9.7F064, Value: This is what true power looks like. You will never have it.
+Hash: 310DC8F3, Key: VoiceDir9.7F064, Value: Hostile. Defiant.

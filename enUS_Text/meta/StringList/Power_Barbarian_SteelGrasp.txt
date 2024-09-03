@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Steel Grasp
+Hash: 003892BF, Key: desc, Value: {if:SF_15}{c_label}Fury Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{/if}{if:SF_18}{c_label}Charges:{/c} {c_resource}{SF_9}{/c}
+{c_label}Charge Cooldown:{/c_label} {c_resource}{Recharge Time}{/c_resource} seconds
+{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Throw out a trio of chains that deal {c_number}{payload:DAMAGE}{/c} damage and Pull In enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:DAMAGE}{/c}
+{icon:bullet, 1.2} Charge Cooldown {icon:arrow, 1.2} {c_number}{Recharge Time}{/c} seconds
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Steel Grasp{/c} also makes enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}[{SF_6}|1|]{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Steel Grasp
+Hash: 1394CF37, Key: Mod4_Description, Value: If {c_important}Steel Grasp{/c} damages an enemy, gain {c_important}{u}Berserking{/u}{/c} for {c_number}{SF_7}{/c} seconds.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Fighter's Steel Grasp
+Hash: 62F3D8B8, Key: Mod5_Description, Value: {c_important}Steel Grasp{/c} gains {c_number}{SF_10}{/c} additional Charge.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Warrior's Steel Grasp

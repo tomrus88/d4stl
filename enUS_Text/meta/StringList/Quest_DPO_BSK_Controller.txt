@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: The Infernal Hordes
+Hash: 0871A46B, Key: Toast, Value: Gather Burning Aether from slain demons, defeat the Fell Council, and use Aether to claim your rewards.
+Hash: D53BFF05, Key: Phase0Description, Value: The hordes approach...
+Hash: 059C64AB, Key: Callback5Header, Value: Slay foes, collect Burning Aether, and conquer the Fell Council
+Hash: C63801AE, Key: Callback332Header, Value: Slay monsters to draw out Aether
+Hash: 4FB742F0, Key: Callback154Header, Value: Slay the remaining enemies
+Hash: 694A4715, Key: Callback429Header, Value: Approach the Fell Council
+Hash: 5C2637D4, Key: Phase285Description, Value: The hordes approach...
+Hash: 6FE7E8D7, Key: Callback287Header, Value: Slay the Aether Fiend to gain Aether
+Hash: 961F99F3, Key: Callback535Header, Value: Defeat the Fell Council
+Hash: FF7FCF54, Key: Callback581Header, Value: Infernal Hordes defeated
+Hash: 7B0FE07B, Key: Callback579Header, Value: Open the Council Gate

@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Return to Town
+Hash: 7BFE534B, Key: simple_instruction, Value: Your Town Portal will be closed once you leave town

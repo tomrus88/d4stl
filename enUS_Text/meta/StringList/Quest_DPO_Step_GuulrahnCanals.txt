@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The rot will consume all.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Destroy the Cocoon and the Corpse Pile: {LEFT}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Slay all enemies in the Offal Pits {KAM_REVEALED_COUNT}
+Hash: 5E28741A, Key: Callback31Header, Value: Travel to the {LEVELAREA}

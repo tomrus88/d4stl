@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Malphas
+Hash: F16F3B08, Key: Line9.18EDEB, Value: You see how beautiful. I have become.
+Hash: 41A566D5, Key: VoiceDir9.18EDEB, Value: basking in the attention

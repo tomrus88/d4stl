@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Road to Ruin
+Hash: 0871A46B, Key: Toast, Value: Mahjoob's "simple bite" has festered into something more.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Mahjoob
+Hash: D29F0719, Key: Callback12Header, Value: Slay the remaining fly demons
+Hash: 24EC6278, Key: Callback20Header, Value: Slay the onslaught of fly demons

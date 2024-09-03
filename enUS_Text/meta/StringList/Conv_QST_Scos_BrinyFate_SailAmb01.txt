@@ -1,0 +1,4 @@
+Hash: 90FBA04D, Key: Line5.A9C23, Value: Don’t worry, Gil. Just need to wait out the tide.
+Hash: 0005067A, Key: VoiceDir5.A9C23, Value: Exhausted, hopeful
+Hash: 2AF019CF, Key: Line7.A9C23, Value: The sea can keep the damned ship.
+Hash: 99F97FFC, Key: VoiceDir7.A9C23, Value: Frustrated

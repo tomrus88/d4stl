@@ -1,0 +1,4 @@
+Hash: 8EE84C2B, Key: Line1.13094C, Value: Heard they found Airidah and Nafain...such an evil mess.
+Hash: DF1E77F8, Key: VoiceDir1.13094C, Value: To Shaega. Grim news. Disgusted.
+Hash: 676BF5EB, Key: Line3.13094A, Value: Liars or not, they were the best we had. What hope we got now?
+Hash: B7A221B8, Key: VoiceDir3.13094A, Value: To Yvaine. Anxious. Lost.

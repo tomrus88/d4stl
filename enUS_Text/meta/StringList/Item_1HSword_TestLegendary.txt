@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Legendary Test Sword1H
+Hash: F5C7BC0A, Key: Flavor, Value: Test legendary for sword 1H.

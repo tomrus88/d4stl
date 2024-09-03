@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Recite the Litany at the Archive Door
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: From Morning, my eyes were opened, and I saw the coming darkness.
+Hash: 301FB2B8, Key: VoiceDir9.BAE4, Value: Reciting. Careful with the words.
+Hash: 608DBF14, Key: Line11.BAE4, Value: Through the Day, I have prepared to accept the burden of knowledge.
+Hash: CF972541, Key: VoiceDir11.BAE4, Value: Reciting. Careful with the words.
+Hash: 65381056, Key: Line13.BAE4, Value: Unto Evening, I shall keep it safe, and into the Night hereafter.
+Hash: D4417683, Key: VoiceDir13.BAE4, Value: Reciting. Careful with the words.

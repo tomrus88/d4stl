@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dead Camel
+Hash: F2CA04D8, Key: NoticeSignText, Value: What little meat is left on this starving animal’s bones has been stripped and eaten.

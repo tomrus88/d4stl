@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The Zoltun Kulle?"
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: So you’ve heard of him. He’ll be pleased. The man always believed he’d be famous.
+Hash: 75451B6B, Key: VoiceDir13.18AEA4, Value: rankled, anticipating Kulle’s gloating
+Hash: F6CD1FC0, Key: Line15.18AEA4, Value: Come. If he is not in his study, he will at least have left word there.

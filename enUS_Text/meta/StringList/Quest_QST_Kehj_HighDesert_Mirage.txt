@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Mirage
+Hash: 0871A46B, Key: Toast, Value: A strange figure beckons for you to follow them through the desert.
+Hash: FAF02F4B, Key: Phase6Description, Value: I found a strange, mirage-like figure in the desert. It seemed to be leading me somewhere.
+Hash: 059C64AB, Key: Callback5Header, Value: Follow the mirage
+Hash: 2BE38CAC, Key: Phase7Description, Value: After interacting with an ancient altar, I've unleashed a malevolent spirit.
+Hash: 398557AF, Key: Callback9Header, Value: Return to the altar
+Hash: D03F579C, Key: Phase52Description, Value: I found a strange, mirage-like figure in the desert. It seemed to be leading me somewhere.
+Hash: B78F4DA1, Key: Callback56Header, Value: Follow the mirage
+Hash: B2787940, Key: Phase65Description, Value: I found a strange, mirage-like figure in the desert. It seemed to be leading me somewhere.
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Follow the mirage
+Hash: 32CAE022, Key: Phase76Description, Value: I found a strange, mirage-like figure in the desert. It seemed to be leading me somewhere.
+Hash: AE775FBE, Key: Callback80Header, Value: Follow the mirage
+Hash: 6FA23862, Key: Phase94Description, Value: I found a strange, mirage-like figure in the desert. It seemed to be leading me somewhere.
+Hash: 38A468EE, Key: Callback116Header, Value: Follow the mirage

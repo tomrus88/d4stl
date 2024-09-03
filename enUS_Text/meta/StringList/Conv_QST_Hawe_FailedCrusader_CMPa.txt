@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Johanna, you made it back safely."
+Hash: 8ED7735D, Key: Line1.121C9F, Value: Ah, it's good to see you again! Yes, I am as safe as can be expected in these swamps. I was barely able to give the crusaders proper rites before the bodies began to turn.
+Hash: F6462D12, Key: Line15.121C9F, Value: It was fortunate that I remembered what my friend, Zrinka, said about burning bodies. I think Akarat would forgive me for not abiding by all of the proper rituals.
+Hash: 4D41D27F, Key: VoiceDir15.121C9F, Value: Slightly humorous. Bodies that aren't burned turned into zombies or drowned

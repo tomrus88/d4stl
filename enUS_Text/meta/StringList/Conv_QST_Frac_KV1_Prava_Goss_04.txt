@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Scosglen is under threat from Lilith.”
+Hash: 5A157257, Key: Line1.710B6, Value: Donan sent a message about it already.
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Why doesn’t Inarius go there to deal with her?
+Hash: F409EBD9, Key: Line3.710B6, Value: The Prophecy says the battle will unfold in Hell. That is where the blow must be struck.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What’s the word around town?” 
+Hash: 5D313E90, Key: Line1.C08E9, Value: There's talk that the ancestors finally answered our prayers.
+Hash: F725B812, Key: Line3.C08E9, Value: Whether they did or not, something’s different, that’s for sure.

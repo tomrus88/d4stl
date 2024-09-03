@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Shard of Agony
+Hash: A646FFA4, Key: Description, Value: Merged in Gaping Crevasse in southern Kehjistan with Mucus-Slick Egg to summon a powerful enemy. Requires {c_number}2{/c}. Acquired from Hall of the Penitent in World Tier 4: Torment only by the one who performs the summoning. 
+
+Drops randomly from World Bosses.
+Hash: F5C7BC0A, Key: Flavor, Value: A broken soulstone. Simply holding it sends a dull ache through your arm.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Watchman's Log
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Watchman's Log
+Hash: 5D72A9E7, Key: Line1.EDCC1, Value: The cannibals took twelve more of us this week, but Elder Davan has finally gone to the mines. He will free the Ancient Spirit and we will claim its power. No one will threaten Qara Yisu again.
+Hash: CC7C1014, Key: VoiceDir1.EDCC1, Value: Frustrated, then relieved and hopeful.

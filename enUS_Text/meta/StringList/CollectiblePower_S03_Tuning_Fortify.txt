@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Fortify Support
+Hash: A646FFA4, Key: Description, Value: When the Seneschal Construct uses the supported Skill, you gain {c_number}{SF_1}{/c} {c_important}Fortify{/c}. Skills with slower attack speeds or skills with cooldowns will increase the amount of {c_important}Fortify{/c} granted.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: {c_important}Fortify{/c} Granted {icon:arrow,1.2} {c_number}{SF_2}{/c}
+Hash: E971A20F, Key: Modifier, Value: Grants the player {c_important}Fortify{/c} on use.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

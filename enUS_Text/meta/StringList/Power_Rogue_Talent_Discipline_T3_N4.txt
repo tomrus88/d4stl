@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Unstable Elixirs
+Hash: 003892BF, Key: desc, Value: Using a Healing Potion Stuns surrounding enemies for {c_number}[{SF_0}||]{/c} seconds and increases your damage by {c_number}[{SF_4}*100|%x|]{/c} for {c_number}[{SF_1}||]{/c} seconds.
+
+You may now drink your Healing Potion while at full Life.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_4}*100|%x|]{/c} 

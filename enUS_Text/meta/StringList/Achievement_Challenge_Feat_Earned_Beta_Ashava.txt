@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Earliest Victory
+Hash: 003892BF, Key: Desc, Value: Killed the Ashava during Open Beta or Early Access at level 20.

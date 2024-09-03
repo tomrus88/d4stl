@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bound by Blood
+Hash: 59F2E8AC, Key: Line1.54219, Value: Do you see now, Lacthan? Enough is enough! Perithan's soul is marred by sin!
+Hash: C8FC4ED9, Key: VoiceDir1.54219, Value: angry and accusing 
+Hash: 9110E32C, Key: Line5.AA9BD, Value: No! He wouldn't go that far!
+Hash: 001A4959, Key: VoiceDir5.AA9BD, Value: pleading denial
+Hash: C1C4CEB4, Key: Line9.54219, Value: You know what must be done, Lacthan. If you do not do it, we will. Do you have the will to see it through?
+Hash: 0C274DBB, Key: Line13.AA9BD, Value: Do not question my faith. I will fix this.
+Hash: 5C5D7988, Key: VoiceDir13.AA9BD, Value: turning angry

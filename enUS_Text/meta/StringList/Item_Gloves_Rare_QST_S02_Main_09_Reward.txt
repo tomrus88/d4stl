@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Magus Gloves
+Hash: F5C7BC0A, Key: Flavor, Value: Elite Vampire Mages wear these unnaturally smooth gloves when handling human-forged objects tainted by the Light.

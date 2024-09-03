@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Gate passage
+Hash: F414A633, Key: Line3.6DE47, Value: Whatever you did, it worked!
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Yelled from a long distance
+Hash: 27F2DEDD, Key: Line7.710B6, Value: Another quake, run!

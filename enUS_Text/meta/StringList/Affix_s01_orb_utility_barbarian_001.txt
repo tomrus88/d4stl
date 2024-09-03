@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Punishing Speed
+Hash: 003892BF, Key: Desc, Value: Your Skills have a {c_random}[Affix_Value_1|%|]{/c} chance to Knock Down all enemies for {c_number}[Affix."Static Value 0"|2|]{/c} seconds when that Skill's Attack Speed is higher than {c_random}[Affix_Value_2|%|]{/c}.

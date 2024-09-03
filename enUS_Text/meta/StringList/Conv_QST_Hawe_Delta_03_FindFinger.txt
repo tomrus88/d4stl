@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Campaign - Hawe - Temple - Players find Elias's finger
+Hash: 73008D67, Key: Line1.BAE4.Nec, Value: Well, well. Elias’ finger. He bound his life essence to a piece of himself. Clever.
+Hash: A970E074, Key: VoiceDir1.BAE4.Nec, Value: To self. Admiring the spellcraft. As a necromancer, the Player thinks what Elias has done--binding his soul to a finger--is smart. Think of it as a horcrux.
+Hash: 730059E6, Key: Line1.BAE4.Bar, Value: Ach. This...this is Elias’ finger. He hid a piece of himself here to stay immortal.
+Hash: A970ACF3, Key: VoiceDir1.BAE4.Bar, Value: To self. Disgusted. Puzzling out the mystery and connecting the dots--Elias kept his finger safe and sound here, which is the key to his immortality. Think of the finger as a horcrux.
+Hash: 7300649C, Key: Line1.BAE4.Dru, Value: Ach. This...this is Elias’ finger. He hid a piece of himself here to stay immortal.
+Hash: A970B7A9, Key: VoiceDir1.BAE4.Dru, Value: To self. Disgusted. Puzzling out the mystery and connecting the dots--Elias kept his finger safe and sound here, which is the key to his immortality. Think of the finger as a horcrux.
+Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: Ach. This...this is Elias’ finger. He hid a piece of himself here to stay immortal.
+Hash: A970F2C6, Key: VoiceDir1.BAE4.Rog, Value: To self. Disgusted. Puzzling out the mystery and connecting the dots--Elias kept his finger safe and sound here, which is the key to his immortality. Think of the finger as a horcrux.
+Hash: 7300A405, Key: Line1.BAE4.Sor, Value: Ach. This...this is Elias’ finger. He hid a piece of himself here to stay immortal.
+Hash: A970F712, Key: VoiceDir1.BAE4.Sor, Value: To self. Disgusted. Puzzling out the mystery and connecting the dots--Elias kept his finger safe and sound here, which is the key to his immortality. Think of the finger as a horcrux.

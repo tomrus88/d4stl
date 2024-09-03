@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is it over?"
+Hash: 8EDA82FB, Key: Line1.1283AE, Value: Yes... I am Kravett, once a Shaman of the Bear Tribe... searching for a way to make amends for the past... imprisoned by those I sought aid from. You have succeeded where I failed.
+Hash: DF10AEC8, Key: VoiceDir1.1283AE, Value: wheezing throughout. sounds ancient
+Hash: 675E2CBD, Key: Line3.1283AE, Value: Ancestors be praised, Chieftain of the Bear Tribe, you and your champion have done well. Tell me, what of our people?
+Hash: B794588A, Key: VoiceDir3.1283AE, Value: wheezing throughout. sounds ancient.
+Hash: 8E111562, Key: Line5.8243F, Value: They have sacrificed much in our pursuit of the Ancient's Call, they have suffered... and they have learned loss.
+Hash: 18658041, Key: Line7.1283AE, Value: Strength alone failed us at Arreat... but you have forged new bonds of brotherhood... accomplished much. Take my blessing back to our people... find a new destiny... dwell on the past... no more.
+Hash: 689BAC0E, Key: VoiceDir7.1283AE, Value: wheezing throughout. sounds ancient.
+Hash: 6F33066F, Key: Line11.8243F, Value: Rest well Kravett, Shaman of the Bear Tribe.

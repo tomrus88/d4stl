@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You were right about the Chieftain. We're on our own."
+Hash: C311D064, Key: Line29.53D3D, Value: Hmm, I can't say I'm surprised, heh.
+Hash: 4781BF3D, Key: Line31.53D3D, Value: I hope you're ready for this. If the goatmen were strong outside town, they'll be that much stronger in here.
+Hash: E17638BF, Key: Line33.53D3D, Value: I have a feeling we'll find our answers inside. Let's go.

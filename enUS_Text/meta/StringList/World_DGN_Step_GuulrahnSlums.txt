@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Guulrahn Slums
+Hash: 003892BF, Key: Desc, Value: Cannibals still hold the streets of the city Guulrahn.

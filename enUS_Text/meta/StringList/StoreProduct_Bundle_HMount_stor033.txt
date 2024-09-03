@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Flowers for the Crown
+Hash: A646FFA4, Key: Description, Value: When Korelan of Westmarch died, he was buried atop his beloved horse. Each was prepared in full regalia to ride on into death...until a needful stranger crossed their path.
+Hash: 083EE0CE, Key: Quote, Value: Exhumed to ride again.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

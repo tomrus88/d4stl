@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Let’s get moving."
+Hash: C215A653, Key: Line9.8CA44, Value: Onward!
+Hash: 311F0C80, Key: VoiceDir9.8CA44, Value: Excited to get back to the journey.

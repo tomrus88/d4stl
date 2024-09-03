@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing?"
+Hash: 5D6CA21E, Key: Line1.F8CF0, Value: Away, I have work.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Autodefense
+Hash: A646FFA4, Key: Description, Value: {c_label}Cooldown:{/c} {c_resource}{SF_0}{/c} seconds
+The Seneschal Construct activates an antimaterial field around itself shooting down up to {c_number}{SF_9}{/c} enemy projectiles. Lasts for {c_number}[{SF_2}|1|]{/c} seconds. Can not shoot down Boss or Player projectiles.
+Hash: 70FCEFA9, Key: AttackSpeed, Value: {c_label}Speed:{/c} {c_number}1.5{/c} seconds
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Limit {icon:arrow,1.2} {c_number}{SF_6}{/c} Projectiles
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating Heralds in Arcane Tremors

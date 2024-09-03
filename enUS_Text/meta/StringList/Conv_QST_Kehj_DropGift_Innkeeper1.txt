@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this shipment with your name on it."
+Hash: 8ED9AC39, Key: Line1.125E0E, Value: I wondered what happened to that shipment. Guess a reward is in order. Can't run an inn with nothing to feed lodgers.

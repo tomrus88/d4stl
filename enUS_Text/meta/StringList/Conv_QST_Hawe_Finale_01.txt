@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are we ready for this?"
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Speaking for myself, yes, I believe I am. Ready to attune the soulstone, at least.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Bracing. Anxious about others in the group.
+Hash: F427C5EC, Key: Line3.7FA05, Value: As for what comes after – capturing Lilith, keeping her bound in the stone...we know how that’s gone in the past.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Bracing. Speaking hard truth.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: I have to believe it is up to us now. Not to the Prophecy, Inarius, or anyone else.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: Bracing. Summoning courage.

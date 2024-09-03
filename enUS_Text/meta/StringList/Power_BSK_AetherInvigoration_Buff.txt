@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Surge of Power
+Hash: 7786FD97, Key: Buff1_Description, Value: Increase Attack Speed

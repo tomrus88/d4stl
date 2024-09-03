@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: When activating or refreshing the full {c_important}Walking Arsenal{/c} Key Passive effect, you automatically cast {c_important}Ground Stomp{/c} and gain {c_random}[Affix_Value_1]{/c} Fury. Can only occur once every {c_number}[Affix_Value_2]{/c} seconds.

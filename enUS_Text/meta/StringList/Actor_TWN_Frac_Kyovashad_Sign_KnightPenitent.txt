@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Knight Penitent
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Blessed are the Knights Penitent who stand at the Father's side, for they will earn a place in the Heavens."

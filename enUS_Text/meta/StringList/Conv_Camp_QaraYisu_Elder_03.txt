@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Voice Below
+Hash: 5A3C6012, Key: Line1.96183, Value: Who are you to take what is mine?!
+Hash: C945C63F, Key: VoiceDir1.96183, Value: Furious

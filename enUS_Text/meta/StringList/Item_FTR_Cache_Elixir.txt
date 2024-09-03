@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir Cache
+Hash: A646FFA4, Key: Description, Value: A cache of items found inside Dungeons. Contains an assortment of Elixirs.

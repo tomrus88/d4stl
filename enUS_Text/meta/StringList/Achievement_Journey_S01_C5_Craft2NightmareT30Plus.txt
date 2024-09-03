@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Keymaster
+Hash: 3A4912CF, Key: DescShort, Value: Craft Nightmare Sigils at the {icon:Marker_Essence, 2.5} Occultist

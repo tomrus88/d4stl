@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Notes on Cages
+Hash: F2CA04D8, Key: NoticeSignText, Value: "I’ve been tinkering with the cages, trying different assemblies. No closer to a cure, but I’ve left some designs that might prove useful. All untested, mind you. Do be careful. --Cormond"

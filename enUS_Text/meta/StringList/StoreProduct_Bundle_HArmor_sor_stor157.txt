@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sightless Seer
+Hash: A646FFA4, Key: Description, Value: Through handling the Sightless Eye, the oracles of Skovos Isle have gained the ability to glimpse the future without the artifact, though not as clearly. These visions have led the Seers to the mainland in hopes of diverting foreseen disasters.
+Hash: 083EE0CE, Key: Quote, Value: Inheritors of the Eye's power.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

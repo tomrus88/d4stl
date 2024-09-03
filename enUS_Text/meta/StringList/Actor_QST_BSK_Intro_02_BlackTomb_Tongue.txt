@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Burial Jar
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Light bind the tongue that poisoned our faith. Let it speak for Hatred no more." -Paladin's prayer

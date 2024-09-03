@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Meteor's{/c} Mana cost is replaced with a {c_random}[Affix_Value_1|1|]{/c} second Cooldown and {c_number}[1+Affix."Static Value 0"]{/c} total Charges. 
+
+Casting {c_important}Meteor{/c} drops {c_number}[Affix."Static Value 1"]{/c} additional {c_important}Meteors{/c} around the target. Its {c_important}Enchantment{/c} and {c_important}Enhancement{/c} drop {c_number}[Affix."Static Value 3"]{/c} additional {c_important}Meteor{/c} instead.

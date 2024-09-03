@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shipping Manifest
+Hash: F2CA04D8, Key: NoticeSignText, Value: The manifest marks that all blood be transferred to someone named Addrine promptly after harvest. "The Ascension draws near."

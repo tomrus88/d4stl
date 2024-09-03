@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Have you seen a demon pass through here?” 
+Hash: 7259617B, Key: Line11.CDDE3, Value: There’s a horned woman in the Moors, spreading corruption, if that’s what you mean.
+Hash: C28F8D48, Key: VoiceDir11.CDDE3, Value: Unsettled by recent events
+Hash: B2324D17, Key: Line23.BAE4, Value: Yes. She’s after the druids who vanquished Astaroth.
+Hash: 5D4E7D6A, Key: Line1.CDDE3, Value: Ah. That madman Nafain lives out there. We already tried checking on him.
+Hash: CC57E397, Key: VoiceDir1.CDDE3, Value: Understanding--the knight realizes what the Player is referring to. Nafain, the local druid, is one of the people who helped defeat Astaroth in years past.
+Hash: A642547F, Key: Line15.CDDE3, Value: Got as far as the Boglann Stone Circle, and then the druid’s wolf companion appeared and bit one of my men!
+Hash: F678804C, Key: VoiceDir15.CDDE3, Value: Sympathetic.
+Hash: 5E9B365C, Key: Line21.CDDE3, Value: I’m already short on knights. Not going to risk what I have left on some bastard who hates the Cathedral.
+Hash: AED16229, Key: VoiceDir21.CDDE3, Value: Fed up with the situation. A small group of knights up against big scary things

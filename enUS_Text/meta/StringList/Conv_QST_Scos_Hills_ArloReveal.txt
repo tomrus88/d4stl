@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "If Lilith is here, you are still in grave danger."
+Hash: 09281080, Key: Line13.83542, Value: Braestaig...swarming with those Cathedral gobshites...
+Hash: C345AE76, Key: Line29.804B7, Value: Please, Arlo. Just for now.
+Hash: 47B740F2, Key: Line31.8354D, Value: Maybe we should go with him, dad...
+Hash: E1ABBA42, Key: Line33.83542, Value: (gruff sigh) Well...the ale would be welcome.
+Hash: 03D6DB1A, Key: Line35.BAE4, Value: I will deal with Airidah and Lilith. See them safely to Braestaig.
+Hash: 159309D5, Key: Line37.804B7, Value: I...I will. Thank you.

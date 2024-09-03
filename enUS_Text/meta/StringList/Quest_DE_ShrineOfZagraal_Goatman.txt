@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Shrine of Zagraal
+Hash: DD0D3424, Key: Callback77Header, Value: Disrupt the Shamans
+Hash: 36A5F933, Key: Callback157Header, Value: Slay the remaining enemies
+Hash: B5C8A770, Key: Callback271Header, Value: Survive the enemy assault
+Hash: 4FBD20F2, Key: Callback273Header, Value: Destroy the {MONSTER}

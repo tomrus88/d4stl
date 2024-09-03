@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vfx Test Item
+Hash: A646FFA4, Key: Description, Value: For vfx team to test power effect ranges

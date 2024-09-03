@@ -1,0 +1,9 @@
+Hash: 8FF57490, Key: ReplaceHeart, Value: Replace Heart
+Hash: 3B2FB09C, Key: Replace, Value: Replace
+Hash: 0B1DE514, Key: AreYouSure, Value: Are you sure
+Hash: FABB14DC, Key: TopSocket, Value: Top Socket
+Hash: 78F277DE, Key: BottomSocket, Value: Bottom Socket
+Hash: 0BD8E701, Key: DetroyHeartWarning, Value: {c_warning}(This will permanently destroy the existing heart in this socket){/c}
+Hash: 9829494E, Key: ConfirmationText, Value: Are you sure you want to replace the Malignant Heart in this socket? This will {c_warning}permanently destroy{/c} the existing heart. 
+Hash: 224A87BE, Key: SocketFavoritedItemTitle, Value: Socket Favorited Item
+Hash: C2F0B8EA, Key: SocketFavoritedItemBody, Value: Are you sure you want to socket a favorited item?

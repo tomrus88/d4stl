@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Airidah."
+Hash: 5A270F7C, Key: Line1.804B7, Value: She's a legend. One of the druids who fought alongside my father to defeat Astaroth.
+Hash: F41B88FE, Key: Line3.804B7, Value: I was raised on stories of her wisdom and courage.

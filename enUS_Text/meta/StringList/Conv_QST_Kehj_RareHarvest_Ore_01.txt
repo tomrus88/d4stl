@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Look at this unusual ore I found."
+Hash: 5D5936FB, Key: Line1.E7611, Value: (laugh) You have a good eye for ore! Properly smelted, I can use this metal to get badly damaged armor back in service with the Wolves. Let me give you something for it.

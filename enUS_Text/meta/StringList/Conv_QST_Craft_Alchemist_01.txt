@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I want to increase the potency of my healing potion."
+Hash: 5D20E6A6, Key: Line1.B2A28, Value: Well, you certainly have the look of someone who spends a lot of time in the wilds. I expect you'll also want some of my elixirs, but let's focus on your healing potion for now.
+Hash: F7156028, Key: Line3.B2A28, Value: I have some extra materials we can use this time. If you want to improve your healing potion further or craft any elixirs, you'll need to source your own ingredients.
+Hash: 9109D9AA, Key: Line5.B2A28, Value: I'll not leave these walls... never again.
+Hash: 00133FD7, Key: VoiceDir5.B2A28, Value: "I'll not leave these walls, never again." is Fearful

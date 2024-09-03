@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: PH Trial: Cursed Wanderer
+Hash: EEB7912D, Key: AffixDesc, Value: Keep the Cursed Wanderer alive until the Objective is Complete to earn a special reward.

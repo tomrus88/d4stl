@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cathedral of Hatred
+Hash: 003892BF, Key: Desc, Value: Mephisto, Lord of Hatred, awaits in these bone-white halls.

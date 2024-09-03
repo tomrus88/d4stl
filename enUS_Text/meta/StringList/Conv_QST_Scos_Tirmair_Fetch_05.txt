@@ -1,0 +1,2 @@
+Hash: 59F3313B, Key: Line1.53D35, Value: Sod it. Overgrown varmints broke another trap.
+Hash: C8FC9768, Key: VoiceDir1.53D35, Value: Muttering angerly to himself

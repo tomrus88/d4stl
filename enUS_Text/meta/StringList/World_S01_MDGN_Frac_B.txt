@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Boiling Wound
+Hash: 003892BF, Key: Desc, Value: Craft a Devious Invoker to clear the outgrowths within.

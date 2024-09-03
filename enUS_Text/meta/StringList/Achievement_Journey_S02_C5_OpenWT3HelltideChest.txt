@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Prophecy Pluripotent
+Hash: 3A4912CF, Key: DescShort, Value: Open {icon:Marker_Helltide_Chest, 2.5} Tortured Gifts of 6 different types during {icon:Marker_Helltide, 2.5} Helltide

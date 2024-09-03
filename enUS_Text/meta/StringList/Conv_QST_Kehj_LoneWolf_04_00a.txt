@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How is Dawood?”
+Hash: 4429BC17, Key: Line4.BC41C, Value: Dawood is... he is in good hands with our healer.
+Hash: B3332244, Key: VoiceDir4.BC41C, Value: Somber. Dawood is not well.
+Hash: AB8CE6D0, Key: Line22.D5166, Value: He'll live. As will the people we protect here, thanks to you all.
+Hash: FBC3129D, Key: VoiceDir22.D5166, Value: Somber, but relieved. Proud.
+Hash: 45767509, Key: Line24.BC41C, Value: Wanderer, we can't thank you enough. You will always be welcome among the Iron Wolves.
+Hash: 95ACA0D6, Key: VoiceDir24.BC41C, Value: Grateful. Sincere.
+Hash: 795F680D, Key: Line28.BC41C, Value: You should go check on Dawood. He said he wanted to speak with you.
+Hash: C99593DA, Key: VoiceDir28.BC41C, Value: Somber.

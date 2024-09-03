@@ -1,0 +1,74 @@
+Hash: 0249A419, Key: AllLabel, Value: All
+Hash: C276EAEB, Key: LocalLabel, Value: Local
+Hash: 3E57B710, Key: TradeLabel, Value: Trade
+Hash: 3A5E6E7C, Key: SettingsTooltip, Value: Chat Settings
+Hash: 30B1C5DB, Key: JoinTooltip, Value: Join a Channel
+Hash: 805CD5FB, Key: CurrentChannel_Label, Value: 1
+Hash: 20940D10, Key: PartyLabel, Value: Party
+Hash: B852BC42, Key: WhisperLabel, Value: Whispers
+Hash: 0F338289, Key: HelpLabel, Value: /r, /reply - Reply to the last player who whispered you
+/w, /whisper, /t, /tell <player> - Whisper another player
+/p,  /party - Message your party
+/g or /game - Message nearby players
+/c or /clan - Message your clan
+/o or /officer - Message other clan officers
+/trade - Message the trade channel
+Hash: E4F7DD4B, Key: ChatMessageNameString_HeroName, Value: {s1} ({s2})
+Hash: CD218617, Key: TooManyItemLinks, Value: Messages in this channel may not have more than {s1} item links.
+Hash: 4823AFAD, Key: NoItemLinks, Value: This channel does not support item linking.
+Hash: 9520DC46, Key: ContextMenuReply, Value: Whisper
+Hash: E2DC1059, Key: ContextMenuInviteParty, Value: Invite to Party
+Hash: 2DA29F87, Key: ContextMenuInviteClan, Value: Invite to Clan
+Hash: 649F10FB, Key: ContextMenuAddFriend, Value: Add Friend
+Hash: C13383D0, Key: ContextMenuInspect, Value: Inspect
+Hash: 94032565, Key: ContextMenuBlock, Value: Block
+Hash: 393C7156, Key: ContextMenuReport, Value: Report
+Hash: 795B9E1F, Key: ChangeChatChannel, Value: Change Channel
+Hash: EB27321E, Key: ClanLabel, Value: Clan
+Hash: B68658BC, Key: ClanOfficerLabel, Value: Officer
+Hash: 03587F82, Key: ChatChannelFormat, Value: [{s1}]
+Hash: 6AAAF8D3, Key: ChatPromptKeyboard, Value: {icon:KeyPrompt_Enter, 1.8} to chat
+Hash: 3D497B76, Key: WhisperIncoming, Value: {s1} whispers
+Hash: 741E76E7, Key: WhisperIncomingCoop, Value: {s1} whispers to {s2}
+Hash: 08C4296E, Key: WhisperOutgoing, Value: To {s1}
+Hash: 88A43DB9, Key: MessageBlocked, Value: Message blocked by cross-platform permissions.
+Hash: 2BC1B7C1, Key: MessageNotSeen, Value: Message not visible due to cross-platform permissions.
+Hash: 789230A6, Key: ChatPromptController, Value: Use the Wheel {hotkey:Social_Wheel} to open chat
+Hash: 83B1E498, Key: AchievementEarned, Value: {s1} completed a Challenge: {s2}
+Hash: F3D6EF09, Key: LinkRespond, Value: Respond with link
+Hash: 3D4CD280, Key: ChatExpand, Value: Expand
+Hash: 9F169602, Key: ChatMinimize, Value: Minimize Chat
+Hash: 79C33945, Key: WhisperBlockedPlayerTitle, Value: Player blocked.
+Hash: B408B527, Key: WhisperBlockedPlayerDescription, Value: You cannot perform that action with a player that is on your blocked list.
+Hash: F08B76B2, Key: ConsoleCommunicationPermission, Value: Player is blocked or feature is unavailable.
+Hash: 5DDA50B1, Key: WhisperPlayerNotInGame, Value: {s1} will be able to see your message after they enter the game.
+Hash: F0F6195C, Key: ChatMessageString, Value: {s1}: {s2}
+Hash: 987C3C82, Key: QuickMessageSelect, Value: Select
+Hash: 72E260E8, Key: QuickMessageCancel, Value: Cancel
+Hash: 70787BF3, Key: QuickMessageBack, Value: Back
+Hash: BD4AE402, Key: QuickMessage, Value: Quick Message
+Hash: 73362B61, Key: StoryLabel, Value: Story
+Hash: DF077EBB, Key: LANLabel, Value: LAN
+Hash: 19281E3F, Key: TradeItem, Value: Want to sell {s1} for {s2} gold.
+Hash: 76D2F14B, Key: TtsInChannel, Value: In channel {s1}, 
+Hash: D23C4328, Key: TtsPlayerSays, Value: {s1} says, 
+Hash: 52A0FC38, Key: TtsItemLink, Value:  , item link, 
+Hash: 0288D40F, Key: TtsEndOfLine, Value: , end of line.
+Hash: 4A9C9C51, Key: LAN_TabLabel, Value: {icon:Icon_Network, 1.8}
+Hash: 862DD230, Key: AllTabLabel, Value: {icon:QuestLog_Journal_All, 1.6}
+Hash: B1C6ABC7, Key: PartyTabLabel, Value: {icon:Social_VoiceChat_Group, 1.8}
+Hash: A9C87478, Key: StoryTabLabel, Value: {icon:Social_Story, 2.0}
+Hash: 78D665B9, Key: WhisperTabLabel, Value: {icon:Social_Whisper, 1.8}
+Hash: EBCB5E15, Key: ClanTabLabel, Value: {icon:Social_VoiceChat_Clan, 1.8}
+Hash: 1A107FC2, Key: LocalTabLabel, Value: {icon:Social_Local, 1.8}
+Hash: F9E215C7, Key: TradeTabLabel, Value: {icon:Social_Trade, 1.8}
+Hash: 03F767F3, Key: ClanOfficerTabLabel, Value: {icon:Social_PromoteClanMember, 1.8}
+Hash: ECABF92A, Key: QuickMessageEditPrompt, Value: {icon:KeyPrompt_Tab, 1.4} Cycle Channels
+Hash: 08ED1967, Key: ChatPlaceHolderController, Value: {icon:l1, 1.4}, {icon:r1, 1.4} Cycle Channels
+Hash: 722C8749, Key: WhisperPlaceholderController, Value: {icon:l2, 1.4}, {icon:r2, 1.4} Cycle Whispers
+Hash: 6F0A3F8C, Key: NotifyClanDisband, Value: {s1} has been disbanded by {s2}
+Hash: 4F8FF627, Key: PartyVoiceChatAvailable, Value: Party voice chat now available. Join voice chat from the Social screen.
+Hash: D3490706, Key: IntellisenseCharacterNameFormat, Value: {s1} ({s2})
+Hash: D473CB00, Key: ChatPlaceholderTextChatDisabled, Value: Chat limited / typing blocked
+Hash: 56C35A41, Key: ClanChannelNameFormat, Value: {s1} - {s2}
+Hash: 044C3ABF, Key: SeasonJourneyObjectiveEarned, Value: {s1} completed a Seasonal Objective: {s2}

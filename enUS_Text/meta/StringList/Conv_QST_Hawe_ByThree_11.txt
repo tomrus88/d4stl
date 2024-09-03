@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where did you leave Elias and Symon?"
+Hash: 675C0CA0, Key: Line3.1247DE, Value: They went to Esret.
+Hash: B792386D, Key: VoiceDir3.1247DE, Value: Pronounciation: Ez-Rhet
+Hash: 3FDFB662, Key: Line5.1247DE, Value: It's in the southernmost part of the Fethis Wetlands. I can meet you there.
+Hash: 9015E22F, Key: VoiceDir5.1247DE, Value: Pronounciation: Feh-this

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's the plan?"
+Hash: 6735A8AD, Key: Line3.10088C, Value: Just hide in the corner there. I don't want him thinking I've come to attack him. (laugh) After all, killing him is... well, it’s a last resort.
+Hash: B76BD47A, Key: VoiceDir3.10088C, Value: Here there's a break in Lyndon's business mask. Voice breaks/cracks after "Killing him is."

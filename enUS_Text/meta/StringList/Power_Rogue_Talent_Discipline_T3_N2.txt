@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: name, Value: Impetus
+Hash: 003892BF, Key: desc, Value: After moving {c_number}{SF_0}{/c} meters, your next {c_important}Core{/c} or {c_important}Ultimate{/c} Skill deals {c_number}[{SF_2}*100|%x|]{/c} increased damage. 
+
+While this damage bonus is ready, your {c_important}Agility{/c} and {c_important}Subterfuge{/c} Skills deal {c_number}[{SF_3}*100|%x|]{/c} increased damage. 
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Bonus {icon:arrow,1.2} {c_number}[{SF_2}*100|%x|]{/c}
+{icon:bullet,1.2} Persistent Damage Bonus {icon:arrow,1.2} {c_number}[{SF_3}*100|%x|]{/c}
+Hash: 101C1614, Key: Buff1_Name, Value: Impetus
+Hash: 7786FD97, Key: Buff1_Description, Value: Your next Core or Ultimate attack deals increased damage. Agility and Subterfuge Skills are dealing more damage.

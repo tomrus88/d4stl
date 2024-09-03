@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is there trouble?"
+Hash: 3FE1E62E, Key: Line5.128879, Value: When is there not trouble? I told the men I’d pay double for the head of that big, ugly skeleton in the Tar Pits. All I get are excuses.
+Hash: 901811FB, Key: VoiceDir5.128879, Value: Frustrated
+Hash: 18658FEE, Key: Line7.128877, Value: If it’s so easy, you kill it! It’s on fire!
+Hash: 689BBBBB, Key: VoiceDir7.128877, Value: Animated. Offended
+Hash: F0E939B2, Key: Line9.128879, Value: See? Excuses. If you go kill the bastard, I’ll give you the reward instead.

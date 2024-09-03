@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Triune Missive
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Triune Missive
+Hash: 5D733638, Key: Line1.EECAC, Value: So comes your rite of passage, loyal supplicant.
+Hash: CC7C9C65, Key: VoiceDir1.EECAC, Value: Authoritative, but celebratory. A leader of the cultists sending one of her underlings on a glorious (but dangerous) rite of passage.
+Hash: F767AFBA, Key: Line3.EECAC, Value: Journey to the hallowed place in the heart of fire. With unwavering hands, return the three relics to their rightful place. Then will come the glorious arbiter to judge your soul.
+Hash: 915C293C, Key: Line5.EECAC, Value: The worthy will have their eyes pried open to glimpse realms unseen. The unworthy will have their eyes burned out to live in darkness.

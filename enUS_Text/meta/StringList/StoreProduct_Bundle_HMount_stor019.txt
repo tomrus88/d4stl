@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Storm Courser
+Hash: A646FFA4, Key: Description, Value: The coursers thunder across the plain, driven by their druidic riders to corral the oncoming storm.
+Hash: 083EE0CE, Key: Quote, Value: Dark clouds gather.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

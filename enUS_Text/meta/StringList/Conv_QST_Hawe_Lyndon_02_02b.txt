@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Ready for the ambushes?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Ready yourself. Rodney’s been giving me the eye for months now. "Hiiii," yes.
+Hash: DEE82AB8, Key: VoiceDir1.10088C, Value: Hushed but angry, as though gossiping about someone who is nearby
+Hash: 3FB9526F, Key: Line5.10088C, Value: And where does that commotion get us? Backwater watched by Crusaders, showing up on maps.
+Hash: 8FEF7E3C, Key: VoiceDir5.10088C, Value: Frustration is building the more he talks, almost forgetting that the Player is even there while he vents.
+Hash: 183CFC31, Key: Line7.10088C, Value: And bribes? No no no, there'll be no bribes to save us then.
+Hash: F0C0A5F3, Key: Line9.10088C, Value: Ha. Sorry. I guess I've been bottling that one up.
+Hash: 40F6D1C0, Key: VoiceDir9.10088C, Value: Finally catching himself, dropping the frustration in favor of his relaxed persona.

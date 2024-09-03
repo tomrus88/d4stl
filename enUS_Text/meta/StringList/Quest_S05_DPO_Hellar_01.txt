@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: The Omath Breach
+Hash: 0871A46B, Key: Toast, Value: The Triune have summoned the Hells near Omath's Redoubt.
+Hash: F81CED9C, Key: Callback33Header, Value: Collect Aether from Soulspires {DONE_OVER_NEEDED}
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the Hell Caller
+Hash: 38AA8D97, Key: Callback10Header, Value: Enter the Hellbreach
+Hash: 4A6A48FB, Key: Callback41Header, Value: Select a challenge
+Hash: 36AC1DDC, Key: Callback51Header, Value: Collect Aether from Soulspires {DONE_OVER_NEEDED}
+Hash: 3DC59C04, Key: Callback68Header, Value: Select a challenge
+Hash: 9012F763, Key: Callback76Header, Value: Slay the Hell Caller

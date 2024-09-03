@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sunken Treasures
+Hash: A646FFA4, Key: Description, Value: Bold druids who believe the seas are their birthright plumb its unfathomable depths. The successful return more powerful, while those who fail leave treasures for the next.
+Hash: 083EE0CE, Key: Quote, Value: What was lost to Sanctuary's vast seas is now yours.
+Hash: 13A53A8B, Key: Series, Value: "Heir to the Sea" Accessories

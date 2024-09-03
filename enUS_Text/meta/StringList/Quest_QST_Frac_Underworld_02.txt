@@ -1,0 +1,28 @@
+Hash: 003DFCC1, Key: Name, Value: In Her Wake
+Hash: 0871A46B, Key: Toast, Value: Pursue Lilith and Vhenard beyond the Gate of Kasama
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Pursue Lilith and Vhenard beyond the Gate of Kasama
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Neyrelle, Vigo, and I have arrived at the fabled Gate of Kasama deep beneath the Fractured Peaks. We must explore the ancient city within for signs of Lilith and Neyrelle's mother, Vhenard.
+Hash: 75A12100, Key: Phase47Description, Value: We found the fabled Kasama, the First City. We must press forward to pursue Lilith and Vhenard.
+Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Open the Gate of Kasama in the Path of the Firstborn
+Hash: F0CB5F43, Key: Callback67Header, Value: Open the Gate of Kasama
+Hash: A6927FEF, Key: Phase127Description, Value: Beyond the Gate of Kasama is a Knight Penitent massacre. What happened here?
+Hash: B9710217, Key: Phase127OutsideSubzoneHeader, Value: Speak with Grendan in the Path of the Firstborn
+Hash: 60269D2E, Key: Callback215Header, Value: Speak with Grendan
+Hash: BEFF4371, Key: Phase183Description, Value: Vigo has departed to seek Prava's guidance, but Neyrelle and I press on. We must pick up Lilith and Vhenard's trail in the ancient city of Kasama.
+Hash: 2546D7D9, Key: Phase183OutsideSubzoneHeader, Value: Search for Lilith and Vhenard with Neyrelle
+Hash: FB6B77D6, Key: Callback187Header, Value: Search for Lilith and Vhenard with Neyrelle
+Hash: CEA63A8B, Key: Phase213Description, Value: Lilith and Vhenard's trail leads us to a once sealed door that delves deeper into the ancient city of Kasama. We must steel ourselves for the horrors within.
+Hash: CAC66C33, Key: Phase213OutsideSubzoneHeader, Value: Open the Gate of the Cradle
+Hash: 7937E6EB, Key: Callback212Header, Value: Open the Gate of the Cradle
+Hash: 003E65B0, Key: Phase236Description, Value: Vigo has departed to seek Prava's guidance, but Neyrelle and I press on. We must pick up Lilith and Vhenard's trail in the ancient city of Kasama.
+Hash: A345F0F8, Key: Phase236OutsideSubzoneHeader, Value: Inspect Lilith's Blood Petals in the Path of the Firstborn
+Hash: 1F98FD33, Key: Callback238Header, Value: Inspect Lilith's Blood Petals
+Hash: C8A751ED, Key: Phase260Description, Value: We have picked up Lilith and Vhenard's trail in the ancient city of Kasama, and learned they travel together. What does this mean?
+Hash: 14FCF1D5, Key: Phase260OutsideSubzoneHeader, Value: Search for a way deeper into Kasama
+Hash: 16810F50, Key: Callback262Header, Value: Search for a way deeper into Kasama
+Hash: 48F9B8CF, Key: Phase271Description, Value: We have picked up Lilith and Vhenard's trail in the ancient city of Kasama, and learned they travel together. What does this mean?
+Hash: D8B636F7, Key: Phase271OutsideSubzoneHeader, Value: Open the Ancient Gate in the Path of the Firstborn
+Hash: 4FBD20F2, Key: Callback273Header, Value: Open the Ancient Gate
+Hash: 9FA14676, Key: Phase278Description, Value: We've repaired the hoist, which leads to the way back. But we must go deeper into these strange caverns and continue our pursuit of Lilith and Vhenard.
+Hash: 1011107E, Key: Phase278OutsideSubzoneHeader, Value: Speak with Vigo in the Path of the Firstborn
+Hash: 55103F90, Key: Callback280Header, Value: Speak with Vigo

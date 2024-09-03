@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Solar Sphere
+Hash: 13A53A8B, Key: Series, Value: "Fellowship of the Sun"

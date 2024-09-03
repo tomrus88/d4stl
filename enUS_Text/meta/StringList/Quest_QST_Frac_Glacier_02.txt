@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Light's Judgment
+Hash: 0871A46B, Key: Toast, Value: Accept the judgment of Inarius in the Alabaster Monastery
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Accept the judgment of Inarius
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must submit to Angel Inarius for his judgment. Only then can I hope to be blessed and travel beyond the Black Lake in pursuit of Lilith.
+Hash: 75A12100, Key: Phase47Description, Value: Now that I have completed the pilgrimage, I must enter the Alabaster Monastery and submit to Inarius for his judgment.
+Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Enter the Alabaster Monastery
+Hash: F0CB5F43, Key: Callback67Header, Value: Enter the Alabaster Monastery
+Hash: 51368C42, Key: Phase85Description, Value: I have entered the Alabaster Monastery. Whatever fate I am to receive awaits me there.
+Hash: 6ACF9BCA, Key: Phase85OutsideSubzoneHeader, Value: Climb the stairs of the Hall of Ascension
+Hash: C94F0905, Key: Callback87Header, Value: Climb the stairs of the Hall of Ascension
+Hash: DCC8203F, Key: Phase91Description, Value: I have entered the Alabaster Monastery. Whatever fate I am to receive awaits me there.
+Hash: 9947FC67, Key: Phase91OutsideSubzoneHeader, Value: Enter the Portal of Father's Radiance to submit to Inarius
+Hash: 81A7EAE2, Key: Callback93Header, Value: Enter the Portal of Father's Radiance to submit to Inarius

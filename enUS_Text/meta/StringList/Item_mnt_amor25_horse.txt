@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lamplighter's Tack
+Hash: A646FFA4, Key: Description, Value: Ample lamp-oil for a long night voyage, and fine leather tack to help in getting there.

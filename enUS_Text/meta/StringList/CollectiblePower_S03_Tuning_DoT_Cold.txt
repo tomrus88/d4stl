@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Frigid Support
+Hash: A646FFA4, Key: Description, Value: {c_number}[{SF_6}*100]%{/c} of the supported Skill's damage dealt is applied as Cold damage over {c_number}[{SF_1}+{SF_4}|1|]{/c} seconds and applies {c_number}[Collectible_Power_Value_1#S03_Tuning_DoT_Cold]%{/c} Chill.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Chill {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_DoT_Cold+2]%{/c}
+Hash: E971A20F, Key: Modifier, Value: {c_number}[{SF_0}*100]%{/c} of the damage is applied as Cold damage.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

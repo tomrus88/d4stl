@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hoarfrost Demise
+Hash: 003892BF, Key: Desc, Value: An icy Goatman cave, littered with corpses and bones.

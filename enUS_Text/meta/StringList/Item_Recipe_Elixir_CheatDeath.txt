@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Recipe: Elixir of Death Evasion
+Hash: A646FFA4, Key: Description, Value: Charred and stained, the text is no longer readable. Could be valuable for a collector, but is has no other use.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Provocation
+Hash: 003892BF, Key: desc, Value: When you remain in Werebear form for at least {c_number}{SF_0}{/c} seconds, your next non-Defensive Skill will {c_important}{u}Overpower{/u}{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Interval {icon:arrow,1.2} {c_number}[{SF_0}]{/c} Seconds
+Hash: 1BC5E139, Key: Buff6_Name, Value: Provocation
+Hash: 04622D1C, Key: Buff6_Description, Value: At {c_number}{SF_0}{/c} stacks, your next Skill will {c_important}{u}Overpower{/u}{/c}.

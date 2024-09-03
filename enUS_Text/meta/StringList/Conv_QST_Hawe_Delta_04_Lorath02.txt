@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Elias is mortal now."
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Good. Let us end this then, once and for all. Let me end what I began.
+Hash: F413C4CC, Key: Line3.6D03F, Value: No one else is going to get hurt because of my choices.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Determined

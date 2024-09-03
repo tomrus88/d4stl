@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about this talking shrine."
+Hash: 5D3B086B, Key: Line1.BC3FF, Value: There is an old shrine north of the city. I was passing it the other day when the very stone yelled at me. Clear as you’re talking to me now. Everyone thinks I’ve gone mad. You must believe me!
+Hash: CC446E98, Key: VoiceDir1.BC3FF, Value: A little desperate

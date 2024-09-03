@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Feeding Pit Key
+Hash: A646FFA4, Key: Description, Value: Bound to Charnel House
+Hash: F5C7BC0A, Key: Flavor, Value: The best meat is kept above while the scraps are sent into the Feeding Pit.

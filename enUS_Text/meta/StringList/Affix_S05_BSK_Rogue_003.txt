@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Coldclip
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Basic{/c} Skills are always {c_important}Cold Imbued{/c}.
+
+You deal {c_random}[Affix_Value_1|x%|]{/c} increased damage to enemies who are {c_important}{u}Chilled{/u}{/c} or {c_important}{u}Frozen{/u}{/c}.

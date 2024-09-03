@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Discretionary Spending
+Hash: 003892BF, Key: Desc, Value: Complete the Discretionary Spending questline in Hawezar.
+Hash: 3DA55860, Key: Crit_236112, Value: Discretionary Spending
+Hash: 3DA55861, Key: Crit_236113, Value: Bait the Trap
+Hash: 3DA55862, Key: Crit_236114, Value: Red-Handed

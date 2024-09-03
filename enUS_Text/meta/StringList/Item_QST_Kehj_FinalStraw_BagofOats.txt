@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bag of Oats
+Hash: F5C7BC0A, Key: Flavor, Value: These fresh oats would be a tempting delicacy for a hungry camel.

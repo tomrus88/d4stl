@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Herb Cache
+Hash: A646FFA4, Key: Description, Value: Contains an assortment of Herbs.
+Hash: F5C7BC0A, Key: Flavor, Value: The people of Sanctuary use herbs as medicine, occult reagents, or simple decor through their daily lives. Much like gems, herbs embody fundamental properties of magic and this defines their use.

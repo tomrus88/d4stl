@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scorpion Venom Glands
+Hash: F5C7BC0A, Key: Flavor, Value: Venom is injected through the massive stinger at the tip. These must be handled carefully. 

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Vile Apothecary
+Hash: 003892BF, Key: Desc, Value: Your attacks have a {c_random}[Affix_Value_2|%|]{/c} chance to apply all {c_important}Imbuement{/c} effects at {c_random}[Affix_Value_1|%x|]{/c} of normal potency.

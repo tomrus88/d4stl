@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem concerned."
+Hash: 8EB31032, Key: Line1.1025AB, Value: Yes, well, Bozan has yet to return from delivering our tithing demands to Menestad.
+Hash: DEE93BFF, Key: VoiceDir1.1025AB, Value: professional and strong
+Hash: 3FBA63B6, Key: Line5.1025AB, Value: Perhaps you could sweep the roads and see what's taking him so long? The Cathedral must receive its dues!

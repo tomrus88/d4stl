@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Old Cooking Pot
+Hash: F2CA04D8, Key: NoticeSignText, Value: This old cooking pot is lined with rust. 

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Efficiency
+Hash: 003892BF, Key: Desc, Value: Casting a {c_important}Basic{/c} Skill reduces the Mana cost of your next {c_important}Core{/c} or {c_important}Mastery{/c} Skill by {c_random}[Affix_Value_1|1%|]{/c}.

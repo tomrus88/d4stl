@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EE1D4E5, Key: Line1.11EA0F, Value: Pay attention. You never use berries and roots raw, they're poisonous.
+Hash: DF1800B2, Key: VoiceDir1.11EA0F, Value: Eager and down to earth. Clearly loves his work and teaching
+Hash: 67657E98, Key: Line3.11EA16, Value: What about the leaves and stems?
+Hash: B79BAA65, Key: VoiceDir3.11EA16, Value: Studious and curious
+Hash: 3FE92869, Key: Line5.11EA0F, Value: Ah, you see now, the leaves and stems should only be used raw. If they're cooked...
+Hash: 901F5436, Key: VoiceDir5.11EA0F, Value: Excited by the question
+Hash: 186CD21C, Key: Line7.11EA16, Value: They're poisonous.
+Hash: 68A2FDE9, Key: VoiceDir7.11EA16, Value: Apathetic at the repetition
+Hash: F0F07BED, Key: Line9.11EA0F, Value: Correct!
+Hash: 4126A7BA, Key: VoiceDir9.11EA0F, Value: Oblivious to his student's apathy

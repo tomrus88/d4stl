@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Lightning Storm{/c} gains {c_number}[Affix."Static Value 0"]{/c} additional strike each times it grows.
+
+{c_important}Lightning Storm{/c} Critical Strikes cause lightning to strike twice, dealing {c_random}[Affix_Value_1|x%|]{/c} increased damage.

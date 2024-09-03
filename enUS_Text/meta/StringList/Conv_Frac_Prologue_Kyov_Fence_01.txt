@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Lorath sent me."
+Hash: 5D20E74B, Key: Line1.B2A78, Value: Ah, so the old man’s finally decided to buy it back.
+Hash: CC2A4D78, Key: VoiceDir1.B2A78, Value: Curious, intrigued
+Hash: 9109DA4F, Key: Line5.B2A78, Value: Knowing him, he didn’t mention coin, did he? (chuckle)
+Hash: 0013407C, Key: VoiceDir5.B2A78, Value: Knowingly
+Hash: 722BCB5C, Key: Line11.B2A78, Value: If he wants his weapon, you will need to pay.
+Hash: C261F729, Key: VoiceDir11.B2A78, Value: Apologetic

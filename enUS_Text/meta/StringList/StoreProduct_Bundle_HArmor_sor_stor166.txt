@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Envious Lust
+Hash: A646FFA4, Key: Description, Value: Some who are touched by Lilith develop an insatiable hunger for that which is not theirs. Far beyond simple greed, these followers hold covetousness as a virtue and approach the acquisition of their desires with religious fervor.
+Hash: 083EE0CE, Key: Quote, Value: "What's yours is mine."
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

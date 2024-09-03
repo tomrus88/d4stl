@@ -1,0 +1,4 @@
+Hash: FD700C3A, Key: Callback40Header, Value: Dispel the illusionary veil to expose Overseer Kafan
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat Overseer Kafan
+Hash: 3158FF3E, Key: Callback44Header, Value: Perform the gesture spell on the relic
+Hash: 976485BC, Key: Callback42Header, Value: Enter the Relic Chamber

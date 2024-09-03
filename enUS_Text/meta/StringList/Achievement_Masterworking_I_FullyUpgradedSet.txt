@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Outfitted in Perfection
+Hash: 003892BF, Key: Desc, Value: Masterwork 9 pieces of gear to Rank 12.

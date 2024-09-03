@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hand-Drawn Schematics
+Hash: F2CA04D8, Key: NoticeSignText, Value: Mechanical designs of staggering complexity, penned by a delicate hand.

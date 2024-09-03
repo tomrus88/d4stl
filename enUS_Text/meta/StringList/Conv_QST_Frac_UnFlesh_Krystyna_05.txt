@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The woman was a demon. I have dealt with her."
+Hash: B9982F95, Key: Line21.103AFA, Value: If it's a reward you want, take the dagger from his chest... and leave me be.
+Hash: 1093D502, Key: VoiceDir21.103AFA, Value: Numb

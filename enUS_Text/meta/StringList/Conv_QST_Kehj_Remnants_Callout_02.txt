@@ -1,0 +1,3 @@
+Hash: 451DD220, Key: Line11.1089F0, Value: You can’t escape judgment, heretics!
+Hash: 1D9F6AAA, Key: Line13.103C6C, Value: No! Leave us be!
+Hash: 749B1017, Key: VoiceDir13.103C6C, Value: Scared. Panicked.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Binding Band
+Hash: F5C7BC0A, Key: Flavor, Value: The metal spoke of a Cage of Binding, reshaped into a simple ring.

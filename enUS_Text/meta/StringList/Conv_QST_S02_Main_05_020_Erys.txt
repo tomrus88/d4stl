@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The skull’s in place.”
+Hash: 67A72C3A, Key: Line3.1697C7, Value: Release the valve at the Blood Well to fill the basin, and we’ll get started.
+Hash: B7DD5807, Key: VoiceDir3.1697C7, Value: Focused.
+Hash: 402AD5FC, Key: Line5.1697C7, Value: Your power’s growing. You’re sure you aren't feeling anything strange?
+Hash: 906101C9, Key: VoiceDir5.1697C7, Value: Less veiled concern, as well as a bit of distrust.

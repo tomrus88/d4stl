@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Skill Point Tome
+Hash: A646FFA4, Key: Description, Value: Grants 1 Skill Point

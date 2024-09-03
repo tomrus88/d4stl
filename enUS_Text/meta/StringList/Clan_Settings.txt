@@ -1,0 +1,122 @@
+Hash: FB3FBCC1, Key: PendingRequests, Value: Pending Requests
+Hash: AD46BC4E, Key: Summary, Value: Summary
+Hash: 6A7CC59B, Key: Heraldry, Value: Heraldry
+Hash: 1451F55B, Key: Social, Value: Bans
+Hash: 003DFCC1, Key: Name, Value: Name (Required)
+Hash: 0001FA5C, Key: Tag, Value: Tag (Required)
+Hash: DAA74EF9, Key: MessageOfTheDay, Value: Message of the Day
+Hash: A646FFA4, Key: Description, Value: Description
+Hash: 114A0B04, Key: Region, Value: Region
+Hash: 02FFE5F3, Key: Labels, Value: Labels
+Hash: EF6323D0, Key: EditRegionAndLabels, Value: Edit Labels
+Hash: 44616C68, Key: Visibility, Value: Visibility
+Hash: 0DBE8FDF, Key: Public, Value: Public
+Hash: BF1519BB, Key: Private, Value: Private
+Hash: B1540F0C, Key: Membership, Value: Membership
+Hash: 003EC7F2, Key: Open, Value: Open
+Hash: 44C1F411, Key: InviteOnly, Value: Invite Only
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 003919A6, Key: Edit, Value: Edit
+Hash: F24FE8D1, Key: CreateInviteLink, Value: Create Invite Link
+Hash: 50D2D14B, Key: ClanBanList, Value: Clan Ban List
+Hash: 7531EDEB, Key: Generate, Value: Generate
+Hash: 08833274, Key: UnBan, Value: Unban
+Hash: C43D790E, Key: PlayerName, Value: {s1}
+Hash: 9FE6354B, Key: LeaveClan, Value: Leave Clan
+Hash: 44D5F5BC, Key: ComingSoon, Value: Coming Soon!
+Hash: 1A3EE9E4, Key: PendingRequestWarning, Value: You do not have permission to process clan applications.
+Hash: B6453D46, Key: VisibilitySetting, Value: Visibility: {s1}
+Hash: E1D9FF6A, Key: MembershipSetting, Value: Membership: {s1}
+Hash: 9A433D45, Key: EditClanName, Value: {s1}
+Hash: 06736721, Key: EditClanTagName, Value: <{s1}>
+Hash: 6FD603A8, Key: EditClanDescription, Value: {s1}
+Hash: 64E9D7DF, Key: EditMessageOfTheDay, Value: {s1}
+Hash: 4725C408, Key: SaveEdits, Value: Save Edits
+Hash: EE080366, Key: Cancel, Value: Reset Edits
+Hash: 283E7804, Key: ClanBanList_PlayerID, Value: Player ID
+Hash: CA059BF9, Key: ClanBanList_BanDate, Value: Ban Date
+Hash: 4AA87AF8, Key: DateSubmited_Date, Value: {s1}/{s2}/{s3}
+Hash: 5F3BBC0F, Key: DateSubmitted, Value: Date Submitted
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: 114B9D9D, Key: Reject, Value: Reject
+Hash: 07DBBC18, Key: Level, Value: Level
+Hash: 4F3DE02B, Key: ActiveTime, Value: Active Time
+Hash: 4C3033F9, Key: ActiveTime_Time, Value: {s1}
+Hash: C43DB583, Key: PlayerNote, Value: Player Note
+Hash: 5BF2D880, Key: Level_Number, Value: {s1}
+Hash: A49B9A45, Key: BannedOn, Value: Banned On
+Hash: 9FCF6722, Key: BannedOn_Date, Value: {s1}/{s2}/{s3}
+Hash: 5453E8B7, Key: EditClanDescriptionEmpty, Value: Character Limit {s1}
+Hash: 6F26AC74, Key: EditClanNameEmpty, Value: Character Limit 20
+Hash: 9E075FD0, Key: EditClanTagNameEmpty, Value: Character Limit 6
+Hash: 7337F74E, Key: EditMessageOfTheDayEmpty, Value: Character Limit {s1}
+Hash: 0F6D2CBC, Key: Permissions, Value: Permissions
+Hash: 972EE47E, Key: PermissionsTypeLabel, Value: Permission Description
+Hash: C804A09A, Key: PermissionsOfficerLabel, Value: Officer
+Hash: 13658ED4, Key: PermissionsMemberLabel, Value: Member
+Hash: B6F6853A, Key: PermissionsRecruitLabel, Value: Recruit
+Hash: 2C2F1ABC, Key: PermissionsSetMOTD, Value: Set Message of the Day
+Hash: F6916642, Key: PermissionsProcessApplications, Value: Process Clan Applications
+Hash: C8B0396A, Key: PermissionsRemove, Value: Remove Members
+Hash: 6338FA22, Key: PermissionsPromote, Value: Promote Members
+Hash: A808005A, Key: PermissionsDemote, Value: Demote Members
+Hash: 27AAF117, Key: PermissionsMute, Value: Mute Members
+Hash: B4597DEB, Key: PermissionsInvite, Value: Invite New Members
+Hash: 96FB4022, Key: PermissionsEditSelfNote, Value: Edit Note on Self
+Hash: C58ADB10, Key: PermissionsClanVoiceChat, Value: Speak in Clan Voice Chat
+Hash: C05B53A1, Key: PermissionsBanUnban, Value: Ban and Unban Members
+Hash: 693C2989, Key: Randomize, Value: Randomize
+Hash: 003768FB, Key: Base, Value: Base
+Hash: B6959169, Key: Symbols, Value: Symbols
+Hash: 0001B962, Key: Dye, Value: Dye
+Hash: 51F5367D, Key: HeraldryBaseBannerShape, Value: Banner Shape
+Hash: 6B2E52B3, Key: HeraldryBaseTextilePattern, Value: Textile Pattern
+Hash: A8B48E46, Key: HeraldryBaseTextileTexture, Value: Texture
+Hash: 380B4088, Key: HeraldryBaseEmbroidery, Value: Embroidery
+Hash: 20752DF2, Key: HeraldryBaseTrim, Value: Trim
+Hash: FF75C6F8, Key: HeraldryIconographyIcon1, Value: Symbol 1
+Hash: FF75C6F9, Key: HeraldryIconographyIcon2, Value: Symbol 2
+Hash: FF75C6FA, Key: HeraldryIconographyIcon3, Value: Symbol 3
+Hash: FF75C6FB, Key: HeraldryIconographyIcon4, Value: Symbol 4
+Hash: FF75C6FC, Key: HeraldryIconographyIcon5, Value: Symbol 5
+Hash: FF75C6FD, Key: HeraldryIconographyIcon6, Value: Symbol 6
+Hash: FF75C6FE, Key: HeraldryIconographyIcon7, Value: Symbol 7
+Hash: FF75C6FF, Key: HeraldryIconographyIcon8, Value: Symbol 8
+Hash: D32BD400, Key: HeraldryDyeColorPrimary, Value: Primary
+Hash: E33E76A4, Key: HeraldryDyeColorSecondary, Value: Secondary
+Hash: 1679C530, Key: HeraldryDyeColorTertiary, Value: Tertiary
+Hash: E9D51E3B, Key: HeraldryDyeColorTextile, Value: Textile Colors
+Hash: 32F678B1, Key: HeraldryUnSaved, Value: You have unsaved changes on your heraldry. Discard changes and leave?
+Hash: D1360803, Key: HeraldrySaveEdits, Value: Save Changes
+Hash: 932A5B3C, Key: OnlyLeaderMayEdit, Value: Only Leaders May Edit
+Hash: 5E04B1EF, Key: ClanSettings, Value: Clan Settings
+Hash: ADFD6A1A, Key: IconLayouts, Value: Symbol Layout
+Hash: AE8CB451, Key: HeraldryWarning, Value: Warning
+Hash: 9DD6F43A, Key: Heraldry_Return, Value: Return
+Hash: 5C7B0CC7, Key: Heraldry_DoNotSaveExit, Value: Discard Changes
+Hash: EA589CD4, Key: Summary_PublicFacing, Value: Clan Details
+Hash: 99B43BEC, Key: Summary_InternalOnly, Value: Internal Messages
+Hash: D5CB8FA4, Key: ClanInformation, Value: Clan Information
+Hash: 83DA6B18, Key: CharacterLimitReached, Value: Character Limit Reached ({s1})
+Hash: B858C413, Key: DisbandClan, Value: Disband Clan
+Hash: AE5B0C43, Key: ConfirmDisband, Value: Are you sure you want to disband your clan? Please enter the code below to confirm.
+Hash: 3F5E0E77, Key: LeaveError_Leadership, Value: You must transfer leadership before you can leave.
+Hash: B8A2063A, Key: DisbandError_Bank, Value: You must empty your clan hoard before you can disband your clan.
+Hash: E869FA1E, Key: PublicDesc, Value: Public: Your clan will be listed in search results. 
+Hash: 136A11FA, Key: PrivateDesc, Value: Private: Your clan will not be listed in search results. 
+Hash: F0B73749, Key: PermissionsLeaderLabel, Value: Leader
+Hash: 1DF293B4, Key: PermissionsAllRanks, Value: All Ranks
+Hash: 8FC00CFB, Key: PermissionsRanksLabel, Value: Set the minimum rank required to access clan features.
+Hash: F637885C, Key: EditSymbol, Value: Edit Symbol
+Hash: 5DCC9AC7, Key: ConfirmChanges, Value: Save Changes
+Hash: C68453E2, Key: RandomizeAll, Value: Randomize All
+Hash: 003766F1, Key: Back, Value: Back
+Hash: 00AA3841, Key: DisbandClanBody, Value: Are you sure you want to disband your clan? Please enter the code below to confirm.
+Hash: ADEEE636, Key: DisbandClanPlaceholder, Value: Clan Name
+Hash: C2602EDB, Key: ClanManagement, Value: Clan Management
+Hash: 7BC923D4, Key: Blocked, Value: Blocked
+Hash: FA4FD45A, Key: LimitedAccess, Value: Limited Access
+Hash: 8CAE1408, Key: LimitedAccessBody, Value: Your account is blocked from updated clan content. You can only view content now.
+Hash: BE9FB640, Key: HeraldryExitEditMode, Value: Exit Edit Mode
+Hash: 4B0C642B, Key: ConfirmRandomTemplate, Value: 
+Confirm Code: {s1}

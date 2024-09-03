@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Vicious Malignant Ichor
+Hash: A646FFA4, Key: Description, Value: A xanthous substance refined from Malignant Hearts. Used by Cormond to create new Hearts or Invokers.
+Hash: F5C7BC0A, Key: Flavor, Value: The orange ichor lends itself well to aggressive, offensive properties.

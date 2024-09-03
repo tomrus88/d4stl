@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shards of the Fiends
+Hash: 3A4912CF, Key: DescShort, Value: Collect Scattered Prisms, found from killing {icon:Marker_WorldEvent, 2.5} World Bosses or {icon:Marker_TreasureGoblin_TEMP, 2.5} Treasure Goblins

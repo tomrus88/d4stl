@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: The Miracle
+Hash: ED76B060, Key: Callback19Header, Value: Slay Malphas, Keeper of the Vaults
+Hash: 74FC533C, Key: Phase25Description, Value: There's no easy way to the Loom, but I knew this would test my mettle. Whatever perils await, I cannot afford to fail. 
+
+So long as the Loom exists, demons like Malphas will use it for their own ends. I must destroy the Loom, and Malphas with it.
+Hash: 58D5557C, Key: Callback24Header, Value: Progress through the Loom
+Hash: 45172A5D, Key: Callback34Header, Value: Slay Malphas, Keeper of the Vaults
+Hash: 75A12100, Key: Phase47Description, Value: Malphas is destroyed. The Loom must follow.
+Hash: B23C2F03, Key: Callback49Header, Value: Kill the Loom
+Hash: 83A035F4, Key: Callback158Header, Value: Place the objects in the pedestals {DONE_OVER_NEEDED}
+Hash: C4595E4B, Key: Phase114Description, Value: There is no easy way into the Loom itself, but I knew this endeavor would test my mettle. Whatever lays before me, whatever challenges await, I must press on. The Loom must be destroyed. 
+Hash: CCD5A370, Key: Callback190Header, Value: Search the Vault of the Loom for the Loom

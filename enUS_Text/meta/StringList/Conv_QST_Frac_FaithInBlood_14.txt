@@ -1,0 +1,4 @@
+Hash: 8EF252E7, Key: Line1.12BBC6, Value: (cruel laughter)
+Hash: 6775FCA9, Key: Line3.12BBC6, Value: Come to watch your friend die?
+Hash: B7AC2876, Key: VoiceDir3.12BBC6, Value: cruel, mocking
+Hash: 3FE2A9D8, Key: Line5.128F75, Value: Please, save her!

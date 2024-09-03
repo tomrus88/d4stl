@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Seneschal Supremacy
+Hash: 3A4912CF, Key: DescShort, Value: Equip 4 different types of Legendary Tuning Stones that are Rank 10 to your Construct

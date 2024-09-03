@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Toll of the Deep
+Hash: 36AC1DDC, Key: Callback51Header, Value: Destroy the Corroded Bell
+Hash: B98DBD5C, Key: Callback15Header, Value: Survive the enemy assault
+Hash: C5FA5A22, Key: Callback39Header, Value: Slay the remaining enemies
+Hash: F0CB5F43, Key: Callback67Header, Value: Destroy {NEEDED} Corroded Bells: {DONE_OVER_NEEDED}

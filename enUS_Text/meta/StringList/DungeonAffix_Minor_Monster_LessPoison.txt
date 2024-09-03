@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Poison Resist
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monsters take 60% less Poison damage.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monsters take 45% less Poison damage.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monsters take 30% less Poison damage.

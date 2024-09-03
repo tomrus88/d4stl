@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: The Smothered Ache
+Hash: 6EFD6A9E, Key: Phase72Description, Value: I've found the Vault of Stone, where Ayuzhan and Zoltun made the first Governing Stones. Ayuzhan's carving tools must be somewhere inside, but Malphas won't let us pass without a fight.
+Hash: 0F2FC79E, Key: Callback71Header, Value: Search the Vault of Stone for the Stoneworks
+Hash: 9012F763, Key: Callback76Header, Value: Observe
+Hash: 51B5B2AB, Key: Callback113Header, Value: Open the Door
+Hash: EF4FD180, Key: Phase83Description, Value: I've found the Vault of Stone, where Ayuzhan and Zoltun made the first Governing Stones. Ayuzhan's carving tools must be somewhere inside, but Malphas won't let us pass without a fight.
+Hash: 33514A50, Key: Callback109Header, Value: Progress through the Stoneworks
+Hash: 2F5A8F83, Key: Callback85Header, Value: Enter The Quarry
+Hash: 150401C6, Key: Phase89Description, Value: I've found the Vault of Stone, where Ayuzhan and Zoltun made the first Governing Stones. Ayuzhan's carving tools must be somewhere inside, but Malphas won't let us pass without a fight.
+Hash: 164945C6, Key: Callback88Header, Value: Find the Runecarving Tools
+Hash: 759F228E, Key: Phase126Description, Value: I've found the Vault of Stone, where Ayuzhan and Zoltun made the first Governing Stones. Ayuzhan's carving tools must be somewhere inside, but Malphas won't let us pass without a fight.
+Hash: BEDAB751, Key: Callback128Header, Value: Progress through the Stoneworks
+Hash: 15020354, Key: Phase168Description, Value: I've found the Vault of Stone, where Ayuzhan and Zoltun made the first Governing Stones. Ayuzhan's carving tools must be somewhere inside, but Malphas won't let us pass without a fight.
+Hash: F451F9AE, Key: Callback170Header, Value: Enter The Quarry

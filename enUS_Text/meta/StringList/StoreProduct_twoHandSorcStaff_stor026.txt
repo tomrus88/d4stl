@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Fate of all Magi"
+Hash: 003DFCC1, Key: Name, Value: Fate's Decree

@@ -1,0 +1,2 @@
+Hash: 3D2CA9A1, Key: Line17.8DD12, Value: Are you looking for the Eye, Lorath? Taking it will change nothing. It is too late to stop what Lilith has begun.
+Hash: 8D62D56E, Key: VoiceDir17.8DD12, Value: Elias knows what Lorath is after--he's trying to steal the Sightless Eye.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Enkil
+Hash: CC38ADCB, Key: FlavorName, Value: Animated Statue

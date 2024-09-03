@@ -1,0 +1,2 @@
+Hash: F41B88FE, Key: Line3.804B7, Value: A burial cairn up ahead.
+Hash: 6324EF2B, Key: VoiceDir3.804B7, Value: Intrigued, curious

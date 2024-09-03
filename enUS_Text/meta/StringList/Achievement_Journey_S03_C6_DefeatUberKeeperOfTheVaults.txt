@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Keeper of Nothing
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Echo of Malphas in {icon:Icon_WorldTier_4, 2.5} Torment, summoned in the Vault of the Loom with Igneous Cores and Shattered Stone materials

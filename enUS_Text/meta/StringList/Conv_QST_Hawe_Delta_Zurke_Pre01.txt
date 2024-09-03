@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hidden
+Hash: 8EB65F2C, Key: Line1.1086F0, Value: Where's that useless sack of flesh? I don't have time for this.
+Hash: DEEC8AF9, Key: VoiceDir1.1086F0, Value: Muttering to himself. Irritated. 
+Hash: 673A08EE, Key: Line3.1086F0, Value: You! Hither! I have use of you.
+Hash: B77034BB, Key: VoiceDir3.1086F0, Value: Clearer voice than previous line. Calling out to the Player with authority. 

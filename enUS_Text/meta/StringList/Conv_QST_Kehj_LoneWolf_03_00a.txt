@@ -1,0 +1,4 @@
+Hash: 4581604D, Key: Line24.D5161, Value: Done talking, eh? Guess you don’t need your tongue!
+Hash: 95B78C1A, Key: VoiceDir24.D5161, Value: To bandit captive. Angry. Intimidating. 
+Hash: A839DEA1, Key: Line22.54239, Value: I've told everything, I swear!
+Hash: F8700A6E, Key: VoiceDir22.54239, Value: Bruised. Begging. Desperate.

@@ -1,0 +1,4 @@
+Hash: F3E7629D, Key: Line3.5423F, Value: (muffled sobbing)
+Hash: 8E11B040, Key: Line5.836C1, Value: Hold the line, Knight! This is how it feels to have your faith truly tested. Do not falter.
+Hash: 27D055A1, Key: Line7.5423F, Value: Aye, commander!
+Hash: 96D9BBCE, Key: VoiceDir7.5423F, Value: voice breaking, barely holding it together

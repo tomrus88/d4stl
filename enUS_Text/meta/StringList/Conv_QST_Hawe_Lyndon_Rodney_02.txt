@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Lyndon - Orton Bark Pre
+Hash: 8ED91BE7, Key: Line1.124D41, Value: Did ya hear? Lyndon killed Orton. You don't think he thinks...
+Hash: DF0F47B4, Key: VoiceDir1.124D41, Value: Whisper yelling. Panicked and worried, but eager to tell the person next to you.
+Hash: 675CC5A9, Key: Line3.124D41, Value: He knows I didn't have nothing to do with that, right? Depths take me, I should lay low awhile.

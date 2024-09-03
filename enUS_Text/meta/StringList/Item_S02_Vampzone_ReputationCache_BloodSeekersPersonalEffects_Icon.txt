@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Seekers Personal Effects
+Hash: A646FFA4, Key: Description, Value: A collection of items stripped from a Blood Seeker.
+Hash: F5C7BC0A, Key: Flavor, Value: These items carry the stains of countless evil acts. Lets hope they find better use in your hands.

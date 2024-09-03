@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The city of Guulrahn is overrun with cannibals.”
+Hash: 5A157257, Key: Line1.710B6, Value: So I’ve heard. Years ago, I spread word of Inarius and his teachings to the city’s rulers. They spurned me, but it was not their fault. I was not convincing.
+Hash: C91ED884, Key: VoiceDir1.710B6, Value: Sad
+Hash: F409EBD9, Key: Line3.710B6, Value: If I had been, if they had joined us, we could have been there to stop this tragedy.

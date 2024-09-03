@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What happened between you and Lorath?”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: If you asked him, he’d say I abandoned the Horadrim’s ways.
+Hash: F427C5EC, Key: Line3.7FA05, Value: But all I wanted was to broaden our horizons. Forge new allies with the Cathedral. Start a family of my own.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: The thing about Lorath… it’s hard for him to get close to people, and even harder to let them go.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: taking a breath, telling it as it is, no judgment

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Phantom Barding
+Hash: A646FFA4, Key: Description, Value: It serves well enough for your traveling needs. As for how your horse can wear it, that remains an open question.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Echo of Hatred
+Hash: CF9A89D8, Key: Phase30Description, Value: Lilith's presence still lingers within your mind.
+
+Seek the end by way of the beginning.
+Hash: D9B88541, Key: Callback29Header, Value: Find the Echo of Hatred

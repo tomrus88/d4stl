@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Fell Council
+Hash: A985B06A, Key: Line22.1D252B, Value: You delay the inevitable. The Age of Hatred dawns over Sanctuary.
+Hash: 008155D7, Key: VoiceDir22.1D252B, Value: Grinning. Sinister. Superior.

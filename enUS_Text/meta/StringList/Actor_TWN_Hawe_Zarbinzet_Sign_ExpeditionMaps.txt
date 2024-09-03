@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Expedition Maps
+Hash: F2CA04D8, Key: NoticeSignText, Value: Various maps of the Hawezar swamps covered in circles that have been crossed out. It looks like most of the region has been scoured. 

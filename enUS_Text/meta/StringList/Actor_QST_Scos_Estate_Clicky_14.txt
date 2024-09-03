@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Alchemy Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: A table cluttered with alchemical instruments. A piece of parchment lists ingredients for an elixir to cure insomnia.

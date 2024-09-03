@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Broken Great Axe of Raekor
+Hash: F5C7BC0A, Key: Flavor, Value: The Great Axe of Raekor, now scarred and damaged by the Triune's meddling.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Crystal and Bone
+Hash: A646FFA4, Key: Description, Value: Though seemingly safe for human contact, the alchemized demon-bone and crystal barding has had an unforeseen effect on equine physiology.
+Hash: 083EE0CE, Key: Quote, Value: Beautiful yet horrible.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

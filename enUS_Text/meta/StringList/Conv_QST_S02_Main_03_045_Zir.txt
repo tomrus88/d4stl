@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mysterious Voice
+Hash: 8F3B878D, Key: Line1.16E226, Value: Child of the Eternal Conflict, waiting for the victor to claim them as servant...
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Philosophical, cynical.
+Hash: 67BF314F, Key: Line3.16E226, Value: Answer me something: have you ever felt like you were born with a noose around your neck, tied by your Mother and Father?
+Hash: 4042DB11, Key: Line5.16E226, Value: Enslaved by demons, threatened by angels… how do you fight the infinite when you are finite?

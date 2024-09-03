@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Vemp
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Disembodied Voice
+Hash: 767E0BB7, Key: Line1.0, Value: Vemp.
+Hash: AD796364, Key: VoiceDir1.0, Value: Whispered. Mysterious. Otherworldly.

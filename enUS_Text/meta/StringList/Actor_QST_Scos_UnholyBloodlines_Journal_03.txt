@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Una's Journal: Entry 3
+Hash: CC3C0A8F, Key: FlavorText, Value: Charred pages from a journal.
+Hash: F2CA04D8, Key: NoticeSignText, Value: I haven't told Lorcan, but every night I sneak out to a secluded place and try to unlock the totem. I barely sleep anymore, and when I do, I dream of running on all fours through the woods hunting the goatmen. They're calling to me.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Lorath is hunting Elias, the man who summoned Lilith.”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Elias. Another name I didn’t expect to hear today.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Surprised, taking it in
+Hash: F427C5EC, Key: Line3.7FA05, Value: Keep an eye on Lorath. This is personal for him—don’t let his feelings lead him astray.

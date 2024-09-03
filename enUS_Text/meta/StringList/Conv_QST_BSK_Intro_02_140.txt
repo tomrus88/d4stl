@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What was that demon in the Tomb?"
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: I’ve only ever read about them. It was human once. One of seven high priests of the Light, of course...corrupted as Sankekur was, by Mephisto himself.
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Bitter contempt. At a loss for why it appeared.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: How it appeared, I have no idea.
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Weary. Stressed. At a loss.

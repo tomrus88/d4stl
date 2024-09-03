@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elder Druid's Totem
+Hash: A646FFA4, Key: Description, Value: The totem of an elder druid, featuring the likeness of a sagacious owl.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Waste Not
+Hash: 3A4912CF, Key: DescShort, Value: Salvage Magic items at the {icon:Marker_Blacksmith, 2.5} Blacksmith

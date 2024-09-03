@@ -1,0 +1,3 @@
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Ahh, at last! Our ride out.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: Oh, Hell. A demon? Here?
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: horror, dismay

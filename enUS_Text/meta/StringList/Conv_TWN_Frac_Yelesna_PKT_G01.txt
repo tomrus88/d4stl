@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How goes?"
+Hash: 5D6D27F0, Key: Line1.F9C34, Value: This damned cold chills me to my bones. Can't wait to get out of here.

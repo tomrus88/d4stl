@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_bonus}Thorns{/c}
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: After attacking an enemy, your Thorns are increased by 200 for 3 seconds, up to 1000 at max stacks.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: After attacking an enemy, your Thorns are increased by 120  for 3 seconds, up to 600 at max stacks.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: After attacking an enemy, your Thorns are increased by 60 for 3 seconds, up to 300 at max stacks.

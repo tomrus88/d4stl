@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Genbar..."
+Hash: F51191AC, Key: Line23.371E1, Value: Visitors...? Did Master Elias send you?
+Hash: 4547BD79, Key: VoiceDir23.371E1, Value: Confused, then eager (to hear from Master Elias.)
+Hash: D6FC1563, Key: Line19.6D03F, Value: “Master Elias”...well...yes, in fact, he did. Ours is a very important mission.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: Thinking on his feet, then lying. Authoritative.
+Hash: 294970C2, Key: Line27.6D03F, Value: We have something for the Master, but we had heard he was with you. Do you know where he is?
+Hash: 797F9C8F, Key: VoiceDir27.6D03F, Value: Convincingly lying. Authoritative.
+Hash: 8F060B2E, Key: Line25.371E1, Value: Liar! Dirty, pigs-born liar!
+Hash: DF3C36FB, Key: VoiceDir25.371E1, Value: Suddenly furious. Violent.
+Hash: C2EEFE32, Key: Line29.371E1, Value: The Master has all he needs!
+Hash: 132529FF, Key: VoiceDir29.371E1, Value: Furious. Defiant. Preparing to attack.

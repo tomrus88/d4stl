@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ayuzhan bark
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: Thieving vermin! Let... go!
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: Straining, gritted teeth. Casting magic

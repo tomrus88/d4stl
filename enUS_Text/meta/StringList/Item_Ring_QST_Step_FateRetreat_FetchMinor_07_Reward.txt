@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Demoniac’s Boon
+Hash: F5C7BC0A, Key: Flavor, Value: A foul yet ornate ring originally crafted to channel stygian magics. On closer inspection, it appears someone has recently inscribed the inside of the band with sigils of the Angiris Council.

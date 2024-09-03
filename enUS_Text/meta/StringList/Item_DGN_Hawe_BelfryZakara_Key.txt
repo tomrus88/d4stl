@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Rusted Key
+Hash: A646FFA4, Key: Description, Value: Bound to Belfry Zakara
+Hash: F5C7BC0A, Key: Flavor, Value: Once a devout member of the Cathedral of Light, the Chaplain and his key are now bound to their new masters.

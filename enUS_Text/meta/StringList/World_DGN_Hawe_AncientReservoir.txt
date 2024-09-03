@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Reservoir
+Hash: 003892BF, Key: Desc, Value: A tainted wellspring runs under these ruins.

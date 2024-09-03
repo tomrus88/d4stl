@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hideout Entrance
+Hash: 003892BF, Key: Desc, Value: This entrance was obstructed by rubble. 

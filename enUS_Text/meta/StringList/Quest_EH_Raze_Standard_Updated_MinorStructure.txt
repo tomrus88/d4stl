@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Raze the Effigies
+Hash: 0F2FC79E, Key: Callback71Header, Value: Enter {EVENT_LEVELAREA}
+Hash: DF0BA3DF, Key: Callback36Header, Value: Destroy the enemy structures: {LEFT}
+Hash: B590DDE6, Key: Callback97Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: 3DC59C04, Key: Callback68Header, Value: {TIMELEFT} remaining

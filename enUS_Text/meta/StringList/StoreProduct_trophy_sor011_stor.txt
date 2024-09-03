@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Treasure of the Twin Birds
+Hash: 13A53A8B, Key: Series, Value: "Bird of Paradise"

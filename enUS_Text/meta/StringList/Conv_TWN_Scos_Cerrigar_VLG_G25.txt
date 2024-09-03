@@ -1,0 +1,2 @@
+Hash: 8EB459E7, Key: Line1.103C18, Value: You're free to visit, but don't speak of news from abroad. These folk deserve to heal in peace.
+Hash: DEEA85B4, Key: VoiceDir1.103C18, Value: To Player. Polite but firm. She doesn't look up from her scrolls.

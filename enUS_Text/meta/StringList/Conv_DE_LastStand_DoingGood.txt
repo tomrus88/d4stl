@@ -1,0 +1,6 @@
+Hash: 09319E3E, Key: Line13.7DD23, Value: We may yet survive!
+Hash: 5967CA0B, Key: VoiceDir13.7DD23, Value: In combat. Cautiously optimistic. 
+Hash: A32617BF, Key: Line15.7DD22, Value: I think we have a chance!
+Hash: F35C438C, Key: VoiceDir15.7DD22, Value: In combat. Cautiously optimistic. 
+Hash: 4012DF45, Key: Line17.AF367, Value: We’re going to make it!
+Hash: 90490B12, Key: VoiceDir17.AF367, Value: In combat. Cautiously optimistic.

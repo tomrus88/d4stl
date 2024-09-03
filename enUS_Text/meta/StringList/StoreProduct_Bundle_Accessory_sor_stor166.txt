@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Passion's Contrivance
+Hash: A646FFA4, Key: Description, Value: "What is more natural than 'want?' We are born wanting what the world has to offer. And we die wanting more time with it." -Mistress Rajani
+Hash: 083EE0CE, Key: Quote, Value: To have the heart's desire.
+Hash: 13A53A8B, Key: Series, Value: "Envious Lust" Accessories

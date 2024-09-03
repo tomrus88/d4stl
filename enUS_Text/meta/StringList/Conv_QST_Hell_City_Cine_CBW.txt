@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: C1F13152, Key: Line9.6D03F, Value: We must find Lilith. The only way to do that is to use the Eye.
+Hash: 6F2B10C2, Key: Line11.6DE47, Value: Are you serious? I know what happened the last time the Eye was used, I know it didn’t end well...
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Do you have a better idea? Any of you?
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: dismissive, mocking, talking over her
+Hash: A313225F, Key: Line15.6D03F, Value: That’s what I thought.
+Hash: 5A334C6A, Key: Line1.7FA05, Value: AAAGH!
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: pained outcry
+Hash: 3D087D48, Key: Line17.6DE47, Value: Donan!
+Hash: 8D3EA915, Key: VoiceDir17.6DE47, Value: shocked

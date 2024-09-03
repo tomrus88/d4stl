@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The winds are different here than other places in Scosglen."
+Hash: 8EB202AA, Key: Line1.10094E, Value: The brine shrivels your nose, but I wouldn't have it any other way.
+Hash: DEE82E77, Key: VoiceDir1.10094E, Value: pleased

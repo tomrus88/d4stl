@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Enhanced Pulverize
+Hash: 7786FD97, Key: Buff1_Description, Value: At {c_number}{SF_0}{/c} stacks, your next {c_important}Pulverize{/c} will {c_important}{u}Overpower{/u}{/c}.

@@ -1,0 +1,4 @@
+Hash: 5D82E86C, Key: Line1.FB742, Value: That as hard as you lot can hit?
+Hash: CC8C4E99, Key: VoiceDir1.FB742, Value: Drill seargant. Loud, gruff. Blunt.
+Hash: F77761EE, Key: Line3.FB742, Value: No wonder Inarius left us, couldn’t suffer watching your pathetic swordplay!
+Hash: 6680C81B, Key: VoiceDir3.FB742, Value: Drill seargant. Loud, gruff. Blunt.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is down there?"
+Hash: E60800D3, Key: Line16.1BCB9E, Value: It appears our tomb is actually a crypt... another deterrent for would-be grave robbers?
+Hash: 3D03A640, Key: VoiceDir16.1BCB9E, Value: Speculating. Engaged.
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: (chuckle) I suppose that's us.
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Amused. Seeking connection with Player.

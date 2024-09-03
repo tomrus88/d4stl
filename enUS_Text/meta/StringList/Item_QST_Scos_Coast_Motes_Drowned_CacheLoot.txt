@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Sailor's Vessel
+Hash: A646FFA4, Key: Description, Value: Grants items on use.
+Hash: F5C7BC0A, Key: Flavor, Value: Its thirst for death slaked, the magic seal appears to have faded.

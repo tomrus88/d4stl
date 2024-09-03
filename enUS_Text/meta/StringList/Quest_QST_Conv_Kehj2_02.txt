@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Anguish Incarnate
+Hash: 0871A46B, Key: Toast, Value: Defeat Andariel
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Defeat Andariel
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Elias appeared in a swirling sandstorm and summoned Andariel, a Lesser Evil, before leaving us to our fate. I must destroy Andariel.
+Hash: C9FCD1EA, Key: Phase5Description, Value: Elias appeared in a swirling sandstorm and summoned Andariel, a Lesser Evil, before leaving us to our fate. I must destroy Andariel.
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Defeat Andariel at the Blasted Scarps
+Hash: A07C739F, Key: Callback18Header, Value: Defeat Andariel
+Hash: D6E30DFE, Key: Phase27Description, Value: Elias appeared in a swirling sandstorm and summoned Andariel, a Lesser Evil, before leaving us to our fate. I must destroy Andariel.
+Hash: 5CDFD106, Key: Phase27OutsideSubzoneHeader, Value: Defeat Andariel at the Blasted Scarps
+Hash: F2C9CEFE, Key: Callback26Header, Value: Return to the Blasted Scarp

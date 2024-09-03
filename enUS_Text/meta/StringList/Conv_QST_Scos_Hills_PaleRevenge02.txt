@@ -1,0 +1,2 @@
+Hash: 5A270F7C, Key: Line1.804B7, Value: Wait! We...we are not your enemy!
+Hash: C93075A9, Key: VoiceDir1.804B7, Value: Scared, desperate.

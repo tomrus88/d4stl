@@ -1,0 +1,2 @@
+Hash: BD426355, Key: Line9.BAE4.Rog.F, Value: My allies are busy. I must wait.
+Hash: CFD5319D, Key: Line10.BAE4.Rog.F, Value: I can't join my allies right now.

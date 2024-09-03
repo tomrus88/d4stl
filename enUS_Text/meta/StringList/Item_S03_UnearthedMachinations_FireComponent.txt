@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Igneous Core
+Hash: A646FFA4, Key: Description, Value: Use at the Corrupted Altar found inside the Vault of the Loom in World Tier 4: Torment to unseal the path to the Echo of Malphas. Requires {c_number}7{/c}. Acquired from Vault Heralds and the Son of Malphas.
+Hash: F5C7BC0A, Key: Flavor, Value: A concentrated mote of fire. It scorches your palm.

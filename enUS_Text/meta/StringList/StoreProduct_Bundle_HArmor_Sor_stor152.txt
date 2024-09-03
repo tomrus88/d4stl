@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Celestial Court
+Hash: A646FFA4, Key: Description, Value: Sorcerers of the Court practice an ancient magic enhanced by the moon and stars. Adorned in opulence, they shimmer like the stars themselves, and they move as though their whole being dances in the light.
+Hash: 083EE0CE, Key: Quote, Value: Beyond the terrestrial sphere.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

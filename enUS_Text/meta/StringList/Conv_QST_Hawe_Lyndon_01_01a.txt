@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'll take the job."
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Ha! I knew you'd be interested. Meet me out back, and I'll give you the details.
+Hash: 6735A8AD, Key: Line3.10088C, Value: And of course, ehm, in the name of discretion, I trust that, uh, this will stay between us, hmm?

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Broken Carving
+Hash: F5C7BC0A, Key: Flavor, Value: A broken carving of what looks like part of a large beast, specifically the clawed limbs.

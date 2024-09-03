@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Belladonna
+Hash: A646FFA4, Key: Description, Value: The armor of a once-human monster, who preyed on our hopes and our future by abducting our children.
+Hash: 083EE0CE, Key: Quote, Value: The preservation of life, through the death of the innocent.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

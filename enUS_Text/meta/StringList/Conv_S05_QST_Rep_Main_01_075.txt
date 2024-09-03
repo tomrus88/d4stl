@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You don't like this plan, do you?"
+Hash: 3500B4E7, Key: Line12.1BCD2B, Value: I’d rather we paint the town in each other’s blood, but what would be the point?
+Hash: 8BFC5A54, Key: VoiceDir12.1BCD2B, Value: Shrugging. Candid.
+Hash: E608086B, Key: Line16.1BCD2B, Value: Hell will swallow the whole be-shited world, unless maybe you get stuck in its throat. I’d be glad to help you with that.
+Hash: 3D03ADD8, Key: VoiceDir16.1BCD2B, Value: Candid. Wolfish grin on "I'd be glad..."

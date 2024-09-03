@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hell's Champion
+Hash: A646FFA4, Key: Description, Value: Created for Lilith's mightiest warriors, this armor stokes the hatred inside the wearer and channels it for battle.
+Hash: 083EE0CE, Key: Quote, Value: The power of Hatred.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

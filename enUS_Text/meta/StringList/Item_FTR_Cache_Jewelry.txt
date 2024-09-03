@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Jewelry Cache
+Hash: A646FFA4, Key: Description, Value: A cache of items found inside Dungeons. Contains an assortment of Jewelry.
+Hash: F5C7BC0A, Key: Flavor, Value: Before gold coins were accepted as the universal currency, the wealthy fashioned gemstones and precious metals into jewelry. Court mages discovered these adornments could be enchanted magically.

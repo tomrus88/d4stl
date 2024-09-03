@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Ruined Tapestry
+Hash: CC3C0A8F, Key: FlavorText, Value: A torn and weathered tapestry.
+Hash: F2CA04D8, Key: NoticeSignText, Value: A frayed tapestry depicting a paladin slaying a faded representation of Mephisto.
+
+The mural is worn and battered. Despite its state, the artistry is clearly evident.

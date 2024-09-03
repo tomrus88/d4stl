@@ -1,0 +1,8 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Dusty Slip of Parchment
+Hash: 5D72A43E, Key: Line1.EDC74, Value: Work Order – Deliver to Mason 
+
+Head of the house wants a hole in the cellar bricked up. Passage runs higher and wider than other hallways in the keep. Eh, must’ve been around much longer.
+Hash: F7671DC0, Key: Line3.EDC74, Value: Limestone. Quarter shipment. Two hands should cover it. One good day’s work.
+Hash: 915B9742, Key: Line5.EDC74, Value: I, uh, should mention, you’re the second crew we’ve asked. First backed out after they saw the hole. I won’t deny, the damn thing raises the hackles. But Donan’s offering twice your rate to keep this quick and quiet. 
+
+What say you?

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rogue Sister Bakira
+Hash: CC3C0A8F, Key: FlavorText, Value: Bakira's corpse clutching a bloody note.

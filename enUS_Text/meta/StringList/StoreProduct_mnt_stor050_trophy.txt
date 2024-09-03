@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Exsul Improbus 
+Hash: 13A53A8B, Key: Series, Value: "Fallen Legionnaire"

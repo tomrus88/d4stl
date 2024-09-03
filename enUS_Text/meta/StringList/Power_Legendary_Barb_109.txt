@@ -1,0 +1,4 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Devilish Empowered
+Hash: 7786FD97, Key: Buff1_Description, Value: Your next {c_important}Core{/c} Skill will spawn a {c_important}Dust Devil{/c}.
+Hash: 12713EB5, Key: Buff2_Name, Value: Devilish Build Up
+Hash: C6E60718, Key: Buff2_Description, Value: Building Fury for {c_important}Dust Devil{/c}.

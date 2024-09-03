@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: The Ruins of Qara-Yisu
+Hash: 0871A46B, Key: Toast, Value: The salt-covered ruins of a town afflicted by a sadistic curse
+Hash: 9F90DE2D, Key: Callback7Header, Value: Find and destroy the Infernal Spires {DONE_OVER_NEEDED}
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay {MONSTER}
+Hash: CEA227A3, Key: Callback94Header, Value: Explore the Ruins of Qara-Yisu
+Hash: 6FE82F7E, Key: Callback62Header, Value: Rekindle the Wanderer's Shrine to conquer Qara-Yisu
+Hash: CB7F6448, Key: Callback101Header, Value: Investigate the disturbance at the mine
+Hash: 51B5B2AB, Key: Callback113Header, Value: Investigate the disturbance at the mine
+Hash: EBAA2C2D, Key: Callback115Header, Value: Return to the mine

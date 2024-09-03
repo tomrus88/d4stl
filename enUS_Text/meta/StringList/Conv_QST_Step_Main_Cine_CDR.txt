@@ -1,0 +1,24 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A1FE05B, Key: Line1.6E261, Value: Zolaya!
+Hash: F41459DD, Key: Line3.6E261, Value: Oyuun?
+Hash: 76444294, Key: Line28.6E261, Value: Ohh, you've come back to me!
+Hash: C67A6E61, Key: VoiceDir28.6E261, Value: tearful disbelief, overwhelmed
+Hash: DB031020, Key: Line6.6E261, Value: You waited...kept yourself in danger.
+Hash: 4A0C764D, Key: VoiceDir6.6E261, Value: (tearful, frowning)
+Hash: 74F789A2, Key: Line8.6E261, Value: Oh, you stubborn cow, of course I waited! Where would I go without you to tell me?
+Hash: E400EFCF, Key: VoiceDir8.6E261, Value: tearful, grinning, teasing
+Hash: 223087AB, Key: Line10.6E261, Value: Anywhere away from here.
+Hash: 7266B378, Key: VoiceDir10.6E261, Value: tearful laugh
+Hash: BC246C1C, Key: Line12.6D03F, Value: (sniff) Yes, well...you're a lucky fool, I'll give you that.
+Hash: 0C5A97E9, Key: VoiceDir12.6D03F, Value: a little choked up, redirecting
+Hash: 56197AAF, Key: Line14.6E261, Value: Ah, Lorath here sent this one to find you. They need your help getting into the palace.
+Hash: F00DF431, Key: Line16.6E261, Value: (breath) There’s an old escape tunnel. The entrance is in the caverns nearby, behind an alcove marked with the Overseer’s Cross.
+Hash: 40441FFE, Key: VoiceDir16.6E261, Value: eager to help
+Hash: FAB4316D, Key: Line30.6E261, Value: Twin sabres joined at the hilt. Press the left pommel to open the way.
+Hash: D6FC1563, Key: Line19.6D03F, Value: Caverns...hmm, could be worse.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: dry, shrugging it off
+Hash: 5B6C994D, Key: Line21.6E261, Value: Wanderer?
+Hash: 94A8AAEF, Key: Line32.6E261, Value: Thank you. Take care of yourself.
+Hash: E4DED6BC, Key: VoiceDir32.6E261, Value: sincere
+Hash: 425B4F90, Key: Line24.6E261, Value: (clicking) Let's go! Hyah!
+Hash: DC4F3401, Key: Line26.6D03F, Value: I think that was the merchant’s horse. Best not tell him.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Acts of Atonement
+Hash: 003892BF, Key: Desc, Value: Complete the Acts of Atonement questline in Kehjistan.
+Hash: 3DA55525, Key: Crit_236090, Value: An Errant Flock
+Hash: 3DA55526, Key: Crit_236091, Value: Acts of Atonement
+Hash: 3DA55527, Key: Crit_236092, Value: Justice Delayed
+Hash: 3DA55528, Key: Crit_236093, Value: An Unlawful Order

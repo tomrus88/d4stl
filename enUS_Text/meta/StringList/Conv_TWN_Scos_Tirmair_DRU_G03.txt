@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've heard a wolf howling."
+Hash: 11C51FBA, Key: Line20.EDC0F, Value: I have heard his wolf's lament. Nafain is now one with nature...perhaps that is for the best.
+Hash: ABB9993C, Key: Line22.EDC0F, Value: Nafain, my kin. What happened to you?

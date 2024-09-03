@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Lucky Coin
+Hash: A646FFA4, Key: Description, Value: An ornate coin
+Hash: F5C7BC0A, Key: Flavor, Value: Hopefully it brings better luck for you than it did its previous owner

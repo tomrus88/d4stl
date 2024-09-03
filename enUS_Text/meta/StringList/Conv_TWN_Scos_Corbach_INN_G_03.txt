@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Is there anything I can do to help these people?” 
+Hash: 5D6C7525, Key: Line1.F9924, Value: Best thing you can do is bugger off and stop stickin’ your nose where it don’t belong.
+Hash: CC75DB52, Key: VoiceDir1.F9924, Value: short

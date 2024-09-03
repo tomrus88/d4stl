@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What took Cecil?" 
+Hash: 5E5A2B57, Key: Line21.A109C, Value: A wight. Something that’s haunted the coast for generations. It uses the weak to prey on the rest of us.
+Hash: F84EA4D9, Key: Line23.A109C, Value: I haven't seen one since... well.
+Hash: 92431E5B, Key: Line25.A109C, Value: That doesn't matter. I knew this day was coming.
+Hash: E2794A28, Key: VoiceDir25.A109C, Value: Musing, then firmer for second sentence.
+Hash: 2C3797DD, Key: Line27.A109C, Value: If you mean to help me, meet me at the Abandoned Coast. I could use you.
+Hash: 7C6DC3AA, Key: VoiceDir27.A109C, Value: Clear, direct. 

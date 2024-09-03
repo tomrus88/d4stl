@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Returning Champion"
+Hash: 003DFCC1, Key: Name, Value: Primal Instinct

@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Path of the Hydra
+Hash: A646FFA4, Key: Description, Value: She roared and her words became fire, her sword a monument of flame –
+Let loose the wrath of her people, as the Hydra's shackles turned to ash – 
+-old Zann Esu proverb, 
+"Habacalva Frees the Hydra"
+Hash: 083EE0CE, Key: Quote, Value: True deliverance.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Ancient Hydra" Accessories

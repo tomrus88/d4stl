@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Blessing of Hatred
+Hash: F71E3DEE, Key: Line3.ACEF6, Value: Even better than I had expected. Remember... when all hope is lost, Hatred will provide.
+Hash: 6627A41B, Key: VoiceDir3.ACEF6, Value: Appraising
+Hash: 9112B770, Key: Line5.ACEF6, Value: Receive Mephisto’s blessing.

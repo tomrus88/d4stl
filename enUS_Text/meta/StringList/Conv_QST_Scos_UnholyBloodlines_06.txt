@@ -1,0 +1,2 @@
+Hash: 5D72A43E, Key: Line1.EDC74, Value: (scream) You will not take this from us!
+Hash: CC7C0A6B, Key: VoiceDir1.EDC74, Value: Enraged

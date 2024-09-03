@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Strip their Souls
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Aether Fiends, Aether Lords, and Infernal Demons

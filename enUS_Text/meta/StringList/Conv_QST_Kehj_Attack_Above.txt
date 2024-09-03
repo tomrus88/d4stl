@@ -1,0 +1,3 @@
+Hash: F409EBD9, Key: Line3.710B6, Value: Ambush, from the rooftops!
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Go! We’ll handle things here.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: to the player

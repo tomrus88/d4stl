@@ -1,0 +1,9 @@
+Hash: 73AFD176, Key: 01ToMe, Value: Come here.
+Hash: 2C83BB36, Key: 05Danger, Value: Danger here!
+Hash: 3ADD6459, Key: 09PvPFlag, Value: Flag hostile?
+Hash: E8799C92, Key: 02ToMyPin, Value: Go to my pin.
+Hash: 7427BDD1, Key: 08Help, Value: I need help!
+Hash: 94EC36BC, Key: 06BeRightBack, Value: Be right back.
+Hash: D2F4778E, Key: 07ImBack, Value: I'm back.
+Hash: 4B253113, Key: 03FullBags, Value: My bags are full.
+Hash: 9465F7E0, Key: 04BackToTown, Value: I'm going back to town.

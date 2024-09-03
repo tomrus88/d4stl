@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Altar of Lilith Collector
+Hash: 003892BF, Key: Desc, Value: Claim all Altars of Lilith.
+Hash: 3DA44C65, Key: Crit_234416, Value: Dry Steppes
+Hash: EF392D62, Key: Crit_1, Value: Fractured Peaks
+Hash: 3DA45589, Key: Crit_234663, Value: Hawezar
+Hash: 3DA4558A, Key: Crit_234664, Value: Kehjistan
+Hash: 3DA4558B, Key: Crit_234665, Value: Scosglen

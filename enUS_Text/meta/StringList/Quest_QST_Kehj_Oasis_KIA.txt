@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: On the Hunt
+Hash: 0871A46B, Key: Toast, Value: A rogue Iron Wolf hunts an elusive mark.
+Hash: F54EBA1E, Key: Phase36Description, Value: Haddad, the Iron Wolf Captain, has asked that I be on the lookout for a lone Iron Wolf soldier named Dawood.
+Hash: 9211671E, Key: Callback35Header, Value: Search for Dawood
+Hash: D5F3B5FC, Key: Callback60Header, Value: Speak with Dawood
+Hash: 1F9E611D, Key: Phase62Description, Value: I've found Dawood. He's asked that I help him hunt the criminals that killed his friends.
+Hash: 09DCA900, Key: Callback64Header, Value: Defeat Malik and his gang
+Hash: 8229E9A3, Key: Phase86Description, Value: Dawood is safe and will be returning to Dahlgur. I should inform Haddad.
+Hash: 2F5A8F83, Key: Callback85Header, Value: Speak with Haddad

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here you go."
+Hash: 8F18B590, Key: Line1.14FBD8, Value: Thank you, wanderer.

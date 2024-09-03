@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: City of the Ancients
+Hash: 003892BF, Key: Desc, Value: Power stirs in this place. And in you.

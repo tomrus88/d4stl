@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Penitent Greaves
+Hash: F5C7BC0A, Key: Flavor, Value: Remorseful devotees of the Cathedral of Light must undertake a grueling pilgrimage, journeying across the frigid glacier known as the Serac Rapture. Only then may their gravest sins be forgiven.

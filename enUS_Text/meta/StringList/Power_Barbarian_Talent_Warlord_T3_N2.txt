@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Furious Impulse
+Hash: 003892BF, Key: desc, Value: Each time you swap weapons, gain {c_number}{SF_0}{/c} Fury.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2}Fury {icon:arrow, 1.2} {c_number}{SF_0}{/c}

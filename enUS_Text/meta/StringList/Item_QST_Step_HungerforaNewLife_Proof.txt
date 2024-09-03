@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Oyuun's "Proof"
+Hash: A646FFA4, Key: Description, Value: Scraps of paper evidently used as a makeshift journal by Oyuun during her captivity.
+Hash: F5C7BC0A, Key: Flavor, Value: "... but the hunger is growing like a fire inside me. Though all they offer us is human flesh, I fear soon this hunger will overtake me, and I will have no choice but to give in ..."

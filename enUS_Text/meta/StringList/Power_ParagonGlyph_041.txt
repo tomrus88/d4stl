@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: The Passive portion of {c_important}Companion{/c} Skills deal {c_number}[{SF_0}*100|x%|]{/c} increased damage.

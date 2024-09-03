@@ -1,0 +1,20 @@
+Hash: 25213256, Key: Leveling, Value: Leveling
+Hash: 1451F55B, Key: Social, Value: Social
+Hash: EE0B0D59, Key: Casual, Value: Casual
+Hash: 36C55B68, Key: Hardcore, Value: Hardcore
+Hash: 0001EC0B, Key: PvE, Value: PvE
+Hash: 0001EC16, Key: PvP, Value: PvP
+Hash: 66D6500A, Key: English, Value: English
+Hash: 88A9ECAF, Key: Brazilian Portuguese, Value: Brazilian Portuguese
+Hash: A594E916, Key: Chinese (Simplified), Value: Chinese (Simplified)
+Hash: 247FC4EB, Key: Chinese (Traditional), Value: Chinese (Traditional)
+Hash: F6365CF6, Key: French, Value: French
+Hash: F7A7637A, Key: German, Value: German
+Hash: A851A182, Key: Italian, Value: Italian
+Hash: 01B0D900, Key: Korean, Value: Korean
+Hash: 0D576D2F, Key: Polish, Value: Polish
+Hash: 60BC7CA5, Key: Russian, Value: Russian
+Hash: 8B6B6D6C, Key: Spanish (Latin-American), Value: Spanish (Latin-American)
+Hash: 0A6E4827, Key: Japanese, Value: Japanese
+Hash: FBD7E1BF, Key: Spanish (Castilian), Value: Spanish (Castilian)
+Hash: FA9A7CEA, Key: Turkish, Value: Turkish

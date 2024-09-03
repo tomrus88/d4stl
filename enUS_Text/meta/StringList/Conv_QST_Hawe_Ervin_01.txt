@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "We should go; it isn't safe here."
+Hash: 8EB34783, Key: Line1.101CAF, Value: Thank the High Heavens! I was starting to think someone might never come along.
+Hash: DEE97350, Key: VoiceDir1.101CAF, Value: Grateful and a bit winded; he just jogged to safety.
+Hash: 2BFC6FE8, Key: Line6.101CAF, Value: Yes, I - (winces) I believe I will be, if only I might rest a spell and get some food in me.
+Hash: 7C329BB5, Key: VoiceDir6.101CAF, Value: Humble but mildly injured, fatigued.
+Hash: F6220138, Key: Line15.101CAF, Value: A gracious offer. I'll do my best not to slow you down.
+Hash: 4D1DA6A5, Key: VoiceDir15.101CAF, Value: Humble, grateful.

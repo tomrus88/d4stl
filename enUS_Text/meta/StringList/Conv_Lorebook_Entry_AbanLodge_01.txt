@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Reward Poster
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Reward Poster
+Hash: 5A270FDE, Key: Line1.804E6, Value: Attention, Noble Hunters of Scosglen! 
+
+By our Father’s divine authority, the Cathedral of Light offers GOLD in exchange for pelts of Bear, Wolf, Quillrat, and Warg. These dangerous predators must be quelled for the safety of your families and the prosperity of Scosglen.
+Hash: C930760B, Key: VoiceDir1.804E6, Value: Stoic. Clear. Authoritative.
+Hash: F41B8960, Key: Line3.804E6, Value: To submit your claims, report to the Quartermaster of Cerrigar.
+Hash: 6324EF8D, Key: VoiceDir3.804E6, Value: Stoic. Clear. Authoritative.

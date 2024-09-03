@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Shared Misery
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} When you hit a Crowd Controlled enemy, there is up to a {c_random}[Affix_Value_1|%|]{/c} chance for that Crowd Control effect to spread to another unaffected enemy.
+Hash: 82B7D312, Key: CodexDesc, Value: Hitting a Crowd Controlled enemy has a {c_random}[Affix_Value_1|%|]{/c} chance to spread the effect.

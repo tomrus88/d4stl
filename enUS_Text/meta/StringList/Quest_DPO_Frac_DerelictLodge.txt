@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Abandoned lodge.
+Hash: B78F4DA1, Key: Callback56Header, Value: Slay the Enforcers: {LEFT}
+Hash: 9E7E03E4, Key: Callback59Header, Value: Defeat the {MONSTER}
+Hash: DD0D3424, Key: Callback77Header, Value: Travel to the {LEVELAREA}
+Hash: AE775FBE, Key: Callback80Header, Value: Search the Slain Villagers for the {ITEM}
+Hash: C94F0905, Key: Callback87Header, Value: Use the Bloodstained Key to open the {GIZMO}
+Hash: 1B9C6464, Key: Callback95Header, Value: Travel to the {LEVELAREA}

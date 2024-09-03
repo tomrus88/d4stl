@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Research Tomes
+Hash: CC3C0A8F, Key: FlavorText, Value: A pile of research material about demons.
+Hash: F2CA04D8, Key: NoticeSignText, Value: Taissa has scrawled in the margins of one of the books: "Andariel is both the torment and the tormenter. There is no end to the cycle."

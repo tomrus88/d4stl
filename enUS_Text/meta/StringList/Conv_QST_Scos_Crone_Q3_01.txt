@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This will contain the wyld magic."
+Hash: 27B4AD0D, Key: Line7.2CDEB, Value: Yuein has a scroll for everything, doesn't he? Let me see it. Ooh, interesting.
+Hash: 96BE133A, Key: VoiceDir7.2CDEB, Value: distracted, thinking, trailing off
+Hash: 59D74087, Key: Line1.2CDEB, Value: The spell is old. Intricate. But I have another familiar, Mochrann, who is suitable for the task.
+Hash: C8E0A6B4, Key: VoiceDir1.2CDEB, Value: Serious
+Hash: F3CBBA09, Key: Line3.2CDEB, Value: Mochrann will suppress the wild magic. Please protect him. At my age, I can’t afford to trade any more of my life essence to create a familiar.
+Hash: 62D52036, Key: VoiceDir3.2CDEB, Value: First line Direct, and the rest tired
+Hash: 8DC0338B, Key: Line5.2CDEB, Value: Keep up your guard. I expect there will be trouble.
+Hash: FCC999B8, Key: VoiceDir5.2CDEB, Value: Amused

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found the Child's Caul."
+Hash: 18ABE7DA, Key: Line7.163AA1, Value: Ah, ha. Yes. This is the blanket that warmed Prava in her sickbed… It is smaller than I imagined.
+Hash: 68E213A7, Key: VoiceDir7.163AA1, Value: As if receiving what is rightly his.
+Hash: F12F919C, Key: Line9.163AA1, Value: Pfeh. Maybe you are the fool who teaches the priest true faith.
+Hash: 4165BD69, Key: VoiceDir9.163AA1, Value: Half-mocking.
+Hash: 458850C5, Key: Line11.163AA1, Value: Join me in the Elysiuma Archives. There, I will drive this demon from your body.
+Hash: 9C83F632, Key: VoiceDir11.163AA1, Value: hiding a guilty excitement

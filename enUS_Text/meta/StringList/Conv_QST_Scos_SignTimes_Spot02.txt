@@ -1,0 +1,3 @@
+Hash: 5D201CB4, Key: Line1.B20CF, Value: Oh, Tavish interrupted a Cathedral service once. Nipped a prayer drape for his cold feet. Priest was furious!
+Hash: CC2982E1, Key: VoiceDir1.B20CF, Value: Fondly recalling the past. humored by Tavish's antics.
+Hash: F7149636, Key: Line3.B20CF, Value: Tavish never graced a church again, but swore he’d thumb his nose at the lot. Heh, what better place than their old nest taken by the undead?

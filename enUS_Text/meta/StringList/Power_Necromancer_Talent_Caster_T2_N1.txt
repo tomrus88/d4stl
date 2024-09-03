@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Terror
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0} * 100|%x|]{/c} increased Shadow damage to enemies who are Slowed or {c_important}{u}Chilled{/u}{/c}, and {c_number}[{SF_1} * 100|%x|]{/c} increased Shadow damage to enemies who are Stunned, Immobilized, or {c_important}{u}Frozen{/u}{/c}. These bonuses stack and apply to Shadow damage dealt by your Minions.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Increased {c_important}Darkness{/c} Damage vs. Slowed or {c_important}{u}Chilled{/u}{/c} {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}
+{icon:bullet,1.2} Increased {c_important}Darkness{/c} Damage vs. Stunned, Immobilized, or {c_important}{u}Frozen{/u}{/c} {icon:arrow,1.2} {c_number}[{SF_1} * 100|%x|]{/c}

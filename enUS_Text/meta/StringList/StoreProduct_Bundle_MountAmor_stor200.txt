@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Charge of the Devastators
+Hash: A646FFA4, Key: Description, Value: Bartuc's warriors were known to ride at full gallop into the defending lines, shredding the Ammuit and Ennead forces in a storm of hellfire and blackened steel.
+Hash: 083EE0CE, Key: Quote, Value: Few held their ground to face the charge.
+Hash: 13A53A8B, Key: Series, Value: "Reign of the Wicked" Mount Armor

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Shattered Tribute
+Hash: 0871A46B, Key: Toast, Value: Pay tribute to the Bear Tribe with a show of strength.
+Hash: D53BFF05, Key: Phase0Description, Value: Sena of the Bear Tribe has asked me to slay Ice Clan khazra and return their bones to her as tribute.
+
+The Ice Clan are known to stalk the slopes of Fields of Judgment and the tunnels of Hoarfrost Demise.
+Hash: C5FA5A22, Key: Callback39Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: C9FCD1EA, Key: Phase5Description, Value: The bones of countless Ice Clan khazra clatter within my bags. I should return to the Bear Tribe Refuge and present the Chieftain with my collection.
+Hash: B8A227EA, Key: Callback4Header, Value: Return to Sena

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Invasion of Privacy
+Hash: 003892BF, Key: Desc, Value: Rummage through Wardwoven Chests until you have read all of Zoltun Kulle's journal entries

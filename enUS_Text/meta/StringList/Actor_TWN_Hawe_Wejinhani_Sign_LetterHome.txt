@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Letter Home
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Mother,
+I'm sorry for disappearing after saying those awful things. I know it was hard watching me die in front of you, so I sought aid in the swamps of Hawezar. You were right. Nothing could be done, but I had to try. Please don't hate me.
+Myfi"

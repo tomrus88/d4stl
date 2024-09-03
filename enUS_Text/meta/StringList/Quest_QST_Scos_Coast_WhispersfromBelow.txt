@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Whispers from Below
+Hash: 0871A46B, Key: Toast, Value: Beware what calls from the murk.
+Hash: D53BFF05, Key: Phase0Description, Value: I investigated the two dead boys. Their bodies are bloated with water, as if drowned.
+
+Roina believes Cecil, their grandfather, is likely in danger as well. We should search the river for any sign of his disappearance. 
+Hash: C94F0905, Key: Callback87Header, Value: Search for Cecil with Roina
+Hash: 4408F5DB, Key: Phase24Description, Value: Roina and I found Cecil by the river’s edge only to see him taken by some creature from the murk. 
+
+I should speak with Roina and see if she recognizes this fiend.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Speak with Roina
+Hash: 8D6916BE, Key: Phase81Description, Value: I met Roina, a local hunter, near a house east of Marowen. Beside her are the bodies of two young boys—each soaked with rot. 
+
+Something is wrong here. I should investigate.
+Hash: 95661601, Key: Callback83Header, Value: Investigate the bodies of Callum and Devlin

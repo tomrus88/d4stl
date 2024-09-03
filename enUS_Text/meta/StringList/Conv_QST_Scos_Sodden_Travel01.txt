@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What, exactly, is a water wight?"
+Hash: F701EBE7, Key: Line3.A109C, Value: Anyone who's lived on the coast knows about it.
+Hash: 2AEADEEB, Key: Line7.A109C, Value: It came to my village when I was young. (laugh) No better place to feed on misery than a small seaside village, hmm?
+Hash: 99F44518, Key: VoiceDir7.A109C, Value: condescending laugh
+Hash: C4DF586D, Key: Line9.A109C, Value: It picks one person--spurned or envious--and promises them justice or vengeance. But it just brings more suffering. The wight feeds, grows strong, and the cycle continues.

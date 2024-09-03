@@ -1,0 +1,9 @@
+Hash: F52F537E, Key: TwoHanded, Value: Requires a Two-Handed weapon
+Hash: E7D66F97, Key: TwoHandedSlashing, Value: Requires a Two-Handed Slashing weapon
+Hash: 2DC50AEC, Key: TwoHandedBludgeoning, Value: Requires a Two-Handed Bludgeoning weapon
+Hash: AA154BFB, Key: DualWield, Value: Requires Dual Wielded weapons
+Hash: 85C47E19, Key: Slashing, Value: Requires a Slashing weapon
+Hash: 34E7A22E, Key: Bludgeoning, Value: Requires a Bludgeoning weapon
+Hash: 110575D1, Key: Ranged, Value: Requires a Ranged weapon
+Hash: 68C70BB0, Key: FullBarbArsenal, Value: Requires a Full Arsenal of weapons
+Hash: D466A125, Key: AnyBarbArsenal, Value: Requires any complete Arsenal weapon

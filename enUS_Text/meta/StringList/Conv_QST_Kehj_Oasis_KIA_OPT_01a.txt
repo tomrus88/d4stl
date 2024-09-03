@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How did you become an Iron Wolf?”
+Hash: 402E41AF, Key: Line17.D5161, Value: Well... it was Captain Haddad’s fault.
+Hash: 90646D7C, Key: VoiceDir17.D5161, Value: Grinning. Knows he's a pain in Haddad's ass.
+Hash: 0C454EAB, Key: Line13.D5161, Value: He caught me robbing ships in Gea Kul. (scoff) I was barely old enough to shave.
+Hash: 5C7B7A78, Key: VoiceDir13.D5161, Value: Ashamed of the past.
+Hash: A639C82D, Key: Line15.D5161, Value: By law, he should've cut off my hand, but he brought me to Dahlgur instead. Made me an Iron Wolf.
+Hash: F66FF3FA, Key: VoiceDir15.D5161, Value: Heavy. Deep respect.

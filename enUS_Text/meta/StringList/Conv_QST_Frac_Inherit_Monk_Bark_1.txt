@@ -1,0 +1,2 @@
+Hash: 8ED899EA, Key: Line1.123EBF, Value: Get up! She must be stopped before more are hurt! You there! Help!
+Hash: DF0EC5B7, Key: VoiceDir1.123EBF, Value: Commanding shouts

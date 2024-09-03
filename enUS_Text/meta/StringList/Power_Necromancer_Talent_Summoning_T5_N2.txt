@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Kalan's Edict
+Hash: 003892BF, Key: desc, Value: Your Minions gain {c_number}[{SF_1} * 100|%+|]{/c} Attack Speed for each active Minion.
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Kalan's Edict
+Hash: 53C1369D, Key: Buff7_Description, Value: Your Minions have increased Attack Speed.

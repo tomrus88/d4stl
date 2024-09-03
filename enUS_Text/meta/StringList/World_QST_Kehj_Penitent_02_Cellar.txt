@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Commandeered House 
+Hash: 003892BF, Key: Desc, Value: A residence forcibly taken over by the Knights Penitent

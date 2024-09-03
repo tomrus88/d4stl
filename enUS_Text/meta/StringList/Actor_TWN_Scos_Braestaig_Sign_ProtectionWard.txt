@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Protection Ward
+Hash: F2CA04D8, Key: NoticeSignText, Value: A hastily painted protection ward guards the door of this home. Despite the thick stone façade, the faint cries of a newborn can still be heard.

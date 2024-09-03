@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mordreth's Grimoire
+Hash: A646FFA4, Key: Description, Value: A book of spells, hexes and potions

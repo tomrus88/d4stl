@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Full Tack
+Hash: 003892BF, Key: Desc, Value: Acquire Mount Armor and a Trophy to unlock new customizations for your mount.
+Hash: 3DA448EA, Key: Crit_234376, Value: Trophy
+Hash: 3DA4C7E3, Key: Crit_235026, Value: Mount Armor
+Hash: 3A4912CF, Key: DescShort, Value: Acquire mount items.

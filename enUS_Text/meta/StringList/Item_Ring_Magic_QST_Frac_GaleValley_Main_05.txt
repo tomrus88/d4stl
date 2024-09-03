@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Miner's Litany
+Hash: F5C7BC0A, Key: Flavor, Value: A simple ring inscribed with a prayer:
+“Shield me, Father, from crushing stones;
+from noxious gas and living bones.
+For if your way I do forsake; 
+My life I offer, yours to take.”

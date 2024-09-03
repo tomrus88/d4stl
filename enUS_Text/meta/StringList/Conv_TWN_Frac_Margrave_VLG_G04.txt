@@ -1,0 +1,2 @@
+Hash: 5D59265C, Key: Line1.E7243, Value: Saw you pass the altar on your way in, didn't offer a prayer. Perhaps you missed it?
+Hash: CC628C89, Key: VoiceDir1.E7243, Value: To Player. Suspicious. Cold. Slightest benefit of the doubt.

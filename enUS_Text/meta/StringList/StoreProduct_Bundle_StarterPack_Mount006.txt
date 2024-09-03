@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Liath Icehowl
+Hash: A646FFA4, Key: Description, Value: Once used to ferry bodies to their rest, this mottled colt carries with it the trinkets of heroes long dead and buried.
+Hash: 13A53A8B, Key: Series, Value: Crypt Hunter

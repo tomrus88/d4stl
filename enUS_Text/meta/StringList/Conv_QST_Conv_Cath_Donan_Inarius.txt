@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Did you come to see Inarius?” 
+Hash: 2810B8F0, Key: Line7.7FA05, Value: For all the good it did. After Scosglen, I hoped he could give me...I don’t know. Forgiveness. Guidance. Anything.
+Hash: 971A1F1D, Key: VoiceDir7.7FA05, Value: bitter
+Hash: 6F3E307B, Key: Line11.7FA05, Value: He spoke of the prophecy, his campaign against Lilith. I offered my help, but all he said was, “What use has a general for a broken soldier?”

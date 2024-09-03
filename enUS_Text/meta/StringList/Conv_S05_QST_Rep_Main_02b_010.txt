@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you learned anything about the Burning Aether?"
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: I learned I was right. We found a mote of Burning Aether, just as our tomes describe! The black, abyssal core from which a demon is reborn. (sighs) Very exciting!
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Excited. Enamored with her discovery.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: If I can harness this Aether, we could crush the Triune, turn the tides...even put Mephisto in his place, should he rear his head again.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Excited. Wolfish grin.

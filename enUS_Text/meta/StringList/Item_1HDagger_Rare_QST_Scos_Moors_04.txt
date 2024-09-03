@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Quietus of Nafain
+Hash: F5C7BC0A, Key: Flavor, Value: The tip of the spear used to kill Nafain now fashioned into a crude dagger. His corrupted blood still still stains its edge.

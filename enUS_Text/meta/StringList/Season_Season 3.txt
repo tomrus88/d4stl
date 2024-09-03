@@ -1,0 +1,21 @@
+Hash: 4C8A97D2, Key: DungeonTitle, Value: Vault
+Hash: 985813D3, Key: FauxDungeonAffixName, Value: [PH] Affix Name
+Hash: 9852A9D1, Key: FauxDungeonAffixDesc, Value: [PH] Affix Description
+Hash: EA23DD2A, Key: SeasonName, Value: Season of the Construct
+Hash: 5DD12FED, Key: SeasonDescription, Value: The lost inventions of Zoltun Kulle now threaten Sanctuary. Delve dangerous Vaults and help a time-lost sorcerer face his past.
+Hash: 1CBFC5D3, Key: SeasonBeginText, Value: Begins {s1}
+Hash: BD77CD05, Key: SeasonEndText, Value: Ends {s1}
+Hash: 21D081BA, Key: SeasonInfoText, Value: Beneath the Scouring Sands, an Apparatus created for good has been overtaken by demonic evil. You must regain control of it before the Demon unleashes its power on Sanctuary!
+
+{c_highlight}{icon:bullet, 1}All new Questline & Boss:{/c} Recover the elemental Apparatus and defeat the demon Malphas.
+
+{c_highlight}{icon:bullet, 1}All new New Dungeons:{/c} Conquer hazard-filled Vaults and loot their treasures.
+
+{c_highlight}{icon:bullet, 1}All new Seasonal Companion:{/c} Arm your Companion with 39 new Powers and Modifiers.
+
+{c_highlight}{icon:bullet, 1}All new Season Journey:{/c} Conquer 7 Chapters of challenges.
+
+{c_highlight}{icon:bullet, 1}7 new Legendary Aspects & 6 new Unique Items:{/c} Explore new ways to build and play each Class.
+
+{c_highlight}{icon:bullet, 1}All new Cosmetics:{/c} Acquire seasonally themed looks in the Battle Pass and other new looks in the Shop.
+Hash: CDAD1E98, Key: SeasonalTabTooltip, Value: Seneschal Construct

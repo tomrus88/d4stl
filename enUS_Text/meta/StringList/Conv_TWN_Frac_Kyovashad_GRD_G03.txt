@@ -1,0 +1,2 @@
+Hash: 5D82E86C, Key: Line1.FB742, Value: Come on now! How many swings will it take before you hit the damn things!
+Hash: CC8C4E99, Key: VoiceDir1.FB742, Value: Blunt, loud. A drill seargant yelling at recruits who are training.

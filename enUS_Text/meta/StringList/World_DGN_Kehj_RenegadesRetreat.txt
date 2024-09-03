@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Renegade's Retreat
+Hash: 003892BF, Key: Desc, Value: Renegade knights reap the spoils of Inarius’ crusade.

@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Curate Symon
+Hash: 8EE12459, Key: Line1.11E6C2, Value: My companion seems harsh to many, but beneath his bluster and his sword lies a scholar, as hungry for knowledge as I am.
+Hash: 3FE877DD, Key: Line5.11E6C2, Value: He knows things I never thought to seek out, and he is generous. Some scholars jealously guard all things they know. Not him.
+Hash: 6764CE1B, Key: Line3.11E6C2, Value: I have asked that we pass by the statue of revered Tibault, and though I can see he chafes at such a thing, he has granted my request.
+Hash: B79AF9E8, Key: VoiceDir3.11E6C2, Value: Pronounciation: Tih-bolt

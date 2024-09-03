@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Crate of Vampire Spoils
+Hash: A646FFA4, Key: Description, Value: A large pile of items and gold retrieved from the Vampires.
+Hash: F5C7BC0A, Key: Flavor, Value: A wooden crate filled to the brim with armor, gold and Murmuring Obols.

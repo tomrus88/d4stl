@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Purified Amulet of Aldara
+Hash: F5C7BC0A, Key: Flavor, Value: This amulet once belonged to Aldara and was used to inflict harm upon many before it was purified by Elder Lau of Weijinhani, who gave his life in the process.

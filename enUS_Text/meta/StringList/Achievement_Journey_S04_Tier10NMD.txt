@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pilgrim of Horror
+Hash: 3A4912CF, Key: DescShort, Value: Complete a Tier 10 or higher {icon:Marker_NightmareDungeonEntrance, 2.5} Nightmare Dungeon

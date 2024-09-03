@@ -1,0 +1,26 @@
+Hash: 003DFCC1, Key: Name, Value: The Serpentine Path
+Hash: 0871A46B, Key: Toast, Value: Follow Lorath and Neyrelle through the mire
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Follow the Serpentine Path through the Writhing Mire
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: My mind is still hazy, but I see a massive serpent that winds its way through the mire. Is this real, or a trick of the incense?
+Hash: D53BFF05, Key: Phase0Description, Value: The incense has summoned a massive serpent that now winds its way through the mire. Has this creature been hiding under Hawezar all this time?
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Speak with Lorath
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Lorath
+Hash: 3181449A, Key: Phase32Description, Value: The incense has summoned a massive serpent that now winds its way through the mire!
+Hash: 3A4B3722, Key: Phase32OutsideSubzoneHeader, Value: Speak with Neyrelle in the Writhing Mire
+Hash: 5E28741A, Key: Callback31Header, Value: Speak with Neyrelle
+Hash: 150401C6, Key: Phase89Description, Value: We are beset by snake creatures! We must survive their assault while we look for a way through.
+Hash: AF0385CE, Key: Phase89OutsideSubzoneHeader, Value: Survive the ambush at the Sinking Detritus
+Hash: 164945C6, Key: Callback88Header, Value: Survive the ambush
+Hash: 6FA23862, Key: Phase94Description, Value: Neyrelle found us a way out of the sinking detritus, at great personal risk to herself.
+Hash: 8C6EEBEA, Key: Phase94OutsideSubzoneHeader, Value: Rejoin Lorath and Neyrelle in Writhing Mire
+Hash: 81A7EAE2, Key: Callback93Header, Value: Escape the ruins
+Hash: 4A642452, Key: Callback147Header, Value: Escape the Sinking Detritus
+Hash: 07D46CED, Key: Phase107Description, Value: The incense has summoned a massive serpent that now winds its way through the mire. Has this creature been hiding under Hawezar all this time?
+Hash: D4186CD5, Key: Phase107OutsideSubzoneHeader, Value: Speak with Neyrelle in the Writhing Mire
+Hash: 04BB75EA, Key: Callback112Header, Value: Follow Neyrelle
+Hash: A6927FEF, Key: Phase127Description, Value: We are beset by snake creatures! We must survive their assault while we look for a way through.
+Hash: B9710217, Key: Phase127OutsideSubzoneHeader, Value: Reach Neyrelle in the Writhing Mire
+Hash: 0BD4F412, Key: Callback129Header, Value: Reach Neyrelle
+Hash: 0130B68B, Key: Phase132Description, Value: Neyrelle believes the massive serpent is leading us towards the Tree of Whispers. We follow it now... carefully...
+Hash: 96DC6833, Key: Phase132OutsideSubzoneHeader, Value: Follow the serpent with your allies
+Hash: 7C86B7CC, Key: Callback141Header, Value: Follow the serpent with your allies

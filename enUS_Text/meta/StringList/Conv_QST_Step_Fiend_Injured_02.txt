@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How does this ‘spell’ work?”
+Hash: 40E19EED, Key: Line4.54217, Value: You don't need to be no sorcerer to do it. The magic’s in the relic, not in you. That's what my boss said, anyway.
+Hash: DAD6186F, Key: Line6.54217, Value: Something about how it was made. Symbols in the clay, Hell if I know.

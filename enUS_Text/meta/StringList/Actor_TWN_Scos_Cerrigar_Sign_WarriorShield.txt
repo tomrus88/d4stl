@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Warrior Shield
+Hash: F2CA04D8, Key: NoticeSignText, Value: A wooden ceremonial shield, carved with figures and runes of a local family lineage.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Highwayman's Stash
+Hash: A646FFA4, Key: Description, Value: Banditry is a way of life for some. Carrying their tools and fortunes with them wherever they go.
+Hash: 083EE0CE, Key: Quote, Value: The road is long and the pack, heavy.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

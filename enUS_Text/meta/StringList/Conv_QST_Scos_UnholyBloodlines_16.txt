@@ -1,0 +1,2 @@
+Hash: 5D687838, Key: Line1.F2027, Value: Run...hunt...KILL!
+Hash: CC71DE65, Key: VoiceDir1.F2027, Value: rising volume

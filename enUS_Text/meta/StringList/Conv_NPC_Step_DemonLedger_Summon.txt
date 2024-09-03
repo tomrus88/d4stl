@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Scorched Debts
+Hash: 723636CD, Key: Line11.AFA94, Value: Orrostus, I summon thee! Come forth, and collect what you are owed!
+Hash: C26C629A, Key: VoiceDir11.AFA94, Value: Projected, with confidence. This is a magical summoning ritual

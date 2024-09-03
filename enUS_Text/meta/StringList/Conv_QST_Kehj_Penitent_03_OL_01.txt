@@ -1,0 +1,3 @@
+Hash: 8EEB85E0, Key: Line1.136591, Value: No! It can't be! Those bastards!
+Hash: DF21B1AD, Key: VoiceDir1.136591, Value: Devestated upon seeing the murdered bodies of the refugees he swore to protect. 
+Hash: 676F2FA2, Key: Line3.136591, Value: This is my fault. I should never have left them here alone.

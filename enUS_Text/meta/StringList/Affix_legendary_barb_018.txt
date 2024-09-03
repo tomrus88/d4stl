@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Brawler's
+Hash: 003892BF, Key: Desc, Value: Enemies damaged by {c_important}Kick{/c} or {c_important}Charge{/c} will explode if they are killed within the next {c_number}[Affix."Static Value 0"]{/c} seconds, dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage to surrounding enemies.
+Hash: 82B7D312, Key: CodexDesc, Value: Enemies damaged by {c_important}Kick{/c} or {c_important}Charge{/c} explode when killed and deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage.

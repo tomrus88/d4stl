@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Lunar Awakening
+Hash: 0871A46B, Key: Toast, Value: The shrines of Sanctuary are enchanted with immense and prosperous power.
+Hash: D53BFF05, Key: Phase0Description, Value: I've finished gaining favor with the Ancestors. I should speak with Ying-Yue in Ked Bardu.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Ying-Yue in Ked Bardu

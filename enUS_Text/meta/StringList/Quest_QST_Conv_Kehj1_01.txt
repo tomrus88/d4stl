@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: Prying the Eye
+Hash: 0871A46B, Key: Toast, Value: Speak with Lorath about using the Sightless Eye to find Lilith.
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Lorath at the Forsaken Chapel
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I should check on Lorath and Taissa at the Forsaken Chapel to see if they've learned more about Lilith and Elias. 
+Hash: 80E04E1B, Key: Phase42Description, Value: I should check on Lorath and Taissa at the Forsaken Chapel to see if they've learned more about Lilith and Elias. 
+Hash: ACF781C3, Key: Phase42OutsideSubzoneHeader, Value: Speak with Lorath at the Forsaken Chapel
+Hash: 4A6A48FB, Key: Callback41Header, Value: Speak with Taissa
+Hash: 26E6E543, Key: Phase59Description, Value: Lorath has a letter for me to take to Donan in Kyovashad 
+Hash: 56FEA5EB, Key: Phase59OutsideSubzoneHeader, Value: Take Lorath's letter to Donan
+Hash: 5183C723, Key: Callback58Header, Value: Take the letter
+Hash: C9FCD1EA, Key: Phase5Description, Value: Lorath needs my help to use the Sightless Eye as a scrying device. 
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Help Lorath use the Sightless Eye
+Hash: 6FE82F7E, Key: Callback62Header, Value: Gaze into the Sightless Eye
+Hash: B2787940, Key: Phase65Description, Value: Lorath needs my help to use the Sightless Eye as a scrying device. 
+Hash: 85770688, Key: Phase65OutsideSubzoneHeader, Value: Help Lorath use the Sightless Eye
+Hash: 09DCA900, Key: Callback64Header, Value: Bring the Sightless Eye to the pedestal

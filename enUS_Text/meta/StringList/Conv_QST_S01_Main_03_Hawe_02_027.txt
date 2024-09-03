@@ -1,0 +1,2 @@
+Hash: 4017A2CB, Key: Line5.157838, Value: There, the first latch released. Now, we just need to find the second statue. It should be nearby.
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Pleased.

@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: [PH] Note 05
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Zoltun Kulle
+Hash: 8F596641, Key: Line1.197AF2, Value: The demon has metastasized. It spreads through the siphons, into the healds. The constructs turn on one-another. Within a month, the Loom will be unrecognizable.
+Hash: DF8F920E, Key: VoiceDir1.197AF2, Value: Ashen, emptied
+Hash: 18E46387, Key: Line7.197AF2, Value: This... This is the fate of humankind. Where even the weakest demon roams, we stagnate.
+Hash: 691A8F54, Key: VoiceDir7.197AF2, Value: Revelation dawning
+Hash: F1680D49, Key: Line9.197AF2, Value: The Horadrim were right. Pompous ostriches all. But they were right.
+Hash: 419E3916, Key: VoiceDir9.197AF2, Value: Bitter

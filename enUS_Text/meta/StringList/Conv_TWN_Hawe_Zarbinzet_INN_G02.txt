@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What brought the Crusaders here?"
+Hash: 675D15F7, Key: Line3.126500, Value: Akarat’s tomb. Fool’s errand, if you ask me. Poor sots have been lookin’ for decades with nothing to show.

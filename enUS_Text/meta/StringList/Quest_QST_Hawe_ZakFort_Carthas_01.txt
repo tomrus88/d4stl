@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Lost Legacy
+Hash: 0871A46B, Key: Toast, Value: A Crusader seeks to rid the Zakarum Fortress of evil.
+Hash: D53BFF05, Key: Phase0Description, Value: I met a Zakarum Crusader named Ksenia. She believes that we can purify the Zakarum Fortress, returning it to its previous glory.
+
+I should meet her inside the fort.
+Hash: 059C64AB, Key: Callback5Header, Value: Speak with Ksenia inside the fort
+Hash: F4A9EC5A, Key: Phase14Description, Value: Mephisto's influence has corrupted this once great fortress. Ksenia and I should continue forward to discover how to undo his corruption.
+Hash: 1F9943DA, Key: Callback13Header, Value: Join Ksenia inside the Sealed Quarters
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Join Ksenia inside the Sealed Quarters

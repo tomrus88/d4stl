@@ -1,0 +1,2 @@
+Hash: 5A334C6A, Key: Line1.7FA05, Value: (speaking Horadric)
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Uttering an incantation to blow open a door. Forceful. Pronunciation:  [nahth fahm]

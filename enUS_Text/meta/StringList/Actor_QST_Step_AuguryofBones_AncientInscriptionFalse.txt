@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Immemorial Inscription
+Hash: CC3C0A8F, Key: FlavorText, Value: A faded engraving from ancient times.
+Hash: F2CA04D8, Key: NoticeSignText, Value: Only the worthy earn the Grinning One’s attention. Prove themselves. Now, they know true happiness—their bliss boundless. The Old One’s Eternal Gift.

@@ -1,0 +1,12 @@
+Hash: 0C698A30, Key: Line13.F52ED, Value: It's so loud!
+Hash: 5C9FB5FD, Key: VoiceDir13.F52ED, Value: Said to youself. Many loud and discordant voices are screaming at you in your mind.
+Hash: A65E03B2, Key: Line15.F52ED, Value: Please! Go away!
+Hash: F6942F7F, Key: VoiceDir15.F52ED, Value: Said to youself. Many loud and discordant voices are screaming at you in your mind.
+Hash: 40527D34, Key: Line17.F52ED, Value: I can't understand you!
+Hash: 9088A901, Key: VoiceDir17.F52ED, Value: Said to youself. Many loud and discordant voices are screaming at you in your mind.
+Hash: DA46F6B6, Key: Line19.F52ED, Value: Get out of my mind! (cries)
+Hash: 2A7D2283, Key: VoiceDir19.F52ED, Value: Said to youself. Many loud and discordant voices are screaming at you in your mind.
+Hash: 5EB6E58F, Key: Line21.F52ED, Value: Cursed! Cursed!
+Hash: AEED115C, Key: VoiceDir21.F52ED, Value: Said to youself. Many loud and discordant voices are screaming at you in your mind.
+Hash: F8AB5F11, Key: Line23.F52ED, Value: The voices...so many...
+Hash: 48E18ADE, Key: VoiceDir23.F52ED, Value: Said to youself. Many loud and discordant voices are screaming at you in your mind.

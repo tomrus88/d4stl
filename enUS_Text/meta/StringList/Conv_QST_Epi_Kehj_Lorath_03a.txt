@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is Mephisto already influencing her?"
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: No. It will take time for the corruption to spread from the stone.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Deep in thought
+Hash: 8E083E4E, Key: Line5.6D03F, Value: She must have left for a reason.

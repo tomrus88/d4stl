@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Crimson Garden
+Hash: 3A4912CF, Key: DescShort, Value: Collect {icon:Marker_Herb, 2.5} Reddamine, found in Dry Steppes

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Slowing Support
+Hash: A646FFA4, Key: Description, Value: Damage from the supported Skill Slows enemy movement speed for {c_number}[{SF_2}]{/c} seconds. The closer the enemy is to the Seneschal Construct, the greater the Slow amount. From {c_number}[{SF_0}]%{/c} up to a maximum of {c_number}[{SF_1}]%{/c} Slow to Close enemies.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Maximum Slow Amount {icon:arrow,1.2} {c_number}[{SF_4}]%{/c}
+Hash: E971A20F, Key: Modifier, Value: Enemies hit are Slowed by {c_number}[{SF_0}]% - [{SF_1}]%{/c}.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

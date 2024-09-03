@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Locran? What happened to you?"
+Hash: F4661945, Key: Line9.1BCB9E, Value: Agh, I was so close! I infiltrated a group of Triune heretics. We were on our way to their camp when the Crusaders ruined everything!
+Hash: 449C4512, Key: VoiceDir9.1BCB9E, Value: Weary from exposure. Ashamed. Angry.
+Hash: F9C62BF2, Key: Line15.1BCB9E, Value: I never learned what the Triune are planning, but the bastards were excited. Said the Tides were just the beginning. They’re about to unleash the flood!
+Hash: 50C1D15F, Key: VoiceDir15.1BCB9E, Value: Ashamed. Desperate. Urgent.
+Hash: D249D5B4, Key: Line17.1BCB9E, Value: You must let me down from here! I’ll take you to their camp, and we will destroy them.
+Hash: 29457B21, Key: VoiceDir17.1BCB9E, Value: Desperate. Urgent. Venomous.

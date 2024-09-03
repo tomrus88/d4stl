@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Valtha? Taissa sent me to get your help.” 
+Hash: 3D22DA04, Key: Line17.91FE1, Value: Taissa has unknowingly sent you to your death.
+Hash: 8D5905D1, Key: VoiceDir17.91FE1, Value: Calm, sinister--not too big or villainous
+Hash: D7175386, Key: Line19.91FE1, Value: In the end, she will see the foolishness of her pursuit of Elias. And she will know that Lilith is our future.
+Hash: 274D7F53, Key: VoiceDir19.91FE1, Value: Calm, sinister--not too big or villainous

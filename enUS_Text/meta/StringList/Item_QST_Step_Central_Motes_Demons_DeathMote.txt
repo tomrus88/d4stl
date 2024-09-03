@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Demon Fury
+Hash: A646FFA4, Key: Description, Value: Collect Death Motes to empower necromantic magic.

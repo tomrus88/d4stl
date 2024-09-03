@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Periodically reapplies the PvP Balance Buff.

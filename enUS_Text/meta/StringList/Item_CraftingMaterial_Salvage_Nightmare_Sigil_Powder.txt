@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Sigil Powder
+Hash: A646FFA4, Key: Description, Value: Obtained from Elite Monsters, Whisper Bounties, and using the Occultist to salvage nightmare sigils of any tier. Use Sigil Powder to craft Nightmare Dungeon Sigils
+Hash: F5C7BC0A, Key: Flavor, Value: A mysterious powder that can be compressed into relics inviting peril for greater challenges and rewards.

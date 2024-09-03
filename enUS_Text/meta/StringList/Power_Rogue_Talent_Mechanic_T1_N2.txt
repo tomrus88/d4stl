@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Preparation
+Hash: 003892BF, Key: desc, Value: Spend {c_number}{SF_0}{/c} Energy to reduce your {c_important}Ultimate{/c} Skill's Cooldown by {c_number}{SF_1}{/c} seconds. {c_important}Ultimate{/c} Skills reset other Cooldowns and grant {c_number}[{SF_2}*100|%|]{/c} Damage Reduction for {c_number}{SF_3}{/c} seconds.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nightmare Ally
+Hash: 003892BF, Key: Desc, Value: Complete an Ancestral Nightmare Dungeon while in a party. 

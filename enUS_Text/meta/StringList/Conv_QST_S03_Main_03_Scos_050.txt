@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Malphas
+Hash: 67E43DC2, Key: Line3.18EDEB, Value: (sigh) I am more. Than one finger. Or a thousand.
+Hash: B81A698F, Key: VoiceDir3.18EDEB, Value: sweetly, elated
+Hash: 4067E784, Key: Line5.18EDEB, Value: I will never die. And I will never. Be small. Again.
+Hash: 909E1351, Key: VoiceDir5.18EDEB, Value: venomous, malicious, forceful

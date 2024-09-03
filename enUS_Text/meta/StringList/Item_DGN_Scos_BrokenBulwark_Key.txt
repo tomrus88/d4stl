@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Keep Key
+Hash: A646FFA4, Key: Description, Value: Bound to Broken Bulwark
+Hash: F5C7BC0A, Key: Flavor, Value: Key to the inner areas of the bulwark. It's passed between lieutenants at specific times of day to make it difficult for enemies to find it.

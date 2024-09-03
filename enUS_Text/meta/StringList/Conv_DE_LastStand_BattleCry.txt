@@ -1,0 +1,4 @@
+Hash: 5A3240AB, Key: Line1.7DD23, Value: They're...they're here! Get ready!
+Hash: C93BA6D8, Key: VoiceDir1.7DD23, Value: Terrified. Seeing monsters approach.
+Hash: F426BA2C, Key: Line3.7DD22, Value: The only way out of this is to fight!
+Hash: 63302059, Key: VoiceDir3.7DD22, Value: Terrified. Summoning courage.

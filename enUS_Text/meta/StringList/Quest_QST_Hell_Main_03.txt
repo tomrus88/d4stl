@@ -1,0 +1,64 @@
+Hash: 003DFCC1, Key: Name, Value: The Blind Eye
+Hash: 0871A46B, Key: Toast, Value: Use the Sightless Eye to find a way to stop Lilith
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Use the Sightless Eye to find a way to stop Lilith
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I have to find a way to stop Lilith. It means using the Sightless Eye again. Maybe then we can imprison her within the soulstone.
+Hash: EF4DD30E, Key: Phase162Description, Value: I have to find a way to stop Lilith. It means using the Sightless Eye again. Maybe then we can imprison her within the soulstone.
+Hash: EEE14816, Key: Phase162OutsideSubzoneHeader, Value: Use the Sightless Eye in the Spire of Torment
+Hash: 550A618E, Key: Callback161Header, Value: Use the Sightless Eye
+Hash: 51D95B94, Key: Phase186Description, Value: I've gone through the fiery portal and find myself at a strangely familiar place. Why has Mephisto brought me here?
+Hash: 186DC75C, Key: Phase186OutsideSubzoneHeader, Value: Investigate the cave
+Hash: 6176FE54, Key: Callback185Header, Value: Inspect the campfire
+Hash: DD6AEF91, Key: Phase192Description, Value: In the nightmare I found the wolf, the manifestation of the Lord of Hatred himself: Mephisto. He offered me help, a way out from this nightmare.
+Hash: 46E627F9, Key: Phase192OutsideSubzoneHeader, Value: Find the way out
+Hash: DD44FDAE, Key: Callback251Header, Value: Find the way out
+Hash: 031F1FD7, Key: Phase198Description, Value: In the nightmare I found the wolf, the manifestation of the Lord of Hatred himself: Mephisto. He offered me help, a way out from this nightmare.
+Hash: 2D3406FF, Key: Phase198OutsideSubzoneHeader, Value: Use the Sightless Eye in the Nightmare
+Hash: E7AD4CB7, Key: Callback197Header, Value: Use the Sightless Eye
+Hash: 8090CC92, Key: Phase247Description, Value: I've gone through the fiery portal and find myself at a strangely familiar place. Why has Mephisto brought me here?
+Hash: 66FF361A, Key: Phase247OutsideSubzoneHeader, Value: Investigate the cave in the Nightmare
+Hash: 71E65892, Key: Callback246Header, Value: Investigate the cave
+Hash: B488820D, Key: Phase350Description, Value: When I used the Sightless Eye, Lilith saw me. My connection to her allowed Lilith to do something to me, and I woke up trapped in a nightmare. I need to find a way out.
+Hash: 6A8645F5, Key: Phase350OutsideSubzoneHeader, Value: Explore the nightmare beyond the Sightless Eye
+Hash: 8AFD8051, Key: Callback362Header, Value: Explore the nightmare
+Hash: 47629A30, Key: Phase353Description, Value: When I used the Sightless Eye, Lilith saw me. My connection to her allowed Lilith to do something to me, and I woke up trapped in a nightmare. I need to find a way out.
+Hash: 5DAD3578, Key: Phase353OutsideSubzoneHeader, Value: Defeat the villagers of Nevesk in the nightmare
+Hash: 9EBBAB70, Key: Callback352Header, Value: Defeat the villagers of Nevesk
+Hash: 03E78B8E, Key: Phase360Description, Value: When I used the Sightless Eye, Lilith saw me. My connection to her allowed Lilith to do something to me, and I woke up trapped in a nightmare. I need to find a way out.
+Hash: DD329096, Key: Phase360OutsideSubzoneHeader, Value: Speak to the priest in the nightmare
+Hash: 45229FBA, Key: Callback497Header, Value: Speak to the priest
+Hash: F8A85E73, Key: Phase365Description, Value: When I used the Sightless Eye, Lilith saw me. My connection to her allowed Lilith to do something to me, and I woke up trapped in a nightmare. I need to find a way out.
+Hash: 7273751B, Key: Phase365OutsideSubzoneHeader, Value: Explore the nightmare
+Hash: A5D52998, Key: Callback369Header, Value: Explore the nightmare
+Hash: 17140A93, Key: Phase374Description, Value: When I used the Sightless Eye, Lilith saw me. My connection to her allowed Lilith to do something to me, and I woke up trapped in a nightmare. I need to find a way out.
+Hash: 9412C53B, Key: Phase374OutsideSubzoneHeader, Value: Explore the nightmare
+Hash: C43991F3, Key: Callback373Header, Value: Explore the nightmare
+Hash: A9EE22B6, Key: Phase377Description, Value: When I used the Sightless Eye, Lilith saw me. My connection to her allowed Lilith to do something to me, and I woke up trapped in a nightmare. I need to find a way out.
+Hash: 8739B4BE, Key: Phase377OutsideSubzoneHeader, Value: Defend against Lilith's attack in the Nightmare
+Hash: 976A1D17, Key: Callback386Header, Value: Defend against Lilith's attack
+Hash: 048C5952, Key: Phase382Description, Value: Lilith made me an offer to join her. I refused and she attacked with the minions at her command. Now one of Mephisto's fiery portals has opened up, so it looks like that's the only way forward.
+Hash: 64A51ADA, Key: Phase382OutsideSubzoneHeader, Value: Enter Fiery Portal in the Nightmare
+Hash: 1686ED52, Key: Callback381Header, Value: Enter the Fiery Portal
+Hash: E6C57AF6, Key: Phase395Description, Value: When I used the Sightless Eye, Lilith saw me. My connection to her allowed Lilith to do something to me, and I woke up trapped in a nightmare. I need to find a way out.
+Hash: CA7854FE, Key: Phase395OutsideSubzoneHeader, Value: Inspect Rathma's corpse in the Nightmare
+Hash: D0A62EB9, Key: Callback397Header, Value: Inspect Rathma's corpse
+Hash: 62ED8C29, Key: Phase400Description, Value: When I used the Sightless Eye, Lilith saw me. My connection to her allowed Lilith to do something to me, and I woke up trapped in a nightmare. I need to find a way out.
+Hash: F55E6F91, Key: Phase400OutsideSubzoneHeader, Value: Inspect Lilith's Altar in the Nightmare
+Hash: 6A9AA83B, Key: Callback399Header, Value: Inspect Lilith's Altar
+Hash: 510AA8AC, Key: Phase430Description, Value: In the nightmare I found the wolf, the manifestation of the Lord of Hatred himself: Mephisto. He offered me help, a way out from this nightmare.
+Hash: 4D634F74, Key: Phase430OutsideSubzoneHeader, Value: Find the way out of the Nightmare
+Hash: 3AB472AF, Key: Callback432Header, Value: Find the way out
+Hash: 45CB7B91, Key: Phase435Description, Value: In the nightmare I found the wolf, the manifestation of the Lord of Hatred himself: Mephisto. He offered me help, a way out from this nightmare.
+Hash: E2A433F9, Key: Phase435OutsideSubzoneHeader, Value: Defeat the nightmares
+Hash: BB97A274, Key: Callback437Header, Value: Defeat the nightmares
+Hash: D8A593B4, Key: Phase438Description, Value: In the nightmare I found the wolf, the manifestation of the Lord of Hatred himself: Mephisto. He offered me help, a way out from this nightmare.
+Hash: D5CB237C, Key: Phase438OutsideSubzoneHeader, Value: Find the way out
+Hash: 8D01CE0E, Key: Callback440Header, Value: Find the way out
+Hash: D15D0F8E, Key: Phase441Description, Value: In the nightmare I found the wolf, the manifestation of the Lord of Hatred himself: Mephisto. He offered me help, a way out from this nightmare.
+Hash: 111C9496, Key: Phase441OutsideSubzoneHeader, Value: Defeat the nightmares
+Hash: 73F08451, Key: Callback443Header, Value: Defeat the nightmares
+Hash: 643727B1, Key: Phase444Description, Value: In the nightmare I found the wolf, the manifestation of the Lord of Hatred himself: Mephisto. He offered me help, a way out from this nightmare.
+Hash: 04438419, Key: Phase444OutsideSubzoneHeader, Value: Find the way out
+Hash: 5ADF3A94, Key: Callback446Header, Value: Find the way out
+Hash: F7113FD4, Key: Phase447Description, Value: In the nightmare I found the wolf, the manifestation of the Lord of Hatred himself: Mephisto. He offered me help, a way out from this nightmare.
+Hash: F76A739C, Key: Phase447OutsideSubzoneHeader, Value: Defeat the nightmares
+Hash: 41CDF0D7, Key: Callback449Header, Value: Defeat the nightmares

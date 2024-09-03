@@ -1,0 +1,15 @@
+Hash: 4B7DE54E, Key: DungeonEnter, Value: Enter Dungeon
+Hash: D4E82D15, Key: KeyedDungeon_LevelActive, Value: Tier {s1} Key Active
+Hash: 38FB45C7, Key: KeyedDungeon_Affixes, Value: Affixes: {s1}
+Hash: 965339E5, Key: KeyedDungeon_ResRemaining, Value: {s1} revives remaining
+Hash: 6C76DD4A, Key: KeyedDungeon_SelectKey, Value: Select Dungeon Key ({s1})
+Hash: 4C643033, Key: DungeonReset, Value: Reset Dungeon
+Hash: B22C3572, Key: KeyedDungeon_ConfirmReset, Value: Activate {s2}: {s1}?
+Hash: 2B87E733, Key: KeyedDungeon_Locked, Value: This dungeon is currently locked and cannot be entered.
+Hash: 8646321A, Key: KeyedDungeon_ResetWarning, Value: {c_red}{s2}: {s1} will be reset.{/c}
+Hash: 979CC147, Key: KeyedDungeon_NotUnlocked, Value: {c_red}You don't have access to {s1} yet.{/c}
+Hash: 19389E54, Key: KeyedDungeon_LeaderNotUnlocked, Value: {c_red}The party leader doesn't have access to {s1} yet{/c}
+Hash: 1080AC1A, Key: Interact, Value: Interact
+Hash: 00000EA1, Key: P1, Value: P1
+Hash: 00000EA2, Key: P2, Value: P2
+Hash: 86585DB2, Key: ConsumeSigil, Value: Consume Sigil 

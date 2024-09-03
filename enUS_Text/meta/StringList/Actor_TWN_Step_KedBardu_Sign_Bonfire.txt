@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bonfire
+Hash: F2CA04D8, Key: NoticeSignText, Value: The barbarians were the first to settle Ked Bardu. The city has grown around them, but their encampment remains largely unchanged.

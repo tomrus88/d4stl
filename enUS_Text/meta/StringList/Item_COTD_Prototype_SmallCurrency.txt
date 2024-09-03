@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [ph] Hateshard Fragment
+Hash: A646FFA4, Key: Description, Value: Small currency gained from slaying demons in the pits of Hell. How many can you get per run?

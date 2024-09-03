@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Deep Wounds
+Hash: 003892BF, Key: Desc, Value: Kill 30 Vulnerable enemies in 15 seconds.

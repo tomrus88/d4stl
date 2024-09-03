@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm glad you're all right."
+Hash: 5D8555C1, Key: Line1.FEF63, Value: Yes, I can already feel the warmth returning.
+Hash: F779CF43, Key: Line3.FEF63, Value: Thank you, my friend. I put a great deal of weight upon your shoulders. Asked you to lie for me, to put yourself in grave danger.
+Hash: 916E48C5, Key: Line5.FEF63, Value: If you had rejected me, I couldn't say I'd blame you. But you didn't. You saved me, and in so doing saved countless others I can still help.
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: What about Priest Matvey? Are you worried he will cause trouble?
+Hash: 301FB2B8, Key: VoiceDir9.BAE4, Value: Pronounciation: Matt-Vehy
+Hash: 2B62C247, Key: Line7.FEF63, Value: Heh, no. He will keep what he's seen to himself. Hopefully I can teach the rest of the clergy to have a bit more faith in the members of their congregation.
+Hash: 729039D2, Key: Line11.FEF63, Value: I want you to have this. It's not much really, but I hope it brings you some measure of good fortune. Thank you again. You will always have a friend in the Cathedral.

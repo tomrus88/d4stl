@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Every {c_important}Pyromancy{/c} Skill you cast or every second you channel {c_important}Incinerate{/c} increases your Fire damage by {c_number}[{SF_0}*100|x%|]{/c} for {c_number}[{SF_2}]{/c} seconds, up to {c_number}[{SF_0} * {SF_1} * 100|x%|]{/c}.
+Hash: 12713EB5, Key: Buff2_Name, Value: Glyph: Pyromaniac
+Hash: C6E60718, Key: Buff2_Description, Value: Increased Fire damage after casting or channeling {c_important}Pyromancy{/c} Skills.

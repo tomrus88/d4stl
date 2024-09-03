@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Swift Slayer
+Hash: 003892BF, Key: Desc, Value: Kill 30 monsters within 5 seconds.

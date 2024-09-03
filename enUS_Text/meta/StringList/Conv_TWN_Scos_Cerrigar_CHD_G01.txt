@@ -1,0 +1,8 @@
+Hash: 8EB4E269, Key: Line1.104B47, Value: The demon set the Glen ablaze.
+Hash: DEEB0E36, Key: VoiceDir1.104B47, Value: Playful singing. To the tune of "London Bridge"
+Hash: 676BF5BE, Key: Line3.130944, Value: Donan and the Druids made it pay.
+Hash: B7A2218B, Key: VoiceDir3.130944, Value: Playful singing. To the tune of "London Bridge"
+Hash: 3FBC35ED, Key: Line5.104B47, Value: The Days of Ash have gone away.
+Hash: 8FF261BA, Key: VoiceDir5.104B47, Value: Playful singing. To the tune of "London Bridge"
+Hash: 18734942, Key: Line7.130944, Value: But ne’er forget their passin.’
+Hash: 68A9750F, Key: VoiceDir7.130944, Value: Playful singing. To the tune of "London Bridge"

@@ -1,0 +1,1 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: {c_red}Trial:{/c} Complete the dungeon in {TIMELEFT}

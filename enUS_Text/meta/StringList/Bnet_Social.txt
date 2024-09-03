@@ -1,0 +1,204 @@
+Hash: 0001AA57, Key: Ago, Value: Ago
+Hash: 06C48722, Key: AskToJoinParty, Value: Request Invite
+Hash: 2223BB65, Key: DialogAcceptRequestButtonLabel, Value: Accept
+Hash: 056445BE, Key: DialogAddCharacterFriend, Value: Add a Character Friend
+Hash: EB71C13E, Key: DialogAddFacebookFriends, Value: Add Facebook Friends
+Hash: 62235CCF, Key: DialogAddressInputHelpLabel, Value: ex. Tyrael@Blizzard.com or Tyrael#1234
+Hash: 5AB30869, Key: DialogDeclineRequestButtonLabel, Value: Decline
+Hash: 22D69324, Key: DialogOptionalMessageHelpLabel, Value: Enter custom message
+Hash: A18E309B, Key: DialogOptionalMessageLabel, Value: Send an optional message
+Hash: 78476DE9, Key: DialogPendingFriendRequestsLabel, Value: Pending Friend Requests
+Hash: A6520181, Key: DialogRealIdLabel, Value: Enter email address or BattleTag
+Hash: 5D2FC8BF, Key: DialogSendRequestButtonLabel, Value: Send Request
+Hash: E8AB4EB2, Key: DialogTitle, Value: Add Friend
+Hash: 65525D53, Key: DifficultyLabel, Value: Difficulty:
+Hash: BD459D0B, Key: Friends, Value: Friends ({s1})
+Hash: A26C4C22, Key: InviteToParty, Value: Invite
+Hash: 30AD8E44, Key: Joinable, Value: Joinable
+Hash: 476E55E0, Key: JoinParty, Value: Join
+Hash: E5825F39, Key: LastOnline, Value: Last Online
+Hash: F39F7847, Key: MonsterKillsLabel, Value: Monster Kills:
+Hash: 077B91F5, Key: NotJoinable, Value: Not Joinable
+Hash: 814B1827, Key: OfflineStatus, Value: Offline
+Hash: 5B24613B, Key: OnlineStatusAfk, Value: AFK
+Hash: 73F2F06A, Key: OnlineStatusAvailable, Value: Available
+Hash: 5B246EFF, Key: OnlineStatusDnd, Value: DND
+Hash: D341C4E3, Key: OverlayAddFriend, Value: Add Friend
+Hash: C6E05619, Key: DefaultInviteMessage, Value: Wants to be your friend.
+Hash: 0B174865, Key: OverlayInMenusStatus, Value: Character Select
+Hash: 43112ECC, Key: OverlayJoinGame, Value: Join
+Hash: 99B51FAA, Key: OverlayNoFriends, Value: You don't have any friends yet. 
+Use the button below to add friends.
+Hash: 95D56390, Key: OverlayPartyClosedStatus, Value: In a Party ({s1}/{s2})
+Hash: C39BA7A8, Key: OverlayPartyOpenStatus, Value: Party ({s1}/{s2}), {s3} |4Open Slot:Open Slots;
+Hash: F1CC0863, Key: OverlayPartyPlayingSolo, Value: Playing Solo
+Hash: 2B9DF097, Key: OverlayPendingFriendRequestsButtonLabel, Value: Friend Requests 
+Hash: 892DECDB, Key: OverlayRecentRequestsButtonLabel, Value: Recent
+Hash: FB3FBCC1, Key: PendingRequests, Value: Pending
+Hash: 3AC07385, Key: PlayTimeLabel, Value: Playtime: {s1}
+Hash: C66C02D1, Key: RealmLabel, Value: Realm:
+Hash: 01DC9468, Key: ViewProfileButtonLabel, Value: View Profile
+Hash: 6A03485A, Key: WindowTitleLabel, Value: Social
+Hash: 42D25156, Key: FriendRequestsTitle, Value: Friend Requests ({s1})
+Hash: DE6C5881, Key: PlayingDiabloTitle, Value: Friends Playing Diablo
+Hash: 6EA2DCAF, Key: OtherFriendsTitle, Value: Friends
+Hash: B29D87CE, Key: RecentFriendsTitle, Value: Recent Players ({s1})
+Hash: 68AE33A5, Key: StatusAvailable, Value: Available
+Hash: 18BB6276, Key: StatusAway, Value: Away
+Hash: 18BBE8A7, Key: StatusBusy, Value: Busy
+Hash: E7359D67, Key: StatusOffline, Value: Offline
+Hash: 49E57A41, Key: FriendRequest, Value: Friend Request
+Hash: 6BB1C299, Key: AcceptRequest, Value: Accept
+Hash: CDDCB41D, Key: DeclineRequest, Value: Decline
+Hash: C7DB15C3, Key: HideRequest, Value: Not Now
+Hash: 003810E0, Key: Chat, Value: Chat
+Hash: 6A5AE768, Key: FriendStatusInfo, Value: Playing: {s1}
+Hash: D8DB9C14, Key: ChatLobbyButtonLabel, Value: Chat Lobby
+Hash: 7BC4D552, Key: HeroLevelInfo, Value: Level {s1} {s2}
+Hash: 40681D4A, Key: PendingNumberButton, Value: {s1}
+Hash: 37DEFA9E, Key: DummyRequestNumber, Value: 0
+Hash: 1C6DAF52, Key: CallToArmsLabel, Value: Open to Friends
+Hash: B581CDDC, Key: OverlayPartyFullNoGame, Value: In a Party ({s1}/{s2}) Party is Full
+Hash: 5AD996BF, Key: OverlayPartyClosedFull, Value: In a Party ({s1}/{s2}) Game is Full
+Hash: 018FF4D7, Key: OverlayPartyOpenFull, Value: Party ({s1}/{s2}) Game is Full
+Hash: BC045EE5, Key: CallToArmsFullLabel, Value: Game is Full
+Hash: 40ACE741, Key: LastPlayedHero, Value: Last Played: {s1} {s2}
+Hash: E2B62FA1, Key: DialogAddRidFriendMessageCharacterLimit, Value: Your message cannot be more than {s1} characters long.
+Hash: C4845E43, Key: NoContextAvailable, Value: No context available.
+Hash: CB48F9D8, Key: SocialNamePlate_FriendsList, Value: Friends
+Hash: 63CBAFDB, Key: SocialNamePlate_RecentPlayerList, Value: Recent Players
+Hash: B09BE2AC, Key: StatusPartyMember, Value: {s1} has set their status to {s2}.
+Hash: 54A7FC6E, Key: ChatSelfStatus, Value: You are now {s1}: {s2}
+Hash: 052D834B, Key: ChatTargetStatus, Value: {s1} is currently {s2}.
+Hash: 8F8F9ABC, Key: OfflinePlayerInfo, Value: Offline for {s1}
+Hash: F36321E8, Key: DetailsDisplayInfo, Value: {s1} - {s2} {s3}
+Hash: 6E7D044F, Key: QuotedFriendMessage, Value: "{s1}"
+Hash: BFCD76EF, Key: FriendTooltipInfo, Value: {s1}{s2} - {s3}
+Hash: BFCCC50C, Key: FriendTooltipHelp, Value: {icon:rmb} for player options.
+Hash: 0C35080A, Key: NoFriendsTitle, Value: You Have No Friends
+Hash: 4630168D, Key: NoFriendsText, Value: Use the button below to add new friends.
+Hash: 78B9AEDE, Key: NoRecentPlayers, Value: No Recent Players
+Hash: D504AECF, Key: ChatSelfStatusAvailable, Value: You are no longer {s1}.
+Hash: C5E2545E, Key: MyBattleTag, Value: Your BattleTag: {c:FFfa300}{s1}{s2}{/c}
+Hash: D5B1BCD0, Key: FriendHardcoreStatusInfo, Value: Level {s1} Hardcore {s2} - {s3}
+Hash: 69939250, Key: DetailsHardcoreDisplayInfo, Value: {s1} - {s2} Hardcore {s3}
+Hash: 3DCE9A62, Key: OverlayPartyInPublicGame, Value: In a Public Game
+Hash: 106B62BA, Key: HeroLevelInfoHardCore, Value: Level {s1} Hardcore {s2}
+Hash: 11909CB2, Key: ExitToMenu, Value: Exit To Menu
+Hash: F00EEF06, Key: FriendInGameInviteButtonDialogTitle, Value: Join Player
+Hash: 6C2FF7A8, Key: FriendInGameInviteButtonDialogDescription, Value: The player you are inviting is already in a game. Would you like to join them?
+Hash: BEE3E290, Key: FriendInGameInviteButtonDialogJoinButton, Value: Yes
+Hash: C87CDB28, Key: FriendInGameInviteButtonDialogInviteAnywayButton, Value: No
+Hash: 1F8AA3D0, Key: OfflineFriendsTitle, Value: Offline Friends ({s1})
+Hash: A9487B84, Key: FriendStatusHardcore, Value: Hardcore
+Hash: 8270158B, Key: FriendOfflineStatusInfo, Value: Last Played {s1}
+Hash: 1451F55B, Key: Social, Value: Social
+Hash: 2BB55190, Key: TrialUpgradeAtAnyTime, Value: upgrade at any time
+Hash: CB05D998, Key: TrialUpgradeNow, Value: Upgrade Now!
+Hash: 9B49ADE2, Key: SwitchingHeroStatus, Value: Switching Character...
+Hash: C44A1DE4, Key: AddFriendBattleTagTooltip, Value: Send a Real ID friend request by entering your friend’s Battle.net email address. Send a BattleTag friend request by entering their BattleTag and unique BattleTag Code in the format BattleTag#1234.
+Hash: 60AEDB78, Key: InvalidAddressTooltip, Value: Please enter a valid Battle.net email address or BattleTag and BattleTag Code. Examples: johndoe@domain.com, Blizzman#5151.
+Hash: 30B90E9A, Key: FriendInviteRequestDefaultMessage, Value: Add me as a friend.
+Hash: FB320B6E, Key: StatusIconAvailable, Value: {icon:Icon_Online,1.5} Available
+Hash: 728DF89F, Key: StatusIconAway, Value: {icon:Icon_Away,1.5} Away
+Hash: 728E7ED0, Key: StatusIconBusy, Value: {icon:Icon_Busy,1.5} Busy
+Hash: 4FFB099C, Key: BattletagStatus, Value: {s1} {s2}: {s3}
+Hash: 5EEE38EA, Key: FriendPresenceInfoInGame, Value: Level {s1} {s2} - {s4} - {s3}
+Hash: 172C1299, Key: FriendPresenceInfo, Value: Level {s1} {s2} - {s3}
+Hash: 3C7C7765, Key: FriendsListMyBattleTag, Value: {s1}{s2}
+Hash: CD4623EA, Key: PlayingPVP, Value: Playing PvP
+Hash: FB8D1F09, Key: StatusInvisible, Value: Invisible
+Hash: 8E10F6D2, Key: StatusIconInvisible, Value: {icon:Icon_Offline,1.5} Appear Offline
+Hash: 4004C805, Key: OnlineStatusAppearOffline, Value: Appear Offline
+Hash: B40A66C7, Key: FriendOfFriendTitle, Value: Friends of: {c:FF82C5FF}{s1}{/c}
+Hash: 9507D335, Key: FriendOfFriendPotential, Value: Potential Friends ({s1})
+Hash: A50D3A1F, Key: FriendOfFriendTitleMutual, Value: Mutual Friends ({s1})
+Hash: 88F8C358, Key: ChatSelfStatus_AutoAFK, Value: You are now Away: AFK
+Hash: 52884ECC, Key: ChatSelfStatus_ReturnFromAutoAFK, Value: You are no longer Away.
+Hash: 29E30FC7, Key: FriendsOfFriends_AddFriendButton, Value: Add Friend
+Hash: 3318FD94, Key: DialogOptionalMessageHelpLabel_StarterEdition, Value: No custom message allowed for Starter Edition.
+Hash: 17025313, Key: Broadcast, Value: Broadcast a message to your friends!
+Hash: D539FB65, Key: BroadcastTitleDialog, Value: Broadcast A Message
+Hash: FABFE5A8, Key: NoteTitleDialog, Value: Set a Note
+Hash: 55821CEC, Key: BroadcastHeaderDialog, Value: Broadcast a message to your friends:
+Hash: 2BC54F8F, Key: NoteHeaderDialog, Value: Set a friend note for {c:FF82C5FF}{s1}{/c}:
+Hash: 26C9AFAD, Key: BroadcastInpuMessageHelpDialog, Value: Enter Custom Message
+Hash: 5B7F89B0, Key: NoteInpuMessageHelpDialog, Value: Enter a note
+Hash: 546F389A, Key: BroadcastNoteMessageCharacterLimit, Value: Your message cannot be more than {s1} characters long.
+Hash: 647E7F3E, Key: BroadcastMessageTimeAgo, Value: {s1} ago.
+Hash: 7F6B34F8, Key: LocalFriendsTitle, Value: Players near you  ({s1})
+Hash: 4CA64822, Key: PlayersNearYouDesc, Value: There are other players on your local network playing Diablo IV right now!
+Hash: E2930BC5, Key: PlayersNearYouTitle, Value: {s1} |4Player:Players; Near You
+Hash: BD8F6B4C, Key: PlayerTooltipIsFriend, Value: {c:FF82C5FF}This player is your friend.{/c}
+Hash: 067B6354, Key: PlayerTooltipNotFriends, Value:  {icon:rmb, 1.2} to add this player to your Friends List.
+Hash: 806A576D, Key: FriendGuildLabel, Value: Clan: {s1}
+Hash: 8272A5FF, Key: CreatingHeroStatus, Value: Creating Character...
+Hash: 83DE550E, Key: FriendNoteLabel, Value: Friend Note: {s1}
+Hash: EFF0BC14, Key: ClanNoteLabel, Value: Clan Note: {s1}
+Hash: 0E0ABA7F, Key: FilterInputHelpLabel, Value: <Filter>
+Hash: 2F648457, Key: GuildTitle, Value: Clan  ({s1})
+Hash: F2D17DB1, Key: GuildButton, Value: {c_white}{s1}{/c} |4Member:Members; Online
+Hash: 29470E79, Key: GuildInvitesTitle, Value: Clan Invites ({s1})
+Hash: 15F29FF7, Key: NoClanButton, Value: Find
+Hash: FFD29600, Key: NoClanText, Value: You are not currently in a Clan. To find a clan to 
+join or to create a clan, begin here.
+Hash: FA2775DD, Key: NoClanTitle, Value: Clan
+Hash: EAB4E774, Key: OverlayAddGroupButton, Value: Find
+Hash: F35C7000, Key: GuildRequestTitle, Value: Clan Requests ({s1})
+Hash: EC9E7B5F, Key: OverlayCreateGroupButton, Value: Create
+Hash: 33AA00AA, Key: ClanSimpleTitle, Value: Clan
+Hash: 4496C668, Key: HeroLevelInfoSeasonal, Value: Level {s1} Seasonal {s2}
+Hash: 435009D0, Key: HeroLevelInfoSeasonalHardcore, Value: Level {s1} Hardcore Seasonal {s2}
+Hash: DD73DF32, Key: FriendStatusSeasonal, Value: Seasonal
+Hash: FDF64C9A, Key: FriendStatusSeasonalHardcore, Value: Seasonal Hardcore
+Hash: A188F565, Key: ChatCannotBlockRidFriend, Value: You can't block a friend.
+Hash: 46AC9297, Key: PlayerTooltipNoteIcon, Value: {icon:bnet_note, 2.0}
+Hash: A4751BC5, Key: PlayerTooltipGuildMember, Value: {c:ff40ff40}This player is in your clan.{/c}
+Hash: B4904C50, Key: PlayerTooltipLocalPlayer, Value: This player is on your local network.
+Hash: 2010DD0E, Key: AlsoPlayingTooltip, Value: Also Playing:
+Hash: DFB263C6, Key: RemoveFriend, Value: Remove Friend
+Hash: 3A1DB00F, Key: RemoveFriendConfirmation, Value: Are you sure you want to remove this player from your friend's list?
+
+Hash: 3F6533AB, Key: FriendPresenceInfoInGameAlt, Value: Level {s1} {s2} - {s3}
+Hash: 552906E9, Key: StatusOnline, Value: Online
+Hash: 073E4DBC, Key: PlayerHeroNameLabel, Value: Character Name: {s1}
+Hash: 7DA4B846, Key: FilterHasNoMatchesTitle, Value: No Matches
+Hash: FC0CAF49, Key: FilterHasNoMatchesText, Value: Clear the filter to see the full list.
+Hash: 0573B1F4, Key: FilterClearButtonTooltip, Value: Clears the filter string.
+Hash: E264ABB1, Key: FilterTooltip, Value: Enter text here to filter the player list.
+
+In addition to a normal substring search,
+you can specify these exact values matches:
+
+Hardcore
+Seasonal
+Available, Away, Busy, or Offline
+Hash: 7570CF76, Key: RichPresenceInOverworld, Value: {s1}
+Hash: A3690282, Key: RichPresenceInDungeon, Value: {s1}
+Hash: 58E49515, Key: FriendRequestFrom, Value: {s1} sent you a friend request
+Hash: 84B7A561, Key: ClanInviteFrom, Value: You've been invited to join {s1}
+Hash: C33B59C8, Key: RichPresenceInPvP, Value: {s1}
+Hash: AAF1868D, Key: ProfilePresenceInDungeon, Value: Exploring {s1}
+Hash: 812A8241, Key: ProfilePresenceInOverworld, Value: In {s2} - {s1}
+Hash: 3AC59053, Key: ProfilePresenceInPvP, Value: PvPing - {s1}
+Hash: 99FBF86B, Key: ConfirmLeaveParty, Value: Leaving the party will cause you to be removed from the dungeon. Do you wish to leave the party?
+Hash: 903D9D4D, Key: ConfirmLeavePartyTitle, Value: Leave Party
+Hash: 46C1D054, Key: FriendComesOnline, Value: {s1} has come online.
+Hash: 5A729CE9, Key: FriendGoesOffline, Value: {s1} has gone offline.
+Hash: FF5AC4FF, Key: PartyVoiceChatJoined, Value: {s1} joined party voice chat.
+Hash: D0FCC7F1, Key: PartyVoiceChatLeft, Value: {s1} left party voice chat.
+Hash: 0EF2138D, Key: ClanVoiceChatJoined, Value: {s1} joined clan voice chat.
+Hash: D9B31AFF, Key: ClanVoiceChatLeft, Value: {s1} left clan voice chat.
+Hash: 0002117D, Key: You, Value: You
+Hash: 2BDD7486, Key: PvP_PartyTurnHostile, Value: A party member wants to turn the party hostile.
+Hash: 1EDEB90B, Key: PvP_PartyRemoveHostile, Value: A party member wants to remove {c_highlight}Bloodmarked{/c} status from the party.
+Hash: A143801A, Key: PartyContentInvite, Value: {s1} is about to start {s2}. Would you like to join them?
+Hash: B630B90C, Key: PartyRequiredContent, Value: {s1} is initiating content that requires the full party. You will be teleported to them at the end of the countdown.
+Hash: 8BDF6EB2, Key: PartyRequiredContentDetails, Value: Declining this will cause you to leave the party.
+Hash: FED9AD34, Key: ClanVoiceChatJoined_LocalSolo, Value: You have joined clan voice chat.
+Hash: DB182B26, Key: ClanVoiceChatLeft_LocalSolo, Value: You have left clan voice chat.
+Hash: 0DDC5526, Key: PartyVoiceChatJoined_LocalSolo, Value: You have joined party voice chat.
+Hash: 9D0C2E98, Key: PartyVoiceChatLeft_LocalSolo, Value: You have left party voice chat.
+Hash: 3AFA4C38, Key: LeavePartyAccountNotEligible, Value: Leaving party.
+Account is not eligible for multiplayer.
+Hash: 87B4F243, Key: GenericInGamePresence, Value: {s1} - {s2}

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hello
+Hash: 183F558C, Key: Line7.103AEE, Value: My sweet Feodor, may you know bliss eternal.
+Hash: 68758159, Key: VoiceDir7.103AEE, Value: Lovingly

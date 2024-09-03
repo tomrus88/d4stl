@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You must be Duraya. I have supplies from Timue."
+Hash: 5D854951, Key: Line1.FEC7E, Value: (scoff) "Herbs for the pain,” she says. I'll find my own herbs, thank you. Cure myself and leave this swamp for good.
+Hash: CC8EAF7E, Key: VoiceDir1.FEC7E, Value: Dismissive. Suspicious. Firmly in denial.
+Hash: DE687916, Key: Line6.FEC7E, Value: You can take that shite to Baridan, he'll swallow it gladly. Never strays far from the old hag’s hut...as for Raldin, who knows? I’m not his mother.
+Hash: 4D71DF43, Key: VoiceDir6.FEC7E, Value: Dismissive. Contempt.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What were the villagers doing in those ruins?” 
+Hash: 294970C2, Key: Line27.6D03F, Value: Sacrificing. Summoning demons. Honing all the wonderful gifts that Lilith gave them.

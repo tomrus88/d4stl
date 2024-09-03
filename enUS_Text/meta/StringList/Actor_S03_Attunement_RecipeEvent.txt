@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Zoltun's Warding
+Hash: 2BBA1840, Key: UITitle, Value: Dispelled when struck by hazards. Unlocks Wardwoven Chests.

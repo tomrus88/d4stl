@@ -1,0 +1,4 @@
+Hash: 5D6B43B3, Key: Line1.F737E, Value: “Women with horns.” (scoff) Never heard such mewling over rumors.
+Hash: CC74A9E0, Key: VoiceDir1.F737E, Value: Contempt. Scoffing.
+Hash: 0C6AA146, Key: Line13.F737E, Value: Donan will have it cleared up, soon enough.
+Hash: 5CA0CD13, Key: VoiceDir13.F737E, Value: Confident and secure.

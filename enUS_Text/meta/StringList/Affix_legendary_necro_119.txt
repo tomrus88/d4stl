@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cadaverous
+Hash: 003892BF, Key: Desc, Value: Consuming a {c_important}Corpse{/c} increases the damage of your {c_important}Core{/c} Skills by {c_random}[Affix_Value_1|%x||1|]{/c} for {c_number}[Affix."Static Value 1"]{/c} seconds, up to {c_random}[Affix_Value_1 * Affix."Static Value 0"|%x||1|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: Consuming a {c_important}Corpse{/c} increases the damage of your {c_important}Core{/c} Skills by {c_random}[Affix_Value_1|%x|]{/c}.

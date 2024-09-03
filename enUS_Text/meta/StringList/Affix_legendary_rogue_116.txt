@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Umbrous
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Critical Strikes have up to a {c_random}[Affix_Value_1|%|]{/c} chance to grant a free {c_important}Dark Shroud{/c} shadow.
+Hash: 82B7D312, Key: CodexDesc, Value: Critical Strikes have a {c_random}[Affix_Value_1|%|]{/c} chance to grant a free {c_important}Dark Shroud{/c} shadow.

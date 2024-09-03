@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This power is incredible. I want more."
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: Whoa, settle down, eh? You ride into town breathing fire like that, folk might get the right idea about you.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Taken aback. Urging caution.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: You've taken to the Gift faster than I expected. If you want more, the Triune will provide. Word is they're gathering near Omath’s Redoubt. Give them my best.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Grudging observation. Dismissive.

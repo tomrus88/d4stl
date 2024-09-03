@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Patchwork Leggings
+Hash: A646FFA4, Key: Description, Value: Several pairs of hastily repaired pants.
+Hash: F5C7BC0A, Key: Flavor, Value: Years of use are carefully concealed by layers of patches.

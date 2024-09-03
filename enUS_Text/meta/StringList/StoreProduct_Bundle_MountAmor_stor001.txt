@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Death's Burden
+Hash: A646FFA4, Key: Description, Value: First crafted by necromancers emerging from Nahantu, elements of Death's Burden can now be seen in Kehjistan and beyond.
+Hash: 083EE0CE, Key: Quote, Value: Equine trappings of death.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

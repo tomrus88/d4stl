@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have we met before?"
+Hash: 5A431844, Key: Line1.8C8DF, Value: To Hell and back, we have! In Tarsarak... mad fool, you wanted a guide to take you through the sandstorm.
+Hash: C94C7E71, Key: VoiceDir1.8C8DF, Value: Recognizing Player. Surprised, amused, yet still in pain.
+Hash: 282084CA, Key: Line7.8C8DF, Value: To think you made it, following Meshif of all people. Maybe I should have taken the job... Seems it went better than this one.
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: Impressed. Making light of regret.

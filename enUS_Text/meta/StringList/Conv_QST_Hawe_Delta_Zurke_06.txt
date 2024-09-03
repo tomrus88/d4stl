@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Do you have everything needed to cure this sickness?”
+Hash: 18415C72, Key: Line7.1086F0, Value: Nearly. Missin’ one key ingredient - the blood fungus. (sigh) A right bastard to grow since it needs a living host. I grafted a patch onto a creature outside the reservoir ruins.
+Hash: F0C50634, Key: Line9.1086F0, Value: Once it’s collected, travel south. Look for the corpse mound. I will meet you there at the disease’s source.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Altar of Hatred
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: Dul’Mephistos.

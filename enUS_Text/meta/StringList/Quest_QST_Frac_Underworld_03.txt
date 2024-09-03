@@ -1,0 +1,47 @@
+Hash: 003DFCC1, Key: Name, Value: Storming the Gates
+Hash: 0871A46B, Key: Toast, Value: Pursue Lilith and Vhenard through the Cradle
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Pursue Lilith and Vhenard through the Cradle
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Neyrelle and I must delve into the Cradle inside the ancient city of Kasama. Only then can we continue our pursuit of Lilith and Neyrelle's mother, Vhenard.
+Hash: D188F324, Key: Phase96Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: 2E88E0EC, Key: Phase96OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard to the Mourning Shore
+Hash: 4C68720F, Key: Callback225Header, Value: Pursue Lilith and Vhenard to the Mourning Shore
+Hash: 80DE4FA9, Key: Phase121Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: D3232311, Key: Phase121OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 85A483B1, Key: Callback236Header, Value: Speak with Neyrelle
+Hash: EEA9054A, Key: Phase140Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: 676EBDD2, Key: Phase140OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: F816C8F3, Key: Callback139Header, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 5ADC9C4C, Key: Phase241Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: 80B15714, Key: Phase241OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 8AF7A24F, Key: Callback243Header, Value: Protect Neyrelle while she unseals the gate
+Hash: FD75A395, Key: Callback384Header, Value: Protect Neyrelle while she unseals the doorway
+Hash: FA3F7D12, Key: Phase283Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: ED7C769A, Key: Phase283OutsideSubzoneHeader, Value: Enter the Cradle
+Hash: D5F36F55, Key: Callback285Header, Value: Enter the Cradle
+Hash: EC1F95D0, Key: Phase326Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: F8CF4518, Key: Phase326OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 63812A13, Key: Callback382Header, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 961CD5ED, Key: Phase341Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: 48E6F5D5, Key: Phase341OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 99688CD2, Key: Callback345Header, Value: Slay {MONSTER}
+Hash: 8ADDA8D2, Key: Phase346Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: DE27DA5A, Key: Phase346OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: CD517FD6, Key: Callback349Header, Value: Inspect Lilith's Blood Petals
+Hash: B488820D, Key: Phase350Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: 6A8645F5, Key: Phase350OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 1686ED52, Key: Callback381Header, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 3C236D15, Key: Phase358Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: F2EE19FD, Key: Phase358OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: F10906CF, Key: Callback360Header, Value: Inspect Lilith's Blood Petals
+Hash: 65CE4650, Key: Phase362Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: 7F4C8598, Key: Phase362OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 24F1F9D3, Key: Callback364Header, Value: Open the Ancient Gate
+Hash: 299BBBD4, Key: Phase366Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: C3806F9C, Key: Phase366OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 5E2E0B75, Key: Callback375Header, Value: Open the Ancient Gate
+Hash: 5346950F, Key: Phase370Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: 4FDEDB37, Key: Phase370OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: F82284F7, Key: Callback377Header, Value: Open the Ancient Gate
+Hash: F5C7A44C, Key: Phase403Description, Value: Neyrelle and I pursue Lilith and Vhenard through the dark passages of the Cradle, deep within the ancient city of Kasama.
+Hash: E8855F14, Key: Phase403OutsideSubzoneHeader, Value: Pursue Lilith and Vhenard with Neyrelle
+Hash: 5CDDAA4F, Key: Callback405Header, Value: Pursue Lilith and Vhenard with Neyrelle

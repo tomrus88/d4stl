@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: The Unlucky Ones
+Hash: 0871A46B, Key: Toast, Value: A guard seeks an uneventful shift.
+Hash: FAF02F4B, Key: Phase6Description, Value: A guard has the unfortunate task of guarding the Alzuuda gate from undead. He’s promised me half his pay if I deal with them and give him a quiet shift. The Scarred Coast is swarmed with enough undead to keep me occupied. 
+Hash: 38AA8D97, Key: Callback10Header, Value: Slay zombies along the Scarred Coast: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I’ve killed many undead along the Scarred Coast. I should return to Nayan outside of Alzuuda to see how he fares. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Nayan

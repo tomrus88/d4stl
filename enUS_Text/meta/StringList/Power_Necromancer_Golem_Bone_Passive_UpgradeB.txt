@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Upgrade B
+Hash: 003892BF, Key: desc, Value: When your Bone Golem takes damage, it unleashes Bone Spikes dealing {c_number}{payload:DAMAGE}{/c} damage and makes enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_7}{/c} seconds. This effect can only happen once every {c_number}[SF_8]{/c} seconds.

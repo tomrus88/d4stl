@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found an intact Runestone"
+Hash: 5D28A609, Key: Line1.AAE9B, Value: By the Oak! One did survive! I didn't dare get my hopes up, but we are truly blessed!
+Hash: CC320C36, Key: VoiceDir1.AAE9B, Value: Emphais on DID.
+Hash: F71D1F8B, Key: Line3.AAE9B, Value: I'll try to reawaken it. Hold fast.

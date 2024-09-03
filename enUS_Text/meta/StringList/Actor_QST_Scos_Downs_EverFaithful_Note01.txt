@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Druidic Remedies
+Hash: F2CA04D8, Key: NoticeSignText, Value: Scavenged herbs, murky potions, and makeshift talismans. The work of a dedicated amateur.

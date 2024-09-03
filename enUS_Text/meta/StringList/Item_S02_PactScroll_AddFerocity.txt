@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Pact of Ferocity
+Hash: A646FFA4, Key: Description, Value: Adds a{icon:Vampire_Pact_Red_Icon, 2.3}Pact of Ferocity to Helm, Chest Armor, Gloves, Pants, or Boots. 
+
+Has no effect if the armor piece already has maximum Pacts.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hunter's Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Hunter's Journal
+Hash: 5D230092, Key: Line1.B79B7, Value: Tracked and observed the madmen at Yngovani. While it does appear the cultists have learned to live among the snakemen, they don’t seem to cooperate in any way other than a mutually parasitic relationship.
+Hash: F7177A14, Key: Line3.B79B7, Value: If the cultists are directing the snakemen somehow, I still can’t see it. Perhaps they're nurturing them in some way? (sigh) I’m going inside the lair to have a closer look.
+-Elodin of Backwater

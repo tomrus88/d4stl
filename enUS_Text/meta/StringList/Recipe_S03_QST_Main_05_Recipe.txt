@@ -1,0 +1,5 @@
+Hash: F5C7BC0A, Key: Flavor, Value: Tuning Stone permitting long distance communication.
+Hash: 9E3ACE5E, Key: Category, Value:  Test
+Hash: 003DFCC1, Key: Name, Value: Seneschal Sending Stone
+Hash: D0201B8E, Key: MainHeader, Value: Seneschal Sending Stone
+Hash: ED2058BC, Key: Button, Value: Craft Stone

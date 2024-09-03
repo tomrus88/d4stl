@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Fiend Rose
+Hash: A646FFA4, Key: Description, Value: A rare herb used in the crafting of elixirs. Can be found in Nightmare Dungeons and The Pit.
+Hash: F5C7BC0A, Key: Flavor, Value: Only mostly toxic in spite of its beauty, but still regarded a peerless catalyst by alchemists.

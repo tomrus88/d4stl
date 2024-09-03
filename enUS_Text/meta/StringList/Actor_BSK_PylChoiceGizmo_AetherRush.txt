@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: {icon:BSK_Mob, 2.5}{c_gold}Normal monster damage {/c}{c_bskbane}+25%{/c}
+{icon:BSK_PlayerBoon, 2.5}{c_gold}Gathering Aether {/c}{c_bonus}Increases movement speed (8 seconds){/c}
+Hash: 2F414F0D, Key: ShortenedName, Value: {icon:BSK_PlayerBoon, 2.5}{c_white}The Aether Rush{/c}

@@ -1,0 +1,21 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: E4A56513, Key: Line33.B6582, Value: (gasping breath)
+Hash: 34DB90E0, Key: VoiceDir33.B6582, Value: huge gasping breath, coming back to life
+Hash: 8E091FB5, Key: Line5.6DE47, Value: (gasp) Mother? Mother, please! Can you hear me?
+Hash: 2AFFCA44, Key: Line7.B6582, Value: My little magpie, it’s you... (gasp)
+Hash: 9A093071, Key: VoiceDir7.B6582, Value: her voice STRAINED with pain
+Hash: C1F212B9, Key: Line9.6DE47, Value: I can save you from this, Mother. I promise! I can learn how to --
+Hash: 30FB78E6, Key: VoiceDir9.6DE47, Value: alarmed
+Hash: 722D41CF, Key: Line11.B6582, Value: Neyrelle, stop.
+Hash: A61634D3, Key: Line15.B6582, Value: I can’t be saved...from my own mistakes.
+Hash: 400AAE55, Key: Line17.B6582, Value: This body is only a husk. My spirit must pass on…
+Hash: 4AB0EB91, Key: Line31.B6582, Value: …and you must let me go.
+Hash: D6FCF6CA, Key: Line19.6DE47, Value: (sob) Mother, no! (sob) I need you.
+Hash: 5E6F16B0, Key: Line21.B6582, Value: You need to move on, Magpie...without me. But I can help you one last time before I go.
+Hash: F8639032, Key: Line23.B6582, Value: You have the divine blessing. Your blood is the necessary key.
+Hash: AF80A08C, Key: Line39.6DE47, Value: (struggling)
+Hash: FFB6CC59, Key: VoiceDir39.6DE47, Value: catching her mother's fall
+Hash: 188E5817, Key: Line37.B6582, Value: Neyrelle...you were so loved...
+Hash: 68C483E4, Key: VoiceDir37.B6582, Value: sincere
+Hash: 33F08F65, Key: Line41.6DE47, Value: (crying) ...Mother... (crying)
+Hash: 8426BB32, Key: VoiceDir41.6DE47, Value: crying

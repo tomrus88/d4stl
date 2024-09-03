@@ -1,0 +1,4 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Escape Artist
+Hash: 7786FD97, Key: Buff1_Description, Value: Escape Artist Cooldown
+Hash: 14C66756, Key: Buff3_Name, Value: Escape Artist's Dodge
+Hash: 16451099, Key: Buff3_Description, Value: Dodge the next {c_number}{SF_0}{/c} attacks.

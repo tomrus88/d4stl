@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood-filled Well
+Hash: F2CA04D8, Key: NoticeSignText, Value: The blood is human. Dozens of victims. Somehow, it's still warm.

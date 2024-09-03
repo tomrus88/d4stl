@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "We cannot let the demons break through."
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: We won’t. That demon there, bring me its heart.
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Adamant. Confident.

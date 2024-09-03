@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Coldiron Bastard Sword
+Hash: 13A53A8B, Key: Series, Value: "Season of the Malignant"

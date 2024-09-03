@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What if I refuse?"
+Hash: 1BE26F83, Key: Line7.1BCB9E, Value: If you want to leave, none of us can stop you. You’ve made that painfully clear.
+Hash: 6C189B50, Key: VoiceDir7.1BCB9E, Value: Tense. Sincere. Recalling how the Player annihilated them in base game.
+Hash: 0D845EA9, Key: Line14.1BCD2B, Value: I could give it a go.
+Hash: 64800416, Key: VoiceDir14.1BCD2B, Value: Wolfish grin. Flippant but ready for violence.
+Hash: E60800D3, Key: Line16.1BCB9E, Value: Istel...
+Hash: 3D03A640, Key: VoiceDir16.1BCB9E, Value: Growling. Irritated. Means: "Are you trying to get us killed?!"

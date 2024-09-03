@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Remembering the Goose
+Hash: F7149636, Key: Line3.B20CF, Value: I didn’t do this for you, you know? Said I did, but… you know better.
+Hash: 661DFC63, Key: VoiceDir3.B20CF, Value: Introspective. Somber recognition. 
+Hash: 0C1F7A47, Key: Line13.B20CF, Value: Oh, who’s Torben to scowl at now? Can’t imagine I’ll rile him so. (laugh)
+Hash: 5C55A614, Key: VoiceDir13.B20CF, Value: Playful
+Hash: A613F3C9, Key: Line15.B20CF, Value: Ah, please, take the Goose back to her nest.
+Hash: F64A1F96, Key: VoiceDir15.B20CF, Value: Somber. Recognizing her loss.
+Hash: 40086D4B, Key: Line17.B20CF, Value: I’m going to stay awhile longer and finish this last pint with Tavish. Just one more.
+Hash: 903E9918, Key: VoiceDir17.B20CF, Value: Somber. Relucant to move on from loss.

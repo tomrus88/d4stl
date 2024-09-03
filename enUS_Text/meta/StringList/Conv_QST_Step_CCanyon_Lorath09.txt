@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Cultist Canyon
+Hash: C1F13152, Key: Line9.6D03F, Value: (sigh) What a damned mess...
+Hash: 30FA977F, Key: VoiceDir9.6D03F, Value: Weary. Disgust. Disappointment.

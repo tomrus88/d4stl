@@ -1,0 +1,6 @@
+Hash: AAD61190, Key: Line19.1D252B, Value: (laughs)
+Hash: 01D1B6FD, Key: VoiceDir19.1D252B, Value: Mocking. Violent. (2 seconds)
+Hash: 46CED8CF, Key: Line27.1D252B, Value: (laughs)
+Hash: 9DCA7E3C, Key: VoiceDir27.1D252B, Value: Mocking. Violent. (2 seconds)
+Hash: 1F528291, Key: Line29.1D252B, Value: (laughs)
+Hash: 764E27FE, Key: VoiceDir29.1D252B, Value: Mocking. Violent. (2 seconds)

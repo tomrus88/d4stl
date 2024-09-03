@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Conflagration
+Hash: 003892BF, Key: Desc, Value: While channeling {c_important}Incinerate{/c}, your Burning damage is increased by {c_random}[Affix_Value_1|%x|]{/c}. 
+
+Enemies damaged by {c_important}Incinerate{/c} explode, Burning all surrounding enemies for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} over {c_number}[Affix."Static Value 0"]{/c} seconds. Can only occur once every {c_number}[Affix."Static Value 1"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Incinerate{/c} increases Burning damage by {c_random}[Affix_Value_1|%x|]{/c} and enemies hurt by it explode for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Burning damage to surrounding enemies.

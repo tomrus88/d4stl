@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Avarice the Gold Cursed
+Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat Avarice
+Hash: 6541F242, Key: Callback48Header, Value: Defeat {MONSTER}
+Hash: A4030E0A, Key: Callback121Header, Value: Avarice will escape soon
+Hash: D298E270, Key: Callback118Header, Value: Defeat {MONSTER}
+Hash: F816C8F3, Key: Callback139Header, Value: Defeat {MONSTER}

@@ -1,0 +1,97 @@
+Hash: AFB11B0D, Key: TabArmour, Value: Armor
+Hash: AC596DCB, Key: TabAccessories, Value: Accessories
+Hash: B547FBE7, Key: TabAppearance, Value: Appearance
+Hash: CD4AAD9C, Key: TabEmblems, Value: Emblems
+Hash: F740BACC, Key: SnapshotsHeader, Value: Ensembles
+Hash: 2B261399, Key: TransmogMainHeader, Value: Transmogrify equipment slots
+Hash: 4F9223BD, Key: TransmogModelName, Value: // Model: {s1}
+Hash: B6C5B721, Key: TransmogVariantName, Value: // Variant: {s1}
+Hash: 1E30AF1B, Key: HeroEquipmentSlots, Value: Equipment Slots
+Hash: 1AF7D500, Key: MountEquipmentSlots, Value: Mount Equipment Slots
+Hash: 856BDD81, Key: SnapshotEmptySlot, Value: Empty
+Slot
+Hash: 70BBCCD3, Key: SnapshotLastSave, Value: Saved: {s1)
+Hash: ABB16F0A, Key: TooltipSaveSnapshot, Value: Save
+Hash: 18FA6E42, Key: TooltipOverwriteSnapshot, Value: Overwrite
+Hash: D6C1723B, Key: TooltipLoadSnapshot, Value: Load
+Hash: F9874A0F, Key: WardrobeWindowName, Value: Wardrobe
+Hash: 4F5BE795, Key: NoMountText, Value: No Mount
+Hash: 5C05634D, Key: CannotAffordSnapshopUnlock, Value: You do not have enough gold to purchase an Ensemble slot.
+Hash: 6261E256, Key: UnequippedLookName, Value: Unequipped Look
+Hash: 08051EDF, Key: NoDye, Value: Natural Color
+Hash: 78060435, Key: NoEquipment, Value: You have not equipped any items that can be transmogged.
+Hash: 85593B8A, Key: ConfirmButton, Value: Confirm Look
+Hash: 59DBDE13, Key: ConfirmMessage, Value: Your current look has been saved.
+Hash: 9BE8396D, Key: CloseModifiedWarning, Value: You have unsaved changes. Would you like to save or discard them before continuing to exit the Wardrobe?
+Hash: C83BEF46, Key: ConfirmMessageMount, Value: Your mount's look has been saved.
+Hash: 3C3446F1, Key: SnapshotName, Value: Slot #{s1}
+Hash: B069E61E, Key: VariantHeader, Value: Select a variant
+Hash: 82EAD6DD, Key: PigmentHeader, Value: Select a Pigment
+Hash: 9341C2C3, Key: UnequippedPigmentNA, Value: An unlocked look must be selected before you can select a pigment.
+Hash: 003766F1, Key: Back, Value: Back
+Hash: 6FE15ABD, Key: PurchaseSlot, Value: Purchase Slot
+Hash: 732F7548, Key: PigmentAmount, Value: {c:FFdba864}{s1}{/c}{c:FF928c82}/{s2}{/c}
+Hash: 27B13412, Key: SnapshotPreview, Value: Preview Ensemble #{s1}
+Hash: 21C10DAB, Key: SnapshotPurchase, Value: Do you want to purchase this slot?
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 1205FF8F, Key: Rotate, Value: Rotate
+Hash: 0D8B8C6A, Key: ModifySlot, Value: Modify Slot
+Hash: DEE905DB, Key: ApplyVariant, Value: Apply look
+Hash: 24ACB85C, Key: ZoomIn, Value: Zoom In
+Hash: BA43DEBD, Key: ZoomOut, Value: Zoom Out
+Hash: 22F0135A, Key: ApplyPigment, Value: Apply
+Hash: E6ECA81C, Key: BackToVariants, Value: Back to Looks
+Hash: 4F902A54, Key: ItemTypePigmentNA, Value: Pigments are not available for this item type.
+Hash: 4DD05589, Key: BackToSlots, Value: Back to Slots
+Hash: D7CAFE22, Key: MountWardrobeWindowName, Value: Stable Wardrobe
+Hash: A555DF16, Key: ApplyPigmentToAll, Value: Apply to all
+Hash: 04135CB5, Key: ZoomInOrOut, Value: Zoom
+Hash: 922BF6B7, Key: ConfirmHeader, Value: Look Confirmed
+Hash: D1A3E17A, Key: DefaultLook, Value: Default Look
+Hash: 03C3A8DF, Key: BackToTransmog, Value: Back
+Hash: 560654D1, Key: TabReCustomize, Value: Recustomize
+Hash: D58C1CC5, Key: TabHeadstones, Value: Headstones
+Hash: EA90FB76, Key: Armour, Value: Armor
+Hash: 07AD6502, Key: Items, Value: Items
+Hash: D2F32817, Key: HeadstonesHeader, Value: Headstones ({s1})
+Hash: D49073FC, Key: Markings, Value: Markings ({s1})
+Hash: CE7F4228, Key: MarkingColor, Value: Marking Colors ({s1})
+Hash: D3D8D042, Key: Jewelry, Value: Jewelry ({s1})
+Hash: 0559FF23, Key: MakeUp, Value: Makeup ({s1})
+Hash: 3CFCE2B9, Key: TabJewelry, Value: Jewelry
+Hash: 6236D553, Key: TabMarkings, Value: Markings
+Hash: CA7A1EBA, Key: TabMakeup, Value: Makeup
+Hash: 98C4BE90, Key: BackToMarkings, Value: Back to Markings
+Hash: 77AC0CA9, Key: NoMarkingPigmentNA, Value: A marking must be selected before you can select a pigment.
+Hash: 0B1178F4, Key: TabChangeModifiedWarning, Value: You have unsaved changes on this tab. Would you like to save or discard them before continuing to a different tab?
+Hash: 87C301FC, Key: ClearVariant, Value: Apply default look
+Hash: 3CA4E277, Key: NoTransmogNA, Value: An unlocked look must be selected before you can select a pigment.
+Hash: 0AC91581, Key: EmptySlotLong, Value: Empty Slot
+Hash: 62FD3D1C, Key: EmptySlot_Info, Value: Save your favorite looks to your Ensemble slots.
+Hash: 11A649AC, Key: OpenShop, Value: Go to Shop
+Hash: 9745C966, Key: EquippedItemInSlotName, Value: {s1}
+{c:FF928c82}(Default Look)
+Hash: 9C989F98, Key: UnequippedLookSlotName, Value: {s1}
+{c:FF928c82}(Unequipped Look)
+Hash: 77F1AD58, Key: NoMarkingColors, Value: Colors are not available for this marking.
+Hash: 49BE13E1, Key: HeadstoneShopInfo, Value: Visit the Shop to discover new headstones.
+Hash: AE450005, Key: EnsembleDefaultLook, Value: Default looks cannot be saved.
+Hash: 687C36C1, Key: ApplyHeadstone, Value: Apply Headstone
+Hash: FAA8DEA0, Key: DefaultHeadstone, Value: Default Headstone
+Hash: E3ABD8F4, Key: LoadErrorWeapon, Value: Weapon appearance will not be applied due to type mismatch
+Hash: BD3B14F7, Key: TabEffects, Value: Effects
+Hash: 3AB6E784, Key: TabTownPortals, Value: Town Portals
+Hash: 13650AE0, Key: TownPortalShopInfo, Value: Discover new Town Portal looks in the Seasonal Battle Pass.
+Hash: BA07BB36, Key: TownPortalsHeader, Value: Town Portals ({s1})
+Hash: A85CF317, Key: ApplyTownPortalCosmetic, Value: Apply Town Portal
+Hash: 55365F3F, Key: DefaultTownPortal, Value: Default Town Portal
+Hash: 7E03B3C0, Key: HideHelm, Value: Hide Helm
+Hash: 72CC14A7, Key: ShowHelm, Value: Show Helm
+Hash: D297D18E, Key: TabCompanions, Value: Pets
+Hash: 8F6F8FA0, Key: CompanionsHeader, Value: Pets ({s1})
+Hash: 896B383D, Key: NoCompanionsHeader, Value: No Pets
+Hash: 74FC58D9, Key: NoCompanionsText, Value: Complete the Priority Quest{icon:Marker_PriorityQuestAvailable, 2.5}{c_highlight}Faithful Companion{/c} to acquire a new pet.
+Hash: 70DF7304, Key: LabelCompanion, Value: pet
+Hash: 9533CB5A, Key: LabelTownPortal, Value: portal
+Hash: 9B1D47F7, Key: LabelBackTrophy, Value: back trophy
+Hash: 120613CB, Key: LabelTransmog, Value: look

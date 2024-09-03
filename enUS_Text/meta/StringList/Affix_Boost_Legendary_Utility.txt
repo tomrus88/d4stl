@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Utility
+Hash: 003892BF, Key: Desc, Value: You have {c_number}[Affix_Value_1*100|%|]{/c} increased Critical Strike chance.

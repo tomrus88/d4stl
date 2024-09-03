@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Chorus of Light
+Hash: A646FFA4, Key: Description, Value: "Wreaths of gold, talismans of silver...A servant of the Father should not need such finery. Do they believe the Light shines from them?" -Sister Octavia
+Hash: 083EE0CE, Key: Quote, Value: In His holy name.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

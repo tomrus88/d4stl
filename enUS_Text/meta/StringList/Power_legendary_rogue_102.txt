@@ -1,0 +1,2 @@
+Hash: A4F3E2C4, Key: Buff10_Name, Value: Explosive Verve
+Hash: 3763A447, Key: Buff10_Description, Value: Movement Speed increased after using {c_important}Trap{/c} or {c_important}Grenade{/c} Skills.

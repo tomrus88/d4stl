@@ -1,0 +1,2 @@
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Ugh, check around the inn. Ask if she's heard from the "Orbei Monastery."
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Hungover. Dismissive. Waving the player onward.

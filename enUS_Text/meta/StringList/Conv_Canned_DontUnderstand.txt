@@ -1,0 +1,16 @@
+Hash: 0280BD7F, Key: Line28.BAE4.Bar, Value: I don't understand.
+Hash: 06FB722C, Key: VoiceDir28.BAE4.Bar, Value: Straightforward delivery.  The player is stating things plainly.
+Hash: 02810352, Key: Line28.BAE4.Rog, Value: I don't understand.
+Hash: 0280C835, Key: Line28.BAE4.Dru, Value: I do not understand.
+Hash: 0280F100, Key: Line28.BAE4.Nec, Value: I do not understand.
+Hash: 0281079E, Key: Line28.BAE4.Sor, Value: I do not understand.
+Hash: 77B32E3C, Key: Line34.BAE4.Bar, Value: Please explain.
+Hash: 77B361BD, Key: Line34.BAE4.Nec, Value: Explain clearly.
+Hash: 77B338F2, Key: Line34.BAE4.Dru, Value: Explain, please.
+Hash: 77B3785B, Key: Line34.BAE4.Sor, Value: Explain.
+Hash: 77B3740F, Key: Line34.BAE4.Rog, Value: What do you mean?
+Hash: ECE59EF9, Key: Line40.BAE4.Bar, Value: What can be done?
+Hash: ECE5D27A, Key: Line40.BAE4.Nec, Value: What can be done?
+Hash: ECE5A9AF, Key: Line40.BAE4.Dru, Value: What can we do?
+Hash: ECE5E918, Key: Line40.BAE4.Sor, Value: There must be something we can do.
+Hash: ECE5E4CC, Key: Line40.BAE4.Rog, Value: What can be done?

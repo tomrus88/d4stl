@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Boneweave Bow
+Hash: 003DFCC1, Key: Name, Value: Eaglehorn
+Hash: F5C7BC0A, Key: Flavor, Value: "Scholars have been unable to decipher the runes carved into this bow, however all agree they are related to its uncanny ability to bend arrows towards their targets."
+- Barrett's Book of Implements

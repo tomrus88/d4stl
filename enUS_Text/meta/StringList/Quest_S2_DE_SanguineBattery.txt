@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Sanguine Battery
+Hash: 059C64AB, Key: Callback5Header, Value: Investigate the ritual
+Hash: 1F9943DA, Key: Callback13Header, Value: Survive the onslaught
+Hash: B98DBD5C, Key: Callback15Header, Value: Slay the remaining enemies
+Hash: 83A65A9D, Key: Callback52Header, Value: Defend the ritual

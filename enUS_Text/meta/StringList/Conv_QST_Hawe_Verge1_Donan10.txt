@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did it work?"
+Hash: 7BAACD41, Key: Line35.7FA05, Value: Come on, come on! You old fool, what's wrong with it...why won't--
+Hash: CBE0F90E, Key: VoiceDir35.7FA05, Value: To self
+Hash: 159F46C3, Key: Line37.7FA05, Value: Oh, no. This is worse than I thought. It must have been damaged when Yorin--Astaroth...
+Hash: 65D57290, Key: VoiceDir37.7FA05, Value: bleak
+Hash: 0D2B7D9E, Key: Line39.BAE4, Value: Do you know how to repair it?
+Hash: D7101683, Key: Line19.7FA05, Value: We'll need rare materials--quicksilver, to start. And tools, alchemical tools.
+Hash: 27464250, Key: VoiceDir19.7FA05, Value: weary 
+Hash: 67ECA222, Key: Line45.7FA05, Value: There's a village near here. We'll see if they have what we need. Meet me there when you can.

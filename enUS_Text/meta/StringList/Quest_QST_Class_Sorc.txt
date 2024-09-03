@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Sorcerer: Legacy of the Magi
+Hash: D53BFF05, Key: Phase0Description, Value: I feel something, a voice on the astral wind, calling out dimly, somewhere in the mountains. Is this call meant for me? I should investigate.
+Hash: 1EADAE68, Key: Callback2Header, Value: Follow the astral call
+Hash: C9FCD1EA, Key: Phase5Description, Value: My intuition tells me that this man is the source of the astral voice I've been hearing, but I don't know him. 
+Hash: B8A227EA, Key: Callback4Header, Value: Speak with the stranger
+Hash: F4A9EC5A, Key: Phase14Description, Value: I have the Forgotten Codex. I should return to Mordarin, he may be able to help me make sense of it. 
+Hash: 1F9943DA, Key: Callback13Header, Value: Return to Mordarin
+Hash: 8784047D, Key: Phase17Description, Value: Mordarin has invited me to participate in a ritual to learn more about the Codex. 
+Hash: 0687FA1D, Key: Callback16Header, Value: Enter the Abandoned Shack
+Hash: 13BA663E, Key: Phase45Description, Value: I should check on Mordarin, he may be injured.
+Hash: 3158FF3E, Key: Callback44Header, Value: Speak with Mordarin
+Hash: B23C2F03, Key: Callback49Header, Value: Enter the Abandoned Shack
+Hash: 0132B4FD, Key: Phase53Description, Value: The scholar Mordarin tells of a Forgotten Codex in the Lost Archives. I should find it and unlock its secrets.
+Hash: 83A65A9D, Key: Callback52Header, Value: Recover {ITEM}

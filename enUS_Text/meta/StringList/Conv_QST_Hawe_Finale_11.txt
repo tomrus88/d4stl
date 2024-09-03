@@ -1,0 +1,4 @@
+Hash: 5A196F77, Key: Line1.789BF, Value: Something is wrong here.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: Abrupt. Alert. Unsettled.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Nothing right about this place. Best do this quickly.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: Agreeing. Wary. Eager to begin.

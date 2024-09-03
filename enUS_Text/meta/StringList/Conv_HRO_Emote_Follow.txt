@@ -1,0 +1,4 @@
+Hash: 5E389673, Key: Line10.BAE4, Value: Come with me.
+Hash: CD41FCA0, Key: VoiceDir10.BAE4, Value: Direct, but not a loud order, more practical.
+Hash: 70E1DB7B, Key: Line18.BAE4, Value: Follow me.
+Hash: DFEB41A8, Key: VoiceDir18.BAE4, Value: Direct, but not a loud order, more practical.

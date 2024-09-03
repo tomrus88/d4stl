@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you know anything about this Thieves Guild emblem?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: You goddamn bastard! Get that filthy shite out of here before I melt down that medallion and--
+Hash: 6735A8AD, Key: Line3.10088C, Value: Oh, my goodness. I didn't know that was still in me, I-- my apologies. Truly, apologies, I-- you didn't know. Of course you didn't know. Umm, the Thieves Guild and I do not have a friendly past.
+Hash: 3FB9526F, Key: Line5.10088C, Value: That emblem is a reminder of my every failure in life. A reminder that my children will make the same damned mistakes I did, and I can't stop them.

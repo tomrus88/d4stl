@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Movement
+Hash: 7BFE534B, Key: simple_instruction, Value: You can click or hold down {icon:lmb, 1.5} to move.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Use {icon:l_all, 2} to move.

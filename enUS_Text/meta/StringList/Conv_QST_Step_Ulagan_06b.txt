@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Sentimental Value
+Hash: 318A4C7C, Key: Line12.11E336, Value: What a waste of my time.
+Hash: 8885F1E9, Key: VoiceDir12.11E336, Value: Disappointed, indignant.
+Hash: 0A0DF63E, Key: Line14.11E336, Value: Who buries a worthless ring?
+Hash: 61099BAB, Key: VoiceDir14.11E336, Value: Indignant, annoyed.
+Hash: CD8313BB, Key: Line20.11E336, Value: I need some space to grieve.
+Hash: 247EB928, Key: VoiceDir20.11E336, Value: Wounded, contemptuous.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Who is Timue?”
+Hash: 5A196F77, Key: Line1.789BF, Value: An old acquaintance who has lived in this place for countless years. She taught me much about the swamp and its power, though that was a long time ago.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: A bit restrained. Taissa has a chilly relationship with Timue currently, but she's trying to hide it/play it off.
+Hash: F40DE8F9, Key: Line3.789BF, Value: She might try to turn you away. Do not let her.

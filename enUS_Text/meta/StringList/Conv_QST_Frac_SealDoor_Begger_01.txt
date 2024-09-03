@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Offer him coin.)
+Hash: 8EB30ADE, Key: Line1.102596, Value: Keep it! I am not after your money. Just your ear.
+Hash: 6736B4A0, Key: Line3.102596, Value: I can feel it...a great calamity is about to unfold in the northern reaches. The door is in danger.
+Hash: B76CE06D, Key: VoiceDir3.102596, Value: rambling, prophetic
+Hash: 3FBA5E62, Key: Line5.102596, Value: It was sealed for a reason! And now the pig-headed beasts are trying to force it open!
+Hash: 8FF08A2F, Key: VoiceDir5.102596, Value: increasingly agitated
+Hash: 451A710F, Key: Line11.102596, Value: Heed my warning and stop them! It must remain sealed!
+Hash: 9C16167C, Key: VoiceDir11.102596, Value: increasingly agitated

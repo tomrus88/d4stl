@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why does Nafain hate the Cathedral?” 
+Hash: 5D4E7D6A, Key: Line1.CDDE3, Value: Nafain sees us as intruders stealing from his land. But how does he expect us to survive?
+Hash: CC57E397, Key: VoiceDir1.CDDE3, Value: Disgruntled. A soldier trying to do her duty.
+Hash: F742F6EC, Key: Line3.CDDE3, Value: We need timber to build. Ore to forge our weapons. Wild game to eat.
+Hash: 9137706E, Key: Line5.CDDE3, Value: Truth is, I think his hatred for us goes back to Donan. They were friends once, but they had a falling out.

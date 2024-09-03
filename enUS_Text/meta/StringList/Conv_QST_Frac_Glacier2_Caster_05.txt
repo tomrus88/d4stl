@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Inarius didn’t seem very welcoming.”
+Hash: 5D826091, Key: Line1.FA865, Value: No, no, no. You heard him, but you did not listen. His voice is music, a symphony of Light.
+Hash: F776DA13, Key: Line3.FA865, Value: Look beyond the words themselves, and you will find truth.

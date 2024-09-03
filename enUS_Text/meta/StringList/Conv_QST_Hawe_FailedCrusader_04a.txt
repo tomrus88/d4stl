@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Welcome, Johanna."
+Hash: 8ED7735D, Key: Line1.121C9F, Value: I was worried we would not find it... But it seems the Light shines even here. Your help shall not be forgotten.
+Hash: DF0D9F2A, Key: VoiceDir1.121C9F, Value: You've found your master's armor, meaning you can continue her legacy. Emotional. Proud. Powerful.
+Hash: 3FDEC6E1, Key: Line5.121C9F, Value: Before I can return to Zarbinzet, I must perform the final rites for my fellow crusaders that died here. They deserve that at least.
+Hash: 9014F2AE, Key: VoiceDir5.121C9F, Value: Steeling yourself.
+Hash: 186270A3, Key: Line7.121C9F, Value: I hope to see you again when you are next in Zarbinzet. Travel safe, friend.

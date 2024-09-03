@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to your eyes?"
+Hash: 5D85CC18, Key: Line1.FFA04, Value: Theya stole them. Pinned them on some necklace she wears, but takes it with her everywhere, makes me watch. I wonder if my suffering aids her?
+Hash: CC8F3245, Key: VoiceDir1.FFA04, Value: lude, drunk, or a madman. shouts at everyone 
+Hash: F77A459A, Key: Line3.FFA04, Value: Ah yeah, I can see through those eyes just as you can see me now, but what I see is painful. So much pain, so much death. I want my damned eyes back!

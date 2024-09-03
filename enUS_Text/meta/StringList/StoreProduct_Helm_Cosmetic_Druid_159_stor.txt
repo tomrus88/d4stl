@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nature Canopy
+Hash: 13A53A8B, Key: Series, Value: "The Oaken Keeper"

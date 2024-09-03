@@ -1,0 +1,42 @@
+Hash: 003DFCC1, Key: Name, Value: Secrets of the Zakarum
+Hash: 0871A46B, Key: Toast, Value: Meet Donan outside of the Ruins of Rakhat Keep
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with Donan
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. 
+Hash: D53BFF05, Key: Phase0Description, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. We are to meet outside the ruin of a Zakarum fortress deep in the swamps of Hawezar. 
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Speak with Donan outside the Zakarum Keep
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Donan
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. 
+
+I need to raise the portcullis so we enter the Ruins of Rakhat Keep.
+Hash: 9589ADF5, Key: Phase8OutsideSubzoneHeader, Value: Raise the portcullis in the Ruins of Rakhat Keep.
+Hash: 975E6113, Key: Callback148Header, Value: Raise the portcullis 
+Hash: 61CFD437, Key: Phase11Description, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. 
+
+I should speak with Donan. 
+Hash: 03E5A75F, Key: Phase11OutsideSubzoneHeader, Value: Speak with Donan at the Ruins of Rakhat Keep.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Donan
+Hash: 1315987A, Key: Phase23Description, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. 
+
+I need to raise the portcullis so we enter the Ruins of Rakhat Keep.
+Hash: 18ABE702, Key: Phase23OutsideSubzoneHeader, Value: Find a way into the Zakarum Keep
+Hash: E45EC27D, Key: Callback43Header, Value: Find a way into the Zakarum Keep
+Hash: 63196FBF, Key: Phase55Description, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. 
+
+I need to raise the portcullis so we enter the Ruins of Rakhat Keep.
+Hash: 12CABBE7, Key: Phase55OutsideSubzoneHeader, Value: Find a way into the Zakarum Keep.  
+Hash: 04898A62, Key: Callback57Header, Value: Scale the damaged Keep wall
+Hash: 80DE4FA9, Key: Phase121Description, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. 
+
+I should follow Donan deeper into the Ruins of Rakhat Keep.
+Hash: D3232311, Key: Phase121OutsideSubzoneHeader, Value: Follow Donan in the Ruins of Rakhat Keep.
+Hash: 63756E0F, Key: Callback144Header, Value: Follow Donan
+Hash: 322413EC, Key: Phase133Description, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. 
+
+I should follow Donan deeper into the Ruins of Rakhat Keep.
+Hash: E7E962B4, Key: Phase133OutsideSubzoneHeader, Value: Let Donan open the sealed door in the Ruins of Rakhat Keep.
+Hash: AB1C8C32, Key: Callback138Header, Value: Let Donan open the door
+Hash: 6317714D, Key: Phase134Description, Value: Donan has asked for my help attuning the soulstone to Mephisto's essence. 
+
+I should follow Donan deeper into the Ruins of Rakhat Keep.
+Hash: 38F65D35, Key: Phase134OutsideSubzoneHeader, Value: Speak with Donan at the Ruins of Rakhat Keep.
+Hash: C980F48D, Key: Callback142Header, Value: Speak with Donan

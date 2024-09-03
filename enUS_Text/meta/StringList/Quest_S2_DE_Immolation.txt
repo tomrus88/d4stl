@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Tides of Blood
+Hash: 9F90DE2D, Key: Callback7Header, Value: Investigate the Bloodwell
+Hash: 8CBE4880, Key: Callback28Header, Value: Survive the enemy assault
+Hash: 4A6A48FB, Key: Callback41Header, Value: Massacre enough enemies
+Hash: 9211671E, Key: Callback35Header, Value: Slay the remaining enemies

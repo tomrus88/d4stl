@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Glyph Master
+Hash: 003892BF, Key: Desc, Value: Fully upgrade a paragon glyph.

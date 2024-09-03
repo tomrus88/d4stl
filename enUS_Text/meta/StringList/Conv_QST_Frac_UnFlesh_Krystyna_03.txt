@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hello
+Hash: F623121C, Key: Line15.103AFE, Value: Uch... more... more...
+Hash: 4D1EB789, Key: VoiceDir15.103AFE, Value: "muh-muh-more, mooooore..." trailing off
+Hash: 183F55A9, Key: Line7.103AFA, Value: You... you deserve much worse... than the mercy I have just shown you. (spits)
+Hash: 68758176, Key: VoiceDir7.103AFA, Value: bitter, but with remorse

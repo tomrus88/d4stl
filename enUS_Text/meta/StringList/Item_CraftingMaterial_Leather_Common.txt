@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Rawhide
+Hash: A646FFA4, Key: Description, Value: Salvaged from, and used to improve, {c_important}Armor{/c}.
+Hash: F5C7BC0A, Key: Flavor, Value: Coarse, rugged leather used for garments, tools, and toys for the hounds of Sanctuary.

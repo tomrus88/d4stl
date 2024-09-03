@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Defensive Stance
+Hash: 003892BF, Key: desc, Value: Increase the Damage Reduction gained while you are {c_important}{u}Fortified{/u}{/c} by an additional {c_number}[{SF_0}*100|%|]{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage Reduction {icon:arrow, 1.2} {c_number}[{SF_0}*100|%|]{/c}

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Resonance
+Hash: 003892BF, Key: desc, Value: {c_important}Nature Magic{/c} Skills deal {c_number}[{SF_1} * 100|%x|]{/c} increased damage. Triple this bonus if an {c_important}Earth{/c} Skill is the next Skill cast after a {c_important}Storm{/c} Skill, or a  {c_important}Storm{/c} Skill is the next Skill cast after an {c_important}Earth{/c} Skill.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Increase {icon:arrow,1.2} {c_number}[{SF_1}*100|%x|]{/c}
+Hash: 101C1614, Key: Buff1_Name, Value: Empowered Earth
+Hash: 7786FD97, Key: Buff1_Description, Value: Bonus damage if next Skill cast is an {c_important}Earth{/c} Skill.
+Hash: 12713EB5, Key: Buff2_Name, Value: Empowered Storm
+Hash: C6E60718, Key: Buff2_Description, Value: Bonus damage if next Skill cast is a {c_important}Storm{/c} Skill.

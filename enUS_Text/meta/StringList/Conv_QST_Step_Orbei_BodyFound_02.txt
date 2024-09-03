@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Scholar's Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Scholar's Journal
+Hash: 5D23A4B7, Key: Line1.B7A2D, Value: I was so excited when I walked into the Sacristy that day. Finally, my turn to enter the Archive and explore the knowledge of darkness. Now, I'd give anything to forget what I've learned.
+Hash: CC2D0AE4, Key: VoiceDir1.B7A2D, Value: Tired. Uneasy. Regretful.

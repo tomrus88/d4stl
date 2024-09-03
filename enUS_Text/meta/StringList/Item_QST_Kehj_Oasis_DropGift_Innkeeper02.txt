@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Waterstained Letter
+Hash: F5C7BC0A, Key: Flavor, Value: A letter that has been handled carelessly, stained with salt and smeared ink. It is addressed to Aih'Setal of Gea Kul.

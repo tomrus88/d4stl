@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Unconstrained Beast
+Hash: 003892BF, Key: Desc, Value: When you are hit with a Stun, {c_important}{u}Freeze{/u}{/c} or Knock Down effect, there is a {c_random}[Affix_Value_1|%|]{/c} chance to automatically activate {c_important}Grizzly Rage{/c} for {c_number}[Affix_Value_2]{/c} seconds.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Invoker of Varshan
+Hash: A646FFA4, Key: Description, Value: Invokes an Echo of Varshan from the most powerful Malignant Pustules found within Tunnels.
+Hash: F5C7BC0A, Key: Flavor, Value: Would this work? Varshan is dead, isn't he?

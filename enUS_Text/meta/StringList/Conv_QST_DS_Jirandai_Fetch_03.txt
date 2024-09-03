@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have killed the spider queen. Here is her heart as proof."
+Hash: F7671DF1, Key: Line3.EDC7E, Value: Thank you. I should not have sent you there. Forgive my anger. Perhaps no one else will die there now.
+Hash: 6670841E, Key: VoiceDir3.EDC7E, Value: Depressed and hollow. Voice hoarse, like she's been crying. Regretful and guilty she sent sent the player into danger. 

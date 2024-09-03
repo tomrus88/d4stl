@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Travelling Slayer
+Hash: 003892BF, Key: Desc, Value: Kill a World Boss in Hardcore mode.

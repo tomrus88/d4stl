@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Blight
+Hash: 003892BF, Key: desc, Value: {c_label}Essence Cost: {/c}{c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:21}|%|]{/c}
+{/if}Unleash concentrated blight that deals {c_number}{payload:DAMAGE}{/c} damage and leaves behind a defiled area, dealing {c_number}{dot:TOOLTIP_DOT}{/c} damage over {c_number}{buffduration:TOOLTIP_DOT}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Impact Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
+{icon:bullet,1.2} Damage Over Time {icon:arrow,1.2} {c_number}{dot:TOOLTIP_DOT}{/c}
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Blight's{/c} defiled area Slows enemies by {c_number}[{SF_15}*100|%|]{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Blight
+Hash: D618A933, Key: Mod0_Description, Value: You and your Minions deal {c_number}[{SF_18}*100|%x|]{/c} increased damage to enemies within {c_important}Blight{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Supernatural Blight
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Blight{/c} has a {c_number}[{SF_16}*100|%|]{/c} chance to Immobilize enemies for {c_number}{buffduration:IMMOBILIZE}{/c} seconds on impact.
+Hash: 948901D1, Key: Mod1_Name, Value: Paranormal Blight

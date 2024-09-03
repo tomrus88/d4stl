@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Kid Baphomet
+Hash: A646FFA4, Key: Description, Value: "Little goat, little goat; a crown upon your head. Little goat, little goat; all your enemies are dead. Little goat, little goat; protected like a gem. Little goat, little goat; followed to the end."
+Hash: 083EE0CE, Key: Quote, Value: A little balance.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Accessories

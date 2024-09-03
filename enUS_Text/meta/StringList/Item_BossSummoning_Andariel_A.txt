@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Sandscorched Shackles
+Hash: A646FFA4, Key: Description, Value: Used in the Ritual of Anguish. Requires {c_number}2{/c}. Acquired from The Lord's Hall in World Tier 4: Torment only by the one who performs the summoning. 
+
+Drops randomly from World Bosses.
+Hash: F5C7BC0A, Key: Flavor, Value: "How just, the stockade and the gibbet! Would that all sinners felt iron upon their wrists."

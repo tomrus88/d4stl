@@ -1,0 +1,25 @@
+Hash: 003DFCC1, Key: Name, Value: Hawezar Delver
+Hash: 003892BF, Key: Desc, Value: Collect all Legendary Aspects in Hawezar by completing Dungeons or Salvaging Legendaries.
+Hash: 3DA4D92B, Key: Crit_235448, Value: Blighted Aspect
+Hash: 3DA4D92C, Key: Crit_235449, Value: Aspect of Ancestral Echoes
+Hash: 3DA4D944, Key: Crit_235450, Value: Trickshot Aspect
+Hash: 3DA4D945, Key: Crit_235451, Value: Aspect of Ursine Horror
+Hash: 3DA4D946, Key: Crit_235452, Value: Aspect of the Tempst
+Hash: 3DA4D947, Key: Crit_235453, Value: Singed Extremities
+Hash: 3DA4D948, Key: Crit_235454, Value: Unyielding Commander's Aspect
+Hash: 3DA4D949, Key: Crit_235455, Value: Snowguard's Aspect
+Hash: 3DA4D94A, Key: Crit_235456, Value: Enshrouding Aspect
+Hash: 3DA4D94B, Key: Crit_235457, Value: Rampaging Werebeast
+Hash: 3DA4D94C, Key: Crit_235458, Value: Brawler's Aspect
+Hash: 3DA4D94D, Key: Crit_235459, Value: Aspect of Numbing Wrath
+Hash: 3DA4D965, Key: Crit_235460, Value: Fastblood Aspect
+Hash: 3DA4D966, Key: Crit_235461, Value: Aspect of Siphoned Victuals
+Hash: 3DA4D967, Key: Crit_235462, Value: Aspect of Bul-Kathos
+Hash: 3DA4D968, Key: Crit_235463, Value: Aspect of the Deflecting Barrier
+Hash: 3DA4D969, Key: Crit_235464, Value: Earth Striker Aspect
+Hash: 3DA4D96A, Key: Crit_235465, Value: Aspect of Shared Misery
+Hash: 3DA4D96B, Key: Crit_235466, Value: Sacrificial Aspect
+Hash: 3DA4D96C, Key: Crit_235467, Value: Aspect of Three Curses
+Hash: 3DA4D96D, Key: Crit_235468, Value: Branching Volleys
+Hash: 3DA4D96E, Key: Crit_235469, Value: Vigorous Aspect
+Hash: 3DA4D92A, Key: Crit_235447, Value: Prodigy's Aspect

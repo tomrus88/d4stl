@@ -1,0 +1,4 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value: Dawn's Haste
+Hash: 65A41A1A, Key: Buff4_Description, Value: Increased Attack and Movement Speed.
+Hash: 1970B898, Key: Buff5_Name, Value: Night's Grasp
+Hash: B503239B, Key: Buff5_Description, Value: Dawn is waiting to break.

@@ -1,0 +1,3 @@
+Hash: 5A270F7C, Key: Line1.804B7, Value: Demonic markings.
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Lilith's been here.
+Hash: 28047C02, Key: Line7.804B7, Value: Something's written on the altar...

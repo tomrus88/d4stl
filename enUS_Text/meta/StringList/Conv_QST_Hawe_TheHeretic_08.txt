@@ -1,0 +1,2 @@
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: Please! No! Don't hurt me!
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: The player approaches you. You are in shock from almost being eaten by demons and assume the player will hurt you.

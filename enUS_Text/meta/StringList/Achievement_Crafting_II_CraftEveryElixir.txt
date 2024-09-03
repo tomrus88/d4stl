@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Master Mixology
+Hash: 003892BF, Key: Desc, Value: Craft every type of Elixir.
+Hash: 3DA459CC, Key: Crit_234765, Value: Elixir of Advantage
+Hash: 3DA3BC28, Key: Crit_233348, Value: Elixir of Cold Resistance
+Hash: 3DA3BC65, Key: Crit_233363, Value: Elixir of Destruction
+Hash: 3DA3BC6A, Key: Crit_233368, Value: Elixir of Fire Resistance
+Hash: 3DA3BC83, Key: Crit_233370, Value:  Elixir of Iron Barbs
+Hash: 3DA3BC84, Key: Crit_233371, Value: Elixir of Lightning Resistance
+Hash: 3DA3BC86, Key: Crit_233373, Value: Elixir of Fortitude
+Hash: 3DA3BC87, Key: Crit_233374, Value: Elixir of Poison Resistance
+Hash: 3DA459CB, Key: Crit_234764, Value: Elixir of Precision
+Hash: 3DA459CA, Key: Crit_234763, Value: Elixir of Resource
+Hash: 3DA3BC88, Key: Crit_233375, Value: Elixir of Shadow Resistance

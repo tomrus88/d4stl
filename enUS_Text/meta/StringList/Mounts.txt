@@ -1,0 +1,13 @@
+Hash: 40EDBB94, Key: MountName, Value: {s1}
+Hash: 7F645F2D, Key: MountItemSlotHeader, Value: Item slots
+Hash: 325C57D3, Key: ItemBonusValue, Value: {s1}%
+Hash: 162BBB09, Key: MountArmour, Value: Armor
+Hash: 5F07C0A4, Key: MountSpeed, Value: Speed
+Hash: 16E41AC6, Key: Trophy, Value: Trophy
+Hash: CD9E0A87, Key: TrophyName, Value: {s1}
+Hash: 51FFB551, Key: EmptySlot, Value: Empty slot
+Hash: 1E660610, Key: NoMount, Value: {c_red}You do not have any mounts{/c}
+Hash: EA90AFD6, Key: VisitStableMaster, Value: Visit the {icon:Marker_Vendor_Stable, 3} Stablemaster to purchase one
+Hash: 60D065DF, Key: MountItemValue, Value: x {s1}
+Hash: FBADEB23, Key: NoTrophy, Value: No Trophy
+Hash: 5F6D8C20, Key: MountCarryableDisabled, Value: You are not allowed to mount up with a Carryable object.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are the locals like?"
+Hash: 5D84FC5C, Key: Line1.FF04E, Value: Tough and honest folk. (scoff) But the fishermen, they will occasionally try and spin rubbish tales about sea monsters.
+Hash: CC8E6289, Key: VoiceDir1.FF04E, Value: annoyed

@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Gain {c_number}[Affix."Static Value 0"]{/c} Maximum Resource.
+
+When taking damage, {c_number}[Affix."Static Value 2"|%|]{/c} is drained as {c_number}[Affix_Value_1]{/c} Resource for every {c_number}[Affix."Static Value 1"|%|]{/c} of Maximum Life you would have lost.

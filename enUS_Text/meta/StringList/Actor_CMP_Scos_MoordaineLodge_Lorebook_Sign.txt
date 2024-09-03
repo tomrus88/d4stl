@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bounty Board
+Hash: CC3C0A8F, Key: FlavorText, Value: An edict from the Cathedral of Light.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mace of Blazing Furor
+Hash: F5C7BC0A, Key: Flavor, Value: The handle of this white-hot mace bears soot marks in the shape of a clenched fist.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slayer of Pain
+Hash: 003892BF, Key: Desc, Value: Kill Duriel in Hardcore mode.

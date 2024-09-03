@@ -1,0 +1,17 @@
+Hash: 846881E4, Key: HeadstoneTimeRemaining, Value: Time Left: {s1}
+Hash: 1FD4919B, Key: Waypoint, Value: Waypoint
+Hash: D15B6C37, Key: WaypointFound, Value: {s1} Waypoint discovered.
+Hash: 6359465F, Key: WaypointFoundByPlayer, Value: {s1} discovered {s2} Waypoint.
+Hash: 16F163E8, Key: HeadstonePlayer, Value: Revive {s1}
+Hash: 761E282D, Key: HeadstoneHireling, Value: Revive {s1}
+Hash: 16DC868E, Key: Travel, Value: Travel
+Hash: DE57DDFE, Key: QuestObjectiveDungeonName, Value: {icon:Marker_DungeonEntrance, 2.0} {s1}
+Hash: 0D446AE1, Key: HeadstonePlayerChannel, Value: Help to Revive {s1}
+Hash: 723AEBF0, Key: GoldPile, Value: {s1}'s Gold ({s2})
+Hash: 96CAD882, Key: OnCooldown, Value: On Cooldown : {s1}
+Hash: 583023C2, Key: NightmareDungeonDetail, Value: Monster Level: {s1}
+Hash: B7625755, Key: OpenWorldPvPShrineActive, Value: Ritual in progress
+{s1} remaining
+Hash: 3897B0F9, Key: RoadSignPrompt, Value: Set destination to {c_white}{s1}{/c}?
+Hash: 073A2BE7, Key: Chair, Value: Chair
+Hash: B44C115C, Key: ReputationSign, Value: Bounty Board

@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you?"
+Hash: 8F20EA94, Key: Line1.163AA1, Value: “Who are you.” Pfah.
+Hash: DF571661, Key: VoiceDir1.163AA1, Value: Muttering, scoffing.
+Hash: 67A49456, Key: Line3.163AA1, Value: I am Voszalko. I am Kyovashad! I have lived here for fifty years! I was once the Angel’s most favored priest!
+Hash: B7DAC023, Key: VoiceDir3.163AA1, Value: Voszalko is pronounced (voh-shall-koh).
+Hash: 40283E18, Key: Line5.163AA1, Value: And now? Dung-slick newcomers don’t even know my name!

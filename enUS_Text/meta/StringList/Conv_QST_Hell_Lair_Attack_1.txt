@@ -1,0 +1,6 @@
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: She's already gone.
+Hash: 27FD9937, Key: Line7.6DE47, Value: What now?
+Hash: C1F13152, Key: Line9.6D03F, Value: I have an idea.
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: I will prepare the Sightless Eye.
+Hash: F414A633, Key: Line3.6DE47, Value: The Eye? What do you mean?
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Concerned--she thinks using the Sightless Eye is a risk.

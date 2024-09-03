@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Vampiric Alchemy Supplies
+Hash: A646FFA4, Key: Description, Value: An assortment of herbs and elixirs taken from the Vampires.
+Hash: F5C7BC0A, Key: Flavor, Value: The stench of death and dark magicks lingers on these herbs. You wonder how the Vampires perform alchemy at all.

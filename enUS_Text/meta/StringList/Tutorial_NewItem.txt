@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: New Item
+Hash: 7BFE534B, Key: simple_instruction, Value: You've picked up a new item. Press {hotkey:Equippables} to view your character's inventory and equip it.

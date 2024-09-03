@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Serpent's Champion
+Hash: A646FFA4, Key: Description, Value: When the barbarian slew the mighty nangari, a corpse spilled from its belly. Digested. Adorned in bronze and steel. "You served the snake well," sneered the barbarian. "And in such fine armor..."
+Hash: 083EE0CE, Key: Quote, Value: Coiled with fangs bared.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

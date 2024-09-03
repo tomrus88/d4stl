@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Warmount Grandeur
+Hash: A646FFA4, Key: Description, Value: The sinister horns and demon motif add an air of menace when charging down the enemy.
+Hash: 083EE0CE, Key: Quote, Value: Conquer the field of battle.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

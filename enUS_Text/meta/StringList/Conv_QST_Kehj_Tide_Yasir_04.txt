@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This is your...family?"
+Hash: 5D58B424, Key: Line1.E6891, Value: Yes. And now it's yours too. You've done us a great favor today, friend.
+Hash: 44476A67, Key: Line4.E6891, Value: You'll always have friends in Gea Kul.

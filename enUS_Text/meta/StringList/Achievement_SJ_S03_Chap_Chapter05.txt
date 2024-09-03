@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slayer
+Hash: 003892BF, Key: Desc, Value: You are now inarguably a paragon. Strengthen your glyphs through ventures into nightmare dungeons; continue to upgrade your legendary items; venture into places where Hell itself intrudes upon Sanctuary. You can handle it.

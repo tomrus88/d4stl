@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shipbuilding Tools
+Hash: F2CA04D8, Key: NoticeSignText, Value: Storms, raiders, and beasts alike prey upon ships coming in and out of the port. Those that make it back to shore frequently need repairs.

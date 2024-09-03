@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "Hierarchy of the Spirits"
+Hash: F2CA04D8, Key: NoticeSignText, Value: As the living obey and command, so too do the Spirits. The greatest among them have legions at their call. In knowing who serves who, and for what purpose, we may borrow that authority.

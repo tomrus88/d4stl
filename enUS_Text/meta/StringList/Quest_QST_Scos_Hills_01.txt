@@ -1,0 +1,24 @@
+Hash: 003DFCC1, Key: Name, Value: Encroaching Shadows
+Hash: 0871A46B, Key: Toast, Value: Search for evidence of Lilith near Braestaig
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Search for evidence of Lilith near Braestaig
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Donan spoke of Lilith sightings near the home of Airidah, the elder druid. I should investigate the nearby town of Braestaig for clues.
+Hash: D53BFF05, Key: Phase0Description, Value: I learned that fog and enraged spirits have descended on Braestaig from the northern hills. The druid watcher of the north, Airidah, has not been seen since the bedlam began. Yorin, Donan's son, says he can take me through the Weeping Cairns to reach the druid’s domain. Perhaps I can find more answers there?
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Speak with Yorin in Braestaig
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Yorin
+Hash: 259D49BB, Key: Phase15Description, Value: I learned that fog and enraged spirits have descended on Braestaig from the northern hills. The druid watcher of the north, Airidah, was not been seen since the bedlam began. Yorin, Donan's son, says he can take me through the Weeping Cairns to reach the druid’s domain. Perhaps I can find more answers there?
+Hash: 48199163, Key: Phase15OutsideSubzoneHeader, Value: Find the entrance to the Weeping Cairns with Yorin
+Hash: 4C62940D, Key: Callback106Header, Value: Find the entrance to the Weeping Cairns with Yorin
+Hash: 74FC533C, Key: Phase25Description, Value: I learned that fog and enraged spirits have descended on Braestaig from the northern hills. The druid watcher of the north, Airidah, was not been seen since the bedlam began. Yorin, Donan's son, says he can take me through the Weeping Cairns to reach the druid’s domain. Perhaps I can find more answers there?
+Hash: BAC5DC04, Key: Phase25OutsideSubzoneHeader, Value: Speak with Yorin outside the entrance to the Weeping Cairns
+Hash: A3D12282, Key: Callback66Header, Value: Speak with Yorin
+Hash: CF9A89D8, Key: Phase30Description, Value: I learned that fog and enraged spirits have descended on Braestaig from the northern hills. The druid watcher of the north, Airidah, was not been seen since the bedlam began. Yorin, Donan's son, says he can take me through the Weeping Cairns to reach the druid’s domain. Perhaps I can find more answers there?
+Hash: 98314220, Key: Phase30OutsideSubzoneHeader, Value: Defend Yorin outside the entrance to Weeping Cairns
+Hash: D9B88541, Key: Callback29Header, Value: Defend Yorin and defeat the incoming spirits
+Hash: 008DE739, Key: Phase31Description, Value: I learned that fog and enraged spirits have descended on Braestaig from the northern hills. The druid watcher of the north, Airidah, was not been seen since the bedlam began. Yorin, Donan's son, says he can take me through the Weeping Cairns to reach the druid’s domain. Perhaps I can find more answers there?
+Hash: E93E3CA1, Key: Phase31OutsideSubzoneHeader, Value: Meet with Yorin
+Hash: F81CED9C, Key: Callback33Header, Value: Meet with Yorin
+Hash: 32CAE022, Key: Phase76Description, Value: Donan fears Lilith may have set her sights on Airidah, elder druid and watcher of the north. I should investigate the nearby town of Braestaig and speak to the knights he sent there.
+Hash: 49304BAA, Key: Phase76OutsideSubzoneHeader, Value: Search for evidence of Lilith in Braestaig
+Hash: 7701ADA6, Key: Callback79Header, Value: Search for evidence of Lilith in Braestaig
+Hash: 9A3D462B, Key: Phase77OutsideSubzoneHeader, Value: Speak with Chieftain Asgail in Braestaig
+Hash: FB719C7F, Key: Callback81Header, Value: Speak with Chieftain Asgail

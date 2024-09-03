@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Whispering Key
+Hash: A646FFA4, Key: Description, Value: Unlocks Silent Chests. Obtained from Purveyors of Curiosities. 
+Hash: F5C7BC0A, Key: Flavor, Value: Fragmented whispers of long forgotten secrets.

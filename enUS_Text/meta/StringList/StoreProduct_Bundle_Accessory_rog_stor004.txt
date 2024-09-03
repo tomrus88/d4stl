@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Oni's Testament
+Hash: A646FFA4, Key: Description, Value: Oni keep a wide assortment of tools on their person. Style and flash play a large role in how they accomplish their tasks.
+Hash: 083EE0CE, Key: Quote, Value: The devil you know.
+Hash: 13A53A8B, Key: Series, Value: "Jinkai Oni" Accessories

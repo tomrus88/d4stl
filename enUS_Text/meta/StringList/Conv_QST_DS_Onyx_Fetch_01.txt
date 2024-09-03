@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why do you petition the ancestors, old woman?”
+Hash: 8EF3B409, Key: Line1.12F1BF, Value: I pray for kith and kin. For those lost to the Crag Song.
+Hash: DF29DFD6, Key: VoiceDir1.12F1BF, Value: Thoughtful and sorrowful.
+Hash: 67775DCB, Key: Line3.12F1BF, Value: Dark spirits live in these lands. They call out, luring those who pause to listen into eternal slumber. In such foul times, the will to resist the Song grows harder. They walk the crags now, fleshless and cursed.
+Hash: 3FFB078D, Key: Line5.12F1BF, Value: If you travel by that road, would you collect any mementos that the dead drop? It would ease an old woman’s worries.

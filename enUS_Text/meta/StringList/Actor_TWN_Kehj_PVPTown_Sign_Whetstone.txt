@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Whetstone
+Hash: F2CA04D8, Key: NoticeSignText, Value: Available to all who need it, this stone is used to sharpen blades before battle. It’s weathered from years of regular use.

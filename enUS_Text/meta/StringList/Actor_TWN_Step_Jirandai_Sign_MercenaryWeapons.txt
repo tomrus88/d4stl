@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mercenary Weapons
+Hash: F2CA04D8, Key: NoticeSignText, Value: Swords, pikes, and spears from throughout the East, scarred by heavy use. The Merchants have hired whoever they can to protect Jirandai.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Staff of Elemental Command
+Hash: F5C7BC0A, Key: Flavor, Value: A powerful relic once belonging to Jazreth the Summoner, this staff was thought lost forever.

@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: The Experienced Blender
+Hash: 003892BF, Key: Desc, Value: Craft every type of Incense.
+Hash: 3DA3BC25, Key: Crit_233345, Value: Storm of the Wilds
+Hash: 3DA3BC41, Key: Crit_233350, Value: Desert Escape
+Hash: 3DA3BC42, Key: Crit_233351, Value: Song of the Mountain
+Hash: 3DA3BC43, Key: Crit_233352, Value: Spirit Dance
+Hash: 3DA3BC44, Key: Crit_233353, Value: Ancient Times
+Hash: 3DA3BC45, Key: Crit_233354, Value: Sage's Whisper
+Hash: 3DA3BC46, Key: Crit_233355, Value: Queen's Supreme
+Hash: 3DA3BC47, Key: Crit_233356, Value: Blessed Guide
+Hash: 3DA3BC48, Key: Crit_233357, Value: Reddamine Buzz
+Hash: 3DA3BC4A, Key: Crit_233359, Value: Spiral Morning

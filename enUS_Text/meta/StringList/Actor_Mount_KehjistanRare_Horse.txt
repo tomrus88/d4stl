@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Buckskin Bay Steed
+Hash: CC38ADCB, Key: FlavorName, Value: A rare breed found in Kehjistan.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Abattoir of Zir
+Hash: 003892BF, Key: Desc, Value: A wound within infinite space, all to slake a god's thirst.

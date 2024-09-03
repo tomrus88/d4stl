@@ -1,0 +1,2 @@
+Hash: 8F2439A7, Key: Line1.169BE9, Value: (groan) Whaa—what? Who wakes me?!
+Hash: DF5A6574, Key: VoiceDir1.169BE9, Value: Disoriented

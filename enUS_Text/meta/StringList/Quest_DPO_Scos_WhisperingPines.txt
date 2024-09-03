@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Air heavy with the memory of smoke.
+Hash: 85A4CA58, Key: Callback11Header, Value: Defeat the {MONSTER}
+Hash: 538236DE, Key: Callback17Header, Value: Travel to the {LEVELAREA}
+Hash: B98DBD5C, Key: Callback15Header, Value: Slay the Gatekeepers: {LEFT}
+Hash: 24EC6278, Key: Callback20Header, Value: Slay all enemies in the Razed Keep {KAM_REVEALED_COUNT}
+Hash: 0BDB18BB, Key: Callback23Header, Value: Travel to the {LEVELAREA}

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sins of the Flesh
+Hash: A646FFA4, Key: Description, Value: "Is it a perversion of humanity to find pleasure in pain? Or is it an adaptation, to thrive in a painful world?" -Atzu the Spike
+Hash: 083EE0CE, Key: Quote, Value: Be not ashamed.
+Hash: 13A53A8B, Key: Series, Value: "Beauty in Sin" Necromancer Equipment

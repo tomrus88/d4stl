@@ -1,0 +1,2 @@
+Hash: D8F1EA65, Key: Line3.BAE4, Value: Lilith was here. I see the blood petals.
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: Noticing blood petals on the ground nearby--these are what give the Player visions of Lilith.

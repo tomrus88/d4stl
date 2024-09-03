@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fearless Combatant
+Hash: 003892BF, Key: Desc, Value: Get 10 PvP kills in Hardcore Mode.

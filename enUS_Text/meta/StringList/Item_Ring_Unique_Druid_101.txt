@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Earthbreaker
+Hash: F5C7BC0A, Key: Flavor, Value: When Arreat was sundered, the world quaked. The Druid Aglainn journeyed far to chronicle the aftermath. Grief-stricken by the great mountain king's fall, he rent the earth anew.

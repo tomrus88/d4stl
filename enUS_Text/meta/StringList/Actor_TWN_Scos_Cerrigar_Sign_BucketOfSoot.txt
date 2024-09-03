@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bucket of Sooty Water
+Hash: F2CA04D8, Key: NoticeSignText, Value: Phlegm, blackened with soot, floats atop the water as survivors desperately try to clear their lungs.

@@ -1,0 +1,2 @@
+Hash: 8CBE4880, Key: Callback28Header, Value: Destroy the Corrupted Conduits
+Hash: F81CED9C, Key: Callback33Header, Value: Slay the remaining Constructs

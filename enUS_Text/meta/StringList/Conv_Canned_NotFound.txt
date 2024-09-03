@@ -1,0 +1,5 @@
+Hash: BDDC183C, Key: Line28.BAE4, Value: This isn't it.
+Hash: 0181B279, Key: Line34.BAE4, Value: Not what I need.
+Hash: 45274CB6, Key: Line40.BAE4, Value: Hmm. I need to keep looking.
+Hash: 49D19DF8, Key: Line42.BAE4, Value: Not what I'm looking for.
+Hash: 4E7BEF3A, Key: Line44.BAE4, Value: Not this one.

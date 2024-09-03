@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ledger of Tithes Received
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Ledger of Tithes Received
+Hash: 5A28BD3C, Key: Line1.836C1, Value: Old couple by the rocks: Paid in full
+Hash: 8E11B040, Key: Line5.836C1, Value: Family on the creek: Missing half, send patrol
+Hash: 280629C2, Key: Line7.836C1, Value: Hermit by the bridge: Paid up at last, after some convincing
+Hash: C1FAA344, Key: Line9.836C1, Value: Woodcarver south of the grove: Still won’t budge. He’s courting a girl in Wejinhani - maybe she’ll listen to reason.

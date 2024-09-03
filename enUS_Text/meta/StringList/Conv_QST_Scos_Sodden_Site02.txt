@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this?"
+Hash: 72185676, Key: Line11.A109C, Value: I saw my mother drawing this face over and over.
+Hash: C24E8243, Key: VoiceDir11.A109C, Value: Softly
+Hash: 0C0CCFF8, Key: Line13.A109C, Value: But there... the inscription. It points us to where it is.
+Hash: A601497A, Key: Line15.A109C, Value: Its lair lies to the very north of here. But there is a warning... there is a test.
+Hash: 3FF5C2FC, Key: Line17.A109C, Value: Test or not, this will end. Make your way there.
+Hash: 902BEEC9, Key: VoiceDir17.A109C, Value: Emphasis on "will"

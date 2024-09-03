@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Yorin
+Hash: 5A334C6A, Key: Line1.7FA05, Value: If you didn't see Yorin outside...we'll search on the way.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Worried, anxious

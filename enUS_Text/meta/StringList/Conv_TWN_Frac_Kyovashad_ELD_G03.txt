@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8F04237D, Key: Line1.13C0F9, Value: Please, take these loaves. I can’t carry a sword, but I can do this much.
+Hash: 6787CD67, Key: Line3.13C0FA, Value: Inarius sees your deeds and knows your heart. Every sacrifice helps the cause.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you ready?"
+Hash: C4DF586D, Key: Line9.A109C, Value: Are you ready?
+Hash: 33E8BE9A, Key: VoiceDir9.A109C, Value: Pause, then laugh at end. 
+Hash: 72185676, Key: Line11.A109C, Value: Why do we ask that before we do something we must, regardless of readiness?
+Hash: 0C0CCFF8, Key: Line13.A109C, Value: Let's go.

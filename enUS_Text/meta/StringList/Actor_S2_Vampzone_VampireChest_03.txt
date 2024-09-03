@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Seekers Cache of Ferocity
+{c_Gold}Requires Seeker Key{/c}
+Hash: 18959B3F, Key: UIName, Value: Seeker Cache

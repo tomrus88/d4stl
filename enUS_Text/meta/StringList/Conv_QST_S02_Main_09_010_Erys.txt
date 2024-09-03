@@ -1,0 +1,2 @@
+Hash: 8F238278, Key: Line1.1697C7, Value: You! What are you doing here?!
+Hash: DF59AE45, Key: VoiceDir1.1697C7, Value: Alarm, confusion, masking fear

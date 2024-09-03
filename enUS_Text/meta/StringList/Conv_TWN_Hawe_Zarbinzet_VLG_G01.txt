@@ -1,0 +1,4 @@
+Hash: 8EE1287E, Key: Line1.11E7B7, Value: Look around us. Everything rotting. There’s no future here, my love.
+Hash: 675D1890, Key: Line3.1264E5, Value: I took an oath. I can’t just abandon my faith because it got hard to keep it.
+Hash: 3FE87C02, Key: Line5.11E7B7, Value: This is not the only place faith lives! The Light touches everywhere but here. Please, come with me back to Kehjistan.
+Hash: 901EA7CF, Key: VoiceDir5.11E7B7, Value: Kehjistan pronunciation: "KEH-jih-stan"

@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: This pack includes "The Peacock" Rogue equipment, "Spectacle of the Peacock" accessories, and "Flight of the Peacock" mount armor.
+Hash: 003DFCC1, Key: Name, Value: Peacock Collection Pack
+Hash: 13A53A8B, Key: Series, Value: The Peacock

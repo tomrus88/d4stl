@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Beast's Skull Trophy
+Hash: A646FFA4, Key: Description, Value: The bleached remains of a beast's skull capped with iron.

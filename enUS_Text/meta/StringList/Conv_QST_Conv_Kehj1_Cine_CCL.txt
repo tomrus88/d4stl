@@ -1,0 +1,26 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: FA823896, Key: Line31.BAE4, Value: (shaky breath)
+Hash: 698B9EC3, Key: VoiceDir31.BAE4, Value: startled
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: What happened?
+Hash: D8F1EA65, Key: Line3.BAE4, Value: She...saw me.
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: troubled
+Hash: 8E083E4E, Key: Line5.6D03F, Value: She knows we’re looking for her. Only a matter of time before she comes after us.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: troubled
+Hash: BB86EF9B, Key: Line27.BAE4, Value: Not necessarily.
+Hash: C33DEA44, Key: Line29.6D03F, Value: What do you mean?
+Hash: E2468CE9, Key: Line7.BAE4, Value: Mephisto is reforming, and Lilith aims to take his power while he is still weak.
+Hash: C1F13152, Key: Line9.6D03F, Value: So that’s what you’ve been preparing for...
+Hash: 30FA977F, Key: VoiceDir9.6D03F, Value: grave, under his breath
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: All right, old man. Think.
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: muttering, to himself
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Think.
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: to himself
+Hash: 3D079BE1, Key: Line17.6D03F, Value: If she takes Mephisto’s power...she’ll become...like a Prime Evil herself. She’ll be able...to conquer Hell...and Sanctuary alike. I’ve an idea...how to stop her.
+Hash: 8D3DC7AE, Key: VoiceDir17.6D03F, Value: preoccupied, speech broken up as he writes
+Hash: D6FC1563, Key: Line19.6D03F, Value: But for it to work, we’ll need the help of an old ally.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: not happy about having to ask this “old ally” for help
+Hash: 5B6C043C, Key: Line21.6D03F, Value: Deliver this message to Donan.
+Hash: F5607DBE, Key: Line23.6D03F, Value: Hmm.
+Hash: 4596A98B, Key: VoiceDir23.6D03F, Value: unsure, thinking it over
+Hash: 8F54F740, Key: Line25.6D03F, Value: He’ll have gone to Kyovashad for guidance.
+Hash: DF8B230D, Key: VoiceDir25.6D03F, Value: confident

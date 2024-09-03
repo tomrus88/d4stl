@@ -1,0 +1,1 @@
+Hash: 6BA7EB29, Key: Callback3Header, Value: {c_red}Trial:{/c} Slay all Unique Sentries, don't let any escape: {DONE_OVER_NEEDED}

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The village is quiet. No business left?”
+Hash: 5D72A43F, Key: Line1.EDC75, Value: Haven’t sent the boats out since afore the last full moon. Too many drowned along the coast. We have opened the stores of salted cod, but that’s supposed to be for winter.
+Hash: CC7C0A6C, Key: VoiceDir1.EDC75, Value: Heavy scos accent
+Hash: F7671DC1, Key: Line3.EDC75, Value: I can tell you’ve seen your share of fightin’. If you can cull the drowned, we have coin.

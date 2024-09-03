@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forsaken Miner
+Hash: CC38ADCB, Key: FlavorName, Value: Spiteful Spirit

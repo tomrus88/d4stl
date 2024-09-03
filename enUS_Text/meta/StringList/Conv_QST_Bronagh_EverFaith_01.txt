@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened here?"
+Hash: 91543E4F, Key: Line5.F750B, Value: M-my daughter! My Deirdre...
+Hash: 005DA47C, Key: VoiceDir5.F750B, Value: Horror. Anguish. Heartbreak.
+Hash: 2B48B7D1, Key: Line7.F750B, Value: It was her wretched husband what did it... Faolan. I caught him—feeding, and he fled that way, dripping in my baby's blood!
+Hash: 9A521DFE, Key: VoiceDir7.F750B, Value: Clinging to rage through horror.
+Hash: C53D3153, Key: Line9.F750B, Value: Hunt him down, make sure he suffers... I'll pay you all I've got.
+Hash: 34469780, Key: VoiceDir9.F750B, Value: Rage. Desperation.

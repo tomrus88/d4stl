@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Legacy of Sanctuary
+Hash: 3A4912CF, Key: DescShort, Value: Equip a Legendary item in every slot

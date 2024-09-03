@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where is Donan?"
+Hash: 5A270FDE, Key: Line1.804E6, Value: The horned woman. The beast. Nothing could stop them. Not our steel. Not our prayers. (sigh)
+Hash: C930760B, Key: VoiceDir1.804E6, Value: Shaky breath, scared, not paying attention to the Player's question
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: Listen to me. I must find Donan. Where is he?
+Hash: F41B8960, Key: Line3.804E6, Value: Some--somewhere inside. Dead like the rest, for all I know.
+Hash: 6324EF8D, Key: VoiceDir3.804E6, Value: Finally registering the question. For the second line, panicked.
+Hash: 6F31F3EF, Key: Line11.804E6, Value: The Light has forsaken this place.
+Hash: BF681FBC, Key: VoiceDir11.804E6, Value: Panicked

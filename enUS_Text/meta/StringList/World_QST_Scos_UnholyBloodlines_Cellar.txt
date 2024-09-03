@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Abandoned Barrow
+Hash: 003892BF, Key: Desc, Value: Abandoned by the Druids since the time of Astaroth

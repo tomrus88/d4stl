@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Chain of Possession
+Hash: 1EADAE68, Key: Callback2Header, Value: Approach Magdalena
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Magdalena and take the Woodsman's Axe
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak to Parin

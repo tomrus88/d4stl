@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Tempering
+Hash: D53BFF05, Key: Phase0Description, Value: Tempering can be done at a Blacksmith, and allows you to add Affixes to a piece of gear.
+
+Seek out Zivek in Kyovashad to learn Tempering.
+Hash: 1EADAE68, Key: Callback2Header, Value: Visit Zivek
+Hash: C9FCD1EA, Key: Phase5Description, Value: Tempering can be done at a Blacksmith, and allows you to add Affixes to a piece of gear.
+
+Seek out Zivek in Kyovashad to learn Tempering.
+Hash: B8A227EA, Key: Callback4Header, Value: Take the Manual from the chest
+Hash: 61CFD437, Key: Phase11Description, Value: Tempering can be done at a Blacksmith, and allows you to add Affixes to a piece of gear.
+
+Seek out Zivek in Kyovashad to learn Tempering.
+Hash: 38AA8D97, Key: Callback10Header, Value: Temper a piece of gear at the Blacksmith

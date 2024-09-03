@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scarred Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: The table shows deep gouges, scratches, and stains, likely from games both revelrous and mutinous.

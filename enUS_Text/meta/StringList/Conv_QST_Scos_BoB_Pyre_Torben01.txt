@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about this 'Blackweald Company.'"
+Hash: 5D201C8E, Key: Line1.B20BA, Value: Ruthless mercenaries from the Days of Ash. Took any contract that promised equal weight of blood and coin.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, earnest
+Hash: F7149610, Key: Line3.B20BA, Value: Only the desperate called them. But those were desperate times.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: cold, earnest; somewhat somber
+Hash: 915B9742, Key: Line5.EDC74, Value: (heavy breath) Smoke’s billowing from the southern ridge! The fires have returned!
+Hash: 0064FD6F, Key: VoiceDir5.EDC74, Value: calling attention; distressed, distraught
+Hash: 2AFD8914, Key: Line7.B20BA, Value: Humph. No time wasted.
+Hash: 9A06EF41, Key: VoiceDir7.B20BA, Value: cold, grimly amused
+Hash: C4F20296, Key: Line9.B20BA, Value: Can you see to the source of the smoke? There’s likely a connection in all this.
+Hash: 33FB68C3, Key: VoiceDir9.B20BA, Value: direct, turning pensive
+Hash: 722B009F, Key: Line11.B20BA, Value: I’ll see no harm reaches the Goose.
+Hash: C2612C6C, Key: VoiceDir11.B20BA, Value: direct, protective

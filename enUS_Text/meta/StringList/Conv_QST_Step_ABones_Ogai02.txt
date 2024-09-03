@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I retrieved the bone dust."
+Hash: 8ECE2685, Key: Line1.10BCF2, Value: Yes! Worthy dust! The secrets are here! (muttering)
+Hash: DF045252, Key: VoiceDir1.10BCF2, Value: excited, drawing breath between words (smelling dust)
+Hash: 6751D047, Key: Line3.10BCF2, Value: I see you… yes. Yes! The Grinning -- (coughing)
+Hash: B787FC14, Key: VoiceDir3.10BCF2, Value: nhaling deep; trance-like, pensive speech; nasal
+Hash: 3FD57A09, Key: Line5.10BCF2, Value: It… reaches out to me…
+Hash: 900BA5D6, Key: VoiceDir5.10BCF2, Value: trance-like, pensive speech; nasal
+Hash: 185923CB, Key: Line7.10BCF2, Value: Mmm, I… I just need to…
+Hash: 688F4F98, Key: VoiceDir7.10BCF2, Value: trance-like, pensive speech; nasal
+Hash: F0DCCD8D, Key: Line9.10BCF2, Value: Achoo!
+Hash: 4112F95A, Key: VoiceDir9.10BCF2, Value: hearty sneeze (from dust inhalation)

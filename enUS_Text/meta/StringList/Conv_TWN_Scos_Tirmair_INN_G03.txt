@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Anything happening in town?”
+Hash: 5D313E90, Key: Line1.C08E9, Value: Your patronage is appreciated, wanderer, but you won't find much 'ere. Something's tainted the land. She won't provide for us like she used to.

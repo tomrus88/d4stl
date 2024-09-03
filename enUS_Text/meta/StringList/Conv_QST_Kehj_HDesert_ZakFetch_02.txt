@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have recovered the relic."
+Hash: 5D3BC9FA, Key: Line1.BCB66, Value: By the Light! Ha, I admit, I had little hope that... ahem.
+Hash: CC453027, Key: VoiceDir1.BCB66, Value: Excitement overwhleming restraint. Regaining composure at the end.
+Hash: 9124BCFE, Key: Line5.BCB66, Value: Truly, we are in your debt. This will bring comfort to our people. May the Light guide your way.

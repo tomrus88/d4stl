@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Splintering
+Hash: 003892BF, Key: Desc, Value: {c_important}Bone Spear's{/c} primary attack makes enemies hit beyond the first {c_important}{u}Vulnerable{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds. Bone Shards from {c_important}Bone Spear{/c} deal {c_random}[Affix_Value_1|%|]{/c} bonus damage to {c_important}{u}Vulnerable{/u}{/c} enemies and pierce them.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Bone Spear{/c} makes enemies hit beyond the first {c_important}{u}Vulnerable{/u}{/c}. Bone Shards from it deal {c_random}[Affix_Value_1|%|]{/c} bonus damage to {c_important}{u}Vulnerable{/u}{/c} enemies.

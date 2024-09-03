@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What have you found?”
+Hash: 8F104F47, Key: Line1.157838, Value: A hall of records, hidden under the old archive! The monks documented every discovery they made. That'll include our Cages of Binding, I'm sure of it.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Excited. Anxious to go. Finally, a win!
+Hash: 6793F909, Key: Line3.157838, Value: There's an entrance down in the crypt. I can open it, but there are... things down there. Nothing you can’t handle, though!
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Excited. Anxious to go.

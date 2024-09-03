@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Loch Raeth Maor
+Hash: A646FFA4, Key: Description, Value: These defenders of Clan Skeld still honor their charge. To this day they continue to protect the followers of the Old Ways, fled from Arreat.
+Hash: 083EE0CE, Key: Quote, Value: The barbarous warriors of the Scosglen hinterlands.
+Hash: 13A53A8B, Key: Series, Value: Barbarian Armor

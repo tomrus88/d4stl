@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How may I serve, Chieftain of the Bear Tribe?"
+Hash: 5D22EA2D, Key: Line1.B757A, Value: The Chieftain of the Bear Tribe has taken note of you, warrior. Speak with him.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Nageed's Letter
+Hash: CC3C0A8F, Key: FlavorText, Value: A discarded letter, stained with blood.
+Hash: F2CA04D8, Key: NoticeSignText, Value: We're all set. Those pigs-born miners suspect nothing. The eastern guards will change shifts at dusk – that's your opening to attack. I’ve risked my neck and earned my share. Do not try to cheat me. - Nageed

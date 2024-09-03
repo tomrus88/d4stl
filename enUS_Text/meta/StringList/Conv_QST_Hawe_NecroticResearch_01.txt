@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You have a task for me?"
+Hash: 5D6A30B1, Key: Line1.F53E7, Value: The cultists who infest this area believe that through rituals and sacrifice, they can be reborn as one of the Nangari.
+Hash: CC7396DE, Key: VoiceDir1.F53E7, Value: scornful
+Hash: F75EAA33, Key: Line3.F53E7, Value: The notion is ridiculous, of course. The Nangari care nothing for worship. But perhaps an alchemical process...
+Hash: 66681060, Key: VoiceDir3.F53E7, Value: starts dismissive then trails off as she talks to herself
+Hash: 915323B5, Key: Line5.F53E7, Value: There is a powerful Nangari necromancer who lives in the Fens. Bring me the necrotic flesh of one of her minions and samples of snake poison.
+Hash: 005C89E2, Key: VoiceDir5.F53E7, Value: directed at the player

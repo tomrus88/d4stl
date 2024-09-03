@@ -1,0 +1,24 @@
+Hash: A03B563F, Key: Season3UpgradeToAcceleratedNotificationDescription, Value: {c_highlight}Receive 20 Tier Skips + “The Spinning Loom" Emote
+Hash: 72D7E048, Key: Season3UpgradeToAcceleratedNotificationDescription20Tiers, Value: {c_highlight}Complete the Battle Pass with 20 tier skips + "The Spinning Loom" Emote
+Hash: 8B0BAADA, Key: Season3_FreeOptionDescription, Value: Access to 28 FREE rewards Including:
+Hash: EB9C67DE, Key: Season3_FreeOption_Bullet01, Value: 20 Smoldering Ashes
+Hash: EB9C67DF, Key: Season3_FreeOption_Bullet02, Value: 5 Weapon Cosmetics
+Hash: EB9C67E0, Key: Season3_FreeOption_Bullet03, Value: 1 Set of Roleplay Clothing per class
+Hash: DF6E09DB, Key: Season3_PremiumOption_Bullet01, Value: 2 Sets of Armor Cosmetics per class (10 total)
+Hash: DF6E09DC, Key: Season3_PremiumOption_Bullet02, Value: 21 Weapon Cosmetics
+Hash: DF6E09DD, Key: Season3_PremiumOption_Bullet03, Value: 1 Emote per class (5 total)
+Hash: DF6E09DE, Key: Season3_PremiumOption_Bullet04, Value: 2 Headstones, Town Portals, and Titles
+Hash: DF6E09DF, Key: Season3_PremiumOption_Bullet05, Value: 2 Mounts and Mount Armors
+Hash: DF6E09E0, Key: Season3_PremiumOption_Bullet06, Value: 5 Mount Trophies
+Hash: DF6E09E1, Key: Season3_PremiumOption_Bullet07, Value: 700 Platinum
+Hash: BF7C82A9, Key: Season3_AcceleratedOption_Bullet01, Value: {c_highlight}20 Tier Skips{/c}
+Hash: BF7C82AA, Key: Season3_AcceleratedOption_Bullet02, Value: {c_highlight}"The Spinning Loom" Emote for each class {/c}
+Hash: EB9C67E1, Key: Season3_FreeOption_Bullet04, Value: 1 Town Portal, Mount Trophy, and Title
+Hash: EB9C67E2, Key: Season3_FreeOption_Bullet05, Value: [ph]1 Title
+Hash: EB9C67E3, Key: Season3_FreeOption_Bullet06, Value: [ph]1 Town Portal
+Hash: EB9C67E4, Key: Season3_FreeOption_Bullet07, Value: 
+Hash: EB9C67E5, Key: Season3_FreeOption_Bullet08, Value: 
+Hash: DF6E09E2, Key: Season3_PremiumOption_Bullet08, Value: 3 Emblems
+Hash: DF6E09E3, Key: Season3_PremiumOption_Bullet09, Value: [ph] 2 Headstones
+Hash: DF6E09FB, Key: Season3_PremiumOption_Bullet10, Value: [ph] 700 Platinum
+Hash: BF7C82AB, Key: Season3_AcceleratedOption_Bullet03, Value: 

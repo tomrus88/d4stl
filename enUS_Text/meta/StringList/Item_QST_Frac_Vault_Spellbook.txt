@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Death Harnessed: Theories of Rathma
+Hash: A646FFA4, Key: Description, Value: Bound to Gale Valley
+Hash: F5C7BC0A, Key: Flavor, Value: Bound in black leather, necromantic runes run along the spine of the grim tome. 

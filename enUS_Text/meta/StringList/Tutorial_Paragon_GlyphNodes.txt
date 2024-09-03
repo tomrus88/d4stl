@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Glyph Sockets
+Hash: 7BFE534B, Key: simple_instruction, Value: Insert {c_highlight}Glyphs{/c} into {c_highlight}Paragon socket nodes{/c} to gain their bonuses. Glyphs drop from monsters and other sources in World Tiers 3 and above.

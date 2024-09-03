@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloody Bibles
+Hash: F2CA04D8, Key: NoticeSignText, Value: Not all those who venture into the crypt return.

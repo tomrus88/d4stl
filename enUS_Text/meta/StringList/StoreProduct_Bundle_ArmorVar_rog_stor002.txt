@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Steppe Corsair
+Hash: A646FFA4, Key: Description, Value: There are just as many tales of wicked and evil Corsairs as there are tales of brave and noble ones. And sometimes it's the same person.
+Hash: 083EE0CE, Key: Quote, Value: These mercurial adventurers are sometimes a blessing, and sometimes a curse to the people of the Dry Steppes.
+Hash: 13A53A8B, Key: Series, Value: Rogue Armor

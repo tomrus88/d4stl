@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Earthguard
+Hash: C6E60718, Key: Buff2_Description, Value: Increased {c_important}{u}Barrier{/u}{/c} amount from your next {c_important}Earthen Bulwark{/c}.

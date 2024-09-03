@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: of the Cursed Aura
+Hash: 003892BF, Key: Desc, Value: You automatically {c_important}Curse{/c} enemies around you with {c_important}Decrepify{/c} and {c_important}Iron Maiden{/c}. 
+
+{c_important}Curses{/c} inflicted this way spread to surrounding targets every {c_random}[Affix_Value_1|1|]{/c} seconds and last {c_number}[Affix_Value_2]{/c} seconds outside of the aura.

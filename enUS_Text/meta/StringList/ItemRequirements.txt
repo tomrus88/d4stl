@@ -1,0 +1,24 @@
+Hash: 110575D1, Key: Ranged, Value: Ranged Weapons
+Hash: 26A7AAF2, Key: AnyWeapon, Value: Any Weapon
+Hash: 34E7A22E, Key: Bludgeoning, Value: Bludgeoning Weapons
+Hash: AA154BFB, Key: DualWield, Value: Dual-Wielded Weapons
+Hash: 85C47E19, Key: Slashing, Value: Slashing Weapons
+Hash: F52F537E, Key: TwoHanded, Value: Two-Handed Weapons
+Hash: 2DC50AEC, Key: TwoHandedBludgeoning, Value: Two-Handed Bludgeoning Weapons
+Hash: E7D66F97, Key: TwoHandedSlashing, Value: Two-Handed Slashing Weapons
+Hash: 8035CE0E, Key: AllDruidWeapons, Value: Any Weapon
+Hash: 9A7829ED, Key: AllNecroWeapons, Value: Any Weapon
+Hash: 37391BAD, Key: AllSorcWeapons, Value: Any Weapon
+Hash: 5EAA4306, Key: OneHanded, Value: One-Handed Weapons
+Hash: 3AEC671F, Key: OneHandedSlashing, Value: One-Handed Slashing Weapons
+Hash: 08624814, Key: Staff, Value: Staves
+Hash: 0042EC4A, Key: Wand, Value: Wands
+Hash: F059666A, Key: Dagger, Value: Daggers
+Hash: 08642A4F, Key: Sword, Value: Swords
+Hash: 003D6F16, Key: Mace, Value: Maces
+Hash: 0001AC7E, Key: Axe, Value: Axes
+Hash: B84296B0, Key: Polearm, Value: Polearms
+Hash: 0001AFA8, Key: Bow, Value: Bows
+Hash: B032BFF2, Key: Crossbow, Value: Crossbows
+Hash: 13850F50, Key: Scythe, Value: Scythes
+Hash: 13D68479, Key: Shield, Value: Shields

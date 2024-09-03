@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Retaliation
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Core{/c} Skills deal up to {c_random}[Affix_Value_1|%x|] {/c} increased damage based on your amount of {c_important}{u}Fortify{/u}{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: Your {c_important}Core{/c} Skills deal {c_random}[Affix_Value_1|%x|] {/c} increased damage based on {c_important}{u}Fortify{/u}{/c}.

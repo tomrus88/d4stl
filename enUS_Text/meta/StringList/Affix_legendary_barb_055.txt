@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Steadfast Berserker's
+Hash: 003892BF, Key: Desc, Value: Gain {c_random}[Affix_Flat_Value_1]{/c} {c_important}{u}Fortify{/u}{/c} whenever you deal direct damage while {c_important}{u}Berserking{/u}{/c}.

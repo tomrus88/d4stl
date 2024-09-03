@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Eldhaime Barracks
+Hash: 003892BF, Key: Desc, Value: Astaroth's soulstone rests in the depths of Eldhaime Keep.

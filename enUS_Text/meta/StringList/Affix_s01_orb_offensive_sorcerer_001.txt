@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Tal'Rasha
+Hash: 003892BF, Key: Desc, Value: For each unique element you deal damage with, you deal {c_random}[Affix_Value_1|1%x|]{/c} increased damage for {c_random}[Affix_Value_2]{/c} seconds.

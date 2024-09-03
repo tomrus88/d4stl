@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Kato Attractor Bark
+Hash: 5D73B394, Key: Line1.EFA01, Value: 'Scuse me - have you seen this man?
+Hash: CC7D19C1, Key: VoiceDir1.EFA01, Value: Presented like you would if you were handing out flyers; not panicked

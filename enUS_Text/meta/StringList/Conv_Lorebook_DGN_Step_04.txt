@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Shredded Orders
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Shredded Orders
+Hash: 5D72A9E6, Key: Line1.EDCC0, Value: To Captain Batai of the Onyx Watch,
+Hash: CC7C1013, Key: VoiceDir1.EDCC0, Value: Stern. Official. Grim.
+Hash: 44616029, Key: Line4.EDCC0, Value: Guulrahn is under attack by the Tyrant Brol. Your Lord Overseer commands that you muster the Onyx Watch and ride at once to defend our capital.
+Hash: B36AC656, Key: VoiceDir4.EDCC0, Value: Stern. Official. Grim.
+Hash: DE55D9AB, Key: Line6.EDCC0, Value: I need not remind you of our Lord's opinion of cowards. Those who fail to join in our victory shall be judged in due course.
+Hash: 4D5F3FD8, Key: VoiceDir6.EDCC0, Value: Stern. Official. Grim.
+Hash: 784A532D, Key: Line8.EDCC0, Value: - High Captain Tsartu, Guulrahni Royal Guard
+Hash: E753B95A, Key: VoiceDir8.EDCC0, Value: Stern. Official. Grim.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: The Echo of Varshan
+Hash: 1EADAE68, Key: Callback2Header, Value: Use an Invoker on the outgrowth
+Hash: 1F9943DA, Key: Callback13Header, Value: Kill {MONSTER}

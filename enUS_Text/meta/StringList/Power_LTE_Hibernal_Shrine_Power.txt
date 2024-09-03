@@ -1,0 +1,2 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value: Midwinter Ward
+Hash: 65A41A1A, Key: Buff4_Description, Value: Your attacks devastate Blightfiends and the Red-Cloaked Horror, dealing 20% additional damage.

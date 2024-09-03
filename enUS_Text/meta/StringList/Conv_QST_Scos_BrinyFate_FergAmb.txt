@@ -1,0 +1,8 @@
+Hash: 5D12A9DB, Key: Line1.A9B7A, Value: Heh, the whale was on us for days. A shadow the length of Cerrigar.
+Hash: CC1C1008, Key: VoiceDir1.A9B7A, Value: Drunk, passionate. Recounting sea story.
+Hash: F707235D, Key: Line3.A9B7A, Value: Now when it turned too bold, Benen pulled us alongside the beast and I rushed in to give it the spear.
+Hash: 6610898A, Key: VoiceDir3.A9B7A, Value: Drunk, passionate. Recounting sea story. Pronounced "Ben-in"
+Hash: 90FB9CDF, Key: Line5.A9B7A, Value: Realized too late I only had my flask in hand. (laugh) You should have seen Benen’s face, heh.
+Hash: 0005030C, Key: VoiceDir5.A9B7A, Value: Drunk, spirited. Recounting sea story.
+Hash: 2AF01661, Key: Line7.A9B7A, Value: Benen always had my back, though, you know. Whale or otherwise… (sigh)
+Hash: 99F97C8E, Key: VoiceDir7.A9B7A, Value: Drunk, ending somber. Recounting sea story.

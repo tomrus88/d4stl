@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Arbiter of the Steppes
+Hash: 003892BF, Key: Desc, Value: Complete these quests in Dry Steppes.
+Hash: 3DA55504, Key: Crit_236080, Value: Sentimental Value
+Hash: 3DA55505, Key: Crit_236081, Value: A Pound of Flesh
+Hash: 3DA55506, Key: Crit_236082, Value: Scorched Debts

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rotspill Galoshes
+Hash: 13A53A8B, Key: Series, Value: "The Fear'bog"

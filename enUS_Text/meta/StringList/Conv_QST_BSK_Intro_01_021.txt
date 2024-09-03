@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me where they are. I'll look into it."
+Hash: 9257723D, Key: Line1.1BCB9E, Value: If their deaths would suffice, I’d point you their way and die smiling. But we don’t know what they’ve set in motion.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Reassuring. Eagerly trying to convince.
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: I know their methods, their minds... You need me.
+Hash: BB1147CC, Key: VoiceDir3.1BCB9E, Value: Eagerly trying to convince.

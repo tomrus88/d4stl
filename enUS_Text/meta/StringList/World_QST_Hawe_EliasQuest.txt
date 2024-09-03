@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Halls of Dark Portent
+Hash: 003892BF, Key: Desc, Value: Elias entered the dark passages underneath the Esret chapel.

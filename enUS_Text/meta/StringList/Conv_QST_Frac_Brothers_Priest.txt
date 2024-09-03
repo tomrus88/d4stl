@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen Perithan?"
+Hash: 5D12BA4E, Key: Line1.A9F43, Value: (laughs) No, no. Perithan does his very best to avoid me, I'm afraid.
+Hash: CC1C207B, Key: VoiceDir1.A9F43, Value: calm
+Hash: F70733D0, Key: Line3.A9F43, Value: I should hope he's somewhere praying for his own salvation. We gave up long ago.

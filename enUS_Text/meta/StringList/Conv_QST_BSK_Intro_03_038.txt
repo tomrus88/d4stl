@@ -1,0 +1,2 @@
+Hash: 8200C812, Key: Line24.1BCB9E, Value: No, no, the compass is fading! I must revive it – hold them off!
+Hash: D8FC6D7F, Key: VoiceDir24.1BCB9E, Value: Alarmed. Feverish. Working quickly.

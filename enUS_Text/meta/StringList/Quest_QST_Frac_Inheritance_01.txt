@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Chain of Possession
+Hash: 0871A46B, Key: Toast, Value: Seek out the dangerous woman, and the knight she murdered in Menestad. 
+Hash: F4A9EC5A, Key: Phase14Description, Value: Magdalena massacred several knights with the Woodsman's Axe in Menestad. I must go after her and separate her from the axe. 
+Hash: 1F9943DA, Key: Callback13Header, Value: Enter the Red Cellar

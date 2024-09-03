@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Serpent's Right Eye
+Hash: A646FFA4, Key: Description, Value: Bound to Blightmarsh
+Hash: F5C7BC0A, Key: Flavor, Value: A palm-sized yellow gemstone removed from the engraved stone door in Yngovani. It glows with a sickly light.

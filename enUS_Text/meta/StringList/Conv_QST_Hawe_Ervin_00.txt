@@ -1,0 +1,6 @@
+Hash: F0C1EE8B, Key: Line9.101CAF, Value: Help! Up here!
+Hash: 40F81A58, Key: VoiceDir9.101CAF, Value: Stranded on a ship mast, trying to get attention.
+Hash: 1D9E5776, Key: Line13.101CAF, Value: Please! I'm surrounded!
+Hash: 7499FCE3, Key: VoiceDir13.101CAF, Value: Stranded on a ship mast, surrounded by enemies.
+Hash: F6220138, Key: Line15.101CAF, Value: I need help! Please!
+Hash: 4D1DA6A5, Key: VoiceDir15.101CAF, Value: Stranded on a ship mast, calling out for attention.

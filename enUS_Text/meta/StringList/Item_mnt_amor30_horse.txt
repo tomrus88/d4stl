@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lorath's Barding
+Hash: A646FFA4, Key: Description, Value: The traveling tack of Lorath Nar. Practical and prepared for most anything, just like him.

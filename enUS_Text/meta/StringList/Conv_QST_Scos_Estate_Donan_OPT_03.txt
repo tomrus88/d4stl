@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Airidah and Nafain."
+Hash: 5A334C6A, Key: Line1.7FA05, Value: They were like brother and sister to me once, but life has taken us on different paths.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Reminiscing
+Hash: F427C5EC, Key: Line3.7FA05, Value: Airidah is consumed with her task of watching over the dead. I long for a time we can meet and discuss old histories, like we used to.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Fond
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: And Nafain...well, it's a shame he’s become so bitter. Lives like a recluse deep in the woods. Refuses to meet with me.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: Regretful--a hint of irritation

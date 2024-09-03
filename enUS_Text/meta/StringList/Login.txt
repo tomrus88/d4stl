@@ -1,0 +1,10 @@
+Hash: 55279D4D, Key: AccountLabel, Value: Account Name
+Hash: 9C439233, Key: Password, Value: Password
+Hash: 07E0F899, Key: Login, Value: Login
+Hash: C98CB03C, Key: RememberAccount, Value: Remember Account
+Hash: 890B1A1B, Key: AccountHelpText, Value: Enter your email address
+Hash: 14BE0E14, Key: Submit, Value: Submit
+Hash: 00396EBA, Key: Exit, Value: Exit
+Hash: 003766F1, Key: Back, Value: Back
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 1BCFD1FE, Key: XB_SignedInAs, Value: Signed in as {s1}

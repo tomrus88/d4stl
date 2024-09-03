@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is so important about this temple?"
+Hash: 5A39A25C, Key: Line1.9118B, Value: The swamp nests in the roots of the Tree of Whispers, this is how each path begins. The temple at Yngovani rests on one root, but it is no less or more important than any other root.
+Hash: C9430889, Key: VoiceDir1.9118B, Value: Cryptic. This is in reference to the temple at Yngovani that Timue tells you to seek out.

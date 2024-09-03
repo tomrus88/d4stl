@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Profaned Destrier
+Hash: A646FFA4, Key: Description, Value: Cursed in undeath, the once-proud warrior became a grim enforcer. A rotting corpse astride a rotting steed, encased in profane livery; compelled to kill at the master's whim.
+Hash: 083EE0CE, Key: Quote, Value: Beast of accursed burden.
+Hash: 13A53A8B, Key: Series, Value: "The Profaned Knight" Mount Armor

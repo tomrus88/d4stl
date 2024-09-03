@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fully Equipped
+Hash: 003892BF, Key: Desc, Value: Equip a Magic or higher quality item in every slot.

@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: A tattered missive
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Tattered Missive
+Hash: 5D23008C, Key: Line1.B79B1, Value: In memory of Bishop Felweigh and her Knights. Someone must remember us.
+Hash: CC2C66B9, Key: VoiceDir1.B79B1, Value: Bishop FEL-way
+Hash: F7177A0E, Key: Line3.B79B1, Value: We were ousted from Braestaig. We took hostages and retreated to a cave in the hills. But it’s all gone wrong.
+Hash: 6620E03B, Key: VoiceDir3.B79B1, Value: Brey-stig
+Hash: 2B006D12, Key: Line7.B79B1, Value: The prisoners spoke their heathen tongue and invoked the savage spirits of the wood. All was chaos. We were swarmed. Everyone, the glenfolk too. They died first, tied down. The Knights soon after. I’m ashamed to say I hid.
+Hash: 910BF390, Key: Line5.B79B1, Value: Tell our story. Let it be known we died in sacrifice to the Light.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Altar of Lilith Seeker
+Hash: 003892BF, Key: Desc, Value: Claim all Altars of Lilith in one region.

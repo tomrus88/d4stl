@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Clandestine
+Hash: 003892BF, Key: Desc, Value: Gain {c_number}+[Affix_Value_1]{/c} to {c_important}Agility{/c} and {c_important}Subterfuge{/c} Skills.

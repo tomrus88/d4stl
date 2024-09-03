@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: You deal {c_random}[Affix_Value_1|%x|]{/c} increased damage while {c_important}{u}Unstoppable{/u}{/c} and for {c_number}[Affix."Static Value 1"]{/c} seconds after. When you become {c_important}{u}Unstoppable{/u}{/c}, gain {c_number}[Affix."Static Value 0"]{/c} of your Primary Resource.

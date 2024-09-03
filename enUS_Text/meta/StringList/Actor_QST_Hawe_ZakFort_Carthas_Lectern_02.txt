@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bloodied Lectern
+Hash: CC3C0A8F, Key: FlavorText, Value: A message written in dried blood.
+Hash: F2CA04D8, Key: NoticeSignText, Value: I couldn't stop them
+forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me forgive me

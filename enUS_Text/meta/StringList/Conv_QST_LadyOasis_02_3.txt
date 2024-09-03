@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What is next?”
+Hash: 3180A525, Key: Line12.121A3D, Value: What impertinence, hm. This vessel shall house me until more permanent arrangements can be found. My athenaeum holds the answers.
+Hash: 887C4A92, Key: VoiceDir12.121A3D, Value: Mocking and annoyed they have to explain themselves to the Player
+Hash: A74D774C, Key: Line19.121A3D, Value: (speaking Vizjerei)
+Hash: FE491CB9, Key: VoiceDir19.121A3D, Value: Commanding

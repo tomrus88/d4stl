@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've avenged your daughter. She wrote you a letter."
+Hash: 91543E4F, Key: Line5.F750B, Value: A letter? I--thank you... I’ll read it later.
+Hash: 005DA47C, Key: VoiceDir5.F750B, Value: Surprised. Trembling. Can't bear to read it yet.
+Hash: 2B48B7D1, Key: Line7.F750B, Value: For you, I've nothing left but her wedding dowry. Take it. I can’t bear the sight of it.
+Hash: 9A521DFE, Key: VoiceDir7.F750B, Value: Heavy. Grieving. Exhausted (in this version.)

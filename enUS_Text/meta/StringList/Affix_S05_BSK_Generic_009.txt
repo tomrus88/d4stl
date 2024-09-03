@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Strange
+Hash: 003892BF, Key: Desc, Value: Your Skills gain {c_random}[Affix_Value_1|%+2|]{/c} Critical Strike Chance per point of Primary Resource you have when cast, up to {c_random}[100*Affix_Value_1|%+|]{/c}. Each point of Primary Resource above {c_number}100{/c} grants Skills {c_number}[Affix."Static Value 0"|1%x|]{/c} Critical Strike Damage instead.

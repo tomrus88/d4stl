@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Burnt Forest Entrance
+Hash: 5A196F77, Key: Line1.789BF, Value: Speak to me outside.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What now?"
+Hash: F413C4CC, Key: Line3.6D03F, Value: Should have killed him when I had the chance...
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Musing, to himself. "Him" refers to Elias.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: We must hurry.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Urgent

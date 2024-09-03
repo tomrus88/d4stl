@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Blood Lance
+Hash: 003892BF, Key: desc, Value: {c_label}Essence Cost:{/c} {c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Throw a blood lance that lingers in an enemy for {c_number}{buffduration:LANCED}{/c} seconds, dealing {c_number}{payload:DAMAGE}{/c} damage to the enemy and all other lanced enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Blood Lance Upgrade
+Hash: 53C1369D, Key: Buff7_Description, Value: {c_important}Blood Lance{/c} costs less Essence and you gain Attack Speed
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Blood Lance{/c} pierces through enemies who are currently lanced, dealing {c_number}[{SF_14} * 100|%|]{/c} reduced damage to subsequent enemies after the first.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Blood Lance
+Hash: 2577B2B4, Key: Mod1_Description, Value: After casting {c_important}Blood Lance{/c} {c_number}{SF_10}{/c} times, your next cast of {c_important}Blood Lance{/c} is guaranteed to {c_important}{u}Overpower{/u}{/c} and spawns a {c_important}{u}Blood Orb{/u}{/c} under the first enemy hit.
+Hash: 948901D1, Key: Mod1_Name, Value: Supernatural Blood Lance
+Hash: D618A933, Key: Mod0_Description, Value: While at least {c_number}{SF_12}{/c} targets or a Boss are affected by {c_important}Blood Lance{/c}, you gain {c_number}[{SF_13} * 100|%+|]{/c} Attack Speed and {c_important}Blood Lance's{/c} Essence cost is reduced by {c_number}{SF_11}{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Paranormal Blood Lance

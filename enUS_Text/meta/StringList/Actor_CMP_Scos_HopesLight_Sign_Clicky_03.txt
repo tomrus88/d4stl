@@ -1,0 +1,2 @@
+Hash: F2CA04D8, Key: NoticeSignText, Value: The retainers of the flame suffered a grim fate, but they went down fighting. A clean death is surely better than joining the ranks of the Drowned.
+Hash: 003DFCC1, Key: Name, Value: Lightkeepers

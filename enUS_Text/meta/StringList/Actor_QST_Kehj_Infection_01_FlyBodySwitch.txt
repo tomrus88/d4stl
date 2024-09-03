@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fly Demon Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: A thick, dark ichor oozes from its shattered skull. And yet the fly demon’s jaws quiver, seemingly ready to snap.

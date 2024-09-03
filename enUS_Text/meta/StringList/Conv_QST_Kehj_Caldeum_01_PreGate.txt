@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are we close?"
+Hash: F427C5EC, Key: Line3.7FA05, Value: We can’t trust her.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Yes. But they’ve an army. And we share a goal.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: For now.
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: deep in thought
+Hash: 65381056, Key: Line13.BAE4, Value: Above the gate, looks like a winch. I’ll handle it.
+Hash: D4417683, Key: VoiceDir13.BAE4, Value: interrupting

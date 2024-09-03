@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you looking for Taissa?"
+Hash: 8EB31D05, Key: Line1.1028C0, Value: I brought some herbs that Taissa asked for, but she’s already up and left.
+Hash: 6736C6C7, Key: Line3.1028C0, Value: Something off about her of late. I hear her screaming at night. Weeping too.
+Hash: B76CF294, Key: VoiceDir3.1028C0, Value: Hushed for last part of the line, like she's afraid of someone hearing her say it out loud
+Hash: 3FBA7089, Key: Line5.1028C0, Value: It’s not like her...
+Hash: 8FF09C56, Key: VoiceDir5.1028C0, Value: Troubled
+Hash: 315C5817, Key: Line12.1028C0, Value: Can you find her and deliver the herbs?
+Hash: 8857FD84, Key: VoiceDir12.1028C0, Value: Troubled

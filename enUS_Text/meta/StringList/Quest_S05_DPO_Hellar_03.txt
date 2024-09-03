@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: The Dúlra Breach
+Hash: 0871A46B, Key: Toast, Value: Demons pour from the druids' most painful scar.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Slay the Hell Caller
+Hash: 112E3759, Key: Callback30Header, Value: Select a challenge
+Hash: 9211671E, Key: Callback35Header, Value: Collect Aether from Aether Fiends {DONE_OVER_NEEDED}
+Hash: 1847B581, Key: Callback47Header, Value: Select a challenge
+Hash: 6A9510E0, Key: Callback55Header, Value: Enter the Hellbreach
+Hash: 9E7E03E4, Key: Callback59Header, Value: Slay the Hell Caller
+Hash: BCE26C3F, Key: Callback63Header, Value: Collect Aether from Aether Fiends {DONE_OVER_NEEDED}

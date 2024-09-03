@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I received the final blessing.”
+Hash: 8E083E4E, Key: Line5.6D03F, Value: What took you so long?
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Concerned
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: I saw something at the shrine. A wolf.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Hm. Mephisto has been known to take such a form.
+Hash: 608DBF14, Key: Line11.BAE4, Value: It’s not the first time I’ve encountered him.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: What? And you kept this from me?
+Hash: 7337041C, Key: Line19.BAE4, Value: We all keep secrets, don’t we, Horadrim?
+Hash: A313225F, Key: Line15.6D03F, Value: We don’t have time for this now. Elias could be in the middle of his ritual already.
+Hash: F3494E2C, Key: VoiceDir15.6D03F, Value: Frustrated
+Hash: 5B6C043C, Key: Line21.6D03F, Value: Clear your head before we press on.

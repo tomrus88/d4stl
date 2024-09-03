@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Invigorating Strike
+Hash: 003892BF, Key: desc, Value: {if:SF_18}{c_label}Energy Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{if:SF_11}{c_label}Generate Combo Point:{/c} {c_resource}{SF_10}{/c}
+{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Melee attack an enemy, dealing {c_number}{payload:IMPACT}{/c} damage and increasing Energy Regeneration by {c_number}[{SF_4}*100|%x|]{/c} for {c_number}{buffduration:ENERGY_REGEN}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
+Hash: 1970B898, Key: Buff5_Name, Value: Cooldown Reduction
+Hash: B503239B, Key: Buff5_Description, Value: Cooldown Reduction
+Hash: 2577B2B4, Key: Mod1_Description, Value: Damaging a Crowd Controlled or {c_important}{u}Injured{/u}{/c} enemy with {c_important}Invigorating Strike{/c} increases its Energy Regeneration bonus to {c_number}[({SF_4}+{SF_6})*100|%x|]{/c}.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Invigorating Strike
+Hash: 74D6BC35, Key: Mod2_Description, Value: Hitting an enemy with {c_important}Invigorating Strike{/c} while you are below {c_number}[{SF_7}*100|%|]{/c} Energy makes them {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_8}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Fundamental Invigorating Strike
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Invigorating Strike{/c} additionally grants {c_number}[{SF_14} * 100|%+|]{/c} Lucky Hit Chance. Hitting a Crowd Controlled or {c_important}{u}Injured{/u}{/c} enemy increases this bonus to {c_number}[{SF_14} * {SF_15} *100|%+|]{/c} Lucky Hit Chance.
+Hash: 99335313, Key: Mod3_Name, Value: Primary Invigorating Strike

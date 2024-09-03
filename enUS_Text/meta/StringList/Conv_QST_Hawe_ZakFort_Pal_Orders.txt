@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Chronicles of Paladin Lord Carthas
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Squire of Paladin Lord Carthas
+Hash: 5D3A6ED5, Key: Line1.BB0D6, Value: Safety and sanctuary we did seek here in this most cursed of places. But evil endures, so the sages say unto us. So have we seen and heard.
+Hash: F72EE857, Key: Line3.BB0D6, Value: Here we seek shelter, oh Light, and here we find none, and yet still we turn to thee.
+Hash: 912361D9, Key: Line5.BB0D6, Value: Please... please...

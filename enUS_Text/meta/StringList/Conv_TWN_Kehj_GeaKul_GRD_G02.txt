@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you watching the gates?"
+Hash: 8ED9AEAB, Key: Line1.125DDD, Value: New in town, huh? You pay your protection fee yet?
+Hash: 675D586D, Key: Line3.125DDD, Value: If not, hope you know how to use that weapon. (snicker)

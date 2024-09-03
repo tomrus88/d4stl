@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: Swamp Hospitality 
+Hash: 0871A46B, Key: Toast, Value: Meet Donan in Wejinhani
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find Donan in Wejinhani
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Donan's ritual failed, and it seems that the Soulstone is damaged. I should meet back up with Donan in Hawezar's town of Wejinhani. 
+Hash: F4A9EC5A, Key: Phase14Description, Value: Donan's ritual failed, and it seems that the Soulstone is damaged. I should meet back up with Donan in Hawezar's town of Wejinhani. 
+Hash: F70C96E2, Key: Phase14OutsideSubzoneHeader, Value: Speak with Donan in Wejinhani
+Hash: 1F9943DA, Key: Callback13Header, Value: Speak with Donan
+Hash: 8784047D, Key: Phase17Description, Value: The villager spoke of a witch living in a ruined tower just south of town. I should take Donan there. 
+Hash: EA338665, Key: Phase17OutsideSubzoneHeader, Value: Accompany Donan to the Ruined Tower
+Hash: 0687FA1D, Key: Callback16Header, Value: Accompany Donan to the tower
+Hash: B87761DE, Key: Phase18Description, Value: Donan and I arrived at the tower in Wejinhani, only to discover it was Taissa who had taken up residence there. I should speak with her. 
+Hash: 3B4080E6, Key: Phase18OutsideSubzoneHeader, Value: Speak with Taissa at the Ruined Tower
+Hash: 7C86B7CC, Key: Callback141Header, Value: Speak with Taissa
+Hash: 759F228E, Key: Phase126Description, Value: Donan's ritual failed, and it seems that the Soulstone is damaged. I should meet back up with Donan in Hawezar's town of Wejinhani. 
+Hash: 68640796, Key: Phase126OutsideSubzoneHeader, Value: Find Donan in Wejinhani
+Hash: BEDAB751, Key: Callback128Header, Value: Find Donan in Wejinhani

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Paletongue
+Hash: A646FFA4, Key: Description, Value: Found in the mouths of evil humans.
+Hash: F5C7BC0A, Key: Flavor, Value: The lies spouted by particularly black-hearted humans rarely manifest in turning their tongues a milky white.

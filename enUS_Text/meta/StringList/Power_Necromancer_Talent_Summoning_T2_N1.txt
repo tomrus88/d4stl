@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Hellbent Commander
+Hash: 003892BF, Key: desc, Value: While you control at least {c_number}{SF_1}{/c} Minions, your Minions deal {c_number}[{SF_0} * 100|%x|]{/c} increased damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Minion Damage Bonus {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}

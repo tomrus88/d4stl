@@ -1,0 +1,3 @@
+Hash: 5D3B086A, Key: Line1.BC3FE, Value: I'm going back. He’s not like most folk, he needs me.
+Hash: CC446E97, Key: VoiceDir1.BC3FE, Value: whispered, traumatized
+Hash: F7671DBC, Key: Line3.EDC70, Value: He’s dead, for Light’s sake. You need to get that in your head.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Esu's Heirloom
+Hash: F5C7BC0A, Key: Flavor, Value: "While scholars have proven these boots were not created by Esu herself, it is noteworthy that they have been passed down since the formation of the Mage Clans."
+- Barrett's Book of Implements

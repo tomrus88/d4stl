@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lost Archives
+Hash: 003892BF, Key: Desc, Value: Many speculate what lies within, but few dare to venture on.

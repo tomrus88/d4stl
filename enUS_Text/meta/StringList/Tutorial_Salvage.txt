@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Salvaging
+Hash: 7BFE534B, Key: simple_instruction, Value: Salvaging items will break them down into crafting materials, as well as unlock their appearance at the {icon:Marker_Wardrobe, 2.5} Wardrobe.

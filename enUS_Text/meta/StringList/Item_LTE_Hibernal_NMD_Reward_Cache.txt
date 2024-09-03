@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Midwinter Nightmare Spoils
+Hash: A646FFA4, Key: Description, Value: A collection of Blighted Fragments and Lost Heirlooms, salvaged from the darkest depths.
+Hash: F5C7BC0A, Key: Flavor, Value: Necklaces, scarves, pottery, rings... Remnants of the lost crowd, this cache. They can be remembered.

@@ -1,0 +1,4 @@
+Hash: 5D2379DE, Key: Line1.B8616, Value: The whole forest has gone mad.
+Hash: CC2CE00B, Key: VoiceDir1.B8616, Value: Scared
+Hash: 2B2BE9F0, Key: Line7.CDDE3, Value: We're not going out there again.
+Hash: 9A35501D, Key: VoiceDir7.CDDE3, Value: Firm, easing the other knight's fears

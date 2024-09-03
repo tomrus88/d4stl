@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Item States
+Hash: 7BFE534B, Key: simple_instruction, Value: Every item slot has a {c_highlight}default and unequipped{/c} state. These always appear on the front of each list.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Warrior of Light
+Hash: A646FFA4, Key: Description, Value: This champion fights for justice in the name of Inarius. While many members of the Cathedral of Light impose their beliefs on the population through brutal means, the Warrior of Light displays a true conviction and following of tenets of the Light.
+Hash: 083EE0CE, Key: Quote, Value: In the name of the Father.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

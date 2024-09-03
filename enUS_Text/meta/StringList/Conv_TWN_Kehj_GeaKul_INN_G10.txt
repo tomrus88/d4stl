@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who keeps the law here?"
+Hash: 8ED9AC39, Key: Line1.125E0E, Value: Ha! The bandit gangs are the law. I’d tell you to watch yourself, but you seem like you can hold your own.

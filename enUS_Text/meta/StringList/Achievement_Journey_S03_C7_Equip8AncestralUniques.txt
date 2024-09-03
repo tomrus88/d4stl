@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Avatar of Sanctuary's Might
+Hash: 3A4912CF, Key: DescShort, Value: Equip at least 8 Ancestral Unique items simultaneously

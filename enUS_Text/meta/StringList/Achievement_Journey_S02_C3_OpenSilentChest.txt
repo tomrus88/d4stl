@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Susurration
+Hash: 3A4912CF, Key: DescShort, Value: Open a Silent Chest, found randomly in Sanctuary, with a Whispering Key from the {icon:Marker_Vendor_Gambling, 2.5} Purveyor of Curiosities

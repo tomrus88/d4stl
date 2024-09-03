@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Devouring Blaze
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0} * 100|%x|]{/c} increased Critical Strike Damage against Burning enemies. If they are Crowd Controlled, this bonus is increased to {c_number}[{SF_1} * 100|%x|]{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Critical Strike Damage {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}
+{icon:bullet,1.2} Crowd Control Damage {icon:arrow,1.2} {c_number}[{SF_1} * 100|%x|]{/c}

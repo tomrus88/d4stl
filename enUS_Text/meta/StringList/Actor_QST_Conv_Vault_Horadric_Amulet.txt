@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Horadric Amulet
+Hash: CC3C0A8F, Key: FlavorText, Value: Simple in design but crafted with care.

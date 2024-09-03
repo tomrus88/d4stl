@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Neyrelle. What have you been up to?” 
+Hash: 47AEBA84, Key: Line31.6DE47, Value: This place is a treasure trove. Look at this masterpiece: Kalha’s "Beyond the Veil of the Southern Jungles".
+Hash: C351EB64, Key: Line29.7FA05, Value: You’re familiar with Kalha’s work?
+Hash: 7B97AD88, Key: Line35.6DE47, Value: She’s brilliant. One of my favorites.
+Hash: 159F46C3, Key: Line37.7FA05, Value: Mine as well.
+Hash: 65D57290, Key: VoiceDir37.7FA05, Value: warming up
+Hash: CDE508E7, Key: Line43.6DE47, Value: Have you read her treatises? Never mind--you can tell me on the road.
+Hash: 67ECA222, Key: Line45.7FA05, Value: On the road?
+Hash: 01CDFBEB, Key: Line47.6DE47, Value: I’m going to help you. I know the Horadrim’s ways. Your magic. Even that coded writing system you use.
+Hash: 9BC2756D, Key: Line49.6DE47, Value: And don't tell me it’s too dangerous. Lilith took my mother, I’ll do whatever it takes to stop her.
+Hash: EBF8A13A, Key: VoiceDir49.6DE47, Value: (serious)
+Hash: 204583FF, Key: Line51.7FA05, Value: That's a good speech. Might even convince the man you should be telling it to. Come on. I'm headed to him.
+Hash: BA26DDC8, Key: Line53.6DE47, Value: But you're Horadrim. Isn’t this your vault?
+Hash: 0A5D0995, Key: VoiceDir53.6DE47, Value: smiling
+Hash: 542E7703, Key: Line55.7FA05, Value: It was, once. Now? I suppose time will tell.

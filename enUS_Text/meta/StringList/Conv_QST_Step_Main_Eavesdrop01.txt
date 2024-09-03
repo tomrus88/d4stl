@@ -1,0 +1,2 @@
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Wait. Do you hear that? Voices.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Hushed, whisper

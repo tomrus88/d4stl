@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Shadow Masque
+Hash: 003DFCC1, Key: Name, Value: Harlequin Crest
+Hash: F5C7BC0A, Key: Flavor, Value: "This headdress was once worn by an assassin disguised as a court mage. Her treachery was unveiled, but not before she used its magic to curse the king's entire lineage."
+- The Fall of House Aston

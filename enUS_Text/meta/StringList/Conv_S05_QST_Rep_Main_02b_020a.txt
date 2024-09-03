@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Sounds far too good to be true."
+Hash: 48BEE006, Key: Line11.1BCD2B, Value: And what do you know of such things? You rejected Mother's teachings to follow two old men and an orphan child! All that power, pointed in the wrong direction...
+Hash: 9FBA8573, Key: VoiceDir11.1BCD2B, Value: Snapping. Critical of Player, jealous of their power.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: You should go. The heretics have descended on Túr Dúlra. I’m sure the druids can't handle it.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Dismissive.

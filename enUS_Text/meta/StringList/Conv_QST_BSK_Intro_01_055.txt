@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this "veil" you speak of?"
+Hash: 9257723D, Key: Line1.1BCB9E, Value: Did the Horadrim teach you nothing? The veil is the primordial barrier that separates our world from the Burning Hells. No demon can cross it without invitation.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Frowning, confused. Patiently explaining.
+Hash: 2FA09AA2, Key: Line6.1BCB9E, Value: But the veil is not uniform. Nor is it invulnerable...
+Hash: 7FD6C66F, Key: VoiceDir6.1BCB9E, Value: Worried. Tense.

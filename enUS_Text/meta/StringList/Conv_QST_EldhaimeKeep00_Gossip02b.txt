@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Gossip
+Hash: F63F5232, Key: Line1.EEB24.Dru, Value: Why is it your kin loathe us, druid? We've done so much to heal this broken land, and still the glenfolk criticize our beliefs at every opportunity.
+Hash: 832AA920, Key: Line5.BAE4.Dru, Value: I could not say. I am not from these parts.
+Hash: 00F8BCB4, Key: Line3.EEB24.Dru, Value: Ah, guard yourself against the local gossip then.

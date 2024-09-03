@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Legacy Incinerate
+Hash: 003892BF, Key: desc, Value: {c_gold}Mana Cost: {/c}{c_green}{SF_4} per second{/c}
+Channel a beam of fire, burning enemies for {c_yellow}{payload:TOOLTIP_ONLY_DAMAGE}{/c}. Damage increases by {c_yellow}{payload:TOOLTIP_RAMP_DAMAGE}{/c} per second, up to {c_yellow}{payload:TOOLTIP_MAX_DAMAGE}{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: Starting damage increased to {c_yellow}{payload:TOOLTIP_ONLY_DAMAGE}{/c}. Final damage increased to {c_yellow}{payload:TOOLTIP_MAX_DAMAGE}{/c}.

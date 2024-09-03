@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found a broken carving, could it be part of another totem?"
+Hash: 8EB347FA, Key: Line1.101CF8, Value: It's good that you brought this to me. It's hard to make out the animal's form from the bit that's here...but I see the clawed limbs of a large, predatory beast.
+Hash: DEE973C7, Key: VoiceDir1.101CF8, Value: examining something, concerned
+Hash: 3FBA9B7E, Key: Line5.101CF8, Value: If you find any other parts of this, bring them to me at once. I will ask others to scour the countryside for the pieces as well. We can't risk the pieces of this falling into the wrong hands.
+Hash: 8FF0C74B, Key: VoiceDir5.101CF8, Value: purposeful

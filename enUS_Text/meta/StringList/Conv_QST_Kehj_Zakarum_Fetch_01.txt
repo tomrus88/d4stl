@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This hardly seems like a place for children."
+Hash: 5D3B086A, Key: Line1.BC3FE, Value: They have nowhere else to go. Their families fled Jirandai to escape the horrors of the north, but the cannibals found them anyway.
+Hash: CC446E97, Key: VoiceDir1.BC3FE, Value: Saddened. Clearly pities the victims of the cannibals.
+Hash: F72F81EC, Key: Line3.BC3FE, Value: Other travelers are in peril while those accursed flesh-eaters roam the roads. Should you thin their numbers, I can offer a portion of our tithes.

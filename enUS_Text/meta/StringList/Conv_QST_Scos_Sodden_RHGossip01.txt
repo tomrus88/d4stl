@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "There's nothing else here."
+Hash: 5D0D7265, Key: Line1.A109C, Value: We need to find Cecil.  Let's check along the river.

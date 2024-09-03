@@ -1,0 +1,2 @@
+Hash: DF0BA3DF, Key: Callback36Header, Value: Destroy the Aetheric Mass: {DONE_OVER_NEEDED}
+Hash: 3158FF3E, Key: Callback44Header, Value: Collect Aether from an Aetheric Mass

@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Taissa Intro
+Hash: C2053272, Key: Line9.7FA05, Value: Taissa? (laugh) You're the witch in the tower?
+Hash: 8E02627B, Key: Line5.789BF, Value: Horadrim. I thought you journeyed to the keep.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: (laughs)
+Hash: 6F3E307B, Key: Line11.7FA05, Value: Yes. Well...
+Hash: BF745C48, Key: VoiceDir11.7FA05, Value: (cough)

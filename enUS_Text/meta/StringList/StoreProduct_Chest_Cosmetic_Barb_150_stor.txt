@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: More animal than man, this fighter bathes in the blood of those who enter the Pit. Driven by pain, they leave arrows in their body, unwilling to part with the masochistic agony.
+Hash: 003DFCC1, Key: Name, Value: Galerus Invictus
+Hash: 13A53A8B, Key: Series, Value: "Bathed in Blood"

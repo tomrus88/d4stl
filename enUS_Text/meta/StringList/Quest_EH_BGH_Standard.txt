@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Insidious Ritual
+Hash: 2A0770E5, Key: Callback78Header, Value: Enter {EVENT_LEVELAREA}
+Hash: E6570D8F, Key: Callback108Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: 6FE20AD5, Key: Callback168Header, Value: Slay the ritualists: {LEFT}
+Hash: 167B314E, Key: Callback143Header, Value: Slay them all before they complete their ritual
+Hash: E4589DD4, Key: Callback149Header, Value: Find the ritualists

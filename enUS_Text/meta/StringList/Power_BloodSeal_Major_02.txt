@@ -1,0 +1,4 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Vampiric Bloodrage
+Hash: 2827F416, Key: Buff0_Description, Value: Gaining Move Speed, Basic Attack Damage
+Hash: 14C66756, Key: Buff3_Name, Value: Vampiric Bloodlust
+Hash: 16451099, Key: Buff3_Description, Value: Gaining Attack Speed.  Upon reaching 5 stacks, go into a Vampiric Bloodrage.

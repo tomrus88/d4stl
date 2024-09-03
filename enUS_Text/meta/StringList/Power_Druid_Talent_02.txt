@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Safeguard
+Hash: 003892BF, Key: desc, Value: Critical Strikes with {c_important}Earth{/c} Skills {c_important}{u}Fortify{/u}{/c} you for {c_number}[{SF_0}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,{fortified:PAYLOAD_FORTIFY})|0|]){/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Fortify{/u}{/c} {icon:arrow,1.2} {c_number}[{SF_0}*100|%|]{/c}

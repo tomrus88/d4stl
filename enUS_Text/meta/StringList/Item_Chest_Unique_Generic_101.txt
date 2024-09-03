@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Soulbrand
+Hash: F5C7BC0A, Key: Flavor, Value: "To create such an artifact would require an impossible mastery over alchemy, transmutation and the subtle magics of the soul. By all rights, it should not exist, yet it does."
+- Artisan Callas

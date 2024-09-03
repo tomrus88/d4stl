@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Revived in Corruption
+Hash: A646FFA4, Key: Description, Value: Nafain's twisted hatred found an innocent in the Blood Vale, long ago lamed and left to rot. Into its bones, the hatred crept then suddenly, the beast jerked to its feet.
+Hash: 083EE0CE, Key: Quote, Value: Out of the blood, wild with hate.
+Hash: 13A53A8B, Key: Series, Value: "Corruption Subjugate" Mount Armor

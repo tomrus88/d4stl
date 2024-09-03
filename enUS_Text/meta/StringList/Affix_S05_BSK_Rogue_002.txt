@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of True Sight
+Hash: 003892BF, Key: Desc, Value: You deal {c_random}[Affix_Value_1|%x|]{/c} increased Critical Strike Damage to enemies marked by {c_important}Inner Sight{/c}.

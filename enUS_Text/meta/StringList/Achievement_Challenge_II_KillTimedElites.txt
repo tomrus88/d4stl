@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Champions No More
+Hash: 003892BF, Key: Desc, Value: Kill 3 elite monsters within 30 seconds.

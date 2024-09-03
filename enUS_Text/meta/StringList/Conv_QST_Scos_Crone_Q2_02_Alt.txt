@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What have you found?"
+Hash: F3CBBA09, Key: Line3.2CDEB, Value: I don’t recognize the magic that rotted my familiar. It is old, older than the Druids themselves. They could know of it.
+Hash: 62D52036, Key: VoiceDir3.2CDEB, Value: worried
+Hash: 59D74087, Key: Line1.2CDEB, Value: Take the heart to the Druid, Yuein, at Túr Dúlra. Perhaps he’ll know if there is a way to deal with this magic.
+Hash: C8E0A6B4, Key: VoiceDir1.2CDEB, Value: Certain 
+Hash: 8DC0338B, Key: Line5.2CDEB, Value: He lived at Túr Dúlra before Astaroth's attack. If the demons that remain there are cleared, he’ll return.
+Hash: FCC999B8, Key: VoiceDir5.2CDEB, Value: Certain 

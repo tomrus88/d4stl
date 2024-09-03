@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: The Fledgling Merchant
+Hash: 0871A46B, Key: Toast, Value: A boy in Cerrigar needs help earning a living.
+Hash: FAF02F4B, Key: Phase6Description, Value: A boy from Cerrigar wishes he had more charger tusks to sell.
+
+The beasts are common throughout the Emerald Chase.
+Hash: 059C64AB, Key: Callback5Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I gathered some charger tusks and should give them to Kian back in Cerrigar.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Kian

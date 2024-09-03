@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Mahjoob, are you alright?"
+Hash: 282084CA, Key: Line7.8C8DF, Value: My arm! Burning Hells, my arm!
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: On the ground, clutching arm. Agony.

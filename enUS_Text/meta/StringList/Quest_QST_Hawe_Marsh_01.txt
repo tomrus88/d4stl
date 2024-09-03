@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Tainted Flesh
+Hash: 0871A46B, Key: Toast, Value: Meet Lorath and Neyrelle in Hawezar
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find Lorath and Neyrelle
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Taissa has sent Lorath and Neyrelle deep into the marshes to look for someone named Timue. Hopefully she can help us break Elias' immortality.
+Hash: D53BFF05, Key: Phase0Description, Value: Taissa has sent Lorath and Neyrelle deep into the marshes to look for someone named Timue. Hopefully she can help us break Elias' immortality.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Find Lorath and Neyrelle in Blightmarsh
+Hash: 1EADAE68, Key: Callback2Header, Value: Find Lorath and Neyrelle
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Taissa has sent Lorath and Neyrelle deep into the marshes to look for someone named Timue. Hopefully she can help us break Elias' immortality.
+Hash: 9589ADF5, Key: Phase8OutsideSubzoneHeader, Value: Speak with Lorath in Blightmarsh
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Lorath
+Hash: 8784047D, Key: Phase17Description, Value: I've met up with Lorath and Neyrelle. They have not been able to track down Timue. Hopefully the three of us will have better luck.
+Hash: EA338665, Key: Phase17OutsideSubzoneHeader, Value: Search for Timue with your allies in Blightmarsh
+Hash: 71E69F39, Key: Callback21Header, Value: Search for Timue with your allies
+Hash: 9367FF5C, Key: Phase34Description, Value: We've come across a ramshackle hut hidden away deep in the marshes. It's hard to imagine anyone calling this tangle of rotten wood a 'home,' but with any luck, Timue does.
+Hash: DC652C24, Key: Phase34OutsideSubzoneHeader, Value: Enter Timue's Hovel in Blightmarsh
+Hash: 9E7E03E4, Key: Callback59Header, Value: Enter Timue's Hovel
+Hash: B1D3AB7C, Key: Phase43Description, Value: We've found Timue. She's clearly gripped by some kind of infection or infestation; strange thorns and vines are growing from her body. Hopefully her mind is intact enough to give us the information we seek.
+Hash: FE047C44, Key: Phase43OutsideSubzoneHeader, Value: Speak with Timue in Blightmarsh
+Hash: 1847B581, Key: Callback47Header, Value: Speak with Timue

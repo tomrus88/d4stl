@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Etched and Stained
+Hash: 003892BF, Key: Desc, Value: Equip a full set of gear with at least 1 tempered affixes on each.

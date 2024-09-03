@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've returned with the Ghoul Hearts."
+Hash: 8EFC7C5A, Key: Line1.144334, Value: Excellent work, friend. Ghoul hearts seem to have captivated the clergy as of late. It's no surprise, really. Understanding your enemy is the first step to defeating them.
+Hash: DF32A827, Key: VoiceDir1.144334, Value: Sly and discreet

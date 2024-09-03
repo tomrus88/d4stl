@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Generic Notice Sign
+Hash: CC3C0A8F, Key: FlavorText, Value: Short flavor text, the limit is 45 characters
+Hash: F2CA04D8, Key: NoticeSignText, Value: This is Notice Text.
+
+Always assign a Sign Material (paper, wood, stone, etc.) for what to show in the background of this panel. This panel supports 454 characters, but limit this text to 225 to allow room for localization.

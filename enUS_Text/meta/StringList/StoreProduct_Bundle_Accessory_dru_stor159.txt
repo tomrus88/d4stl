@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Acorn Cache
+Hash: A646FFA4, Key: Description, Value: The words of the Scéal Fada are etched upon the heart of every Keeper. It is they who will rebuild what has been lost.
+Hash: 083EE0CE, Key: Quote, Value: The things a Keeper keeps.
+Hash: 13A53A8B, Key: Series, Value: "The Oaken Keeper" Accessories

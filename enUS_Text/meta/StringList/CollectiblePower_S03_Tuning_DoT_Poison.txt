@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Poison Support
+Hash: A646FFA4, Key: Description, Value: {c_number}[{SF_9}*100]%{/c} of the supported skill's damage dealt is applied as Poison damage over {c_number}[{SF_1}+{SF_4}|1|]{/c} seconds. This poison has a {c_number}[Collectible_Power_Value_1#S03_Tuning_DoT_Poison*100]%{/c} chance each second to spread all Poison damage to an additional enemy.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Spread Chance {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_DoT_Poison*100+1]%{/c} Per Second
+Hash: E971A20F, Key: Modifier, Value: {c_number}[{SF_0}*100]%{/c} of the damage is applied as Poison damage.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

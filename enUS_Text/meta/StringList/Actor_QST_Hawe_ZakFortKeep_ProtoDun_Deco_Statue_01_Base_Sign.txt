@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Broken Statue
+Hash: F2CA04D8, Key: NoticeSignText, Value: Paladin Lord Carthas. Slayer of Mephisto. Defender of the Black Tomb. You are a Light in the darkness, brother, and we will live by your example.

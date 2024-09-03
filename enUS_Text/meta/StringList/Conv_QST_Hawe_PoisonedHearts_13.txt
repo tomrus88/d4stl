@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Aneta, I'm so sorry."
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: (crying) It's not fair. I just wanted to help her...
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: Heartbroken, frustrated. 
+Hash: 2B479D37, Key: Line7.F53E7, Value: Aneta, your mother was beyond anyone's help.
+Hash: 9A510364, Key: VoiceDir7.F53E7, Value: Gentle. Aneta's mother was an abusive person, and you've held back your opinion for long enough.
+Hash: 91531FA1, Key: Line5.F52ED, Value: Nothing I did ever changed how she saw me. I was just a cursed child to her, all the way to the end.
+Hash: 005C85CE, Key: VoiceDir5.F52ED, Value: Coming to the realization that your mother was abusive. Sad, but sure. Weepy, some sniffling and tears.
+Hash: C53C16B9, Key: Line9.F53E7, Value: My dear, you cannot save anyone who refuses change. Your mother decided who she was long before you were born.
+Hash: 34457CE6, Key: VoiceDir9.F53E7, Value: gentle. Aneta's mother was an abusive person, and you've held back your opinion for long enough.
+Hash: 727510AE, Key: Line11.F52ED, Value: (sniffle) The voices...they're finally quiet...
+Hash: C2AB3C7B, Key: VoiceDir11.F52ED, Value: The voices that have been screaming in your mind for so long have finally quieted after your abusive mother died. A relief that you feel guilty about.
+Hash: 0C698A30, Key: Line13.F52ED, Value: It's time for me to go.
+Hash: 5C9FB5FD, Key: VoiceDir13.F52ED, Value: You are absolutely 100% certain and confident.

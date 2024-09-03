@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: To Walk a Dark Path
+Hash: 003892BF, Key: Desc, Value: Complete the To Walk a Dark Path questline in Hawezar.
+Hash: 3DA55841, Key: Crit_236104, Value: To Walk a Dark Path
+Hash: 3DA55842, Key: Crit_236105, Value: At Any Cost
+Hash: 3DA55843, Key: Crit_236106, Value: Turbulent Waters
+Hash: 3DA55844, Key: Crit_236107, Value: By Three They Come

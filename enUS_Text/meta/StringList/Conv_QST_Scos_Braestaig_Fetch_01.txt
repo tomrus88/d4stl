@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you need aid?"
+Hash: 99BCC863, Key: Line1.53D3D.Dru, Value: Indeed, master Druid. A thief named Darcel snuck in with the knights posing as muscle. Best we handle the matter ourselves, rather than ask the knights for aid.
+Hash: 9E377D10, Key: VoiceDir1.53D3D.Dru, Value: Merryn is friendly to Druid players. 
+Hash: 99BCBDAD, Key: Line1.53D3D.Bar, Value: Aye! A thief named Darcel snuck in with the knights posing as muscle. Took something of mine.
+Hash: 9E37725A, Key: VoiceDir1.53D3D.Bar, Value: Merryn is suspicious and hesitent to non-Druid players. 
+Hash: 99BCF12E, Key: Line1.53D3D.Nec, Value: Aye! A thief named Darcel snuck in with the knights posing as muscle. Took something of mine.
+Hash: 9E37A5DB, Key: VoiceDir1.53D3D.Nec, Value: Merryn is suspicious and hesitent to non-Druid players. 
+Hash: 99BD0380, Key: Line1.53D3D.Rog, Value: Aye! A thief named Darcel snuck in with the knights posing as muscle. Took something of mine.
+Hash: 9E37B82D, Key: VoiceDir1.53D3D.Rog, Value: Merryn is suspicious and hesitent to non-Druid players. 
+Hash: 99BD07CC, Key: Line1.53D3D.Sor, Value: Aye! A thief named Darcel snuck in with the knights posing as muscle. Took something of mine.
+Hash: 9E37BC79, Key: VoiceDir1.53D3D.Sor, Value: Merryn is suspicious and hesitent to non-Druid players. 
+Hash: 08F28EFD, Key: Line13.53D3D, Value: A bairn was born healthy a fortnight ago, praise the Glór-an-Fháidha, but the mother is weak. Darcel stole the runic charm I placed to heal her.
+Hash: 0E45AD9B, Key: Line20.53D3D, Value: Bastard probably just wanted quick coin. He may have condemned both mother and child. Deal with him and bring the charm back.

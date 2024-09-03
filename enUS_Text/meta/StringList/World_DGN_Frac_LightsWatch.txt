@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Light's Watch
+Hash: 003892BF, Key: Desc, Value: A Knights' keep, repurposed for bandits and other parasites.

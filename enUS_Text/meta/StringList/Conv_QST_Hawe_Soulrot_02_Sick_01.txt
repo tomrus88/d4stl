@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Drink this, it will help make you well."
+Hash: 8EB69A80, Key: Line1.107ED8, Value: Be sure to drink it all, Jana. All of it.

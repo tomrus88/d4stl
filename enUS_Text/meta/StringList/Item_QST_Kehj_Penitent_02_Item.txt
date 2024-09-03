@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Inquisitor's Insignia
+Hash: F5C7BC0A, Key: Flavor, Value: A small, ornate trinket used by the Knights Penitent to identify informants and other civilian allies. 

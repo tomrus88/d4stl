@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Demons approach, we need to get through."
+Hash: 5A202CB1, Key: Line1.6DE47, Value: I think I can dispel it.

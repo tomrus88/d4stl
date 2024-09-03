@@ -1,0 +1,12 @@
+Hash: 5A196F77, Key: Line1.789BF, Value: There! Do you feel that?
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: Sensing danger. Alert.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: What is it, witch?
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: Straining to cast the spell. Barking. Annoyed.
+Hash: 3D01C00E, Key: Line17.789BF, Value: Someone is coming...it's Elias!
+Hash: 8D37EBDB, Key: VoiceDir17.789BF, Value: Searching the sensation. Concern, then alarm.
+Hash: D6FC1563, Key: Line19.6D03F, Value: He's here?! We have to--
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: Alarmed. Distracted. Turning.
+Hash: 5B80055C, Key: Line21.7FA05, Value: Lorath, don't you dare leave!
+Hash: ABB63129, Key: VoiceDir21.7FA05, Value: Straining with sudden weight, barking at Lorath to do his damn job.
+Hash: F55AA1EB, Key: Line23.789BF, Value: (growl) I'll kill him myself!
+Hash: 4590CDB8, Key: VoiceDir23.789BF, Value: Frustrated. To hell with you all, I want him dead!

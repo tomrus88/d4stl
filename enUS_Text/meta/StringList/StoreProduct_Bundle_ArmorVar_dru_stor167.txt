@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Fear'bog
+Hash: A646FFA4, Key: Description, Value: While these reserved people always strive to protect natural harmony, they confront the snakemen that plague the swamps with extreme prejudice.
+Hash: 083EE0CE, Key: Quote, Value: These followers of the Old Ways practice their way of life in constant conflict with the denizens of Hawezar's marshlands.
+Hash: 13A53A8B, Key: Series, Value: Druid Armor

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Faded Entry
+Hash: F2CA04D8, Key: NoticeSignText, Value: “10th of Jerharan, 1281. Monk Kislek reports that our sacramental wine has grown weak. Accuses Monk Meston of drinking our stores and replacing the loss with water—”

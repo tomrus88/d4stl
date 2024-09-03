@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Open Shaft
+Hash: F2CA04D8, Key: NoticeSignText, Value: Searing heat rises from this pit. Something rumbles far below—rhythmic and massive. 

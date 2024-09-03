@@ -1,0 +1,27 @@
+Hash: 003DFCC1, Key: Name, Value: Endangered Species
+Hash: 003892BF, Key: Desc, Value: Kill one of each wildlife listed below.
+Hash: 3B9774C7, Key: Crit_174019, Value: Crab
+Hash: 3B9774E1, Key: Crit_174022, Value: Donkey
+Hash: 3B9774E2, Key: Crit_174023, Value: Egret
+Hash: 3B9774E3, Key: Crit_174024, Value: Fox
+Hash: 3DA4D4A6, Key: Crit_235326, Value: Brown Goat
+Hash: 3B9774E5, Key: Crit_174026, Value: Black Goat
+Hash: 3DA4D4A7, Key: Crit_235327, Value: White Goat
+Hash: 3B9774E7, Key: Crit_174028, Value: Meerkat
+Hash: 3B9774E8, Key: Crit_174029, Value: Large Pig
+Hash: 3B977500, Key: Crit_174030, Value: Small Pig
+Hash: 3B977502, Key: Crit_174032, Value: Raven
+Hash: 3B977503, Key: Crit_174033, Value: Seagull
+Hash: 3B977507, Key: Crit_174037, Value: Fawn
+Hash: 3B9774DF, Key: Crit_174020, Value: Grey Doe
+Hash: 3B977508, Key: Crit_174038, Value: Brown Doe
+Hash: 3B977509, Key: Crit_174039, Value: Stag
+Hash: 3B9774C6, Key: Crit_174018, Value: Scosglen Cow
+Hash: 3B977521, Key: Crit_174040, Value: Dry Steppes Cow
+Hash: 3B9774C5, Key: Crit_174017, Value: Brown Chicken
+Hash: 3B977523, Key: Crit_174042, Value: Brown Rooster
+Hash: 3B977524, Key: Crit_174043, Value: Rooster
+Hash: 3B977525, Key: Crit_174044, Value: White Chicken
+Hash: 3DA4D4C2, Key: Crit_235331, Value: Rabbit
+Hash: 3DA4D4C5, Key: Crit_235334, Value: Snake
+Hash: 3DA4DD86, Key: Crit_235551, Value: Sheep

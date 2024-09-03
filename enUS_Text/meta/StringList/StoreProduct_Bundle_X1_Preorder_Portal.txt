@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Road to Kurast
+Hash: A646FFA4, Key: Description, Value: "Well, I gave you my word and brought you here as promised. But by all that's still holy, I wish I'd never returned to this accursed place." - Meshif
+Hash: 083EE0CE, Key: Quote, Value: The city in the jungle.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Accessories

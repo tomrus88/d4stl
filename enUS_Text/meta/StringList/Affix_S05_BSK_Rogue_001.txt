@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Deceptive
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Subterfuge{/c} Skills create an attackable {c_important}Shade Totem{/c} for {c_random}[Affix_Value_1|1|]{/c} seconds. Any base damage it takes is replicated onto surrounding enemies at {c_number}[Affix_Value_2]%{/c} effectiveness. 
+
+This effect is treated as a {c_important}Trap{/c} Skill. You may only have {c_number}[Affix."Static Value 0"]{/c} |4{c_important}Shade Totem{/c}:{c_important}Shade Totems{/c}; active at a time.

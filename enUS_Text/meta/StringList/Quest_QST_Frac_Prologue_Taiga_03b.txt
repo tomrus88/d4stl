@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Prayers for Salvation
+Hash: 0871A46B, Key: Toast, Value: Enter the Nevesk chapel
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Loot the Chapel Key from Oswen's Corpse
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I took no joy in killing the villagers of Nevesk, but survival often forces difficult choices. The monk, wounded as he is, has asked me to search the Nevesk chapel to understand what drove simple people to such dark deeds.
+Hash: 45529163, Key: Phase68Description, Value: I took no joy in killing the villagers of Nevesk, but survival often forces difficult choices. The monk, wounded as he is, has asked me to search the Nevesk chapel to understand what drove simple people to such dark deeds.
+Hash: 789DF60B, Key: Phase68OutsideSubzoneHeader, Value: Unlock the chapel door
+Hash: F0CB5F43, Key: Callback67Header, Value: Unlock the chapel door
+Hash: D0E42560, Key: Phase74Description, Value: The chapel is empty, and yet there is an oppressive evil that weighs on my chest. What happened here?
+Hash: A71656A8, Key: Phase74OutsideSubzoneHeader, Value: Inspect the blood petals
+Hash: 9AB9349F, Key: Callback90Header, Value: Inspect the blood petals
+Hash: 63BE3D83, Key: Phase77Description, Value: I found a cascade of strange bloody petals falling in the chapel. They showed me a horrific vision of a demonic woman inspiring depraved acts. Is this what turned these people to darkness?
+Hash: 9A3D462B, Key: Phase77OutsideSubzoneHeader, Value: Speak with Iosef
+Hash: 9012F763, Key: Callback76Header, Value: Speak with Iosef
+Hash: B31D4704, Key: Phase87Description, Value: I took no joy in killing the villagers of Nevesk, but survival often forces difficult choices. The monk, wounded as he is, has asked me to search the Nevesk chapel to understand what drove simple people to such dark deeds.
+Hash: 0CE990CC, Key: Phase87OutsideSubzoneHeader, Value: Enter the chapel
+Hash: 63438287, Key: Callback89Header, Value: Enter the chapel
+Hash: 3EAEDB01, Key: Phase93Description, Value: I took no joy in killing the villagers of Nevesk, but survival often forces difficult choices. The monk, wounded as he is, has asked me to search the Nevesk chapel to understand what drove simple people to such dark deeds.
+Hash: 3B61F169, Key: Phase93OutsideSubzoneHeader, Value: Loot the Chapel Key from Oswen's Corpse
+Hash: 6896A125, Key: Callback96Header, Value: Loot the Chapel Key from Vani's corpse

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Snow's Comfy Satchel
+Hash: 13A53A8B, Key: Series, Value: "Pale Mischief"

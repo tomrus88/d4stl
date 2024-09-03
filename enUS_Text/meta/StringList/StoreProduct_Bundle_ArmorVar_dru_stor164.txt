@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hierophant
+Hash: A646FFA4, Key: Description, Value: The Hierophant instinctively knows which exotic component will be needed in order to craft these druidic vestments. The wearing of this garb commands respect from all druid who gaze upon it.
+Hash: 083EE0CE, Key: Quote, Value: Interpreter of the mysteries, both earth and spirit.
+Hash: 13A53A8B, Key: Series, Value: Druid Armor

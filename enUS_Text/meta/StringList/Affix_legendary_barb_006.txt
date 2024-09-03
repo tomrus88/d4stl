@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Battle-Mad
+Hash: 003892BF, Key: Desc, Value: Gain {c_important}{u}Berserking{/u}{/c} for {c_random}[Affix_Value_1|1|]{/c} seconds after swapping weapons {c_number}[Affix."Static Value 0"]{/c} times.

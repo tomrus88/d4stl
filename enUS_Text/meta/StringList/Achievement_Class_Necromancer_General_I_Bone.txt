@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cut to the Bone
+Hash: 003892BF, Key: Desc, Value: Kill 150 Vulnerable enemies with Critical Strikes.

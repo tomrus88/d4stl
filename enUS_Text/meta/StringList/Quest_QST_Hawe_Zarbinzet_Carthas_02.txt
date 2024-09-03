@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Remembering the Fallen
+Hash: 0871A46B, Key: Toast, Value: Ksenia returns to Zarbinzet to ensure the Paladins' sacrifice is remembered.
+Hash: D53BFF05, Key: Phase0Description, Value: Ksenia has returned to Zarbinzet after we cleansed the Paladins of Mephisto's presence. She has established a memorial to honor the Paladins' sacrifice.
+Hash: 059C64AB, Key: Callback5Header, Value: Speak with Ksenia
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Ksenia has returned to Zarbinzet after we cleansed the Paladins of Mephisto's presence. She has established a memorial to honor the Paladins' sacrifice.
+
+I should put up a grave marker to honor them as well.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Place a Paladin grave marker

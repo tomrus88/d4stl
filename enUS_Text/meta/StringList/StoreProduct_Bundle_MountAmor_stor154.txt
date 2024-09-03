@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Trail
+Hash: A646FFA4, Key: Description, Value: Forever in search of combat (and finding it everywhere), those who bathe in blood are easy to follow.
+Hash: 083EE0CE, Key: Quote, Value: Carve a bloody path.
+Hash: 13A53A8B, Key: Series, Value: "Bathed in Blood" Mount Armor

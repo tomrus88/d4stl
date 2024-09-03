@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Sun King
+Hash: A646FFA4, Key: Description, Value: In the eyes of most, Kael'thas betrayed his own people for petty power. In his own eyes, though? Everything he did, he did for Silvermoon.
+Hash: 083EE0CE, Key: Quote, Value: Justice for our people.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

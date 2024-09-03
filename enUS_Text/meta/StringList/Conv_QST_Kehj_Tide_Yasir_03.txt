@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I will help free your family."
+Hash: 5D58B424, Key: Line1.E6891, Value: Ah, knew I could count on you! Haha, let’s move!

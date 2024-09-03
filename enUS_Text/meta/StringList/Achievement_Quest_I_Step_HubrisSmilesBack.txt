@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hubris Smiles Back
+Hash: 003892BF, Key: Desc, Value: Complete the Hubris Smiles Back questline in Dry Steppes.
+Hash: 3DA554E9, Key: Crit_236076, Value: Augury of Bones
+Hash: 3DA554EA, Key: Crit_236077, Value: Hubris Smiles Back

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Any other cursed items I can help with?"
+Hash: 5D73363A, Key: Line1.EECAE, Value: I found this old ring left behind by the Triune. They took nearly everything else, why leave this? The enchantment is disabled, so I’ve yet to discover its use. The mystery is half the excitement.
+Hash: F767AFBC, Key: Line3.EECAE, Value: Energy is the key. No cheaper energy than demonic essences. A bit messy, but nothing you can’t handle. The ring is located in that chest. I’ll await your return.

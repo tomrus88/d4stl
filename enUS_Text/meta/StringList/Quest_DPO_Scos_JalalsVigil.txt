@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Nature's rotting cathedral.
+Hash: A4030E0A, Key: Callback121Header, Value: Travel to {LEVELAREA}
+Hash: BEDAB751, Key: Callback128Header, Value: Defeat {MONSTER}

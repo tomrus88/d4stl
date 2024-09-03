@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood-Molded Drape
+Hash: 13A53A8B, Key: Series, Value: "Blood Petal"

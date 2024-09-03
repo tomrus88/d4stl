@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Expert Herbalist
+Hash: 003892BF, Key: Desc, Value: Gather an Angelbreath.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Butchered Meat
+Hash: F2CA04D8, Key: NoticeSignText, Value: The butcher’s stockpile runs low these days. The increase of people has made it difficult to keep up with demand.

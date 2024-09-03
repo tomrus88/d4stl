@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I found this amulet.”
+Hash: 5D72A441, Key: Line1.EDC77, Value: Let me see that! Ah, I can feel it already. The calls are fading.
+Hash: CC7C0A6E, Key: VoiceDir1.EDC77, Value: Excited to get amulet, then relieved. 
+Hash: F7671DC3, Key: Line3.EDC77, Value: Thank you, kind stranger. I don't know how much longer I could have resisted without this.
+Hash: 667083F0, Key: VoiceDir3.EDC77, Value: Genuinely thankful, relieved

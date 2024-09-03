@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: Fragments of Mortality
+Hash: 0871A46B, Key: Toast, Value: Return to Lorath
+Hash: 1EF99359, Key: Phase40Description, Value: Removing Elias' finger from the altar caused the temple to sink further into the murky waters. I was able to escape, but only barely.
+Hash: C5FA5A22, Key: Callback39Header, Value: Speak with Lorath
+Hash: B1D3AB7C, Key: Phase43Description, Value: I found Lorath tending to Neyrelle. Luckily it appears as though she will survive. I explained what I found in the sunken temple. It's time to burn Elias' finger and break his immortality.
+Hash: 976485BC, Key: Callback42Header, Value: Burn Elias' Mummified Finger
+Hash: 44ADC39F, Key: Phase46Description, Value: The fire has roused Neyrelle. I should check on her.
+Hash: 7E533BFF, Key: Callback45Header, Value: Speak with Neyrelle
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Lorath in Rotspill Delta
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Removing Elias' finger from the altar caused the temple to sink further into the murky waters. I was able to escape, but only barely.
+Hash: 0ADD8CC1, Key: Phase40OutsideSubzoneHeader, Value: Bring Elias' Mummified Finger to Lorath in Rotspill Delta
+Hash: FE047C44, Key: Phase43OutsideSubzoneHeader, Value: Burn Elias' Mummified Finger on the campfire in Rotspill Delta
+Hash: F12B6BC7, Key: Phase46OutsideSubzoneHeader, Value: Speak with Neyrelle in Rotspill Delta
+Hash: FB719C7F, Key: Callback81Header, Value: Burn Elias' Mummified Finger
+Hash: 95661601, Key: Callback83Header, Value: Speak with Neyrelle

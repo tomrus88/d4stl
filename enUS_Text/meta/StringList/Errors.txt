@@ -1,0 +1,267 @@
+Hash: CC4F002A, Key: CannotEnchantUniqueItem, Value: Unique items cannot be enchanted.
+Hash: 9DC852C5, Key: IAR_CannotSalvageAllSigils, Value: You have no Nightmare Sigils to salvage.
+Hash: 64C0C5C2, Key: IAR_CannotSalvageAllAncestralSigils, Value: You have no Ancestral Nightmare Sigils to salvage.
+Hash: 308FD0D7, Key: IAR_CannotSalvageAllSacredSigils, Value: You have no Sacred Nightmare Sigils to salvage.
+Hash: B5E7A597, Key: AspectDefinitionAlreadyOnItem, Value: The target item already has this Codex of Power Aspect.
+Hash: DD8D59FB, Key: IAR_CannotSalvageAllMagic, Value: You have no Magic items to salvage.
+Hash: 1DFB3772, Key: IAR_CannotSalvageAllJunk, Value: You have no items Marked as Junk to salvage.
+Hash: 1DFF45E4, Key: IAR_CannotSalvageAllRare, Value: You have no Rare items to salvage.
+Hash: 16E6A9FA, Key: IAR_CannotSalvageAll, Value: You have no items to salvage.
+Hash: 07E64BB8, Key: ContentNotAllowedDescription, Value: This account has restrictions on viewing user generated content.
+Hash: A0137092, Key: SocialFeaturesDisabled, Value: This account has restrictions on communications.
+Hash: 790D3FF2, Key: IAR_NotEnoughRoomStash, Value: You do not have enough Stash space in the current tab.
+Hash: 035349FC, Key: PowerUnusableInArea, Value: You cannot do that in this area.
+Hash: AEA2FCB5, Key: ItemNotReady, Value: That item is not ready yet.
+Hash: 1ADFBF1B, Key: PowerInvalidTarget, Value: That target is invalid.
+Hash: C5C2D37A, Key: PowerNotEnoughHealth, Value: Not enough Life to use that Skill.
+Hash: 4F69D321, Key: PowerNotEnoughMana, Value: Not enough Mana to use that Skill.
+Hash: 4F66522A, Key: PowerNotEnoughFury, Value: Not enough Fury to use that Skill.
+Hash: B19CBD64, Key: PowerWrongWeapon, Value: That Skill requires a different weapon.
+Hash: B95A814C, Key: PowerInTown, Value: You cannot do that in this area. 
+Hash: B872895F, Key: PowerTargetTooFar, Value: That target is too far for that Skill.
+Hash: 371E6C29, Key: PowerInCooldown, Value: That Skill is not ready.
+Hash: 126EBC38, Key: PowerNeedsLineOfSight, Value: That Skill requires line of sight to the target.
+Hash: 29C634F9, Key: PowerUnusableInCombat, Value: You cannot do that while in combat.
+Hash: BFADF8A9, Key: PowerUnusableGeneric, Value: That Skill is not ready.
+Hash: 4BF82AB6, Key: PowerMissingItem, Value: You don't have the item to do that.
+Hash: EDBBEA18, Key: IAR_NotAllowedHere, Value: That item is not allowed there.
+Hash: 27DCD2EC, Key: IAR_CantEquipUnidentifiedItem, Value: You cannot equip unidentified items.
+Hash: 037753B3, Key: IAR_PlayerDoesntMeetItemRequirements, Value: You do not meet the requirements to equip that item.
+Hash: 47B6303D, Key: IAR_PlayerIsWrongClassForItem, Value: That item cannot be equipped by your Class.
+Hash: D1E95EC8, Key: IAR_ItemTypeDoesntMatchSlot, Value: That item is the wrong type of item for this slot.
+Hash: 8CED9CCF, Key: IAR_NotEnoughRoom, Value: You do not have enough Inventory space to do that.
+Hash: 67F6B48F, Key: ItemCrafting_MissingReagents, Value: You do not have enough materials to craft this item.
+Hash: 7BDDF94E, Key: IAR_ContainerRemoveOnly, Value: You cannot place items here.
+Hash: E4D876A1, Key: IAR_CannotSalvage, Value: You cannot salvage that item here.
+Hash: FE276AAF, Key: CannotUnSocket, Value: That item has no Gems to unsocket.
+Hash: E0371B1F, Key: PowerNotEnoughSpirit, Value: Not enough Spirit to use that Skill.
+Hash: E5179C72, Key: IAR_CannotSalvageGemmedItems, Value: All Gems must be removed from that item before it can be salvaged.
+Hash: 30386F50, Key: Pickup_Failed, Value: That item cannot be picked up.
+Hash: D39E0537, Key: Pickup_OnlyOneAllowed, Value: You are not allowed to have more than one of that item.
+Hash: 47576DFA, Key: Pickup_BelongsToOther, Value: That item belongs to someone else and cannot be picked up.
+Hash: 67130EC3, Key: Pickup_NoSuitableSlot, Value: You have no place to put that item.
+Hash: 307A239D, Key: CannotDoWhileDead, Value: You cannot do that while dead.
+Hash: 722DB9E7, Key: InsufficientFunds, Value: You do not have enough Gold.
+Hash: 560180EE, Key: ItemUse_AlreadyAtMaxHealth, Value: You are already at full Life.
+Hash: 86E9BB87, Key: IAR_PlayerDoesntMeetItemLevel, Value: You do not meet the required Level to equip that item.
+Hash: 9BC91896, Key: IAR_NoFreeSockets, Value: There are no empty sockets in the item. See the Jeweler to modify sockets and Gems.
+Hash: 5C689302, Key: ItemUse_RecipeAlreadyKnown, Value: That Recipe is already known.
+Hash: 2F544106, Key: ItemUse_NotEnoughPagesToConvert, Value: You don't have enough pages to convert them into a tome.
+Hash: A825C58B, Key: ItemCannotBeSold, Value: That item cannot be sold.
+Hash: E74B485F, Key: ItemIsUniqueEquipped, Value: You cannot equip more than one of this item.
+Hash: 9FE4E619, Key: CannotDoThatRightNow, Value: You cannot do that right now.
+Hash: B9E05170, Key: ItemSocketTypeMismatch, Value: That item cannot be socketed into this type of item. 
+Hash: E2EC9027, Key: ItemCannotBeDropped, Value: That item cannot be dropped.
+Hash: EC6779F9, Key: IAR_ItemRequiresSkill, Value: That item requires a Skill to be equipped. 
+Hash: 97455F03, Key: Skills_CantChangeWhileInCombat, Value: You cannot change your Skills while in combat.
+Hash: 043C9FE1, Key: PowerNotEnoughCharges, Value: That Skill requires a Charge to use.
+Hash: 5E837147, Key: InsufficientFunds_PvPCurrency, Value: You do not have enough Red Dust.
+Hash: 33AFB30C, Key: ItemSocketUniqueEquipped, Value: You cannot socket more than one of that item.
+Hash: 4F61A3C1, Key: CannotUseFromThisSide, Value: You cannot use that from this side.
+Hash: E359A556, Key: LockedDoor_001, Value: This door is locked and bears no keyholes.
+Hash: E5DA3C88, Key: WaypointNotActive, Value: The destination Waypoint has not been discovered.
+Hash: 0EEC1EF4, Key: ItemUse_NotInADungeon, Value: That item can only be used in dungeons.
+Hash: 288F5C99, Key: PowerNotEnoughDruidCharges, Value: Not enough Wrath to use that Skill.
+Hash: 8EE6DE82, Key: IAR_PlayerIsWrongClassToSocketItem, Value: That item cannot be socketed by your Class.
+Hash: 4FA56781, Key: IAR_PlayerDoesntMeetSocketLevel, Value: You do not meet the required Level to socket that item.
+Hash: 8DE65C8F, Key: ItemSocketMaxEquippedConditionRunes, Value: You cannot equip more than 2 Condition Runes.
+Hash: 79E67995, Key: ItemSocketMaxEquippedEffectRunes, Value: You cannot equip more than 2 Effect Runes.
+Hash: B0BED6B8, Key: IAR_ItemNotSocketable, Value: You cannot socket into that item.
+Hash: D6F2F62B, Key: IAR_CantSocketIntoUnidentifiedItem, Value: You cannot socket into an unidentified item.
+Hash: 1303B711, Key: ItemSocketRuneAlreadyEquipped, Value: You cannot equip more than one of this Rune.
+Hash: C0BBA96A, Key: ItemSocketEquipUniqueRuneEquipped, Value: You cannot equip this item because it contains a Rune that is already equipped.
+Hash: A7766BC5, Key: ItemSocketRuneNotEnoughSockets, Value: Cannot socket Runes in items with fewer than 2 sockets.
+Hash: C7A09CD0, Key: PowerNeedTarget, Value: That Skill requires a target.
+Hash: B35A47C6, Key: LockedDoor, Value: You need a key to open this door.
+Hash: 2FB67D47, Key: IAR_ItemTypeDoesntMatch2HBluntSlot, Value: That slot can only equip a Two-Handed Bludgeoning weapon.
+Hash: F33DE45D, Key: IAR_ItemTypeDoesntMatch2HSlashSlot, Value: That slot can only equip a Two-Handed Slashing weapon.
+Hash: 57817381, Key: IAR_ItemTypeDoesntMatch1HSlot, Value: That slot can only equip a One-Handed weapon.
+Hash: 53E1BE55, Key: IAR_CannotSalvageQuestItems, Value: You cannot salvage Quest items.
+Hash: 35335DAC, Key: ItemCrafting_Unknown, Value: You cannot craft that item.
+Hash: 0C559820, Key: IAR_CannotSalvageEquippedItems, Value: You cannot salvage an item while it is equipped.
+Hash: 8AD5C840, Key: EventRewardNotAllowed, Value: That reward does not belong to you.
+Hash: BF687F8E, Key: PowerNotEnoughEnergy, Value: Not enough Energy to use that Skill.
+Hash: 5ECB5851, Key: PowerNotEnoughComboPoints, Value: That Skill requires Combo Points to use.
+Hash: 87EEF8C6, Key: PowerOutOfPotions, Value: You are out of Healing Potions.
+Hash: D38ED90D, Key: ItemSocketConditionRuneAlreadySocketed, Value: You cannot socket multiple Condition Runes on the same item.
+Hash: C4F995B3, Key: ItemSocketEffectRuneAlreadySocketed, Value: You cannot socket multiple Effect Runes on the same item.
+Hash: 7ED3FD52, Key: ItemSocketConditionRuneNotAllowed, Value: This is a Condition Rune. Condition Runes must be socketed above Effect Runes.
+Hash: 9AA6BA38, Key: ItemSocketEffectRuneNotAllowed, Value: This is an Effect Rune. Effect Runes must be socketed below Condition Runes.
+Hash: 37765B35, Key: CannotExtractAffixFromEssenceItem, Value: That item cannot have Aspects extracted from it.
+Hash: 966F226F, Key: CannotExtractAffixFromItem, Value: That item cannot have Aspects extracted from it.
+Hash: 08AD00E0, Key: CannotImprintAffixOnItem, Value: That item cannot have Aspects imprinted on it.
+Hash: 0350E33B, Key: CannotExtractAffixFromImprintedItem, Value: You cannot extract from items with imprinted Aspects.
+Hash: A0F66935, Key: PowerNeedCorpse, Value: That Skill requires a Corpse.
+Hash: 34CFA1CE, Key: CannotExtractAffixFromItemWithNoAffixes, Value: You cannot extract Aspects from items that have no Legendary powers.
+Hash: 3D505E68, Key: EntirePartyMustBePresent, Value: Your entire party must be present and alive to do that.
+Hash: 7D2D9D94, Key: CannotImprintItemWithNoAffixes, Value: That item has no affixes that can be replaced with Aspects.
+Hash: 90EFA517, Key: WaypointAccessError, Value: You must interact with a Waypoint in the world to access Waypoint travel.
+Hash: 48F253F4, Key: PowerTargetBadLocation, Value: That target location is invalid.
+Hash: 521FD7FC, Key: BossEncounterNotAvailable, Value: You cannot join a Boss encounter right now.
+Hash: 15B11D05, Key: LeavingPvPShrineTurnIn, Value: Leaving the ring will result in abandoning the Extraction Ritual.
+Hash: 27DC7E10, Key: ItemSelectionCancelled, Value: Item selection action has been cancelled.
+Hash: 2DF2D969, Key: VesselOfHatred_Altar_Disabled, Value: You cannot use that while Hatred's Chosen.
+Hash: C3EB48DA, Key: NoPartyMembersToSummon, Value: There are no party members to summon.
+Hash: CA63C1BA, Key: PetSpecializationLocked, Value: That Minion specialization is currently locked.
+Hash: 12B6F44F, Key: CannotExtractFromItemWithNoExtractableAffixes, Value: You cannot extract aspects from items that have no legendary powers.
+Hash: 3C022E67, Key: IAR_FullDurability, Value: That item does not need to be repaired.
+Hash: 208412E1, Key: MustImprintLegendaryOrRareItem, Value: Only Rare and Legendary items can have Aspects imprinted onto them.
+Hash: A7441E62, Key: CannotImprintAffixOnItemType, Value: You cannot imprint that Aspect on this item type.
+Hash: 162AAB27, Key: PowerRequiresWeapon, Value: That Skill requires an equipped weapon.
+Hash: 4BD4BF9B, Key: ItemCannotAddMoreThanMaxSockets, Value: That item already has the maximum number of sockets allowed.
+Hash: C0E83D7D, Key: ItemUse_RecipeLevelTooHigh, Value: You do not meet the required Level to learn that Recipe.
+Hash: B33D4334, Key: WorldTiers_PartyWarning, Value: Only the party lead can change World Tiers.
+Hash: 2F63827B, Key: ActionNotAllowedInPrologue, Value: You must complete the Prologue to do that.
+Hash: 5FB2B6AB, Key: NoLearnedMount, Value: You have not unlocked any Mounts.
+Hash: 1BD3EDAB, Key: PowerAtFullHealth, Value: You cannot use that Skill while you are at full Life.
+Hash: FA2605F2, Key: ConnectionLost, Value: Unable to perform that action while attempting to reconnect.
+Hash: 59213927, Key: ItemUse_NoItem, Value: You do not have the required item.
+Hash: FBCC6FB2, Key: InsufficientFunds_GamblingCurrency, Value: You do not have enough Obols.
+Hash: B9188DEA, Key: PowerNotEnoughEssence, Value: Not enough Essence to use that Skill.
+Hash: B0AD4E02, Key: SideQuestLimitReached, Value: You have reached the maximum number of active Side Quests.
+Hash: B128DA73, Key: IAR_ItemTypeDoesntMatch2HRangedSlot, Value: That slot can only equip a Two-Handed Ranged weapon.
+Hash: F059DC78, Key: KeyedDungeonRequiresTier2, Value: Your party must be in World Tier 3 to activate this Dungeon Key.
+Hash: F059DC79, Key: KeyedDungeonRequiresTier3, Value: Your party must be in World Tier 4 to activate this Dungeon Key.
+Hash: 86ACA19D, Key: LockedChest_GamblingCurrencyKey, Value: You need a Whispering Key to open this locked chest.
+Hash: 19780104, Key: CannotImprintClassRestrictedItem, Value: You cannot imprint items that are not for your current Class.
+Hash: ADB67E2A, Key: Pickup_Failed_Local_Coop, Value: That item cannot be picked up. {s1}'s inventory is full.
+Hash: CCA2AFBD, Key: Pickup_NoSuitableSlot_Local_Coop, Value: {s1} has no place to put that item.
+Hash: 18EE35B1, Key: Pickup_OnlyOneAllowed_Local_Coop, Value: {s1} is not allowed to have more than one of that item.
+Hash: DD86D4EE, Key: InsufficientFunds_GenericCurrency, Value: You cannot afford to unlock that.
+Hash: 07F94112, Key: SkillTree_NoPointsSpent, Value: You cannot refund a node that has no Skill Points invested.
+Hash: BF3250FC, Key: SkillTree_BreaksNodeConnection, Value: You cannot refund a node that breaks the connection to another node.
+Hash: 0358192C, Key: SkillTree_InvalidatesRootNode, Value: You cannot refund a node that is required to keep a cluster unlocked.
+Hash: EFCC1567, Key: ItemCrafting_CannotUpgradeFurther, Value: You cannot upgrade this item further.
+Hash: 0753D62A, Key: ItemCrafting_CannotUpgradeAtVendor, Value: That item cannot be upgraded at this Vendor.
+Hash: 918D9F87, Key: ItemCrafting_CannotUpgrade, Value: That item cannot be upgraded.
+Hash: 193B4BB3, Key: LeavingPvPCausesShardLoss, Value: Leaving the PvP area will cause you to lose all uncleansed Seeds of Hatred.
+Hash: FE8EF454, Key: Bnet_PartyJoin_NotFound, Value: The party you attempted to join no longer exists.
+Hash: 5B646AD8, Key: Bnet_PartyJoin_NotCrossplayCompatible, Value: Your cross-play setting is not compatible with the party you attempted to join.
+Hash: 76B59AC1, Key: Bnet_PartyJoin_NoRoom, Value: There is not enough room in that party.
+Hash: 0B8A24BF, Key: SocialWheelLeaveDungeonNotAvailable, Value: Leave Dungeon not available.
+Hash: 791B86DC, Key: PartyTownPortalNotAvailable, Value: You cannot use Town Portal until the Prologue is completed.
+Hash: 940A0A7A, Key: ClassUnavailable, Value: {c_red}Unavailable{/c}
+Hash: B23A47D0, Key: MountUpDisabled, Value: Mounts are restricted in this area.
+Hash: D8584C58, Key: WaypointNotAllowedInPrologue, Value: You cannot use Waypoints until the Prologue is completed.
+Hash: 9CA91617, Key: TownPortalNotAllowedInPrologue, Value: You cannot Town Portal until the Prologue is completed.
+Hash: E22377CB, Key: TradeChatSpamError, Value: You need to wait before you can send another message to this channel.
+Hash: 092CCE67, Key: ItemCrafting_CannotUpgradeAtCrafterGoJeweler, Value: Amulet and Rings can only be upgraded at a Jeweler.
+Hash: C8B6836F, Key: SocialWheelQuickTradeNotAvailable, Value: Trade is not available at this time.
+Hash: 1E85442E, Key: SocialWheelQuickInviteNotAvailable, Value: Party Invite is not available at this time.
+Hash: B1A11AC9, Key: SocialWheelPlayerContextMenuNotAvailable, Value: Context menu not available at this time.
+Hash: 7D488B1F, Key: SocialWheelQuickChatNotAvailable, Value: Chat is not available at this time.
+Hash: B20AF04C, Key: SocialWheelZonePVPFlagged, Value: That action is not available at this time.
+Hash: BD2BE78C, Key: SocialWheelZonePVPNonPremium, Value: A premium account is required for that action.
+Hash: 84F87A66, Key: SocialWheelZonePVPNotInZone, Value: You must be in a PvP territory to perform that action.
+Hash: 92CF17FA, Key: BlockedSubzone, Value: You will be teleported back if you continue.
+Hash: 1D84B299, Key: Pickup_AtCurrencyCap_Local_Coop, Value: {s1} cannot carry the additional {s2}.
+Hash: 29717241, Key: ParagonBoard_RefundNodeBreaksConnection, Value: You cannot refund a node that breaks the connection to another node.
+Hash: 7D895A80, Key: ParagonBoard_UnequipBoardContainingPurchasedNodes, Value: You must refund all nodes on this board before you can detach it.
+Hash: D4DCC460, Key: IAR_ItemCannotBeStashed, Value: That item cannot be stored in your Stash.
+Hash: 7700031F, Key: Pickup_AtCurrencyCap, Value: You cannot carry the additional {s1}.
+Hash: 79675BD3, Key: ContentBlockedDescription, Value: You cannot view this user generated content.
+Hash: 92003D69, Key: ItemUse_AlreadyAtMaxHealthAndResource, Value: You are already at full Life and Resource.
+Hash: 20F790BB, Key: ItemCrafting_CannotUpgradeAtCrafterGoBlacksmith, Value: Armor and Weapons can only be upgraded at a Blacksmith.
+Hash: CE26161D, Key: ItemUse_TransmogAlreadyUnlocked, Value: You already own that cosmetic.
+Hash: 835CE7FE, Key: CannotDoInCoop, Value: You cannot do that in shared screen play. 
+Hash: 712D1BB5, Key: CannotEnchantItemType, Value: You cannot enchant items of this type.
+Hash: 9BF157FC, Key: CannotEnchantItemQuality, Value: You cannot enchant items of this quality.
+Hash: 92913263, Key: IAR_CannotSalvageAllNormal, Value: You have no Common items to salvage.
+Hash: C03188C7, Key: ClanNoStream, Value: There was a problem sending the clan chat message.
+Hash: 9130D89C, Key: CannotDoWhenCoOpBusy, Value: You cannot do that while {s1} is busy. 
+Hash: 43F39CFF, Key: ItemCannotHaveSocket, Value: That item cannot have a socket.
+Hash: 3745A3DD, Key: ParagonBoard_RefundNodeNoPointsSpent, Value: You cannot refund a node that has not been unlocked.
+Hash: 51B8F8A0, Key: PinnedLockedDungeon, Value: You cannot pin a locked dungeon.
+Hash: 9CDB6FBC, Key: SocialWheelZonePVPFlaggedNeedCleansing, Value: You are already marked. Find the Altar of Cleansing {icon:Marker_PVPRemoveHostile, 1} in town to remove the Bloodmark.
+Hash: 9B05F960, Key: WorldTierUnavailable, Value: World Tier is unavailable due to outstanding party invites.
+Hash: DE1F2CCF, Key: PVPAltarCooldown, Value: Altar of Extraction is on cooldown.
+Hash: BDACCB62, Key: QuestItemRequired, Value: You don't have the item to do that.
+Hash: 571D3A30, Key: ItemRequired, Value: You don't have the item to do that.
+Hash: 5837AE45, Key: BnetServerRestart, Value: Server restarting for updates in {s1}.
+Hash: 3709EC7C, Key: BnetServerShutdown, Value: Server shutting down in {s1}.
+Hash: 0501CB4E, Key: SocialFriendsFailedToLoad, Value: {c_red}Failed to load friends list.{/c}
+Hash: 5A17102E, Key: ContentBlockedClanName, Value: {c_red}Content Blocked{/c}
+Hash: 04B08233, Key: ContentNotAllowedClanName, Value: {c_red}Content Blocked{/c}
+Hash: CEF36D88, Key: IAR_ItemAffixBlocklisted, Value: That item has a blocklisted affix and cannot be equipped.
+Hash: F059DC7A, Key: KeyedDungeonRequiresTier4, Value: Your party must be in World Tier 5 to activate this Dungeon Key.
+Hash: 050EBCFD, Key: ItemCrafting_HasNotUnlockedNextUpgradeLevel, Value: You are not high enough Level to upgrade this item.
+Hash: E4A36638, Key: RareMalignantHeartLimit, Value: You cannot have more than 1 Wrathful Malignant Heart equipped.
+Hash: 88161BE8, Key: ItemSocketMalignantColorMismatch, Value: There is no eligible socket in the item. You can only insert a matching heart or a Wrathful heart.
+Hash: EFAC6EE2, Key: ItemSocketCanOnlyHaveOneWrathfulOrb, Value: [PH] You cannot equip more than 1 Wrathful Malignant Orb
+Hash: EDEC7731, Key: S01_MalignantChoice_Defensive, Value: You must craft a Brutal Malignant Invoker to proceed.
+Hash: B818D5CC, Key: S01_MalignantChoice_Powerful, Value: You must craft a Wrathful Malignant Invoker to proceed.
+Hash: DB87271D, Key: S01_MalignantChoice_Offensive, Value: You must craft a Vicious Malignant Invoker to proceed.
+Hash: CF36FF6C, Key: S01_MalignantChoice_Utility, Value: You must craft a Devious Malignant Invoker to proceed.
+Hash: 08CC6966, Key: S01_Varshan, Value: You must craft an Invoker of Varshan to proceed.
+Hash: 0244CDC3, Key: S01_Varshan_WT3, Value: You must craft a Foul Invoker of Varshan to proceed.
+Hash: 0244CDC4, Key: S01_Varshan_WT4, Value: You must craft a Tormented Invoker of Varshan to proceed.
+Hash: D1237283, Key: CannotUnsocketHeart, Value: A malignant heart can not be unsocketed. It can only be replaced with another heart.
+Hash: 05D94C08, Key: CannotReplaceGemWithHeart, Value: You cannot replace a socketed gem with hearts. See the Jeweler to unsocket the Gem first.
+Hash: 45B1D659, Key: CannotSummonBoss, Value: You must defeat the boss before summoning it again.
+Hash: 7BCA9E3F, Key: S2_Vampzone_BloodStone_Altar, Value: Requires a Glowing Blood Stone to operate
+Hash: 6D38B930, Key: S2_Vampzone_LockedVampireChest, Value: You need a Seeker Key to open this.
+Hash: F7F1F1E1, Key: S2_Vampzone_SanguineAltar, Value: Requires 15 Blood Lures to operate
+Hash: DDFB3393, Key: IAR_CannotSalvageAllScrap, Value: You have no scrap to salvage.
+Hash: 5144391B, Key: S02_BloodSealLocked, Value: Cannot equip locked Vampiric Power.
+Hash: FC8FB790, Key: S02_BloodSealCannotEquip, Value: Cannot equip this Vampiric Power.
+Hash: D29FF6C8, Key: S02_BloodSealAlreadyEquipped, Value: This Vampiric Power is already equipped.
+Hash: 9D8A72E2, Key: S02_InsufficientFunds_BloodSealUpgradeCurrency, Value: You do not have enough Potent Blood.
+Hash: 1FAAFA0C, Key: S2_Vampzone_BloodLure_Pedestal, Value: Requires 50 Blood Lures to operate
+Hash: EC370D53, Key: IAR_CannotSalvageLocked, Value: You cannot salvage a favorited item.
+Hash: D08263BD, Key: ItemCannotBeSoldLocked, Value: Favorited items cannot be sold.
+Hash: 55F1584A, Key: ItemSocketLocked, Value: You cannot socket favorited items
+Hash: E435B359, Key: ItemCannotBeDroppedLocked, Value: Favorited items cannot be dropped.
+Hash: D29FA894, Key: CannotTradeItemLocked, Value: Favorited items cannot be traded.
+Hash: 5473774D, Key: ItemUse_Locked, Value: You cannot use favorited items.
+Hash: 99FBB4F3, Key: CannotExtractFromItemLocked, Value: Cannot extract from a favorited item.
+Hash: 863687F9, Key: IAR_CannotSalvageAllCrudeGems, Value: You have no Crude Gems to salvage.
+Hash: ACD028A3, Key: IAR_CannotSalvageAllChippedGems, Value: You have no Chipped Gems to salvage.
+Hash: 668A1F37, Key: IAR_CannotSalvageAllStandardGems, Value: You have no Standard Gems to salvage.
+Hash: 7104E287, Key: IAR_CannotSalvageAllFlawlessGems, Value: You have no Flawless Gems to salvage.
+Hash: C223CD0D, Key: IAR_CannotSalvageAllRoyalGems, Value: You have no Royal Gems to salvage. 
+Hash: 1DF94E26, Key: IAR_CannotSalvageAllGems, Value: You have no Gems to salvage.
+Hash: 556C18F1, Key: InsufficientFunds_Currency, Value: You cannot afford this item.
+Hash: 6FC3D816, Key: S02_MaxArmorPacts, Value: This item cannot have more Pacts added.
+Hash: 4D7F1D8A, Key: S02_CannotAddPactsToNonArmor, Value: Can only add Pacts to armor.
+Hash: D15A6521, Key: S02_CannotRemoveArmorPacts, Value: No Pacts to remove on this item.
+Hash: D0158979, Key: S2_Vampzone_LockedWell, Value: Requires 15 Blood Lures to operate
+Hash: 83E65854, Key: ObjectInUseByAnotherPlayer, Value: Object is in use by another player
+Hash: DA1D949D, Key: IAR_CannotSalvageConsumables, Value: You cannot salvage Consumable items.
+Hash: 2E94AC34, Key: IAR_CannotSalvageAspects, Value: You cannot salvage Aspects.
+Hash: AD1FD18D, Key: CannotPortalDuringPartySummon, Value: Cannot use a portal while being summoned by a party member.
+Hash: 17912A4C, Key: WithdrawOnly, Value: You cannot store item in this stash tab because it's withdraw only.
+Hash: E09B6911, Key: ItemCrafting_MissingReagents_Exchange, Value: You do not have enough materials to exchange this item.
+Hash: 9F085CF3, Key: ParagonBoard_UnequipBoardCannotAfford, Value: You do not have enough gold to unequip this board.
+Hash: 609FA061, Key: ParagonBoard_BoardCannotBeUnequipped, Value: [PH]This paragon board cannot be unequipped.
+Hash: 75EFDD1F, Key: S03_LBD_Rift_ScoreChestLocked, Value: A key is required to open this chest.
+Hash: 394F3582, Key: CannotDoWhileLocalCoopPlayerIsDead, Value: Can't do this while {s1} is dead
+Hash: 20A6623B, Key: SkillTree_RespecModeNoPendingOperations, Value: You have no changes to confirm
+Hash: 083FCD6C, Key: SkillTree_RespecModeInvalidTree, Value: You have broken paths in the skill tree
+Hash: 0BBD99C7, Key: S03_Attunement_InsufficientPearls, Value: A Pearl of Warding is required to receive Zoltun's Warding.
+Hash: 103E1D7B, Key: CannotDoWhileTraverse, Value: You cannot travel whilst traversing. 
+Hash: EAF5A962, Key: Trial_PartyMemberStopped, Value: A party member stopped the Challenge Rift
+Hash: 7798D2D0, Key: Trial_PartySizeChanged, Value: The Challenge Rift stopped because the party size changed
+Hash: BB80C539, Key: ChallengerRiftCanceled, Value: You have abandoned your Trial.
+Hash: 78F46D43, Key: ChallengerRiftCannotChangeBuild, Value: You cannot adjust your skill points, class specializations, Paragon points, or equipment at this time.
+Hash: 9FD87513, Key: ChallengerRiftRequiredTier4, Value: Your party must be in World Tier 4 to initiate or join Trials.
+Hash: A01340BE, Key: WrongSlotErrorMessage, Value: That stone is the wrong type for this slot.
+Hash: 70DE088A, Key: IAR_CannotSalvageAllJunkSigil, Value: You have no sigils Marked as Junk to salvage.
+Hash: 425BE9EF, Key: SkillTree_RefundAllNoPointsSpent, Value: You have no nodes to refund
+Hash: B3F4BC30, Key: ParagonBoard_RefundAllNoPointsSpent, Value: You have no nodes to refund
+Hash: D3E807FD, Key: KeyedDungeonInsideNMD, Value: You can only use that item outside of this Dungeon.
+Hash: 962689D1, Key: Helltide_Summon_Lock, Value: You do not have enough Baneful Hearts.
+Hash: 81909EB2, Key: ItemUse_RecipeRarityTooLow, Value: A more powerful Tempering Recipe is already known.
+Hash: E92BACB3, Key: Temper_GenericError, Value: You cannot Temper this item.
+Hash: 45955F2A, Key: Temper_WrongItemType, Value: The selected Tempering Recipe cannot be used on this item type.
+Hash: 3A0E38F0, Key: Temper_LegacyItem, Value: Legacy items cannot be Tempered.
+Hash: 6B101EED, Key: Temper_UnsupportedItemQuality, Value: Only Rare and Legendary items can be Tempered.
+Hash: 77757DD4, Key: Temper_ItemNotEquippable, Value: Only equippable items can be Tempered.
+Hash: 191C7DBB, Key: Temper_MaxCount, Value: This item has reached its Temper Reroll limit.
+Hash: D7E20035, Key: SocialWheelMountLocked, Value: You have not unlocked any Mounts.
+Hash: EC631FFC, Key: SocialWheelTownPortalLocked, Value: Town Portal not Available.
+Hash: 8925D4F5, Key: SocialWheelMountNotAvailable, Value: Mounts are restricted in this area.
+Hash: 65321B4E, Key: PowerUnusableSitting, Value: You cannot use that Skill while sitting.
+Hash: C80D4A7D, Key: Temper_CannotRerollCategory, Value: This item cannot reroll affixes with the selected recipe.
+Hash: 039353E4, Key: Masterwork_InvalidItem, Value: You cannot Masterwork this item.
+Hash: DC5C7E3F, Key: BSK_WaveCountTooLow, Value: Clear more waves to unlock this chest.
+Hash: 1C2156B5, Key: StashNotAvailable, Value: Stash is currently not available

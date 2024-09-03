@@ -1,0 +1,3 @@
+Hash: 59F2E8AC, Key: Line1.54219, Value: Slow and steady. Got the lid. I see it, inside.
+Hash: F3E7622E, Key: Line3.54219, Value: Strange, it’s...cold? Shit! Help, help! Argh--
+Hash: 62F0C85B, Key: VoiceDir3.54219, Value: noticing something is amiss

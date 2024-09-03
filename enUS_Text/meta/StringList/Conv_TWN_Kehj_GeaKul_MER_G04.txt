@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you have for sale?"
+Hash: 8ED9AEA0, Key: Line1.125DE8, Value: Ah, a traveler! Healthy, finely garbed, and with a keen eye for quality. Do I have the goods for you!
+Hash: 675D5862, Key: Line3.125DE8, Value: Taste the western continent! Spices, perfumes, liquors, and furs from all over Sanctuary!

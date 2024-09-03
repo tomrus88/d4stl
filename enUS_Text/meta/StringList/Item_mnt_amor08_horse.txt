@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Steppe Barding
+Hash: A646FFA4, Key: Description, Value: A fur-lined saddle and armor of leather and iron plates - good protection for an arid region.

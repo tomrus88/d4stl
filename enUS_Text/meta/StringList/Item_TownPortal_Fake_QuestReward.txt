@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Town Portal
+Hash: A646FFA4, Key: Description, Value: Can be used to return to waypoints.

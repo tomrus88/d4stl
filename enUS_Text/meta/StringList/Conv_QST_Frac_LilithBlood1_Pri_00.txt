@@ -1,0 +1,2 @@
+Hash: 8F20EA94, Key: Line1.163AA1, Value: You—Wanderer! I know what you are!
+Hash: DF571661, Key: VoiceDir1.163AA1, Value: spiteful, figuratively spitting at the player's feet

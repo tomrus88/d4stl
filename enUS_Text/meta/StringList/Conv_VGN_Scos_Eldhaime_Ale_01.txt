@@ -1,0 +1,7 @@
+Hash: 8EFEAC21, Key: Line1.1481FF, Value: (clears throat) And what is the problem, exactly?
+Hash: DF34D7EE, Key: VoiceDir1.1481FF, Value: Not angry, but just slightly annoyed. Doesn't want to deal with this.
+Hash: 678252FA, Key: Line3.148202, Value: Oh, the Knights Penitent in Cerrigar destroyed our ale supply. Dumped it right out into the dirt. Said it was bad for the soul, hmph.
+Hash: B7B87EC7, Key: VoiceDir3.148202, Value: Annoyed
+Hash: 4005FFA5, Key: Line5.1481FF, Value: It is bad for the soul.
+Hash: 1889A67E, Key: Line7.148202, Value: For yours maybe. Mine is damn thirsty.
+Hash: F10D5329, Key: Line9.1481FF, Value: Oh, fine. Talk to the quartermaster and he will provide compensation.

@@ -1,0 +1,33 @@
+Hash: 42AED8ED, Key: Character, Value: Character
+Hash: F1D03167, Key: FriendsList, Value: Friends
+Hash: 80A3F4CA, Key: EscapeToClose, Value: [ESC] Close
+Hash: 9BCD3A82, Key: Invites, Value: Invites({s1})
+Hash: 86CEC5C4, Key: InvitesTitle, Value: Invites
+Hash: 003821DE, Key: Clan, Value: Clan
+Hash: 0821DD90, Key: Party, Value: Party
+Hash: 7E64E87C, Key: MKHotKeyNavLeft, Value: [Q]
+Hash: 4B70BFAF, Key: MKHotKeyNavRight, Value: [E]
+Hash: 64862CAB, Key: ScreenLeft, Value: {hotkey:SCREEN_LEFT}
+Hash: F5BA89BE, Key: ScreenRight, Value: {hotkey:SCREEN_RIGHT}
+Hash: 10157CE5, Key: Quests, Value: Quests
+Hash: EF519D3F, Key: Map & Journal, Value: Map
+Hash: 140CEBD2, Key: Skills, Value: Skills
+Hash: CB83887B, Key: Talents, Value: Talents
+Hash: 71CBC43F, Key: Collections, Value: Collections
+Hash: 003A261A, Key: Game, Value: Game
+Hash: 9F2F8921, Key: RecentPlayers, Value: Recent Players
+Hash: 1451F55B, Key: Social, Value: Social
+Hash: 1B6FC098, Key: LocalPlayer, Value: {s1} in menus
+Hash: 1A32E5B0, Key: NecroArmy, Value: Book of the Dead
+Hash: 0845FC5F, Key: Ranks, Value: Paragon
+Hash: A91B7703, Key: WeaponExpertise, Value: Expertise
+Hash: EB0F5D4C, Key: Journey, Value: Journey
+Hash: 0040D8BA, Key: Shop, Value: Shop
+Hash: 040FDF73, Key: DruidPassive, Value: Spirit Boons
+Hash: 2A97D396, Key: Abilities, Value: Abilities
+Hash: 6446A072, Key: Specializations, Value: Specializations
+Hash: 0862852D, Key: Store, Value: Store
+Hash: 139C13E9, Key: Season, Value: Season
+Hash: 3AB872D3, Key: IndicatorAnniversary_Text, Value: Anniversary
+Hash: 0FC1B6A4, Key: IndicatorPreOrder_Text, Value: Pre-purchase
+Hash: 5C53B6C6, Key: NotInClan, Value: Clan (Not in a clan)

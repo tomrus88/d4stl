@@ -1,0 +1,23 @@
+Hash: 003DFCC1, Key: Name, Value: Heart of Mold
+Hash: 0871A46B, Key: Toast, Value: As desperation grows, a more effective remedy for gut rot is needed.
+Hash: D53BFF05, Key: Phase0Description, Value: Yolanda has asked me to take the head of the most recent hunter trophy nailed to the gate of Wejinhani. It should make a suitable offering to Zurke, the witch. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Take the head from the Grotesque Trophy
+Hash: C9FCD1EA, Key: Phase5Description, Value: I must travel to the clearing in the Corpsewail Deluge where I hope to commune with the witch Zurke. 
+Hash: B8A227EA, Key: Callback4Header, Value: Find the clearing in the Corpsewail Deluge
+Hash: F4A9EC5A, Key: Phase14Description, Value: I have made the offering and lit the torches. Now I must speak with the witch Zurke. 
+Hash: 1F9943DA, Key: Callback13Header, Value: Speak with Zurke
+Hash: E96ABF3F, Key: Phase19Description, Value: I should speak to Yolanda about the next steps of how to treat gut rot. She seems to have gotten worse. 
+Hash: A07C739F, Key: Callback18Header, Value: Speak with Yolanda
+Hash: 38C9C8C0, Key: Phase29Description, Value: Zurke has asked me to slay a snake known as Nuroth the Vile Fang. Once I kill him, I need to take his eye and return to Zurke. 
+Hash: D0A0975E, Key: Callback53Header, Value: Slay Nuroth the Vile Fang and claim his {ITEM}
+Hash: 3181449A, Key: Phase32Description, Value: I must travel to the clearing in the Corpsewail Deluge where I hope to commune with the witch Zurke. I should place the offering and light the nearby torches. 
+Hash: 5E28741A, Key: Callback31Header, Value: Place the Grotesque Head in the Offering Bowl
+Hash: BCE26C3F, Key: Callback63Header, Value: Light the Mossy Torches: {DONE_OVER_NEEDED}
+Hash: 4FECF0BA, Key: Phase41Description, Value: Zurke has asked me to place the eye in the animal corpse he has provided. I should have a cure after the animal reacts. 
+Hash: FD700C3A, Key: Callback40Header, Value: Place the Oversized Snake Eyes
+Hash: E2C708DD, Key: Phase44Description, Value: Zurke has given me a moldy heart and instructed me to return to Wejinhani to heal those suffering from gut rot. I hope Yolanda has enough time for the remedy to help. 
+Hash: E45EC27D, Key: Callback43Header, Value: Bring the Heart of Mold to Yolanda
+Hash: D787DBC2, Key: Phase49Description, Value: Zurke has asked me to slay a snake known as Nuroth the Vile Fang. Once I kill him, I need to take his eye and return to Zurke. 
+Hash: 6541F242, Key: Callback48Header, Value: Return to Zurke
+Hash: 940CCD20, Key: Phase56Description, Value: Zurke has asked me to place the eye in the animal corpse he has provided. I should have a cure after the animal reacts. 
+Hash: D5F3B5FC, Key: Callback60Header, Value: Take the {ITEM}

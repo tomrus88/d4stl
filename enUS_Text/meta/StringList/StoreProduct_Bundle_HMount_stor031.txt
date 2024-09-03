@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Kehjistan Merchant
+Hash: A646FFA4, Key: Description, Value: The merchants of Kehjistan are known to travel across most of the Eastern Continent. With mounts first bred on the plains west of Dahlgur Oasis, the merchants always return to the fields when visiting Kehjistan proper.
+Hash: 083EE0CE, Key: Quote, Value: All roads lead to Kehjistan.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

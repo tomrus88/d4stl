@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Demon's Heart
+Hash: A646FFA4, Key: Description, Value: Some believe that to eat the heart of their enemies is to absorb their power. But to consume the flesh of the infernal is to transcend the mortal and become something different. 
+Hash: 083EE0CE, Key: Quote, Value: Where evil lies.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

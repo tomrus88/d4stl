@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Of Lambs and Wolves
+Hash: 92C33198, Key: Phase12Description, Value: This seemingly innocent villager just recited part of Rathma's Prophecy. I'd say that demands an explanation.
+Hash: 85A4CA58, Key: Callback11Header, Value: Question Locran
+Hash: F2C9CEFE, Key: Callback26Header, Value: Enter the House of the Family
+Hash: DF0BA3DF, Key: Callback36Header, Value: Respond to the voice through the door
+Hash: 1EF99359, Key: Phase40Description, Value: Locran said his "mother" taught him the words of the prophecy... and he has invited me to supper with his "family" at their house nearby. Whatever is going on there, I'm not sure I'll like it.
+Hash: C5FA5A22, Key: Callback39Header, Value: Visit Locran's family at their house
+Hash: 9F4BFA3B, Key: Phase51Description, Value: I've heard word of unrest in Zarbinzet. The Crusaders have made arrests, searching for "Triune collaborators." It could be paranoia, but I should speak to the captain there. These fears may have merit.
+Hash: D0A0975E, Key: Callback53Header, Value: Speak to Captain Cireska
+Hash: 164945C6, Key: Callback88Header, Value: Approach the reinforced door

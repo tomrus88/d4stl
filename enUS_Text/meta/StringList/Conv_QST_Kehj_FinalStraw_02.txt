@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It's too dangerous to be out here alone."
+Hash: 18585A80, Key: Line7.10B59B, Value: I can’t leave! My Neema disappeared while I slept. I’ve stayed here, hoping she would return, but no luck so far. She’s all I have left.
+Hash: 688E864D, Key: VoiceDir7.10B59B, Value: Depressed. Dejected. Weary. 
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: What does she look like?
+Hash: 4534C36B, Key: Line11.10B59B, Value: Brown eyes, sandy fur, prefers oats. What’s with the look? Most camels love oats.
+Hash: 1DB86D2D, Key: Line13.10B59B, Value: Take a bag over there in case you find her. She won't follow a stranger unless you have something to eat.

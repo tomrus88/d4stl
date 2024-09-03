@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Plunging Darkness
+Hash: 003892BF, Key: Desc, Value: {c_important}Bone Prison{/c} spawns a pool of {c_important}Blight{/c} that deals {c_random}[Affix_Value_1|% x|]{/c} bonus damage over {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Bone Prison{/c} spawns a pool of {c_important}Blight{/c} that deals {c_random}[Affix_Value_1|% x|]{/c} bonus damage.

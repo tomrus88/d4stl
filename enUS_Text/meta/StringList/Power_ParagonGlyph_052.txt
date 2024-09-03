@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Non-{c_important}Basic{/c} and Non-{c_important}Core{/c} Skills deal {c_number}[{SF_0}*100|x%|]{/c} increased damage.

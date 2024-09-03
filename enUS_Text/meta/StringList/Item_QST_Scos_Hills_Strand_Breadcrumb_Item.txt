@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bag of Foodstuffs
+Hash: F5C7BC0A, Key: Flavor, Value: A burlap sack filled with loaves of bread, meats, cheese, and other food. Whoever filled this sack did so with love for its intended recipients.

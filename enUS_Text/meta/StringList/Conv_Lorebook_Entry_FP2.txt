@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mountain Hermit
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Short fangs. Young. Freshly turned. An easy kill.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Clinical. Notes during an autopsy.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Further south than the others. They are spreading.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Clininal, but concerned for last sentence.

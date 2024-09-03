@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_bonus}Reduce Cooldowns on Kill{/c}
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Killing a monster reduces your cooldowns by .25 seconds.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Killing a monster reduces your cooldowns by .2 seconds.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Killing a monster reduces your cooldowns by .15 seconds.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Legendary Hero
+Hash: 003892BF, Key: Desc, Value: Equip a Legendary or higher quality item in every slot.

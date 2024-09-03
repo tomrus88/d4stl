@@ -1,0 +1,438 @@
+Hash: 086EAA02, Key: Title, Value: Stat Details
+Hash: 2850C944, Key: CategoryOffense, Value: Offensive
+Hash: BE9B8FCB, Key: CategoryDefenses, Value: Defensive
+Hash: C1D3D27E, Key: CategoryLife, Value: Life
+Hash: C9410B66, Key: CategoryResource, Value: Resource
+Hash: 175ABFFE, Key: CategoryAdventurer, Value: Adventure
+Hash: 16EE9F69, Key: DamageIncrease, Value: Damage Increase
+Hash: 8CB073AE, Key: AttacksPerSecond, Value: Attacks per Second
+Hash: ED137ED8, Key: CritDamageBonus, Value: Critical Strike Damage
+Hash: D99A51DB, Key: CritChanceBonus, Value: Critical Strike Chance
+Hash: B82C063F, Key: BlockAmount, Value: Shield Block Value
+Hash: B51E3A45, Key: DodgeChance, Value: Dodge Chance
+Hash: 12B1D1AC, Key: DamageReduction, Value: Damage Reduction
+Hash: 003D0520, Key: Life, Value: Maximum Life
+Hash: D27B5FC3, Key: LifePerSecond, Value: Life per Second
+Hash: AB2F9199, Key: LifeSteal, Value: Life Steal
+Hash: 2C5F0013, Key: LifePerKill, Value: Life per Kill
+Hash: 091A1A0C, Key: LifePerHit, Value: Life per Hit
+Hash: 0F551C7C, Key: MovementSpeed, Value: Movement Speed
+Hash: 72357067, Key: GoldFind, Value: Gold Find
+Hash: 12C31822, Key: MagicFind, Value: Magic Find
+Hash: 634C6825, Key: FuryGain, Value: Fury Regeneration/Second
+Hash: F2FAEA9A, Key: SpiritGain, Value: Spirit Regeneration/Second
+Hash: CA858C9C, Key: ManaGain, Value: Mana Regeneration/Second
+Hash: 1246EC06, Key: ArcanumGain, Value: Arcane Regeneration/Second
+Hash: 7B270AF3, Key: TipDamageBonus, Value: {c_label}All damage increased by: {c_number}{s1}{/c}{/c}
+{icon:bullet} Can be increased by skills, items, and attack.
+
+Hash: 428ACCF6, Key: TipAttackSpeed, Value: {c_label}Attacks per Second: {c_number}{s1}{/c}{/c}
+{icon:bullet} Based on weapon speed.
+{icon:bullet} Can be increased by skills and items.
+
+Hash: 89D4EE21, Key: TipCritChance, Value: {c_label}Critical Strike Chance: {c_number}{s1}{/c}{/c}
+{icon:bullet} Critical strikes deal {c_number}{s2}{/c} bonus damage.
+{icon:bullet} Can be increased by skills and items.
+Hash: 89B9E38C, Key: TipBlockAmount, Value: {c_label}Shield Block Value: {c_number}{s1}{/c}{/c}
+{icon:bullet} The amount of damage prevented whenever an attack is blocked.
+{icon:bullet} Shield block value can be increased by skills and items.
+
+Hash: 86AC1792, Key: TipDodgeChance, Value: {c_label}Dodge Chance: {c_number}{s1}{/c}{/c}
+{icon:bullet} The chance to dodge incoming attacks.
+{icon:bullet} Dodged attacks do no damage.
+{icon:bullet} Dodge chance can be increased by skills and items.
+Hash: 87578D79, Key: TipDamageReduction, Value: {c_label}Damage Reduction: {c_number}{s1}{/c}{/c}
+{icon:bullet} Damage reduction can be increased with Armor.
+
+Hash: DE78EF0D, Key: TipLife, Value: {c_label}Maximum Life: {c_number}{s2}{/c}{/c}
+{icon:bullet} If you lose all your Life, you die. 
+{icon:bullet} Life can be increased by skills and items.
+
+Hash: 51016E7E, Key: TipLifeRegen, Value: {c_label}Life Regen per Second: {c_number}{s1}{/c}{/c}
+{icon:bullet} The amount of Life recovered each second.
+Hash: FDECDD60, Key: TipLifePerKill, Value: {c_label}Life per Kill: {c_number}{s1}{/c}{/c}
+{icon:bullet} You will recover {c_number}{s2}{/c} Life for every enemy you kill.
+{icon:bullet} Life per Kill can be increased by skills and items.
+
+Hash: 6C8B01B9, Key: TipLifePerHit, Value: {c_label}Life per Hit: {c_number}{s1}{/c}{/c}
+{icon:bullet} You will recover {c_number}{s2}{/c} Life for every enemy you hit.
+{icon:bullet} Life per Hit can be increased by skills and items.
+
+Hash: 511BB7A6, Key: TipLifeSteal, Value: {c_label}Life Steal: {c_number}{s1}{/c}{/c}
+{icon:bullet} {c_number}{s2}{/c} of damage you cause will be recovered as Life.
+{icon:bullet} Life Steal is less effective when you are higher Level.
+   {icon:bullet} At Level {c_number}60{/c}, Life Steal gains a {c_number}0.10x{/c} multiplier.
+   {icon:bullet} At Level {c_number}70{/c}, Life Steal no longer functions.
+{icon:bullet} Life Steal can be increased by skills and items.
+Hash: 0F9A0A37, Key: HatredGain, Value: Hatred Regeneration/Second
+Hash: 28636A43, Key: DisciplineGain, Value: Discipline Regeneration/Second
+Hash: B1893023, Key: MaxMana, Value: Maximum Mana
+Hash: D67610CD, Key: MaxArcanum, Value: Maximum Arcane Power
+Hash: 2CEF99BE, Key: MaxHatred, Value: Maximum Hatred
+Hash: B185AF2C, Key: MaxFury, Value: Maximum Fury
+Hash: 19BAF6CA, Key: MaxDiscipline, Value: Maximum Discipline
+Hash: 47A1C0A1, Key: MaxSpirit, Value: Maximum Spirit
+Hash: 61B93AA5, Key: TipCritDamageBonus, Value: {c_label}Critical Strike Damage Bonus: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+{icon:bullet} Capped at {c_number}{s2}{/c} against other players.
+Hash: 7BCF8109, Key: TipMovementSpeed, Value: {c_label}Movement Speed:{/c} {c_number}{s1}{/c}
+{icon:bullet} You run at {c_number}{s2}{/c} of base movement speed.
+{icon:bullet} You may have a maximum of {c_number}+25.00%{/c} movement speed from items.
+Hash: 7EFE88D4, Key: TipGoldFind, Value: {c_label}Gold Find: {/c}{c_number}{s1}{/c}
+{icon:bullet} Increases gold found on monsters.
+Hash: B8AF3E2F, Key: TipMagicFind, Value: {c_label}Magic Find: {/c}{c_number}{s1}{/c}
+{icon:bullet} Increases your chance to find higher-quality items.
+{icon:bullet} This increase is diminished for rare and legendary and set items.
+{icon:bullet} You may have a maximum of {c_number}+300.00%{/c} Magic Find.
+Hash: AA2A6EF0, Key: TipMaxMana, Value: {c_label}Maximum Mana: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: AA26EDF9, Key: TipMaxFury, Value: {c_label}Maximum Fury: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: 39E6F87A, Key: TipMaxArcanum, Value: {c_label}Maximum Arcane Power: {c_number}{s1}{/c}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: ED8DE6AE, Key: TipMaxSpirit, Value: {c_label}Maximum Spirit: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: D2DBBFCB, Key: TipMaxHatred, Value: {c_label}Maximum Hatred: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: 86355B57, Key: TipMaxDiscipline, Value: {c_label}Maximum Discipline: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: D74EA509, Key: TipManaGain, Value: {c_label}Mana Regenerated per Second: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: E3D4C953, Key: TipArcanumGain, Value: {c_label}Arcane Power Regenerated per Second: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: 730AF1E4, Key: TipHatredGain, Value: {c_label}Hatred Regenerated per Second: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: 242A6070, Key: TipDisciplineGain, Value: {c_label}Discipline Regenerated per Second: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: F0849C47, Key: DPSMainHand, Value: DPS Main Hand
+Hash: 0203C03D, Key: DPSOffHand, Value: DPS Off-Hand
+Hash: 9D9BC973, Key: ColdResistance, Value: Cold Resistance
+Hash: 1E3322D7, Key: FireResistance, Value: Fire Resistance
+Hash: 89F71515, Key: LightningResistance, Value: Lightning Resistance
+Hash: 2A4B9F09, Key: PoisonResistance, Value: Poison Resistance
+Hash: 07A61417, Key: ShadowResistance, Value: Shadow Resistance
+Hash: 623FB753, Key: CCReduction, Value: Crowd Control Reduction
+Hash: 091F7A97, Key: MissileDefenseBonus, Value: Missile Damage Reduction
+Hash: 441F48E9, Key: MeleeDefenseBonus, Value: Melee Damage Reduction
+Hash: 4FC23762, Key: LifeFromAffix, Value: Total Life Bonus
+Hash: 4BFF45E6, Key: HealthGlobeBonus, Value: Health Globe Healing Bonus
+Hash: 82C0888F, Key: BonusXP, Value: Bonus Experience
+Hash: 7DFC70A2, Key: BonusXPPerKill, Value: Bonus Experience per Kill
+Hash: 0313A1E0, Key: TotalMovementSpeed, Value: Total Movement Speed
+Hash: C37452F8, Key: GlobeRadiusBonus, Value: Bonus to Gold/Globe Radius
+Hash: 566BD247, Key: TipSpiritGain, Value: {c_label}Spirit Regenerated per Second: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: 23D9B5FB, Key: DamageIncreaseSkills, Value: Damage Increased by Skills
+Hash: E85B2105, Key: TipDamageBonusSkills, Value: {c_label}All damage increased by: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increased by your skills.
+
+Hash: 33CD94A0, Key: TipCCReduction, Value: {c_label}Crowd Control Reduction:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces the duration of control impairing effects, including Stun, Slow, Freeze, Fear and Charm.
+Hash: 8EA854E4, Key: TipMissileDefenseBonus, Value: {c_label}Missile Damage Reduction:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces damage from missile attacks.
+Hash: 79232BF6, Key: TipMeleeDefenseBonus, Value: {c_label}Melee Damage Reduction:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces damage from melee attacks.
+Hash: BC3C9BEF, Key: TipLifeFromAffix, Value: {c_label}Total Life Bonus:{/c} {c_number}{s1}{/c}
+{icon:bullet} Your overall Life is increased by an additional {c_number}{s2}{/c}.
+Hash: 555C7B53, Key: TipHealthGlobeBonus, Value: {c_label}Health Globe Healing Bonus:{/c} {c_number}{s1}{/c}
+{icon:bullet} Picking up a health globe or using a potion heals you for additional Life.
+Hash: CCD18865, Key: TipGlobeRadiusBonus, Value: {c_label}Bonus to Gold/Globe Radius:{/c} {c_number}{s1}{/c} yards
+{icon:bullet} You will automatically pick up gold and health globes from farther away.
+Hash: 7B61C75C, Key: TipBonusXP, Value: {c_label}Bonus Experience: {c_number}{s1}{/c}{/c}
+{icon:bullet} Experience gains from killing monsters increased by {c_number}{s2}{/c}.
+{icon:bullet} Multiplier: {c_number}{s3}x{/c}. This multiplier is granted in multiplayer games.
+Hash: 79C366CF, Key: TipBonusXPPerKill, Value: {c_label}Bonus Experience per Kill: {/c}{c_number}{s1}{/c}
+{icon:bullet} Every monster killed grants up to {c_number}{s2}{/c} additional experience.
+Hash: F0CBA0CE, Key: ThornsFixed, Value: Thorns
+Hash: C2597E1B, Key: TipThornsFixed, Value: {c_label}Thorns:{/c} {c_number}{s1}{/c}
+{icon:bullet} Deals damage to attackers when hit by direct attacks. This will not trigger from damage over time effects.
+{icon:bullet} Damage dealt is increased by a portion of your primary attribute.
+Hash: 31A675A2, Key: TipTemplarLife, Value: {c_label}Maximum Life: {c_number}{s2}{/c}{/c}
+{icon:bullet} If followers lose all their Life they are incapacitated for a brief time. 
+{icon:bullet} Life can be increased by skills and items.
+Hash: 9FC3B26B, Key: TipEnchantressLife, Value: {c_label}Maximum Life: {c_number}{s2}{/c}{/c}
+{icon:bullet} If followers lose all their Life they are incapacitated for a brief time. 
+{icon:bullet} Life can be increased by skills and items.
+Hash: 4066D89C, Key: TipScoundrelLife, Value: {c_label}Maximum Life: {c_number}{s2}{/c}{/c}
+{icon:bullet} If followers lose all their Life they are incapacitated for a brief time. 
+{icon:bullet} Life can be increased by skills and items.
+Hash: E2307692, Key: MaxFaith, Value: Maximum Wrath
+Hash: EEF98EFF, Key: TipMaxFaith, Value: {c_label}Maximum Wrath: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: E3EEC1C4, Key: AttacksPerSecondOffHand, Value: Attacks per Second Off Hand
+Hash: 9C24DBC5, Key: WrathGain, Value: Wrath Regeneration/Second
+Hash: 071BAA81, Key: Armor, Value: Armor
+Hash: 3D109B1F, Key: EliteDamageReduction, Value: Elite Damage Reduction
+Hash: 4AB604AC, Key: BonusDamageElites, Value: Bonus Damage to Elites
+Hash: 73B4BF0C, Key: TipEliteDamageReduction, Value: {c_label}Elite Damage Reduction:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces damage from elites monsters and other players.
+Hash: 7FB9E7B9, Key: TipBonusDamageElites, Value: {c_label}All damage to elites and other players increased by: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increased by your items.
+Hash: 14F609D2, Key: CooldownReduction, Value: Cooldown Reduction
+Hash: 49F9ECDF, Key: TipCooldownReduction, Value: {c_label}Cooldown Reduction:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces cooldown of all active skills.
+Hash: 421101D2, Key: TipWrathGain, Value: {c_label}Wrath Regenerated per Second: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: 7CD3406D, Key: LifeOnFurySpent, Value: Life per Fury Spent
+Hash: 2A8524C2, Key: LifeOnSpiritSpent, Value: Life per Spirit Spent
+Hash: B6A6A444, Key: TipLifePerFurySpent, Value: {c_label}Life per Fury Spent: {c_number}{s1}{/c}{/c}
+{icon:bullet} You will recover {c_number}{s2}{/c} Life for every point of Fury spent.
+
+Hash: 26C0DA59, Key: TipLifePerSpiritSpent, Value: {c_label}Life per Spirit Spent: {c_number}{s1}{/c}{/c}
+{icon:bullet} You will recover {c_number}{s2}{/c} Life for every point of Spirit you spend.
+
+Hash: 70158092, Key: TipFuryGain, Value: {c_label}Fury Regenerated per Second: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: AA5FA1B3, Key: AttackSpeedIncrease, Value: Attack Speed Increase
+Hash: E18A6767, Key: TipAttackSpeedPercent, Value: {c_label}Attack Speed Increase: {c_number}{s1}{/c}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: DE58E286, Key: ArcanePowerOnCrit, Value: Arcane Power On Critical Strike
+Hash: 135CC593, Key: TipArcanePowerOnCrit, Value: {c_label}Arcane Power On Crit: {c_number}{s1}{/c}{/c}
+{icon:bullet} Can be increased by skills and items.
+
+Hash: 3BC6671C, Key: Hatred_Cost_Reduction, Value: Hatred Cost Reduction
+Hash: 335C27A8, Key: Discipline_Cost_Reduction, Value: Discipline Cost Reduction
+Hash: 8765744A, Key: Fury_Cost_Reduction, Value: Fury Cost Reduction
+Hash: 97E09630, Key: Faith_Cost_Reduction, Value: Wrath Cost Reduction
+Hash: 34CD298B, Key: Arcanum_Cost_Reduction, Value: Arcane Power Cost Reduction
+Hash: 53408061, Key: Mana_Cost_Reduction, Value: Mana Cost Reduction
+Hash: 22F8639F, Key: Spirit_Cost_Reduction, Value: Spirit Cost Reduction
+Hash: 8516312A, Key: SplashDamage, Value: Area Damage
+Hash: EB4D34D9, Key: TipFuryCostReduction, Value: {c_label}Fury Cost Reduction: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: 0754426B, Key: TipHatredCostReduction, Value: {c_label}Hatred Cost Reduction: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: 4F2706DF, Key: TipFaithCostReduction, Value: {c_label}Wrath Cost Reduction: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: 85C7422E, Key: TipSpiritCostReduction, Value: {c_label}Spirit Cost Reduction: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: 0AB4E6BA, Key: TipArcanumCostReduction, Value: {c_label}Arcane Power Cost Reduction: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: DFF84F30, Key: TipManaCostReduction, Value: {c_label}Mana Cost Reduction: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: 2B76CE77, Key: TipDisciplineCostReduction, Value: {c_label}Discipline Cost Reduction: {/c}{c_number}{s1}{/c}
+{icon:bullet} Can be increased by items.
+Hash: 885FB817, Key: TipSplashDamage, Value: {c_label}Area Damage:{/c} {c_number}{s1}{/c}
+{icon:bullet} All attacks have a {c_number}{s2}{/c} chance to also deal {c_number}{s3}{/c} of the damage to enemies within {c_number}{s4}{/c} yards.
+{icon:bullet} Damage dealt can be increased by items.
+Hash: 139939F7, Key: CrushingBlow, Value: Crushing Blow Chance
+Hash: 7EBB87DD, Key: TipOverpowerBonus, Value: {c_label}Overpower Damage Bonus:{/c} {c_number}{s1}{/c}
+{icon:bullet} Overpower deals bonus damage based on the sum of your current health and fortified health.
+{icon:bullet} Can be increased by willpower, skills, and items.
+{icon:bullet} Capped at {c_number}{s2}{/c} against other players.
+Hash: 972E98A5, Key: DamageTypeBonusPhysical, Value: Physical Damage Increase
+Hash: C47C544E, Key: DamageTypeBonusFire, Value: Fire Damage Increase
+Hash: 14DDF20C, Key: DamageTypeBonusLightning, Value: Lightning Damage Increase
+Hash: C47AC7EA, Key: DamageTypeBonusCold, Value: Cold Damage Increase
+Hash: EC9E2400, Key: DamageTypeBonusPoison, Value: Poison Damage Increase
+Hash: F31A4F8E, Key: DamageTypeBonusShadow, Value: Shadow Damage Increase
+Hash: 5BC89FB5, Key: TipDamageTypeBonus, Value: {c_label}{s1} Damage Increase:{/c} {c_number}{s2}{/c}
+{icon:bullet} Increases Damage dealt by skills using this element.
+{icon:bullet} {s3} Damage: {c_number}{s4}{/c}.
+
+Hash: E46DA5C6, Key: SkillBonus, Value: {s1} Damage Increase
+Hash: 47DE8D73, Key: TipSkillBonus, Value: {c_label}{s1} Damage Increase:{/c} {c_number}{s2}{/c}
+{icon:bullet} Increases Damage dealt by this skill.
+Hash: 6D386216, Key: CategoryAttack, Value: Attack
+Hash: 08619CEC, Key: DamageBonusNear, Value: Melee Range Damage Bonus
+Hash: 0802D2BF, Key: DamageBonusFar, Value: Outside of Melee Range Damage Bonus
+Hash: 68492608, Key: CCOnHitProcChanceStun, Value: Chance to Stun On Hit
+Hash: 68490343, Key: CCOnHitProcChanceSlow, Value: Chance to Slow On Hit
+Hash: C73D01AF, Key: CCOnHitProcChanceImmobilize, Value: Chance to Immobilize On Hit
+Hash: A8B52431, Key: CCOnHitProcChanceConfuse, Value: Chance to Confuse On Hit
+Hash: 6E0A056E, Key: CCOnHitProcChanceVulnerable, Value: Chance to cause Vulnerable On Hit
+Hash: A7650419, Key: CCOnHitProcChanceWeaken, Value: Chance to Weaken On Hit
+Hash: 23752535, Key: CCOnCritProcChanceStun, Value: Chance to Stun On Crit
+Hash: 23750270, Key: CCOnCritProcChanceSlow, Value: Chance to Slow On Crit
+Hash: C128EE9C, Key: CCOnCritProcChanceImmobilize, Value: Chance to Immobilize On Crit
+Hash: A3ED703E, Key: CCOnCritProcChanceConfuse, Value: Chance to Confuse On Crit
+Hash: 67F5F25B, Key: CCOnCritProcChanceVulnerable, Value: Chance to cause Vulnerable On Crit
+Hash: DD8D8286, Key: CCOnCritProcChanceWeaken, Value: Chance to Weaken On Crit
+Hash: 8B34A996, Key: CCDamageBonusStun, Value: Damage Bonus to Stunned Targets
+Hash: 8B3486D1, Key: CCDamageBonusSlow, Value: Damage Bonus to Slowed Targets
+Hash: EE4C77BD, Key: CCDamageBonusImmobilize, Value: Damage Bonus to Immobilized Targets
+Hash: AC584543, Key: CCDamageBonusConfused, Value: Damage Bonus to Confused Targets
+Hash: 95197B7C, Key: CCDamageBonusVulnerable, Value: Damage Bonus to Vulnerable Targets
+Hash: 333FA327, Key: CCDamageBonusWeaken, Value: Damage Bonus to Weakened Targets
+Hash: D598D3F2, Key: DamageReductionNear, Value: Melee Damage Reduction
+Hash: 540C4105, Key: DamageReductionFar, Value: Ranged Damage Reduction
+Hash: D6017544, Key: CCDamageBonusDisabled, Value: Damage Bonus to Dazed Targets
+Hash: 440F7F02, Key: PvPDamageReduction, Value: PvP Damage Reduction
+Hash: 4C1F5DA2, Key: ClassDamageReduction, Value: Class Damage Reduction
+Hash: 7045978A, Key: CCOnHitProcChanceChill, Value: Chance to Chill On Hit
+Hash: 90F17C57, Key: CCOnCritProcChanceChill, Value: Chance to Chill On Crit
+Hash: F0A18CD8, Key: CCDamageBonusChill, Value: Damage Bonus to Chilled Targets
+Hash: B6D8FB7F, Key: CCOnCritProcChanceFrozen, Value: Chance to Freeze On Crit
+Hash: 80B07D12, Key: CCOnHitProcChanceFrozen, Value: Chance to Freeze On Hit
+Hash: 0C8B1C20, Key: CCDamageBonusFrozen, Value: Damage Bonus to Frozen Targets
+Hash: 9FC57757, Key: CCDamageBonusSuspended, Value: [PH] CCDamageBonusSuspended
+Hash: BD6F0E56, Key: CCOnCritProcChanceSuspended, Value: [PH] CCOnCritProcChanceSuspended
+Hash: 12F38B09, Key: CCOnHitProcChanceSuspended, Value: [PH] CCOnHitProcChanceSuspended
+Hash: A76E760C, Key: CCOnHitProcChanceKnockdown, Value: Chance to Knockdown On Hit
+Hash: 51E9F959, Key: CCOnCritProcChanceKnockdown, Value: Chance to Knockdown On Crit
+Hash: 3440625A, Key: CCDamageBonusKnockdown, Value: Damage Bonus to Knocked Down Targets
+Hash: F8B7B466, Key: AttackBludgeoning, Value: Bludgeoning Attack
+Hash: 27CB7033, Key: AttackDualWield, Value: Dual Wield Attack
+Hash: 9AEA4881, Key: AttackSlicing, Value: Slashing Attack
+Hash: AFB5D1C0, Key: CategoryWeaponAttack, Value: Weapon Attack
+Hash: 6FE0B42E, Key: Energy_Cost_Reduction, Value: Energy Cost Reduction
+Hash: E013D3A1, Key: CritChanceBonusNear, Value: Melee Range Crit Chance Bonus
+Hash: D83E86D4, Key: CritChanceBonusFar, Value: Outside of Melee Range Crit Chance Bonus
+Hash: 1444024F, Key: Strength, Value: Strength
+Hash: 4D4FC0B3, Key: Intelligence, Value: Intelligence
+Hash: 8A813B45, Key: Willpower, Value: Willpower
+Hash: 64A61642, Key: TitleEffects, Value: Active Effects
+Hash: 0714F76E, Key: Affix, Value: Affix
+Hash: 6E1B77E1, Key: DamageShieldOnKill, Value: Damage Shield on Each Kill
+Hash: 815992B3, Key: HealAbsorb, Value: Heal Absorb On Target
+Hash: E4CA7A60, Key: TipHealAbsorb, Value: {c_label}Lucky Hit: Up to 5% chance to absorb{/c} {c_number}{s1}{/c} {c_label}heal on target{/c}
+{icon:bullet} Can be increased by items.
+Hash: 210D1ABC, Key: TipStrength, Value: {c_label}Strength:{/c} {c_number}{s1}{/c} {c_lightgray}(Item Contribution: {c_blue}{s4}{/c}){/c}{s2}
+{icon:bullet} Increases Armor by {c_number}{s3}{/c}
+Hash: 509947A0, Key: TipIntelligence, Value: {c_label}Intelligence:{/c} {c_number}{s1}{/c} {c_lightgray}(Item Contribution: {c_blue}{s4}{/c}){/c}{s2}
+{icon:bullet} Increases Resistance to All Elements by {c_number}{s3}{/c}
+Hash: 306D6152, Key: TipWillpower, Value: {c_label}Willpower:{/c} {c_number}{s1}{/c} {c_lightgray}(Item Contribution: {c_blue}{s4}{/c}){/c}{s2}
+{icon:bullet} Improves Healing Received by {c_number}{s3}{/c}
+{icon:bullet} Increases {c_important}{u}Overpower{/u}{/c_important} Damage by {c_number}{s5}{/c}
+Hash: E1DC00C2, Key: Dexterity, Value: Dexterity
+Hash: 87C826CF, Key: TipDexterity, Value: {c_label}Dexterity:{/c} {c_number}{s1}{/c} {c_lightgray}(Item Contribution: {c_blue}{s4}{/c}){/c}{s2}
+{icon:bullet} Increases Dodge Chance by {c_number}{s3}{/c}
+Hash: 5429C2F9, Key: CategoryWeaponSpeed, Value: Weapon Speed
+Hash: F4393876, Key: CategoryCoreStats, Value: Core Stats
+Hash: 49814BEE, Key: PhysicalResistance, Value: Physical Resistance
+Hash: 4C42A66F, Key: TipCoreStatBenefit, Value: {icon:bullet} {s2} {c_number}{s1}{/c}
+Hash: 44DD9290, Key: TipCoreStatSkillDamage, Value: Increases Skill Damage by 
+Hash: 43F1418F, Key: TipCoreStatCriticalStrike, Value: Increases Critical Strike Chance by
+Hash: 9034C5A6, Key: TipCoreStatResourceGeneration, Value: Increases Resource Generation by
+Hash: D10C32ED, Key: TipCoreStatConditionIsShapeshifted, Value: for Shapeshifting and Companion skills
+Hash: CDF3E6FE, Key: TipCoreStatConditionIsNotShapeshifted, Value: for Magic and Companion skills
+Hash: 2A34E98E, Key: DamageHealthy, Value: Damage While Healthy
+Hash: F1F9C633, Key: PotionHeal, Value: Potion Healing
+Hash: 45649392, Key: PotionCDR, Value: Reduced Potion Cooldown
+Hash: 8819C6B1, Key: DamageReductionEvade, Value: Damage Reduction While Evading
+Hash: B26D3F3F, Key: DamageHighLife, Value: Damage To Healthy Enemies
+Hash: 76FF5ED1, Key: DamageLowLife, Value: Damage To Injured Enemies
+Hash: E356046B, Key: OverpowerChance, Value: Overpower Chance
+Hash: CFC78391, Key: TooltipRatingLabelArmor, Value: {s1} Armor
+Hash: 1D75EE78, Key: TipCCHitProcChanceStun, Value: {c_label}Chance to Stun On Hit:{/c} {c_number}{s1}{/c}
+{icon:bullet} {c_label}Lucky Hit: {/c}Chance on hit to Stun.
+Hash: 1D75CBB3, Key: TipCCHitProcChanceSlow, Value: {c_label}Chance to Slow On Hit:{/c} {c_number}{s1}{/c}
+{icon:bullet} {c_label}Lucky Hit: {/c}Chance on hit to Slow.
+Hash: DA5A5E1F, Key: TipCCHitProcChanceImmobilize, Value: {c_label}Chance to Immobilize On Hit:{/c} {c_number}{s1}{/c}
+{icon:bullet} {c_label}Lucky Hit: {/c}Chance on hit to Immobilize.
+Hash: 55952B25, Key: TipCCHitProcChanceConfused, Value: {c_label}Chance to Confuse On Hit:{/c} {c_number}{s1}{/c}
+{icon:bullet} {c_label}Lucky Hit: {/c}Chance on hit to Confuse.
+Hash: AAF1FC32, Key: TipCCHitProcChanceWeakened, Value: {c_label}Chance to Weaken On Hit:{/c} {c_number}{s1}{/c}
+{icon:bullet} {c_label}Lucky Hit: {/c}Chance on hit to Weaken.
+Hash: CB0B6DFA, Key: TipCCHitProcChanceChill, Value: {c_label}Chance to Chill On Hit:{/c} {c_number}{s1}{/c}
+{icon:bullet} {c_label}Lucky Hit: {/c}Chance on hit to Chill.
+Hash: 34312182, Key: TipCCHitProcChanceFrozen, Value: {c_label}Chance to Freeze On Hit:{/c} {c_number}{s1}{/c}
+{icon:bullet} {c_label}Lucky Hit: {/c}Chance on hit to Freeze.
+Hash: 051A047C, Key: TipCCHitProcChanceKnockdown, Value: {c_label}Chance to Knockdown On Hit:{/c} {c_number}{s1}{/c}
+{icon:bullet} {c_label}Lucky Hit: {/c}Chance on hit to Knock Down.
+Hash: 7E3AFBA5, Key: TipCCCritProcChanceStun, Value: {c_label}Chance to Stun On Crit:{/c} {c_number}{s1}{/c}
+{icon:bullet} Chance to Stun on critical strikes.
+Hash: 7E3AD8E0, Key: TipCCCritProcChanceSlow, Value: {c_label}Chance to Slow On Crit:{/c} {c_number}{s1}{/c}
+{icon:bullet} Chance to Knockdown on critical strikes.
+Hash: 37F1D90C, Key: TipCCCritProcChanceImmobilize, Value: {c_label}Chance to Immobilize On Crit:{/c} {c_number}{s1}{/c}
+{icon:bullet} Chance to Immobilize on critical strikes.
+Hash: 7F4706D2, Key: TipCCCritProcChanceConfused, Value: {c_label}Chance to Confuse On Crit:{/c} {c_number}{s1}{/c}
+{icon:bullet} Chance to Confuse on hit.
+Hash: D4A3D7DF, Key: TipCCCritProcChanceWeakened, Value: {c_label}Chance to Weaken On Crit:{/c} {c_number}{s1}{/c}
+{icon:bullet} Chance to weaken on critical strikes.
+Hash: 447220C7, Key: TipCCCritProcChanceChill, Value: {c_label}Chance to Chill On Crit:{/c} {c_number}{s1}{/c}
+{icon:bullet} Chance to Chill on hit.
+Hash: DA6E2DEF, Key: TipCCCritProcChanceFrozen, Value: {c_label}Chance to Freeze On Crit:{/c} {c_number}{s1}{/c}
+{icon:bullet} Chance to Freeze on hit.
+Hash: 650755C9, Key: TipCCCritProcChanceKnockdown, Value: {c_label}Chance to Knockdown On Crit:{/c} {c_number}{s1}{/c}
+{icon:bullet} Chance to Immobilize on critical strikes.
+Hash: C0388CA3, Key: TipCCDamageBonusStun, Value: {c_label}Damage Bonus to Stunned Targets:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to Stunned Targets.
+Hash: C03869DE, Key: TipCCDamageBonusSlow, Value: {c_label}Damage Bonus to Slowed Targets:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to Slowed Targets.
+Hash: 6623B08A, Key: TipCCDamageBonusImmobilize, Value: {c_label}Damage Bonus to Immobilized Targets:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to Immobilized Targets.
+Hash: B780E6D0, Key: TipCCDamageBonusConfused, Value: {c_label}Damage Bonus to Confused Targets:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to Confused Targets.
+Hash: 0CDDB7DD, Key: TipCCDamageBonusWeakened, Value: {c_label}Damage Bonus to Weakened Targets:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to Weakened Targets.
+Hash: C621D185, Key: TipCCDamageBonusChill, Value: {c_label}Damage Bonus to Chilled Targets:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to Chilled Targets.
+Hash: 9213F66D, Key: TipCCDamageBonusFrozen, Value: {c_label}Damage Bonus to Frozen Targets:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to Frozen Targets.
+Hash: A47D3587, Key: TipCCDamageBonusKnockdown, Value: {c_label}Damage Bonus to Knocked Down Targets:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to Knocked Down Targets.
+Hash: 7D0758B9, Key: TipDamageBonusNear, Value: {c_label}Melee Damage Bonus:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage dealt to targets within melee range.
+Hash: 03C9C8EC, Key: TipDamageBonusFar, Value: {c_label}Outside of Melee Range Damage Bonus:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage dealt to targets outside of melee range.
+Hash: 659CADEE, Key: TipCritChanceBonusNear, Value: {c_label}Melee Range Crit Chance Bonus:{/c} {c_number}{s1}{/c}
+{icon:bullet} Critical Strike chance bonus granted to targets within melee range.
+Hash: ADBECB81, Key: TipCritChanceBonusFar, Value: {c_label}Outside of Melee Range Crit Chance Bonus:{/c} {c_number}{s1}{/c}
+{icon:bullet} Critical Strike chance bonus granted to targets outside of melee range.
+Hash: 2DBB9773, Key: TipAttackBludgeoning, Value: {c_label}Bludgeoning Attack: {c_number}{s1}{/c}{/c}
+{icon:bullet} Damage per hit while wielding a Bludgeoning Weapon.
+Hash: 0764AD0E, Key: TipAttackSlicing, Value: {c_label}Slashing Attack: {c_number}{s1}{/c}{/c}
+{icon:bullet} Damage per hit while wielding a Slashing Weapon.
+Hash: 9C712C00, Key: TipAttackDualWield, Value: {c_label}Dual Wield Attack: {c_number}{s1}{/c}{/c}
+{icon:bullet} Damage per hit while dual wielding.
+Hash: 0F05D172, Key: TipDamageTypeBonusPhysical, Value: {c_label}Physical Damage Increase: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increase Physical damage dealt.
+Hash: 4A052E9B, Key: TipDamageTypeBonusFire, Value: {c_label}Fire Damage Increase: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increase Fire damage dealt.
+Hash: 879C4479, Key: TipDamageTypeBonusLightning, Value: {c_label}Lightning Damage Increase: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increase Lightning damage dealt.
+Hash: 4A03A237, Key: TipDamageTypeBonusCold, Value: {c_label}Cold Damage Increase: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increase Cold damage dealt.
+Hash: F7C6C58D, Key: TipDamageTypeBonusPoison, Value: {c_label}Poison Damage Increase: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increase Poison damage dealt.
+Hash: FE42F11B, Key: TipDamageTypeBonusShadow, Value: {c_label}Shadow Damage Increase: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increase Shadow damage dealt.
+Hash: 96AF4E1B, Key: TipDamageHealthy, Value: {c_label}Damage While Healthy:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases your damage while above {c_number}80%{/c} Life.
+Hash: AE34356C, Key: TipDamageHighLife, Value: {c_label}Damage To Healthy Enemies:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to enemies who are above {c_number}80%{/c} Life.
+Hash: E379C35E, Key: TipDamageLowLife, Value: {c_label}Damage To Injured Enemies:{/c} {c_number}{s1}{/c}
+{icon:bullet} Increases damage to enemies who are below {c_number}35%{/c} Life.
+Hash: 198FC3AF, Key: TipPvPDamageReduction, Value: {c_label}PvP Damage Reduction: {c_number}{s1}{/c}{/c}
+{icon:bullet} Reduces damage taken from other players in PvP combat.
+Hash: 82C3818F, Key: TipClassDamageReduction, Value: {c_label}Class Damage Reduction: {c_number}{s1}{/c}{/c}
+{icon:bullet} Inherent damage reduction granted by your class. 
+Hash: 298C85B2, Key: TipDamageReductionFar, Value: {c_label}Ranged Damage Reduction:{/c} {c_number}{s1}{/c}
+{icon:bullet} Reduces damage from ranged attacks.
+Hash: BEBDEA9E, Key: TipDamageReductionEvade, Value: {c_label}Damage Reduction While Evading: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increases your Damage Reduction while Evading.
+Hash: 439BBC8E, Key: TipDamageShieldOnKill, Value: {c_label}Damage Barrier on Each Kill: {c_number}{s1}{/c}{/c}
+{icon:bullet} Gain a Damage Barrier when you slay an enemy.
+{icon:bullet} The amount absorbed is increased from items.
+Hash: 556AADE0, Key: TipPotionHeal, Value: {c_label}Potion Healing: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increases the healing done from potions.
+Hash: EB50B99F, Key: TipPotionCDR, Value: {c_label}Reduced Potion Cooldown: {c_number}{s1}{/c}{/c}
+{icon:bullet} Reduces the cooldown of your potions.
+{icon:bullet} May be further reduced from items.
+Hash: 57FBC038, Key: TipOverpowerChance, Value: {c_label}Overpower Chance:{/c} {c_number}{s1}{/c}
+{icon:bullet} Overpower deals bonus damage based on the sum of your current health and fortified health.
+{icon:bullet} Damage over time, passive abilities, and channeled abilities cannot overpower.
+Hash: D1F5CF2F, Key: OverpowerDamageBonus, Value: Overpower Damage Bonus
+Hash: F05C975F, Key: Damage, Value: Damage
+Hash: 983E1920, Key: TipBonusDamageToVulnerableTargets, Value: {c_label}Damage Bonus To Vulnerable Targets: {c_number}{s1}{/c}{/c}
+{icon:bullet} Increases damage to Vulnerable enemies.
+Hash: 171079B2, Key: CategoryUtility, Value: Utility
+Hash: CCBF4B1D, Key: TipMaxEnergy, Value: {c_label}Maximum Energy: {c_number}{s1}{/c}{/c}
+{icon:bullet} Can be increased by skills and items.
+Hash: 26D32510, Key: MaxEnergy, Value: Maximum Energy
+Hash: DF3BF67F, Key: ToggleGeneratedEntryList, Value: PH: Generated Entries
+Hash: 62A332B7, Key: StringFormulaError, Value: {c_red}<ERROR>{/c}
+Hash: 438472C5, Key: Offensive, Value: Offensive
+Hash: B8156058, Key: CoreStats, Value: Core Stats
+Hash: 55E9C2D9, Key: Defensive, Value: Defensive
+Hash: 449D4114, Key: Utility, Value: Utility
+Hash: 6D109854, Key: CategoryArmour, Value: Armor
+Hash: 2F585600, Key: CategoryMaterials, Value: Materials
+Hash: 1D2551E5, Key: CategoryDPS, Value: Attack Power
+Hash: 15963EFB, Key: TipCoreStatBenefitMultiplicative, Value: {icon:bullet} {s2} {c_number}{s1}{/c}
+Hash: 29206019, Key: TipCoreStatBenefitAdditive, Value: {icon:bullet} {s2} {c_number}+{s1}{/c}
+Hash: 0001EC16, Key: PvP, Value: PvP
+Hash: 3D4D43F3, Key: Currencies, Value: Currency
+Hash: 9432CEF5, Key: CurrencyNameFormat, Value: {icon:{s1}, 1.5} {s2}
+Hash: E0740D84, Key: Resistances, Value: Resistances

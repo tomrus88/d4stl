@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: Name, Value: An Errant Flock
+Hash: 0871A46B, Key: Toast, Value: Aid a mysterious armed man and the group of refugees fleeing Caldeum. 
+Hash: 0D16AFDC, Key: Phase70Description, Value: A mysterious armed man has asked for my assistance escorting a group of townsfolk to safety as they flee Caldeum. 
+
+A swarm of giant wasps threaten the group, I should help remove the threat. 
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Protect the Refugees
+Hash: 9FF0C7FF, Key: Phase73Description, Value: A mysterious armed man has asked for my assistance escorting a group of townsfolk to safety as they flee Caldeum. 
+Hash: 5E224F71, Key: Callback137Header, Value: Accompany the Traveler
+Hash: 32CAE022, Key: Phase76Description, Value: A mysterious armed man has asked for my assistance escorting a group of townsfolk to safety as they flee Caldeum. 
+Hash: AE775FBE, Key: Callback80Header, Value: Speak with the Traveler
+Hash: 8D6916BE, Key: Phase81Description, Value: A mysterious armed man has asked for my assistance escorting a group of townsfolk to safety as they flee Caldeum. 
+
+We've made it to safety, but I should ask if they need anything else. 
+Hash: 2F5A8F83, Key: Callback85Header, Value: Speak with the Traveler
+Hash: 2640190D, Key: Phase116Description, Value: A mysterious armed man has asked for my assistance escorting a group of townsfolk to safety as they flee Caldeum. 
+Hash: 24E63DCF, Key: Callback126Header, Value: Accompany the Traveler
+Hash: F816C8F3, Key: Callback139Header, Value: Speak with the Traveler

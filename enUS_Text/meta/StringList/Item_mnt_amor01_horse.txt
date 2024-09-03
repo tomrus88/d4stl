@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sturdy Saddle
+Hash: A646FFA4, Key: Description, Value: A leather seat to improve comfort for mount and rider.

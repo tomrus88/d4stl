@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Miner's Key
+Hash: A646FFA4, Key: Description, Value: Bound to Calibel's Mine
+Hash: F5C7BC0A, Key: Flavor, Value: The tunnels beyond this gate were locked away as a safety precaution.

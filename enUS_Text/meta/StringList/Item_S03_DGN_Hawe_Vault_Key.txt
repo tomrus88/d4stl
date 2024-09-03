@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Corroded Vault Key
+Hash: A646FFA4, Key: Description, Value: Opens a door in the Vault of Ink.
+Hash: F5C7BC0A, Key: Flavor, Value: Slick with scum. Even the Vaults can't resist the swamp's influence.

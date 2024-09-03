@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Smuggler's Note
+Hash: F2CA04D8, Key: NoticeSignText, Value: “The boat leaves with the new moon, and I want it full! Alchemists up north are buying every drop. Get out there, grab more infected, and get cooking!”

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why did you follow Lilith?"
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: I saw her once, back in Cerrigar. She’d just set fire to everything I knew. (scoffs) I was livid.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Reminiscing. Smiling, shaking head.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: Sure, it was a dung-heap but it was my dung-heap. So I scrabbled up on a roof, dagger in my teeth, ready to have a go at her.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Reminiscing.
+Hash: F46620DD, Key: Line9.1BCD2B, Value: But then there she was... She looked right at me and smiled. "Let it burn,” her smile said. That’s when I realized. She’d set me free.
+Hash: 449C4CAA, Key: VoiceDir9.1BCD2B, Value: Reminiscing. Reverent.

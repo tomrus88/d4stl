@@ -1,0 +1,6 @@
+Hash: 8EB321AA, Key: Line1.1029F1, Value: (sigh) Father lied.
+Hash: DEE94D77, Key: VoiceDir1.1029F1, Value: A fact that angers the speaker
+Hash: 6736CB6C, Key: Line3.1029F1, Value: He never once had the courage to face me!
+Hash: B76CF739, Key: VoiceDir3.1029F1, Value: Indignant and hurt, still angry 
+Hash: 3FBA752E, Key: Line5.1029F1, Value: Father lied! Father lied! Father lied!
+Hash: 8FF0A0FB, Key: VoiceDir5.1029F1, Value: Overcome with furious anger

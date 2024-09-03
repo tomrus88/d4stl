@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Firsthand Knowledge
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat Nurbolat The Possessed
+Hash: ED76B060, Key: Callback19Header, Value: Speak with Nurbolat
+Hash: C9FCD1EA, Key: Phase5Description, Value: The Scholar and I have traced the steps of a non-believer named Batzorig, sought by the Hand of Zakarum, to a cellar where he attempted to hide from persecution. In reenacting his defense, he has possessed Nurbolat. I must now defend myself against him.
+Hash: 803B8057, Key: Phase20Description, Value: The Scholar and I have traced the steps of a non-believer named Batzorig, sought by the Hand of Zakarum, to a cellar where he attempted to hide from persecution. In reenacting his defense, he possessed Nurbolat. I had to defend myself against him, until he had an epiphany. I should speak with him.

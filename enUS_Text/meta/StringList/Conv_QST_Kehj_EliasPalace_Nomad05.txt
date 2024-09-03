@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Oasis of Memories
+Hash: 5A431858, Key: Line1.8C8F8, Value: Wait... what about the old man?
+Hash: C94C7E85, Key: VoiceDir1.8C8F8, Value: A sudden thought hits you out of the blue, but you're not sure it's a good idea...
+Hash: F43791C6, Key: Line3.8C8DF, Value: (scoff) The only thing that unreliable fool will guide you to is your graves...
+Hash: 6340F7F3, Key: VoiceDir3.8C8DF, Value: Angry, offended.
+Hash: A336EF6D, Key: Line15.8C8F8, Value: Hmph, but you look desperate enough to try anything.
+Hash: 094275EB, Key: Line13.8C8F8, Value: He spends his days in a fog of white smoke at the riverbank. Be careful, it’s a dangerous place.

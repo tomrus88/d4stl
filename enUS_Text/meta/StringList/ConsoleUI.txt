@@ -1,0 +1,35 @@
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 05C2DB26, Key: Details, Value: Details
+Hash: CFA5A187, Key: Compare, Value: Compare
+Hash: 003D06DC, Key: List, Value: List
+Hash: 767C8A4B, Key: ScrollList, Value: Scroll
+Hash: C7558263, Key: ChooseSlot, Value: Category
+Hash: 5EF064D0, Key: OnlineFriends, Value: Online Friends ({s1})
+Hash: 0040E4B7, Key: Skip, Value: Skip
+Hash: FC5D122E, Key: AdjustGamma, Value: Adjust Gamma
+Hash: E708B403, Key: Placeholder, Value: Placeholder Screen
+Hash: 08734790, Key: Trade, Value: Trade
+Hash: 9B9A8796, Key: Inspect, Value: Inspect Inventory
+Hash: 8BD04BE8, Key: InspectSkills, Value: Inspect Skills
+Hash: 003EC7F2, Key: Open, Value: Select
+Hash: 003766F1, Key: Back, Value: Back
+Hash: 0793B277, Key: ControllerDisconnected, Value: Please reconnect controller {s1}
+Hash: AF7137E3, Key: AdjustGammaInstructions, Value: Move {icon:l_stick,1.8} until the graphic is barely visible
+Hash: BBBE5851, Key: GiveGold, Value: Give Gold
+Hash: 07C5A69C, Key: NewLore, Value: New Lore: {s1}
+Hash: 140184C2, Key: DeathMenuAllDead, Value: Your party has died. Resurrection in {s1}s
+Hash: 8E9EE744, Key: EventQueueEquipped, Value: {c_green}Equipped{/c_green}
+Hash: C43AF199, Key: PlayerInfo, Value: {c_white}{s1}{/c}
+Level {s2}
+{s3}
+Hash: A76F33DE, Key: Percentage, Value: {s1}%
+Hash: 36BC196C, Key: ControllerDisconnected_PS3, Value: Please reconnect controller {s1}
+Hash: 13A1DF00, Key: Select, Value: Select
+Hash: AE20EEE3, Key: PlayerOwnerTooltip, Value: {s1} : {s2}
+Hash: 6EDDB7BE, Key: ToggleStatRanges, Value: Stat Ranges
+Hash: 7AEEEED0, Key: AccountLinkBnetURL_Xbox360, Value: battle.net/xbox
+Hash: 1AD8D2B7, Key: AccountLinkBnetURL, Value: battle.net
+Hash: 76826222, Key: LinkNow, Value: Link Now
+Hash: 58C4C1FE, Key: ControllerHoldToLockTarget, Value: Hold to Lock Target
+Hash: 81913DE4, Key: ControllerCycleTargetLock, Value: Use {s1} To Cycle Locked Target
+Hash: 0BDD6133, Key: ControllerDisconnectedDismiss, Value: Dismiss

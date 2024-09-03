@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Find anything?"
+Hash: DE1E3599, Key: Line6.BC41C, Value: I can find no source on the shore. The poison seems to flow in, from under the water...
+Hash: 4D279BC6, Key: VoiceDir6.BC41C, Value: Concerned. Thinking.
+Hash: 7812AF1B, Key: Line8.BC41C, Value: Let's keep looking.
+Hash: E71C1548, Key: VoiceDir8.BC41C, Value: Terse. Determined to solve this.

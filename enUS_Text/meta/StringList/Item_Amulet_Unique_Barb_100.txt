@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Battle Trance
+Hash: F5C7BC0A, Key: Flavor, Value: "The change that overtook my brother in battle was terrifying. His eyes turned hard like diamonds, and the way he moved... it was like he was dancing to music only he could hear."
+- Captain Dervin

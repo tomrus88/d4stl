@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Oaken Keeper
+Hash: A646FFA4, Key: Description, Value: The Keepers stand in eternal watch over Glór-an-Fháidha, the Great Oak at the heart of Túr Dúlra. Their wooden armor is a symbol of their protection over the great tree and all nature.
+Hash: 083EE0CE, Key: Quote, Value: Pillar of Druidic power.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

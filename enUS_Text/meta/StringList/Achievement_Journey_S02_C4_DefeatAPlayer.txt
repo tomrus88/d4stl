@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cut the First Ear
+Hash: 3A4912CF, Key: DescShort, Value: Kill another Player in a {icon:Marker_PvPTurnIn, 2.5} Hostile area

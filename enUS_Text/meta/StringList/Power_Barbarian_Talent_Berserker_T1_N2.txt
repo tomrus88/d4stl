@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Endless Fury
+Hash: 003892BF, Key: desc, Value: {c_important}Basic{/c} Skills generate {c_number}[{Script Formula 0}*100|%x|]{/c} more Fury.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Additional Fury {icon:arrow,1.2} {c_number}[{Script Formula 0}*100|%x|]{/c}

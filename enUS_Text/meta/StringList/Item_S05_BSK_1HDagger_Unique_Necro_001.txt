@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Mortacrux
+Hash: F5C7BC0A, Key: Flavor, Value: One of a pair of twin daggers, forbidden from ever meeting. Nearby corpses shudder in its presence.

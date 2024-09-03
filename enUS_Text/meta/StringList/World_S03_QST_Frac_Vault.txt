@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vault of Stone
+Hash: 003892BF, Key: Desc, Value: Where the first Governing Stones were carved into shape.

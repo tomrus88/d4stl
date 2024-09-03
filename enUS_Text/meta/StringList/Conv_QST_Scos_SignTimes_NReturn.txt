@@ -1,0 +1,2 @@
+Hash: 5D201CB4, Key: Line1.B20CF, Value: The deeds are done, Tavish! You’ve no reason to regret now.
+Hash: CC2982E1, Key: VoiceDir1.B20CF, Value: Drunk and jubilant

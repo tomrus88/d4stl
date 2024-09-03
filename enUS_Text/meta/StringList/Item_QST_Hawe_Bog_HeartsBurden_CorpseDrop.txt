@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rusted Dagger
+Hash: F5C7BC0A, Key: Flavor, Value: A worn dagger, spotted with rust and covered in blood.

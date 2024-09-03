@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Axial Conduit
+Hash: F5C7BC0A, Key: Flavor, Value: "Do not confuse your manipulation of lightning as control. The azure flame is its own master and needs no hand to wield it. You are merely a conduit for its chaos." -Ascribed to the mage Woh

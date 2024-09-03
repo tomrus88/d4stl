@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Awakened Them All
+Hash: 3A4912CF, Key: DescShort, Value: Interact with every Lunar Shrine during the Lunar Awakening Event.
+Hash: 3DB5404A, Key: Crit_242188, Value: Artillery Shrine
+Hash: 3DB54069, Key: Crit_242196, Value: Channeling Shrine
+Hash: 3DB5406A, Key: Crit_242197, Value: Conduit Shrine
+Hash: 3DB5406B, Key: Crit_242198, Value: Lethal Shrine
+Hash: 3DB5406C, Key: Crit_242199, Value: Greed Shrine
+Hash: 3DB5437B, Key: Crit_242200, Value: Blast Wave Shrine
+Hash: 3DB5437C, Key: Crit_242201, Value: Protection Shrine

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Faolan
+Hash: 8ED8E96F, Key: Line1.12577B, Value: Starving... no matter how many rabbits Deirdre brings. I look at her throat, I smell her blood, and--all I see is red... Stop, stop, STOP! I have to fight it! Spirits of old, ghosts of my kin, give me strength... Don't let me change.
+Hash: DF0F153C, Key: VoiceDir1.12577B, Value: As a human - Ragged. Scared. Fighting to keep control.

@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Donan..."
+Hash: C1F212B9, Key: Line9.6DE47, Value: Donan...you're bleeding.
+Hash: 6F3E307B, Key: Line11.7FA05, Value: I'm...I'm fine. But Lorath is right.
+Hash: BF745C48, Key: VoiceDir11.7FA05, Value: Pained--he has just suffered a mortal wound. "Lorath is right" is reference to a plan Lorath has to use the Sightless Eye to find Lilith.
+Hash: 0932A9FD, Key: Line13.7FA05, Value: The Eye is...the only advantage we have--the only way to find Lilith.
+Hash: 5968D5CA, Key: VoiceDir13.7FA05, Value: Pained--he has just suffered a mortal wound.
+Hash: A327237F, Key: Line15.7FA05, Value: There is...no time to waste.
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: Pained--he has just suffered a mortal wound.

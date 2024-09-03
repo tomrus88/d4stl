@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: name, Value: Iron Fur
+Hash: 003892BF, Key: desc, Value: You gain {c_number}[{SF_2} * 100|%|]{/c} Damage Reduction while in Werebear form.
+
+This bonus persists for {c_number}{buffduration:BUFF_MITIGATION_TEMP}{/c} seconds after leaving Werebear form.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Reduction {icon:arrow,1.2} {c_number}[{SF_2}*100|%|]{/c}
+Hash: 101C1614, Key: Buff1_Name, Value: Iron Fur
+Hash: 7786FD97, Key: Buff1_Description, Value: Increased Werebear Damage Reduction.
+Hash: 12713EB5, Key: Buff2_Name, Value: Iron Fur
+Hash: C6E60718, Key: Buff2_Description, Value: Increased Werebear Damage Reduction.

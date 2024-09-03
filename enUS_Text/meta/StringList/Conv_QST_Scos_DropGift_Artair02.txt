@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found another piece of the broken totem on a dead body."
+Hash: 183E4540, Key: Line7.101CF8, Value: Perhaps the body was one of those that I sent out to search for the fragments too...I must regretfully hope for that. To think that another might hold it is terrifying.
+Hash: 6874710D, Key: VoiceDir7.101CF8, Value: Thinking
+Hash: 6736F1BC, Key: Line3.101CF8, Value: This part fits onto the first bit that you brought me. I believe it is the carving of a bear. Even though we are still missing the head, the shape of the legs and body are clear enough.
+Hash: 3FBA9B7E, Key: Line5.101CF8, Value: We cannot risk that a bear totem be used with ill intent, not with all that we have already seen.
+Hash: 8EB347FA, Key: Line1.101CF8, Value: Perhaps if you are to find the last piece, you should hunt the bears themselves. Using only part of a totem could have caused a flawed transformation.

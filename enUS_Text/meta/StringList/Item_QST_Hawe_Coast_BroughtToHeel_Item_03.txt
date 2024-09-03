@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Wild Red Mushrooms
+Hash: A646FFA4, Key: Description, Value: A sack of wild red mushrooms.
+Hash: F5C7BC0A, Key: Flavor, Value: A variety of wild red mushroom from Hawezar that causes nausea and vomiting. 

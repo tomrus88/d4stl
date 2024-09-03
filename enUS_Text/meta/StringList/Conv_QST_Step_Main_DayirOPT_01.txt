@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What was that about the tunnel?” 
+Hash: 5A1FE05B, Key: Line1.6E261, Value: Oyuun mentioned the passage once or twice, but never went into detail. And I knew better than to pry.

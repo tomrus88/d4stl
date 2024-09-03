@@ -1,0 +1,2 @@
+Hash: 8E02627B, Key: Line5.789BF, Value: I am here!
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: To Player. Calm, calling out over shoulder (10 to 20 ft away.)

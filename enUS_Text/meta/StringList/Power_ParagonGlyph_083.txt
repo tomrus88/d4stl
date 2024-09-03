@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Entering {c_important}{u}Stealth{/u}{/c} reduces the active cooldown of {c_important}Shadow Imbuement{/c} by {c_number}[SF_1|1|]{/c} seconds.
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Explosive
+Hash: 2827F416, Key: Buff0_Description, Value: Taking reduced damage after dropping a Stun Grenade.

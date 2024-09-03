@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barbed Horror
+Hash: CC38ADCB, Key: FlavorName, Value: Touched by Terror 

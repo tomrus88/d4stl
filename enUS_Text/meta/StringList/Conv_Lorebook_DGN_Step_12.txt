@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Triune Decree
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Triune Decree
+Hash: 5D733639, Key: Line1.EECAD, Value: You are hereby chosen by Magnus Elias. Ancient knowledge lies within the lands around Mt. Civo, hidden away by the Triune of old. Seek out these caches of power and unearth their secrets.
+Hash: CC7C9C66, Key: VoiceDir1.EECAD, Value: Commanding. Authoratative.
+Hash: F767AFBB, Key: Line3.EECAD, Value: Those who return to the Magnus with tribute in hand will earn more than his favor—they will earn the favor of our Mother.

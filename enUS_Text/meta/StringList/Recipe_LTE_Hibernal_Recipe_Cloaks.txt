@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Exchange a Red-Cloaked Trophy for a Midwinter Proof
+Hash: 9E3ACE5E, Key: Category, Value: Crafting Materials

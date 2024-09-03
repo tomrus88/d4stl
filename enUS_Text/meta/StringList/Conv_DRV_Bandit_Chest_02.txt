@@ -1,0 +1,8 @@
+Hash: 927D43C7, Key: Line73.54239, Value: You trying to steal from us?
+Hash: E2B36F94, Key: VoiceDir73.54239, Value: Alerted. Angry. Barking.
+Hash: 605AB04D, Key: Line79.54239, Value: Hey! This is our treasure!
+Hash: B090DC1A, Key: VoiceDir79.54239, Value: Alerted. Angry. Barking.
+Hash: A63B6EE4, Key: Line63.54237, Value: You trying to steal from us?
+Hash: F6719AB1, Key: VoiceDir63.54237, Value: Alerted. Angry. Barking.
+Hash: 7418DB6A, Key: Line69.54237, Value: Hey! This is our treasure!
+Hash: C44F0737, Key: VoiceDir69.54237, Value: Alerted. Angry. Barking.

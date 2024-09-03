@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You know I killed your Mother."
+Hash: 9257723D, Key: Line1.1BCB9E, Value: You killed our Mother, yours and mine. But I know you heard her warning, look around you... Don’t you see that Hell has come, just as she said? That the Light can offer no refuge?
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Emphasis on "our" Mother. Religious. Sincere.
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: It's not too late to embrace her truth... for all our sakes.
+Hash: BB1147CC, Key: VoiceDir3.1BCB9E, Value: Religious. Sincere. There's hope for you yet!

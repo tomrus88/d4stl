@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pilgrim's Journal
+Hash: F2CA04D8, Key: NoticeSignText, Value: I will die... frozen to this mountain. Heavens above, I can hear the voices of angels... and they are laughing.

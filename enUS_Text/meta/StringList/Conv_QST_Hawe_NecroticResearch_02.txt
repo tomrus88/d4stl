@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have what you asked for."
+Hash: 5D6A30B1, Key: Line1.F53E7, Value: Good. Hmmm, yes. Give me but a moment. Then I will need you again.
+Hash: CC7396DE, Key: VoiceDir1.F53E7, Value: distracted by what the player brought

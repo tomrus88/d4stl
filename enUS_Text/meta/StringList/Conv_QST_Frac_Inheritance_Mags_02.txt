@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Magdalena... What have you done?!"
+Hash: 8ED83E2E, Key: Line1.124000, Value: This one begged for mercy. Now she feasts on human flesh.
+Hash: DF0E69FB, Key: VoiceDir1.124000, Value: monotone, sounding empty, a vessel for an occupying demon

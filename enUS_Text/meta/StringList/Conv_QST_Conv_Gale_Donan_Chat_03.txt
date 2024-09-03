@@ -1,0 +1,18 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Is that your Horadric amulet on the table?”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Yes. I bet Lorath still wears his. The Order’s mission was his lifeblood.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: A beat after "Yes," like he's taking it in, reflecting on his life.
+Hash: F427C5EC, Key: Line3.7FA05, Value: I couldn’t give up my life for it, not like him. I wanted to be a man. I left to chase family, fellowship, glory...
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: And for what? You saw how that ended. My son...
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: (choked back effort)
+Hash: 2810B8F0, Key: Line7.7FA05, Value: I can’t do it. It wouldn’t work anyway.
+Hash: 69E26198, Key: Line15.BAE4, Value: Donan...
+Hash: C2053272, Key: Line9.7FA05, Value: You don't understand. The stuff soulstones are made of, they're old as the Eternal Conflict itself. With magic so primordial, you need faith, you need spirit. I have none.
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: What you lack in faith, you have in allies.
+Hash: 6F3E307B, Key: Line11.7FA05, Value: (scoff) Who? You?
+Hash: BF745C48, Key: VoiceDir11.7FA05, Value: Skeptical
+Hash: AD87FBD5, Key: Line21.BAE4, Value: Yes. You’re the only one who can help us.
+Hash: 1C916202, Key: VoiceDir21.BAE4, Value: sincere
+Hash: 0932A9FD, Key: Line13.7FA05, Value: Hmm. Unfortunately, you may be right.
+Hash: D7101683, Key: Line19.7FA05, Value: Ah, I can't make any promises. Really. But...
+Hash: 27464250, Key: VoiceDir19.7FA05, Value: (long sigh)
+Hash: F5747EDE, Key: Line23.7FA05, Value: I can try. For you two, I’ll try. Let’s hear what the old man has to say.

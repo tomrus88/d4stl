@@ -1,0 +1,8 @@
+Hash: 28212CD1, Key: Line7.8CA44, Value: Ah, Deckard, do you remember the smell of the salt air on the ocean?  No shade or devil could stand in our way!
+Hash: 972A92FE, Key: VoiceDir7.8CA44, Value: wistful. Remembering a past life of excitement.
+Hash: C215A653, Key: Line9.8CA44, Value: Been all across this world since then. Seen things you wouldn’t believe, but it was never quite the same. Wandering without a direction… it was just… waiting...
+Hash: 311F0C80, Key: VoiceDir9.8CA44, Value: bittersweet. Your youth was exciting but you have wasted your years since.
+Hash: D6FC1563, Key: Line19.6D03F, Value: Aye, it’s important to have something to walk towards.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: Thoughtful. Your companion has reminded you that living a life without purpose is a waste, something you've been guilty of.
+Hash: 6F4EA45C, Key: Line11.8CA44, Value: One foot in front of the other, eh, old friend? If we stop walking, we die!
+Hash: BF84D029, Key: VoiceDir11.8CA44, Value: Shaking off melancholy. "Well, nevermind all that!" trying to cheer yourself up. 

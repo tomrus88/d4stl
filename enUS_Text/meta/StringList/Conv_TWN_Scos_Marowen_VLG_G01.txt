@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EB2028A, Key: Line1.10093F, Value: A barbarian could lift a boat with one hand and smash it to pieces.
+Hash: DEE82E57, Key: VoiceDir1.10093F, Value: excited
+Hash: 6735AC37, Key: Line3.100940, Value: That’s stupid. They're not real.
+Hash: B76BD804, Key: VoiceDir3.100940, Value: annoyed
+Hash: 3FB955FA, Key: Line5.100941, Value: Hush. (sigh) Spirits, where did I go wrong with these two?
+Hash: 8FEF81C7, Key: VoiceDir5.100941, Value: Tired

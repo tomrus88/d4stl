@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Legion
+Hash: 0687FA1D, Key: Callback16Header, Value: Slay the remaining enemies
+Hash: 83A65A9D, Key: Callback52Header, Value: Survive the ritual
+Hash: 0BDB18BB, Key: Callback23Header, Value: Disrupt the Worshipers
+Hash: 63438287, Key: Callback89Header, Value: Slay Worshippers before they transform

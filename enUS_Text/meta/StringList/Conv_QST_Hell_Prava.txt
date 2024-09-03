@@ -1,0 +1,6 @@
+Hash: 27FD9937, Key: Line7.6DE47, Value: It's Prava. Even she didn't survive this.
+Hash: 9706FF64, Key: VoiceDir7.6DE47, Value: Seeing Prava, reacting. 
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: There's something underneath her.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: curious, seeing something glowing beneath Prava
+Hash: F427C5EC, Key: Line3.7FA05, Value: I know that glow. It's the soulstone.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Nearby, Donan sees the glow of the soulstone from beneath a dead Knight Penitent. He knows what it is--he's familiar with the soulstone.

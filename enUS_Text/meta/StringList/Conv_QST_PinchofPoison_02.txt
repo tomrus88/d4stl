@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I found the venom glands you wanted.”
+Hash: 5D70D02C, Key: Line1.EB761, Value: Aww, let’s see. (deep sniff) Ahhh, now that’s the good stuff.
+Hash: F76549AE, Key: Line3.EB761, Value: Just the kick my Scorpion Wine needs. Stuff’s not for the faint of heart.
+Hash: 9159C330, Key: Line5.EB761, Value: As promised, your reward. My recipe for an antidote. If my wine knocks you out, here’s the fix for the morning after. Ha.

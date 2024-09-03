@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cutthroat's Escape
+Hash: 003892BF, Key: Desc, Value: The bandit hideout has to have Perithan, hopefully alive.

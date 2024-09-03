@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Greed lurks in all hearts.
+Hash: 7701ADA6, Key: Callback79Header, Value: Activate the {GIZMO}: {LEFT}
+Hash: CB7F6448, Key: Callback101Header, Value: Travel to the {LEVELAREA}
+Hash: 6AC6FC68, Key: Callback110Header, Value: Defeat the {MONSTER}
+Hash: 51B5B2AB, Key: Callback113Header, Value: Slay all enemies in the Deserted Commune {KAM_REVEALED_COUNT}
+Hash: 38A468EE, Key: Callback116Header, Value: Travel to the {LEVELAREA}
+Hash: 1F931F31, Key: Callback119Header, Value: Open the {GIZMO}

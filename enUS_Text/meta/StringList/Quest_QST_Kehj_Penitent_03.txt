@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Justice Delayed
+Hash: 0871A46B, Key: Toast, Value: Edgar needs help at the Caldeum overlook.
+Hash: 5CD6EA0D, Key: Phase8Description, Value: The Knights Penitent have slaughtered of the refugees hiding in the overlook. They must be stopped!
+Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat the Knights
+Hash: A5EFB09D, Key: Phase26Description, Value: Osric sent these soldiers, and this blood is on his hands. Edgar should know the truth.
+Hash: A5CF923D, Key: Callback25Header, Value: Speak with Edgar 
+Hash: D03F579C, Key: Phase52Description, Value: Osric has found where the refugees are hiding: the Forgotten Overlook. Edgar is on his way there now, and I should join him as soon as I can.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Meet Edgar at Caldeum Overlook
+Hash: EEAB03BC, Key: Phase61Description, Value: Osric has found where the refugees are hiding: the Caldeum Overlook. I should find out more from Suna.
+Hash: D5F3B5FC, Key: Callback60Header, Value: Speak with Suna in Gea Kul

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Slay Harbingers
+Hash: 0871A46B, Key: Toast, Value: If you hope to stem the Helltides, you must destroy the powerful demons that lead the lesser hordes. Slay every Harbinger you find.
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay Harbingers: {DONE_OVER_NEEDED}

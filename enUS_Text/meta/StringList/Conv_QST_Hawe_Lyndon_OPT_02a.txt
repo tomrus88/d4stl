@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Rea."
+Hash: F0C0A5F3, Key: Line9.10088C, Value: Oof, what's to tell? My brother knew how to pick them. Smart. Capable. Always one step ahead. (laughs) She once beat me with my own pair of loaded dice. Damn woman.
+Hash: 40F6D1C0, Key: VoiceDir9.10088C, Value: Starts distant. Becomes more fond. "Damn woman" is said with respect
+Hash: 4519651C, Key: Line11.10088C, Value: She killed my brother. Gutted him while he was sitting in jail. She left me a note practically inviting me to take revenge, but when I did… I couldn't do it. Couldn't, hm, pull the trigger.

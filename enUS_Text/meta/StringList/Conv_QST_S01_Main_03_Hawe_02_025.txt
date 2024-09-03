@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What have you found?"
+Hash: 4017A2CB, Key: Line5.157838, Value: Ah, yes! Here. There's a door, hidden beneath the statue.
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Just a little eager to show the player his findings.
+Hash: 189B4C8D, Key: Line7.157838, Value: Watch what happens when you make the Sign of the Light near the statue here.
+Hash: 68D1785A, Key: VoiceDir7.157838, Value: Pleased.

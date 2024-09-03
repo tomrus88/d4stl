@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have returned with your payment."
+Hash: 5D83A108, Key: Line1.FBAB6, Value: So, the deed is done? Excellent. I knew you would prove worthy of my trust.
+Hash: CC8D0735, Key: VoiceDir1.FBAB6, Value: Confident, cocky, and talking down to the PC
+Hash: F7781A8A, Key: Line3.FBAB6, Value: I'm sure you've heard the new word as it spreads...we will no longer suffer at the hands of the lesser. Our strength, our might, our destiny, is to triumph over the weak.

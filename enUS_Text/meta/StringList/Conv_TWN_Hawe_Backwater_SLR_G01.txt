@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED91BE6, Key: Line1.124D40, Value: Boss runs a tight ship around here.
+Hash: DF0F47B3, Key: VoiceDir1.124D40, Value: Disillusioned
+Hash: 675CC5D9, Key: Line3.124D4A, Value: Ugh, too tight, you ask me. I came here to escape tyranny, now I’m stuck lickin’ a tyrant’s boots.
+Hash: B792F1A6, Key: VoiceDir3.124D4A, Value: Irritated and forthcoming
+Hash: 3FE13D6C, Key: Line5.1270C4, Value: Shut yer trap! He’s got goons everywhere. Talk like that, you’ll find yourself short a few fingers.
+Hash: 90176939, Key: VoiceDir5.1270C4, Value: Perking up with an idea

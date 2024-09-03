@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Shadow Resist
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monsters take 40% less Shadow damage.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monsters take 30% less Shadow damage.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monsters take 20% less Shadow damage.

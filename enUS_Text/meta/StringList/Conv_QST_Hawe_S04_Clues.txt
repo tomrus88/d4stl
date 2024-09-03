@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this letter and these windchime sails."
+Hash: 5D71D84F, Key: Line1.ED393, Value: He just... gave up?
+Hash: CC7B3E7C, Key: VoiceDir1.ED393, Value: emphatic "GAVE UP?"
+Hash: 2B4F44D5, Key: Line7.ED393, Value: Mother was infected. He... chased her away.
+Hash: F76651D1, Key: Line3.ED393, Value: We were a family! We came here together and we should have left together and instead, h-he...
+Hash: 915ACB53, Key: Line5.ED393, Value: I know where he’d do it... where he'd kill himself. There's a place he would sit, by the river. Where we hung our first chimes. I want to - I need to face him.
+Hash: 00643180, Key: VoiceDir5.ED393, Value: breathing heavily

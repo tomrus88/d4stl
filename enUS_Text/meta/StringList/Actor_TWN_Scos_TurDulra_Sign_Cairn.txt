@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cairn of Remembrance
+Hash: F2CA04D8, Key: NoticeSignText, Value: Carefully stacked cairns stand proudly around Túr Dúlra, each a lasting testament to the druid lives that perished in Astaroth's flame. These memorials honor not only a lost people, but their way of life.

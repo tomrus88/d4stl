@@ -1,0 +1,144 @@
+Hash: 52BF3B6A, Key: Line733.3F392, Value: I am in your debt, stranger!
+Hash: A9BAE0D7, Key: VoiceDir733.3F392, Value: Grateful
+Hash: 39ADF1AD, Key: Line736.3F392, Value: I won’t forget this, stranger!
+Hash: 90A9971A, Key: VoiceDir736.3F392, Value: Grateful
+Hash: 209CA7F0, Key: Line739.3F392, Value: Thank you, stranger!
+Hash: 77984D5D, Key: VoiceDir739.3F392, Value: Grateful
+Hash: F58F4FEE, Key: Line742.EDC78, Value: I am in your debt, stranger!
+Hash: 4C8AF55B, Key: VoiceDir742.EDC78, Value: Grateful
+Hash: DC7E0631, Key: Line745.EDC78, Value: I won’t forget this, stranger!
+Hash: 3379AB9E, Key: VoiceDir745.EDC78, Value: Grateful
+Hash: C36CBC74, Key: Line748.EDC78, Value: Thank you, stranger!
+Hash: 1A6861E1, Key: VoiceDir748.EDC78, Value: Grateful
+Hash: 94D6E80F, Key: Line751.EDC79, Value: I am in your debt, stranger!
+Hash: EBD28D7C, Key: VoiceDir751.EDC79, Value: Grateful
+Hash: 7BC59E52, Key: Line754.EDC79, Value: I won’t forget this, stranger!
+Hash: D2C143BF, Key: VoiceDir754.EDC79, Value: Grateful
+Hash: 62B45495, Key: Line757.EDC79, Value: Thank you, stranger!
+Hash: B9AFFA02, Key: VoiceDir757.EDC79, Value: Grateful
+Hash: 309603A8, Key: Line760.3F381, Value: I am in your debt, stranger!
+Hash: 8791A915, Key: VoiceDir760.3F381, Value: Grateful
+Hash: 1784B9EB, Key: Line763.3F381, Value: I won’t forget this, stranger!
+Hash: 6E805F58, Key: VoiceDir763.3F381, Value: Grateful
+Hash: FE73702E, Key: Line766.3F381, Value: Thank you, stranger!
+Hash: 556F159B, Key: VoiceDir766.3F381, Value: Grateful
+Hash: E8EAA321, Key: Line769.EDC7B, Value: I am in your debt, stranger!
+Hash: 3FE6488E, Key: VoiceDir769.EDC7B, Value: Grateful
+Hash: BA54CEBB, Key: Line772.EDC7B, Value: I won’t forget this, stranger!
+Hash: 11507428, Key: VoiceDir772.EDC7B, Value: Grateful
+Hash: A14384FE, Key: Line775.EDC7B, Value: Thank you, stranger!
+Hash: F83F2A6B, Key: VoiceDir775.EDC7B, Value: Grateful
+Hash: 88323B42, Key: Line778.EDC7C, Value: I am in your debt, stranger!
+Hash: DF2DE0AF, Key: VoiceDir778.EDC7C, Value: Grateful
+Hash: 599C66DC, Key: Line781.EDC7C, Value: I won’t forget this, stranger!
+Hash: B0980C49, Key: VoiceDir781.EDC7C, Value: Grateful
+Hash: 408B1D1F, Key: Line784.EDC7C, Value: Thank you, stranger!
+Hash: 9786C28C, Key: VoiceDir784.EDC7C, Value: Grateful
+Hash: 272A2F80, Key: Line787.B79B0, Value: I am in your debt, stranger!
+Hash: 7E25D4ED, Key: VoiceDir787.B79B0, Value: Grateful
+Hash: F8945B1A, Key: Line790.B79B0, Value: I won’t forget this, stranger!
+Hash: 4F900087, Key: VoiceDir790.B79B0, Value: Grateful
+Hash: DF83115D, Key: Line793.B79B0, Value: Thank you, stranger!
+Hash: 367EB6CA, Key: VoiceDir793.B79B0, Value: Grateful
+Hash: C6C16B53, Key: Line796.EDC74, Value: I am in your debt, stranger!
+Hash: 1DBD10C0, Key: VoiceDir796.EDC74, Value: Grateful
+Hash: ADB02196, Key: Line799.EDC74, Value: I won’t forget this, stranger!
+Hash: 04ABC703, Key: VoiceDir799.EDC74, Value: Grateful
+Hash: B9046D67, Key: Line802.EDC74, Value: Thank you, stranger!
+Hash: 100012D4, Key: VoiceDir802.EDC74, Value: Grateful
+Hash: 9FF323AB, Key: Line805.EDC75, Value: I am in your debt, stranger!
+Hash: F6EEC918, Key: VoiceDir805.EDC75, Value: Grateful
+Hash: 86E1D9EE, Key: Line808.EDC75, Value: I won’t forget this, stranger!
+Hash: DDDD7F5B, Key: VoiceDir808.EDC75, Value: Grateful
+Hash: 584C0588, Key: Line811.EDC75, Value: Thank you, stranger!
+Hash: AF47AAF5, Key: VoiceDir811.EDC75, Value: Grateful
+Hash: 3EEB1818, Key: Line814.B79B1, Value: I am in your debt, stranger!
+Hash: 95E6BD85, Key: VoiceDir814.B79B1, Value: Grateful
+Hash: 25D9CE5B, Key: Line817.B79B1, Value: I won’t forget this, stranger!
+Hash: 7CD573C8, Key: VoiceDir817.B79B1, Value: Grateful
+Hash: F743F9F5, Key: Line820.B79B1, Value: Thank you, stranger!
+Hash: 4E3F9F62, Key: VoiceDir820.B79B1, Value: Grateful
+Hash: DE8253EC, Key: Line823.EDC76, Value: I am in your debt, stranger!
+Hash: 357DF959, Key: VoiceDir823.EDC76, Value: Grateful
+Hash: C5710A2F, Key: Line826.EDC76, Value: I won’t forget this, stranger!
+Hash: 1C6CAF9C, Key: VoiceDir826.EDC76, Value: Grateful
+Hash: AC5FC072, Key: Line829.EDC76, Value: Thank you, stranger!
+Hash: 035B65DF, Key: VoiceDir829.EDC76, Value: Grateful
+Hash: 7DC9EC0D, Key: Line832.EDC77, Value: I am in your debt, stranger!
+Hash: D4C5917A, Key: VoiceDir832.EDC77, Value: Grateful
+Hash: 64B8A250, Key: Line835.EDC77, Value: I won’t forget this, stranger!
+Hash: BBB447BD, Key: VoiceDir835.EDC77, Value: Grateful
+Hash: 4BA75893, Key: Line838.EDC77, Value: Thank you, stranger!
+Hash: A2A2FE00, Key: VoiceDir838.EDC77, Value: Grateful
+Hash: 1CC145CE, Key: Line841.B6757, Value: I am in your debt, stranger!
+Hash: 73BCEB3B, Key: VoiceDir841.B6757, Value: Grateful
+Hash: 03AFFC11, Key: Line844.B6757, Value: I won’t forget this, stranger!
+Hash: 5AABA17E, Key: VoiceDir844.B6757, Value: Grateful
+Hash: EA9EB254, Key: Line847.B6757, Value: Thank you, stranger!
+Hash: 419A57C1, Key: VoiceDir847.B6757, Value: Grateful
+Hash: BC591C7A, Key: Line850.EDC7D, Value: I am in your debt, stranger!
+Hash: 1354C1E7, Key: VoiceDir850.EDC7D, Value: Grateful
+Hash: A347D2BD, Key: Line853.EDC7D, Value: I won’t forget this, stranger!
+Hash: FA43782A, Key: VoiceDir853.EDC7D, Value: Grateful
+Hash: 8A368900, Key: Line856.EDC7D, Value: Thank you, stranger!
+Hash: E1322E6D, Key: VoiceDir856.EDC7D, Value: Grateful
+Hash: 71253F44, Key: Line859.EDC7E, Value: I am in your debt, stranger!
+Hash: C820E4B1, Key: VoiceDir859.EDC7E, Value: Grateful
+Hash: 428F6ADE, Key: Line862.EDC7E, Value: I won’t forget this, stranger!
+Hash: 998B104B, Key: VoiceDir862.EDC7E, Value: Grateful
+Hash: 297E2121, Key: Line865.EDC7E, Value: Thank you, stranger!
+Hash: 8079C68E, Key: VoiceDir865.EDC7E, Value: Grateful
+Hash: 101C9C73, Key: Line868.B6807, Value: I am in your debt, stranger!
+Hash: 671841E0, Key: VoiceDir868.B6807, Value: Grateful
+Hash: E186C80D, Key: Line871.B6807, Value: I won’t forget this, stranger!
+Hash: 38826D7A, Key: VoiceDir871.B6807, Value: Grateful
+Hash: C8757E50, Key: Line874.B6807, Value: Thank you, stranger!
+Hash: 1F7123BD, Key: VoiceDir874.B6807, Value: Grateful
+Hash: AFB46F85, Key: Line877.EDC7F, Value: I am in your debt, stranger!
+Hash: 06B014F2, Key: VoiceDir877.EDC7F, Value: Grateful
+Hash: 811E9B1F, Key: Line880.EDC7F, Value: I won’t forget this, stranger!
+Hash: D81A408C, Key: VoiceDir880.EDC7F, Value: Grateful
+Hash: 680D5162, Key: Line883.EDC7F, Value: Thank you, stranger!
+Hash: BF08F6CF, Key: VoiceDir883.EDC7F, Value: Grateful
+Hash: 4EFC0790, Key: Line886.EDC80, Value: I am in your debt, stranger!
+Hash: A5F7ACFD, Key: VoiceDir886.EDC80, Value: Grateful
+Hash: 35EABDD3, Key: Line889.EDC80, Value: I won’t forget this, stranger!
+Hash: 8CE66340, Key: VoiceDir889.EDC80, Value: Grateful
+Hash: 0754E96D, Key: Line892.EDC80, Value: Thank you, stranger!
+Hash: 5E508EDA, Key: VoiceDir892.EDC80, Value: Grateful
+Hash: F9283F5F, Key: Line949.BC3FE, Value: I am in your debt, stranger!
+Hash: 5023E4CC, Key: VoiceDir949.BC3FE, Value: Grateful
+Hash: CA926AF9, Key: Line952.BC3FE, Value: I won’t forget this, stranger!
+Hash: 218E1066, Key: VoiceDir952.BC3FE, Value: Grateful
+Hash: B181213C, Key: Line955.BC3FE, Value: Thank you, stranger!
+Hash: 087CC6A9, Key: VoiceDir955.BC3FE, Value: Grateful
+Hash: 98A7734F, Key: Line958.EDC70, Value: I am in your debt, stranger!
+Hash: EFA318BC, Key: VoiceDir958.EDC70, Value: Grateful
+Hash: 6A119EE9, Key: Line961.EDC70, Value: I won’t forget this, stranger!
+Hash: C10D4456, Key: VoiceDir961.EDC70, Value: Grateful
+Hash: 5100552C, Key: Line964.EDC70, Value: Thank you, stranger!
+Hash: A7FBFA99, Key: VoiceDir964.EDC70, Value: Grateful
+Hash: 37EF0B70, Key: Line967.EDC71, Value: I am in your debt, stranger!
+Hash: 8EEAB0DD, Key: VoiceDir967.EDC71, Value: Grateful
+Hash: 0959370A, Key: Line970.EDC71, Value: I won’t forget this, stranger!
+Hash: 6054DC77, Key: VoiceDir970.EDC71, Value: Grateful
+Hash: F047ED4D, Key: Line973.EDC71, Value: Thank you, stranger!
+Hash: 474392BA, Key: VoiceDir973.EDC71, Value: Grateful
+Hash: D6FF07C0, Key: Line976.BC3FF, Value: I am in your debt, stranger!
+Hash: 2DFAAD2D, Key: VoiceDir976.BC3FF, Value: Grateful
+Hash: BDEDBE03, Key: Line979.BC3FF, Value: I won’t forget this, stranger!
+Hash: 14E96370, Key: VoiceDir979.BC3FF, Value: Grateful
+Hash: 8F57E99D, Key: Line982.BC3FF, Value: Thank you, stranger!
+Hash: E6538F0A, Key: VoiceDir982.BC3FF, Value: Grateful
+Hash: 767E3BB1, Key: Line985.EDC72, Value: I am in your debt, stranger!
+Hash: CD79E11E, Key: VoiceDir985.EDC72, Value: Grateful
+Hash: 5D6CF1F4, Key: Line988.EDC72, Value: I won’t forget this, stranger!
+Hash: B4689761, Key: VoiceDir988.EDC72, Value: Grateful
+Hash: 2ED71D8E, Key: Line991.EDC72, Value: Thank you, stranger!
+Hash: 85D2C2FB, Key: VoiceDir991.EDC72, Value: Grateful
+Hash: 15C5D3D2, Key: Line994.EDC73, Value: I am in your debt, stranger!
+Hash: 6CC1793F, Key: VoiceDir994.EDC73, Value: Grateful
+Hash: FCB48A15, Key: Line997.EDC73, Value: I won’t forget this, stranger!
+Hash: 53B02F82, Key: VoiceDir997.EDC73, Value: Grateful
+Hash: FE80982D, Key: Line1000.EDC73, Value: Thank you, stranger!
+Hash: 34F0EB3A, Key: VoiceDir1000.EDC73, Value: Grateful

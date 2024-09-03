@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Death Trap{/c} deals {c_random}[Affix_Value_1|%x|]{/c} increased damage and will rearm itself once after activating.

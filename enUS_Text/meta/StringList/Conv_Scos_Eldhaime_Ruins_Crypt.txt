@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Soulstone
+Hash: 3D1B9D01, Key: Line17.7FA05, Value: Here it is. The soulstone chamber.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Lilith has what she wanted all this time. She took the stone.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: Heavy sigh, worried
+Hash: A327237F, Key: Line15.7FA05, Value: No sign of Yorin though. We need to find him.
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: Worried

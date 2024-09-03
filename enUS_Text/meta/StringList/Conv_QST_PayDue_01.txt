@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you staring at?"
+Hash: 5D83570B, Key: Line1.FC047, Value: Meant no offense. You look like you know how to handle yourself. I could use your assistance.
+Hash: CC8CBD38, Key: VoiceDir1.FC047, Value: Grinning. Polite. Oily.
+Hash: F777D08D, Key: Line3.FC047, Value: I worked the mines for a living, until those pigs-born bandits came. They slaughtered us, took everything. I barely made it out alive.
+Hash: 668136BA, Key: VoiceDir3.FC047, Value: Hates the bandits. More offended than upset (no trauma.)
+Hash: 916C4A0F, Key: Line5.FC047, Value: (sigh) By now, they’ve got the lockbox with all our wages in it...good thing I took the key. If you can bring me the box, I’ll gladly give you a share.
+Hash: 0075B03C, Key: VoiceDir5.FC047, Value: Annoyed, then grinning. 

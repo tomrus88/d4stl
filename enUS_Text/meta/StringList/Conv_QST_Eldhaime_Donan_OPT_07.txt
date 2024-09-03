@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can you tell me more about the incident?"
+Hash: 5A334C6A, Key: Line1.7FA05, Value: It occurred just the other day, in the dead of night. I thought it was a nightmare at first...but, unfortunately, that is not the case.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Cautious, anxious
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: I have some things to finish up here, and then we will talk more at the estate.

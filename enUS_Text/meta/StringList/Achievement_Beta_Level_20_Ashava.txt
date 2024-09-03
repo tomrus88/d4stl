@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Early Victory
+Hash: 003892BF, Key: Desc, Value: Participate in the death of the Ashava at level 20.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What is this place?”
+Hash: 2AEADEEB, Key: Line7.A109C, Value: A druid ritual site. The spirits give power to the rituals we do, and we pay them by being harassed. (laugh)
+Hash: 99F44518, Key: VoiceDir7.A109C, Value: gruff laugh
+Hash: C4DF586D, Key: Line9.A109C, Value: They created the ritual to find the wight. The first half usually quiets your emotions. That way the wight can't manipulate you.
+Hash: 72185676, Key: Line11.A109C, Value: Turns out you can't do that without paying a high price. (laugh)
+Hash: C24E8243, Key: VoiceDir11.A109C, Value: Bitter laugh
+Hash: 0C0CCFF8, Key: Line13.A109C, Value: Don't be scared. The wight never liked rage. I'm safe from her.

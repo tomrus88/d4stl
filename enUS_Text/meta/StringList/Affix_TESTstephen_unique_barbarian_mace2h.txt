@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Hammering
+Hash: 003892BF, Key: Desc, Value: (PH) Consecutive Hammer of the Ancients increase the next cast's damage by {c_number}{Affix_Value_1}%{/c} up to {{Affix_Value_1}*2}% and its radius by {c_number}{Affix_Value_2}%{/c} up to {{Affix_Value_2}*2}%.

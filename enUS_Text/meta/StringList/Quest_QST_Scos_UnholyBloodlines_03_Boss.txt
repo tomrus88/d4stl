@@ -1,0 +1,6 @@
+Hash: B8A227EA, Key: Callback4Header, Value: Place the Khazra Blood
+Hash: 398557AF, Key: Callback9Header, Value: Defeat Una
+Hash: 5296A16C, Key: Callback6Header, Value: Place the Werewolf Blood
+Hash: 9F90DE2D, Key: Callback7Header, Value: Place the Druid Totem
+Hash: D9B88541, Key: Callback29Header, Value: Go to the ritual location
+Hash: 0BDB18BB, Key: Callback23Header, Value: Speak to Artair

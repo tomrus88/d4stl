@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Facing Dark Terrors
+Hash: 3A4912CF, Key: DescShort, Value: Complete {icon:Marker_NightmareDungeonEntrance, 2.5} Nightmare Vaults

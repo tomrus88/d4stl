@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me of Malnok."
+Hash: 5D22EA2D, Key: Line1.B757A, Value: Malnok was a settlement before the khazra sorcerers emerged from the mountain. Now goatmen congregate there in large numbers. I've seen firsthand the foul magics they practice.
+Hash: CC2C505A, Key: VoiceDir1.B757A, Value: Prideful and strong,
+Hash: F71763AF, Key: Line3.B757A, Value: You will need to shatter the khazra before you can seek the Grizzly's Maul. Many have tried, but none have yet succeeded.

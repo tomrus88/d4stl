@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Sea-rusted bells ring out unholy prayers.
+Hash: 5296A16C, Key: Callback6Header, Value: Defeat the {MONSTER}
+Hash: 398557AF, Key: Callback9Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 976485BC, Key: Callback42Header, Value: Slay the Anchorbound Chaplain and collect the {ITEM}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Travel to the {LEVELAREA}
+Hash: DF0BA3DF, Key: Callback36Header, Value: Use the Rusted Key to open the {GIZMO}

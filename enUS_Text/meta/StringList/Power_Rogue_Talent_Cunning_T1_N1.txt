@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Agile
+Hash: 003892BF, Key: desc, Value: Using a Cooldown increases your Dodge Chance by {c_number}[{SF_0}*100|%|]{/c} for {c_number}{buffduration:DODGE_BONUS}{/c} seconds. 
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Dodge Chance {icon:arrow,1.2} {c_number}[{SF_0}*100|%|]{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Agile
+Hash: C6E60718, Key: Buff2_Description, Value: Increased Dodge Chance after using a Cooldown.

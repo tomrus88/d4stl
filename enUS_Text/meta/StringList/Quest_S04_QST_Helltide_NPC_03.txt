@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: A Gift of Robes
+Hash: D53BFF05, Key: Phase0Description, Value: I've made progress in the fight against Hell. I should report to Soudeh at the Iron Wolves camp.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Soudeh
+Hash: C9FCD1EA, Key: Phase5Description, Value: A headstrong Iron Wolf named Telan has gone missing. Soudeh suggested that I search for him in the darkest forests of the Fractured Peaks.
+Hash: B8A227EA, Key: Callback4Header, Value: Search for Telan in the Fractured Peaks
+Hash: 803B8057, Key: Phase20Description, Value: I have found the dark place in the woods where Telan went to fight demons. I must discover his fate.
+Hash: ED76B060, Key: Callback19Header, Value: Enter the Pine Passage
+Hash: 1315987A, Key: Phase23Description, Value: Telan abandoned the Iron Wolves, murdered the warriors that went looking for him, and was gifted a demon's power in exchange. I should return to the Iron Wolves Camp and tell Soudeh what happened.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Tell Soudeh what you learned
+Hash: A5EFB09D, Key: Phase26Description, Value: I sense Soudeh and the Wolves have more to share. I need to prove myself fighting against the Helltide to earn their trust.
+Hash: A5CF923D, Key: Callback25Header, Value: Achieve Honor Rank 5 with the Iron Wolves

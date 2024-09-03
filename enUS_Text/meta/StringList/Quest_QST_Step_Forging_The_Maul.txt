@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Crucible of Worth
+Hash: 0871A46B, Key: Toast, Value: Recover the ancestral weapon of the Oxen Tribe.
+Hash: 4A6A48FB, Key: Callback41Header, Value: Take the {ITEM}
+Hash: 5CD6EA0D, Key: Phase8Description, Value: The Great Axe is broken. Gerti will need to see the weapon and decide what to do next.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Return the broken Great Axe to Gerti in Ked Bardu
+Hash: 1315987A, Key: Phase23Description, Value: Gerti needs materials to reforge the Great Axe.
+
+First, I must find an Oppressor demon in the Hapless Frontier and take one of its horns.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Acquire an {ITEM}
+Hash: A5EFB09D, Key: Phase26Description, Value: I have the materials Gerti requested. Time to get back to Ked Bardu.
+Hash: A5CF923D, Key: Callback25Header, Value: Return the materials to Gerti in Ked Bardu
+Hash: 3181449A, Key: Phase32Description, Value: Gerti needs materials to reforge the Great Axe.
+
+With the demon horn fouling my pack, I now need a rare ore from the Infested Delve of the Kotama Grasslands.
+Hash: 5E28741A, Key: Callback31Header, Value: Gather {ITEM} from the Infected Delve: {DONE_OVER_NEEDED}
+Hash: 0132B4FD, Key: Phase53Description, Value: The Great Axe of Raekor has been stolen from the Oxen Tribe.
+
+The forgemaster, Gerti, suspects agents of the Triune are to blame. She's asked me to seek them out at the southern tip of the Scarred Coast and recover the storied weapon.
+Hash: 6A9510E0, Key: Callback55Header, Value: Retrieve the Great Axe of Raekor

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What comes next for the Woodsman's Axe? "
+Hash: 8ED899EA, Key: Line1.123EBF, Value: You made it! Come, we have much to do before the woodsman's axe can be sundered. Let us move quickly, before we draw unwanted attention.
+Hash: DF0EC5B7, Key: VoiceDir1.123EBF, Value: Commanding urgency 

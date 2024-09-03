@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Samil's Corpse
+Hash: F5C7BC0A, Key: Flavor, Value: This graverobber’s corpse lacks warmth and has not yet been infected by flies. Despite the body’s stiffening, it manages to fit in your bag.

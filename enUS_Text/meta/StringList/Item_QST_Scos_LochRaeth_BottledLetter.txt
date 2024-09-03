@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Letter to Padrig of Corbach
+Hash: A646FFA4, Key: Description, Value: A letter found in a bottle on the shores of the Jagged Shoals

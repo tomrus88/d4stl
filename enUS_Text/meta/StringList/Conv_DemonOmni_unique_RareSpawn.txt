@@ -1,0 +1,2 @@
+Hash: 5D6CA035, Key: Line1.F8D66, Value: No! Damn you!
+Hash: CC760662, Key: VoiceDir1.F8D66, Value: Angry, hateful. The player stole something from you.

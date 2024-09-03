@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Elias summoned Lilith because he believes she is our only path to salvation.”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: I can see how he would come to that conclusion. She is the Mother of Sanctuary, and she has sided with humanity in the past.
+Hash: F427C5EC, Key: Line3.7FA05, Value: But his logic is flawed. To Lilith, humanity and this world are her possessions. Her dominion. And they always will be.

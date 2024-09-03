@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Seal Minor 004
+Hash: 003892BF, Key: Desc, Value: You gain 10% more Cooldown Reduction.
+
+Consumes {c_blue}2 Blue Pacts{/c} and {c_red}1 Red Pact{/c}

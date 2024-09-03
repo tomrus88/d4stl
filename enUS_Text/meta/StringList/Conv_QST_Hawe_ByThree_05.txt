@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen a one eyed swordsman and a priest recently?"
+Hash: F7177A1E, Key: Line3.B79AB, Value: I do remember... they were looking for sell-swords. I s'pose on account of the curate - he wasn't a fighting man.
+Hash: 910BF3A0, Key: Line5.B79AB, Value: They picked up three. Only Sev's come back.
+Hash: 65381056, Key: Line13.BAE4, Value: Sev? Where is she?
+Hash: 2B006D22, Key: Line7.B79AB, Value: Out near the cove. She's not right, mind you. Won't talk to people without her mead.
+Hash: C4F4E6A4, Key: Line9.B79AB, Value: I've got some for her if you've got the coin.

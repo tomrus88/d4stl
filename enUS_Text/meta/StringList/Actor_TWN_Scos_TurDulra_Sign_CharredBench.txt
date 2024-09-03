@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charred Bench
+Hash: F2CA04D8, Key: NoticeSignText, Value: Once a place of learning, the charred benches sit as ghostly shadows amongst the ruins. Echoes of a time the druids walked these halls and shared their teachings before being forever silenced.

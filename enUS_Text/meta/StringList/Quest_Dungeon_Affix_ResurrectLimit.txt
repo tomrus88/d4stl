@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: {c_blue}Resurrection Limit{/c}
+Hash: 0871A46B, Key: Toast, Value: Dungeon Affixes

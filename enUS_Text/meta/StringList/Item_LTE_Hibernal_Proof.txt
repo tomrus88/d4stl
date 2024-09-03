@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Midwinter Proof
+Hash: A646FFA4, Key: Description, Value: Use these to purchase Midwinter Rewards from Gileon at the Midwinter Square in Kyovashad.

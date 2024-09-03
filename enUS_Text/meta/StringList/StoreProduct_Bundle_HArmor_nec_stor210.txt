@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nahantu Tombkeeper
+Hash: A646FFA4, Key: Description, Value: When heavy rain exposed a crypt in the jungle, graverobbers quickly took advantage. Inside, they found a mummified priest guarding the way down. They chuckled at the fright and tried to push past, but then the priest began to move...
+Hash: 083EE0CE, Key: Quote, Value: Ever vigilant.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Equipment

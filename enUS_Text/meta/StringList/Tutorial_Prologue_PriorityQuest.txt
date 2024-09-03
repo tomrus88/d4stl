@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Priority Quests
+Hash: 7BFE534B, Key: simple_instruction, Value: {icon:Tutorial_PriorityQuest_Icon,2} Priority Quests introduce or unlock {c_highlight}new features and systems{/c}.

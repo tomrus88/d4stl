@@ -1,0 +1,23 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A334C6A, Key: Line1.7FA05, Value: (tired sigh)
+Hash: F7300776, Key: Line3.BD31C, Value: Grant...me...entrance...
+Hash: 66396DA3, Key: VoiceDir3.BD31C, Value: barely audible, creepy
+Hash: CDF828A0, Key: Line43.7FA05, Value: No...this can’t be...
+Hash: 1E2E546D, Key: VoiceDir43.7FA05, Value: stammering/loss for words
+Hash: AF93C045, Key: Line39.7FA05, Value: I know who you are.
+Hash: FFC9EC12, Key: VoiceDir39.7FA05, Value: fearful
+Hash: 254C3544, Key: Line10.BD31C, Value: And I know you. Donan.
+Hash: 18A7884D, Key: Line37.BD31C, Value: Old. Tired. Each day a struggle to live up to your own legacy.
+Hash: 562CE6BE, Key: Line14.7FA05, Value: What do you want with me?
+Hash: A663128B, Key: VoiceDir14.7FA05, Value: shaky conviction
+Hash: F329A1CA, Key: Line16.BD31C, Value: Astaroth.
+Hash: 8A15D9C2, Key: Line18.7FA05, Value: He’s dead.
+Hash: 118E0A25, Key: Line20.BD31C, Value: Astaroth cannot die. Not by your hand.
+Hash: 7EB30ECB, Key: Line35.BD31C, Value: What have you done with him?
+Hash: F5747EDE, Key: Line23.7FA05, Value: Away, demon. I deny you.
+Hash: 45AAAAAB, Key: VoiceDir23.7FA05, Value: struggling, through gritted teeth
+Hash: 927139EA, Key: Line25.BD31C, Value: You have grown so frail...
+Hash: E4BE9549, Key: Line33.BD31C, Value: ...I can make you the hero you were.
+Hash: 7657AEA3, Key: Line28.7FA05, Value: Return to the darkness from whence you came.
+Hash: C68DDA70, Key: VoiceDir28.7FA05, Value: muttering, barely audible
+Hash: 47C1DA3D, Key: Line31.7FA05, Value: I said away.

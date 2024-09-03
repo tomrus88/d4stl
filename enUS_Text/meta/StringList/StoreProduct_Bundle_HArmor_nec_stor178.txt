@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Red Confessor
+Hash: A646FFA4, Key: Description, Value: Blood magic affords the practitioner an exceptional degree of control over others. Pain, disease, madness...each is an instrument in their hands, prying loose from their subject whatever they desire.
+Hash: 083EE0CE, Key: Quote, Value: Everyone talks.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

@@ -1,0 +1,12 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Begin the exorcism."
+Hash: 5D8555C1, Key: Line1.FEF63, Value: (deep breath)
+Hash: CC8EBBEE, Key: VoiceDir1.FEF63, Value: a bit of stage nerves as you prepare to do an intricate ritual.
+Hash: F779CF43, Key: Line3.FEF63, Value: Father Inarius, as I shed my wicked blood, let it be purified in thy Light! Let the Light fill the darkness--
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: Said with conviction. This is a magicl ritual and the correct words matter.
+Hash: 18663E61, Key: Line7.128A6B, Value: Pathetic. This child belongs to me!
+Hash: A6792CF8, Key: Line15.FEF74, Value: Angels above! My son!
+Hash: F6AF58C5, Key: VoiceDir15.FEF74, Value: Terrified
+Hash: 406DA658, Key: Line17.FEF63, Value: Let the Light push out the darkness hiding within this child. Father, force this demon out!
+Hash: 90A3D225, Key: VoiceDir17.FEF63, Value: Said with conviction with some projection. Talking over a demon's growls. This is a magicl ritual and the correct words matter.
+Hash: A7514E54, Key: Line19.128A6B, Value: Hah! Your mewling has no power here!
+Hash: FE4CF3C1, Key: VoiceDir19.128A6B, Value: cruel, mocking

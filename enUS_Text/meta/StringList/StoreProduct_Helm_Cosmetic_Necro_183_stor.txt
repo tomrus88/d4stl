@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Choral Halo
+Hash: 13A53A8B, Key: Series, Value: "Chorus of Light"

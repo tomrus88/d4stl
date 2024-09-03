@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: With a waypoint as a mystical anchor, speak the ancient words and transport yourself across creation.
+Hash: 003DFCC1, Key: Name, Value: Warpath
+Hash: 13A53A8B, Key: Series, Value: Dark Pathways

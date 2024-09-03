@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Loose Threads
+Hash: 0871A46B, Key: Toast, Value: Speak with the mysterious woman
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Lorath
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must find Lorath and ensure that he and that woman made it out safely.
+Hash: 027C5085, Key: Phase97Description, Value: I must find Lorath and ensure that he and that woman made it out safely.
+Hash: 7F95DB6D, Key: Phase97OutsideSubzoneHeader, Value: Speak with the mysterious woman near the exit of the Temple of the Primes
+Hash: 6896A125, Key: Callback96Header, Value: Speak with the mysterious woman
+Hash: E2C50A6B, Key: Phase123Description, Value: We successfully disrupted Elias' ritual, but he himself escaped. We must make a plan to find him and end his threat.
+Hash: 753D1813, Key: Phase123OutsideSubzoneHeader, Value: Speak with Lorath near the exit of the Temple of the Primes
+Hash: F0FD4ACB, Key: Callback122Header, Value: Speak with Lorath

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Weapons Master
+Hash: 003892BF, Key: desc, Value: Swapping weapons grants you {c_number}[{SF_0}*100|%|]{/c} of your Maximum {c_important}Fury{/c}.

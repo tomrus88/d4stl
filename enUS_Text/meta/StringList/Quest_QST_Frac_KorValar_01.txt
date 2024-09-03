@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: Name, Value: Kor Valar
+Hash: 0871A46B, Key: Toast, Value: Speak with Reverend Mother Prava in Kor Valar
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Reverend Mother Prava in Kor Valar
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must go to Kor Valar and speak with Reverend Mother Prava. Hopefully she will grant me the blessing necessary to travel beyond the Black Lake and pursue Lilith.
+Hash: 75A12100, Key: Phase47Description, Value: Iosef told me Reverend Mother Prava is at Kor Valar. If I'm to obtain what I need I must seek her out there. 
+Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Travel to Kor Valar
+Hash: F0CB5F43, Key: Callback67Header, Value: Travel to Kor Valar
+Hash: 94B19AE4, Key: Phase78Description, Value: Vigo accompanies me as I approach Reverend Mother Prava to seek the blessing that will allow me to pursue Lilith across the Black Lake.
+Hash: EB4A40AC, Key: Phase78OutsideSubzoneHeader, Value: Speak with Reverend Mother Prava  in Kor Valar
+Hash: AE775FBE, Key: Callback80Header, Value: Speak with Reverend Mother Prava
+Hash: 32C8E1B0, Key: Phase155Description, Value: Vigo accompanies me as I approach Reverend Mother Prava to seek the blessing that will allow me to pursue Lilith across the Black Lake.
+Hash: 6F5BECF8, Key: Phase155OutsideSubzoneHeader, Value: Speak with Reverend Mother Prava  in Kor Valar
+Hash: 5C23DFB6, Key: Callback178Header, Value: Speak with Reverend Mother Prava
+Hash: 3EACDC8F, Key: Phase172Description, Value: Vigo has completed his duty of honoring the Knights Penitent slain in Kasama. I must now speak with him. 
+Hash: 618D92B7, Key: Phase172OutsideSubzoneHeader, Value: Speak with Vigo in Kor Valar
+Hash: 283AECB2, Key: Callback174Header, Value: Speak with Vigo
+Hash: FA341694, Key: Phase205OutsideSubzoneHeader, Value: Find Reverend Mother Prava in Kor Valar
+Hash: 26EA8B8C, Key: Callback204Header, Value: Find Reverend Mother Prava

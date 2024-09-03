@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What will you do now?"
+Hash: F427C5EC, Key: Line3.7FA05, Value: I must see to the dead here. If I'd known they were in danger, I would have closed off the estate.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Grave, feeling responsible for the dead.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Damn Lilith! She brought this on them!
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: Angry

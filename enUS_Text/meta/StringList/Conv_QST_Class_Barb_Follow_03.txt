@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What is in this cave?”
+Hash: 59F2EB1C, Key: Line1.541E6, Value: A great and terrible beast. It has plagued the Steppes all season, laying waste to crops, caravans, and warriors alike.
+Hash: C8FC5149, Key: VoiceDir1.541E6, Value: Only slighly somber. Such threats are common in the Steppes.
+Hash: F3E7649E, Key: Line3.541E6, Value: Bring me its head as an offering to our ancestors. Then, we may call you Oxen Tribe.
+Hash: 62F0CACB, Key: VoiceDir3.541E6, Value: Direct. Reverent. Presenting the challenge.
+Hash: 27D057A2, Key: Line7.541E6, Value: I will wait here for you to return... or until the sun rises again.
+Hash: 96D9BDCF, Key: VoiceDir7.541E6, Value: Direct. Not sugar coating.
+Hash: 9354E2EE, Key: Line9.BAE4.Bar, Value: You will not be waiting long.
+Hash: C9C535FB, Key: VoiceDir9.BAE4.Bar, Value: Confident. Ready. Heading inside the cave.

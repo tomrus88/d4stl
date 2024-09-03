@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gifted Armorsmith
+Hash: 003892BF, Key: Desc, Value: Temper Armor 10 times.

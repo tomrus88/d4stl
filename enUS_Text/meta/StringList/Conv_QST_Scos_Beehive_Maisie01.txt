@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you all right?"
+Hash: 5A28B31F, Key: Line1.8354D, Value: Have enough food to last us weeks. Sharpened my blade too, in case any spirits get too close.
+Hash: C932194C, Key: VoiceDir1.8354D, Value: Putting on a brave face
+Hash: F41B88FE, Key: Line3.804B7, Value: You taught her well.
+Hash: 8E11A5F1, Key: Line5.83542, Value: Not so much to learn from someone like me. The truth is, she’s the reason I’ve lasted so long up here.

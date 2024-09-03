@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ascended Blood Seekers Tome
+Hash: F2CA04D8, Key: NoticeSignText, Value: Names and deeds of Lord Zir's lieutenants, referred to as the Ascended Blood Seekers. The tome shows months of work identifying and tracking their location.

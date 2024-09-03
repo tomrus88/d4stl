@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will things get better?"
+Hash: 5D6D27CD, Key: Line1.F9C22, Value: Hahaha, wait your turn, you drunkards! There's plenty to go around.

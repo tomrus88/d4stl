@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Fury Against Fate
+Hash: 059C64AB, Key: Callback5Header, Value: Speak with Ealda
+Hash: EC8B1AEE, Key: Callback8Header, Value: Clear the cannibal feeding ground.
+Hash: 85A4CA58, Key: Callback11Header, Value: Speak with Ealda
+Hash: 538236DE, Key: Callback17Header, Value: Survive the cannibal incursion alongside the Crane Tribe
+Hash: 24EC6278, Key: Callback20Header, Value: Speak with Ealda

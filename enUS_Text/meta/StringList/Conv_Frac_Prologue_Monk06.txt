@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who is this hermit?"
+Hash: F414E39C, Key: Line3.6F0BE, Value: He surrounds himself with dark knowledge. Tread carefully, and pray he has not fallen to Lilith as well.
+Hash: 631E49C9, Key: VoiceDir3.6F0BE, Value: Doesn't like this "hermit," but he knows his knowledge can be useful to the Cathedral's cause.

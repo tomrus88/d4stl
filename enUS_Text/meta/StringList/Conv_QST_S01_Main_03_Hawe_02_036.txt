@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Cormond, we’ve done all we can.” 
+Hash: 4017A2CB, Key: Line5.157838, Value: (deep breath) Perhaps it’s time we leave this place.
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Deflated, heartbroken.
+Hash: 189B4C8D, Key: Line7.157838, Value: We can—we’ll return to my village. Where it started, and where it will end.
+Hash: 68D1785A, Key: VoiceDir7.157838, Value: Heartbroken, but determined.

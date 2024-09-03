@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: Crusaders' Monument
+Hash: 0871A46B, Key: Toast, Value: An abandoned monument to the failed Zakarum crusade
+Hash: 58D5557C, Key: Callback24Header, Value: Purge the Monument of undead
+Hash: 6A9510E0, Key: Callback55Header, Value: Rekindle the Wanderer's Shrine to conquer the Crusaders' Monument
+Hash: 88F35492, Key: Callback165Header, Value: Search the Monument
+Hash: 71EC3694, Key: Callback365Header, Value: Search Graverobbers for Crusaders' Skulls
+Hash: FF741350, Key: Callback343Header, Value: Cleanse the Skulls in the Ritual Brazier
+Hash: DB40AFF1, Key: Callback173Header, Value: Place the Crusader's Skull in the Ritual Brazier
+Hash: 1D9A8D78, Key: Callback279Header, Value: Slay the {MONSTER}
+Hash: 8E4C5132, Key: Callback291Header, Value: Slay the {MONSTER}
+Hash: CF4FEF91, Key: Callback308Header, Value: Slay the {MONSTER}
+Hash: 09DC6259, Key: Callback289Header, Value: Slay the Crusader Champions
+Hash: 6FE7E8D7, Key: Callback287Header, Value: Return to the Ritual Brazier
+Hash: 471B3173, Key: Callback337Header, Value: Investigate the Graverobber's corpse
+Hash: 18855D0D, Key: Callback340Header, Value: Retrieve the Exhumed Crusader's Skull

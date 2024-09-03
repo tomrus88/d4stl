@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Combo Points
+Hash: 003892BF, Key: desc, Value: Your {c_important}Basic{/c} Skills now generate Combo Points. {c_important}Core{/c} Skills consume Combo Points for additional effects.

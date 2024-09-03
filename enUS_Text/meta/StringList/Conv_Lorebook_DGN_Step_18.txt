@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Patriarch’s Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Patriarch’s Journal
+Hash: 5D733639, Key: Line1.EECAD, Value: I communed with the benefactor again, and he showed me a gilded city all my own, folded in emerald fire. A kingly crown studded with unknowable wisdom. Unblinking eyes that gaze everywhere at once. This is who I will become.
+Hash: CC7C9C66, Key: VoiceDir1.EECAD, Value: Arrogant/haughty. A mage full of himself who wants to become immortal.
+Hash: F767AFBB, Key: Line3.EECAD, Value: “Of flesh you will escape, and so the price of flesh you must pay. Be it yours or another’s,” he said. What a small bargain for such a grand destiny.

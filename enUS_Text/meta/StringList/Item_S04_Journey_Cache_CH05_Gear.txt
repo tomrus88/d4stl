@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slayer's Equipment Cache
+Hash: A646FFA4, Key: Description, Value: Contains two Ancestral Legendaries and an Ancestral Unique for your class.

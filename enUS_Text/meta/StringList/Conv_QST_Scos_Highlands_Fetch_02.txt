@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Drinking for pleasure or purpose?"
+Hash: 5D72A440, Key: Line1.EDC76, Value: You know the Scar, where that demon was killed? Name escapes me. My brother killed a brute there and has been wearing its horn around his neck. “Seven feet tall! It breathed fire! Ma would be so proud!”
+Hash: CC7C0A6D, Key: VoiceDir1.EDC76, Value: Ewan is a happy, excitable drunk, but still coherent. The section in quotes is him mockingly quoting his brothers bragging.
+Hash: F7671DC2, Key: Line3.EDC76, Value: I got sick of the gloating. Insulted his horn’s size. Now we have this wager. I must get a bigger one. Heh, you can see how it’s going.
+Hash: 915B9744, Key: Line5.EDC76, Value: Say! We’re friends, right? How 'bout you get me a horn, and I’ll give you the coin for the wager. Remember, a really big one!

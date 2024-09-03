@@ -1,0 +1,84 @@
+Hash: 9A21C914, Key: SkillsTitle, Value: Skills
+Hash: FBF8D04A, Key: ChooseNewSkill, Value: Choose New Skill
+Hash: CCBE6FC6, Key: LockedIconTooltip, Value: New Skill available at Level {s1}.
+Hash: 140399EE, Key: ActiveSkills, Value: Skills
+Hash: 1F58854D, Key: PassiveSkills, Value: Passive Skills
+Hash: A4DA98CE, Key: NoSkillsInTown, Value: You cannot change your Skills while in combat.
+Hash: 081B5D1A, Key: CanOverkill, Value: Can {c_green}overkill{/c} enemies.
+Hash: 3EB3147B, Key: ActiveSkillLabel, Value: Active
+Hash: 52176927, Key: SkillsOptionsSelected, Value: Selected
+Hash: 7953476C, Key: RankLabel, Value: Rank {c_white}{s1}{/c}/{s2}
+Hash: E690EDD3, Key: RankLabelBonus, Value: Rank {c_magic}{s1}{/c}/{s2}
+Hash: EC3DF762, Key: TomeUse, Value: Use Tome
+Hash: 1ABC326C, Key: TomeUse_Tooltip, Value: Use Tome ({s1})
+Hash: 4B2B9534, Key: SlotLocked, Value: Skill Slot Locked. 
+Unlock by {c_highlight}earning {s1} total Skill Points{/c}.
+Hash: BF958392, Key: TomeUse_Notification_SkillInfo, Value: +{s1} to {s2} Rank {s3}
+Hash: 714A089C, Key: TomeUse_Notification_Progress, Value: ({s1}/{s2})
+Hash: 2E6D9547, Key: TomeUse_Notification_Label, Value: Skill Unlock
+Hash: BF9A3CB2, Key: TomeUse_Notification_SkillRank, Value: {s1} Rank {s2}
+Hash: 88CC165D, Key: SkillPointsAvailable, Value: Skill Points
+Hash: D6A64A1C, Key: SkillPointAllocateStart, Value: Spend Points
+Hash: D5A13235, Key: SkillPointAllocationStop, Value: Stop Spending
+Hash: 83CB07FC, Key: BindSkill, Value: Assign {c_important}{s1}{/c}
+Hash: EEDB4E89, Key: SkillName_Enchanted, Value: {s1} Enchantment
+Hash: F1A388C1, Key: SkillTreeOpen, Value: View Skill Tree
+Hash: ED721AA3, Key: CoreStat_Damage, Value: {c_yellow}{s1}{/c} damage increase from {s2}
+Hash: 12EE8E6B, Key: CoreStat_CD, Value: {c_yellow}{s1}{/c} cooldown reduction from {s2}
+Hash: 40EA234C, Key: CoreStat_Resource, Value: {c_yellow}{s1}{/c} resource cost reduction from {s2}
+Hash: ACC76693, Key: CoreStat_Strength, Value: Strength
+Hash: 8ACBED86, Key: CoreStat_Dexterity, Value: Dexterity
+Hash: 85B3A6F7, Key: CoreStat_Intelligence, Value: Intelligence
+Hash: 33712809, Key: CoreStat_Willpower, Value: Willpower
+Hash: 488CA47A, Key: ParagonOpen, Value: Paragon
+Hash: A745633A, Key: StatPointsAvailable, Value: {s1} Stat Points
+Hash: AA342846, Key: ParagonPointsAvailable, Value: {s1} Paragon Points
+Hash: 5BAB8C3A, Key: SkillLabel_Active, Value: {s1}
+Hash: 4F0F8019, Key: SkillLabel_Passive, Value: Passive Skill
+Hash: 7E3524AD, Key: SkillLabel_Modifier, Value: Skill Modifier
+Hash: 7D63D6B9, Key: NodeRankBonus, Value: {s1}/{s2}
+Hash: 78A634D3, Key: RankBonus, Value: {c_label}Next Rank{/c}: {s1}
+Hash: 8E12F12C, Key: RankAdditionalBonus, Value: {icon:bullet, 1.2} Rank 3 Additional Bonus: {s1}
+Hash: F74B463A, Key: RankGainItem, Value: (Item Contribution:{c_blue}{s1}{/c})
+Hash: 7CA7FD85, Key: ShowLockedSkills, Value: Show unavailable Skills
+Hash: 1D15D538, Key: SkillAssignment, Value: Skill Assignment
+Hash: C209EA7B, Key: ExpandView, Value: Expand View
+Hash: A9DEB14F, Key: SkillTree, Value: Skill Tree
+Hash: 9804D888, Key: Paragon, Value: Paragon
+Hash: 2A97D396, Key: Abilities, Value: Abilities
+Hash: 7935A59E, Key: HideLockedSkills, Value: Hide unavailable Skills
+Hash: 3A45BC55, Key: EnchantSlotLocked, Value: This Enchantment Slot is locked. Reach Level {s1} to unlock it.
+Hash: 9735007A, Key: ParagonLocked, Value: Paragon (Lv. {s1})
+Hash: DA021DFD, Key: RefundAll, Value: Refund All
+Hash: FEC244DD, Key: NotEnoughGold, Value: {c_red}You don't have enough gold to refund all the nodes.{/c}
+Hash: 1A47047D, Key: RefundCost, Value: Refund Cost:
+Hash: 24D2D295, Key: YourGold, Value: Your Gold:
+Hash: 3D3F74C6, Key: RefundAllConfirmation, Value: Are you sure you want to {c_highlight}refund all nodes{/c}?
+Hash: 5809BAEE, Key: PointsBack, Value: Points to refund:
+Hash: 7236FC2F, Key: GoldIcon, Value: {icon:gold, 1.2}
+Hash: 2FFA9883, Key: EnchantTitle, Value: Enchantments
+Hash: 31F8F5ED, Key: EnchantUnlock, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2.5}{c_highlight}{s1}{/c}.
+Hash: D727B6FB, Key: NecroSkillInstruction_Controller, Value: {hotkey:Equippables} Open
+Book of the Dead
+Hash: D06D4251, Key: NecroSkillInstruction_KBM, Value: {hotkey:Class_Screen} Open
+Book of the Dead
+Hash: F8D6BC2F, Key: NoSkills, Value: Unlock Skills within the {hotkey:Abilities} Skill Tree.
+Hash: 0DBEBA24, Key: EnchantSlotAvailable, Value: Assign a Skill to this Enchantment Slot to receive passive benefits.
+Hash: C3788CB2, Key: NoSkills_Controller, Value: Unlock Skills within the {hotkey:Equippables} Skill Tree.
+Hash: 376390E5, Key: NecroSkeletonCount, Value: {s1}/{s2}
+Hash: 0ED484C5, Key: EnterRespecMode, Value: Respec Mode
+Hash: 9A673701, Key: ExitRespecMode, Value: Exit Respec Mode
+Hash: A9899ED0, Key: ConfirmRespec, Value: Confirm
+Hash: 83AB1DFB, Key: RespecCost, Value: Respec Cost:
+Hash: F82DA0A7, Key: AvailableGold, Value: Available Gold:
+Hash: 06E12F1E, Key: RespecModeOverview, Value: Respec Mode: Overview
+Hash: 1538CD0B, Key: RespecModeDescription, Value: {icon:SkillRespecMode_Icon, 2} Refund nodes & paths or re-add them
+Hash: 3503382F, Key: ParagonUpdated, Value: Paragon Updated
+Hash: D1192725, Key: ParagonRefundSuccess, Value: Paragon Refund was Successful
+Hash: CB868B16, Key: SkillTreeUpdated, Value: Skill Tree Updated
+Hash: DFE0A37C, Key: SkillRefundSuccess, Value: Skill Refund was successful
+Hash: 831E4EE1, Key: BrokenPaths, Value: Broken Paths!
+Hash: C6698F22, Key: ChallengerRift_CannotRefundSkills, Value: {c_red}You cannot refund your skills at this time.{/c}
+Hash: 2F60BA51, Key: PurchasedSkills, Value: Purchased Skills: {c_number}{s1}{/c_number}
+Hash: 37F0E405, Key: SRSkillRead_1to2, Value: {s1}{s2}
+Hash: 37F17065, Key: SRSkillRead_2to1, Value: {s2}{s1}

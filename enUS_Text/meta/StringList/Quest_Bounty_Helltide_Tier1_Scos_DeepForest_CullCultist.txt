@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cull Cultists
+Hash: 0871A46B, Key: Toast, Value: Cultists threaten to overwhelm Sanctuary through shear numbers. Obliterate them before it's too late.
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay Cultists: {DONE_OVER_NEEDED}

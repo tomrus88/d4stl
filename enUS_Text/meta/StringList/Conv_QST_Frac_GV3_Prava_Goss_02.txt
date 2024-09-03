@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Inarius murdered Rathma, his own son.”
+Hash: 5A157257, Key: Line1.710B6, Value: Who are you to judge his divine will?
+Hash: C91ED884, Key: VoiceDir1.710B6, Value: Defensive
+Hash: F409EBD9, Key: Line3.710B6, Value: Murder is a sin committed by mortals, not by he who created this world and breathed life into our kind.

@@ -1,0 +1,9 @@
+Hash: 5D687838, Key: Line1.F2027, Value: Your thrice damned wardstones didn't do much, druid.
+Hash: CC71DE65, Key: VoiceDir1.F2027, Value: Angry
+Hash: 6736F1BC, Key: Line3.101CF8, Value: I told you, they must all be placed to be effective.
+Hash: B76D1D89, Key: VoiceDir3.101CF8, Value: placating
+Hash: 91516B3C, Key: Line5.F2027, Value: Bah! I haven't time for this. I have a farm to run and this...mess to clean up.
+Hash: 005AD169, Key: VoiceDir5.F2027, Value: still angry, dismissive
+Hash: 183E4540, Key: Line7.101CF8, Value: They will work, Phelan. You must trust me.
+Hash: 6874710D, Key: VoiceDir7.101CF8, Value: placating
+Hash: C53A5E40, Key: Line9.F2027, Value: Hmmph.

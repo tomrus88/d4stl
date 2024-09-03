@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: (PH)Purified Sigil
+Hash: A646FFA4, Key: Description, Value: (PH)The Nightmare has been purged. Activate this Sigil to reveal a host of valuable items. 

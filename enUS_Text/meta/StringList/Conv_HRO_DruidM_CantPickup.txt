@@ -1,0 +1,3 @@
+Hash: 61B3D36A, Key: Line13.BAE4.Dru.M, Value: My burden is too great.
+Hash: 92A730CB, Key: Line14.BAE4.Dru.M, Value: My bags are full.
+Hash: C39A8E2C, Key: Line15.BAE4.Dru.M, Value: I cannot carry any more.

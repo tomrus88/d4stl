@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Horadric Tack
+Hash: A646FFA4, Key: Description, Value: The very lived-in kit of a traveling scholar, unflagging in the pursuit of defending Sanctuary from demonic invasion.

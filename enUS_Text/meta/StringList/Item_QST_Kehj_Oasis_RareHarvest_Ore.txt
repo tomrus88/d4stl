@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Unusual Ore
+Hash: F5C7BC0A, Key: Flavor, Value: An unexpected type of ore found while mining in Kehjistan. 

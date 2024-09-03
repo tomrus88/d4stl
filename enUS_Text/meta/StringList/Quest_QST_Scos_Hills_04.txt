@@ -1,0 +1,24 @@
+Hash: 003DFCC1, Key: Name, Value: Harrowed Lament
+Hash: 0871A46B, Key: Toast, Value: Find a route to Airidah beyond the fog
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find a route to Airidah beyond the fog
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Yorin and I passed through the Weeping Cairns, but the hills beyond are far from safe. We must find a way through the haunted pass to Airidah’s domain, Solitude, to the north. 
+Hash: 08793AB1, Key: Phase129Description, Value: Yorin and I passed through the Weeping Cairns, but the hills beyond are far from safe. We must find a way through the haunted pass to Airidah’s domain, Solitude, to the north. 
+Hash: 5B8AF719, Key: Phase129OutsideSubzoneHeader, Value: Find a route to Airidah, at Solitude, beyond the fog
+Hash: BEDAB751, Key: Callback128Header, Value: Find Airidah
+Hash: F5F18970, Key: Phase137Description, Value: Yorin and I passed through the Weeping Cairns, but the hills beyond are far from safe. We must find a way through the haunted pass to Airidah’s domain, Solitude, to the north. 
+Hash: 2C1D4CB8, Key: Phase137OutsideSubzoneHeader, Value: Investigate the disturbance at Clocheen
+Hash: 112812B0, Key: Callback136Header, Value: Investigate the disturbance
+Hash: 0988B2D4, Key: Phase142OutsideSubzoneHeader, Value: Clear the disturbance at Clocheen 
+Hash: 7C86B7CC, Key: Callback141Header, Value: Destroy the Risen Remains
+Hash: 167B314E, Key: Callback143Header, Value: Defeat the spirits
+Hash: 3E080ECB, Key: Phase150Description, Value: We found Clocheen under attack from some of the risen remains of the revered dead from the cairns. Yorin and I managed to clear the danger. But for how long?
+Hash: DA1B0873, Key: Phase150OutsideSubzoneHeader, Value: Speak with Arlo in Clocheen
+Hash: E4589DD4, Key: Callback149Header, Value: Speak with Arlo
+Hash: CD41F7F6, Key: Phase153OutsideSubzoneHeader, Value: Hunt the Risen Remains
+Hash: B5C2C96E, Key: Callback152Header, Value: Find and destroy the Risen Remains ({DONE}/{NEEDED})
+Hash: 8D67184C, Key: Phase160Description, Value: For now, the actions I took have abated the danger from the fog. Yorin and I can continue to find a way through to Airidah’s domain, Solitude, to the north. 
+Hash: 4CC75314, Key: Phase160OutsideSubzoneHeader, Value: Return to Yorin in Clocheen
+Hash: D09A72B5, Key: Callback159Header, Value: Return to Yorin
+Hash: 321FE856, Key: Phase180OutsideSubzoneHeader, Value: Speak with Arlo in Clocheen
+Hash: 147CC193, Key: Callback184Header, Value: Speak with Arlo
+Hash: D0E226EE, Key: Phase153Description, Value: The danger from the fog is too great and, if I am to find Airidah, that must be dealt with first. Defeating the attack on Clocheen points to the solution. Seems I must hunt the dead.

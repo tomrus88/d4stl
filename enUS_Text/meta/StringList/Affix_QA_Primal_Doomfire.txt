@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Allows for temporary fire-god mode. Player can evade around to teleport and burn enemies

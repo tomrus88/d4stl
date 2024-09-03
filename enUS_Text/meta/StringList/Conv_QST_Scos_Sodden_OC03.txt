@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you alright?"
+Hash: F701EBE7, Key: Line3.A109C, Value: Spirits... that... that's done.
+Hash: 660B5214, Key: VoiceDir3.A109C, Value: Angry
+Hash: 2AEADEEB, Key: Line7.A109C, Value: I'm leaving. I won’t just stand here moping.
+Hash: 99F44518, Key: VoiceDir7.A109C, Value: Still angry 

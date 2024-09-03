@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Craft Occultist Quest 01
+Hash: 003892BF, Key: Desc, Value: QST_Craft_Occultist_01 achievement

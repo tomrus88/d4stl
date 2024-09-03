@@ -1,0 +1,27 @@
+Hash: B21656C3, Key: ChooseTitle, Value: Choose your Character
+Hash: 772673E6, Key: SlotsUsed, Value: {c:FFdba864}{s1}{/c}{c:FF928c82}/{s2}{/c} Slots Used
+Hash: F2664098, Key: LevelLabel, Value: Level
+Hash: 003DFCC1, Key: Name, Value: The Unknown Hero
+Hash: C4CED061, Key: LastHeroPlayedLabel, Value: Last character played
+Hash: 8ADB3ADE, Key: CreateNew, Value: Create Character
+Hash: 003766F1, Key: Back, Value: {hotkey:ESCAPE} Back
+Hash: DEE0CEFE, Key: DeleteConfirmationTitle, Value: Delete Character
+Hash: F615F581, Key: DeleteConfirmationMessage, Value: Do you really want to delete this character?
+Hash: DEC66583, Key: NoHeroes, Value: No characters found
+Hash: F99A712A, Key: DropInCreateNew, Value: {icon:button4, 2.0} Begin character creation
+Hash: 8BE8740C, Key: DropInPlayerConnected, Value: P2 is connected
+Hash: 088DF297, Key: DropInPlayerJoinConfirm, Value: Press any button to join.
+Hash: B56FD066, Key: DropInJoinError, Value: You can't join right now.
+Hash: F75BC64C, Key: HardcoreLowLevelAcknowledgementTitle, Value: Character Vanished
+Hash: 192BF84F, Key: HardcoreLowLevelAcknowledgementMessage, Value: Your character's soul vanished into thin air. Characters must reach Level {s1} to be remembered in the Hall of Fallen Heroes. 
+Hash: DC28CC7A, Key: HardcoreAcknowledgementOk, Value: Acknowledge 
+Hash: 953C8594, Key: HardcoreFallenAcknowledgementTitle, Value: HALL OF FALLEN HEROES
+Hash: B239A997, Key: HardcoreFallenAcknowledgementMessage, Value: Your fallen character has gone to the Hall of Fallen Heroes. You can find it in Collections. 
+Hash: 9DAA5EF6, Key: HardcoreFallenLimitAcknowledgementMessage, Value: You have reached the maximum number of fallen characters. Your most recent fallen character has replaced your oldest fallen character. 
+Hash: FBF25733, Key: HardcoreFallenLimitAcknowledgementTitle, Value: FALLEN HERO LIMIT REACHED
+Hash: 60855B45, Key: RenameCharacter, Value: Rename
+Hash: 2309ED7C, Key: CharacterNameFlaggedAcknowledge, Value: Acknowledge
+Hash: 3AA16672, Key: CharacterNamerFlaggedAcknowledgeController, Value: {icon:button4, 2.0} Acknowledge
+Hash: E1A31351, Key: Season_Header, Value: Season {s1}
+Hash: B0037AC4, Key: Season_Start_Time, Value: [PH] Begins: {c_highlight}{s1}
+Hash: CD68F0ED, Key: Season_End_Time, Value: [PH] Ends: {c_highlight}{s1}

@@ -1,0 +1,3 @@
+Hash: BB86EF9B, Key: Line27.BAE4, Value: Hello.
+Hash: 2A9055C8, Key: VoiceDir27.BAE4, Value: Short greeting.
+Hash: 03D6DB1A, Key: Line35.BAE4, Value: Greetings.

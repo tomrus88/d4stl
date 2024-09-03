@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Pincushioned Doll
+Hash: A646FFA4, Key: Description, Value: Used in the Ritual of Anguish. Requires {c_number}2{/c}. Acquired from Glacial Fissure in World Tier 4: Torment only by the one who performs the summoning. 
+
+Drops randomly from World Bosses.
+Hash: F5C7BC0A, Key: Flavor, Value: For every prick, vengeance taken.

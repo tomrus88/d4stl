@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Winter Touch
+Hash: 003892BF, Key: Desc, Value: When you {c_important}{u}Freeze{/u}{/c} an enemy, you deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Cold damage to them.
+
+This effect is treated as a {c_important}Frost{/c} Skill.

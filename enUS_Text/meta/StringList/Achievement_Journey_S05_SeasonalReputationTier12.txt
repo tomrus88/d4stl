@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Through Bile and Brimstone
+Hash: 3A4912CF, Key: DescShort, Value: Increase Mother's Gift reputation to Rank 12

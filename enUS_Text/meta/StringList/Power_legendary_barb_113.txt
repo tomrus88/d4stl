@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Sundered Ground
+Hash: C6E60718, Key: Buff2_Description, Value: At {SF_1} stacks, your next Upheaval is guaranteed to Overpower.

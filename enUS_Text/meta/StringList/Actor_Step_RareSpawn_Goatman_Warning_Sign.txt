@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: BHOTAK THE INEVITABLE
+
+The Khazra Bhotak was slain by the Piercing Suns mercenary company, but somehow his ragged, bloody form has returned. Take extreme caution when traveling east through Wayfarer's Folly, for Bhotak ensures that name is well-earned.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

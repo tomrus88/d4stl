@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: A Sliver of Light
+Hash: 0871A46B, Key: Toast, Value: Complete the ritual to cleanse the Dark Thicket.
+Hash: D53BFF05, Key: Phase0Description, Value: The ritual was successful, but at the cost of the woodwraith.  It seems to have petrified in place and still glows faintly with the Crone's magic. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Return to Shoh'ba
+Hash: 5CD6EA0D, Key: Phase8Description, Value: To cleanse the Dark Thicket, I need to escort Shob'ha's familiar, Mochrann, to the worst areas and protect it while it performs the ritual.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak to Mochrann
+Hash: 38AA8D97, Key: Callback10Header, Value: Bring Mochrann to the font of corruption
+Hash: 5690A71C, Key: Phase16Description, Value: I have cleansed the first location.  I should bring Shob'ha's familiar to the next site.
+Hash: B98DBD5C, Key: Callback15Header, Value: Bring Mochrann to the next font of corruption
+Hash: E96ABF3F, Key: Phase19Description, Value: I have cleansed two areas of corruption within the Dark Thicket.  Only one other remains.
+Hash: A07C739F, Key: Callback18Header, Value: Bring Mochrann to the final font of corruption
+Hash: B78F4DA1, Key: Callback56Header, Value: Wait for Mochrann to cleanse the corruption
+Hash: C5002A81, Key: Phase57Description, Value: I have cleansed the first location.  I should bring Shob'ha's familiar to the next site.
+Hash: 9E7E03E4, Key: Callback59Header, Value: Help Mochrann cleanse the corruption
+Hash: 1F9E611D, Key: Phase62Description, Value: I have cleansed two areas of corruption within the Dark Thicket.  Only one other remains.
+Hash: 09DCA900, Key: Callback64Header, Value: Help Mochrann cleanse the final font of corruption

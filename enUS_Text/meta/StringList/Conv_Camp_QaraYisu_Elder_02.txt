@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Voice Below
+Hash: 8E255316, Key: Line5.96183, Value: They were weak before me! Dying!
+Hash: FD2EB943, Key: VoiceDir5.96183, Value: Enraged, hateful, defiant.
+Hash: 2819CC98, Key: Line7.96183, Value: Now, they shall feast on your bones!
+Hash: 972332C5, Key: VoiceDir7.96183, Value: Enraged, hateful, defiant.

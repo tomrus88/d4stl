@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: To the Edge of the Abyss
+Hash: 5296A16C, Key: Callback6Header, Value: Slay Demons

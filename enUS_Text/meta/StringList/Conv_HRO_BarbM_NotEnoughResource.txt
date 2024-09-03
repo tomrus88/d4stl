@@ -1,0 +1,4 @@
+Hash: BC195CC9, Key: Line9.BAE4.Bar.M, Value: I'm out of fury.
+Hash: FF9F8872, Key: Line11.BAE4.Bar.M, Value: I'm low on fury.
+Hash: 61864334, Key: Line13.BAE4.Bar.M, Value: I need more fury.
+Hash: C36CFDF6, Key: Line15.BAE4.Bar.M, Value: I don't have enough fury.

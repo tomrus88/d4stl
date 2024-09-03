@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have the Woodsman's Axe."
+Hash: 6736A291, Key: Line3.102113, Value: It must have been a grim place, judging by how much blood is on the axe. I confess, I'm eager to leave this place. I can't shake the feeling that I'm being watched.
+Hash: B76CCE5E, Key: VoiceDir3.102113, Value: grateful
+Hash: 8EB2F8CF, Key: Line1.102113, Value: Now to get this thing back to Menestad and collect my due. Thank you for your help.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Tools of the Hunt
+Hash: A646FFA4, Key: Description, Value: To be raised by wolves is to be part of the feral dynamic of Sanctuary. Both savage and nurturing, fleeting and eternal.
+Hash: 083EE0CE, Key: Quote, Value: The trappings of Sanctuary's feral protector.
+Hash: 13A53A8B, Key: Series, Value: "Raised by Wolves" Accessories

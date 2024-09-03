@@ -1,0 +1,25 @@
+Hash: 003DFCC1, Key: Name, Value: Kehjistan Delver
+Hash: 003892BF, Key: Desc, Value: Collect all Legendary Aspects in Kehjistan by completing Dungeons or Salvaging Legendaries.
+Hash: 3DA4D8E6, Key: Crit_235425, Value: Aspect of Retribution
+Hash: 3DA4D8E7, Key: Crit_235426, Value: Aspect of Cyclonic Force
+Hash: 3DA4D8E8, Key: Crit_235427, Value: Aspect of the Changeling's Debt
+Hash: 3DA4D8E9, Key: Crit_235428, Value: Aspect of Grasping Veins
+Hash: 3DA4D8EA, Key: Crit_235429, Value: Aspect of Splintering Energy
+Hash: 3DA4D902, Key: Crit_235430, Value: Opportunist's Aspect
+Hash: 3DA4D903, Key: Crit_235431, Value: Wind Striker Aspect
+Hash: 3DA4D904, Key: Crit_235432, Value: Aspect of Disobedience
+Hash: 3DA4D905, Key: Crit_235433, Value: Torturous Aspect
+Hash: 3DA4D906, Key: Crit_235434, Value: Skinwalker's Aspect
+Hash: 3DA4D907, Key: Crit_235435, Value: Iron Blood Aspect
+Hash: 3DA4D908, Key: Crit_235436, Value: Relentless Berserker's Aspect
+Hash: 3DA4D909, Key: Crit_235437, Value: Veteran Brawler's Aspect
+Hash: 3DA4D90A, Key: Crit_235438, Value: Vengeful Aspect
+Hash: 3DA4D90B, Key: Crit_235439, Value: Stormshifter's Aspect
+Hash: 3DA4D923, Key: Crit_235440, Value: Aspect of the Unwavering
+Hash: 3DA4D924, Key: Crit_235441, Value: Aspect of Corruption
+Hash: 3DA4D925, Key: Crit_235442, Value: Hulking Aspect
+Hash: 3DA4D926, Key: Crit_235443, Value: Aspect of Echoing Fury
+Hash: 3DA4D927, Key: Crit_235444, Value: Aspect of Control
+Hash: 3DA4D928, Key: Crit_235445, Value: Incendiary Aspect
+Hash: 3DA4D929, Key: Crit_235446, Value: Aspect of the Damned
+Hash: 3DA4D8E5, Key: Crit_235424, Value: Needleflare Aspect

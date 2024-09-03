@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Obducite
+Hash: A646FFA4, Key: Description, Value: Earned from {c_rare}The Pit{/c}, and used to Masterwork your equipment at the Blacksmith.

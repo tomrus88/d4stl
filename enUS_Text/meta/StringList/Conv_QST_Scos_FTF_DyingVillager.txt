@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm here to help. Can you stand?"
+Hash: F7177A0E, Key: Line3.B79B1, Value: No... (grunt) the goatmen... we couldn't hold them off. The others were taken... (grunt) to the tunnels...
+Hash: 6620E03B, Key: VoiceDir3.B79B1, Value: Halting, wounded
+Hash: 910BF390, Key: Line5.B79B1, Value: This land was once safe, but now...  (exhale) We told him, warned him... not to destroy the wardstones.
+Hash: 001559BD, Key: VoiceDir5.B79B1, Value: with emphasis on "warned," clarifying, speaker is wounded
+Hash: 2B006D12, Key: Line7.B79B1, Value: The Chieftain. Eiruig. He-- (dying gasp)
+Hash: 9A09D33F, Key: VoiceDir7.B79B1, Value: cut off with his dying breath

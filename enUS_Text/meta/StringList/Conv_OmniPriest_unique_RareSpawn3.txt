@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Something feels off about all this..."
+Hash: 67518A0A, Key: Line3.10C346, Value: (sighs) Shame. You would have made a lovely pet!
+Hash: B787B5D7, Key: VoiceDir3.10C346, Value: You are a demon in disguise, about to shed your mask and have fun with a mortal. Disappointed they saw through your ruse, but excited for the fun to come.

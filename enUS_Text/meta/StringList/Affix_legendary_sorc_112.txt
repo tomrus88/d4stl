@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Fortune
+Hash: 003892BF, Key: Desc, Value: Your Lucky Hit Chance is increased by {c_random}[Affix_Value_1|%+|]{/c} while you have a {c_important}{u}Barrier{/u}{/c} active.

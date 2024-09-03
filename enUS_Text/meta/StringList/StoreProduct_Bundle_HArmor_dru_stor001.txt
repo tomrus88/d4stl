@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Heir to the Sea
+Hash: A646FFA4, Key: Description, Value: Not long after the Lady set her minions to the shores of Sanctuary, there arose a hero, a follower of the old ways, to help protect nature and the lands of the living.
+Hash: 083EE0CE, Key: Quote, Value: A power vast as the sea.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

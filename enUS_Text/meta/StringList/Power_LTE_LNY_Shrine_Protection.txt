@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Protection Shrine
+Hash: 2827F416, Key: Buff0_Description, Value: You are Invulnerable and Unstoppable. You reflect all incoming damage.

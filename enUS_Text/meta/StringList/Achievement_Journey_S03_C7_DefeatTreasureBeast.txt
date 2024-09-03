@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Treasures of the Damned
+Hash: 3A4912CF, Key: DescShort, Value: Defeat the {icon:Marker_WorldEvent_Active, 2.5} World Boss, Avarice the Gold Cursed, in {icon:Icon_WorldTier_4, 2.5} Torment

@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What must we do?"
+Hash: F75EAA33, Key: Line3.F53E7, Value: It is ancient magic that should calm her blood. It will be painful, Aneta. I hope you are prepared to pay the price.
+Hash: 66681060, Key: VoiceDir3.F53E7, Value: Matter of factly. You will not sugar coat what comes next.
+Hash: 0C698A30, Key: Line13.F52ED, Value: I'll do whatever it takes.
+Hash: 5C9FB5FD, Key: VoiceDir13.F52ED, Value: Self-assured.
+Hash: A65E07C6, Key: Line15.F53E7, Value: Good. Go and gather four bloated livers from the rotting creatures out in the wilds.
+Hash: F6943393, Key: VoiceDir15.F53E7, Value: Matter of factly. This is an order, not a request.
+Hash: F8AB6325, Key: Line23.F53E7, Value: Aneta is perfectly capable of handling this task.
+Hash: 48E18EF2, Key: VoiceDir23.F53E7, Value: Slightly offended because the player has offered to do the task you gave your student. You know she is competent, and you want the player to respect that.
+Hash: 929FD893, Key: Line25.F52ED, Value: I wouldn't mind some company to keep an eye out while I work...
+Hash: E2D60460, Key: VoiceDir25.F52ED, Value: A bit sheepish. Asking a favour of a strict teacher.
+Hash: 2C945629, Key: Line27.F53E7, Value: Fine. Once you're done, meet me in the hidden glade east of here.
+Hash: 7CCA81F6, Key: VoiceDir27.F53E7, Value: Avoid sounding like you're snapping at your student. "Fine" is more of a matter of factly acceptance of a request.

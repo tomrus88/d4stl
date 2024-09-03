@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Smoke Grenade
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Throw a smoky concoction at enemies that deals {c_number}{payload:SMOKE_PAYLOAD}{/c} damage and {c_important}{u}Dazes{/u}{/c} them for {c_number}{buffduration:SMOKE_BLINDNESS}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{if:Mod.UpgradeB}{payload:POISON_PAYLOAD}{else}{payload:SMOKE_PAYLOAD}{/if}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds.
+Hash: D618A933, Key: Mod0_Description, Value: Enemies hit by {c_important}Smoke Grenade{/c} take {c_number}[{SF_6}*100|%x|]{/c} increased damage from you for {c_number}{SF_20}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Smoke Grenade
+Hash: 74D6BC35, Key: Mod2_Description, Value: Hitting an Elite or Boss with your {c_important}Smoke Grenade{/c} reduces its Cooldown by {c_number}{SF_11}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Countering Smoke Grenade
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Smoke Grenade{/c} now deals Poison damage and applies another {c_number}{payload:POISON_PAYLOAD}{/c} Poisoning damage over {c_number}{SF_21}{/c} seconds.
+Hash: 99335313, Key: Mod3_Name, Value: Subverting Smoke Grenade

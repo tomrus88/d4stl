@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bandit's Notes
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Bandit's Notes
+Hash: 5D72A46F, Key: Line1.EDC7E, Value: Gold. Jewels. Relics. If it shines, bag it up. Burial fields haunted by old magic, so keep watch for the dead and follow Jaym's orders.
+Hash: CC7C0A9C, Key: VoiceDir1.EDC7E, Value: Focused. Practical. Taking notes.
+Hash: F7671DF1, Key: Line3.EDC7E, Value: If Jaym is killed, Junpo and Kala are in charge.
+Hash: 6670841E, Key: VoiceDir3.EDC7E, Value: Focused. Practical. Taking notes.

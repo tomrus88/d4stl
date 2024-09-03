@@ -1,0 +1,4 @@
+Hash: 5A327CBE, Key: Line1.7F064, Value: The great axe is ours! Demon blood calls to—
+Hash: C93BE2EB, Key: VoiceDir1.7F064, Value: spirited, boasting; interrupted
+Hash: F426F640, Key: Line3.7F064, Value: Aaagh! What’s happening to...
+Hash: 63305C6D, Key: VoiceDir3.7F064, Value: horrified; slowing, distorted (tranformation)

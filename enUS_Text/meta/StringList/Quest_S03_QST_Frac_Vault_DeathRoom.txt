@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Death Room Proto
+Hash: 38AA8D97, Key: Callback10Header, Value: Enter The Quarry
+Hash: 7E852787, Key: Callback100Header, Value: Survive The Quarry for {TIMELEFT}
+Hash: EBAA2C2D, Key: Callback115Header, Value: Slay {MONSTER}
+Hash: 51B5B2AB, Key: Callback113Header, Value: Slay {MONSTER}

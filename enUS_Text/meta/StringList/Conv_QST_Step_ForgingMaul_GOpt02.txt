@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Tell me about Raekor.”
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: A barbarian of great deeds. An Oxen Warmaster who stood taller than all others.
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: sincere, praising, terse
+Hash: 67708DA0, Key: Line3.137EC4, Value: She freed us from the Samauren and proved the strength of a warrior who would not kneel.
+Hash: B7A6B96D, Key: VoiceDir3.137EC4, Value: sincere, proud

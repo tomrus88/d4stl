@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Hope’s Guardian
+Hash: 61CFD437, Key: Phase11Description, Value: I have given the documents to Cormond but he needs time to study them. I should fend off the Malignant until he can find where the cages were made.
+Hash: 38AA8D97, Key: Callback10Header, Value: Complete Chapter 3 of the Season Journey
+Hash: 6FE82F7E, Key: Callback62Header, Value: Check in with Cormond
+Hash: 26E6E543, Key: Phase59Description, Value: I have given the documents to Cormond but he needs time to study them. I should fend off the Malignant until he can find where the cages were made. 
+Hash: 5183C723, Key: Callback58Header, Value: Clear Malignant from the Fissure of Malice
+Hash: D5F3B5FC, Key: Callback60Header, Value: Clear Malignant from the Den of the Blighted
+Hash: 56D6E5C1, Key: Callback65Header, Value: Check in with Cormond

@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Potent Blood
+Hash: 7BFE534B, Key: simple_instruction, Value: Use {c_highlight}Potent Blood{/c} to upgrade and unlock {c_highlight}Vampiric Powers{/c} in {c_highlight}the Seasonal tab of your inventory{/c}. It is often obtained from {c_highlight}Season of Blood{/c} content.

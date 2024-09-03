@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Water Wight
+Hash: 5D824F46, Key: Line1.FA440, Value: Roina... (sigh) my Roina...
+Hash: CC8BB573, Key: VoiceDir1.FA440, Value: Relieved sigh

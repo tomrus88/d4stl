@@ -1,0 +1,6 @@
+Hash: 43685D44, Key: Line5.804B7.Nec, Value: Maybe this will ease the dead. It's a start, at least.
+Hash: 43686F96, Key: Line5.804B7.Rog, Value: Maybe this will ease the dead. It's a start, at least.
+Hash: 436873E2, Key: Line5.804B7.Sor, Value: Maybe this will ease the dead. It's a start, at least.
+Hash: 436829C3, Key: Line5.804B7.Bar, Value: Maybe this will ease the dead. It's a start, at least.
+Hash: 5CCF89EC, Key: Line10.BAE4.Dru, Value: You can read the old runes just as well as I.
+Hash: 5C629947, Key: Line12.804B7.Dru, Value: Father was a persistent teacher...

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: PH Cathedral Scene
+Hash: 5D346D69, Key: Line1.C634B, Value: More strangers in the camp?

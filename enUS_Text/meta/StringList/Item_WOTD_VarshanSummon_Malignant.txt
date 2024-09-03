@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Malignant Heart
+Hash: A646FFA4, Key: Description, Value: Assembled beneath The Tree of Whispers within Malignant Burrow to summon a powerful enemy. Collected from Whisper Caches.
+
+Drops randomly from Elites, Local Events, Treasure Goblins, Hellborne, and Blood Maiden.
+Hash: F5C7BC0A, Key: Flavor, Value: Its muscles convulse arrhythmically.

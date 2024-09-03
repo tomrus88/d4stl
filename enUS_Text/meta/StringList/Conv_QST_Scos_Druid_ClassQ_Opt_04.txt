@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will the spirits die without Gathlen?"
+Hash: F74BB2AF, Key: Line3.E2C66, Value: Death is a different beast to them. They’ve no blood to bleed, no breath to steal. Yet they weaken all the same.
+Hash: 91402C31, Key: Line5.E2C66, Value: As long as they suffer, we suffer. Don’t you feel it? The stiffness in your limbs? When our connection to the spirits is frail, so are we.

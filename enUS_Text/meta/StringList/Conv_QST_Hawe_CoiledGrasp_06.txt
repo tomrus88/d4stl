@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Crusader Berolt was slain."
+Hash: 5D6D2CD2, Key: Line1.F9D80, Value: What!? No! Berolt was one of the few of us who had any fighting spirit left in him! Damn those apostates!
+Hash: F761A654, Key: Line3.F9D80, Value: He had no apprentice to take up his name or armor, but I will have someone sent to collect his body. I'll do it myself if I have to. May the Light forever bless him.

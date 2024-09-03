@@ -1,0 +1,24 @@
+Hash: 1E53569B, Key: Line264.89B3C, Value: Friend? Don't leave...
+Hash: 754EFC08, Key: VoiceDir264.89B3C, Value: breathy
+Hash: 523C499F, Key: Line268.89B3C, Value: Are you still there?
+Hash: A937EF0C, Key: VoiceDir268.89B3C, Value: breathy
+Hash: D6AC3878, Key: Line270.89B3C, Value: Where are you?
+Hash: 2DA7DDE5, Key: VoiceDir270.89B3C, Value: breathy
+Hash: BD9AEEBC, Key: Line273.89B3D, Value: Friend? Don't leave...
+Hash: 14969429, Key: VoiceDir273.89B3D, Value: breathy
+Hash: 8B785B42, Key: Line279.89B3D, Value: Are you still there?
+Hash: E27400AF, Key: VoiceDir279.89B3D, Value: breathy
+Hash: 5CE286DC, Key: Line282.89B3D, Value: Where are you?
+Hash: B3DE2C49, Key: VoiceDir282.89B3D, Value: breathy
+Hash: 1701D98A, Key: Line298.89F5E, Value: Friend? Don't leave...
+Hash: 6DFD7EF7, Key: VoiceDir298.89F5E, Value: breathy
+Hash: 2256255B, Key: Line301.89F5E, Value: Are you still there?
+Hash: 7951CAC8, Key: VoiceDir301.89F5E, Value: breathy
+Hash: 0944DB9E, Key: Line304.89F5E, Value: Where are you?
+Hash: 6040810B, Key: VoiceDir304.89F5E, Value: breathy
+Hash: 8A280B4F, Key: Line309.89F60, Value: Friend? Don't leave...
+Hash: E123B0BC, Key: VoiceDir309.89F60, Value: breathy
+Hash: 5B9236E9, Key: Line312.89F60, Value: Are you still there?
+Hash: B28DDC56, Key: VoiceDir312.89F60, Value: breathy
+Hash: 4280ED2C, Key: Line315.89F60, Value: Where are you?
+Hash: 997C9299, Key: VoiceDir315.89F60, Value: breathy

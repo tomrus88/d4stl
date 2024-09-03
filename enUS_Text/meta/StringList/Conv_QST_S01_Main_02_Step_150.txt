@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened after that?"
+Hash: 8F104F47, Key: Line1.157838, Value: I returned home to a ruined village. Varshan was the only one left, driven mad by Lilith. So, I took one of the cages, and I tried to remove his corruption.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Grief. Deep Shame. Worst part is coming.
+Hash: 6793F909, Key: Line3.157838, Value: But I did something wrong. The corruption burst out of him. Consumed him, body and soul. It has spread to everyone he's touched.
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Grief. Deep Shame. Disgusted by the memory.
+Hash: 4017A2CB, Key: Line5.157838, Value: Varshan is the source of the Malignant. All of this is my fault.
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Grief. Deep Shame. The final, ugly truth.

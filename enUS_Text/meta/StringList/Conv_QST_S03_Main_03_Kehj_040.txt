@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I am ready."
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: There we are. Now, follow me. I am not the only one who may be in danger.

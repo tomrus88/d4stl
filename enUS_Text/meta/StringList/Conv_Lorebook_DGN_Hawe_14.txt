@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Faded Page from a Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Faded Journal Page
+Hash: 5D732BE7, Key: Line1.EEB2B, Value: The Cathedral of Light has forsaken us! Our people starve and struggle, succumbing to the dangers of the swamp. Yesterday, my brother died, poisoned, after being bitten by a snake.
+Hash: CC7C9214, Key: VoiceDir1.EEB2B, Value: mad
+Hash: 915C1EEB, Key: Line5.EEB2B, Value: Every letter and plea have gone unanswered by them. I gave them everything, but now all they shall have is my hatred.
+Hash: 00658518, Key: VoiceDir5.EEB2B, Value: mad
+Hash: 2B50986D, Key: Line7.EEB2B, Value: I know they will come for me. Let them. We will have an army of the living and dead waiting for them.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Lesser Verses and Incantations 
+Hash: A646FFA4, Key: Description, Value: Bound to Gale Valley
+Hash: F5C7BC0A, Key: Flavor, Value: A worn and dusty book with a faded Horadric seal on the cover.

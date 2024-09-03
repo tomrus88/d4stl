@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sacks of Ore
+Hash: F2CA04D8, Key: NoticeSignText, Value: Dwindling sacks of metal ore. With the mines closed in the south, such materials have grown scarce.

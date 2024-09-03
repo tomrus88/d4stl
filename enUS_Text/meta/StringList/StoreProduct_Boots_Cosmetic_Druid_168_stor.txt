@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Brewer's Stride
+Hash: 13A53A8B, Key: Series, Value: "Master Brewer"

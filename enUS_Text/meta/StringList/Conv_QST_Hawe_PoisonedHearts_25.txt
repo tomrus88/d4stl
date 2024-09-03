@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Vera
+Hash: F75EA60C, Key: Line3.F52F0, Value: (coughing fit)
+Hash: 66680C39, Key: VoiceDir3.F52F0, Value: Unable to breathe. Desperate coughing and wheezing.

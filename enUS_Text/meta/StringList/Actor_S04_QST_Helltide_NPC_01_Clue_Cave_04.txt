@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Caravan Route Map
+Hash: F2CA04D8, Key: NoticeSignText, Value: A map of Kehjistan, dotted with the caravan's winding route through the mountainside. Someone was tracking the caravan's progress.

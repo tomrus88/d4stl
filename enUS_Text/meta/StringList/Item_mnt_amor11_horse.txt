@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hawezar Tack
+Hash: A646FFA4, Key: Description, Value: A good saddle for marsh riding, and a specialized blanket to help protect your mount from biting flies.

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Guardians of the Pit
+Hash: 0871A46B, Key: Toast, Value: There is a growing threat in the Tar Pits. 
+Hash: 8DCA476E, Key: Phase9Description, Value: The Champion is no more. I should return to Heldam in the Iron Wolf encampment for reward.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Heddam
+Hash: 92C33198, Key: Phase12Description, Value: Despite a reward, no one has challenged the Champion of the Tar Pits. Heddam of the Iron Wolves is offering me the payment if I can bring down the foe. I need to prove myself by killing the Champion’s undead underlings to bring it out of hiding. 
+Hash: 85A4CA58, Key: Callback11Header, Value: Slay skeletons to draw out the champion
+Hash: D6E30DFE, Key: Phase27Description, Value: The Champion of the Tar Pits has answered my challenge. It will soon learn to regret this mistake. 
+Hash: 9211671E, Key: Callback35Header, Value: Slay the Champion of the Tar Pits

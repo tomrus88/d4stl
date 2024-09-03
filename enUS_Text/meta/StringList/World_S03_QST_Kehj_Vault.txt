@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Unearthed Vault
+Hash: 003892BF, Key: Desc, Value: Voices echo from within—pained, plaintive.

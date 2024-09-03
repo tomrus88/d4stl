@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me of this hammer."
+Hash: 5D22EA2D, Key: Line1.B757A, Value: The Grizzly's Maul is from a time when we lived on Mount Arreat... a time when the children of Bul-Kathos carried it into battle against the demons that lay siege to the land.
+Hash: CC2C505A, Key: VoiceDir1.B757A, Value: Prideful and strong,
+Hash: F71763AF, Key: Line3.B757A, Value: Our ancestors always reclaimed it whenever the wielder fell, just as we do now.
+Hash: 910BDD31, Key: Line5.B757A, Value: Baltok, though wounded, refused to let the Grizzly's Maul leave his hands as he was dragged away.

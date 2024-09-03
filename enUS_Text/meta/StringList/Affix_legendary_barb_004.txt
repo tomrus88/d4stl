@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Weapon Master's
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Weapon Mastery{/c} Skills have an additional Charge.
+
+{c_label}Lucky Hit:{/c} Damaging an enemy with a {c_important}Weapon Mastery{/c} Skill has up to a {c_random}[Affix_Value_1|%|]{/c} chance to Stun them for {c_number}[Affix_Value_2]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Your {c_important}Weapon Mastery{/c} Skills have an additional Charge and a {c_random}[Affix_Value_1|%|]{/c} chance to Stun.

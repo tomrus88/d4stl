@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: You are Vulnerable for 30 seconds.
+During this time, enemies drop Reputation.
+Hash: 2F414F0D, Key: ShortenedName, Value: PH  Mother's Vulnerability

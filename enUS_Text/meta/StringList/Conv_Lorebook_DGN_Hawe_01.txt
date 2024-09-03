@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Scavenger’s Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Scavenger’s Journal
+Hash: 5D72A43B, Key: Line1.EDC71, Value: Ran hard and fast from my old crew. They wanted to set up shop in Wejinhani and I want out. I can’t live in the swamp. I can’t stay and I can’t leave without money.
+Hash: F7671DBD, Key: Line3.EDC71, Value: Found these warrens by accident, but what a treasure. I can sell everything I find and leave. But there’s someone else—more than one person—here. Hunting for something. And I think if they find me, it won’t go well.

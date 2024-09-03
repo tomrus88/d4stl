@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this bandit problem?"
+Hash: 5D45F11D, Key: Line1.D5166, Value: Bandits are a constant in the southern desert, but some have grown brazen of late. Attacking our patrols within sight of the oasis.
+Hash: CC4F574A, Key: VoiceDir1.D5166, Value: Gruff. Weary. Haddad is an old veteran Iron Wolf.
+Hash: F73A6A9F, Key: Line3.D5166, Value: I need every able body watching our perimeter, not running off to get themselves killed.
+Hash: 6643D0CC, Key: VoiceDir3.D5166, Value: Gruff. Weary.

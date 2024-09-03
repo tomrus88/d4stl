@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Threads of Envy
+Hash: 0871A46B, Key: Toast, Value: More than a monster waits in the deep.
+Hash: 0132B4FD, Key: Phase53Description, Value: We’ve found the wight’s lair. The fiend hides deep beneath Eternal Watch, thriving in the murk. 
+
+It’s time Roina and I put an end to the wight’s corruption.
+Hash: 83A65A9D, Key: Callback52Header, Value: Enter the Mithering Descent
+Hash: C5A4F845, Key: Phase79Description, Value: Roina and I faced the wight, only to find that the creature was her mother—twisted by its corruption. Though we defeated the fiend, Roina is clearly troubled by the revelation.
+
+I should speak with her in Marowen and see how she’s faring.
+Hash: FB719C7F, Key: Callback81Header, Value: Speak with Roina in Marowen
+Hash: 38C7CA4E, Key: Phase108Description, Value: The wight ritual at Linnéad revealed a statue of the fiend and knowledge of its lair in the far north. It also spoke of a test—but that did not give Roina pause.
+
+I should meet Roina at the Eternal Watch. Together, we’ll put an end to the wight.
+Hash: A4030E0A, Key: Callback121Header, Value: Meet Roina at the Eternal Watch

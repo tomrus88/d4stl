@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forgotten Crossbow
+Hash: F5C7BC0A, Key: Flavor, Value: The swamp has crept into every crevice of this intricate crossbow. "Rea" is carved onto the handle.

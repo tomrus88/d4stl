@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Abandoned Smuggler's Den
+Hash: 003892BF, Key: Desc, Value: Once a den for bandits, it now houses a far worse threat. 

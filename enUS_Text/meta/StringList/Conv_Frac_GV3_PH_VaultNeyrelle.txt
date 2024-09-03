@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Vigo wanted me to give this to you."
+Hash: 08812C5C, Key: Line37.BAE4, Value: Vigo wanted you to have this.
+Hash: 778A9289, Key: VoiceDir37.BAE4, Value: kind
+Hash: 8E091FB5, Key: Line5.6DE47, Value: Oh...he was a good man.
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: sad
+Hash: 33F08F65, Key: Line41.6DE47, Value: And Lilith? Was she even there? Did you meet her?
+Hash: 8426BB32, Key: VoiceDir41.6DE47, Value: Despair 
+Hash: BB86EF9B, Key: Line27.BAE4, Value: Already gone by the time I arrived.
+Hash: 2A9055C8, Key: VoiceDir27.BAE4, Value: gently, sorrowful
+Hash: 27FD9937, Key: Line7.6DE47, Value: There is more. I can see that.
+Hash: 9706FF64, Key: VoiceDir7.6DE47, Value: Hesitant
+Hash: C03140DD, Key: Line29.BAE4, Value: Lilith took a key to Hell off Rathma’s body.
+Hash: 2F3AA70A, Key: VoiceDir29.BAE4, Value: gently, sorrowful
+Hash: E1A33406, Key: Line33.6DE47, Value: Then it was...all in vain. She's the only one who got what they wanted.
+Hash: 31D95FD3, Key: VoiceDir33.6DE47, Value: sad, angry 

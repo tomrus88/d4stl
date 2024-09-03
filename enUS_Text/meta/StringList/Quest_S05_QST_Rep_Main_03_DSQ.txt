@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Sins of the Willing
+Hash: 0871A46B, Key: Toast, Value: Istel has made a discovery that may turn the Tides.
+Hash: D53BFF05, Key: Phase0Description, Value: Apparently, Istel has learned how to harness the Burning Aether. She has asked that I meet her back at her house, where she will perform the needful ritual. Something feels off.
+Hash: 7E852787, Key: Callback100Header, Value: Meet Istel at the safehouse
+Hash: 6573DDCA, Key: Callback103Header, Value: Learn of Istel's findings
+Hash: 5183C723, Key: Callback58Header, Value: Speak to Istel
+Hash: 09DCA900, Key: Callback64Header, Value: Disrupt the ritual
+Hash: A3D12282, Key: Callback66Header, Value: Disrupt the ritual
+Hash: 9AB9349F, Key: Callback90Header, Value: Observe the ritual

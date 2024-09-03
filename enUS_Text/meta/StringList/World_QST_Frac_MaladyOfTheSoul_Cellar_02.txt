@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ominous Cellar
+Hash: 003892BF, Key: Desc, Value: Kvera's husband has been locked inside for his own safety.

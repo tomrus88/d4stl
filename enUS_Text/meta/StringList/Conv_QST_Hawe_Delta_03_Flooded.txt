@@ -1,0 +1,2 @@
+Hash: D4479923, Key: Line1.BAE4, Value: Staircase is flooded. I need a way to cross it.
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: To self, seeing a staircase flooded with water. Player wants to find a way to "bridge" the gap.

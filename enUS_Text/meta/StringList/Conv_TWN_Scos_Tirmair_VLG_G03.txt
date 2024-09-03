@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tirmair is pretty isolated."
+Hash: 5D72A385, Key: Line1.EDC0B, Value: It takes something special to live out here. Something hard.
+Hash: F7671D07, Key: Line3.EDC0B, Value: Those without it flee back to the more “accommodating” walls of Cerrigar.
+Hash: 66708334, Key: VoiceDir3.EDC0B, Value: Cerrigar pronunciation: KEHR-ig-are

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Shocking Impact
+Hash: 003892BF, Key: desc, Value: Every time you Stun an enemy, you deal {c_number}{payload:LIGHTNING_PAYLOAD}{/c} Lightning damage to them.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:LIGHTNING_PAYLOAD}{/c}

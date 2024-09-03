@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Altar of Terror
+Hash: D6FC1563, Key: Line19.6D03F, Value: Diablo. Lord of Terror. Every mortal fear, every nightmare--he is the root of it all. Always has been.
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: Musing about Diablo
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Speak his true name: Al’Diabolos.
+Hash: 69E26198, Key: Line15.BAE4, Value: Al’Diabolos.
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: (pained groan)

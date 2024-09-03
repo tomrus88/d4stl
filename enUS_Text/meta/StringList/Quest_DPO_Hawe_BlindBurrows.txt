@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Little mouths and little legs swarm the dark.
+Hash: 38AA8D97, Key: Callback10Header, Value: Slay the Infested Villagers: {LEFT}
+Hash: 1F9943DA, Key: Callback13Header, Value: Defeat the {MONSTER}
+Hash: B98DBD5C, Key: Callback15Header, Value: Travel to {LEVELAREA}

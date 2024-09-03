@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sorcerer Armor Pack
+Hash: A646FFA4, Key: Description, Value: Includes the "Thaumaturge" and "Heretic Ritual" armor sets!

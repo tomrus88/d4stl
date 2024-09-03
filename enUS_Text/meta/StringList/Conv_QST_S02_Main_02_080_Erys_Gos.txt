@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “You’re not afraid I’ll fully change?”
+Hash: 67A72C3A, Key: Line3.1697C7, Value: Oh, you’re going to change. I’m sorry, but whatever’s preventing your cravings can’t last forever. It never does.
+Hash: B7DD5807, Key: VoiceDir3.1697C7, Value: Like a doctor giving the news of a terminal illness.

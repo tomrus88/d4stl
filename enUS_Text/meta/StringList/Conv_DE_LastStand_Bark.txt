@@ -1,0 +1,2 @@
+Hash: 5A3240AA, Key: Line1.7DD22, Value: You there! Please, help us get out of here!
+Hash: C93BA6D7, Key: VoiceDir1.7DD22, Value: Desperately calling to the player for help.

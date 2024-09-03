@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: The Yshari
+Hash: B12CDF46, Key: Phase100Description, Value: Deep within the Unearthed Vault, I discovered a sanctum of some sort. Old, wrought in iron and stone. It reminds me of the Horadrim. I should press onwards.
+Hash: 4F855768, Key: Callback99Header, Value: Enter the Doorways to Nowhere
+Hash: EEFEDB10, Key: Callback163Header, Value: Explore the Doorways to Nowhere
+Hash: 51348DD0, Key: Phase164Description, Value: A demon whispers in my ear, thinks me prey. But I'm the hunter, and the demon my quarry. I should destroy what minions it sends my way.
+Hash: D5ED9153, Key: Callback166Header, Value: Slay enemies
+Hash: DB40AFF1, Key: Callback173Header, Value: Follow the Voice
+Hash: A0939751, Key: Phase174Description, Value: A sorcerer attacked me, possessed by the demon. Is this the source of Gea Kul’s problems, or merely another victim? If I can subdue him, the possession may abate long enough to get answers.
+Hash: C22F6634, Key: Callback176Header, Value: Defeat the Possessed Sorcerer

@@ -1,0 +1,8 @@
+Hash: 3FBA96C2, Key: Line5.101BAB, Value: So... (hic) what's your story?
+Hash: 8FF0C28F, Key: VoiceDir5.101BAB, Value: Making conversation. (The "(hic)" is a drunken hiccup.)
+Hash: 183E44C9, Key: Line7.101CAF, Value: We were looking to make landfall when outta nowhere, our ship was overrun.
+Hash: 68747096, Key: VoiceDir7.101CAF, Value: Recalling, with horror, but a bit detached. Having been through a recent trauma, he's still processing.
+Hash: 451AADB4, Key: Line11.101CAF, Value: At first, they looked just like any of us - like you or me. Until they claimed every one of my crew.
+Hash: 9C165321, Key: VoiceDir11.101CAF, Value: Recalling, with horror, but a bit detached. Having been through a recent trauma, he's still processing.
+Hash: 1D9E5331, Key: Line13.101BAB, Value: Ah, good ol' Drowned.
+Hash: 7499F89E, Key: VoiceDir13.101BAB, Value: Facetiously. The Drowned are monstrous creatures.

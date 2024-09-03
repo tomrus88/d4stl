@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: [PH] Note 01
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Zoltun Kulle
+Hash: 8F596641, Key: Line1.197AF2, Value: My dearest friend, you refused to listen to reason, so I decided for us both.
+Hash: 18E46387, Key: Line7.197AF2, Value: The Loom is dead. You will find the tunnels collapsed, the siphons broken, and the runes scoured. To rebuild it without me would take a lifetime.
+Hash: F1680D49, Key: Line9.197AF2, Value: I hope you realize your mistake. I hope you abandon this dream, as I have. I hope you join the Horadrim with me. And if none of that comes to pass, I hope you live well. 
+-Zoltun

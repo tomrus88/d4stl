@@ -1,0 +1,2 @@
+Hash: 8ECD5C23, Key: Line1.10B522, Value: I thought the ale in Gea Kul was strong, but the stuff here? Aye-yai.
+Hash: DF0387F0, Key: VoiceDir1.10B522, Value: Slurring, drunk

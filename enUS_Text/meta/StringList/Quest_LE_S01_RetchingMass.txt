@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Retching Mass
+Hash: 0871A46B, Key: Toast, Value: A mass of malignant corruption emerges from the cracked earth
+Hash: F61E7DE1, Key: Callback74Header, Value: Slay the incoming malignant hordes
+Hash: 68CE6AAF, Key: Callback270Header, Value: Defeat all {NEEDED} malignant hordes: {DONE_OVER_NEEDED}
+Hash: FD6FC593, Key: Callback265Header, Value: Destroy the Retching Mass
+Hash: 7937E6EB, Key: Callback212Header, Value: Slay the remaining enemies
+Hash: D7F1DF10, Key: Callback244Header, Value: Slay the incoming malignant hordes
+Hash: 4C68720F, Key: Callback225Header, Value: Slay the incoming malignant hordes

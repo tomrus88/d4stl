@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: This... is where we made a miracle: an alchemical engine. The greatest in all the world.
+Hash: 75451B6B, Key: VoiceDir13.18AEA4, Value: taking a breath, prideful, letting it suffocate his fears
+Hash: F6CD1FC0, Key: Line15.18AEA4, Value: We call it the Loom. It is housed leagues beneath our feet, and yet it powers all you see around you.

@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: PH Mother's Vulnerabiliy
+Hash: 7786FD97, Key: Buff1_Description, Value: Gain reputation!

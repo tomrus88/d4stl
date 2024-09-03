@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Estuar Sightseer
+Hash: 003892BF, Key: Desc, Value: Explore all of Estuar.
+Hash: 3DA572EF, Key: Crit_236793, Value: Explore Fractured Peaks
+Hash: 3DA572F0, Key: Crit_236794, Value: Explore Scosglen
+Hash: 3DA572F1, Key: Crit_236795, Value: Explore Dry Steppes
+Hash: 3DA572F2, Key: Crit_236796, Value: Explore Kehjistan
+Hash: 3DA572F3, Key: Crit_236797, Value: Explore Hawezar

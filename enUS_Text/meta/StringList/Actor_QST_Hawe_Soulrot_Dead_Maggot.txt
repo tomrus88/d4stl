@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dissected Maggot
+Hash: F2CA04D8, Key: NoticeSignText, Value: The maggot corpse appears fresh. It's flesh has been pinned back to reveal a yellow-green interior that still shows signs of movement. 

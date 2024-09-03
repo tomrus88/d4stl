@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: In and Out
+Hash: 003892BF, Key: Desc, Value: Kill 50 enemies in melee range and 50 enemies out of melee range as a Rogue.
+Hash: 3DB43027, Key: Crit_240394, Value: Melee Kills
+Hash: 3DB43028, Key: Crit_240395, Value: Range Kills

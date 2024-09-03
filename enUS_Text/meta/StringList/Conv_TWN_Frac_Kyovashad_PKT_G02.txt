@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you nervous about what is to come?"
+Hash: 8F0423A6, Key: Line1.13C0FB, Value: I have dedicated my life to the Cathedral. I would sacrifice everything for the chance to fight beside Inarius.

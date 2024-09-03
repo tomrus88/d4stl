@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Convenient Crafts
+Hash: 003892BF, Key: Desc, Value: Craft any Elixir and any Incense.
+Hash: 3DB42F42, Key: Crit_240326, Value: Craft Elixir
+Hash: 3DB42F43, Key: Crit_240327, Value: Craft Incense

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Old Ways Totem
+Hash: F2CA04D8, Key: NoticeSignText, Value: New talismans cover this druidic totem, bearing the names of the dead alongside runes of hope and healing. 

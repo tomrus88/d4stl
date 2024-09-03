@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Does Midwinter Blight celebrate something specific?"
+Hash: 8F311900, Key: Line1.171196, Value: Nnnot exactly. Well, not entirely, I guess? I don’t think I’ve ever just—explained it outside a rhyme. But, um, this time in the dark, guarding against the monsters? There’s so much fear.
+Hash: DF6744CD, Key: VoiceDir1.171196, Value: slight emphasis on "entirely." He's struggling to get started here with his explanation.
+Hash: 67B4C2C2, Key: Line3.171196, Value: So, people gather. In light, in celebration, in memory of the dead. The square is decorated not only with the effigies of monsters, but heirlooms of the lost.
+Hash: B7EAEE8F, Key: VoiceDir3.171196, Value: He's rising in confidence as he goes on.
+Hash: 40386C84, Key: Line5.171196, Value: That warmth and unity isn’t because we aren’t afraid. It’s because when we’re afraid, we need each other most.
+Hash: 906E9851, Key: VoiceDir5.171196, Value: Fully immersed in the story he's telling now. His anxiety has been replaced with heart.

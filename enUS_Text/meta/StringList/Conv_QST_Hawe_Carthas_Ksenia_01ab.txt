@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How did you learn of Mephisto's presence?"
+Hash: 451B016C, Key: Line11.103673, Value: His presence clings to every stone inside these walls. Even now, he conjures images, whispers, cowardly illusions meant to test my faith.
+Hash: 9C16A6D9, Key: VoiceDir11.103673, Value: Sullen but unafraid.
+Hash: 1D9EAB2E, Key: Line13.103673, Value: I found records here. Murals, books, some scrolls. They tell of this fort's purpose. Sankekur's fate is well known, but to think his body is here...
+Hash: F62254F0, Key: Line15.103673, Value: This darkness is... it clings to you. Tries to drown you... for the Light, we cannot fail.

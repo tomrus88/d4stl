@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Shadows' Embrace
+Hash: 7786FD97, Key: Buff1_Description, Value: You are hidden from enemies. Your next action reveals you and deals [{SF_0}*100]% increased damage.

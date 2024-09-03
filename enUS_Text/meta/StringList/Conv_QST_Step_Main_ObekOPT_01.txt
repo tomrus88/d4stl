@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What do you know about Elias?”
+Hash: 6F2AC46C, Key: Line11.6E261, Value: I... I saw him at the royal court. He walked in, unannounced. (sigh) Demanded the city to be given to him.
+Hash: BF60F039, Key: VoiceDir11.6E261, Value: Unsettled, hesitant
+Hash: 5A1FE05B, Key: Line1.6E261, Value: The Overseers sent him to the prisons, of course. They laughed about the strange man all night. That was the last time they laughed.
+Hash: C9294688, Key: VoiceDir1.6E261, Value: Very dark for the last sentence

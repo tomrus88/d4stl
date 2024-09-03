@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What trouble are you talking about?”
+Hash: F72F7F2B, Key: Line3.BC418, Value: Over there, in the square. See for yourself.
+Hash: 6638E558, Key: VoiceDir3.BC418, Value: Stern. Wary. (5ft from Player)

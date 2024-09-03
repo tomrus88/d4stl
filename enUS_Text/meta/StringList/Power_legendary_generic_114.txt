@@ -1,0 +1,4 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Cold, Poison and Shadow
+Hash: 7786FD97, Key: Buff1_Description, Value: Cold, Poison and Shadow Damage is increased.
+Hash: 14C66756, Key: Buff3_Name, Value: Fire, Lightning, and Physical
+Hash: 16451099, Key: Buff3_Description, Value: Fire, Lightning, and Physical Damage is increased.

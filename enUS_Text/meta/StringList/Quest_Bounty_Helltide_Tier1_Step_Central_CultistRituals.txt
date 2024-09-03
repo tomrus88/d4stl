@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Disrupt Cultist Rituals
+Hash: 0871A46B, Key: Toast, Value: Hordes of Triune cultists are drowning the land with their blood magic. Destroy them and the demons they have summoned.
+Hash: B8A227EA, Key: Callback4Header, Value: Disrupt Cultist Rituals: {DONE_OVER_NEEDED}

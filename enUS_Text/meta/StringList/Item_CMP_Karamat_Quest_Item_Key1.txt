@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ritual Chamber Keystone
+Hash: A646FFA4, Key: Description, Value: A magical jewel that appears like it's part of a greater whole.

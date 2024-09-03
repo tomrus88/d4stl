@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charnel House
+Hash: 003892BF, Key: Desc, Value: Bodies are stored here, some still alive. Food for demons.

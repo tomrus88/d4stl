@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: Discretionary Spending
+Hash: 0871A46B, Key: Toast, Value: Lyndon needs some muscle to ensure a trade deal goes smoothly.
+Hash: 61CFD437, Key: Phase11Description, Value: The head of Backwater, Lyndon, has another job for me. This one requiring more "discretion." I should meet Lyndon outside Backwater to learn more about the job I've accepted.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Lyndon outside of Backwater
+Hash: 8784047D, Key: Phase17Description, Value: We found Lyndon's stash near a Drowned bell. I should grab it so we can meet his "contacts."
+Hash: 36AC1DDC, Key: Callback51Header, Value: Collect {ITEM}
+Hash: A5EFB09D, Key: Phase26Description, Value: Supplies in hand, Lyndon and I are to meet with his "contacts" near the shipwrecks up north.
+Hash: A5CF923D, Key: Callback25Header, Value: Meet Lyndon's contacts
+Hash: 3181449A, Key: Phase32Description, Value: Before the deal could complete, we were ambushed by some traitors from Backwater. They seemed to be angry with Lyndon.
+Hash: 859EA5AF, Key: Callback117Header, Value: Meet Lyndon's contacts
+Hash: 45172A5D, Key: Callback34Header, Value: Speak with Lyndon
+Hash: 2C05E0A0, Key: Callback37Header, Value: Speak with Lyndon
+Hash: D0E42560, Key: Phase74Description, Value: We're paying off "law men" to keep Backwater out of scrutiny. But first we need to find Lyndon's stash.
+Hash: A9244120, Key: Callback73Header, Value: Retrieve Lyndon's stashed supplies
+Hash: DD0D3424, Key: Callback77Header, Value: Search for Lyndon's supplies
+Hash: E26052C2, Key: Callback84Header, Value: Speak with Lyndon

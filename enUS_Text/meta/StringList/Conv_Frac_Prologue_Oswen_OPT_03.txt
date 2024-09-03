@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Ah, bastard monk. Punched me in the gut and ran off into the woods.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Grumpy, angry, pained from getting hit by the "monk madman" who was in the shed

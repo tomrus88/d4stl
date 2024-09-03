@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Efficiency
+Hash: 7786FD97, Key: Buff1_Description, Value: Next {c_important}Core{/c} or {c_important}Mastery{/c} Skill's Mana cost reduced.

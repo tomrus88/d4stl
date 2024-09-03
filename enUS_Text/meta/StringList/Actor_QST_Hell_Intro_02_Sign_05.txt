@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Corroded Stone Slab
+Hash: F2CA04D8, Key: NoticeSignText, Value: Names are chiseled into stones on the floor, each with a Zakarum cross: Geleb, Maffer, Bremm, Wyand, and Ismail.

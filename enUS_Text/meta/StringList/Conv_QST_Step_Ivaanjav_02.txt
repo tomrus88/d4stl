@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Hello?"
+Hash: 8EFA4271, Key: Line1.140140, Value: Ah, stop! Khaliun, my love - I beg you!
+Hash: DF306E3E, Key: VoiceDir1.140140, Value: Crying out in terror, reliving the moment just before his death.
+Hash: 677DEC33, Key: Line3.140140, Value: Oh, you're... not her? You must go, quickly. She could return at any moment!
+Hash: B7B41800, Key: VoiceDir3.140140, Value: At first, bewildered. Then genuinely concerned, for himself and the player to whom he's speaking.

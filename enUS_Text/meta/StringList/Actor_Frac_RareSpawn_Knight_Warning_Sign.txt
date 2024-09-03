@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: SIR LYNNA
+
+Once a promising and devout member of the Knights Penitent, the heretic Sir Lynna has renounced the Light and now lives in darkness. The faithful should avoid Kylsik Plateau, where she has been seen most recently.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

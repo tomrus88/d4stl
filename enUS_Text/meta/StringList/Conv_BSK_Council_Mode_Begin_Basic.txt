@@ -1,0 +1,13 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Fell Council
+Hash: D0E528B0, Key: Line16.1D252B.Bar, Value: Barbarian... far have you wandered.
+Hash: DEDFBC9D, Key: VoiceDir16.1D252B.Bar, Value: Grinning. Sinister. Superior.
+Hash: D0E53366, Key: Line16.1D252B.Dru, Value: Druid... far have you wandered.
+Hash: DEDFC753, Key: VoiceDir16.1D252B.Dru, Value: Grinning. Sinister. Superior.
+Hash: D0E55C31, Key: Line16.1D252B.Nec, Value: Necromancer... far have you wandered.
+Hash: DEDFF01E, Key: VoiceDir16.1D252B.Nec, Value: Grinning. Sinister. Superior.
+Hash: D0E56E83, Key: Line16.1D252B.Rog, Value: Rogue... far have you wandered.
+Hash: DEE00270, Key: VoiceDir16.1D252B.Rog, Value: Grinning. Sinister. Superior.
+Hash: D0E572CF, Key: Line16.1D252B.Sor, Value: Sorcerer... far have you wandered.
+Hash: DEE006BC, Key: VoiceDir16.1D252B.Sor, Value: Grinning. Sinister. Superior.
+Hash: E61092ED, Key: Line16.1D252B, Value: The Daughter's traitor... far have you wandered.
+Hash: 3D0C385A, Key: VoiceDir16.1D252B, Value: Grinning. Sinister. Superior.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Steppewarden
+Hash: A646FFA4, Key: Description, Value: In days past alongside their barbarian brethren, the Steppewardens were at the forefront of the conflict between the people of the Steppes and the cannibal hordes ravaging the countryside.
+Hash: 083EE0CE, Key: Quote, Value: To a follower of the Old Ways, the harsh wilds of the Dry Steppes pose little threat… other than the cannibals.
+Hash: 13A53A8B, Key: Series, Value: Druid Armor

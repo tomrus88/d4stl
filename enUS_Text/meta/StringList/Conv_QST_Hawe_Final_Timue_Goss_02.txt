@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Lorath made a deal with the Tree.”
+Hash: 5A39A25C, Key: Line1.9118B, Value: I said that one of you would die here. Though he is not dead yet, his time will come, and the Tree will be his eternal grave.
+Hash: F42E1BDE, Key: Line3.9118B, Value: I hope it was worth it.
+Hash: 6337820B, Key: VoiceDir3.9118B, Value: Sad

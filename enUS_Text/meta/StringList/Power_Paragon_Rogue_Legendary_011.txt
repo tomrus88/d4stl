@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: No Witnesses
+Hash: 003892BF, Key: desc, Value: Your {c_important}Ultimate{/c} Skills gain an additional {c_number}[{SF_0}*100|%x|]{/c} damage from your Damage with Ultimate bonus and grant this bonus to all Skills for {c_number}[SF_2]{/c} seconds when cast.
+
+Current Bonus: {c_number}[SF_1 * 100|%x|]{/c}
+Maximum Bonus: {c_number}[(SF_4*SF_0)*100|%x|]{/c}
+Hash: 101C1614, Key: Buff1_Name, Value: No Witnesses
+Hash: 7786FD97, Key: Buff1_Description, Value: {c_number}[{SF_1}*100|%|]{/c} increased damage after casting an {c_important}Ultimate{/c} Skill.

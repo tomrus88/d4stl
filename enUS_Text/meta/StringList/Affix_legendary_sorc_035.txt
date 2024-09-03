@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Frozen Orbit
+Hash: 003892BF, Key: Desc, Value: {c_important}Frozen Orb{/c} explodes {c_number}[Affix."Static Value 0"]{/c} additional times at its destination for {c_random}[Affix_Value_1|%|]{/c} of its damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Frozen Orb{/c} explodes {c_number}[Affix."Static Value 0"]{/c} additional times for {c_random}[Affix_Value_1|%|]{/c} of its damage.

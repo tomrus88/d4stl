@@ -1,0 +1,224 @@
+Hash: 1885019C, Key: Major_StormbanesWrath, Value: Stormbane's Wrath chases players around, releasing deadly pulses when reaching a player.
+Hash: B6311CA7, Key: Major_Volcanic, Value: While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of players.
+Hash: E575A877, Key: TEST_BONUS1, Value: Description for Test Bonus Affix 1.
+Hash: D243E949, Key: Major_Nightmare Portal, Value: While in combat, nightmare portals open randomly near players, pouring out dangerous monsters.
+Hash: 9DB3D30E, Key: Proximity Shield, Value: Random monsters gain proximity shield, preventing any damages from outside the shield.
+Hash: 31A6F817, Key: Rampart, Value: <Insert dungeon affix description here>
+Hash: 3EC2A5AC, Key: Berserking, Value: Monsters become strong the longer they stay in combat.
+Hash: C4739A9D, Key: Frozen Pulse, Value: <Insert dungeon affix description here>
+Hash: E8970902, Key: Blizzard, Value: Random blizzard storms that move around.
+Hash: 41E20C05, Key: PvP_Dungeon_MonstersBalance, Value: <Insert dungeon affix description here>
+Hash: A1DFDECF, Key: PvP_Dungeon_MonstersDropNoLoot, Value: <Insert dungeon affix description here>
+Hash: 2B86E473, Key: Wild Regeneration, Value: Monsters aggressively regenerate health while moving.
+Hash: 392DDBC9, Key: Destabilizing, Value: Enemy hit has a chance to teleport you randomly.
+Hash: 07911DB5, Key: Haste, Value: Monsters move 30% faster.
+Hash: 4A02B956, Key: Resource Drain, Value: You no longer passively generate or lost resource. Your resource drains while moving, and gains while standing still.
+Hash: 81E2157C, Key: Fire Enhanced, Value: Monster hits have 30% chance to burn targets.
+Hash: 95425898, Key: Cold Enhanced, Value: Monster hits have 30% chance to chill targets.
+Hash: 0DE2D36E, Key: Poison Enhanced, Value: Monster hits have 30% chance to poison targets.
+Hash: 8AF3F7B3, Key: Physical Enhanced, Value: Monster hits tear your muscles. Movement will bleed you out.
+Hash: B3B1B7FA, Key: Lightning Enhanced, Value: Monster hits call down thunder upon you and slow you heavily. You recover from the slow overtime.
+Hash: 583647F4, Key: Major_Drifting Shade, Value: Drifting shades chase their targets.  They explode for heavy damage upon reaching their target, creating nightmare fields that Daze victims.
+Hash: 32EC22DD, Key: Major_Empowered Elites (Suppressor), Value: Elites always have "Suppressor" affix.
+Hash: FC27427D, Key: Major_Empowered Elites (Teleporter), Value: Elites always have "Teleporter" affix.
+Hash: FC5E8510, Key: Major_Empowered Elites (Nightfall), Value: Elites always have "Nightfall" affix.
+Hash: B8144FEF, Key: Major_Empowered Elites (Poison), Value: Elites always have "Poison Enchanted" affix.
+Hash: B82C6CE5, Key: Major_Empowered Elites (Frost), Value: Elites always have "Cold Enchanted" affix.
+Hash: 8E15ED3D, Key: Major_Empowered Elites (Shadow), Value: Elites always have "Shadow Enchanted" affix.
+Hash: 7A75D9A5, Key: Major_Empowered Elites (Electric Lance), Value: Elites always have "Electric Lance" affix.
+Hash: 7058865D, Key: Major_Blood Blister, Value: Monster death will sometimes spawn a Blood Blister. After a short time, it explodes, dealing heavy area damage.
+Hash: DC8DC966, Key: Empowered Elites (Waller), Value: More elites spawn in this dungeon, Elites always have "Waller" affix.
+Hash: 03511F51, Key: Major_Lightning Storm, Value: Lightning gathers above the player. Get into the protection dome to avoid severe outcomes.
+Hash: C7B25922, Key: Trial_EventMastery, Value: Complete the Mastery of 2 Dungeon Events to earn a special reward.
+Hash: D8592498, Key: Trial_AbyssalGrowths, Value: Destroy 10 Abyssal Growths before they hatch to earn a special reward.
+Hash: A260DD0D, Key: Trial_NoWipe, Value: Complete the Dungeon Objective without the Party wiping to earn a special reward.
+Hash: D606CF62, Key: Trial_DemonicIdol, Value: Keep the Demonic Idol intact to earn a special reward.
+Hash: AB2394DD, Key: Trial_ProtectNPC, Value: Keep the Cursed Wanderer alive until the Objective is Complete to earn a special reward.
+Hash: C4C5007F, Key: Trial_UniqueSentries, Value: Find and slay 5 Unique Sentries before they escape to earn a special reward.
+Hash: 62179F03, Key: Trial_TimedRun, Value: Complete the Dungeon Objective in 10 minutes to earn a special reward.
+Hash: A5DF3268, Key: Minor_Monster_AttackFaster_Magic, Value: Monsters attack 15% faster.
+Hash: FF91420A, Key: Minor_Monster_HPBonus_Magic, Value: Monsters gain 20% extra life.
+Hash: 300AA1A8, Key: Minor_Monster_LessShadow_Magic, Value: Monsters take 20% less Shadow damage.
+Hash: 7F8C30F7, Key: Minor_Monster_LessCorruption_Magic, Value: Monsters take 30% less Corruption damage.
+Hash: 6F15C89C, Key: Minor_Monster_LessBleeding_Magic, Value: Monsters take 30% less Bleeding damage.
+Hash: AAC10757, Key: Minor_Monster_LessBurning_Magic, Value: Monsters take 30% less Burning damage.
+Hash: AC62035D, Key: Minor_Monster_AntiCC_Magic, Value: Monster Crowd Controlled duration is reduced by 20%.
+Hash: 7162E569, Key: Minor_Monster_AntiCrit_Magic, Value: Monsters take 30% less Critical Strike damage.
+Hash: B607FD09, Key: Minor_Monster_AntiOverpower_Rare, Value: Monsters take 40% less Overpower damage.
+Hash: 43811227, Key: Minor_Monster_AntiVulnerable_Magic, Value: Monsters have 30% reduced Vulnerable duration.
+Hash: 4F79D7F2, Key: Minor_Monster_Barrier_Magic, Value: Monsters gain 20% Maximum Life as Barrier.
+Hash: CE74E7C9, Key: Minor_Monster_ExtraBleeding_Magic, Value: Monsters deal an additional 15% of their Physical damage dealt as Bleeding over 5 seconds.
+Hash: E3F274E4, Key: Minor_Monster_ExtraBurning_Magic, Value: Monsters deal an additional 15% of their Physical damage dealt as Burning over 5 seconds.
+Hash: 332FCF64, Key: Minor_Monster_ExtraCorruption_Magic, Value: Monsters deal an additional 15% of their Physical damage dealt as Shadow over 5 seconds.
+Hash: CE3CF895, Key: Minor_Monster_ExtraFire_Magic, Value: Monsters deal an additional 10% of their Physical damage dealt as Fire.
+Hash: 5F11F133, Key: Minor_Monster_ExtraLightning_Magic, Value: Monsters deal an additional 10% of their Physical damage dealt as Lightning.
+Hash: A24FF387, Key: Minor_Monster_ExtraPoison_Magic, Value: Monsters deal an additional 15% of their Physical damage dealt as Poison over 5 seconds.
+Hash: 50CE1195, Key: Minor_Monster_ExtraShadow_Magic, Value: Monsters deal an additional 10% of their Physical damage dealt as Shadow.
+Hash: B88B55F4, Key: Minor_Monster_HPRegen_Magic, Value: Non-boss monsters regen 1.5% Maximum Life per second.
+Hash: B2C6F917, Key: Minor_Monster_LessAOE, Value: Monsters take 30% less AOE damage.
+Hash: CF262084, Key: Minor_Monster_LessCold_Magic, Value: Monsters take 20% less Cold damage.
+Hash: F6E067E8, Key: Minor_Monster_LessFire_Magic, Value: Monsters take 20% less Fire damage.
+Hash: 13CEEC66, Key: Minor_Monster_LessLightning_Magic, Value: Monsters take 20% less Lightning damage.
+Hash: 68078E7F, Key: Minor_Monster_LessPhysical_Magic, Value: Monsters take 15% less Physical damage.
+Hash: 818C839A, Key: Minor_Monster_LessPoison_Magic, Value: Monsters take 30% less Poison damage.
+Hash: A682B131, Key: Minor_Monster_ExtraCold_Magic, Value: Monsters deal an additional 10% of their Physical damage dealt as Cold.
+Hash: 5B6C774A, Key: Minor_Monster_LessMelee_Magic, Value: Monsters take 20% less damage from close targets.
+Hash: FA682E13, Key: Minor_Monster_LessRanged_Magic, Value: Monsters take 30% less damage from distant targets.
+Hash: 41F91FB2, Key: Minor_Monster_ChanceSlow_Magic, Value: Monster attacks from a distance have 30% chance to slow targets.
+Hash: 2A7EC624, Key: Minor_Monster_LifeSteal_Magic, Value: Non-boss monsters gain 10% Life Steal.
+Hash: BC0621ED, Key: Minor_Monster_ReflectPhysical_Magic, Value: Monsters reflect 3% Physical damage.
+Hash: AF792D18, Key: Minor_Monster_Unstoppable_Magic, Value: Monsters become Unstoppable when life drops below 15%.
+Hash: 0072892A, Key: NewLabel, Value: Monster attacks from a distance burn 5% of your Primary Resource.
+Hash: 874FB101, Key: Minor_Monster_DrainResource_Magic, Value: Monster attacks from a distance burn 8% of your Primary Resource.
+Hash: A41FB2A6, Key: Minor_Monster_ReduceDodge_Magic, Value: Monster attacks from a distance reduce dodge chance by 8% for 6 seconds, stacking up to 40%.
+Hash: 661982FD, Key: Minor_Monster_SunderArmor_Magic, Value: Monster attacks from a distance reduce your armor by 5% for 6 seconds, stacking up to 25%.
+Hash: DA9DF89B, Key: Minor_Monster_ReduceHealing_Magic, Value: Monster attacks from a distance have 20% chance to disable your Healing Potion for 2 seconds.
+Hash: 9BF9EA74, Key: Minor_Monster_ReduceResistance_Magic, Value: Monster attacks from a distance reduce resistance by 6% for 6 seconds, stacking up to 30%.
+Hash: E258A3CD, Key: Minor_Monster_AttackBehind_Magic, Value: Monsters near the player deal 100% more damage striking from behind.
+Hash: 21F13960, Key: Major_Avenger, Value: Killing a monster enrages monsters near it, making them dealing more damage.
+Hash: 37993EA7, Key: Major_DeathPulse, Value: When a monster gets killed, it releases a deadly lightning pulse after a short delay.
+Hash: 1D88793E, Key: Minor_Monster_ExtraFire_Rare, Value: Monsters deal an additional 15% of their Physical damage dealt as Fire.
+Hash: 52B70A4F, Key: Minor_Monster_ExtraFire_Legendary, Value: Monsters deal an additional 20% of their Physical damage dealt as Fire.
+Hash: 796B8E5A, Key: Minor_Monster_ExtraCold_Rare, Value: Monsters deal an additional 15% of their Physical damage dealt as Cold.
+Hash: D21FB0EB, Key: Minor_Monster_ExtraCold_Legendary, Value: Monsters deal an additional 20% of their Physical damage dealt as Cold.
+Hash: 3931D61C, Key: Minor_Monster_ExtraLightning_Rare, Value: Monsters deal an additional 15% of their Physical damage dealt as Lightning.
+Hash: C07321ED, Key: Minor_Monster_ExtraLightning_Legendary, Value: Monsters deal an additional 20% of their Physical damage dealt as Lightning.
+Hash: 95DA723E, Key: Minor_Monster_ExtraShadow_Rare, Value: Monsters deal an additional 15% of their Physical damage dealt as Shadow.
+Hash: 7A2CA34F, Key: Minor_Monster_ExtraShadow_Legendary, Value: Monsters deal an additional 20% of their Physical damage dealt as Shadow.
+Hash: 7B4827AD, Key: Minor_Monster_ExtraBurning_Rare, Value: Monsters deal an additional 22% of their Physical damage dealt as Burning over 5 seconds.
+Hash: 0460161E, Key: Minor_Monster_ExtraBurning_Legendary, Value: Monsters deal an additional 30% of their Physical damage dealt as Burning over 5 seconds.
+Hash: D304322D, Key: Minor_Monster_ExtraCorruption_Rare, Value: Monsters deal an additional 22% of their Physical damage dealt as Shadow over 5 seconds.
+Hash: 0FC6B09E, Key: Minor_Monster_ExtraCorruption_Legendary, Value: Monsters deal an additional 30% of their Physical damage dealt as Shadow over 5 seconds.
+Hash: 8A2551F2, Key: Minor_Monster_ExtraBleeding_Rare, Value: Monsters deal an additional 22% of their Physical damage dealt as Bleeding over 5 seconds.
+Hash: 7EFB7383, Key: Minor_Monster_ExtraBleeding_Legendary, Value: Monsters deal an additional 30% of their Physical damage dealt as Bleeding over 5 seconds.
+Hash: 88CEDDF0, Key: Minor_Monster_ExtraPoison_Rare, Value: Monsters deal an additional 22% of their Physical damage dealt as Poison over 5 seconds.
+Hash: 9CD22E41, Key: Minor_Monster_ExtraPoison_Legendary, Value: Monsters deal an additional 30% of their Physical damage dealt as Poison over 5 seconds.
+Hash: 241144B1, Key: Minor_Monster_AttackFaster_Rare, Value: Monsters attack 20% faster.
+Hash: 41B7F5A2, Key: Minor_Monster_AttackFaster_Legendary, Value: Monsters attack 25% faster.
+Hash: 3E0EE813, Key: Minor_Monster_HPBonus_Rare, Value: Monsters gain 25% extra life.
+Hash: 3F4D0644, Key: Minor_Monster_HPBonus_Legendary, Value: Monsters gain 30% extra life.
+Hash: A0C126BD, Key: Minor_Monster_HPRegen_Rare, Value: Non-boss monsters regen 1.5% Maximum Life per second.
+Hash: 4DA2FF2E, Key: Minor_Monster_HPRegen_Legendary, Value: Non-boss monsters regen 1.5% Maximum Life per second.
+Hash: 76C860FB, Key: Minor_Monster_Barrier_Rare, Value: Monsters gain 25% Maximum Life as Barrier.
+Hash: DBDE502C, Key: Minor_Monster_Barrier_Legendary, Value: Monsters gain 30% Maximum Life as Barrier.
+Hash: 6802F9E8, Key: Minor_Monster_LessPhysical_Rare, Value: Monsters take 22% less Physical damage.
+Hash: 5A4E8539, Key: Minor_Monster_LessPhysical_Legendary, Value: Monsters take 30% less Physical damage.
+Hash: B243F6FC, Key: Minor_Monster_LessRanged_Rare, Value: Monsters take 45% less damage from distant targets.
+Hash: 645CCECD, Key: Minor_Monster_LessRanged_Legendary, Value: Monsters take 60% less damage from distant targets.
+Hash: C4B87553, Key: Minor_Monster_LessMelee_Rare, Value: Monsters take 30% less damage from close targets.
+Hash: D440DB84, Key: Minor_Monster_LessMelee_Legendary, Value: Monsters take 40% less damage from close targets.
+Hash: 227A1B92, Key: Minor_Monster_AntiCrit_Rare, Value: Monsters take 45% less Critical Strike damage.
+Hash: BDEF4123, Key: Minor_Monster_AntiCrit_Legendary, Value: Monsters take 60% less Critical Strike damage.
+Hash: 1701CA31, Key: Minor_Monster_LessFire_Rare, Value: Monsters take 30% less Fire damage.
+Hash: F357EB22, Key: Minor_Monster_LessFire_Legendary, Value: Monsters take 40% less Fire damage.
+Hash: 72E4DF4D, Key: Minor_Monster_LessCold_Rare, Value: Monsters take 30% less Cold damage.
+Hash: 72C091BE, Key: Minor_Monster_LessCold_Legendary, Value: Monsters take 40% less Cold damage.
+Hash: D9D2B6EF, Key: Minor_Monster_LessLightning_Rare, Value: Monsters take 30% less Lightning damage.
+Hash: 34D07EA0, Key: Minor_Monster_LessLightning_Legendary, Value: Monsters take 40% less Lightning damage.
+Hash: D2EBCBF1, Key: Minor_Monster_LessShadow_Rare, Value: Monsters take 30% less Shadow damage.
+Hash: C68904E2, Key: Minor_Monster_LessShadow_Legendary, Value: Monsters take 40% less Shadow damage.
+Hash: 5A84B7C0, Key: Minor_Monster_LessBurning_Rare, Value: Monsters take 45% less Burning damage.
+Hash: DC48AA11, Key: Minor_Monster_LessBurning_Legendary, Value: Monsters take 60% less Burning damage.
+Hash: C5E037A3, Key: Minor_Monster_LessPoison_Rare, Value: Monsters take 45% less Poison damage.
+Hash: E92E8FD4, Key: Minor_Monster_LessPoison_Legendary, Value: Monsters take 60% less Poison damage.
+Hash: 50F3E465, Key: Minor_Monster_LessBleeding_Rare, Value: Monsters take 45% less Bleeding damage.
+Hash: 53F685D6, Key: Minor_Monster_LessBleeding_Legendary, Value: Monsters take 60% less Bleeding damage.
+Hash: 87C12D60, Key: Minor_Monster_LessCorruption_Rare, Value: Monsters take 45% less Corruption damage.
+Hash: 0FCFA3B1, Key: Minor_Monster_LessCorruption_Legendary, Value: Monsters take 60% less Corruption damage.
+Hash: 62534B06, Key: Minor_Monster_AntiCC_Rare, Value: Monster Crowd Controlled duration is reduced by 30%.
+Hash: 7E743917, Key: Minor_Monster_AntiCC_Legendary, Value: Monster Crowd Controlled duration is reduced by 40%.
+Hash: E306A890, Key: Minor_Monster_AntiVulnerable_Rare, Value: Monsters have 45% reduced Vulnerable duration
+Hash: 98B19CE1, Key: Minor_Monster_AntiVulnerable_Legendary, Value: Monsters have 60% reduced Vulnerable duration
+Hash: 6E9DB0BB, Key: Minor_Monster_ChanceSlow_Rare, Value: Monster attacks from a distance have 40% chance to slow targets.
+Hash: 083B77EC, Key: Minor_Monster_ChanceSlow_Legendary, Value: Monster attacks from a distance have 50% chance to slow targets.
+Hash: 8CEF50ED, Key: Minor_Monster_LifeSteal_Rare, Value: Non-boss monsters gain 12% Life Steal.
+Hash: 6F33075E, Key: Minor_Monster_LifeSteal_Legendary, Value: Non-boss monsters gain 15% Life Steal.
+Hash: C7A5D796, Key: Minor_Monster_ReflectPhysical_Rare, Value: Monsters reflect 4% Physical damage.
+Hash: E9251FA7, Key: Minor_Monster_ReflectPhysical_Legendary, Value: Monsters reflect 5% Physical damage.
+Hash: EFF38912, Key: Minor_Monster_ReflectNonPhysical_Legendary, Value: Monsters reflect 8% Non-Physical damage.
+Hash: 47FA8DD8, Key: Minor_Monster_ReflectNonPhysical_Magic, Value: Monsters reflect 4% Non-Physical damage.
+Hash: 1976F221, Key: Minor_Monster_ReflectNonPhysical_Rare, Value: Monsters reflect 6% Non-Physical damage.
+Hash: 16269084, Key: Minor_Monster_ReduceHealing_Rare, Value: Monster attacks from a distance have 25% chance to disable your Healing Potion for 2 seconds.
+Hash: A8049D55, Key: Minor_Monster_ReduceHealing_Legendary, Value: Monster attacks from a distance have 30% chance to disable your Healing Potion for 2 seconds.
+Hash: AFFEA961, Key: Minor_Monster_Unstoppable_Rare, Value: Monsters become Unstoppable when life drops below 22%.
+Hash: 282FC852, Key: Minor_Monster_Unstoppable_Legendary, Value: Monsters become Unstoppable when life drops below 30%.
+Hash: 51AFD42A, Key: Minor_Monster_DrainResource_Rare, Value: Monster attacks from a distance burn 12% of your Primary Resource.
+Hash: 4E0818BB, Key: Minor_Monster_DrainResource_Legendary, Value: Monster attacks from a distnace burn 16% of your Primary Resource.
+Hash: BD4956A6, Key: Minor_Monster_SunderArmor_Rare, Value: Monster attacks from a distance reduce your armor by 6% for 6 seconds, stacking up to 30%.
+Hash: 412288B7, Key: Minor_Monster_SunderArmor_Legendary, Value: Monster attacks from a distance reduce your armor by 7% for 6 seconds, stacking up to 35%.
+Hash: CE6F2B3D, Key: Minor_Monster_ReduceResistance_Rare, Value: Monster attacks from a distance reduce resistance by 8% for 6 seconds, stacking up to 40%.
+Hash: B747D3AE, Key: Minor_Monster_ReduceResistance_Legendary, Value: Monster attacks from a distance reduce resistance by 10% for 6 seconds, stacking up to 50%.
+Hash: 2403B52F, Key: Minor_Monster_ReduceDodge_Rare, Value: Monster attacks from a distance reduce dodge chance by 10% for 6 seconds, stacking up to 50%.
+Hash: 709A64E0, Key: Minor_Monster_ReduceDodge_Legendary, Value: Monster attacks from a distance reduce dodge chance by 12% for 6 seconds, stacking up to 60%.
+Hash: 93CC35B5, Key: Minor_Monster_BarrierKiller_Magic, Value: Monsters deal 50% more damage to Barriers.
+Hash: 99DFD76F, Key: Minor_Monster_BarrierKiller_Legendary, Value: Monsters deal 100% more damage to Barriers.
+Hash: 6194925E, Key: Minor_Monster_BarrierKiller_Rare, Value: Monsters deal 75% more damage to Barriers.
+Hash: 8ABF9D76, Key: Minor_Monster_AttackBehind_Rare, Value: Monsters near the player deal 150% more damage striking from behind.
+Hash: 16A59187, Key: Minor_Monster_AttackBehind_Legendary, Value: Monsters near the player deal 200% more damage striking from behind.
+Hash: 76ACF5C0, Key: Minor_Monster_AntiOverpower_Magic, Value: Monsters take 30% less Overpower damage.
+Hash: 7FE7A4FA, Key: Minor_Monster_AntiOverpower_Legendary, Value: Monsters take 60% less Overpower damage.
+Hash: 5E6F693B, Key: Positive_AttackMoveSpeedOnKill_Magic, Value: Killing a monster grants 1.0% Attack and Move Speed. Stacking up to 10%.
+Hash: 773C6D24, Key: Positive_AttackMoveSpeedOnKill_Rare, Value: Killing a monster grants 1.5% Attack and Move Speed. Stacking up to 15%.
+Hash: A25D5DF5, Key: Positive_AttackMoveSpeedOnKill_Legendary, Value: Killing a monster grants 2.0% Attack and Move Speed. Stacking up to 20%.
+Hash: 4E865155, Key: Positive_DamageReductionForMissingHealth_Magic, Value: Gain 4% damage reduction for every 10% Health you are missing.
+Hash: 157EC30F, Key: Positive_DamageReductionForMissingHealth_Legendary, Value: Gain 6% damage reduction for every 10% Health you are missing.
+Hash: 19A9B9FE, Key: Positive_DamageReductionForMissingHealth_Rare, Value: Gain 5% damage reduction for every 10% Health you are missing.
+Hash: C0FA27D7, Key: Positive_FireDamage_Magic, Value: You deal 5% more Fire damage.
+Hash: 05DBC840, Key: Positive_FireDamage_Rare, Value: You deal 10% more Fire damage.
+Hash: B31E0A91, Key: Positive_FireDamage_Legendary, Value: You deal 15% more Fire damage.
+Hash: 55F7C0E9, Key: Positive_FireResistance_Magic, Value: You take 4% less Fire damage.
+Hash: 12218712, Key: Positive_FireResistance_Rare, Value: You take 8% less Fire damage.
+Hash: 5085DCA3, Key: Positive_FireResistance_Legendary, Value: You take 12% less Fire damage.
+Hash: 9986ACD1, Key: Positive_FrostResistance_Magic, Value: You take 4% less Frost damage.
+Hash: 980E95FA, Key: Positive_FrostResistance_Rare, Value: You take 8% less Frost damage.
+Hash: 57F87C8B, Key: Positive_FrostResistance_Legendary, Value: You take 12% less Frost damage.
+Hash: EB307840, Key: Positive_PhysicalResistance_Magic, Value: You take 4% less Physical damage.
+Hash: 0EE52F89, Key: Positive_PhysicalResistance_Rare, Value: You take 8% less Physical damage.
+Hash: B768677A, Key: Positive_PhysicalResistance_Legendary, Value: You take 12% less Physical damage.
+Hash: D60AB71B, Key: Positive_PoisonResistance_Magic, Value: You take 4% less Poison damage.
+Hash: DFB57F04, Key: Positive_PoisonResistance_Rare, Value: You take 8% less Poison damage.
+Hash: F0AC9BD5, Key: Positive_PoisonResistance_Legendary, Value: You take 12% less Poison damage.
+Hash: 62583EA9, Key: Positive_ShadowResistance_Magic, Value: You take 4% less Shadow damage.
+Hash: 31894CD2, Key: Positive_ShadowResistance_Rare, Value: You take 8% less Shadow damage.
+Hash: 706F3A63, Key: Positive_ShadowResistance_Legendary, Value: You take 12% less Shadow damage.
+Hash: E65F5FBF, Key: Positive_FrostDamage_Magic, Value: You deal 5% more Frost damage.
+Hash: 2605A328, Key: Positive_FrostDamage_Rare, Value: You deal 10% more Frost damage.
+Hash: F6ACF679, Key: Positive_FrostDamage_Legendary, Value: You deal 15% more Frost damage.
+Hash: 6B66CBAE, Key: Positive_PhysicalDamage_Magic, Value: You deal 5% more Physical damage.
+Hash: 12C7CD37, Key: Positive_PhysicalDamage_Rare, Value: You deal 10% more Physical damage.
+Hash: 4856C1E8, Key: Positive_PhysicalDamage_Legendary, Value: You deal 15% more Physical damage.
+Hash: 3D75D509, Key: Positive_PoisonDamage_Magic, Value: You deal 5% more Poison damage.
+Hash: FA1D9732, Key: Positive_PoisonDamage_Rare, Value: You deal 10% more Poison damage.
+Hash: 333100C3, Key: Positive_PoisonDamage_Legendary, Value: You deal 15% more Poison damage.
+Hash: DB41C597, Key: Positive_ShadowDamage_Magic, Value: You deal 5% more Shadow damage.
+Hash: 82C6AE00, Key: Positive_ShadowDamage_Rare, Value: You deal 10% more Shadow damage.
+Hash: BF7E8851, Key: Positive_ShadowDamage_Legendary, Value: You deal 15% more Shadow damage.
+Hash: 5907A4D5, Key: Positive_LightningDamage_Magic, Value: You deal 5% more Lightning damage.
+Hash: 678E9D7E, Key: Positive_LightningDamage_Rare, Value: You deal 10% more Lightning damage.
+Hash: 5F7DD68F, Key: Positive_LightningDamage_Legendary, Value: You deal 15% more Lightning damage.
+Hash: 0F98CB50, Key: Positive_LightningResistance_Rare, Value: You take 8% less Lightning damage.
+Hash: 02578CE7, Key: Positive_LightningResistance_Magic, Value: You take 4% less Lightning damage.
+Hash: 7FC777A1, Key: Positive_LightningResistance_Legendary, Value: You take 12% less Lightning damage.
+Hash: 35DADB6D, Key: Positive_CooldownReductionOnKill_Magic, Value: Kiliing a monster reduces your cooldowns by .06 seconds.
+Hash: 95096116, Key: Positive_CooldownReductionOnKill_Rare, Value: Kiliing a monster reduces your cooldowns by .08 seconds.
+Hash: 49BA9927, Key: Positive_CooldownReductionOnKill_Legendary, Value: Kiliing a monster reduces your cooldowns by .1 seconds.
+Hash: 727DA034, Key: Positive_IncreasedCritChance_Magic, Value: Your Critical Strike chance is increased by 3%.
+Hash: E47328FD, Key: Positive_IncreasedCritChance_Rare, Value: Your Critical Strike chance is increased by 6%.
+Hash: F030696E, Key: Positive_IncreasedCritChance_Legendary, Value: Your Critical Strike chance is increased by 9%.
+Hash: 7E4539B8, Key: Positive_IncreasedHealing_Magic, Value: Your Healing Received is increased by 5%.
+Hash: 592BA201, Key: Positive_IncreasedHealing_Rare, Value: Your Healing Received is increased by 10%.
+Hash: 617124F2, Key: Positive_IncreasedHealing_Legendary, Value: Your Healing Received is increased by 15%.
+Hash: 9C796125, Key: Positive_PeriodicLightning, Value: You occasionally call down lightning strikes that damage nearby enemies.
+Hash: F6DD80AF, Key: Positive_EvadeLeavesPoison, Value: Using Evade leaves a pool of Poison behind that damages enemies. 
+Hash: FC6598D5, Key: Positive_StunCausesBurning, Value: Being hit by Crowd Control effects creates an explosion around you.
+Hash: 36BFE4F9, Key: Positive_GoldFind_Magic, Value: You find 10% more gold. 
+Hash: 096D6922, Key: Positive_GoldFind_Rare, Value: You find 20% more gold.
+Hash: E1E188B3, Key: Positive_GoldFind_Legendary, Value: You find 30% more gold.
+Hash: 71D878B4, Key: Positive_MagicFind, Value: You find more items from enemies. 
+Hash: B210DC50, Key: Positive_Thorns_Magic, Value: Your Thorns are increased by 112.
+Hash: 6A415199, Key: Positive_Thorns_Rare, Value: Your Thorns are increased by 249.
+Hash: 00FC538A, Key: Positive_Thorns_Legendary, Value: Your Thorns are increased by 491.
+Hash: F5CED5F5, Key: Positive_EvadePushesEnemies, Value: Using Evade pushes enemies back. 
+Hash: 4F01F3A5, Key: Positive_CCReduction_Magic, Value: The duration of CC's against you are reduced by 3%.
+Hash: AD12524E, Key: Positive_CCReduction_Rare, Value: The duration of CC's against you are reduced by 6%.
+Hash: 54A30D5F, Key: Positive_CCReduction_Legendary, Value: The duration of CC's against you are reduced by 9%.

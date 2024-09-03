@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0}*100|%x|]{/c} increased damage to Bosses and Crowd Controlled enemies for each active {c_important}Earthquake{/c}, up to {c_number}[{SF_0}*{SF_4}*100|%x|]{/c}.
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Rumble
+Hash: 2827F416, Key: Buff0_Description, Value: Dealing increased damage to Crowd Controlled enemies for each active Earthquake.

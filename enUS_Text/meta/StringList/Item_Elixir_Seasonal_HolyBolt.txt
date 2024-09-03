@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Holy Bolts
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet}After killing an enemy, holy bolts fire from the corpse of that enemy.
+{icon:bullet}Experience gained is increased by {c_number}6%{/c}.
+Hash: F5C7BC0A, Key: Flavor, Value: You may only have one Elixir active at a time.

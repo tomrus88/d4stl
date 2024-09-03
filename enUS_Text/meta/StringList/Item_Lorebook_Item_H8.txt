@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Timue's Journal
+Hash: F5C7BC0A, Key: Flavor, Value: Random scatterings of Timue's thoughts.

@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Hatred stirs the ancient dead.
+Hash: D53BFF05, Key: Phase0Description, Value: On phase
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay the Enraged Spirits: {LEFT}
+Hash: 8CBE4880, Key: Callback28Header, Value: Defeat the {MONSTER}
+Hash: 22EDF2BD, Key: Callback61Header, Value: Travel to the {LEVELAREA}
+Hash: 09DCA900, Key: Callback64Header, Value: Travel to the {LEVELAREA}
+Hash: F0CB5F43, Key: Callback67Header, Value: Slay all enemies in the Ghastly Depths {KAM_REVEALED_COUNT}

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Demon
+Hash: 3209CF12, Key: Line12.18EDEB, Value: (inhales)
+Hash: 8905747F, Key: VoiceDir12.18EDEB, Value: deep, luxuriant quality to the inhalation

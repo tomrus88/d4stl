@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Old Man
+Hash: 5D733639, Key: Line1.EECAD, Value: Oh, she’s gone. I can’t believe it.
+Hash: CC7C9C66, Key: VoiceDir1.EECAD, Value: Confused, worried
+Hash: F767AFBB, Key: Line3.EECAD, Value: Ahh, thought I had her tied up good to that tree.
+Hash: 667115E8, Key: VoiceDir3.EECAD, Value: Confused

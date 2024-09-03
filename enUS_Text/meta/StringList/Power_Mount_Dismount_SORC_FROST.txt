@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Freezing Wake
+Hash: 003892BF, Key: desc, Value: Dashing off the mount at target location, freezing enemies caught in the way.
+Hash: F2DE8628, Key: simple_desc, Value: Dashing off the mount at target location, freezing enemies caught in the way.

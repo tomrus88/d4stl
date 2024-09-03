@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you okay?"
+Hash: 8F05E9FC, Key: Line1.13F8A2, Value: (groans) That arse Glin beat me something bad.
+Hash: 2C4F1261, Key: Line6.13F8A2, Value: No, wait! I gotta show them that they can't walk all over me, yeah? It's gotta be me.
+Hash: 7C853E2E, Key: VoiceDir6.13F8A2, Value: frustrated, indignant
+Hash: 456D502D, Key: Line11.13F8A2, Value: I just need you to get some wild red mushrooms from outside the walls. Ones what make you throw up.
+Hash: 1DF0F9EF, Key: Line13.13F8A2, Value: Find 'em for me, will you? I'd get thrashed by worse than Glin if I go out there wounded.

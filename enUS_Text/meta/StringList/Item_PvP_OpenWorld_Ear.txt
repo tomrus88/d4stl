@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: {c_red}Ear{/c}
+Hash: A646FFA4, Key: Description, Value: Ear of an unfortunate adventurer crossed your path.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Sunburst Diadem
+Hash: F5C7BC0A, Key: Flavor, Value: “When she placed the diadem upon her brow there came an overwhelming agony. It is written that through this, our Reverend Mother was cleansed of wickedness.”
+- Excerpt From The Trials of Prava

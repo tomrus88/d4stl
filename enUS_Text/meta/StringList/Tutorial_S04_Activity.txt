@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Call of the Wolves
+Hash: 7BFE534B, Key: simple_instruction, Value: Align with the Iron Wolves and conquer the surging Helltide invasions to earn {c_highlight}Wolf's Honor{/c} and seasonal rewards from Soudeh the Anvil.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Handwritten Note
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Scrawled Note
+Hash: 59F2E8EE, Key: Line1.54239, Value: Here's what you're after. I even drew you a picture so if you come back with the wrong thing, you're losing another finger.

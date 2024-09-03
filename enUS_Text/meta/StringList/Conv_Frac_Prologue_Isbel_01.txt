@@ -1,0 +1,4 @@
+Hash: 75096658, Key: Line8.7CF46, Value: Gotta protect yourself out there.
+Hash: 562B5765, Key: Line14.7CF46, Value: These will keep you safe.
+Hash: F01FD0E7, Key: Line16.7CF46, Value: The woods around here are dangerous.
+Hash: D70E872A, Key: Line19.7CF46, Value: Brought these down from Kyovashad.

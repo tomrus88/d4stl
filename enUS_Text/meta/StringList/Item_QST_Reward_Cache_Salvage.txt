@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Salvage Cache
+Hash: A646FFA4, Key: Description, Value: Contains an assortment of Salvage.
+Hash: F5C7BC0A, Key: Flavor, Value: "Never let good garbage go to waste." - The Junk Dealer

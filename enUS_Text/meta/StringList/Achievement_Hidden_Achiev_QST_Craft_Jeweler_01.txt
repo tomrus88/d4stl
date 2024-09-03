@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Craft Jeweler Quest
+Hash: 003892BF, Key: Desc, Value: QST_Craft_Jeweler_01 achievement

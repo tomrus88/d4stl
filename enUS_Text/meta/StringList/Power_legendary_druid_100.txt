@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Vigorous
+Hash: 7786FD97, Key: Buff1_Description, Value: Damage Reduction increased while Shapeshifted into a Werewolf.

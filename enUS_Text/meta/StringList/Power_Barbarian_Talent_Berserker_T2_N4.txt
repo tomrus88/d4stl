@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Heavy Handed
+Hash: 003892BF, Key: desc, Value: While using Two-Handed weapons you deal {c_number}[{SF_0}*100|%x|]{/c} increased Critical Strike Damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Critical Strike Damage Bonus {icon:arrow, 1.2} {c_number}[{SF_0}*100|%x|]{/c}

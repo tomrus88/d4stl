@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: The somewhat vainglorious scapegrace known only as The Peacock had several suits of this stylish armor made, gifting them to other rogues who assist in his schemes.
+Hash: 003DFCC1, Key: Name, Value: Peacock Train
+Hash: 13A53A8B, Key: Series, Value: "The Peacock"

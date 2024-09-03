@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have your glands. Payment first."
+Hash: 5D72A43D, Key: Line1.EDC73, Value: Heh. You'll do just fine in Gea Kul. Pleasure doing business with you.
+Hash: CC7C0A6A, Key: VoiceDir1.EDC73, Value: Shahos is impressed and amused the player asks for payment before giving him the goods. "Heh" is a slight chuckle. 

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Was your mother a druid?"
+Hash: 5A270F7C, Key: Line1.804B7, Value: No, but this was her land. She was something of a scholar. Preserved local customs and rituals.
+Hash: C93075A9, Key: VoiceDir1.804B7, Value: Somber
+Hash: F41B88FE, Key: Line3.804B7, Value: She passed when I was young, and...well, most of what I know about her is through her writings.
+Hash: 6324EF2B, Key: VoiceDir3.804B7, Value: Somber

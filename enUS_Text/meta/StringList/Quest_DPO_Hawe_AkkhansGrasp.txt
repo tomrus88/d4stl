@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: In mere flesh lies power.
+Hash: 059C64AB, Key: Callback5Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: 71E69F39, Key: Callback21Header, Value: Travel to the {LEVELAREA}
+Hash: FD700C3A, Key: Callback40Header, Value: Slay the Vampire Lords: {LEFT}
+Hash: 3158FF3E, Key: Callback44Header, Value: Defeat the {MONSTER}
+Hash: 1847B581, Key: Callback47Header, Value: Travel to the {LEVELAREA}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Demon-bone Trophy
+Hash: F2CA04D8, Key: NoticeSignText, Value: The barbarians have left these skulls as a warning to anyone daring or foolish enough to attack Ked Bardu.

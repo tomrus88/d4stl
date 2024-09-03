@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Face the cold light of justice.
+Hash: 71E69F39, Key: Callback21Header, Value: Deposit Animus into the {GIZMO}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Defeat the High Council
+Hash: 9AB9349F, Key: Callback90Header, Value: Travel to the {LEVELAREA}
+Hash: 0BD4F412, Key: Callback129Header, Value: Collect {ITEM} from the Revenant Knights
+Hash: 4C62940D, Key: Callback106Header, Value: Interact with the Teleporter to move to the next area of the dungeon
+Hash: 33514A50, Key: Callback109Header, Value: Slay all enemies in the Reliquary of Erudition {KAM_REVEALED_COUNT}
+Hash: 9EAFEF6C, Key: Callback114Header, Value: Travel to the {LEVELAREA}
+Hash: 8826D3CF, Key: Phase118Description, Value: Defeat {MONSTER}
+Hash: 859EA5AF, Key: Callback117Header, Value: Defeat {MONSTER}

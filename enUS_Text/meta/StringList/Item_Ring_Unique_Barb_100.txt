@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ring of Red Furor
+Hash: F5C7BC0A, Key: Flavor, Value: "Anger brings strength but clouds the mind. You must learn to focus your fury, direct it with purpose. Keep our sacred duty at the forefront of your mind, always."
+- Talic, to Madawc

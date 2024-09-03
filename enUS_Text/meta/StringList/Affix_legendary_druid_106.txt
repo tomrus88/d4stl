@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Wildrage
+Hash: 003892BF, Key: Desc, Value: Your Companions gain double the bonus from the {c_important}Bestial Rampage{/c} Key Passive.

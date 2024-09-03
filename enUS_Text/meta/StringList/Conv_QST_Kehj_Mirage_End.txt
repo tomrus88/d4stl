@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hello?
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Jazadar
+Hash: 5D5747DF, Key: Line1.E2EF6, Value: (sigh) Release...
+Hash: CC60AE0C, Key: VoiceDir1.E2EF6, Value: Final breath. Profound relief. Gratitude.

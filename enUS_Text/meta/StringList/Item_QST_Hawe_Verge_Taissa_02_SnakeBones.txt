@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Oracle Eye
+Hash: F5C7BC0A, Key: Flavor, Value: Even after being separated from its host, the magical eye of the Nangari Oracle continues to silently watch you.

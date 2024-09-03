@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Diablo® IV Ultimate Edition Upgrade 
+Hash: A646FFA4, Key: Description, Value: Upgrade to the Ultimate Edition and upgrade your Premium Battle Pass to an Accelerated Battle Pass* and get the Wings of the Creator Emote.
+
+*Requires an active Premium Battle Pass for the current season. You will not receive a second Premium Battle Pass from this upgrade if you have already purchased the Digital Deluxe Edition.

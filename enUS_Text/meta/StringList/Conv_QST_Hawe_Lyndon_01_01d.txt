@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Orton Bark
+Hash: 8ED91BE6, Key: Line1.124D40, Value: Fine, run your little errand. I'll be making sure Rodney's not flapping his mouth again.
+Hash: 183CFC31, Key: Line7.10088C, Value: Good. Just don’t kill him.
+Hash: F0E7C2EE, Key: Line9.124D40, Value: Make things quieter…
+Hash: 4519651C, Key: Line11.10088C, Value: Meh, though if we killed every person who ran their mouth, Backwater would be empty before sunrise. (laugh)
+Hash: 1DC42BD9, Key: Line13.124D40, Value: (grumble) All right. Nothing lethal. Swear it.

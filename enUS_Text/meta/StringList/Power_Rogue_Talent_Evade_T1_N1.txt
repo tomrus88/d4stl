@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Endless Vigor
+Hash: 003892BF, Key: desc, Value: You can store up to 3 charges of evade. 5 seconds recharge.

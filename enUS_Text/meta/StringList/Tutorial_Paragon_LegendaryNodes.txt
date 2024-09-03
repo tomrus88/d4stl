@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Legendary Nodes
+Hash: 7BFE534B, Key: simple_instruction, Value: You are approaching a {c_legendary}Legendary Node{/c}. Legendary Nodes offer powerful, unique bonuses.

@@ -1,0 +1,102 @@
+Hash: B82C063F, Key: BlockAmount, Value: {c:ffffa300}Shield Block Value:{/c} {s1} - {s2}
+Hash: B51E3A45, Key: DodgeChance, Value: {c:ffffa300}Dodge Chance:{/c} {s1}
+Hash: 12B1D1AC, Key: DamageReduction, Value: {c:ffffa300}Damage Reduction:{/c} {s1}
+Hash: 29C8D3C3, Key: CharacterClass, Value: {CLASS}
+Hash: A3896235, Key: CharacterExperience, Value: {c:ffffa300}Experience:{/c} {VAL}
+Hash: 316783F4, Key: CharacterExperienceNext, Value: {c:ffffa300}To Next:{/c} {VAL}
+Hash: 086EAA02, Key: Title, Value: Character
+Hash: F2664098, Key: LevelLabel, Value: Level:
+Hash: 071BAA81, Key: Armor, Value: Armor:
+Hash: 6309A4B5, Key: TipExperience, Value: {c_label}Experience: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Needed to increase your hero's Level.
+{icon:bullet} Gained by killing monsters and completing quests.
+Hash: 64450674, Key: TipExperienceNext, Value: {c_label}To Next: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The amount of experience needed to reach your next Level.
+
+Hash: 89B9E38C, Key: TipBlockAmount, Value: {c_label}Shield Block Value: {c_number}{s1} - {s2}{/c_number}{/c}
+{icon:bullet} The amount of damage prevented whenever an attack is blocked.
+
+Hash: 86AC1792, Key: TipDodgeChance, Value: {c_label}Dodge Chance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The chance to dodge incoming attacks.
+{icon:bullet} Dodged attacks do no damage.
+Hash: 87578D79, Key: TipDamageReduction, Value: {c_label}Damage Reduction{/c}
+{icon:bullet} All incoming damage reduced by: {c_number}{s1}{/c}
+
+Hash: ACD4D20E, Key: TipArmor, Value: {c_label}Armor: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Physical damage taken from enemies of equal Level by {c_number}{s2}{/c_number}.
+{icon:bullet} {c_number}9,230{/c} Armor is required for maximum reduction against Level {c_number}100{/c} enemies and beyond.
+Hash: 44523149, Key: TipColdResist, Value: {c_label}Cold Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Cold damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3}{/c_number}.
+
+Hash: 6C0C78AD, Key: TipFireResist, Value: {c_label}Fire Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Fire damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3}{/c_number}.
+Hash: D2934B1F, Key: TipPoisonResist, Value: {c_label}Poison Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Poison damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3}{/c_number}.
+Hash: F619D00B, Key: TipLightningResist, Value: {c_label}Lightning Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Lightning damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3}{/c_number}.
+Hash: 9A59A1B1, Key: TipArcaneResist, Value: {c_label}Arcane Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Arcane damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3}{/c_number}.
+Hash: 7FE3B7FA, Key: BasicAttack, Value: Basic Attack
+Hash: 5FC36490, Key: CoreAttributes, Value: Attributes
+Hash: C5CD89D0, Key: TipColdResistBonus, Value: {c_label}Cold Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Cold damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3} + {s4}{/c_number}.
+
+Hash: 59500FB4, Key: TipFireResistBonus, Value: {c_label}Fire Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Fire damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3} + {s4}{/c_number}.
+Hash: FF90B1D2, Key: TipLightningResistBonus, Value: {c_label}Lightning Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Lightning damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3} + {s4}{/c_number}.
+Hash: A8D63966, Key: TipPoisonResistBonus, Value: {c_label}Poison Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Poison damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3} + {s4}{/c_number}.
+Hash: 2C937B38, Key: TipArcaneResistBonus, Value: {c_label}Arcane Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Arcane damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3} + {s4}{/c_number}.
+Hash: 003D0520, Key: Life, Value: Life:
+Hash: 4C7FED7D, Key: TipScoundrelArmor, Value: {c_label}Armor: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces all damage from enemies of the same Level by {c_number}{s3}{/c_number}.
+Hash: 65B32B43, Key: TipTemplarArmor, Value: {c_label}Armor: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces all damage from enemies of the same Level by {c_number}{s3}{/c_number}.
+Hash: 9778012C, Key: TipEnchantressArmor, Value: {c_label}Armor: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces all damage from enemies of the same Level by {c_number}{s3}{/c_number}.
+Hash: 780312CA, Key: TipSurvivability, Value: {c_label}Toughness: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The total amount of raw damage you can take.
+{icon:bullet} Toughness is based on your maximum Life, armor, dodge chance,
+    average resistances, and missile, melee, and elite damage reduction.
+Hash: 0B88AE3D, Key: Survivability, Value: Toughness
+Hash: 385A04F8, Key: Healing, Value: Healing
+Hash: 30FB43C5, Key: TipHealing, Value: {c_label}Healing: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The amount of Life you can recover every second in combat.
+{icon:bullet} Healing is based on your Life per Hit, Life per Second, Life Steal,
+    Life per Fury/Spirit Spent, Life per Kill, and Health Globe Healing Bonus.
+Hash: 9804D888, Key: Paragon, Value: Paragon
+Hash: 28479DA2, Key: Hitpoints, Value: Life
+Hash: CE33C3AF, Key: TipHitpoints, Value: {c_label}Hitpoints: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The amount of Life you have.
+{icon:bullet} Hitpoints are based on your character Level and the armor you are wearing.
+Hash: F5851010, Key: InventoryTitle, Value: Character Info
+Hash: 51BBCFED, Key: StatPtsRemaining, Value: Stat Points Left:
+Hash: 3A04B23C, Key: ItemPower, Value: Item Power
+Hash: DFF0D849, Key: TipItemPower, Value: {c_label}ItemPower: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Items grant you power, which increases damage dealt and decreases damage taken.
+Hash: 8D3E98FD, Key: AttackRating, Value: Attack: 
+Hash: AB0CF8FF, Key: DefenseRating, Value: Defense: 
+Hash: 90881FEA, Key: TipAttackRating, Value: {c_label}Attack Power: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} An evaluation of the damage you deal.
+{icon:bullet} Based on your offensive stats scaled with your currently wielded weapon's damage and speed.
+Hash: 17875D8C, Key: TipDefenseRating, Value: {c_label}Defense: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Items grant you defense, which decreases damage taken.
+Hash: F671BCC4, Key: TipPhysicalResist, Value: {c_label}Physical Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Physical damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3}{/c_number}.
+Hash: 28A45D1C, Key: DetailsClose, Value: Close Details
+Hash: 8111692D, Key: TipShadowResist, Value: {c_label}Shadow Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Shadow damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3}{/c_number}.
+Hash: 317F5034, Key: TipShadowResistBonus, Value: {c_label}Shadow Resistance: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} Reduces Shadow damage from Level {c_number}{s2}{/c_number} enemies by {c_number}{s3} + {s4}{/c_number}.
+Hash: DE78EF0D, Key: TipLife, Value: {c_label}Maximum Life: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} If you lose all your Life, you die.
+{icon:bullet} The total of the Base Life for your Level and any additional bonuses.
+Hash: EED981D0, Key: TipCraftingMats, Value: [PH] {c_label}Crafting Materials: {c_number}{s1}{/c_number}{/c}
+{icon:bullet} The total amount of crafting materials in your inventory.
+Hash: E74230C7, Key: ShowDetails, Value: Show Stats
+Hash: 92572540, Key: HideDetails, Value: Show Stats
+Hash: 31DFBFC3, Key: ShowMaterials, Value: Show Materials
+Hash: DBBD450B, Key: MaterialStat, Value: Stats & Materials
+Hash: 28BDC2CC, Key: MaterialStat_Prompt, Value: {icon:l3, 2.0} Stats & Materials

@@ -1,0 +1,24 @@
+Hash: AACC9901, Key: Season5UpgradeToAcceleratedNotificationDescription, Value: {c_highlight}Receive 20 Tier Skips + “Infernal Birthright” Emote
+Hash: D30E34CA, Key: Season5UpgradeToAcceleratedNotificationDescription20Tiers, Value: {c_highlight}Complete the Battle Pass with 20 tier skips + “Infernal Birthright” Emote
+Hash: 1B76E85C, Key: Season5_FreeOptionDescription, Value: Access to 28 FREE rewards Including:
+Hash: 8DB65CE0, Key: Season5_FreeOption_Bullet01, Value: 20 Smoldering Ashes
+Hash: 8DB65CE1, Key: Season5_FreeOption_Bullet02, Value: 5 Weapon Cosmetics
+Hash: 8DB65CE2, Key: Season5_FreeOption_Bullet03, Value: 1 Set of Roleplay Clothing per class
+Hash: 7D40F79D, Key: Season5_PremiumOption_Bullet01, Value: 2 Sets of Armor Cosmetics per class (10 total)
+Hash: 7D40F79E, Key: Season5_PremiumOption_Bullet02, Value: 19 Weapon Cosmetics
+Hash: 7D40F79F, Key: Season5_PremiumOption_Bullet03, Value: 5 Mount Trophies
+Hash: 7D40F7A0, Key: Season5_PremiumOption_Bullet04, Value: 4 Headstones
+Hash: 7D40F7A1, Key: Season5_PremiumOption_Bullet05, Value: 3 Emblems
+Hash: 7D40F7A2, Key: Season5_PremiumOption_Bullet06, Value: 2 Mounts and Mount Armors
+Hash: 7D40F7A3, Key: Season5_PremiumOption_Bullet07, Value: 2 Town Portals, and Titles
+Hash: C716888C, Key: Season5AcceleratedOption_Bullet01, Value: {c_highlight}20 Tier Skips{/c}
+Hash: C4B4816C, Key: Season5_AcceleratedOption_Bullet02, Value: {c_highlight}“Infernal Birthright” Emote for each class{/c}
+Hash: 8DB65CE3, Key: Season5_FreeOption_Bullet04, Value: 1 Town Portal, Mount Trophy, and Title
+Hash: 8DB65CE4, Key: Season5_FreeOption_Bullet05, Value: 
+Hash: 8DB65CE5, Key: Season5_FreeOption_Bullet06, Value: 
+Hash: 8DB65CE6, Key: Season5_FreeOption_Bullet07, Value: 
+Hash: 8DB65CE7, Key: Season5_FreeOption_Bullet08, Value: 
+Hash: 7D40F7A4, Key: Season5_PremiumOption_Bullet08, Value: 1 Emote per class (5 total)
+Hash: 7D40F7A5, Key: Season5_PremiumOption_Bullet09, Value: 700 Platinum
+Hash: 7D40F7BD, Key: Season5_PremiumOption_Bullet10, Value: 
+Hash: C4B4816D, Key: Season5_AcceleratedOption_Bullet03, Value: 

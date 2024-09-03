@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are things?"
+Hash: 729035F2, Key: Line11.FEE91, Value: I remember when these waters were teeming with life. It seemed we would never run out.
+Hash: F779CB63, Key: Line3.FEE91, Value: Perhaps we were too greedy. Is this our punishment?

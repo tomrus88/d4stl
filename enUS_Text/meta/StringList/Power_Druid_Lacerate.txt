@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: name, Value: Lacerate
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c} {c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Shapeshift into a Werewolf, become {c_important}{u}Immune{/u}{/c} and quickly dash {c_number}{SF_6}{/c} times between enemies in the area dealing up to {c_number}{PAYLOAD:TOOLTIP_DAMAGE}{/c} damage.
+Hash: 1970B898, Key: Buff5_Name, Value: Vicious Laceration
+Hash: B503239B, Key: Buff5_Description, Value: Your Skills are dealing increased damage.
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Lacerate{/c} hits Heal for {c_number}[{SF_14}*100|%|]{/c} Maximum Life {c_number}([PlayerHealthMax() * SF_14]){/c}, doubled on Critical Strikes. The first Critical Strike is guaranteed and deals {c_number}[{SF_15}*100|%x|]{/c} increased damage.
+Hash: 948901D1, Key: Mod1_Name, Value: Prime Lacerate
+Hash: 74D6BC35, Key: Mod2_Description, Value: Whenever {c_important}Lacerate{/c} Critically Strikes, your Skills deal {c_number}[{SF_17}*100|%x|]{/c} increased damage for {c_number}{SF_18}{/c} seconds, up to {c_number}[{SF_20}*100|%x|]{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Supreme Lacerate

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who else did Elias recruit?"
+Hash: 675C0CA0, Key: Line3.1247DE, Value: Two blockheads, dumber'n me.
+Hash: B792386D, Key: VoiceDir3.1247DE, Value: Sad memories
+Hash: 3FDFB662, Key: Line5.1247DE, Value: Fionn, some thief from somewhere in Scosglen. And Gelwa, a barbarian from the Steppes.
+Hash: 9015E22F, Key: VoiceDir5.1247DE, Value: Pronounciation for Fionn: Fin. Pronounciation for Gelwa: "Ghel-wah" (hard G)
+Hash: 18636024, Key: Line7.1247DE, Value: Swore she was in it for the glory of battle, or some'n. Liar. (sniffs) It was gold she wanted. More even than me.
+Hash: 68998BF1, Key: VoiceDir7.1247DE, Value: Sad memories

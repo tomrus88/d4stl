@@ -1,0 +1,8 @@
+Hash: 3D1A9141, Key: Line17.7DD22, Value: Oof, they're angry now!
+Hash: 8D50BD0E, Key: VoiceDir17.7DD22, Value: Excited by the thrill of the hunt.
+Hash: 6D3EB500, Key: Line52.7DD22, Value: That certainly got their attention!
+Hash: BD74E0CD, Key: VoiceDir52.7DD22, Value: Excited by the thrill of the hunt.
+Hash: 4EDA4CA6, Key: Line48.7DD23, Value: Oof, they're angry now!
+Hash: 9F107873, Key: VoiceDir48.7DD23, Value: Excited by the thrill of the hunt.
+Hash: 07332E83, Key: Line54.7DD23, Value: That certainly got their attention!
+Hash: 57695A50, Key: VoiceDir54.7DD23, Value: Excited by the thrill of the hunt.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you have for sale?"
+Hash: 5D6BDBDF, Key: Line1.F8613, Value: Stop your drooling! I'm spicing meat for storage, not for sale.

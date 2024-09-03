@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Local - Moreg - Attract bark
+Hash: 5D23008C, Key: Line1.B79B1, Value: (sigh)
+Hash: F7177A0E, Key: Line3.B79B1, Value: What a waste of knowledge.
+Hash: 6620E03B, Key: VoiceDir3.B79B1, Value: Deeply saddened

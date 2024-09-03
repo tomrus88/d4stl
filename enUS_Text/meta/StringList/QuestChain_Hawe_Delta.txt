@@ -1,0 +1,4 @@
+Hash: 76E748CE, Key: 0_desc, Value: The Tree of Whispers told us to "seek a coffin beyond the wrecks." Lorath and Neyrelle have gone  towards the eastern shore in search. I should join them.
+Hash: 793C716F, Key: 1_desc, Value: We've found the coffin the Tree of Whispers spoke of, sitting among a massive collection of shipwrecks. Whatever Elias is hiding, somehow it's out there.
+Hash: 7B919A10, Key: 2_desc, Value: Removing Elias' finger from the altar caused the temple to sink further into the murky waters. I was able to escape, but only barely. I should return to Lorath as quickly as possible.
+Hash: 7DE6C2B1, Key: 3_desc, Value: The ancient coffin has brought me to some kind of ancient, sunken temple. Elias' secret hides in these forgotten depths somewhere.

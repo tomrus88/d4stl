@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Churning Earth
+Hash: A646FFA4, Key: Description, Value: "The land we tend and till is birthed by fire below, little ones. A druid must give thanks to this fire and respect its fury." -Albard of Cerrigar
+Hash: 083EE0CE, Key: Quote, Value: Stone above. Fire deep.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

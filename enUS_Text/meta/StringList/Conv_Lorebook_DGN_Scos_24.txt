@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: A crumpled page torn from a journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Crumpled Journal Page
+Hash: 5D72A43F, Key: Line1.EDC75, Value: We had another attack this morning. The other hunters think there’s sickness making the game aggressive, but I have my doubts. The attacks are increasing at an unnatural rate.
+Hash: F7671DC1, Key: Line3.EDC75, Value: I tracked the trail of blood back to this cave. I hid and watched as a bear transformed into one of the druids from around these hills. I found evidence they are performing rituals and corrupting the animals.
+Hash: 915B9743, Key: Line5.EDC75, Value: I will talk to their leader, Artair. He’s a good friend and will listen to reason.

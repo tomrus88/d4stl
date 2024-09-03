@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you?"
+Hash: 67518A0A, Key: Line3.10C346, Value: I am no one important. I am simply a conduit for Akarat's Light.
+Hash: B787B5D7, Key: VoiceDir3.10C346, Value: You are a demon disguised as a holy priest having fun with their prey. Said with a slightly theatrical, self amused tone.

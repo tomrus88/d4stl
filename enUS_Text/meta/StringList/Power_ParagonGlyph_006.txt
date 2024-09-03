@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Picking up {c_important}{u}Crackling Energy{/u}{/c} grants you {c_number}[{SF_0}*100|x%|]{/c} increased damage for {c_number}{SF_1}{/c} seconds, up to {c_number}[{SF_0} * {SF_2} * 100|%x|]{/c}.
+Hash: 12713EB5, Key: Buff2_Name, Value: Glyph: Charged
+Hash: C6E60718, Key: Buff2_Description, Value: Dealing {c_number}[{SF_0}*100|%|]{/c} increased damage per stack from picking up {c_important}{u}Crackling Energy{/u}{/c}.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: No rest for the souls here. 
+Hash: BEE0DBFA, Key: Callback22Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: 38AA8D97, Key: Callback10Header, Value: Defeat the {MONSTER}
+Hash: D9B88541, Key: Callback29Header, Value: Travel to the {LEVELAREA}
+Hash: F81CED9C, Key: Callback33Header, Value: Travel to the {LEVELAREA}

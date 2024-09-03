@@ -1,0 +1,39 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A202CB1, Key: Line1.6DE47, Value: It burns! Ugh...
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: feverish, moaning
+Hash: F413C4CC, Key: Line3.6D03F, Value: This is not good!
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: dread
+Hash: 4EC838AC, Key: Line48.6DE47, Value: (cries)
+Hash: 9EFE6479, Key: VoiceDir48.6DE47, Value: cries out in pain
+Hash: FAB39C5C, Key: Line30.6D03F, Value: Damned Drowned!
+Hash: 4AE9C829, Key: VoiceDir30.6D03F, Value: panicked
+Hash: DB035C76, Key: Line6.6DE47, Value: My arm...
+Hash: 4A0CC2A3, Key: VoiceDir6.6DE47, Value: foggy, wincing
+Hash: 74F6F491, Key: Line8.6D03F, Value: You’ve been infected. It’s spreading.
+Hash: E4005ABE, Key: VoiceDir8.6D03F, Value: rushed
+Hash: 94A815DE, Key: Line32.6D03F, Value: We have no time! I must remove the Drowned necrosis!
+Hash: E4DE41AB, Key: VoiceDir32.6D03F, Value: stressed
+Hash: 6F2B10C2, Key: Line11.6DE47, Value: I don’t understand.
+Hash: BF613C8F, Key: VoiceDir11.6DE47, Value: foggy, panicked
+Hash: 65381056, Key: Line13.BAE4, Value: Lorath, are you certain?
+Hash: D4417683, Key: VoiceDir13.BAE4, Value: concerned
+Hash: A313225F, Key: Line15.6D03F, Value: I’m certain she’s dying! Hold her.
+Hash: F3494E2C, Key: VoiceDir15.6D03F, Value: angered, panicked
+Hash: D6FC1563, Key: Line19.6D03F, Value: We have no choice!
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: angry, pained
+Hash: 2E9C8F60, Key: Line34.6D03F, Value: Now hold her!
+Hash: 6D2CA107, Key: Line52.6DE47, Value: (crying in pain)
+Hash: 80E9EABF, Key: Line42.6D03F, Value: (heavy breaths)
+Hash: D120168C, Key: VoiceDir42.6D03F, Value: Lorath working himself up to chop off the arm
+Hash: D3382785, Key: Line50.6DE47, Value: (cries)
+Hash: 236E5352, Key: VoiceDir50.6DE47, Value: cries out in pain
+Hash: 1ADE6441, Key: Line44.6D03F, Value: (grunt of effort)
+Hash: 6B14900E, Key: VoiceDir44.6D03F, Value: Lorath swinging down the halberd
+Hash: C891EA49, Key: Line36.6DE47, Value: Argh...
+Hash: 18C81616, Key: VoiceDir36.6DE47, Value: shocked scream
+Hash: B4D2DDC3, Key: Line46.6D03F, Value: (deep exhale)
+Hash: 05090990, Key: VoiceDir46.6D03F, Value: sigh of relief after seeing that Neyrelle has stabilized
+Hash: 8F54F740, Key: Line25.6D03F, Value: Rest now.
+Hash: DF8B230D, Key: VoiceDir25.6D03F, Value: comforting
+Hash: 62858264, Key: Line38.6D03F, Value: You will be Horadrim, young one. I will not fail you.
+Hash: B2BBAE31, Key: VoiceDir38.6D03F, Value: quietly

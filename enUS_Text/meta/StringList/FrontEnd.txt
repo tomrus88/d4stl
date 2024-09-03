@@ -1,0 +1,144 @@
+Hash: 1A4DB7F2, Key: NavCharacterSelect, Value: Play
+Hash: F5E286E6, Key: NavCharacterCreate, Value: Create
+Hash: FE62A41F, Key: NavShop, Value: Shop
+Hash: 41E2D115, Key: SeasonJourney, Value: Journey
+Hash: F0A47FB3, Key: Delete, Value: Delete
+Hash: 6AF0BF16, Key: Seasonal, Value: Seasonal
+Hash: 6CB6D07E, Key: SeasonalHardcore, Value: Seasonal Hardcore
+Hash: F1B4C784, Key: SeasonalObjectives, Value: {c_green}{s1}{/c} / {s2} Chapters Complete
+Hash: 8EAA5A40, Key: Campaign, Value: Campaign
+Hash: 647EFF2C, Key: InProgress, Value: In Progress
+Hash: C45FA599, Key: Complete, Value: Complete
+Hash: 8588065E, Key: CharacterListSlots, Value: {c:FFdba864}{s1}{/c}{c:FF928c82}/{s2}{/c} Slots Used
+Hash: C17226E5, Key: Playtime, Value: Playtime
+Hash: 67ED8C52, Key: PlaytimeTimeDay, Value: {s1} D
+Hash: EA800083, Key: PlaytimeHour, Value: {s1} H
+Hash: EA82A3FC, Key: PlaytimeMins, Value: {s1} M
+Hash: E8EB259C, Key: EternalRealm, Value: {icon:FrontEnd_Gameplay_Eternal, 2} Eternal Realm
+Hash: 9EE596C8, Key: StartGame, Value: Start Game
+Hash: B2E3AB16, Key: Warning, Value: Warning:
+Hash: 8220717C, Key: WarningDetails, Value: You have no character slots available.
+Hash: DDAB2369, Key: DeleteWarning, Value: This will permanently delete this character.
+
+{c_highlight}{s1}{/c}
+
+Please enter the character's name below to enable the delete action.
+Hash: 84404F58, Key: DeleteInputInstructions, Value: Character Name
+Hash: 3608CEE0, Key: BreakingNews, Value: Breaking News
+Hash: 003881DE, Key: Date, Value: {s1}/{s2}/{s3}
+Hash: 8E36A3CF, Key: ChooseACharacter, Value: Choose a Character
+Hash: 36C55B68, Key: Hardcore, Value: Hardcore
+Hash: C8839FB4, Key: NoAvailableCharactersWarning, Value: You must delete a character before you can create a new character.
+Hash: 9D91386C, Key: EnterCharacterName, Value: Please enter the character's name.
+Hash: 19F52D8B, Key: CreateNewCharacter, Value: Create New Character
+Hash: 0AE89526, Key: ReconnectingToServices, Value: Reconnecting to Diablo IV 
+Hash: D04BAC26, Key: Modal_HallFallenHeroes_Title, Value: Hall of Fallen Heroes
+Hash: 7F4EB68D, Key: Modal_HeroVanished_Title, Value: Character Vanished
+Hash: 477E6DFA, Key: Modal_HardcoreMode_Title, Value: Hardcore Mode
+Hash: 47D37D1E, Key: Modal_HardcoreMode_Details, Value: {c_highlight}Once your character dies, they cannot be revived.{/c}
+
+Customer Support will not revive your character for any reason, and all items in their inventory will be lost forever.
+
+All characters below Level 10 will vanish upon death, while characters Level 10 and above will be remembered in the Hall of Fallen Heroes.
+Hash: B4D83671, Key: Modal_HeroVanished_Details, Value: Your character's soul vanished into thin air.
+Characters must reach Level 10 to be remembered in the Hall of Fallen Heroes.
+Hash: 38E8F64A, Key: Modal_HallFallenHeroes_Details, Value: Your Fallen Hero has gone to the Hall of Fallen Heroes
+You can find them in Collections.
+Hash: 07C80BF8, Key: ClassDetails_Weapons, Value: {icon:bullet, 2.0} Common Weapons:
+Hash: 528EDC93, Key: ClassDetails_CombatType, Value: {icon:bullet, 2.0} Combat Type:
+Hash: 22C40BFD, Key: ClassDetails_Strengths, Value: {icon:bullet, 2.0} Strengths:
+Hash: E113015C, Key: WorldTier, Value: World Tier
+Hash: DBD27DBA, Key: Modal_UndoDelete_Details, Value: Diablo IV saves a copy of your most recently deleted character that may be returned to the game.
+
+Note: There must be space in your character list to complete this action.
+
+Most recent character deletion: {s1}
+Hash: AF4C9796, Key: Modal_UndoDelete_Title, Value: Undo Character Delete
+Hash: BB41E157, Key: Warning_Title, Value: Warning
+Hash: FECBB2C1, Key: Warning_DropIn, Value: None of your characters are eligible to join the current game.
+Hash: 3D7B81A5, Key: Warning_Frontend_CoOp, Value: Player 2 may join after Player 1 has entered the game.
+Hash: 184B4015, Key: NoCharactersCreated, Value: Create a character to play. 
+Hash: E88405F7, Key: SkipCampaign, Value: Skip Campaign
+Hash: 3D35B200, Key: DeleteCharacter, Value: Delete Character
+Hash: D0B9F97C, Key: SkipCampaign_Button_Tooltip, Value: Skip the story campaign and dive right into post-campaign content.
+Hash: EA7298C7, Key: DeleteCharacterButtonTooltip, Value: Delete this character. Note that you can only undo your last character deletion. 
+Hash: 81C139A1, Key: UndoDeleteCharacterTooltip, Value: Restore your most recent deleted character.
+Hash: EC003146, Key: Restore_Deleted_Character, Value: Undo Character Delete
+Hash: CABDBD32, Key: NavStore, Value: Store
+Hash: 1DB86624, Key: BarbarianTitle, Value: Barbarian
+Hash: 7013B427, Key: SorcererTitle, Value: Sorcerer
+Hash: F1F6C23A, Key: DruidTitle, Value: Druid
+Hash: 7F8BBC64, Key: RogueTitle, Value: Rogue
+Hash: 522F5B0F, Key: NecromancerTitle, Value: Necromancer
+Hash: 43A0A139, Key: BarbarianOverview, Value: Powerful warriors who rely on brute force to subdue their enemies.  Barbarians are able to swap between an array of powerful weapons during combat, ensuring that they are prepared for any situation.
+Hash: C5D2B03C, Key: BarbarianPlaystyle1Title, Value: Berserking
+Hash: C827D8DD, Key: BarbarianPlaystyle2Title, Value: Bleed
+Hash: CA7D017E, Key: BarbarianPlaystyle3Title, Value: Walking Arsenal
+Hash: CCD22A1F, Key: BarbarianPlaystyle4Title, Value: Unbridled Rage
+Hash: 0DB7B9B9, Key: BarbarianPlaystyle1Desc, Value: Channel your inner rage to enter and maintain the Berserking state, increasing damage and Movement Speed.
+Hash: 0DC9D23A, Key: BarbarianPlaystyle2Desc, Value: Use Slashing weapons to cause enemies to Bleed, dealing damage to them over time.
+Hash: 0DDBEABB, Key: BarbarianPlaystyle3Desc, Value: Become a Walking Arsenal, gaining damage and other bonuses for using various weapons in combat.
+Hash: 0DEE033C, Key: BarbarianPlaystyle4Desc, Value: The pinnacle of aggression, you have an increased Fury cost to use Skills.  In exchange, your Skills are dramatically more powerful.
+Hash: 66E2D45C, Key: SorcererOverview, Value: Masters of the elements, Sorcerers inflict Cold, Fire, and Lightning damage to subdue their enemies.
+Hash: D53D9DFF, Key: SorcererPlaystyle1Title, Value: Frost
+Hash: D792C6A0, Key: SorcererPlaystyle2Title, Value: Pyromancy
+Hash: D9E7EF41, Key: SorcererPlaystyle3Title, Value: Shock
+Hash: 7ACA7B1C, Key: SorcererPlaystyle1Desc, Value: Frost Skills Chill enemies, reducing their Movement Speed. Chilling enemies will eventually Freeze them, causing them to be unable to act.
+Hash: 7ADC939D, Key: SorcererPlaystyle2Desc, Value: Pyromancy Skills focus on dealing Fire damage. These Skills deal a high amount of damage and cause enemies to Burn for additional damage over time.
+Hash: 7AEEAC1E, Key: SorcererPlayStyle3Desc, Value: Shock Skills use Lightning to defeat enemies. These Skills have many ways to reduce Cooldowns and benefit especially well when Critically Striking.
+Hash: C99D8D8F, Key: DruidOverview, Value: Flexible and resilient, Druids harness the power of Nature to protect life. Druids can Shapeshift between the cunning Werewolf and the powerful Werebear to fight their enemies. Additionally, those who prefer spellcasting can unleash Earth and Storm magic from a distance.
+Hash: 46AB9FD2, Key: DruidPlaystyle1Title, Value: Werewolf
+Hash: 4900C873, Key: DruidPlaystyle2Title, Value: Werebear
+Hash: 4B55F114, Key: DruidPlaystyle3Title, Value: Storm
+Hash: 4DAB19B5, Key: DruidPlaystyle4Title, Value: Earth
+Hash: ACC60E8F, Key: DruidPlaystyle1Desc, Value: Werewolves are ferocious and agile. They benefit greatly from increasing their Attack Speed and Critically Striking enemies.
+Hash: ACD82710, Key: DruidPlaystyle2Desc, Value: The Werebear is a powerful force on the battlefield, dealing damage in large areas while also being notoriously difficult to take down.
+Hash: ACEA3F91, Key: DruidPlaystyle3Desc, Value: Call upon the Storm to rain Lightning upon your enemies or blow them away with powerful gusts of Wind.
+Hash: ACFC5812, Key: DruidPlaystyle4Desc, Value: Earth magic focuses on limiting enemy movement with Crowd Control effects. They also benefit when used against enemies who are in such a state. 
+Hash: 4776D67C, Key: RoguePlaystyle1Title, Value: Marksman
+Hash: 49CBFF1D, Key: RoguePlaystyle2Title, Value: Imbuements
+Hash: 4C2127BE, Key: RoguePlaystyle3Title, Value: Traps
+Hash: BC5017F9, Key: RoguePlaystyle1Desc, Value: Kite enemies at a distance using Bows and Arrows.  Marksmen benefit from Critically Striking enemies and by causing them to become Vulnerable.
+Hash: BC62307A, Key: RoguePlaystyle2Desc, Value: Imbue your weapons with Poison, Cold, or Shadow energies.  These Imbuements give attacks special properties when they damage enemies.
+Hash: BC7448FB, Key: RoguePlaystyle3Desc, Value: Lay Traps on the ground, which can trigger various effects. These effects range from damaging targets, Poisoning them, Slowing them, and much more.
+Hash: E7DF4F79, Key: RogueOverview, Value: The cunning Rogue uses whatever tools are available to get the job done. Rogues are both agile and resourceful, able to fight enemies at range with Bows, or up close with Daggers. They are also able to Imbue their weapons with various Magics.
+Hash: 32A3F244, Key: NecromancerOverview, Value: The enigmatic Necromancers are custodians of the balance between life and death. They can raise powerful undead armies to fight for them while also wielding the powerful magics of Bone, Shadow, and Blood.
+Hash: 4EA506E7, Key: NecromancerPlaystyle1Title, Value: Undead Army
+Hash: 50FA2F88, Key: NecromancerPlaystyle2Title, Value: Bone
+Hash: 534F5829, Key: NecromancerPlaystyle3Title, Value: Darkness
+Hash: 55A480CA, Key: NecromancerPlaystyle4Title, Value: Blood
+Hash: 6EF46704, Key: NecromancerPlaystyle1Desc, Value: Summon a host of undead Minions to do your bidding, including Skeletal Warriors, Skeletal Mages, and the Golem.
+Hash: 6F067F85, Key: NecromancerPlaystyle2Desc, Value: Use the power of Bone magic to physically assail enemies. Bone Skills often gain increased power when you have large amounts of Essence.
+Hash: 6F189806, Key: NecromancerPlaystyle3Desc, Value: Wear down enemies over time. Darkness Skills utilize Crowd Control elements so that enemies are kept at bay while they die a slow, painful death.
+Hash: 6F2AB087, Key: NecromancerPlaystyle4Desc, Value: Siphon the life from enemies with Blood magic, which has defensive benefits while becoming more powerful as you increase your maximum Life.
+Hash: 1A1C2480, Key: ClassResourceTitle, Value: Primary Resource: 
+Hash: CA1140F8, Key: BarbarianResouce, Value: Rage
+Hash: FB3CF0F5, Key: NecromancerResource, Value: Essence
+Hash: 2F7BD30D, Key: SorcererResource, Value: Mana
+Hash: B0784E2A, Key: RogueResource, Value: Energy
+Hash: 92368C40, Key: DruidResource, Value: Spirit
+Hash: 922975A6, Key: XboxSignedInAs, Value: Signed in as {s1}
+Hash: 74B4700B, Key: Eternal, Value: Eternal
+Hash: 6BADA356, Key: InviteAcceptedModal_Title, Value: Invite Accepted
+Hash: A738A7F8, Key: InviteAcceptedModal_Description, Value: You've accepted an invite,
+select a character to join their game.
+Hash: C12F7E3A, Key: EventBegins, Value: Begins {s1}
+Hash: 432E806C, Key: EventEnds, Value: Ends {s1}
+Hash: F5E8FE48, Key: S2EventName, Value: Midwinter Blight Event
+Hash: 54AF9545, Key: LicenseFree, Value: Trial Active
+Hash: 2143138D, Key: Warning_DropIn_Prologue, Value: Your characters must complete the prologue to join the current game.
+Hash: 9A75B49C, Key: Warning_DropIn_WorldTier, Value: Your characters have not yet unlocked the current game's world tier. To join, please lower the current game's world tier.
+Hash: E7A07076, Key: Warning_DropIn_SeasonPrologue, Value: Your characters must complete the prologue in the seasonal realm to join the current game.
+Hash: 2F449C70, Key: Info_Screen_Tab_0, Value: Expansion Overview
+Hash: 2F449C71, Key: Info_Screen_Tab_1, Value: [Content Name]
+Hash: BA25DCA5, Key: Info_Screen_Card_Title, Value: PH_Title_0
+Hash: A74DFD85, Key: PH_Flavor_Text, Value: Ability damaged augmented subtype base attack bonus calling subschool character level.
+Hash: F14B1F05, Key: Modal_Title_PH, Value: Modal Title [PH]
+Hash: 9739FA05, Key: LearnMore, Value: Learn More
+Hash: 97EE11E3, Key: PreOrder, Value: Pre-purchase
+Hash: 247D7462, Key: PreOrderBannerHeader, Value: New Expansion: Vessel of Hatred
+Hash: 339CFFA5, Key: PreOrderBannerSubTitle, Value: Available on October 8, 2024
+Hash: 82DD3C4B, Key: LearnMoreControllerPrompt, Value: {icon:button1, 2.0} Learn More
+Hash: FF234E89, Key: GetInGameRewards, Value: Get in-game rewards today
+Hash: 5D6356DE, Key: ExploreVesselOfHatred, Value: Explore Vessel of Hatred
+Hash: 42EF2B24, Key: ExploreVesselofHatredControllerPrompt, Value: {icon:button1, 2.0} Explore Vessel of Hatred

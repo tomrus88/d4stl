@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Bonded through shame.
+Hash: 1F9943DA, Key: Callback13Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 24EC6278, Key: Callback20Header, Value: Travel to the {LEVELAREA}
+Hash: 3FC40BBF, Key: Callback27Header, Value: Free the Prisoners: {LEFT}
+Hash: 1EADAE68, Key: Callback2Header, Value: Defeat the {MONSTER}
+Hash: 9211671E, Key: Callback35Header, Value: Travel to the {LEVELAREA}

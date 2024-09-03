@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Fire Traps
+Hash: EEB7912D, Key: AffixDesc, Value: Additional fire traps appear in this dungeon.

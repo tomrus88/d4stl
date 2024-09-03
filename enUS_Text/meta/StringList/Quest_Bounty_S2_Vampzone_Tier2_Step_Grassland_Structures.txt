@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Raze Kotama Grassland Structures
+Hash: 0871A46B, Key: Toast, Value: The Vampire seek to create a permanent presence in these lands. Destroy any grotesque fixtures they have erected.
+Hash: B8A227EA, Key: Callback4Header, Value: Destroy Vampire Structures: {DONE_OVER_NEEDED}

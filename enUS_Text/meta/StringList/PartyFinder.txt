@@ -1,0 +1,35 @@
+Hash: E3AFA332, Key: FindAParty, Value: Find a Party
+Hash: 63AC9785, Key: CreateAParty, Value: Create a Party
+Hash: F14114F8, Key: InviteRequest, Value: Invite & Request
+Hash: A2B2C471, Key: PartyFriendCount, Value: %d|4Friend:Friends in this party
+Hash: 8CBAB5F1, Key: PartyMemberCount, Value: {s1}/{s2} {icon:Social_VoiceChat_Group, 2.0}
+Hash: 97672DB4, Key: CreatePartyButtonCreate, Value: Create
+Hash: 02AFE117, Key: CreatePartyButtonCreate_Controller, Value: {icon:button1, 1.8} Create
+Hash: CECE4B8F, Key: CreatePartyButtonSave, Value: Apply Changes
+Hash: DD7BC012, Key: CreatePartyButtonSave_Controller, Value: {icon:button3, 1.8} Apply Changes
+Hash: A887CA23, Key: CreatePartyButtonReset, Value: Reset
+Hash: A63C7A26, Key: CreatePartyButtonReset_Controller, Value: {icon:button4, 1.8} Reset
+Hash: A58D301F, Key: CreatePartyLabel_MinLevel, Value: Minimum Level (Optional)
+Hash: 9A94702E, Key: CreatePartyLabel_PartySize, Value: Party Size
+Hash: 0EB30216, Key: CreatePartyLabel_Password, Value: Party Password (Optional)
+Hash: FC066939, Key: CreatePartyLabel_Communication, Value: Communication (Select up to 3)
+Hash: 512767A7, Key: CreatePartyLabel_Language, Value: Language
+Hash: F3B088A7, Key: CreatePartyLabel_Description, Value: Party Description (Select up to 8)
+Hash: 1F63FD11, Key: CreatePartyCommunication_VCPreferred, Value: Voice Chat Preferred
+Hash: 47F94958, Key: CreatePartyCommunication_MicOptional, Value: Microphone Optional
+Hash: 6D76DE9E, Key: FindPartyAction_Join, Value: Join Party
+Hash: 542E6310, Key: FindPartyAction_Whisper, Value: Whisper Party Leader
+Hash: 63893307, Key: FindPartyAction_RequestJoin, Value: Request to Join
+Hash: 4163DA95, Key: CreatePartyAction_Create, Value: List Party
+Hash: FB41DEE4, Key: CreatePartyAction_Reset, Value: Reset Settings
+Hash: 10AA3E41, Key: CreatePartyLabel_Category, Value: Category
+Hash: 2DBEE79F, Key: tagname_quick_clear, Value: Quick Clear
+Hash: E477735C, Key: CreatePartyStateString, Value: {s1} | {s2}
+Hash: 81D5E705, Key: SearchModalTitle, Value: Party Search
+Hash: 5A785AED, Key: CreateParty_ListedMessage, Value: Your party is now listed. You must delist first to edit party settings.
+Hash: 42D1BD46, Key: CreatePartyAction_Delist, Value: Delist Party
+Hash: 6150AE82, Key: LabelSelectTitle, Value: Party Description
+Hash: F8E686D9, Key: SettingsRange_HintTextMin, Value: Min
+Hash: F8E685DB, Key: SettingsRange_HintTextMax, Value: Max
+Hash: 40A5AC5C, Key: SearchModalBtn_Search, Value: Search
+Hash: BE96D27C, Key: MultiSelectorAllTab, Value: All

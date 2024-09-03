@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How do the Triune enter the hideout?"
+Hash: 76174B27, Key: Line28.54239, Value: You have to be Triune! No one gets in without a medallion around their neck.
+Hash: C64D76F4, Key: VoiceDir28.54239, Value: Frustrated. Tired of repeating himself. Beaten/bruised.
+Hash: 97C3D068, Key: Line32.BC41C, Value: Ah, a medallion? Like this one?
+Hash: E7F9FC35, Key: VoiceDir32.BC41C, Value: To bandit. Alert. Suddenly curious.
+Hash: 2E702D04, Key: Line34.54239, Value: Yes—yes, that's it! Listen, that's all I know. You’ll let me go, right?
+Hash: 7EA658D1, Key: VoiceDir34.54239, Value: Desperate. Exhausted. Hopeful.
+Hash: CBB7AEB0, Key: Line36.D5161, Value: Be still.
+Hash: 1BEDDA7D, Key: VoiceDir36.D5161, Value: To Bandit. Terse. Contempt. Command.

@@ -1,0 +1,2 @@
+Hash: 5D83FCDB, Key: Line1.FD62B, Value: Ah! At last, Lyruk! Did you truly think you could make a deal with the Burning Hells and escape the flames?
+Hash: CC8D6308, Key: VoiceDir1.FD62B, Value: Pronounciation: Lih-rukk. Cruel, pleased with yourself.

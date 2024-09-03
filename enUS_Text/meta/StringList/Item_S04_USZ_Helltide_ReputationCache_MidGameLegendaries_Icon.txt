@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolves' Armory
+Hash: A646FFA4, Key: Description, Value: Several Legendaries accumulated by seasoned Iron Wolves.

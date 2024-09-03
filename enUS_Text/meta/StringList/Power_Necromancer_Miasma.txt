@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Miasma
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+Release vile miasma from a corpse that deals {c_number}{dot:DOT_TOOLTIP}{/c} over {SF_0} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: Damage increased to {c_number}{dot:DOT_TOOLTIP}{/c} over {SF_0} seconds.
+Hash: D618A933, Key: Mod0_Description, Value: Miasma no longer consumes the corpse it is cast on.
+Hash: 9233D930, Key: Mod0_Name, Value: Upgrade A
+Hash: 2577B2B4, Key: Mod1_Description, Value: TBD Miasma Upgrade
+Hash: 948901D1, Key: Mod1_Name, Value: Upgrade B

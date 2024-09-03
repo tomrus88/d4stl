@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Firsthand Knowledge
+Hash: C9FCD1EA, Key: Phase5Description, Value: The Scholar and I saw the ghost of a Hand of Zakarum, searching for a non-believer named Batzorig. We traced his steps to a neighbor who was sending him to hide in a nearby family cellar.
+
+Upon questioning the neighbor, he reenacted attacking the visiting Hand of Zakarum. We will have to defend ourselves.
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat the Hostile Neighbors

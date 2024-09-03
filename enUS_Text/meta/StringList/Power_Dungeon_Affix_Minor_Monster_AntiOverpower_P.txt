@@ -1,0 +1,6 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value: Reduced Overpower
+Hash: 65A41A1A, Key: Buff4_Description, Value: Your next Overpower attack will do less damage.
+Hash: 1970B898, Key: Buff5_Name, Value: Reduced Overpower
+Hash: B503239B, Key: Buff5_Description, Value: Your next Overpower attack will do less damage.
+Hash: 1BC5E139, Key: Buff6_Name, Value: Reduced Overpower
+Hash: 04622D1C, Key: Buff6_Description, Value: Your next Overpower attack will do less damage.

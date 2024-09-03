@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Mother's Blessing
+Hash: C6E60718, Key: Buff2_Description, Value: The fleeting gift of Mother's Blessing grants a {c_number}[{SF_1}*100|%|]{/c} boost to Experience and a {c_number}[{SF_0}*100|%|]{/c} boost to Gold earned from monster kills.

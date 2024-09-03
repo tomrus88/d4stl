@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Reanimation
+Hash: 003892BF, Key: Desc, Value: Your Minions gain increased damage while alive, up to {c_random}[Affix_Value_1|%x|]{/c} after {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Your Minions gain up to {c_random}[Affix_Value_1|%x|]{/c} increased damage.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Icy Rib
+Hash: F5C7BC0A, Key: Flavor, Value: The chill of death still lingers.

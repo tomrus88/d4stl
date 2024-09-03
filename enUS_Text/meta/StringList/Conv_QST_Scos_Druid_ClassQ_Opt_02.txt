@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: F74BB2AF, Key: Line3.E2C66, Value: Greetings, outsider. This was once a sacred place for Druids. Perhaps it will be again.

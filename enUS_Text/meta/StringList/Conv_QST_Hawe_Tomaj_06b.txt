@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Look at Tomaj.)
+Hash: F621FCF3, Key: Line15.101BAB, Value: Come to gawk, sweetheart?
+Hash: 4D1DA260, Key: VoiceDir15.101BAB, Value: Acrid; he has no interest in talking to the player.

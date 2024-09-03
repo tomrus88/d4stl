@@ -1,0 +1,21 @@
+Hash: 003DFCC1, Key: Name, Value: Hatred never slumbers, only simmers.
+Hash: 6BA7EB29, Key: Callback3Header, Value: Defeat {MONSTER}
+Hash: 6C93809B, Key: Callback14Header, Value: Examine the {GIZMO}
+Hash: 538236DE, Key: Callback17Header, Value: Survive the Trial of the Weak
+Hash: 58D5557C, Key: Callback24Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: D9B88541, Key: Callback29Header, Value: Travel to the Cathedral of Flesh
+Hash: 45172A5D, Key: Callback34Header, Value: Deposit Animus into the {GIZMO}
+Hash: DF0BA3DF, Key: Callback36Header, Value: Collect {ITEM} from the Cannibals
+Hash: 7E533BFF, Key: Callback45Header, Value: Destroy the {MONSTER}
+Hash: B23C2F03, Key: Callback49Header, Value: Investigate The Cursed Halls
+Hash: 83A65A9D, Key: Callback52Header, Value: Return the Stone Carving to the Pedestal: {LEFT}
+Hash: 22EDF2BD, Key: Callback61Header, Value: Enter the Antechamber of the Damned and choose your path
+Hash: 9012F763, Key: Callback76Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: AE775FBE, Key: Callback80Header, Value: Return the Stone Carving to the Pedestal: {LEFT}
+Hash: 3E0A0D3D, Key: Phase71Description, Value: Cleanse the Curses of the Fallen Temple {LEFT}
+Hash: 550A618E, Key: Callback161Header, Value: Investigate The Cursed Halls
+Hash: 7C54CC44, Key: Callback86Header, Value: Destroy the {MONSTER}
+Hash: 9AB9349F, Key: Callback90Header, Value: Survive the Trial of the Weak
+Hash: CEA227A3, Key: Callback94Header, Value: Examine the {GIZMO}
+Hash: 3DF7878C, Key: Callback123Header, Value: Investigate the Gluttonous Chapel
+Hash: 0BD4F412, Key: Callback129Header, Value: Investigate the Gluttonous Chapel

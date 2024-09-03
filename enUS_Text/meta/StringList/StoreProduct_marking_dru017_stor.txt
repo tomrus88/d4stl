@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Frost Lord"
+Hash: 003DFCC1, Key: Name, Value: Marks of the White Wastes

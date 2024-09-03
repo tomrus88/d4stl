@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bait the Trap
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Welcome to our home away from home. Excuse the mess.

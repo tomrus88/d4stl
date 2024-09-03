@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is everything okay?"
+Hash: 5D6B62D1, Key: Line1.F79D0, Value: Can't hunt like we used to. Wasn't safe before. Damn deadly, now.

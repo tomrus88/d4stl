@@ -1,0 +1,6 @@
+Hash: 5D6C70E9, Key: Line1.F9829, Value: Talk of this "horned woman" is stirrin' up old fears. It's no good for the market.
+Hash: CC75D716, Key: VoiceDir1.F9829, Value: Speaking to the chieftain. Concerned.
+Hash: 3FBBAD94, Key: Line5.103C1A, Value: Folk need to see their chief ain’t afraid.
+Hash: 8FF1D961, Key: VoiceDir5.103C1A, Value: Speaking to the chieftain. Concerned. Respectfully urging. 
+Hash: 2B48B057, Key: Line7.F738B, Value: Aye. Take a letter to Donan. I would have his opinion on the matter.
+Hash: 9A521684, Key: VoiceDir7.F738B, Value: Anxious. Giving an order, but avoiding responsibility.

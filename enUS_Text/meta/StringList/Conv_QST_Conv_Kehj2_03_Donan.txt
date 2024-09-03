@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Did you know Elias well?” 
+Hash: F427C5EC, Key: Line3.7FA05, Value: I thought I did. He was Lorath’s student in the Order. It used to be just the three of us.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: He was young, then. I guess we all were. His thinking was always radical, but I never thought...I never thought it’d come to this.

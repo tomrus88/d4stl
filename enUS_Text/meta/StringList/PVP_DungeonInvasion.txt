@@ -1,0 +1,19 @@
+Hash: DF2D3E45, Key: EnemyTeam, Value: Enemy Team
+Hash: 033F5A19, Key: AllyTeam, Value: Your Team
+Hash: BE2A2227, Key: AllyTeamPortalActive, Value: Your Portal is Active
+Hash: 06B80341, Key: AllyTeamPlayerInvaded, Value: {s1} has Invaded
+Hash: C16626A6, Key: AllyTeamPlayer, Value: {s1}
+Hash: 29E49F92, Key: EmenyTeamPlayer, Value: {s1}
+Hash: 48E41EAC, Key: AllyTeamTeamKill, Value: Team Kill!
+Hash: 1C7A6D4E, Key: AllyTeamPlayerInvadorKilled, Value: {s1} has been Killed
+Hash: D870A231, Key: AllyTeamBossGate, Value: Your Team has unlocked Boss Gate
+Hash: 14B47D5C, Key: EnemyTeamBoss, Value: Enemy Boss HP
+Hash: E9586330, Key: AllyTeamBoss, Value: Your Boss HP
+Hash: 2B65F25D, Key: EnemyTeamBossGate, Value: Enemy Team has unlocked Boss Gate
+Hash: 7E224EED, Key: EnemyTeamPlayerInvaded, Value: {s1} has Invaded
+Hash: 0351C9FA, Key: EnemyTeamPlayerInvadorKilled, Value: {s1} has been Killed
+Hash: 2E63A853, Key: EnemyTeamPortalActive, Value: Enemy Portal is Active
+Hash: 9BD96ED8, Key: EnemyTeamTeamKill, Value: Team Kill!
+Hash: 95D3F048, Key: NotificationTimer, Value: {s1}
+Hash: E65414D8, Key: BossName, Value: {s1}
+Hash: 358FB693, Key: Portaltimer, Value: {s1}:{s2}

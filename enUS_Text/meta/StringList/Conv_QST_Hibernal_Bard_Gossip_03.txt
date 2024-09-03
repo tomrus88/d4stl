@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What’s a bard doing here?" 
+Hash: 8F311900, Key: Line1.171196, Value: I grew up in Hawezar with my mother, but it was here I was born. She told me stories of the season here.
+Hash: DF6744CD, Key: VoiceDir1.171196, Value: Nostalgic as he thinks of his mother. "hou-iz-ahr"
+Hash: 67B4C2C2, Key: Line3.171196, Value: They—ah, the Cathedral of Light, that is—They aren’t thrilled with a revival of the tradition. But I’m not alone—the people want a return to those roots.
+Hash: B7EAEE8F, Key: VoiceDir3.171196, Value: A little chagrined.
+Hash: 40386C84, Key: Line5.171196, Value: The music, the dance... We can’t thrive in darkness without those. Who better to spread that then—well, me.
+Hash: 906E9851, Key: VoiceDir5.171196, Value: Starts off excited, then catches himself and turns shy.

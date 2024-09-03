@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Book
+Hash: F2CA04D8, Key: NoticeSignText, Value: A weathered tome entitled "The Book of Wards". Notes are scrawled in the margins of a section about fire magic.

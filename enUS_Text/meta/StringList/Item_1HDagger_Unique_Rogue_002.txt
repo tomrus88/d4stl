@@ -1,0 +1,3 @@
+Hash: 1999888C, Key: TransmogName, Value: Ornate Jadeblade
+Hash: 003DFCC1, Key: Name, Value: Asheara's Khanjar
+Hash: F5C7BC0A, Key: Flavor, Value: When Caldeum's gates closed, Asheara led her Iron Wolves out of the city knowing full well they would never return. Instead they roamed Kehjistan pledging their blades to any who were in need.

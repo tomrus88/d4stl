@@ -1,0 +1,2 @@
+Hash: 8ED899EA, Key: Line1.123EBF, Value: Quickly, destroy the axe!
+Hash: DF0EC5B7, Key: VoiceDir1.123EBF, Value: Great Urgency

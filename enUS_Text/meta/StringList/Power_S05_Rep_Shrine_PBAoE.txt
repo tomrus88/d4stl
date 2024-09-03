@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Infernal Blast Wave Shrine
+Hash: 2827F416, Key: Buff0_Description, Value: You wield demonic power. Enemies drop Mother's Gift. You periodically explode, Overpowering enemies around you. Each explosion summons a cluster bombardment.

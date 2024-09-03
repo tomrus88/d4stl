@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_bonus}Hell Touched{/c}
+Hash: EEB7912D, Key: AffixDesc, Value: Extra Infernal Shrines and 20% more Glyph Experience earned at the end of this dungeon.

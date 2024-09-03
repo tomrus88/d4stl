@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Vhenard Fight Bark 3
+Hash: F414A633, Key: Line3.6DE47, Value: Please, I don't want you to die!
+Hash: 5D225DBE, Key: Line1.B6582, Value: (straining)
+Hash: CC2BC3EB, Key: VoiceDir1.B6582, Value: She's gearing up for her last ditch attempt to win this fight

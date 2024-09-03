@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Symposium Steed
+Hash: A646FFA4, Key: Description, Value: A cerulean and midnight conveyance to a realm of enchanting delight.
+Hash: 083EE0CE, Key: Quote, Value: Gather ye 'round, one and all.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

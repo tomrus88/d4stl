@@ -1,0 +1,75 @@
+Hash: 9BF35F8A, Key: RegionWarningPreheader, Value: REGION SPECIFIC WARNINGS (IF APPLICABLE)
+Hash: D8310903, Key: RegionWarningHeader, Value: PLACEHOLDER
+Hash: BADDFE88, Key: RatingsPreheader, Value: Ratings Screen
+Hash: A531D8C1, Key: RatingsHeader, Value: PLACEHOLDER
+Hash: 91AA7948, Key: EULA_Title, Value: Review Terms
+Hash: 5DFE046B, Key: EULA_Directions1, Value: Please review the following document(s):
+Hash: 51F3A134, Key: EULA_Body, Value: LAST REVISED: November 12th 2021
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fringilla enim id ullamcorper pulvinar. Cras quis massa at orci vehicula egestas. Maecenas lacinia vel sem at bibendum. Aliquam consequat quam ante, dictum iaculis erat feugiat condimentum. Maecenas id aliquam nisi. Donec sit amet luctus lorem, eget mollis turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur egestas metus et quam scelerisque viverra. Ut viverra interdum est, in pretium nisi pharetra sodales. Fusce ultrices mollis enim eget varius. Nullam vel interdum turpis. Etiam condimentum scelerisque tellus, et pretium felis dapibus a. Etiam ullamcorper laoreet mi, ac placerat mi pulvinar quis. Vestibulum condimentum diam mauris, ut lacinia erat molestie hendrerit. Integer quis enim et ipsum consectetur commodo quis hendrerit dui.
+
+In ac vehicula eros. Nunc sollicitudin faucibus malesuada. Phasellus eget arcu vitae neque suscipit ullamcorper eget vel justo. Proin blandit metus nunc, at dapibus tellus tincidunt convallis. Pellentesque velit urna, hendrerit ac sapien ut, ornare elementum magna. Vestibulum molestie convallis risus ac molestie. Etiam non sodales neque. Vivamus mauris mauris, sollicitudin ac eleifend vitae, congue at metus. Maecenas a rhoncus ligula. Ut semper augue ac orci laoreet, sit amet consectetur sapien vehicula. Morbi pulvinar sit amet lorem sit amet euismod.
+
+Donec mollis ex mollis cursus cursus. Nunc sapien turpis, cursus sed turpis vitae, congue interdum velit. Curabitur venenatis id risus vel feugiat. Praesent venenatis aliquet facilisis. In enim nibh, iaculis et nunc id, congue interdum leo. Phasellus dictum nunc et neque vestibulum, ut dictum lectus sodales. Duis aliquet efficitur ligula, vitae interdum elit vestibulum vel. Mauris mi diam, suscipit vitae nunc id, molestie tincidunt mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer a tortor sem. Duis cursus fermentum urna, et vestibulum diam maximus nec. In eget leo nec ex molestie luctus. Suspendisse et mi commodo, dapibus nibh vel, blandit massa. Nunc vel tincidunt ipsum. Quisque a lorem condimentum, mattis nisi at, mollis nisi. Donec arcu sem, lobortis venenatis tempor ac, ornare vitae quam.
+Hash: 5DFE046C, Key: EULA_Directions2, Value: By clicking ‘Continue’, I acknowledge that I have read and understood the Terms of Sale applicable to my country of residence.
+Hash: 73B399EB, Key: ELUA_Continue, Value: Continue
+Hash: 92BE9A4C, Key: ELUA_Cancel, Value: Cancel
+Hash: 07718C3C, Key: SafeZone_Title, Value: ADJUST YOUR SCREEN SAFE ZONE
+Hash: E8EA25A8, Key: SafeZone_Body, Value: Use the arrow keys to adjust the corners so it lines up with the edges of your display
+Hash: 3D4381FA, Key: Brightness_Title, Value: Brightness
+Hash: 275204A7, Key: BrightnessBody, Value: Adjust the Brightness slider until each
+shade of gray is separate
+Hash: CD20C8B5, Key: AccessibilityOptions_Title, Value: Accessibility
+Hash: 8894012E, Key: VideoSectionTitle, Value: Video
+Hash: 22AA79F9, Key: TextSizeOption, Value: Text Size
+Hash: E4522AA1, Key: ColorBlindOption, Value: Colorblind Options
+Hash: FC332429, Key: AudioSectionTitle, Value: Audio
+Hash: 7FE365B8, Key: SubtitlesOption, Value: Subtitles
+Hash: 5BF13199, Key: TextToSpeechOption, Value: Text to Speech
+Hash: 98226F48, Key: TextSizeDetailsTitle, Value: Text Size
+Hash: CE44D734, Key: TextSizeDetailsBody, Value: Select the size of the in-game text. Text size can be changed at any time in the options menu.
+Hash: 2B768829, Key: TextPreviewTitle, Value: This is a preview title
+Hash: 4718D7F5, Key: TextPreviewBody, Value: And a preview description
+Hash: 4905FDF0, Key: ColorblindDetailsTitle, Value: Colorblind Options
+Hash: 3079BB3E, Key: ColorblilndDetailsDescription, Value: If colorblind, choose the colors that differentiate the most among each other
+Hash: B035CBD4, Key: SubtitleDetailsTitle, Value: Subtitles
+Hash: 2BBC5EE8, Key: TextToSpeechDetailsTitle, Value: Text to Speech
+Hash: 188F52D4, Key: TextToSpeechDetailsBody, Value: [PH] Allows user to transcribe their voice chat to text channels in the game.
+Hash: 1851F253, Key: SubtitlesDetailsBody, Value: [PH] Turn subtitles on or off
+Hash: C2E2E7DF, Key: AccountLinkingInstructions1, Value: Use this code to log in:
+Hash: 84B1C48C, Key: LinkCodePlaceholder, Value: 5
+Hash: C2E2E7E0, Key: AccountLinkingInstructions2, Value: On another device, visit:
+blizzard.com/link
+Hash: 554BE22F, Key: LinkOptionsDividerCaption, Value: Or
+Hash: D15208CC, Key: ConnectWithControllerPrompt, Value: {Icon:button3, 2.0} Connect using my controller instead
+Hash: 50101676, Key: DeclinePrompt, Value: {Icon:button2, 2.0} Cancel
+Hash: 08A07E3C, Key: ErrorDialogTitle, Value: LOGIN ERROR
+Hash: 2702D7A8, Key: ErrorDialogBody, Value: A Battle.net account is required to play Diablo 4
+Hash: 13FBC7FC, Key: ErrorDialogPrompt, Value: {Icon:button1, 2.0} Continue
+Hash: A8A5CBCD, Key: EULA_ContinuePrompt, Value: {Icon:button1, 2.0} Continue
+Hash: 49FF08EE, Key: EULA_CancelPrompt, Value: {Icon:button2, 2.0} Cancel
+Hash: 95FF788B, Key: SafeZone_Body_Controller, Value: Use {icon:l_all, 2.0} to adjust the corners so it lines up with the edges of your display
+Hash: 3E6D5D8B, Key: ControllerContinuePrompt, Value: {Icon:button1, 2.0} Continue
+Hash: 836E427E, Key: ControllerDefaultsPrompt, Value: {Icon:button3, 2.0} Restore Defaults
+Hash: 92EAE18E, Key: ControllerStartGamePrompt, Value: {Icon:button4, 2.0} Start Game
+Hash: AAB78224, Key: ConsoleGraphics, Value: Console Graphics
+Hash: B935C82C, Key: RegionWarningKorea, Value: 본 게임물은 ‘청소년이용불가’로 분류되었습니다. 만 19세 미만의 청소년이 이용하기에 부적절합니다
+Hash: C65E5A01, Key: ContinueButton, Value: Continue
+Hash: 26DDE584, Key: StartGameButton, Value: Start Game
+Hash: 7897385A, Key: TermsAndConditionsTitle, Value: Terms and Conditions
+Hash: ABB37E5F, Key: AccessibilitySectionTitle, Value: Accessibility
+Hash: 2C65B0F4, Key: General_SectionTitle, Value: General
+Hash: 3F029B3B, Key: NextButton, Value: Next
+Hash: 11550D9B, Key: NextButtonLabel, Value: Next
+Hash: E3AB2DDD, Key: GameplayOptions_Title, Value: Gameplay Options
+Hash: 45414731, Key: TextColorOptions_Title, Value: Text & Color
+Hash: 9C877F6E, Key: VisualOption_Title, Value: Visual
+Hash: 427B2759, Key: PrevButton, Value: Previous
+Hash: 0B5F3EF4, Key: DefaultsButton, Value: Reset to Defaults
+Hash: 36E12FC1, Key: TextToSpeech_Title, Value: Text to Speech
+Hash: 00C8FFC1, Key: VisualOptions_Title, Value: Visual Support
+Hash: B09AA16F, Key: VisibilityOptions_Cinematic_Heading, Value: Standard Highlight
+Hash: 7E07DAA5, Key: VisibilityOptions_Cinematic_Details, Value: Sets the in-game lighting to emphasize the dark and gritty world of Sanctuary as intended.
+Hash: 20928C50, Key: VisibilityOptions_Contrast_Heading, Value: Additional Highlights
+Hash: B0B0B272, Key: VisualOptions_Contrast_Details, Value: Greatly increases the contrast for characters within the world. In-game options can modify the intensity as well as the colors.
+Hash: 301E7755, Key: VisibilityOptions_Title, Value: Select preferred visibility highlight style.

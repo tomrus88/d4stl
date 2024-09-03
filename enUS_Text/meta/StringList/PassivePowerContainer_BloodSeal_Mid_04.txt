@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hemomancy
+Hash: A646FFA4, Key: Description, Value: {icon:bullet} Your attacks deal {c_random}[SF_9|1]%{/c} of your Maximum Life as Physical damage to nearby enemies. This effect can occur once every {c_number}[SF_10]{/c} seconds.
+
+{icon:bullet} You heal for {c_number}[SF_7|1]%{/c} of your Maximum Life for each enemy damaged this way.
+
+{icon:bullet}Damage: {c_random}[SF_11|1]%{/c} {icon:arrow} {c_random}[SF_12|1]%{/c} {icon:arrow} {c_random}[SF_13|1]%{/c}

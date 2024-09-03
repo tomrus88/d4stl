@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Captain's Ragged Boots
+Hash: F5C7BC0A, Key: Flavor, Value: "The Captain was bleeding from at least three bite wounds, sweating from the poison and barely able to walk, but he never stopped searching for his lost comrades."
+- Eulogy for Captain Willcocks

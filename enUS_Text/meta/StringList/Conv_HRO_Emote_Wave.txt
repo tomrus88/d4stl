@@ -1,0 +1,6 @@
+Hash: 678D38F7, Key: Line14.BAE4, Value: Greetings!
+Hash: 750EE5FC, Key: Line16.BAE4.Bar, Value: Hello,  friend!
+Hash: 7D2412F4, Key: Line18.BAE4.Dru, Value: I greet you.
+Hash: E22C67F8, Key: Line20.BAE4.Nec, Value: Well met, traveler.
+Hash: EA419C8C, Key: Line22.BAE4.Rog, Value: How's it going?
+Hash: F661543B, Key: Line25.BAE4.Sor, Value: Welcome.

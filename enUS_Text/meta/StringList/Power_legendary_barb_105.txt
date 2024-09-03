@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Tempering Blows
+Hash: 7786FD97, Key: Buff1_Description, Value: After {c_number}6{/c} weapon swaps, gain {c_important}{u}Fortify{/u}{/c}. 

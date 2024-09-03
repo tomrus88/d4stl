@@ -1,0 +1,292 @@
+Hash: 263EC824, Key: AffixRangeFormat, Value: [{s1} - {s2}]
+Hash: 1A22D675, Key: AssetMismatchDesc, Value: The game assets between the client and the server don't match.
+Hash: A30B7F58, Key: AttunedRuneFormat, Value: {s1} {s2}
+Hash: 29674B5F, Key: BoostLevel, Value: Boost Level
+Hash: 8ABDA0C9, Key: Buffering1, Value: Buffering
+Hash: 8ABDA0CA, Key: Buffering2, Value: Buffering.
+Hash: 8ABDA0CB, Key: Buffering3, Value: Buffering..
+Hash: 8ABDA0CC, Key: Buffering4, Value: Buffering...
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 8DD04449, Key: ChatHelp, Value: /? - This chat help information
+/send, /t, /tell, /w, /whisper <Name> <Message> - Send a message to another player
+/r, /reply - Reply to the last whisper
+/o, /osay, /officer - Send a message to just the officers of your clan (must have officer chat permission)
+/c, /clan - Send a message to your clan members
+/p, /party - Send a message to your party
+/bye, /die, /follow, /give, /go, /help, /run, /sorry, /thanks, /wait - emote
+/clanfinder, /cf - Open the clan finder
+/clanroster, /croster - Open the clan roster
+/clandemote, /cdemote - Demote a clan member
+/clanpromote, /cpromote - Promote a clan member
+/clanleader, /cleader - Promote to leader
+/claninvite, /cinvite - Invite a player into your clan
+/clanmotd, /cmotd - Set the message of the day for your clan
+/clanquit, /cquit - Leave your clan
+/clandisband, /cdisband - Disband your clan
+/clanremove, /cremove, /ckick - Kick a member from your clan
+/ignore - Block communication with a player
+/inspect, /ins, /profile - Open the profile screen
+/logout - logout from the game
+Hash: 016946BE, Key: ChatHelpUsage, Value: /? [command] - show chat help or help for a specific chat command.
+Hash: E2877F43, Key: ConversationLine, Value: {s1}: {s2}
+Hash: CD2C2503, Key: ConversationLineSays, Value: {s1} says: {s2}
+Hash: 241EF2C5, Key: CutscenesDisabled, Value: Cutscenes Disabled
+
+Hash: 9E48AF18, Key: CutscenesEnabled, Value: Cutscenes Enabled
+Hash: 1DD0BF60, Key: DisconnectedFromServerTitle, Value: Disconnected from Server
+Hash: 0F0BFA9C, Key: Dismiss, Value: Dismiss Follower
+Hash: 73D3896D, Key: EngagedEliteChampion, Value: {PLAYER} has engaged: {MONSTER}!
+Hash: 109D3C28, Key: EngagedEliteRare, Value: {PLAYER} has engaged: {MONSTER}!
+Hash: 8DD33AE4, Key: EngagedEliteTreasureGoblin, Value: {PLAYER} has engaged: {MONSTER}!
+Hash: 3610234A, Key: ErrorInvalidChannel, Value: Invalid chat name
+Hash: 1CE9E875, Key: ErrorLoadingAccount, Value: There was an error loading player account data.
+Hash: A42F8D9F, Key: FollowerActivated, Value: {s1} is now following you!
+Hash: 50846F88, Key: FollowerDeactivated, Value: {s1} is no longer following you!
+Hash: 7E7EF985, Key: GameGfxInit_ErrorHeader, Value: Graphics Error
+Hash: 961F2821, Key: GameGfxInit_ErrorText, Value: Couldn't initialize graphics even on default settings.
+Please shut down any other 3D apps and try again.
+Hash: 4EA46034, Key: GameSavedMsg, Value: Checkpoint Reached.
+Hash: 21B66E67, Key: GameTerminated, Value: The game was terminated.
+Hash: 14B9D493, Key: GfxWindowOpenErr_ARGB8888, Value: doesn't support ARGB8888 textures.
+Hash: BCB71C56, Key: GfxWindowOpenErr_Features, Value: is missing required features. Updating your driver may fix this.
+Hash: C7F3CA80, Key: GfxWindowOpenErr_Header, Value: Error
+Hash: DB8A88A5, Key: GfxWindowOpenErr_Prefix, Value: Diablo IV cannot run because this graphics card 
+Hash: 395F33F6, Key: GfxWindowOpenErr_Streams, Value: doesn't support enough vertex streams.
+Hash: D5C21DEF, Key: GoldFormat, Value: {s1} Gold
+Hash: F85CFF75, Key: Gossip, Value: Gossip
+Hash: 36C55B68, Key: Hardcore, Value: Hardcore
+Hash: 003AD528, Key: Hire, Value: Hire
+Hash: C5C082F4, Key: Immune_Arcane, Value: Arcane Immune
+Hash: 04A6F54C, Key: Immune_Cold, Value: Cold Immune
+Hash: 04A881B0, Key: Immune_Fire, Value: Fire Immune
+Hash: 2D47CCAE, Key: Immune_Lightning, Value: Lightning Immune
+Hash: 4296A707, Key: Immune_Physical, Value: Physical Immune
+Hash: E88B31E2, Key: Immune_Poison, Value: Poison Immune
+Hash: DF957CB1, Key: InGameTrade_OtherPlayer_Busy, Value: That player is busy and cannot trade right now.
+Hash: 9B9A8796, Key: Inspect, Value: Inspect
+Hash: 232B2846, Key: InvalidChatCommand, Value: That is not a valid command. Type /? for more info.
+Hash: 234129CC, Key: InvalidChatContext, Value: That is not a valid chat recipient.
+Hash: DD6F9664, Key: InviteUsage, Value: Type /invite <player> to invite someone to a public chat.
+Hash: 39196C58, Key: ItemCount, Value:  (Items: {CURRENT}/{TOTAL})
+Hash: DA2A3046, Key: ItemsOnGroundDisabled, Value: Tooltips for items on ground disabled - [ {s1} ]
+Hash: 3731C079, Key: ItemsOnGroundEnabled, Value: Tooltips for items on ground enabled - [ {s1} ]
+Hash: 9442E1BE, Key: KickedFromGameText, Value: You have been removed from the game.
+Hash: 1CA1395B, Key: KickedFromGameTitle, Value: Removed from Game
+Hash: 03FD4B32, Key: KilledByMessageMystery, Value: {PLAYER} {c_gold}was slain!{/c}
+Hash: 4F51E07E, Key: KilledByMessageNormal, Value: {PLAYER} {c_gold}was slain by a {/c}{MONSTER}{c_gold}!{/c}
+Hash: BAF7B13F, Key: KilledByMessageRare, Value: {PLAYER} {c_gold}was slain by {/c}{MONSTER}{c_gold}!{/c}
+Hash: 2A25AFD2, Key: KilledEliteRare, Value: {PLAYER} has killed {MONSTER}!
+Hash: 2D49B2C0, Key: LeaveErrorNoChannels, Value: You are not in any chats.
+Hash: 9DF66DE2, Key: LeaveUsage, Value: Type /leave, /leave <chat number>, or /leave <chat name> to leave a chat.
+Hash: 07DBBC18, Key: Level, Value: Level
+Hash: 2FE56B1D, Key: LevelUpAttackGained, Value: You have gained {s1} Attack.
+Hash: 00C2A99E, Key: LevelUpCongrats, Value: Congratulations, you have reached Level {s1}!
+Hash: D8646EBF, Key: LevelUpDefenseGained, Value: You have gained {s1} Defense.
+Hash: 185D38CC, Key: LevelUpGoldFindGained, Value: You have gained {s1}% Gold Find.
+Hash: A07E8C67, Key: LevelUpMagicFindGained, Value: You have gained {s1}% Gold Find.
+Hash: F7E438B1, Key: LevelUpPrecisionGained, Value: You have gained {s1} Precision.
+Hash: 0204FAF1, Key: LevelUpSkillUnlocked, Value: You have unlocked {s1}.
+Hash: 51FB90CF, Key: ListErrorNoChannels, Value: There are no chats to join.
+Hash: CAFC8747, Key: MessageUndeliverable, Value: Undeliverable
+Hash: 38F99879, Key: MonsterClone, Value: {CLONE} {PREFIX}{SUFFIX}{TITLE}
+Hash: 2721A3DE, Key: MonsterHealthBarsDisabled, Value: Monster Health Bars are disabled - [{s1}]
+Hash: 12BD2111, Key: MonsterHealthBarsEnabled, Value: Monster Health Bars are enabled - [{s1}]
+Hash: 8D64F0D2, Key: MonsterRare, Value: {PREFIX}{SUFFIX}
+Hash: B7799199, Key: MusicDisabled, Value: Music Disabled - [ {s1} ]
+Hash: 26A0C36C, Key: MusicEnabled, Value: Music Enabled - [ {s1} ]
+Hash: 00000E9D, Key: No, Value: No
+Hash: C4373A70, Key: PlayerBusy, Value: Player is busy.
+Hash: 63861194, Key: PlayerEntered, Value: {s1} has joined the party. The minions of Hell grow stronger.
+Hash: A4682B03, Key: PlayerHealthBarsDisabled, Value: Player Health Bars are disabled - [{s1}]
+Hash: 260CD796, Key: PlayerHealthBarsEnabled, Value: Player Health Bars are enabled - [{s1}]
+Hash: C43C7078, Key: PlayerLeft, Value: {s1} has left the game. The minions of Hell grow weaker.
+Hash: 686A298E, Key: PlayerLeftPVP, Value: {s1} has left the game. 
+Hash: EB7DEA68, Key: PlayerLeftUnknown, Value: A player has left the game. The minions of Hell grow weaker.
+Hash: 4BCAC205, Key: PlayerLevel, Value: Level
+Hash: F33AF6D9, Key: PlayerNameTooltip, Value: {s1}
+Level {s2} {s3}
+{s4}
+Hash: 178CE882, Key: PlayerNameTooltipWithAccount, Value: {s1} [{s2}]
+Level {s3} {s4}
+{s5}
+Hash: 24E79DDE, Key: PortedToPlayer, Value: {PLAYER} teleported to {PLAYERTARGET}!
+Hash: 5BB119EC, Key: PortedToWaypoint, Value: {PLAYER} teleported to {LEVELAREA}!
+Hash: BE9483AD, Key: ProtocolMismatchText, Value: You have been disconnected from the server due to client-server version mismatches.
+Hash: A4F91E07, Key: QuestHUDCompleteObjective, Value: Complete!
+Hash: E432C2D3, Key: QuestHUDFailedObjective, Value: Failed!
+Hash: 16FAA918, Key: QuestHUDNewObjective, Value: New!
+Hash: 1B4E8ED1, Key: QuestHUDUpdateObjective, Value: Update!
+Hash: D1024AB1, Key: QuestLogCompleted, Value: Quest completed.
+Hash: A46B8B22, Key: QuestObjectiveMonstersRemaining, Value: Enemies Remaining: {c_green}{s1}{/c}
+Hash: 1D1E4D30, Key: QuestUpdateEventComplete, Value: Event Complete
+Hash: 373360FA, Key: QuestUpdateFailed, Value: Quest Failed
+Hash: 87BA1421, Key: QuestUpdateNewEvent, Value: New Event
+Hash: C3A390DA, Key: QuestUpdateNewObjective, Value: Quest Update
+Hash: 8892AE71, Key: QuestUpdateNewQuest, Value: New Quest
+Hash: B8D43780, Key: QuestUpdateQuestComplete, Value: Quest Complete
+Hash: D3CE0161, Key: QuestUpdateRewardReceived, Value: Reward Received:
+Hash: 565D5C14, Key: QuestUpdateRewardsReceived, Value: Rewards Received:
+Hash: 5C001176, Key: RangeFormat, Value: {s1}-{s2}
+Hash: A2F6A3C5, Key: RemovedFromGameText, Value: You have been removed from the game.
+Hash: 01CD3C42, Key: RemovedFromGameTitle, Value: Removed from Game
+Hash: B48FA49A, Key: Resistance_Arcane, Value: Arcane Resistant
+Hash: EDD57572, Key: Resistance_Cold, Value: Cold Resistant
+Hash: EDD701D6, Key: Resistance_Fire, Value: Fire Resistant
+Hash: F02A5494, Key: Resistance_Lightning, Value: Lightning Resistant
+Hash: 21B4CA2D, Key: Resistance_Physical, Value: Physical Resistant
+Hash: D75A5388, Key: Resistance_Poison, Value: Poison Resistant
+Hash: 0040BC40, Key: Says, Value: [{s1}] says: {s2}
+Hash: 6AF0BF16, Key: Seasonal, Value: Seasonal
+Hash: 13DA13E6, Key: Shouts, Value: [{s1}] shouts: {s2}
+Hash: D95281C8, Key: ShoutUsage, Value: /shout <message> - shout to everyone in your party
+Hash: 016A4B81, Key: SoundDisabled, Value: Sound Disabled - [ {s1} ]
+Hash: 66EDE054, Key: SoundEnabled, Value: Sound Enabled - [ {s1} ]
+Hash: EDA486B3, Key: StatAbbr, Value: {s1}k
+Hash: 16430D9A, Key: StatAbbrMillions, Value: {s1}M
+Hash: AC8C5C99, Key: Success, Value: Success!
+Hash: 910DF91F, Key: TeleportToPlayer, Value: Teleport to Player
+Hash: 08734790, Key: Trade, Value: Trade
+Hash: FE24502F, Key: TradeAskingOther, Value: Asking player to trade.
+Hash: 3E7C02BD, Key: UnknownPlayer, Value: Unknown player or account: {s1}
+Hash: 6E7FF60B, Key: UsedTownPortal, Value: {PLAYER} is returning to town!
+Hash: 1473240A, Key: ValueUnchanged, Value: unchanged
+Hash: 1265B747, Key: VolumeSetTo, Value: Volume set to {s1}.
+Hash: 5CCF03A0, Key: VoteKick, Value: Vote Kick
+Hash: 05D93937, Key: VoteKick_Disabled, Value: Vote Kick requires 3 players.
+Abuse of Vote Kick also disables this option for a period of time.
+Hash: 16A6B2D8, Key: WarningTitle, Value: ATTENTION!
+Hash: C297C582, Key: Whisper, Value: Whisper
+Hash: 2C5BD18E, Key: WhisperedTo, Value: [{s1}] whispers: {s2}
+Hash: B8FF7397, Key: WhisperUsage, Value: /w, /whisper, /msg <player> <message> - send a private message to a specific player.
+Hash: 00021031, Key: Yes, Value: Yes
+Hash: F725DAEB, Key: YouWhisperedTo, Value: To [{s1}]: {s2}
+Hash: 8391E6FF, Key: ActionBindingLockOn, Value: Lock On
+Hash: A7EEE758, Key: ActionBindingSwitchLockOnTarget, Value: Switch Lock On Target
+Hash: C5248213, Key: ActionBindingInteract, Value: Interact
+Hash: 9940EACE, Key: ActionBindingRun, Value: Run
+Hash: 13A6A37F, Key: ActionBindingUsePotion, Value: Potion
+Hash: 031CBDC9, Key: ActionBindingCycleMainHand, Value: Cycle Main Hand
+Hash: A57CB97F, Key: ActionBindingCycleOffHand, Value: Cycle Off Hand
+Hash: 55B944CE, Key: ActionBindingPrimary1, Value: Attack
+Hash: 55B944CF, Key: ActionBindingPrimary2, Value: Charge Attack
+Hash: 55B944D0, Key: ActionBindingPrimary3, Value: Spender
+Hash: F89ED732, Key: ActionBindingSecondary1, Value: Stun
+Hash: F89ED733, Key: ActionBindingSecondary2, Value: Evade
+Hash: F89ED734, Key: ActionBindingSecondary3, Value: Counter
+Hash: F89ED735, Key: ActionBindingSecondary4, Value: Block
+Hash: 90E0E450, Key: ActionBindingReload, Value: Stun / Reload
+Hash: 55B944D1, Key: ActionBindingPrimary4, Value: Emote
+Hash: 295ADFF2, Key: PlayerClassSorcererFemale, Value: Sorcerer
+Hash: 9F7DAD7A, Key: PlayerClassDruidMale, Value: Druid
+Hash: 6593C345, Key: PlayerClassDruidFemale, Value: Druid
+Hash: A7449670, Key: DiscardWarning, Value: Are you sure you want to destroy this item?
+Hash: A5C802AF, Key: PlayerClassRogueFemale, Value: Rogue
+Hash: 1FE70A64, Key: PlayerClassRogueMale, Value: Rogue
+Hash: 843E8DEF, Key: PlayerClassBarbarianFemale, Value: Barbarian
+Hash: 5CC1C5A4, Key: PlayerClassBarbarianMale, Value: Barbarian
+Hash: 1B1DBCFA, Key: PlayerClassNecromancerFemale, Value: Necromancer
+Hash: C363B5EF, Key: PlayerClassNecromancerMale, Value: Necromancer
+Hash: 1E660610, Key: NoMount, Value: {c_red}You have not unlocked access to mounts yet.{/c}
+Hash: 8FC3583D, Key: PlayerLabelShort, Value: P{s1}
+Hash: 87408B6F, Key: Seconds, Value: {s1} |4second:seconds
+Hash: C38232E5, Key: Minutes, Value: {s1} |4minute:minutes
+Hash: 9F4549FC, Key: PlayerCompletedQuest, Value: {Player} completed quest: {QUEST}
+Hash: 9E6CAFAC, Key: PlayerCompletedEvent, Value: {Player} completed the event: {QUEST}
+Hash: 77E6E4D4, Key: PlayerActivatedQuest, Value: {Player} started quest: {QUEST}
+Hash: 770E4A84, Key: PlayerActivatedEvent, Value: {Player} started the event: {QUEST}
+Hash: 3E25CD5E, Key: QuestUpdateItemsReceived, Value: Items Received
+Hash: 003EB234, Key: Okay, Value: Accept
+Hash: 278BBAE7, Key: PlayerClassSorcererMale, Value: Sorcerer
+Hash: A70B873C, Key: PH_Text, Value: [PH]
+Hash: FF5BEB3F, Key: GenderFemale, Value: Female
+
+Hash: 1F478EF4, Key: GenderMale, Value: Male
+
+Hash: 4941D53F, Key: EVT_Percent_10, Value: {c_red}10%{/c}
+Hash: 4941D560, Key: EVT_Percent_20, Value: {c_red}20%{/c}
+Hash: 4941D581, Key: EVT_Percent_30, Value: {c_red}30%{/c}
+Hash: 4941D5A2, Key: EVT_Percent_40, Value: {c_red}40%{/c}
+Hash: 4941D5C3, Key: EVT_Percent_50, Value: {c_yellow}50%{/c}
+Hash: 4941D5E4, Key: EVT_Percent_60, Value: {c_yellow}60%{/c}
+Hash: 4941D605, Key: EVT_Percent_70, Value: {c_yellow}70%{/c}
+Hash: 4941D626, Key: EVT_Percent_80, Value: {c_green}80%{/c}
+Hash: 4941D647, Key: EVT_Percent_90, Value: {c_green}90%{/c}
+Hash: 717C7D4F, Key: EVT_Percent_100, Value: {c_green}100%{/c}
+Hash: 30C3EF2E, Key: EVT_Percent_0, Value: {c_red}0%{/c}
+Hash: 0EAF6AE5, Key: PlayerClassBarbarian, Value: |5Barbarian:Barbarian
+Hash: C574D7BB, Key: PlayerClassDruid, Value: |5Druid:Druid
+Hash: E306EDB0, Key: PlayerClassNecromancer, Value: |5Necromancer:Necromancer
+Hash: C6704FA5, Key: PlayerClassRogue, Value: |5Rogue:Rogue
+Hash: A0C336A8, Key: PlayerClassSorcerer, Value: |5Sorcerer:Sorcerer
+Hash: F46E2F65, Key: DONE_OVER_NEEDED, Value: {DONE}/{NEEDED}
+Hash: 2D536078, Key: PvPEnteringSubzone, Value: You have entered the Fields of Hatred. Proceed with caution!
+Hash: 146D1E42, Key: PvPLeavingSubzone, Value: You are leaving the Fields of Hatred. All unpurified Seeds of Hatred will be lost.
+Hash: 0A67528A, Key: PvPCurrencyFormat, Value: {c_questitem}{s1} Seeds of Hatred{/c}
+Hash: 04F1F3A4, Key: PvPPartyMemberDeclinedGoHostile, Value: One or more party members declined to become Bloodmarked.
+Hash: C81696C2, Key: EngagedUnique, Value: {PLAYER} has engaged {MONSTER}
+Hash: D025C0E8, Key: EngagedUniqueAffixes, Value:  ({s1})
+Hash: AA7EEA22, Key: Scroll_TownPortal_Unbound, Value: Returns you to a nearby capital city
+Hash: ABDC86A8, Key: KAM_REVEALED_COUNT, Value: ({LEFT} |4remains):remain)
+Hash: 8EF6D8EE, Key: BountyCompete, Value: Whisper Silenced
+Hash: E38007F9, Key: Charged_Ultimate_Test_Ult_Ready, Value: Ultimate Ready
+Hash: D433C8CE, Key: ClassFeatureUnlock, Value: Class Feature Unlock
+Hash: C2D59263, Key: TownPortalReturnDeleteWarning, Value: Your return town portal will be closed once you leave town.
+Hash: A5A50F68, Key: Bounty_CollectEssence_Purifying, Value: Purifying Essence
+Hash: 5A07DBE5, Key: GPUNotSupportedTitle, Value: GPU not supported
+Hash: 02B0A431, Key: GPUNotSupportedBody, Value: The GPU you are using is not supported. You may experience graphical bugs, instability, or poor performance while using it. Updating your drivers may resolve this.
+Hash: 92AABD45, Key: GPUDriverOutOfDateTitle, Value: Graphics Drivers Out of Date
+Hash: 97CCD991, Key: GPUDriverOutOfDateBody, Value: Your graphics drivers are out of date and do not meet the minimum requirements to run Diablo IV. Please update them and try again.
+Hash: 54CE863A, Key: FailedToCreateDeviceBody, Value: Graphics initialization failed, please ensure that your drivers are up to date and no other 3D applications or games are running and try again
+Hash: EFE1FF0E, Key: FailedToCreateDeviceTitle, Value: Graphics Initialization Failed
+Hash: D2CABBBB, Key: GPUDriverCurrent, Value: Current Version: 
+Hash: 323D4219, Key: GPUDriverRequired, Value: Minimum Required Version: 
+Hash: 18BD4A94, Key: DEV_EnteringBlockedSubzone, Value: {c_red}Entering restricted area. Turn back now.{/c}
+Hash: A222637D, Key: DEV_BlockedSubzoneTeleportWarning, Value: {c_red}Warping out...{/c}
+Hash: 4351CCFC, Key: SuspendLogout, Value: You have been logged out because the game has been suspended for too long.
+Hash: 02D20880, Key: GPUNoneDetectedTitle, Value: No GPUs found
+Hash: F853E043, Key: GPUNoneDetectedText, Value: No GPUs found! A GPU is required to play Diablo IV. This might occur if you are currently installing GPU drivers.
+Hash: 50D3E8FC, Key: PrismOutOfMemoryCreatingDeviceBody, Value: Ran out of memory creating DirectX 12 device!
+Restarting your PC might help fixing the issue.
+Hash: 6C93BA10, Key: PrismOutOfMemoryCreatingDeviceTitle, Value: Graphics Initialization Error
+Hash: AF77E180, Key: InstanceBoundItemDroppedWarning, Value: Area Item dropped. It cannot be removed from this area.
+Hash: EB76187F, Key: InstanceBoundItemWillDropWarning, Value: Area Item will be dropped. It cannot be removed from this area.
+Hash: 094F45D9, Key: BackgroundInstallTitle, Value: Background Install
+Hash: 30056378, Key: StartLocationNotInstalled, Value: The start location of this character isn't downloaded yet. ({s1} downloaded)
+Hash: A40E88BD, Key: PrismGeneralOutOfMemoryBody, Value: Ran out of memory!
+Please close other applications or restart your PC and launch again.
+Hash: 272251F1, Key: PrismGeneralOutOfMemoryTitle, Value: Out of memory error
+Hash: D2235575, Key: GamblingCurrencyFormat, Value: {c_questitem}{s1} Murmuring Obols {/c}
+Hash: 9F60E083, Key: PrismDx12NotSupportedTitle, Value: Dx12 not supported by gpu
+Hash: 0C8C8D0F, Key: PrismDx12NotSupportedBody, Value: This game requires a Dx12 capable gpu.
+Hash: 2DD69311, Key: TEST_BloodMoon_MotesLost, Value: MOTES LOST
+Hash: E2EF5309, Key: TEST_BloodMoon_Weapon_1h, Value: 1h
+Hash: E2EF532A, Key: TEST_BloodMoon_Weapon_2h, Value: 2h
+Hash: E8C598AB, Key: MonsterNameType, Value: {s1} ({s2})
+Hash: 161F21B7, Key: TEST_BloodMoon_MotesRestored, Value: MOTES RESTORED
+Hash: CD1E1802, Key: ClassFeature, Value: Class Feature
+Hash: 4F3711AF, Key: EnchantSlotUnlock, Value: Enchantment Slot Unlocked
+Hash: 2087DFE9, Key: NewSummon, Value: New Summon
+Hash: A8F1AE54, Key: SubCategoryUnlock, Value: Unlocked new {s1} type:
+{c_gold}{s2}{/c}
+Hash: 97CC60B0, Key: SummonMainUnlock, Value: {s1} Unlocked
+Hash: 860BCE46, Key: DruidPassives, Value: Spirit Boons
+Hash: E97AF15C, Key: SpiritBonding, Value: Spirit Bonding
+Hash: 3B72250C, Key: DruidAdditionalPassive, Value: Additional Passive Unlock
+Hash: 67E31C1F, Key: Specialization, Value: Specialization
+Hash: DA6EE1CB, Key: MonsterSingleAffixElite, Value: {pREFIX} {nAME}
+Hash: 9E2C6823, Key: OverIndulgenceHeader, Value: WARNING
+Hash: B7BAA068, Key: OverIndulgenceBody, Value: You have been playing for {s1} hours.
+Hash: B57E31EE, Key: BookOfDead, Value: Book of the Dead
+Hash: D2EBDFB2, Key: TemporaryHeroName, Value: Temp-{s1}
+Hash: 3DAF5E99, Key: CarryableDroppedWarning, Value: The {s1} cannot go past this point.
+Hash: 00000EBA, Key: Ok, Value: Accept
+Hash: DAB1AD46, Key: AffixRangeSingleFormat, Value: [{s1}]
+Hash: 437FC4D6, Key: LeavingDungeon, Value: Leaving Dungeon
+Hash: 425D4A48, Key: PvPCurrencyFormat_Cleansed, Value: +{icon:Shards_Of_Hatred, 2}{c_helltide} {s1} Red Dust{/c}
+Hash: 8ECDF563, Key: DisconnectedFromServerDueToInactivity, Value: Disconnected from Server due to Inactivity
+Hash: BAB13A92, Key: TownPortalExitingWorldEventWarning, Value: Your party is leaving this event and will be unable to return.
+Hash: 0091CB02, Key: DungeonAbandonedWarning, Value: {s1} has been abandoned and will close in 60 seconds.
+Hash: 167A72C9, Key: DungeonAbandonedClosure, Value: {s1} has been closed.
+Hash: 46E433C9, Key: TownPortalUnspentGlyphXPWarning, Value: You have unspent glyph xp. It will be lost if this dungeon closes.
+Hash: A98C499C, Key: PvPPartyMemberDeclinedRemoveHostile, Value: One or more party members declined to remove their Bloodmark.
+Hash: E8F28CF3, Key: REPUTATION_LEVEL_CURRENT_VALUES, Value: Rank %d: %s

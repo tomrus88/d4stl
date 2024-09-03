@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you Erdene's father?"
+Hash: 8EE1D4D7, Key: Line1.11EA17, Value: Yes. What's this about?
+Hash: 186CD21D, Key: Line7.11EA17, Value: Is that...are you mad? If someone were to see you with that...there are already rumors of secret cannibals hiding in towns.
+Hash: 68A2FDEA, Key: VoiceDir7.11EA17, Value: panicked whisper
+Hash: F0F07BDF, Key: Line9.11EA17, Value: Take it outside the walls, south of here, there's a little prayer shrine. Bury it deep so the predators don't get to it.

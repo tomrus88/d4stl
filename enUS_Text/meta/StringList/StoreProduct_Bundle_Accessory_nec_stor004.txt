@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Death Blossoms
+Hash: A646FFA4, Key: Description, Value: "How far would you go to achieve immortality?"
+Hash: 083EE0CE, Key: Quote, Value: Life springs from their death.
+Hash: 13A53A8B, Key: Series, Value: "Belladonna" Accessories

@@ -1,0 +1,4 @@
+Hash: 3D1A9141, Key: Line17.7DD22, Value: Bloody well done! With all this, we can draw out one of the big ones. (laughs) Do you... hear that?
+Hash: 8D50BD0E, Key: VoiceDir17.7DD22, Value: Happy and laughing. Smile drops at the end.
+Hash: 4EDA4CA6, Key: Line48.7DD23, Value: Bloody well done! With all this, we can draw out one of the big ones. Do you... hear that?
+Hash: 9F107873, Key: VoiceDir48.7DD23, Value: Happy and laughing. Smile drops at the end.

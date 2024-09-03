@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Laid to rest, but never slumbering.
+Hash: 1F9943DA, Key: Callback13Header, Value: Return the Mechanical Box to the Pedestal: {LEFT}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat the {MONSTER}
+Hash: A5CF923D, Key: Callback25Header, Value: Travel to the {LEVELAREA}
+Hash: D9B88541, Key: Callback29Header, Value: Travel to {LEVELAREA}
+Hash: 976485BC, Key: Callback42Header, Value: Slay the Knight Hunters: {LEFT}

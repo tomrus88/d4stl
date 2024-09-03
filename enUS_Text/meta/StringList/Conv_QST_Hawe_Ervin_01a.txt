@@ -1,0 +1,2 @@
+Hash: 8EB34783, Key: Line1.101CAF, Value: Please, lead the way.
+Hash: DEE97350, Key: VoiceDir1.101CAF, Value: Reassuring.

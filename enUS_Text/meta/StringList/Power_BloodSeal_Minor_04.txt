@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Coven's Strength
+Hash: 7786FD97, Key: Buff1_Description, Value: Your Skills deal {c_number}[SF_5]%{/c} more damage.

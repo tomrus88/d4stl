@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Armor - Intro Bark
+Hash: F672EBEB, Key: Line15.13C52A, Value: Asa, please. Your wounds are still fresh.
+Hash: F87C3848, Key: Line23.BC41C, Value: You can bind them again when I return.

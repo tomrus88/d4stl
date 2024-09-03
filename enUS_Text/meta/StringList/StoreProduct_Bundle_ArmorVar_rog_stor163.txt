@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Daemon Façade
+Hash: A646FFA4, Key: Description, Value: The plans for this armor were first found amongst the notes of Xantanil, the master smith, who was executed for conspiring with demons.
+Hash: 083EE0CE, Key: Quote, Value: For rogues who dare walk amongst the spawn of the Black Abyss.
+Hash: 13A53A8B, Key: Series, Value: Rogue Armor

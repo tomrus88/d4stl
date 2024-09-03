@@ -1,0 +1,2 @@
+Hash: F427C5EC, Key: Line3.7FA05, Value: (sob) I’m sorry, my son. I’m sorry... (sobbing)
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Line to be taken from QST_Scos_Astaroth_Cine_CSB

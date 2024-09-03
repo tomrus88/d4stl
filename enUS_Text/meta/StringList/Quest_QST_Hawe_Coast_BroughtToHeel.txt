@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Brought to Heel
+Hash: 0871A46B, Key: Toast, Value: Help Lumir get back at Glin by making them sick with swamp mushrooms.
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I should return to Lumir with the mushrooms.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Lumir
+Hash: A5EFB09D, Key: Phase26Description, Value: I should help Lumir get back at Glin by finding a nauseating red swamp mushroom. 
+Hash: 112E3759, Key: Callback30Header, Value: Collect a red mushroom for Lumir

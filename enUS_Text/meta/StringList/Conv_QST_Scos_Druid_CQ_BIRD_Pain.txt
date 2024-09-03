@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: [Bind the Bird Spirit]
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Distressed Apparition 
+Hash: 8EE94253, Key: Line1.132114, Value: (low, bestial, pained groan)

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Flesh-eater
+Hash: 003892BF, Key: desc, Value: Consuming {c_number}[SF_1]{/c} Corpses grants {c_number}[{SF_0}*100|%x|]{/c} increased damage for {c_number}{SF_2}{/c} seconds.
+Hash: 101C1614, Key: Buff1_Name, Value: Flesh-eater
+Hash: 7786FD97, Key: Buff1_Description, Value: Increased damage from consuming Corpses.
+Hash: 12713EB5, Key: Buff2_Name, Value: Flesh-eater
+Hash: C6E60718, Key: Buff2_Description, Value: Gain a damage bonus after consuming {c_number}{SF_1}{/c} Corpses.

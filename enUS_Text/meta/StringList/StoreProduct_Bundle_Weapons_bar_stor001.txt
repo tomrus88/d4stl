@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sounds of Slaughter
+Hash: A646FFA4, Key: Description, Value: The toll continues to be paid. And with every town pillaged, this dark arsenal grows.
+Hash: 083EE0CE, Key: Quote, Value: Instruments of revenge.
+Hash: 13A53A8B, Key: Series, Value: "Death Toll" Weapons

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Moonstone Chieftain
+Hash: A646FFA4, Key: Description, Value: Chieftain Clobhán Banna rode to battle in armor of polished moonstone, believing it contained the spirits of her ancestors. It protected her through many victories until she died of old age—called home, some say, to join the spirits in the stone.
+Hash: 083EE0CE, Key: Quote, Value: Legacy of might and wisdom.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

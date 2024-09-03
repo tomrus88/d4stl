@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Universal Debug Bow
+Hash: F5C7BC0A, Key: Flavor, Value: Usable by incorrect classes for testing.

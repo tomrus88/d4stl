@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen the Iron Wolves?"
+Hash: 8ECF0AB3, Key: Line1.10E796, Value: (scoff) Iron Wolves. Mercenaries with a silly name, sniffing after coin.
+Hash: DF053680, Key: VoiceDir1.10E796, Value: Contempt. Idle chit-chat.
+Hash: 6752B478, Key: Line3.10E799, Value: They saved my cousin's life, and she's worthless.
+Hash: B788E045, Key: VoiceDir3.10E799, Value: Shrugging. Matter of fact.
+Hash: 3FD65E37, Key: Line5.10E796, Value: Yes, heh, can't argue with that.
+Hash: 900C8A04, Key: VoiceDir5.10E796, Value: Nodding. Nindaal's cousin is an absolute mess.

@@ -1,0 +1,144 @@
+Hash: 97E62F6A, Key: Line490.3F392, Value: Strike them down!
+Hash: EEE1D4D7, Key: VoiceDir490.3F392, Value: panic, fearful
+Hash: 7ED4E5AD, Key: Line493.3F392, Value: Stop them!
+Hash: D5D08B1A, Key: VoiceDir493.3F392, Value: panic, fearful
+Hash: 65C39BF0, Key: Line496.3F392, Value: Fend them off! Please!
+Hash: BCBF415D, Key: VoiceDir496.3F392, Value: panic, fearful
+Hash: CA6B5101, Key: Line1285.EDC78, Value: Strike them down!
+Hash: 00DBA40E, Key: VoiceDir1285.EDC78, Value: panic, fearful
+Hash: B15A0744, Key: Line1288.EDC78, Value: Stop them!
+Hash: E7CA5A51, Key: VoiceDir1288.EDC78, Value: panic, fearful
+Hash: 82C432DE, Key: Line1291.EDC78, Value: Fend them off! Please!
+Hash: B93485EB, Key: VoiceDir1291.EDC78, Value: panic, fearful
+Hash: 69B2E922, Key: Line1294.EDC79, Value: Strike them down!
+Hash: A0233C2F, Key: VoiceDir1294.EDC79, Value: panic, fearful
+Hash: 50A19F65, Key: Line1297.EDC79, Value: Stop them!
+Hash: 8711F272, Key: VoiceDir1297.EDC79, Value: panic, fearful
+Hash: 5BF5EB36, Key: Line1300.EDC79, Value: Fend them off! Please!
+Hash: 92663E43, Key: VoiceDir1300.EDC79, Value: panic, fearful
+Hash: 3F5C24F2, Key: Line1303.3F381, Value: Strike them down!
+Hash: 75CC77FF, Key: VoiceDir1303.3F381, Value: panic, fearful
+Hash: 264ADB35, Key: Line1306.3F381, Value: Stop them!
+Hash: 5CBB2E42, Key: VoiceDir1306.3F381, Value: panic, fearful
+Hash: 0D399178, Key: Line1309.3F381, Value: Fend them off! Please!
+Hash: 43A9E485, Key: VoiceDir1309.3F381, Value: panic, fearful
+Hash: E22C39C2, Key: Line1312.EDC7B, Value: Strike them down!
+Hash: 189C8CCF, Key: VoiceDir1312.EDC7B, Value: panic, fearful
+Hash: C91AF005, Key: Line1315.EDC7B, Value: Stop them!
+Hash: FF8B4312, Key: VoiceDir1315.EDC7B, Value: panic, fearful
+Hash: B009A648, Key: Line1318.EDC7B, Value: Fend them off! Please!
+Hash: E679F955, Key: VoiceDir1318.EDC7B, Value: panic, fearful
+Hash: 8173D1E3, Key: Line1321.EDC7C, Value: Strike them down!
+Hash: B7E424F0, Key: VoiceDir1321.EDC7C, Value: panic, fearful
+Hash: 68628826, Key: Line1324.EDC7C, Value: Stop them!
+Hash: 9ED2DB33, Key: VoiceDir1324.EDC7C, Value: panic, fearful
+Hash: 4F513E69, Key: Line1327.EDC7C, Value: Fend them off! Please!
+Hash: 85C19176, Key: VoiceDir1327.EDC7C, Value: panic, fearful
+Hash: 206BC621, Key: Line1330.B79B0, Value: Kill these fiends!
+Hash: 56DC192E, Key: VoiceDir1330.B79B0, Value: panic, fearful
+Hash: 075A7C64, Key: Line1333.B79B0, Value: Stop them!
+Hash: 3DCACF71, Key: VoiceDir1333.B79B0, Value: panic, fearful
+Hash: EE4932A7, Key: Line1336.B79B0, Value: Fend them off! Please!
+Hash: 24B985B4, Key: VoiceDir1336.B79B0, Value: panic, fearful
+Hash: D5878C9D, Key: Line1339.EDC74, Value: Kill these fiends!
+Hash: 0BF7DFAA, Key: VoiceDir1339.EDC74, Value: panic, fearful
+Hash: A6F1B837, Key: Line1342.EDC74, Value: Stop them!
+Hash: DD620B44, Key: VoiceDir1342.EDC74, Value: panic, fearful
+Hash: 8DE06E7A, Key: Line1345.EDC74, Value: Fend them off! Please!
+Hash: C450C187, Key: VoiceDir1345.EDC74, Value: panic, fearful
+Hash: 74CF24BE, Key: Line1348.EDC75, Value: Kill these fiends!
+Hash: AB3F77CB, Key: VoiceDir1348.EDC75, Value: panic, fearful
+Hash: 46395058, Key: Line1351.EDC75, Value: Stop them!
+Hash: 7CA9A365, Key: VoiceDir1351.EDC75, Value: panic, fearful
+Hash: 2D28069B, Key: Line1354.EDC75, Value: Fend them off! Please!
+Hash: 639859A8, Key: VoiceDir1354.EDC75, Value: panic, fearful
+Hash: 13C7192B, Key: Line1357.B79B1, Value: Kill these fiends!
+Hash: 4A376C38, Key: VoiceDir1357.B79B1, Value: panic, fearful
+Hash: E53144C5, Key: Line1360.B79B1, Value: Stop them!
+Hash: 1BA197D2, Key: VoiceDir1360.B79B1, Value: panic, fearful
+Hash: CC1FFB08, Key: Line1363.B79B1, Value: Fend them off! Please!
+Hash: 02904E15, Key: VoiceDir1363.B79B1, Value: panic, fearful
+Hash: B35E54FF, Key: Line1366.EDC76, Value: Kill these fiends!
+Hash: E9CEA80C, Key: VoiceDir1366.EDC76, Value: panic, fearful
+Hash: 9A4D0B42, Key: Line1369.EDC76, Value: Stop them!
+Hash: D0BD5E4F, Key: VoiceDir1369.EDC76, Value: panic, fearful
+Hash: 6BB736DC, Key: Line1372.EDC76, Value: Fend them off! Please!
+Hash: A22789E9, Key: VoiceDir1372.EDC76, Value: panic, fearful
+Hash: 52A5ED20, Key: Line1375.EDC77, Value: Kill these fiends!
+Hash: 8916402D, Key: VoiceDir1375.EDC77, Value: panic, fearful
+Hash: 3994A363, Key: Line1378.EDC77, Value: Stop them!
+Hash: 7004F670, Key: VoiceDir1378.EDC77, Value: panic, fearful
+Hash: 0AFECEFD, Key: Line1381.EDC77, Value: Fend them off! Please!
+Hash: 416F220A, Key: VoiceDir1381.EDC77, Value: panic, fearful
+Hash: F19D46E1, Key: Line1384.B6757, Value: Cut them down!
+Hash: 280D99EE, Key: VoiceDir1384.B6757, Value: panic, fearful
+Hash: D88BFD24, Key: Line1387.B6757, Value: Stop them!
+Hash: 0EFC5031, Key: VoiceDir1387.B6757, Value: panic, fearful
+Hash: A9F628BE, Key: Line1390.B6757, Value: Fend them off! Please!
+Hash: E0667BCB, Key: VoiceDir1390.B6757, Value: panic, fearful
+Hash: 91351D8D, Key: Line1393.EDC7D, Value: Cut them down!
+Hash: C7A5709A, Key: VoiceDir1393.EDC7D, Value: panic, fearful
+Hash: 7823D3D0, Key: Line1396.EDC7D, Value: Stop them!
+Hash: AE9426DD, Key: VoiceDir1396.EDC7D, Value: panic, fearful
+Hash: 5F128A13, Key: Line1399.EDC7D, Value: Fend them off! Please!
+Hash: 9582DD20, Key: VoiceDir1399.EDC7D, Value: panic, fearful
+Hash: 6A66D5E5, Key: Line1402.EDC7E, Value: Cut them down!
+Hash: A0D728F2, Key: VoiceDir1402.EDC7E, Value: panic, fearful
+Hash: 51558C28, Key: Line1405.EDC7E, Value: Stop them!
+Hash: 87C5DF35, Key: VoiceDir1405.EDC7E, Value: panic, fearful
+Hash: 3844426B, Key: Line1408.EDC7E, Value: Fend them off! Please!
+Hash: 6EB49578, Key: VoiceDir1408.EDC7E, Value: panic, fearful
+Hash: 095E3314, Key: Line1411.B6807, Value: Cut them down!
+Hash: 3FCE8621, Key: VoiceDir1411.B6807, Value: panic, fearful
+Hash: F04CE957, Key: Line1414.B6807, Value: Stop them!
+Hash: 26BD3C64, Key: VoiceDir1414.B6807, Value: panic, fearful
+Hash: D73B9F9A, Key: Line1417.B6807, Value: Fend them off! Please!
+Hash: 0DABF2A7, Key: VoiceDir1417.B6807, Value: panic, fearful
+Hash: A8F60626, Key: Line1420.EDC7F, Value: Cut them down!
+Hash: DF665933, Key: VoiceDir1420.EDC7F, Value: panic, fearful
+Hash: 8FE4BC69, Key: Line1423.EDC7F, Value: Stop them!
+Hash: C6550F76, Key: VoiceDir1423.EDC7F, Value: panic, fearful
+Hash: 76D372AC, Key: Line1426.EDC7F, Value: Fend them off! Please!
+Hash: AD43C5B9, Key: VoiceDir1426.EDC7F, Value: panic, fearful
+Hash: 5DC228DA, Key: Line1429.EDC80, Value: Cut them down!
+Hash: 94327BE7, Key: VoiceDir1429.EDC80, Value: panic, fearful
+Hash: 2F2C5474, Key: Line1432.EDC80, Value: Stop them!
+Hash: 659CA781, Key: VoiceDir1432.EDC80, Value: panic, fearful
+Hash: 161B0AB7, Key: Line1435.EDC80, Value: Fend them off! Please!
+Hash: 4C8B5DC4, Key: VoiceDir1435.EDC80, Value: panic, fearful
+Hash: B87FB5C9, Key: Line1492.BC3FE, Value: Send them to the sand!
+Hash: EEF008D6, Key: VoiceDir1492.BC3FE, Value: panic, fearful
+Hash: 9F6E6C0C, Key: Line1495.BC3FE, Value: Stop them!
+Hash: D5DEBF19, Key: VoiceDir1495.BC3FE, Value: panic, fearful
+Hash: 865D224F, Key: Line1498.BC3FE, Value: Fend them off! Please!
+Hash: BCCD755C, Key: VoiceDir1498.BC3FE, Value: panic, fearful
+Hash: 91E909F0, Key: Line1501.EDC70, Value: Send them to the sand!
+Hash: C8595CFD, Key: VoiceDir1501.EDC70, Value: panic, fearful
+Hash: 78D7C033, Key: Line1504.EDC70, Value: Stop them!
+Hash: AF481340, Key: VoiceDir1504.EDC70, Value: panic, fearful
+Hash: 5FC67676, Key: Line1507.EDC70, Value: Fend them off! Please!
+Hash: 9636C983, Key: VoiceDir1507.EDC70, Value: panic, fearful
+Hash: 3130A211, Key: Line1510.EDC71, Value: Send them to the sand!
+Hash: 67A0F51E, Key: VoiceDir1510.EDC71, Value: panic, fearful
+Hash: 181F5854, Key: Line1513.EDC71, Value: Stop them!
+Hash: 4E8FAB61, Key: VoiceDir1513.EDC71, Value: panic, fearful
+Hash: FF0E0E97, Key: Line1516.EDC71, Value: Fend them off! Please!
+Hash: 357E61A4, Key: VoiceDir1516.EDC71, Value: panic, fearful
+Hash: E5C5290A, Key: Line1519.BC3FF, Value: Send them to the sand!
+Hash: 1C357C17, Key: VoiceDir1519.BC3FF, Value: panic, fearful
+Hash: B72F54A4, Key: Line1522.BC3FF, Value: Stop them!
+Hash: ED9FA7B1, Key: VoiceDir1522.BC3FF, Value: panic, fearful
+Hash: 9E1E0AE7, Key: Line1525.BC3FF, Value: Fend them off! Please!
+Hash: D48E5DF4, Key: VoiceDir1525.BC3FF, Value: panic, fearful
+Hash: 85445CFB, Key: Line1528.EDC72, Value: Send them to the sand!
+Hash: BBB4B008, Key: VoiceDir1528.EDC72, Value: panic, fearful
+Hash: 56AE8895, Key: Line1531.EDC72, Value: Stop them!
+Hash: 8D1EDBA2, Key: VoiceDir1531.EDC72, Value: panic, fearful
+Hash: 3D9D3ED8, Key: Line1534.EDC72, Value: Fend them off! Please!
+Hash: 740D91E5, Key: VoiceDir1534.EDC72, Value: panic, fearful
+Hash: 248BF51C, Key: Line1537.EDC73, Value: Send them to the sand!
+Hash: 5AFC4829, Key: VoiceDir1537.EDC73, Value: panic, fearful
+Hash: F5F620B6, Key: Line1540.EDC73, Value: Stop them!
+Hash: 2C6673C3, Key: VoiceDir1540.EDC73, Value: panic, fearful
+Hash: DCE4D6F9, Key: Line1543.EDC73, Value: Fend them off! Please!
+Hash: 13552A06, Key: VoiceDir1543.EDC73, Value: panic, fearful

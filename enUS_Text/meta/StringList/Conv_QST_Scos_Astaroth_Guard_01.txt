@@ -1,0 +1,8 @@
+Hash: 77F97241, Key: Line8.B5390, Value: What the bloody hell was that thing?
+Hash: 722CAD0B, Key: Line11.B5390, Value: Something is destroying the town!
+Hash: 591B634E, Key: Line14.B5390, Value: People are dying in there!
+Hash: 400A1991, Key: Line17.B5390, Value: What can we do against such a thing?
+Hash: 1174452B, Key: Line20.B5390, Value: A monster just smashed through and is burning the town.
+Hash: F862FB6E, Key: Line23.B5390, Value: Come on people! We need to rally!
+Hash: 79462B33, Key: Line28.B5390, Value: How could this happen?
+Hash: E4A4D04F, Key: Line33.B5390, Value: Where did it come from?

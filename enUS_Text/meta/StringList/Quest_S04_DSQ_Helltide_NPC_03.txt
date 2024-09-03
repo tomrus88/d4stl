@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: A Gift of Robes
+Hash: F4A9EC5A, Key: Phase14Description, Value: I've found Telan's hunting grounds in the Fractured Peaks. I should look for him.
+Hash: 1F9943DA, Key: Callback13Header, Value: Search for Telan
+Hash: 8784047D, Key: Phase17Description, Value: The missing Iron Wolf is beyond rescue. He wields demonic powers and fights like a madman. I need to put him down. 
+Hash: 0687FA1D, Key: Callback16Header, Value: Defeat Telan
+Hash: 803B8057, Key: Phase20Description, Value: I've killed Telan, but I don't understand why he did this to himself. Why abandon the Wolves? Why accept a demon's powers? I should search his belongings for answers.
+Hash: C5FA5A22, Key: Callback39Header, Value: Search Telan's campsite

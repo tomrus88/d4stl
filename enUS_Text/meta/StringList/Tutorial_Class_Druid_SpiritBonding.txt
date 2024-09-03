@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Spirit Bonding
+Hash: 7BFE534B, Key: simple_instruction, Value: Bonding with a spirit allows you to {c:FFBF6B31}activate a second boon{/c} with that spirit.

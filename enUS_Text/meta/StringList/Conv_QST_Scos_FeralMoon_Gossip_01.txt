@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Whose calls do you hear?”
+Hash: 5D72A441, Key: Line1.EDC77, Value: I can’t see them, but I hear their howls. Those who follow them vanish into the wilds.
+Hash: CC7C0A6E, Key: VoiceDir1.EDC77, Value: Worried, almost paranoid. 

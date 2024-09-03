@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Neyrelle was wounded. Lorath had to cut off her hand.”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: What?
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Shocked
+Hash: F427C5EC, Key: Line3.7FA05, Value: (sigh) I should have brought her with me instead. The sooner we’re back together again, the better.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Feeling a little guilty

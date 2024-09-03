@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: One-Eyed Swordsman's Blade
+Hash: F5C7BC0A, Key: Flavor, Value: "By the blood of the willing, we call her home."

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Earthen Eruption
+Hash: 003892BF, Key: Desc, Value: Kill 20 enemies with Critical Strikes in 10 seconds.

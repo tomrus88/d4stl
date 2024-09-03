@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Tied who to a tree?”
+Hash: 5D733639, Key: Line1.EECAD, Value: Oh, right... heh. I mean my horse.
+Hash: F767AFBB, Key: Line3.EECAD, Value: (sigh) She’s the only thing I have left. Or... had.
+Hash: 915C293D, Key: Line5.EECAD, Value: My market stall. My wares. All of it lost in Guulrahn.
+Hash: 00658F6A, Key: VoiceDir5.EECAD, Value: Forlorn. He's a merchant who lost everything when he had to flee Guulrahn.

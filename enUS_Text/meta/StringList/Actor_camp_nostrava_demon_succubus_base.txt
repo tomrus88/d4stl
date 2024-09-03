@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Negala
+Hash: CC38ADCB, Key: FlavorName, Value: Lilith's Chosen

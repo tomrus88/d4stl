@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Trouble in the Wilds
+Hash: 3A4912CF, Key: DescShort, Value: Complete a {icon:Marker_LocalEvent, 2.5} World Event found on your Map

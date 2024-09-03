@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Bound to Foul Undercrypts
+Hash: 003DFCC1, Key: Name, Value: Ears of Sankekur
+Hash: F5C7BC0A, Key: Flavor, Value: "Light seal the ears that delighted in our cries. Let them hear only silence." - Paladin's prayer

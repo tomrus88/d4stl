@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sins of Ambition
+Hash: A646FFA4, Key: Description, Value: "Caution, restraint, sentiment...these are shackles that bind humanity. I, for one, refuse to accept them." -Zoltun Kulle 
+Hash: 083EE0CE, Key: Quote, Value: Do the ends justify the means?
+Hash: 13A53A8B, Key: Series, Value: "Beauty in Sin" Sorcerer Equipment

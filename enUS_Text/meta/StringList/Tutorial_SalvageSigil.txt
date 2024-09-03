@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Salvaging Sigils
+Hash: 7BFE534B, Key: simple_instruction, Value: Salvaging Nightmare Sigils will turn them into Sigil Powder, which can be used to craft new sigils.

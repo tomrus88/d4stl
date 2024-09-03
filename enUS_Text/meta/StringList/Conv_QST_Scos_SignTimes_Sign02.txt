@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I retrieved the sign. Nairne borrowed it to help with Tavish’s passing."
+Hash: 0C1F7A21, Key: Line13.B20BA, Value: Tavish is dead? Oh, damned beasts. The Goose won’t be the same without him. And Nairne.
+Hash: 5C55A5EE, Key: VoiceDir13.B20BA, Value: Cold, yet compassionate.
+Hash: A613F3A3, Key: Line15.B20BA, Value: They’re why the Goose stays open, even during the hardest times. A respite from the darkness of this world.

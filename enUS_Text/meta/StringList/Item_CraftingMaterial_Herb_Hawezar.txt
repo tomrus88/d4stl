@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blightshade
+Hash: A646FFA4, Key: Description, Value: An herb used in the crafting of potions, elixirs & incense. Found in Hawezar.
+Hash: F5C7BC0A, Key: Flavor, Value: A toxic swamp lily, prized by alchemists for its foul and aggressive qualities.

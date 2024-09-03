@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Depths of Fear
+Hash: 3A4912CF, Key: DescShort, Value: Use Nightmare Sigils to empower {icon:Marker_NightmareDungeonEntrance, 2.5} Dungeons, and then complete them

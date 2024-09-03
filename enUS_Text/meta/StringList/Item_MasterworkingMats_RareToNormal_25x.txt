@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Medium Obducite Cache
+Hash: A646FFA4, Key: Description, Value: Contains 75 pieces of Obducite.

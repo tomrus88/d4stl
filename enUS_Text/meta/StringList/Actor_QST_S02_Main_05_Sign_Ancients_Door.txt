@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Veiled Gate
+Hash: F2CA04D8, Key: NoticeSignText, Value: The gate is sealed with bizarre Ancient runes. A carving in the center depicts a crowned figure in a sarcophagus, sleeping with jeweled eyes open.

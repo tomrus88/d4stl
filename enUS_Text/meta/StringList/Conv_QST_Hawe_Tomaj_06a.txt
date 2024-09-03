@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tomaj?"
+Hash: F621FCF3, Key: Line15.101BAB, Value: Got nothing to say to you.
+Hash: 4D1DA260, Key: VoiceDir15.101BAB, Value: Standoffish; he has no interest in talking to the player.

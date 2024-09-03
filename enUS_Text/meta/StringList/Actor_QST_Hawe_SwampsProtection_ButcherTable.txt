@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloodsoaked Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: Chunks of infected flesh lay piled on the table, some still attached to limbs.

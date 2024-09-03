@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: While Channeling {c_important}Incinerate{/c}, you periodically shoot embers that are attracted to enemies, each dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Fire damage.

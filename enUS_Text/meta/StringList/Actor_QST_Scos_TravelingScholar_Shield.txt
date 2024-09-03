@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Battered Shield
+Hash: F2CA04D8, Key: NoticeSignText, Value: The boiled leather is marred by long scratches and tooth marks.

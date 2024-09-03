@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: The Sealed Door
+Hash: 0871A46B, Key: Toast, Value: An eccentric stranger is convinced of a catastrophe about to occur. 
+Hash: D53BFF05, Key: Phase0Description, Value: I learned of an impending catastrophe from an odd man in Lower Kyovashad.
+
+I should search the Frigid Expanse for this strange sealed door. 
+Hash: 059C64AB, Key: Callback5Header, Value: Search for the Sealed Door
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I found the door of which the beggar spoke. It appears to be a prison of some kind, containing an evil spirit. Sure enough, the Khazra are trying to breach it.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay the monsters at the Sealed Door

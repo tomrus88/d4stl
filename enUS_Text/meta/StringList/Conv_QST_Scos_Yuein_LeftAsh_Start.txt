@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can I assist you with anything else?"
+Hash: 5D28A609, Key: Line1.AAE9B, Value: You’ve breathed new life into our order. Our druids have begun returning. Those that survived.
+Hash: 4564153E, Key: Line24.AAE9B, Value: Many didn’t. I... (sigh) I once had an apprentice, Éadaoin. A fiery spirit, that one. Never backed down from a challenge. Not even when Astaroth came.
+Hash: 959A410B, Key: VoiceDir24.AAE9B, Value: smiling when he talks of Eadaoin
+Hash: 794D0842, Key: Line28.AAE9B, Value: Huh, I bade her not to go. Of course it didn’t stop her. She... (sigh) she’s dead now. But her spirit is shackled to the fight that ended her. Over and over, she faces him.
+Hash: FDBCF71B, Key: Line30.AAE9B, Value: Please, help her move on.

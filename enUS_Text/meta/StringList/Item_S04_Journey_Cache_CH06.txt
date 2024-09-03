@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Champion's Cache
+Hash: A646FFA4, Key: Description, Value: Contains a Temper Manual and Consumables, such as Runeshards and Scrolls of Amnesia.

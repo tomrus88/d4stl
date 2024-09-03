@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Golden Key
+Hash: A646FFA4, Key: Description, Value: Opens the way to a deadly foe.
+Hash: F5C7BC0A, Key: Flavor, Value: Lighter than it appears.

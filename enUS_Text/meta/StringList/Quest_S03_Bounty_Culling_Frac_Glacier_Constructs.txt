@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cull Constructs: Fractured Peaks
+Hash: 0871A46B, Key: Toast, Value: Constructs are swarming the Fractured Peaks. I should find the beacons and destroy any constructs that rise to the Vault's defense.
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Constructs: {DONE_OVER_NEEDED}

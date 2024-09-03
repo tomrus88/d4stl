@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What caused Magdalena to do this?"
+Hash: 8ED899EA, Key: Line1.123EBF, Value: The woodsman's axe... I thought it dangerous, sure, but possessed by a fiend? Never would I have guessed.
+Hash: DF0EC5B7, Key: VoiceDir1.123EBF, Value: subsiding hysterical terror
+Hash: 675C43AC, Key: Line3.123EBF, Value: There is little knowledge concerning such a blasphemous artifact. I'll need to visit my study to gather my thoughts.

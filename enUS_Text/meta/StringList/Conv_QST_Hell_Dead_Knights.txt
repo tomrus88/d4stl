@@ -1,0 +1,3 @@
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Looks like the rear guard was ambushed. The others must have forged ahead.
+Hash: F413C4CC, Key: Line3.6D03F, Value: Good. Let the bastards clear a path for us.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: All business, wants to move forward

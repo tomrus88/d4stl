@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cart of Goods
+Hash: F2CA04D8, Key: NoticeSignText, Value: Merchants from all around travel to sell in the markets of Ked Bardu. The reputation of the barbarians' metalworks brings visitors looking to buy.

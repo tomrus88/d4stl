@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you need help?"
+Hash: 5D27EBD7, Key: Line1.AA8C3, Value: Yes, actually, I could use your help. My friend here, Bearfa, is injured. I don't want to leave her alone, but she needs an herbal remedy, and my stores are empty.
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: If you tell me what you need, I can find it.
+Hash: F71C6559, Key: Line3.AA8C3, Value: Oh, that would be a tremendous help, thank you! Here's the list. You should be able to find everything near this camp.

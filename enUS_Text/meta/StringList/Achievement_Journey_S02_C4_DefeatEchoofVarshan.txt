@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Guilt
+Hash: 3A4912CF, Key: DescShort, Value: Defeat the Echo of Varshan in {icon:Icon_WorldTier_3, 2.5} Nightmare, summoned beneath the {icon:Marker_Bounties_TurnIn, 2.5} Tree of Whispers with materials from {icon:Icon_WorldTier_3, 2.5} Nightmare Whisper Caches

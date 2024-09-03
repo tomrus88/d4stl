@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Well-Penned Note
+Hash: F2CA04D8, Key: NoticeSignText, Value: "I'm impressed, Zoltun; you've shattered a hundred Tuning Stones in as many days. And because you refuse to treat them delicately, I'm forced to find a means of repairing them. Until I do, you must content yourself with the few you have left. -Ayuzhan"

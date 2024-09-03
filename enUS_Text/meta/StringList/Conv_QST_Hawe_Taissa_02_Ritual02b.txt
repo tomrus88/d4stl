@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Ritual
+Hash: 5A196F77, Key: Line1.789BF, Value: Now!

@@ -1,0 +1,2 @@
+Hash: 059C64AB, Key: Callback5Header, Value: Slay {MONSTER}
+Hash: 003DFCC1, Key: Name, Value: What Remains

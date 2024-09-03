@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Razor and Bucket
+Hash: F2CA04D8, Key: NoticeSignText, Value: The Crusaders who first settled here shaved their heads to stave off lice. The practice has since taken on symbolic meaning, indicating one’s piety and devotion.

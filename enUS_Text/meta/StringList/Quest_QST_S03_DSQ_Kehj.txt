@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: A Suppurated Wound
+Hash: FAF02F4B, Key: Phase6Description, Value: Otseg believes the possessions are tied to old vaults outside the city. Is this the work of the ancient mage clans, or something more sinister?
+
+I found a newly-formed fissure in the earth. This must be where people are disappearing to.
+Hash: 059C64AB, Key: Callback5Header, Value: Explore the Fetid Cleft
+Hash: 92C33198, Key: Phase12Description, Value: I found a portal nested within an empty doorframe. What waits beyond?
+Hash: 85A4CA58, Key: Callback11Header, Value: Explore into the Weavery
+Hash: 13BA663E, Key: Phase45Description, Value: I discovered an armature in the shape of a spider—dead, like a puppet without its strings. I feel the impulse to take it with me, but I don't know why.
+Hash: 3158FF3E, Key: Callback44Header, Value: Inspect the Inert Construct
+Hash: 3226125E, Key: Phase54Description, Value: I found a portal nested within an empty doorframe. What waits beyond?
+Hash: D0A0975E, Key: Callback53Header, Value: Enter the Gateway
+Hash: BDB7A65B, Key: Phase60Description, Value: I was attacked by creatures of steel and fire. This is more than simple demon possession. I should continue onwards.
+Hash: 9E7E03E4, Key: Callback59Header, Value: Slay the hostile constructs

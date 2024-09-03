@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is wrong with the oasis?"
+Hash: 254BAD24, Key: Line10.BC41C, Value: Something in the water is making us sick. Some have died... both Wolves and civilians in our care.
+Hash: 7581D8F1, Key: VoiceDir10.BC41C, Value: Concerned. Heavy. Needs to solve this.
+Hash: F33404EE, Key: Line16.D5161, Value: It’s poison, I’m telling you! The bandits want to wipe us out.
+Hash: 436A30BB, Key: VoiceDir16.D5161, Value: Frustrated. Confident.
+Hash: 8D1D932C, Key: Line18.BC41C, Value: We have to find the source, regardless. Wanderer, would you meet me south of here? I want to check the shoreline.
+Hash: DD53BEF9, Key: VoiceDir18.BC41C, Value: Decisive. Turning to Player, ready to leave.

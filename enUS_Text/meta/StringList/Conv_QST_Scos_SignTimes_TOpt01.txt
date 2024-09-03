@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Who are Nairne and Tavish?”
+Hash: 5D201C8E, Key: Line1.B20BA, Value: Regulars of the Goose. A spirited pair who don’t let the gloom dampen their hearts.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: Honest and heartfelt. He clearly respects these two patrons.
+Hash: F7149610, Key: Line3.B20BA, Value: Always inclined to shenanigans, those two. Little passes their ears without a challenge or a raised wager.

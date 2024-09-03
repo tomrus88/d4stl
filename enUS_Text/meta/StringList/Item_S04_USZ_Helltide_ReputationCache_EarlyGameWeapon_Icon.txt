@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolves' Weapon
+Hash: A646FFA4, Key: Description, Value: A weapon curated by the Iron Wolves for culling the Helltide.

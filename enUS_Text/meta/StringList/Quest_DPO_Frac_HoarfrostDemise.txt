@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nobody leaves alive. 
+Hash: 9211671E, Key: Callback35Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 36AC1DDC, Key: Callback51Header, Value: Defeat the {MONSTER}
+Hash: 9E7E03E4, Key: Callback59Header, Value: Travel to the {LEVELAREA}

@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Gain {c_number}[Affix_Value_1|%|]{/c} Damage Reduction. In addition, gain {c_number}+[Affix."Static Value 0"]{/c} Ranks to all Skills.

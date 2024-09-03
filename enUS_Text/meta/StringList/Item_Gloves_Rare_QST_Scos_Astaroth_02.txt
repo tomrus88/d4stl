@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charred Gauntlets
+Hash: F5C7BC0A, Key: Flavor, Value: Seared through the flames of combat long ago during the Days of Ash, these gauntlets were forged in the demonic fires of Astaroth and quenched in the blood of heroes.

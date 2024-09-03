@@ -1,0 +1,4 @@
+Hash: 5D28A609, Key: Line1.AAE9B, Value: Last step. The power of the stones lingers with you.
+Hash: CC320C36, Key: VoiceDir1.AAE9B, Value: excited
+Hash: 9111990D, Key: Line5.AAE9B, Value: Touch the runestone and awaken them all to complete the ritual.
+Hash: 001AFF3A, Key: VoiceDir5.AAE9B, Value: excited

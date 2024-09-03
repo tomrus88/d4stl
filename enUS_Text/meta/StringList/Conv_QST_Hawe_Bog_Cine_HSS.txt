@@ -1,0 +1,14 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Light the incense. I am ready."
+Hash: C1F212B9, Key: Line9.6DE47, Value: What now?
+Hash: 30FB78E6, Key: VoiceDir9.6DE47, Value: on edge
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: We wait for the path to appear.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: (groans)
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: groggy
+Hash: 091EA8DD, Key: Line13.6D03F, Value: (groaning, mumbling)
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: groggy
+Hash: 27FD9937, Key: Line7.6DE47, Value: Hey.
+Hash: 9706FF64, Key: VoiceDir7.6DE47, Value: groggy, but concerned, on edge
+Hash: A31403C6, Key: Line15.6DE47, Value: Come on. Wake up.
+Hash: 3D087D48, Key: Line17.6DE47, Value: I think it worked.
+Hash: 5B6C043C, Key: Line21.6D03F, Value: (groan)
+Hash: 7337041C, Key: Line19.BAE4, Value: (groan)

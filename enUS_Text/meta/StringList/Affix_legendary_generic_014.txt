@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Inner Calm
+Hash: 003892BF, Key: Desc, Value: Deal {c_random}[Affix_Value_1|%x|]{/c} increased damage. Triple this bonus after standing still for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Deal {c_random}[Affix_Value_1|%x|]{/c} increased damage. Triple this after being still for {c_number}[Affix."Static Value 0"]{/c} seconds.

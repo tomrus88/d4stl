@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The moving forest.
+Hash: B23C2F03, Key: Callback49Header, Value: Slay the Treebones: {LEFT}
+Hash: 83A65A9D, Key: Callback52Header, Value: Slay all enemies in the Wild Thicket {KAM_REVEALED_COUNT}
+Hash: 1D9AD41F, Key: Callback54Header, Value: Travel to {LEVELAREA}

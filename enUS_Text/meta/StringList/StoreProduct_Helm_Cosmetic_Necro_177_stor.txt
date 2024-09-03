@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Golden Priest of Trag'Oul"
+Hash: 003DFCC1, Key: Name, Value: Diadem of the Golden Priest

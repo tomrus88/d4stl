@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Any news?"
+Hash: 8EB202A7, Key: Line1.10094B, Value: The clams are washing ashore early this year. A bad sign.
+Hash: DEE82E74, Key: VoiceDir1.10094B, Value: worried

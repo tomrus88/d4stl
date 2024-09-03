@@ -1,0 +1,10 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Malignant Pact
+Hash: 2827F416, Key: Buff0_Description, Value: Gain a new bonus every 20 kills.
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Malignant Attunement: Vicious
+Hash: 53C1369D, Key: Buff7_Description, Value: Your attack speed is increased by {c_number}[{SF_2}*100]%{/c}.
+Hash: A7490B65, Key: Buff11_Name, Value: Malignant Attunement: Devious
+Hash: 86C2ADC8, Key: Buff11_Description, Value: {c_important}Core{/c} and {c_important}Basic{/c} Skills have a chance to fully restore your resource.
+Hash: 22C55B1C, Key: Buff9_Name, Value: Malignant Attunement: Brutal
+Hash: F27F499F, Key: Buff9_Description, Value: Gain a barrier periodically.
+Hash: AE488548, Key: Buff14_Name, Value: Malignant Attunement: Black
+Hash: 74DFCA4B, Key: Buff14_Description, Value: Damaging enemies inflicts them with shadowy corruption.

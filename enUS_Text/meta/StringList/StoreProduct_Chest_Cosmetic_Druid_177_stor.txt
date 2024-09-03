@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Furs of Winter's Gale
+Hash: 13A53A8B, Key: Series, Value: "Frost Lord"

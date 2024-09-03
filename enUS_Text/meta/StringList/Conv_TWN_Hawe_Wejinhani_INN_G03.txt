@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are all welcome to receive healing?"
+Hash: 8EE1D4F2, Key: Line1.11EA21, Value: We offer healing to any who ask, so long as they accept our methods, which some may see as...heretical.
+Hash: DF1800BF, Key: VoiceDir1.11EA21, Value: Suddenly cautious and practiced 

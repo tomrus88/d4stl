@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Scattered Prism
+Hash: A646FFA4, Key: Description, Value: A mysterious prism most often found in very, very large bodies, such as world bosses. Used by Jewelers to add sockets to equipment.
+Hash: F5C7BC0A, Key: Flavor, Value: Rare and hoarded by their previous owners, these prisms are often guarded jealously.

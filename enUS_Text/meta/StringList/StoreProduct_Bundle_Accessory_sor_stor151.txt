@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Horadric Semblance
+Hash: A646FFA4, Key: Description, Value: The Order searches desperately for the greater artifact. They believe that with study of the original Cube, they could eventually recreate the artifact without the dangers of Kulle's design. 
+Hash: 083EE0CE, Key: Quote, Value: The allure of the Cube.
+Hash: 13A53A8B, Key: Series, Value: "Order of the First Ones" Accessories

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where are you from child?"
+Hash: 5D6CA038, Key: Line1.F8D69, Value: When can we go home? Ked Bardu smells like smoke, the food is too salty, and yak fur is itchy.
+Hash: F76119E3, Key: Line3.F8D6B, Value: Shush. This is home now.

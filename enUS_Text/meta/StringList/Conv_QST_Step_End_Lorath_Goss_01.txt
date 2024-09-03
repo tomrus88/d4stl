@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Unlike Elias, the Cathedral believes the Prophecy is about Inarius.”
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Of course. Their entire faith hinges on it.
+Hash: F413C4CC, Key: Line3.6D03F, Value: Inarius is the spear that will pierce Hatred’s heart. The Knights Penitent are the weak made strong. Prava is the mother who will mold a new age from the ashes.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: They’ve found a way to weave themselves into every part of it.

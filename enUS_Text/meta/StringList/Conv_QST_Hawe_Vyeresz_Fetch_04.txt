@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “This potion should stabilize you. Someone named Mateen sent me to find you. He feared the worst.”
+Hash: 2B4631F3, Key: Line7.F1C75, Value: (strain) Mateen? Then he's alive.
+Hash: 9A4F9820, Key: VoiceDir7.F1C75, Value: Gravely wounded. Pained and strained. He's relieved to know his friend Mateen is alive and well
+Hash: 9151B871, Key: Line5.F1C75, Value: (groan) What was in that potion? My insides are on fire, but I think I can make it out.
+Hash: 005B1E9E, Key: VoiceDir5.F1C75, Value: Wounded and pain. The potion the player gave him tasted bitter. 

@@ -1,0 +1,4 @@
+Hash: 5D71D84F, Key: Line1.ED393, Value: I helped my father hang these up when I was small. He held me on his shoulders just so I could reach.
+Hash: CC7B3E7C, Key: VoiceDir1.ED393, Value: wistful, heartbroken
+Hash: F76651D1, Key: Line3.ED393, Value: I hope... he was thinking of that in the end.
+Hash: 666FB7FE, Key: VoiceDir3.ED393, Value: sadly

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Shattered Spirit's
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Bone Spirit{/c} also launches {c_number}[Affix."Static Value 0"]{/c} {c_important}Bone Splinters{/c} in all directions, dealing {c_random}[Affix_Value_1|%x|]{/c} increased damage and generating {c_number}[Affix."Static Value 1"]{/c} Essence per enemy hit.
+Hash: 82B7D312, Key: CodexDesc, Value: Casting {c_important}Bone Spirit{/c} also launches {c_important}Bone Splinters{/c}, dealing {c_random}[Affix_Value_1|%x|]{/c} increased damage and generating {c_number}[Affix."Static Value 1"]{/c} Essence per enemy hit.

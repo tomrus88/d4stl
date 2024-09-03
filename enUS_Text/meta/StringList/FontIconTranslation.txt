@@ -1,0 +1,161 @@
+Hash: 912B706D, Key: button1, Value: Bottom action button
+Hash: 912B706E, Key: button2, Value: Right action button
+Hash: 912B706F, Key: button3, Value: Left action button
+Hash: 912B7070, Key: button4, Value: Top action button
+Hash: 00000F85, Key: up, Value: Directional pad up
+Hash: 0038BDD8, Key: down, Value: Directional pad Down
+Hash: 003CF42B, Key: left, Value: Directional pad Left
+Hash: 084A413E, Key: right, Value: Directional pad right
+Hash: 00000E1D, Key: l1, Value: Left shoulder button
+Hash: 00000E1E, Key: l2, Value: Left trigger
+Hash: 00000EE3, Key: r1, Value: Right shoulder button
+Hash: 00000EE4, Key: r2, Value: Right trigger
+Hash: 003766F1, Key: back, Value: Back button
+Hash: B7C35329, Key: BUTTON_START, Value: Start button
+Hash: 00000E1F, Key: l3, Value: Left analog stick click
+Hash: 00000EE5, Key: r3, Value: Right analog stick click
+Hash: 867AC9D8, Key: touchpad, Value: Touchpad
+Hash: 6E30B32C, Key: options, Value: Options button
+Hash: 265CE2C9, Key: Dpad_V_Button, Value: Directional pad up or down
+Hash: 3AC33E7B, Key: Dpad_H_Button, Value: Directional pad Left or Right
+Hash: 2CA1E71D, Key: r_horiz, Value: Right analog stick left or right
+Hash: 5E4F1FEB, Key: r_vertical, Value: Right analog stick up or down
+Hash: 5EC47A97, Key: l_horiz, Value: Left analog stick left or right
+Hash: 460FB925, Key: l_vertical, Value: Left analog stick up or down
+Hash: 07D81964, Key: l_all, Value: Left analog stick
+Hash: 0844AC6A, Key: r_all, Value: Right analog stick
+Hash: 10DBED69, Key: r_down, Value: Right analog stick down
+Hash: 004026D6, Key: r_up, Value: Right analog stick up
+Hash: 003CDC90, Key: l_up, Value: Left analog stick up
+Hash: 02DCF9A3, Key: l_down, Value: Left analog stick down
+Hash: 13D90F1A, Key: KeyPrompt_0, Value: 0
+Hash: 13D90F1B, Key: KeyPrompt_1, Value: 1
+Hash: 13D90F1C, Key: KeyPrompt_2, Value: 2
+Hash: 13D90F1D, Key: KeyPrompt_3, Value: 3
+Hash: 13D90F1E, Key: KeyPrompt_4, Value: 4
+Hash: 13D90F1F, Key: KeyPrompt_5, Value: 5
+Hash: 13D90F20, Key: KeyPrompt_6, Value: 6
+Hash: 13D90F21, Key: KeyPrompt_7, Value: 7
+Hash: 13D90F22, Key: KeyPrompt_8, Value: 8
+Hash: 13D90F23, Key: KeyPrompt_9, Value: 9
+Hash: 13D90F4B, Key: KeyPrompt_A, Value: A
+Hash: 39A5E40E, Key: KeyPrompt_Plus, Value: Plus sign
+Hash: 28EF621A, Key: KeyPrompt_QuoteSingle, Value: Apostrophe
+Hash: 13D90F4C, Key: KeyPrompt_B, Value: B
+Hash: 13D90F4D, Key: KeyPrompt_C, Value: C
+Hash: 0818D4A7, Key: KeyPrompt_Backspace, Value: Backspace
+Hash: 63168C16, Key: KeyPrompt_SlashBack, Value: Back slash
+Hash: 6D78A9F7, Key: KeyPrompt_Comma, Value: Comma
+Hash: 13D90F4E, Key: KeyPrompt_D, Value: D
+Hash: 3A2EB30D, Key: KeyPrompt_Period, Value: Period
+Hash: 1E2D70DD, Key: KeyPrompt_Delete, Value: Delete key
+Hash: 35CFF7FA, Key: KeyPrompt_SlashForward, Value: Forward slash
+Hash: 399F5C82, Key: KeyPrompt_Down, Value: Down arrow
+Hash: B694532E, Key: KeyPrompt_ScrollWheel, Value: Mouse wheel
+Hash: 13D90F4F, Key: KeyPrompt_E, Value: E
+Hash: 6E5A2DA1, Key: KeyPrompt_End, Value: End key
+Hash: 6D9E1442, Key: KeyPrompt_Equal, Value: Equal sign
+Hash: 217AEF9B, Key: KeyPrompt_Escape, Value: Escape key
+Hash: 13D90F50, Key: KeyPrompt_F, Value: F
+Hash: 8EFAF981, Key: KeyPrompt_F1, Value: F1
+Hash: 6E5A29D1, Key: KeyPrompt_F10, Value: F ten
+Hash: 6E5A29D2, Key: KeyPrompt_F11, Value: F eleven
+Hash: 6E5A29D3, Key: KeyPrompt_F12, Value: F twelve
+Hash: 6E5A29D4, Key: KeyPrompt_F13, Value: F thirteen
+Hash: 6E5A29D5, Key: KeyPrompt_F14, Value: F fourteen
+Hash: 6E5A29D6, Key: KeyPrompt_F15, Value: F fifteen
+Hash: 8EFAF982, Key: KeyPrompt_F2, Value: F 2
+Hash: 8EFAF983, Key: KeyPrompt_F3, Value: F 3
+Hash: 8EFAF984, Key: KeyPrompt_F4, Value: F 4
+Hash: 8EFAF985, Key: KeyPrompt_F5, Value: F 5
+Hash: 8EFAF986, Key: KeyPrompt_F6, Value: F 6
+Hash: 8EFAF987, Key: KeyPrompt_F7, Value: F 7
+Hash: 8EFAF988, Key: KeyPrompt_F8, Value: f 8
+Hash: 8EFAF989, Key: KeyPrompt_F9, Value: F 9
+Hash: 13D90F51, Key: KeyPrompt_G, Value: G
+Hash: 6DC27F3F, Key: KeyPrompt_Grave, Value: Grave
+Hash: 13D90F52, Key: KeyPrompt_H, Value: H
+Hash: 39A18CB3, Key: KeyPrompt_Home, Value: Home key
+Hash: 13D90F53, Key: KeyPrompt_I, Value: I Key
+Hash: 2A7DEEFF, Key: KeyPrompt_Insert, Value: Insert key
+Hash: 13D90F54, Key: KeyPrompt_J, Value: J
+Hash: 13D90F55, Key: KeyPrompt_K, Value: K
+Hash: 13D90F56, Key: KeyPrompt_L, Value: L
+Hash: EB2EDE31, Key: KeyPrompt_BracketLeft, Value: Left bracket
+Hash: 399EE4BF, Key: KeyPrompt_Ctrl, Value: Control key
+Hash: 39A392D5, Key: KeyPrompt_Left, Value: Left arrow
+Hash: 6E5A1C6B, Key: KeyPrompt_Alt, Value: Alt key
+Hash: 6E964988, Key: KeyPrompt_Shift, Value: Shift key
+Hash: 13D90F57, Key: KeyPrompt_M, Value: M
+Hash: 6E2A5A16, Key: KeyPrompt_Minus, Value: Minus sign
+Hash: 0001D9DB, Key: lmb, Value: Left mouse button
+Hash: 0001F361, Key: rmb, Value: Right mouse button
+Hash: 0001DE1C, Key: mmb, Value: Middle mouse button
+Hash: 33E5FC67, Key: KeyPrompt_Mouse4, Value: Mouse button 4
+Hash: 33E5FC68, Key: KeyPrompt_Mouse5, Value: Mouse button 5
+Hash: 017D55A5, Key: KeyPrompt_ScrollWheel_Down, Value: Mousewheel scroll down
+Hash: 4BB25012, Key: KeyPrompt_ScrollWheel_Up, Value: Mousewheel scroll up
+Hash: 39A7A8A4, Key: KeyPrompt_Star, Value: Multiply sign
+Hash: 13D90F58, Key: KeyPrompt_N, Value: N
+Hash: 32C7CCBF, Key: KeyPrompt_PageDown, Value: Page down key
+Hash: 13D90F59, Key: KeyPrompt_O, Value: O
+Hash: 13D90F5A, Key: KeyPrompt_P, Value: P
+Hash: 39E038AC, Key: KeyPrompt_PageUp, Value: Page up key
+Hash: 13D90F5B, Key: KeyPrompt_Q, Value: Q
+Hash: 13D90F5C, Key: KeyPrompt_R, Value: R
+Hash: 51796C04, Key: KeyPrompt_BracketRight, Value: Right bracket
+Hash: 6D9C6B68, Key: KeyPrompt_Enter, Value: Enter key
+Hash: 6E84B528, Key: KeyPrompt_Right, Value: Right arrow
+Hash: 13D90F5D, Key: KeyPrompt_S, Value: S
+Hash: 715DD373, Key: KeyPrompt_Semicolon, Value: Semicolon
+Hash: 6E9A8A16, Key: KeyPrompt_Space, Value: Spacebar
+Hash: 13D90F5E, Key: KeyPrompt_T, Value: T
+Hash: 6E5A6BC1, Key: KeyPrompt_Tab, Value: Tab key
+Hash: 13D90F5F, Key: KeyPrompt_U, Value: U
+Hash: 8EFAFBAF, Key: KeyPrompt_Up, Value: Up arrow
+Hash: 13D90F60, Key: KeyPrompt_V, Value: V
+Hash: 13D90F61, Key: KeyPrompt_W, Value: W
+Hash: 13D90F62, Key: KeyPrompt_X, Value: X
+Hash: 13D90F63, Key: KeyPrompt_Y, Value: Y
+Hash: 13D90F64, Key: KeyPrompt_Z, Value: Z
+Hash: A2FFF883, Key: checkbox_on, Value: Enabled
+Hash: 02FF0841, Key: checkbox_off, Value: Disabled
+Hash: 003A6186, Key: gold, Value: Gold
+Hash: 52F02290, Key: Shards_Of_Hatred, Value: Red Dust
+Hash: F681EC8C, Key: GamblingCurrency, Value: Obols
+Hash: C2F2D946, Key: button1_xb, Value: A button
+Hash: C2F2D84F, Key: button1_ps, Value: Cross button
+Hash: C2F365A7, Key: button2_xb, Value: B button
+Hash: C2F364B0, Key: button2_ps, Value: Circle button
+Hash: C2F3F208, Key: button3_xb, Value: X button
+Hash: C2F3F111, Key: button3_ps, Value: Square button
+Hash: C2F47E69, Key: button4_xb, Value: Y button
+Hash: C2F47D72, Key: button4_ps, Value: Triangle button
+Hash: 082B6B05, Key: r1_ps, Value: R1 button
+Hash: 07BED7FF, Key: l1_ps, Value: L1 button
+Hash: 07BF6460, Key: l2_ps, Value: L2 button
+Hash: 082BF766, Key: r2_ps, Value: R2 button
+Hash: 4E054F2D, Key: ClassIcon_Barb_Small, Value: Barbarian
+Hash: 840D640E, Key: ClassIcon_Druid_Small, Value: Druid
+Hash: F174400D, Key: ClassIcon_Necro_Small, Value: Necromancer
+Hash: C441A378, Key: ClassIcon_Rogue_Small, Value: Rogue
+Hash: 3E815D2D, Key: ClassIcon_Sorc_Small, Value: Sorcerer
+Hash: 8A856F38, Key: KeyPrompt_ShiftShort, Value: Shift key
+Hash: 086249AE, Key: start, Value: Start button
+Hash: 35F3BB34, Key: ItemIcon_Hibernal_Proofs, Value: Midwinter Proofs
+Hash: CE8ABCB6, Key: social_tab_icon_clan, Value: Clan Members
+Hash: 174068E3, Key: Social_Tab_Icon_Friends, Value: Friends List
+Hash: 9F9F4E52, Key: Social_Tab_Icon_Sanctuary, Value: Local Players
+Hash: DBA073A9, Key: Social_Tab_Icon_XboxLive, Value: Xbox Live Friends
+Hash: BB04806B, Key: Social_Tab_Icon_PSLive, Value: PSN Friends
+Hash: 9FDE8857, Key: Social_Tab_Icon_Cedar, Value: Steam Friends
+Hash: 90E9EE23, Key: SeasonUpgrade_Currency_Icon, Value: Smoldering Ashes
+Hash: EFE6480D, Key: New_Indicator_Secondary, Value: New indicator
+Hash: 8E4388F6, Key: icon_worldtier_3, Value: World Tier 3
+Hash: 8E4388F7, Key: icon_worldtier_4, Value: World Tier 4
+Hash: 75202546, Key: questlog_journal_all, Value: All quests
+Hash: 0BA447E5, Key: social_local, Value: Local Chat
+Hash: 1255061C, Key: social_voicechat_group, Value: Voice Chat
+Hash: C4B8E55C, Key: social_whisper, Value: Whisper
+Hash: 0C25E69B, Key: social_story, Value: Story Chat
+Hash: 28BC4572, Key: icon_network, Value: Network

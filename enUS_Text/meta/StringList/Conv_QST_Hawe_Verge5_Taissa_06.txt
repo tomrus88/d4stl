@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Were you very close to Valtha?"
+Hash: 5A196F77, Key: Line1.789BF, Value: Valtha forged me into the witch I am. I struggle with her death...
+Hash: F40DE8F9, Key: Line3.789BF, Value: I understand why she saw a future in Lilith. The Mother of Sanctuary isn’t so different from the witches of Hawezar.
+Hash: 8E02627B, Key: Line5.789BF, Value: But I won’t ever shirk my duty in bringing Elias to justice. That is the part of Valtha I will never understand.

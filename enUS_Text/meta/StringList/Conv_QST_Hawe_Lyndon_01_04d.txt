@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Rat Race
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Ha! Look at this. The Zakarum Belfry, or what's left of it. Fools tried building on the mud.
+Hash: 6735A8AD, Key: Line3.10088C, Value: You almost have to admire them. A faith so powerful that it can overcome even the most common of senses.

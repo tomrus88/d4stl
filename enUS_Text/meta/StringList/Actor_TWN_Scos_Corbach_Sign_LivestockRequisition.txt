@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: "Livestock Requisition Warning"
+Hash: F2CA04D8, Key: NoticeSignText, Value: "By order of the Chieftain: 
+All persons who possess livestock should be prepared to surrender their livestock to the guard for slaughter and redistribution."

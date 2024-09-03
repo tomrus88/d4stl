@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Exhumed Crusader's Skull
+Hash: A646FFA4, Key: Description, Value: The rotted skull of a Zakarum Crusader

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Reclaimed Medallion of the Iron Wolves
+Hash: F5C7BC0A, Key: Flavor, Value: The shattered medallion you delivered to Soudeh has been expertly reassembled and burnished to gleaming. Rarely are such emblems given to outside allies of the Wolves, in thanks for heroic service.

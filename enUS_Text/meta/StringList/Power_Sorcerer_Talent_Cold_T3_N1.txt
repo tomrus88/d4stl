@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Shatter
+Hash: 003892BF, Key: desc, Value: After {c_important}{u}Freeze{/u}{/c} expires, enemies explode for {c_number}[{SF_0} * 100|%|]{/c} of the damage you dealt to them while {c_important}{u}Frozen{/u}{/c}.

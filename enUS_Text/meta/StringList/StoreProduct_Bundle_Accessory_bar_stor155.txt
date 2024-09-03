@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hell-Marked
+Hash: A646FFA4, Key: Description, Value: Stand atop the hated enemy and loose a cry of victory.
+Hash: 083EE0CE, Key: Quote, Value: Triumphant in sin.
+Hash: 13A53A8B, Key: Series, Value: "Hell's Champion" Accessories

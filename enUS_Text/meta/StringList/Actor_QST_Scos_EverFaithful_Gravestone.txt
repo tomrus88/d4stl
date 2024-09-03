@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Deirdre's Grave
+Hash: F2CA04D8, Key: NoticeSignText, Value: A simple memorial, fashioned from the planks of a wagon. A scrap of Deirdre's frock has been draped over it, carefully cleansed of blood.

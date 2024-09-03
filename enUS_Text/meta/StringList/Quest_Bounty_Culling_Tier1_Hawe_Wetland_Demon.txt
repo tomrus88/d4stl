@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cull Fethis Wetlands Demons
+Hash: 0871A46B, Key: Toast, Value: The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Demons: {DONE_OVER_NEEDED}

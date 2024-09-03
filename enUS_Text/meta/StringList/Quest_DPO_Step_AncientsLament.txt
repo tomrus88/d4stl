@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Let buried secrets lie.
+Hash: 24EC6278, Key: Callback20Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 1847B581, Key: Callback47Header, Value: Return the Ancients Statue to the Pedestal: {LEFT}
+Hash: E9B1E11B, Key: Callback50Header, Value: Pick up Ancients Statue
+Hash: 83A65A9D, Key: Callback52Header, Value: Travel to the {LEVELAREA}

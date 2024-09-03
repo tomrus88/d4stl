@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Blood Rage
+Hash: 003892BF, Key: desc, Value: Killing a Bleeding enemy has {c_number}[{SF_0}*100|%|]{/c} chance to grant {c_important}{u}Berserking{/u}{/c} for {c_number}{SF_1}{/c} seconds. Your damage is increased by {c_number}[{SF_2} * 100|%x|]{/c} of your Damage while Berserking bonus, up to a maximum of {c_number}[SF_5 * 100|%x|]{/c}.
+
+Current Bonus: {c_number}[SF_4 * 100|%x|]{/c}

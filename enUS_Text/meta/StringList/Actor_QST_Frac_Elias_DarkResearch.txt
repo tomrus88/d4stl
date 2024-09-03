@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dust Covered Manuscripts 
+Hash: F2CA04D8, Key: NoticeSignText, Value: Many of the notes here deal in mathematics and astronomy. Each page is lined with commentary on star charts and prophecies. 

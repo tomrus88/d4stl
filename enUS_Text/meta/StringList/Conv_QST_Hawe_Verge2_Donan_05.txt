@@ -1,0 +1,12 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you think of Taissa?"
+Hash: E1B653BF, Key: Line33.7FA05, Value: Well...
+Hash: 31EC7F8C, Key: VoiceDir33.7FA05, Value: Trying to find the right words
+Hash: 5B662869, Key: Line21.789BF, Value: Yes, Horadrim, what do you think of me?
+Hash: AB9C5436, Key: VoiceDir21.789BF, Value: amused
+Hash: D7101683, Key: Line19.7FA05, Value: I've been...my life has kept me in Scosglen for many years now. I haven't met anyone like her--you--since before my son was born.
+Hash: 27464250, Key: VoiceDir19.7FA05, Value: (gruff)
+Hash: 8F68F860, Key: Line25.7FA05, Value: Strange as it may sound, you remind me of what it was like to be young, to adventure.
+Hash: F55AA1EB, Key: Line23.789BF, Value: To encounter danger?
+Hash: 4590CDB8, Key: VoiceDir23.789BF, Value: wry, smug
+Hash: C351EB64, Key: Line29.7FA05, Value: To believe I can defeat it.
+Hash: 13881731, Key: VoiceDir29.7FA05, Value: nostalgic or melancholy

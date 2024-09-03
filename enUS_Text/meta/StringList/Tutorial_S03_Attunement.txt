@@ -1,0 +1,5 @@
+Hash: 086EAA02, Key: title, Value: Zoltun's Warding
+Hash: 7A850535, Key: 4_instruction, Value: {c_highlight}Zoltun's Warding{/c} unlocks {c_highlight}Wardwoven Chests{/c} at the end of Vaults. To earn charges of this buff, offer {c_highlight}Pearls of Warding{/c} to the Statue of Zoltun Kulle.
+Hash: A7BB65F8, Key: 4_instruction_controller, Value: {c_highlight}Zoltun's Warding{/c} unlocks {c_highlight}Wardwoven Chests{/c} at the end of Vaults. To earn charges of this buff, offer {c_highlight}Pearls of Warding{/c} to the Statue of Zoltun Kulle.
+Hash: DBC6F233, Key: 2_instruction, Value: If you can make it to the end of a Vault with charges remaining, you'll be able to open {c_highlight}Wardwoven Chests{/c}. But be cautious! Getting hit by a hazard will make you lose a charge of {c_highlight}Zoltun's Warding{/c}.
+Hash: 09E87836, Key: 2_instruction_controller, Value: If you can make it to the end of a Vault with charges remaining, you'll be able to open {c_highlight}Wardwoven Chests{/c}. But be cautious! Getting hit by a hazard will make you lose a charge of {c_highlight}Zoltun's Warding{/c}.

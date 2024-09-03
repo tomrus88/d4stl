@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Symon is dead. His search for knowledge ended in tragedy."
+Hash: 8ECEF95A, Key: Line1.10E35E, Value: No! Akarat... I had some hope...
+Hash: D8F1EA65, Key: Line3.BAE4, Value: I'm so sorry. I managed to collect some of his writings. I thought you might like this - a thing to remember him by.
+Hash: 3FD64CDE, Key: Line5.10E35E, Value: Thank you... Curse my foolishness. I shouldn't have let him go.
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: This wasn't your fault. But the man responsible - Elias - is gone.
+Hash: 45365F8B, Key: Line11.10E35E, Value: A poor comfort to me, but it would comfort Symon. Thank you for bringing me back what was left of him.

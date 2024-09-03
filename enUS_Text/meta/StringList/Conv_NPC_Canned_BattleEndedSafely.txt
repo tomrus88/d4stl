@@ -1,0 +1,144 @@
+Hash: 97E62F6A, Key: Line490.3F392, Value: Huh! Oh, we’re alive.
+Hash: EEE1D4D7, Key: VoiceDir490.3F392, Value: relieved, out of breath
+Hash: 7ED4E5AD, Key: Line493.3F392, Value: Oh, I thought I was done for.
+Hash: D5D08B1A, Key: VoiceDir493.3F392, Value: relieved, out of breath
+Hash: 65C39BF0, Key: Line496.3F392, Value: Ah, by the Light, that was close.
+Hash: BCBF415D, Key: VoiceDir496.3F392, Value: relieved, out of breath
+Hash: C3D38D41, Key: Line1546.EDC78, Value: We’re alive.
+Hash: FA43E04E, Key: VoiceDir1546.EDC78, Value: relieved, out of breath
+Hash: AAC24384, Key: Line1549.EDC78, Value: I thought I was done for.
+Hash: E1329691, Key: VoiceDir1549.EDC78, Value: relieved, out of breath
+Hash: 7C2C6F1E, Key: Line1552.EDC78, Value: By the Light, that was close.
+Hash: B29CC22B, Key: VoiceDir1552.EDC78, Value: relieved, out of breath
+Hash: 631B2562, Key: Line1555.EDC79, Value: We’re alive. (exhale)
+Hash: 998B786F, Key: VoiceDir1555.EDC79, Value: relieved, out of breath
+Hash: 4A09DBA5, Key: Line1558.EDC79, Value: (exhale) I thought I was done for, oh.
+Hash: 807A2EB2, Key: VoiceDir1558.EDC79, Value: relieved, out of breath
+Hash: 1B74073F, Key: Line1561.EDC79, Value: By the Light, that was close. (exhale)
+Hash: 51E45A4C, Key: VoiceDir1561.EDC79, Value: relieved, out of breath
+Hash: FEDA40FB, Key: Line1564.3F381, Value: We’re alive.
+Hash: 354A9408, Key: VoiceDir1564.3F381, Value: relieved, out of breath
+Hash: E5C8F73E, Key: Line1567.3F381, Value: I thought I was done for.
+Hash: 1C394A4B, Key: VoiceDir1567.3F381, Value: relieved, out of breath
+Hash: B73322D8, Key: Line1570.3F381, Value: By the Light, that was close.
+Hash: EDA375E5, Key: VoiceDir1570.3F381, Value: relieved, out of breath
+Hash: A1AA55CB, Key: Line1573.EDC7B, Value: We’re alive.
+Hash: D81AA8D8, Key: VoiceDir1573.EDC7B, Value: relieved, out of breath
+Hash: 88990C0E, Key: Line1576.EDC7B, Value: I thought I was done for.
+Hash: BF095F1B, Key: VoiceDir1576.EDC7B, Value: relieved, out of breath
+Hash: 6F87C251, Key: Line1579.EDC7B, Value: By the Light, that was close.
+Hash: A5F8155E, Key: VoiceDir1579.EDC7B, Value: relieved, out of breath
+Hash: 40F1EDEC, Key: Line1582.EDC7C, Value: We’re alive.
+Hash: 776240F9, Key: VoiceDir1582.EDC7C, Value: relieved, out of breath
+Hash: 27E0A42F, Key: Line1585.EDC7C, Value: I thought I was done for.
+Hash: 5E50F73C, Key: VoiceDir1585.EDC7C, Value: relieved, out of breath
+Hash: 0ECF5A72, Key: Line1588.EDC7C, Value: By the Light, that was close.
+Hash: 453FAD7F, Key: VoiceDir1588.EDC7C, Value: relieved, out of breath
+Hash: DFE9E22A, Key: Line1591.B79B0, Value: Oh, we’re alive.
+Hash: 165A3537, Key: VoiceDir1591.B79B0, Value: relieved, out of breath
+Hash: C6D8986D, Key: Line1594.B79B0, Value: I thought I was done for.
+Hash: FD48EB7A, Key: VoiceDir1594.B79B0, Value: relieved, out of breath
+Hash: ADC74EB0, Key: Line1597.B79B0, Value: Thank the Ancients. We’re safe.
+Hash: E437A1BD, Key: VoiceDir1597.B79B0, Value: relieved, out of breath
+Hash: B96B3E34, Key: Line1600.EDC74, Value: Ahh, we’re alive.
+Hash: EFDB9141, Key: VoiceDir1600.EDC74, Value: relieved, out of breath
+Hash: A059F477, Key: Line1603.EDC74, Value: I thought I was done for.
+Hash: D6CA4784, Key: VoiceDir1603.EDC74, Value: relieved, out of breath
+Hash: 8748AABA, Key: Line1606.EDC74, Value: Thank the Ancients. We’re safe.
+Hash: BDB8FDC7, Key: VoiceDir1606.EDC74, Value: relieved, out of breath
+Hash: 6E3760FE, Key: Line1609.EDC75, Value: Oh, we’re alive.
+Hash: A4A7B40B, Key: VoiceDir1609.EDC75, Value: relieved, out of breath
+Hash: 3FA18C98, Key: Line1612.EDC75, Value: Ah, I thought I was done for.
+Hash: 7611DFA5, Key: VoiceDir1612.EDC75, Value: relieved, out of breath
+Hash: 269042DB, Key: Line1615.EDC75, Value: Thank the Ancients. We’re safe.
+Hash: 5D0095E8, Key: VoiceDir1615.EDC75, Value: relieved, out of breath
+Hash: 0D2F556B, Key: Line1618.B79B1, Value: We’re alive.
+Hash: 439FA878, Key: VoiceDir1618.B79B1, Value: relieved, out of breath
+Hash: DE998105, Key: Line1621.B79B1, Value: I thought I was done for.
+Hash: 1509D412, Key: VoiceDir1621.B79B1, Value: relieved, out of breath
+Hash: C5883748, Key: Line1624.B79B1, Value: Oh, thank the Ancients. We’re safe.
+Hash: FBF88A55, Key: VoiceDir1624.B79B1, Value: relieved, out of breath
+Hash: ACC6913F, Key: Line1627.EDC76, Value: We’re alive.
+Hash: E336E44C, Key: VoiceDir1627.EDC76, Value: relieved, out of breath
+Hash: 7E30BCD9, Key: Line1630.EDC76, Value: I thought I was done for.
+Hash: B4A10FE6, Key: VoiceDir1630.EDC76, Value: relieved, out of breath
+Hash: 651F731C, Key: Line1633.EDC76, Value: Thank the Ancients. We’re safe.
+Hash: 9B8FC629, Key: VoiceDir1633.EDC76, Value: relieved, out of breath
+Hash: 4C0E2960, Key: Line1636.EDC77, Value: We’re alive.
+Hash: 827E7C6D, Key: VoiceDir1636.EDC77, Value: relieved, out of breath
+Hash: 32FCDFA3, Key: Line1639.EDC77, Value: I thought I was done for.
+Hash: 696D32B0, Key: VoiceDir1639.EDC77, Value: relieved, out of breath
+Hash: 04670B3D, Key: Line1642.EDC77, Value: Thank the Ancients. We’re safe.
+Hash: 3AD75E4A, Key: VoiceDir1642.EDC77, Value: relieved, out of breath
+Hash: EB058321, Key: Line1645.B6757, Value: Ah, we’re alive.
+Hash: 2175D62E, Key: VoiceDir1645.B6757, Value: relieved, out of breath
+Hash: D1F43964, Key: Line1648.B6757, Value: Oh, I thought I was done for.
+Hash: 08648C71, Key: VoiceDir1648.B6757, Value: relieved, out of breath
+Hash: A35E64FE, Key: Line1651.B6757, Value: Fates, I didn’t think I would make it.
+Hash: D9CEB80B, Key: VoiceDir1651.B6757, Value: relieved, out of breath
+Hash: 8A9D59CD, Key: Line1654.EDC7D, Value: We’re alive, ahh.
+Hash: C10DACDA, Key: VoiceDir1654.EDC7D, Value: relieved, out of breath
+Hash: 718C1010, Key: Line1657.EDC7D, Value: Ah, I thought I was done for.
+Hash: A7FC631D, Key: VoiceDir1657.EDC7D, Value: relieved, out of breath
+Hash: 42F63BAA, Key: Line1660.EDC7D, Value: Fates, I didn’t think I would make it.
+Hash: 79668EB7, Key: VoiceDir1660.EDC7D, Value: relieved, out of breath
+Hash: 29E4F1EE, Key: Line1663.EDC7E, Value: We’re alive.
+Hash: 605544FB, Key: VoiceDir1663.EDC7E, Value: relieved, out of breath
+Hash: 10D3A831, Key: Line1666.EDC7E, Value: I thought I was done for.
+Hash: 4743FB3E, Key: VoiceDir1666.EDC7E, Value: relieved, out of breath
+Hash: F7C25E74, Key: Line1669.EDC7E, Value: Fates, I didn’t think I would make it.
+Hash: 2E32B181, Key: VoiceDir1669.EDC7E, Value: relieved, out of breath
+Hash: C8DC4F1D, Key: Line1672.B6807, Value: Oh, we’re alive.
+Hash: FF4CA22A, Key: VoiceDir1672.B6807, Value: relieved, out of breath
+Hash: AFCB0560, Key: Line1675.B6807, Value: I thought I was done for.
+Hash: E63B586D, Key: VoiceDir1675.B6807, Value: relieved, out of breath
+Hash: 96B9BBA3, Key: Line1678.B6807, Value: Fates, I didn’t think I would make it.
+Hash: CD2A0EB0, Key: VoiceDir1678.B6807, Value: relieved, out of breath
+Hash: 6874222F, Key: Line1681.EDC7F, Value: Oh, we’re alive.
+Hash: 9EE4753C, Key: VoiceDir1681.EDC7F, Value: relieved, out of breath
+Hash: 4F62D872, Key: Line1684.EDC7F, Value: Ah, I thought I was done for.
+Hash: 85D32B7F, Key: VoiceDir1684.EDC7F, Value: relieved, out of breath
+Hash: 36518EB5, Key: Line1687.EDC7F, Value: Fates, I didn’t think I would make it.
+Hash: 6CC1E1C2, Key: VoiceDir1687.EDC7F, Value: relieved, out of breath
+Hash: 07BBBA3A, Key: Line1690.EDC80, Value: We’re alive.
+Hash: 3E2C0D47, Key: VoiceDir1690.EDC80, Value: relieved, out of breath
+Hash: EEAA707D, Key: Line1693.EDC80, Value: Oh, I thought I was done for.
+Hash: 251AC38A, Key: VoiceDir1693.EDC80, Value: relieved, out of breath
+Hash: D59926C0, Key: Line1696.EDC80, Value: Fates, I didn’t think I would make it.
+Hash: 0C0979CD, Key: VoiceDir1696.EDC80, Value: relieved, out of breath
+Hash: B1E7F209, Key: Line1753.BC3FE, Value: Oh! Whew, we’re alive.
+Hash: E8584516, Key: VoiceDir1753.BC3FE, Value: relieved, out of breath
+Hash: 98D6A84C, Key: Line1756.BC3FE, Value: Oh, I thought I was done for.
+Hash: CF46FB59, Key: VoiceDir1756.BC3FE, Value: relieved, out of breath
+Hash: 7FC55E8F, Key: Line1759.BC3FE, Value: Looks like we live another day.
+Hash: B635B19C, Key: VoiceDir1759.BC3FE, Value: relieved, out of breath
+Hash: 516725F9, Key: Line1762.EDC70, Value: We’re alive.
+Hash: 87D77906, Key: VoiceDir1762.EDC70, Value: relieved, out of breath
+Hash: 3855DC3C, Key: Line1765.EDC70, Value: I thought I was done for.
+Hash: 6EC62F49, Key: VoiceDir1765.EDC70, Value: relieved, out of breath
+Hash: 1F44927F, Key: Line1768.EDC70, Value: Looks like we live another day.
+Hash: 55B4E58C, Key: VoiceDir1768.EDC70, Value: relieved, out of breath
+Hash: F0AEBE1A, Key: Line1771.EDC71, Value: We’re alive. (exhale)
+Hash: 271F1127, Key: VoiceDir1771.EDC71, Value: relieved, out of breath
+Hash: D79D745D, Key: Line1774.EDC71, Value: I thought I was done for. (exhale)
+Hash: 0E0DC76A, Key: VoiceDir1774.EDC71, Value: relieved, out of breath
+Hash: BE8C2AA0, Key: Line1777.EDC71, Value: Looks like we live another day. (exhale)
+Hash: F4FC7DAD, Key: VoiceDir1777.EDC71, Value: relieved, out of breath
+Hash: 8FBEBA6A, Key: Line1780.BC3FF, Value: We’re alive.
+Hash: C62F0D77, Key: VoiceDir1780.BC3FF, Value: relieved, out of breath
+Hash: 76AD70AD, Key: Line1783.BC3FF, Value: (exhale) I thought I was done for.
+Hash: AD1DC3BA, Key: VoiceDir1783.BC3FF, Value: relieved, out of breath
+Hash: 5D9C26F0, Key: Line1786.BC3FF, Value: Looks like we live another day.
+Hash: 940C79FD, Key: VoiceDir1786.BC3FF, Value: relieved, out of breath
+Hash: 44C27904, Key: Line1789.EDC72, Value: (exhale) We’re alive.
+Hash: 7B32CC11, Key: VoiceDir1789.EDC72, Value: relieved, out of breath
+Hash: 162CA49E, Key: Line1792.EDC72, Value: I thought I was done for.
+Hash: 4C9CF7AB, Key: VoiceDir1792.EDC72, Value: relieved, out of breath
+Hash: FD1B5AE1, Key: Line1795.EDC72, Value: Looks like we live another day.
+Hash: 338BADEE, Key: VoiceDir1795.EDC72, Value: relieved, out of breath
+Hash: E40A1125, Key: Line1798.EDC73, Value: We’re alive.
+Hash: 1A7A6432, Key: VoiceDir1798.EDC73, Value: relieved, out of breath
+Hash: EF5E5CF6, Key: Line1801.EDC73, Value: I thought I was done for.
+Hash: 25CEB003, Key: VoiceDir1801.EDC73, Value: relieved, out of breath
+Hash: D64D1339, Key: Line1804.EDC73, Value: Looks like we live another day.
+Hash: 0CBD6646, Key: VoiceDir1804.EDC73, Value: relieved, out of breath

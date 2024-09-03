@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Accelerated Seasonal Battle Pass Unlock
+Hash: A646FFA4, Key: Description, Value: Includes 20 Tier Skips for Battle Pass and a cosmetic.

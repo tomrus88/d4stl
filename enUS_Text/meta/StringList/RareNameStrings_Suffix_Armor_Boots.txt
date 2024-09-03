@@ -1,0 +1,10 @@
+Hash: DD137038, Key: Boots001, Value: Stompers
+Hash: DD137039, Key: Boots002, Value: Kickers
+Hash: DD13703A, Key: Boots003, Value: Groundpounders
+Hash: DD13703B, Key: Boots004, Value: Talons
+Hash: DD13703C, Key: Boots005, Value: Stand
+Hash: DD13703D, Key: Boots006, Value: Cleats
+Hash: DD13703E, Key: Boots007, Value: Crushers
+Hash: DD13703F, Key: Boots008, Value: Hooves
+Hash: DD137040, Key: Boots009, Value: Striders
+Hash: DD137058, Key: Boots010, Value: Runners

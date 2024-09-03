@@ -1,0 +1,5 @@
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Rathma’s prophecy spoke of a serpent, right? If Elias knew that too, maybe he came looking for it. Did he ever tell you what he was planning?
+Hash: F413C4CC, Key: Line3.6D03F, Value: No. By that point, he wasn't my student anymore.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: weary, referring to Elias
+Hash: 8E091FB5, Key: Line5.6DE47, Value: What happened?
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: Curious, but polite--she can sense this is a touchy subject

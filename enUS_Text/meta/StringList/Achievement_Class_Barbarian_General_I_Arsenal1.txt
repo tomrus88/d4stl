@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Weapon Master
+Hash: 003892BF, Key: Desc, Value: Kill an enemy with a 2 Hand Bludgeoning, a 2 Hand Slashing, and a 1 Hand Weapon in 10 seconds. 
+Hash: 3A4912CF, Key: DescShort, Value: Kill enemies quickly with multiple weapon types.

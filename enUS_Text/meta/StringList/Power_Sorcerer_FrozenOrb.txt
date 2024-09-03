@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Frozen Orb
+Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost:{/c} {c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Unleash an orb that {c_important}{u}Chills{/u}{/c} for {c_number}[{SF_2}|%|]{/c} and expels piercing shards, dealing a total of {c_number}{payload:TOOLTIP_DAMAGE}{/c} damage. Upon expiration, {c_important}Frozen Orb{/c} explodes, dealing {c_number}{payload:FROSTBOLT_DAMAGE}{/c} damage and {c_important}{u}Chilling{/u}{/c} enemies for {c_number}[{SF_9}|%|]{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Shards Damage {icon:arrow,1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
+{icon:bullet,1.2} Explosion Damage {icon:arrow,1.2} {c_number}{payload:FROSTBOLT_DAMAGE}{/c}
+Hash: 62F3D8B8, Key: Mod5_Description, Value: While {c_important}{u}Healthy{/u}{/c}, the explosion of {c_important}Frozen Orb{/c} deals {c_number}[{SF_27}  * 100|%x|]{/c} increased damage.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Enhanced Frozen Orb
+Hash: B252E239, Key: Mod6_Description, Value: {c_important}Frozen Orb's{/c} explosion restores {c_number}{SF_23}{/c} Mana when hitting a {c_important}{u}Frozen{/u}{/c} enemy.
+Hash: A032CCF6, Key: Mod6_Name, Value: Destructive Frozen Orb
+Hash: 01B1EBBA, Key: Mod7_Description, Value: {c_important}Frozen Orb's{/c} explosion has a {c_number}[{SF_31} * 100|%|]{/c} chance to make all enemies hit {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_32}{/c} seconds. {c_important}{u}Frozen{/u}{/c} enemies are always made {c_important}{u}Vulnerable{/u}{/c}.
+Hash: A287F597, Key: Mod7_Name, Value: Greater Frozen Orb

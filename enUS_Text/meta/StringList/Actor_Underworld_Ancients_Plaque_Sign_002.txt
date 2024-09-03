@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Chalk Writing Over Ancient Symbols
+Hash: CC3C0A8F, Key: FlavorText, Value: "Forbidden Love"
+Hash: F2CA04D8, Key: NoticeSignText, Value: Lilith saw a way to escape the Eternal Conflict. She tells me it started with the seduction of the angel Inarius. All this time, he was just as fallible as any man.

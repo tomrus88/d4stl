@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Poison Imbuement
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:17}|%|]{/c}
+{/if}Imbue your weapons with lethal poison. Your next {c_number}{SF_0}{/c} {c_important}Imbueable{/c} Skills deal Poison damage and apply {c_number}[{SF_6}*100/{SF_7}*{SF_2}|%|]{/c} of their Base damage as additional Poisoning damage over {c_number}{buffduration:POISON_DOT}{/c} seconds. 
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Poisoning Damage {icon:arrow,1.2} {c_number}[{SF_6}*100/{SF_7}*{SF_2}|%|]{/c}
+Hash: 2577B2B4, Key: Mod1_Description, Value: Casting {c_important}Poison Imbuement{/c} generates {c_number}{SF_21}{/c} Energy, increased by {c_number}{SF_23}{/c} for each Nearby Poisoned enemy. 
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Poison Imbuement
+Hash: D618A933, Key: Mod0_Description, Value: {c_label}Lucky Hit:{/c} {c_important}Poison Imbued{/c} Skills have up to a {c_number}[{SF_13}*100|%|]{/c} chance to reduce the cooldown of {c_important}Poison Imbuement{/c} by {c_number}[SF_19]{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Mixed Poison Imbuement
+Hash: 74D6BC35, Key: Mod2_Description, Value: Critical Strikes with {c_important}Poison Imbued{/c} Skills deal {c_number}[{SF_14} * 100|%x|]{/c} increased Poisoning damage.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Blended Poison Imbuement

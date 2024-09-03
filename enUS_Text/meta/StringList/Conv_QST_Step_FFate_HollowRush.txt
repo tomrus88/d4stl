@@ -1,0 +1,2 @@
+Hash: 8ED9FF19, Key: Line1.1275AB, Value: (war cry)
+Hash: DF102AE6, Key: VoiceDir1.1275AB, Value: booming, rallying

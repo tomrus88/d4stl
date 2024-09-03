@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ghost
+Hash: 5A3B4CBE, Key: Line1.941B7, Value: FOOL! The fires will never die!
+Hash: C944B2EB, Key: VoiceDir1.941B7, Value: Possessed. Knocking the Player back, furious and ready to kill.

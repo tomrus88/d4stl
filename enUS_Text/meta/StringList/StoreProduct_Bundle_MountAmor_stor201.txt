@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Quicksilver
+Hash: A646FFA4, Key: Description, Value: The laughter in the fog falls silent, replaced by the gentle crunch of hooves in snow. Out of the gloom she appears. Not a ghost, but a spirit of the forest.
+Hash: 083EE0CE, Key: Quote, Value: A myth made real.
+Hash: 13A53A8B, Key: Series, Value: "The Silver Stag" Mount Armor

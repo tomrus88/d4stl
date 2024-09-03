@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Elias summoned Lilith to Sanctuary. He was once Horadrim.”
+Hash: 5A202CB1, Key: Line1.6DE47, Value: A member of the Order brought her into the world? They’re meant to protect us from demons.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Shocked
+Hash: F414A633, Key: Line3.6DE47, Value: No wonder this place is in disarray. The Horadrim is not what it once was.

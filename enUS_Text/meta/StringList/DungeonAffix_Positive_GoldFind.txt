@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_bonus}Gold Find{/c}
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: You find 30% more gold.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: You find 20% more gold.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: You find 10% more gold. 

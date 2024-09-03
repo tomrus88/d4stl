@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Demonic Heart
+Hash: F5C7BC0A, Key: Flavor, Value: Fresh from the chest of a slain demon, still hot to the touch.

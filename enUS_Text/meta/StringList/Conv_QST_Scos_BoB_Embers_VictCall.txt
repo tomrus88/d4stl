@@ -1,0 +1,2 @@
+Hash: 5D201C8E, Key: Line1.B20BA, Value: I hear a live one. Hurry.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, blunt

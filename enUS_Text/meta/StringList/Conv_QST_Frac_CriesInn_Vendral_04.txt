@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I destroyed the spirit of your son, but he possessed a deep hatred for you."
+Hash: 8EB3213A, Key: Line1.1029AF, Value: Yet I still feel him...I still hear his cries! I will never be free of the truth...
+Hash: DEE94D07, Key: VoiceDir1.1029AF, Value: A horse voice full if hysteria, slowly giving way to clarity of purpose. 
+Hash: 6736CAFC, Key: Line3.1029AF, Value: I sent my sweet boy away for a sin of my own making. The blood is on my hands...all of it.
+Hash: 3FBA74BE, Key: Line5.1029AF, Value: Heavens above, forgive me. I must go visit my son.
+Hash: 8FF0A08B, Key: VoiceDir5.1029AF, Value: fearful

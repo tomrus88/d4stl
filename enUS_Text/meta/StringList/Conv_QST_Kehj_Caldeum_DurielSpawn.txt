@@ -1,0 +1,4 @@
+Hash: D4479923, Key: Line1.BAE4, Value: What in the Hells are you?
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: disgusted
+Hash: 18870756, Key: Line7.14396B, Value: (scream)
+Hash: 68BD3323, Key: VoiceDir7.14396B, Value: <battle scream as he spawns>

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Frigid Cellar
+Hash: 003892BF, Key: Desc, Value: Sister Octavia has invited you to witness a miracle.

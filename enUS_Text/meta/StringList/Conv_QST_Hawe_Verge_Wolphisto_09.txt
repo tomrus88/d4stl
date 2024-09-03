@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What do you mean Inarius and Lilith are not so different?”
+Hash: F71E3DEE, Key: Line3.ACEF6, Value: The angel was already filled with hate when he became my prisoner. All I did was refine his anger.
+Hash: 9112B770, Key: Line5.ACEF6, Value: When he escaped back to your world, he brought it with him.

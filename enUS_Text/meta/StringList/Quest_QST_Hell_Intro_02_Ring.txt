@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Holdout 3
+Hash: E861394E, Key: Callback305Header, Value: PH Kill Mass
+Hash: A0BA1B2B, Key: Callback311Header, Value: PH Keep Enemies out of ring {c_green}0/2{/c}
+Hash: 3AAE94AD, Key: Callback313Header, Value: Protect Locran

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What will you do now?"
+Hash: 5D58B424, Key: Line1.E6891, Value: Eh, we need to lay low. We're wounded, but thanks to you, we may recover.
+Hash: DAD618B1, Key: Line6.54237, Value: Thank you, friend.
+Hash: 2203903E, Key: Line10.54239, Value: Uh, yes. Thank you.
+Hash: 7239BC0B, Key: VoiceDir10.54239, Value: Saying thank you because everyone else said it. Absent minded.

@@ -1,0 +1,2 @@
+Hash: 5D1088EA, Key: Line1.A5F52, Value: Sword and shield? I'd be happy to play the part of raider this time.
+Hash: CC19EF17, Key: VoiceDir1.A5F52, Value: As opposed to being the one raided (which is what happened in the past).

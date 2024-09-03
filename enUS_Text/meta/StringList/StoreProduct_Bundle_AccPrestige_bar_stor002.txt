@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Death Sentence
+Hash: A646FFA4, Key: Description, Value: "Call it justice. Call it murder. The difference is decided by history. The result, of course, is the same." - Lorath Nahr
+Hash: 083EE0CE, Key: Quote, Value: May the Light have mercy.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Accessories

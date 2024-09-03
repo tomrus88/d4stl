@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Pray for swift damnation.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Travel to the {LEVELAREA}
+Hash: 38AA8D97, Key: Callback10Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: 1F9943DA, Key: Callback13Header, Value: Defeat the {MONSTER}
+Hash: 0687FA1D, Key: Callback16Header, Value: Use the Jailer's Key to open the {GIZMO}
+Hash: 112E3759, Key: Callback30Header, Value: Slay the Malevolent Spector and collect the {ITEM}

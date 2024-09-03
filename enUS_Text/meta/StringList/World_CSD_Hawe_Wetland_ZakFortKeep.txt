@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Foul Undercrypts
+Hash: 003892BF, Key: Desc, Value: The sealed resting place of the Que-Hegan Sankekur.

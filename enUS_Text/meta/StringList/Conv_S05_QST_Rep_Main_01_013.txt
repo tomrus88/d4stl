@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's all this about?"
+Hash: 6AE78517, Key: Line3.1D9565, Value: Ahh, wanderer, so glad you’ve taken an interest! You know the Triune? The lunatics who bring the Tides of Hell? Well, we’ve caught a few lurking among us, plotting evils untold.
+Hash: BB1DB0E4, Key: VoiceDir3.1D9565, Value: Sarcastic. Looking squarely at Locran for "plotting evils untold."
+Hash: 435EC5C1, Key: Line5.1BCB9E, Value: The wanderer? I swear, my lords, I pray only for salvation.
+Hash: 9394F18E, Key: VoiceDir5.1BCB9E, Value: Amazed and excited to see the Wanderer. Quickly sticking to his act.
+Hash: 1BEED89B, Key: Line7.1D9565, Value: (scoffs) "Salvation." Pray on, then.
+Hash: 6C250468, Key: VoiceDir7.1D9565, Value: Fatalistic. He'd better pray...

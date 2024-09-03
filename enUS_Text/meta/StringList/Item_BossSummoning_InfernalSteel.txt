@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Living Steel
+Hash: A646FFA4, Key: Description, Value: Forged in Hall of the Penitent within central Dry Steppes to summon a powerful enemy. Requires {c_number}2{/c} in World Tier 3 and {c_number}5{/c} in World Tier 4. Found in Helltides from Tortured Gift of Living Steel.
+
+Drops randomly from Elites, Local Events, Treasure Goblins, Whisper Caches, Hellborne, and Blood Maiden.
+Hash: F5C7BC0A, Key: Flavor, Value: Warm to the touch.

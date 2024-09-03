@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm looking for Padrig."
+Hash: 6738683F, Key: Line3.1057FC, Value: I think I see him over by the tents, near the center of town.
+Hash: B76E940C, Key: VoiceDir3.1057FC, Value: Informative

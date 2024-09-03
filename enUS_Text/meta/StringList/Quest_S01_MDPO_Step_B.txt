@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: A vile mouth groans in the rock.
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the Malignant Berserkers: {LEFT}
+Hash: 5296A16C, Key: Callback6Header, Value: Destroy the {MONSTER}
+Hash: D29F0719, Key: Callback12Header, Value: Travel to the {LEVELAREA}

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You look worried."
+Hash: 5D72A440, Key: Line1.EDC76, Value: The attack on the Manor has left many wounded, and our healing supplies are almost exhausted.
+Hash: F7671DC2, Key: Line3.EDC76, Value: Please, could you travel to Cerrigar and ask Corman the Alchemist to send anything he can? And tell him to hurry, every moment is vital!

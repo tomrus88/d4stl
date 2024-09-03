@@ -1,0 +1,38 @@
+Hash: F2638B29, Key: Trading, Value: Trading
+Hash: 08734790, Key: Trade, Value: Trade
+Hash: BA4CE54E, Key: Inventory, Value: Inventory
+Hash: 47A3B35F, Key: Player1Name, Value: {s1}
+Hash: AE241BFA, Key: Choosing, Value: Selecting items for trade
+Hash: 72C025BD, Key: OfferedItems, Value: Lock in Offer
+Hash: 0CD2C5E9, Key: TradeAccepted, Value: Trade Accepted
+Hash: 64E059DF, Key: TradeCanceled, Value: Trade Canceled
+Hash: BCB83A34, Key: OfferItems, Value: Offer Trade?
+Hash: E8E35AB6, Key: CancelTrade, Value: Cancel Trade
+Hash: 1ED3C280, Key: AcceptTrade, Value: Accept Trade
+Hash: B932465B, Key: PhaseNumberState, Value: Phase {s1}/{s2}
+Hash: 57012844, Key: AddGoldToOffer, Value: Add Gold
+Hash: 42865E63, Key: AcceptTrade_Controller, Value: {icon:button4,2}  Accept Trade
+Hash: 7B388389, Key: Cancel_Controller, Value: {icon:button3,1.8}  Cancel Trade
+Hash: 75701D97, Key: OfferItems_Controller, Value: {icon:button4,1.8}  Lock in Offer
+Hash: 7053D5C1, Key: ConfirmTrade_Controller, Value: {icon:button4,1.8}  Confirm Trade?
+Hash: 0A5F07C5, Key: Player1Stage1Prompt, Value: Choose item(s) and / or gold to offer
+Hash: 59BE1146, Key: Player2Stage1Prompt, Value: Choosing Item(s)
+Hash: 1DCFCFE8, Key: Stage2Prompt, Value: Offer Locked In
+Hash: 86C63D51, Key: CancelTradeKBM_Prompt, Value: {icon:KeyPrompt_Escape,2} Cancel Trade
+Hash: E81B5F58, Key: EditOffer, Value: Edit Offer
+Hash: 95D40EE9, Key: NotificationTitle, Value: Trade Complete
+Hash: 048086B5, Key: NotificationBody, Value: Your item(s) from the trade are now in your inventory
+Hash: D8268928, Key: NotificationBodyOneWay, Value: The trade was successfully completed
+Hash: 4CAFA633, Key: AcceptTradeInviteController, Value: {icon:left,2}  {c_highlight}(Hold){/c} Accept
+Hash: 9F80EEB7, Key: DeclineTradeInviteController, Value: {icon:right,2}  {c_highlight}(Hold){/c} Decline
+Hash: 37943BB1, Key: AddGoldPrompt, Value: {icon:r3,2} Add Gold
+Hash: B07AEDDA, Key: EditOfferPrompt, Value: {icon:button3,2} Edit Offer
+Hash: 91FE9EFA, Key: CancelTradeController, Value: {icon:button2,1.8} Cancel Trade
+Hash: F986CBA8, Key: CancelTradeDialogTitle, Value: Cancel Trade
+Hash: 6C5F2794, Key: CancelTradeDialogBody, Value: Are you sure you want to cancel the trade?
+Hash: B1AAF0FE, Key: DialogConfirm, Value: Yes
+Hash: E68DD3A4, Key: DialogDecline, Value: No
+Hash: 13CCAF42, Key: DialogConfirmController, Value: {icon:button1,2} Yes
+Hash: 9D4F9968, Key: DialogDeclineController, Value: {icon:button2,2} No
+Hash: 3D813C61, Key: RemoveItemFromTrade, Value: {icon:button3,1.8) Remove
+Hash: 4EF067C1, Key: TradeExpired, Value: Trade Request Expired

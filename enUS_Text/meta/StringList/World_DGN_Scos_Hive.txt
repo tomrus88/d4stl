@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hive
+Hash: 003892BF, Key: Desc, Value: An insatiable will drives these creatures to feed.

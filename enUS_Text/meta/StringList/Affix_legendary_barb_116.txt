@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Forward Momentum
+Hash: 003892BF, Key: Desc, Value: Knocking Back an enemy grants you {c_random}[Affix_Value_1|%|]{/c} Movement Speed for {c_number}[Affix_Value_2]{/c} seconds.

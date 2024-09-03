@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Salt and brine have retaken all.
+Hash: E45EC27D, Key: Callback43Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 7E533BFF, Key: Callback45Header, Value: Activate the {GIZMO}
+Hash: 04898A62, Key: Callback57Header, Value: Slay all enemies in the Secluded Grotto {KAM_REVEALED_COUNT}
+Hash: BCE26C3F, Key: Callback63Header, Value: Slay the Avaricious Captains: {LEFT}
+Hash: C2358ADD, Key: Callback70Header, Value: Travel to the {LEVELAREA}
+Hash: 5C2A045F, Key: Callback72Header, Value: Travel to the {LEVELAREA}

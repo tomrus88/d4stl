@@ -1,0 +1,61 @@
+Hash: FE7CC0FC, Key: AvailablePacts, Value: Pacts:
+Hash: 574D5865, Key: PactValue, Value: {c_number}{s2}{/c}{c_number_req}/{s1}{/c}
+Hash: 31CCEBF0, Key: Medallion_TotalSeals, Value: Vampiric Powers
+Hash: 99364FA8, Key: Medallion_ActiveSeals, Value: Active:
+Hash: 07941A3F, Key: Medallion_InactiveSeals, Value: Inactive:
+Hash: C31DD890, Key: UpgradeSeal_BTN, Value: Spend: {c_number}{s1}{/c} (of {s2}) {icon:Potent_Blood_Icon, 2.0} 
+Hash: C97D4BD7, Key: UpgradeSeal_HeaderTitle, Value: Spend Potent Blood to upgrade or unlock powers.
+Hash: 0BE1C114, Key: UpgradeSeal_CurrencyValue, Value: Total {icon:Potent_Blood_Icon, 2.0} {s1}
+Hash: BF3C83F9, Key: UpgradeSeal_AllocateXP, Value: Allocate XP
+Hash: 9695EFE8, Key: UpgradeSeal_CurrentLevel_Title, Value: Current Level: {c_number}{s1}{/c}
+Hash: CBFCB3F0, Key: UpgradeSeal_Description, Value: Choose to apply XP towards unlocking or upgrading a Vampiric Power.
+Hash: E78FE95E, Key: UpgradeSeal_PanelTitle, Value: Choose One
+Hash: D5A1B538, Key: UpgradeSeal_AvailableXP_Description, Value: Select a Vampiric Power to unlock or upgrade by {c_number}{s1} XP.{/c}
+Hash: C9A3BD63, Key: CurrentSeal_XPAmount, Value: {c_number}{s1}{/c} {c_number_req}/ {s2} XP{/c}
+Hash: 545DD6A9, Key: UpgradeSeal_SealLevel, Value: {s1}
+Hash: 568E103C, Key: XPAmount, Value: {s1}XP
+Hash: 7D331962, Key: UpgradeSeal_Warning, Value: You will not be able to cancel or reroll your Vampiric Power choices once you have paid the cost.
+Hash: AE5FB7DB, Key: BloodSeal_Tootip_Header, Value: Vampiric Power
+Hash: C3512289, Key: BloodSeal_Tooltip_ActivationCost, Value: Activation Cost:
+Hash: 6D95DB53, Key: BloodSeal_Tooltip_Instructions, Value: Place into the Sanguine Circle
+Hash: CA56DA44, Key: BloodSeal_Tooltip_NotUnlocked, Value: Not Yet Unlocked
+Hash: 2E17627E, Key: SinglePactAmount, Value: {s1}
+Hash: 62CECA9A, Key: Vamptide_Name, Value: Blood Harvest
+Hash: 723847B8, Key: SanguineCircle_Inventory_TabIcon, Value: {icon:VampireCircleTabIcon, 3.3}
+Hash: 70FC208A, Key: AlterCircle, Value: Alter Sanguine Circle
+Hash: E5BA8438, Key: BloodSeal_Equip, Value: Equip
+Hash: 05F3C29B, Key: BloodSeal_Unequip, Value: Unequip
+Hash: 23B37FF1, Key: BloodSeal_Tooltip_Inactive, Value: Insufficient Pacts to Activate
+Hash: 88AC8C5B, Key: BloodSeal_Tooltip_Equipped, Value: Equipped
+Hash: EC1B1FB2, Key: PactArmor_Tooltip_PactsGranted, Value: Pacts Granted {c_number_req}({/c}{s1}{c_number_req}/{s2}){/c}:
+Hash: D37519B5, Key: Medallion_Pact_Tooltip_Divinity, Value: Pact of Divinity
+Hash: E772B4B9, Key: Medallion_Pact_Tooltip_Eternity, Value: Pact of Eternity
+Hash: 6F21B8CA, Key: Medallion_Pact_Tooltip_Ferocity, Value: Pact of Ferocity
+Hash: 2B01937E, Key: PotentBlood_Currency_Tooltip, Value: {s1} Potent Blood (Unlocks or Upgrades Vampiric Powers)
+Hash: A736A9DE, Key: PowersStateValue, Value: {s1}
+Hash: 7972E47E, Key: PactChangeNotificationHeader, Value: Pacts Updated
+Hash: 2A0084BA, Key: PactChangeNotificationMessage, Value: Go to the Sanguine Circle
+Hash: 03FDE1F2, Key: Locked, Value: Locked
+Hash: 83C92AA2, Key: BloodSeal_Tooltip_Power_Level, Value: Level {s1}
+Hash: 43F7A047, Key: BloodSeal_Tooltip_Power_Level_Max, Value: Max Level
+Hash: 2D24DFDA, Key: AvailablePacts_Descriptor, Value: {c_number_req}{c_number}Available{/c} / Required{/c}
+Hash: EC37B742, Key: BloodSeal_Tooltip_Unlock_Roll, Value: Acquired with Potent Blood
+Hash: E0BDB517, Key: BloodSeal_Tooltip_Unlock_Quest_Generic, Value: Acquired from Seasonal Quest
+Hash: 74528036, Key: BloodSeal_Tooltip_Unlock_BloodHarvest, Value: Acquired from the Blood Harvest
+Hash: C9D1389A, Key: UpgradeSeal_FullUpgrades, Value: {c_highlight}All powers are fully upgraded{/c}
+Hash: D89CDD65, Key: UpgradeSeal_Complete, Value: Your Vampiric Power has been upgraded.
+Hash: 66976002, Key: ArmorPact_ToolTip_Divinity, Value: Pact of Divinity {s1}
+Hash: 7A94FB06, Key: ArmorPact_ToolTip_Eternity, Value: Pact of Eternity {s1}
+Hash: 0243FF17, Key: ArmorPact_ToolTip_Ferocity, Value: Pact of Ferocity {s1}
+Hash: B0FB253E, Key: AddPactsButtonAction, Value: Add Pacts
+Hash: 20F1CDA3, Key: RemovePactsButtonAction, Value: Remove Pacts
+Hash: A30F36D8, Key: BloodSealUnlockPanelMsg, Value: {s1} has been unlocked
+Hash: 5CBEB1D4, Key: BloodSealUpgradePanelMsg, Value: {s1} has been upgraded
+Hash: 87ABEC2F, Key: BloodSealUpgradePanelTitle, Value: Vampiric Power Upgraded
+Hash: F5ECE57B, Key: BloodSeal_Tooltip_Unlock_Quest_01, Value: Acquired from "Blood Money" (Quest)
+Hash: F5ECE57F, Key: BloodSeal_Tooltip_Unlock_Quest_05, Value: Acquired from "A Witness in the Dust" (Quest)
+Hash: F5ECE580, Key: BloodSeal_Tooltip_Unlock_Quest_06, Value: Acquired from "Beckoning Thirst" (Quest)
+Hash: F5ECE583, Key: BloodSeal_Tooltip_Unlock_Quest_09, Value: Acquired from "Battle of Fear and Faith" (Quest)
+Hash: F5ECE59C, Key: BloodSeal_Tooltip_Unlock_Quest_11, Value: Acquired from "A Serpent Cornered" (Quest)
+Hash: 0BDD9286, Key: BloodSeal_Tooltip_UnlockText_PH, Value: [PH] Unlock by defeating Lord Zir.
+Hash: BAB55F60, Key: Upgrade_Equipped_Indicator, Value: {c_bonus}Currently Equipped{/c}

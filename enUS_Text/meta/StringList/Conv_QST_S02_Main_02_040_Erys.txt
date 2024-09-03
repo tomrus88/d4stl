@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What’s happening here?"
+Hash: 8F238278, Key: Line1.1697C7, Value: Came looking for the Magistrate, too. These vampiric cult members conceal themselves in more places than you’d imagine.
+Hash: DF59AE45, Key: VoiceDir1.1697C7, Value: Matter-of-fact while they explain the bad news.
+Hash: 402AD5FC, Key: Line5.1697C7, Value: Have a look yourself. You’ll see what I mean.

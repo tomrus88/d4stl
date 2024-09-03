@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Lion of Arreat
+Hash: A646FFA4, Key: Description, Value: After the fall of Sescheron, a warrior emerges from the Northern Steppes… First born of Qual-Kehk, the Lion of Arreat.
+Hash: 083EE0CE, Key: Quote, Value: In the image of the Ancients.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

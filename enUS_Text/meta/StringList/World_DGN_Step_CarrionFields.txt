@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Carrion Fields
+Hash: 003892BF, Key: Desc, Value: The defilers of this land were cursed to wander it forever.

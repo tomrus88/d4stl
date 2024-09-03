@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Void
+Hash: 003892BF, Key: Desc, Value: {c_important}Blight's{/c} defiled area, when spawned, pulls in enemies around the affected area.

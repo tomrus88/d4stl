@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D3A8F70, Key: Line1.BB984, Value: Today's hunt has been blessed. It'll be a good one.
+Hash: 91238274, Key: Line5.BB984, Value: I saw the wolf this morning while I was out setting traps. Locked eyes with him.
+Hash: 2B18013F, Key: Line7.BB9A4, Value: He's still healthy?
+Hash: C50C7578, Key: Line9.BB984, Value: Aye, fur still as white as the moon. I'll take any good omen I can find.

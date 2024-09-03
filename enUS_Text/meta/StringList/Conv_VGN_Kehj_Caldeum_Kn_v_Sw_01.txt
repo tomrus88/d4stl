@@ -1,0 +1,2 @@
+Hash: 5A28BD3C, Key: Line1.836C1, Value: Don't let them surround you!
+Hash: C9322369, Key: VoiceDir1.836C1, Value: yelled, in battle

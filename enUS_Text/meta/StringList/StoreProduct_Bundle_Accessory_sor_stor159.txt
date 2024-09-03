@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Succubus Charm
+Hash: A646FFA4, Key: Description, Value: If worn for too long, some say the wearer loses control and develops horrifying tendencies such as craving blood, killing mortals, and taking their souls.
+Hash: 083EE0CE, Key: Quote, Value: Blackjade's lingering allure.
+Hash: 13A53A8B, Key: Series, Value: "Blackjade" Accessories

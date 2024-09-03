@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Skeletal Simulacrum
+Hash: 003892BF, Key: Desc, Value: When consuming a Corpse, there is a {c_random}[Affix_Value_1|%|]{/c} chance to also create a decaying {c_important}Skeletal Simulacrum{/c} that seeks enemies but cannot attack. When it dies, it explodes for {c_number}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Shadow damage. 
+
+This effect is treated as a {c_important}Macabre{/c} Skill.

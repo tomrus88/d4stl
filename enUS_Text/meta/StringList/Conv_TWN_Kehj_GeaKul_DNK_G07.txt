@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED9AEEB, Key: Line1.125DFB, Value: Feels so soft... like a flower, almost? (giggle) Do you hear that?
+Hash: DF0FDAB8, Key: VoiceDir1.125DFB, Value: drugged on opium, aloof
+Hash: 675D58AD, Key: Line3.125DFB, Value: It’s better in here... (giggle) Soft and quiet.

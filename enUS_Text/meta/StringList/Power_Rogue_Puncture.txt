@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Puncture
+Hash: 003892BF, Key: desc, Value: {if:SF_25}{c_label}Energy Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{if:SF_13}{c_label}Generate Combo Point:{/c} {c_resource}1{/c}
+{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Throw blades a short distance, dealing {c_number}{payload:IMPACT}{/c} damage. Every {c_number}{SF_20}rd{/c} cast Slows enemies by {c_number}[{SF_15}*100|%|]{/c} for {c_number}{buffduration:SLOW}{/c} seconds. Critical Strikes will always Slow.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT}{/c}
+Hash: 2577B2B4, Key: Mod1_Description, Value: Gain {c_number}{SF_9}{/c} Energy when {c_important}Puncture{/c} damages a Crowd Controlled enemy.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Puncture
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Puncture{/c} now throws {c_number}3{/c} blades in a spread, each dealing {c_number}[{SF_21} * 100|%|]{/c} of its Base damage. Hitting an enemy with at least {c_number}2{/c} blades at once makes them {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_18}{/c} seconds. 
+Hash: 99335313, Key: Mod3_Name, Value: Fundamental Puncture
+Hash: 74D6BC35, Key: Mod2_Description, Value: Every {c_number}{SF_20}rd{/c} cast of {c_important}Puncture{/c} will also ricochet up to {c_number}2{/c} times. Critical Strikes will always ricochet.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Primary Puncture

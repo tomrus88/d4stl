@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Flesh from bone, limb from limb.
+Hash: 538236DE, Key: Callback17Header, Value: Free the Prisoners: {LEFT}
+Hash: 9211671E, Key: Callback35Header, Value: Return the Stone Carving to the Pedestal: {LEFT}
+Hash: 2C05E0A0, Key: Callback37Header, Value: Travel to the {LEVELAREA}
+Hash: 976485BC, Key: Callback42Header, Value: Defeat the {MONSTER}

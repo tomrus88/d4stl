@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Vera
+Hash: 91531F8E, Key: Line5.F52F0, Value: Don't you dare (cough) touch me! (gasping) This (cough) is all your fault! (gasping)
+Hash: 005C85BB, Key: VoiceDir5.F52F0, Value: Hateful, raging, barely able to get the words out between gasps and raspy wheezing.

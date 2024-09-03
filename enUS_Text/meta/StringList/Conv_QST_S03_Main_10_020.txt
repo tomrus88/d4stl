@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The Loom is destroyed."
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: I know.
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: I was… so fearful of this moment. The thought of it was abhorrent, beyond reckoning.
+Hash: 4065B98F, Key: Line5.18AEA4, Value: The nightmares came to pass. The dreams, snuffed out. And yet, despite all that, here I am: my heart beating, my hands my own.
+Hash: 18E96351, Key: Line7.18AEA4, Value: Because of you. You freed me, and showed me what I refused to see. So thank you. Truly.

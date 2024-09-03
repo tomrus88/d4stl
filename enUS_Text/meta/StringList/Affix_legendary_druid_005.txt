@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mangled
+Hash: 003892BF, Key: Desc, Value: While in Werebear form, you gain {c_random}[Affix_Value_1||]{/c} Spirit every {c_number}[Affix."Static Value 0"]{/c} seconds.

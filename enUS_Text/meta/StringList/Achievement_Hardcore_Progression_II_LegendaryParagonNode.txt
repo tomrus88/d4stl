@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Feat of the Challenger
+Hash: 003892BF, Key: Desc, Value: Unlock 2 Legendary Paragon Nodes in Hardcore Mode.

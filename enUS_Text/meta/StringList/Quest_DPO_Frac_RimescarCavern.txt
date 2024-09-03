@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Twisting of creatures, writhing of limbs. 
+Hash: 059C64AB, Key: Callback5Header, Value: Defeat the {MONSTER}
+Hash: 24EC6278, Key: Callback20Header, Value: Destroy the {MONSTER}
+Hash: FD700C3A, Key: Callback40Header, Value: Travel to the {LEVELAREA}
+Hash: CB4D78C0, Key: Callback46Header, Value: Destroy the {MONSTER}: {LEFT}

@@ -1,0 +1,114 @@
+Hash: 004146EC, Key: Talk, Value: Talk
+Hash: 0040D8BA, Key: Shop, Value: Shop
+Hash: 073FA750, Key: Craft, Value: Craft
+Hash: D1A6F011, Key: DefaultRank, Value: Default Rank Name
+Hash: 46A37FD2, Key: RepairItem, Value: Place item to see cost
+Hash: 92EFB312, Key: AddSocket, Value: Add Socket
+Hash: 2909DDB9, Key: SelectARecipe, Value: Select a recipe to learn more about it.
+Hash: DC238B83, Key: RequiredMaterials, Value: Required Materials
+Hash: 7233E57F, Key: GoldCost, Value: Gold Cost: 
+Hash: 629E5DFF, Key: CraftItem, Value: Craft Item
+Hash: 7251BA77, Key: ShopPage, Value: Shop
+Hash: 3C61F1A9, Key: TalkPage, Value: Talking
+Hash: 775A7348, Key: ItemComplete, Value: Item 
+Complete
+Hash: 0001AAF9, Key: All, Value: All
+Hash: B846E908, Key: NoRecipes, Value: No enchantments available.
+Hash: 6B9109FF, Key: UnsocketSpells, Value: Unsocket All Your Spell Runes
+Hash: 72FA87D3, Key: TempPage, Value: TODO
+Hash: 1B1600CF, Key: AddSocketPage, Value: Socket
+Hash: 01A4D010, Key: AddSocketDescript, Value: Sockets can be added to
+Hash: 04ED5900, Key: RemoveGemCost, Value: Remove Gems: {s1}
+Hash: 04F43CC4, Key: RemoveGemPage, Value: Remove Gem
+Hash: D0CA11C5, Key: SocketList, Value: Helms
+Bracers
+Belts
+Shields
+Chest Armor
+Amulets
+Hash: 46A705E0, Key: RepairPage, Value: Repair
+Hash: 9BC56C59, Key: RepairEquippedCost, Value: Equipped: {s1}
+Hash: B3DA32B5, Key: RepairAllCost, Value: All Items: {s1}
+Hash: E95B49CB, Key: RepairItemCost, Value: Repair Item: {s1}
+Hash: CEDD6FB6, Key: CraftingSortLabel, Value: Show
+Hash: 629B0049, Key: CraftCost, Value: Craft: {s1}
+Hash: 8EE0E300, Key: Blacksmith_Old, Value: Blacksmith
+Hash: D3D8CE8E, Key: Jeweler, Value: Jeweler
+Hash: 7953476C, Key: RankLabel, Value: Level {s1}
+Hash: DFC98343, Key: NextRankRewards, Value: Rewards for Training
+Hash: BE091812, Key: RankDetails, Value: Train the {S1} to increase experience, 
+learn new recipes and level up.
+Hash: 1B0F1D0B, Key: AddSocketCost, Value: Add Socket: {s1}
+Hash: 04F0B6B6, Key: RemoveGemItem, Value: Place item to see cost
+Hash: E76C3C87, Key: RemoveGem, Value: Remove Gem
+Hash: E779FE85, Key: RemoveGemDescript, Value: Removing gems from an item returns both the item and gems to you intact.
+Hash: 324DD13C, Key: RunesmithPage, Value: Runesmithing
+Hash: F834DD36, Key: CombineCost, Value: Combine: {s1}
+Hash: 237004F9, Key: CombineRequiresGems, Value: {c_red}Requires 3 Gems{/c}
+Hash: EE0851BF, Key: CanUse, Value: Can Equip
+Hash: CEED8A06, Key: HaveMaterials, Value: Have Materials
+Hash: E0D3BBDE, Key: NewRecipeFolder, Value: {c:FFFFFFFF}NEW!{/c} {s1}
+Hash: 9DF55360, Key: SalvagePage, Value: Salvage
+Hash: 0001EC16, Key: PVP, Value: Redeem PvP Tokens
+Hash: 1FBDDED7, Key: PVPTokenLabel, Value: Available PvP Tokens:
+Hash: AB5272E4, Key: PVPRedeemButtonLabel, Value: Redeem %d PvP Tokens for items!
+Hash: 6AE7A07A, Key: AcceptReforge, Value: Accept
+Hash: F73E1E30, Key: CancelReforge, Value: Cancel
+Hash: D0A0271A, Key: TransmogrifyUnlockConfirmation, Value: Do you wish to spend {s1} to unlock this item for Transmogrification?
+Hash: 199AA088, Key: TransmogPage, Value: Transmogrify
+Hash: 199BDB45, Key: Transmogrify, Value: Transmogrify
+Hash: EF2A26BE, Key: TransmogrifyCost, Value: Transmogrify: {s1}
+Hash: AC16BB8D, Key: MadeToOrderAddAffix, Value: Add Affix
+Hash: 9F8F64CF, Key: MadeToOrderAffixToolTip, Value: {c_gold}{s1}{/c}
+{c_blue}{s2}{/c}
+Hash: 39B0A3CA, Key: TransmogrifyUnlockCost, Value: Unlock Transmogrify: {s1}
+Hash: AE203FF3, Key: RemoveTransmogrify, Value: Remove Transmogrification
+Hash: 1BE92E51, Key: TransmogToggleUnavailable, Value: Show Unavailable
+Hash: BD4C7C63, Key: TotalGoldCost, Value: Total Gold Cost
+Hash: 87120B68, Key: MadeToOrderAffixRightClick, Value: Right click a Property to reset it to Random
+Hash: E3B4EE70, Key: TransmogrifyTooltipUnlockable, Value: Add this inventory item's appearance to your collection
+Hash: 30EE40B4, Key: TransmogrifyTooltipUnavailable, Value: You do not own this item
+Hash: 00518194, Key: TransmogrifyTooltipInapplicable, Value: This cannot be applied to the current item
+Hash: 796D84E3, Key: TransmogrifySelectAnItem, Value: Select An Item
+Hash: 381969A8, Key: TransmogrifyTooltipCurrentLook, Value: {c:FF696969}Current{/c}
+Hash: 8EF986BB, Key: TransmogrifyWarning, Value: WARNING: Transmogrifying an item will bind it to your account.  Continue?
+Hash: EF7B6548, Key: MadeToOrderAffixToolTipCost, Value: {c_gold}{s1}{/c}
+{c_blue}{s2}{/c}
+
+{c_gold}Base Cost:{c_gold} {s3}
+Hash: 9AE2B387, Key: TransmogrifyPreview, Value: Preview
+Hash: 2330F5DE, Key: TransmogrifyComplete, Value: COMPLETE!
+Hash: E3DB81E4, Key: TransmogrifyNewLook, Value: New Look
+Hash: FC38F382, Key: Blacksmith, Value: Blacksmith
+Hash: FA88D899, Key: RemoveEnchantmentWarning, Value: This will restore the item to its original state.  Are you sure?
+Hash: D4DB0991, Key: TransmogrifyIntro, Value: The Mystic can make one item look like another item. This process is called transmogrification.
+Hash: C5CBF4E7, Key: ValidItemAffixesTitle, Value: Possible Properties
+Hash: AB553444, Key: DisplayPossibleProperties, Value: Display Possible Replacement Properties
+Hash: 421CC100, Key: TransmogUnlocked, Value: Transmog Unlocked
+Hash: 4B6909B5, Key: NewTransmog, Value: New Transmog!
+Hash: 3FE37A86, Key: RevertAffix, Value: Revert to Original Affix:
+{s1}
+Hash: 96C57DE5, Key: TransmogrifyLookTooltip, Value: {s1}: {s2}
+Hash: 70010AA0, Key: SelectTransmogLook, Value: Select a New Look
+Hash: B0573D28, Key: HighestUsable, Value: Highest Usable
+Hash: 5594959A, Key: TransmogrifyTooltipOriginalLook, Value: {c:FF696969}Original{/c}
+Hash: E29F8574, Key: SlotMachinePage, Value: Shard of Hatred
+Hash: 4D60589D, Key: TransmogrifyCurrentLook, Value: Current Look
+Hash: C175ABFF, Key: UpgradeJewel, Value: Upgrade Jewel
+Hash: 9F479B1F, Key: JewelUpgrade, Value: Jewel Upgrade
+Hash: 199A4778, Key: VENDOR_TYPE_WEAPON, Value: Weapons
+Hash: 0701C68F, Key: VENDOR_TYPE_ARMOR, Value: Armor Vendor
+Hash: 7591D288, Key: VENDOR_TYPE_SILVERSMITH, Value: Rings & Amulets
+Hash: 102AA6E6, Key: VENDOR_TYPE_SCRIBE, Value: Scrolls
+Hash: 0C3D5188, Key: VENDOR_TYPE_ALCHEMIST, Value: Potions, Bubbles, & Brew
+Hash: C5509E89, Key: VENDOR_TYPE_LEGENDARY, Value: Legendary Vendor
+Hash: 0C42A90F, Key: VENDOR_TYPE_GAMBLING, Value: Purveyor of Curiosities
+Hash: 07D96961, Key: VENDOR_TYPE_MOUNT, Value: Mount Vendor
+Hash: 1ADFFB35, Key: VENDOR_TYPE_STABLEMASTER, Value: Stable Master
+Hash: 342ECC1A, Key: VENDOR_TYPE_PVP_COSMETIC, Value: Odds and Ends
+Hash: EE62F8B6, Key: VENDOR_TYPE_PVP_MOUNT, Value: Unconventional Mount Armor
+Hash: A0C47444, Key: VENDOR_TYPE_PVP_GAMBLING, Value: Unsavory Oddities
+Hash: C7E63BB2, Key: VENDOR_TYPE_PVP_SCROLL, Value: Cursed Scroll
+Hash: DC705AD3, Key: MysteryItemReceived, Value: You received a {s1}
+Hash: F9F335F1, Key: Healer, Value: Healer
+Hash: AF2C7398, Key: VENDOR_TYPE_HIBERNAL_SOLSTICE, Value: Midwinter Square

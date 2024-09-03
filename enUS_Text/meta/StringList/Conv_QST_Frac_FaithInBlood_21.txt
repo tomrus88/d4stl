@@ -1,0 +1,8 @@
+Hash: A6792CD6, Key: Line15.FEF63, Value: My friend, give me just a moment and I will meet you outside. You deserve a proper thanks.
+Hash: F6AF58A3, Key: VoiceDir15.FEF63, Value: Still a tad weak from sickness.
+Hash: 916E48C5, Key: Line5.FEF63, Value: And thank you Petr, Kvera. I know it wasn't easy for faithful folk to do what you did for me.
+Hash: 0077AEF2, Key: VoiceDir5.FEF63, Value: Pronounciation: Pet-err, Kveh-rah.
+Hash: C5573BEB, Key: Line9.FEF74, Value: Sister, you saved my boy. There was no choice to make.
+Hash: 3460A218, Key: VoiceDir9.FEF74, Value: "Don't be silly"
+Hash: 4542BC85, Key: Line11.128F75, Value: Oh, if we did not do everything we could to save you, how could we call ourselves followers of the Light?
+Hash: 9C3E61F2, Key: VoiceDir11.128F75, Value: "Don't be silly"

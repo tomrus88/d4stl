@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Giving
+Hash: A646FFA4, Key: Description, Value: Behold the Mother's Giving. Ours are boons bestowed by Her grace.
+Hash: 083EE0CE, Key: Quote, Value: Implements of Her Chosen.
+Hash: 13A53A8B, Key: Series, Value: Weapon Cosmetics

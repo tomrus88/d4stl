@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Portal Activator
+Hash: CC38ADCB, Key: FlavorName, Value: Opens the way to the Artificer's Realm for a small price.

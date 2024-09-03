@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Horadric Amulet
+Hash: F5C7BC0A, Key: Flavor, Value: The ancient symbol of the Horadrim, made of hammered copper

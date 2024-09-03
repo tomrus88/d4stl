@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Electrocution Support
+Hash: A646FFA4, Key: Description, Value: {c_number}[{SF_6}*100]%{/c} of the supported skill's damage dealt is applied as Lightning damage over {c_number}[{SF_1}+{SF_4}|1|]{/c} seconds and has a {c_number}[Collectible_Power_Value_1#S03_Tuning_DoT_Lightning*100]%{/c} chance to Stun enemies for {c_number}{SF_3}{/c} seconds.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Stun Chance {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_DoT_Lightning*100+1]%{/c}
+Hash: E971A20F, Key: Modifier, Value: {c_number}[{SF_0}*100]%{/c} of the damage is applied as Lightning damage.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Safe, at last."
+Hash: 282084CA, Key: Line7.8C8DF, Value: (exhale) We made it! Ha!
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: Relieved. Exhausted. 
+Hash: C214FE4C, Key: Line9.8C8DF, Value: I just need... one brief moment.
+Hash: 311E6479, Key: VoiceDir9.8C8DF, Value: Relief fades. Exhausted. Feverish.

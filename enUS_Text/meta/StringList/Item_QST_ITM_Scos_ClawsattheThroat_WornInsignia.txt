@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Worn Insignia
+Hash: F5C7BC0A, Key: Flavor, Value: A tarnished emblem stained with ash. It displays a beast's visage, worn with age.

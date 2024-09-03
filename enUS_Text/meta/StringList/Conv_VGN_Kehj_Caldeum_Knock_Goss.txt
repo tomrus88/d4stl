@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you looking for?"
+Hash: F72F7F56, Key: Line3.BC41C, Value: A cultist shelters here. One of those that set demons upon Caldeum.
+Hash: 9123F8D8, Key: Line5.BC41C, Value: The city lies in shambles after what the heretics have done!
+Hash: 002D5F05, Key: VoiceDir5.BC41C, Value: voice raised; intended to be heard by cultist within the house

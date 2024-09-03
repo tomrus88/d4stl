@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolves' Messenger Case
+Hash: A646FFA4, Key: Description, Value: Contains Boots and Chest Armor once worn while rallying forces against the Helltide.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Exhuming the Forgotten
+Hash: 5A270F7C, Key: Line1.804B7, Value: "By stone and root, by tears and pain, we bear this flame that must remain."
+Hash: F41B88FE, Key: Line3.804B7, Value: "Dead eyes stained with ash and ember, cursed are we who must remember..."
+Hash: 8E100280, Key: Line5.804B7, Value: Ah, an elegy written by Airidah. This...this is a memorial to all who died fighting Astaroth.

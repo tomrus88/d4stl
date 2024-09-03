@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen an old woman in an orange scarf?"
+Hash: 1864ABE0, Key: Line7.125DE2, Value: I think I know who you mean...she's been living here some years, one of those who barely made it out of Alcarnus, if, um, if memory serves.
+Hash: 689AD7AD, Key: VoiceDir7.125DE2, Value: A dissipated local priest. Happy to help, but not much use
+Hash: F0E855A2, Key: Line9.125DE2, Value: Name's... Sophie or something. And doesn't come to church very often. Not that I blame her.

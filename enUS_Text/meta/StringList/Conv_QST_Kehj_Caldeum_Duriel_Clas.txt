@@ -1,0 +1,5 @@
+Hash: 730059E6, Key: Line1.BAE4.Bar, Value: Corpses, defiled by dark magic. There’s no honor in a death like this.
+Hash: 7300649C, Key: Line1.BAE4.Dru, Value: These bodies are rank with corruption. Nothing born of nature did this.
+Hash: 73008D67, Key: Line1.BAE4.Nec, Value: Fresh kills, but already maggoty. Something speeds the decay.
+Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: Bitten, ripped, and riddled with holes. These bodies aren’t the Knights’ work.
+Hash: 7300A405, Key: Line1.BAE4.Sor, Value: Foul magic hangs about these corpses. The source must be near.

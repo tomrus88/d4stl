@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Druid Wardstones
+Hash: F5C7BC0A, Key: Flavor, Value: Several stones carved with druid runes that hum with quiet power.

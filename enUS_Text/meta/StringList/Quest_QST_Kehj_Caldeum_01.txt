@@ -1,0 +1,35 @@
+Hash: 003DFCC1, Key: Name, Value: The Scouring of Caldeum
+Hash: 0871A46B, Key: Toast, Value: Assist the Knights Penitent in Caldeum
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Search for Lilith in Caldeum
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Battle rages on in Caldeum, between the forces of Knights Penitent and Lilith's demonic hordes. We must assist Prava to push through the demon-infested streets, and make way towards the Gate to the Burning Hells located beneath the Imperial Palace.
+Hash: 2642177F, Key: Phase37Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: CF8C1BA7, Key: Phase37OutsideSubzoneHeader, Value: Caldeum: Tell Prava that you are ready
+Hash: DF0BA3DF, Key: Callback36Header, Value: Tell Prava you are ready
+Hash: D787DBC2, Key: Phase49Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: E4525B4A, Key: Phase49OutsideSubzoneHeader, Value: Slay the Demon Commander
+Hash: 6541F242, Key: Callback48Header, Value: Slay the Demon Commander
+Hash: EF4FD180, Key: Phase83Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: C8B5A6C8, Key: Phase83OutsideSubzoneHeader, Value: Help defend your allies against the demons in Caldeum
+Hash: 2F5A8F83, Key: Callback85Header, Value: Help defend your allies against the demons
+Hash: 3EAEDB01, Key: Phase93Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: 3B61F169, Key: Phase93OutsideSubzoneHeader, Value: Escort your allies through Caldeum
+Hash: B12CDF46, Key: Phase100Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: 9CBD934E, Key: Phase100OutsideSubzoneHeader, Value: Open the gate in Caldeum
+Hash: 4F855768, Key: Callback99Header, Value: Open the gate
+Hash: 4406F769, Key: Phase103Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: F54CBBAC, Key: Phase115Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: A4AAC274, Key: Phase115OutsideSubzoneHeader, Value: Investigate the large rooftop in Caldeum
+Hash: 9EAFEF6C, Key: Callback114Header, Value: Investigate the large rooftop
+Hash: 455092F1, Key: Phase147Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: 9EC99759, Key: Phase147OutsideSubzoneHeader, Value: Speak with Lorath in Caldeum
+Hash: FD69E791, Key: Callback146Header, Value: Speak with Lorath
+Hash: B1D3AB7C, Key: Phase43Description, Value: To increase our chances against the demonic horde we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum palace.
+Hash: FE047C44, Key: Phase43OutsideSubzoneHeader, Value: Escort your allies through Caldeum
+Hash: C22F6634, Key: Callback176Header, Value: Escort your allies through Caldeum
+Hash: 1EF99359, Key: Phase40Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: 0ADD8CC1, Key: Phase40OutsideSubzoneHeader, Value: Rejoin your allies in Caldeum
+Hash: C5FA5A22, Key: Callback39Header, Value: Rejoin your allies
+Hash: A4FB6150, Key: Phase209Description, Value: To increase our chances against the demonic horde, we must join Prava and her Knights Penitent and fight our way through the city to reach Caldeum's palace.
+Hash: 5AD37E90, Key: Callback208Header, Value: Defeat the demons attacking from the rooftops
+Hash: FB6B77D6, Key: Callback187Header, Value: Escort your allies through Caldeum
+Hash: 3E680098, Key: Phase209OutsideSubzoneHeader, Value: Defeat the demons attacking from the rooftops in Caldeum

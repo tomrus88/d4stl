@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Eye of Enkil
+Hash: F5C7BC0A, Key: Flavor, Value: "A foul spell of desire was woven into the statue's stone. Its idolaters were helpless as their souls were ripped from their bodies to animate its writhing form."
+- Field Notes of Brother Darmont

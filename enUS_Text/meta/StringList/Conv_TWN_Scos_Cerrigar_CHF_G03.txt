@@ -1,0 +1,4 @@
+Hash: 2B48B057, Key: Line7.F738B, Value: I saw what you and Donan did for us...what he had to do to his son.
+Hash: 9A521684, Key: VoiceDir7.F738B, Value: Grateful. Heavy. Grief for Donan's son.
+Hash: C53D29D9, Key: Line9.F738B, Value: It is a cruel fate for an old warrior to see his legacy perish. (sigh) He did not deserve it.
+Hash: 34469006, Key: VoiceDir9.F738B, Value: Heavy. Grief.

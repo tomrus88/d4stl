@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What troubles the Downs?"
+Hash: 8EB347FA, Key: Line1.101CF8, Value: Things were bad when I left, but this is so much worse. The Khazra hadn't ventured down from the hills. There wasn't a werewolf problem.
+Hash: DEE973C7, Key: VoiceDir1.101CF8, Value: contemplative
+Hash: 6736F1BC, Key: Line3.101CF8, Value: But there's something else. A shadow that lays over everything. The others won't talk to me about it, yet - but keep your eyes and ears open, adventurer.
+Hash: B76D1D89, Key: VoiceDir3.101CF8, Value: confiding

@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Neyrelle, where are the others?” 
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Lorath and Donan have gone to Caldeum. The Knights march on the city. They felt it best to follow.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: disturbed
+Hash: F414A633, Key: Line3.6DE47, Value: But I wanted to wait for you.
+Hash: A31403C6, Key: Line15.6DE47, Value: Can I ask you something? Something personal.
+Hash: 65381056, Key: Line13.BAE4, Value: You know you can.
+Hash: C1F212B9, Key: Line9.6DE47, Value: Do you ever feel like nothing you do matters?
+Hash: 30FB78E6, Key: VoiceDir9.6DE47, Value: deep in thought
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: More than I’d like to admit. They call me hero. But underneath, I’m still the same person I always was. Powerful, sure. But flawed, too.
+Hash: 608DBF14, Key: Line11.BAE4, Value: I try. Yet my best isn’t enough. Not for Yorin, nor your mother.
+Hash: 27FD9937, Key: Line7.6DE47, Value: Does it get any easier?
+Hash: 9706FF64, Key: VoiceDir7.6DE47, Value: quietly
+Hash: 7337041C, Key: Line19.BAE4, Value: It can, with a good ally.
+Hash: F5615F25, Key: Line23.6DE47, Value: (exhale) Thank you. For being honest. It helps...knowing I’m not alone.
+Hash: 45978AF2, Key: VoiceDir23.6DE47, Value: shaky exhale
+Hash: 8F55D8A7, Key: Line25.6DE47, Value: We should go. I’ll find the others in Caldeum.

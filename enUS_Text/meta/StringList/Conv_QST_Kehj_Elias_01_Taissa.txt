@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How did you become entangled with Elias?" 
+Hash: 6F245388, Key: Line11.789BF, Value: I was hunting him, much like you. Infiltrated the cult to get close. Somehow he was ready for me. He is more powerful than he seems.

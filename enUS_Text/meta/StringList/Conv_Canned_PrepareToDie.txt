@@ -1,0 +1,15 @@
+Hash: 77B32E3C, Key: Line34.BAE4.Bar, Value: I will end you!
+Hash: 77B361BD, Key: Line34.BAE4.Nec, Value: I will rip your soul apart!
+Hash: 77B338F2, Key: Line34.BAE4.Dru, Value: You will die!
+Hash: 77B3785B, Key: Line34.BAE4.Sor, Value: Prepare for oblivion!
+Hash: 77B3740F, Key: Line34.BAE4.Rog, Value: Die!
+Hash: ECE59EF9, Key: Line40.BAE4.Bar, Value: You will not escape!
+Hash: ECE5D27A, Key: Line40.BAE4.Nec, Value: You cannot escape death!
+Hash: ECE5A9AF, Key: Line40.BAE4.Dru, Value: You will not escape me!
+Hash: ECE5E918, Key: Line40.BAE4.Sor, Value: You cannot escape my grasp!
+Hash: ECE5E4CC, Key: Line40.BAE4.Rog, Value: You will not deny my victory!
+Hash: 052505BF, Key: Line46.BAE4.Bar, Value: You have made a grave mistake this day.
+Hash: 05253940, Key: Line46.BAE4.Nec, Value: You will not live to regret this mistake.
+Hash: 05251075, Key: Line46.BAE4.Dru, Value: You have made a mistake in crossing me.
+Hash: 05254FDE, Key: Line46.BAE4.Sor, Value: You have no idea of the power I wield.
+Hash: 05254B92, Key: Line46.BAE4.Rog, Value: You've doomed yourself already.

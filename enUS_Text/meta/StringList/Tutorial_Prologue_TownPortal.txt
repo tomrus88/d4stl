@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Town Portal
+Hash: 7BFE534B, Key: simple_instruction, Value: Use Town Portal {hotkey:Town_Portal} to return to the {c_highlight}nearest Capital{/c}, or select any unlocked waypoint from the Map {hotkey:Map}. 

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Reconstruct
+Hash: A646FFA4, Key: Description, Value: {c_label}Cooldown:{/c} {c_resource}{SF_0}{/c} seconds
+The Seneschal Construct channels a reconstruction beam Healing the player for {c_number}[{SF_3}*100|1|]%{/c} of their Maximum Life over {c_number}[{SF_2}|1|+{SF_5}|1|]{/c} seconds.
+Hash: 70FCEFA9, Key: AttackSpeed, Value: {c_label}Speed:{/c} {c_number}[{SF_2}|1|+{SF_5}|1|]{/c} seconds
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Total Healing {icon:arrow,1.2} {c_number}[{SF_7}*100|1|]%{/c}
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating Heralds in Arcane Tremors

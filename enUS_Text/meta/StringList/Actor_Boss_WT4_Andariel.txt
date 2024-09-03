@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Altar of Anguish
+Hash: 2BBA1840, Key: UITitle, Value: Ritual of Anguish

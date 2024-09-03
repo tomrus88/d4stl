@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Penetrating Shot{/c} makes enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds. 
+
+Every {c_number}[Affix."Static Value 1"]th{/c} cast of {c_important}Penetrating Shot{/c} bounces off walls and deals {c_random}[Affix_Value_1|%x|]{/c} more damage.

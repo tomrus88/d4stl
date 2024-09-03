@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Oyuun?"
+Hash: F41459DD, Key: Line3.6E261, Value: You… you’re not him… who are you? The chopping, it stopped and I thought… I thought he was coming for me next…
+Hash: 631DC00A, Key: VoiceDir3.6E261, Value: Frightened, confused
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Your friend Zolaya sent me.
+Hash: 27FD4CE1, Key: Line7.6E261, Value: She... she's still here?
+Hash: 9706B30E, Key: VoiceDir7.6E261, Value: Confused
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: You’ll see her soon. We need to get through the market.
+Hash: 5B6C994D, Key: Line21.6E261, Value: I... I know another way. It’s safer. The old prison wing. It was sealed off years ago, after an earthquake.
+Hash: ABA2C51A, Key: VoiceDir21.6E261, Value: Desperate. Looking for another solution to how they can get out of the city.

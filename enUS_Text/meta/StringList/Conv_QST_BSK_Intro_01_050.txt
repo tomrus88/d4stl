@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've done my part. Your turn."
+Hash: 9257723D, Key: Line1.1BCB9E, Value: I know this place well. The veil between our world and Hell is quite thin here by the Black Tomb. That must be why they chose it...
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Observing area. Thinking aloud.
+Hash: 2FA09AA2, Key: Line6.1BCB9E, Value: I need more. We should search their camp.
+Hash: 7FD6C66F, Key: VoiceDir6.1BCB9E, Value: Thinking. Terse. In a hurry.

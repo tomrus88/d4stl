@@ -1,0 +1,5 @@
+Hash: 8ED96EFD, Key: Line1.1264ED, Value: When Akarat wills it, we will find his tomb.
+Hash: 675D18C0, Key: Line3.1264EE, Value: What if he never meant for us to find it?
+Hash: 3FE0C251, Key: Line5.1264E4, Value: Doubt it even exists.
+Hash: 18646C43, Key: Line7.1264ED, Value: Don’t talk like that. Our faith is our strength, always has been. And...it’s all we have left now.
+Hash: 689A9810, Key: VoiceDir7.1264ED, Value: Disappointed

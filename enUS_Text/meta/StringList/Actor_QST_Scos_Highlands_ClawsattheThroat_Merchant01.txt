@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Merchant
+Hash: F2CA04D8, Key: NoticeSignText, Value: His throat is violently ripped open. No other signs of wounds.

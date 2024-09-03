@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Legacies of Light's Watch
+Hash: 0871A46B, Key: Toast, Value: A young monk seeks answers about the Knights Penitent.
+Hash: 9FEEC98D, Key: Phase152Description, Value: Zalan Coste believes his mother was stationed in Light's Watch before it was abandoned.
+
+He has asked me to search the old outpost for any information about the Knights Penitent there.
+Hash: 4FB742F0, Key: Callback154Header, Value: Acquire {ITEM}
+Hash: E9ABBC72, Key: Callback156Header, Value: Acquire {ITEM}
+Hash: 83A035F4, Key: Callback158Header, Value: Acquire {ITEM}
+Hash: 259D49BB, Key: Phase15Description, Value: I found Pale Knight Journals in Light's Watch. I should travel back to Margrave and speak with Zalan Coste who was interested in anything I found.
+Hash: 6C93809B, Key: Callback14Header, Value: Return to Zalan Coste in Margrave

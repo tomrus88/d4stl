@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EB2027A, Key: Line1.100945, Value: You grew up here. How can you not see the storm on the horizon?
+Hash: DEE82E47, Key: VoiceDir1.100945, Value: bickering with friend
+Hash: 6735AC3D, Key: Line3.100946, Value: If you spent less time watching the sea and more watching your wife...
+Hash: B76BD80A, Key: VoiceDir3.100946, Value: bickering with friend
+Hash: 3FB955FE, Key: Line5.100945, Value: Shut it.
+Hash: 8FEF81CB, Key: VoiceDir5.100945, Value: bickering with friend

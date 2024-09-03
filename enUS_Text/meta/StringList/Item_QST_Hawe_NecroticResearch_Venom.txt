@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Snake Venom
+Hash: F5C7BC0A, Key: Flavor, Value: A bottle of Nangari venom carefully extracted from dead snakemen.

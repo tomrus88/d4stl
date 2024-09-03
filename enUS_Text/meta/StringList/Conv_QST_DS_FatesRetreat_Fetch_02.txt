@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The demon essences charged the ring. Here it is.”
+Hash: 5D73363A, Key: Line1.EECAE, Value: Ah, give it here!
+Hash: CC7C9C67, Key: VoiceDir1.EECAE, Value: Excited
+Hash: F767AFBC, Key: Line3.EECAE, Value: No! (pained hiss) Drop it. The foul thing bears a blessing. Can't you feel it burn? It was never meant for demons.
+Hash: 667115E9, Key: VoiceDir3.EECAE, Value: Suddenly deeper, hoarser. Rakhaan’s demon is showing itself. Alarmed. Noticably pained. 
+Hash: 915C293E, Key: Line5.EECAE, Value: I suppose I feel a bit...itchy. Hmm. I can see why this would be problematic to the Triune. Can’t I keep it in a box?
+Hash: 00658F6B, Key: VoiceDir5.EECAE, Value: Dismissive of his demon's half's concerns. Interupted at the end of the line
+Hash: 2B50A2C0, Key: Line7.EECAE, Value: No!
+Hash: 9A5A08ED, Key: VoiceDir7.EECAE, Value: Demon Rakhaan interrupts. Forceful. Irritated.
+Hash: C5451C42, Key: Line9.EECAE, Value: What a disappointment...ah well. Take it if you wish. You may find a use for it.
+Hash: 344E826F, Key: VoiceDir9.EECAE, Value: Disappointed. Sighing.

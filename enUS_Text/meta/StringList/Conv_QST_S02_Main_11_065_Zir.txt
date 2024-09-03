@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Echoes of Lord Zir
+Hash: 8F3B878D, Key: Line1.16E226, Value: You feed upon your own kind and call me "monster?"
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Seething. Rising anger. Chastising Player.

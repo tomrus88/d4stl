@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Post Ritual Convo
+Hash: F427C5EC, Key: Line3.7FA05, Value: Now grind the sulfur. Carefully.

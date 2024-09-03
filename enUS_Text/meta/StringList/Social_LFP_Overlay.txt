@@ -1,0 +1,17 @@
+Hash: 41A83427, Key: DungeonTab, Value: Dungeon
+Hash: 0DD876AD, Key: PVPTab, Value: Player vs. Player
+Hash: F0619C74, Key: EstimatedQueueTime, Value: Estimated Queue Time: {s1}
+Hash: 7C2B3D43, Key: StartQueueDungeon, Value: Start Queue:
+Dungeon
+Hash: 5EB45C09, Key: StartQueuePVP, Value: Start Queue:
+Dungeon Invasion
+Hash: 5553BA8A, Key: LookingForParty, Value: Looking For Party
+Hash: E4930CBD, Key: PVPBonus, Value: BONUS: {s1}
+Hash: 7F295041, Key: PVPDeserterPlayer, Value: You have deserted too many games recently. 
+
+You may queue for another PvP activity in {s1} hours.
+Hash: 86E4CF9C, Key: PVPDeserterPartyMember, Value: A member of your party has deserted too many games recently. 
+
+They may queue for another PvP activity in {s1} hours.
+Hash: 4F864135, Key: Activities, Value: Activities
+Hash: E8AEC98B, Key: CancelQueue, Value: Cancel active {s1} queue: {s2}s

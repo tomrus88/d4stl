@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Slay Forsaken Coast Blood Seekers
+Hash: 0871A46B, Key: Toast, Value: There are champions among the Vampires that wield undeserved power. Lure them out at a Sanguine Altar and bring their heads to the Tree.
+Hash: 24EC6278, Key: Callback20Header, Value: Kill Blood Seekers: {DONE_OVER_NEEDED}

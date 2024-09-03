@@ -1,0 +1,10 @@
+Hash: 770AEB07, Key: Line2.BAE4.Bar, Value: She was reborn from those growths. I must scour them all.
+Hash: AD7B3E14, Key: VoiceDir2.BAE4.Bar, Value: Mild shock. Realizing what just happened.
+Hash: 770AF5BD, Key: Line2.BAE4.Dru, Value: She was reborn from those growths. I must scour them all.
+Hash: AD7B48CA, Key: VoiceDir2.BAE4.Dru, Value: Mild shock. Realizing what just happened.
+Hash: 770B1E88, Key: Line2.BAE4.Nec, Value: She came back against the Balance. I must destroy every shred of her work.
+Hash: AD7B7195, Key: VoiceDir2.BAE4.Nec, Value: calm. annoyed. 
+Hash: 770B30DA, Key: Line2.BAE4.Rog, Value: She was reborn from those growths. I must scour them all.
+Hash: AD7B83E7, Key: VoiceDir2.BAE4.Rog, Value: Mild shock. Realizing what just happened.
+Hash: 770B3526, Key: Line2.BAE4.Sor, Value: She was reborn from those growths. I must scour them all.
+Hash: AD7B8833, Key: VoiceDir2.BAE4.Sor, Value: Mild shock. Realizing what just happened.

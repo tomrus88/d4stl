@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Omath Breach
+Hash: 003892BF, Key: Desc, Value: Hell rises near Omath's Redoubt, where old Hatred lingers.

@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: A Body Stolen, A Body Made
+Hash: B8A227EA, Key: Callback4Header, Value: Clear the entrance to the Vault of Copper
+Hash: F4A9EC5A, Key: Phase14Description, Value: I found the Vault, but not without drawing the demon's attention. I can hear its voice in my head. I must press on.
+Hash: 1F9943DA, Key: Callback13Header, Value: Search the Vault of Copper for the Nursery
+Hash: F54EBA1E, Key: Phase36Description, Value: Ayuzhan worries Malphas is trying to make an army. He's asked me to investigate a Vault in Scosglen, where the constructs are made. 
+
+I copied the location from his map. Now to find the entrance.
+Hash: 9211671E, Key: Callback35Header, Value: Find a way into the Vault of Copper in Scosglen
+Hash: 3158FF3E, Key: Callback44Header, Value: Return to Ayuzhan in the Gatehall
+Hash: 1847B581, Key: Callback47Header, Value: Speak with Ayuzhan
+Hash: 0D16AFDC, Key: Phase70Description, Value: Ayuzhan worries Malphas is trying to make an army. He's asked me to investigate a Vault in Scosglen, where the constructs are made. 
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Inspect Ayuzhan's Map
+Hash: 9FF0C7FF, Key: Phase73Description, Value: The letter revealed the truth: Kulle abandoned Ayuzhan. So be it. We'll fight the demon on our own. I should return to the Gatehall and discuss our options with Ayuzhan.
+Hash: 5C2A045F, Key: Callback72Header, Value: Interact with the Gatehall Waypoint

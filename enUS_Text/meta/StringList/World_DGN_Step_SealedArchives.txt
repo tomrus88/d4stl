@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sealed Archives
+Hash: 003892BF, Key: Desc, Value: An ancient mage hall. Once refuge, now graveyard. 

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scrap of Paper
+Hash: F2CA04D8, Key: NoticeSignText, Value: Next to a book titled "Legends of the Bog" is a note covered in shaky handwriting: "The ‘wedding’ of Tree and Serpent. What a ridiculous story. The Tree could not have come to Sanctuary... from where, then?"

@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Test item that increases attack speed by {c_number}100%{/c}.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: To the Edge of the Abyss
+Hash: 34ADAE21, Key: Callback92Header, Value: Destroy the barricade
+Hash: AB1C8C32, Key: Callback138Header, Value: Protect Locran while he fixes the compass
+Hash: E9ABBC72, Key: Callback156Header, Value: Protect Locran while he fixes the compass

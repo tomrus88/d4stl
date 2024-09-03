@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Jalousie Fate
+Hash: A646FFA4, Key: Description, Value: Astride mounts clad in crimson and bronze, the Sisterhood of the Sightless Eye once again execute their hidden agendas. Care should be taken when engaging with these figures, as turmoil and intrigue often follow the enigmatic riders.
+Hash: 083EE0CE, Key: Quote, Value: Places unknown, paths unseen.
+Hash: 13A53A8B, Key: Series, Value: "Bloodsworn Hunter" Mount Armor

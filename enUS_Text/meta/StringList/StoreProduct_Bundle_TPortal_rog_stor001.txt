@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Path of the Ash Knight
+Hash: A646FFA4, Key: Description, Value: Again and again, the knight charged into the flames, burning away all love, all memory, all purpose except for the war on Hell.
+Hash: 083EE0CE, Key: Quote, Value: Consumed by hellfire.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Ash Knight" Accessories

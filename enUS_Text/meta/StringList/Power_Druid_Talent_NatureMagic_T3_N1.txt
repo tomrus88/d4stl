@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Primal Resonance
+Hash: 003892BF, Key: desc, Value: Your {c_important}{u}Overpower{/u}{/c} damage is increased by {c_number}[{SF_0}*100|%x|]{/c}.

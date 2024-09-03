@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Estuar Wanderer
+Hash: 003892BF, Key: Desc, Value: Explore all of Estuar.
+Hash: 3DA56EAD, Key: Crit_236692, Value: Fractured Peaks
+Hash: 3DA56EAF, Key: Crit_236694, Value: Scosglen
+Hash: 3DA56EAE, Key: Crit_236693, Value: Dry Steppes
+Hash: 3DA56EAC, Key: Crit_236691, Value: Kehjistan
+Hash: 3DA56EAB, Key: Crit_236690, Value: Hawezar

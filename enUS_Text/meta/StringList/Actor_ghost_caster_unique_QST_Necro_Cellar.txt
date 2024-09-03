@@ -1,0 +1,2 @@
+Hash: CC38ADCB, Key: FlavorName, Value: Warden of Souls
+Hash: 003DFCC1, Key: Name, Value: Phantasmal Tyrant

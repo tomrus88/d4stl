@@ -1,0 +1,2 @@
+Hash: 59D05F38, Key: Line1.371E1, Value: Rise now, my wretches! To me!
+Hash: C8D9C565, Key: VoiceDir1.371E1, Value: Commanding. Furious. Violent. (Combat begins)

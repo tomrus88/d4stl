@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Shouldn't you be working lad?"
+Hash: 8EE1D4D7, Key: Line1.11EA17, Value: Did you take that load of grain to the mill, boy?
+Hash: 67657F1F, Key: Line3.11EA59, Value: The mill is broken again, sir.
+Hash: 3FE9285B, Key: Line5.11EA17, Value: Well, they better get it fixed! I have a shipment headed south in the morning.

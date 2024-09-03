@@ -1,0 +1,2 @@
+Hash: 2070327B, Key: Buff8_Name, Value: Flame Shield Enchant Cooldown
+Hash: A320401E, Key: Buff8_Description, Value: Flame Shield Enchant Cooldown

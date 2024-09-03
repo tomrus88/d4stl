@@ -1,0 +1,2 @@
+Hash: 5A327CBE, Key: Line1.7F064, Value: You there! Let me out of this thing!
+Hash: C93BE2EB, Key: VoiceDir1.7F064, Value: demanding

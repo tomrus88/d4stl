@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Song and ceremony be damned.
+Hash: 1EADAE68, Key: Callback2Header, Value: Defeat the {MONSTER}
+Hash: 1F9943DA, Key: Callback13Header, Value: Travel to the Shaman's Lair
+Hash: 8CBE4880, Key: Callback28Header, Value: Destroy the Fallen Idols: {LEFT}
+Hash: 5E28741A, Key: Callback31Header, Value: Travel to the {LEVELAREA}

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem to know a lot about all this--but you're no druid."
+Hash: F701EBE7, Key: Line3.A109C, Value: And what do you mean by that?
+Hash: 660B5214, Key: VoiceDir3.A109C, Value: Sharply
+Hash: 2AEADEEB, Key: Line7.A109C, Value: (sighs) It's... a family affair. But you are helping, and doing a fine job, too.
+Hash: 72185676, Key: Line11.A109C, Value: I said the wight preys on the weakest.
+Hash: 0C0CCFF8, Key: Line13.A109C, Value: It may be cruel to call my mother weak, but... I lost her to it.
+Hash: A601497A, Key: Line15.A109C, Value: I would like for her -- it -- to take no more from me. From anyone.

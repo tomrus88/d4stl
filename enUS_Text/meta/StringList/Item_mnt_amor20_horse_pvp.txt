@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Brutal Wizard's Barding
+Hash: A646FFA4, Key: Description, Value: Barding typically granted to the most prestigious of war casters.

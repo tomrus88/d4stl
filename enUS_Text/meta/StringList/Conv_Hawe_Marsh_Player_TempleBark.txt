@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Wrack & Ruin
+Hash: B6DC9E59, Key: Line25.BAE4, Value: The door bears an image of a snake. Her eyes are missing—perhaps returning them here is the key to opening the way.
+Hash: 25E60486, Key: VoiceDir25.BAE4, Value: To self upon seeing a great door leading into the temple. It has the image of a snake, but the eyes are missing.

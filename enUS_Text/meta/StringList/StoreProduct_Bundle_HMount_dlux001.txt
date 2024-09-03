@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Guidance
+Hash: A646FFA4, Key: Description, Value: Born from the blood of the willing, these steeds carry Lilith's Chosen and her message of salvation across all of Sanctuary.
+Hash: 083EE0CE, Key: Quote, Value: Cloven hooves for all her children.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

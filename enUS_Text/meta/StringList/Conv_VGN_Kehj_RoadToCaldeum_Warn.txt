@@ -1,0 +1,3 @@
+Hash: 5D72A43A, Key: Line1.EDC70, Value: Don’t go! Not that way.
+Hash: CC7C0A67, Key: VoiceDir1.EDC70, Value: hoarse
+Hash: 915B973E, Key: Line5.EDC70, Value: You don’t look like the sort the Knights’d take pity on.

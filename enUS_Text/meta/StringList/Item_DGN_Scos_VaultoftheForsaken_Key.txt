@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Chamber Key
+Hash: A646FFA4, Key: Description, Value: Bound to Vault of The Forsaken
+Hash: F5C7BC0A, Key: Flavor, Value: A key to the main chamber. The current Captain or one of his mates hold onto the key until a fresh set of bodies find themselves here and a new Captain is chosen.

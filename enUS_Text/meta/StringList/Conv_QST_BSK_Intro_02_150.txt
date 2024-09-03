@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Your eye..."
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: A trifle compared to what I’ve lost. And taken.
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Somber. Regretful.

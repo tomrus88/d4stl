@@ -1,0 +1,2 @@
+Hash: B0C5490E, Key: ChooseReward_Header, Value: Choose Your Reward
+Hash: E97BE4F0, Key: Accept, Value: Accept

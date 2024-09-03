@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Dark Shroud
+Hash: 2827F416, Key: Buff0_Description, Value: Damage is reduced by each shadow.

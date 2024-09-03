@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Swelling Curse
+Hash: 003892BF, Key: Desc, Value: {c_important}Bone Spirit's{/c} Critical Strike Chance is increased by {c_random}[Affix_Value_1|%+|]{/c}.
+
+Your Maximum Essence is increased by {c_number}[Affix."Static Value 0"]{/c} for each enemy hit for {c_number}[Affix."Static Value 1"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Bone Spirit's{/c} Critical Strike Chance is increased by {c_random}[Affix_Value_1|%+|]{/c}. Your Maximum Essence is increased by {c_number}[Affix."Static Value 0"]{/c} per enemy hit.

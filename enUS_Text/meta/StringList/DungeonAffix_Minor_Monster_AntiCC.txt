@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Crowd Control Resist
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Crowd Control duration vs monsters is reduced by 40%.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Crowd Control duration vs monsters is reduced by 30%.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Crowd Control duration vs monsters is reduced by 20%.

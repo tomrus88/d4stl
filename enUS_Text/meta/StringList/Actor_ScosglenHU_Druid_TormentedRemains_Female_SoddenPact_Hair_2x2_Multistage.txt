@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sodden Effigy
+Hash: CC38ADCB, Key: FlavorName, Value: Corpus of the Wight

@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: The Heretic
+Hash: 0871A46B, Key: Toast, Value: A spate of grisly deaths terrifies a group of villagers who fear a dark power is at work.
+Hash: D53BFF05, Key: Phase0Description, Value: A man in Zarbinzet claimed someone is killing villagers with demonic magic. He asked me to search the ruins outside of town for survivors.
+Hash: 5296A16C, Key: Callback6Header, Value: Search for survivors at the Abandoned Ruins
+Hash: 30DC76D6, Key: Phase10Description, Value: I found a scene of fire and bloodshed in the ruins, just as the man described. I survived the demons, but a terrified girl emerged from her hiding place. I must make sure she is unharmed. 
+Hash: 398557AF, Key: Callback9Header, Value: Speak with the frightened girl
+Hash: A5EFB09D, Key: Phase26Description, Value: Aneta and I have found all the flowers she needed. Hopefully I can get her home before her mother worries.
+Hash: A5CF923D, Key: Callback25Header, Value: Escort Aneta back to Zarbinzet
+Hash: 9367FF5C, Key: Phase34Description, Value: Aneta got nothing but a scolding for her kind gesture towards her mother. When angry townsfolk accused her of horrible crimes, her mother did nothing! I must find Aneta and protect her from the angry mob!
+Hash: F81CED9C, Key: Callback33Header, Value: Enter the Forgotten Cave
+Hash: 13139A08, Key: Phase102Description, Value: Aneta is home safe, but her mother does not seem happy to see her...
+Hash: CB7F6448, Key: Callback101Header, Value: Speak with Aneta
+Hash: 008BE8C7, Key: Phase110Description, Value: Aneta got nothing but a scolding for her kind gesture towards her mother. When angry townsfolk accused her of horrible crimes, her mother did nothing! I must find Aneta and protect her from the angry mob!
+Hash: 38A468EE, Key: Callback116Header, Value: Find Aneta
+Hash: F4A9EC5A, Key: Phase14Description, Value: The young girl's name is Aneta, and once she learned I was not another demon, she begged me to help her finish her task to find flowers for her sick mother.
+Hash: 1F9943DA, Key: Callback13Header, Value: Help Aneta gather flowers: {DONE_OVER_NEEDED}

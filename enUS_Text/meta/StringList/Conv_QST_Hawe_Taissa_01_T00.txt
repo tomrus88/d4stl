@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Taissa
+Hash: 5A196F77, Key: Line1.789BF, Value: I close my eyes, and I am there again. Needle in my skin. Sand stinging my face.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: Troubled
+Hash: 27F6DBFD, Key: Line7.789BF, Value: And the whispers. At the edge of every thought. Louder each day.
+Hash: 9700422A, Key: VoiceDir7.789BF, Value: Troubled
+Hash: F40DE8F9, Key: Line3.789BF, Value: She is here, with me. She has been. All this time.
+Hash: 63174F26, Key: VoiceDir3.789BF, Value: Troubled. Referring to Andariel, who is in her head.
+Hash: 8E02627B, Key: Line5.789BF, Value: I must drink the tea and purge this darkness before I lose myself to it.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: Troubled

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mirage Doppelganger
+Hash: 13A53A8B, Key: Series, Value: "Mirage of the Marshlands"

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Black River
+Hash: F5C7BC0A, Key: Flavor, Value: "The scrolls describe a river of tar that separated the living from the land of the dead. Any unfortunate soul who tried to cross would be dragged down into oblivion."
+- Notes of Scholar Kamien

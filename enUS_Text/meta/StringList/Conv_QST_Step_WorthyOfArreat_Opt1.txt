@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where do you stand on the Crane Tribe?"
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: I was raised on tales of the Crane Tribe’s dishonor. How their failure destroyed the mountain and scattered our tribes to the wind.
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: Firm. Grim. Stating fact.
+Hash: 67708DA0, Key: Line3.137EC4, Value: I also believe Hell is the enemy. We are short on allies, especially those who are kin.
+Hash: B7A6B96D, Key: VoiceDir3.137EC4, Value: Firm. Grim. Stating fact.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Find Faolan
+Hash: 4318BAA2, Key: Callback75Header, Value: Search for Faolan
+Hash: 7C54CC44, Key: Callback86Header, Value: Confront Faolan
+Hash: DCC8203F, Key: Phase91Description, Value: This description text will not be displayed.
+Hash: 81A7EAE2, Key: Callback93Header, Value: Slay Faolan

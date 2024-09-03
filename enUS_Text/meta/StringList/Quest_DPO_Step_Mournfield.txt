@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Do not be beguiled by what is held by the dead.
+Hash: 538236DE, Key: Callback17Header, Value: Slay the Bandit Captains: {LEFT}
+Hash: ED76B060, Key: Callback19Header, Value: Defeat the {MONSTER}
+Hash: BEE0DBFA, Key: Callback22Header, Value: Travel to the {LEVELAREA}
+Hash: F81CED9C, Key: Callback33Header, Value: Slay all enemies in the Overrun Encampment {KAM_REVEALED_COUNT}
+Hash: DF0BA3DF, Key: Callback36Header, Value: Travel to the {LEVELAREA}

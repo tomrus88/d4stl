@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Sealed Cache of Ichor
+Hash: A646FFA4, Key: Description, Value: Contains an amount of each type of Malignant Ichor.
+Hash: F5C7BC0A, Key: Flavor, Value: Cormond's research requires a truly staggering amount of Malignant ichor, as each experiment's failures must be burned out as quickly as possible. The successes too, probably.

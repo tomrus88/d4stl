@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Your guest? You are Triune!"
+Hash: 1BE26F83, Key: Line7.1BCB9E, Value: We are the Mother's Triune...what's left of them. Most of our brethren have forsaken her. It is they who welcome Hell into our world! We want to destroy these heretics, same as you.
+Hash: 6C189B50, Key: VoiceDir7.1BCB9E, Value: Tense. Correcting. Emphasis on "Mother's" Triune, with contempt for others. 
+Hash: 5C7D038D, Key: Line10.1BCB9E, Value: Now, I know much blood has been shed between us—
+Hash: B378A8FA, Key: VoiceDir10.1BCB9E, Value: Tense. Cautious. A delicate situation.
+Hash: 0D845EA9, Key: Line14.1BCD2B, Value: (scoffs)
+Hash: 64800416, Key: VoiceDir14.1BCD2B, Value: Utter contempt. "Much blood" is an understatement.
+Hash: E60800D3, Key: Line16.1BCB9E, Value: But the Tides of Hell are rising! Just as the Mother foretold. No one can stop them alone, not even you, wanderer.
+Hash: 3D03A640, Key: VoiceDir16.1BCB9E, Value: Irritated. Continuing with emphasis. Deadly sincerity.
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: We can tell you how to find the Triune. Crush their demons...even steal their power for your own. What say you?
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Tense. Hopeful.

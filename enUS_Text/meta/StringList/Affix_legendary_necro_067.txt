@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Getter's
+Hash: 003892BF, Key: Desc, Value: Your Skeletal Priests now also empower you at {c_random}[Affix_Value_1|%|]{/c} effectiveness.

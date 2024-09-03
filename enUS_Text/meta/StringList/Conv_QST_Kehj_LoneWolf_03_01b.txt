@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why should we believe you?"
+Hash: 76174B27, Key: Line28.54239, Value: I'm no demon worshipper. Just figured it was better to take their coin than get in their way.
+Hash: C64D76F4, Key: VoiceDir28.54239, Value: Tired, beaten, bruised.
+Hash: FA873A00, Key: Line30.54239, Value: I go back now, they’ll know I talked. Helping you... is the only play I’ve got.
+Hash: 4ABD65CD, Key: VoiceDir30.54239, Value: Bitter. Contempt for "Helping you," his enemies.

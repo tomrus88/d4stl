@@ -1,0 +1,2 @@
+Hash: 1970B898, Key: Buff5_Name, Value: Cheat's Movement
+Hash: B503239B, Key: Buff5_Description, Value: Movement Speed increased by taking damage from a Crowd Controlled enemy.

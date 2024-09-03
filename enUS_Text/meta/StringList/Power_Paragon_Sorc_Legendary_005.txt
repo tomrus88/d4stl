@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Frigid Fate
+Hash: 003892BF, Key: desc, Value: You deal bonus damage to {c_important}{u}Vulnerable{/u}{/c} enemies equal to {c_number}[{SF_0} * 100|%x|]{/c} of the total amount of your Bonus Damage with Cold, up to a maximum of {c_number}[{SF_1} * 100|%x|]{/c}.
+
+Current Bonus: {c_number}[{SF_3} * 100|x%|]{/c}

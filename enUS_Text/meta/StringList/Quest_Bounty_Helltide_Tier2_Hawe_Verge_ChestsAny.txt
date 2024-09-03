@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Claim Tortured Gifts
+Hash: 0871A46B, Key: Toast, Value: Greed itself has manifested in physical form as the grotesque Tortured Gifts scattered across the Helltide. Steal them and use its power against the demons.
+Hash: 1F9943DA, Key: Callback13Header, Value: Tortured Gifts Opened: {DONE_OVER_NEEDED}

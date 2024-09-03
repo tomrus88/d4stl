@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Kehjistani
+Hash: F2CA04D8, Key: NoticeSignText, Value: Signs of battle litter the keep's grounds, yet some of these corpses show no obvious battle wounds.

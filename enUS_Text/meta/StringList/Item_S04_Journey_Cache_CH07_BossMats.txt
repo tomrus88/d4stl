@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Destroyer's Summoning Cache
+Hash: A646FFA4, Key: Description, Value: Contains Stygian Stones and other Summoning Materials to challenge Tormented Echo Bosses.

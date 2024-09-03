@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: A barely legible note
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Note
+Hash: 5D72A46D, Key: Line1.EDC7C, Value: Please turn back. We have tracked the undead to these woods. They attacked our camp a few nights ago. I awoke to the cries of other loggers being dragged away into the night.
+Hash: F7671DEF, Key: Line3.EDC7C, Value: We followed the blood and limbs back here. I can hear the screams of the unlucky ones still alive. I can’t leave them...but I doubt I’ll make it out of these woods. -Talmu

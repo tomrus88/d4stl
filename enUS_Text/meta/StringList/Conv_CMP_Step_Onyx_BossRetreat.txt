@@ -1,0 +1,2 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Captain Ezmin
+Hash: 59CE3608, Key: Line1.333BF, Value: (grunt) Fall back!

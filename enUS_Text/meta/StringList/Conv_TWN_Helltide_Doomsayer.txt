@@ -1,0 +1,37 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Helltide Rises
+Hash: 6FE43901, Key: Line172.142B2F, Value: The Burning Hells draw near! Cast aside your decadent ways! Repent!
+Hash: A6548C0E, Key: VoiceDir172.142B2F, Value: Shouting. Fanatical. Fire and brimstone.
+Hash: 34A9B7A4, Key: Line175.142B2F, Value: Blood gathers in the sky, and the Father's warning rings in our ears! Our judgment is at hand!
+Hash: F96F3647, Key: Line178.142B2F, Value: Here is the end foretold! Cast out thine darkness, for only Light must remain!
+Hash: F81ED521, Key: Line181.142B2F, Value: Let the rains of Hell fall! Let the sinful be devoured! The righteous...shall weather the storm.
+Hash: 9567FD72, Key: Line186.142B31, Value: The waters run red, choking the swamp! A price must be paid!
+Hash: CBD8507F, Key: VoiceDir186.142B31, Value: Shouting. Angry. Desperate.
+Hash: 5A2D7C15, Key: Line189.142B31, Value: Hell steps upon the scale! The balance is tipped toward the abyss!
+Hash: 909DCF22, Key: VoiceDir189.142B31, Value: Shouting. Angry. Desperate.
+Hash: 58DD1AEF, Key: Line192.142B31, Value: We feel the swamp's anger! How can we serve it? How do we stop the tide of Hell?!
+Hash: 8F4D6DFC, Key: VoiceDir192.142B31, Value: Shouting. Angry. Desperate.
+Hash: 1DA29992, Key: Line195.142B31, Value: Serpent, root, tree, and whisper! Hear my call! The demons' fire is spreading!
+Hash: 5412EC9F, Key: VoiceDir195.142B31, Value: Shouting. Angry. Desperate.
+Hash: 6C040946, Key: Line200.142B32, Value: (laugh) The Mother was right! Bleeding sky, soaking sands! Listen for the screams!
+Hash: A2745C53, Key: VoiceDir200.142B32, Value: Delirious. Raving. Wild excitement.
+Hash: 30C987E9, Key: Line203.142B32, Value: Come out, everyone! Look up! Let the blood wash over you!
+Hash: 6739DAF6, Key: VoiceDir203.142B32, Value: Delirious. Raving. Wild excitement.
+Hash: F58F068C, Key: Line206.142B32, Value: Fools! (laughs) There is no shelter from Hellfire! What are you waiting for?!
+Hash: 2BFF5999, Key: VoiceDir206.142B32, Value: Delirious. Raving. Wild excitement.
+Hash: BA54852F, Key: Line209.142B32, Value: No Akarat, no Inarius, no Heaven, no Light! (chuckle) We are all damned!
+Hash: F0C4D83C, Key: VoiceDir209.142B32, Value: Delirious. Raving. Wild excitement.
+Hash: 9187CFBA, Key: Line214.142AC2, Value: Hell is coming, my kindred! Brace like stone! Stand as oak! The 'Glen will prevail!
+Hash: C7F822C7, Key: VoiceDir214.142AC2, Value: Bellowing. Belligerent. (A little scary)
+Hash: 564D4E5D, Key: Line217.142AC2, Value: The demons think to frighten us with their little storm, but we know better! The rains belong to us!
+Hash: 8CBDA16A, Key: VoiceDir217.142AC2, Value: Bellowing. Belligerent. (A little scary)
+Hash: 54FCED37, Key: Line220.142AC2, Value: Let the bastard devils come! All that burns shall grow again! Taller, stronger, unrelenting!
+Hash: 8B6D4044, Key: VoiceDir220.142AC2, Value: Bellowing. Belligerent. (A little scary)
+Hash: 19C26BDA, Key: Line223.142AC2, Value: Don't run! Don't hide from the likes of Hell! We shall break the waves of blood!
+Hash: 5032BEE7, Key: VoiceDir223.142AC2, Value: Bellowing. Belligerent. (A little scary)
+Hash: B70B924E, Key: Line228.142B30, Value: D-do not be afraid! The Helltide will pass! The blood will recede!
+Hash: ED7BE55B, Key: VoiceDir228.142B30, Value: Announced. Trying to sound confident. Scared.
+Hash: B5BB3128, Key: Line231.142B30, Value: You are safe in your homes, behind these walls! Hell will not take you today!
+Hash: EC2B8435, Key: VoiceDir231.142B30, Value: Announced. Trying to sound confident. Scared.
+Hash: 7A80AFCB, Key: Line234.142B30, Value: We have dealt with Hell's fire before! Mount Civo did not take us and neither will this!
+Hash: B0F102D8, Key: VoiceDir234.142B30, Value: Announced. Trying to sound confident. Scared.
+Hash: 3F462E6E, Key: Line237.142B30, Value: Trust in the merchants and their brave fighters! They'll fend off the demons...all will be well!

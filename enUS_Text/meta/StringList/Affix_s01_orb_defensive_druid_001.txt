@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Agitated Winds
+Hash: 003892BF, Key: Desc, Value: When {c_number}[Affix_Value_1]{/c} Close enemies, automatically cast {c_important}Cyclone Armor{/c}. This cannot occur more than once every {c_random}[Affix_Value_2]{/c} seconds.

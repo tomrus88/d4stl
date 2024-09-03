@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Scholar of the Lonely Moon
+Hash: A646FFA4, Key: Description, Value: O scholars of Xiansai who mastered the arts of magic - We give thanks for your sacrifices and miracles alike in the light of the Lonely Moon.
+Hash: 083EE0CE, Key: Quote, Value: Hail to those who braved the mysteries.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Armor

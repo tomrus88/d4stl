@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Istel's Grimoire
+Hash: F2CA04D8, Key: NoticeSignText, Value: A leatherbound book marked by the sign of the Mother. One side is badly burned. Saved from a fire?

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Enraptured in Gold
+Hash: A646FFA4, Key: Description, Value: Centuries of imperial wealth ran through the veins of Caldeum, elevating the few above the masses. When Lilith arrived with offers of power, they believed themselves deserving. Some say they got what they deserved.
+Hash: 083EE0CE, Key: Quote, Value: The depths of decadence.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

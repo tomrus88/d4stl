@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: The Onyx Watchtower
+Hash: 0871A46B, Key: Toast, Value: A trader's way station overrun by thieves and murderers
+Hash: DF0BA3DF, Key: Callback36Header, Value: Slay Captain Ezmin
+Hash: 434AA62A, Key: Callback130Header, Value: Explore the Onyx Watchtower
+Hash: 859EA5AF, Key: Callback117Header, Value: Rekindle the Wanderer's Shrine to conquer the Onyx Watchtower
+Hash: B5C2C96E, Key: Callback152Header, Value: Find Captain Ezmin inside the Watchtower
+Hash: 58D5557C, Key: Callback24Header, Value: Purge the bandits and raze their encampment
+Hash: FD6FC593, Key: Callback265Header, Value: Slay the Captain's lieutenants
+Hash: B5C8A770, Key: Callback271Header, Value: Slay Captain Ezmin
+Hash: 83A613F6, Key: Callback277Header, Value: Return to the Watchtower

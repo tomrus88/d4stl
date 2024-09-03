@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Enemies damaged by your {c_important}Conjuration{/c} Skills deal {c_number}[SF_1 * 100|%|]{/c} reduced damage to you for {c_number}[SF_3]{/c} seconds, stacking up to {c_number}[SF_4 * 100|%|]{/c}.

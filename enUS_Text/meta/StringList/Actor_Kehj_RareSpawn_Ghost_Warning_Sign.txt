@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: ABE-MARI
+
+Zakarum scholars note that the terrifying spirit that has been seen emerging from a strange statue on the western cliffs of the Searing Expanse bears a strange resemblance to Abe-Mari, noted Taan Clan sorcerer of ages past.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: None
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Izel
+Hash: 3FDEBD97, Key: Line5.121A3D, Value: Finally. Place me on that pedestal.
+Hash: 9014E964, Key: VoiceDir5.121A3D, Value: Very pleased that all her plans are coming together. 

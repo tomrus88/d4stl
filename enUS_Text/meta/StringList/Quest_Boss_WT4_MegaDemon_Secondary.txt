@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Slay the Malignant
+Hash: 0687FA1D, Key: Callback16Header, Value: Return to {LEVELAREA}
+Hash: 45172A5D, Key: Callback34Header, Value: Inspect the {GIZMO}
+Hash: 04898A62, Key: Callback57Header, Value: Inspect the {GIZMO}
+Hash: 976485BC, Key: Callback42Header, Value: Slay {MONSTER}
+Hash: 6FE82F7E, Key: Callback62Header, Value: Return to {LEVELAREA}
+Hash: 56D6E5C1, Key: Callback65Header, Value: Slay {MONSTER}

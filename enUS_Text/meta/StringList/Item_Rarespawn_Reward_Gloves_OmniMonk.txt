@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Outcast's Handwraps
+Hash: F5C7BC0A, Key: Flavor, Value: Those foolish few Monks who abuse their training for personal gain are banished from the Floating Sky Monastery and forced to wander the harsh and unforgiving lands beyond.

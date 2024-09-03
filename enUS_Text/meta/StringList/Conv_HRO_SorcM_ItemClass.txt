@@ -1,0 +1,4 @@
+Hash: BD54AAA8, Key: Line9.BAE4.Sor.M, Value: I cannot equip this.
+Hash: 5125F4F5, Key: VoiceDir9.BAE4.Sor.M, Value: Spoken to oneself.  Matter of fact.
+Hash: CFE778F0, Key: Line10.BAE4.Sor.M, Value: This is not meant for me.
+Hash: DDE20CDD, Key: VoiceDir10.BAE4.Sor.M, Value: Spoken to oneself.  Matter of fact.

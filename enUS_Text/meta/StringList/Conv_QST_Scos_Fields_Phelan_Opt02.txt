@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you think of Druid Artair?"
+Hash: 5D687838, Key: Line1.F2027, Value: I'm old enough to remember when there were druids here before. Then Astaroth came, and the druids abandoned us.
+Hash: F75CF1BA, Key: Line3.F2027, Value: Eh, we've had to manage without them for this long. Not saying druids are bad or anything, but I don't think we need some young whelp telling us how to run things.
+Hash: 666657E7, Key: VoiceDir3.F2027, Value: dismissive

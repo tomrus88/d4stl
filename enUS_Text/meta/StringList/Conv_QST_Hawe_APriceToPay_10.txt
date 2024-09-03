@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Vera, what are you doing here?"
+Hash: 5D6A2C8A, Key: Line1.F52F0, Value: You! You're (cough)(cough) helping her! I saw it!
+Hash: CC7392B7, Key: VoiceDir1.F52F0, Value: Extremely taxed from exertion, barely able to breathe but absolutely furious by what you've seen.
+Hash: 91531F8E, Key: Line5.F52F0, Value: Where did they go! (wheeze) Tell me!
+Hash: 005C85BB, Key: VoiceDir5.F52F0, Value: Extremely taxed from exertion, barely able to breath but absolutely furious by what you've seen.
+Hash: 5963C6DE, Key: Line14.F52F0, Value: (coughing) Who do you think you are!?
+Hash: A999F2AB, Key: VoiceDir14.F52F0, Value: Extremely taxed from exertion, barely able to breath but absolutely furious by the player's refusal to rat out your daughter.
+Hash: 2B479910, Key: Line7.F52F0, Value: She's MY daughter! Mine! (cough) Once the others hear of this, you'll be sorry!
+Hash: 9A50FF3D, Key: VoiceDir7.F52F0, Value: Extremely taxed from exertion, barely able to breath but absolutely furious.

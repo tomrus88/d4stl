@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Eriman's Plea
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Eriman's Plea
+Hash: 5A3B4CBE, Key: Line1.941B7, Value: My neighbors, I beg you, the burnings must stop. The Zakarum are not ridding the land of heretics, they are destroying the people who have loved and protected you for generations.
+Hash: C944B2EB, Key: VoiceDir1.941B7, Value: Sincere. Worried. Warning.
+Hash: F42FC640, Key: Line3.941B7, Value: It is we, the witches of the swamp, who hold the darkness at bay. Burning us will bring no Light to Hawezar.
+Hash: 63392C6D, Key: VoiceDir3.941B7, Value: Sincere. Worried. Warning.

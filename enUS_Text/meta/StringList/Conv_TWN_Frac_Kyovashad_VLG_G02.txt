@@ -1,0 +1,3 @@
+Hash: 5D82E82D, Key: Line1.FB725, Value: Just take the bread, stubborn fool. It was free.
+Hash: F77761B1, Key: Line3.FB727, Value: Don’t need a handout from those Cathedral bastards.
+Hash: 6680C7DE, Key: VoiceDir3.FB727, Value: Grumpy. He doesn't want handouts--he doesn't want to be in debt to anyone, even though he's poor.

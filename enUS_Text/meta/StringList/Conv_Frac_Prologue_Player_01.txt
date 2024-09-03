@@ -1,0 +1,2 @@
+Hash: D4479923, Key: Line1.BAE4, Value: I should find better shelter before I freeze.
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: Tired

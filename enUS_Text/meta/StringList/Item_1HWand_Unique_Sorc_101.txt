@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Farseer Scepter
+Hash: 003DFCC1, Key: Name, Value: The Oculus
+Hash: F5C7BC0A, Key: Flavor, Value: "The rhythm of the orb, which had pulsed steadily for five centuries, quickened as its owner took his final ragged breaths. It were as if some intelligence within reveled in the sight."
+- Master Eos

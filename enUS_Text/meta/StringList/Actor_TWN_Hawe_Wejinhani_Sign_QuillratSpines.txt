@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Basket of Spike Fiend Quills
+Hash: F2CA04D8, Key: NoticeSignText, Value: A large basket of spike fiend quills of various sizes. The tips appear to be coated in some sort of sticky substance. Were these removed from someone or are they used for healing?

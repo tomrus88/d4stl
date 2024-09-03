@@ -1,0 +1,9 @@
+Hash: CBBDACCA, Key: ConnectWithController, Value: {icon:button3, 2.0} Use controller instead
+Hash: 41FADE68, Key: UseCode, Value: Use this code to log in:
+Hash: 74ABCA5F, Key: UseOtherDevice, Value: On another device, visit:
+Hash: CD0A462B, Key: UseQRCode, Value: Scan the QR code using a mobile app:
+Hash: 5E91C08C, Key: DividerText, Value: or
+Hash: A6C60F3A, Key: UseCodeOnSite, Value: Log in below:
+Hash: CC4DA7E5, Key: OpenWebsite, Value: Open Website {icon:ExternalLink_Simple, 1.25}
+Hash: CBFD3516, Key: CopyCode, Value: Copy this code:
+Hash: 8D4722F6, Key: CodeCopiedNotification, Value: Code copied to clipboard

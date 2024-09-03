@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Duality Manifest
+Hash: A646FFA4, Key: Description, Value: Some seek absolution through penance as an atonement. It is not enough to simply feel the burden of one's past evil - one must seek to restore balance over time and provide an equal share of virtue.
+Hash: 083EE0CE, Key: Quote, Value: To see what I have seen, and do what I have done.
+Hash: 13A53A8B, Key: Series, Value: "Triune Apostate" Accessories

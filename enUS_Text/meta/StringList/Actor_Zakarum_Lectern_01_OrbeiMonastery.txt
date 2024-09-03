@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Monastery Visitor Log
+Hash: CC3C0A8F, Key: FlavorText, Value: A weathered list of the monastery's visitors
+Hash: F2CA04D8, Key: NoticeSignText, Value: 8th of Jerharan – Kamien, traveling scholar – denied. 
+
+26th of Jerharan – Guulrahni refugees (multiple) – denied. 
+
+1st of Damhar – Elias of Aranoch, Horadrim – admitted. 

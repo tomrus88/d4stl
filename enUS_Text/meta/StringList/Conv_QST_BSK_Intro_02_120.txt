@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What in the Hells just happened?"
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: I... I purged Sankekur's body, and the demon that followed... but my eye... I saw into the Realm of Hatred!
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Exhausted. Trembling. Horror.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: Even without Mephisto, his legions rise. They press against the veil... and the Triune have already damaged it beyond repair. It’s only a matter of time...
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Horror. Despair.
+Hash: A97D1E50, Key: Line22.1BCB9E, Value: Hell will conquer Sanctuary.
+Hash: 0078C3BD, Key: VoiceDir22.1BCB9E, Value: Despairing. Almost accepting defeat.
+Hash: 8200C812, Key: Line24.1BCB9E, Value: I- I need to get out of here, I need to think... Meet me outside.
+Hash: D8FC6D7F, Key: VoiceDir24.1BCB9E, Value: Denial kicks in. Grasping for hope.

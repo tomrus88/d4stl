@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Looking for someone?"
+Hash: 5D73B394, Key: Line1.EFA01, Value: Lookin' for a man, a regular round here. Name's Flinn. You seen him?
+Hash: CC7D19C1, Key: VoiceDir1.EFA01, Value: Matter-of-factly
+Hash: ABBAA947, Key: Line22.EFA01, Value: Lean guy, bald. Got a birthmark on his right arm. No? Damn.
+Hash: FBF0D514, Key: VoiceDir22.EFA01, Value: Frustrated, not sad
+Hash: 8D5640EC, Key: Line18.EFA01, Value: See, my crew's leaving port here real soon, but I got a debt to settle with Flinn.
+Hash: DD8C6CB9, Key: VoiceDir18.EFA01, Value: Not overly emotional. She's looking to settle a debt; finding him is just practical
+Hash: 576EDE2D, Key: Line55.EFA01, Value: I ain't one for leaving loose ends untied, 'specially to a place like Backwater. Ain't nobody gonna be holding nothin' over my head.
+Hash: A7A509FA, Key: VoiceDir55.EFA01, Value: Protective of her freedom/independence
+Hash: D68BAE68, Key: Line50.EFA01, Value: Flinn shoulda come back down the road up north days ago. I'd start by lookin' there.
+Hash: 26C1DA35, Key: VoiceDir50.EFA01, Value: Again, matter-of-factly

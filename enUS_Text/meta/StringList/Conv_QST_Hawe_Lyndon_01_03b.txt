@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Rat Race
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Here we are.
+Hash: 6735A8AD, Key: Line3.10088C, Value: (muttering)
+Hash: B76BD47A, Key: VoiceDir3.10088C, Value: indistinct muttering
+Hash: 3FB9526F, Key: Line5.10088C, Value: Damn. Where is it?

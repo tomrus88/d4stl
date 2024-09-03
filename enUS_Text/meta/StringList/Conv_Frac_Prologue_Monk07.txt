@@ -1,0 +1,4 @@
+Hash: 5A206A1A, Key: Line1.6F0BE, Value: Only fire can cleanse the darkness in this place.
+Hash: C929D047, Key: VoiceDir1.6F0BE, Value: Concerned
+Hash: F414E39C, Key: Line3.6F0BE, Value: Have a look inside, but hurry. I will prepare the torch.
+Hash: 631E49C9, Key: VoiceDir3.6F0BE, Value: Concerned

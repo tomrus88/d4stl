@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Genesis
+Hash: A646FFA4, Key: Description, Value: Increase the effectiveness of the supported Skill by {c_number}[Collectible_Power_Value_1*100]%{/c}.
+Hash: E971A20F, Key: Modifier, Value: Skill effectiveness increased by {c_number}[{SF_0}*100]%{/c}.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating the Echo of Malphas

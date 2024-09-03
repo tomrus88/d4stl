@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Pinch of Poison
+Hash: 0871A46B, Key: Toast, Value: Baraim has need of a special ingredient.
+Hash: FAF02F4B, Key: Phase6Description, Value: The proprietor of the Watering Hole in Gea Kul asked me to collect venom glands from the scorpions found all throughout Kehjistan. They are most common in the Amber Sands to the north.
+
+There must be easier ways to get poison in a town as seedy as Gea Kul... What could he need these for? 
+Hash: 059C64AB, Key: Callback5Header, Value: Collect {ITEM} in Kehjistan: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I have collected the venom glands for Baraim. I should return to the Watering Hole tavern in Gea Kul for reward.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Baraim

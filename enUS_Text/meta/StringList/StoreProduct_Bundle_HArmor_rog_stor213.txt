@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Spirit of the Silver Fog
+Hash: A646FFA4, Key: Description, Value: Warm fog shrouds the trees. Heavy. Silent, until a shape darts through the gloom. A beast of the forest? No...beasts do not laugh.
+Hash: 083EE0CE, Key: Quote, Value: A ghost in the forest.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

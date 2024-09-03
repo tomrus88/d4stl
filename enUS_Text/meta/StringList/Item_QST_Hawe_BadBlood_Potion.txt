@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gulyas' Potion
+Hash: F5C7BC0A, Key: Flavor, Value: A concoction of snakemen parts and blood magic. Ingesting it might turn one into a snakeman.

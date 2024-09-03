@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Lunar Shrines
+Hash: 7BFE534B, Key: simple_instruction, Value: {icon:Lunar_Shrine_Icon, 2.5}{c_highlight}Lunar Shrines{/c} are found throughout Sanctuary during the Lunar Awakening. Discover all 7 for a special reward.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hungering Swamp
+Hash: 003892BF, Key: Desc, Value: Powerful ritual magic suffuses this place.

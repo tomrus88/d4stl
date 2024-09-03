@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hawezar
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: A strange thing, knowing where you’ll go when you die. One less damn mystery to worry about, at least.
+Hash: F413C4CC, Key: Line3.6D03F, Value: Did I make the right choice? I did what I had to.
+Hash: A313225F, Key: Line15.6D03F, Value: We needed answers, and we got them. Lilith was poised to storm the very gates of Hell.
+Hash: 3D079BE1, Key: Line17.6D03F, Value: Astaroth and the deal, Rathma and the key...it had all been leading to this.
+Hash: D6FC1563, Key: Line19.6D03F, Value: But what we didn’t know was that while we were lost in the swamp, Inarius and the Cathedral were launching a campaign to strike at Lilith.
+Hash: 5B6C043C, Key: Line21.6D03F, Value: Their battle would leave the world a wasteland. And whoever won would show no mercy to what was left.
+Hash: F5607DBE, Key: Line23.6D03F, Value: Our only hope was to reach Lilith before Inarius, but we couldn’t have predicted what happened next.

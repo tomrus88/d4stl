@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: By Three They Come
+Hash: 0871A46B, Key: Toast, Value: Discover what Elias what sought in the ruins of Esret.
+Hash: E2223B19, Key: Phase22Description, Value: Elias and his party of mercenaries broke through the floor of the Esret chapel and descended into the dark depths inside. I must prepare myself to do the same.
+Hash: 71E69F39, Key: Callback21Header, Value: Enter the Halls of Dark Portent
+Hash: 74FC533C, Key: Phase25Description, Value: I should return Symon's things to Father Dymus. He will be heartbroken by the news, but he deserves to know the truth.
+Hash: 58D5557C, Key: Callback24Header, Value: Return to Father Dymus
+Hash: 32CAE022, Key: Phase76Description, Value: Sev has directed me towards the sagging chapel that sits amongst the ruins of the town of Esret. The closer I get to finding what Elias was searching for, the more uneasy I feel. What did Symon find himself wrapped up in?
+Hash: 4318BAA2, Key: Callback75Header, Value: Enter the Esret Chapel
+Hash: C5A4F845, Key: Phase79Description, Value: Elias and his party of mercenaries broke through the floor of the Esret chapel and descended into the dark depths inside. I must prepare myself to do the same.
+Hash: 2A0770E5, Key: Callback78Header, Value: Enter the Halls of Dark Portent
+Hash: E410A465, Key: Phase88Description, Value: After a small bribe, Sev was willing to tell me about Elias's ultimate goal: the ruins of a town called Esret, forgotten in the southern wetlands. She showed me its location, and promised to meet me there, if only to face her fears of what occurred there.
+Hash: 9AB9349F, Key: Callback90Header, Value: Meet Sev outside Esret

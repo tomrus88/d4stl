@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are the passes?"
+Hash: 5D6CA011, Key: Line1.F8D53, Value: The passes to the southwest are still blocked by bandits.
+Hash: F7611995, Key: Line3.F8D55, Value: How are we supposed to transport goods if we have to go around the damn pass? I paid for your swords, so use them.
+Hash: 91559315, Key: Line5.F8D53, Value: Not enough to get myself killed and eaten in those hills.

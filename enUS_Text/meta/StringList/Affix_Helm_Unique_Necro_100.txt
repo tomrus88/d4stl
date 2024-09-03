@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Bone Spear{/c} leaves behind echoes that explode for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * (1 + Owner.Main_Hand_Damage_Percent_Bonus) * Affix_Value_1]{/c} Physical damage, increased by {c_number}[Affix."Static Value 0"|%x|]{/c} for every {c_number}[Affix."Static Value 1"|%|]{/c} Critical Strike Damage you have.
+
+Current Bonus: {c_number}[Floor((Owner.(ComputeCritDamageScalar() + (-1)) + Owner.Crit_Damage_Percent) / (Affix."Static Value 1" / 100)) * Affix."Static Value 0"|x%||1|]{/c}

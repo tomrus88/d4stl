@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Lonely Wolf 02
+Hash: 0C454EAB, Key: Line13.D5161, Value: What about me?
+Hash: 5C7B7A78, Key: VoiceDir13.D5161, Value: Confused.
+Hash: A62EDCE9, Key: Line15.BC41C, Value: Back to your post before the captain sees.
+Hash: F66508B6, Key: VoiceDir15.BC41C, Value: A clear, direct order. Dismissive.
+Hash: 402E41AF, Key: Line17.D5161, Value: (grunt)
+Hash: 90646D7C, Key: VoiceDir17.D5161, Value: Frustrated but compliant.

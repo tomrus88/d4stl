@@ -1,0 +1,395 @@
+Hash: DC3E5084, Key: Flat_Block_Amount, Value: [{VALUE}] {c:FF888888}Shield Block Value{/c:FF888888}
+Hash: AF182148, Key: Crit_Percent_Bonus, Value: +[{VALUE}*100|1%|] Critical Strike Chance
+Hash: 403F65E0, Key: Crit_Damage_Percent, Value: +[{VALUE}*100|1%|] Critical Strike Damage
+Hash: 61978D76, Key: Damage_Type_Percent_Bonus, Value: +[{VALUE2}*100|1%|] {VALUE1} Damage
+Hash: 251003AC, Key: Faster_Healing_Percent, Value: +{VALUE%} Potion Healing Speed
+Hash: B8631906, Key: Gold_Find, Value: [{VALUE}*100|~%|] Gold Drop Rate
+Hash: 44C6E32D, Key: Hitpoints_Max_Bonus, Value: [{VALUE}|~|] Maximum Life
+Hash: D51CAA52, Key: Hitpoints_Percent, Value: +[{VALUE}*100|~%|] Life
+Hash: 72A3AFBB, Key: Proc_Flat_Hitpoints_On_Hit, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Heal +[{VALUE}] Life
+Hash: 55F27A6F, Key: Flat_Hitpoints_On_Kill, Value: [{VALUE}|~|] Life On Kill
+Hash: 769CB933, Key: Hitpoints_Regen_Per_Second, Value: +[{VALUE}] Healing Over Time
+Hash: B451CDBC, Key: Immunity, Value: {VALUE1} Damage Immunity
+Hash: 0C876A7D, Key: Item_Cost_Percent_Bonus, Value: +[{VALUE} * 100|1%|] Sell Value
+Hash: 64698892, Key: Mana_Restriction, Value: (Sorcerer Only)
+Hash: FA640490, Key: Spirit_Restriction, Value: (Druid Only)
+Hash: 46A0B1FC, Key: Arcanum_Restriction, Value: (Wizard Only)
+Hash: B8D2E4F5, Key: Movement_Bonus_Run_Speed, Value: +[{VALUE}*100|1%|] Movement Speed
+Hash: 96393A6A, Key: Run_Speed_Duration, Value: Increases movement speed for [{VALUE}] seconds. Effect ends if you deal or receive damage.
+Hash: F92290D9, Key: Pierce_Chance, Value: +[{VALUE}*100|1%|] Pierce Chance
+Hash: 83C3BF51, Key: Requirements_Ease_Percent, Value: [{VALUE}*100|~%|] Requirements
+Hash: 8AAE2EF1, Key: Resistance, Value: +[{VALUE2}*100|1%|] {VALUE1} Resistance
+Hash: 83540269, Key: Resistance_All, Value: +[{VALUE}*100|1%|] Resistance to All Elements
+Hash: 53D6CE8C, Key: ClassRestriction, Value: ({s1} Only)
+Hash: 9E91CBFC, Key: Sockets, Value: Sockets ([{VALUE}-{VALUE2}])
+Hash: D0D1327E, Key: Steal_Health_Percent, Value: +[{VALUE}*100|1%|] Life Steal
+Hash: 2E4A4425, Key: Steal_Mana_Percent, Value: Restore [{VALUE}*100|1%|] of Damage Dealt as Resource
+Hash: 5D0A99AE, Key: Experience_Bonus, Value: [{VALUE}|~|] Experience On Kill
+Hash: A0F0F25E, Key: Experience_Bonus_Percent, Value: +[{Value}*100|1%|] Bonus Experience
+Hash: 8A813B45, Key: Willpower, Value: [{VALUE}|~|] Willpower
+Hash: 0F48018B, Key: Hitpoints_Max_Percent_Bonus_Item, Value: [{VALUE}*100|1%|] Maximum Life
+Hash: CED625BE, Key: Attack_Speed_Percent_Bonus, Value: +[{VALUE} * 100|1%|] Attack Speed
+Hash: 22F667C3, Key: Resource_Max_Percent_Bonus, Value: [{VALUE2}*100|1%|] Maximum {VALUE1}
+Hash: CDF37C13, Key: Resource_Max_Bonus, Value: +[{VALUE2}] Maximum {VALUE1}
+Hash: 3F12A4CF, Key: Resource_On_Kill, Value: [{VALUE2}|~|] {VALUE1} On Kill
+Hash: 3F0E67B5, Key: Resource_On_Crit, Value: +{VALUE2} {VALUE1} on Critical Strike
+Hash: AB312F9C, Key: HighlySalvageable, Value: Highly Salvageable
+Hash: 05D891B7, Key: CC_Duration_Reduction, Value: [{VALUE}*100|1%|] Impairment Reduction
+Hash: C803712D, Key: Hatred_Restriction, Value: (Demon Hunter Only)
+Hash: 4A6F57EA, Key: Dodge_Chance_Bonus, Value: [{VALUE} * 100|1%|] Dodge Chance
+Hash: AEBC8518, Key: Gold_PickUp_Radius, Value: +[{VALUE}] Pickup Radius
+Hash: 9653763B, Key: On_Hit_Knockback_Proc_Chance, Value: {c_label}Lucky Hit:{/c} Up to a +[{VALUE} * 100|1%|] Chance to Knockback
+Hash: 358D9842, Key: Damage_Percent_Bonus_Vs_Elites, Value: +[{VALUE}*100|1%|] Damage to Elites
+Hash: 325A7613, Key: Damage_Percent_Reduction_From_Elites, Value: [{VALUE}*100|1%|] Damage Reduction from Elites
+Hash: BC9CF882, Key: Item_Level_Requirement_Reduction, Value: Level Requirement Reduced by [{VALUE}]
+Hash: 0EAAC27C, Key: Ignore_Durability_Loss, Value: Ignore Durability Loss
+Hash: A31152FF, Key: Item_Is_BOE, Value: Binds to Account When Equipped
+Hash: A54FA9B6, Key: Item_Is_BOE_Bound, Value: Account Bound
+Hash: 98768205, Key: Power_Cooldown_Reduction_Percent_All, Value: [{VALUE1}*100|1%|] Cooldown Reduction
+Hash: FE67B502, Key: Set_Item_Discount, Value: Reduces the number of items needed for set bonuses by 1 (to a minimum of 2).
+Hash: 8BB37734, Key: Resource_Cost_Reduction_Percent_All, Value: [{VALUE}*100|1%|] Resource Cost Reduction
+Hash: 4C6EF269, Key: Weapon_On_Hit_Percent_Bleed_Proc_Chance_Combined, Value: {c_label}Lucky Hit:{/c} Up to a +[{VALUE1}*100|1%|] Chance to Deal [{VALUE2}*100|1%|] Bleeding Damage over {VALUE3} seconds
+Hash: F5BD6112, Key: Armor_Ignore_Damage_Percent, Value: +[{VALUE}*100|1%|] Chance to Ignore Damage Taken
+Hash: B428FA8F, Key: Gethit_Immune, Value: Immune to Stagger.
+Hash: E5D034E8, Key: Power_Resource_Cost_Reduction_Percent, Value: [{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Resource Cost Reduction
+Hash: FB94E04B, Key: Damage_Percent_All_From_Skills, Value: +[{VALUE}*100|1%|] Damage
+Hash: C59B572C, Key: Damage_Bonus_To_Near, Value: +[{VALUE}*100|1%|] Damage to Close Enemies
+Hash: 4BCE44FF, Key: Damage_Bonus_To_Far, Value: +[{VALUE}*100|1%|] Damage to Distant Enemies
+Hash: AD7624C3, Key: Damage_Reduction_From_Near, Value: [{VALUE}*100|1%|] Damage Reduction from Close Enemies
+Hash: A82A3BB6, Key: Damage_Reduction_From_Far, Value: [{VALUE}*100|1%|] Damage Reduction from Distant Enemies
+Hash: DC6616FA, Key: On_Hit_CC_Proc_Chance, Value: {c_label}Lucky Hit:{/c} Up to a +[{VALUE2} * 100|1%|] Chance to {VALUE1} for 2 Seconds
+Hash: 5E08AEE7, Key: On_Crit_CC_Proc_Chance, Value: {c_label}Lucky Hit:{/c} Critical Strikes Have Up to a +[{VALUE2} * 100|1%|] Chance to {VALUE1} for 2 Seconds
+Hash: 923DCBE1, Key: CC_Duration_Bonus_Percent, Value: +[{VALUE}*100|1%|] Crowd Control Duration
+Hash: 0CC921DA, Key: Movement_Speed_Bonus_On_Elite_Kill, Value: +[{VALUE1}*100|1%|] Movement Speed for {VALUE2} |4Second:Seconds; After Killing an Elite
+Hash: 46A7A07E, Key: Damage_Bonus_On_Elite_Kill_Combined, Value: +[{VALUE}*100|1%|] Damage for {VALUE2} |4Second:Seconds; After Killing an Elite
+Hash: 4ED0D544, Key: Damage_Reduction_On_Elite_Kill_Combined, Value: [{VALUE}*100|1%|] Damage Reduction for {VALUE2} |4Second:Seconds; After Killing an Elite
+Hash: 1EA914BB, Key: Hitpoints_On_Elite_Kill, Value: +[{VALUE}*100] Life On Elite Kill
+Hash: A97FDA8B, Key: Flat_Damage_Bonus, Value: +{VALUE2} {VALUE1} Damage
+Hash: F7B3B1C5, Key: Flat_Damage_On_Hit, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Deal [{VALUE}] Damage
+Hash: 1C1F39B3, Key: Flat_Hitpoints_Max_Bonus, Value: +[{VALUE}] Maximum Life
+Hash: F79B3AEC, Key: Flat_Hitpoints_Granted, Value: Restores [{VALUE}] Life
+Hash: 01371459, Key: OOC_Flat_Hitpoints_Regen_Per_Second, Value: +[{VALUE}] Life Regeneration
+Hash: 19C52603, Key: DOT_DPS_Bonus_Percent, Value: +[{VALUE}*100|1%|] Damage Over Time
+Hash: E1F1DE00, Key: Shrine_Elixir_Duration_Bonus, Value: +[{VALUE}*100|1%|] Shrine Buff Duration
+Hash: 6E8642D4, Key: Bonus_Healing_Received_Percent, Value: +[{VALUE}*100|1%|] Healing Received
+Hash: 4C27BF3D, Key: Barrier_Bonus_Percent, Value: +[{VALUE}*100|1%|] Barrier Generation
+Hash: 64C07D25, Key: Damage_Reduction_At_Low_Health, Value: [{VALUE}*100|1%|] Damage Reduction while Injured
+Hash: 41917769, Key: Combat_Effect_Chance_Bonus, Value: +[{VALUE}*100|1%|] Lucky Hit Chance
+Hash: AE7A6400, Key: Amplify_Damage_From_Pets_Per_Player_Percent, Value: +[{VALUE}*100|1%|] {c_important}Minion{/c} Damage
+Hash: 08DF045D, Key: Pet_Damage_Bonus_Percent, Value: +[{VALUE}*100|1%|] Summon Damage
+Hash: 51F470AF, Key: Material_Find, Value: +[{VALUE}*100|1%|] Crafting Material Drop Rate
+Hash: 5BD5A008, Key: CC_Duration_Bonus_Percent_Per_Type, Value: +[{VALUE2}*100|1%|] {VALUE1} Duration
+Hash: 8093E0C8, Key: Damage_Percent_Bonus_Vs_CC_Target, Value: +[{VALUE2}*100|1%|] Damage to {VALUE1} Enemies
+Hash: FF800AEB, Key: Experience_Bonus_Percent_Vs_Elites, Value: +[{Value}*100|1%|] Bonus Experience from Elites
+Hash: 69B4F63C, Key: Resource_Cost_Reduction_Percent, Value: [{VALUE2} * 100|1%|] {VALUE1} Cost Reduction
+Hash: 6D237729, Key: Vulnerable_Health_Damage_Bonus, Value: +[{VALUE}*100|1%|] Vulnerable Damage
+Hash: C3DF2B20, Key: Crit_Chance_Bonus_To_Near, Value: +[{VALUE}*100|1%|] Critical Strike Chance Against Close Enemies
+Hash: FE2D6A73, Key: Crit_Chance_Bonus_To_Far, Value: +[{VALUE}*100|1%|] Critical Strike Chance Against Distant Enemies
+Hash: 10507DD3, Key: Mount_Armor, Value: [{VALUE} * 1000|~|] Mount Armor
+Hash: 343202F3, Key: Pet_Equipped_Solo_Attacker_Damage_Bonus, Value: +[{VALUE}*100|1%|] Damage while no other {c_important}Minions{/c} are Attacking the Enemy
+Hash: 70B566D8, Key: Pet_Equipped_Other_Attacker_Damage_Bonus, Value: +[{VALUE}*100|1%|] Damage for Each Other {c_important}Minion{/c} Attacking the Enemy
+Hash: 331BEAB5, Key: Pet_Equipped_Recently_Summoned_Damage_Bonus, Value: +[{VALUE}*100|1%|] Damage for 8 Seconds After Being Summoned
+Hash: 2E73DD1B, Key: Fury_Restriction, Value: (Barbarian Only)
+Hash: 7D9E7508, Key: Potion_Bonus_Heal_Percent, Value: +[{VALUE}*100|1%|] Potion Healing
+Hash: 6ACC7A99, Key: Potion_Cooldown_Reduction_Percent, Value: [{VALUE}*100|1%|] Potion Cooldown Cooldown
+Hash: B873A9C5, Key: Gem_Attributes_Multiplier, Value: [{VALUE}*100|1%|] Gem Strength in this Item
+Hash: 262113ED, Key: Damage_Bonus_At_High_Health, Value: +[{VALUE}*100|1%|] Damage while Healthy
+Hash: EB9BDB64, Key: Flat_Damage_Shield_On_Kill, Value: +[{VALUE}] Life as Barrier On Kill
+Hash: BA95DA50, Key: Attack_Speed_Percent_Bonus_For_Power, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Attack Speed
+Hash: A95350CD, Key: Damage_Bonus_To_Low_Health, Value: +[{VALUE}*100|1%|] Damage to Injured Enemies
+Hash: FF0A2B5B, Key: Damage_Bonus_To_HIgh_Health, Value: +[{VALUE}*100|1%|] Damage to Healthy Enemies
+Hash: 6315FE18, Key: Flat_Heal_Absorb, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Absorb [{VALUE}] Life
+Hash: 6D8CFFD7, Key: Damage_Reduction_During_Evade, Value: [{VALUE}*100|1%|] Damage Reduction while Evading
+Hash: 932B2045, Key: No_Damage_Taken_Flat_Hitpoints_Regen_Per_Second, Value: +[{VALUE}] Life per Second
+Hash: F04B1CA4, Key: Thorns_Flat, Value: +[{VALUE}] Thorns
+Hash: BEA27E89, Key: DOT_DPS_Reduction_Percent, Value: [{VALUE}*100|1%|] Damage Taken Over Time Reduction
+Hash: F8B7252C, Key: Pet_Inherit_Attrib_Bonus_Pct, Value: {c_important}Minions{/c} Inherit +[{VALUE}*100|1%|] of Your Stats
+Hash: 1444024F, Key: Strength, Value: [{VALUE}|~|] Strength
+Hash: 4D4FC0B3, Key: Intelligence, Value: [{VALUE}|~|] Intelligence
+Hash: E1DC00C2, Key: Dexterity, Value: [{VALUE}|~|] Dexterity
+Hash: 5E76CD0A, Key: Plus_All_Stats, Value: [{VALUE}|~|] All Stats
+Hash: 796F9730, Key: Weapon_Speed_Percent_Bonus, Value: +[{VALUE} * 100|1%|] Weapon Speed
+Hash: BB015F56, Key: On_Hit_Execute_Low_Health_Non_Elite_Chance, Value: {c_label}Lucky Hit:{/c} Up to a +[{VALUE}*100|1%|] Chance to Execute Injured Non-Elites
+Hash: D880618B, Key: Proc_Resource_On_Hit_Percent, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Restore +[{VALUE2}*100|1%|] {VALUE1}
+Hash: 5781D4AF, Key: Pet_Equipped_Proc_Resource_On_Hit_Percent, Value: Chance per Hit to gain [{VALUE2}*100|~%|] {VALUE1}
+Hash: B500877F, Key: Energy_Restriction, Value: (Rogue Only)
+Hash: DCA642E0, Key: Damage_Increase_From_Near, Value: +[{VALUE}*100|1%|] Damage Taken from Close Enemies
+Hash: 8A908A33, Key: Damage_Increase_From_Far, Value: +[{VALUE}*100|1%|] Damage Taken from Distant Enemies
+Hash: 92BFB5E5, Key: Damage_Type_Crit_Damage_Percent_Bonus, Value: +[{VALUE2}*100|1%|] {VALUE1} Critical Strike Damage
+Hash: FFFDAF87, Key: Damage_Type_Crit_Percent_Bonus, Value: +[{VALUE2}*100|1%|] {VALUE1} Critical Strike Chance
+Hash: 7EB9B8E8, Key: Flat_Hitpoints_On_Hit, Value: +[{VALUE}] Life On Hit
+Hash: 8034ACA1, Key: Fortified_Health_Damage_Reduction_Bonus, Value: [{VALUE}*100|1%|] Damage Reduction while Fortified
+Hash: 76A873AA, Key: Fortified_Health_Application_Bonus, Value: +[{VALUE}*100|1%|] Fortify Generation
+Hash: CFD5744D, Key: Combat_Effect_Chance_Bonus_Per_Skill, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Lucky Hit Chance
+Hash: 93192956, Key: Damage_Reduction_While_Crowd_Controlled, Value: [{VALUE}*100|1%|] Damage Reduction while Impaired
+Hash: 81C632D0, Key: Damage_Reduction_While_Stationary, Value: [{VALUE}*100|1%|] Damage Reduction while Standing Still
+Hash: A6C113AD, Key: Helpful_Buff_Duration_Bonus_Percent, Value: [{VALUE}*100|1%|] Helpful Effect Duration
+Hash: FD32438C, Key: Harmful_Buff_Duration_Bonus_Percent, Value: [{VALUE}*100|1%|] Harmful Effect Duration
+Hash: 97364E08, Key: DOT_DPS_Bonus_Percent_Per_Damage_Type, Value: +[{VALUE2}*100|1%|] {VALUE1} Damage Over Time
+Hash: 19CFF28E, Key: DOT_DPS_Reduction_Percent_Per_Damage_Type, Value: [{VALUE2}*100|1%|] {VALUE1} Damage Taken Over Time Reduction
+Hash: A2E448DD, Key: Hitpoints_Max_Percent_Bonus, Value: [{VALUE}*100|1%|] Maximum Life
+Hash: 303A9EBA, Key: Damage_Percent_Bonus_Vs_CC_All, Value: +[{VALUE}*100|1%|] Damage to Crowd Controlled Enemies
+Hash: 5B8FDB5C, Key: Resource_Gain_Bonus_Percent, Value: [{VALUE2}*100|1%|] {VALUE1} Generation
+Hash: 355DAE4D, Key: Damage_Increase_While_Stationary, Value: +[{VALUE}*100|1%|] Damage while Standing Still
+Hash: E4BC59FB, Key: Crit_Percent_Bonus_Vs_CC_Target, Value: +[{VALUE2}*100|1%|] Critical Strike Chance Against {VALUE1} Enemies
+Hash: 3F34A2C2, Key: Crit_Percent_Bonus_Vs_CC_Target_Any, Value: +[{VALUE}*100|1%|] Critical Strike Chance Against Crowd Controlled Enemies
+Hash: 6B360F54, Key: Damage_Type_Crit_Percent_Bonus_Vs_Elites, Value: +[{VALUE2}*100|1%|] {VALUE1} Critical Strike Chance Against Elites
+Hash: 4B4A9E21, Key: Damage_Percent_Bonus_When_Fortified, Value: +[{VALUE}*100|1%|] Damage while Fortified
+Hash: 9EDB44BD, Key: Crit_Damage_Bonus_To_Near, Value: +[{VALUE}*100|1%|] Critical Strike Damage to Close Enemies
+Hash: FD0E4470, Key: Crit_Damage_Bonus_To_Far, Value: +[{VALUE}*100|1%|] Critical Strike Damage to Distant Enemies
+Hash: 0A56B44E, Key: Damage_Percent_Reduction_From_Dotted_Enemy, Value: [{VALUE2}*100|1%|] Damage Reduction from {VALUE1} Enemies
+Hash: 746FF425, Key: Dodge_Chance_Bonus_From_Dotted_Enemies, Value: +[{VALUE2}*100|1%|] Dodge Chance Against {VALUE1} Enemies
+Hash: 9E11EF02, Key: Damage_Percent_Reduction_From_CCed_Target, Value: [{VALUE2}*100|1%|] Damage Reduction from {VALUE1} Enemies
+Hash: 2E1FF703, Key: Damage_Percent_Reduction_From_Vulnerable_Target, Value: [{VALUE}*100|1%|] Damage Reduction from Vulnerable Enemies
+Hash: 2D1DA9C0, Key: Crit_Damage_Percent_Bonus_Vs_CC_Target_Any, Value: +[{VALUE}*100|1%|] Critical Strike Damage to Crowd Controlled Enemies
+Hash: 2068ADD7, Key: Crit_Damage_Percent_Bonus_To_Vulnerable, Value: +[{VALUE}*100|1%|] Critical Strike Damage to Vulnerable Enemies
+Hash: D2107619, Key: Crit_Percent_Bonus_To_Vulnerable, Value: +[{VALUE}*100|1%|] Critical Strike Chance Against Vulnerable Enemies
+Hash: 8A91FDE7, Key: Armor_Bonus, Value: +[{VALUE}] Armor
+Hash: AABAAE0E, Key: Weapon_Damage_Bonus, Value: [{VALUE}|~|] Weapon Damage
+Hash: B365C83C, Key: NonPhysical_Damage_Percent_Bonus, Value: +[{VALUE} * 100|1%|] Non-Physical Damage
+Hash: 98FB2210, Key: Crit_Percent_Bonus_To_Low_Health, Value: +[{VALUE}*100|1%|] Critical Strike Chance Against Injured Enemies
+Hash: ABC1A914, Key: Pet_Health_Bonus_Percent, Value: [{VALUE}*100|1%|] Maximum {c_important}Minion{/c} Life
+Hash: 432C1DFF, Key: Pet_Armor_Bonus_Percent, Value: +[{VALUE}*100|1%|] {c_important}Minion{/c} Armor
+Hash: 350E4DE7, Key: Pet_All_Resistance_Bonus_Percent, Value: +[{VALUE}*100|1%|] {c_important}Minion{/c} Resistance to All Elements
+Hash: C2756AA2, Key: Chill_Bonus_Percent, Value: [{VALUE}*100|1%|] Chill Application
+Hash: 2DBFB750, Key: Skill_Rank_Bonus, Value: +{VALUE2} to {c_important}{VALUE1}{/c}
+Hash: E2EE1948, Key: Skill_Rank_All_Bonus, Value: +{VALUE1} to All Skills
+Hash: EC63EC03, Key: Per_Damage_Type_Buff_Duration_Bonus_Percent, Value: [{VALUE2}*100|1%|] {VALUE1} Damage Over Time Duration
+Hash: AA976EA6, Key: Proc_Resource_On_Hit_Percent_All_Primary, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to Restore +[{VALUE}*100|1%|] Primary Resource
+Hash: B95CFB39, Key: Talent_Rank_Bonus, Value: +{VALUE2} to {c_important}{VALUE1}{/c}
+Hash: C84C1457, Key: Strength_Core, Value: [{VALUE}|~|] Strength
+Hash: 36D412AA, Key: Dexterity_Core, Value: [{VALUE}|~|] Dexterity
+Hash: 8B61570D, Key: Willpower_Core, Value: [{VALUE}|~|] Willpower
+Hash: 7DA2713B, Key: Intelligence_Core, Value: [{VALUE}|~|] Intelligence
+Hash: 2DED7C97, Key: Percent_Life_On_Kill, Value: +[{VALUE}*100|1%|] Life On Kill
+Hash: 78857B50, Key: Overpower_Chance_Bonus, Value: +[{VALUE}*100|1%|] Overpower Chance
+Hash: 5FBA6D9D, Key: Overpower_Damage_Percent_Bonus, Value: +[{VALUE}*100}|1%|] Overpower Damage
+Hash: 49D7F9E3, Key: Pet_Damage_Reduction_Percent, Value: [{VALUE}*100|1%|] Damage Reduction for Your {c_important}Minions{/c}
+Hash: 376087FE, Key: Power_Duration_Bonus_Pct, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Duration
+Hash: A9AB1641, Key: Attack_Speed_Bonus_After_Dodge, Value: +[{VALUE}*100|1%|] Attack Speed for {VALUE2} |4Second:Seconds; After Dodging an Attack
+Hash: 60A452A8, Key: Damage_Bonus_Percent_After_Dodge, Value: +[{VALUE}*100|1%|] Damage for {VALUE2} |4Second:Seconds; After Dodging an Attack
+Hash: C6B70DD4, Key: Damage_Percent_Bonus_Per_Weapon_Requirement, Value: +[{VALUE2}*100|1%|] Damage with {VALUE1}
+Hash: E002E2C7, Key: Crit_Percent_Bonus_Per_Weapon_Requirement, Value: +[{VALUE2}*100|1%|] {VALUE1} Critical Strike Chance
+Hash: 4B7C3C5F, Key: Crit_Damage_Percent_Per_Weapon_Requirement, Value: +[{VALUE2}*100|1%|] Critical Strike Damage with {VALUE1}
+Hash: 402B9991, Key: Attack_Speed_Percent_Bonus_While_Fortified, Value: +[{VALUE} * 100|1%|] Attack Speed while Fortified
+Hash: 550197AC, Key: Non_Physical_Crit_Damage_Percent_Bonus, Value: +[{VALUE}*100|1%|] Non-Physical Critical Strike Damage
+Hash: F4AC82BD, Key: Werebear_Armor_Percent, Value: +[{VALUE}*100|1%|] Total Armor while in Werebear Form
+Hash: 17EF9F1B, Key: Werewolf_Armor_Percent, Value: +[{VALUE}*100|1%|] Total Armor while in Werewolf Form
+Hash: BF212248, Key: Imbued_Skill_Damage_Percent_Bonus, Value: +[{VALUE}*100|1%|] {c_important}Imbued{/c} Damage
+Hash: C3CC1BB9, Key: Imbued_Skill_Crit_Damage_Percent_Bonus, Value: +[{VALUE}*100|1%|] {c_important}Imbued{/c} Critical Strike Damage
+Hash: 05473719, Key: Imbued_Skill_Damage_Percent_Bonus_To_Vulnerable, Value: +[{VALUE}*100|1%|] {c_important}Imbued{/c} Vulnerable Damage
+Hash: 22C57BC9, Key: Fortified_When_Struck_Chance, Value: +[{VALUE}*100|1%|] Chance When Struck to Fortify for {VALUE2} Life
+Hash: 45F50DD6, Key: NecroArmy_Pet_Type_All_Resist_Bonus_Pct, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Resistance to All Elements
+Hash: 84B4A8E3, Key: NecroArmy_Pet_Type_Damage_Bonus_Pct, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Damage
+Hash: 4AEAFF85, Key: NecroArmy_Pet_Type_Armor_Bonus_Pct, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Armor
+Hash: 17ECF52C, Key: NecroArmy_Pet_Type_Attack_Speed_Bonus_Pct, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Attack Speed
+Hash: 27C7D783, Key: On_Hit_Vulnerable_Proc, Value: {c_label}Lucky Hit:{/c} Up to a +[{VALUE}*100|1%|] Chance to Make Enemies Vulnerable for {VALUE2} Seconds
+Hash: 0B4F8126, Key: Pet_Attack_Speed_Bonus_Percent, Value: +[{VALUE}*100|1%|] {c_important}Minion{/c} Attack Speed
+Hash: 1236A485, Key: Pet_Move_Speed_Bonus_Percent, Value: +[{VALUE}*100|1%|] {c_important}Companion{/c} Movement Speed
+Hash: A9F8BCB3, Key: NecroArmy_Damage_Bonus_With_Active_Pet_Type, Value: +[{VALUE2}*100|1%|] Damage while {c_important}{VALUE1}{/c} are Active
+Hash: F41F7A5B, Key: NecroArmy_Flat_Armor_Bonus_With_Active_Pet_Type, Value: +{VALUE2} Armor while {c_important}{VALUE1}{/c} are Active
+Hash: 242D1B3B, Key: Blood_Orb_Pickup_Damage_Combined, Value: +[{VALUE}*100|1%|] Damage for {VALUE2} |4Second:Seconds; After Picking Up a {c_important}Blood Orb{/c}
+Hash: 09FFDD2A, Key: Blood_Orb_Pickup_Healing_Percent_Bonus, Value: +[{VALUE}*100|1%|] {c_important}Blood Orb{/c} Healing
+Hash: 7B025E5E, Key: Trap_Arm_Time_Reduction_Seconds, Value: {c_important}Traps{/c} Arm [{VALUE}|1|] |4Second:Seconds; Faster
+Hash: 4C186885, Key: Damage_Done_Reduction_On_Pet_Crit, Value: {c_label}Lucky Hit:{/c} Critical Strikes From Your {c_important}Minions{/c} Have up to a 5% Chance to Reduce Enemy Damage Dealt by [{VALUE} * 100|1%|] for {VALUE2} Seconds
+Hash: C2007314, Key: Barrier_When_Struck_Chance, Value: +[{VALUE}*100|1%|] Chance When Struck to Gain {s1} Life as Barrier for {s2} |4Second:Seconds;
+Hash: EA156403, Key: Damage_Type_Percent_Bonus_Vs_Elites, Value: +[{VALUE2}*100|1%|] {VALUE1} Damage to Elites
+Hash: 89402B09, Key: Cold_Imbued_Skill_Damage_Percent_Bonus, Value: +[{VALUE}*100|1%|] Cold Imbued Skill Damage
+Hash: 8DF6139F, Key: Bonus_Ice_Armor_Shield_Percent, Value: +[{VALUE}*100|1%|] Barrier from {c_important}Ice Armor{/c}
+Hash: E1E50921, Key: Power_Damage_Percent_Bonus, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Damage
+Hash: E87DA565, Key: NecroArmy_Armor_Percent_Bonus_With_Active_Pet_Type, Value: +[{VALUE2}*100|1%|] Total Armor while {c_important}{VALUE1}{/c} are Active
+Hash: FEE7F4CB, Key: Damage_Reduction, Value: [{VALUE}*100|1%|] Damage Reduction
+Hash: C48EE908, Key: Hitpoints_Regen_Bonus_Percent, Value: [{VALUE}*100|1%|] Healing Over Time
+Hash: CD34277C, Key: Overpower_Damage_Percent_Bonus_Per_Weapon_Requirement, Value: +[{VALUE2}*100|1%|] Overpower Damage with {VALUE1}
+Hash: 95A32631, Key: Armor_Percent, Value: +[{VALUE}*100|1%|] Total Armor
+Hash: 1C7D141C, Key: Damage_Percent_Bonus_Per_Shapeshift_Form, Value: +[{VALUE2}*100|1%|] Damage while in {VALUE1}
+Hash: 36E8BF97, Key: Damage_Percent_Bonus_When_Weapon_Swapping, Value: +[{VALUE}*100|1%|] Damage when Swapping Weapons
+Hash: A254CAC4, Key: Damage_Percent_Bonus_While_Affected_By_Power, Value: +[{VALUE2}*100|1%|] Damage while {c_important}{VALUE1}{/c} is Active
+Hash: BDD1B504, Key: Damage_Percent_Bonus_While_Shapeshifted, Value: +[{VALUE}*100|1%|] Damage while Shapeshifted
+Hash: 91A4596E, Key: Resource_Regen_Bonus_Percent, Value: [{VALUE2}*100|1%|] {VALUE1} Regeneration per Second
+Hash: 5B6208E2, Key: Damage_Percent_Bonus_Against_Dot_Type, Value: +[{VALUE2}*100|1%|] Damage to {VALUE1} Enemies
+Hash: F43B29F7, Key: Resource_Gain_Bonus_Percent_All_Primary, Value: [{VALUE}*100|1%|] Resource Generation
+Hash: A6DF2CF2, Key: Crit_Damage_Percent_For_Power, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Critical Strike Damage
+Hash: E63FA29F, Key: Poison_Imbued_Skill_Damage_Percent_Bonus, Value: +[{VALUE}*100|1%|] {c_important}Poison Imbued{/c} Skill Damage
+Hash: 78DDA1AD, Key: Shadow_Imbued_Skill_Damage_Percent_Bonus, Value: +[{VALUE}*100|1%|] {c_important}Shadow Imbued{/c} Skill Damage
+Hash: 4A54AB6E, Key: Combat_Effect_Chance_Bonus_Per_Damage_Type, Value: +[{VALUE2}*100|1%|] {VALUE1} Lucky Hit Chance
+Hash: D3024832, Key: Strength_Total, Value: [{VALUE}] Strength
+Hash: 128A10E5, Key: Dexterity_Total, Value: [{VALUE}] Dexterity
+Hash: 33244196, Key: Intelligence_Total, Value: [{VALUE}] Intelligence
+Hash: F8BFE1A8, Key: Willpower_Total, Value: [{VALUE}] Willpower
+Hash: B116CB5B, Key: Essence_Restriction, Value: (Necromancer Only)
+Hash: F12B8A1A, Key: NecroArmy_Pet_Type_Health_Bonus_Pct, Value: [{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Maximum Life
+Hash: 6421D1E6, Key: Evade_Max_Charges, Value: +[{VALUE}] Maximum Evade |4Charge:Charges;
+Hash: DBDF6CB3, Key: Evade_Reduce_Cooldown_On_Attack, Value: Attacks Reduce Evade's Cooldown by [{VALUE}|1|] |4Second:Seconds;
+Hash: 5EC7CA32, Key: Evade_Movement_Dodge_Chance, Value: Evade Grants +[{VALUE}*100|%|] Movement Speed for 1 Second
+Hash: 7F3723B3, Key: Main_Hand_Damage_Percent_Bonus, Value: +[{vALUE} * 100|%|] Main Hand Weapon Damage
+Hash: 0BDB196C, Key: Block_Chance, Value: [{vALUE}*100|%|] Block Chance
+Hash: F5B0B7F9, Key: Block_Damage_Percent, Value: [{vALUE}*100|%|] Blocked Damage Reduction
+Hash: 45897329, Key: Skill_Rank_Skill_Tag_Bonus, Value: +[{VALUE2}|0|] to {c_important}{VALUE1}{/c} Skills
+Hash: E2C157DF, Key: Crit_Damage_Percent_Per_Skill_Tag, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Critical Strike Damage
+Hash: EDC9E947, Key: Crit_Percent_Bonus_Per_Skill_Tag, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Critical Strike Chance
+Hash: 049249B4, Key: Damage_Percent_Bonus_Per_Skill_Tag, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Damage
+Hash: 482271B4, Key: Damage_Percent_Bonus_To_Targets_Affected_By_Skill_Tag, Value: +[{VALUE2}*100|1%|] Damage to Enemies Affected by {c_important}{VALUE1}{/c} Skills
+Hash: AE459B7B, Key: Damage_Percent_Reduction_From_Targets_With_Skill_Tag, Value: [{VALUE2} * 100|1%|] Damage Reduction from Enemies Affected by {c_important}{VALUE1}{/c} Skills
+Hash: 7D38A65C, Key: Overpower_Damage_Percent_Bonus_Per_Skill_Tag, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Overpower Damage
+Hash: 9088DABD, Key: Per_Skill_Tag_Buff_Duration_Bonus_Percent, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Duration
+Hash: ECC05B9A, Key: Skill_Tag_Cooldown_Reduction_Percent, Value: [{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Cooldown Reduction
+Hash: D6E34015, Key: Skill_Tag_Resource_Cost_Reduction_Percent, Value: [{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Resource Cost Reduction
+Hash: 668265E5, Key: Strength_Percent_Bonus, Value: +[{vALUE2}*100|1%|] Strength
+Hash: E2298349, Key: Intelligence_Percent_Bonus, Value: +[{vALUE2}*100|1%|] Intelligence
+Hash: E8553198, Key: Dexterity_Percent_Bonus, Value: +[{vALUE2}*100|1%|] Dexterity
+Hash: 0A25155B, Key: Willpower_Percent_Bonus, Value: +[{vALUE2}*100|1%|] Willpower
+Hash: 8DC0AB37, Key: Core_Stat_Bonus_Healing_Received_Percent, Value: +[{vALUE}*100|1%|] Healing
+Hash: 6BBDD921, Key: Potion_Max_Doses_Bonus, Value: +{vALUE2} Potion Capacity
+Hash: 5FDB723F, Key: Potion_Use_Granted_Barrier_Percent, Value: While Injured, Your Potion Also Grants [{vALUE2}*100|%|] Maximum Life as Barrier
+Hash: 4384AFA3, Key: Potion_Use_Granted_Unstoppable_Seconds, Value: While Injured, Your Potion Also Grants [{vALUE2}*100|%|] Movement Speed for 2 Seconds
+Hash: AA4B7D86, Key: Potion_Use_Granted_Primary_Resource_Amount, Value: While Injured, Your Potion Also Restores [{vALUE2}|%|] Resource
+Hash: 08477919, Key: Potion_Charge_Generation_Bonus_Pct, Value: +[{VALUE2}*100|1%|] Potion Drop Rate
+Hash: D3DB26D7, Key: Damage_Reduction_While_Having_Shield, Value: [{VALUE}*100|1%|] Damage Reduction while You Have a Barrier
+Hash: 281CE2B3, Key: Damage_Reduction_At_High_Health, Value: [{VALUE}*100|1%|] Damage Reduction while Healthy
+Hash: 4C5A9454, Key: Damage_Percent_Bonus_Per_Skill_Tag#Ultimate_Gem, Value: +[{VALUE}*100|1%|] {c_important}Ultimate{/c} Damage
+Hash: 02EE97F4, Key: NecroArmy_Pet_Type_Inherit_Thorns_Bonus_Pct, Value: {c_important}{VALUE1}{/c} Inherit +[{VALUE2}*100|1%|] of Your Thorns
+Hash: 21BC8D6A, Key: Combat_Effect_Chance_Bonus_Barrier_Active, Value: +[{VALUE}*100|1%|] Lucky Hit Chance while You Have a Barrier
+Hash: 0C23CA19, Key: Hitpoints_Regen_Per_Second_Bonus, Value: +[{VALUE}] Healing Over Time
+Hash: FF33569E, Key: CC_Duration_Reduction_Per_Type, Value: [{VALUE2}*100|1%|] {VALUE1} Duration Reduction
+Hash: 22AB843D, Key: Attack_Speed_Percent_Bonus_Per_Skill_Tag, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Attack Speed
+Hash: 5BA9408D, Key: Power_Cooldown_Reduction_Percent, Value: [{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Cooldown Reduction
+Hash: D2840811, Key: Damage_Percent_Bonus_Per_Skill_Tag#Basic_Gem, Value: +[{VALUE}*100|1%|] {c_important}Basic{/c} Damage
+Hash: 578111F8, Key: Imbued_Skill_Strength_Percent_Bonus, Value: [{VALUE}*100|1%|] {c_important}Imbuement{/c} Potency
+Hash: 3EF9B9D1, Key: Overpower_Damage_Bonus_Per_Skill, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Overpower Damage
+Hash: 8F33812B, Key: Power_Resource_Cost_Reduction_Amount, Value: [{VALUE2}*100|1|] {c_important}{VALUE1}{/c} Resource Cost Reduction
+Hash: AC0B06B5, Key: Resource_Gained_Per_Percent_Damage_Taken, Value: +{VALUE2} {VALUE1} per Percentage of Maximum Life Lost when Damaged
+Hash: 7037C6AE, Key: Resource_Gain_Bonus_Percent_Per_Power, Value: [{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Resource Generation
+Hash: 45D3B65B, Key: Resource_Gain_Bonus_Percent_Per_Skill_Tag, Value: [{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Resource Generation
+Hash: 43DA1549, Key: Resource_Regen_All_Primary_Bonus_Percent, Value: [{VALUE2}*100|1%|] Resource Regeneration per Second
+Hash: 6E97DD31, Key: Dodge_Chance_Bonus_Melee, Value: [{VALUE} * 100|1%|] Dodge Chance Against Close Enemies
+Hash: 4CF60E1A, Key: Dodge_Chance_Bonus_Ranged, Value: [{VALUE} * 100|1%|] Dodge Chance Against Distant Enemies
+Hash: 821A8933, Key: Dodge_Chance_Bonus_Additive, Value: +[{VALUE} * 100|1%|] Dodge Chance
+Hash: 65A30BB9, Key: Resource_Gain_And_Regen_Bonus_Percent_All_Primary, Value: [{VALUE}*100|1%|] Resource Generation
+Hash: 08F2A33C, Key: Resistance_Max_Bonus, Value: +[{VALUE2}*100|%|] Maximum {VALUE1} Resistance
+Hash: A8A58ADF, Key: NecroArmy_All_Pet_Types_Inherit_Thorns_Bonus_Pct, Value: {c_important}Minions{/c} Inherit +[{vALUE}*100|1%|] of Your Thorns 
+Hash: E8836A6E, Key: Resource_All_Primary_Max_Bonus, Value: +[{vALUE2}] Maximum Resource
+Hash: 73E3E225, Key: On_Hit_Damage_Bonus_Combined, Value: {c_label}Lucky Hit:{/c} Up to a [{VALUE1} * 100|%|] Chance to Gain +[{VALUE2} * 100|1%|] Damage for [{VALUE3}] Seconds
+Hash: 5034D31F, Key: Evade_Movement_Speed_Combined, Value: Evade Grants +[{VALUE1}*100|%|] Movement Speed for [{VALUE2}|1|] |4Second:Seconds;
+Hash: FCF191B6, Key: Multiplicative_Damage_Percent_All_From_Skills, Value: [{VALUE}*100|1%x|] Damage
+Hash: 2358C327, Key: AoE_Size_Bonus_Per_Power, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Size
+Hash: D7301874, Key: Power_Crit_Percent_Bonus, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Critical Strike Chance
+Hash: 4FDF5FF7, Key: Hit_Effect_Chance_Bonus_Per_Skill_Tag, Value: +[{VALUE2}*100|1%|] {c_important}{VALUE1}{/c} Lucky Hit Chance
+Hash: 9188AC2C, Key: Percent_Bonus_Projectiles_Per_Power, Value: +[{VALUE2}*100|1%|] Chance for {c_important}{VALUE1}{/c} Projectiles to Cast Twice
+Hash: C7F72AD9, Key: Percent_Bonus_Projectiles_Per_Skill_Tag, Value: +[{VALUE2}*100|1%|] Chance for {c_important}{VALUE1}{/c} Projectiles to Cast Twice
+Hash: D3260B52, Key: Percent_Bonus_Projectiles_All, Value: +[{VALUE}*100|1%|] Chance for Projectiles to Cast Twice
+Hash: 046E5987, Key: Percent_Bonus_Projectiles_Per_Power#Rogue_DarkShroud, Value: +[{VALUE2}*100|1%|] Movement Speed per {c_important}Dark Shroud{/c} Shadow
+Hash: FEE4A514, Key: Power Bonus Attack Radius, Value: +[{VALUE2} * 100|1|] {c_important}{VALUE1}{/c} Range
+Hash: 3219A902, Key: On_Hit_Berserk_Proc_Chance, Value: {c_label}Lucky Hit:{/c} Up to a +[{VALUE} * 100|1%|] Chance to Become {c_important}Berserking{/c}
+Hash: FC73097B, Key: On_Hit_Flat_Elemental_Damage, Value: {c_label}Lucky Hit:{/c} Up to a 5% Chance to deal [{VALUE2}] {VALUE1} Damage
+Hash: D0A23DCE, Key: Resistance#Cold_Gem, Value: +[{VALUE}*100|1%|] Cold Resistance
+Hash: 93077A72, Key: Resistance#Shadow_Gem, Value: +[{VALUE}*100|1%|] Shadow Resistance
+Hash: D59B5C32, Key: Resistance#Fire_Gem, Value: +[{VALUE}*100|1%|] Fire Resistance
+Hash: 0CD2D870, Key: Resistance#Lightning_Gem, Value: +[{VALUE}*100|1%|] Lightning Resistance
+Hash: 9A6437E4, Key: Resistance#Poison_Gem, Value: +[{VALUE}*100|1%|] Poison Resistance
+Hash: 61BEFA96, Key: Percent_Bonus_Projectiles_Per_Power#Barbarian_LungingStrike, Value: +[{VALUE2}*100|1%|] {c_important}Lunging Strike{/c} Healing
+Hash: 37A2C1D4, Key: Percent_Bonus_Projectiles_Per_Power#Rogue_Flurry, Value: +[{VALUE2}*100|1%|] {c_important}Flurry{/c} Healing
+Hash: 54329208, Key: Percent_Bonus_Projectiles_Per_Power#Necromancer_BloodMist, Value: +[{VALUE2}*100|1%|] Movement Speed during {c_important}Blood Mist{/c}
+Hash: 7C9EE819, Key: Percent_Bonus_Projectiles_Per_Power#Necromancer_BloodOrb_Pickup, Value: {c_important}Blood Orbs{/c} Restore +[{VALUE2}|0|] Essence
+Hash: 4A7F3AAA, Key: AoE_Size_Bonus_Per_Power#Necromancer_Golem, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Active Size
+Hash: C0B12CB4, Key: Resistance_All_Max_Bonus, Value: +[{VALUE}*100|1%|] Maximum Resistance to All Elements
+Hash: D8AEFFFA, Key: Percent_Bonus_Projectiles_Per_Power#Necromancer_SkeletonMage, Value: +[{VALUE2}*100|1%|] Chance for {c_important}Skeletal Mage{/c} Attacks to Cast Twice
+Hash: 4D618EAD, Key: Percent_Bonus_Projectiles_Per_Power#Rogue_RainofArrows, Value: +[{VALUE2}*100|1%|] Chance for {c_important}Rain of Arrows{/c} Waves to Cast Twice
+Hash: CAF9DA77, Key: Percent_Bonus_Projectiles_Per_Power#Barbarian_DustDevils, Value: +[{VALUE2}*100|1%|] Chance for {c_important}Dust Devils{/c} to Cast Twice
+Hash: 91C1B590, Key: Power_Cooldown_Reduction_Percent#Necromancer_Golem, Value: [{VALUE2} * 100|1%|] {c_important}Golem{/c} Active Cooldown Reduction
+Hash: CFD39359, Key: Resource_Regen_Per_Second, Value: [{VALUE2}|~|] {VALUE1} per Second
+Hash: 350E39A3, Key: Bonus_Percent_Per_Power#Barbarian_Upheaval, Value: {c_important}Upheaval{/c} Overpowers Stun for +[{VALUE2}|1|] |4Second:Seconds;
+Hash: CF3CD3C7, Key: Bonus_Percent_Per_Power#Barbarian_SteelGrasp, Value: {c_important}Steel Grasp{/c} Stuns for +[{VALUE2}|1|] |4Second:Seconds;
+Hash: 423A0513, Key: Damage_Bonus_Percent_Per_Combo_Point, Value: +[{VALUE}*100|1%|] Damage per {c_important}Combo Point{/c} Spent
+Hash: 3706BCF8, Key: Cleave_Damage_Bonus_Percent_Per_Power#Barbarian_Bash, Value: {c_important}Bash{/c} Cleaves for +[{VALUE2} * 100|1%|] Damage
+Hash: 5C12DE1D, Key: Movement_Speed_Bonus_Percent_Per_Power#Rogue_BladeShift, Value: +[{VALUE2} * 100|1%|] Movement Speed from {c_important}Blade Shift{/c}
+Hash: A3BFFBB1, Key: Bonus_Percent_Per_Power#Rogue_TwistingBlades, Value: {c_important}Twisting Blades{/c} Returns +[{VALUE2} * 100|1%|] Faster
+Hash: 7F372FD0, Key: Bonus_Percent_Per_Power#Rogue_InvigoratingStrike, Value: +[{VALUE2} * 100|1%|] {c_important}Invigorating Strike{/c} Energy Regeneration
+Hash: 26840ACF, Key: Bonus_Count_Per_Power#Rogue_PoisonImbue, Value: {c_important}Poison Imbue{/c} Lasts For +[{VALUE2}|0|] |4Cast:Casts;
+Hash: 338F9F1D, Key: Bonus_Count_Per_Power#Rogue_ShadowImbue, Value: {c_important}Shadow Imbue{/c} Lasts For +[{VALUE2}|0|] |4Cast:Casts;
+Hash: E6657DB9, Key: Bonus_Count_Per_Power#Rogue_ColdImbue, Value: {c_important}Cold Imbue{/c} Lasts For +[{VALUE2}|0|] |4Cast:Casts;
+Hash: B418444F, Key: Bonus_Percent_Per_Power#Barbarian_Kick, Value: +[{VALUE2} * 100|1%|] {c_important}Kick{/c} Vulnerable Duration
+Hash: 93695F41, Key: Proc_Flat_Element_Damage_On_Hit, Value: {c_label}Lucky Hit:{/c} Up to a 40% Chance to Deal +[{VALUE2}|0|] {VALUE1} Damage
+Hash: B8E79E45, Key: Blood_Orb_Pickup_Primary_Resource_Gain, Value: {c_important}Blood Orbs{/c} Restore +{VALUE2} Essence
+Hash: BD389E22, Key: Thorns_Percent_Bonus_While_Channeling, Value: +[{VALUE}*100|1%|] Thorns while Channeling
+Hash: CCF378A7, Key: Thorns_Percent_Bonus_While_Fortified, Value: +[{VALUE}*100|1%|] Thorns while Fortified
+Hash: 8297CF43, Key: Primary_Resource_On_Cast_Per_Power, Value: Casting {c_important}{VALUE1}{/c} Restores +[{VALUE2}|0|] Primary Resource
+Hash: 23800170, Key: Primary_Resource_On_Cast_Per_Skill_Tag, Value: Casting {c_important}{VALUE1}{/c} Skills Restores +[{VALUE2}|0|] Primary Resource
+Hash: 7EEF4D4B, Key: Blood_Orb_Bonus_Chance_Per_Power, Value: +[{VALUE2}*100|1%|] Chance for {c_important}{VALUE1}{/c} to Form {c_important}Blood Orbs{/c}
+Hash: 45892F41, Key: Bonus_Count_Per_Power, Value: +[{VALUE2}|0||] {c_important}{VALUE1}{/c} Count
+Hash: 9B9595A9, Key: Bonus_Percent_Per_Power, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Effect
+Hash: 1B07A065, Key: Power Bonus Attack Radius Percent, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Range
+Hash: 16C4306C, Key: Pet_Damage_Bonus_Percent_Per_Pet_Type, Value: +[{VALUE2}*100|1%|] Damage from {c_important}{VALUE1}{/c}
+Hash: F7C8472B, Key: Pet_Max_Count_Bonus_Per_Pet_Type, Value: +{VALUE2} Maximum {c_important}{VALUE1}{/c}
+Hash: F543C5C3, Key: Movement_Speed_Bonus_Percent_Per_Power, Value: +[{VALUE2} * 100|1%|] Movement Speed from {c_important}{VALUE1}{/c}
+Hash: 41FE6556, Key: Cleave_Damage_Bonus_Percent_Per_Power, Value: {c_important}{VALUE1}{/c} Cleaves for +[{VALUE2} * 100|1%|] Damage
+Hash: 12BDD7AE, Key: Thorns_Percent, Value: +[{VALUE}*100|1%|] Thorns
+Hash: B531FDB2, Key: Bonus_Percent_Per_Power#Necromancer_Blight, Value: +[{VALUE2} * 100|1%|] {c_important}Blight{/c} Slow Potency
+Hash: F64BE9DE, Key: Chill_Progressive_Bonus_Slow_Percent, Value: +[{VALUE}*100|1%|] Chill Slow Potency
+Hash: B65EB869, Key: Damage_Percent_Bonus_While_Affected_By_Power#Barbarian_Proc_Berserk, Value: +[{VALUE2}*100|1%|] Damage while {c_important}{VALUE1}{/c}
+Hash: 02CA36B8, Key: AoE_Size_Bonus_Per_Power#Necromancer_Hemorrhage, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Explosion Size
+Hash: 624FA135, Key: AoE_Size_Bonus_Per_Power#Necromancer_Decompose, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Explosion Size
+Hash: D1E6D9AC, Key: AoE_Size_Bonus_Per_Power#Necromancer_BloodSurge, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Nova Size
+Hash: 64147BF5, Key: AoE_Size_Bonus_Per_Power#Necromancer_BoneSpirit, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Explosion Size
+Hash: F561DABA, Key: Damage_Percent_Bonus_To_Targets_Affected_By_Skill_Tag#Skill_Primary_Curse, Value: +[{VALUE2}*100|1%|] Damage to {c_important}Cursed{/c} Enemies
+Hash: A61E69AC, Key: Damage_Percent_Bonus_To_Targets_Affected_By_Skill_Tag#Skill_Trap, Value: +[{VALUE2}*100|1%|] Damage to {c_important}Trapped{/c} Enemies
+Hash: F74BD41D, Key: AoE_Size_Bonus_Per_Power#Sorcerer_Teleport, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Nova Size
+Hash: 8F4CF12D, Key: AoE_Size_Bonus_Per_Power#Barbarian_Leap, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Slam Size
+Hash: C92F541E, Key: Primary_Resource_Gain_Bonus_Percent_Per_Weapon_Requirement, Value: +[{VALUE2}*100|1%|] Resource Generation with {VALUE1}
+Hash: A19B2411, Key: Primary_Resource_Gain_Bonus_Percent_Per_Weapon_Requirement#Scythe, Value: +[{VALUE2}*100|1%|] Resource Generation while Wielding a Scythe
+Hash: A1EC993A, Key: Primary_Resource_Gain_Bonus_Percent_Per_Weapon_Requirement#Shield, Value: +[{VALUE2}*100|1%|] Resource Generation while Wielding a Shield
+Hash: ACDA1A90, Key: AoE_Size_Bonus_Per_Power#Druid_Ravens, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Active Size
+Hash: 0267F4AF, Key: AoE_Size_Bonus_Per_Power#Druid_CycloneArmor, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Active Size
+Hash: 8DC03ED4, Key: Sorc_ArcLash_Bonus_Swipes, Value: +[{vALUE}*100|1%|] Chance for {c_important}Arc Lash{/c} to Swipe Twice
+Hash: 461CBB75, Key: Rogue_DarkShroud_MaximumLife, Value: +[{VALUE}*100|1%|] Maximum Life while {c_important}Dark Shroud{/c} is Active
+Hash: 0ED30BCF, Key: Rogue_HealthPotion_MaxResist, Value: Your Potion Also Grants +[{VALUE}*100|1%|] Maximum Resistances for 5 Seconds
+Hash: DEC21D0E, Key: Sorc_Conjurations_BonusSummons_Chance, Value: +[{vALUE2}*100|1%|] Chance for a Second {c_important}{vALUE1}{/c} When Cast
+Hash: 74D20B18, Key: Sorc_Hydra_Bonus_Heads, Value: Casted {c_important}Hydras{/c} Have +{VALUE2} |4Head:Heads;
+Hash: 61A04754, Key: AoE_Size_Bonus_Per_Skill_Tag, Value: +[{VALUE2} * 100|1%|] {c_important}{VALUE1}{/c} Size
+Hash: 38DBF1F3, Key: Minions_Fortify_On_Attack_Chance, Value: +[{VALUE}*100|1%|] Chance For {c_important}Minion{/c} Attacks to Fortify You for 3% Maximum Life
+Hash: 222503DD, Key: Rogue_DarkShroud_DamagePer, Value: +[{VALUE}*100|1%|] Damage per {c_important}Dark Shroud{/c} Shadow
+Hash: 92A8DCC7, Key: Rogue_Special_DamageAfterStealth, Value: +[{VALUE}*100|1%|] Damage on Next Attack After Entering Stealth
+Hash: 48894EFB, Key: Evade_Grants_AttackSpeed, Value: Evade Grants +[{VALUE}*100|%|] Attack Speed for 3 Seconds
+Hash: B342092B, Key: Barb_WalkingArsenal_MovementSpeedPer, Value: +[{VALUE}*100|1%|] Movement Speed per {c_important}Walking Arsenal{/c} Bonus
+Hash: BC2F47FD, Key: Barb_Berserking_MovementSpeed, Value: +[{VALUE}*100|1%|] Movement Speed while {c_important}Berserking{/c}
+Hash: 16A446EA, Key: Barb_Berserking_AttackSpeed, Value: +[{VALUE}*100|1%|] Attack Speed while {c_important}Berserking{/c}
+Hash: E437E3BC, Key: Rogue_Precision_AttackSpeedPer, Value: +[{VALUE}*100|1%|] {c_important}Marksman{/c} Attack Speed per {c_important}Precison{/c} Stack
+Hash: 6097C677, Key: Rogue_InnerSight_MovementSpeed, Value: +[{VALUE}*100|1%|] Movement Speed while the {c_important}Inner Sight{/c} Gauge is Full
+Hash: 1FF6C765, Key: Rogue_RapidFire_EnhancedCritBonus, Value: +[{VALUE}*100|1%|] Critical Strike Chance to each {c_important}Enhanced Rapid Fire{/c} Bonus
+Hash: DF598F56, Key: Rogue_StunGrenade_ResourceOnExplode, Value: +[{VALUE2}] Energy when a {c_important}Stun Grenade{/c} Explodes
+Hash: 0F8F3AD8, Key: Sorc_Fireball_ProjectileSpeed, Value: +[{VALUE2} * 100|1%|] {c_important}Fireball{/c} Projectile Speed 
+Hash: 0BABECA0, Key: Sorc_Fireball_ResourceOnHit, Value: +[{VALUE2}] Mana when a {c_important}Fireball{/c} Explodes
+Hash: D2EE9889, Key: Sorc_CracklingEnergy_MovementSpeed, Value: +[{VALUE}*100|1%|] Movement Speed for 4 Seconds After Picking Up {c_important}Crackling Energy{/c}
+Hash: 9D467840, Key: Sorc_CracklingEnergy_DamageReductionPer, Value: [{VALUE}*100|1%|] Damage Reduction per {c_important}Crackling Energy{/c} Charge
+Hash: A3B662D1, Key: Sorc_FrozenOrb_ConjurationCDR, Value: {c_important}Conjuration{/c} Cooldowns are Reduced by +[{VALUE}|1|] Seconds when a {c_important}Frozen Orb{/c} Explodes
+Hash: B4574CA9, Key: Sorc_IceSpike_FreezeDuration, Value: {c_important}Ice Spikes{/c} Freeze Enemies for [{VALUE}|1|] |4Second:Seconds;
+Hash: EA002135, Key: Druid_StormStrike_HitAdditionalTargets, Value: {c_important}Storm Strike{/c} Chains to +[{VALUE}] |4Target:Targets;
+Hash: 81A9B047, Key: Druid_LupineFerocity_Damage, Value: +[{VALUE}*100|1%|] to {c_important}Lupine Ferocity's{/c} Damage Bonus
+Hash: 36F34C5B, Key: Druid_UrsineStrength_BonusAll, Value: +[{VALUE}*100|1%|] to {c_important}Ursine Strength's{/c} Bonuses
+Hash: A4CC1E79, Key: Druid_SpiritBoon_Packleader_LuckyHitChance, Value: +[{VALUE}*100|1%|] Lucky Hit Chance for the {c_important}Pack Leader{/c} Spirit Boon
+Hash: 4B111D93, Key: Druid_Cataclysm_MovementSpeed, Value: +[{VALUE}*100|1%|] Movement Speed while {c_important}Cataclysm{/c} is Active
+Hash: C0B80233, Key: Druid_Hurricane_MovementSpeed, Value: +[{VALUE}*100|1%|] Movement Speed while {c_important}Hurricane{/c} is Active
+Hash: BA8D3F0F, Key: Necro_BoneStorm_Armor, Value: +[{VALUE}*100|1%|] Total Armor while {c_important}Bone Storm{/c} is Active
+Hash: 1998EFBA, Key: Necro_BoneStorm_DamageReduction, Value: +[{VALUE}*100|1%|] to {c_important}Prime Bone Storm's{/c} Damage Reduction
+Hash: 62D0E57A, Key: Necro_ColdMage_AttackSpeed, Value: +[{VALUE} * 100|1%|] {c_important}Cold Mage{/c} Attack Speed
+Hash: 954E1748, Key: Resource_On_Hit, Value: [{VALUE2}|~|] {VALUE1} On Hit
+Hash: 0734BD1D, Key: Necro_Evade_LeavesDesecratedGround, Value: Evade Leaves Behind {c_important}Desecrated Ground{/c} for 2 Seconds
+Hash: 93437020, Key: Necro_CorpseExplosion_Fear, Value: {c_important}Corpse Explosion{/c} Fears and Slows for [{VALUE}|1|] |4Second:Seconds;
+Hash: 4EC770D0, Key: Necro_BloodSurge_ExtraDrainsvsBoss, Value: {c_important}Blood Surge{/c} Drains +[{VALUE}] |4Time:Times; from Elites
+Hash: 7154D3D7, Key: Necro_PassiveRanks_AllMinionMastery, Value: +[{VALUE}] to {c_important}Skeletal Warrior Mastery{/c}, {c_important}Skeletal Mage Mastery{/c}, and {c_important}Golem Mastery{/c}
+Hash: 36C56C3C, Key: Generic_SkillRanks_AllFireIsh, Value: +[{VALUE}] to {c_important}Upheaval{/c}, {c_important}Cutthroat{/c}, {c_important}Pyromancy{/c}, {c_important}Earth{/c}, or {c_important}Blood{/c}
+Hash: 5D688A58, Key: Generic_SkillRanks_AllColdIsh, Value: +[{VALUE}] to {c_important}Steel Grasp{/c}, {c_important}Cold Imbuement{/c}, {c_important}Frost{/c}, {c_important}Hurricane{/c}, or {c_important}Skeletal Mage Mastery{/c}
+Hash: 6C948683, Key: Generic_Damage_FireOrCold, Value: +[{VALUE}*100|1%|] Fire and Cold Damage
+Hash: 5303DA86, Key: Generic_Evade_Unhindered, Value: Evade Grants Unhindered for [{VALUE}|1|] |4Second:Seconds;
+Hash: 03D78635, Key: Generic_LuckyHit_CC_Any, Value: {c_label}Lucky Hit:{/c} Up to a +[{VALUE} * 100|1%|] Chance to Apply a Random Crowd Control Effect for 2 Seconds
+Hash: 3D9D023E, Key: Generic_Potion_GrantsMovementSpeed_AnyHP, Value: Drinking a Potion Grants [{vALUE}*100|%|] Movement Speed for 2 Seconds
+Hash: 6077BD4C, Key: UBERUNIQUE_Ahavarion_ResourceOnHit_AllClasses_Combined, Value: [{VALUE}|~|] Resource On Hit
+Hash: FB2C8B37, Key: UBERUNIQUE_Ahavarion_CritDamage_VulnDamage_OverpowerDamage_Combined, Value: +[{VALUE}*100|1%|] Critical Strike, Vulnerable, and Overpower Damage
+Hash: 443A0CFD, Key: All_Stats_Percent_Bonus, Value: +[{vALUE}*100|1%|] All Stats
+Hash: 53F52104, Key: Druid_BloodHowl_GrantsStealth, Value: {c_important}Blood Howl{/c} Grants Stealth for +[{VALUE}|1|] Seconds
+Hash: 544F9682, Key: AoE_Size_Bonus_Per_Power#Barbarian_Rupture, Value: +[{VALUE2} * 100|1%|] {c_important}Enhanced {VALUE1}{/c} Explosion Size
+Hash: B9E54B0F, Key: Sorc_Shatter_Damage, Value: +[{VALUE}*100|1%|] to {c_important}Shatter's{/c} Damage Echo
+Hash: 16B4A9D4, Key: Sorc_IceSpike_ChanceToExplodeTwice, Value: +[{VALUE2}*100|1%|] Chance for {c_important}Ice Spikes{/c} to Explode Twice
+Hash: 451FB186, Key: Necro_BloodSurge_EssencePerDrain, Value: +[{VALUE}] Essence per Enemy Drained by {c_important}Blood Surge{/c}
+Hash: 44368CCD, Key: Generic_DamageReduction_WhileUnstoppable, Value: [{VALUE}*100|1%|] Damage Reduction while Unstoppable
+Hash: F0FFE1A2, Key: Generic_ResourceGain_And_ResourceMax_Combined, Value: [{VALUE}*100|1%|] Resource Generation and Maximum

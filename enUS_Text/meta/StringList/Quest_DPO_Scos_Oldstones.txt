@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: The stench of sin, the sound of hooves.
+Hash: 22EDF2BD, Key: Callback61Header, Value: Return the Stone Carving to the Pedestal: {LEFT}
+Hash: A3D12282, Key: Callback66Header, Value: Travel to the {LEVELAREA}
+Hash: 8ABFD8C5, Key: Callback69Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 4318BAA2, Key: Callback75Header, Value: Deposit Animus into the {GIZMO}
+Hash: 2A0770E5, Key: Callback78Header, Value: Defeat the {MONSTER}
+Hash: 9AB9349F, Key: Callback90Header, Value: Destroy the {MONSTER}: {LEFT}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Active Gateway
+Hash: F2CA04D8, Key: NoticeSignText, Value: Through the spiraling magics of the portal, you can just make out the Gatehall. Stare too long and your vision blurs.

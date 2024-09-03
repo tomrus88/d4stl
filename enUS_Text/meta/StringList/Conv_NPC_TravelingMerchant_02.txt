@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why come all the way out here?"
+Hash: 8ECE1D9E, Key: Line1.10BAC0, Value: Haha! My friend, "out here" is where you find real treasure. But you know that, eh? You're no stranger to the dark secrets and forgotten corners of the world.

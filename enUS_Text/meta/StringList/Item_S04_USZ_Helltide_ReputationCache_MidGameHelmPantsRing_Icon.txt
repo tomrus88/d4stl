@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Iron Wolves' Most Dependable
+Hash: A646FFA4, Key: Description, Value: A trio of Legendary Helm, Pants, and Ring said to thrive in any situation.

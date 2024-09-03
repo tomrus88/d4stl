@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Omnipower
+Hash: 003892BF, Key: Desc, Value: Casting a {c_important}Core{/c} Skill additionally fires {c_number}2{/c} instances of {c_important}Fire Bolt{/c}, {c_important}Frost Bolt{/c}, or {c_important}Spark{/c}, matching the elements of your last {c_number}2{/c} non-{c_important}Core{/c} Skill casts. These projectiles deal {c_random}[Affix_Value_1|x%|]{/c} increased damage.

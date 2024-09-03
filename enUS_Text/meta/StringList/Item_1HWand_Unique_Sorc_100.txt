@@ -1,0 +1,3 @@
+Hash: 1999888C, Key: TransmogName, Value: Infernal Rod
+Hash: 003DFCC1, Key: Name, Value: Flamescar
+Hash: F5C7BC0A, Key: Flavor, Value: The burn may heal, but the pain is eternal.

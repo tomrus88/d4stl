@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Missing Pieces
+Hash: D6FC1563, Key: Line19.6D03F, Value: So, what did you write on that piece of wood? Something about fear or cowardice perhaps?
+Hash: 5B6C043C, Key: Line21.6D03F, Value: So, what did you write on that little piece of wood? Something about hate or anger perhaps?
+Hash: F5607DBE, Key: Line23.6D03F, Value: So, what did you write on that little piece of wood? Something about hubris or pride perhaps?
+Hash: 8F54F740, Key: Line25.6D03F, Value: So, what did you write on that piece of wood? Something about greed or gluttony perhaps?
+Hash: 294970C2, Key: Line27.6D03F, Value: So, what did you write on that little piece of wood? I'll bet you didn't write anything at all. I wouldn't blame you.
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Well, it matters little I suppose.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fresh Blood Lure
+Hash: F5C7BC0A, Key: Flavor, Value: This swatch of blood does not thicken or tarnish in the air. I should show this to those taking up arms against the vampires.

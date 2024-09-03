@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Alchemical Advantage
+Hash: 003892BF, Key: desc, Value: Dealing Poison damage increases your Attack Speed and Lucky Hit Chance by {c_number}[{SF_0}*100|%+|]{/c} for {c_number}{SF_2}{/c} seconds, up to {c_number}[{SF_3}|%+|]{/c} .
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Attack Speed {icon:arrow,1.2} {c_number}[{SF_0}*100|%+|]{/c}
+{icon:bullet,1.2} Lucky Hit Chance {icon:arrow,1.2} {c_number}[{SF_0}*100|%+|]{/c}
+{icon:bullet,1.2} Maximum Bonus {icon:arrow,1.2} {c_number}[{SF_3}|%+|]{/c}

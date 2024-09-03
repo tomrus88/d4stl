@@ -1,0 +1,164 @@
+Hash: 114DFC39, Key: Renown, Value: Renown:
+Hash: FA6788D5, Key: RegionProgress_Completed, Value: {c_zone_complete}Completed{/c}
+Hash: 0044CD25, Key: Zoom, Value: Map Level
+Hash: 086EAA02, Key: Title, Value: Map
+Hash: 36C3B0F0, Key: Unknown, Value: Undiscovered
+Hash: 5521FFE4, Key: MKB_Pathing, Value: {icon:KeyPrompt_1, 1.6}
+Hash: B68DA261, Key: MKB_World, Value: [3] World
+Hash: 6D0354CE, Key: Controller_Pathing, Value: {icon:down, 2}  
+Hash: CD60B4CB, Key: Controller_World, Value: {icon:up, 2} 
+Hash: 9077D2A1, Key: Affix_PoisonPoolTitle, Value: Poison Pool
+Hash: B676CDDE, Key: Affix_VolcanicTitle, Value: Volcanic
+Hash: 7D8C0851, Key: Affix_ExplosiveOrbTitle, Value: Explosive Orb
+Hash: 46252B5B, Key: Affix_CracklingShiftTitle, Value: Crackling Shift
+Hash: EE4FFCA1, Key: Affix_InfestedTitle, Value: Infested
+Hash: 69E3259C, Key: Affix_LightningPulseTitle, Value: Lightning Pulse
+Hash: B5A9F3E5, Key: Affix_EnragedTitle, Value: Enraged
+Hash: 56636602, Key: Affix_VolcanicDetails, Value: While in combat, enemies periodically cause gouts of flame to erupt beneath the feet of players.
+Hash: B4B8A785, Key: Affix_PoisonPoolDetails, Value: When slain, all enemies leave behind a lingering pool of ichor that damages players.
+Hash: 9644A540, Key: Affix_LightningPulseDetails, Value: Lightning beam chases players around, releasing pulses when reaching a player.
+Hash: E9435185, Key: Affix_InfestedDetails, Value: Monsters spawn maggots when killed.
+Hash: 37B10935, Key: Affix_ExplosiveOrbDetails, Value: Chaos orbs spawn nearby. Explode if not destroyed.
+Hash: EEF829C9, Key: Affix_EnragedDetails, Value: Monsters enrage at 30% health remaining, dealing 100% increased damage.
+Hash: 8B1F16BF, Key: Affix_CracklingShiftDetails, Value: Every time you get hit, there's a chance you crackling shift.
+Hash: B0347AF5, Key: MKB_Zone, Value: {icon:KeyPrompt_2, 1.6}
+Hash: CA701C5A, Key: ZoneScosglen, Value: Scosglen
+Hash: 771F52B0, Key: ZoneFracturedPeaks, Value: Fractured Peaks
+Hash: C2C4C70E, Key: ZoneHawezar, Value: Hawezar
+Hash: 16018C8F, Key: ZoneDrySteppes, Value: Dry Steppes
+Hash: 1D65F89D, Key: ZoneKehjistan, Value: Kehjistan
+Hash: 7ECAE8CB, Key: ZoneTorajan, Value: Torajan
+Hash: 66B0592A, Key: ZoneTeganze, Value: Teganze
+Hash: DBC22C7A, Key: Sanctuary, Value: Sanctuary
+Hash: 2AAC0BD0, Key: Dungeon, Value: Dungeon
+Hash: 296CC863, Key: IconTooltip_Dungeon, Value: Dungeon
+Hash: B02BA900, Key: IconTooltip_LocalEvent, Value: Event
+Hash: F092B5DD, Key: IconTooltip_WorldEvent, Value: World Boss
+Hash: 92EB6B32, Key: IconTooltip_WorldBoss, Value: World Boss
+Hash: 8A55880A, Key: IconTooltip_QuestSide, Value: Side Quest
+Hash: 8A521C6A, Key: IconTooltip_QuestMain, Value: Campaign Quest
+Hash: 8550C214, Key: IconTooltip_Camp, Value: Stronghold
+Hash: AD36A28B, Key: MapSwitch_CurrentArea, Value: Current Area
+Hash: B1A27415, Key: MapSwitch_WorldMap, Value: World Map
+Hash: 3C1698AF, Key: CustomPinArrived, Value: You have reached your destination
+Hash: F71248D4, Key: TrackQuestTip, Value: Track Quest
+Hash: 518066E6, Key: PathingMapGeneric, Value: Local Map
+Hash: 5C7C624F, Key: IconTooltip_PathfindingParty, Value: {s1}'s pin
+Hash: DFFAF608, Key: IconTooltip_DungeonReward, Value: {icon:RewardAvailable, 2.0} {s1} rewarded on first completion
+Hash: ECC8D79C, Key: Waypoint_Title, Value: Teleport Confirmation
+Hash: B6CABE22, Key: IconTooltip_NightmareDungeon, Value: {s2} (Tier {s1})
+Hash: C8F88A6C, Key: ZoneUnknown, Value: Unknown Region
+Hash: 1B362F74, Key: IconTooltip_Bounty, Value: Whisper
+Hash: 0C503537, Key: UntrackQuestTip, Value: Untrack Quest
+Hash: 8127D0DF, Key: bounty_meta_Complete, Value: Grim Favors obtained
+Hash: 9B33946A, Key: bounty_meta_SecondLine, Value: Return to the {c_important}Tree of Whispers{/c}{icon:Marker_Bounties_TurnIn, 2.0} to claim your reward
+Hash: 272C1CB0, Key: PingBlacksmith, Value: You have items that need repair
+Hash: E99D7E31, Key: PingStash, Value: Lost items have been sent to your Stash
+Hash: 77AC7399, Key: ViewMap, Value: View Map
+Hash: E2C7A55D, Key: MapSwitch_DungeonMap, Value: Dungeon Map
+Hash: 01BD5DC1, Key: MapSwitch_UnexploredAreas, Value: Unexplored Areas
+Hash: B72836B1, Key: Waypoint_TravelConfirmation, Value: Travel to {s1}?
+Hash: 81D95F83, Key: RegionProgress_Complete_Full, Value: {s1}%
+Hash: BD31C80C, Key: RegionProgress_Complete_Icons, Value:  {c:FFdba864}{s1}{/c}{c:FF928c82}/{s2}
+Hash: 5E64124E, Key: RegionProgress_Icon_Waypoints, Value: Waypoints
+Hash: 09D06614, Key: RegionProgress_Icon_Camps, Value: Strongholds
+Hash: 847BD9B7, Key: RegionProgress_Icon_SideQuest, Value: Side Quests
+Hash: 9C2848BB, Key: RegionProgress_Icon_FogOfWar, Value: Areas Discovered
+Hash: A144B723, Key: RegionProgress_Icon_Dungeons, Value: Side Dungeons
+Hash: 3F5E4500, Key: RegionProgress_Icon_HiddenCache, Value: Altars of Lilith
+Hash: 98F9FEA0, Key: RegionProgress_XP, Value: + Bonus XP
+Hash: 6C6FBE51, Key: RegionProgress_Complete, Value: Region Progress 100% Complete
+Hash: 69390F16, Key: RegionProgress_CollectRewards, Value: Collect Rewards
+Hash: B3F1A253, Key: RegionProgress_SectionDone, Value: Region Progress Rewards Earned
+Hash: 8A7A599E, Key: RegionProgress_Reward_Title, Value: Reward {s1}
+
+
+Hash: 1711CD3E, Key: RegionProgress_XP_Desc, Value: +{s1} XP {s2}
+Hash: 62751F9C, Key: RegionProgress_Gold_Desc, Value: +{s1} Gold {s2}
+
+
+Hash: E2DDEE65, Key: RegionProgress_Item_Desc, Value: Item: {s1} {s2}
+
+
+Hash: DCA83C9F, Key: RegionProgress_SkillPoint_Desc, Value: +{s1} Skill Point {s2}
+
+
+Hash: 473432A7, Key: IconTooltip_QuestPriority, Value: Priority Quest
+Hash: AC4093B1, Key: IconTooltip_ZoneEvent, Value: Legion Event
+Hash: B009A7A6, Key: RewardAvailable, Value: Reward(s) available to collect!
+Hash: 6676F6DF, Key: RewardAvailable_KBM, Value: Reward(s) available to collect! Press {icon:KeyPrompt_W, 2} to view.
+Hash: 7F42FFC9, Key: RewardAvailable_Controller, Value: Reward(s) available to collect! Press {icon:button4,2.0} to view.
+Hash: 6EAE9AA8, Key: FilterTitle, Value: Filter
+Hash: E624E31C, Key: ResetFilters, Value: Reset
+Hash: 3F10BE75, Key: FilterGroup_Dungeons, Value: Dungeons
+Hash: E00F5EA6, Key: FilterGroup_Camps, Value: Strongholds
+Hash: E81D1C47, Key: FilterGroup_Events, Value: Events
+Hash: A98A8F1B, Key: FilterGroup_Bounties, Value: Whispers of the Dead
+Hash: FE153C7A, Key: FilterGroup_Trainers, Value: Class-Specific
+Hash: 4D831A4C, Key: FilterGroup_Crafters, Value: Crafters
+Hash: E1544713, Key: FilterGroup_Vendors, Value: Vendors
+Hash: 50716310, Key: FilterGroup_StorageAndWardrobe, Value: Stash & Wardrobe
+Hash: 7DDC56F5, Key: FilterGroup_Placeholder, Value: Placeholder
+Hash: B5B103E0, Key: FilterGroup_Waypoints, Value: Waypoints
+Hash: 3F285B9C, Key: CloseFilter, Value: Close Filter
+Hash: F0C2A800, Key: IconTooltip_CapstoneDungeon, Value: Capstone Dungeon
+Hash: E7D37E44, Key: RegionProgress_UnsupportedReward_Desc, Value: +{s1} Unsupported Reward Type {s2}
+
+
+Hash: 60F220B9, Key: RegionProgress_PotionCharge_Desc, Value: +{s1} Potion Capacity {s2}
+
+
+Hash: DA8B49A8, Key: FilterGroup_LostCache, Value: Claimed Altars of Lilith
+Hash: DA68C84E, Key: RegionProgress_PointUnlock, Value: Renown to unlock:
+Hash: 7E716919, Key: RegionProgress_TotalPoints, Value: Total Renown Earned: {c:FFdba867}{s1}
+Hash: C7C95C4F, Key: Claimed, Value: Claimed
+Hash: 5A986835, Key: RegionProgress_Points, Value: {s1}
+Hash: 801CFF47, Key: RegionProgress_ClickToClaim, Value: Claim Rewards!
+Hash: CF6138E1, Key: RegionProgress_Overall_Progress, Value: {c:FFe3e0d9}Renown:{/c} 
+{c:FFdba864}{s1}{/c} {c:FF928c82}/{s2}
+Hash: DC116658, Key: RegionProgress_Toast_LostCache, Value: Altar of Lilith Claimed
+Hash: 6DE98886, Key: RegionProgress_Toast_Stronghold, Value: Stronghold Conquered
+Hash: DD4EE7F9, Key: RegionProgress_Toast_SideQuest, Value: Side Quest Completed
+Hash: 2495107D, Key: RegionProgress_Toast_Waypoint, Value: Waypoint Unlocked
+Hash: 227CEA4E, Key: RegionProgress_Toast_FoW, Value: Area Discovered
+Hash: 04073672, Key: RegionProgress_Toast_Dungeon, Value: Dungeon Completed
+Hash: 83887DB6, Key: IconTooltip_CellarDungeon, Value: Cellar
+Hash: 208FB2F8, Key: CrafterRequirement, Value: Unlocks at {s1}
+Hash: 8284224D, Key: AlchemistDetail, Value: Alchemists can upgrade potions, craft elixirs and incense, and refine your resources.
+Hash: D59EDD55, Key: BlacksmithDetail, Value: Blacksmiths can upgrade armor and weapons, repair equipment, and salvage materials.
+Hash: 5631D161, Key: JewelerDetail, Value: Jewelers can craft gems and manage sockets on your items.
+Hash: 9958C6CD, Key: OccultistDetail, Value: Occultists can extract and imprint aspects.
+Hash: 44AC7228, Key: AffixesTitle, Value: Affixes
+Hash: 8780F331, Key: ZoneProgress, Value: Region Progress
+Hash: 4AEFDEF6, Key: RenownValue, Value: Renown Value: {s1}
+Hash: DF936494, Key: ClaimHero, Value: Claimed by each character
+Hash: 6723ACAD, Key: ClaimAutomatic, Value: Unlocks for all characters on a realm
+Hash: 8AC459D1, Key: RegionRewardAllClaimed, Value: All Claimed
+Hash: 073C5D66, Key: Claim, Value: Claim
+Hash: AA76749D, Key: RegionComplete, Value: {c:FF11af00}Region Completed
+Hash: E7533708, Key: RenownEntryValue, Value: {c:FFdba864}{s1}{/c} {c:FF928c82}/{s2}
+Hash: 0CA31491, Key: IconTooltip_PvPShardWarning, Value: {c_red}Uncleansed seeds will be lost{/c}
+Hash: 0900B7C5, Key: RegionProgress_Reward_SkillPoint, Value: + {icon:Skill_Icon, 1.5} {c_gold}{s1}{/c} Skill |4Point:Points;
+Hash: AC5F4C9F, Key: RegionProgress_Reward_PotionCharge, Value: + {icon:HealthPotion_04_Active, 2} {c_gold}{s1}{/c} Potion Capacity
+Hash: BA81596E, Key: RegionProgress_Reward_ParagonPoint, Value: + {icon:ParagonPoint_Icon, 1.5} {c_gold}{s1}{/c} Paragon |4Point:Points;
+Hash: 59808DA2, Key: RegionProgress_Reward_Gold, Value: + {icon:gold, 1.5} {c_gold}{s1}{/c} Gold
+Hash: 59878432, Key: RegionProgress_Reward_Temp, Value: + {icon:temp, 2} {c_gold}{s1}{/c} PH Reward
+Hash: 03FDE1F2, Key: Locked, Value: Locked
+Hash: F1233889, Key: IconTooltip_LostCache, Value: Altar of Lilith (Claimed)
+Hash: E882A482, Key: LastSeasonStashNotice, Value: {icon:season, 2.5}{c_highlight}Items from the last season have been sent to your Stash. They expire at the end of the current season{/c}
+Hash: 6CCF22A8, Key: RegionProgress_Reward_GamblingCurrency, Value: + {icon:GamblingCurrency, 1.5} {c_gold}{s1}{/c} Max Obols
+Hash: 8D819B35, Key: RegionProgress_Complete_Icons_Finished, Value: {c_zone_complete}{s1}{/c}{c:FF928c82}/{s2}{/c}
+Hash: 630ED091, Key: CrafterRequirementComplete, Value: Complete {s1}
+Hash: 528A0A10, Key: CrafterRequirementLevel, Value: Level {s1}
+Hash: 55A78B54, Key: CrafterRequirementWorldTier, Value: World Tier {s1}
+Hash: FDEE14F8, Key: Tier3Requirement, Value: Requires unlocking World Tier 3
+Hash: 10E2261B, Key: IconTooltip_QuestSeasonal, Value: Season Quest
+Hash: DDF568B7, Key: IconTooltip_QuestLiveEvent, Value: Event Quest
+Hash: 215A8E9A, Key: IconTooltip_BossDungeon, Value: Lair
+Hash: 63BCC020, Key: Event_Timer_WorldBoss, Value: World Boss: {c_highlight}{s1}
+Hash: 3E8ED91F, Key: Event_Timer_Legion, Value: Legion: {c_highlight}{s1}
+Hash: F952AEED, Key: DungeonCompleted, Value: Completed Recently
+Hash: 202F16BE, Key: DungeonNotCompleted, Value: Not Yet Completed
+Hash: A0FE649E, Key: SMETooltip_DurationSeason, Value: Season-long Activity
+Hash: 3195B1CB, Key: AutoPinEnabled, Value: {icon:Marker_AutoPin,2.5}Auto-Pin Enabled
+Hash: 210C4BD8, Key: AutoPinDisabled, Value: {icon:Marker_AutoPin,2.5}Auto-Pin Disabled

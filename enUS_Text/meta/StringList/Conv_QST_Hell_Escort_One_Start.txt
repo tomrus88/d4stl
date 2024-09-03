@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Should we press on?"
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Yes, but keep your guard up. The Cathedral is in shambles. We're on our own now.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Dire
+Hash: F427C5EC, Key: Line3.7FA05, Value: Stick together and find that spire Prava spoke of.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: The spire is in reference to something Prava said earlier--she said Inarius is hunting Lilith in a spire across the Hell battlefield.

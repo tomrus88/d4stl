@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Breath of the Hydra
+Hash: A646FFA4, Key: Description, Value: "Burn" is the utterance that calls the hydra's breath, and those who hear are rendered to ash.
+Hash: 083EE0CE, Key: Quote, Value: Unending globes of flame.
+Hash: 13A53A8B, Key: Series, Value: "Ancient Hydra" Accessories

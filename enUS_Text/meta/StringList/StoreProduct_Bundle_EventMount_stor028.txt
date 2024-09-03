@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Red Mare of Midwinter
+Hash: A646FFA4, Key: Description, Value: Bone and straw and howler moss, dressed in merry regalia; the patchwork mare rides at Midwinter to hasten the Horror's failure.
+Hash: 083EE0CE, Key: Quote, Value: Fear not the horror.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

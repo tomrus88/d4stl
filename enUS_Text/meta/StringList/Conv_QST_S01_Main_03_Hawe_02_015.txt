@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "That's not much to go on."
+Hash: 8F104F47, Key: Line1.157838, Value: What? Don’t be so shortsighted, of course it is. And it would be to Varshan, too.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Baffled, foolishly optimistic. "var-shn."
+Hash: 6793F909, Key: Line3.157838, Value: That’s… that's the kind of man he was—is. That—that simply can’t be smothered by hate.
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Sentimental. Optimistic. Determined.
+Hash: F11EF64F, Key: Line9.157838, Value: Let me show you. Follow me.
+Hash: 4155221C, Key: VoiceDir9.157838, Value: Determined to show the player he's right in his optimism. 

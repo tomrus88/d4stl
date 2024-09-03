@@ -1,0 +1,9 @@
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: 049542F4, Key: Decline, Value: Decline
+Hash: 3782A521, Key: AcceptTradeCountDown, Value: {s1}
+Hash: 12F6BE29, Key: AcceptTradeRequest, Value: {s1} invited you to trade
+Hash: 962D30E2, Key: TradeRequested, Value: You requested a trade with {s1}
+Hash: 6C077968, Key: TradeDeclined, Value: {s1} declined your trade request  
+Hash: 5B991D9E, Key: TradeRequestFailed, Value: Failed to request trade with {s1}
+Hash: 0F458CFD, Key: AcceptTradeRequestFrom, Value: {s1} invited {s2} to trade
+Hash: ADD5FF6F, Key: TradeDeclineToast, Value: Trade Request Declined

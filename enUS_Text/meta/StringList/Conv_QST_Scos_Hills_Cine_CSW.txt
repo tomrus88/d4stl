@@ -1,0 +1,18 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: PREVIZ
+Hash: 5A270F7C, Key: Line1.804B7, Value: (sigh) It’s sealed, but there’s writing.
+Hash: F41B88FE, Key: Line3.804B7, Value: They look like old druid runes...
+Hash: 8E100280, Key: Line5.804B7, Value: The song of wind...the howl of...
+Hash: 28047C02, Key: Line7.804B7, Value: Oh, no. They’re coming.
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: Hurry.
+Hash: 6F31F38D, Key: Line11.804B7, Value: All right...
+Hash: BF681F5A, Key: VoiceDir11.804B7, Value: Psyching himself up
+Hash: 09266D0F, Key: Line13.804B7, Value: (speaking Druidic)
+Hash: 595C98DC, Key: VoiceDir13.804B7, Value: (hesitant) Phonetic: "Ae ahd lee..."
+Hash: A31AE691, Key: Line15.804B7, Value: (speaking Druidic)
+Hash: F351125E, Key: VoiceDir15.804B7, Value: (confident, chanting) Phonetic: "Ae ahd lee doo-grah ahd-leh. Kuee durla nach rey doh."
+Hash: 3D0F6013, Key: Line17.804B7, Value: It’s a chant! The chant will open the way.
+Hash: 8D458BE0, Key: VoiceDir17.804B7, Value: surprised
+Hash: D703D995, Key: Line19.804B7, Value: Light protect us.
+Hash: 273A0562, Key: VoiceDir19.804B7, Value: under his breath
+Hash: 5B73C86E, Key: Line21.804B7, Value: Hold them off!
+Hash: ABA9F43B, Key: VoiceDir21.804B7, Value: frantic

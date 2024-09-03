@@ -1,0 +1,10 @@
+Hash: 7B157C28, Key: Line3.BAE4.Bar, Value: He died a fitting death for an oath breaker.
+Hash: B185CF35, Key: VoiceDir3.BAE4.Bar, Value: Disgusted, condescending. There is nothing lower in the world than an oath breaker.
+Hash: 7B1586DE, Key: Line3.BAE4.Dru, Value: What a waste of a second chance at life.
+Hash: B185D9EB, Key: VoiceDir3.BAE4.Dru, Value: Disappointed like an angry parent.
+Hash: 7B15AFA9, Key: Line3.BAE4.Nec, Value: A foolish end for a foolish little man.
+Hash: B18602B6, Key: VoiceDir3.BAE4.Nec, Value: Haughty, disdainful.
+Hash: 7B15C1FB, Key: Line3.BAE4.Rog, Value: You had a chance to get out of the life. What a waste.
+Hash: B1861508, Key: VoiceDir3.BAE4.Rog, Value: Legitimately disappointed. Seeing someone you identify with on some level make the worlds worst decision.
+Hash: 7B15C647, Key: Line3.BAE4.Sor, Value: You had a second chance and you wasted it. Shame.
+Hash: B1861954, Key: VoiceDir3.BAE4.Sor, Value: Somewhat condescending, but also legitimately disappointed.

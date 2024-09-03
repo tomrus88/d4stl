@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_bonus}Physical Damage{/c}
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: You deal 15% more Physical damage.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: You deal 10% more Physical damage.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: You deal 5% more Physical damage.

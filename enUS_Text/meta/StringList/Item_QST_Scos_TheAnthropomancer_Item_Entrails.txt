@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Goatman Entrails
+Hash: F5C7BC0A, Key: Flavor, Value: Plump, stinking goatman innards. What might the old seer divine from these?

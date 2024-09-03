@@ -1,0 +1,2 @@
+Hash: 5D59266B, Key: Line1.E723C, Value: I would reconsider heading south. Nothing in the swamp worth dying for, least of all the people.
+Hash: CC628C98, Key: VoiceDir1.E723C, Value: To Player. Casual. Cynical. A bit of advice, laced with bigotry.

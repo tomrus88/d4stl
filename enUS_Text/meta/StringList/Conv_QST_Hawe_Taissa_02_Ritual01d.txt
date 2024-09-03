@@ -1,0 +1,7 @@
+Hash: 5A196F77, Key: Line1.789BF, Value: (gasp of pain)
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: A short sharp gasp--severe pain in her head as she feels Andariel within her, stirring
+Hash: D8F1EA65, Key: Line3.BAE4, Value: What is it?
+Hash: 8E02627B, Key: Line5.789BF, Value: Andariel. Reaching through my thoughts. It is getting… harder to push her down.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: Worried, pained
+Hash: 27F6DBFD, Key: Line7.789BF, Value: We must hurry.
+Hash: 9700422A, Key: VoiceDir7.789BF, Value: Worried, pained

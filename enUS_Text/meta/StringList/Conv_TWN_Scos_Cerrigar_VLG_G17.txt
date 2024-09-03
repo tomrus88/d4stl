@@ -1,0 +1,2 @@
+Hash: 8EB459E7, Key: Line1.103C18, Value: Don’t look so grim. We're a sorry sight, but we’re alive. Thanks to you, I hear.
+Hash: DEEA85B4, Key: VoiceDir1.103C18, Value: To Player. Heavy smile. Grateful. 

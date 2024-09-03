@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bloodpetal Claymore
+Hash: A646FFA4, Key: Description, Value: Behold the Mother's Favor. Blessed are those who rise in strength.
+Hash: 083EE0CE, Key: Quote, Value: Implements of Her Chosen.
+Hash: 13A53A8B, Key: Series, Value: "Mother's Favor"

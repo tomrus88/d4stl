@@ -1,0 +1,6 @@
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Look at all this. An archive of the forbidden, hand-picked by Elias himself.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Hint of excitement and dread. They have finally reached Elias's chambers.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: He must be planning to summon Andariel somewhere else, but he did his research here.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Disappointment--Elias is already gone
+Hash: C1F13152, Key: Line9.6D03F, Value: Look around. There might be some clues that can tell us where the ritual will take place.
+Hash: 30FA977F, Key: VoiceDir9.6D03F, Value: Urgent

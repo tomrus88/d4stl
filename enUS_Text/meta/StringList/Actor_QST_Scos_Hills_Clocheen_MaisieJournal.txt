@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Piece from Maisie's Journal
+Hash: CC3C0A8F, Key: FlavorText, Value: A journal fragment discussing Airidah.
+Hash: F2CA04D8, Key: NoticeSignText, Value: Airidah came for a visit. Dad gave her salt and water. 
+She thanked him. Then went on her way. 
+I wanted to go with. Help her sing to the dead, but dad didn’t let me.
+Said that we share the hills with the druid, but her work is not our work.

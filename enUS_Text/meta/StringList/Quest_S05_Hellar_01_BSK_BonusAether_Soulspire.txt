@@ -1,0 +1,2 @@
+Hash: 4A6A48FB, Key: Callback41Header, Value: Stay near the Soulspire and slay foes: {DONE_OVER_NEEDED}
+Hash: 6A9510E0, Key: Callback55Header, Value: Collect Aether from an Soulspire

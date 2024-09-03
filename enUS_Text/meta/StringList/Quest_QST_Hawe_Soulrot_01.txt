@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Gift of the Swamp
+Hash: 0871A46B, Key: Toast, Value: Escort Marta to the healer in Wejinhani. 
+Hash: D53BFF05, Key: Phase0Description, Value: A sick woman named Marta has asked that I bring her to the healer Yolanda of Wejinhani. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Bring Marta to Yolanda
+Hash: C9FCD1EA, Key: Phase5Description, Value: Marta's sickness appears to have been terminal and I must now dispatch the swarm of vermin that burst from her body before she died. 
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the diseased swarm
+Hash: 008DE739, Key: Phase31Description, Value: A sick woman named Marta has asked that I bring her to the healer Yolanda of Wejinhani. 
+Hash: 9211671E, Key: Callback35Header, Value: Help Marta

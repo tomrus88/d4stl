@@ -1,0 +1,3 @@
+Hash: 168A4451, Key: AttunementTracker, Value: {c:FFdba864}{s1}
+Hash: B87098CD, Key: ZoltunsWard, Value: Zoltun's Warding
+Hash: 97279014, Key: S03_DRLG_Attunement_LeaveDungeonWarning, Value: {c_red}Warning:{/c} All stacks of {c_gold}Zoltun's Warding{/c} are removed upon exit from Vaults.

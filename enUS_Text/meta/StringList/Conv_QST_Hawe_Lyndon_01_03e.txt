@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Rat Race
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Wait! That's it, heh, "ring a bell." Oh, I really must stop writing reminders drunk.
+Hash: 3FB9526F, Key: Line5.10088C, Value: Well, go on then. You can't expect these old bones to carry it.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this note from a... Julek."
+Hash: 8EB2B2F0, Key: Line1.100AE2, Value: What?! Let me see this note... Where did you get this?
+Hash: DEE8DEBD, Key: VoiceDir1.100AE2, Value: Crying, upset
+Hash: 3FBA0674, Key: Line5.100AE2, Value: I must go after him! Julek my love, I'll find you! I swear it! Please! Tell me where I can find him!

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: You've returned
+Hash: 6F2B4E2B, Key: Line11.6F0BE, Value: Angels above. You've returned!

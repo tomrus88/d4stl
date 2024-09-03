@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It's over. The townsfolk can search for loved ones now."
+Hash: 910ABBFE, Key: Line5.B5390, Value: Aye...
+Hash: 0014222B, Key: VoiceDir5.B5390, Value: In shock about what just happened
+Hash: 77F97241, Key: Line8.B5390, Value: (sigh) A shame about Yorin. Was one of us, you know?
+Hash: E702D86E, Key: VoiceDir8.B5390, Value: Somber
+Hash: 2532704A, Key: Line10.B5390, Value: We'll take care of him and his father.
+Hash: 75689C17, Key: VoiceDir10.B5390, Value: Somber

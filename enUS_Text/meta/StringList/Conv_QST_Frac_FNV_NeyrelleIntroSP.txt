@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Reverend Mother Prava sent me."
+Hash: 7B97AD88, Key: Line35.6DE47, Value: ...She did?
+Hash: CBCDD955, Key: VoiceDir35.6DE47, Value: dawning realization he has majorly fucked up
+Hash: 08812C5C, Key: Line37.BAE4, Value: The horned woman is the demon Lilith.
+Hash: AF80A08C, Key: Line39.6DE47, Value: No...! That can’t be. My mother taught me that name. You speak of the Daughter of Hatred.
+Hash: FFB6CC59, Key: VoiceDir39.6DE47, Value: awe, fear - "You speak..." is in hushed tones.
+Hash: 33F08F65, Key: Line41.6DE47, Value: Did Prava mention me? She wasn’t angry, was she?
+Hash: 8426BB32, Key: VoiceDir41.6DE47, Value: dawning horror
+Hash: CDE508E7, Key: Line43.6DE47, Value: There’s more than your job at stake here!
+Hash: 67D98269, Key: Line45.6DE47, Value: Ach. Come on. Let’s get this over with.
+Hash: B80FAE36, Key: VoiceDir45.6DE47, Value: scared

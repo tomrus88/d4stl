@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Baltair asked me to give this to you."
+Hash: 8EB4BB96, Key: Line1.105801, Value: F-from Da? Truly? Oh thank ye!
+Hash: 67386558, Key: Line3.105801, Value: We haven't had nothin' to eat in days. The littl'uns can barely keep their eyes open.
+Hash: 3FBC0F1A, Key: Line5.105801, Value: We miss him terribly, but he's done what needed doin'. He's kept the family alive. Thank ye again.

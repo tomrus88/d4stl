@@ -1,0 +1,2 @@
+Hash: 5A43C04B, Key: Line1.8CA44, Value: Ah, you're here! Deckard is inside with your friend.
+Hash: C94D2678, Key: VoiceDir1.8CA44, Value: Warm, welcoming the Player

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Where is the final relic?”
+Hash: 5D73363A, Key: Line1.EECAE, Value: Buried under the Ruins of Saraan, a city sunken into a caldera. Meet me there.
+Hash: F767AFBC, Key: Line3.EECAE, Value: This time, we hunt together.
+Hash: 667115E9, Key: VoiceDir3.EECAE, Value: suddenly deeper, hoarser; Rakhaan's demon is showing itself

@@ -1,0 +1,3 @@
+Hash: D4479923, Key: Line1.BAE4, Value: Have you seen someone named Oyuun?
+Hash: F716DF64, Key: Line3.B6757, Value: Are you mad? Save yourself!
+Hash: 66204591, Key: VoiceDir3.B6757, Value: fearful, desperate

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Raising Spirits
+Hash: 0871A46B, Key: Toast, Value: The city militia is bolstering its ranks with fresh blood.
+Hash: D53BFF05, Key: Phase0Description, Value: Guard Boza has asked me to inspire the militia trainees near the eastern gatehouse in Kyovashad.
+
+A quick cheer should lift their spirits.
+Hash: 1EADAE68, Key: Callback2Header, Value: Cheer at the training militia
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I should let Boza know I've cheered up the militia.
+Hash: 6C93809B, Key: Callback14Header, Value: Speak with Guard Boza

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Knife Throwing Dummy
+Hash: F2CA04D8, Key: NoticeSignText, Value: Littered with countless holes from bouts of knife throwing. A blood stain of dubious origin trails from the dummy. 

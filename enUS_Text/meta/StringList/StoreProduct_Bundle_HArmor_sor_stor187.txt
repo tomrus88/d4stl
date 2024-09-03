@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Angelic Resonance
+Hash: A646FFA4, Key: Description, Value: This attire bears images said to resemble celestial construction, as described by mystics capable of preternatural vision most divine.
+Hash: 083EE0CE, Key: Quote, Value: The splendor of heaven.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

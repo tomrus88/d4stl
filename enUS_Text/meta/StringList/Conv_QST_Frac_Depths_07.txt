@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Kvera! What happened?"
+Hash: 2C247EB9, Key: Line6.128F75, Value: Vasek, my husband...he was hiding upstairs. He ran...out there. Quick, before he hurts someone else.
+Hash: 7C5AAA86, Key: VoiceDir6.128F75, Value: Pronounciation: Vah-seck. Wounded, in pain but not dying.
+Hash: 5900E7A4, Key: Line10.128F75, Value: It looks worse than it is. I will live. Go!

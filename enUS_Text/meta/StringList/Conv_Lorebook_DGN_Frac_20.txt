@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bill of Mortality
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Bill of Mortality
+Hash: 5D72A442, Key: Line1.EDC78, Value: Bill of Mortality: In the year of the Light 1318 Anno Kehjistani, we have buried 92 souls on these hallowed grounds. 
+
+Abortive and Stillborn: 7. Bleeding Wounds: 4. Childbed: 2. Executed: 15. Frostbitten: 6. Old Age: 1. Removal of Blood: 54. Starvation: 3.

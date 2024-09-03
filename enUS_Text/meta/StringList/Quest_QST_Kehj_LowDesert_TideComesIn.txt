@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: When the Tide Comes In
+Hash: 0871A46B, Key: Toast, Value: A man buried in the sand. A family slated for execution.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Yasir
+Hash: F4A9EC5A, Key: Phase14Description, Value: On the beaches of Shipwreck Cove, I found a man buried up to his neck in the sand. The man, Yasir, asked that I dig him out.
+
+Seeing the bloated, drowned corpses that litter the beach, it seems I shouldn't delay.
+Hash: 1F9943DA, Key: Callback13Header, Value: Dig out Yasir
+Hash: 0687FA1D, Key: Callback16Header, Value: Speak with Yasir
+Hash: 4408F5DB, Key: Phase24Description, Value: Having dug Yasir out of the sand, he's asked that I help free his family, else they are next in the sand.
+
+Weapon in hand, Yasir is ready to free his family.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Free Yasir's family {DONE}/3
+Hash: 1EF99359, Key: Phase40Description, Value: I've rescued Yasir and his family. I should head to the rendezvous point.
+Hash: C5FA5A22, Key: Callback39Header, Value: Meet Yasir's family
+Hash: 63BE3D83, Key: Phase77Description, Value: Having dug Yasir out of the sand, he's asked that I help free his family, else they are next in the sand.
+
+He'll need a weapon before he can be of any help.
+Hash: 9012F763, Key: Callback76Header, Value: Find Yasir a weapon
+Hash: 7701ADA6, Key: Callback79Header, Value: Take the sword for Yasir

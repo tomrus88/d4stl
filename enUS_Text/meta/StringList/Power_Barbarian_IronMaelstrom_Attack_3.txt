@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Iron Maelstrom: Dual Wield
+Hash: 003892BF, Key: desc, Value: Attach a chain to your Dual Wield weapons and swing them around you, dealing {c_number}{payload:DAMAGE}{/c} per hit.

@@ -1,0 +1,4 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Werebear stun.
+Hash: 7786FD97, Key: Buff1_Description, Value: Hitting 15 enemies makes your next Werebear skill stun and do more damage.
+Hash: 12713EB5, Key: Buff2_Name, Value: Werebear stun ready.
+Hash: C6E60718, Key: Buff2_Description, Value: Your next Werebear skill will stun and do extra damage.

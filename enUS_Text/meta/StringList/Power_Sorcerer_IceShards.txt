@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Ice Shards
+Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost: {/c}{c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Launch {c_number}{SF_3}{/c} shards that deal {c_number}{payload:IMPACT_DAMAGE_NORMAL}{/c} damage each. Deals {c_number}[{SF_2} * 100|%x|]{/c} increased damage to {c_important}{u}Frozen{/u}{/c} enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:IMPACT_DAMAGE_NORMAL}{/c}
+Hash: 62F3D8B8, Key: Mod5_Description, Value: {c_important}Ice Shards{/c} have a {c_number}[{SF_18}*100|%|]{/c} chance to ricochet to another enemy. {c_important}Ice Shards{/c} always ricochet off of {c_important}{u}Frozen{/u}{/c} enemies.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Enhanced Ice Shards
+Hash: 1394CF37, Key: Mod4_Description, Value: Hitting an enemy with {c_number}{SF_16}{/c} {c_important}Ice Shards{/c} in a single cast makes them {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_17}{/c} seconds.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Destructive Ice Shards
+Hash: D618A933, Key: Mod0_Description, Value: While you have a {c_important}{u}Barrier{/u}{/c} active, {c_important}Ice Shards{/c} always receives its bonuses against {c_important}{u}Frozen{/u}{/c} enemies.
+Hash: 9233D930, Key: Mod0_Name, Value: Greater Ice Shards

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Tears of Lamentation
+Hash: A646FFA4, Key: Description, Value: Five words that torment souls forever: "If only I would have…"
+Hash: 083EE0CE, Key: Quote, Value: The weight of decisions.
+Hash: 13A53A8B, Key: Series, Value: "Shadows of the Living" Accessories

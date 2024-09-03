@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How's the catch?"
+Hash: 8EB2027C, Key: Line1.100947, Value: Lost two sailors at sea today. (sigh) Soon we’ll have more ships than able hands.
+Hash: DEE82E49, Key: VoiceDir1.100947, Value: sad

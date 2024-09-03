@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Herald of Mephisto
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Herald of Mephisto
+Hash: 5D29C46C, Key: Line1.ACEF6, Value: By your hand the way will be opened.

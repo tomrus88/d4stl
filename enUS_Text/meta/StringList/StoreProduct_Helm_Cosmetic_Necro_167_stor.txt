@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spectre Scowl
+Hash: 13A53A8B, Key: Series, Value: "Spectre of the Wastes"

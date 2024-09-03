@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Weapon Binding Hotkey
+Hash: 7BFE534B, Key: simple_instruction, Value: Press {icon:mmb, 2.0} on an unlocked weapon skill to select what weapon it should use.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Press {icon:button3, 2.0} on an unlocked weapon skill to select what weapon it should use.

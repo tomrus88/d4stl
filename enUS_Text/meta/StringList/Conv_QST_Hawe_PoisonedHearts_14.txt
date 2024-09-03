@@ -1,0 +1,4 @@
+Hash: F75EAA33, Key: Line3.F53E7, Value: Aneta's already gone. You won't see her again.
+Hash: 66681060, Key: VoiceDir3.F53E7, Value: Matter of factly. This is the way it had to be. Pronounciation: Ah-net-uh
+Hash: 40528148, Key: Line17.F53E7, Value: But she left you a letter, there on the table.
+Hash: 9088AD15, Key: VoiceDir17.F53E7, Value: In contrast with the previous line, you break your cold exterior and try to be a bit warm. The player wasn't able to say goodbye to your student but you know how important she was to them.

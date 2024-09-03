@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: GARBHAN ENNAI
+
+The Butcher of Cerrigar, Garbhan is more beast than man. He has evaded our hunters every attempt to slay him. If traveling through The Harrowfields, be wary: he will smell you far sooner than you will see him.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

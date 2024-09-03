@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing?"
+Hash: 59F3316A, Key: Line1.53D3D, Value: Oh, just reading this fellow's entrails.
+Hash: 6EFE157B, Key: Line11.53D3D, Value: The goatmen are encroaching ever more on our lands. I'm trying to determine why, how.
+Hash: 27D09DF0, Key: Line7.53D3D, Value: With a bit of skill, you can learn a lot from someone's innards. Not many remember or practice the old ways, but you split the gut and read the mess that pours out...
+Hash: C1C51772, Key: Line9.53D3D, Value: Help me open the gut further, will you? I'm not getting a good reading, and my hands aren't as steady as they used to be.

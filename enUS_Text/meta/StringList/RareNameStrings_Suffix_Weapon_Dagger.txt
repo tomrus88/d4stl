@@ -1,0 +1,9 @@
+Hash: F5E298BB, Key: Dagger001, Value: Blade
+Hash: F5E298BC, Key: Dagger002, Value: Thorn
+Hash: F5E298BD, Key: Dagger003, Value: Spine
+Hash: F5E298BE, Key: Dagger004, Value: Shard
+Hash: F5E298BF, Key: Dagger005, Value: Razor
+Hash: F5E298C0, Key: Dagger006, Value: Quill
+Hash: F5E298C1, Key: Dagger007, Value: Spur
+Hash: F5E298C2, Key: Dagger008, Value: Point
+Hash: F5E298C3, Key: Dagger009, Value: Sting

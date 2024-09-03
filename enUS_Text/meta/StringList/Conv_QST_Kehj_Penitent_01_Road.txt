@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Looks like we're clear."
+Hash: 3FF2D964, Key: Line5.136591, Value: So we are. I’m obliged for your help, wanderer. My name’s Edgar.
+Hash: 90290531, Key: VoiceDir5.136591, Value: relieved
+Hash: F0FA2CE8, Key: Line9.136591, Value: Hmm, your face is familiar to me. A wanted poster, maybe? It’s no matter, I owe you a drink whatever your story is.
+Hash: 413058B5, Key: VoiceDir9.136591, Value: A little gentle ribbing, "I know something you don't know". Hasn't really warmed to the player yet but is starting to come around. 
+Hash: 4552EC11, Key: Line11.136591, Value: I must get these people to shelter. If you chance to be in Gea Kul one day, you might find me at the tavern there. Light guide your path.

@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I brought you some mead."
+Hash: 675C0CA0, Key: Line3.1247DE, Value: (breathing heavily) What's it gonna cost me?
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Nivro tells me you left town weeks ago with two men: Symon and Elias. I'm looking for Symon.
+Hash: 26CB1034, Key: VoiceDir5.BAE4, Value: Pronounciation: Simon
+Hash: 18636024, Key: Line7.1247DE, Value: Oh Symon. He was sweet. I should have--
+Hash: 68998BF1, Key: VoiceDir7.1247DE, Value: Pronounciation: Simon
+Hash: F0E709E6, Key: Line9.1247DE, Value: He didn't want gold. That was all Elias.
+Hash: 453FC90F, Key: Line11.1247DE, Value: I have nightmares about him. About Elias’ true face. I left Symon with him, and I shouldn’t have. Maybe I can make it up to him.

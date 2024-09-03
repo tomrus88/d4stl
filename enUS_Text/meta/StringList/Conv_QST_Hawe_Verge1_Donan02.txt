@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What now?"
+Hash: 5A334C6A, Key: Line1.7FA05, Value: You're finally back! Hurry, everything here makes my skin crawl.

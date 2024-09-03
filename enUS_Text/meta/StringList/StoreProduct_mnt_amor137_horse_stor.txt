@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Regal's Plume
+Hash: 13A53A8B, Key: Series, Value: "Vain Monarch"

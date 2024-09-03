@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Two-Handed Mace
+Hash: 112295E9, Key: BarbarianArsenalOverrideName, Value: Two-Handed Mace (Bludgeoning)

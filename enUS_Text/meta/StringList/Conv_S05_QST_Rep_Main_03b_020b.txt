@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Bold of you to show your face."
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: You know me! Might’ve ended up like these sorry bastards, tied to a cross of my own. Doesn’t matter anymore why they did what they did, does it? Hatred got them in the end.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Ashamed. Regretful. Pensive.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: The Mother, she—she couldn't help what she was, but she wanted us to fight. To be free from Hatred. She said so, in her teachings...
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Somber. Grief for the Mother.
+Hash: F46620DD, Key: Line9.1BCD2B, Value: I’ve kept them all in my grimoire. Maybe you’ll find a use for them, but whatever you do...don’t let Hatred win.
+Hash: 449C4CAA, Key: VoiceDir9.1BCD2B, Value: Somber. A peace offering to the Player.

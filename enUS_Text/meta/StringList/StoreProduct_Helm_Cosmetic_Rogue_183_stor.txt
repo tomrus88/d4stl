@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grave Dancer's Masque
+Hash: 13A53A8B, Key: Series, Value: "The Grave Dancer"

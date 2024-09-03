@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Fevered Mauling
+Hash: 003892BF, Key: Desc, Value: When you hit at least {c_number}1{/c} enemy with {c_important}Maul{/c}, increase its Attack Speed by {c_random}[Affix_Value_1|%+1|]{/c} and you gain {c_random}[Affix_Value_2|%x1|]{/c} Damage Reduction for {c_number}[Affix."Static Value 0"]{/c} seconds, stacking up to {c_number}[Affix."Static Value 1"]{/c} times.

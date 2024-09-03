@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Twisted Hollow
+Hash: 003892BF, Key: Desc, Value: A veritable reservoir of wildlife where answers may lurk.

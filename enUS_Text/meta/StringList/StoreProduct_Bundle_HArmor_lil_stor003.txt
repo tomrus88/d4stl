@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Largesse
+Hash: A646FFA4, Key: Description, Value: Behold the Mother's Largesse. Her cherished gifts bless our sacred mission.
+Hash: 083EE0CE, Key: Quote, Value: Implements of Her Chosen.
+Hash: 13A53A8B, Key: Series, Value: Weapon Cosmetics

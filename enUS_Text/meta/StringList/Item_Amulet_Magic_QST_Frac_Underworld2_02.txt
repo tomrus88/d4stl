@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blest Prayer Beads
+Hash: A646FFA4, Key: Description, Value: Warm with Vigo's sanguine redemption.

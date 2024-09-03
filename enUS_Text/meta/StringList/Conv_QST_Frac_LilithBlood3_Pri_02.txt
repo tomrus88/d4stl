@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm here."
+Hash: 18ABE7DA, Key: Line7.163AA1, Value: Knights wait for me ahead—called here for my protection. Many may have forgotten old Voszalko, but some still hold true!
+Hash: 68E213A7, Key: VoiceDir7.163AA1, Value: Voszalko pronounced (voh-shall-koh)
+Hash: F12F919C, Key: Line9.163AA1, Value: I will now don the Child’s Caul, as our Mother Prava did before she was born anew.
+Hash: 4165BD69, Key: VoiceDir9.163AA1, Value: Liturgical, putting on airs.

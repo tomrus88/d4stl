@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ceremonial Horn
+Hash: A646FFA4, Key: Description, Value: The hallowed out horn of a ram, covered with intricate carvings.

@@ -1,0 +1,2 @@
+Hash: 003892BF, Key: Desc, Value: An ash-covered cellar carrying the smell of burnt remains.
+Hash: 003DFCC1, Key: Name, Value: Embered Recess

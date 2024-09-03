@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Ready for the ambushes?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Uh-huh.
+Hash: DEE82AB8, Key: VoiceDir1.10088C, Value: Pensive.
+Hash: F0C0A5F3, Key: Line9.10088C, Value: Well, as I said, wouldn't hold your breath on this one. Let’s move on, the second location isn’t too far.
+Hash: 40F6D1C0, Key: VoiceDir9.10088C, Value: Optimism in his voice.

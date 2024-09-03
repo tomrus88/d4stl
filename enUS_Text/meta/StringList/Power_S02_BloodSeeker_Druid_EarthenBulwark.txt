@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Earthen Bulwark
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Rocks surround you for {c_number}{buffduration:BUFF_SHIELD}{/c} seconds, granting a {c_important}{u}Barrier{/u}{/c} that absorbs {c_number}[{SF_1}*100|%|]{/c} of your Base Life {c_number}({shield:BUFF_SHIELD}){/c} in damage.
+Hash: F2DE8628, Key: simple_desc, Value: Defensive Skill: Rocks surround you, granting an explosive shield.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Barrier{/u}{/c} Amount {icon:arrow,1.2}  {c_number}[{SF_1}*100|%|]{/c}
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Earthen Bulwark{/c} makes you {c_important}{u}Unstoppable{/u}{/c} while active.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Earthen Bulwark
+Hash: D618A933, Key: Mod0_Description, Value: Rock shrapnel flies outward when {c_important}Earthen Bulwark{/c} is destroyed or expires, dealing {c_number}{payload:DAMAGE}{/c} to surrounding enemies. This damage is increased by {c_important}{u}Barrier{/u}{/c} bonuses.
+Hash: 9233D930, Key: Mod0_Name, Value: Innate Earthen Bulwark
+Hash: 74D6BC35, Key: Mod2_Description, Value: Casting {c_important}Earthen Bulwark{/c} grants {c_number}[{SF_10}*100|%|]{/c} Base Life {c_number}([Max(1,{fortified:MOD_FORTIFY})|0|]){/c} as {c_important}{u}Fortify{/u}{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Preserving Earthen Bulwark

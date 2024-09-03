@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Necklace of Inevitability
+Hash: F5C7BC0A, Key: Flavor, Value: This vile necklace of charred goat's teeth paradoxically contains both the power to extend life as well as cut it short.

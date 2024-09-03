@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Potent Blood
+Hash: F5C7BC0A, Key: Flavor, Value: "This potent vampire blood feels thick and viscous inside the large jar."

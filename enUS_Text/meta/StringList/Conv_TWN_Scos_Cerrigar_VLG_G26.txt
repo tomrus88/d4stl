@@ -1,0 +1,2 @@
+Hash: 8EB45A15, Key: Line1.103C1F, Value: A couple druids said they’d charm some wild boar for me to tend. I should like to see that.
+Hash: DEEA85E2, Key: VoiceDir1.103C1F, Value: To Player. Pleased. Curious to see the druids' work.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rage of Harrogath
+Hash: F5C7BC0A, Key: Flavor, Value: Harrogath, the final bastion of resistance against Baal's assault on Mt. Arreat was destroyed along with the Worldstone. The survivors never forgave the betrayal that led to the loss of their home.

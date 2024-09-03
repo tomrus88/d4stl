@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Chain Lightning{/c} alternates between orbiting you and seeking up to {c_number}[Affix."Static Value 2"]{/c} enemies. When it returns, it drains {c_number}[Affix."Static Value 0"]{/c} Mana from you for each active {c_important}Chain Lightning{/c}. After draining {c_number}[Affix."Static Value 3"]{/c} total Mana, the bolt explodes for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1 * Affix."Static Value 1"]{/c} Lightning Damage.
+                       
+{c_important}Chain Lightning{/c} expires if you don't have enough Mana for it to drain.

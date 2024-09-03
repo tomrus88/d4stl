@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cormond's Journal
+Hash: F2CA04D8, Key: NoticeSignText, Value: "So near to the coast, I can almost see the West. I was a boy when I left those shores, so eager to travel East and serve the living angel, Inarius. But it was an old man who took me in. Priest Varshan. The true Father of our village..."

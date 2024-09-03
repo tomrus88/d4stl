@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about your village."
+Hash: 5A31C3AF, Key: Line1.7CFFB, Value: What's that? You say something?
+Hash: C93B29DC, Key: VoiceDir1.7CFFB, Value: Loud. Hard of hearing.

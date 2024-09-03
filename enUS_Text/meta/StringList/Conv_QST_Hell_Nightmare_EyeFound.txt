@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mephisto
+Hash: 5D3BADDD, Key: Line1.BD9D3, Value: The Sightless Eye is the source of this nightmare.
+Hash: F730275F, Key: Line3.BD9D3, Value: Take it and set yourself free.

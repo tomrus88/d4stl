@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Sint la palox
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Disembodied Voice
+Hash: 767E0BB7, Key: Line1.0, Value: Sint la palox.
+Hash: AD796364, Key: VoiceDir1.0, Value: Whispered. Mysterious. Otherworldly.

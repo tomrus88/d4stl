@@ -1,0 +1,4 @@
+Hash: C4E4A056, Key: Line9.A9F43, Value: Excellent. The Reverend Mother was wise to choose you for this task. The chalice is now ready for her.
+Hash: 33EE0683, Key: VoiceDir9.A9F43, Value: Trying to suck up to your boss through the player.
+Hash: 721D9E5F, Key: Line11.A9F43, Value: And, err...please do give her my most respectful regards.
+Hash: C253CA2C, Key: VoiceDir11.A9F43, Value: Trying to suck up to your boss through the player.

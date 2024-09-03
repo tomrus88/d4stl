@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Last Stand
+Hash: DB40AFF1, Key: Callback173Header, Value: Speak to the Adventurer
+Hash: B06FAAD0, Key: Callback145Header, Value: Survive the onslaught
+Hash: 1879A109, Key: Callback102Header, Value: Speak to the Adventurer
+Hash: FF68574C, Key: Callback105Header, Value: Speak to the Adventurer
+Hash: E6570D8F, Key: Callback108Header, Value: Speak to the Adventurer
+Hash: 167B314E, Key: Callback143Header, Value: Keep at least one Adventurer alive: {LEFT} Remaining
+Hash: B5C2C96E, Key: Callback152Header, Value: Slay the remaining enemies

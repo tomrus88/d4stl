@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "We made it..."
+Hash: 2230D401, Key: Line10.6DE47, Value: I know you heard the voices that time. Who were they?
+Hash: 7266FFCE, Key: VoiceDir10.6DE47, Value: Disturbed. Still under the effects of the incense with a slightly slow read, but it can be wearing off now.
+Hash: 74F6F491, Key: Line8.6D03F, Value: I don’t know. We can’t trust anything here, but we need to press on.
+Hash: E4005ABE, Key: VoiceDir8.6D03F, Value: weary and grim. Still under the effects of the incense with a slightly slow read, but it can be wearing off now.

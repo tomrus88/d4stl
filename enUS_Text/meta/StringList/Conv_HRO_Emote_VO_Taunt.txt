@@ -1,0 +1,6 @@
+Hash: 93552D0D, Key: Line9.BAE4.Sor, Value: You are courting pain and death.
+Hash: C9C5801A, Key: VoiceDir9.BAE4.Sor, Value: Said with palpable distain.
+Hash: 9354EDA4, Key: Line9.BAE4.Dru, Value: You are weak and foolish.
+Hash: 9354E2EE, Key: Line9.BAE4.Bar, Value: This will be your last stupid mistake.
+Hash: 935528C1, Key: Line9.BAE4.Rog, Value: There are so many ways I can kill you.
+Hash: 9355166F, Key: Line9.BAE4.Nec, Value: Your bones betray you.  They shall soon serve me.

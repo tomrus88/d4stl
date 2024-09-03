@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolf Boots
+Hash: F5C7BC0A, Key: Flavor, Value: Sturdy and flame-resistant, for those who would stand toe to toe against the Hellborne.

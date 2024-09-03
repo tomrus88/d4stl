@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: PITILESS GUR
+
+A creature so merciless, those few that have survived an encounter with him claim he has a heart of ice. There may be some truth to this, as even the heat of the Boiling Planes is brought to chill he stalks nearby!
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Exhuming the Forgotten
+Hash: 6F31F38D, Key: Line11.804B7, Value: These runes...the delicate touch.
+Hash: 8E100280, Key: Line5.804B7, Value: This is Airidah's work...why would she be aligned with a demon?
+Hash: E2468CE9, Key: Line7.BAE4, Value: I have seen others fall under Lilith's control.
+Hash: C1F8F584, Key: Line9.804B7, Value: Airidah was sworn to keep the dead at peace...

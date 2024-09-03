@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sepulcher of The Forsworn
+Hash: 003892BF, Key: Desc, Value: Evil stirs below the altar of Baal.

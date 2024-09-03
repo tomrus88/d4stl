@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Knight Penitent Statue
+Hash: F2CA04D8, Key: NoticeSignText, Value: Inscribed are the words to a Knights Penitent battle prayer. 

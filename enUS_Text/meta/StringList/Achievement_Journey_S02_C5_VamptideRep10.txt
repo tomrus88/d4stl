@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crop of Blood
+Hash: 3A4912CF, Key: DescShort, Value: Reach {icon:Marker_Board_Vampire, 2.5} Reputation Level 10 in the {icon:Marker_SME_Vamptide, 2.5} Blood Harvest, available after completing or skipping the Campaign

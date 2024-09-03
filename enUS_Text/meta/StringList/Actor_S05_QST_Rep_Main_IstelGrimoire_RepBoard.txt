@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Istel's Grimoire
+Hash: CC3C0A8F, Key: FlavorText, Value: Marked by the sign of the Mother

@@ -1,0 +1,2 @@
+Hash: 76E748CE, Key: 0_desc, Value: Donan has asked for my help attuning the Soulstone to Mephisto's essence. We are to meet outside the ruin of a Zakarum fortress deep in the swamps of Hawezar. 
+Hash: 793C716F, Key: 1_desc, Value: Donan and I have entered the ruined Zakarum fortress in Hawezar and must explore the Foul Crypt beneath it for the Black Tomb of Sankekur. Only there can we find a suitable place to attune the Soulstone. 

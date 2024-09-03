@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Istel, any news? ...Istel?"
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: News...? Ah yes, well—it seems that no matter how many Triune you kill, the Tides just keep rising. It seems like you need help getting the job done.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Distracted then Chiding.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: Lucky for us, I’ve worked out a ritual to harness that Burning Aether. Meet me at the house. You’ll want to see this.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Wolfish grin. Eager. Suggestive.

@@ -1,0 +1,2 @@
+Hash: 5C7D0B25, Key: Line10.1BCD2B, Value: It'll take a basic sacrifice. Nothing too unsavory. Go on and fetch me one of them khazra livers. Make sure it’s ripe.
+Hash: B378B092, Key: VoiceDir10.1BCD2B, Value: Terse. Flippant on "Nothing too unsavory." Giving orders.

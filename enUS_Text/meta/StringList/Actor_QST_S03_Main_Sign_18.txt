@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Curious Cube
+Hash: F2CA04D8, Key: NoticeSignText, Value: An intricate cube built of balsa wood. A model of some kind?

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hollow Stump
+Hash: F2CA04D8, Key: NoticeSignText, Value: A box of vegetables is carefully hidden inside this stump. Those who are hungry do what they must.

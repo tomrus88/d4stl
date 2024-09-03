@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you a druid?"
+Hash: 59D74087, Key: Line1.2CDEB, Value: Oh, I’m just an old woman.
+Hash: C8E0A6B4, Key: VoiceDir1.2CDEB, Value: amused

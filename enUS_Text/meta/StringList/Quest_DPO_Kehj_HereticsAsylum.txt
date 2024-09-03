@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: The vile escaped the cells.
+Hash: 7701ADA6, Key: Callback79Header, Value: Collect {ITEM} from Animus Carriers
+Hash: A9244120, Key: Callback73Header, Value: Travel to {LEVELAREA}
+Hash: DD0D3424, Key: Callback77Header, Value: Deposit Animus into the {GIZMO}
+Hash: 164945C6, Key: Callback88Header, Value: Use the Maximum Security Key to open the {GIZMO}
+Hash: 9AB9349F, Key: Callback90Header, Value: Defeat the Knight Council
+Hash: 5708D149, Key: Callback120Header, Value: Slay Scar Gundror and collect the {ITEM}

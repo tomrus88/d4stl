@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Death Legacy Greaves
+Hash: 13A53A8B, Key: Series, Value: "Death Legacy"

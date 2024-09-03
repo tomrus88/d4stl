@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blind Odwyn
+Hash: CC38ADCB, Key: FlavorName, Value: The Soul-Starved

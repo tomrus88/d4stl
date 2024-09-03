@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Venom of the Nangari
+Hash: 0871A46B, Key: Toast, Value: I found some venom that has a curious look to it. Maybe Timue knows more about it.
+Hash: D53BFF05, Key: Phase0Description, Value: I found some venom that has a curious look to it. Maybe Timue knows more about it.
+Hash: 059C64AB, Key: Callback5Header, Value: Bring the Curious Venom to Timue

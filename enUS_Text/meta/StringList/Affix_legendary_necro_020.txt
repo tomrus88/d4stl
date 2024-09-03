@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Rotting
+Hash: 003892BF, Key: Desc, Value: {c_important}Decompose{/c} can chain and burst up to {c_number}[Affix."Static Value 0"]{/c} additional targets. Explosions from {c_important}Decompose{/c} deal {c_random}[Affix_Value_1|%x|]{/c} increased damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Decompose{/c} chains to additional targets. Explosions from {c_important}Decompose{/c} deal {c_random}[Affix_Value_1|%x|]{/c} increased damage.

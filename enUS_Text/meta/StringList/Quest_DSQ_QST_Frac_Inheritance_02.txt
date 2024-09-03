@@ -1,0 +1,8 @@
+Hash: D9B88541, Key: Callback29Header, Value: Place the Woodsman's Axe in the holy water 
+Hash: 24EC6278, Key: Callback20Header, Value: Protect Parin
+Hash: BEE0DBFA, Key: Callback22Header, Value: Slay the Demon
+Hash: 5E28741A, Key: Callback31Header, Value: Speak with Parin
+Hash: 2C05E0A0, Key: Callback37Header, Value: Destroy the Woodsman's Axe
+Hash: 003DFCC1, Key: Name, Value: Legacy Unmade
+Hash: D0A0975E, Key: Callback53Header, Value: Pick up the Woodsman's Axe
+Hash: F0CB5F43, Key: Callback67Header, Value: Follow Parin into the Sanctified Study

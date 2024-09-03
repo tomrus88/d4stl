@@ -1,0 +1,4 @@
+Hash: 6F2B10C2, Key: Line11.6DE47, Value: It's here. Just a--
+Hash: F414A633, Key: Line3.6DE47, Value: (screams)
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: screams in agony
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Neyrelle!

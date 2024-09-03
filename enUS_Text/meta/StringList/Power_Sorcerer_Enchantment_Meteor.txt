@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}[{SF_0}|%|]{/c} chance for a {c_important}Meteor{/c} to fall on enemies.

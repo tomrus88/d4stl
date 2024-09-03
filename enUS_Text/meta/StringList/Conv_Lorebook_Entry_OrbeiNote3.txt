@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Orbei Monastery, Part 1
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Abbot of Orbei
+Hash: 767E0BB7, Key: Line1.0, Value: Critics rightly fear the dangers of our scholarship, but ignorance of evil offers little protection from it. Our insights have proven invaluable to Paladins, Horadrim, and Angels alike in the fight against the darkness.
+Hash: AD796364, Key: VoiceDir1.0, Value: Proud. Official.

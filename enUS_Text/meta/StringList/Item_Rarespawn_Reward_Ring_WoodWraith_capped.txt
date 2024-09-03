@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ring of Splintered Wood
+Hash: F5C7BC0A, Key: Flavor, Value: Even the slightest touch leaves painful splinters burrowed in the flesh.

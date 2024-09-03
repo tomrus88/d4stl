@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Upgrade B
+Hash: 003892BF, Key: desc, Value: Your Iron Golem's slam attack also pulls in enemies.

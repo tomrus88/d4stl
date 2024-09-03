@@ -1,0 +1,70 @@
+Hash: 5BACBEE2, Key: ArmyHeader, Value: Book of the Dead
+Hash: 9B6A5241, Key: WarriorSpec1_Label, Value: Skirmishers
+Hash: 61C89B60, Key: WarriorSpec1_Desc, Value: Sword-wielding skeletal minions that deal {c_number}30%{/c} increased damage but have {c_number}15%{/c} reduced Life.
+Hash: E8648F02, Key: WarriorSpec2_Label, Value: Defenders
+Hash: 641DC401, Key: WarriorSpec2_Desc, Value: Durable shield-bearers with {c_number}15%{/c} increased Life.
+Hash: 355ECBC3, Key: WarriorSpec3_Label, Value: Reapers
+Hash: 6672ECA2, Key: WarriorSpec3_Desc, Value: Wields a powerful scythe that has a special wind-up attack, dealing heavy damage every {c_number}10{/c} seconds.
+Hash: 6E5DBCFF, Key: SpecializationLabel, Value: Specialization
+Hash: 92364CC0, Key: UnitSetting_Reset, Value: Reset
+Hash: 72666C7F, Key: UnitSetting_ClearPassive, Value: Clear Passives
+Hash: 51875607, Key: UnitType_Warrior, Value: Skeletal Warriors
+Hash: EA5A887B, Key: UnitType_Mage, Value: Skeletal Mages
+Hash: F352D5B8, Key: UnitType_Priest, Value: Skeleton Priests
+Hash: 3546C7D5, Key: UnitType_Golem, Value: Golems
+Hash: 5A8603C1, Key: UnitTypeStatus_Active, Value: Summon Active
+Hash: 9825AC38, Key: UnitTypeStatus_Inactive, Value: Inactive
+Hash: 80AEE3AB, Key: UnitSkillRank, Value: {s1} (Rank {s2})
+Hash: 53F373AA, Key: UnitTypeUpgradeSelect, Value: Select an Upgrade
+Hash: E7D27C6B, Key: UnitTypeSacrifice, Value: Sacrifice
+Hash: F0ADC78A, Key: UnitLockedLevel, Value: Unlocks at Level {c_highlight}{s1}
+Hash: 1116D26A, Key: WarriorSpec1_LabelIcon, Value: {icon:NecroArmy_WarriorSpec1_Icon, 2} Skirmisher
+Hash: 967387AB, Key: WarriorSpec2_LabelIcon, Value: {icon:NecroArmy_WarriorSpec2_Icon, 2.0} Defender
+Hash: 1BD03CEC, Key: WarriorSpec3_LabelIcon, Value: {icon:NecroArmy_WarriorSpec3_Icon, 2.0} Reaper
+Hash: A0630749, Key: UpgradeAvailable, Value: Upgrade Available
+Hash: 960FB6C2, Key: SelectUnitType, Value: Select Unit Type
+Hash: 281892A8, Key: SelectUpgrade, Value: Select Upgrade
+Hash: 0E05973D, Key: Notification_UnitTypeUnlocked, Value: {s1} type
+Hash: A01A091B, Key: Upgrades, Value: Upgrades
+Hash: 9DF01688, Key: UpgradeAvailableDesc, Value: {c_green}Upgrade Available{/c}: Open the {c_white}Book of the Dead{/c} to select an upgrade.
+Hash: 69A0CA89, Key: UnitCount, Value: Maximum: {c_number}{s1}{/c}
+Hash: 00452D42, Key: UnitCombinedName, Value: {s1} {s2}
+Hash: BB2A7830, Key: WarriorSpec1_LabelAdjective, Value: Skirmisher
+Hash: C75F9E11, Key: WarriorSpec2_LabelAdjective, Value: Defender
+Hash: D394C3F2, Key: WarriorSpec3_LabelAdjective, Value: Reaper
+Hash: 9CD1E5A5, Key: UnitType_GolemShort, Value: Golem
+Hash: D775FE0B, Key: UnitType_MageShort, Value: Mages
+Hash: 123D2317, Key: UnitType_WarriorShort, Value: Warriors
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 952917ED, Key: Sacrificed, Value: Sacrificed
+Hash: 8381D0A4, Key: UnitLockedLevelWithHiddenQuest, Value: Unlock Quest at Level {s1}
+Hash: D5B2AF99, Key: UnitLockedQuestTrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2}{c_highlight}{s1} {/c}. {hotkey:FAST_QUEST_TRACK} to track.
+Hash: 3256BAEE, Key: GolemSpec1_Desc, Value: A horrid protector that taunts enemies, forcing them to attack the Golem.
+Hash: 7DBC638F, Key: GolemSpec1_Label, Value: Bone
+Hash: 058CDAB8, Key: GolemSpec1_LabelIcon, Value: {icon:NecroArmy_GolemSpec1_Icon, 2.0} Bone
+Hash: 34ABE38F, Key: GolemSpec2_Desc, Value: Drains Life from nearby enemies to heal and bolster itself.
+Hash: CAB6A050, Key: GolemSpec2_Label, Value: Blood
+Hash: 8AE98FF9, Key: GolemSpec2_LabelIcon, Value: {icon:NecroArmy_GolemSpec2_Icon, 2.0} Blood
+Hash: 37010C30, Key: GolemSpec3_Desc, Value: An amalgamation of steel that slams the ground and Stuns enemies.
+Hash: 17B0DD11, Key: GolemSpec3_Label, Value: Iron
+Hash: 1046453A, Key: GolemSpec3_LabelIcon, Value: {icon:NecroArmy_GolemSpec3_Icon, 2.0} Iron
+Hash: D804C734, Key: MageSpec1_Desc, Value: Shadow Mages wield power from the beyond firing piercing shadow bolts.
+Hash: D92BF895, Key: MageSpec1_Label, Value: Shadow
+Hash: 092B82BE, Key: MageSpec1_LabelIcon, Value: {icon:NecroArmy_MageSpec1_Icon, 2.0} Shadow
+Hash: DA59EFD5, Key: MageSpec2_Desc, Value: Cold Mages attacks will chill enemies eventually freezing them in their tracks.
+Hash: 26263556, Key: MageSpec2_Label, Value: Cold
+Hash: 8E8837FF, Key: MageSpec2_LabelIcon, Value: {icon:NecroArmy_MageSpec2_Icon, 2.0} Cold
+Hash: DCAF1876, Key: MageSpec3_Desc, Value: Bone Mages use their own bodies as projectiles, dealing heavy damage at the cost of their own Life.
+Hash: 73207217, Key: MageSpec3_Label, Value: Bone
+Hash: 13E4ED40, Key: MageSpec3_LabelIcon, Value: {icon:NecroArmy_MageSpec3_Icon, 2.0} Bone
+Hash: 4BEE62D6, Key: NoPassive_Desc, Value: [PH] No passive for this minion.
+Hash: CA490877, Key: NoPassive_Label, Value: No Passive
+Hash: 8EC0AFE4, Key: ActionBarIndicator_Tooltip_SkeletonWarrior, Value: Skeletal Warriors attack enemies at close range with their weapons.
+Hash: CE5DE778, Key: ActionBarIndicator_Tooltip_SkeletonMage, Value: Skeletal Mages bombard enemies with spells at range.
+Hash: 522281FC, Key: UnitLockedQuestUntrack, Value: To unlock, complete {icon:Marker_PriorityQuestAvailable, 2}{c_highlight}{s1} {/c}. {hotkey:FAST_QUEST_TRACK} to untrack.
+Hash: 60667D82, Key: Necro_Info, Value: Either select an {icon:Necro_MiniSlot_Upgrade, 2} {c_highlight}Upgrade{/c} or {Icon:Necro_MiniSlot_Sacrifice, 2} {c_highlight}Sacrifice{/c} your summons.
+Hash: E985491C, Key: Active, Value: Active:
+Hash: 2A48F3E6, Key: Prompt_CustomizeUnitType, Value: Customize
+Hash: DD646580, Key: Prompt_SelectUnitSpecialization, Value: Swap Specialization
+Hash: 4D501D69, Key: Prompt_SelectUpgrade, Value: Select Upgrade
+Hash: EDA1C86A, Key: Prompt_SelectSacrifice, Value: Sacrifice

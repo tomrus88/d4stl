@@ -1,0 +1,2 @@
+Hash: 2B1874F1, Key: Line7.BC3FF, Value: You stand at the threshold of a new age, disciples!
+Hash: 9A21DB1E, Key: VoiceDir7.BC3FF, Value: Lofty

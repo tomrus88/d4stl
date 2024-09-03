@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dusty Cot
+Hash: F2CA04D8, Key: NoticeSignText, Value: Two simple cots lay covered in dust. No one has used these recently.

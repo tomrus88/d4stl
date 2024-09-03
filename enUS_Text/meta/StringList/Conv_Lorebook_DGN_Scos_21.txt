@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Knight Commander's Log
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Knight Commander's Log
+Hash: 59F2E8A3, Key: Line1.54210, Value: After a month's voyage on the Twin Seas, our ship has run aground on the night of our return to Scosglen. The keepers of Hope's Light apparently failed to tend the beacon. Their singular duty.
+Hash: C8FC4ED0, Key: VoiceDir1.54210, Value: Officially angered.
+Hash: F3E76225, Key: Line3.54210, Value: This incompetence has cost the Father a ship and endangered the lives of my knights.
+Hash: 62F0C852, Key: VoiceDir3.54210, Value: Officially angered.
+Hash: 8DDBDBA7, Key: Line5.54210, Value: I will be leading a shore party to find those responsible, bind them to the beacon, and set them alight.
+Hash: FCE541D4, Key: VoiceDir5.54210, Value: Heads will roll.

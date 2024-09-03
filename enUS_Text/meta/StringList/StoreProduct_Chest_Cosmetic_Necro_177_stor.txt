@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mantle of the Golden Priest
+Hash: 13A53A8B, Key: Series, Value: "Golden Priest of Trag'Oul"

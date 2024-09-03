@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I met the true vampire leader. He’s an Ancient being named Zir."
+Hash: 8F238278, Key: Line1.1697C7, Value: An Ancient? But you spoke to it. Walked away, despite your vampirism.
+Hash: DF59AE45, Key: VoiceDir1.1697C7, Value: Taken aback.
+Hash: 67A72C3A, Key: Line3.1697C7, Value: We could use that. We might need to use that.
+Hash: B7DD5807, Key: VoiceDir3.1697C7, Value: Cautiously optimistic. Emphasis on "need."
+Hash: 04F0549F, Key: Line8.1697C7, Value: Vampires were once said to be among the Ancients, but it’s—(sigh) that was a long time ago. I don’t know much more than that.
+Hash: 5526806C, Key: VoiceDir8.1697C7, Value: Trying to mask their chagrin.
+Hash: 594913C8, Key: Line10.1697C7, Value: But I do know of an Ancient burial site in Hawezar. If we can find a vampire of that era in any condition, and Potent Blood, there are rituals I can attempt.
+Hash: B044B935, Key: VoiceDir10.1697C7, Value: "hou-iz-ahr"

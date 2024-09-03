@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Diviner
+Hash: 5D28A609, Key: Line1.AAE9B, Value: I don't understand... why is the stone still asleep?
+Hash: CC320C36, Key: VoiceDir1.AAE9B, Value: confused, disappointed
+Hash: A61C7D1E, Key: Line15.AAE9B, Value: Of course! We need to wake the three other runestones that connect this one with the Deep Forest.
+Hash: F652A8EB, Key: VoiceDir15.AAE9B, Value: aha moment
+Hash: C4FA8C11, Key: Line9.AAE9B, Value: They were hidden long ago to protect them from Astaroth's insidious gaze.
+Hash: 0C28039C, Key: Line13.AAE9B, Value: Let me know when you’re ready to search for them.
+Hash: 5C5E2F69, Key: VoiceDir13.AAE9B, Value: excited

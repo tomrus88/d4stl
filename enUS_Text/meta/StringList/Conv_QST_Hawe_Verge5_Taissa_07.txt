@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will you make an offering too?"
+Hash: 5A196F77, Key: Line1.789BF, Value: Not today. But a time will come when I must shed the unrest that plagues me.

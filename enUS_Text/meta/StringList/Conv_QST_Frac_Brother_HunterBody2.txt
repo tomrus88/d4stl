@@ -1,0 +1,4 @@
+Hash: 9110E32C, Key: Line5.AA9BD, Value: I didn't want to believe it...but I've seen those scars before, on unsavory types who sometimes met with Perithan. It seems he's truly fallen in with them.
+Hash: 001A4959, Key: VoiceDir5.AA9BD, Value: softly, having to accept a hard truth
+Hash: 2B055CAE, Key: Line7.AA9BD, Value: I have to find him. I have to bring my brother to justice.
+Hash: 9A0EC2DB, Key: VoiceDir7.AA9BD, Value: becoming more determined

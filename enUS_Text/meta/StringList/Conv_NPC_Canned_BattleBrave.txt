@@ -1,0 +1,144 @@
+Hash: 7ED4E5AD, Key: Line493.3F392, Value: Begone, vermin!
+Hash: D5D08B1A, Key: VoiceDir493.3F392, Value: Courageous
+Hash: 65C39BF0, Key: Line496.3F392, Value: I will not fall!
+Hash: BCBF415D, Key: VoiceDir496.3F392, Value: Courageous
+Hash: 4CB25233, Key: Line499.3F392, Value: Away, you fiends!
+Hash: A3ADF7A0, Key: VoiceDir499.3F392, Value: Courageous
+Hash: 5B8F1A68, Key: Line502.EDC78, Value: Begone, vermin!
+Hash: B28ABFD5, Key: VoiceDir502.EDC78, Value: Courageous
+Hash: 427DD0AB, Key: Line505.EDC78, Value: I will not fall!
+Hash: 99797618, Key: VoiceDir505.EDC78, Value: Courageous
+Hash: 296C86EE, Key: Line508.EDC78, Value: Away, you fiends!
+Hash: 80682C5B, Key: VoiceDir508.EDC78, Value: Courageous
+Hash: FAD6B289, Key: Line511.EDC79, Value: Begone, vermin!
+Hash: 51D257F6, Key: VoiceDir511.EDC79, Value: Courageous
+Hash: E1C568CC, Key: Line514.EDC79, Value: I will not fall!
+Hash: 38C10E39, Key: VoiceDir514.EDC79, Value: Courageous
+Hash: C8B41F0F, Key: Line517.EDC79, Value: Away, you fiends!
+Hash: 1FAFC47C, Key: VoiceDir517.EDC79, Value: Courageous
+Hash: 9695CE22, Key: Line520.3F381, Value: Begone, vermin!
+Hash: ED91738F, Key: VoiceDir520.3F381, Value: Courageous
+Hash: 7D848465, Key: Line523.3F381, Value: I will not fall!
+Hash: D48029D2, Key: VoiceDir523.3F381, Value: Courageous
+Hash: 64733AA8, Key: Line526.3F381, Value: Away, you fiends!
+Hash: BB6EE015, Key: VoiceDir526.3F381, Value: Courageous
+Hash: 4EEA6D9B, Key: Line529.EDC7B, Value: Begone, vermin!
+Hash: A5E61308, Key: VoiceDir529.EDC7B, Value: Courageous
+Hash: 20549935, Key: Line532.EDC7B, Value: I will not fall!
+Hash: 77503EA2, Key: VoiceDir532.EDC7B, Value: Courageous
+Hash: 07434F78, Key: Line535.EDC7B, Value: Away, you fiends!
+Hash: 5E3EF4E5, Key: VoiceDir535.EDC7B, Value: Courageous
+Hash: EE3205BC, Key: Line538.EDC7C, Value: Begone, vermin!
+Hash: 452DAB29, Key: VoiceDir538.EDC7C, Value: Courageous
+Hash: BF9C3156, Key: Line541.EDC7C, Value: I will not fall!
+Hash: 1697D6C3, Key: VoiceDir541.EDC7C, Value: Courageous
+Hash: A68AE799, Key: Line544.EDC7C, Value: Away, you fiends!
+Hash: FD868D06, Key: VoiceDir544.EDC7C, Value: Courageous
+Hash: 8D29F9FA, Key: Line547.B79B0, Value: Begone, vermin!
+Hash: E4259F67, Key: VoiceDir547.B79B0, Value: Courageous
+Hash: 5E942594, Key: Line550.B79B0, Value: I will not fall!
+Hash: B58FCB01, Key: VoiceDir550.B79B0, Value: Courageous
+Hash: 4582DBD7, Key: Line553.B79B0, Value: Away, you fiends!
+Hash: 9C7E8144, Key: VoiceDir553.B79B0, Value: Courageous
+Hash: 2CC135CD, Key: Line556.EDC74, Value: Begone, vermin!
+Hash: 83BCDB3A, Key: VoiceDir556.EDC74, Value: Courageous
+Hash: 13AFEC10, Key: Line559.EDC74, Value: I will not fall!
+Hash: 6AAB917D, Key: VoiceDir559.EDC74, Value: Courageous
+Hash: E51A17AA, Key: Line562.EDC74, Value: Away, you fiends!
+Hash: 3C15BD17, Key: VoiceDir562.EDC74, Value: Courageous
+Hash: CC08CDEE, Key: Line565.EDC75, Value: Begone, vermin!
+Hash: 2304735B, Key: VoiceDir565.EDC75, Value: Courageous
+Hash: B2F78431, Key: Line568.EDC75, Value: I will not fall!
+Hash: 09F3299E, Key: VoiceDir568.EDC75, Value: Courageous
+Hash: 8461AFCB, Key: Line571.EDC75, Value: Away, you fiends!
+Hash: DB5D5538, Key: VoiceDir571.EDC75, Value: Courageous
+Hash: 6B00C25B, Key: Line574.B79B1, Value: Begone, vermin!
+Hash: C1FC67C8, Key: VoiceDir574.B79B1, Value: Courageous
+Hash: 51EF789E, Key: Line577.B79B1, Value: I will not fall!
+Hash: A8EB1E0B, Key: VoiceDir577.B79B1, Value: Courageous
+Hash: 2359A438, Key: Line580.B79B1, Value: Away, you fiends!
+Hash: 7A5549A5, Key: VoiceDir580.B79B1, Value: Courageous
+Hash: 0A97FE2F, Key: Line583.EDC76, Value: Begone, vermin!
+Hash: 6193A39C, Key: VoiceDir583.EDC76, Value: Courageous
+Hash: F186B472, Key: Line586.EDC76, Value: I will not fall!
+Hash: 488259DF, Key: VoiceDir586.EDC76, Value: Courageous
+Hash: D8756AB5, Key: Line589.EDC76, Value: Away, you fiends!
+Hash: 2F711022, Key: VoiceDir589.EDC76, Value: Courageous
+Hash: A9DF9650, Key: Line592.EDC77, Value: Begone, vermin!
+Hash: 00DB3BBD, Key: VoiceDir592.EDC77, Value: Courageous
+Hash: 90CE4C93, Key: Line595.EDC77, Value: I will not fall!
+Hash: E7C9F200, Key: VoiceDir595.EDC77, Value: Courageous
+Hash: 77BD02D6, Key: Line598.EDC77, Value: Away, you fiends!
+Hash: CEB8A843, Key: VoiceDir598.EDC77, Value: Courageous
+Hash: 82C11048, Key: Line601.B6757, Value: Begone, vermin!
+Hash: D9BCB5B5, Key: VoiceDir601.B6757, Value: Courageous
+Hash: 69AFC68B, Key: Line604.B6757, Value: I will not fall!
+Hash: C0AB6BF8, Key: VoiceDir604.B6757, Value: Courageous
+Hash: 509E7CCE, Key: Line607.B6757, Value: Away, you fiends!
+Hash: A79A223B, Key: VoiceDir607.B6757, Value: Courageous
+Hash: 2258E6F4, Key: Line610.EDC7D, Value: Begone, vermin!
+Hash: 79548C61, Key: VoiceDir610.EDC7D, Value: Courageous
+Hash: 09479D37, Key: Line613.EDC7D, Value: I will not fall!
+Hash: 604342A4, Key: VoiceDir613.EDC7D, Value: Courageous
+Hash: F036537A, Key: Line616.EDC7D, Value: Away, you fiends!
+Hash: 4731F8E7, Key: VoiceDir616.EDC7D, Value: Courageous
+Hash: D72509BE, Key: Line619.EDC7E, Value: Begone, vermin!
+Hash: 2E20AF2B, Key: VoiceDir619.EDC7E, Value: Courageous
+Hash: A88F3558, Key: Line622.EDC7E, Value: I will not fall!
+Hash: FF8ADAC5, Key: VoiceDir622.EDC7E, Value: Courageous
+Hash: 8F7DEB9B, Key: Line625.EDC7E, Value: Away, you fiends!
+Hash: E6799108, Key: VoiceDir625.EDC7E, Value: Courageous
+Hash: 761C66ED, Key: Line628.B6807, Value: Begone, vermin!
+Hash: CD180C5A, Key: VoiceDir628.B6807, Value: Courageous
+Hash: 47869287, Key: Line631.B6807, Value: I will not fall!
+Hash: 9E8237F4, Key: VoiceDir631.B6807, Value: Courageous
+Hash: 2E7548CA, Key: Line634.B6807, Value: Away, you fiends!
+Hash: 8570EE37, Key: VoiceDir634.B6807, Value: Courageous
+Hash: 15B439FF, Key: Line637.EDC7F, Value: Begone, vermin!
+Hash: 6CAFDF6C, Key: VoiceDir637.EDC7F, Value: Courageous
+Hash: E71E6599, Key: Line640.EDC7F, Value: I will not fall!
+Hash: 3E1A0B06, Key: VoiceDir640.EDC7F, Value: Courageous
+Hash: CE0D1BDC, Key: Line643.EDC7F, Value: Away, you fiends!
+Hash: 2508C149, Key: VoiceDir643.EDC7F, Value: Courageous
+Hash: B4FBD20A, Key: Line646.EDC80, Value: Begone, vermin!
+Hash: 0BF77777, Key: VoiceDir646.EDC80, Value: Courageous
+Hash: 9BEA884D, Key: Line649.EDC80, Value: I will not fall!
+Hash: F2E62DBA, Key: VoiceDir649.EDC80, Value: Courageous
+Hash: 6D54B3E7, Key: Line652.EDC80, Value: Away, you fiends!
+Hash: C4505954, Key: VoiceDir652.EDC80, Value: Courageous
+Hash: 5F2809D9, Key: Line709.BC3FE, Value: Begone, vermin!
+Hash: B623AF46, Key: VoiceDir709.BC3FE, Value: Courageous
+Hash: 30923573, Key: Line712.BC3FE, Value: I will not fall!
+Hash: 878DDAE0, Key: VoiceDir712.BC3FE, Value: Courageous
+Hash: 1780EBB6, Key: Line715.BC3FE, Value: Away, you fiends!
+Hash: 6E7C9123, Key: VoiceDir715.BC3FE, Value: Courageous
+Hash: FEA73DC9, Key: Line718.EDC70, Value: Begone, vermin!
+Hash: 55A2E336, Key: VoiceDir718.EDC70, Value: Courageous
+Hash: D0116963, Key: Line721.EDC70, Value: I will not fall!
+Hash: 270D0ED0, Key: VoiceDir721.EDC70, Value: Courageous
+Hash: B7001FA6, Key: Line724.EDC70, Value: Away, you fiends!
+Hash: 0DFBC513, Key: VoiceDir724.EDC70, Value: Courageous
+Hash: 9DEED5EA, Key: Line727.EDC71, Value: Begone, vermin!
+Hash: F4EA7B57, Key: VoiceDir727.EDC71, Value: Courageous
+Hash: 6F590184, Key: Line730.EDC71, Value: I will not fall!
+Hash: C654A6F1, Key: VoiceDir730.EDC71, Value: Courageous
+Hash: 5647B7C7, Key: Line733.EDC71, Value: Away, you fiends!
+Hash: AD435D34, Key: VoiceDir733.EDC71, Value: Courageous
+Hash: 3CFED23A, Key: Line736.BC3FF, Value: Begone, vermin!
+Hash: 93FA77A7, Key: VoiceDir736.BC3FF, Value: Courageous
+Hash: 23ED887D, Key: Line739.BC3FF, Value: I will not fall!
+Hash: 7AE92DEA, Key: VoiceDir739.BC3FF, Value: Courageous
+Hash: F557B417, Key: Line742.BC3FF, Value: Away, you fiends!
+Hash: 4C535984, Key: VoiceDir742.BC3FF, Value: Courageous
+Hash: DC7E062B, Key: Line745.EDC72, Value: Begone, vermin!
+Hash: 3379AB98, Key: VoiceDir745.EDC72, Value: Courageous
+Hash: C36CBC6E, Key: Line748.EDC72, Value: I will not fall!
+Hash: 1A6861DB, Key: VoiceDir748.EDC72, Value: Courageous
+Hash: 94D6E808, Key: Line751.EDC72, Value: Away, you fiends!
+Hash: EBD28D75, Key: VoiceDir751.EDC72, Value: Courageous
+Hash: 7BC59E4C, Key: Line754.EDC73, Value: Begone, vermin!
+Hash: D2C143B9, Key: VoiceDir754.EDC73, Value: Courageous
+Hash: 62B4548F, Key: Line757.EDC73, Value: I will not fall!
+Hash: B9AFF9FC, Key: VoiceDir757.EDC73, Value: Courageous
+Hash: 341E8029, Key: Line760.EDC73, Value: Away, you fiends!
+Hash: 8B1A2596, Key: VoiceDir760.EDC73, Value: Courageous

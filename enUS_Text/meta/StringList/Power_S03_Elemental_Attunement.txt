@@ -1,0 +1,3 @@
+Hash: B9F2506D, Key: Buff19_Name, Value: Zoltun's Warding
+Hash: 01BAF9D0, Key: Buff19_Description, Value: {c_number}+5%{/c} Damage
+Lose a charge when you get hit by a {c_important}Trap or Hazard{/c}

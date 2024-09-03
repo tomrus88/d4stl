@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Holy Decree
+Hash: F2CA04D8, Key: NoticeSignText, Value: “By order of Reverend Mother Prava, blacksmiths shall now devote half their time to forging armaments for the Knights Penitent.”

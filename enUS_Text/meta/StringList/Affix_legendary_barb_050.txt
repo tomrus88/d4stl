@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Grasping Whirlwind
+Hash: 003892BF, Key: Desc, Value: {c_important}Whirlwind{/c} periodically Pulls enemies to you.

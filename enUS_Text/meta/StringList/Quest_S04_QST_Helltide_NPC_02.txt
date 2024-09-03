@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: The Wooden Wolf
+Hash: D53BFF05, Key: Phase0Description, Value: I've made progress in the fight against Hell. I should report to Soudeh at the Iron Wolves camp.
+Hash: 6C93809B, Key: Callback14Header, Value: Speak with Soudeh the Anvil
+Hash: 61CFD437, Key: Phase11Description, Value: I found the caravan, its people slaughtered by cultists. Was this an attack of opportunity? Were the Wolves involved? I need to find out more. 
+Hash: 6A9510E0, Key: Callback55Header, Value: Investigate the scene of the massacre
+Hash: 803B8057, Key: Phase20Description, Value: I found the caravan, its people slaughtered by cultists. Was this an attack of opportunity? Were the Wolves involved? I need to find out more. 
+Hash: ED76B060, Key: Callback19Header, Value: Investigate the cultist's hideout
+Hash: BEE0DBFA, Key: Callback22Header, Value: Search for the cultist's hideout
+Hash: A5EFB09D, Key: Phase26Description, Value: The Iron Wolves were tricked into betraying the caravan, then killed themselves in a demon summoning. I should return to the Iron Wolves Camp and tell Soudeh what happened.
+Hash: A5CF923D, Key: Callback25Header, Value: Tell Soudeh what you learned
+Hash: 38C9C8C0, Key: Phase29Description, Value: Soudeh wants me to locate a missing caravan and the Iron Wolves sent to guard it. I should start my search in northern Kehjistan.
+Hash: 8CBE4880, Key: Callback28Header, Value: Track down the missing caravan
+Hash: D787DBC2, Key: Phase49Description, Value: I sense Soudeh and the Wolves have more to share. I need to prove myself fighting against the Helltide to earn their trust.
+Hash: 6541F242, Key: Callback48Header, Value: Achieve Honor Rank 1 with the Iron Wolves

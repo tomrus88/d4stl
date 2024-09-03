@@ -1,0 +1,20 @@
+Hash: 003DFCC1, Key: Name, Value: Beneath the Wine-Dark Sea
+Hash: 0871A46B, Key: Toast, Value: Discover Elias' secret
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Uncover Elias' secret within the temple
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: The ancient coffin has brought me to some kind of ancient, sunken temple. Elias' secret hides in these forgotten depths somewhere.
+Hash: E2223B19, Key: Phase22Description, Value: The echoes of Elias' ritual mention a vessel of immortality: A piece of himself hidden here to anchor his spirit to life. If I can find that vessel, maybe I can break his enchantment.
+Hash: C79EEC81, Key: Phase22OutsideSubzoneHeader, Value: Uncover Elias' secret within the Temple of the Deathspeaker
+Hash: 9367FF5C, Key: Phase34Description, Value: The malignant echoes of Elias' immortality ritual still stain this place. I must destroy them.
+Hash: DC652C24, Key: Phase34OutsideSubzoneHeader, Value: Uncover Elias' secret within the Temple of the Deathspeaker
+Hash: E26052C2, Key: Callback84Header, Value: Dispel the remaining Echoes of Elias
+Hash: 34ADAE21, Key: Callback92Header, Value: Uncover Elias' secret within the temple
+Hash: 008DE739, Key: Phase31Description, Value: The ancient coffin has brought me to some kind of ancient, sunken temple. Elias' secret hides in these forgotten depths somewhere.
+Hash: E93E3CA1, Key: Phase31OutsideSubzoneHeader, Value: Uncover Elias' secret within the Temple of the Deathspeaker
+Hash: CB7F6448, Key: Callback101Header, Value: Enter the Temple of the Deathspeaker
+Hash: 80DE4FA9, Key: Phase121Description, Value: The echoes of Elias' ritual mention a vessel of immortality - a piece of himself, hidden here to anchor his spirit to life. If I can find that vessel, maybe I can break his enchantment.
+Hash: D3232311, Key: Phase121OutsideSubzoneHeader, Value: Uncover Elias' secret within the Temple of the Deathspeaker
+Hash: 3DF7878C, Key: Callback123Header, Value: Search for the secret of Elias' ritual
+Hash: 71E69F39, Key: Callback21Header, Value: Collect Elias' Mummified Finger
+Hash: AB1C8C32, Key: Callback138Header, Value: Escape the rising waters
+Hash: 483B01E6, Key: Phase90OutsideSubzoneHeader, Value: Uncover Elias' secret within the Temple of the Deathspeaker
+Hash: 45CF6DB2, Key: Phase131OutsideSubzoneHeader, Value: Uncover Elias' secret within the Temple of the Deathspeaker

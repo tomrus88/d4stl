@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How can we stop what can’t be killed?” 
+Hash: 8F104F47, Key: Line1.157838, Value: I’m hoping you and I can cure them. I have some equipment we'll need, in that crate there.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Nervous. Hopeful. Directing player to look in a crate.

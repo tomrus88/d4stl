@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Blurred Beast
+Hash: 003892BF, Key: Desc, Value: While dashing, {c_important}Shred{/c} seeks out Nearby Poisoned and deals {c_random}[Affix_Value_1|%x|]{/c} increased damage to them.
+Hash: 82B7D312, Key: CodexDesc, Value: While dashing, {c_important}Shred{/c} seeks Poisoned enemies and deals {c_random}[Affix_Value_1|%x|]{/c} more damage.

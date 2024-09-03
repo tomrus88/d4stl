@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Beauty in Sin
+Hash: A646FFA4, Key: Description, Value: A song drifts through the frigid night. Promises of warmth and comfort, beckoning the weary into the darkness.
+Hash: 083EE0CE, Key: Quote, Value: Siren's Ensemble
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Was there something in the letter that angered you?” 
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: It’s not what was in it, but what wasn’t. He didn’t even have the decency to mention...ah, doesn’t matter now.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: (hint of emotion)
+Hash: 2810B8F0, Key: Line7.7FA05, Value: He’s come down from the mountain, yes, but he’s still the same man who went up.

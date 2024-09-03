@@ -1,0 +1,36 @@
+Hash: 003DFCC1, Key: Name, Value: To Walk a Dark Path
+Hash: 0871A46B, Key: Toast, Value: Zarbinzet's only priest is concerned for his missing curate.
+Hash: 61CFD437, Key: Phase11Description, Value: Father Dymus, the priest of Zarbinzet has asked me to look for signs of his curate Symon who left on a journey with a stranger several weeks past. 
+
+Symon's journal page says they were headed to a ruined farmstead to the east.
+Hash: 38AA8D97, Key: Callback10Header, Value: Search for evidence of Symon
+Hash: F4A9EC5A, Key: Phase14Description, Value: A forgotten lockbox held another of Symon's journal pages. It seems his companion is a swordsman who has promised him great knowledge. 
+
+Their next stop is the statue of Tibault, further east.
+Hash: 1F9943DA, Key: Callback13Header, Value: Travel to Tibault's Grasp
+Hash: 8784047D, Key: Phase17Description, Value: A forgotten lockbox held another of Symon's journal pages. It seems his companion is a swordsman who has promised him great knowledge. 
+
+Their next stop is the statue of Tibault, further east.
+Hash: 0687FA1D, Key: Callback16Header, Value: Speak with the Frightened Pilgrim
+Hash: 1315987A, Key: Phase23Description, Value: Upon arriving at the statue of Tibault, I was set upon by distraught pilgrims. Apparently this one-eyed swordsman caused them great distress. 
+
+Perhaps they know where Symon went next.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Speak with the Frightened Pilgrim
+Hash: C45B5CBD, Key: Phase35Description, Value: Father Dymus, the priest of Zarbinzet has asked me to look for signs of his curate Symon who left on a journey with a stranger several weeks past. 
+
+Symon's journal page says they were headed to a ruined farmstead to the east.
+Hash: 45172A5D, Key: Callback34Header, Value: Open the Forgotten Lockbox
+Hash: 80E04E1B, Key: Phase42Description, Value: Father Dymus, the priest of Zarbinzet has asked me to look for signs of his curate Symon who left on a journey with a stranger several weeks past.
+Hash: 4F855768, Key: Callback99Header, Value: Read Symon's journal page
+Hash: E36BD6A1, Key: Phase66Description, Value: Upon arriving at the statue of Tibault, I was set upon by distraught pilgrims. Apparently this one-eyed swordsman caused them great distress. 
+
+Perhaps they know where Symon went next.
+Hash: A9244120, Key: Callback73Header, Value: Question the pilgrims
+Hash: 94B19AE4, Key: Phase78Description, Value: Father Dymus, the priest of Zarbinzet has asked me to look for signs of his curate Symon who left on a journey with a stranger several weeks past. 
+
+Symon's journal page says they were headed to a ruined farmstead to the east.
+Hash: DD0D3424, Key: Callback77Header, Value: Read Symon's journal page
+Hash: A5EDB22B, Key: Phase105Description, Value: Father Dymus, the priest of Zarbinzet has asked me to look for signs of his curate Symon who left on a journey with a stranger several weeks past. 
+
+Symon's journal page says they were headed to a ruined farmstead to the east.
+Hash: 995CD0CE, Key: Callback107Header, Value: Find the Decaying Farmstead

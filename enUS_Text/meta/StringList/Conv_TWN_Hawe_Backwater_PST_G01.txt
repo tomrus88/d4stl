@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is a member of the Cathedral doing in a place like this?"
+Hash: 8ED91C19, Key: Line1.124D4C, Value: The Light is needed in the darkest of places. Yet sometimes the Light must call on darkness in turn.
+Hash: DF0F47E6, Key: VoiceDir1.124D4C, Value: Matter of fact

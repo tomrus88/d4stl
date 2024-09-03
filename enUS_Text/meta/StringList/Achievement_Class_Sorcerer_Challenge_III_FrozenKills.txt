@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Frosted Destruction
+Hash: 003892BF, Key: Desc, Value: Kill 250 Frozen enemies with Fire damage and 250 Frozen enemies with Lightning damage.
+Hash: 3A4912CF, Key: DescShort, Value: Kill Frozen enemies with Fire and Lightning damage.
+Hash: 3DA4CBE0, Key: Crit_235104, Value: Fire Damage Kills
+Hash: 3DA4D9CD, Key: Crit_235495, Value: Lightning Damage Kills

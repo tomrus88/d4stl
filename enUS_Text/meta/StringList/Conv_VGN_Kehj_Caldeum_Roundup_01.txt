@@ -1,0 +1,4 @@
+Hash: 8DDBDC1F, Key: Line5.5423F, Value: What happened here?
+Hash: 5D3B086B, Key: Line1.BC3FF, Value: Murderer! You killed him, you killed him!
+Hash: CC446E98, Key: VoiceDir1.BC3FF, Value: crying, screaming
+Hash: F716427C, Key: Line3.B5390, Value: One tried to make a run for it, sir.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stormwatch
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Grigoire in {icon:Icon_WorldTier_3, 2.5} Nightmare, summoned in Dry Steppes with Living Steel from {icon:Marker_Helltide, 2.5} Helltides

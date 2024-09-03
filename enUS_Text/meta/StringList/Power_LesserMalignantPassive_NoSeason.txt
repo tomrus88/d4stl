@@ -1,0 +1,2 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value: Malignant
+Hash: 65A41A1A, Key: Buff4_Description, Value: Affected by a nearby Malignant.

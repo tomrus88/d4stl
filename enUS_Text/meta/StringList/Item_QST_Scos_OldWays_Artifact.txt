@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Runic Tablet
+Hash: F5C7BC0A, Key: Flavor, Value: A slightly damaged carved stone covered entirely with small runes. A great deal of knowledge is recorded here.

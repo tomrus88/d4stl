@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Infernal Coffers
+{c_gold}Requires{/c} {c_green}25{/c} {c_gold}Burning Aether{/c}

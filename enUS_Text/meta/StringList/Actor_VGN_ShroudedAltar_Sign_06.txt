@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Faded Plaque
+Hash: F2CA04D8, Key: NoticeSignText, Value: Most of the inscription has been lost to time.
+A few barely legible words read:
+
+... EMBOLDEN ... soul ... unrelenting evil ...

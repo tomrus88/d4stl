@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tempest Roar
+Hash: F5C7BC0A, Key: Flavor, Value: "Listen, child, to the music of the storm. It has its own rhythm. Its own melody. Hear how beautifully it sings, and perhaps one day you will be able to join in its harmony."
+– Airidah

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm here."
+Hash: 18ABE7DA, Key: Line7.163AA1, Value: Knights wait for me ahead—called here for my protection. When the Angel marched on Hell, these few remained to keep the faith, as I did. Valiant souls, all!
+Hash: F12F919C, Key: Line9.163AA1, Value: I will now don the Child’s Caul, as our Mother Prava did before she was born anew.
+Hash: 4165BD69, Key: VoiceDir9.163AA1, Value: liturgical, putting on airs

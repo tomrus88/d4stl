@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What were you doing out here?"
+Hash: 5A431844, Key: Line1.8C8DF, Value: Just a supply run, to the west and back to Tarsarak. Done it hundreds of times, no problems.
+Hash: C94C7E71, Key: VoiceDir1.8C8DF, Value: Slight pain. Shrugging. Surprised it went this bad.
+Hash: 282084CA, Key: Line7.8C8DF, Value: It’s been years since we’ve had demons to worry about. Looks like dark days are here again.
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: Slight pain. Shrugging. Grim.

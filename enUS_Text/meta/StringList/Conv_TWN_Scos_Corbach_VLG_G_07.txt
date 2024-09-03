@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 91556837, Key: Line5.F991C, Value: Heard the miller got her family a proper cabin after slipping the chieftain a few gold.
+Hash: 2B49E18D, Key: Line7.F9917, Value: Ach. When we left, I didn't have time to grab anything, let alone coin.

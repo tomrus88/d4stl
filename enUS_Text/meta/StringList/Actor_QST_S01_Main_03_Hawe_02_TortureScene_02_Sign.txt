@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Inquisition Log - Day 68
+Hash: F2CA04D8, Key: NoticeSignText, Value: "The days blend with new rituals and tests. Though our cages can now capture the hearts of monsters, the rituals conclude with death. I can’t understand this defiance to Akarat’s light. There must be an answer."

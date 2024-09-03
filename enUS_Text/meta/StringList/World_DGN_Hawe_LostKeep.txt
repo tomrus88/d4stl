@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lost Keep
+Hash: 003892BF, Key: Desc, Value: Yet another rotting keep abandoned by the Cathedral.

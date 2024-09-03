@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crusaders' Warning
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Off limits! Anyone found on the premises will be arrested as Triune conspirators and sentenced under the Light. -Father Dymus, Priest of Zarbinzet"

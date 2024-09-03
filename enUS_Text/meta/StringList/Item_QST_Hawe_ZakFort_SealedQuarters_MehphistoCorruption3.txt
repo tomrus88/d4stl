@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Alodia's Wrath
+Hash: F5C7BC0A, Key: Flavor, Value: Watching her fellow paladins turn against Carthas, Alodia's blade is still wet with the blood of those she slew in anger.
+Hash: A646FFA4, Key: Description, Value: Bound to Defiled Halls

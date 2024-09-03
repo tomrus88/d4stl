@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Defiled Villager
+Hash: 6E9787B1, Key: Callback317Header, Value: Stop the Channelers from completing their ritual sacrifice
+Hash: 9EBBAB70, Key: Callback352Header, Value: Slay the Channelers to disrupt the ritual sacrifice
+Hash: B279D68F, Key: Callback342Header, Value: Survive the Cultist assault
+Hash: 38B024F2, Key: Callback354Header, Value: Slay the remaining Cultists
+Hash: 976A1D17, Key: Callback386Header, Value: Free the Villager
+Hash: B5CE8572, Key: Callback390Header, Value: Slay the remaining Cultists

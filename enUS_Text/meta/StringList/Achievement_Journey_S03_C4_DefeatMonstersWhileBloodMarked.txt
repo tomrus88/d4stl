@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Predator and Prey
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Monsters while  {icon:Wheel_InputIcons_PVP_Normal, 2.5}  Bloodmarked in Hostile areas

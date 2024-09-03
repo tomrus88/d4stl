@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Portal Invasion
+Hash: 081024CD, Key: Callback160Header, Value: Slay the worshiping Cultists
+Hash: 8E467330, Key: Callback172Header, Value: Destroy {NEEDED} Invasion Portals: {DONE_OVER_NEEDED}
+Hash: 24E63DCF, Key: Callback126Header, Value: Defeat the Helltide Commander
+Hash: 36A5F933, Key: Callback157Header, Value: Slay the worshiping Cultists
+Hash: 20E5FE33, Key: Phase185Description, Value: Kill the remaining invaders

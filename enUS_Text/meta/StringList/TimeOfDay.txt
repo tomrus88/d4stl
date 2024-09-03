@@ -1,0 +1,4 @@
+Hash: 14C4BBA2, Key: Sunset, Value: Sunset
+Hash: AD5BB4C9, Key: Sunrise, Value: Sunrise
+Hash: 0801DF3A, Key: Night, Value: Night
+Hash: 0001B65E, Key: Day, Value: Day

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Nest
+Hash: 081024CD, Key: Callback160Header, Value: Clear the nest
+Hash: 995CD0CE, Key: Callback107Header, Value: Survive the enemy assault
+Hash: 51B5B2AB, Key: Callback113Header, Value: Kill the remaining enemies
+Hash: E4589DD4, Key: Callback149Header, Value: Destroy Eggs before they hatch

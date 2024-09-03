@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Strange Scroll
+Hash: CC3C0A8F, Key: FlavorText, Value: A sinister energy emanates from it.
+Hash: F2CA04D8, Key: NoticeSignText, Value: You who have followed the path, speak the words of power given by the Light, and commune with the divine.  (The words are in a strange script and appear to move on the page.)

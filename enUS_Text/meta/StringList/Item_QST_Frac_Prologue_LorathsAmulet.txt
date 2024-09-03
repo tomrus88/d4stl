@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Strange Amulet
+Hash: A646FFA4, Key: Description, Value: Bound to Kyovashad
+Hash: F5C7BC0A, Key: Flavor, Value: An old amulet of unique design. It shows wear from years of use, perhaps as a badge of office.

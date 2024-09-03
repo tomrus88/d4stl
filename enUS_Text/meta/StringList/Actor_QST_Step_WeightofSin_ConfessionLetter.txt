@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nekhii's Confession
+Hash: CC3C0A8F, Key: FlavorText, Value: A rolled letter with Nekhii's parting words

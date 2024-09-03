@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Reverend Mother, I have returned."
+Hash: F409EBD9, Key: Line3.710B6, Value: Ah, you've returned.
+Hash: 8F4B1E4D, Key: Line25.710B6, Value: Come, let us speak inside, out of the cold.

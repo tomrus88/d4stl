@@ -1,0 +1,4 @@
+Hash: 1BE26F83, Key: Line7.1BCB9E, Value: This is the Mother's Gift. Lethal to most, but those who have taken Her sacred blood will feel it awaken inside them.
+Hash: 6C189B50, Key: VoiceDir7.1BCB9E, Value: Ignoring Istel's attitude. Reverent. Sincere.
+Hash: 5C7D0B25, Key: Line10.1BCD2B, Value: Yes, well, it’s the only “gift” you’ll get from me. You want more, you’ll have to earn them. Look here...
+Hash: B378B092, Key: VoiceDir10.1BCD2B, Value: Flippant. Grudgingly giving instruction.

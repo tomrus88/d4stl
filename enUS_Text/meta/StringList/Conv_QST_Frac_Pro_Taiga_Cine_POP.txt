@@ -1,0 +1,21 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: DF6CE281, Key: Line35.13E442, Value: Sanctuary was never meant for humankind.
+Hash: B7F08C43, Key: Line37.13E442, Value: It was forged as a refuge from the war between the High Heavens and the Burning Hells.
+Hash: B6A02B1D, Key: Line40.13E442, Value: Instead, it became a new battleground in this Eternal Conflict.
+Hash: 8F23D4DF, Key: Line42.13E442, Value: A secretive group called the Horadrim has kept mortals safe.
+Hash: 67A77EA1, Key: Line44.13E442, Value: But now this once-powerful order is a husk of what it was, and Sanctuary’s ancient creators have returned to claim the hearts of humankind.
+Hash: 402B2863, Key: Line46.13E442, Value: This is the story of their downfall.
+Hash: FF2C89D8, Key: Line33.BAE4, Value: (gasp)
+Hash: 6E35F005, Key: VoiceDir33.BAE4, Value: startled gasp
+Hash: D8F1EA65, Key: Line3.BAE4, Value: (grunt)
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: exertion, trying to grab horse
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: (frustrated sigh)
+Hash: 26CB1034, Key: VoiceDir5.BAE4, Value: frustrated sigh
+Hash: 69E26198, Key: Line15.BAE4, Value: (startled gasp)
+Hash: D8EBC7C5, Key: VoiceDir15.BAE4, Value: startled gasp
+Hash: AD87FBD5, Key: Line21.BAE4, Value: (labored breathing)
+Hash: 1C916202, Key: VoiceDir21.BAE4, Value: labored breathing
+Hash: B2324D17, Key: Line23.BAE4, Value: (sigh)
+Hash: 213BB344, Key: VoiceDir23.BAE4, Value: sigh of relief, sitting down exertion
+Hash: BB86EF9B, Key: Line27.BAE4, Value: (gasping, heavy breathing)
+Hash: 2A9055C8, Key: VoiceDir27.BAE4, Value: gasp/exertion of surprise, like waking up from a night terror

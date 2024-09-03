@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Woodsman's Axe
+Hash: F5C7BC0A, Key: Flavor, Value: The axe is still slick with blood that seems to soak through any cloth wrapping the blade. 

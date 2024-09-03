@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Archivist's Journal II
+Hash: F5C7BC0A, Key: Flavor, Value: A journal entry detailing the Light's Watch archivist's concerns with an impending mission. It seems the faithful had no illusions about their fate.

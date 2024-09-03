@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: name, Value: Trample
+Hash: 003892BF, Key: desc, Value: {if:Mod.Spirit}{c_label}Generates Spirit:{/c} {c_resource}{SF_11}{/c}
+{/if}{c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Shapeshift into a Werebear, become {c_important}{u}Unstoppable{/u}{/c}, and charge forward, dealing {c_number}{payload:PAYLOAD_DAMAGE}{/c} damage and Knocking Back enemies.
+
+Enemies who are Knocked Back into terrain take an additional {c_number}{payload:TERRAIN_IMPACT_DAMAGE}{/c} damage and are Stunned for {c_number}{buffduration:TERRAIN_IMPACT}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:PAYLOAD_DAMAGE}{/c}
+{icon:bullet,1.2} Terrain Impact Damage {icon:arrow,1.2} {c_number}{payload:TERRAIN_IMPACT_DAMAGE}{/c}
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Trample{/c} deals {c_number}[SF_19 * 100|%x|]{/c} bonus damage. This bonus is reduced by {c_number}[SF_20 * 100|%x|]{/c} for each enemy hit after the first.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Trample
+Hash: 74D6BC35, Key: Mod2_Description, Value: Casting {c_important}Trample{/c} grants {c_number}[{SF_10}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,{fortified:MOD_FORTIFY})|0|]){/c} as {c_important}{u}Fortify{/u}{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Natural Trample
+Hash: C435C5B6, Key: Mod3_Description, Value: Casting {c_important}Trample{/c} grants {c_number}{SF_11}{/c} Spirit.
+Hash: 99335313, Key: Mod3_Name, Value: Savage Trample

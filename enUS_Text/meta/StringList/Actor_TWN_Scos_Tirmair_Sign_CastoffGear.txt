@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cast-off Fishing Gear
+Hash: F2CA04D8, Key: NoticeSignText, Value: The docks are far more desolate than before. It appears many fishermen discarded their gear and abandoned these shores.

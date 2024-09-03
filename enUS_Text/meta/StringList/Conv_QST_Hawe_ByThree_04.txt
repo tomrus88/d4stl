@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen a swordsman and a priest-"
+Hash: 675D93A9, Key: Line3.1270C3, Value: Oh wait, I know this one! A swordsman and a priest enter a tavern. The priest says... err...
+Hash: B793BF76, Key: VoiceDir3.1270C3, Value: You're recalling a very funny joke. Excited to tell it.
+Hash: 1864E72D, Key: Line7.1270C3, Value: Damn! How does it go again?
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: Never mind.

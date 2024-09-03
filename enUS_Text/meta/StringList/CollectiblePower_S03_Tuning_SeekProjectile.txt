@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Seeking Support
+Hash: A646FFA4, Key: Description, Value: The supported {c_important}Projectile{/c} Skill will auto-seek enemies for {c_number}[Collectible_Power_Value_1#S03_Tuning_SeekProjectile|1|]{/c} seconds.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Seek Duration {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_SeekProjectile+0.4|1|]{/c} Seconds
+Hash: E971A20F, Key: Modifier, Value: Auto-seek for {c_number}[Collectible_Power_Value_1#S03_Tuning_SeekProjectile|1|]{/c} seconds.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

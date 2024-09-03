@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Butchers of the North
+Hash: 0871A46B, Key: Toast, Value: The roads outside the Zakarum Chapel are overrun with cannibals.
+Hash: FAF02F4B, Key: Phase6Description, Value: Cannibals from the northern Dry Steppes have bled into the area surrounding Zakarum Chapel. They are butchering refugees and pilgrims. I’ve been tasked by a priestess to clear the roads.  
+Hash: 059C64AB, Key: Callback5Header, Value: Slay cannibals outside of Zakarum Chapel: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I’ve dealt with the cannibal threat. I should return to the Zakarum Chapel and inform the priestess.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Zarshala

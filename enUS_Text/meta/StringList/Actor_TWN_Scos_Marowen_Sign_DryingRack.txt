@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Drying Rack
+Hash: F2CA04D8, Key: NoticeSignText, Value: Various hides prepared for leatherwork. It seems the small presence of livestock is as valuable as the fish and offers diversity to craft, sustenance, and trade.

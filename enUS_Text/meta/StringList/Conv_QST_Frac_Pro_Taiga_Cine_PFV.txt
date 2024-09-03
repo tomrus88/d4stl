@@ -1,0 +1,26 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 37408909, Key: Line41.EA07A, Value: (giggles)
+Hash: 8776B4D6, Key: VoiceDir41.EA07A, Value: giggles
+Hash: 5D348707, Key: Line1.C6968, Value: Shameful. Our Father has granted you a path to salvation. (scoff) And yet you stray from it at every opportunity.
+Hash: CC3DED34, Key: VoiceDir1.C6968, Value: accusatory
+Hash: F7290089, Key: Line3.C6968, Value: You drink and gamble. You covet and steal. Shameful.
+Hash: 663266B6, Key: VoiceDir3.C6968, Value: accusatory
+Hash: 572FB1A0, Key: Line55.C6968, Value: (gasps)
+Hash: 912480F8, Key: Line5.BD31C, Value: Sin is their birthright.
+Hash: 2B11F38D, Key: Line7.C6968, Value: (gasp)
+Hash: 9A1B59BA, Key: VoiceDir7.C6968, Value: gasps
+Hash: C50D73FC, Key: Line9.BD31C, Value: My children, the lords of Hell are coming to devour our world. Salvation lies not in the Light, but in you.
+Hash: 72467205, Key: Line11.BD31C, Value: The faith has taught you to deny your heart’s desire and turned you into a prisoner within yourself.
+Hash: 0C3AEB87, Key: Line13.BD31C, Value: Break the chains...and discover who you were meant to be...
+Hash: A62F6509, Key: Line15.BD31C, Value: Break the chains...and be beautiful in sin...
+Hash: 401CD79E, Key: Line17.C6968, Value: Resist! Resist her temptat--
+Hash: 9053036B, Key: VoiceDir17.C6968, Value: ends in a cry of pain
+Hash: DA115120, Key: Line19.C6968, Value: Vani, it’s me. I brought your child into this world. (gasps)
+Hash: 2A477CED, Key: VoiceDir19.C6968, Value: shocked, pleading - ends in another cry of pain
+Hash: 5E813FF9, Key: Line21.C6968, Value: (moan)
+Hash: AEB76BC6, Key: VoiceDir21.C6968, Value: moan of pain
+Hash: AF80A5A0, Key: Line39.6DF9E, Value: (hyperventilating)
+Hash: FFB6D16D, Key: VoiceDir39.6DF9E, Value: maniacal breathing
+Hash: 296E7E82, Key: Line27.8DD12, Value: They have awakened, Mother.
+Hash: C65A2CEE, Key: Line29.BD31C, Value: The first of many. Go to the Dry Steppes and continue your preparations.
+Hash: E4BE9549, Key: Line33.BD31C, Value: Now our true work begins.

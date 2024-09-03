@@ -1,0 +1,2 @@
+Hash: C215A653, Key: Line9.8CA44, Value: Winds are dropping.
+Hash: 311F0C80, Key: VoiceDir9.8CA44, Value: Grumpy. You weren't allowed to go retrieve your precious pipe.

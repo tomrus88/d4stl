@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Eriman Ending pt 2
+Hash: 2818B944, Key: Line7.941B7, Value: You were all so scared... I cannot hate you for giving me to the pyre.
+Hash: 97221F71, Key: VoiceDir7.941B7, Value: Weary. Gracious. Letting go.
+Hash: C20D32C6, Key: Line9.941B7, Value: I forgive you.
+Hash: 311698F3, Key: VoiceDir9.941B7, Value: Weary. Gracious. Letting go.

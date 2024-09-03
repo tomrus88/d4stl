@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Knife
+Hash: F5C7BC0A, Key: Flavor, Value: Steeped in Vhenard's blood and dark knowledge.

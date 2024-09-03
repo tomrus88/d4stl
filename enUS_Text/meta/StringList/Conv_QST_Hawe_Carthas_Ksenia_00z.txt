@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Lost Legacy
+Hash: A5D9474E, Key: Line22.103673, Value: Huh, what's this?
+Hash: FCD4ECBB, Key: VoiceDir22.103673, Value: Simple. Able to be heard multiple times.
+Hash: 6A9EC5F1, Key: Line25.103673, Value: This looks interesting.
+Hash: C19A6B5E, Key: VoiceDir25.103673, Value: Simple. Able to be heard multiple times.
+Hash: 2F644494, Key: Line28.103673, Value: Is that...?
+Hash: 865FEA01, Key: VoiceDir28.103673, Value: Simple. Able to be heard multiple times.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cleansing Acid - All
+Hash: A646FFA4, Key: Description, Value: Removes all Pacts present on a piece of armor.
+
+Can be altered at the Alchemist to remove only specific Pacts.

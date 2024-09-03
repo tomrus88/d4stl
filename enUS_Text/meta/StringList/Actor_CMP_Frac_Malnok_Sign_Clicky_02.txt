@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Khazra Ritual Preparations
+Hash: F2CA04D8, Key: NoticeSignText, Value: A typical display of the Khazra's cruelty, these villagers were used as part of the ritual which destroyed their homes.

@@ -1,0 +1,31 @@
+Hash: 003DFCC1, Key: Name, Value: Scorched Debts
+Hash: 0871A46B, Key: Toast, Value: A strange smoldering book lays abandoned.
+Hash: 059C64AB, Key: Callback5Header, Value: Speak to Andreea about the scorched ledger
+Hash: 8DCA476E, Key: Phase9Description, Value: Andreea flew into a terrified rage when I showed her the ledger. I was forced to defend myself, but when she fell, her body was consumed in hellfire! This book is clearly more than it appears. 
+
+Andreea mentioned finding the book in Ked Bardu. Someone there must know more.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Seek answers in Ked Bardu
+Hash: 92C33198, Key: Phase12Description, Value: The ledger refused the flames, and instead exploded in demonic magic! I must defend myself from these creatures.
+Hash: 85A4CA58, Key: Callback11Header, Value: Slay the Fallen
+Hash: 259D49BB, Key: Phase15Description, Value: Lyruk wants to attempt to summon the demonic owner of the ledger. It is an extremely dangerous plan, but the only one we have.
+Hash: 6C93809B, Key: Callback14Header, Value: Help Lyruk perform the summoning ritual
+Hash: B12EDDB8, Key: Phase21Description, Value: I should ask around Ked Bardu to see if anyone recognizes this ledger. 
+Hash: 24EC6278, Key: Callback20Header, Value: Speak with the innkeeper about the ledger
+Hash: CF9A89D8, Key: Phase30Description, Value: I've found an unsettling ledger of names that spoke to me when I picked it up. Who does this belong to? 
+
+The most recent entry is an "Andreea of Lakren's Overlook". I should find her and see what she knows of this book.
+Hash: D9B88541, Key: Callback29Header, Value: Travel to Lakren's Overlook
+Hash: 26E6E543, Key: Phase59Description, Value: I should ask around Ked Bardu to see if anyone recognizes this ledger. 
+Hash: 22EDF2BD, Key: Callback61Header, Value: Speak with Svea about the ledger
+Hash: 1F9E611D, Key: Phase62Description, Value: I should ask around Ked Bardu to see if anyone recognizes this ledger. 
+Hash: 09DCA900, Key: Callback64Header, Value: Speak with Setsgi the healer about the ledger
+Hash: 45529163, Key: Phase68Description, Value: Apparently a man named Lyruk found this ledger while on an archeological dig. Worryingly, his name is also the next entry in the book. I should find him and see what he knows.
+Hash: 5C2A045F, Key: Callback72Header, Value: Find Lyruk in the Crown of Fiends
+Hash: 7645EEC4, Key: Phase69Description, Value: Lyruk has begged me to burn the book in his campfire. It must be destroyed before it can cause more chaos.
+Hash: F61E7DE1, Key: Callback74Header, Value: Burn the ledger
+Hash: 0D16AFDC, Key: Phase70Description, Value: Apparently a man named Lyruk found this ledger while on an archeological dig. Worryingly, his name is also the next entry in the book. I should find him and see what he knows.
+Hash: 9012F763, Key: Callback76Header, Value: Speak with Lyruk about the ledger
+Hash: 63BE3D83, Key: Phase77Description, Value: The ledger refused the flames, and instead exploded in demonic magic! Perhaps Lyruk has another idea to destroy this cursed book.
+Hash: AE775FBE, Key: Callback80Header, Value: Speak with Lyruk again
+Hash: A5EDB22B, Key: Phase105Description, Value: I've found an unsettling ledger of names. Who does this belong to?
+Hash: 995CD0CE, Key: Callback107Header, Value: Pick up the Scorched Debt Ledger

@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What will you do now?”
+Hash: 5A196F77, Key: Line1.789BF, Value: I do not know for sure. I was so afraid before -- afraid to leave the places where I felt safe.
+Hash: F40DE8F9, Key: Line3.789BF, Value: I will take another step and see where it leads me.
+Hash: 63174F26, Key: VoiceDir3.789BF, Value: More relieved than earlier in the quest. She looks forward to the future.
+Hash: 8E02627B, Key: Line5.789BF, Value: I will live.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: More relieved than earlier in the quest. She looks forward to the future.

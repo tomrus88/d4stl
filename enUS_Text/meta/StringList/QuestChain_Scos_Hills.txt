@@ -1,0 +1,5 @@
+Hash: 793C716F, Key: 1_desc, Value: Search for evidence of Lilith in Braestaig
+Hash: 7B919A10, Key: 2_desc, Value: Pass through the Weeping Cairns to reach Airidah’s Solitude
+Hash: 7DE6C2B1, Key: 3_desc, Value: Find a way through the fog to Airidah's Solitude
+Hash: 803BEB52, Key: 4_desc, Value: Find and confront Airidah
+Hash: 84E63C94, Key: 6_desc, Value: Meet with Yorin in Braestaig

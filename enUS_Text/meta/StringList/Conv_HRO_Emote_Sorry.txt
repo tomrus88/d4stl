@@ -1,0 +1,4 @@
+Hash: 608DBF14, Key: Line11.BAE4, Value: I apologize.
+Hash: CF972541, Key: VoiceDir11.BAE4, Value: Said quickly, but sincerely, as if you just bumped into someone.
+Hash: 7337041C, Key: Line19.BAE4, Value: Sorry.
+Hash: E2406A49, Key: VoiceDir19.BAE4, Value: Said quickly, but sincerely, as if you just bumped into someone.

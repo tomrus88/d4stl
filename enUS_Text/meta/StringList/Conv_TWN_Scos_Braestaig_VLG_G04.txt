@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D6C0647, Key: Line1.F7A02, Value: Have you heard anything from your sister in Clocheen?
+Hash: F7607FCE, Key: Line3.F7A07, Value: No, that damned fog has me so worried for her.

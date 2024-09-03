@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Outburst
+Hash: 003892BF, Key: desc, Value: Gain {c_number}{SF_1}{/c} Thorns. Also gain {c_number}{SF_4}{/c} Thorns for each {c_number}{SF_5}{/c} bonus Maximum Life you have.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Thorns {icon:arrow,1.2} {c_number}{SF_1}{/c}

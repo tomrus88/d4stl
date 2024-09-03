@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Unsafe Travels
+Hash: 003892BF, Key: Desc, Value: Complete the Unsafe Travels questline in Kehjistan.
+Hash: 3DA5583D, Key: Crit_236100, Value: Unsafe Travels
+Hash: 3DA5583E, Key: Crit_236101, Value: Road to Ruin
+Hash: 3DA5583F, Key: Crit_236102, Value: The Only Cure

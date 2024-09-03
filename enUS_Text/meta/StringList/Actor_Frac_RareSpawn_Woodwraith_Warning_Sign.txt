@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: ROTSPLINTER
+
+Seen west of Menestad at Melnik's Hill. This wretched creature is infested with hundreds of poisonous spiders, driving it into a frenzy. Beware, disturbing it may dislodge the putrid swarm inside.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

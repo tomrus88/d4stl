@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Natalya
+Hash: A646FFA4, Key: Description, Value: Found as a feral orphan in the ruins of Old Kurast, Natalya was slow to trust. She seems to appreciate the meals that are shared with her, yet she still insists on hunting...sometimes, the ones that feed her.
+Hash: 083EE0CE, Key: Quote, Value: An assassin in our midst.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Companion

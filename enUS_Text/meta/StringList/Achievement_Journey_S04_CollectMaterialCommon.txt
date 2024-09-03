@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tanner's Apprentice
+Hash: 3A4912CF, Key: DescShort, Value: Collect Rawhide from salvaging Armor, defeating Monsters, or various other sources throughout Sanctuary

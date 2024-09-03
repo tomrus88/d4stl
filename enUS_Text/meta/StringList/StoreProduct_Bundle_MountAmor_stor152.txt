@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Little Lady
+Hash: A646FFA4, Key: Description, Value: This lovely tack is usually gifted to the bride by their mother. Some sets have been handed down for several generations.
+Hash: 083EE0CE, Key: Quote, Value: Escort for that special day.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Dire Wolf's
+Hash: 003892BF, Key: Desc, Value: {c_important}Grizzly Rage{/c{} is now a {c_important}Werewolf{/c} Skill and Shapeshifts you into a Dire Werewolf. Dire Werewolves gain {c_random}[Affix_Value_1|%+|]{/c} Movement Speed and {c_random}[Affix_Value_1*2|%|]{/c} Spirit Cost Reduction instead of Damage Reduction. In addition, kills Heal you for {c_number}[Affix."Static Value 0"|%|]{/c} of your Maximum Life.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Grizzly Rage{/c{} is now a {c_important}Werewolf{/c} Skill and grants {c_random}[Affix_Value_1|%+|]{/c} Movement Speed and {c_random}[Affix_Value_1*2|%|]{/c} Spirit Cost Reduction.

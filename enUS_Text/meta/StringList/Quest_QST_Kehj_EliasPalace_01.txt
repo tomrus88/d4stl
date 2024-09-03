@@ -1,0 +1,34 @@
+Hash: 003DFCC1, Key: Name, Value: Oasis of Memories
+Hash: 0871A46B, Key: Toast, Value: Meet Lorath in Tarsarak
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with Lorath and Taissa in Tarsarak.
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Taissa spoke of a palace Elias holds within the deserts of Kehjistan. Perhaps the locals of Tarsarak will know its location. Elias cannot be allowed to slip away now.
+Hash: D53BFF05, Key: Phase0Description, Value: Taissa spoke of a palace Elias holds within the deserts of Kehjistan. Perhaps the locals of Tarsarak will know its location. Elias cannot be allowed to slip away now.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Speak with Lorath in Tarsarak
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Lorath
+Hash: 573574E0, Key: Phase38Description, Value: Taissa spoke of a palace Elias holds within the deserts of Kehjistan. Perhaps the locals of Tarsarak will know its location. Elias cannot be allowed to slip away now.
+Hash: 20991628, Key: Phase38OutsideSubzoneHeader, Value: Search Tarsarak for a guide
+Hash: 88F35492, Key: Callback165Header, Value: Search Tarsarak for a guide
+Hash: 44ADC39F, Key: Phase46Description, Value: Tarsarak locals say an old man on the southern riverbank may be our best hope finding a guide to lead us through the sandstorm. It sounds like he has a colorful reputation, too. If he can help us reach Elias, it's a necessary gamble.
+Hash: F12B6BC7, Key: Phase46OutsideSubzoneHeader, Value: Speak with the Strange Old Man in the drug den on the Argentek Riverbank
+Hash: E9B1E11B, Key: Callback50Header, Value: Speak with the Strange Old Man
+Hash: 75A12100, Key: Phase47Description, Value: Tarsarak locals say an old man on the southern riverbank may be our best hope finding a guide to lead us through the sandstorm. It sounds like he has a colorful reputation, too. If he can help us reach Elias, it's a necessary gamble.
+Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Enter the back room of the drug den on the Argentek Riverbank
+Hash: 1BCE4FEC, Key: Callback150Header, Value: Enter the back room and search for the old man
+Hash: A6947E61, Key: Phase48Description, Value: Tarsarak locals say an old man on the southern riverbank may be our best hope finding a guide to lead us through the sandstorm. It sounds like he has a colorful reputation, too. If he can help us reach Elias, it's a necessary gamble.
+Hash: 934560C9, Key: Phase48OutsideSubzoneHeader, Value: Defeat the bandits in the Oasis of Memories
+Hash: 1D9AD41F, Key: Callback54Header, Value: Slay the bar patrons
+Hash: C5002A81, Key: Phase57Description, Value: Taissa spoke of a palace Elias holds within the deserts of Kehjistan. Perhaps the locals of Tarsarak will know its location. Elias cannot be allowed to slip away now.
+Hash: B4E4B0E9, Key: Phase57OutsideSubzoneHeader, Value: Travel to Tarsarak to meet with Lorath and Taissa
+Hash: CB7F6448, Key: Callback101Header, Value: Travel to Tarsarak to meet with Lorath and Taissa
+Hash: E410A465, Key: Phase88Description, Value: Tarsarak locals say an old man on the southern riverbank may be our best hope finding a guide to lead us through the sandstorm. It sounds like he has a colorful reputation, too. If he can help us reach Elias, it's a necessary gamble.
+Hash: 5DF68B4D, Key: Phase88OutsideSubzoneHeader, Value: Travel to the Argentek Riverbank
+Hash: C94F0905, Key: Callback87Header, Value: Travel to the Argentek Riverbank
+Hash: A5EDB22B, Key: Phase105Description, Value: Tarsarak locals say an old man on the southern riverbank may be our best hope finding a guide to lead us through the sandstorm. It sounds like he has a colorful reputation, too. If he can help us reach Elias, it's a necessary gamble.
+Hash: 31FE77D3, Key: Phase105OutsideSubzoneHeader, Value: Speak with Lorath in Tarsarak
+Hash: 995CD0CE, Key: Callback107Header, Value: Meet up with Lorath
+Hash: 2640190D, Key: Phase116Description, Value: Tarsarak locals say an old man on the southern riverbank may be our best hope finding a guide to lead us through the sandstorm. It sounds like he has a colorful reputation, too. If he can help us reach Elias, it's a necessary gamble.
+Hash: F5B7BCF5, Key: Phase116OutsideSubzoneHeader, Value: Find the drug den on the Argentek Riverbank
+Hash: 5708D149, Key: Callback120Header, Value: Find the drug den entrance
+Hash: 3EACDC8F, Key: Phase172Description, Value: Tarsarak locals say an old man on the southern riverbank may be our best hope finding a guide to lead us through the sandstorm. It sounds like he has a colorful reputation, too. If he can help us reach Elias, it's a necessary gamble.
+Hash: 618D92B7, Key: Phase172OutsideSubzoneHeader, Value: Defeat the bandits in the Oasis of Memories
+Hash: 283AECB2, Key: Callback174Header, Value: Slay the bar patrons

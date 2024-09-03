@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Locran Bark
+Hash: 9257723D, Key: Line1.1BCB9E, Value: "I saw the weak made strong. A pack of lambs, feasting on wolves."
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Pretending to pray to self. Suggestive. Wants player to hear.

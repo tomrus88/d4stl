@@ -1,0 +1,5 @@
+Hash: 76E748CE, Key: 0_desc, Value: Help Donan fix the Soulstone. 
+Hash: 793C716F, Key: 1_desc, Value: Obtain sulfur from a Witch.
+Hash: 7B919A10, Key: 2_desc, Value: Assist Donan in fixing the Soulstone
+Hash: 7DE6C2B1, Key: 3_desc, Value: Follow Taissa's lead in helping Donan fix the Soulstone. 
+Hash: 803BEB52, Key: 4_desc, Value: Speak with Donan about the Soulstone

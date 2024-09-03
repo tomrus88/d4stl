@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Malignant Burrow
+Hash: 003892BF, Key: Desc, Value: Ichor weeps from a hole in the earth.

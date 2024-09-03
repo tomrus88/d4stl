@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: None
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Mysterious Voice
+Hash: 539CE8B6, Key: Line4.121A3D, Value: You there! Yes, you. I would have words.
+Hash: A3D31483, Key: VoiceDir4.121A3D, Value: Commanding. Trying to get the Player's attention. 

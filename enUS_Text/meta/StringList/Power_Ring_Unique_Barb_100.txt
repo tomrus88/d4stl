@@ -1,0 +1,2 @@
+Hash: 2070327B, Key: Buff8_Name, Value: Malignant Rage
+Hash: A320401E, Key: Buff8_Description, Value: Your next {c_important}Hammer of the Ancients{/c}, {c_important}Upheaval{/c}, or {c_important}Death Blow{/c} is guaranteed to Critically Strike and has {c_number}[SF_1*100]%{/c} increased Critical Strike damage.

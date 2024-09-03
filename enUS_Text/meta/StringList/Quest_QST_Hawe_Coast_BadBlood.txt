@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Bad Blood
+Hash: 0871A46B, Key: Toast, Value: Test Gulyas' Nangari transformation potion.
+Hash: D53BFF05, Key: Phase0Description, Value: The potion didn't work on either groups of test subjects. I should return to Gulyas and tell her the results.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Gulyas
+Hash: 38AA8D97, Key: Callback10Header, Value: Find the bandit camp
+Hash: 1F9943DA, Key: Callback13Header, Value: Add Gulyas' potion to the Cookpot
+Hash: 0687FA1D, Key: Callback16Header, Value: Hide near the Cookpot
+Hash: 58D5557C, Key: Callback24Header, Value: Add Gulyas' potion to the Cookpot
+Hash: 3FC40BBF, Key: Callback27Header, Value: Hide near the Cookpot
+Hash: 573574E0, Key: Phase38Description, Value: Gulyas has made a potion that might turn a person into a Nangiri. She would like me to test it on both bandits and cultists.
+Hash: 2C05E0A0, Key: Callback37Header, Value: Take Gulyas' potion
+Hash: B1D3AB7C, Key: Phase43Description, Value: I tested the potion on some nearby bandits. It failed to turn them into Nangiri. I should find some cultists and try it on them.
+Hash: 976485BC, Key: Callback42Header, Value: Find the cultist camp

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Earliest Experience
+Hash: 003892BF, Key: Desc, Value: Achieved level 20 during Open Beta or Early Access

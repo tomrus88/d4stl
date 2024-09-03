@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Lord Zir's Personal Stash
+Hash: A646FFA4, Key: Description, Value: Valuable items pilfered from Lord Zir himself.
+Hash: F5C7BC0A, Key: Flavor, Value: A bulging crate filled with armor, gold and Murmuring Obols.

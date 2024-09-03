@@ -1,0 +1,108 @@
+Hash: FFD5AB06, Key: MenuBack, Value: Back
+Hash: 20799CAB, Key: SandBoxButton, Value: Sand Box
+Hash: 33D6F3BC, Key: NamePlate_HeroLevel, Value: Level
+Hash: F200BAF2, Key: QuestSelectMenuResumeGame, Value: ResumeGame
+Hash: 029CF3EF, Key: QuestSelectMenuStartGame, Value: Start Game
+Hash: 56CA26A6, Key: QuestSelectChangeQuestButton, Value: Change Quest
+Hash: B66BAC5B, Key: QuestSelectPageSubTitle, Value: Act I
+Hash: B51357D1, Key: QuestSelectPageTitle, Value: Campaign
+Hash: C1688394, Key: _ReplacedByData, Value: [PH] Replace Text
+Hash: DABE4D06, Key: HeroLevel, Value: Level
+Hash: C096D72A, Key: ButtonCloseX, Value: x
+Hash: ECA49924, Key: LogonStatus_Title, Value: Log-on Status
+Hash: 83303C26, Key: LogonStatus_ConnectGame, Value: Connecting to Diablo IV Game Server...
+Hash: 832DB495, Key: LogonStatus_ConnectBnet, Value: Connecting to Battle.net Server...
+Hash: EC16E881, Key: LogonStatus_Logon, Value: Authenticating Credentials
+Hash: 62B065EC, Key: LogonStatus_HeroList, Value: Retrieving Character List...
+Hash: 273AE812, Key: DialogCancelButtonLabel, Value: Cancel
+Hash: B6998676, Key: ButtonOk, Value: Ok
+Hash: C31508F0, Key: ButtonOkay, Value: Okay
+Hash: 9F4E6DB1, Key: HeroDeleteSubmitButton, Value: Delete Character
+Hash: BFCEF922, Key: ButtonCancel, Value: Cancel
+Hash: F05D5E6D, Key: GeneralSeconds, Value: {s1} |4Second:Seconds;
+Hash: 2C9F05E3, Key: GeneralMinutes, Value: {s1} |4Minute:Minutes;
+Hash: A877673E, Key: ChatListTitle, Value: Chat
+Hash: ADE11AB8, Key: ChatManagerOverflowChatHeader, Value: {s1} Chat |4Window:Windows;
+Hash: 0D0A5530, Key: ChatManagerOverflowFriendHeader, Value: {s1} |4Friend:Friends; Online
+Hash: 7019337E, Key: ChatListPartyEntry, Value: PARTY
+Hash: 245A9E72, Key: MenuLeaveParty, Value: Leave Party
+Hash: 499933A0, Key: HeroSelectDialogTitle, Value: Swap Character
+Hash: 5FA095C5, Key: FriendsTooltipFooter, Value: {s1} More Friends Online
+Hash: 3EDD7934, Key: ConversationChannelLabel, Value: Conversation {s1}
+Hash: CA1A6E20, Key: TeamChannelLabel, Value: Team
+Hash: EA543233, Key: GameChannelLabel, Value: Game
+Hash: 9D925E9D, Key: LeaveParty, Value: Leave Party
+Hash: 64C8CECF, Key: GeneralHours, Value: {s1} |4Hour:Hours;
+Hash: 270FDCC8, Key: StayInParty, Value: Stay in Party
+Hash: DFEA1F04, Key: ReturnToHeroSelectCancelInvitesConfirmationTitle, Value: Confirm Cancel Invites
+Hash: 5EB35F07, Key: ReturnToHeroSelectCancelInvitesConfirmationMessage, Value: Exiting the game will remove any open invites that you have. Do you really want to exit the game?
+Hash: 665BDC84, Key: LaunchUrlWarning, Value: Selecting this option will open a web browser. Would you like to continue?
+Hash: A1A8E836, Key: ClassicFlowButton, Value: Classic Flow
+Hash: 8F48A40A, Key: ChatTargetMenuHelpText, Value: Press TAB
+Hash: BB42DAAC, Key: ButtonAccept, Value: Accept
+Hash: DCA86359, Key: Act1Short, Value: I
+Hash: DEFD8BFA, Key: Act2Short, Value: II
+Hash: E152B49B, Key: Act3Short, Value: III
+Hash: E3A7DD3C, Key: Act4Short, Value: IV
+Hash: BD60689F, Key: _StringTestLower, Value: abcdefjhijklmnopqrstuvwxyz
+Hash: BE03B3C2, Key: _StringTestUpper, Value: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Hash: EE4CBB91, Key: GeneralTimeTwoStrings, Value: {s1} {s2}
+Hash: C4C4B08A, Key: DownloadingAdditionalContent, Value: DOWNLOADING ADDITIONAL CONTENT
+Hash: 3599C317, Key: _LoadingData, Value: --
+Hash: 0DD96C58, Key: BnetBadVersionTitle, Value: Patch Required
+Hash: C5AB515B, Key: BnetBadVersionMessage, Value: A new patch for Diablo IV is available. The game will now close and apply the patch automatically. You will be able to continue playing after the patch has been applied.
+Hash: B578064F, Key: GeneralDays, Value: {s1} |4Day:Days;
+Hash: 0BB6017E, Key: LogonStatus_ConnectedBnet, Value: Connected to Battle.net Server
+Hash: FB40A991, Key: LogonStatus_LoggedOn, Value: Authenticated
+Hash: 2A2BE4A1, Key: RegionValue, Value: Region: {s1}
+Hash: 3A825DCE, Key: GuildChannelLabel, Value: Clan
+Hash: 3F55CECC, Key: GuildOfficerChannelLabel, Value: Clan Officers
+Hash: C317128B, Key: ButtonSave, Value: Save
+Hash: 19AC09D6, Key: ButtonDiscard, Value: Discard
+Hash: E314656A, Key: ButtonRemove, Value: Remove
+Hash: 54C94A3A, Key: TimeFrame_Today, Value: Today
+Hash: 8A259E33, Key: TimeFrame_Yesterday, Value: Yesterday
+Hash: 61EBA23B, Key: TimeFrame_TwoDaysAgo, Value: Two Days Ago
+Hash: 73C6D1B9, Key: TimeFrame_ThreeDaysAgo, Value: Three Days Ago
+Hash: BCFCDAC1, Key: TimeFrame_EarlierThisWeek, Value: Earlier This Week
+Hash: C174B3B9, Key: TimeFrame_LastWeek, Value: Last Week
+Hash: 2CFD7D69, Key: TimeFrame_TwoWeeksAgo, Value: Two Weeks Ago
+Hash: 5BE8E17B, Key: TimeFrame_EarlierThisMonth, Value: Earlier This Month
+Hash: EF5BD973, Key: TimeFrame_LastMonth, Value: Last Month
+Hash: CE363D09, Key: TimeFrame_MonthsAgo, Value: Months Ago
+Hash: CA922794, Key: TimeFrame_YearsAgo, Value: Years Ago
+Hash: C175CBFE, Key: TimeFrame_LastYear, Value: Last Year
+Hash: CDC00654, Key: TimeFrame_Future, Value: Future
+Hash: 0209AD64, Key: GroupOfficerChannelLabel, Value: {s1} (Officers)
+Hash: C312CF1E, Key: ButtonKick, Value: Kick
+Hash: 83922B3E, Key: Loading, Value: Loading...
+Hash: BA058653, Key: LogonStatus_QueueInfo, Value: Queued for Login - ~{s1} |4minute:minutes; left...
+Hash: 4039B23C, Key: LogonStatus_QueueInfo_UnknownRemaining, Value: Queued for Login - authentication pending...
+Hash: 4551DF56, Key: LessThanOneMinute, Value: Less than 1 minute
+Hash: 540EF143, Key: LogonStatus_UnderMinuteQueueInfo, Value: Queued for Login - <1 minute left...
+Hash: 24DDC872, Key: ButtonClose, Value: Close
+Hash: 1B350539, Key: Legal_DataPrivacyDisclaimer, Value: Data Privacy Disclaimer
+Hash: E5B9190B, Key: Legal_EULA, Value: End User License Agreement
+Hash: B401D5BC, Key: StartGameStatus_QueueInfo, Value: Queued for Game - ~{s1} |4minute:minutes; left...
+Hash: 6D51E0C5, Key: StartGameStatus_QueueInfo_UnknownRemaining, Value: Queued for Game - Start Game pending...
+Hash: C62D2D0C, Key: StartGameStatus_UnderMinuteQueueInfo, Value: Queued for Game - <1 minute left...
+Hash: 016349B8, Key: PublicChatNotAllowed, Value: You are not allowed to speak in public chat.
+Hash: B6D946BB, Key: WhisperNotAllowed, Value: You are not allowed to whisper.
+Hash: 22C9F4F8, Key: LoginProgressFlow_LoggingToBnet, Value: Logging into Battle.net...
+Hash: 9B6042E1, Key: LoginProgressFlow_D4Services, Value: Connecting to Diablo IV Services...
+Hash: 22F9331D, Key: LoginProgressFlow_D4, Value: Logging into Diablo IV...
+Hash: B78C23EE, Key: LoginProgressFlow_Queued, Value: Queued...
+Hash: DD79AF1C, Key: DownloadingProgressPercent, Value: {s1}%
+Hash: A7E39F13, Key: DateTimeFormat_Date, Value: %A, %B %e
+Hash: 54FB9F06, Key: DateTimeFormat_Date_Time_24, Value: %A, %B %e %H:%M
+Hash: 54FB9EE3, Key: DateTimeFormat_Date_Time_12, Value: %A, %B %e %I:%M %p
+Hash: B896E065, Key: DateTimeFormat_Numeric_Date, Value: %m/%d/%Y
+Hash: 513C1258, Key: DateTimeFormat_Numeric_Date_Time_24, Value: %m/%d/%Y %H:%M
+Hash: 513C1235, Key: DateTimeFormat_Numeric_Date_Time_12, Value: %m/%d/%Y %I:%M %p
+Hash: A0B1C312, Key: LogonStatus_OverCapTimeQueueInfo, Value: Queued for Login - >120 minutes left...
+Hash: 8B9FF03A, Key: PublicChatNotAllowedWhisper, Value: You are not allowed to whisper to non-friends.
+Hash: A00F405F, Key: GeneralDaysShort, Value: {s1}d
+Hash: 13B158DF, Key: GeneralHoursShort, Value: {s1}h
+Hash: ABA91C73, Key: GeneralMinutesShort, Value: {s1}m
+Hash: FE065B3D, Key: GeneralSecondsShort, Value: {s1}s
+Hash: 6ECD5C8F, Key: LoginProgressFlow_DownloadHotfix, Value: Downloading data...

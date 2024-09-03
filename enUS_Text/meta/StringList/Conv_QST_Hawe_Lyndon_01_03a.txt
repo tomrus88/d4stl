@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's wrong?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Oh, someone must have found my stash, unless... oh wait. No, I don’t think this is the spot.
+Hash: 6735A8AD, Key: Line3.10088C, Value: Don't give me that look. I'm old. My note says the location "should ring a bell." What the hell does that even mean?

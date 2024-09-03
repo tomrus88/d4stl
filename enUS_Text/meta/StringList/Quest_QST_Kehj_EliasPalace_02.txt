@@ -1,0 +1,78 @@
+Hash: 003DFCC1, Key: Name, Value: Flesh from Bone
+Hash: 0871A46B, Key: Toast, Value: Meet Meshif at the edge of the sandstorm
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet Lorath and Meshif at the Forsaken Chapel
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: E2C708DD, Key: Phase44Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: 4F1176C5, Key: Phase44OutsideSubzoneHeader, Value: Speak with Meshif outside of the Forsaken Chapel
+Hash: CB4D78C0, Key: Callback46Header, Value: Speak with Meshif
+Hash: DCC621CD, Key: Phase170Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: BF739DB5, Key: Phase170OutsideSubzoneHeader, Value: Meet Lorath and Meshif at the Forsaken Chapel
+Hash: BBA93C7A, Key: Callback794Header, Value: Meet Lorath and Meshif at the Forsaken Chapel
+Hash: EC1F95D0, Key: Phase326Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: F8CF4518, Key: Phase326OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 18855D0D, Key: Callback340Header, Value: Follow Meshif through the sandstorm
+Hash: A14D6F99, Key: Callback946Header, Value: Follow Meshif through the sandstorm
+Hash: 1B7BD492, Key: Phase409Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: CED33E1A, Key: Phase409OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 9B6CDA8F, Key: Callback423Header, Value: Follow Meshif through the sandstorm
+Hash: EE47AC5A, Key: Callback947Header, Value: Follow Meshif through the sandstorm
+Hash: 76BED8F2, Key: Phase436Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: 33B12E7A, Key: Phase436OutsideSubzoneHeader, Value: Meet Meshif in the Dunes of Sorrow
+Hash: 9F4343DA, Key: Callback749Header, Value: Meet Meshif outside of the storm
+Hash: 3343CA50, Key: Phase443Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: B3368998, Key: Phase443OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 1E601415, Key: Callback744Header, Value: Wait out the severe winds
+Hash: 70AD6F74, Key: Callback752Header, Value: Wait out the severe winds
+Hash: 51AF7670, Key: Phase452Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: D4D5D9B8, Key: Phase452OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 0BE68E18, Key: Callback486Header, Value: Follow Meshif to cover
+Hash: 545332D8, Key: Callback945Header, Value: Follow Meshif to cover
+Hash: 2D44E1B2, Key: Phase490Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: FD6D0F3A, Key: Phase490OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: F39ACAF8, Key: Callback954Header, Value: Wait out the severe winds
+Hash: 87C04976, Key: Callback790Header, Value: Wait out the severe winds
+Hash: 8F2B9C74, Key: Phase492Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: 9F87043C, Key: Phase492OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 883C25DC, Key: Callback949Header, Value: Wait out the severe winds
+Hash: F6E3BDD7, Key: Callback764Header, Value: Wait out the severe winds
+Hash: 9F776152, Key: Phase544Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: CC7922DA, Key: Phase544OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: BFB1D7F4, Key: Callback950Header, Value: Follow Meshif through the sandstorm
+Hash: EF922F7E, Key: Callback798Header, Value: Follow Meshif through the sandstorm
+Hash: FABA65B2, Key: Phase571Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: 3157133A, Key: Phase571OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: B99F10BB, Key: Callback597Header, Value: Follow Meshif to cover
+Hash: 3B41E91B, Key: Callback948Header, Value: Follow Meshif to cover
+Hash: 2B603FFC, Key: Phase698Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: 164020C4, Key: Phase698OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 25B1A26E, Key: Callback710Header, Value: Follow Meshif to cover
+Hash: A6A08E37, Key: Callback953Header, Value: Follow Meshif to cover
+Hash: 6BFA9477, Key: Phase729Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: 0CCCAF9F, Key: Phase729OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: E5240273, Key: Callback733Header, Value: Follow Meshif through the sandstorm
+Hash: 409507B9, Key: Callback955Header, Value: Follow Meshif through the sandstorm
+Hash: 522A5F10, Key: Phase740Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: 18B07658, Key: Phase740OutsideSubzoneHeader, Value: Meet Meshif at the entrance to the Outer Gardens
+Hash: E7285030, Key: Callback811Header, Value: Meet Meshif on the palace steps
+Hash: 631AF1B2, Key: Phase814Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: CD151F3A, Key: Phase814OutsideSubzoneHeader, Value: Speak with Meshif at the Forsaken Chapel
+Hash: 680B7FF5, Key: Callback816Header, Value: Check on Meshif
+Hash: EEAC85AF, Key: Phase820Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: FB8D7FD7, Key: Phase820OutsideSubzoneHeader, Value: Speak with Meshif outside of the Forsaken Chapel
+Hash: 206461D2, Key: Callback822Header, Value: Speak with Lorath
+Hash: 32E8595E, Key: Phase827OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 544D54D6, Key: Callback826Header, Value: Speak with Meshif to continue the journey
+Hash: 6EFEEC91, Key: Phase831Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: BF46C4F9, Key: Phase831OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 59A07374, Key: Callback833Header, Value: Speak with Meshif to continue the journey
+Hash: 01D904B4, Key: Phase834Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: B26DB47C, Key: Phase834OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 408F29B7, Key: Callback836Header, Value: Speak with Meshif to continue the journey
+Hash: F09AEEFB, Key: Phase886Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: 91E51EA3, Key: Phase886OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 963133F9, Key: Callback892Header, Value: Follow Meshif through the sandstorm
+Hash: 59A65176, Key: Callback952Header, Value: Follow Meshif through the sandstorm
+Hash: 29ECBF50, Key: Phase920Description, Value: Meshif is an odd character, but claims to know his way through the sandstorm. He refers to Lorath as "Deckard" and breaks from thought to reminisce on the past. If anything, the journey ahead will not be without entertainment.
+Hash: C3C31E98, Key: Phase920OutsideSubzoneHeader, Value: Follow Meshif through the sandstorm of the Scouring Sands
+Hash: 0CAC14B5, Key: Callback951Header, Value: Protect Meshif and Isabella
+Hash: AFB87C1A, Key: Callback929Header, Value: Protect Meshif and Isabella

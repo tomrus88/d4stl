@@ -1,0 +1,25 @@
+Hash: 003DFCC1, Key: Name, Value: Sentimental Value
+Hash: 0871A46B, Key: Toast, Value: A man sold everything to escape Guulrahn. Now he wants help recovering a hidden, precious heirloom.
+Hash: D53BFF05, Key: Phase0Description, Value: Having lost his Uncle in the fall of Guulrahn, a man named Ulagan hopes to recover the heirloom his Uncle once promised to him, hidden for safekeeping in Desolation’s Reach.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Ulagan in Desolation's Reach
+Hash: 5CD6EA0D, Key: Phase8Description, Value: It turns out Ulagan never knew the exact location of his Uncle’s heirloom, so we need to search the ruins of his family's old home to see if we can find it.
+Hash: 6FE82F7E, Key: Callback62Header, Value: Search for Ulagan’s Uncle’s heirloom
+Hash: 61CFD437, Key: Phase11Description, Value: Our search didn’t unearth anything resembling Ulagan’s Uncle’s Ring in the ruins. I should check in with Ulagan, so we can discuss next steps.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Ulagan
+Hash: 38C9C8C0, Key: Phase29Description, Value: I recovered Ulagan’s Uncle’s Ring from the bandit, Orsolya, who had taken it. I should give the Ring to Ulagan.
+Hash: 8CBE4880, Key: Callback28Header, Value: Bring the Ring to Ulagan
+Hash: 1EF99359, Key: Phase40Description, Value: Turns out the value of Ulagan’s Uncle’s Ring came from the personal meaning it held for Ulagan's Uncle and his wife. Having learned it holds no "real" value, Ulagan no longer wants it.
+
+He gave it to me and suggested I take it to Rakhaan, a Curio Collector in The Boiling Plains.
+Hash: C5FA5A22, Key: Callback39Header, Value: Take Ulagan’s Uncle’s Ring to Rakhaan
+Hash: 976485BC, Key: Callback42Header, Value: Take Ulagan’s Uncle’s Ring to Rakhaan
+Hash: 5C75B95D, Key: Phase80Description, Value: A bandit  named Orsolya seems to have beat us to the Ulagan’s Uncle’s Ring. I will need to defeat her to recover it.
+Hash: CEA227A3, Key: Callback94Header, Value: Take {ITEM} from Orsolya
+Hash: 317F4628, Key: Phase111Description, Value: A bandit  named Orsolya seems to have beat us to the Ulagan’s Uncle’s Ring. I will need to defeat her to recover the Ring.
+Hash: 38A468EE, Key: Callback116Header, Value: Take {ITEM} from Orsolya
+Hash: C4595E4B, Key: Phase114Description, Value: A bandit  named Orsolya seems to have beat us to the Ulagan’s Uncle’s Ring. I will need to defeat her to recover the Ring.
+Hash: D298E270, Key: Callback118Header, Value: Take {ITEM} from Orsolya
+Hash: 9F49FBC9, Key: Phase130Description, Value: Our search didn’t unearth anything resembling Ulagan’s Uncle’s Ring in the ruins. I should check in with Ulagan, so we can discuss next steps.
+Hash: 7733992E, Key: Callback134Header, Value: Speak with Ulagan
+Hash: F5F18970, Key: Phase137Description, Value: Our search didn’t unearth anything resembling Ulagan’s Uncle’s Ring in the ruins. I should check in with Ulagan, so we can discuss next steps.
+Hash: 167B314E, Key: Callback143Header, Value: Speak with Ulagan

@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Ground Stomp
+Hash: 003892BF, Key: desc, Value: {if:Mod.UpgradeA}{c_label}Generate Fury:{/c_label} {c_resource}{SF_0}{/c_resource}
+{/if}{c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Smash the ground, dealing {c_number}{payload:STOMP}{/c} damage and Stunning surrounding enemies for {c_number}{buffduration:STUN}{/c_number} seconds.
+Hash: F2DE8628, Key: simple_desc, Value: Defensive Skill: Smash the ground with tremendous might, stunning all nearby enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:STOMP}{/c}
+{icon:bullet, 1.2} Cooldown {icon:arrow, 1.2} {c_number}{Cooldown Time}{/c_number} seconds
+Hash: C435C5B6, Key: Mod3_Description, Value: Increase {c_important}Ground Stomp’s{/c} duration by {c_number}{SF_11}{/c} second.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Ground Stomp
+Hash: 1394CF37, Key: Mod4_Description, Value: {c_important}Ground Stomp{/c} generates {c_number}{SF_0}{/c} Fury.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Tactical Ground Stomp
+Hash: 62F3D8B8, Key: Mod5_Description, Value: Reduce the Cooldown of your {c_important}Ultimate{/c} Skill by {c_number}{SF_12}{/c} second for each enemy damaged by {c_important}Ground Stomp{/c}.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Strategic Ground Stomp

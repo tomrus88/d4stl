@@ -1,0 +1,2 @@
+Hash: 5D6B43A1, Key: Line1.F7382, Value: I lived down there when I was a boy. You should’ve seen how green it was...how proud we were.
+Hash: CC74A9CE, Key: VoiceDir1.F7382, Value: Nostalgic. Wistful. Sad.

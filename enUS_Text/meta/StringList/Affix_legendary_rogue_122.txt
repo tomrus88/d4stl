@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Infiltrator's
+Hash: 003892BF, Key: Desc, Value: {c_important}Poison Trap{/c} no longer breaks {c_important}{u}Stealth{/u}{/c} and triggers no Cooldown or arm time while you are in {c_important}{u}Stealth{/u}{/c}. All {c_important}Poison Traps{/c} activate when you exit {c_important}{u}Stealth{/u}{/c} and {c_important}Poison Trap's{/c} Cooldown will be {c_random}[Affix_Value_1|1|]{/c} seconds per trap placed.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Poison Trap{/c} doesn't break {c_important}{u}Stealth{/u}{/c} and has no Cooldown while in it. {c_important}Poison Traps{/c} activate when exiting {c_important}{u}Stealth{/u}{/c}.

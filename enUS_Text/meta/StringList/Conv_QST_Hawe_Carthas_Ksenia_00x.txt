@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Lost Legacy
+Hash: F0C24243, Key: Line9.103673, Value: Hah!
+Hash: 40F86E10, Key: VoiceDir9.103673, Value: Confident. Able to be heard multiple times.
+Hash: 1D9EAB2E, Key: Line13.103673, Value: You are no match for the Light.
+Hash: 749A509B, Key: VoiceDir13.103673, Value: Confident. Able to be heard multiple times.
+Hash: F62254F0, Key: Line15.103673, Value: Be gone!
+Hash: 4D1DFA5D, Key: VoiceDir15.103673, Value: Confident. Able to be heard multiple times.

@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Altar of Destruction
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Baal. Lord of Destruction. His influence has launched every war in history. Never once has he tired of conflict.
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: Musing about Baal
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Speak his true name: Tor’Baalos.
+Hash: E2468CE9, Key: Line7.BAE4, Value: Tor’Baalos.
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: (pained groan)
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Are you all right?
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: Concerned
+Hash: 7337041C, Key: Line19.BAE4, Value: I'm...I'm fine.
+Hash: E2406A49, Key: VoiceDir19.BAE4, Value: Groggy
+Hash: 5B6C043C, Key: Line21.6D03F, Value: Two more shrines to go. Diablo, and then Mephisto. Stay strong.

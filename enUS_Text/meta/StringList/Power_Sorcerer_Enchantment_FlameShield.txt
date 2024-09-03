@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: {c_important}Flame Shield{/c} automatically activates after cumulatively losing {c_number}[{SF_2} * 100|%|]{/c} Maximum Life. Can only happen once every {c_number}{SF_0}{/c} seconds.
+Hash: 14C66756, Key: Buff3_Name, Value: Flame Shield Enchant Cooldown
+Hash: 16451099, Key: Buff3_Description, Value: Flame Shield Enchant Cooldown

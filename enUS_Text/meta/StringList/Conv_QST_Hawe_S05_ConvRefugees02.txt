@@ -1,0 +1,2 @@
+Hash: F7671DBC, Key: Line3.EDC70, Value: (coughs) No, y-you must stay back, I am sick.
+Hash: 667083E9, Key: VoiceDir3.EDC70, Value: worried

@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Sealed Letter
+Hash: F2CA04D8, Key: NoticeSignText, Value: My dearest friend,  
+
+The Loom is dead. You will find the tunnels collapsed, the runes scoured. To rebuild it without me would take a lifetime. 
+ 
+I hope you abandon this dream, as I have. And if not, I hope you live well.
+-Zoltun

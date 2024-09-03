@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Your sign is missing?"
+Hash: 91090F92, Key: Line5.B20BA, Value: Aye. Torn right off the hooks.
+Hash: 2AFD8914, Key: Line7.B20BA, Value: In their hurry they left blood on the steps. Amateurs.
+Hash: 722B009F, Key: Line11.B20BA, Value: Nairne and Tavish, local mischief-makers, have also been absent. Sense tells me they’re somehow involved.
+Hash: C2612C6C, Key: VoiceDir11.B20BA, Value: Pronounced "N-air-n"/Nehr-n
+Hash: 0C1F7A21, Key: Line13.B20BA, Value: Man or beast who took it, the Goose isn’t the same without it.

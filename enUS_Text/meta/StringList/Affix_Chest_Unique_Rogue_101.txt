@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Dark Shroud{/c} makes you {c_important}{u}Immune{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds, but your {c_important}Evade{/c} Cooldown is increased by {c_random}[Affix_Value_2|1|]{/c} seconds.
+
+{c_important}Evading{/c} while {c_important}Dark Shroud{/c} is active leaves behind an explosion that deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Shadow damage and Pulls In enemies.

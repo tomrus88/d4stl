@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Zolaya? Oyuun?"
+Hash: 8F558C51, Key: Line25.6E261, Value: Ah, you're.... from Guulrahn.
+Hash: DF8BB81E, Key: VoiceDir25.6E261, Value: Distracted. Takes her a minute to recognize the player, as she's distracted by her suffering companion.
+Hash: F56112CF, Key: Line23.6E261, Value: No! (cries) Get away from me!
+Hash: 45973E9C, Key: VoiceDir23.6E261, Value: Scared, struggling. She's reliving a traumatic memory.
+Hash: 294A05D3, Key: Line27.6E261, Value: She was fine when we left. But today, she just snapped... I have an idea to calm her, but I can't leave her alone like this. Maybe you could help?
+Hash: 798031A0, Key: VoiceDir27.6E261, Value: Disbelieving; still processing what's happened.
+Hash: C33E7F55, Key: Line29.6E261, Value: I--I kept a stash of uncommon medicinal herbs in a hideout, in the caves northwest of here. The tea I made with them was Oyuun's favorite.
+Hash: 1374AB22, Key: VoiceDir29.6E261, Value: Hurried. She's hopeful of the plan she's explaining to the player.
+Hash: 47AE6E2E, Key: Line31.6E261, Value: Perhaps the smell would help ground her. And it should help settle her stomach.
+Hash: 97E499FB, Key: VoiceDir31.6E261, Value: Hopeful, reassuring herself as much as anyone else.
+Hash: E1A2E7B0, Key: Line33.6E261, Value: Take this. Fill it with the herbs if they're still there. Please hurry.
+Hash: 31D9137D, Key: VoiceDir33.6E261, Value: Hopeful, driven.

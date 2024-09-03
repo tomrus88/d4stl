@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tightly Sealed Crates
+Hash: F2CA04D8, Key: NoticeSignText, Value: There’s a good chance the contents would be considered less than legal in most other ports on Sanctuary.

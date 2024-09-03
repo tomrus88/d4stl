@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Briggs
+Hash: CC38ADCB, Key: FlavorName, Value: Second Mate

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Traces of Iron
+Hash: 5D82E1BF, Key: Line1.FB4C9, Value: Please. Help an injured man repay a debt.
+Hash: 916BD4C3, Key: Line5.FB4C9, Value: Bandits mugged me. Crushed my knee. I would’ve died, if the Iron Wolves hadn’t stepped in.
+Hash: 2593890F, Key: Line10.FB4C9, Value: The one named Asyfa carried me here. She gave me my life. I want to give her this amulet in return. (sniff) Ah, a paltry repayment, but it’s all I have. She’ll be back at their camp, west of Caldeum.

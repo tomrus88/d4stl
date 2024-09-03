@@ -1,0 +1,56 @@
+Hash: 0040F6E8, Key: Sort, Value: {icon:r3, 2.0} Sort Chest
+Hash: CF38C77C, Key: ClanBankTitle, Value: Clan Hoard
+Hash: FD4D50BB, Key: FilterOpen_Controller, Value: {icon:l3, 2.0}  Open Filters
+Hash: 7DDE9E7A, Key: EquipmentType, Value: Equipment
+Hash: 1107B1DB, Key: Rarity, Value: Rarity
+Hash: 384DE740, Key: ChestNumber, Value: Chest {s1}
+Hash: E416DABB, Key: ChestNavLeftTrigger, Value: {icon:l2, 2.0}
+Hash: DF659BEE, Key: ChestNavRightTrigger, Value: {icon:r2, 2.0}
+Hash: 475F6404, Key: RarityCommon, Value: Common
+Hash: B543767C, Key: RarityMagic, Value: Magic
+Hash: CF335645, Key: RarityRare, Value: Rare
+Hash: 330823B6, Key: RarityLegendary, Value: Legendary
+Hash: 52965157, Key: EquipmentHelmet, Value: Helmet
+Hash: 7DDD4168, Key: EquipmentRing, Value: Ring
+Hash: 386736FF, Key: EquipmentBoots, Value: Boots
+Hash: F15A7C7B, Key: Donate, Value: Donate
+Hash: 7B6604EA, Key: Withdraw, Value: Withdraw
+Hash: 0001DCA6, Key: Max, Value: Max
+Hash: CFB2604E, Key: Confirm, Value: Confirm
+Hash: 073C6D67, Key: Clear, Value: Clear
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: DAD1E3AA, Key: CancelController, Value: {icon:button2, 2.0}  Cancel
+Hash: ED6F82EB, Key: ClearController, Value: {icon:button3, 2.0} Clear
+Hash: 97EC8FB2, Key: ConfrimController, Value: {icon:button4, 2.0} Confirm 
+Hash: 02B66AF8, Key: AllRanks, Value: All Ranks
+Hash: DBD9DC6D, Key: MembersOnly, Value: Members Only
+Hash: 8E3106B3, Key: OfficersOnly, Value: Officers Only
+Hash: E41B7F08, Key: BagIconsTitle, Value: Tab Icons
+Hash: 7B89F032, Key: BagRankPermissions, Value: Tab Permissions
+Hash: 6DEA3B36, Key: FilterInput, Value: {icon:l3, 2.0}
+Hash: 5DEBA973, Key: ControllerBags_Full, Value: Stash tab is full
+Hash: 5DF082B2, Key: ControllerBags_Open, Value: (Open)
+Hash: BBF2FBB1, Key: ItemType, Value: Item Type
+Hash: 37F4A9EE, Key: ItemTypeWeapons, Value: Weapons
+Hash: 26049CD2, Key: ItemTypeArmor, Value: Armor
+Hash: 50CB53B3, Key: ItemTypeJewlery, Value: Jewelry
+Hash: 2FB5A35D, Key: ItemTypeGems, Value: Gems
+Hash: 4BB0CFAD, Key: ItemTypeConsumables, Value: Consumables
+Hash: A9680F3F, Key: ItemTypeCrafting, Value: Crafting
+Hash: 71480712, Key: RarityUnique, Value: Unique
+Hash: A9301EA7, Key: RaritySet, Value: Set
+Hash: 8F87D872, Key: FiltersClose_Controller, Value: {icon:l3, 2.0}  Close Filters
+Hash: F59770E6, Key: Filter, Value: View Filters
+Hash: D46ABA77, Key: PurchaseTabText, Value: Purchase a bag tab to open {s1} slots in your Clan hoard.
+Hash: AD69F9A5, Key: PermissionsFormat, Value: Available to: {c_white}{s1}{/c}
+Hash: 5DCCCFC7, Key: PermissionsMembers, Value: Members and above
+Hash: 2D0DEE8D, Key: PermissionsOfficers, Value: Officers and above
+Hash: BAAA8029, Key: PermissionsLeader, Value: Leader Only
+Hash: 3AFFD386, Key: TabUnsavedChanges, Value: You have unsaved changes on your hoard tab settings. Are you sure you want to discard them?
+Hash: E4503BD8, Key: FilterOpen, Value: Open Filters
+Hash: 41BBDFEF, Key: FiltersClose, Value: Close Filters
+Hash: E981DE6B, Key: PermissionsNoAccess, Value: You do not have permission to access the Clan's hoard.
+Hash: 0F22023F, Key: ItemNotTradable, Value: The item you selected is not tradable.
+Hash: 5E56F761, Key: NoPermissionToDeposit, Value: You don't have permission to deposit.
+Hash: EECF84D3, Key: NoPermissionToWithdraw, Value: You don't have permission to withdraw.
+Hash: 72D74CE2, Key: EditClanBankTabTooltip, Value: {icon:rmb,2.0} to edit tab

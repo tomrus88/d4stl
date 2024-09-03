@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Vengeful spirits are raging across the Hills.”
+Hash: F427C5EC, Key: Line3.7FA05, Value: So…Lilith is there.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Confident in his assumption
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Yorin led me to the cairns. It seems Lilith is causing the unrest, but I have yet to find her or Airidah.
+Hash: 2810B8F0, Key: Line7.7FA05, Value: I told him to stay with the other Knights Penitent…
+Hash: 971A1F1D, Key: VoiceDir7.7FA05, Value: Annoyed about Yorin going off on a dangerous adventure--spoken almost to himself
+Hash: 0932A9FD, Key: Line13.7FA05, Value: Continue your search for Lilith and Airidah. Inform me of anything you learn. And, please...keep Yorin safe.
+Hash: 5968D5CA, Key: VoiceDir13.7FA05, Value: Concern in the read of the last sentence

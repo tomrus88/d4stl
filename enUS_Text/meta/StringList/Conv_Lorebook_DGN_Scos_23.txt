@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bloodstained Journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Bloodstained Journal
+Hash: 5D72A441, Key: Line1.EDC77, Value: This is my fault. I awoke this morning to the screams of the other hunters being torn apart outside the lodge. I thought it was another animal attack, but then I saw Artair as a bear dragging away one of the hunters. The other druids were with him.
+Hash: F7671DC3, Key: Line3.EDC77, Value: Artair promised he would stop corrupting the animals, so I let him go. I never should have trusted him. I told the other hunters what was happening in the caves. Now I must find my friend and kill him.

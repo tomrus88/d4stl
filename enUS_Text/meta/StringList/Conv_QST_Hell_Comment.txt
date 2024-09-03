@@ -1,0 +1,4 @@
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Ah, everything feels wrong here. The air. The ground at my feet.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Quiet, contemplating how it feels to stand in Hell.
+Hash: F427C5EC, Key: Line3.7FA05, Value: Mortals were not meant to tread this realm.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: The sooner we can find Lilith and get out, the better.

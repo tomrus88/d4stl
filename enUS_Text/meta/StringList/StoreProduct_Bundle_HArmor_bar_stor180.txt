@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Tyrant of the Pits
+Hash: A646FFA4, Key: Description, Value: In the fighting pits of Old Kehjan, a condemned barbarian reigned supreme. History recalls but a single name, chanted by ravenous crowds: Tyrant.
+Hash: 083EE0CE, Key: Quote, Value: Blood and sand, your domain.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

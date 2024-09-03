@@ -1,0 +1,9 @@
+Hash: EE080366, Key: Cancel, Value: Back
+Hash: 0000002B, Key: +, Value: +
+Hash: 0000002D, Key: -, Value: -
+Hash: 0000003D, Key: =, Value: =
+Hash: D7BB9932, Key: PressHoldText_KBM, Value: Hold {icon:KeyPrompt_Escape,2} to exit
+Hash: 4B3F43DF, Key: prompt_pause, Value: {icon:button1, 2} Pause
+Hash: 3042FE44, Key: prompt_fastforward, Value: {icon:right, 2} Fast forward
+Hash: 21E7903E, Key: prompt_slowdown, Value: {icon:left, 2} Slow down
+Hash: 9E1566BC, Key: PressHoldText_Controller, Value: Hold {icon:button2,2} to exit

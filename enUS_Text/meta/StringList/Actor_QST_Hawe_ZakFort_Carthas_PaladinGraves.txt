@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Dedication to Zakarum Paladins
+Hash: F2CA04D8, Key: NoticeSignText, Value: A brief epitaph dedicated to Zakarum paladins who guarded the body of Sankekur.
+
+Below, a long list of names covers nearly all remaining space.

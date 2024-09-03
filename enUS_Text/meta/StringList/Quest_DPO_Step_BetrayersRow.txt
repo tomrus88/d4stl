@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: You will be dust one day.
+Hash: 112E3759, Key: Callback30Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: F81CED9C, Key: Callback33Header, Value: Defeat the {MONSTER}
+Hash: 2C05E0A0, Key: Callback37Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 976485BC, Key: Callback42Header, Value: Deposit Animus into the {GIZMO}
+Hash: 83A65A9D, Key: Callback52Header, Value: Travel to {LEVELAREA}

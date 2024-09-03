@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Catamount Cradle
+Hash: A646FFA4, Key: Description, Value: Depending on its temperament, this little all-purpose killing machine will grow to be a stalwart friend or deadly menace. Maybe both.
+Hash: 083EE0CE, Key: Quote, Value: Feline finery.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Accessories

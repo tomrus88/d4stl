@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “You're injured. Do you need help?"
+Hash: 5D28A524, Key: Line1.AAE2D, Value: You’re kind, but it’s nothing that won’t heal. I was a fool for trying to get into the old Light’s Watch outpost. The place is overrun with fiends.
+Hash: CC320B51, Key: VoiceDir1.AAE2D, Value: polite
+Hash: F71D1EA6, Key: Line3.AAE2D, Value: I only wanted to… I believe my mother, Soliana, was stationed there. However, the Church keeps everything but its records in the Light. There must be something left behind at the outpost by Knights Penitent!
+Hash: 662684D3, Key: VoiceDir3.AAE2D, Value: yearning 

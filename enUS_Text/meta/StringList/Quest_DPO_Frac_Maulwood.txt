@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sword and axe, tooth and nail.
+Hash: 6FE82F7E, Key: Callback62Header, Value: Destroy the Skeletal Construct: {LEFT}
+Hash: 7701ADA6, Key: Callback79Header, Value: Slay the Bandit Sentries: {LEFT}
+Hash: FB719C7F, Key: Callback81Header, Value: Travel to {LEVELAREA}

@@ -1,0 +1,28 @@
+Hash: 003DFCC1, Key: Name, Value: Poisoned Hearts
+Hash: 0871A46B, Key: Toast, Value: A young girl with burgeoning magic power is taken in by a swamp witch.
+Hash: D53BFF05, Key: Phase0Description, Value: Aneta seems to be in pain in the center of a ritual. I need to get her out of it.
+Hash: A07C739F, Key: Callback18Header, Value: Extinguish the Strange Braziers: {DONE_OVER_NEEDED}
+Hash: 30DC76D6, Key: Phase10Description, Value: It appears that the ritual was part of Gulyas' attempt to calm Aneta's uncontrolled magic.
+Hash: 398557AF, Key: Callback9Header, Value: Speak with Aneta
+Hash: C3B68EF9, Key: Phase13Description, Value: Aneta has gathered what she needs for this rite. We are to meet Gulyas in the Hidden Grove nearby.
+Hash: D29F0719, Key: Callback12Header, Value: Enter the Hidden Glade
+Hash: 5690A71C, Key: Phase16Description, Value: The witch Gulyas said her home was between the eastern shore and a river. I should find Aneta, return her necklace, and make sure she is all right.
+Hash: B98DBD5C, Key: Callback15Header, Value: Find Aneta
+Hash: 9367FF5C, Key: Phase34Description, Value: Gulyas needs Aneta to gather rotting livers for what she described as a "unique rite" to control Aneta's powers.
+Hash: C5FA5A22, Key: Callback39Header, Value: Help Aneta gather rotten livers: {DONE_OVER_NEEDED}
+Hash: 75A12100, Key: Phase47Description, Value: It appears that the ritual was part of Gulyas' attempt to calm Aneta's uncontrolled magic.
+Hash: CB4D78C0, Key: Callback46Header, Value: Speak with Gulyas
+Hash: 63196FBF, Key: Phase55Description, Value: Vera fled from the carnage inside the grove, and Aneta is following. I must catch up to them both before something terrible happens.
+Hash: 3DC59C04, Key: Callback68Header, Value: Follow Aneta
+Hash: F5F387E2, Key: Phase58Description, Value: Aneta is still clearly mourning her mother, but she told me "the voices are finally quiet" as she walked off. Could this be the change she needed?
+Hash: 04898A62, Key: Callback57Header, Value: Return to Gulyas' Hovel
+Hash: EEAB03BC, Key: Phase61Description, Value: I was too late to see Aneta before she was summoned by the Tree of Whispers, but Gulyas says she left me a note...
+Hash: DD0D3424, Key: Callback77Header, Value: Read Aneta's Letter
+Hash: 3E0A0D3D, Key: Phase71Description, Value: Aneta's mother Vera succumbed to her illness rather than allow her daughter to heal her. A narrow minded and tragic decision.
+Hash: A9244120, Key: Callback73Header, Value: Speak with Aneta
+Hash: 5C75B95D, Key: Phase80Description, Value: Aneta has gathered what she needs for this rite. We are to meet Gulyas in the Hidden Grove nearby.
+Hash: 7701ADA6, Key: Callback79Header, Value: Enter the Hidden Glade
+Hash: 20432EE1, Key: Phase84Description, Value: Aneta left her necklace behind when she left with Gulyas. I know how much it means to her. I should collect it and bring it to her.
+Hash: 95661601, Key: Callback83Header, Value: Collect {ITEM}
+Hash: 6272A389, Key: Phase112Description, Value: Aneta's mother Vera has risked her health by coming so far out into the wilds. Why is she here? I doubt it is out of concern for her daughter's safety.
+Hash: B7C13929, Key: Callback111Header, Value: Speak with Vera

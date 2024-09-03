@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Domination
+Hash: A646FFA4, Key: Description, Value: You deal {c_random}[SF_2|1]%{/c}{c_gray}[x]{/c} increased damage to enemies who are {c_important}Stunned, Immobilized, {u}Frozen{/u},{/c} or Feared. If they're also {c_important}{u}Injured{/u}{/c_important} and not an Elite, they're instantly killed. 
+
+{icon:bullet}Damage: {c_random}[SF_3|1]%{/c} {icon:arrow} {c_random}[SF_4|1]%{/c} {icon:arrow} {c_random}[SF_5|1]%{/c}

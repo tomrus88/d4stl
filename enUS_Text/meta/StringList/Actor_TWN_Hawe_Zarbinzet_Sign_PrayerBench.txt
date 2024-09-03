@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Prayer Bench
+Hash: F2CA04D8, Key: NoticeSignText, Value: Moss and dirt cover most of the bench. Despite its age, the seat still sees regular use.

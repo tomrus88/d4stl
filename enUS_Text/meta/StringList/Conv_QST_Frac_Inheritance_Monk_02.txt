@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The threat is no more."
+Hash: 8ED899EA, Key: Line1.123EBF, Value: Magdalena... Light be damned, how did this come to pass?
+Hash: DF0EC5B7, Key: VoiceDir1.123EBF, Value: Incredulous and worried
+Hash: 3FDFED6E, Key: Line5.123EBF, Value: I need your help, and we haven't much time. We'll need to purge the demon from the blade before it can be destroyed.
+Hash: 9016193B, Key: VoiceDir5.123EBF, Value: More direct, purpose filled
+Hash: F0E740F2, Key: Line9.123EBF, Value: Meet me in the Crags of Ill Wind. My study there is on hallowed ground. There is no safer place to perform the incantation.
+Hash: 411D6CBF, Key: VoiceDir9.123EBF, Value: More direct, purpose filled

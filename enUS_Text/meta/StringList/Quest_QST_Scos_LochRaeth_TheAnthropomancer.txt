@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: The Seer
+Hash: 0871A46B, Key: Toast, Value: Help a Seer trying to divine the source of the famine in Corbach.
+Hash: D53BFF05, Key: Phase0Description, Value: A seer seeking insight into the source of the famine in nearby Corbach has asked me to help open the gut of a goatman, so she can do a reading.
+Hash: 059C64AB, Key: Callback5Header, Value: Attack the Goatman Entrails
+Hash: 61CFD437, Key: Phase11Description, Value: I met a Seer named Baewyn outside Corbach attempting to divine the source of the town's famine by reading the Entrails of a Goatman. Having discovered they were unreadable, she has asked me to gather some more.
+Hash: 38AA8D97, Key: Callback10Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: D787DBC2, Key: Phase49Description, Value: I've collected the Goatman Entrails the Seer requested for her reading. She has asked me to bring them to her in Corbach, in the hopes they might shed light on the source of the town's famine.
+Hash: D0A0975E, Key: Callback53Header, Value: Speak with Baewyn in Corbach

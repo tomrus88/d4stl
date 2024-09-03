@@ -1,0 +1,4 @@
+Hash: CF237C77, Key: Line17.171196, Value: Wow, I’ve—I don’t think I’ve ever introduced myself to someone I’ve sung about.
+Hash: 261F21E4, Key: VoiceDir17.171196, Value: Starstruck, eager.
+Hash: A7A72639, Key: Line19.171196, Value: Be-because I sing about a lot of things, I mean. (laugh) (throat clear) Gileon. Traveling bard.
+Hash: FEA2CBA6, Key: VoiceDir19.171196, Value: nervous stutter, nervous laugh while trying to be humorous.

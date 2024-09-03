@@ -1,0 +1,2 @@
+Hash: C6E60718, Key: Buff2_Description, Value: You are heavily slow for the duration.
+Hash: 12713EB5, Key: Buff2_Name, Value: Aetheric Mass Curse

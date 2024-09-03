@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Mangler's
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Dealing direct damage to a {c_important}{u}Vulnerable{/u}{/c} enemy has up to a {c_random}[Affix_Value_1|%|]{/c} chance to {c_important}{u}Daze{/u}{/c} them for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Damaging a {c_important}{u}Vulnerable{/u}{/c} enemy has a {c_random}[Affix_Value_1|%|]{/c} chance to {c_important}{u}Daze{/u}{/c} them.

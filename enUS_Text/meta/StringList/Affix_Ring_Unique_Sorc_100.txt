@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}[Affix."Static Value 0"|%|]{/c} chance to form an exploding {c_important}Ice Spike{/c}, dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Cold damage. Triple this chance if the enemy is {c_important}{u}Frozen{/u}{/c}.

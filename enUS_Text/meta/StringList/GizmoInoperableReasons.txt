@@ -1,0 +1,130 @@
+Hash: A4B0D079, Key: QuestGizmoInoperable, Value: [PH]You are not worthy!
+Hash: BC7A030E, Key: Prototype_WidgetReciever_01_Inoperable, Value: The altar demands blood!
+Hash: 61FFE759, Key: InaccessibleDoor, Value: This door is inaccessible.
+Hash: 0AACE01A, Key: Locked_PvP_Door, Value: You must complete the trial before you can leave.
+Hash: AD7CF886, Key: SwitchDoor, Value: This door seems locked by two mechanisms nearby...
+Hash: 1E8D2769, Key: LockedChest, Value: This chest is locked. You must find the key elsewhere before you can open it.
+Hash: 4C7EDBAA, Key: DungeonGlobalLockedChest, Value: This Chest is locked, you need a Golden Key to open it.
+Hash: B35A47C6, Key: LockedDoor, Value: This door is locked. You must find the key before you can open it.
+Hash: 10A3039D, Key: DGN_PvP_DungeonRun_GuardianGate, Value: Kill more monsters to unlock the Boss Gate
+Hash: BFA05291, Key: DE_Harvest_NotEnoughSouls, Value: You must collect more Souls.
+Hash: E0E7773C, Key: DGN_Harvest_JarOfSouls, Value: You have not Harvested enough souls.
+Hash: EE2AAA95, Key: Komdor_Boss_Door, Value: The door is sealed by some unknown force.
+Hash: B997DFB0, Key: PvP_OpenWorld_NoShards, Value: You are not carrying any Seeds of Hatred.
+Hash: F0B7C0FB, Key: DGN_Step_WhisperingVault_LockedBossDoor, Value: Break all three seals to open this door.
+Hash: A2FD7521, Key: DGN_AncientsLament_Door, Value: This door is locked by a nearby mechanism
+Hash: 20DAD6C2, Key: LockedFromInside, Value: This cannot be opened, it is barred from the inside.
+Hash: 1EED0E43, Key: CampfireNeedTorch, Value: Lighting a Campfire requires an active light source.
+Hash: 64D61744, Key: DGN_Step_PathoftheBlind_Essence, Value: You must bring an Essence here.
+Hash: 07E29E29, Key: DGN_Step_PathoftheBlind_BossDoor, Value: Bring all three Essences to these Vessels
+Hash: 02B3FC56, Key: DGN_Step_OrbeiMonastery_Litany, Value: The Door is locked to those that cannot swear to the vows of the Monastery. Seek the Words of the Founders.
+Hash: E479D2D3, Key: Test_RealmOfTerror_NeedMote, Value: Cleanse the shadows with the power of a Light Mote.
+Hash: E25CF70A, Key: GizmoBlockout_CarrionFields_DormantShrine, Value: The monolith is silent.
+Hash: 733CAC07, Key: DGN_DailyDungeon_MinLevelRequirement, Value: You must be at least level 5 to enter this dungeon. Please use a Boost.
+Hash: A2628510, Key: PVP_DungeonInvasion_PortalInactive, Value: {c_red}This portal is dormant, it cannot be used.{/c}
+Hash: 11AD8C0C, Key: DGN_Frac_SanguineChapel_SaintsGate, Value: The gate cannot be opened until the Crusader Skulls are returned.
+Hash: 3F048EFB, Key: CAMP_Step_Cannibal_BossGate_Locked, Value: Slay the remaining cannibals to open.
+Hash: 379AC12D, Key: TownPortalBindIsAlreadyBound, Value: [PH] You are already bound to this location
+Hash: D1251D9E, Key: DGN_Step_SeasideDescent_RustyGate, Value: The mechanism is jammed by the barrier of bones
+Hash: 904495EB, Key: DV_DruidicWard_01, Value: The Wardstone is dormant.
+Hash: FBC0B9B8, Key: DGN_Scos_WhisperingPines_BossDoor, Value: Your way is barred. Slay the Gatekeepers to gain entry.
+Hash: 95C5F50C, Key: pvp_OpenWorld_CorruptedGizmo, Value: You must be Bloodmarked to use.
+Hash: A68A43B4, Key: Frac_Underworld_FloodedPassage_Door, Value: You hear water rushing behind this wall, but see no way to open it.
+Hash: 1ED590E4, Key: BarredDoor, Value: Your way is barred.
+Hash: 9A7D04B5, Key: TEMP_RECEPTACLE_BROKEN_SHRINE, Value: This Shrine has been defaced, the top half is missing.
+Hash: D2DB7B00, Key: DGN_Step_DefiledCatacombs_Altar, Value: You must bring a Stone of Karamat here.
+Hash: CAAE7C01, Key: DGN_Step_DefiledCatacombs_Carryable, Value: Guardian's presence makes the stone untouchable.
+Hash: B84383E3, Key: Receptacle_CraneTribeCairn, Value: The Sacred Stone is missing.
+Hash: 704A5B82, Key: Receptacle_StockpileBarricade, Value: You need to find some some explosives.
+Hash: 55A0FA97, Key: Receptacle_OnyxPedestal, Value: The Ancients Statue is missing.
+Hash: 774153C8, Key: CAMP_Lighthouse_Carryable_Winch, Value: [PH] The winch is missing and must be replaced
+Hash: AB1EF5CC, Key: DGN_Scos_Stockades_BarredPath, Value: The Prisoner Effigies prevent flesh and spirit from crossing.
+Hash: A3A78663, Key: DGN_Frac_Zenith_BossInIce, Value: There's a faint murmur coming from the statue.
+Hash: 535C9D3B, Key: CSD_Hawe_SnakeTemple_LockedDoor, Value: The Great Serpent Key is required to open this door
+Hash: 47842F6B, Key: DGN_Frac_BlackAsylum_Gate, Value: The gate requires two keys to open.
+Hash: BC88E0E9, Key: DGN_Frac_IronTunnel_InoperableHole, Value: You need a Jar of Pitch to close this hole.
+Hash: 6739CEBE, Key: DGN_Scos_RuinedHoldfast_Door_01, Value: [PH] The Druid door won't budge
+Hash: 7F5A8A15, Key: DGN_Scos_RuinedHoldfast_BossDoor, Value: Totem of Frenzy still infuriates this place.
+Hash: 03D26D07, Key: DGN_Frac_HoarfrostDemise_DoorLocked, Value: Effigy of Bone need to be destroyed before this door can open.
+Hash: 9EEC4761, Key: Generic_UnknownMechanism, Value: This gate is locked by an unknown mechanism.
+Hash: 15028D16, Key: CAMP_Frac_GaleValley_StatueMissingPiece, Value: You do not possess the correct statue piece.
+Hash: 3F89D785, Key: CMP_Hawe_KeironsPyre_NeedTear, Value: A Bloodstone is required to disperse the flame rune.
+Hash: F987AD96, Key: BarredDoor2, Value: The door is barred from the other side.
+Hash: 9E6454A9, Key: DGN_Scos_WretchedDelve_BossLever, Value: [PH] You must destroy the effigies in order to operate.
+Hash: CC9F1E1A, Key: DGN_Scos_TomboftheElders_StoneTablet, Value: The tablet is sealed by magic.
+Hash: 2EB32508, Key: DGN_Frac_AnicasClaim_IceWall, Value: Collect more [PH] Death Mote to destroy this wall
+Hash: 8798708F, Key: DGN_Scos_LairOfTheDespoiler_Stones, Value: This ritual cannot be started with Wood Wraith present
+Hash: DA214F74, Key: DGN_Step_CharnelHouse, Value: This gate should stay shut until the prisoners are safe
+Hash: CEC938A8, Key: DGN_Frac_RimescarCavern_IceWall, Value: You need to destroy all flesh totems.
+Hash: 5C6693BA, Key: DGN_Hawe_BelfryZakara, Value: [PH] This door is sealed by drowned magic.
+Hash: 55FB9E63, Key: DGN_Hawe_EndlessGates_LockedDoor, Value: The door is sealed.  You must find the artifacts and place them onto the altars.
+Hash: 12E2A64D, Key: Receptacle_PillarofHolyMagic, Value: The chalice is missing.
+Hash: 815FDD9D, Key: DGN_Frac_CathedralofLight_ProphetsGate, Value: You must collect Animus from the Revenant Knights.
+Hash: 530E0B5F, Key: DGN_Frac_KorValarRamparts, Value: You need to find the key.
+Hash: F22EF5BC, Key: CAMP_Hawe_CrusadersMont_MissingCarryable, Value: You do not possess a ritual object.
+Hash: 1658B55A, Key: DGN_Step_DarkRavine, Value: The way is sealed by demonic magic.
+Hash: 6FDDBB08, Key: FrozenHeart, Value: It is cold to the touch.
+Hash: 427D2650, Key: Receptacle_Bloodstone, Value: The Bloodstone is missing.
+Hash: 19CF8DCE, Key: DEP_UnavailablePortal, Value: This area is not available.
+Hash: D1C2A60E, Key: Bounty_Harvest_NeedSouls, Value: You must collect more Anima to use.
+Hash: F9183D9F, Key: DGN_Frac_KorValarRamparts_Gate, Value: This gate requires a special key.
+Hash: 4047F430, Key: DGN_Kehj_PutridAquifer_PurifyWell, Value: Cleanse more monsters in the area.
+Hash: 4A1686F6, Key: DGN_Hawe_HeathensKeep_DoorLocked, Value: The door is still sealed by the remaining High Inquisitors.
+Hash: D2AB3397, Key: DGN_Collect_Mote_Death, Value: You need to collect more Death Motes.
+Hash: 44DF402C, Key: CAMP_Hawe_SnakeCultist_MissingCarryable, Value: You do not possess a gate key.
+Hash: 88698463, Key: DGN_Hawe_GhoaRuins_BossGate, Value: [PH] The statue of seaborn goddess keeps this gate sealed.
+Hash: 544DFAEA, Key: DGN_Kehj_TomboftheSaints_BossGate, Value: [PH] This sturdy gate takes two keys to open.
+Hash: DA681C7B, Key: DGN_Kehj_TomboftheSaints_FirstGate, Value: This door is locked by two mechanisms nearby.
+Hash: 4CB2A694, Key: DGN_Hawe_EarthenWound_SpectralBarrier, Value: A barrier of spectral energy blocks the way
+Hash: 959BC440, Key: DGN_Hawe_RuinsofEridu_LockedDoor, Value: The door is sealed. Slay the powerful creatures in the area to break the seal.
+Hash: 1E506721, Key: DGN_Frac_HallowedOssuary_FirstGate, Value: You need more Death Motes.
+Hash: 8EEE45F2, Key: DGN_Hawe_SerpentsLair_SacrificialGate, Value: Harvest more Wild Motes to unlock the way forward.
+Hash: 79EE8122, Key: DGN_Scos_BrokenBulwark_BarrierDoor, Value: The way is blocked by some mysterious force.
+Hash: CB35270C, Key: In_Combat, Value: You cannot do this while in combat.
+Hash: 011CCF8F, Key: QST_Scos_Hills_WeepingCairns_Receptacle, Value: You do not possess a Cairn Wardstone.
+Hash: 4C95BD80, Key: DGN_Hawe_IronHold_DemonicBarrier, Value: The way is sealed by demonic magic
+Hash: 687751D6, Key: DGN_Hawe_SteadfastBarracks_SaintsGate, Value: The gate is blocked by demonic magic
+Hash: 4AA3FF7B, Key: DGN_Hawe_IronHold_Gate, Value: A barrier prevents access to the gate
+Hash: FABE8FF5, Key: DGN_Hawe_AkkhansGrasp_CrimsonGate, Value: Find the Bloodstones to unlock the Crimson Gate
+Hash: 20A47594, Key: DGN_Kehj_SunkenLibrary_LockedGate, Value: This gate is locked by 2 nearby mechanisms.
+Hash: 121868EE, Key: DGN_Collect_Mote_Generic, Value: Not enough Animus to fill this Urn.
+Hash: F579554B, Key: QST_Hawe_Delta_Campfire, Value: You must have Elias' Mummified Finger to use this.
+Hash: 72A04E0C, Key: DGN_Hawe_LostKeep_Boss_Door, Value: There are still spirits anchored to this door.
+Hash: AEDE1F7E, Key: DGN_Kehj_DesertedUnderpass, Value: The infestation in this area are keeping these webs strong.
+Hash: BD7937CA, Key: Receptacle_StoneCarving, Value: The Stone Carving is missing.
+Hash: 3D3B5B0D, Key: Receptacle_AncientsState, Value: The Ancients Statue is missing.
+Hash: 972DE55B, Key: Receptacle_CrusaderSkull, Value: The Crusade Skull is missing.
+Hash: 72BDCEFE, Key: DGN_Frac_LostArchives_Coffin, Value: The coffin remains sealed
+Hash: C53A9F73, Key: USZ_InsufficientCurrency, Value: These gifts require more cinders to extract.
+Hash: 09DF510E, Key: DGN_Scos_TwistedHollow_Barrier, Value: Remaining enemies fuel the blood barrier
+Hash: 409AFE89, Key: DGN_Scos_MadduxWatch, Value: The door cannot be opened until the Crusader Skull is returned.
+Hash: AF78D794, Key: Receptacle_Inoperable_Generic, Value: A crucial object is missing
+Hash: D6CD6C60, Key: DRLG_Generic_Door_Lock, Value: This door is sealed.
+Hash: 754C0CBF, Key: QST_TriuneRitual, Value: Activate the three altars to activate.
+Hash: 1076138A, Key: QST_InsufficientQuestInventorySpace, Value: [PH] Your quest inventory is full. Complete or abandon a quest to make space.
+Hash: 1DC7B385, Key: Paragon Glyph Upgrade Requirement, Value: You must be at least level 50 to upgrade your glyphs.
+Hash: B5ECA6D1, Key: Bounty_Leyline_NeedRituals, Value: You must complete other ritual steps.
+Hash: C7B6DE4D, Key: Receptacle_HolyRelic_Dummy, Value: This altar has already been used. 
+Hash: B3DF27B4, Key: DGN_Scos_FloodedDepths, Value: A barrier prevents access to the gate release.
+Hash: 1EE70529, Key: S01_MVGN_BlueChest, Value: [PH] You need the Blue Key to open this chest.
+Hash: 625E8E30, Key: Season_LackNecessary, Value: You lack the necessary tool to interact with this object.
+Hash: 41DDA262, Key: Season_LackNecessaryQuest, Value: You must progress the Seasonal Questline in order to interact with this object.
+Hash: F567C996, Key: S2_DGN_Frac_VampireBossDungeon_Holdout_LockedDoor01, Value: The door is dormant.
+Hash: A23F2EAC, Key: USZ_ChestGuardian_Protected, Value: The Guardian of Terror still protects this chest.
+Hash: DA0EE6E6, Key: S2_Vampzone_Bounty_BloodSeeker_Altar_Locked, Value: This altar requires 10 Blood Phials
+Hash: CEB87E90, Key: S2_Vampzone_BloodSeeker_Altar_Large_Locked, Value: This receptacle requires 20 Blood Phials
+Hash: 7769559D, Key: S2_Vampzone_Bloodstone_Condenser_Locked, Value: This object condenses 20 Blood Phials into a Bloodstone
+Hash: 7BCA9E3F, Key: S2_Vampzone_Bloodstone_Altar, Value: A Bloodstone is needed
+Hash: 546F5C3A, Key: S2_Vampzone_GreaterBloodStone_Altar_Locked, Value: This altar requires a Glowing Blood Stone
+Hash: AFDC0C18, Key: S03_ScrapReceptacle_InsufficientScraps, Value: You must deposit 25 scrap in order to mold a construct limb.
+Hash: 8E33E36C, Key: S03_NeedAttunement_Chest, Value: This Chest is locked, you must have Zoltun's Ward to open it.
+Hash: D784126F, Key: S03_ZoltunsWard_InsufficientPearls, Value: You have an insufficient amount of Pearls of Warding
+Hash: 2D860A26, Key: S03_ZoltunsWard_AtMaxCharge, Value: Maximum amount of Zoltun's Warding has been reached.
+Hash: FFE1B220, Key: LBD_PortalDisabledMessage, Value: Use "Stop Trial" from the Trial UI to end the Trial and exit The Gauntlet.
+Hash: 12DA827A, Key: BSK_MissingHellCoins, Value: You require more Burning Aether to do that
+Hash: 5700686E, Key: BSK_NoPylCharges, Value: You require Burning Aether to accept this temptation. 
+Hash: C7B2959D, Key: BSK_RequiresWaveCount_3, Value: [ph] You must defeat more waves.
+Hash: C7B295A0, Key: BSK_RequiresWaveCount_6, Value: [ph] You must defeat more waves.
+Hash: D8E48AF6, Key: BSK_RequiresWavesCount_9, Value: [ph] You must defeat more waves.
+Hash: 222DCF0A, Key: BSK_MustDefeatMoreWaves, Value: You must defeat more waves.
+Hash: 755E7A58, Key: TalismanUnusable, Value: The Talisman is dormant.

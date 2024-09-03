@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: The Beastmane is crafted for those whose rage channels the heart of the Rewa. Once that gift is revealed, only then may the ritual to build and bind the Beastmane begin.
+Hash: 003DFCC1, Key: Name, Value: Beastmane Maw
+Hash: 13A53A8B, Key: Series, Value: "Beastmane"

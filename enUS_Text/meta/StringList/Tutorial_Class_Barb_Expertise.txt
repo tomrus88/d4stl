@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Weapon Expertise
+Hash: 7BFE534B, Key: simple_instruction, Value: Kill monsters to {c_highlight}increase the rank of your weapons{/c} and to unlock better bonuses.

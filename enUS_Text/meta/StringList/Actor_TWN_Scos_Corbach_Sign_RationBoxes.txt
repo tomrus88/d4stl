@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ration Boxes
+Hash: F2CA04D8, Key: NoticeSignText, Value: The boxes are almost gone. Most are partially empty and won't last long.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Notice Board
+Hash: F2CA04D8, Key: NoticeSignText, Value: "By order of Inarius the Father, anyone known to have served the demon Lilith must be delivered at once to the Knights Penitent. Those found giving aid to these heretics will face the Light in kind."

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Battered Iron Wolf Armor
+Hash: F5C7BC0A, Key: Flavor, Value: The armor set of a fallen Iron Wolf. Three distinct puncture wounds tell of the soldier's final moments.

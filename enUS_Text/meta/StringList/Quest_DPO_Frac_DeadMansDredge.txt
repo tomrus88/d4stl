@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hope dies here.
+Hash: 24EC6278, Key: Callback20Header, Value: Travel to the {LEVELAREA}
+Hash: 0BDB18BB, Key: Callback23Header, Value: Free the Prisoners: {LEFT}
+Hash: F81CED9C, Key: Callback33Header, Value: Deposit Animus into the {GIZMO}
+Hash: FD700C3A, Key: Callback40Header, Value: Slay the Alpha
+Hash: F2C9CEFE, Key: Callback26Header, Value: Collect {ITEM} from Animus Carriers

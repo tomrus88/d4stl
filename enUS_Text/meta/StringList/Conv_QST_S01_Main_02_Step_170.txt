@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've never seen Malignant. What is this corruption?"
+Hash: 8F104F47, Key: Line1.157838, Value: Scripture says we are each half angel and half demon. Lilith awakened the latter in people, driving them mad with hatred.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Academic, but with first-hand experience. Trauma.
+Hash: 6793F909, Key: Line3.157838, Value: For those who’ve turned Malignant... their demonic half is eating them alive.
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Somber. Heavy.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: A Pyre of Ash
+Hash: D29F0719, Key: Callback12Header, Value: Investigate the Embered Recess
+Hash: A07C739F, Key: Callback18Header, Value: Defeat the Blackweald ambushers
+Hash: A5CF923D, Key: Callback25Header, Value: Speak with Torben

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Defiled Ground
+Hash: 6E9787B1, Key: Callback317Header, Value: Destroy the {CUSTOM_PARAM1} before the ritual is complete
+Hash: 9EBBAB70, Key: Callback352Header, Value: Slay the channelers to disrupt their ritual
+Hash: A7D39953, Key: Callback328Header, Value: Slay the remaining enemies
+Hash: B279D68F, Key: Callback342Header, Value: Survive the assault

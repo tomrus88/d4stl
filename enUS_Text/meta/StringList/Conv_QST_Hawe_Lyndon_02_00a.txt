@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You have another job for me?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Ah! You're here. Ready to go shake some hands?
+Hash: 183CFC31, Key: Line7.10088C, Value: Let's talk at the usual spot.
+Hash: 687327FE, Key: VoiceDir7.10088C, Value: whispers

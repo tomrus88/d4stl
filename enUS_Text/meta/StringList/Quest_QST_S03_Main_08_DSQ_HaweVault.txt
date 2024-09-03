@@ -1,0 +1,34 @@
+Hash: 003DFCC1, Key: Name, Value: The Tumor
+Hash: 34127D38, Key: Phase199Description, Value: I made it inside the Vault of Ink. Now to open the way for Ayuzhan. He said I would find a Gateway deeper inside.
+Hash: 34A78978, Key: Callback198Header, Value: Find the Gateway in the Observatory
+Hash: 3FFBD549, Key: Callback201Header, Value: Activate the Gateway
+Hash: E12DEBCC, Key: Phase205Description, Value: Ayuzhan joined me in the Vault. I should lead him to the site of the exorcism. I can feel Malphas hounding us...
+Hash: 0DD941CF, Key: Callback207Header, Value: Speak with Ayuzhan
+Hash: A7CDBB51, Key: Callback209Header, Value: Speak with Ayuzhan
+Hash: 940F9032, Key: Callback219Header, Value: Interact with Conduit of Terror
+Hash: BC1E894A, Key: Phase221Description, Value: We've reached the ritual site within the Beating Heart. Ayuzhan believes an exorcism will rid the vaults of Malphas and save the Loom. The demon will not allow us to purge him easily. I should be ready for anything.  
+Hash: B273F88D, Key: Callback223Header, Value: Wait for Ayuzhan to finish the ritual
+Hash: B0DF5C2F, Key: Phase226Description, Value: We've reached the ritual site within the Beating Heart. Ayuzhan believes an exorcism will rid the vaults of Malphas and save the Loom. The demon will not allow us to purge him easily. I should be ready for anything.  
+Hash: 9EB5CD6E, Key: Callback233Header, Value: Enter the Beating Heart
+Hash: E1D2B990, Key: Phase227Description, Value: We've reached the ritual site within the Beating Heart. Ayuzhan believes an exorcism will rid the vaults of Malphas and save the Loom. The demon will not allow us to purge him easily. I should be ready for anything.  
+Hash: D29EC072, Key: Callback237Header, Value: Defeat the demons
+Hash: 12C616F1, Key: Phase228Description, Value: We've reached the ritual site within the Beating Heart. Ayuzhan believes an exorcism will rid the vaults of Malphas and save the Loom. The demon will not allow us to purge him easily. I should be ready for anything.  
+Hash: BEE09553, Key: Callback247Header, Value: Defeat the demons
+Hash: 43B97452, Key: Phase229Description, Value: We've reached the ritual site within the Beating Heart. Ayuzhan believes an exorcism will rid the vaults of Malphas and save the Loom. The demon will not allow us to purge him easily. I should be ready for anything.  
+Hash: C433B3F1, Key: Callback254Header, Value: Defeat the demons
+Hash: DA8A356A, Key: Phase230Description, Value: The coward Malphas has not shown himself despite Ayuzhan’s best attempts. Instead, he sends a herald – a so-called son. I will have victory, but I fear this is not the result Ayuzhan sought. 
+Hash: 16810F50, Key: Callback262Header, Value: Enter the Beating Heart
+Hash: 0B7D92CB, Key: Phase231Description, Value: Despite Ayuzhan's best attempts, Malphas won't be drawn out of the Loom. Instead, he sends a herald—a so-called Son. I will have victory, but I fear this is not the result Ayuzhan hoped for. 
+Hash: 4A6A0254, Key: Callback266Header, Value: Slay the Son of Malphas
+Hash: 3DBA8BB4, Key: Phase276Description, Value: The Son of Malphas is dead, but Malphas himself remains. I should confer with Ayuzhan in the Beating Heart.
+Hash: E9B19A74, Key: Callback275Header, Value: Speak with Ayuzhan
+Hash: 18AB2932, Key: Phase292Description, Value: Ayuzhan joined me in the Vault. I should lead him to the site of the exorcism. I can feel Malphas hounding us...
+Hash: 0F2F80F7, Key: Callback296Header, Value: Venture further into the Vault with Ayuzhan
+Hash: 6F52B6D9, Key: Phase299Description, Value: Ayuzhan joined me in the Vault. I should lead him to the site of the exorcism. I can feel Malphas hounding us...
+Hash: A923FA79, Key: Callback298Header, Value: Speak with Ayuzhan
+Hash: 7E54E02F, Key: Phase307Description, Value: Ayuzhan joined me in the Vault. I should lead him to the site of the exorcism. I can feel Malphas hounding us...
+Hash: 53BFDE6A, Key: Callback310Header, Value: Venture further into the Vault with Ayuzhan
+Hash: AF483D90, Key: Phase308Description, Value: Ayuzhan joined me in the Vault. I should lead him to the site of the exorcism. I can feel Malphas hounding us...
+Hash: 219D4AF0, Key: Callback316Header, Value: Enter and Survive the Amphitheater
+Hash: 59457DAD, Key: Phase323Description, Value: We've reached the ritual site within the Beating Heart. Ayuzhan believes an exorcism will rid the vaults of Malphas and save the Loom. The demon will not allow us to purge him easily. I should be ready for anything.  
+Hash: D9F62CCD, Key: Callback322Header, Value: Protect Ayuzhan

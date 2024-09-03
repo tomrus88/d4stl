@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Caged Storm
+Hash: A646FFA4, Key: Description, Value: A torrent of power erupted from their body as they finished the incantation. When the dust settled, only they were left standing, lightning still surging through their form.
+Hash: 083EE0CE, Key: Quote, Value: Shock and awe.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

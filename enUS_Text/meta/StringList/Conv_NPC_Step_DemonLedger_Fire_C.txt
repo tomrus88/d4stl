@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Scorched Debt Ledger
+Hash: 5D83FCDB, Key: Line1.FD62B, Value: (laughs) Pathetic!
+Hash: CC8D6308, Key: VoiceDir1.FD62B, Value: malevolent laughter

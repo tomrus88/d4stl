@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "That could have gone better."
+Hash: 4519651C, Key: Line11.10088C, Value: Agreed. So much for discretion. And I was careful to speak about this deal to a select few.
+Hash: 9C150A89, Key: VoiceDir11.10088C, Value: Thoughtful. 
+Hash: 1D9D0EDE, Key: Line13.10088C, Value: Which means we have a rat. Meet me in Backwater when you can—seems there’s more work to be done. Lucky you.
+Hash: 7498B44B, Key: VoiceDir13.10088C, Value: Still relaxed, despite the task ahead.

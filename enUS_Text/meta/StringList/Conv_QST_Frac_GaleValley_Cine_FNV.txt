@@ -1,0 +1,14 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: AFDD2476, Key: Line22.BAE4, Value: Are you Vigo? I was sent--
+Hash: F00E4087, Key: Line16.6DE47, Value: (grunts in surprise)
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Hey!
+Hash: 8A02BA09, Key: Line18.6DE47, Value: (grunt)
+Hash: DA38E5D6, Key: VoiceDir18.6DE47, Value: grunt from jumping down
+Hash: 0E72A8E2, Key: Line20.6DE47, Value: (sighs)
+Hash: 5EA8D4AF, Key: VoiceDir20.6DE47, Value: sigh
+Hash: F414A633, Key: Line3.6DE47, Value: I know what I saw. She had horns like a beast. Strode right past where you stand.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: To think my mother’s trapped in there with her! You let my mother through, sir, shouldn’t you be responsible for her safety?
+Hash: 27FD9937, Key: Line7.6DE47, Value: But, we have soldiers stationed inside who--
+Hash: C1F212B9, Key: Line9.6DE47, Value: You should be worried about them, too!
+Hash: 5619C705, Key: Line14.6DE47, Value: (exclaims out of frustration)
+Hash: 6F2B10C2, Key: Line11.6DE47, Value: Maybe you can help me?

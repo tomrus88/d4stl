@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Tongue Ripper
+Hash: A646FFA4, Key: Description, Value: Stoic, merciless, and unaffected by their own emotions and opinions, these imposing figures are a reminder of what happens if one strays from the flock. Carrying always with them the tongues of those fallen beneath their blades.
+Hash: 083EE0CE, Key: Quote, Value: Even the most destitute settlements have their versions of justice, and with that "justice" comes a need for those who execute its judgment.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

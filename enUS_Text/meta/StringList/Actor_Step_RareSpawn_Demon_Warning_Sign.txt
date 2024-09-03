@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: ALMUNN
+
+Do not travel through the Ashen Tread in the southern Scarred Coast without mercenary escort! A horrific demon calling itself Almunn scours the area for its next victim.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Two-Handed Mace Expertise
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Up to {c_number}{SF_0}%{/c} chance to gain {c_number}{SF_1}{/c} Fury when hitting an enemy. Double the amount of Fury gained while {c_important}Berserking{/c}.{if:SF_7}
+
+You deal {c_number}[{SF_6} * 100|%x|]{/c} increased Critical Strike Damage while {c_important}Berserking{/c}.{/if}
+Hash: F2DE8628, Key: simple_desc, Value: {c_label}Lucky Hit:{/c} Up to {c_number}{SF_0}%{/c} chance to gain {c_number}{SF_1}{/c} Fury when hitting an enemy. Double the amount of Fury gained while {c_important}Berserking{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: Chance to activate Lucky Hit increased to {c_number}{SF_3}%{/c}.

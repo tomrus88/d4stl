@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Stealth
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Stealth
+Hash: 2827F416, Key: Buff0_Description, Value: Cannot be targeted by enemies, removed by attacking or taking damage.

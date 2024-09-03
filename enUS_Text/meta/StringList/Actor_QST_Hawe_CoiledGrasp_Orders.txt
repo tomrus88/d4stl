@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Berolt's Orders
+Hash: CC3C0A8F, Key: FlavorText, Value: A blood-soaked scroll.
+Hash: F2CA04D8, Key: NoticeSignText, Value: Berolt, our highest priority is the rescue of our Brothers and Sisters. Once they are safe, clear any heretics from the ruins beyond. Be wary, there is something unnatural lurking beyond the walls. -Brother Warwick

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Serpent Cultist
+Hash: 5A278B05, Key: Line1.810BC, Value: It is by the will of our god that our village has long remained safe.
+Hash: F41C0487, Key: Line3.810BC, Value: We do not see her, though her children multiply in the swamp, circling us, feeding off us when it suits them.

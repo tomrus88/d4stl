@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “To meet who?” 
+Hash: A67637A6, Key: Line15.FA865, Value: It pains me to withhold the truth of his Light! But I sense it in you, pilgrim. So I shall tell you. He went to speak with the first of his children, Rathma. The prophecy’s true author.
+Hash: 406AB128, Key: Line17.FA865, Value: He emerged armed with sacred conviction! A holy battle at the center of the prophecy, to be won by his blade. He has meditated here for years and years ever since, readying to meet fate head-on.

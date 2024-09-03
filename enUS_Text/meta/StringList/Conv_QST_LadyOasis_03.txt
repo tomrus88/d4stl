@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I believe I have found the vessel you wanted."
+Hash: 18626759, Key: Line7.121A3D, Value: My champion returns successful. Finally someone competent enough to accomplish even the simplest of tasks.
+Hash: 68989326, Key: VoiceDir7.121A3D, Value: A little sarcastic
+Hash: F0E6111B, Key: Line9.121A3D, Value: Now place the vessel before me.

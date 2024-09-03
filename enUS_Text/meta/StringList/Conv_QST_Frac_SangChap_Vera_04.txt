@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have the Red Chalice."
+Hash: 8EB417E1, Key: Line1.1041B2, Value: Ah! Thank the fates that you live. I will destroy the Chalice, and, with some luck, that’ll be the end of it.
+Hash: 6737C1A3, Key: Line3.1041B2, Value: Thank you for all you've done... but please, never speak of this again.

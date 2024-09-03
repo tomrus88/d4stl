@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Istel Bark
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: Ho there, wanderer! Enjoying the heat?
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Calling out to Wanderer. Teasing.

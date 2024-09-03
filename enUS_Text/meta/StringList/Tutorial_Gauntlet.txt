@@ -1,0 +1,9 @@
+Hash: 086EAA02, Key: title, Value: The Gauntlet
+Hash: 3D08DF31, Key: 0_instruction, Value: Collect {c_highlight}Proofs of Might{/c} before the timer ends. Earn {c_highlight}Proofs{/c} by slaying monsters; defeating {c_highlight}Bosses{/c} will also drop a powerful {c_highlight}Shrine{/c}.
+Hash: 8C67E8B2, Key: 1_instruction, Value: You will also earn {c_highlight}Proofs{/c} by opening {c_highlight}locked Chests{/c}. {c_highlight}Keys{/c} will drop from a specified {c_highlight}Elite{/c} monster.
+Hash: DBC6F233, Key: 2_instruction, Value: {c_highlight}Pillars{/c} are a new type of {c_highlight}Shrine{/c} that boost your {c_highlight}Score{/c} potential.
+Hash: 2B25FBB4, Key: 3_instruction, Value: Be sure to {c_highlight}avoid dying{/c}! If you do, you will {c_highlight}drop{/c} a percentage of your {c_highlight}Proofs{/c}.
+Hash: 6C158A74, Key: 0_instruction_controller, Value: Collect {c_highlight}Proofs of Might{/c} before the timer ends. Earn {c_highlight}Proofs{/c} by slaying monsters; defeating {c_highlight}Bosses{/c} will also drop a powerful {c_highlight}Shrine{/c}.
+Hash: 3AFF0155, Key: 1_instruction_controller, Value: You will also earn {c_highlight}Proofs{/c} by opening {c_highlight}locked Chests{/c}. {c_highlight}Keys{/c} will drop from a specified {c_highlight}Elite{/c} monster.
+Hash: 09E87836, Key: 2_instruction_controller, Value: {c_highlight}Pillars{/c} are a new type of {c_highlight}Shrine{/c} that boost your {c_highlight}Score{/c} potential.
+Hash: D8D1EF17, Key: 3_instruction_controller, Value: Be sure to {c_highlight}avoid dying{/c}! If you do, you will {c_highlight}drop{/c} a percentage of your {c_highlight}Proofs{/c}.

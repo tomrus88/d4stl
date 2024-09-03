@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You're safe now."
+Hash: 8EED63EE, Key: Line1.138BED, Value: Edgar, who is this?
+Hash: 676F2FA2, Key: Line3.136591, Value: Someone I trust. What do you mean I need to hurry?
+Hash: 3FF4B772, Key: Line5.138BED, Value: Those men knew about the refugees, about the camp.
+Hash: 18768326, Key: Line7.136591, Value: What? Oh Hells, Osric must have tortured it out of someone. I need to get back there, now.
+Hash: 68ACAEF3, Key: VoiceDir7.136591, Value: Horrified at the potential situation at the overlook
+Hash: F0FA2CE8, Key: Line9.136591, Value: You've saved a life today, my friend. Many more hang in the balance. If you would stand by me, get to the Caldeum overlook, as fast as you can.

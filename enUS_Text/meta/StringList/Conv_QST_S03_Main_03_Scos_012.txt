@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “It sounds as though you and Zoltun had an argument before he left."
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: "An argument." Ha! That is beyond an understatement.
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: (chagrined)
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: When we discovered the demon, we believed it was a trifle – easily dealt with. But Malphas was tenacious. Every attempt to remove it ended in failure. After much time and many debates, we reached our breaking point.
+Hash: 4065B98F, Key: Line5.18AEA4, Value: Zoltun gave up on the Loom, and I did not. It is as simple as that.

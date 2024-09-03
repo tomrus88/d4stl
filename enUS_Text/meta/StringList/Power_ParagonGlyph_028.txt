@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: After casting a {c_important}Shout{/c} Skill, the active Cooldown of every other Non-{c_important}Shout{/c} Skill is reduced by {c_number}[SF_0|1|]{/c} seconds.

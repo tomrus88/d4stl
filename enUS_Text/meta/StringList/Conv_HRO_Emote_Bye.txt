@@ -1,0 +1,14 @@
+Hash: 70E1DB7B, Key: Line18.BAE4, Value: Farewell.
+Hash: DFEB41A8, Key: VoiceDir18.BAE4, Value: Succinct, direct, not unfriendly as if telling a companion goodbye for now.
+Hash: B931C6FA, Key: Line26.BAE4, Value: Goodbye.
+Hash: 283B2D27, Key: VoiceDir26.BAE4, Value: Succinct, direct, not unfriendly as if telling a companion goodbye for now.
+Hash: F0F07A39, Key: Line41.BAE4.Sor, Value: Time for our roads to part.
+Hash: F56B2EE6, Key: VoiceDir41.BAE4.Sor, Value: As if saying goodbye to a friend for a time.
+Hash: F0F03AD0, Key: Line41.BAE4.Dru, Value: Oak be with you.
+Hash: F56AEF7D, Key: VoiceDir41.BAE4.Dru, Value: As if saying goodbye to a friend for a time.
+Hash: F0F0301A, Key: Line41.BAE4.Bar, Value: Till our roads cross again.
+Hash: F56AE4C7, Key: VoiceDir41.BAE4.Bar, Value: As if saying goodbye to a friend for a time.
+Hash: F0F075ED, Key: Line41.BAE4.Rog, Value: I'll be seeing you.
+Hash: F56B2A9A, Key: VoiceDir41.BAE4.Rog, Value: As if saying goodbye to a friend for a time.
+Hash: F0F0639B, Key: Line41.BAE4.Nec, Value: Goodbye, not farewell.
+Hash: F56B1848, Key: VoiceDir41.BAE4.Nec, Value: As if saying goodbye to a friend for a time.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Lamplighter's Lantern-Staff
+Hash: A646FFA4, Key: Description, Value: Fixed to a saddle correctly, the lantern will keep your journey well-lit against the shroud of night.

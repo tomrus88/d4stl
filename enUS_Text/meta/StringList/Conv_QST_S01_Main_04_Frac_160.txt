@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What will you do now?"
+Hash: 189B4C8D, Key: Line7.157838, Value: I… want to see this through.
+Hash: 68D1785A, Key: VoiceDir7.157838, Value: Somber, but at peace.
+Hash: F11EF64F, Key: Line9.157838, Value: If those lost to the Malignant can find peace because of the cages, I’ll continue to make them.
+Hash: 4155221C, Key: VoiceDir9.157838, Value: Somber, but at peace.
+Hash: 4577B578, Key: Line11.157838, Value: I think Varshan will rest easier for it.
+Hash: 9C735AE5, Key: VoiceDir11.157838, Value: Somber, but at peace.

@@ -1,0 +1,6 @@
+Hash: 2B62C247, Key: Line7.FEF63, Value: (pained cry)
+Hash: 9A6C2874, Key: VoiceDir7.FEF63, Value: you are in pain and are freezing cold
+Hash: F779CF43, Key: Line3.FEF63, Value: Vasek...I f-failed you. I'm so sorry...
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: you are in pain and are freezing cold. Pronounciation: Vah-Seck
+Hash: 916E48C5, Key: Line5.FEF63, Value: We need to get out of here.
+Hash: 0077AEF2, Key: VoiceDir5.FEF63, Value: you are in pain and are freezing cold

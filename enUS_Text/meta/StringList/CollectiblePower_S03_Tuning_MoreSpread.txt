@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Arcing Support
+Hash: A646FFA4, Key: Description, Value: The supported {c_important}Arcing{/c} Skill can hit {c_number}[Collectible_Power_Value_1#S03_Tuning_MoreSpread]{/c} additional {if:SF_0}enemies{else}enemy{/if}.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Maximum Enemies Hit {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_MoreSpread+1]{/c}
+Hash: E971A20F, Key: Modifier, Value: Maximum number of enemies hit increased by {c_number}[Collectible_Power_Value_1#S03_Tuning_MoreSpread]{/c}.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

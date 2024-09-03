@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grisly Display
+Hash: F2CA04D8, Key: NoticeSignText, Value: The Watchtower has been turned into a symbol of fear and oppression.

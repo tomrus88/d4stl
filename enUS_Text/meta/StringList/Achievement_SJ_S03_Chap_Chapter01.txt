@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Chapter I
+Hash: 003892BF, Key: Desc, Value: The Season Journey will help guide you through the game and reward you along the way.  Each objective completed gives Favor to progress the Battle Pass. Get out there and slay some demons!

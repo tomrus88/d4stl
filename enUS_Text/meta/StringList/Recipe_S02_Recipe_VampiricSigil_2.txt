@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloodforged Sigil Tier 2
+Hash: 9E3ACE5E, Key: Category, Value: Bloodforged

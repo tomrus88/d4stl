@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Glinting Rubble
+Hash: F2CA04D8, Key: NoticeSignText, Value: You find a locket in amongst the rubble. The inscription reads, "The spirits bid us love, and love I will."

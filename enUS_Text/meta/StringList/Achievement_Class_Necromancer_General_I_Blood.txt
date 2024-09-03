@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sanguine Sated
+Hash: 003892BF, Key: Desc, Value: Pick up 10 Blood Orbs in 20 seconds. 

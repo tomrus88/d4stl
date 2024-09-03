@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Horadric Initiate's Robes
+Hash: F5C7BC0A, Key: Flavor, Value: The first set of robes given to a Horadrim apprentice. The garment itself is decorated with ornate yet faded astrological charts and symbols and a curious letter “E” has been sewn onto the inside.

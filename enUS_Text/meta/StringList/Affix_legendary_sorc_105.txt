@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Flamewalker's
+Hash: 003892BF, Key: Desc, Value: Coming in contact with your {c_important}Firewall{/c} grants you {c_random}[Affix_Value_1|%+|]{/c} Movement Speed for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Coming in contact with your {c_important}Firewall{/c} grants you {c_random}[Affix_Value_1|%+|]{/c} Movement Speed.

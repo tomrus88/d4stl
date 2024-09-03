@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I have news from the Fractured Peaks…”
+Hash: 47ADD91D, Key: Line31.6D03F, Value: Inarius' stupidity never ceases to amaze. Had he not murdered Rathma, Lilith might have been stopped, but now...
+Hash: 97E404EA, Key: VoiceDir31.6D03F, Value: Grim. Salty.
+Hash: E1A2529F, Key: Line33.6D03F, Value: Now, she has the Key to Hell. We can assume she’ll be looking for a door.
+Hash: 31D87E6C, Key: VoiceDir33.6D03F, Value: Grim. Salty. Weary.

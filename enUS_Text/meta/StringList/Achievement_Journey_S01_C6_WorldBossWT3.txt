@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Fiend Brought Low
+Hash: 3A4912CF, Key: DescShort, Value: Kill a World Boss in {icon:Icon_WorldTier_3, 2.5} Nightmare

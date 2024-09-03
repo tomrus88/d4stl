@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Blighted Fragments
+Hash: 7BFE534B, Key: simple_instruction, Value: Collect {c_highlight}Blighted Fragments{/c}  by slaying {c_highlight}Blightfiends{/c}. Exchange them for {icon:hibernal_proofs, 2.5}Midwinter Proofs at the Collections Table in the {icon:hibernal_event_icon, 2.5}Midwinter Square.

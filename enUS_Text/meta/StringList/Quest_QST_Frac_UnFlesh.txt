@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Unyielding Flesh
+Hash: 0871A46B, Key: Toast, Value: Help Krystyna find her husband in the Gnarled Timbers. 
+Hash: D53BFF05, Key: Phase0Description, Value: Krystyna has asked for help finding her husband, Feodor. She saw him flee into the woods with another woman. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Help Krystyna find her husband Feodor
+Hash: C9FCD1EA, Key: Phase5Description, Value: Krystyna has asked for help finding her husband, Feodor. Upon finding him, his mangled body was somehow still alive. 
+Hash: B8A227EA, Key: Callback4Header, Value: Confront the mysterious woman
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I have slain the Succubus and should return to Krystyna. 
+Hash: 9F90DE2D, Key: Callback7Header, Value: Return to Krystyna
+Hash: B87761DE, Key: Phase18Description, Value: Krystyna has slain her husband, Feodor. I should speak with her. 
+Hash: 538236DE, Key: Callback17Header, Value: Speak with Krystyna 
+Hash: D787DBC2, Key: Phase49Description, Value: Krystyna has slain her husband. She has offered the dagger buried in his chest as my reward. 
+Hash: 6541F242, Key: Callback48Header, Value: Claim the Fine Dagger

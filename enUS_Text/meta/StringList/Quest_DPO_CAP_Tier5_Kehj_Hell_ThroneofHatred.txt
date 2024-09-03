@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Throne of Hatred
+Hash: EC8B1AEE, Key: Callback8Header, Value: Approach the Throne
+Hash: D29F0719, Key: Callback12Header, Value: Defeat {Monster}
+Hash: 58D5557C, Key: Callback24Header, Value: Defeat {Monster}

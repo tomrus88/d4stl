@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Guardians of the Pit
+Hash: 5296A16C, Key: Callback6Header, Value: Slay the Champion of the Tar Pits

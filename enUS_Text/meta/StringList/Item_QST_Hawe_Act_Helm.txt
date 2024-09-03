@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crown of Whispers
+Hash: F5C7BC0A, Key: Flavor, Value: Worn by a king, a usurper, a thief? A macabre trophy. A gift from the tree.

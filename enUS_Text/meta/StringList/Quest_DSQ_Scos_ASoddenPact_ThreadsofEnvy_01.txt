@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Threads of Envy
+Hash: 83A65A9D, Key: Callback52Header, Value: Search for the Water Wight
+Hash: 1847B581, Key: Callback47Header, Value: Speak with Roina
+Hash: 0BDB18BB, Key: Callback23Header, Value: Defeat the Sodden Effigy
+Hash: E9B1E11B, Key: Callback50Header, Value: Speak with Roina

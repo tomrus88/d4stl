@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ghoul Heart
+Hash: F5C7BC0A, Key: Flavor, Value: The pulsing of this horrid heart secretes an oily mucus. 

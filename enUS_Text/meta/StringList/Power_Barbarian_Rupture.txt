@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: name, Value: Rupture
+Hash: 003892BF, Key: desc, Value: {if:SF_37}{c_label}Fury Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{/if}{if:SF_40}{if:SF_13}{c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c} seconds
+{/if}{if:SF_14}{c_label}Charges:{/c} {c_resource}{SF_15}{/c}
+{c_label}Charge Cooldown:{/c_label} {c_resource}{Recharge Time}{/c} seconds
+{/if}{/if}{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Skewer enemies in front of you, dealing {c_number}{payload:DAMAGE}{/c} damage which is guaranteed to {c_important}{u}Overpower{/u}{/c}. Then rip your weapon out, damaging enemies for their total Bleeding amount and removing all Bleeding damage from them.
+Hash: F2DE8628, Key: simple_desc, Value: Weapon Mastery Skill: Thrust your weapon into open wounds on the enemy, dealing heavy damage if it is bleeding.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{if:SF_14}{icon:bullet, 1.2} Charge Cooldown: {icon:arrow, 1.2} {c_number}{Recharge Time}{/c} seconds.
+{else}{icon:bullet, 1.2} Cooldown: {icon:arrow, 1.2} {c_number}{Cooldown Time}{/c} seconds.{/if}
+Hash: 1394CF37, Key: Mod4_Description, Value: Ripping your weapon out of enemies during {c_important}Rupture{/c} causes an explosion that deals {c_number}{dot:EXPLOSION_BLEEDING}{/c} Bleeding damage over {c_number}{SF_19}{/c} seconds. This damage is increased by {c_number}[{SF_33} * 100|%x|]{/c} for every {c_number}{SF_32}{/c} Strength you have.
+
+Current Bonus: {c_number}[{SF_34} * 100|%x|]{/c}
+Hash: 9B887BB4, Key: Mod4_Name, Value: Enhanced Rupture
+Hash: 62F3D8B8, Key: Mod5_Description, Value: Hitting at least {c_number}1{/c} enemy with {c_important}Rupture{/c} Heals you for {c_number}[{SF_21}*100|%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_21]){/c}.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Fighter's Rupture
+Hash: B252E239, Key: Mod6_Description, Value: Hitting enemies with {c_important}Rupture{/c} increases your Attack Speed by {c_number}[{SF_23} * 100|%+|]{/c} for {c_number}{buffduration:ATTACK_SPEED}{/c} seconds.
+Hash: A032CCF6, Key: Mod6_Name, Value: Warrior's Rupture

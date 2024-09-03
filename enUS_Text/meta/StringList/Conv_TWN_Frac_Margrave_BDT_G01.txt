@@ -1,0 +1,4 @@
+Hash: 5D59265A, Key: Line1.E7241, Value: I am innocent! Don’t let me burn!
+Hash: CC628C87, Key: VoiceDir1.E7241, Value: Desperate. Scared. Lying to save her skin.
+Hash: 675DA8DC, Key: Line3.1275AC, Value: You murdered innocents for the coin in their pockets. Confess, and seek grace in the Light.
+Hash: B793D4A9, Key: VoiceDir3.1275AC, Value: Responding to Bandit. Calm. Resolute. Authoritative.

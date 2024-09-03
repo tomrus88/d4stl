@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is something wrong?"
+Hash: 8EB4E275, Key: Line1.104B3D, Value: Yes! Gan! That thieving sty-squatter ran off with my precious Tuji.
+Hash: DEEB0E42, Key: VoiceDir1.104B3D, Value: Emotional, distraught. Anger towards Gan
+Hash: 67388C37, Key: Line3.104B3D, Value: That goat was like a son to me. He had a smile to melt all troubles.
+Hash: B76EB804, Key: VoiceDir3.104B3D, Value: Impassionated affection, stirred by memories
+Hash: 3FBC35F9, Key: Line5.104B3D, Value: Now Gan's taken him to Qara Yisu, beyond my reach.
+Hash: 8FF261C6, Key: VoiceDir5.104B3D, Value: Dejected, hopeless
+Hash: 183FDFBB, Key: Line7.104B3D, Value: Oh, Tuji...
+Hash: 68760B88, Key: VoiceDir7.104B3D, Value: Dejected, tearful

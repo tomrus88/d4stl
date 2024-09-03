@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Ironwood Recurve
+Hash: 003DFCC1, Key: Name, Value: Windforce
+Hash: F5C7BC0A, Key: Flavor, Value: "There have been numerous world-shaping conflicts throughout history. This bow has been found on the battlefield of every one, and always in the hands of the victors."
+- Barrett's Book of Implements

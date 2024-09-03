@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gano Fungus
+Hash: F5C7BC0A, Key: Flavor, Value: The fungus glows a strange green and offers a pungent odor long after being harvested. 

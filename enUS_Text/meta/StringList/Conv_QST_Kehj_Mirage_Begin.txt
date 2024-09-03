@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Hello?"
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Desert Winds
+Hash: F74BC161, Key: Line3.E2EF6, Value: (whipping winds)

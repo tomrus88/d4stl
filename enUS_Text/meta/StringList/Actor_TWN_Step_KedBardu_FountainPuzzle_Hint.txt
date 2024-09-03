@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Old Tablet
+Hash: F2CA04D8, Key: NoticeSignText, Value: The crumbling stone has a few discernable words:
+"...spill their blood to be deemed worthy..."

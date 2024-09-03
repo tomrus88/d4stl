@@ -1,0 +1,4 @@
+Hash: F438D28C, Key: Line3.8DD12, Value: I will set your "Tree" afire and cast your corpse upon the flames.
+Hash: 634238B9, Key: VoiceDir3.8DD12, Value: Annoyed. Superior. Deadly. (In combat, but not exerted)
+Hash: 2821C590, Key: Line7.8DD12, Value: I owe no one but the Mother.
+Hash: 972B2BBD, Key: VoiceDir7.8DD12, Value: Annoyed. Superior. Deadly. (In combat, but not exerted)

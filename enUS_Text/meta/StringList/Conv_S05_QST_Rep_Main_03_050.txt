@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Gospel of Lilith
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Istel's Grimoire
+Hash: 214289C8, Key: Line13.1BCD2B, Value: Lilith stood by a burning pyre and spoke to her children of Hatred. “The righteous believe themselves to be strong,” she said. “Worthy above all others. But in their contempt of the enemy, they fall easily to His will.”
+Hash: 783E2F35, Key: VoiceDir13.1BCD2B, Value: Reading the gospel. Reverent. Calm.
+Hash: F9C6338A, Key: Line15.1BCD2B, Value: "Remember the power in your own free will, and let no one, angel or demon, take it away from you."
+Hash: 50C1D8F7, Key: VoiceDir15.1BCD2B, Value: Reading the gospel. Reverent. Calm.

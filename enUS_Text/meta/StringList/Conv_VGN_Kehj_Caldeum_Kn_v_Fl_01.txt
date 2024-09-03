@@ -1,0 +1,4 @@
+Hash: 5D226C1B, Key: Line1.B67DA, Value: Where are they all coming from?
+Hash: CC2BD248, Key: VoiceDir1.B67DA, Value: yelled, terrified, in battle
+Hash: F4208871, Key: Line3.8998F, Value: Stand your ground, recruit!
+Hash: 6329EE9E, Key: VoiceDir3.8998F, Value: yelled, in battle

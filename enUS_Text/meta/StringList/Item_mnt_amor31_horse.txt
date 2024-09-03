@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Horse Armor
+Hash: A646FFA4, Key: Description, Value: Basic horse armor for test.

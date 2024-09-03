@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to you?"
+Hash: 59F2E8EE, Key: Line1.54239, Value: The villagers, those fools, they wouldn't listen when we demanded the gems to open the temple. Death found them. It's the way of things.
+Hash: C8FC4F1B, Key: VoiceDir1.54239, Value: Dying, but if we can try a faster read that would be great
+Hash: F3E76270, Key: Line3.54239, Value: But I hear them still, their warnings. Four of us are dead now, and I am soon to follow.
+Hash: 62F0C89D, Key: VoiceDir3.54239, Value: At the end of this line, the bandit falls over and dies

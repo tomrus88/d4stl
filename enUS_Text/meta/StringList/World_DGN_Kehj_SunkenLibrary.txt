@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sunken Library
+Hash: 003892BF, Key: Desc, Value: The dead guard secrets confined in the ancient vault.

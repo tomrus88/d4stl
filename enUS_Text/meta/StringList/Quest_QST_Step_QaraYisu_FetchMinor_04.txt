@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Phases of the Moon
+Hash: 0871A46B, Key: Toast, Value: Workers need talismans to ward off curses in Qara Yisu.
+Hash: 8DCA476E, Key: Phase9Description, Value: I have collected the Khazra Bones. I should return them to Arban in Qara Yisu for reward. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Arban
+Hash: 30DC76D6, Key: Phase10Description, Value: Superstitions and worry have infected the workers of Qara Yisu. I've been tasked with collecting Khazra Bones to help ward off curses and put the people's minds at ease. Khazra roam outside of the mine, in the Barren Steeps and Yin’ada Gur. 
+Hash: D29F0719, Key: Callback12Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}

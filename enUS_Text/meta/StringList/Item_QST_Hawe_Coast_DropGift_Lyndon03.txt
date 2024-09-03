@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Thieves Guild Emblem
+Hash: F5C7BC0A, Key: Flavor, Value: A plain iron medallion with the Thieves Guild symbol embossed into the center. Lyndon might be interested in this.

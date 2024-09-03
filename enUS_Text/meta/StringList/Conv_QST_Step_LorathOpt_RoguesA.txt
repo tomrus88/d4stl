@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Where did the Sightless Eye come from?”
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: It's a relic from when the world was young. For many years, an order of rogues called the Sisters of the Sightless Eye kept it safe.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Not sure how they lost hold of it, but I’ve heard the Sisters are not as strong as they once were.
+Hash: F413C4CC, Key: Line3.6D03F, Value: Knowledge of their craft has spread to others, but most rogues you see these days are not true members of the order.

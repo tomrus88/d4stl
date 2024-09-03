@@ -1,0 +1,2 @@
+Hash: F427C5EC, Key: Line3.7FA05, Value: (speaking Horadric)
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Uttering an incantation. Pronunciation:                                     ooh cha kid, chess bith hilm                                                                   "ooh" is like "boo"

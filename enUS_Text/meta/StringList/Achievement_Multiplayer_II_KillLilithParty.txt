@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: United Against Darkness
+Hash: 003892BF, Key: Desc, Value: Defeat Lilith while in a party.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Lorath, what happened?"
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: How long were we out?
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Confused, slightly out of it. Slightly dreamy feel, under the effects of mystic incense.
+Hash: F414A633, Key: Line3.6DE47, Value: I don’t know, but I think the incense worked. I see something.
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Slightly dreamy feel, under the effects of mystic incense. Seeing something in the distance.

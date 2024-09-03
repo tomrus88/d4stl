@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: More Value Than Gold
+Hash: 0871A46B, Key: Toast, Value: The Iron Wolves' water supply has been poisoned.
+Hash: D53BFF05, Key: Phase0Description, Value: Something is polluting the Iron Wolves' water supplies. Haddad asked that I meet up with Asa to determine the cause.
+Hash: 3FC40BBF, Key: Callback27Header, Value: Speak with Asa at the oasis' shore
+Hash: B87761DE, Key: Phase18Description, Value: Asa and I chased a bandit into caverns beneath the oasis. We must put a stop to whatever it is they are doing here.
+Hash: 538236DE, Key: Callback17Header, Value: Enter the Tunnels Beneath the Oasis
+Hash: D9B88541, Key: Callback29Header, Value: Investigate the oasis' shore

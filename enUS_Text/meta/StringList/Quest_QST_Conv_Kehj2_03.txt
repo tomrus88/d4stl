@@ -1,0 +1,13 @@
+Hash: A5CF923D, Key: Callback25Header, Value: Speak with Lorath
+Hash: 003DFCC1, Key: Name, Value: Eye of the Storm
+Hash: 0871A46B, Key: Toast, Value: Gather your allies and prepare to travel to Hawezar
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with your allies at the Forsaken Chapel
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I should speak with the others before we depart for Hawezar. 
+Hash: 30DC76D6, Key: Phase10Description, Value: I think we've made our preparations and it's time to depart. I should tell Lorath. 
+Hash: B2D8ACDE, Key: Phase10OutsideSubzoneHeader, Value: Speak with your allies at the Forsaken Chapel
+Hash: E96ABF3F, Key: Phase19Description, Value: Andariel is defeated but the attack took us by surprise. I should make sure the others are unharmed.
+Hash: 8C4D7B67, Key: Phase19OutsideSubzoneHeader, Value: Check on your allies
+Hash: 71E69F39, Key: Callback21Header, Value: Check on your companions
+Hash: 4408F5DB, Key: Phase24Description, Value: I should speak with the others before we depart for Hawezar. 
+Hash: 69B8E183, Key: Phase24OutsideSubzoneHeader, Value: Speak with your allies at the Forsaken Chapel
+Hash: 0BDB18BB, Key: Callback23Header, Value: Speak with Lorath

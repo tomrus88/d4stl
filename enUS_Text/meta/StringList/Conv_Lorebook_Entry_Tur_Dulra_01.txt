@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Scorched Page
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Scorched Page
+Hash: 5D23008D, Key: Line1.B79B2, Value: The roots of the Great Oak parted, and Vasily emerged from his rest. Barefoot, he stood before his druids, his voice clear as a winter wind...
+Hash: CC2C66BA, Key: VoiceDir1.B79B2, Value: Reverent. Proud. Reading a sacred text to students.
+Hash: 910BF391, Key: Line5.B79B2, Value: “From angel and devil were you born, as was the whole of nature. You alone may grow strong. But join yourself to nature, and neither angel nor devil may rule you.”

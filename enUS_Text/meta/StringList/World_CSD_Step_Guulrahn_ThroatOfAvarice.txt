@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Offal Pits
+Hash: 003892BF, Key: Desc, Value: These filthy caves hide a secret path into Guulrahn Palace.

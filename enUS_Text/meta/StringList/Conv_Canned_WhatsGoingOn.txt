@@ -1,0 +1,21 @@
+Hash: 750EE5FC, Key: Line16.BAE4.Bar, Value: What is happening here?
+Hash: 750F197D, Key: Line16.BAE4.Nec, Value: What goes on here?
+Hash: 750EF0B2, Key: Line16.BAE4.Dru, Value: What's going on?
+Hash: 750F301B, Key: Line16.BAE4.Sor, Value: What's going on here?
+Hash: 750F2BCF, Key: Line16.BAE4.Rog, Value: What's happening here?
+Hash: EA4156B9, Key: Line22.BAE4.Bar, Value: What's the problem?
+Hash: EA418A3A, Key: Line22.BAE4.Nec, Value: What is the problem here?
+Hash: EA41616F, Key: Line22.BAE4.Dru, Value: Is there a problem?
+Hash: EA41A0D8, Key: Line22.BAE4.Sor, Value: What troubles you?
+Hash: EA419C8C, Key: Line22.BAE4.Rog, Value: What's the problem here?
+Hash: 0280BD7F, Key: Line28.BAE4.Bar, Value: Is there trouble here?
+Hash: 0280F100, Key: Line28.BAE4.Nec, Value: Is there trouble?
+Hash: 0280C835, Key: Line28.BAE4.Dru, Value: Is there trouble here?
+Hash: 0281079E, Key: Line28.BAE4.Sor, Value: Is there trouble here?
+Hash: 02810352, Key: Line28.BAE4.Rog, Value: What's the trouble?
+Hash: 77B32E3C, Key: Line34.BAE4.Bar, Value: Do you need my aid?
+Hash: 77B361BD, Key: Line34.BAE4.Nec, Value: Do you require aid?
+Hash: 77B338F2, Key: Line34.BAE4.Dru, Value: Do you need help?
+Hash: 77B3785B, Key: Line34.BAE4.Sor, Value: Do you require my aid?
+Hash: 77B3740F, Key: Line34.BAE4.Rog, Value: Do you need help?
+Hash: 45274CB6, Key: Line40.BAE4, Value: Are you all right?

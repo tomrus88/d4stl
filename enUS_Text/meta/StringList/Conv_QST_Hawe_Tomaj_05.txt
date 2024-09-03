@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen in on conversation.)
+Hash: 8EB3433E, Key: Line1.101BAB, Value: Alright sweetheart, work's all (hic) done.
+Hash: DEE96F0B, Key: VoiceDir1.101BAB, Value: Smug, a bit condescending. (The "(hic) is a drunken hiccup.)
+Hash: 67358BFF, Key: Line3.1000C2, Value: Oh? How'd your drunk ass manage that? And who is this you've dredged up now?
+Hash: B76BB7CC, Key: VoiceDir3.1000C2, Value: Suspicious. Almost interrogative.
+Hash: BAE77FDB, Key: Line18.101CAF, Value: Ervin, ma'am. Pleased to meet you. My ship was attacked just off-shore. These two were kind enough to rescue me.
+Hash: 11E32548, Key: VoiceDir18.101CAF, Value: Respectful. In the last sentence, expressing gratitude.
+Hash: 315B1D4F, Key: Line12.1000C2, Value: "Kind?" Ha. Tomaj and... hey, I seen you before. You were the one floating around here earlier.
+Hash: 8856C2BC, Key: VoiceDir12.1000C2, Value: Repeating the word "kind" in disbelief. Suspicious, then pointed in the final sentence
+Hash: CD53E48E, Key: Line20.1000C2, Value: Wait, I see now. You didn't do this alone, did you, Tomaj? You hounded this one into doing the work for you.
+Hash: 244F89FB, Key: VoiceDir20.1000C2, Value: With realization, she figures out she's being lied to. Accusatory.
+Hash: 09E02812, Key: Line14.101BAB, Value: What? (hic) No, c'mon - I barely even noticed them there before. Honest.
+Hash: 60DBCD7F, Key: VoiceDir14.101BAB, Value: Playing dumb. He's lying here.
+Hash: E26270D3, Key: Line16.1000C2, Value: Enough outta you. Now, you there! Tell Szilvia the truth.
+Hash: 395E1640, Key: VoiceDir16.1000C2, Value: Fed up. She's cutting off any further discussion and demanding the truth.

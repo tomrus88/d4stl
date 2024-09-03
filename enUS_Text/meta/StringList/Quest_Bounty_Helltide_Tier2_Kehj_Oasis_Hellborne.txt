@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cull Hellborne
+Hash: 0871A46B, Key: Toast, Value: Hell has sent its most powerful warriors to purge Sanctuary of all resistance. Hunt them down before they can.
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay Hellborne: {DONE_OVER_NEEDED}

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Feed hatred and be consumed.
+Hash: 6A9510E0, Key: Callback55Header, Value: Defeat the {MONSTER}
+Hash: BCE26C3F, Key: Callback63Header, Value: Destroy the Idols: {LEFT}
+Hash: 34ADAE21, Key: Callback92Header, Value: Slay Keeper Xor'lim and collect {ITEM}
+Hash: 95661601, Key: Callback83Header, Value: Use Garan's Key to open the {GIZMO}
+Hash: C94F0905, Key: Callback87Header, Value: Travel to the {LEVELAREA}

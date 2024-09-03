@@ -1,0 +1,4 @@
+Hash: 0C6AA164, Key: Line13.F738B, Value: I am glad to see you return. Our city is healing slowly, yet surely.
+Hash: 5CA0CD31, Key: VoiceDir13.F738B, Value: To player. Genuine. Grateful.
+Hash: 40539468, Key: Line17.F738B, Value: When next you see Donan, tell him I hope that he is healing also.
+Hash: 9089C035, Key: VoiceDir17.F738B, Value: Genuine. Misses his friend.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why do you collect these relics?”
+Hash: 5D73363A, Key: Line1.EECAE, Value: Well, shouldn’t they be collected? Would you leave a host of curse-bearing relics to fester across your homeland?
+Hash: F767AFBC, Key: Line3.EECAE, Value: I thought not.

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Journal Page
+Hash: 5D72A43A, Key: Line1.EDC70, Value: They won’t believe me. No matter how many people I tell and beg for help, nobody will accept that I saw monsters in those ruins! Cowards! I won’t let these monsters slaughter my family.
+Hash: F7671DBC, Key: Line3.EDC70, Value: At dawn, my brother and I will head into the tunnels and take out their leader ourselves. If I survive, I’ll carry the monster’s head through the streets.

@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Zir is dead."
+Hash: 8F238278, Key: Line1.1697C7, Value: I thought I’d seen most everything. Knew what to trust, what to fear...when to fight, when to run.
+Hash: DF59AE45, Key: VoiceDir1.1697C7, Value: Deep relief. Reflecting on the past.
+Hash: 67A72C3A, Key: Line3.1697C7, Value: I ran from you. I feared I'd pushed you too far. Created a monster to fight the monsters. Utter madness.
+Hash: B7DD5807, Key: VoiceDir3.1697C7, Value: Reflecting. Regret. Honesty. 
+Hash: 402AD5FC, Key: Line5.1697C7, Value: It felt like the world was falling apart. I knew the Cathedral wouldn’t help, but who could?
+Hash: 906101C9, Key: VoiceDir5.1697C7, Value: Reflecting. Honesty. Finally admitting fears.
+Hash: 18AE7FBE, Key: Line7.1697C7, Value: Then you tracked me down. Cursed and drowning in blood, you pulled me through to face the darkness.
+Hash: 68E4AB8B, Key: VoiceDir7.1697C7, Value: Reflecting. Honesty. Disbelief.
+Hash: F1322980, Key: Line9.1697C7, Value: (chuckles) Nothing makes sense anymore. Every law of nature tells me you should be a vampire, yet something inside you resists. It might even cure you in time.
+Hash: 4168554D, Key: VoiceDir9.1697C7, Value: Amused by the absurdity. At a loss to explain it.
+Hash: 458AE8A9, Key: Line11.1697C7, Value: My best guess? It’s something in your blood.
+Hash: 9C868E16, Key: VoiceDir11.1697C7, Value: Shrugging. Posing a theory.

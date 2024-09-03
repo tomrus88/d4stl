@@ -1,0 +1,22 @@
+Hash: F70C96E2, Key: Phase14OutsideSubzoneHeader, Value: Speak with Taissa at the Ruined Tower
+Hash: 0BD2D685, Key: Phase26OutsideSubzoneHeader, Value: Speak with Donan at the Ruined Tower
+Hash: E4525B4A, Key: Phase49OutsideSubzoneHeader, Value: Help Donan fix the soulstone at the Ruined Tower
+Hash: 1FA3CC64, Key: Phase52OutsideSubzoneHeader, Value: Help Donan fix the soulstone at the Ruined Tower
+Hash: 70B0C6E5, Key: Phase53OutsideSubzoneHeader, Value: Help Donan fix the soulstone at the Ruined Tower
+Hash: 05F1AB6A, Key: Phase58OutsideSubzoneHeader, Value: Speak with Donan at the Ruined Tower
+Hash: 003DFCC1, Key: Name, Value: One Step Forward
+Hash: 0871A46B, Key: Toast, Value: Return to the Ruined Tower
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Return to the Ruined Tower
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Donan's healing has only just begun. I should wait for him at the ruined tower.
+Hash: F4A9EC5A, Key: Phase14Description, Value: Donan's healing has only just begun. I should wait for him at the ruined tower.
+Hash: 1F9943DA, Key: Callback13Header, Value: Speak with Taissa
+Hash: A5EFB09D, Key: Phase26Description, Value: I need to speak with Donan in the Ruined Tower near Wejinhani now that the Soulstone has been repaired. 
+Hash: A5CF923D, Key: Callback25Header, Value: Speak with Donan
+Hash: D787DBC2, Key: Phase49Description, Value: I need to follow Donan's instructions on preparing to fix the Soulstone. 
+Hash: 6541F242, Key: Callback48Header, Value: Mix the Quicksilver with other liquids
+Hash: D03F579C, Key: Phase52Description, Value: I need to follow Donan's instructions on preparing to fix the Soulstone. 
+Hash: 36AC1DDC, Key: Callback51Header, Value: Turn the wheel two rotations
+Hash: 0132B4FD, Key: Phase53Description, Value: I need to follow Donan's instructions on preparing to fix the Soulstone. 
+Hash: 6A9510E0, Key: Callback55Header, Value: Grind the Sulfur 
+Hash: F5F387E2, Key: Phase58Description, Value: I need to confront Donan about fixing the Soulstone. 
+Hash: 04898A62, Key: Callback57Header, Value: Speak with Donan

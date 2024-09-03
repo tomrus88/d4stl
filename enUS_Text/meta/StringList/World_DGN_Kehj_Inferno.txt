@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Inferno
+Hash: 003892BF, Key: Desc, Value: We have carved into the rock to seek Hell.

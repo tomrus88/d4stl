@@ -1,0 +1,3 @@
+Hash: 5D201CB4, Key: Line1.B20CF, Value: One night, Tavish came into the Goose screaming about a bear turning into a man, heh. Had Torben and me in stitches. “Druids!?”
+Hash: CC2982E1, Key: VoiceDir1.B20CF, Value: Fondly recalling the past. "Heh" is a dry laugh. Nairne is gently mocking Tavish's silly ideas and voice when she imitates him by saying "Druids!?"
+Hash: F7149636, Key: Line3.B20CF, Value: Said he’d find their den and bop each one 'til they proved him true.

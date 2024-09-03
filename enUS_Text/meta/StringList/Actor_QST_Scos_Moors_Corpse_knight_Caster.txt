@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Knight Penitent
+Hash: F2CA04D8, Key: NoticeSignText, Value: Claw marks riddle the decaying body. A single word is written across the fallen knight's chest: TRESPASSER.

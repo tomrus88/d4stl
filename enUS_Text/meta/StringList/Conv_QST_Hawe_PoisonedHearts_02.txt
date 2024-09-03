@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found your necklace. Are you alright?"
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: (sigh) Yes... yes. Thank you. I'll be all right. Gulyas' ritual is just... draining...
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: Out of breath. Pronounciation: "Gool-ee-yas"
+Hash: F75EAA33, Key: Line3.F53E7, Value: Only when meddled with by well-meaning but ignorant visitors.
+Hash: 66681060, Key: VoiceDir3.F53E7, Value: Disappointed mom voice. The player meant well but they could have hurt your young ward with their carelessness.
+Hash: 915323B5, Key: Line5.F53E7, Value: Have the voices quieted, Aneta? Can you understand them yet?
+Hash: 005C89E2, Key: VoiceDir5.F53E7, Value: Strike a balance between caring and professional. You are responsible for training Aneta.
+Hash: 2B479923, Key: Line7.F52ED, Value: It still hurts when they speak...they all talk over each other...I'm sorry...
+Hash: 9A50FF50, Key: VoiceDir7.F52ED, Value: Scared of letting your teacher who you look up to down. Slightly ashamed of your lack of progress.
+Hash: C53C16B9, Key: Line9.F53E7, Value: We don't apologize for things outside our control.
+Hash: 34457CE6, Key: VoiceDir9.F53E7, Value: Said like a well-known phrase you've told your student many times. Witches don't apologize.
+Hash: 727514C2, Key: Line11.F53E7, Value: Hmm. Something still enflames your blood. There is only one thing left to try.
+Hash: C2AB408F, Key: VoiceDir11.F53E7, Value: Curious. Thinking it through as you speak. A bit disappointed on the last sentence, you were hoping to avoid having to bring out the big guns.

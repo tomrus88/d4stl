@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloodied Corpses
+Hash: F2CA04D8, Key: NoticeSignText, Value: A gruesome collection of partially eaten corpses. Scraps of fine clothing suggest these may be the remains of the royal family.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "A treasure goblin dropped this journal. It bears your name."
+Hash: 67813FB1, Key: Line3.14638B, Value: (laugh) I haven't seen this since my youth. I tracked a goblin hoping it would lead me to the realm of endless riches.
+Hash: B7B76B7E, Key: VoiceDir3.14638B, Value: Bemused. A little heated at remembering a treasure goblin stole his tooth, but it happened a while back.
+Hash: 18889335, Key: Line7.14638B, Value: Didn’t know the damned bugger was really following me. (laugh) Knocked me on the head and stole my gold tooth!
+Hash: 4004E973, Key: Line5.14638B, Value: Here is a reward for your service. Old Ostaf pays his debts.

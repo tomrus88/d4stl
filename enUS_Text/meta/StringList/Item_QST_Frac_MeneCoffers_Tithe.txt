@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tithing Demands
+Hash: F5C7BC0A, Key: Flavor, Value: This ledger details a heavy tithing requirement due to the Cathedral of Light. There are several tabbed sections noting inconsistencies and incorrect figures. 

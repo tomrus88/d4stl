@@ -1,0 +1,10 @@
+Hash: 720B5FC2, Key: Line13.18AEA4.Nec, Value: You are a priest of Rathma. Or trained in their way.
+Hash: 720B2C41, Key: Line13.18AEA4.Bar, Value: You are a Child of Bul-Kathos. Or trained in their way.
+Hash: 720B7660, Key: Line13.18AEA4.Sor, Value: You are a student of the Zann Esu. Or trained in their way.
+Hash: 720B36F7, Key: Line13.18AEA4.Dru, Value: I recognize your charms! You are learned in the Scéal Fada.
+Hash: 720B7214, Key: Line13.18AEA4.Rog, Value: You are trained in the way of the Sightless Eye.
+Hash: 8537DEC7, Key: Line27.18AEA4.Nec, Value: I see it in the shallowness of your breath. We learned much from your order.
+Hash: 8537AB46, Key: Line27.18AEA4.Bar, Value: (chuckles) Sure-footed, kind-hearted. I hope to visit Mount Arreat someday – see the Worldstone with my own eyes.
+Hash: 8537F565, Key: Line27.18AEA4.Sor, Value: I am Yshari, myself. I’d always hoped our clans would convene more often. Debates were lively, but never petty. Quite the rarity in Caldeum.
+Hash: 8537B5FC, Key: Line27.18AEA4.Dru, Value: I never thought I’d meet a king of the Glen! Few come to Caldeum these days, and no wonder. Intolerance abounds.
+Hash: 8537F119, Key: Line27.18AEA4.Rog, Value: I see it in the lightness of your step. I hear the Sisters have thrived in Khanduras.

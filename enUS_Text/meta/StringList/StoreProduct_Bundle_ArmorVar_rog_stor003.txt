@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Blight Warden
+Hash: A646FFA4, Key: Description, Value: The wardens have developed their own manner of dress to help them blend in to their surroundings. In their environment, they are all but invisible.
+Hash: 083EE0CE, Key: Quote, Value: Scouts of surpassing skill who navigate the treacherous byways of Hawezar's swamps.
+Hash: 13A53A8B, Key: Series, Value: Rogue Armor

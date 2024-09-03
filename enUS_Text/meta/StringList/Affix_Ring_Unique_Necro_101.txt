@@ -1,0 +1,4 @@
+Hash: 003892BF, Key: Desc, Value: You automatically activate the following equipped Skills on Corpses around you:
+{icon:bullet}{c_important}Raise Skeleton{/c} every {c_random}[Affix_Value_1|1|]{/c} seconds.
+{icon:bullet}{c_important}Corpse Explosion{/c} every {c_random}[Affix_Value_1|1|]{/c} seconds.
+{icon:bullet}{c_important}Corpse Tendrils{/c} every {c_random}[Affix_Value_1 * Affix."Static Value 0"|1|]{/c} seconds.

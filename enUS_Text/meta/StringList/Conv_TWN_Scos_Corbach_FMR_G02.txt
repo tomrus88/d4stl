@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you trust your chieftain?"
+Hash: 8EB4BB96, Key: Line1.105801, Value: Chieftain claims the Light will save us from the goatmen scourge.
+Hash: DEEAE763, Key: VoiceDir1.105801, Value: Suspicious. Muttering.
+Hash: 67386558, Key: Line3.105801, Value: More likely to save him favor with the Cathedral when they come a’knocking.

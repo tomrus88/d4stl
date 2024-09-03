@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Consuming a Corpse {c_important}{u}Fortifies{/u}{/c} you for {c_number}[SF_0 * 100|%|]{/c} of your Maximum Life {c_number}([{SF_3} * PlayerHealthMax()]){/c} and grants {c_number}[SF_0 * 100|%|]{/c} Damage Reduction for {c_number}[SF_5]{/c} seconds.
+Hash: 2070327B, Key: Buff8_Name, Value: Exhumation
+Hash: A320401E, Key: Buff8_Description, Value: Taking reduced damage after consuming a Corpse.

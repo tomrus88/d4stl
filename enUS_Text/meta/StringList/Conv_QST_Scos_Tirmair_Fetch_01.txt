@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Haven't caught anything?"
+Hash: 59F3313B, Key: Line1.53D35, Value: Nay, traveler. The traps have yielded naught and won't for some time. This land needs time to recover.
+Hash: F3E7AABD, Key: Line3.53D35, Value: Thorn beasts are still in abundance, though. Haven't shown signs of corruption, but a tough meat that, and too smart for normal traps. I hope these new snares will yield better results.

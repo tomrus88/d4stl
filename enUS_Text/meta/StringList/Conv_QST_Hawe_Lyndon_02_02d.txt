@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Should we go to the last location?"
+Hash: 183CFC31, Key: Line7.10088C, Value: Yes, the last location. I...
+Hash: 687327FE, Key: VoiceDir7.10088C, Value: Trailing off, in denial that Orton could be the traitor.
+Hash: 4519651C, Key: Line11.10088C, Value: The last location was told to Orton. This may have all been paranoia. (laugh)
+Hash: 1D9D0EDE, Key: Line13.10088C, Value: But it's nearby. So, we should do our diligence, or what have you. Off we go.

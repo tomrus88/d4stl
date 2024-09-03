@@ -1,0 +1,25 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Omens
+Hash: 0871A46B, Key: Toast, Value: Search Donan's estate
+Hash: D53BFF05, Key: Phase0Description, Value: I learned that Donan, Horadrim and ally of the Cathedral of Light, had an odd incident occur at his manor located close to Eldhaime Keep. Perhaps I can find more answers there.
+Hash: 059C64AB, Key: Callback5Header, Value: Go to Firebreak Manor
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Firebreak Manor has been overrun by goatmen attracted by the lingering presence of Lilith's foul essence.
+Hash: ED76B060, Key: Callback19Header, Value: Defeat goatmen attackers
+Hash: 5690A71C, Key: Phase16Description, Value: I learned that Donan, Horadrim and ally of the Cathedral of Light, had an odd incident occur at his manor located close to Eldhaime Keep. Perhaps I can find more answers there.
+Hash: B98DBD5C, Key: Callback15Header, Value: Talk to Steward Wilfred
+Hash: E2223B19, Key: Phase22Description, Value: After speaking to the steward of the manor it seems the incident occurred in Donan's study, but he was somewhat scant on details so I must press on and find out more for myself.
+Hash: 71E69F39, Key: Callback21Header, Value: Enter Donan's study
+Hash: 008DE739, Key: Phase31Description, Value: After speaking to the steward of the manor it seems the incident occurred in Donan's study, but he was somewhat scant on details so I must press on and find out more for myself.
+Hash: 112E3759, Key: Callback30Header, Value: Inspect blood petals
+Hash: 008BE8C7, Key: Phase110Description, Value: Firebreak Manor has been overrun by goatmen attracted by the lingering presence of Lilith's foul essence.
+Hash: 33514A50, Key: Callback109Header, Value: Talk to Donan
+Hash: A6927FEF, Key: Phase127Description, Value: In Donan's study I saw another vision. Lilith visited him here, wanting something. Now I'm filled with more questions than answers that, perhaps, only Donan can speak to. But that may have to wait. Something is happening at the manor.
+Hash: 0BD4F412, Key: Callback129Header, Value: Investigate the disturbance
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Investigate the disturbance at Firebreak Manor
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I learned that Donan, Horadrim and ally of the Cathedral of Light, had an odd incident occur at his manor located close to Eldhaime Keep. Perhaps I can find more answers there.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Go to Firebreak Manor
+Hash: 9589ADF5, Key: Phase8OutsideSubzoneHeader, Value: Defeat the goatmen attackers at Firebreak Manor
+Hash: 99268BE4, Key: Phase16OutsideSubzoneHeader, Value: Talk to Steward Wilfred at Firebreak Manor
+Hash: C79EEC81, Key: Phase22OutsideSubzoneHeader, Value: Enter Donan's study at Firebreak Manor
+Hash: E93E3CA1, Key: Phase31OutsideSubzoneHeader, Value: Inspect the blood petals in Donan's Study
+Hash: 0F69DDEF, Key: Phase110OutsideSubzoneHeader, Value: Talk to Donan
+Hash: B9710217, Key: Phase127OutsideSubzoneHeader, Value: Investigate the disturbance at Firebreak Manor

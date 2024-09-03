@@ -1,0 +1,3 @@
+Hash: 59F2E8EE, Key: Line1.54239, Value: What did that bastard Lyndon tell you, that we stole these supplies? He threw us out of Backwater. This is just what we were owed.
+Hash: C8FC4F1B, Key: VoiceDir1.54239, Value: strained and angry
+Hash: F3E76270, Key: Line3.54239, Value: I hope he chokes on it! (dying breaths)

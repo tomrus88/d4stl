@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bane of Hatred
+Hash: 003892BF, Key: Desc, Value: Spend over 150 Aether on a single chest of Spoils in one run of the Infernal Hordes.

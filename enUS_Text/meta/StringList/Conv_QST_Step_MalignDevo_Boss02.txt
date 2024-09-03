@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How can I help rebuild Sanctuary?"
+Hash: 5D6A3BA1, Key: Line1.F5762, Value: We start with one brick at a time. That is my belief.
+Hash: F75EB523, Key: Line3.F5762, Value: And with great works, come even greater rewards.
+Hash: 91532EA5, Key: Line5.F5762, Value: Meet us at the Lost Monument to start rebuilding this world.

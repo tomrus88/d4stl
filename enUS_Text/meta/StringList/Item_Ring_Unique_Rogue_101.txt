@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Scoundrel's Kiss
+Hash: F5C7BC0A, Key: Flavor, Value: "This'll blow your hair back." 
+- Lyndon

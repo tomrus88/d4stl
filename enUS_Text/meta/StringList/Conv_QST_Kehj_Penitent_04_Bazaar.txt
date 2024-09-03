@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm ready. What's your plan?"
+Hash: 3FF2D964, Key: Line5.136591, Value: Osric and his crew are garrisoned near the main square. As much as I'd prefer subterfuge, in this case the fastest way in is through the front gates.
+Hash: 18768326, Key: Line7.136591, Value: We'll meet some resistance, but we should be able to handle them. Keep moving, and don't let them crowd us into a corner. I've got your back.
+Hash: 68ACAEF3, Key: VoiceDir7.136591, Value: Edgar thinks this will probably work out... but he's far from certain. 

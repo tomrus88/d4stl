@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grim Reward
+Hash: 3A4912CF, Key: DescShort, Value: Obtain Caches from the {icon:Marker_Bounties_TurnIn, 2.5} Tree of Whispers by completing Whispers

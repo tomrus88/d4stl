@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Dune Adept
+Hash: A646FFA4, Key: Description, Value: These brave men and women often serve as guides across the vast expanses of the badlands.
+Hash: 083EE0CE, Key: Quote, Value: The oases of Kehjistan are few and far between.
+Hash: 13A53A8B, Key: Series, Value: Rogue Armor

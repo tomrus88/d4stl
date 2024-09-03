@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Is something wrong?”
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: The great axe of the Oxen Tribe has gone missing from the forge. Stolen by swift hands.
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: direct, terse
+Hash: 67708DA0, Key: Line3.137EC4, Value: It is an heirloom of Raekor, Warmaster of change. Its edge claimed countless demons upon Arreat, yet showed no wear.
+Hash: B7A6B96D, Key: VoiceDir3.137EC4, Value: direct, terse; pronounced: "Ray-core" and "A(r-r)e-aht"
+Hash: 3FF43762, Key: Line5.137EC4, Value: Its craft matched its keeper.
+Hash: 902A632F, Key: VoiceDir5.137EC4, Value: direct, sincere
+Hash: 1DD7F3D1, Key: Line13.137EC4, Value: The Triune has tried to take it before. Cubs looking to prove their worth. They learned their place, but remain persistent.
+Hash: 74D3993E, Key: VoiceDir13.137EC4, Value: direct, terse; critical
+Hash: F65B9D93, Key: Line15.137EC4, Value: We’ve seen them hiding around the ruins on the southern coast. If they have the axe, it's sure to be there.
+Hash: 4D574300, Key: VoiceDir15.137EC4, Value: direct, terse

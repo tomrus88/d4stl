@@ -1,0 +1,12 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to Benen?"
+Hash: 90FB9CDF, Key: Line5.A9B7A, Value: He was my best mate. Took to the sea a fortnight ago and (sigh) hasn’t returned.
+Hash: 0005030C, Key: VoiceDir5.A9B7A, Value: Mildly drunk.
+Hash: 2AF01661, Key: Line7.A9B7A, Value: I heard his vessel met the rocks beyond Stormbreak Cove. Tore it to pieces.
+Hash: C4E48FE3, Key: Line9.A9B7A, Value: I... I’d give the coast a look myself, but I... I can’t see him like that. Welled up with water, fit to burst.
+Hash: 33EDF610, Key: VoiceDir9.A9B7A, Value: Cold, somber
+Hash: 721D8DEC, Key: Line11.A9B7A, Value: Ah, he’s like a brother. It’s not right.
+Hash: C253B9B9, Key: VoiceDir11.A9B7A, Value: Somber, somewhat afraid 
+Hash: 0C12076E, Key: Line13.A9B7A, Value: Could... could you see if he’s there? He has a tattoo on his neck. A seafarer’s spear.
+Hash: 5C48333B, Key: VoiceDir13.A9B7A, Value: Steady. Imploring player to help him.
+Hash: A60680F0, Key: Line15.A9B7A, Value: You can’t miss it.
+Hash: F63CACBD, Key: VoiceDir15.A9B7A, Value: Melancholy, humored by irony.

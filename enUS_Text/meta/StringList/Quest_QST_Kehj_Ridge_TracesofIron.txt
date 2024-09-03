@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Traces of Iron
+Hash: 0871A46B, Key: Toast, Value: A man wants a debt repaid to the Iron Wolves.
+Hash: 8DCA476E, Key: Phase9Description, Value: A man from Tarsarak wants to repay an Iron Wolf mercenary for saving his life. He asked me to deliver an amulet to her. 
+Hash: D29F0719, Key: Callback12Header, Value: Find Asyfa in the Iron Wolves Encampment
+Hash: FAF02F4B, Key: Phase6Description, Value: I found the Iron Wolf encampment. I should speak to the healer Asyfa  and return her amulet. 
+Hash: 059C64AB, Key: Callback5Header, Value: Speak to Asyfa
+Hash: 008DE739, Key: Phase31Description, Value: A man from Tarsarak wants to repay an Iron Wolf mercenary for saving his life. He asked me to deliver an amulet to her. 
+Hash: F81CED9C, Key: Callback33Header, Value: hidden
+Hash: 79001D61, Key: Callback38Header, Value: Take the {ITEM} from Jilan

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Perhaps you should stay behind."
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: I must come with you!
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Furious protest. Desperate. Won't be left behind.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: I may only have one eye, but you can't wander blind through the Hells. It is my task to guide you to the demons' source. I won’t fail.
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: Calming a bit, but still tense. Making his case. 

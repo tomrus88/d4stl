@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Unearthed Regrets
+Hash: 0871A46B, Key: Toast, Value: Kres is pained with the memories of his past actions.
+Hash: D53BFF05, Key: Phase0Description, Value: Kres told me that there is a shallow grave near a tunnel of gnarled trees. I should look there.
+Hash: 059C64AB, Key: Callback5Header, Value: Find the shallow grave
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I found the shallow grave. I must dig up the remains, so that I may burn them at the Backwater pyre.
+Hash: 9012F763, Key: Callback76Header, Value: Acquire the {ITEM}
+Hash: 8784047D, Key: Phase17Description, Value: I've burned the remains. I hope they're at peace now. I should return to Kres. 
+Hash: 0687FA1D, Key: Callback16Header, Value: Return to Kres
+Hash: 1315987A, Key: Phase23Description, Value: I should go to the pyre in Backwater. I can burn the remains there.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Burn the Exsanguinated Remains

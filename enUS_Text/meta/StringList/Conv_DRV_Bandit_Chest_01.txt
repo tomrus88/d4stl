@@ -1,0 +1,16 @@
+Hash: 927D43C7, Key: Line73.54239, Value: You set a finger on this, and I’ll add it to my collection.
+Hash: E2B36F94, Key: VoiceDir73.54239, Value: Frustrated, struggling to open a chest while another bandit watches over their shoulder.
+Hash: 796BFA0A, Key: Line76.54239, Value: Yeah, well, I called finder’s hand on it. The goods are mine.
+Hash: C9A225D7, Key: VoiceDir76.54239, Value: Frustrated, struggling to open a chest while another bandit watches over their shoulder.
+Hash: DF847497, Key: Line127.54239, Value: Don't tell me to hurry. Damn thing is rusted shut!
+Hash: 36801A04, Key: VoiceDir127.54239, Value: Frustrated, struggling to open a chest while another bandit watches over their shoulder.
+Hash: 97DD5674, Key: Line133.54239, Value: I’m going as fast I can. You’re the one who said it didn’t need a key!
+Hash: EED8FBE1, Key: VoiceDir133.54239, Value: Frustrated, struggling to open a chest while another bandit watches over their shoulder.
+Hash: A63B6EE4, Key: Line63.54237, Value: You set a finger on this, and I’ll add it to my collection.
+Hash: F6719AB1, Key: VoiceDir63.54237, Value: Frustrated, struggling to open a chest while another bandit watches over their shoulder.
+Hash: 8D2A2527, Key: Line66.54237, Value: Yeah, well, I called finder’s hand on it. The goods are mine.
+Hash: DD6050F4, Key: VoiceDir66.54237, Value: Frustrated, struggling to open a chest while another bandit watches over their shoulder.
+Hash: F895BE52, Key: Line124.54237, Value: Don't tell me to hurry. Damn thing is rusted shut!
+Hash: 4F9163BF, Key: VoiceDir124.54237, Value: Frustrated, struggling to open a chest while another bandit watches over their shoulder.
+Hash: B0EEA02F, Key: Line130.54237, Value: I’m going as fast I can. You’re the one who said it didn’t need a key!
+Hash: 07EA459C, Key: VoiceDir130.54237, Value: Frustrated, struggling to open a chest while another bandit watches over their shoulder.

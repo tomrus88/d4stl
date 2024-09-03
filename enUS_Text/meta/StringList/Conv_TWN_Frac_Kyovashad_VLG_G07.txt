@@ -1,0 +1,4 @@
+Hash: 8ECD5C6A, Key: Line1.10B547, Value: My brother told me you have to shield your eyes in the Father's presence or his Light will make you blind.
+Hash: DF038837, Key: VoiceDir1.10B547, Value: Full of wonder. Impassioned--telling a tall tale.
+Hash: 6751062C, Key: Line3.10B547, Value: That's why the knights wear helmets.
+Hash: B78731F9, Key: VoiceDir3.10B547, Value: Full of wonder. Impassioned--telling a tall tale.

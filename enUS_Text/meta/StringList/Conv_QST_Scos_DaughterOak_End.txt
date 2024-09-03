@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've been to the Underroot. I found this."
+Hash: C53D29DB, Key: Line9.F738D, Value: Why—the Great Oak gave you a root! A good, clean, lively one, too.
+Hash: 34469008, Key: VoiceDir9.F738D, Value: Surprised. Awash with relief and joy
+Hash: 727627E4, Key: Line11.F738D, Value: Our Tree was raised from a cutting such as this. It’ll graft nicely and refresh her for another age.
+Hash: C2AC53B1, Key: VoiceDir11.F738D, Value: Reverent. Grateful. 

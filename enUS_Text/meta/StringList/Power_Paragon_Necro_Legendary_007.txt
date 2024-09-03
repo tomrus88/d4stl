@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Scent of Death
+Hash: 003892BF, Key: desc, Value: With at least {c_number}{SF_0}{/c} Corpses Nearby, you gain {c_number}[{SF_1}*100|%|]{/c} Damage Reduction. With no Corpses Nearby, you deal {c_number}[{SF_4}*100|x%|]{/c} increased damage.
+Hash: 12713EB5, Key: Buff2_Name, Value: Scent of Death
+Hash: C6E60718, Key: Buff2_Description, Value: No Nearby Corpses increases damage dealt.
+Hash: 101C1614, Key: Buff1_Name, Value: Scent of Death
+Hash: 7786FD97, Key: Buff1_Description, Value: Nearby Corpses increase Damage Reduction.

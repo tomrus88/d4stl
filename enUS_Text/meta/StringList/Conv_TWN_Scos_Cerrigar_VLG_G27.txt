@@ -1,0 +1,2 @@
+Hash: 8EE84C2D, Key: Line1.13094E, Value: Spirits, accept this hearty stag...may this offering guide you back to reclaim this house.
+Hash: DF1E77FA, Key: VoiceDir1.13094E, Value: Praying to spirits. Sincere. Reverent.

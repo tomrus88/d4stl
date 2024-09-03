@@ -1,0 +1,42 @@
+Hash: 07502783, Key: Dodge, Value: Dodge!
+Hash: F1551847, Key: Dodged, Value: Dodged!
+Hash: 072A7FAB, Key: Block, Value: Block!
+Hash: 0821DD4E, Key: Parry, Value: Parry!
+Hash: 00406A24, Key: Root, Value: Immobilized!
+Hash: 00410C8A, Key: Stun, Value: Stunned!
+Hash: E972BD39, Key: Absorb, Value: Absorbed
+Hash: 3EA485C0, Key: XPAwarded, Value: +{s1} XP Bonus
+Hash: 2E707697, Key: BrokeRoot, Value: Broke Root!
+Hash: FCDFDE8B, Key: Immune, Value: Immune!
+Hash: 0039A93E, Key: Fear, Value: Feared!
+Hash: F63C0C14, Key: Frozen, Value: Frozen!
+Hash: 073A2D0B, Key: Charm, Value: Charmed
+Hash: 085EFF59, Key: Snare, Value: Slowed
+Hash: 800F85EE, Key: AttackSpeedSlow, Value: Attack Slowed
+Hash: C8E280A2, Key: PVPKill, Value: +%.0f PP
+Hash: 74EA690D, Key: PVPAssist, Value: +%.0f PP
+Hash: 086A4B8C, Key: Taunt, Value: Taunted
+Hash: 56875B82, Key: KilledPlayer, Value: You Killed {s1}!
+Hash: 5D3CD387, Key: AssistInPlayerKill, Value: You Helped Kill {s1}!
+Hash: 139939F7, Key: CrushingBlow, Value: Crushing Blow!
+Hash: DFC7B908, Key: Overkill, Value: Overkill!
+Hash: 776C44EF, Key: ExperienceBonus, Value: {s1}X Experience Bonus!
+Hash: 65926940, Key: Deflected, Value: Deflected!
+Hash: 1B61D344, Key: Weakened, Value: Weakened
+Hash: CCE94570, Key: Vulnerable, Value: Vulnerable
+Hash: C6050237, Key: Confused, Value: Confused
+Hash: EFAE3238, Key: Disabled, Value: Dazed!
+Hash: 6D7C102A, Key: BrokeConfused, Value: Broke Confusion!
+Hash: 9725402B, Key: BrokeDisabled, Value: Broke Daze!
+Hash: 8450C9F2, Key: StaggerUp, Value: {c_gold}+{s1} Stagger {icon:stagger, 1.5}{/c}
+Hash: 7F8822CD, Key: Unstoppable, Value: Unstoppable!
+Hash: C2D8E137, Key: BrokeWeakened, Value: Broke Weaken!
+Hash: 2E5B9C23, Key: BrokeVulnerable, Value: Broke Vulnerable!
+Hash: FC9BE65F, Key: BrokeTaunt, Value: Broke Taunt!
+Hash: D5F30481, Key: BrokeAttackSpeedSlow, Value: Broke Attack Slow!
+Hash: 37CB927C, Key: Fortified, Value: Fortified
+Hash: 5DC588E0, Key: ZoneProgressEarned, Value: +{s1}  {s2}  Renown
+({s3})
+Hash: 7E00F913, Key: Execute, Value: Executed!
+Hash: D820C7F8, Key: HelltideCurrencyLost, Value: {s1} Aberrant cinders lost
+Hash: D662F11A, Key: ReputationEarned, Value: +{s1} {s2}

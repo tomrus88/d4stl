@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Like a lamb to the slaughter. 
+Hash: 112E3759, Key: Callback30Header, Value: Slay the Hell Drinkers: {LEFT}
+Hash: DF0BA3DF, Key: Callback36Header, Value: Defeat the {MONSTER}
+Hash: B23C2F03, Key: Callback49Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 83A65A9D, Key: Callback52Header, Value: Deposit Animus into the {GIZMO}
+Hash: D5F3B5FC, Key: Callback60Header, Value: Free the Prisoners: {LEFT}

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Cori sent me. He's worried about you."
+Hash: 5D687838, Key: Line1.F2027, Value: Ah, you spoke to Cori? Hmph, can't believe he even remembers he has a family. I had to throw the loafer out of the house months ago because he refused to work. Didn't hear a peep from him 'til now. He’s better off in Cerrigar, and we are too.

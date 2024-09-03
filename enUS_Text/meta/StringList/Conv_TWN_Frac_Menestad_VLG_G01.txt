@@ -1,0 +1,2 @@
+Hash: 8EB56EC3, Key: Line1.105B40, Value: Don't be quick to judge, stranger. A hungry man taking a loaf of bread is not a thief.
+Hash: DEEB9A90, Key: VoiceDir1.105B40, Value: More resigned than a warning.

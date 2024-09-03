@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Way Down
+Hash: 3A4912CF, Key: DescShort, Value: Acquire an Infernal Compass

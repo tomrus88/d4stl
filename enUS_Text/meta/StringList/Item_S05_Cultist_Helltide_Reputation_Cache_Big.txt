@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Strongbox
+Hash: A646FFA4, Key: Description, Value: Contains powerful items and rare crafting materials.

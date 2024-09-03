@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “A dying man spoke your name and gave me this torc before passing.”
+Hash: 5A28B31F, Key: Line1.8354D, Value: A torc of protection. I make these for folk who travel the hills alone. Keep them safe with the old blessings.
+Hash: C932194C, Key: VoiceDir1.8354D, Value: Pensive, somewhat concerned.
+Hash: F41D2CA1, Key: Line3.8354D, Value: But… if it’s returned…
+Hash: 632692CE, Key: VoiceDir3.8354D, Value: Concerned, recognizing grim implication
+Hash: 8E11A623, Key: Line5.8354D, Value: Airidah said all death has meaning. But… where is the meaning in this?
+Hash: FD1B0C50, Key: VoiceDir5.8354D, Value: Focused, earnest confusion. (Child grappling with meaning of death)
+Hash: 28061FA5, Key: Line7.8354D, Value: They were good. Kind. No different from me or dad.
+Hash: 970F85D2, Key: VoiceDir7.8354D, Value: Compassionate, sincere

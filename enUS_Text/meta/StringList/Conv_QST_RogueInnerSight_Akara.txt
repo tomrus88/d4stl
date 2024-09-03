@@ -1,0 +1,6 @@
+Hash: 5D72A443, Key: Line1.EDC79, Value: The coin...
+Hash: CC7C0A70, Key: VoiceDir1.EDC79, Value: trying to think through a fog
+Hash: F778238F, Key: Line3.FBCF5, Value: Where is it, sister?
+Hash: 668189BC, Key: VoiceDir3.FBCF5, Value: pushing down emotion
+Hash: 915B9747, Key: Line5.EDC79, Value: No. No! It’s mine, you won’t take it from me!
+Hash: 0064FD74, Key: VoiceDir5.EDC79, Value: becoming vicious

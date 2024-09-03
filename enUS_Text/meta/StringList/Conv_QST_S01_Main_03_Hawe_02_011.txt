@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where's the wagon?"
+Hash: F11EF64F, Key: Line9.157838, Value: Still outside Zarbinzet. Unfortunately, my horse holds no love of swamps.
+Hash: 4155221C, Key: VoiceDir9.157838, Value: With some affection for his steed. "zahr-bin-zet"

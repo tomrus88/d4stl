@@ -1,0 +1,20 @@
+Hash: 4C8A97D2, Key: DungeonTitle, Value: Hellbreach
+Hash: EA23DD2A, Key: SeasonName, Value: Season of the Infernal Hordes
+Hash: 5DD12FED, Key: SeasonDescription, Value: Harness demonic gifts and invade Hell itself!
+Hash: 1CBFC5D3, Key: SeasonBeginText, Value: Begins {s1}
+Hash: BD77CD05, Key: SeasonEndText, Value: Ends {s1}
+Hash: 21D081BA, Key: SeasonInfoText, Value: Two unlikely allies believe you to be humanity's last hope. Join them to keep Hell from conquering Sanctuary!
+
+{c_highlight}{icon:bullet, 1}New Questlines:{/c} Harness demonic gifts and invade Hell itself.
+
+{c_highlight}{icon:bullet, 1}New Hellbreach Dungeons:{/c} Hell has taken root in these new risk/reward dungeons.
+
+{c_highlight}{icon:bullet, 1}The Infernal Hordes:{/c} Starting in World Tier 3, battle the ferocious hordes of Hell, led by the Fell Council.
+
+{c_highlight}{icon:bullet, 1}Upgraded Uniques:{/c} All Unique Items possess more power than ever before.
+
+{c_highlight}{icon:bullet, 1}38 new Legendary Aspects & 15 new Unique Items:{/c} Explore new and more powerful ways to slay monsters with each Class.
+
+{c_highlight}{icon:bullet, 1}All new Season Journey:{/c} Conquer 7 Chapters of challenges.
+
+{c_highlight}{icon:bullet, 1}All new Cosmetics:{/c} Acquire infernal looks in the Battle Pass and other new looks in the Shop.

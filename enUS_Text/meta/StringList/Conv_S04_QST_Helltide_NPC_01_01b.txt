@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this medallion on the body of an Iron Wolf. Did you know him?"
+Hash: 923D2945, Key: Line1.1B3CA4, Value: (sighs) Yes, I knew him. Ishaf. We will remember. As we've remembered so many.
+Hash: E2735512, Key: VoiceDir1.1B3CA4, Value: quiet sorrow. Ishaf = "Ee-shoff"
+Hash: 6AC0D307, Key: Line3.1B3CA4, Value: Asa spoke of you. You tended to our fallen once, and now again.
+Hash: BAF6FED4, Key: VoiceDir3.1B3CA4, Value: appraising Asa = ey-sah
+Hash: 43447CC9, Key: Line5.1B3CA4, Value: Hell has opened a new front in this war. Fight at our side, and you will know a Wolf's loyalty.

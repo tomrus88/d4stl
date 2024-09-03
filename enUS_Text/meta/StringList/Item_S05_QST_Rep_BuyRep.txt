@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Cultist Reputation
+Hash: A646FFA4, Key: Description, Value: Buy me to increase your Reputation.

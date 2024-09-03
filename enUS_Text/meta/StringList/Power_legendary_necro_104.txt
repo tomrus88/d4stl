@@ -1,0 +1,4 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Blighted
+Hash: C6E60718, Key: Buff2_Description, Value: Dealing increased damage
+Hash: 14C66756, Key: Buff3_Name, Value: Blighted
+Hash: 16451099, Key: Buff3_Description, Value: At {SF_2} stacks, deal increased damage for {SF_1} seconds

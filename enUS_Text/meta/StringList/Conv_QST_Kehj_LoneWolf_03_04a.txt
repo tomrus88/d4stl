@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: After killing Boss
+Hash: 7812AF1B, Key: Line8.BC41C, Value: We've done it...
+Hash: E71C1548, Key: VoiceDir8.BC41C, Value: After combat. Winded. Relieved.
+Hash: DE2920DD, Key: Line6.D5161, Value: Asa--?
+Hash: 4D32870A, Key: VoiceDir6.D5161, Value: In shock. Shaky. Confused. Scared.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you?"
+Hash: F371AFC3, Key: Line16.FBA9D, Value: (coughs) Kressle...no, no, wait. No, wait, no. No, Kre--Kressbur... Kressbur, no, shit. No, that's not it. (hacks) Kres is fine. Sounds familiar enough.
+Hash: 43A7DB90, Key: VoiceDir16.FBA9D, Value: wheezing, coughing, pained

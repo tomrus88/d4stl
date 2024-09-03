@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Evade
+Hash: 003892BF, Key: desc, Value: Dive out of the way of incoming attacks.
+Hash: F2DE8628, Key: simple_desc, Value: Dive out of the way of incoming attacks.

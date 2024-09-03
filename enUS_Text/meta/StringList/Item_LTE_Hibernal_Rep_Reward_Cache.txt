@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Greater Midwinter Spoils
+Hash: A646FFA4, Key: Description, Value: A cache containing a collection of highly valuable rewards such as Armor, Gem Fragments, and a dose of Gileon's Brew.
+Hash: F5C7BC0A, Key: Flavor, Value: A reminder that dawn’s light comes even to the longest nights.

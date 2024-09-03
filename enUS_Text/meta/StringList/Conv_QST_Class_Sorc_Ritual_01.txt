@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The fires are lit." 
+Hash: 8EFD9E2F, Key: Line1.14656B, Value: Hmm, looks like some of these pages are damaged. No matter, I can infer the meaning from context.
+Hash: 7B15C647, Key: Line3.BAE4.Sor, Value: Are you sure that's wise?
+Hash: 4004F1B3, Key: Line5.14656B, Value: I refuse to let caution keep me from the secrets of this book. I’ve come too far.
+Hash: 45650460, Key: Line11.14656B, Value: Oh, great powers of the elemental forces, guardians of the hidden gates, I call to you in the names of the Divine and Infernal powers, that you would hear us and obey!
+Hash: F10C4537, Key: Line9.14656B, Value: That should do it. You have to take a firm hand with these spirits.

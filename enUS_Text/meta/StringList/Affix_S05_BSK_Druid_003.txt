@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Spirit Bond
+Hash: 003892BF, Key: Desc, Value: {c_random}[Affix_Value_1|1%|]{/c} of the damage you would take is redirected across your {c_important}Companions{/c}. 
+
+Your {c_important}Companions{/c} cannot die.

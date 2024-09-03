@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What have they done wrong?"
+Hash: 2B18725A, Key: Line7.BC41C, Value: Clear the Hell out of this city before you end up like him.
+Hash: 9A21D887, Key: VoiceDir7.BC41C, Value: simmering warning

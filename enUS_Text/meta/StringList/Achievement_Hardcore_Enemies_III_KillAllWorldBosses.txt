@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Journeyed Slayer
+Hash: 003892BF, Key: Desc, Value: Kill every World Boss in Hardcore mode.
+Hash: 3DA450E5, Key: Crit_234533, Value: Ashava Slain
+Hash: 3DA450E7, Key: Crit_234535, Value: Avarice Slain
+Hash: 3DA450E8, Key: Crit_234536, Value: Wandering Death Slain

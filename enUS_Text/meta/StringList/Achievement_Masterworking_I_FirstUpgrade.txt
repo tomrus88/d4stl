@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hardened by Flames
+Hash: 003892BF, Key: Desc, Value: Masterwork your first piece of gear.

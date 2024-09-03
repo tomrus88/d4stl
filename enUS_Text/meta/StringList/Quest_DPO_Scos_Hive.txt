@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: A thousand eyes in the darkness.
+Hash: D0A0975E, Key: Callback53Header, Value: Travel to the {LEVELAREA}
+Hash: B78F4DA1, Key: Callback56Header, Value: Defeat the {MONSTER}
+Hash: 7701ADA6, Key: Callback79Header, Value: Deposit Animus into the {GIZMO}
+Hash: 486BD940, Key: Callback82Header, Value: Collect {ITEM} from Animus Carriers

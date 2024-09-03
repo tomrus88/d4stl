@@ -1,0 +1,6 @@
+Hash: 58D8D48E, Key: Line10.101BAB, Value: Got a body over here.
+Hash: AFD479FB, Key: VoiceDir10.101BAB, Value: Calling out to the player that he sees a body - their objective, as they're looking for bodies to burn - over yonder.
+Hash: 315C7E50, Key: Line12.101BAB, Value: Ah, here's one.
+Hash: 885823BD, Key: VoiceDir12.101BAB, Value: Calling out to the player that he sees their objective nearby.
+Hash: F621FCF3, Key: Line15.101BAB, Value: I think I see one this way.
+Hash: 4D1DA260, Key: VoiceDir15.101BAB, Value: Calling out to the player that he sees their objective nearby.

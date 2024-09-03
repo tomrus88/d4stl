@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Tamer of the Beast
+Hash: A646FFA4, Key: Description, Value: Wearing the hides of demons, the tamer uses their druidic power to exploit the infernal beasts of hell.
+Hash: 083EE0CE, Key: Quote, Value: Savage beneath the skin.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

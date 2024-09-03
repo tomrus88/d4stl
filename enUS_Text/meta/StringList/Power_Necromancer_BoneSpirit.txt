@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Bone Spirit
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+{c_label}Essence Cost:{/c} {c_resource}All Remaining Essence{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Consume all of your Essence to conjure a spirit of bone that seeks enemies. Upon reaching an enemy, the spirit explodes, dealing {c_number}{Payload:DAMAGE}{/c} damage to the target and all surrounding enemies. Damage is increased by {c_number}[{SF_13} * 100|%x|]{/c} for each point of Essence spent casting {c_important}Bone Spirit{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
+Hash: 22C55B1C, Key: Buff9_Name, Value: Swelling Curse
+Hash: F27F499F, Key: Buff9_Description, Value: Increased Maximum Essence
+Hash: 74D6BC35, Key: Mod2_Description, Value: If {c_important}Bone Spirit{/c} Critically Strikes, its Cooldown is reduced by {c_number}{SF_15}{/c} seconds. This effect can only happen once per cast.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Bone Spirit
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Bone Spirit{/c} has an additional {c_number}[{SF_16} * 100|%+|]{/c} Critical Strike Chance.
+Hash: 9233D930, Key: Mod0_Name, Value: Ghastly Bone Spirit
+Hash: 2577B2B4, Key: Mod1_Description, Value: After {c_important}Bone Spirit{/c} hits an enemy, you generate {c_number}[SF_17 * 100|%|]{/c} of your Maximum Essence over the next {c_number}{buffduration:MANA_REGEN}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Dreadful Bone Spirit

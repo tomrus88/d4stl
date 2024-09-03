@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: You are {c_important}Blood Lanced{/c}, and when {c_important}Blood Lance{/c} would deal damage to you, it instead {c_important}{u}Fortifies{/u}{/c} you for {c_random}[Affix_Value_1|1%|]{/c} of your Maximum Life and has a {c_number}[Affix."Static Value 1"|%|]{/c} chance to form a {c_important}Blood Orb{/c}.
+
+{c_important}Blood Lance{/c} deals {c_random}[Affix_Value_1 * Affix."Static Value 0"|%x|]{/c} increased damage.

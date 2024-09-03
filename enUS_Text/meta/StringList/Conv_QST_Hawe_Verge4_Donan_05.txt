@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What next?"
+Hash: D7101683, Key: Line19.7FA05, Value: (speaking Horadric)
+Hash: 27464250, Key: VoiceDir19.7FA05, Value: Saying an incantation/casting a spell: [pronunciation: Sha shilyou, kilneem] 

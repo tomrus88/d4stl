@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: A Hero's Return
+Hash: 0871A46B, Key: Toast, Value: Return to Nevesk
+Hash: D53BFF05, Key: Phase0Description, Value: The broken tower held evil creatures and demonic magic. At least tidings of their defeat should set the villagers at ease.
+Hash: 8CBE4880, Key: Callback28Header, Value: Return to Nevesk
+Hash: 9367FF5C, Key: Phase34Description, Value: The broken tower held evil creatures and demonic magic. At least tidings of their defeat should set the villagers at ease.
+Hash: B23C2F03, Key: Callback49Header, Value: Speak with Vani
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Return to Nevesk
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: The ruins held evil creatures and demonic magic. At least tidings of their defeat should set the villagers at ease.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Return to Nevesk
+Hash: DC652C24, Key: Phase34OutsideSubzoneHeader, Value: Speak with Vani

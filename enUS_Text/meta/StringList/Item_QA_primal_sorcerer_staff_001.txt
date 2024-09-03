@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: QA Primal Staff of Doomfire
+Hash: F5C7BC0A, Key: Flavor, Value: Test for temporary powers

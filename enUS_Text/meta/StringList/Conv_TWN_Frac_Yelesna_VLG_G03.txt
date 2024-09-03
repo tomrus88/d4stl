@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You look upset."
+Hash: 5D6D27D1, Key: Line1.F9C26, Value: It sure is a lot quieter now with the Knights gone. Better for catching fish... and really, isn't that what matters? Heaven? Hell? All the same to me as long as the fish are biting.

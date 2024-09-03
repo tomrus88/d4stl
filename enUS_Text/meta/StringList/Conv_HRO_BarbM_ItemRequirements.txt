@@ -1,0 +1,2 @@
+Hash: F84BE745, Key: Line5.BAE4.Bar.M, Value: I can't use this.
+Hash: 5A32A207, Key: Line7.BAE4.Bar.M, Value: Impossible.

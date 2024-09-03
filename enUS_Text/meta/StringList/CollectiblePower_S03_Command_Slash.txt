@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Pummel
+Hash: A646FFA4, Key: Description, Value: Pummel enemies in front of the Seneschal Construct dealing {c_number}{SF_9}{/c} damage.
+Hash: 70FCEFA9, Key: AttackSpeed, Value: {c_label}Speed:{/c} {c_resource}[{SF_11}|1|]{/c} seconds
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Damage {icon:arrow,1.2} {c_number}{SF_10}{/c}
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating Heralds in Arcane Tremors

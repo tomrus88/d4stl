@@ -1,0 +1,37 @@
+Hash: 3C9552B7, Key: SummaryHeader, Value: Summary
+Hash: 5E86AF32, Key: SummaryDescription, Value: Short, one sentence summary of the bug
+Hash: 4F8C3E8D, Key: DescriptionHeader, Value: Description
+Hash: A646FFA4, Key: Description, Value: Repro steps and/or detailed description of the bug
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 14BE0E14, Key: Submit, Value: Submit
+Hash: 1C813A8F, Key: BugSubmitted, Value: Your bug report successfully submitted.
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 461E2AA3, Key: BugReportHeader, Value: Report a bug
+Hash: 76D79D91, Key: Dropdown_Default, Value: Select an option
+Hash: 274ABE47, Key: Dropdown_Social, Value: Online / Social / Seasons / Store
+Hash: A11136C1, Key: Dropdown_Environment, Value: Environment / Dungeons
+Hash: 230E45D1, Key: Dropdown_Quests, Value: Quest / Campaign
+Hash: ADBA82E4, Key: Dropdown_Rewards, Value: Rewards
+Hash: B5D07F47, Key: Dropdown_Monsters, Value: Monsters / Bosses
+Hash: F0FAC06E, Key: Dropdown_Items, Value: Items / Scrolls / Collectibles
+Hash: 39E0D81A, Key: Dropdown_Classes, Value: Classes / Skills
+Hash: 1955C112, Key: Dropdown_Mounts, Value: Mounts
+Hash: F06A83FE, Key: Dropdown_Audio, Value: Audio
+Hash: F4A4591D, Key: Dropdown_Graphics, Value: Graphics / Performance
+Hash: 588BF6DA, Key: Dropdown_Waypoints, Value: Waypoints
+Hash: 3938B4F9, Key: Dropdown_Cutscenes, Value: In-Game Cutscenes
+Hash: E101426A, Key: Dropdown_UI, Value: UI
+Hash: F1675F2E, Key: Dropdown_Other, Value: Other
+Hash: 7C72B0C7, Key: CategoryHeader, Value: Category
+Hash: A4226C81, Key: Required, Value: (Required)
+Hash: 9A2F1B99, Key: Hotkey_Tip_KBM, Value: Launch this window from anywhere using {hotkey:REPORT_BUG}
+Hash: 3DBF4F43, Key: Hotkey_Tip_Controller, Value: Launch this window from anywhere by holding {s1} and pressing {s2}
+Hash: 0001FB6D, Key: Tip, Value: Tip
+Hash: 917B8FDE, Key: ReportType, Value: Report Type
+Hash: 0292173B, Key: ReportType_Bug, Value: Bug
+Hash: 821B03A2, Key: ReportType_Feedback, Value: Feedback
+Hash: 39D92810, Key: Dropdown_Stronghold, Value: Strongholds
+Hash: 54DB7AED, Key: ReportType_None, Value: Select One
+Hash: 9EF60AD5, Key: Dropdown_Bounties, Value: Whispers
+Hash: 07226181, Key: Dropdown_Events, Value: Events
+Hash: 0129732D, Key: Dropdown_NPC, Value: NPCs

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Meteor
+Hash: 003892BF, Key: desc, Value: {c_gold}Mana Cost: {/c}{c_green}{Resource Cost}{/c}
+A meteor falls to the target location, dealing {c_yellow}{payload:IMPACT_DAMAGE}{/c}. The ground burns for {c_yellow}{payload:TOOLTIP_BURN_DAMAGE}{/c} over {c_yellow}{SF_4}{/c} seconds.
+Hash: F2DE8628, Key: simple_desc, Value: Secondary Spender Skill: A meteor falls on the target area.

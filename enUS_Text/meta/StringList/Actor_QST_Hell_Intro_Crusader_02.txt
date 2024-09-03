@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crusader Yenvir
+Hash: CC38ADCB, Key: FlavorName, Value: Zakarum Crusader

@@ -1,0 +1,8 @@
+Hash: A7490B65, Key: Buff11_Name, Value: Fire Regeneration
+Hash: 86C2ADC8, Key: Buff11_Description, Value: Increased Mana Regeneration.
+Hash: ABF35CA7, Key: Buff13_Name, Value: Shock Regeneration
+Hash: 2580C0CA, Key: Buff13_Description, Value: Increased Mana Regeneration.
+Hash: B09DADE9, Key: Buff15_Name, Value: Frost Regeneration
+Hash: C43ED3CC, Key: Buff15_Description, Value: Increased Mana Regeneration.
+Hash: B547FF2B, Key: Buff17_Name, Value: Elemental Acuity
+Hash: 62FCE6CE, Key: Buff17_Description, Value: Mana Regeneration greatly improved.

@@ -1,0 +1,6 @@
+Hash: 1999888C, Key: TransmogName, Value: Deadly Wraps
+Hash: 003DFCC1, Key: Name, Value: Cruor's Embrace
+Hash: F5C7BC0A, Key: Flavor, Value: In the blood dancer's grasp, a victim lies,
+A vessel dried 'neath darkened skies.
+Their life extinguished, veins burst and drained,
+In Cruor's embrace, forever enchained.

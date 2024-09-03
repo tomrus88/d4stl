@@ -1,0 +1,6 @@
+Hash: 8CBE4880, Key: Callback28Header, Value: Slay {MONSTER}
+Hash: 003DFCC1, Key: Name, Value: Depths of Despair
+Hash: 1EADAE68, Key: Callback2Header, Value: Chase Vasek with Sister Octavia
+Hash: B8A227EA, Key: Callback4Header, Value: Speak with Sister Octavia
+Hash: B98DBD5C, Key: Callback15Header, Value: Place the holy chalice
+Hash: F2C9CEFE, Key: Callback26Header, Value: Protect Sister Octavia

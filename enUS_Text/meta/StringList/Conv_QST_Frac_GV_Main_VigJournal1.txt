@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Vigo
+Hash: 27FD9937, Key: Line7.6DE47, Value: 7th: Lost a month’s wages tonight. Unbelievable.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: 10th: A woman came to the mines. Gave me a wealth charm. Crazy, but it worked.
+Hash: 5619C705, Key: Line14.6DE47, Value: 11th: Daughter showed up. Relentless. Something about a demon. Already reported it, but she won't give it up.
+Hash: F00E4087, Key: Line16.6DE47, Value: Going to keep watch at the mine. Light knows she’ll break in if I don’t.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are we doing here?" 
+Hash: F701EBE7, Key: Line3.A109C, Value: Hunting, of course.
+Hash: 660B5214, Key: VoiceDir3.A109C, Value: Perfunctory
+Hash: 90F66569, Key: Line5.A109C, Value: This is an old victim of hers. Must have floated out of her lair.
+Hash: 2AEADEEB, Key: Line7.A109C, Value: We must act quickly. Cecil and his grandsons aren't the only ones the wight will hunt down.
+Hash: C4DF586D, Key: Line9.A109C, Value: We’ll need the wight’s hair.
+Hash: 72185676, Key: Line11.A109C, Value: There should be plenty in the village. She damned near wiped us out the first time.

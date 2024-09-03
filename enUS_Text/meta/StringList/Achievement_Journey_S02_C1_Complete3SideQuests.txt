@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kind Stranger
+Hash: 3A4912CF, Key: DescShort, Value: Complete {icon:Marker_PriorityQuestAvailable, 2.5} Priority or {icon:Marker_SideQuestAvailable, 2.5} Side Quests

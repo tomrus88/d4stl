@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Codex Page
+Hash: A646FFA4, Key: Description, Value: A random page of the Forgotten Codex
+Hash: F5C7BC0A, Key: Flavor, Value: Scribbled with cramped lines of obscure runes.

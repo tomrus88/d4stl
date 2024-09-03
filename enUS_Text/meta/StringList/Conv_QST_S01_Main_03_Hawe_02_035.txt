@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I found the stronger cage, but Varshan still won’t survive.”
+Hash: 4017A2CB, Key: Line5.157838, Value: You’re saying all we can do is capture him… kill him…
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Stammering, in denial.
+Hash: 189B4C8D, Key: Line7.157838, Value: No, no, no no no this is—that’s unacceptable! All this death and torment, f-for what?
+Hash: 68D1785A, Key: VoiceDir7.157838, Value: Rising anger.
+Hash: F11EF64F, Key: Line9.157838, Value: Then all… all those people corrupted are… dead? Because of me? I... I—I can’t…
+Hash: 4155221C, Key: VoiceDir9.157838, Value: Increasing deflation.

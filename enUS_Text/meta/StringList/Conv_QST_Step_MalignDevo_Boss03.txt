@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How can I help rebuild Sanctuary?"
+Hash: 5D6A3BA1, Key: Line1.F5762, Value: Welcome, traveler. Your day of glory is at hand.
+Hash: F75EB523, Key: Line3.F5762, Value: With your sacrifice, the rebuilding of this world can begin.

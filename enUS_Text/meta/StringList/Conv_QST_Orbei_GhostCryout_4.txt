@@ -1,0 +1,2 @@
+Hash: 5D23A4B7, Key: Line1.B7A2D, Value: (sobbing)
+Hash: CC2D0AE4, Key: VoiceDir1.B7A2D, Value: Utterly broken.

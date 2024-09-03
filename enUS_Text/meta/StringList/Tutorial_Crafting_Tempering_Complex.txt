@@ -1,0 +1,7 @@
+Hash: 086EAA02, Key: title, Value: Tempering
+Hash: 3D08DF31, Key: 0_instruction, Value: Learn {c_highlight}Tempering Recipes{/c} from your inventory and visit the {c_highlight}Blacksmith{/c}
+Hash: 6C158A74, Key: 0_instruction_controller, Value: Learn {c_highlight}Tempering Recipes{/c} from your inventory and visit the {c_highlight}Blacksmith{/c}
+Hash: 8C67E8B2, Key: 1_instruction, Value: Temper {c_rare}Rare{/c} and {c_legendary}Legendary{/c} items with powerful affixes
+Hash: 3AFF0155, Key: 1_instruction_controller, Value: Temper {c_rare}Rare{/c} and {c_legendary}Legendary{/c} items with powerful affixes
+Hash: DBC6F233, Key: 2_instruction, Value: {c_highlight}Tempering{/c} is limited by number of {c_highlight}Tempering Rerolls{/c}
+Hash: 09E87836, Key: 2_instruction_controller, Value: {c_highlight}Tempering{/c} is limited by number of {c_highlight}Tempering Rerolls{/c}

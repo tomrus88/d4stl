@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You wish to see me?"
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: I see you are a child of Arreat, yet you bear no crest. Have you no tribe?
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: Calm. Direct. Curious.
+Hash: 7B157C28, Key: Line3.BAE4.Bar, Value: The winds of battle carry me further and faster than any tribe can travel.
+Hash: B185CF35, Key: VoiceDir3.BAE4.Bar, Value: Confident. Not a boast -- a fact.
+Hash: 1877E124, Key: Line7.137EC4, Value: Spoken like a warrior who has never known a home. There are many like you. Raised in the wilds, your tribe scattered by the fall of Mount Arreat.
+Hash: 68AE0CF1, Key: VoiceDir7.137EC4, Value: Knowing. Somber.
+Hash: F0FB8AE6, Key: Line9.137EC4, Value: We Oxen have been fortunate. We found a home, good trade, strength...
+Hash: 4131B6B3, Key: VoiceDir9.137EC4, Value: Honest. Grateful. Leading up to a pitch.
+Hash: 45544A0F, Key: Line11.137EC4, Value: If you wish to join your strength to ours, seek Katra north of town. She will show you what is needed.
+Hash: 9C4FEF7C, Key: VoiceDir11.137EC4, Value: Respectful. Sincere. Hopes the Player will accept.

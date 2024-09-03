@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Berserking
+Hash: F2DE8628, Key: simple_desc, Value: Berserking
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Berserk
+Hash: 2827F416, Key: Buff0_Description, Value: Increases damage and Movement Speed.

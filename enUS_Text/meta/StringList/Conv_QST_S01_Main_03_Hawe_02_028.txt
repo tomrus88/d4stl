@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Cormond
+Hash: 4017A2CB, Key: Line5.157838, Value: You've done it! The entrance is open. I will meet you inside!
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Victorious, eager.

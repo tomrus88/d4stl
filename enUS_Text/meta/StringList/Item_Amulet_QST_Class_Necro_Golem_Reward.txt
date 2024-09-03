@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ossified Prayer Beads
+Hash: F5C7BC0A, Key: Flavor, Value: A set of prayer beads made of human teeth and attached to a long, flexible tendon. Each tooth is inscribed with a symbol holy to Rathma, which a worshiper can meditate upon before moving to the next.

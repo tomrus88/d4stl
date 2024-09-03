@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why didn't you defend your daughter?"
+Hash: 5D6A2C8A, Key: Line1.F52F0, Value: It would've been better if she had died in the wilds.
+Hash: CC7392B7, Key: VoiceDir1.F52F0, Value: Dismissive, condescending. Your daughter has done nothing but make your life hard.
+Hash: 91531F8E, Key: Line5.F52F0, Value: Better for me. Better for (cough) this town. Aneta has cursed blood, and everyone knows it.
+Hash: 005C85BB, Key: VoiceDir5.F52F0, Value: Dismissive, condescending. Your daughter has done nothing but make your life hard.

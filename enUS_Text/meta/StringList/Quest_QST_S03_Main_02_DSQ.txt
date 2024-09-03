@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Yshari
+Hash: 398557AF, Key: Callback9Header, Value: Explore the Echoing Hall
+Hash: 68161728, Key: Phase3Description, Value: A demon whispers in my ear, thinks me prey. But I'm the hunter, and the demon my quarry.
+Hash: 85A4CA58, Key: Callback11Header, Value: Slay enemies

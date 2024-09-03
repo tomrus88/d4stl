@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Demon Vessel
+Hash: 80516513, Key: Callback229Header, Value: Free the Bound Prisoners
+Hash: E65CEB91, Key: Callback227Header, Value: Survive the enemy assault
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay the remaining enemies
+Hash: F81CA6F5, Key: Callback258Header, Value: Free {NEEDED} Bound Prisoners: {DONE_OVER_NEEDED}

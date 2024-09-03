@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Snowguard's
+Hash: 003892BF, Key: Desc, Value: While within your own {c_important}Blizzard{/c} and for {c_number}[Affix."Static Value 0"]{/c} seconds after leaving it, you take {c_random}[Affix_Value_1|%|]{/c} less damage.
+Hash: 82B7D312, Key: CodexDesc, Value: You take {c_random}[Affix_Value_1|%|]{/c} less damage inside {c_important}Blizzard{/c}.

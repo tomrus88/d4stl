@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's the plan?"
+Hash: 3FE06F6A, Key: Line5.124D40, Value: You gonna shoot me, Lyndon? (laugh) Nah, I don't think you will, you tender shit. You can’t pull that trigger anymore. ‘Specially not on me—
+Hash: 90169B37, Key: VoiceDir5.124D40, Value: Spoken through teeth--Orton is injured. Emphasis on "me."

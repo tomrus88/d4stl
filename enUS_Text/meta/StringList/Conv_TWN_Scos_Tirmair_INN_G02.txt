@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Do you get many visitors?”
+Hash: 5D313E90, Key: Line1.C08E9, Value: We don't get many travelers anymore. Folk are afraid to come near the Moors, let alone Tirmair. They say we're cursed.

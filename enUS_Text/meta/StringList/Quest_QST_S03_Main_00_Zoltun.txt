@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Kulle's Heart
+Hash: 0871A46B, Key: Toast, Value: Zoltun Kulle was the greatest mind of his time. Why did he build the Loom, and more importantly, why did he abandon it? I should look for any writings he might have left behind.
+Hash: 027C5085, Key: Phase97Description, Value: Zoltun Kulle was the greatest mind of his time. Why did he build the Loom, and more importantly, why did he abandon it? I should look for any writings he might have left behind.
+
+More journals are likely to be hidden in Wardwoven and Major Wardwoven Chests. I should continue to search Nightmare Vaults for them.
+Hash: 4C62940D, Key: Callback106Header, Value: Search the Vaults for Zoltun Kulle's Journals {c_green}2/5{/c}
+Hash: 6AC6FC68, Key: Callback110Header, Value: Search the Vaults for Zoltun Kulle's Journals {c_green}3/5{/c}
+Hash: 51B5B2AB, Key: Callback113Header, Value: Search the Vaults for Zoltun Kulle's Journals {c_green}4/5{/c}
+Hash: 4FEAF248, Key: Phase120Description, Value: Zoltun Kulle was the greatest mind of his time. Why did he build the Loom, and more importantly, why did he abandon it? I should look for any writings he might have left behind.
+
+I'm bound to find something if I continue to help Ayuzhan.
+Hash: 1F931F31, Key: Callback119Header, Value: Search the Vaults for Zoltun Kulle's Journals {c_green}1/5{/c}

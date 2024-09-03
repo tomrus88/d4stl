@@ -1,0 +1,36 @@
+Hash: 003DFCC1, Key: Name, Value: Remembering the Goose
+Hash: 0871A46B, Key: Toast, Value: Memories of the past may heal wounds of the present.
+Hash: 63BE3D83, Key: Phase77Description, Value: Torben says an unknown thief made off with Under the Fat Goose Inn’s sign. He believes local mischief-makers, Nairne and Tavish, are likely responsible. 
+
+Whatever the reason for the theft, Torben wants the sign returned. A blood trail leading east looks to be the best lead to its location.
+Hash: 7701ADA6, Key: Callback79Header, Value: Speak with Nairne
+Hash: BE5C741F, Key: Phase82Description, Value: Nairne confessed to stealing the Under the Fat Goose Inn sign. She says its part of a promise she made with Tavish before his death—a “List of Last Deeds.”
+
+If I help her complete this list, she’ll return the stolen sign. This is her last opportunity to bring closure to Tavish’s passing. Fulfill their promise.
+Hash: 1B9C6464, Key: Callback95Header, Value: Place Tavish's dagger on the entrance statue at Maddux Watch 
+Hash: B590DDE6, Key: Callback97Header, Value: Place Tavish's dagger on the old crane in Old Heimberg 
+Hash: 4F855768, Key: Callback99Header, Value: Place Tavish's dagger in a Highland bear den
+Hash: 51368C42, Key: Phase85Description, Value: Nairne confessed to stealing the Under the Fat Goose Inn sign. She says its part of a promise she made with Tavish before his death—a “List of Last Deeds.”
+
+If I help her complete this list, she’ll return the stolen sign. This is her last opportunity to bring closure to Tavish’s passing. Fulfill their promise.
+Hash: C94F0905, Key: Callback87Header, Value: Meet with Nairne at Loch's Bane Ridge
+Hash: E410A465, Key: Phase88Description, Value: Nairne and I completed Tavish’s “List of Last Deeds.” Though her promise has been fulfilled, it is clear Tavish’s absence still weights on her. 
+
+I should get the Under the Fat Goose Inn sign back to Torben. 
+Hash: 9AB9349F, Key: Callback90Header, Value: Retrieve the Under the Fat Goose Inn Sign
+Hash: DCC8203F, Key: Phase91Description, Value: Nairne and I completed Tavish’s “List of Last Deeds.” Though her promise has been fulfilled, it is clear Tavish’s absence still weights on her. 
+
+I should get the Under the Fat Goose Inn sign back to Torben. 
+Hash: 81A7EAE2, Key: Callback93Header, Value: Speak with Torben
+Hash: 74FA54CA, Key: Phase104Description, Value: Torben says an unknown thief made off with Under the Fat Goose Inn’s sign. He believes local mischief-makers, Nairne and Tavish, are likely responsible. 
+
+Whatever the reason for the theft, Torben wants the sign returned. A blood trail leading east looks to be the best lead to its location.
+Hash: 4C62940D, Key: Callback106Header, Value: Find Under the Fat Goose Inn's missing sign
+Hash: B91A3130, Key: Phase119Description, Value: Torben says an unknown thief made off with Under the Fat Goose Inn’s sign. He believes local mischief-makers, Nairne and Tavish, are likely responsible. 
+
+Whatever the reason for the theft, Torben wants the sign returned. A blood trail leading east looks to be the best lead to its location.
+Hash: 3DF7878C, Key: Callback123Header, Value: Retrieve Tavish's List of Last Deeds from Nairne.
+Hash: 940ACEAE, Key: Phase135Description, Value: Nairne confessed to stealing the Under the Fat Goose Inn sign. She says its part of a promise she made with Tavish before his death—a “List of Last Deeds.”
+
+If I help her complete this list, she’ll return the stolen sign. This is her last opportunity to bring closure to Tavish’s passing. Fulfill their promise.
+Hash: 167B314E, Key: Callback143Header, Value: Retrieve Bloodstained Mementos from Tavish's Belongings.

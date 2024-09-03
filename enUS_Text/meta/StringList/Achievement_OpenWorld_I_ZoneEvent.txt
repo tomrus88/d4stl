@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Legion Event Novice
+Hash: 003892BF, Key: Desc, Value: Complete a Legion Event.

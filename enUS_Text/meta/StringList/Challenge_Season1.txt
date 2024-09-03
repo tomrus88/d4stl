@@ -1,0 +1,14 @@
+Hash: D231A3B3, Key: Challenge_Category_4, Value: Chapter 1
+Hash: DAE95F16, Key: Challenge_Category_Description_4, Value: Complete 7 of 9 Objectives To Complete The Chapter.
+Hash: D231A3B4, Key: Challenge_Category_5, Value: Chapter 2
+Hash: DAE95F17, Key: Challenge_Category_Description_5, Value: Complete 9 of 11 Objectives To Complete The Chapter.
+Hash: D231A3B5, Key: Challenge_Category_6, Value: Chapter 3
+Hash: DAE95F18, Key: Challenge_Category_Description_6, Value: Complete All Chapters and Objectives
+Hash: D231A3B6, Key: Challenge_Category_7, Value: Chapter 4
+Hash: DAE95F19, Key: Challenge_Category_Description_7, Value: Complete 10 of 12 Objectives.
+Hash: D231A3B7, Key: Challenge_Category_8, Value: Chapter 5
+Hash: DAE95F1A, Key: Challenge_Category_Description_8, Value: Complete 9 of 11 Objectives.
+Hash: D231A3B8, Key: Challenge_Category_9, Value: Chapter 6
+Hash: DAE95F1B, Key: Challenge_Category_Description_9, Value: Complete 9 of 11 Objectives.
+Hash: 186619E0, Key: Challenge_Category_10, Value: Chapter 7
+Hash: 381541A3, Key: Challenge_Category_Description_10, Value: Complete 6 of 8 Objectives.

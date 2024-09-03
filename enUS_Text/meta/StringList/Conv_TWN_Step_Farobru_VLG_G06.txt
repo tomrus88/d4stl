@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are the bandits active?"
+Hash: 8EE1D5BD, Key: Line1.11EA86, Value: Damn bandits. Steal my coin, my farm. Even recruited my own brother.

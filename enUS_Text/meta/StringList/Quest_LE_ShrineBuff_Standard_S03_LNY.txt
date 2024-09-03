@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Corrupted Lunar Shrine
+Hash: 9F90DE2D, Key: Callback7Header, Value: Rescue the Lunar Celebrant
+Hash: 79001D61, Key: Callback38Header, Value: Survive the Miserly Spirits' attack
+Hash: 8CBE4880, Key: Callback28Header, Value: Slay the remaining spirits
+Hash: F81CED9C, Key: Callback33Header, Value: Claim your reward!
+Hash: E26052C2, Key: Callback84Header, Value: Slay {NEEDED} Elite Miserly Spirits:{DONE_OVER_NEEDED}
+Hash: 38A468EE, Key: Callback116Header, Value: Speak with the Lunar Celebrant
+Hash: 1F931F31, Key: Callback119Header, Value: Unleash the Shrine's power to massacre spirits

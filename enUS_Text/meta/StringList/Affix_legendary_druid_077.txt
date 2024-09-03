@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Nighthowler's
+Hash: 003892BF, Key: Desc, Value: {c_important}Blood Howl{/c} increases Critical Strike Chance by {c_random}[Affix_Value_1|1%+|]{/c}. In addition, {c_important}Blood Howl{/c} also affects Nearby Players for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Blood Howl{/c} increases Critical Strike Chance by {c_random}[Affix_Value_1|1%+|]{/c} and affects Companions and Players.

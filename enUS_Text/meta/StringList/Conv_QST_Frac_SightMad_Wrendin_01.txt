@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to your eyes?"
+Hash: 5D85CC18, Key: Line1.FFA04, Value: Theya, that damned snake, she keeps them on a chain around her neck. Damn her! Damn her, and I hope she burns for what I've had to watch!
+Hash: CC8F3245, Key: VoiceDir1.FFA04, Value: lude, drunk, or a madman. shouts at everyone 

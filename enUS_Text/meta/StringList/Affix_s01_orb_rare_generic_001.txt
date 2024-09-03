@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: of the Malignant Pact
+Hash: 003892BF, Key: Desc, Value: Cycle through a Malignant bonus every {c_number}[Affix."Static Value 0"]{/c} kills.
+
+{c_label}Vicious: {/c}Gain {c_number}[Affix."Static Value 1"+Affix_Value_1|%+|]{/c} Attack Speed.
+{c_label}Devious: {/c}{c_important}Core{/c} and {c_important}Basic{/c} Skills have a {c_number}[Affix."Static Value 2"+Affix_Value_1]%{/c} chance to fully restore your Primary Resource.
+{c_label}Brutal: {/c}Every {c_number}[Affix."Static Value 3"-Affix_Value_1]{/c} seconds, gain a {c_important}{u}Barrier{/u}{/c} absorbing {c_random}[Affix_Flat_Value_1]{/c} damage.

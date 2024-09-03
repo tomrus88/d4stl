@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: D8F1EA65, Key: Line3.BAE4, Value: No…
+Hash: 910A2E95, Key: Line5.B4310, Value: Hey, (cough) you made it! Did you kill that sorcerer fellow?
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Don’t talk. The storm has broken, we’ll get you out of here.
+Hash: C4F32199, Key: Line9.B4310, Value: Oh, it’s a shame. (cough) I got mine, just a hair too late. Sneaky devil poked me in the back! (drinks)
+Hash: 33FC87C6, Key: VoiceDir9.B4310, Value: Winces at the end of this line.
+Hash: 722C1FA2, Key: Line11.B4310, Value: Skewered like a quill rat. So it goes, eh Deckard?
+Hash: C2624B6F, Key: VoiceDir11.B4310, Value: Grinning but in pain
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Aye...
+Hash: 5E6DF483, Key: Line21.B4310, Value: (dying breath)
+Hash: A313225F, Key: Line15.6D03F, Value: So it goes. (drinks)
+Hash: 3D079BE1, Key: Line17.6D03F, Value: They’ll be coming.
+Hash: D6FC1563, Key: Line19.6D03F, Value: I’m taking the Sightless Eye. We need a safe place to study it...use it against them. We’ll meet at the desert chapel. Go!

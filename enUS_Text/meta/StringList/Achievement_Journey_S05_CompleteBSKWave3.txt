@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Hordes Falter
+Hash: 3A4912CF, Key: DescShort, Value: Defeat The Fell Council in the Infernal Hordes

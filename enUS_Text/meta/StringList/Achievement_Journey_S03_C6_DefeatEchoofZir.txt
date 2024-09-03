@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Forgiveness
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Lord Zir in {icon:Icon_WorldTier_4, 2.5} Torment, summoned in Fractured Peaks with Exquisite Blood from {icon:Icon_WorldTier_4, 2.5} Torment {icon:Marker_WorldEvent_Active, 2.5} World Bosses or {icon:Marker_ZoneEvent, 2.5} Legion Events

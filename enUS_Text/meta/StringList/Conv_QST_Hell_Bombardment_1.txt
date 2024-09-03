@@ -1,0 +1,6 @@
+Hash: 2243F3BA, Key: Line10.7FA05, Value: Get inside the barrier!
+Hash: 727A1F87, Key: VoiceDir10.7FA05, Value: Urgent. Demon is attacking and they are telling the Player to get under the cover a magic barrier.
+Hash: BC386D3C, Key: Line12.7FA05, Value: Take cover!
+Hash: 0C6E9909, Key: VoiceDir12.7FA05, Value: Urgent. Demon is attacking and they are telling the Player to get under the cover a magic barrier.
+Hash: 562CE6BE, Key: Line14.7FA05, Value: Under the barrier! Quickly!
+Hash: A663128B, Key: VoiceDir14.7FA05, Value: Urgent. Demon is attacking and they are telling the Player to get under the cover a magic barrier.

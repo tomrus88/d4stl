@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Did Dawood give you his report?”
+Hash: 912EE421, Key: Line5.D5166, Value: He did. And he’ll be on double shifts until his excuse for a beard turns gray.
+Hash: 00384A4E, Key: VoiceDir5.D5166, Value: Bitterly annoyed. Keeping composure.
+Hash: F73A6A9F, Key: Line3.D5166, Value: Damned idiot smiled when I gave the order. Said his post should be much quieter now, after your “victory” over the bandits.
+Hash: 6643D0CC, Key: VoiceDir3.D5166, Value: Annoyed. Weary. Shaking head.
+Hash: 2B235DA3, Key: Line7.D5166, Value: It will be the opposite, I assure you.
+Hash: 9A2CC3D0, Key: VoiceDir7.D5166, Value: Foreboding. Deep concern.

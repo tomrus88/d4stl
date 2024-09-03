@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This place seems crowded."
+Hash: 8EB4BE7D, Key: Line1.1057FC, Value: Mind your words, wanderer. Ears are always open around here. Corbach’s a bad place to go missing.

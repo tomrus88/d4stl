@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mauled Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: Whatever creature fed on this man, it had claws the size of daggers. The people of Margrave have more to fear than bandits in these woods. 

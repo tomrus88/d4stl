@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Magdalena
+Hash: CC38ADCB, Key: FlavorName, Value: Spirit of the Damned 

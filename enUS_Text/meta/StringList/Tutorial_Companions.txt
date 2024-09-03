@@ -1,0 +1,7 @@
+Hash: 086EAA02, Key: title, Value: Pets
+Hash: 3D08DF31, Key: 0_instruction, Value: You've received a pet! Equip your pet and {c_highlight}Modify their look{/c} in the {icon:Marker_Wardrobe, 2.5} Wardrobe.
+Hash: 6C158A74, Key: 0_instruction_controller, Value: You've received a pet! Equip your pet and Modify their look in the {icon:Marker_Wardrobe, 2.5} Wardrobe.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Pets {c_highlight}auto-collect gold and materials while you play{/c}.
+Hash: 3AFF0155, Key: 1_instruction_controller, Value: Pets {c_highlight}auto-collect gold and materials while you play{/c}.
+Hash: 2B25FBB4, Key: 3_instruction, Value: {c_highlight}Interact with your pet{/c} using the "Hello" emote.
+Hash: D8D1EF17, Key: 3_instruction_controller, Value: Interact with your pet using the "Hello" emote.

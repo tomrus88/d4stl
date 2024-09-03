@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pilfered Stash
+Hash: F2CA04D8, Key: NoticeSignText, Value: These bags have been torn open. Their contents lay strewn about, the valuables taken, leaving only soggy remains.

@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: {c_important}Bash{/c} Two-Hand Criticals
+Hash: 7786FD97, Key: Buff1_Description, Value: At 4, your next {c_important}Core{/c} or {c_important}Weapon Mastery{/c} Skill will {c_important}Overpower{/c}.

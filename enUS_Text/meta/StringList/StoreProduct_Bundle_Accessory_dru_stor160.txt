@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Rattenkonig
+Hash: A646FFA4, Key: Description, Value: Vylum would have been burned alive if not for the intervention of his rodent friends. And soon after, he would become their lord.
+Hash: 083EE0CE, Key: Quote, Value: Help from below.
+Hash: 13A53A8B, Key: Series, Value: "Plague Rat" Accessories

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Seal Major 003
+Hash: 003892BF, Key: Desc, Value: You periodically call a bat companion that attacks an enemy and heals you.
+
+{c_blue}Consumes 5 Blue Pacts{/c}

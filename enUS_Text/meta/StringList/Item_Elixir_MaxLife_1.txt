@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Fortitude
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet} Increases Maximum Life by {c_number}10%{/c}.
+{icon:bullet} Experience gained is increased by {c_number}5%{/c}.
+Hash: F5C7BC0A, Key: Flavor, Value: You may only have one Elixir active at a time.

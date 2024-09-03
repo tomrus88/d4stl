@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Paladin Lord Lore
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: A tattered note
+Hash: 5D3A6ED5, Key: Line1.BB0D6, Value: The last fortnight passed with alarming swiftness. The tomb resists every effort to sanctify it. So we stay.
+Hash: CC43D502, Key: VoiceDir1.BB0D6, Value: This should try to match the voice of the Diablo II Paladin as close as possible. 
+Hash: F72EE857, Key: Line3.BB0D6, Value: A hateful frenzy has taken the garrison. Last night, I heard a ghastly commotion, the shouting of a furious mob. Today, I woke to find the Watch Commander hanged. But why, I cannot unravel. Nobody remembers committing the deed.
+Hash: 912361D9, Key: Line5.BB0D6, Value: I thought Mephisto slain. But whatever of him remains in Sankekur’s body has trapped us. I lose hope of ever leaving.

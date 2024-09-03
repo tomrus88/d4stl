@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crusader Helmets
+Hash: F2CA04D8, Key: NoticeSignText, Value: Worn Crusader helmets bearing no name or special ceremony. Likely a reminder of what happens when your name is lost to the Order. 

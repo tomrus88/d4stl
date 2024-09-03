@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Critical Strikes have up to a {c_number}{SF_0}%{/c} chance to grant {c_number}[{SF_1} * 100|%x|]{/c} increased Attack Speed for {c_number}{SF_2}{/c} seconds. Double the Attack Speed bonus when using two Axes.
+Hash: 101C1614, Key: Buff1_Name, Value: One-Handed Axe Expertise
+Hash: 7786FD97, Key: Buff1_Description, Value: Increased Attack Speed from Critical Strikes.

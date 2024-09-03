@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Piercing Static
+Hash: 003892BF, Key: Desc, Value: {c_important}Charged Bolts{/c} pierce, but deal {c_random}[Affix_Value_1|%x|]{/c} less damage to targets hit after the first.

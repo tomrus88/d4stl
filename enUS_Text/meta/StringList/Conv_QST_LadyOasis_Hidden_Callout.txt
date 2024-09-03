@@ -1,0 +1,6 @@
+Hash: 5D3B086B, Key: Line1.BC3FF, Value: I'm telling you, that old shrine yelled at me.
+Hash: CC446E98, Key: VoiceDir1.BC3FF, Value: Insistent
+Hash: F7671DBE, Key: Line3.EDC72, Value: Ha, you've gotten heatstroke. I've passed that place a thousand times and never heard voices. Someone was probably having a lark.
+Hash: 667083EB, Key: VoiceDir3.EDC72, Value: Joking. Casual. Friendly.  
+Hash: 9123FB6F, Key: Line5.BC3FF, Value: I know what I heard!
+Hash: 002D619C, Key: VoiceDir5.BC3FF, Value: Irrated no one believes him

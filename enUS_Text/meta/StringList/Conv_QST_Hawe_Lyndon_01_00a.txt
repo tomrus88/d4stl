@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You have another job?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Yes, although this job requires more, umm...discretion than the work you've been doing.
+Hash: 3FE06F6A, Key: Line5.124D40, Value: Hmph. In my experience, discretion never solves a thing.
+Hash: 90169B37, Key: VoiceDir5.124D40, Value: Annoyed--clearly a point Orton has made before.
+Hash: 183CFC31, Key: Line7.10088C, Value: Hm, I know. That's why you're not going.
+Hash: F0E7C2EE, Key: Line9.124D40, Value: (grumble)
+Hash: 411DEEBB, Key: VoiceDir9.124D40, Value: indistinct grumbling

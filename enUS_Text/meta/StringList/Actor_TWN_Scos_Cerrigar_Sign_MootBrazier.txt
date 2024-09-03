@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Moot Brazier
+Hash: F2CA04D8, Key: NoticeSignText, Value: A mighty iron brazier sits at the head of the hall where the chieftains of Scosglen gather round to hold council.

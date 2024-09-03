@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value:  “What’s our next move?”
+Hash: F11EF64F, Key: Line9.157838, Value: In Orbei, we saw that the Cages of Binding came from Zakarum strongholds in Hawezar.
+Hash: 4155221C, Key: VoiceDir9.157838, Value: Humbled but focused. "hou-iz-ahr." "or-bay." "zak-ah-room."
+Hash: 189B4C8D, Key: Line7.157838, Value: There are three nearby that might hold answers. If you find anything, please bring it to me.
+Hash: 68D1785A, Key: VoiceDir7.157838, Value: Humbled but focused.

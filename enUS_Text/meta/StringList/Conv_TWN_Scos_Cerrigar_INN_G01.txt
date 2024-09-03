@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How’s business?”
+Hash: 5D6B43D4, Key: Line1.F738E, Value: Oh, I can’t complain. Reckon that’d be a “sin against the Father.”
+Hash: CC74AA01, Key: VoiceDir1.F738E, Value: Casual. Gruff. Flippant. 

@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Eavesdrop
+Hash: F56125F6, Key: Line23.6E5FE, Value: Why do we stay here? Need more prey. More meat.
+Hash: 459751C3, Key: VoiceDir23.6E5FE, Value: Brutish, annoyed
+Hash: 910B5CC6, Key: Line5.B6829, Value: And you will have it once Elias has finished his grand work.
+Hash: 0014C2F3, Key: VoiceDir5.B6829, Value: Placating. Scared of Tyrant Brol.
+Hash: 6F2AD793, Key: Line11.6E5FE, Value: What work?
+Hash: BF610360, Key: VoiceDir11.6E5FE, Value: Brutish. Not raising his voice or angry yet.
+Hash: C4F44FF2, Key: Line9.B682A, Value: You will see soon, Brol. The seeds we have sown will bear fruit. Guulrahn will be reborn, and so will—
+Hash: D6FCBD9B, Key: Line19.6E5FE, Value: What work?
+Hash: 2732E968, Key: VoiceDir19.6E5FE, Value: More threatening than before, but not shouting. He is like a dangerous beast growling out the work.
+Hash: 2AFFD648, Key: Line7.B6829, Value: Elias… he is poised to summon Andariel into the world. Her—her power will lift us to new heights. And, of course, y-you will have more meat.
+Hash: 9A093C75, Key: VoiceDir7.B6829, Value: Stammering, scared of Tyrant Brol
+Hash: 294A18FA, Key: Line27.6E5FE, Value: (grunt) I want to watch.
+Hash: 798044C7, Key: VoiceDir27.6E5FE, Value: Grunt of acknowledgement/acceptance. He is not eager to watch--he could care little about who Andariel is--but he is intrigued.
+Hash: C64108BC, Key: Line29.B6829, Value: Certainly, great Brol. You will be the guest of honor.
+Hash: 16773489, Key: VoiceDir29.B6829, Value: Still scared, placating

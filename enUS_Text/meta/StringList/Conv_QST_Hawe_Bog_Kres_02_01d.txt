@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Could you mean Timue?"
+Hash: F371AFC3, Key: Line16.FBA9D, Value: Damn. That name...like thorns in my brain. That must--it must be her.
+Hash: 43A7DB90, Key: VoiceDir16.FBA9D, Value: wheezing, coughing, pained groans 
+Hash: 45BF0B22, Key: Line24.FBA9D, Value: She's probably forgotten about it. It's been so long...
+Hash: 95F536EF, Key: VoiceDir24.FBA9D, Value: guilty, self-assuring

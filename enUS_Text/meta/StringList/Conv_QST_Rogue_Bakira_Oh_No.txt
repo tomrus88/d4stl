@@ -1,0 +1,2 @@
+Hash: 5D83AA0D, Key: Line1.FBCF5, Value: What a waste.
+Hash: CC8D103A, Key: VoiceDir1.FBCF5, Value: bitter

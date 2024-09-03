@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fabulous and Fleeting
+Hash: A646FFA4, Key: Description, Value: The Age of Magic shone brightly but soon caught fire in the wars of the mages. Much of their splendor, lost to ash.
+Hash: 083EE0CE, Key: Quote, Value: Revel in radiance while it shines.
+Hash: 13A53A8B, Key: Series, Value: "Bird of Paradise" Accessories

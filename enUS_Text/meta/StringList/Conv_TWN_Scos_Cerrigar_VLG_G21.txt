@@ -1,0 +1,2 @@
+Hash: 8EE84C19, Key: Line1.130950, Value: Quite a chore ahead of us. Got to pick up the pieces...put ‘em back better.
+Hash: DF1E77E6, Key: VoiceDir1.130950, Value: Bracing. Stoic. (Chore = intentional understatement)

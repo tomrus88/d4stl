@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Godslayer Crown
+Hash: F5C7BC0A, Key: Flavor, Value: "The Sahptev faithful believe in a thousand and one gods. If it takes me as many lifetimes, I will find and kill them all."
+- Gaspar Stilbian, Veradani Outcast

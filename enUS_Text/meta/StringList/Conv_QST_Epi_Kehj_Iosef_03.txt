@@ -1,0 +1,2 @@
+Hash: 5A206A1A, Key: Line1.6F0BE, Value: Ah, kill the heretic!
+Hash: C929D047, Key: VoiceDir1.6F0BE, Value: Aggressive, shouting an order to his knights

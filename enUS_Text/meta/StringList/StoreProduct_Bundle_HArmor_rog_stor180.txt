@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mark of the Bloodhawk
+Hash: A646FFA4, Key: Description, Value: Nuurka's crew had left her for dead - a meal for the bloodhawks of the Steppes. When the first one landed to take a bite, she grabbed it by the throat. "Tell your friends," she hissed through broken teeth, "I'm not dead yet."
+Hash: 083EE0CE, Key: Quote, Value: Circle and strike.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

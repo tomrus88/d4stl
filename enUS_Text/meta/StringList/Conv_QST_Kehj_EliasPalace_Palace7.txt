@@ -1,0 +1,6 @@
+Hash: F413C4CC, Key: Line3.6D03F, Value: Why won’t that bastard die?
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Frustrated
+Hash: 8E083E4E, Key: Line5.6D03F, Value: We can’t keep bashing our heads against him like this—he'll wear us down.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Frustrated
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: We need to escape, but... not without the Sightless Eye. If we can take it, that’ll rob him of some power, at least.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Frustrated, an idea coming to him

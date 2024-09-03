@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Una
+Hash: 5D72A43E, Key: Line1.EDC74, Value: The goatmen raids are getting worse. Conall's farm was burnt out last week...the whole family lost.
+Hash: F7671DC0, Key: Line3.EDC74, Value: It used to be the druids protected us. Now they're gone, and they left nothing but their crumbling ruins.
+Hash: 667083ED, Key: VoiceDir3.EDC74, Value: bitter

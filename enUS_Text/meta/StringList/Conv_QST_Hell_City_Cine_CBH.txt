@@ -1,0 +1,20 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A202CB1, Key: Line1.6DE47, Value: He gave everything. His home. His son. What was it for?
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: (on the verge of tears, voice cracking)
+Hash: 724691EE, Key: Line11.BD9D3, Value: (growl) You’ve made it back. Good.
+Hash: C27CBDBB, Key: VoiceDir11.BD9D3, Value: (wolf growl before dialog) 
+Hash: 091F8A44, Key: Line13.6DE47, Value: What does he mean?
+Hash: 5955B611, Key: VoiceDir13.6DE47, Value: (Suspicious) 
+Hash: 7337041C, Key: Line19.BAE4, Value: This fiend...helped me escape from Lilith.
+Hash: C33ECBAB, Key: Line29.6DE47, Value: Wait...I’ve read of such a wolf...
+Hash: 1374F778, Key: VoiceDir29.6DE47, Value: (Considering, then gasping in revelation after dialog) 
+Hash: 47AEBA84, Key: Line31.6DE47, Value: No. Mephisto.
+Hash: 97E4E651, Key: VoiceDir31.6DE47, Value: (Whispered in fear and awe) 
+Hash: E1A33406, Key: Line33.6DE47, Value: You trusted a Prime Evil?
+Hash: 31D95FD3, Key: VoiceDir33.6DE47, Value: (angrily, to the player)
+Hash: 7EB32EB4, Key: Line35.BD9D3, Value: Trust had no part in it. Your friend saw reason instead.
+Hash: 6AF50395, Key: Line45.BD9D3, Value: As should you. If Lilith takes my essence, Sanctuary is lost.
+Hash: AF80A08C, Key: Line39.6DE47, Value: What do you propose?
+Hash: FFB6CC59, Key: VoiceDir39.6DE47, Value: (Interest mixed with mistrust) 
+Hash: 370C1091, Key: Line41.BD9D3, Value: No proposals. I offer only my aid. This leads to the Cathedral of Hatred.
+Hash: D1008A13, Key: Line43.BD9D3, Value: But you must hurry. Lilith is almost there.

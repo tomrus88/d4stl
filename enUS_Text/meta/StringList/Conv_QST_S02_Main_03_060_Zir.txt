@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “You must be who leads the vampires.”
+Hash: 8F3B878D, Key: Line1.16E226, Value: They are the Blood Seekers of my revival, and the harbingers of my ascension. Just like you.
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Declarative.
+Hash: 67BF314F, Key: Line3.16E226, Value: I am Zir, of the Ancients. And you will serve.
+Hash: B7F55D1C, Key: VoiceDir3.16E226, Value: Declarative.
+Hash: 31E4C29F, Key: Line12.16E226, Value: Impossible. Why haven’t you changed? I know your blood, I—
+Hash: 88E0680C, Key: VoiceDir12.16E226, Value: Shocked.
+Hash: 4042DB11, Key: Line5.16E226, Value: Ahh… I understand now. Blood like no other, indeed.
+Hash: 907906DE, Key: VoiceDir5.16E226, Value: Understanding, intrigued.
+Hash: 596118DD, Key: Line10.16E226, Value: It won’t matter. You deserve more than to be chained to mortality, and the more you thirst, the more you will understand.
+Hash: B05CBE4A, Key: VoiceDir10.16E226, Value: Ominous.

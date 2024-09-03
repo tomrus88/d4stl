@@ -1,0 +1,21 @@
+Hash: 003DFCC1, Key: Name, Value: Cold Blood
+Hash: 0871A46B, Key: Toast, Value: Enter Snake Temple
+Hash: A5EFB09D, Key: Phase26Description, Value: I found a box of incense, but it belongs to Mohlon, the snake queen. I must slay her to retrieve it.
+Hash: A5CF923D, Key: Callback25Header, Value: Slay Mohlon, Snake Queen
+Hash: 6274A1FB, Key: Phase33Description, Value: Mohlon is dead. I should collect the incense and return to Yngovani to meet Lorath.
+Hash: A3D12282, Key: Callback66Header, Value: Collect the Mystic Incense
+Hash: C5002A81, Key: Phase57Description, Value: I have opened a temple built into the cave on the edge of Yngovani. A clue to help us find the Tree of Whispers must be inside.
+Hash: 3E0A0D3D, Key: Phase71Description, Value: Lorath mentioned he would meet me in Yngovani. I should go there to meet him as quickly as I can.
+Hash: C2358ADD, Key: Callback70Header, Value: Bring the incense to Lorath in Yngovani
+Hash: 63BE3D83, Key: Phase77Description, Value: I found the incense, but it belongs to Mohlon, the snake queen. I must slay her to retrieve it.
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Search The Slithering Dark
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I have opened a temple built into the cave on the edge of Yngovani. A clue to help us find the Tree of Whispers must be inside.
+Hash: 0BD2D685, Key: Phase26OutsideSubzoneHeader, Value: Slay Mohlon, Snake Queen in the Slithering Dark
+Hash: 8B5831A3, Key: Phase33OutsideSubzoneHeader, Value: Collect the Mystic Incense in the Slithering Dark
+Hash: B4E4B0E9, Key: Phase57OutsideSubzoneHeader, Value: Search The Slithering Dark
+Hash: 33514A50, Key: Callback109Header, Value: Search The Slithering Dark
+Hash: B3EF6725, Key: Phase71OutsideSubzoneHeader, Value: Bring the incense to Lorath in Yngovani
+Hash: 07D46CED, Key: Phase107Description, Value: I have opened a temple built into the cave on the edge of Yngovani. A clue to help us find the Tree of Whispers must be inside.
+Hash: D4186CD5, Key: Phase107OutsideSubzoneHeader, Value: Open the Incense Box in the Slithering Dark
+Hash: B7C13929, Key: Callback111Header, Value: Open the Incense Box
+Hash: 9A3D462B, Key: Phase77OutsideSubzoneHeader, Value: Slay Mohlon, Snake Queen in the Slithering Dark

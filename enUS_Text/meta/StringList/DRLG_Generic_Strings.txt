@@ -1,0 +1,4 @@
+Hash: FEFB4399, Key: BarrierRemoved, Value: A barrier has been dispelled
+Hash: A3DC9889, Key: DoorUnlocked, Value: A door has been unlocked
+Hash: B37AAB65, Key: DoorUnsealed, Value: A door has been unsealed
+Hash: 6AA76360, Key: KillAllMonstersAmbush, Value: Enemy Horde Incoming!

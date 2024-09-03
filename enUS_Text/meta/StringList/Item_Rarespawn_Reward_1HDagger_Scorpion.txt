@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Broodmother's Stinger
+Hash: F5C7BC0A, Key: Flavor, Value: "The scorpion Nine-Eyes is known as "The Terror of the Sands" for good reason. Her tail can pierce the strongest armor, and her poison melts flesh in seconds."
+- Field Notes of an Unknown Iron Wolf

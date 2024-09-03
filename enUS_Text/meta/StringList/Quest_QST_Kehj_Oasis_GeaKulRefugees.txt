@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Seeking Refuge
+Hash: 0871A46B, Key: Toast, Value: A traveling group has met an unfortunate fate while traveling to Dahlgur.
+Hash: 3226125E, Key: Phase54Description, Value: It seems wildlife had made a home in the crevice below. It was fortunate that the travelers were cautious. I should return the supplies to Tamiyyah.
+Hash: 04BB75EA, Key: Callback112Header, Value: Speak with Tamiyyah
+Hash: 32CAE022, Key: Phase76Description, Value: Hopefully the supplies I gathered were enough to help. I should check in on the traveling group in Dahlgur.
+Hash: 2A0770E5, Key: Callback78Header, Value: Speak with Haddad
+Hash: 8D6916BE, Key: Phase81Description, Value: A group of travelers have found some misfortune at the edge of a cliff. Fetching their supplies from the crevice below should be no trouble.
+Hash: 95661601, Key: Callback83Header, Value: Collect {ITEM}

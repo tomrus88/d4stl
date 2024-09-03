@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Grim Recluse
+Hash: A646FFA4, Key: Description, Value: For most, the spider is a hideous danger that watches from the shadows. It takes special eyes to meet their gaze...and love them above all others.
+Hash: 083EE0CE, Key: Quote, Value: Spin the web and wait.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

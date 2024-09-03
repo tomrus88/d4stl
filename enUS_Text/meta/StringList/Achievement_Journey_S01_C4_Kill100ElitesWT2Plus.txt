@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Trail of Mighty Corpses
+Hash: 3A4912CF, Key: DescShort, Value: Kill Elite monsters

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sand-Worn Marker
+Hash: F2CA04D8, Key: NoticeSignText, Value: “Look ... his prison ... warned. Follow … not.”

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Notice Board
+Hash: CC3C0A8F, Key: FlavorText, Value: Magistrate's Emergency Notice
+Hash: F2CA04D8, Key: NoticeSignText, Value: URGENT: Immediate help required for generous pay. Any who can fight, visit Magistrate Oren at the office in the Street of Jackals.

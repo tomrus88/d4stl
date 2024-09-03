@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Viscera Maven
+Hash: A646FFA4, Key: Description, Value: "Raising the buried dead, good."
+"Raising the recent dead that have been ensorcelled with life's vigor, better."
+Hash: 083EE0CE, Key: Quote, Value: The spellcasters of Scosglen focus their studies on newly-dead flesh.
+Hash: 13A53A8B, Key: Series, Value: Necromancer Armor

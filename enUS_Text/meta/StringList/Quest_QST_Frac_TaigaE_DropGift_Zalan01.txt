@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Better Days
+Hash: 0871A46B, Key: Toast, Value: I found a faded old painting of Margrave. Zalan Coste may be interested in this.
+Hash: D53BFF05, Key: Phase0Description, Value: I found a faded old painting of Margrave. Zalan Coste may be interested in this.
+Hash: 059C64AB, Key: Callback5Header, Value: Show the Faded Old Painting to Zalan Coste

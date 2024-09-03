@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: None
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Izel
+Hash: 8ED76A13, Key: Line1.121A3D, Value: Is that Caldeum? That moldering speck? This was once the heart of the world…
+Hash: DF0D95E0, Key: VoiceDir1.121A3D, Value: Disgusted at the state of Caldeum, but is a little sad at the end of the line.
+Hash: 675B13D5, Key: Line3.121A3D, Value: Never mind. I recall the athenaeum was near Dahlgur Oasis. Take me there.
+Hash: B7913FA2, Key: VoiceDir3.121A3D, Value: Brushes off previous line's emotion.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tarnished Zakarum Stele
+Hash: F2CA04D8, Key: NoticeSignText, Value: Almost covered with charred rubble, this monument was seemingly defaced. A barely legible Zakarum decree is inscribed on its surface; one can barely make out something about the light revealing all truths.

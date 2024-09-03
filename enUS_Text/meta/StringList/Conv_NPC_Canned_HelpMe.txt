@@ -1,0 +1,144 @@
+Hash: 59BDCFF7, Key: Line1270.3F392, Value: Will you help me, stranger?
+Hash: 902E2304, Key: VoiceDir1270.3F392, Value: Anxious. Scared.
+Hash: 40AC863A, Key: Line1273.3F392, Value: Don’t just stand there! Help me!
+Hash: 771CD947, Key: VoiceDir1273.3F392, Value: Anxious. Scared.
+Hash: 279B3C7D, Key: Line1276.3F392, Value: You there. Please, help.
+Hash: 5E0B8F8A, Key: VoiceDir1276.3F392, Value: Anxious. Scared.
+Hash: 12126F24, Key: Line1279.EDC78, Value: Will you help me, stranger?
+Hash: 4882C231, Key: VoiceDir1279.EDC78, Value: Anxious. Scared.
+Hash: E37C9ABE, Key: Line1282.EDC78, Value: Don’t just stand there! Help me!
+Hash: 19ECEDCB, Key: VoiceDir1282.EDC78, Value: Anxious. Scared.
+Hash: CA6B5101, Key: Line1285.EDC78, Value: You there. Please, help.
+Hash: 00DBA40E, Key: VoiceDir1285.EDC78, Value: Anxious. Scared.
+Hash: B15A0745, Key: Line1288.EDC79, Value: Will you help me, stranger?
+Hash: E7CA5A52, Key: VoiceDir1288.EDC79, Value: Anxious. Scared.
+Hash: 82C432DF, Key: Line1291.EDC79, Value: Don’t just stand there! Help me!
+Hash: B93485EC, Key: VoiceDir1291.EDC79, Value: Anxious. Scared.
+Hash: 69B2E922, Key: Line1294.EDC79, Value: You there. Please, help.
+Hash: A0233C2F, Key: VoiceDir1294.EDC79, Value: Anxious. Scared.
+Hash: 4D1922DE, Key: Line1297.3F381, Value: Will you help me, stranger?
+Hash: 838975EB, Key: VoiceDir1297.3F381, Value: Anxious. Scared.
+Hash: 586D6EAF, Key: Line1300.3F381, Value: Don’t just stand there! Help me!
+Hash: 8EDDC1BC, Key: VoiceDir1300.3F381, Value: Anxious. Scared.
+Hash: 3F5C24F2, Key: Line1303.3F381, Value: You there. Please, help.
+Hash: 75CC77FF, Key: VoiceDir1303.3F381, Value: Anxious. Scared.
+Hash: 29D357E5, Key: Line1306.EDC7B, Value: Will you help me, stranger?
+Hash: 6043AAF2, Key: VoiceDir1306.EDC7B, Value: Anxious. Scared.
+Hash: 10C20E28, Key: Line1309.EDC7B, Value: Don’t just stand there! Help me!
+Hash: 47326135, Key: VoiceDir1309.EDC7B, Value: Anxious. Scared.
+Hash: E22C39C2, Key: Line1312.EDC7B, Value: You there. Please, help.
+Hash: 189C8CCF, Key: VoiceDir1312.EDC7B, Value: Anxious. Scared.
+Hash: C91AF006, Key: Line1315.EDC7C, Value: Will you help me, stranger?
+Hash: FF8B4313, Key: VoiceDir1315.EDC7C, Value: Anxious. Scared.
+Hash: B009A649, Key: Line1318.EDC7C, Value: Don’t just stand there! Help me!
+Hash: E679F956, Key: VoiceDir1318.EDC7C, Value: Anxious. Scared.
+Hash: 8173D1E3, Key: Line1321.EDC7C, Value: You there. Please, help.
+Hash: B7E424F0, Key: VoiceDir1321.EDC7C, Value: Anxious. Scared.
+Hash: 6812E444, Key: Line1324.B79B0, Value: Will you help me, stranger?
+Hash: 9E833751, Key: VoiceDir1324.B79B0, Value: Anxious. Scared.
+Hash: 4F019A87, Key: Line1327.B79B0, Value: Don’t just stand there! Help me!
+Hash: 8571ED94, Key: VoiceDir1327.B79B0, Value: Anxious. Scared.
+Hash: 206BC621, Key: Line1330.B79B0, Value: You there. Please, help.
+Hash: 56DC192E, Key: VoiceDir1330.B79B0, Value: Anxious. Scared.
+Hash: 07AA2017, Key: Line1333.EDC74, Value: Will you help me, stranger?
+Hash: 3E1A7324, Key: VoiceDir1333.EDC74, Value: Anxious. Scared.
+Hash: EE98D65A, Key: Line1336.EDC74, Value: Don’t just stand there! Help me!
+Hash: 25092967, Key: VoiceDir1336.EDC74, Value: Anxious. Scared.
+Hash: D5878C9D, Key: Line1339.EDC74, Value: You there. Please, help.
+Hash: 0BF7DFAA, Key: VoiceDir1339.EDC74, Value: Anxious. Scared.
+Hash: A6F1B838, Key: Line1342.EDC75, Value: Will you help me, stranger?
+Hash: DD620B45, Key: VoiceDir1342.EDC75, Value: Anxious. Scared.
+Hash: 8DE06E7B, Key: Line1345.EDC75, Value: Don’t just stand there! Help me!
+Hash: C450C188, Key: VoiceDir1345.EDC75, Value: Anxious. Scared.
+Hash: 74CF24BE, Key: Line1348.EDC75, Value: You there. Please, help.
+Hash: AB3F77CB, Key: VoiceDir1348.EDC75, Value: Anxious. Scared.
+Hash: 45E9ACA5, Key: Line1351.B79B1, Value: Will you help me, stranger?
+Hash: 7C59FFB2, Key: VoiceDir1351.B79B1, Value: Anxious. Scared.
+Hash: 2CD862E8, Key: Line1354.B79B1, Value: Don’t just stand there! Help me!
+Hash: 6348B5F5, Key: VoiceDir1354.B79B1, Value: Anxious. Scared.
+Hash: 13C7192B, Key: Line1357.B79B1, Value: You there. Please, help.
+Hash: 4A376C38, Key: VoiceDir1357.B79B1, Value: Anxious. Scared.
+Hash: 9A4D0B42, Key: Line1369.EDC76, Value: Will you help me, stranger?
+Hash: D0BD5E4F, Key: VoiceDir1369.EDC76, Value: Anxious. Scared.
+Hash: 6BB736DC, Key: Line1372.EDC76, Value: Don’t just stand there! Help me!
+Hash: A22789E9, Key: VoiceDir1372.EDC76, Value: Anxious. Scared.
+Hash: 52A5ED1F, Key: Line1375.EDC76, Value: You there. Please, help.
+Hash: 8916402C, Key: VoiceDir1375.EDC76, Value: Anxious. Scared.
+Hash: E580E87A, Key: Line1360.EDC77, Value: Will you help me, stranger?
+Hash: 1BF13B87, Key: VoiceDir1360.EDC77, Value: Anxious. Scared.
+Hash: CC6F9EBD, Key: Line1363.EDC77, Value: Don’t just stand there! Help me!
+Hash: 02DFF1CA, Key: VoiceDir1363.EDC77, Value: Anxious. Scared.
+Hash: B35E5500, Key: Line1366.EDC77, Value: You there. Please, help.
+Hash: E9CEA80D, Key: VoiceDir1366.EDC77, Value: Anxious. Scared.
+Hash: 39446504, Key: Line1378.B6757, Value: Will you help me, stranger?
+Hash: 6FB4B811, Key: VoiceDir1378.B6757, Value: Anxious. Scared.
+Hash: 0AAE909E, Key: Line1381.B6757, Value: Don’t just stand there! Help me!
+Hash: 411EE3AB, Key: VoiceDir1381.B6757, Value: Anxious. Scared.
+Hash: F19D46E1, Key: Line1384.B6757, Value: You there. Please, help.
+Hash: 280D99EE, Key: VoiceDir1384.B6757, Value: Anxious. Scared.
+Hash: D8DC3BB0, Key: Line1387.EDC7D, Value: Will you help me, stranger?
+Hash: 0F4C8EBD, Key: VoiceDir1387.EDC7D, Value: Anxious. Scared.
+Hash: AA46674A, Key: Line1390.EDC7D, Value: Don’t just stand there! Help me!
+Hash: E0B6BA57, Key: VoiceDir1390.EDC7D, Value: Anxious. Scared.
+Hash: 91351D8D, Key: Line1393.EDC7D, Value: You there. Please, help.
+Hash: C7A5709A, Key: VoiceDir1393.EDC7D, Value: Anxious. Scared.
+Hash: 7823D3D1, Key: Line1396.EDC7E, Value: Will you help me, stranger?
+Hash: AE9426DE, Key: VoiceDir1396.EDC7E, Value: Anxious. Scared.
+Hash: 5F128A14, Key: Line1399.EDC7E, Value: Don’t just stand there! Help me!
+Hash: 9582DD21, Key: VoiceDir1399.EDC7E, Value: Anxious. Scared.
+Hash: 6A66D5E5, Key: Line1402.EDC7E, Value: You there. Please, help.
+Hash: A0D728F2, Key: VoiceDir1402.EDC7E, Value: Anxious. Scared.
+Hash: 51055137, Key: Line1405.B6807, Value: Will you help me, stranger?
+Hash: 8775A444, Key: VoiceDir1405.B6807, Value: Anxious. Scared.
+Hash: 37F4077A, Key: Line1408.B6807, Value: Don’t just stand there! Help me!
+Hash: 6E645A87, Key: VoiceDir1408.B6807, Value: Anxious. Scared.
+Hash: 095E3314, Key: Line1411.B6807, Value: You there. Please, help.
+Hash: 3FCE8621, Key: VoiceDir1411.B6807, Value: Anxious. Scared.
+Hash: F09D2449, Key: Line1414.EDC7F, Value: Will you help me, stranger?
+Hash: 270D7756, Key: VoiceDir1414.EDC7F, Value: Anxious. Scared.
+Hash: D78BDA8C, Key: Line1417.EDC7F, Value: Don’t just stand there! Help me!
+Hash: 0DFC2D99, Key: VoiceDir1417.EDC7F, Value: Anxious. Scared.
+Hash: A8F60626, Key: Line1420.EDC7F, Value: You there. Please, help.
+Hash: DF665933, Key: VoiceDir1420.EDC7F, Value: Anxious. Scared.
+Hash: 8FE4BC54, Key: Line1423.EDC80, Value: Will you help me, stranger?
+Hash: C6550F61, Key: VoiceDir1423.EDC80, Value: Anxious. Scared.
+Hash: 76D37297, Key: Line1426.EDC80, Value: Don’t just stand there! Help me!
+Hash: AD43C5A4, Key: VoiceDir1426.EDC80, Value: Anxious. Scared.
+Hash: 5DC228DA, Key: Line1429.EDC80, Value: You there. Please, help.
+Hash: 94327BE7, Key: VoiceDir1429.EDC80, Value: Anxious. Scared.
+Hash: 0026D3EC, Key: Line1486.BC3FE, Value: Will you help me, stranger?
+Hash: 369726F9, Key: VoiceDir1486.BC3FE, Value: Anxious. Scared.
+Hash: E7158A2F, Key: Line1489.BC3FE, Value: Don’t just stand there! Help me!
+Hash: 1D85DD3C, Key: VoiceDir1489.BC3FE, Value: Anxious. Scared.
+Hash: B87FB5C9, Key: Line1492.BC3FE, Value: You there. Please, help.
+Hash: EEF008D6, Key: VoiceDir1492.BC3FE, Value: Anxious. Scared.
+Hash: 9FA607DC, Key: Line1495.EDC70, Value: Will you help me, stranger?
+Hash: D6165AE9, Key: VoiceDir1495.EDC70, Value: Anxious. Scared.
+Hash: 8694BE1F, Key: Line1498.EDC70, Value: Don’t just stand there! Help me!
+Hash: BD05112C, Key: VoiceDir1498.EDC70, Value: Anxious. Scared.
+Hash: 91E909F0, Key: Line1501.EDC70, Value: You there. Please, help.
+Hash: C8595CFD, Key: VoiceDir1501.EDC70, Value: Anxious. Scared.
+Hash: 78D7C034, Key: Line1504.EDC71, Value: Will you help me, stranger?
+Hash: AF481341, Key: VoiceDir1504.EDC71, Value: Anxious. Scared.
+Hash: 5FC67677, Key: Line1507.EDC71, Value: Don’t just stand there! Help me!
+Hash: 9636C984, Key: VoiceDir1507.EDC71, Value: Anxious. Scared.
+Hash: 3130A211, Key: Line1510.EDC71, Value: You there. Please, help.
+Hash: 67A0F51E, Key: VoiceDir1510.EDC71, Value: Anxious. Scared.
+Hash: 17E7BC84, Key: Line1513.BC3FF, Value: Will you help me, stranger?
+Hash: 4E580F91, Key: VoiceDir1513.BC3FF, Value: Anxious. Scared.
+Hash: FED672C7, Key: Line1516.BC3FF, Value: Don’t just stand there! Help me!
+Hash: 3546C5D4, Key: VoiceDir1516.BC3FF, Value: Anxious. Scared.
+Hash: E5C5290A, Key: Line1519.BC3FF, Value: You there. Please, help.
+Hash: 1C357C17, Key: VoiceDir1519.BC3FF, Value: Anxious. Scared.
+Hash: B766F075, Key: Line1522.EDC72, Value: Will you help me, stranger?
+Hash: EDD74382, Key: VoiceDir1522.EDC72, Value: Anxious. Scared.
+Hash: 9E55A6B8, Key: Line1525.EDC72, Value: Don’t just stand there! Help me!
+Hash: D4C5F9C5, Key: VoiceDir1525.EDC72, Value: Anxious. Scared.
+Hash: 85445CFB, Key: Line1528.EDC72, Value: You there. Please, help.
+Hash: BBB4B008, Key: VoiceDir1528.EDC72, Value: Anxious. Scared.
+Hash: 56AE8896, Key: Line1531.EDC73, Value: Will you help me, stranger?
+Hash: 8D1EDBA3, Key: VoiceDir1531.EDC73, Value: Anxious. Scared.
+Hash: 3D9D3ED9, Key: Line1534.EDC73, Value: Don’t just stand there! Help me!
+Hash: 740D91E6, Key: VoiceDir1534.EDC73, Value: Anxious. Scared.
+Hash: 248BF51C, Key: Line1537.EDC73, Value: You there. Please, help.
+Hash: 5AFC4829, Key: VoiceDir1537.EDC73, Value: Anxious. Scared.

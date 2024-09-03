@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Movement
+Hash: 003892BF, Key: Desc, Value: You move {c_number}10%{/c} faster.

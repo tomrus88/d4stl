@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Grain Storage
+Hash: 0871A46B, Key: Toast, Value: Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.
+Hash: 538236DE, Key: Callback17Header, Value: Clear the Grain Storage

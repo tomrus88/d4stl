@@ -1,0 +1,5 @@
+Hash: 1CB1D688, Key: GameGuide, Value: Game Guide
+Hash: EBB5B1F5, Key: Basics, Value: Basics
+Hash: 2A97D396, Key: Abilities, Value: Abilities
+Hash: C7CEF1AE, Key: Classes, Value: Classes
+Hash: 8E9FE21A, Key: Crafters, Value: Crafters

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hidden
+Hash: 8EB65F2C, Key: Line1.1086F0, Value: The swamp is quietin' down! It's almost finished.
+Hash: DEEC8AF9, Key: VoiceDir1.1086F0, Value: Yelled in the middle of a fight. Zurke is not fighting but is performing taxing magic. He's a capable witch, but he's still strained and taxed by the energy needed. 

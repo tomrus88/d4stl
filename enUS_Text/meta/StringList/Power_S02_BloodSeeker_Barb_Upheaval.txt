@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Upheaval
+Hash: 003892BF, Key: desc, Value: {c_label}Fury Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Tear into the ground with your weapon and fling debris forward, dealing {c_number}{payload:SLAM_DAMAGE}{/c} damage.
+Hash: F2DE8628, Key: simple_desc, Value: Fury Skill: Tear into the ground with your weapon and fling debris towards your enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:SLAM_DAMAGE}{/c}
+Hash: 01B1EBBA, Key: Mod7_Description, Value: {c_important}Upheaval{/c} has a {c_number}[{SF_7}  * 100|%|]{/c} chance to Stun all enemies it damages for {c_number}[{SF_8}|1|]{/c} seconds.
+Hash: A287F597, Key: Mod7_Name, Value: Enhanced Upheaval
+Hash: 5110F53B, Key: Mod8_Description, Value: If {c_important}Upheaval{/c} damages at least {c_number}[{SF_18}]{/c} enemies, you gain {c_important}{u}Berserking{/u}{/c} for {c_number}{SF_9}{/c} seconds, increased to {c_number}{SF_11}{/c} seconds if it damages at least {c_number}{SF_10}{/c} enemies.
+Hash: A4DD1E38, Key: Mod8_Name, Value: Violent Upheaval
+Hash: A06FFEBC, Key: Mod9_Description, Value: Dealing direct damage to an enemy with a Skill that is not {c_important}Upheaval{/c} causes your next cast of {c_important}Upheaval{/c} to deal {c_number}[{SF_12}  * 100|%x|]{/c} increased damage, stacking up to {c_number}{SF_13}{/c} times.
+Hash: A73246D9, Key: Mod9_Name, Value: Furious Upheaval

@@ -1,0 +1,13 @@
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 073C9A36, Key: Close, Value: Close
+
+Hash: 7D4AA742, Key: Controller_TradeItem, Value: {icon:button4, 2}  Trade Item
+Hash: 49D07349, Key: Controller_Cancel, Value: {icon:button2, 2}  Cancel
+Hash: A84E87A1, Key: TradeItemTitle, Value: Trading Item
+Hash: BBEF4AF0, Key: ItemName, Value: Legendary Test Helm of Lanath TU
+Hash: BBF2FBB1, Key: ItemType, Value: Legendary Helm
+Hash: FBD7E650, Key: AskingPrice, Value: Asking Price
+Hash: 2F6ECED2, Key: AskingPricePrompt, Value: Select an amount of gold you want to sell the item for
+Hash: E624E31F, Key: StartingPrice, Value: 1000
+Hash: 60720853, Key: AskingPricePlaceholder, Value: Set asking price
+Hash: 4B6FDE38, Key: KBM_TradeItem, Value: Trade Item

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tormentor
+Hash: DA72BB62, Key: SuperElite, Value: Aether Fiend

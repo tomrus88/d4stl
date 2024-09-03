@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Knight Vigo
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Reverend Mother, I received a report of a potential demon sighting. Horned woman near Yelesna mines.
+Hash: F414A633, Key: Line3.6DE47, Value: Performed routine inspection. Nothing yet.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: Sent in priest and escort of Knights. Will report in when we find something.

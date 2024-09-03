@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Thorn Beast Meat
+Hash: F5C7BC0A, Key: Flavor, Value: This fresh meat was collected from thorn beasts. It is a tough, lean meal but will help fend off starvation. 

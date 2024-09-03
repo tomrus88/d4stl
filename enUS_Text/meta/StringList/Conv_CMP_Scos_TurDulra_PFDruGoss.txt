@@ -1,0 +1,4 @@
+Hash: F3E7AAEC, Key: Line3.53D3D, Value: I never expected to stand in Túr Dúlra again.
+Hash: 8DDC2470, Key: Line5.53D3F, Value: Do you think any of the archives survived? The college must have been stuffed with scrolls and books about magic.
+Hash: FCE58A9D, Key: VoiceDir5.53D3F, Value: Excited
+Hash: 27D09DF0, Key: Line7.53D3D, Value: Temper your excitement. I doubt anything but ash remains.

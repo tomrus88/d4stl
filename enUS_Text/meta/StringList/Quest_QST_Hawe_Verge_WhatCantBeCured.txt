@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: What Can't Be Cured
+Hash: 0871A46B, Key: Toast, Value: Escort Nevan as he travels to Wejinhani in search of a cure.
+Hash: D53BFF05, Key: Phase0Description, Value: I should escort Nevan while he finds herbs to trade to the Elders in Wejinhani for a cure.
+Hash: A5CF923D, Key: Callback25Header, Value: Escort Nevan while he finds herbs: {DONE_OVER_NEEDED}
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I should speak with Nevan now that we've reached Wejinhani.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak with Nevan
+Hash: A5EFB09D, Key: Phase26Description, Value: I should help Nevan reach Wejinhani now that he has collected all the herbs he needs.
+Hash: A07C739F, Key: Callback18Header, Value: Escort Nevan to Wejinhani

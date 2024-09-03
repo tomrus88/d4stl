@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: The Heretic
+Hash: 003892BF, Key: Desc, Value: Complete The Heretic questline in Hawezar.
+Hash: 3DA55845, Key: Crit_236108, Value: The Heretic
+Hash: 3DA55846, Key: Crit_236109, Value: A Price to Pay
+Hash: 3DA5585E, Key: Crit_236110, Value: Poisoned Hearts

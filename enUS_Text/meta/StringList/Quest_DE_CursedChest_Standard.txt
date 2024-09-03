@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cursed Chest
+Hash: B98DBD5C, Key: Callback15Header, Value: Survive the enemy assault
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay the remaining enemies
+Hash: B78F4DA1, Key: Callback56Header, Value: Massacre enough enemies

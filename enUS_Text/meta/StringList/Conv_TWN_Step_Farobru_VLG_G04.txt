@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Heard any news?"
+Hash: 8EE1D5C8, Key: Line1.11EA7B, Value: Bad news all around these days. Best to have an ale and watch the clouds pass over.

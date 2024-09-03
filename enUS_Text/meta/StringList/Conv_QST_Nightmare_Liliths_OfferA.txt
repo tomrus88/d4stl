@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Lilith
+Hash: 5D3B8DF4, Key: Line1.BD31C, Value: Elias thought I was the one to save Sanctuary, but he was wrong. A human must lead the flock of humans.
+Hash: F7300776, Key: Line3.BD31C, Value: You.

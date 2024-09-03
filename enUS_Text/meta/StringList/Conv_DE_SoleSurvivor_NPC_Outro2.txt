@@ -1,0 +1,4 @@
+Hash: 0E84BCDB, Key: Line20.7DD22, Value: I... I can't... (dying breath)
+Hash: 5EBAE8A8, Key: VoiceDir20.7DD22, Value: Pained struggling, then death.
+Hash: C350DFA5, Key: Line29.7DD23, Value: I... I can't... (dying breath)
+Hash: 13870B72, Key: VoiceDir29.7DD23, Value: Pained struggling, then death.

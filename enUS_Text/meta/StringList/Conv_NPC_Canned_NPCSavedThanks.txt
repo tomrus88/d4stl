@@ -1,0 +1,168 @@
+Hash: E5AA3F60, Key: Line769.7DD23, Value: (sigh) Wouldn’t have made it without you!
+Hash: 3CA5E4CD, Key: VoiceDir769.7DD23, Value: Relieved
+Hash: B7146AFA, Key: Line772.7DD23, Value: You saved my life!
+Hash: 0E101067, Key: VoiceDir772.7DD23, Value: Relieved
+Hash: 9E03213D, Key: Line775.7DD23, Value: Bless you!
+Hash: F4FEC6AA, Key: VoiceDir775.7DD23, Value: Relieved
+Hash: 30DE1C96, Key: Line760.7DD22, Value: Wouldn’t have made it without you!  
+Hash: 87D9C203, Key: VoiceDir760.7DD22, Value: Relieved
+Hash: 17CCD2D9, Key: Line763.7DD22, Value: You saved my life!
+Hash: 6EC87846, Key: VoiceDir763.7DD22, Value: Relieved
+Hash: FEBB891C, Key: Line766.7DD22, Value: Bless you!
+Hash: 55B72E89, Key: VoiceDir766.7DD22, Value: Relieved
+Hash: 847BFA7B, Key: Line778.22F0E, Value: Ah, wouldn’t have made it without you!
+Hash: DB779FE8, Key: VoiceDir778.22F0E, Value: Relieved
+Hash: 55E62615, Key: Line781.22F0E, Value: My savior!
+Hash: ACE1CB82, Key: VoiceDir781.22F0E, Value: Relieved
+Hash: 3CD4DC58, Key: Line784.22F0E, Value: Bless you!
+Hash: 93D081C5, Key: VoiceDir784.22F0E, Value: Relieved
+Hash: 242107BA, Key: Line787.7929C, Value: Wouldn’t have made it without you!  
+Hash: 7B1CAD27, Key: VoiceDir787.7929C, Value: Relieved
+Hash: F58B3354, Key: Line790.7929C, Value: My savior!
+Hash: 4C86D8C1, Key: VoiceDir790.7929C, Value: Relieved
+Hash: DC79E997, Key: Line793.7929C, Value: Bless you!
+Hash: 33758F04, Key: VoiceDir793.7929C, Value: Relieved
+Hash: 97E62F6A, Key: Line490.3F392, Value: Wouldn’t have made it without you!  
+Hash: EEE1D4D7, Key: VoiceDir490.3F392, Value: Relieved
+Hash: 7ED4E5AD, Key: Line493.3F392, Value: You’re a saint!
+Hash: D5D08B1A, Key: VoiceDir493.3F392, Value: Relieved
+Hash: 65C39BF0, Key: Line496.3F392, Value: Bless you!
+Hash: BCBF415D, Key: VoiceDir496.3F392, Value: Relieved
+Hash: 94D6E80E, Key: Line751.EDC78, Value: Wouldn’t have made it without you!  
+Hash: EBD28D7B, Key: VoiceDir751.EDC78, Value: Relieved
+Hash: 7BC59E51, Key: Line754.EDC78, Value: You’re a saint!
+Hash: D2C143BE, Key: VoiceDir754.EDC78, Value: Relieved
+Hash: 62B45494, Key: Line757.EDC78, Value: Ah, bless you!
+Hash: B9AFFA01, Key: VoiceDir757.EDC78, Value: Relieved
+Hash: F58F4FEF, Key: Line742.EDC79, Value: Wouldn’t have made it without you!  
+Hash: 4C8AF55C, Key: VoiceDir742.EDC79, Value: Relieved
+Hash: DC7E0632, Key: Line745.EDC79, Value: You’re a saint!
+Hash: 3379AB9F, Key: VoiceDir745.EDC79, Value: Relieved
+Hash: C36CBC75, Key: Line748.EDC79, Value: Oh, bless you!
+Hash: 1A6861E2, Key: VoiceDir748.EDC79, Value: Relieved
+Hash: 52BF3B48, Key: Line733.3F381, Value: Wouldn’t have made it without you!  
+Hash: A9BAE0B5, Key: VoiceDir733.3F381, Value: Relieved
+Hash: 39ADF18B, Key: Line736.3F381, Value: You’re a saint!
+Hash: 90A996F8, Key: VoiceDir736.3F381, Value: Relieved
+Hash: 209CA7CE, Key: Line739.3F381, Value: Bless you!
+Hash: 77984D3B, Key: VoiceDir739.3F381, Value: Relieved
+Hash: B7001FD8, Key: Line724.EDC7B, Value: Wouldn’t have made it without you!  
+Hash: 0DFBC545, Key: VoiceDir724.EDC7B, Value: Relieved
+Hash: 9DEED61B, Key: Line727.EDC7B, Value: You’re a saint!
+Hash: F4EA7B88, Key: VoiceDir727.EDC7B, Value: Relieved
+Hash: 6F5901B5, Key: Line730.EDC7B, Value: Bless you!
+Hash: C654A722, Key: VoiceDir730.EDC7B, Value: Relieved
+Hash: 17B887B9, Key: Line715.EDC7C, Value: Wouldn’t have made it without you!  
+Hash: 6EB42D26, Key: VoiceDir715.EDC7C, Value: Relieved
+Hash: FEA73DFC, Key: Line718.EDC7C, Value: You’re a saint!
+Hash: 55A2E369, Key: VoiceDir718.EDC7C, Value: Relieved
+Hash: D0116996, Key: Line721.EDC7C, Value: Bless you!
+Hash: 270D0F03, Key: VoiceDir721.EDC7C, Value: Relieved
+Hash: 78214BB7, Key: Line706.B79B0, Value: Wouldn’t have made it without you!  
+Hash: CF1CF124, Key: VoiceDir706.B79B0, Value: Relieved
+Hash: 5F1001FA, Key: Line709.B79B0, Value: You saved my life!
+Hash: B60BA767, Key: VoiceDir709.B79B0, Value: Relieved
+Hash: 307A2D94, Key: Line712.B79B0, Value: Bless you!
+Hash: 8775D301, Key: VoiceDir712.B79B0, Value: Relieved
+Hash: 9F3F3713, Key: Line697.EDC74, Value: Wouldn’t have made it without you!  
+Hash: F63ADC80, Key: VoiceDir697.EDC74, Value: Relieved
+Hash: AA9382E4, Key: Line700.EDC74, Value: You saved my life!
+Hash: 018F2851, Key: VoiceDir700.EDC74, Value: Relieved
+Hash: 91823927, Key: Line703.EDC74, Value: Bless you!
+Hash: E87DDE94, Key: VoiceDir703.EDC74, Value: Relieved
+Hash: FFF79EF4, Key: Line688.EDC75, Value: Wouldn’t have made it without you!  
+Hash: 56F34461, Key: VoiceDir688.EDC75, Value: Relieved
+Hash: D161CA8E, Key: Line691.EDC75, Value: You saved my life!
+Hash: 285D6FFB, Key: VoiceDir691.EDC75, Value: Relieved
+Hash: B85080D1, Key: Line694.EDC75, Value: Bless you!
+Hash: 0F4C263E, Key: VoiceDir694.EDC75, Value: Relieved
+Hash: 60606321, Key: Line679.B79B1, Value: Wouldn’t have made it without you!  
+Hash: B75C088E, Key: VoiceDir679.B79B1, Value: Relieved
+Hash: 31CA8EBB, Key: Line682.B79B1, Value: You saved my life!
+Hash: 88C63428, Key: VoiceDir682.B79B1, Value: Relieved
+Hash: 18B944FE, Key: Line685.B79B1, Value: Bless you!
+Hash: 6FB4EA6B, Key: VoiceDir685.B79B1, Value: Relieved
+Hash: ABE3E40C, Key: Line670.EDC76, Value: Wouldn’t have made it without you!  
+Hash: 02DF8979, Key: VoiceDir670.EDC76, Value: Relieved
+Hash: 92D29A4F, Key: Line673.EDC76, Value: You saved my life!
+Hash: E9CE3FBC, Key: VoiceDir673.EDC76, Value: Relieved
+Hash: 79C15092, Key: Line676.EDC76, Value: Bless you!
+Hash: D0BCF5FF, Key: VoiceDir676.EDC76, Value: Relieved
+Hash: 0C9C4BED, Key: Line661.EDC77, Value: Wouldn’t have made it without you!  
+Hash: 6397F15A, Key: VoiceDir661.EDC77, Value: Relieved
+Hash: F38B0230, Key: Line664.EDC77, Value: You saved my life!
+Hash: 4A86A79D, Key: VoiceDir664.EDC77, Value: Relieved
+Hash: DA79B873, Key: Line667.EDC77, Value: Bless you!
+Hash: 31755DE0, Key: VoiceDir667.EDC77, Value: Relieved
+Hash: 6D04756E, Key: Line652.B6757, Value: Wouldn’t have made it without you!  
+Hash: C4001ADB, Key: VoiceDir652.B6757, Value: Relieved
+Hash: 53F32BB1, Key: Line655.B6757, Value: My savior!
+Hash: AAEED11E, Key: VoiceDir655.B6757, Value: Relieved
+Hash: 3AE1E1F4, Key: Line658.B6757, Value: Oh, bless you!
+Hash: 91DD8761, Key: VoiceDir658.B6757, Value: Relieved
+Hash: 2EC583BA, Key: Line634.EDC7D, Value: Oh, wouldn’t have made it without you!
+Hash: 85C12927, Key: VoiceDir634.EDC7D, Value: Relieved
+Hash: 15B439FD, Key: Line637.EDC7D, Value: My savior!
+Hash: 6CAFDF6A, Key: VoiceDir637.EDC7D, Value: Relieved
+Hash: E71E6597, Key: Line640.EDC7D, Value: Bless you!
+Hash: 3E1A0B04, Key: VoiceDir640.EDC7D, Value: Relieved
+Hash: CE0D1BDB, Key: Line643.EDC7E, Value: Wouldn’t have made it without you!  
+Hash: 2508C148, Key: VoiceDir643.EDC7E, Value: Relieved
+Hash: B4FBD21E, Key: Line646.EDC7E, Value: My savior!
+Hash: 0BF7778B, Key: VoiceDir646.EDC7E, Value: Relieved
+Hash: 9BEA8861, Key: Line649.EDC7E, Value: Bless you!
+Hash: F2E62DCE, Key: VoiceDir649.EDC7E, Value: Relieved
+Hash: 8F2DB0AA, Key: Line625.B6807, Value: Wouldn’t have made it without you!  
+Hash: E6295617, Key: VoiceDir625.B6807, Value: Relieved
+Hash: 761C66ED, Key: Line628.B6807, Value: My savior!
+Hash: CD180C5A, Key: VoiceDir628.B6807, Value: Relieved
+Hash: 47869287, Key: Line631.B6807, Value: Bless you!
+Hash: 9E8237F4, Key: VoiceDir631.B6807, Value: Relieved
+Hash: F036537C, Key: Line616.EDC7F, Value: Wouldn’t have made it without you!  
+Hash: 4731F8E9, Key: VoiceDir616.EDC7F, Value: Relieved
+Hash: D72509BF, Key: Line619.EDC7F, Value: My savior!
+Hash: 2E20AF2C, Key: VoiceDir619.EDC7F, Value: Relieved
+Hash: A88F3559, Key: Line622.EDC7F, Value: Bless you!
+Hash: FF8ADAC6, Key: VoiceDir622.EDC7F, Value: Relieved
+Hash: 50EEBB47, Key: Line607.EDC80, Value: Wouldn’t have made it without you!  
+Hash: A7EA60B4, Key: VoiceDir607.EDC80, Value: Relieved
+Hash: 2258E6E1, Key: Line610.EDC80, Value: My savior!
+Hash: 79548C4E, Key: VoiceDir610.EDC80, Value: Relieved
+Hash: 09479D24, Key: Line613.EDC80, Value: Bless you!
+Hash: 60434291, Key: VoiceDir613.EDC80, Value: Relieved
+Hash: A6534B96, Key: Line544.BC3FE, Value: Oh, wouldn’t have made it without you!
+Hash: FD4EF103, Key: VoiceDir544.BC3FE, Value: Relieved
+Hash: 8D4201D9, Key: Line547.BC3FE, Value: You were the answer to my prayers. 
+Hash: E43DA746, Key: VoiceDir547.BC3FE, Value: Relieved
+Hash: 5EAC2D73, Key: Line550.BC3FE, Value: Bless you!
+Hash: B5A7D2E0, Key: VoiceDir550.BC3FE, Value: Relieved
+Hash: 07434F46, Key: Line535.EDC70, Value: Oh, wouldn’t have made it without you!
+Hash: 5E3EF4B3, Key: VoiceDir535.EDC70, Value: Relieved
+Hash: EE320589, Key: Line538.EDC70, Value: You were the answer to my prayers. 
+Hash: 452DAAF6, Key: VoiceDir538.EDC70, Value: Relieved
+Hash: BF9C3123, Key: Line541.EDC70, Value: Bless you!
+Hash: 1697D690, Key: VoiceDir541.EDC70, Value: Relieved
+Hash: 67FBB727, Key: Line526.EDC71, Value: Wouldn’t have made it without you!  
+Hash: BEF75C94, Key: VoiceDir526.EDC71, Value: Relieved
+Hash: 4EEA6D6A, Key: Line529.EDC71, Value: You were the answer to my prayers. 
+Hash: A5E612D7, Key: VoiceDir529.EDC71, Value: Relieved
+Hash: 20549904, Key: Line532.EDC71, Value: Bless you!
+Hash: 77503E71, Key: VoiceDir532.EDC71, Value: Relieved
+Hash: C87C8337, Key: Line517.BC3FF, Value: Wouldn’t have made it without you!  
+Hash: 1F7828A4, Key: VoiceDir517.BC3FF, Value: Relieved
+Hash: 99E6AED1, Key: Line520.BC3FF, Value: You were the answer to my prayers. 
+Hash: F0E2543E, Key: VoiceDir520.BC3FF, Value: Relieved
+Hash: 80D56514, Key: Line523.BC3FF, Value: Bless you!
+Hash: D7D10A81, Key: VoiceDir523.BC3FF, Value: Relieved
+Hash: 296C86E8, Key: Line508.EDC72, Value: Wouldn’t have made it without you!  
+Hash: 80682C55, Key: VoiceDir508.EDC72, Value: Relieved
+Hash: FAD6B282, Key: Line511.EDC72, Value: You were the answer to my prayers. 
+Hash: 51D257EF, Key: VoiceDir511.EDC72, Value: Relieved
+Hash: E1C568C5, Key: Line514.EDC72, Value: Bless you!
+Hash: 38C10E32, Key: VoiceDir514.EDC72, Value: Relieved
+Hash: 503ACE92, Key: Line499.EDC73, Value: Wouldn’t have made it without you!  
+Hash: A73673FF, Key: VoiceDir499.EDC73, Value: Relieved
+Hash: 5B8F1A63, Key: Line502.EDC73, Value: You were the answer to my prayers. 
+Hash: B28ABFD0, Key: VoiceDir502.EDC73, Value: Relieved
+Hash: 427DD0A6, Key: Line505.EDC73, Value: Bless you!
+Hash: 99797613, Key: VoiceDir505.EDC73, Value: Relieved

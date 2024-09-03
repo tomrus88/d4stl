@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have the Conduit. What next?"
+Hash: 8ED76A13, Key: Line1.121A3D, Value: I have just one more use for you, champion. No hard feelings…
+Hash: DF0D95E0, Key: VoiceDir1.121A3D, Value: Voice dripping with venom. Pleased with herself. 
+Hash: 675DD7FD, Key: Line3.126AE5, Value: Bah. Worthless device. Or perhaps your will is stronger than I thought. Strong enough to resist possession.
+Hash: B79403CA, Key: VoiceDir3.126AE5, Value: Pissed. Curses out the failed device. A little impressed you resisted possession. 
+Hash: 3FE181BF, Key: Line5.126AE5, Value: It appears this will have to be done the old-fashioned way. I shall wear your face!
+Hash: 9017AD8C, Key: VoiceDir5.126AE5, Value: "I shall wear your face!" is Izel's attack line. Scream. Unhinged. 

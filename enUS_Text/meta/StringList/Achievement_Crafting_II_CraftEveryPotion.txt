@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Master Potion Brewer
+Hash: 003892BF, Key: Desc, Value: Fully Upgrade your Healing Potion.

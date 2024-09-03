@@ -1,0 +1,48 @@
+Hash: A9ADE561, Key: DeleteHero, Value: Delete Character
+Hash: C6ED722A, Key: DeleteHeroConfirmation, Value: Are you sure you want to delete {s1}?
+Hash: E8AB4EB2, Key: DialogTitle, Value: Swap Character
+Hash: 878F9396, Key: HardcoreHero, Value: Hardcore
+Hash: 9C933E61, Key: IconDifficultyHellLabel, Value: Hell Difficulty
+Hash: 0484628D, Key: IconDifficultyInfernoLabel, Value: Inferno Difficulty
+Hash: 137A69FB, Key: IconDifficultyNightmareLabel, Value: Nightmare Difficulty
+Hash: C9B98965, Key: IconDifficultyNormalLabel, Value: Normal Difficulty
+Hash: 68193CDF, Key: PageTitle, Value: Select A Character
+Hash: 134BB68A, Key: StatSummaryLabel, Value: Skill Summary
+Hash: 633796EA, Key: ButtonSelectHero, Value: Select Character
+Hash: 9FB1160E, Key: TimePlayed, Value: Current Play Time: {s1}
+Hash: C34F8CB6, Key: SlotsAvailable, Value: {s1} Character |4Slot:Slots; Remaining
+Hash: 1268F7D4, Key: ButtonNewHero, Value: Create
+Hash: 4D31591D, Key: ButtonDeleteHero, Value: Delete
+Hash: 3E5AFCD0, Key: DifficultiesUnlocked, Value: Difficulties Unlocked
+Hash: 07DBBC18, Key: Level, Value: Level
+Hash: 9132B3C7, Key: InvalidLabel, Value: Invalid
+Hash: 64384E2C, Key: LastAct, Value: Last Played: {s1}
+Hash: 68BDF783, Key: CantDeleteActiveHero, Value: You cannot delete your actively selected hero.
+Hash: F3F1BF7C, Key: HeroLevelClass, Value: - Level {s1} {s2}
+Hash: 95513586, Key: HeroSelectWarningTitle, Value: ATTENTION!
+Hash: E6420A34, Key: ButtonArchiveHardcoreHero, Value: Archive Character
+Hash: FABC4A41, Key: ArchiveHardcoreHeroConfirmation, Value: Are you sure you want to move {s1} to the Hall of Fallen Heroes?
+Hash: 2724276B, Key: DeleteHardcoreHeroTitle, Value: Delete Fallen Character
+Hash: 0844A092, Key: DeleteHardcoreHeroConfirmation, Value: You may still archive this hero in the Hall of Fallen Heroes. Are you sure you want to delete {s1} permanently?
+Hash: 923A644B, Key: ButtonSaveFallenHero, Value: Save
+Hash: FCDF1E65, Key: ReachedMaxNumOfFallenHeroesWarning, Value: You have reached the maximum number of fallen characters.  Visit the Hall of Fallen Heroes and remove some characters first.
+Hash: EEAA678F, Key: ButtonViewFallenHeroes, Value: View
+Hash: 6478961F, Key: UndeleteFlow_RestoreHero, Value: Restore Character
+Hash: ADE2A63A, Key: UndeleteFlow_RestoreConfirmation, Value: Do you wish to restore this deleted character?
+Hash: 581A6AED, Key: UndeleteFlow_RestoreButton, Value: Restore
+Hash: C431B613, Key: UndeleteFlow_ReplaceHeroButton, Value: Replace Character
+Hash: D0690308, Key: UndeleteFlow_HeroLimitReachedTitle, Value: Character Limit Reached
+Hash: CEBD852A, Key: UndeleteFlow_HeroLimitReachedDescription, Value: There is a 10 character limit for every Diablo IV account. To restore your deleted character, you must replace an existing character.
+Hash: 2604EB81, Key: UndeleteFlow_RestoreHeroTitle, Value: Restore Character
+Hash: 1CAEEF6A, Key: RenameHeroDescription, Value: Your character has been flagged for rename. You will not be able to use this character until you have entered a new name.
+Hash: 8F0F5746, Key: HeroRenameLabel, Value: Enter new character name
+Hash: F4FBD4C2, Key: RenameHeroButton, Value: Rename
+Hash: 32A1BEF3, Key: UnknownKiller, Value: Unknown
+Hash: C6723946, Key: NoValidHeroConfirmationTitle, Value: No valid characters currently available.
+Hash: D4F1F1E8, Key: NoValidHeroConfirmationDescription, Value: Please delete or archive one of the characters in your current character selection list.
+Hash: 878D5FD6, Key: HardcoreDead, Value: Dead
+Hash: F2CDD376, Key: HardcoreTimePlayed, Value: Time Played: {s1}
+Hash: D87EF0E4, Key: HardcoreHeroLevelClass, Value: Level {s1} {s2}
+Hash: 7B2C7B72, Key: HardcoreCreationDeathTime, Value: {s1} - {s2}
+Hash: 80B486E4, Key: HardcoreCreationDeathTimeNotAvailable, Value: Not Available
+Hash: 9804D888, Key: Paragon, Value: Paragon

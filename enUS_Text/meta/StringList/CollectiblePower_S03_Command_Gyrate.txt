@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Gyrate
+Hash: A646FFA4, Key: Description, Value: The Seneschal Construct whirls its legs around quickly dealing {c_number}{SF_7}{/c} damage to all surrounding enemies.
+Hash: 70FCEFA9, Key: AttackSpeed, Value: {c_label}Speed:{/c} {c_resource}[{SF_9}|1|]{/c} seconds
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Damage {icon:arrow,1.2} {c_number}{SF_8}{/c}
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating Heralds in Arcane Tremors

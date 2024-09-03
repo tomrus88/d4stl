@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Perpetual Stomping
+Hash: 003892BF, Key: Desc, Value: Damaging an enemy with {c_important}Kick{/c} or {c_important}Ground Stomp{/c} resets {c_important}Leap's{/c} Cooldown.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Kick{/c} or {c_important}Ground Stomp{/c} resets {c_important}Leap's{/c} Cooldown.

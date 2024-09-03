@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Capable Craftsmen
+Hash: 3A4912CF, Key: DescShort, Value: Learn Recipes of Rare rarity or higher

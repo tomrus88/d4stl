@@ -1,0 +1,7 @@
+Hash: 14465E1B, Key: BossPortalSpawned, Value: The Guardian awaits you!
+Hash: A8CD4C93, Key: LeaveDungeonWarning, Value: {c_red}Warning:{/c} If you leave {c_gold}The Artificer's Realm{/c} will {c_red}collapse{/c}!
+Hash: DF62BAF0, Key: RewardToast, Value: Congratulations, you've unlocked {param1} Tier(s)!
+Hash: 1A2267F6, Key: TimeRemains_60s, Value: Only 60s remain!
+Hash: 1A225B33, Key: TimeRemains_30s, Value: Only 30 seconds remain!
+Hash: 1A2252B1, Key: TimeRemains_10s, Value: Only 10 seconds remain!
+Hash: 6DADFC87, Key: MasteryPenaltyMessage, Value: Death removed {param1} seconds from the {c_yellow}Mastery{/c} Timer.

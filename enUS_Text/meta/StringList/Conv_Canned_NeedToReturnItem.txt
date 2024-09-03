@@ -1,0 +1,5 @@
+Hash: D4479923, Key: Line1.BAE4, Value: I must return this to its owner.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: I should return this.
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: I need to return this.
+Hash: E2468CE9, Key: Line7.BAE4, Value: Someone will be wanting this back.
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: They'll be happy to have this back.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I came to find you. What is the matter?”
+Hash: 67A72C3A, Key: Line3.1697C7, Value: What's the matter? Zir’s army is slaughtering our people, the Cathedral won’t do a damn thing to stop them, and now—
+Hash: B7DD5807, Key: VoiceDir3.1697C7, Value: Distraught, worried, tense.
+Hash: 402AD5FC, Key: Line5.1697C7, Value: And now, on top of that, you show up in town. We can’t speak here, come with me.
+Hash: 906101C9, Key: VoiceDir5.1697C7, Value: Hushing voice, tense, worried

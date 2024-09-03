@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is it, priest?"
+Hash: 8F20EA94, Key: Line1.163AA1, Value: I know what you are.
+Hash: DF571661, Key: VoiceDir1.163AA1, Value: Hoarse, venomous.
+Hash: 40283E18, Key: Line5.163AA1, Value: Iosef told me. He told me about Nevesk, about the blood, about your vision. You think you were saved.
+Hash: 18ABE7DA, Key: Line7.163AA1, Value: (spits) Fool. A demon’s blood is alive. It will eat you from within, until all that remains is her.
+Hash: F12F919C, Key: Line9.163AA1, Value: Go to Nevesk. Go! You will see the truth there.

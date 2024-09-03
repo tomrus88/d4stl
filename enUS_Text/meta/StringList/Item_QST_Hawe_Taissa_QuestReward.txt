@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Mark of the Conclave
+Hash: F5C7BC0A, Key: Flavor, Value: "Healing is a journey. A series of steps. Some days you may stumble, but so long as you continue to put one foot in front of the other, you will reach your destination."
+- Recently carved inscription

@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Elias
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Elias
+Hash: 5A44590A, Key: Line1.8DD12, Value: Lorath Nahr...I have waited a very long time for this.
+Hash: C94DBF37, Key: VoiceDir1.8DD12, Value: Sinister satisfaction. Deep Loathing.
+Hash: F438D28C, Key: Line3.8DD12, Value: I have a gift for you.
+Hash: 634238B9, Key: VoiceDir3.8DD12, Value: Sinister satisfaction.

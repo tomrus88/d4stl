@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: High Priestess's Missive
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: High Priestess' Missive
+Hash: 59EA27DE, Key: Line1.3F392, Value: High Priest Clouse, I will be returning with another catch in two days. Prepare a cage. This one is in its prime, and will need extra care to contain.
+Hash: F3DEA160, Key: Line3.3F392, Value: Have you seen? Folks are moving into our town, into our houses. I saw smoke coming from my own chimney last week. The disgrace of it all!
+Hash: 8DD31AE2, Key: Line5.3F392, Value: We’ve kept our army caged long enough. The Mother’s blessings have seen us through till now. She will see us through the retaking of our land. Our time nears. 
+-High Priestess Chesna

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Frozen Alive
+Hash: A07C739F, Key: Callback18Header, Value: Search the husks for Villagers: {DONE_OVER_NEEDED}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Protect the Villagers: {LEFT} Remain
+Hash: C5FA5A22, Key: Callback39Header, Value: Slay the remaining Monsters
+Hash: A3D12282, Key: Callback66Header, Value: Keep all the Villagers alive

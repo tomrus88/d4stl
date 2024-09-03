@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Mystic Incense
+Hash: A646FFA4, Key: Description, Value: Bound to Blightmarsh
+Hash: F5C7BC0A, Key: Flavor, Value: A bundle of dried incense. The strong, earthy scent clings to the back of your throat and makes your head swim.

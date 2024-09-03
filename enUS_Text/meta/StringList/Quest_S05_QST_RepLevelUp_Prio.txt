@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Gifts
+Hash: 0871A46B, Key: Toast, Value: Istel has New Rewards available.
+Hash: D53BFF05, Key: Phase0Description, Value: The Ancestors are pleased with your efforts and have gathered a new cache of rewards.
+Hash: 1EADAE68, Key: Callback2Header, Value: Return to Istel

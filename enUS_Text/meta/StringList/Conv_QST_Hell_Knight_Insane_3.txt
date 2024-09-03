@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What did you say?"
+Hash: 5D347160, Key: Line1.C6439, Value: Sins beget sins as men beget men. Terror begets Hate and Hate begets Destruction. Destruction begets Terror as Terror begets Hate as Hate begets Destruction...
+Hash: CC3DD78D, Key: VoiceDir1.C6439, Value: (low, fast, babbling--the knight has been driven mad by the things he's seen in Hell)

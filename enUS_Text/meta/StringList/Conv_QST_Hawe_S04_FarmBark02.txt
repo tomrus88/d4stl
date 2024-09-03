@@ -1,0 +1,4 @@
+Hash: 5D71D84F, Key: Line1.ED393, Value: I've dreamed of coming home for so long.
+Hash: CC7B3E7C, Key: VoiceDir1.ED393, Value: disappointed
+Hash: F76651D1, Key: Line3.ED393, Value: But there’s nothing here. Just dust.
+Hash: 666FB7FE, Key: VoiceDir3.ED393, Value: hollow

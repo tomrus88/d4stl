@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Don't forget your flowers."
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: Oh! Yes! Mother, I'm sorry I was gone but I brought these flowers home to help you feel better!
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: Timid, but excited. You think you're mother will really appreciate the effort.
+Hash: F75EA60C, Key: Line3.F52F0, Value: Flowers? You (cough) went out and left me alone for flowers? You stupid girl! You cursed little creature! (cough)
+Hash: 66680C39, Key: VoiceDir3.F52F0, Value: Cruel, heated.
+Hash: 91531FA1, Key: Line5.F52ED, Value: B-but... (cries)
+Hash: 005C85CE, Key: VoiceDir5.F52ED, Value: surprised, confused and sad.
+Hash: 2B47965B, Key: Line7.F5300, Value: You found her! The ashes, the bodies, everything leads to her! Heretic!
+Hash: 9A50FC88, Key: VoiceDir7.F5300, Value: Pleased, wrathful, self-important.
+Hash: C53C12A5, Key: Line9.F52ED, Value: What? No! Please! I-I didn't do anything! Leave me alone!
+Hash: 344578D2, Key: VoiceDir9.F52ED, Value: Terrified, surprised. A mob burst into your house accusing you of murder.
+Hash: 0C698768, Key: Line13.F5300, Value: We'll make you pay!
+Hash: 5C9FB335, Key: VoiceDir13.F5300, Value: Hateful
+Hash: 7275109B, Key: Line11.F52F0, Value: Hmph. All this fuss over her.
+Hash: C2AB3C68, Key: VoiceDir11.F52F0, Value: Disgusted, exhausted. Over it. Hit "fuss" more than "her".

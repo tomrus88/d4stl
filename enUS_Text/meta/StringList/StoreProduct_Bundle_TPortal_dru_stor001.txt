@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Path of Ursa
+Hash: A646FFA4, Key: Description, Value: "My kin, the source of the Bear's might lies not in tooth or claw. It is family! It is the hearth! For what else deserves such terrible strength?" -Archdruid Totun
+Hash: 083EE0CE, Key: Quote, Value: Hewn in the homeland.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Ursa Noctua" Accessories

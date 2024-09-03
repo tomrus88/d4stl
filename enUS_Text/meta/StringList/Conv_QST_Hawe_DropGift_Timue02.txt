@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Timue, why does this doll look like you?"
+Hash: 5A39A25C, Key: Line1.9118B, Value: What is that, an effigy? Come over, let me see it!
+Hash: F42E1BDE, Key: Line3.9118B, Value: Aha, this is just an ordinary doll, why didn't you say so?
+Hash: 8E229560, Key: Line5.9118B, Value: Well, it should look like me. It is me. I made this for someone... a child, long ago. My child, perhaps?
+Hash: 28170EE2, Key: Line7.9118B, Value: Yes, it was my child's, and she had one just like it that looked just like her too.
+Hash: C20B8864, Key: Line9.9118B, Value: Fitting that this one has been carried back to me by the swamp, after all this time. Maybe someday it will bring her back too.

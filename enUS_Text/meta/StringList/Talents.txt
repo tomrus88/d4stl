@@ -1,0 +1,36 @@
+Hash: 267E30BE, Key: PointsAvailable, Value: Points Available
+Hash: 56EFAA53, Key: PointCount, Value: {s1}/{s2}
+Hash: 08484263, Key: Reset, Value: Debug Reset
+Hash: 6E95DE6A, Key: Sorcerer_Fire, Value: Fire
+Hash: B80B24B6, Key: Sorcerer_LightningFrost, Value: Lightning & Frost
+Hash: FBC5C1FE, Key: BlackMagic, Value: Ice Magic
+Hash: 053C9FF7, Key: Elemental, Value: Elemental Magic
+Hash: 72A56F43, Key: ChooseOne, Value: Choose One
+Hash: 896FC0B1, Key: SkillLocked, Value: {c_grey}Locked{/c}
+Hash: C99FAEFA, Key: TalentLocked, Value: Spend more points in this tree to unlock this talent
+Hash: C3238CBC, Key: Barbarian_Warlord, Value: Warlord
+Hash: 4CAB0CC6, Key: Barbarian_Berserker, Value: Berserker
+Hash: 374E606D, Key: ClassTraits, Value: Class Traits
+Hash: 2F5055E4, Key: Druid_Shapeshifting, Value: Shapeshifting
+Hash: B8772827, Key: Druid_NatureMagic, Value: Nature Magic
+Hash: 36A54AC5, Key: SavePoints_KBM, Value: Save Points
+Hash: E78BAFEF, Key: ResetUnsavedPoints_KBM, Value: Reset Unsaved Points
+Hash: 8CCC2CA9, Key: ConfirmPromptLine1, Value: Would you like to save this 
+talent point configuration? 
+Hash: 8CCC2CAA, Key: ConfirmPromptLine2, Value: Unsaved points will not be assigned.
+Hash: A5EE6117, Key: ReturnToTalents_KBM, Value: Return to Talents
+Hash: 2C00B16F, Key: Close_KBM, Value: Close
+Hash: 4A5F3859, Key: Close_Controller, Value: {icon:button2,2.0}  Close
+Hash: C365BB01, Key: ReturnToTalents_Controller, Value: {icon:button1,2.0} Return to Talents
+Hash: 2ADB34EF, Key: SavePoints_Controller, Value: {icon:button4,2.0} Save Points
+Hash: D8CAE6D9, Key: ResetUnsavedPoints_Controller, Value: {icon:button3,2.0} Reset Unsaved Points
+Hash: 9549BAF6, Key: TalentLockedByMutualExclusivity, Value: Another exclusive talent is selected
+Hash: 25D2A47B, Key: Sorcerer_Elemental, Value: Elemental
+Hash: 1FCE2DA8, Key: Sorcerer_Lightning, Value: Lightning
+Hash: 6E945206, Key: Sorcerer_Cold, Value: Cold
+Hash: D8330088, Key: Assassin_Discipline, Value: Discipline
+Hash: D0004EF6, Key: Assassin_Cunning, Value: Cunning
+Hash: 9954E35B, Key: TalentInactive, Value: The effects of this talent are being suppressed by {s1}.
+Hash: F8295839, Key: Druid_Hybrid, Value: Hybrid
+Hash: 96961B00, Key: MinorPassive, Value: Minor Passive
+Hash: 5B862C74, Key: MajorPassive, Value: Key Passive

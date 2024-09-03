@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Dawood, what happened? Are you wounded?”
+Hash: 97CEBBAC, Key: Line32.D5161, Value: Bloody demons... if they set them on Dahlgur--!
+Hash: E804E779, Key: VoiceDir32.D5161, Value: In pain. Shaking. Scared. 
+Hash: FDCF56E6, Key: Line30.BC41C, Value: We stopped them, everyone is safe. Can you walk?
+Hash: 4E0582B3, Key: VoiceDir30.BC41C, Value: Direct. Calm. Comforting. 
+Hash: 31C3352E, Key: Line34.D5161, Value: (grunt) Damn it! I can’t--
+Hash: 81F960FB, Key: VoiceDir34.D5161, Value: Can't get up. Pain. Frustration. Fear.
+Hash: CBACC36C, Key: Line36.BC41C, Value: It's all right, I’ll carry you back to camp, get you to the healer.
+Hash: 1BE2EF39, Key: VoiceDir36.BC41C, Value: Direct. Comforting. Hiding worry.
+Hash: 65AC2832, Key: Line38.D5161, Value: Wanderer, I'm sorry, we've no time for thanks. Meet us in Dahlgur, when you can.
+Hash: B5E253FF, Key: VoiceDir38.D5161, Value: Direct. Urgent.

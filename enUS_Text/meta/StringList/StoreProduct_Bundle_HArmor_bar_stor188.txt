@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Brutal Idol
+Hash: A646FFA4, Key: Description, Value: Terrifying effigies are a common sight in the Dry Steppes, built as offerings to appease great evil. To dress oneself in their image is to invite their fury.
+Hash: 083EE0CE, Key: Quote, Value: Fury of an ancient power.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Liege's Conceit
+Hash: A646FFA4, Key: Description, Value: The invading barbarian lords greatly admired the regal steeds of the west, creating several stud farms throughout the countryside.
+Hash: 083EE0CE, Key: Quote, Value: The nobility of conquest.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

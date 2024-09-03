@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Stone Mural
+Hash: CC3C0A8F, Key: FlavorText, Value: Mural Plaque
+Hash: F2CA04D8, Key: NoticeSignText, Value: In honor of the great Horadric mage Donan and the brave druids Airidah and Nafain, who vanquished the demon Astaroth and ended the Days of Ash.

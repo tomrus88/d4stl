@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mixology
+Hash: 003892BF, Key: Desc, Value: Upgrade your Healing Potion at the Alchemist.

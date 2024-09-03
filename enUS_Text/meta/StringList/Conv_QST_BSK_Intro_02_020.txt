@@ -1,0 +1,4 @@
+Hash: 9257723D, Key: Line1.1BCB9E, Value: Such a fuss over old Sankekur. His Hatred could have been banished to Hell long ago. The best the Zakarum could do was stick it in a box.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Flippant contempt. Superior.
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: We’ll open it up, purge the corpse... and the Triune’s plan will be dust.
+Hash: BB1147CC, Key: VoiceDir3.1BCB9E, Value: Projecting confidence.

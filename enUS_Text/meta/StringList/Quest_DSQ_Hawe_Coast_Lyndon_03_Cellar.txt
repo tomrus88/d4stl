@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Dead to Rights
+Hash: 0871A46B, Key: Toast, Value: Orton's the rat.
+Hash: 1EADAE68, Key: Callback2Header, Value: Enter Backwater Storage Cellar
+Hash: D9B88541, Key: Callback29Header, Value: Slay Orton's ambush
+Hash: 5E28741A, Key: Callback31Header, Value: Slay Orton
+Hash: DF0BA3DF, Key: Callback36Header, Value: Hide behind the crates
+Hash: FD700C3A, Key: Callback40Header, Value: Slay Orton
+Hash: D53BFF05, Key: Phase0Description, Value: Lyndon has asked that I meet him in the storage cellar in Backwater. He's planning to confront Orton there.
+Hash: CF9A89D8, Key: Phase30Description, Value: Orton wasn't keen on diplomacy; he came with his own ambush. Lyndon and I must kill Orton and his crew of traitors.
+Hash: 9367FF5C, Key: Phase34Description, Value: Lyndon has invited Orton in hopes of handling this diplomatically. But in case things go south, he's asked that I hide.
+Hash: 44ADC39F, Key: Phase46Description, Value: Lyndon has asked that I meet him in the storage cellar in Backwater. He's planning to confront Orton there.
+Hash: 6541F242, Key: Callback48Header, Value: Speak with Lyndon

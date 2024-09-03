@@ -1,0 +1,2 @@
+Hash: F5C7BC0A, Key: Flavor, Value: A mote of focused hellfire. Your blood boils as you hold it in your hand, though there is no pain. Only power.
+Hash: 003DFCC1, Key: Name, Value: Mother's Gift

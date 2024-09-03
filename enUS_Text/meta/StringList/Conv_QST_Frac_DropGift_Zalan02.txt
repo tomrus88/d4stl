@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you make of this old diary?"
+Hash: 5D28A524, Key: Line1.AAE2D, Value: This must've belonged to a traveling merchant. They tried to hire more guards in Margrave, but nobody would sign on.
+Hash: 91119828, Key: Line5.AAE2D, Value: As they traveled on, members of their caravan disappeared one by one. I... I don't think they made it to their destination.

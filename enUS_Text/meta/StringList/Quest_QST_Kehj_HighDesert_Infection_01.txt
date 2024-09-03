@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Unsafe Travels
+Hash: 0871A46B, Key: Toast, Value: A Kehjistani guide is plagued by troubles.
+Hash: E2223B19, Key: Phase22Description, Value: Mahjoob, a desert guide, was attacked by a pack of fly demons. He needs the flower of a local palm tree to create an antivenom.
+Hash: BCDC4796, Key: Callback169Header, Value: Find a Ghost Palm
+Hash: 3DF7878C, Key: Callback123Header, Value: Gather a {ITEM}
+Hash: 07D66B5F, Key: Phase28Description, Value: I found the flower of the ghost palm. I should return to Mahjoob, so he can craft the antivenom.
+Hash: 3FC40BBF, Key: Callback27Header, Value: Speak to Mahjoob
+Hash: DB40AFF1, Key: Callback173Header, Value: Gather a {ITEM}
+Hash: 75352973, Key: Callback175Header, Value: Gather a {ITEM}
+Hash: 0F29A2F5, Key: Callback177Header, Value: Gather a {ITEM}

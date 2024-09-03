@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Personal Effects
+Hash: F5C7BC0A, Key: Flavor, Value: Personal effects taken from undead. These include arm bands, talismans, holy symbols, rings and jewelry as well as a few written notes and other various trinkets.

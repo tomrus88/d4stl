@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Increases your Critical Strike Damage by {c_number}[Affix_Value_1|%x|]{/c}. The other properties on this weapon can roll higher than normal.

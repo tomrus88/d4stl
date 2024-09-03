@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cormond's Note
+Hash: F2CA04D8, Key: NoticeSignText, Value: "I’ve found something! Meet me in the courtyard of Orbei as soon as you can! --Cormond"

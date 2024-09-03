@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Engulfing Flames
+Hash: 003892BF, Key: Desc, Value: You deal {c_random}[Affix_Value_2|%x|]{/c} increased Burning damage to enemies below {c_number}[Affix."Static Value 1" * 100|%|]{/c} Life. Additionally, you deal {c_random}[Affix_Value_1|%x|]{/c} increased Burning damage to enemies while they are affected by more Damage Over Time than their total Life.
+Hash: 82B7D312, Key: CodexDesc, Value: You deal {c_random}[Affix_Value_2|%x|]{/c} increased Burning damage to injured enemies and {c_random}[Affix_Value_1|%x|]{/c} increased Burning damage to enemies affected by more Damage Over Time than their total Life.

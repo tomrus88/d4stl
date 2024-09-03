@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Old Zakarum Prayerbook
+Hash: A646FFA4, Key: Description, Value: A battered book that has seen better days.
+Hash: F5C7BC0A, Key: Flavor, Value: A well worn book of Zakarum prayers and hymns. Show this to a priest.

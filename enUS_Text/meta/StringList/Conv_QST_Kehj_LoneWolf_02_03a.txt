@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Entered Caverns
+Hash: 40E19F2F, Key: Line4.54237, Value: They're here! Collapse the tunnel!
+Hash: AFEB055C, Key: VoiceDir4.54237, Value: Alarmed. Shouting a warning/command.
+Hash: DE1E3599, Key: Line6.BC41C, Value: So much for "quietly."
+Hash: 4D279BC6, Key: VoiceDir6.BC41C, Value: Annoyed. Pressing on.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Altar of Light
+Hash: F2CA04D8, Key: NoticeSignText, Value: A place of prayer, maintained for locals and travelers. A fresh candle sits atop heaps of spent wax. The Light is never allowed to go out. 

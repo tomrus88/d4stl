@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Lonely Wolf 02 - Intro
+Hash: C517D720, Key: Line9.D5161, Value: They’ve poisoned the oasis, I know it.
+Hash: 34213D4D, Key: VoiceDir9.D5161, Value: Close-talking. Bitter. Hates the poisoners.
+Hash: 2B18725A, Key: Line7.BC41C, Value: Shouldn’t you be at your post?
+Hash: 9A21D887, Key: VoiceDir7.BC41C, Value: Weary. Correcting a young, over-eager officer.
+Hash: 7250D529, Key: Line11.D5161, Value: I can see it from here.
+Hash: C28700F6, Key: VoiceDir11.D5161, Value: Answering Asa. Shrugging.

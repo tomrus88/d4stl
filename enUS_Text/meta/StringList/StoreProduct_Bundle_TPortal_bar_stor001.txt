@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Path of Hell's Champion
+Hash: A646FFA4, Key: Description, Value: The champion's birthright holds a glorious potential. Molded by the forces of Hell to purge the Light from Sanctuary.
+Hash: 083EE0CE, Key: Quote, Value: To seize the Daughter's creation.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Hell's Champion" Accessories

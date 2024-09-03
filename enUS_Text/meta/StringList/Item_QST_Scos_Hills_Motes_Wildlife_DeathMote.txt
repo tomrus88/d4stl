@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Spirit Energy
+Hash: A646FFA4, Key: Description, Value: Collect Spirit Energy to dispel the Druid's ward.

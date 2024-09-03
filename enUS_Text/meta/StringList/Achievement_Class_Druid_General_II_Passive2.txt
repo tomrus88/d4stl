@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Satisfied Spirits
+Hash: 003892BF, Key: Desc, Value: Unlock every Boon from every spirit and unlock Spirit Bonding.

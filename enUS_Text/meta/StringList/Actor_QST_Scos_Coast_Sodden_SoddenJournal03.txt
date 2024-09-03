@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mold-spotted Journal
+Hash: CC3C0A8F, Key: FlavorText, Value: The waterlogged remains of a journal.
+Hash: F2CA04D8, Key: NoticeSignText, Value: Father always said it is true love that feeds the deepest hate. I thought that, having Roina, I need not want her father. 
+I thought I might be strong. But daily...I hear whispers that tell me I am not.

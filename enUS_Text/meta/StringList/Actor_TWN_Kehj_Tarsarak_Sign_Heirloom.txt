@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Heirloom Banner
+Hash: F2CA04D8, Key: NoticeSignText, Value: An old Kehjistani banner, carefully restored. The gold-leaf script reads: "Long live Alcarnus, shelter from the winds."

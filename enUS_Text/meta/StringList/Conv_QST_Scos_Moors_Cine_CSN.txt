@@ -1,0 +1,23 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A2AF5CA, Key: Line1.8795F, Value: (raspy breathing) Did you stop her?
+Hash: C9345BF7, Key: VoiceDir1.8795F, Value: raspy, labored breathing
+Hash: D8F1EA65, Key: Line3.BAE4, Value: No. She was already gone...and I fear she has taken a piece of you with her. A beast born from your blood.
+Hash: 8E13E8CE, Key: Line5.8795F, Value: It’s my fault.
+Hash: FD1D4EFB, Key: VoiceDir5.8795F, Value: realizing he has failed
+Hash: FF2C89D8, Key: Line33.BAE4, Value: What part did you have in this?
+Hash: 6E35F005, Key: VoiceDir33.BAE4, Value: suspicious
+Hash: 28086250, Key: Line7.8795F, Value: A pact with Lilith...to help me destroy the Knights Penitent...
+Hash: 9711C87D, Key: VoiceDir7.8795F, Value: guilt, shame
+Hash: 608DBF14, Key: Line11.BAE4, Value: In return for what?
+Hash: 092A535D, Key: Line13.8795F, Value: I told her...where Astaroth is hidden...
+Hash: 59607F2A, Key: VoiceDir13.8795F, Value: shameful; ragged breathing, raspy voice
+Hash: A31ECCDF, Key: Line15.8795F, Value: (ragged breath) Eldhaime.
+Hash: F354F8AC, Key: VoiceDir15.8795F, Value: labored breathing
+Hash: 03D6DB1A, Key: Line35.BAE4, Value: Why?
+Hash: 72E04147, Key: VoiceDir35.BAE4, Value: disbelief
+Hash: AF8B69A5, Key: Line39.8795F, Value: In her presence...I lost control. Rage consumed me. (ragged exhale)
+Hash: FFC19572, Key: VoiceDir39.8795F, Value: shame
+Hash: 33FB587E, Key: Line41.8795F, Value: Only one thing to do now. End the corruption.
+Hash: B6DC9E59, Key: Line25.BAE4, Value: (grunt)
+Hash: C03140DD, Key: Line29.BAE4, Value: (grunt)
+Hash: 29551B42, Key: Line27.8795F, Value: (pained groan)

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Moldy Heart
+Hash: F5C7BC0A, Key: Flavor, Value: The mold-covered heart slowly pulses, sending a small puff into the air. 

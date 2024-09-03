@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Changing Looks
+Hash: 7BFE534B, Key: simple_instruction, Value: You can change each item's {c_highlight}look and pigments{/c}. Note, that some looks don't support pigments.

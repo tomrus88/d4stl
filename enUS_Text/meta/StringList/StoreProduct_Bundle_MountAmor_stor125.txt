@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fallen Legionnaire
+Hash: A646FFA4, Key: Description, Value: While exceptionally strong, few riders will fit their steed with barding made of Fallen flesh. For some, the fear of possession is too great.
+Hash: 083EE0CE, Key: Quote, Value: Onward through Hell.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

@@ -1,0 +1,18 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: FF2C89D8, Key: Line33.BAE4, Value: (grunts)
+Hash: 8F55D8A7, Key: Line25.6DE47, Value: (wincing)
+Hash: DF8C0474, Key: VoiceDir25.6DE47, Value: wince of exertion from the spray of blood
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Vigo! Who did this?
+Hash: 47AEBA84, Key: Line31.6DE47, Value: I have done all that was asked. The pain is gone now. This was a just punishment.
+Hash: 27FD9937, Key: Line7.6DE47, Value: A stronger man would have refused Vhenard’s bribe. Neyrelle…
+Hash: 294A5229, Key: Line27.6DE47, Value: (grunts)
+Hash: 79807DF6, Key: VoiceDir27.6DE47, Value: grunt of exertion as he tries to sit up
+Hash: C1F212B9, Key: Line9.6DE47, Value: Neyrelle! Is she safe?
+Hash: 608DBF14, Key: Line11.BAE4, Value: Yes. She is safe.
+Hash: C33ECBAB, Key: Line29.6DE47, Value: (wincing)
+Hash: 1374F778, Key: VoiceDir29.6DE47, Value: wincing in pain
+Hash: 091F8A44, Key: Line13.6DE47, Value: Our meeting is no coincidence. I came here to help.
+Hash: A31403C6, Key: Line15.6DE47, Value: Will you give this to her, for me? I should never have taken it.
+Hash: 3D087D48, Key: Line17.6DE47, Value: It is so dark. I have repented. Do you think I was too late?
+Hash: 7337041C, Key: Line19.BAE4, Value: No. Not too late. The Light has come to carry you home. Do you not see it, friend?
+Hash: 5B6CE5A3, Key: Line21.6DE47, Value: Yes…yes…I see it now. They have come.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about this new sickness."
+Hash: 8EB31D1A, Key: Line1.1028BF, Value: Everyone with it dies, except those who give money to that charlatan Aldara.
+Hash: DEE948E7, Key: VoiceDir1.1028BF, Value: annoyed

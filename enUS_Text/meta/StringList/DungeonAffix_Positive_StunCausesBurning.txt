@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: {c_bonus}Control Impaired Explosions{/c}
+Hash: EEB7912D, Key: AffixDesc, Value: Being hit by Control Impairing Effects creates an explosion around you.

@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Caravan Under Siege
+Hash: 1D9A8D78, Key: Callback279Header, Value: Speak to the survivors
+Hash: A07C739F, Key: Callback18Header, Value: Survive the ambush
+Hash: 5708D149, Key: Callback120Header, Value: Slay the remaining enemies
+Hash: BEE09553, Key: Callback247Header, Value: Slay the enemies
+Hash: BCE22598, Key: Callback288Header, Value: Speak to the survivors
+Hash: 0F2F80F7, Key: Callback296Header, Value: Keep the survivor alive

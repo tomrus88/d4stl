@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Stemming the Flow
+Hash: 0871A46B, Key: Toast, Value: Return to Nafain
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Return to Nafain at the Heart of the Moors
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must return to Nafain and tell him of the monster I found feeding and growing on the corruption flowing into the Untamed Thicket.
+Hash: 0D16AFDC, Key: Phase70Description, Value: I must return to Nafain and tell him of the monster I found feeding and growing on the corruption flowing into the Untamed Thicket.
+Hash: 62E26CA4, Key: Phase70OutsideSubzoneHeader, Value: Return to Nafain at the Heart of the Moors
+Hash: 7C54CC44, Key: Callback86Header, Value: Return to Nafain

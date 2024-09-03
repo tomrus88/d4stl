@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Your Healing Potion no longer heals instantly and instead grants a {c_important}{u}Barrier{/u}{/c} for {c_number}[Affix."Static Value 1"|%|]{/c} of the original healing for {c_number}[Affix."Static Value 0"]{/c} seconds. 
+
+You gain {c_random}[Affix_Value_1|%|]{/c} Damage Reduction while you have a {c_important}{u}Barrier{/u}{/c} and may drink your Healing Potion while at full Life.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Writhing Shard
+Hash: F5C7BC0A, Key: Flavor, Value: A fragment of the cage that failed to capture Varshan. Tendrils of corruption were fused to the metal.

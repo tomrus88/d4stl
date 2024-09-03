@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Lord Eater
+Hash: A646FFA4, Key: Description, Value: Its eyes burned like forge-hot iron. Its breath reeked of charred flesh. It was not a human but an eater of men.
+Hash: 083EE0CE, Key: Quote, Value: Beware the demon in the shape of man.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

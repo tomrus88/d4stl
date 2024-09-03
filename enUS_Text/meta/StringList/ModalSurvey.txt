@@ -1,0 +1,12 @@
+Hash: 1A79F807, Key: SurveyScale1, Value: Not At All
+Hash: 1A79F808, Key: SurveyScale2, Value: Slightly
+Hash: 1A79F809, Key: SurveyScale3, Value: Moderately
+Hash: 1A79F80A, Key: SurveyScale4, Value: Very
+Hash: 1A79F80B, Key: SurveyScale5, Value: Extremely
+Hash: 3ACE4783, Key: Question_QuestComprehension, Value: How clear was it what to do during this quest?
+Hash: E21E69CA, Key: Question_QuestDirection, Value: How clear was it where to go during this quest?
+Hash: A630B6EC, Key: Question_QuestGoal, Value: How clear was it, in the context of the story, why you went on this quest?
+Hash: 13391A29, Key: Question_OpenEnded, Value: Additional thoughts or comments:
+Hash: 073AC624, Key: SurveyModalHeader, Value: We Want Your Feedback
+Hash: A2ED3F5D, Key: SubmitConfirmation, Value: Feedback Sent
+Hash: FD9876AC, Key: Question_IntentToReturn, Value: Overall, how fun is Diablo IV?

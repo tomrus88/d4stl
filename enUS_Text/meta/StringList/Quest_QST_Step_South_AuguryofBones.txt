@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Augury of Bones
+Hash: 0871A46B, Key: Toast, Value: The dead still have answers for those willing to inquire.
+Hash: D53BFF05, Key: Phase0Description, Value: Ogai, an eccentric hermit, is attempting to commune with “The Grinning One” —an ancient entity once worshiped in the Steppes. He has asked for my aid in acquiring bone dust from the ancient dead to offer him answers, believing he can speak with them.
+Hash: D29F0719, Key: Callback12Header, Value: Collect Bone Dust from skeletons in the Valley of the Strayed ({DONE}/{NEEDED})
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Jirandi locals spoke of a troublesome hermit digging through the remains of their honored dead. It seems he wishes to commune with “The Grinning One”—and ancient entity once worshiped in the Steppes.
+
+It sounds like he’s gambling with dangers best left alone. I should find him in the Valley of the Strayed.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Ogai in the Valley of the Strayed
+Hash: 259D49BB, Key: Phase15Description, Value: Ogai, an eccentric hermit, is attempting to commune with “The Grinning One” —an ancient entity once worshiped in the Steppes. He has asked for my aid in acquiring bone dust from the ancient dead to offer him answers, believing he can speak with them.
+Hash: 538236DE, Key: Callback17Header, Value: Return to Ogai
+Hash: B87761DE, Key: Phase18Description, Value: Ogai inhaled the bone dust I collected and went into a trance. His words were broken and confused, but not without fortune. A hidden inscription was revealed by his rantings, and a hearty sneeze. Strange as this is, perhaps there’s something to his delusions.
+Hash: 24EC6278, Key: Callback20Header, Value: Investigate the Immemorial Inscription
+Hash: B12EDDB8, Key: Phase21Description, Value: Ogai inhaled the bone dust I collected and went into a trance. His words were broken and confused, but not without fortune. A hidden inscription was revealed by his rantings, and a hearty sneeze. Strange as this is, perhaps there’s something to his delusions.
+Hash: 0BDB18BB, Key: Callback23Header, Value: Speak to Ogai about the Ancient Inscription

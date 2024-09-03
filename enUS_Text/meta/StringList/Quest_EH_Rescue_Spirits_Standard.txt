@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Liberation
+Hash: 1EADAE68, Key: Callback2Header, Value: Lay the spirits to rest: {LEFT}
+Hash: E9B1E11B, Key: Callback50Header, Value: Enter {EVENT_LEVELAREA}
+Hash: F0CB5F43, Key: Callback67Header, Value: Defeat {CUSTOM_PARAM1}
+Hash: CB4D78C0, Key: Callback46Header, Value: {TIMELEFT} remaining

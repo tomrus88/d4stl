@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Serration
+Hash: 003892BF, Key: desc, Value: Your {c_important}Bone{/c} Skills have a {c_number}[{SF_0} *100 |1%+|]{/c} increased Critical Strike Chance for each {c_number}30{/c} Essence you have upon cast.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Critical Strike Chance Bonus {icon:arrow,1.2} {c_number}[{SF_0} * 100|1%+|]{/c}

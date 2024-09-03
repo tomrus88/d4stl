@@ -1,0 +1,15 @@
+Hash: A71FF720, Key: Line59.BAE4, Value: Tell me more.
+Hash: E170EED9, Key: Line61.BAE4, Value: I need to know more.
+Hash: E61B401B, Key: Line63.BAE4, Value: What else can you tell me?
+Hash: EAC5915D, Key: Line65.BAE4, Value: What else?
+Hash: 59CEF78A, Key: VoiceDir65.BAE4, Value: as in "what else can you tell me?"
+Hash: EF6FE29F, Key: Line67.BAE4, Value: And then?
+Hash: 5E7948CC, Key: VoiceDir67.BAE4, Value: as in "And then what happened?"
+Hash: F41A33E1, Key: Line69.BAE4, Value: Who?
+Hash: 63239A0E, Key: VoiceDir69.BAE4, Value: as in "I don't recognize the name"
+Hash: 2E6B2B9A, Key: Line71.BAE4, Value: Where?
+Hash: 9D7491C7, Key: VoiceDir71.BAE4, Value: as in "Where is that place?"
+Hash: 33157CDC, Key: Line73.BAE4, Value: When?
+Hash: A21EE309, Key: VoiceDir73.BAE4, Value: as in "When did it happen?"
+Hash: 37BFCE1E, Key: Line75.BAE4, Value: Why?
+Hash: A6C9344B, Key: VoiceDir75.BAE4, Value: as in "Why did it happen?"

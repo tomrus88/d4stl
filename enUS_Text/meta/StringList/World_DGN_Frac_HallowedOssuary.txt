@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hallowed Ossuary
+Hash: 003892BF, Key: Desc, Value: A tomb of martyrs, desecrated and made powerful again.

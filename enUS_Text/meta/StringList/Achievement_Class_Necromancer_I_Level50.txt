@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Follower of Rathma
+Hash: 003892BF, Key: Desc, Value: Reach Level 50 as a Necromancer.

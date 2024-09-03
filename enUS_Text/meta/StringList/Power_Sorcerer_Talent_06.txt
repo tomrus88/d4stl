@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Mana Shield
+Hash: 003892BF, Key: desc, Value: Every time you spend {c_number}{SF_0}{/c} Mana, you gain {c_number}[{SF_1} * 100|%|]{/c} Damage Reduction for {c_number}{SF_2}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage Reduction {icon:arrow,1.2} {c_number}[{SF_1} * 100|%|]{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Mana Shield
+Hash: C6E60718, Key: Buff2_Description, Value: Damage Reduction increased.

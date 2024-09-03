@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Casting a {c_important}Core{/c} Skill has a {c_random}[Affix_Value_2|%|]{/c} chance to throw {c_important}Stun Grenades{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Physical damage and Stun enemies for {c_number}[PowerTag.Rogue_Grenades."Script Formula 2"||]{/c} |4second:seconds;.
+
+Your {c_important}Stun Grenades{/c} gain {c_number}[Affix."Static Value 0"|%|]{/c} {c_label}Lucky Hit{/c} Chance.

@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Bait the Trap
+Hash: 0871A46B, Key: Toast, Value: Cellar for Lyndon_02
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the drowned
+Hash: 398557AF, Key: Callback9Header, Value: Wait for the ambush
+Hash: C9FCD1EA, Key: Phase5Description, Value: There's an infestation of Drowned Lyndon and I will have to clear before we can prepare.
+Hash: 30DC76D6, Key: Phase10Description, Value: With the Drowned dead, now we wait for the ambush.
+Hash: E96ABF3F, Key: Phase19Description, Value: We've arrived at the first location. We should ready ourselves for the ambush.
+Hash: A07C739F, Key: Callback18Header, Value: Go to the first ambush location
+Hash: 9F90DE2D, Key: Callback7Header, Value: Enter the Secluded Clearing
+Hash: A5EFB09D, Key: Phase26Description, Value: The first location was a bust, but Lyndon is convinced the second location will be the winner. Rodney has been giving him trouble lately.
+Hash: A5CF923D, Key: Callback25Header, Value: Go to the next ambush location

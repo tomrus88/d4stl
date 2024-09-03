@@ -1,0 +1,6 @@
+Hash: 746E161D, Key: Weapons_Name, Value: Weapons
+Hash: D4990A85, Key: Offensive_Name, Value: Offensive
+Hash: F9778719, Key: Defensive_Name, Value: Defensive
+Hash: 83AA2234, Key: Utility_Name, Value: Utility
+Hash: C8E83F49, Key: Mobility_Name, Value: Mobility
+Hash: 7B1478A8, Key: Resource_Name, Value: Resource

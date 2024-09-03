@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Miracles? But Inarius was slain."
+Hash: 5D8555C1, Key: Line1.FEF63, Value: The loss of the Father is woeful indeed, but his grace surrounds us still. Our connection to the Light cannot be severed so easily.

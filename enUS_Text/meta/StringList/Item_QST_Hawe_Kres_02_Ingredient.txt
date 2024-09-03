@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Marsh Snake Venom
+Hash: F5C7BC0A, Key: Flavor, Value: A dark, thin fluid. An oily sheen catches the light.

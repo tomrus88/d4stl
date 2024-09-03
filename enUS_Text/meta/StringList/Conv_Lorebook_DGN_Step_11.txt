@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: War-chief’s journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: War Chief’s Journal
+Hash: 5D22660C, Key: Line1.B675A, Value: It disgusts me to know they eat our dead. We eat Black Locust root before battle now. If we survive, the healers give us leaf to try and halt the poison.
+Hash: F716DF8E, Key: Line3.B675A, Value: But if Brol’s abominations take us, well, the meal they make of us will be their last.

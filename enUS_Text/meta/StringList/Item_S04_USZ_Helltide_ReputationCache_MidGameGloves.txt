@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Captain's Glove Case
+Hash: A646FFA4, Key: Description, Value: Contains Gloves and Elixirs once used by a particularly brutal warrior.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Abandoned Goods
+Hash: F2CA04D8, Key: NoticeSignText, Value: Scattered goods and broken valuables, dropped amidst the chaos.

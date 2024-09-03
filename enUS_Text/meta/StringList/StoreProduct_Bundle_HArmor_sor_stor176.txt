@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Honor of Sacrifice
+Hash: A646FFA4, Key: Description, Value: The talent of this sorcerer blossomed at the very moment their life was about to end on the great altar. In a way, the ritual was successful, as the innocent was sacrificed and the sorcerer born.
+Hash: 083EE0CE, Key: Quote, Value: A new beginning from a bloody end.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

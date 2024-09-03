@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Font of Life
+Hash: 13A53A8B, Key: Series, Value: "Oasis Healer"

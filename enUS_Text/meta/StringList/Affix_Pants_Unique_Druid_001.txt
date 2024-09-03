@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Wolf{/c} Companions are infused with the power of the storm, dealing Lightning damage and gaining the {c_important}Storm Howl{/c} ability.

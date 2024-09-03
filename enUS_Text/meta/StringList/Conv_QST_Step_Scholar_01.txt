@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing out here?"
+Hash: 8EEA69EB, Key: Line1.1343B7, Value: I am Nurbolat, a scholar of history and religion. The Cathedral of Light seeks to heal Sanctuary's corruption. And I'm working to assist them.
+Hash: DF2095B8, Key: VoiceDir1.1343B7, Value: Hopeful, excited about his work
+Hash: 676E13AD, Key: Line3.1343B7, Value: This region was once overseen by the Hand of the Zakarum whom, I've gathered, were quite deft at rooting out corruption. I yearn to discover how exactly they guided those who strayed from the Light.
+Hash: B7A43F7A, Key: VoiceDir3.1343B7, Value: Informative, engaged
+Hash: 18756731, Key: Line7.1343B7, Value: Thus far, my studies have led me here. I am currently following a thread to an abandoned marketplace nearby. Will you accompany me while I conduct my research?
+Hash: 68AB92FE, Key: VoiceDir7.1343B7, Value: Excited, hopeful

@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: name, Value: Meteor
+Hash: 003892BF, Key: desc, Value: {if:SF_14}{c_label}Charges:{/c} {c_resource}{SF_10}{/c}
+{c_label}Charge Cooldown:{/c_label} {c_resource}{Recharge Time}{/c} seconds
+{/if}{c_label}Mana Cost: {/c}{c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:27}|%|]{/c}
+{/if}Summon a meteor that strikes the target location, dealing {c_number}{payload:IMPACT_DAMAGE}{/c} damage and Burning the ground for {c_number}{dot:TOOLTIP_BURNING}{/c} damage over {c_number}{SF_4}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Impact Damage {icon:arrow,1.2} {c_number}{payload:IMPACT_DAMAGE}{/c}
+{icon:bullet,1.2} Burning Damage {icon:arrow,1.2} {c_number}{payload:TOOLTIP_BURN_DAMAGE}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: If a cast of {c_important}Meteor{/c} hits {c_number}{SF_16}{/c} or more enemies, there is a {c_number}[{SF_24}*100|%|]{/c} chance an additional {c_important}Meteor{/c} falls on the same location.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Meteor
+Hash: 62F3D8B8, Key: Mod5_Description, Value: {c_important}Meteor{/c} falls {c_number}[{SF_17}*100|%|]{/c} faster.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Mage's Meteor
+Hash: B252E239, Key: Mod6_Description, Value: {c_important}Meteor’s{/c} impact Immobilizes enemies for {c_number}{buffduration:IMMOBILIZE}{/c} seconds.
+Hash: A032CCF6, Key: Mod6_Name, Value: Wizard's Meteor

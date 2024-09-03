@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: desc, Value: Dealing damage to a {c_important}{u}Vulnerable{/u}{/c} enemy increases your damage by {c_number}[{SF_0}*100|%x|]{/c} for {c_number}{SF_3}{/c} seconds, up to {c_number}[{SF_0}*{SF_2}*100|%x|]{/c}.
+Hash: 14C66756, Key: Buff3_Name, Value: Glyph: Exploit
+Hash: 16451099, Key: Buff3_Description, Value: Gain {c_number}[{SF_0}*100|%|]{/c} increased damage per stack.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Piece of Parchment
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Piece of Parchment
+Hash: 5D20E753, Key: Line1.B2A6A, Value: What have we done? The madness! The sheer madness! We fought against each other with such zeal. For what purpose? Now...the creatures have overtaken us. Nature bid her time well. We are now like carrion to them.
+Hash: F71560D5, Key: Line3.B2A6A, Value: Tissue paper to be torn through. Once I was a warrior fighting for a cause I can barely remember. Now...I am maggot food.

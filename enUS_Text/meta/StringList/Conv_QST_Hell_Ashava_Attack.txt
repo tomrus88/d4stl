@@ -1,0 +1,8 @@
+Hash: 2810B8F0, Key: Line7.7FA05, Value: Strike as one! Now!
+Hash: 971A1F1D, Key: VoiceDir7.7FA05, Value: Commanding, in the middle of a fight against a huge demonic beast
+Hash: C2053272, Key: Line9.7FA05, Value: Follow my lead and give it everything you've got!
+Hash: 310E989F, Key: VoiceDir9.7FA05, Value: Commanding, in the middle of a fight against a huge demonic beast
+Hash: 6F3E307B, Key: Line11.7FA05, Value: All together! Attack!
+Hash: BF745C48, Key: VoiceDir11.7FA05, Value: Commanding, in the middle of a fight against a huge demonic beast
+Hash: 562CE6BE, Key: Line14.7FA05, Value: Bring this beast down! Everyone!
+Hash: A663128B, Key: VoiceDir14.7FA05, Value: Commanding, in the middle of a fight against a huge demonic beast

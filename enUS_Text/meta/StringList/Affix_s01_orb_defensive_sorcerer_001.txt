@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Spellbreaking
+Hash: 003892BF, Key: Desc, Value: After taking Elemental Damage, gain {c_random}[Affix_Value_1|%x|]{/c} Damage Reduction for {c_number}[Affix_Value_2]{/c} seconds.

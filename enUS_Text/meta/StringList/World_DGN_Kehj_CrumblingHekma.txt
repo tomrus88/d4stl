@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crumbling Hekma
+Hash: 003892BF, Key: Desc, Value: A hate-infested catacomb of the Zakarum faith. 

@@ -1,0 +1,23 @@
+Hash: 003DFCC1, Key: Name, Value: A Price to Pay
+Hash: 0871A46B, Key: Toast, Value: A young girl with uncontrollable power has gone missing in the wilderness.
+Hash: D53BFF05, Key: Phase0Description, Value: It's clear that Aneta has a powerful, if uncontrollable magic within her. As she fled, she begged me to tell her mother she was sorry. I don't know how her mother will take the news, but I owe it to Aneta to deliver it.
+Hash: 059C64AB, Key: Callback5Header, Value: Speak with Vera
+Hash: 30DC76D6, Key: Phase10Description, Value: A woman's voice whispered to me and told me to meet her nearby. It seems not everyone in Zarbinzet is afraid of Aneta. I should find this woman immediately.
+Hash: 398557AF, Key: Callback9Header, Value: Speak with Suzana
+Hash: C3B68EF9, Key: Phase13Description, Value: It's clear that Aneta has a powerful, if uncontrollable magic within her. As she fled, she begged me to tell her mother she was sorry. I don't know how her mother will take the news, but I owe it to Aneta to deliver it.
+Hash: 5690A71C, Key: Phase16Description, Value: The woman, Suzana, told me that Aneta may be searching for a local curative to calm her magic. The location of this cure should be in a book of herb lore somewhere in town.
+Hash: B98DBD5C, Key: Callback15Header, Value: Search homes for the book of folk remedies
+Hash: E2223B19, Key: Phase22Description, Value: Aneta has asked me to bring her the venom from the spiders hiding within the Blind Burrows. She seems convinced this is the cure she needs to prevent any more magical outbursts.
+Hash: 71E69F39, Key: Callback21Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: D6E30DFE, Key: Phase27Description, Value: Aneta has asked me to bring her the venom from the spiders hiding within the Blind Burrows. She seems convinced this is the cure she needs to prevent any more magical outbursts.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Pour the venom into the Boiling Pot
+Hash: 9367FF5C, Key: Phase34Description, Value: According to the book of folklore, the cure for 'tainted blood' comes from the spiders of the Blind Burrows. I only hope Aneta will be there.
+Hash: F81CED9C, Key: Callback33Header, Value: Travel to the Blind Burrows
+Hash: 2642177F, Key: Phase37Description, Value: I've found Aneta outside the entrance to the Blind Burrows, exhausted from the magic erupting from her. I hope I can help the poor girl.
+Hash: DF0BA3DF, Key: Callback36Header, Value: Speak with Aneta
+Hash: 1EF99359, Key: Phase40Description, Value: Aneta attempted to cure herself by drinking the venom I brought her, but only succeeded in making herself violently ill. However, she was rescued by a strange blood-soaked woman!
+Hash: 6541F242, Key: Callback48Header, Value: Speak with Gulyas
+Hash: 44ADC39F, Key: Phase46Description, Value: Aneta has asked me to bring her the venom from the spiders hiding within the Blind Burrows. She seems convinced this is the cure she needs to prevent any more magical outbursts.
+Hash: 7E533BFF, Key: Callback45Header, Value: Speak with Aneta
+Hash: 04898A62, Key: Callback57Header, Value: Return to Aneta
+Hash: A3D12282, Key: Callback66Header, Value: Find the source of the hushed voice

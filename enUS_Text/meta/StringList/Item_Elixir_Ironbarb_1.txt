@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Iron Barbs
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet} Increases Armor by {c_number}+300{/c} and Thorns by {c_number}150{/c}.
+{icon:bullet} Experience gained is increased by {c_number}5%{/c}.
+Hash: F5C7BC0A, Key: Flavor, Value: You may only have one Elixir active at a time.

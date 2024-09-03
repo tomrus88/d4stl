@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Hell Affix
+Hash: A646FFA4, Key: Description, Value: Reward:  Unlock a Legendary Hell Affix
+Hash: F5C7BC0A, Key: Flavor, Value: Imbue yourself with the power of Hell.

@@ -1,0 +1,4 @@
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: Don't judge Gulyas too harshly. She's been good to me.
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: Hopeful but not entirely upbeat. This is the first time anyone has ever believed in you.
+Hash: F75EA61F, Key: Line3.F52ED, Value: Teaching me ways to heal I never would have found in a book.
+Hash: 66680C4C, Key: VoiceDir3.F52ED, Value: Hopeful but not entirely upbeat. This is the first time anyone has ever believed in you.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How are your supply levels?”
+Hash: 5D82E1B9, Key: Line1.FB4C3, Value: I shan’t complain, save one ingredient: gutweed. It’s a plant the Drowned eat. Nothing like it for delaying necrosis. I don’t know who discovered this, but it becomes more potent when partly digested by Drowned.
+Hash: F7775B3B, Key: Line3.FB4C3, Value: (chuckle) Yeah, I made the same face when I first heard it too. (sniff) I recommend wearing gloves.
+Hash: 6680C168, Key: VoiceDir3.FB4C3, Value: Light chuckle and amusement. 

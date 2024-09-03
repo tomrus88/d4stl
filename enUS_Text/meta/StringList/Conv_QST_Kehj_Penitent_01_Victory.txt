@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "We're safe now, for the moment."
+Hash: F0FA2CE8, Key: Line9.136591, Value: Are you hurt?
+Hash: 413058B5, Key: VoiceDir9.136591, Value: Raza, are you alright? 
+Hash: 1DD69515, Key: Line13.136539, Value: I was stung but...please don't leave me behind!
+Hash: 74D23A82, Key: VoiceDir13.136539, Value: Minimizing an obvious injury; doesn't want to be a burden
+Hash: 18768326, Key: Line7.136591, Value: Leave you? I'm a man of my word. If you die in the sand it will be because I died first.
+Hash: 68ACAEF3, Key: VoiceDir7.136591, Value: Slightly offended at the suggestion

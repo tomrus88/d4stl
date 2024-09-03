@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Kato bark 02
+Hash: 5D73B394, Key: Line1.EFA01, Value: Well then, Flinn... guess now we're even.
+Hash: CC7D19C1, Key: VoiceDir1.EFA01, Value: Removed/detached, but more matter-of-fact than harsh

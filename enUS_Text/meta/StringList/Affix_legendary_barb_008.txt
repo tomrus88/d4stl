@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Iron Warrior
+Hash: 003892BF, Key: Desc, Value: {c_important}Iron Skin{/c} grants {c_important}{u}Unstoppable{/u}{/c}, and {c_random}[Affix_Value_1|%|]{/c} Damage Reduction.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Iron Skin{/c} grants {c_important}{u}Unstoppable{/u}{/c} and {c_random}[Affix_Value_1|%|]{/c} Damage Reduction.

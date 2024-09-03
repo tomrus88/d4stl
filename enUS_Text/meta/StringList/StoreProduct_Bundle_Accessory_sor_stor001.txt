@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Sorceric Binding
+Hash: A646FFA4, Key: Description, Value: The power of magic suffuses every part of the sorcerer's being, every moment of their lives. It is part of what they wear, what they carry, and how they die.
+Hash: 083EE0CE, Key: Quote, Value: Magic is everything.
+Hash: 13A53A8B, Key: Series, Value: "Fractured Magic" Accessories

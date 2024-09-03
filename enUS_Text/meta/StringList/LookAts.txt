@@ -1,0 +1,9 @@
+Hash: 0CAE376F, Key: FracPeaks_BlackLake_Vista, Value: Black Lake
+Hash: C9503002, Key: FracPeaks_GatesOfSanctuary_Standard, Value: Gates of Sanctuary
+Hash: 2B10AE90, Key: FracPeaks_AlabasterMonastery_Standard, Value: Alabaster Monastery
+Hash: 90F7FD7D, Key: FracPeaks_Necropolis_Standard, Value: Balance's Sanctum
+Hash: A7F3080C, Key: DryStep_MtCivo_Standard, Value: Mount Civo
+Hash: 0A7C1EC4, Key: DryStep_CityOfGuulrahn_Vista, Value: The City of Guulrahn
+Hash: C0AE2702, Key: Hawezar_ShipwreckTangle_Vista, Value: Shipwreck Tangle
+Hash: 4B83D2C9, Key: Kehjistan_Hell_CathedralOfHatred_Standard, Value: Cathedral of Hatred
+Hash: 97A16824, Key: Kehjistan_Hell_SpireOfHatred_Standard, Value: Spire of Hatred

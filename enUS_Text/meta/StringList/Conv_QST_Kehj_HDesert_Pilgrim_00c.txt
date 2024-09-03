@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is wrong with these people?"
+Hash: F730437C, Key: Line3.BCB66, Value: They drank water tainted by some sort of rot. Probably a wayward creature, drowned in the well.
+Hash: 6639A9A9, Key: VoiceDir3.BCB66, Value: Feigning confidence. Hiding worry.

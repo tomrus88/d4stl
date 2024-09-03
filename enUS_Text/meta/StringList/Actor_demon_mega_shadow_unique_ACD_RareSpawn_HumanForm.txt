@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Jebtaa
+Hash: CC38ADCB, Key: FlavorName, Value: Bearer of the Blade

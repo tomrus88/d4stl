@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Una
+Hash: 5D72A43E, Key: Line1.EDC74, Value: Lorcan seemed tired this morning. (laughing) He complained of odd dreams. C-could he be hearing it too?
+Hash: F7671DC0, Key: Line3.EDC74, Value: Tonight will be my last attempt, I can feel it. When the totem calls, I will answer.
+Hash: 667083ED, Key: VoiceDir3.EDC74, Value: desperate

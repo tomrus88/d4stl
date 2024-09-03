@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you looking for?"
+Hash: 8EB65F2C, Key: Line1.1086F0, Value: Samil. A backstabbin' cur. Run off while indebted to me. Four bodies I was promised. He’s shy one. What, did he think I wouldn’t notice?
+Hash: DEEC8AF9, Key: VoiceDir1.1086F0, Value: Irritated and clearly angry. 
+Hash: 673A08EE, Key: Line3.1086F0, Value: (sigh) I’m too busy to hunt him down myself. The Tree’s demands are many. Find this Samil - before Wejinhani is reminded what it means to anger a witch.  He was supposed to be in the graveyard. Start there.

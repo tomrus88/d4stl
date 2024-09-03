@@ -1,0 +1,2 @@
+Hash: 5D3B086A, Key: Line1.BC3FE, Value: I’ll miss that cat.
+Hash: CC446E97, Key: VoiceDir1.BC3FE, Value: forlorn

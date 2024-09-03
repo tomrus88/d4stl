@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Donan and Lorath
+Hash: 5A334C6A, Key: Line1.7FA05, Value: (Speaking Horadric)
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Chanting. Focused. 

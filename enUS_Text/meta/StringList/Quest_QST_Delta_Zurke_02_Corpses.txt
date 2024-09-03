@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: Perceived Threat
+Hash: 0871A46B, Key: Toast, Value: A growing sickness threatens the swamp.
+Hash: C9FCD1EA, Key: Phase5Description, Value: There is a new sickness in the swamp, thanks to Zurke’s experiments. He claims to be in control, but the Tree of Whispers wishes it to be cleansed. 
+
+Zurke treated three corpses with possible curses. He needs me to collect a sample from the least corrupted source and bring it back. 
+Hash: B8A227EA, Key: Callback4Header, Value: Collect a sample from the healthiest corpse
+Hash: 0BDB18BB, Key: Callback23Header, Value: Hidden
+Hash: A5CF923D, Key: Callback25Header, Value: Hidden
+Hash: 07D66B5F, Key: Phase28Description, Value: There is a new sickness in the swamp, thanks to Zurke’s experiments. He claims to be in control, but the Tree of Whispers wishes it to be cleansed. 
+
+Zurke treated three corpses with possible curses. He needs me to collect a sample from the least corrupted source and bring it back. 
+Hash: 3FC40BBF, Key: Callback27Header, Value: Slay Experimental Corpse
+Hash: 008DE739, Key: Phase31Description, Value: There is a new sickness in the swamp, thanks to Zurke’s experiments. He claims to be in control, but the Tree of Whispers wishes it to be cleansed. 
+
+Zurke treated three corpses with possible curses. He needs me to collect a sample from the least corrupted source and bring it back. 

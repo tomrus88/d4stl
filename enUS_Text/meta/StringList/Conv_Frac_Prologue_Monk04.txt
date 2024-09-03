@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Who is the Mother?” 
+Hash: 091FC7AD, Key: Line13.6F0BE, Value: Do not call her that. It is a demon, Lilith. The gospel says that she will walk among the people posing as the Mother of Sanctuary.
+Hash: 5955F37A, Key: VoiceDir13.6F0BE, Value: Incensed, biting off the words. He hates Lilith and the lies about her being "Mother."
+Hash: 3D08BAB1, Key: Line17.6F0BE, Value: If she is here, it is humankind’s own sin that has brought her.

@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A44590A, Key: Line1.8DD12, Value: Your fumbling in the Eye led me right to your little camp.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: You! If you hurt her--
+Hash: 8E2D4C0E, Key: Line5.8DD12, Value: Hurt her? I elevated her! The runes inked into her skin form a waypoint. She is a beacon across realms. (hmph)
+Hash: FD36B23B, Key: VoiceDir5.8DD12, Value: (skeptical laugh before line)
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: Get her out of here!
+Hash: DD961907, Key: VoiceDir17.BAE4, Value: (to Neyrelle)
+Hash: D6FCF6CA, Key: Line19.6DE47, Value: (struggling)
+Hash: 27332297, Key: VoiceDir19.6DE47, Value: <Effort sounds carrying Taissa> 
+Hash: 5B9111FC, Key: Line21.8DD12, Value: It matters not. Her part is done.
+Hash: F5858B7E, Key: Line23.8DD12, Value: Your part is done too. Savor your breath while it lasts.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barbarian Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: An Oxen Tribe barbarian, hacked apart by his own infected brethren. The malignancy is spreading, just as Cormond feared.

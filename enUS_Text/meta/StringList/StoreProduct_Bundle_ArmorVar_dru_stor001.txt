@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Watcher in the Wilds
+Hash: A646FFA4, Key: Description, Value: The wilderness is a dangerous place. The Watcher dons this raiment to better blend into the forests and hills, becoming one with its flora and fauna.
+Hash: 083EE0CE, Key: Quote, Value: The wilds of Scosglen are no place for the weak.
+Hash: 13A53A8B, Key: Series, Value: Druid Armor

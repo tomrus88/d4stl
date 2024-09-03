@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hunting Party Cache
+Hash: A646FFA4, Key: Description, Value: A collection of second-hand weapons used by the Vampire Hunters.
+Hash: F5C7BC0A, Key: Flavor, Value: These weapons are nearly broken, rusted, and covered in several types of blood. Hopefully you'll have better luck than their former owner.

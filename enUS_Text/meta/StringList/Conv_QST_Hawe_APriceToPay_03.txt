@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "There's something very wrong with her."
+Hash: 5D6A2C8A, Key: Line1.F52F0, Value: I know there is! I tried to warn you! You should have listened sooner.
+Hash: CC7392B7, Key: VoiceDir1.F52F0, Value: The player has said "There's something wrong with your daughter", which is precisely what you tried to warn this meddlesome stranger about earlier!
+Hash: 91531F8E, Key: Line5.F52F0, Value: Anything she does now is on your head.
+Hash: 005C85BB, Key: VoiceDir5.F52F0, Value: The player meddled in your affairs and now your dangerous child is out in the wild. She might accidentally kill someone, or herself. You want no part in it.

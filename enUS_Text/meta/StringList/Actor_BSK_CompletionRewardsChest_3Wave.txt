@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Coffers of Enmity
+{c_yellow}Contents improved by Burning Curses{/c}

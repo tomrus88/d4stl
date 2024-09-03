@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Ancestral Force
+Hash: 003892BF, Key: Desc, Value: {c_important}Hammer of the Ancients{/c} quakes outward for {c_random}[Affix_Value_1|%x|]{/c} increased damage. This bonus is doubled against Bosses.

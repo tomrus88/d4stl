@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mighty Storm's
+Hash: 003892BF, Key: Desc, Value: The {c_important}Earthen Might{/c} Key Passive also applies to your {c_important}Storm{/c} Skills.

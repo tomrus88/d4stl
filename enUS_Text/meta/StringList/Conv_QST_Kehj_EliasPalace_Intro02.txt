@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "We are here to see Elias."
+Hash: 2B5010C3, Key: Line7.EDC73, Value: Go forth and stand in judgment before Master Elias.
+Hash: 727D884E, Key: Line11.EDC73, Value: But show no fear; no hesitation.
+Hash: C1F13152, Key: Line9.6D03F, Value: Don't worry. We won't.
+Hash: 30FA977F, Key: VoiceDir9.6D03F, Value: A dark edge (subtext is that Lorath is planning to kill Elias)

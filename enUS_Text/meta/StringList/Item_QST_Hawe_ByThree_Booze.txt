@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cerrigar Red Sky
+Hash: F5C7BC0A, Key: Flavor, Value: A bottle of mead from Scosglen. This honey wine is combined with biteberry juice to provide a pleasing shade of crimson and a robust flavor.

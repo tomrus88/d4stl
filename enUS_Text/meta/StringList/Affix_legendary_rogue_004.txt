@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Enshrouding
+Hash: 003892BF, Key: Desc, Value: Using a {c_important}Healing Potion{/c} makes a free {c_important}Dark Shroud{/c} shadow. Each shadow grants {c_random}[Affix_Value_1|1%|]{/c} increased Damage Reduction.
+
+You may now drink your Healing Potion while at full Life.

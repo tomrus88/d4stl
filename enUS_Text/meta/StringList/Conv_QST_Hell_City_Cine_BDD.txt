@@ -1,0 +1,19 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: [PH]
+Hash: 5A334C6A, Key: Line1.7FA05, Value: (grunt)
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: grunt of pain
+Hash: F5615F25, Key: Line23.6DE47, Value: (sniffling)
+Hash: 45978AF2, Key: VoiceDir23.6DE47, Value: (Sniffling)
+Hash: 6F3E307B, Key: Line11.7FA05, Value: (labored breath) Don’t even think of burying me here, you bastard.
+Hash: BF745C48, Key: VoiceDir11.7FA05, Value: (cough at end of line)
+Hash: 8F54F740, Key: Line25.6D03F, Value: I’m too damn old to haul your body out of Hell. So move your hand and let me see.
+Hash: C351EB64, Key: Line29.7FA05, Value: I haven’t taken orders from you in years, Lorath. I see no reason to start now. (hiss of pain)
+Hash: 13881731, Key: VoiceDir29.7FA05, Value: hiss of pain at the end
+Hash: CDE42780, Key: Line43.6D03F, Value: You should have come to me instead of the Cathedral. I would have shown up for you...shared your burden.
+Hash: 67ECA222, Key: Line45.7FA05, Value: I know. And perhaps things would have gone differently with Scosglen and with Yorin.
+Hash: 01E11BA4, Key: Line47.7FA05, Value: (grunt)
+Hash: 52174771, Key: VoiceDir47.7FA05, Value: grunt of pain
+Hash: 9BD59526, Key: Line49.7FA05, Value: Was it enough? Will he think it was enough?
+Hash: 204583FF, Key: Line51.7FA05, Value: (gasp)
+Hash: 707BAFCC, Key: VoiceDir51.7FA05, Value: soft, dying gasp
+Hash: BA25FC61, Key: Line53.6D03F, Value: Yes. More than enough.
+Hash: 541A75E3, Key: Line55.6D03F, Value: (heavy breath)

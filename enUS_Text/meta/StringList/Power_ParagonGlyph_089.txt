@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: While standing in your {c_important}Desecrated Ground{/c}, you deal {c_number}[SF_0 * 100|%x|]{/c} increased Shadow damage.

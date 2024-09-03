@@ -1,0 +1,22 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm here, Lorath."
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Good of you to come. Pity you didn’t bring an army. Or siegeworks.
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Elias is here?
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Gone to the palace, no doubt. Behind the High Wall with the gates barred behind him. We can’t get through.
+Hash: C1F1C663, Key: Line9.6E261, Value: You know who can.
+Hash: 30FB2C90, Key: VoiceDir9.6E261, Value: frustrated
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Zolaya!
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: irritated
+Hash: 091F3DEE, Key: Line13.6E261, Value: (scoff) How many messages did I send, huh? How long has Oyuun been missing, trapped in there with those butchers?
+Hash: 595569BB, Key: VoiceDir13.6E261, Value: heated
+Hash: 47AE6E2E, Key: Line31.6E261, Value: She may be the only one left who knows of the tunnel!
+Hash: A313225F, Key: Line15.6D03F, Value: If she’s still alive. If this tunnel exists at all.
+Hash: F3494E2C, Key: VoiceDir15.6D03F, Value: emphasis on "if"
+Hash: 3D0830F2, Key: Line17.6E261, Value: (scoff) You don’t trust me.
+Hash: D6FC1563, Key: Line19.6D03F, Value: Of course not, you’re a thief. Useful years ago, true, but it’s clear you have some other reason to seek this “Oyuun”.
+Hash: 5B6C994D, Key: Line21.6E261, Value: (scoff) Not your business.
+Hash: ABA2C51A, Key: VoiceDir21.6E261, Value: muttering
+Hash: B2324D17, Key: Line23.BAE4, Value: If I were to look for Oyuun, where would I start?
+Hash: 8F558C51, Key: Line25.6E261, Value: She has a house in the Market Square. We were supposed to meet there before, but I couldn’t get close.
+Hash: DF8BB81E, Key: VoiceDir25.6E261, Value: flicker of hope
+Hash: 294970C2, Key: Line27.6D03F, Value: Try to come back alive.
+Hash: 797F9C8F, Key: VoiceDir27.6D03F, Value: sighs, resigned

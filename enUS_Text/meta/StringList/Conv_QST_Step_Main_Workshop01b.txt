@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What have you found?"
+Hash: 8E083E4E, Key: Line5.6D03F, Value: I recognize many of these books. He must have stolen them from the Horadric Vault.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Almost to himself, lost in thought, thinking back to events in the distant past

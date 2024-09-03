@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Jobs Board
+Hash: F2CA04D8, Key: NoticeSignText, Value: Once a piece of shipwreck, now a jobs board. Runs the gamut from lost items to bounties on heads

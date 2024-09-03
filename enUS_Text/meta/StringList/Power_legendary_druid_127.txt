@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Rushing Wilds
+Hash: C6E60718, Key: Buff2_Description, Value: Movement Speed Increased

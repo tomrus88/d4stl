@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did you run into trouble?"
+Hash: 7812AF1B, Key: Line8.BC41C, Value: Just a bandit patrol. We handled it quietly, but the canyon is crawling with them.
+Hash: E71C1548, Key: VoiceDir8.BC41C, Value: Calm. Cool. Collected.
+Hash: 25569868, Key: Line10.D5161, Value: Guess we’re in the right place.
+Hash: 758CC435, Key: VoiceDir10.D5161, Value: Shrugging. Optimistic.
+Hash: BF4026A6, Key: Line12.BC41C, Value: We go in. Remember, we’re looking for a “pillar” that marks the Triune hideout. Move fast, kill quickly. Understood?
+Hash: 0F765273, Key: VoiceDir12.BC41C, Value: Giving orders and intel. Terse. Direct.
+Hash: 593F8B6C, Key: Line14.D5161, Value: Yes, ma’am.
+Hash: A975B739, Key: VoiceDir14.D5161, Value: Wolfish grin. Eager.

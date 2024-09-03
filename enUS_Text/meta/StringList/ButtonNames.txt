@@ -1,0 +1,30 @@
+Hash: B699842C, Key: BUTTON_1, Value: {icon:button1, 2.0}
+Hash: B699842D, Key: BUTTON_2, Value: {icon:button2, 2.0}
+Hash: B699842E, Key: BUTTON_3, Value: {icon:button3, 2.0}
+Hash: B699842F, Key: BUTTON_4, Value: {icon:button4, 2.0}
+Hash: 29DE9878, Key: BUTTON_DPAD_UP, Value: {icon:up, 2.0}
+Hash: 1BDD4F8B, Key: BUTTON_DPAD_DOWN, Value: {icon:down, 2.0}
+Hash: 1BE185DE, Key: BUTTON_DPAD_LEFT, Value: {icon:left, 2.0}
+Hash: 98810951, Key: BUTTON_DPAD_RIGHT, Value: {icon:right, 2.0}
+Hash: 48D2286B, Key: BUTTON_LEFT_SHOULDER, Value: {icon:l1, 2.0}
+Hash: 949A0A79, Key: BUTTON_LEFT_TRIGGER, Value: {icon:l2, 2.0}
+Hash: 2E796A3E, Key: BUTTON_RIGHT_SHOULDER, Value: {icon:r1, 2.0}
+Hash: F8A6DDEC, Key: BUTTON_RIGHT_TRIGGER, Value: {icon:r2, 2.0}
+Hash: 248FAD0C, Key: BUTTON_BACK, Value: {icon:back, 2.0}
+Hash: B7C35329, Key: BUTTON_START, Value: {icon:start, 2.0}
+Hash: C0E2EF3E, Key: BUTTON_LEFT_STICK_BUTTON, Value: {icon:l3, 2.0}
+Hash: C92CE291, Key: BUTTON_RIGHT_STICK_BUTTON, Value: {icon:r3, 2.0}
+Hash: 793A4132, Key: BUTTON_TOUCH_PAD, Value: {icon:touchpad,2.0}
+Hash: 79FA0767, Key: BUTTON_OPTIONS, Value: {icon:options,2.0}
+Hash: F198C30D, Key: BUTTON_DPAD_VERTICAL, Value: {icon:Dpad_V_Button, 2.0}
+Hash: E8E5C0DD, Key: BUTTON_DPAD_HORIZONTAL, Value: {icon:Dpad_H_Button, 2.0}
+Hash: D317613F, Key: BUTTON_RIGHT_STICK_HORIZONTAL, Value: {icon:r_horiz, 2.0}
+Hash: 68C2E2EF, Key: BUTTON_RIGHT_STICK_VERTICAL, Value: {icon:r_vertical, 2.0}
+Hash: 9B2DFC6C, Key: BUTTON_LEFT_STICK_HORIZONTAL, Value: {icon:l_horiz, 2.0}
+Hash: 262ECEDC, Key: BUTTON_LEFT_STICK_VERTICAL, Value: {icon:l_vertical, 2.0}
+Hash: F76D3AC1, Key: LEGEND_DUMMY_LEFT_STICK, Value: {icon:l_all, 2.0}
+Hash: 98A56534, Key: LEGEND_DUMMY_RIGHT_STICK, Value: {icon:r_all, 2.0}
+Hash: 327ECE6D, Key: BUTTON_RIGHT_STICK_DOWN, Value: {icon:r_down, 2.0}
+Hash: BAEEF6DA, Key: BUTTON_RIGHT_STICK_UP, Value: {icon:r_up, 2.0}
+Hash: D547B507, Key: BUTTON_LEFT_STICK_UP, Value: {icon:l_up, 2.0}
+Hash: 45FFCBDA, Key: BUTTON_LEFT_STICK_DOWN, Value: {icon:l_down, 2.0}

@@ -1,0 +1,13 @@
+Hash: 398557AF, Key: Callback9Header, Value: Peer into the Ritual Flames
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay the demonic manifestations
+Hash: B98DBD5C, Key: Callback15Header, Value: Speak with Taissa
+Hash: 538236DE, Key: Callback17Header, Value: Accompany Taissa to the Altar of Sacrifice
+Hash: D9B88541, Key: Callback29Header, Value: Accompany Taissa to Elias' Sanctum
+Hash: 5E28741A, Key: Callback31Header, Value: Speak with Taissa
+Hash: 45172A5D, Key: Callback34Header, Value: Slay the demonic manifestations
+Hash: DF0BA3DF, Key: Callback36Header, Value: Peer into the Ritual Flames
+Hash: 3158FF3E, Key: Callback44Header, Value: Slay the demonic manifestations
+Hash: CB4D78C0, Key: Callback46Header, Value: Speak with Taissa
+Hash: B23C2F03, Key: Callback49Header, Value: Accompany Taissa to center of the storm
+Hash: 003DFCC1, Key: Name, Value: A Series of Steps
+Hash: 3DF7878C, Key: Callback123Header, Value: Defeat the Whisper of Andariel

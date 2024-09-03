@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: The Smothered Ache
+Hash: F4A9EC5A, Key: Phase14Description, Value: I found Ayuzhan's carving tools, but Malphas seemed to get under his skin. I should return to Ayuzhan in the Gatehall.
+Hash: 1F9943DA, Key: Callback13Header, Value: Return the Runecarving Tools to Ayuzhan
+Hash: E36BD6A1, Key: Phase66Description, Value: Ayuzhan plans on exorcising the demon, and he's asked me to retrieve his runecarving tools from the Vault of Stone. I should start my search in the Fractured Peaks.
+Hash: 56D6E5C1, Key: Callback65Header, Value: Find a way into the Vault of Stone in Fractured Peaks
+Hash: 8D6916BE, Key: Phase81Description, Value: I found the Vault. Ayuzhan's runecarving tools must be in here somewhere. 
+Hash: AE775FBE, Key: Callback80Header, Value: Search the Vault of Stone for the Stoneworks
+Hash: B590DDE6, Key: Callback97Header, Value: Retrieve {ITEM}
+Hash: 95661601, Key: Callback83Header, Value: Clear the entrance to the Vault of Stone

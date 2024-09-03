@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Clarity of Vision
+Hash: A646FFA4, Key: Description, Value: Under the stars and new moon, devotees often see new patterns in the night sky, hinting at things yet to come.
+Hash: 083EE0CE, Key: Quote, Value: The stars illuminate.
+Hash: 13A53A8B, Key: Series, Value: "Celestial Visions" Accessories

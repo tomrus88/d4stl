@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Windlasher
+Hash: 003892BF, Key: Desc, Value: Casting {c_important}Double Swing{/c} creates a {c_important}Dust Devil{/c} that deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage to enemies in its path.
+Hash: 82B7D312, Key: CodexDesc, Value: Casting {c_important}Double Swing{/c} creates a {c_important}Dust Devil{/c} that deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage.

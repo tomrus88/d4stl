@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I’m looking for Vigo."
+Hash: 0C27CC1E, Key: Line13.AB791, Value: What do you need?
+Hash: 608DBF14, Key: Line11.BAE4, Value: Prava sent me. I'm looking for Vigo.
+Hash: F71CE80D, Key: Line3.AB791, Value: You and that nuisance of a child both. Girl's been nagging us about a demon woman all week.
+Hash: F869A0FF, Key: Line23.AB791, Value: Vigo's gone, looking into her claims. He should be at the mining camp north of here.
+Hash: 925E1A81, Key: Line25.AB791, Value: Whole escort of Knights went missing there last week, along with the girl's mother and another woman. Watch yourself out there.

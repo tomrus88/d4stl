@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: The first direct damage you deal to an enemy is a guaranteed Critical Strike. When you consume stacks of {c_important}Precision{/c} casting a Skill, that Skill gains {c_random}[Affix_Value_1|%x|]{/c} increased Critical Strike Damage and you gain {c_random}[Affix_Value_2|1|]{/c} {c_important}Energy{/c}.

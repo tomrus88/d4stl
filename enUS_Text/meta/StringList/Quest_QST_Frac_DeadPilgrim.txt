@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: A Cold Faith
+Hash: 0871A46B, Key: Toast, Value: This pilgrim of the Light could not complete his journey.
+Hash: D53BFF05, Key: Phase0Description, Value: I found the body of a pilgrim on his way to some holy place high in the mountains. He didn't get very far. Someone in Margrave may want to know of his fate.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Speak with {MONSTER} in Margrave
+Hash: 1315987A, Key: Phase23Description, Value: I found the body of a pilgrim on his way to some holy place high in the mountains. He didn't get very far. Someone in Margrave may want to know of his fate.
+Hash: A5CF923D, Key: Callback25Header, Value: Speak with {MONSTER} in Margrave

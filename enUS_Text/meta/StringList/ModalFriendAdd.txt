@@ -1,0 +1,9 @@
+Hash: 086EAA02, Key: Title, Value: Add a Friend
+Hash: 57689A10, Key: InputLabel, Value: Email address or BattleTag
+Hash: 13473033, Key: SendRequest, Value: Send Request
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 2314C385, Key: PlayerBattletag, Value: Your BattleTag:  {c:FFbf6b31}{s1}{/c}
+Hash: 0A3005F6, Key: Controller_SendRequest, Value: {icon:button4, 2}  Send Request
+Hash: 49D07349, Key: Controller_Cancel, Value: {icon:button2, 2}  Cancel
+Hash: CBF519B9, Key: Controller_Close, Value: {icon:button2, 2}  Close

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm ready."
+Hash: C215A653, Key: Line9.8CA44, Value: Stay close.
+Hash: 311F0C80, Key: VoiceDir9.8CA44, Value: Eager to get back into the journey.

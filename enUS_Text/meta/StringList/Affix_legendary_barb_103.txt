@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Slaking
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} You have up to a {c_random}[Affix_Value_1|1%|]{/c} chance to gain {c_number}[Affix."Static Value 0"]{/c} Fury when a {c_important}Core{/c} Skill deals direct damage to at least one Bleeding enemy. Your Maximum Fury is increased by {c_random}[Affix_Value_2||]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: Up to a {c_random}[Affix_Value_1|1%|]{/c} chance to gain Fury when {c_important}Rend{/c} damaging a Bleeding enemy. Maximum Fury increased.

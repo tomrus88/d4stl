@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What did you do?"
+Hash: 8F18B58D, Key: Line1.14FBD5, Value: Pray for me, wanderer. I have asked Inarius for the strength to resist temptation, but I can't keep my hands from stealing. It is like they are possessed.

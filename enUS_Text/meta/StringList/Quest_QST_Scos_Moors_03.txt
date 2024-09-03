@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: Fangs of Corruption
+Hash: 0871A46B, Key: Toast, Value: Find what is feeding on the corruption within the Untamed Thicket
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find what is feeding on the corruption within the Untamed Thicket
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I've opened the way to the Untamed Thicket. The corrupted blood runs thick here. What horror awaits me at the end of it?
+Hash: D787DBC2, Key: Phase49Description, Value: I've opened the way to the Untamed Thicket. The corrupted blood runs thick here. What horror awaits me at the end of it?
+Hash: E4525B4A, Key: Phase49OutsideSubzoneHeader, Value: Enter the Untamed Thicket in the Shrouded Moors
+Hash: 36AC1DDC, Key: Callback51Header, Value: Enter the Untamed Thicket
+Hash: C2358ADD, Key: Callback70Header, Value: Exit the Untamed Thicket
+Hash: 25256756, Key: Phase108OutsideSubzoneHeader, Value: Find a way to stop the birth of the Amalgam of Rage
+Hash: 995CD0CE, Key: Callback107Header, Value: Find a way to stop the birth of the Amalgam of Rage
+Hash: 2640190D, Key: Phase116Description, Value: I've opened the way to the Untamed Thicket. The corrupted blood runs thick here. What horror awaits me at the end of it?
+Hash: F5B7BCF5, Key: Phase116OutsideSubzoneHeader, Value: Find what lies at the end of the Untamed Thicket
+Hash: EBAA2C2D, Key: Callback115Header, Value: Find what lies at the end of the corruption
+Hash: 3E0A0D3D, Key: Phase71Description, Value: I've opened the way to the Untamed Thicket. The corrupted blood runs thick here. What horror awaits me at the end of it?
+Hash: B3EF6725, Key: Phase71OutsideSubzoneHeader, Value: Find a way to stop the birth of the Amalgam of Rage

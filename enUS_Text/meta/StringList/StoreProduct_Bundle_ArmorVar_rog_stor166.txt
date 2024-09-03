@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Gaol-ùr
+Hash: A646FFA4, Key: Description, Value: Hearty troublemakers who still pay homage to their Barbarian forefathers.
+Hash: 083EE0CE, Key: Quote, Value: The wilds of Scosglen are no place for the timid.
+Hash: 13A53A8B, Key: Series, Value: Rogue Armor

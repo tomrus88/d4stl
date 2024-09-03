@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Coalesced Blood
+Hash: 003892BF, Key: desc, Value: While {c_important}{u}Healthy{/u}{/c} your {c_important}Blood{/c} Skills deal {c_number}[{SF_0} * 100|%x|]{/c} increased damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2}Damage Bonus {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}

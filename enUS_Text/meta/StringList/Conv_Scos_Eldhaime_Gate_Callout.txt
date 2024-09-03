@@ -1,0 +1,2 @@
+Hash: 5D2379DE, Key: Line1.B8616, Value: Traveler.
+Hash: CC2CE00B, Key: VoiceDir1.B8616, Value: Bored. Just another day in Eldhaime.

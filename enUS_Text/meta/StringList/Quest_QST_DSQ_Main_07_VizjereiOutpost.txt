@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: S03 QST DSQ 07
+Hash: 0871A46B, Key: Toast, Value: NOT PLAYER FACING
+Hash: 062F5C66, Key: Phase1Description, Value: Izel and I have access to the athenaeum. I should investigate inside.
+Hash: B8A227EA, Key: Callback4Header, Value: Investigate the Athenaeum 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Investigate the Athenaeum 
+Hash: 3722B9C7, Key: Phase2Description, Value: This description text will not be displayed.
+Hash: 5296A16C, Key: Callback6Header, Value: Slay the Athenaeum's protectors

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Obelisk
+Hash: 1EADAE68, Key: Callback2Header, Value: Inspect the Ancient Obelisk
+Hash: E26052C2, Key: Callback84Header, Value: Stand on the pressure plates to satiate them: {DONE_OVER_NEEDED}
+Hash: A5CF923D, Key: Callback25Header, Value: Slay the remaining enemies
+Hash: 0DD941CF, Key: Callback207Header, Value: Satiate the plates before the time runs out

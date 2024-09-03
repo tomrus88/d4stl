@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: Shadow Clone
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+Your shadow mimicks your actions for {c_number}{buffduration:CLONE_MIMIC}{/c} seconds. This {c_important}Shadow Clone{/c} deals {c_number}[{SF_1}*100|%|]{/c} of your damage.
+Hash: D618A933, Key: Mod0_Description, Value: You are {c_important}{u}Unstoppable{/u}{/c} for {c_number}{buffduration:UNSTOPPABLE}{/c} seconds after casting {c_important}Shadow Clone{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Prime Shadow Clone
+Hash: 2577B2B4, Key: Mod1_Description, Value: Your {c_important}Shadow Clone{/c} deals an additional {c_number}20%{/c} of your damage.
+Hash: 948901D1, Key: Mod1_Name, Value: Supreme Shadow Clone

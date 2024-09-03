@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: None
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Izel
+Hash: 8ED76A13, Key: Line1.121A3D, Value: Ugh. The state of this place! I would have thought the old wards would have trigger--
+Hash: DF0D95E0, Key: VoiceDir1.121A3D, Value: Disgusted by the decayed state her Izel's library. Interupted by enemies attacking the Player
+Hash: 675B13D5, Key: Line3.121A3D, Value: Ah, there they are.

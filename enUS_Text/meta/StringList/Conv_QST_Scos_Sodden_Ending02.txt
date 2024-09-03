@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you feeling better?" 
+Hash: 72185676, Key: Line11.A109C, Value: I was overly harsh with you. And you did help me. More than anyone else.
+Hash: 0C0CCFF8, Key: Line13.A109C, Value: My mother loved Cecil... my father. Too much, I think. If he loved her or not, I don’t know. I never wanted to ask.
+Hash: 3FF5C2FC, Key: Line17.A109C, Value: Our village was fine... until my mother disappeared. You can guess, hm? The same test I passed, she failed.
+Hash: D9EA3C7E, Key: Line19.A109C, Value: And now... (sigh) it’s over. My thanks, friend.

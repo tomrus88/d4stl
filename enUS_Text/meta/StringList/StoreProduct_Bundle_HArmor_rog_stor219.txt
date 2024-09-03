@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Banshee Queen
+Hash: A646FFA4, Key: Description, Value: Sylvanas was freedom - in life, in death. Her people will remember her for that, if nothing else.
+Hash: 083EE0CE, Key: Quote, Value: I am Forsaken.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tattered Cathedral Banner
+Hash: F2CA04D8, Key: NoticeSignText, Value: “INARIUS IS A PEST,” is written in blood across the torn banner. 

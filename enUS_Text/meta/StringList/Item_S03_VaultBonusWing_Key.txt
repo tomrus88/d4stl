@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Pearl of Warding
+Hash: A646FFA4, Key: Description, Value: Offer this to the Statue of Zoltun Kulle to receive Zoltun's Warding.
+Hash: F5C7BC0A, Key: Flavor, Value: "You cannot hide an idea from others without also hiding it from yourself." - Ayuzhan of Caldeum

@@ -1,0 +1,5 @@
+Hash: 5D8555E3, Key: Line1.FEF74, Value: Thank the Light you're here!
+Hash: F779CF65, Key: Line3.FEF74, Value: My boy...I-I think he's possessed!
+Hash: 66833592, Key: VoiceDir3.FEF74, Value: Everything after "My boy" said in a hushed voice. You are afraid of anyone else finding out.
+Hash: 916E48C5, Key: Line5.FEF63, Value: Worry not, Petr. The Cathedral will not abandon you.
+Hash: 0077AEF2, Key: VoiceDir5.FEF63, Value: Confident. Pronounciation: Pet-err

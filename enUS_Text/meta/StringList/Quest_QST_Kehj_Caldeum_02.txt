@@ -1,0 +1,21 @@
+Hash: 003DFCC1, Key: Name, Value: Turning the Tide
+Hash: 0871A46B, Key: Toast, Value: Search for the Gates of Hell
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find the Gates of Hell
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I can't believe one of the demons unleashed on Caldeum by Lilith was Duriel, Lord of Pain. There's no time to waste. Together with the Horadrim, we must make our way to put an end to Lilith's plan. No matter where it takes us.
+Hash: 940CCD20, Key: Phase56Description, Value: We've learned the Cathedral of Hatred is where Mephisto's essence is reforming. We can stop Lilith's plan. We press on to the Gates to the Burning Hells.
+Hash: 63D7B668, Key: Phase56OutsideSubzoneHeader, Value: Inspect Blood Petals at the Gates of the Burning Hell
+Hash: 09DCA900, Key: Callback64Header, Value: Inspect Blood Petals
+Hash: C5002A81, Key: Phase57Description, Value: We've learned the Cathedral of Hatred is where Mephisto's essence is reforming. We can stop Lilith's plan. We press on to the Gates to the Burning Hells.
+Hash: B4E4B0E9, Key: Phase57OutsideSubzoneHeader, Value: Descend to the Gates of Hell beneath Caldeum
+Hash: 3DC59C04, Key: Callback68Header, Value: Descend to the Gates of Hell with your allies
+Hash: F5F387E2, Key: Phase58Description, Value: Lorath, Donan and Neyrelle didn't waste any time and are searching for tomes about the Burning Hells. I should aid them.
+Hash: 05F1AB6A, Key: Phase58OutsideSubzoneHeader, Value: Follow Neyrelle to the other Horadrim in the Imperial Palace
+Hash: C2358ADD, Key: Callback70Header, Value: Follow Neyrelle to the other Horadrim
+Hash: 26E6E543, Key: Phase59Description, Value: With Duriel defeated, I can now search for my allies in Caldeum's Imperial Palace.
+Hash: 56FEA5EB, Key: Phase59OutsideSubzoneHeader, Value: Search for your allies in the Imperial Palace
+Hash: 5C2A045F, Key: Callback72Header, Value: Search for your allies in the Imperial Palace
+Hash: 74FA54CA, Key: Phase104Description, Value: Lorath, Donan and Neyrelle didn't waste any time and are searching for tomes for information about the Burning Hells. I should aid them.
+Hash: E0F17D52, Key: Phase104OutsideSubzoneHeader, Value: Speak to Lorath in the Imperial Palace
+Hash: 6573DDCA, Key: Callback103Header, Value: Speak to Lorath
+Hash: 5A95AD55, Key: Phase143OutsideSubzoneHeader, Value: Speak with Neyrelle at the Gates of Hell
+Hash: C980F48D, Key: Callback142Header, Value: Speak with Neyrelle

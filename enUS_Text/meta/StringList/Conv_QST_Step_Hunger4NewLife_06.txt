@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Oyuun
+Hash: A313B770, Key: Line15.6E261, Value: Each day, the hunger grows like a fire inside me, demanding to be sated. I tried to hold out, but all they offer us is human flesh. In these moments, I hold onto the hope that at least Zolaya made it out. But I fear soon the hunger will win out, and I will have no choice but to give in.
+Hash: F349E33D, Key: VoiceDir15.6E261, Value: Horrified. Struggling to retain her humanity while being held captive by cannibals.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You worship Lilith?"
+Hash: 59D05F38, Key: Line1.371E1, Value: Look at me. To Inarius, I’m gutter trash.
+Hash: F3C4D8BA, Key: Line3.371E1, Value: But Lilith promised strength. Freedom! Who would you choose?
+Hash: 2AFF3580, Key: Line7.B5390, Value: Silence, scum!

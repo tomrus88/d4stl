@@ -1,0 +1,4 @@
+Hash: 5D0E9387, Key: Line1.A328B, Value: Eadar.... Eadar, I can hear you...
+Hash: CC17F9B4, Key: VoiceDir1.A328B, Value: Hoarse
+Hash: C4DF586D, Key: Line9.A109C, Value: Cecil! Get away from her!
+Hash: 33E8BE9A, Key: VoiceDir9.A109C, Value: Alarmed

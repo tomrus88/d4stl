@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cursed Scroll of Tranquility
+Hash: A646FFA4, Key: Description, Value: Decreases damage taken from players by {c_yellow}30%{/c}, but increases damage taken from monsters by the same amount. Lasts for {c_yellow}20{/c} seconds.
+
+{c_red}Only works in Fields of Hatred.{/c}

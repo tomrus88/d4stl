@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Thieves' Famine
+Hash: 0871A46B, Key: Toast, Value: The people starve as bandits plunder food from caravans bound for Ked Bardu.
+Hash: FAF02F4B, Key: Phase6Description, Value: Merchant caravans carrying vital food and supplies are being waylaid by bandits outside of Ked Bardu. The city’s people now starve and the situation will only continue to worsen until the supplies are recovered. 
+Hash: 059C64AB, Key: Callback5Header, Value: Collect {ITEM} from bandits in the Kotama Grasslands: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I have recovered many of the stolen supplies from the bandits. I should return them to Gelek.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Gelek

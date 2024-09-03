@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Lord Avitus
+Hash: 5D83A54C, Key: Line1.FBBB9, Value: I killed for my faith, burned and tortured. When I died in that forsaken place, it was without the grace of the Light.
+Hash: CC8D0B79, Key: VoiceDir1.FBBB9, Value: His seething rage rests just below the surface, only breaking into full anger at the final line. 
+Hash: 728E895D, Key: Line11.FBBB9, Value: Their path to salvation led me only into darkness. Now it is blood that gives me purpose. I will drink the life of this world...forever.

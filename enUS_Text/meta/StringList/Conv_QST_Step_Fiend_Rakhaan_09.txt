@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “You're a demon!”
+Hash: 5D73363A, Key: Line1.EECAE, Value: Yes.
+Hash: CC7C9C67, Key: VoiceDir1.EECAE, Value: suddenly deeper, hoarser. Rakhaan's demon is showing itself.
+Hash: 915C293E, Key: Line5.EECAE, Value: And no. The mirror shed my illusion. I will explain all in time, I swear it. Rest assured, I mean no harm to you, nor anyone else.
+Hash: 00658F6B, Key: VoiceDir5.EECAE, Value: back to normal delivery
+Hash: F767AFBC, Key: Line3.EECAE, Value: But our task still stands. The relic’s corruption must be contained.

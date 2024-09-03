@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rubble
+Hash: F2CA04D8, Key: NoticeSignText, Value: Amongst the rubble are broken vials, bone, and broken stone from the overhead pillars. If the conduit Izel seeks is here, it would be unusable. 

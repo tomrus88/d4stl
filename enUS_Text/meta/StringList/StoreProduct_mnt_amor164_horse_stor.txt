@@ -1,0 +1,2 @@
+Hash: 13A53A8B, Key: Series, Value: "Wraith Lord"
+Hash: 003DFCC1, Key: Name, Value: Wraith Lord's Barding

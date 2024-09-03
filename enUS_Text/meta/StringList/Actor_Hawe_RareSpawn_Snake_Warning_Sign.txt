@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: EERIE STATUE
+
+A strangely lifelike statue of a Nangari has appeared in the northern Foulsands region of the Rotspill Delta. The horrible chanting of the cultists that are drawn to it seems to never relent. Be wary, there is some eldritch power at work!
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

@@ -1,0 +1,2 @@
+Hash: AFA43426, Key: Line39.8CA44, Value: It’s time to move, eh? Follow me!
+Hash: FFDA5FF3, Key: VoiceDir39.8CA44, Value: Urgent. Meshif doesn't want to stick around here--he wants to get somewhere safe.

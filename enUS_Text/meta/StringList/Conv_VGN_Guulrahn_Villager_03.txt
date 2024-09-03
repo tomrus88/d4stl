@@ -1,0 +1,2 @@
+Hash: 5D22660D, Key: Line1.B675B, Value: Help!
+Hash: CC2BCC3A, Key: VoiceDir1.B675B, Value: Scream!

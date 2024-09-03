@@ -1,0 +1,6 @@
+Hash: 5A29FF20, Key: Line1.84B74, Value: Faithful penitents. A prophecy has been delivered to me, one that speaks of a glorious future.
+Hash: C933654D, Key: VoiceDir1.84B74, Value: Stern/commanding. Speaking to a large audience inside the Cathedral, as if to rally them.
+Hash: F41E78A2, Key: Line3.84B74, Value: “Tears of blood rained on a desert jewel, and the way to Hell was torn asunder. Then came a spear of Light, piercing Hatred’s heart, and he who was bound in chains was set free!”
+Hash: 6327DECF, Key: VoiceDir3.84B74, Value: Stern/commanding. Speaking to a large audience inside the Cathedral, as if to rally them. He's reciting part of the "Prophecy" here.
+Hash: 8E12F224, Key: Line5.84B74, Value: You’ve all heard rumors of the demon Lilith. The Daughter of Hatred. It is my spear that shall pierce her heart. The chains that hold us to this world shall be cast off, and on my wings, I shall lift us all to Heaven!
+Hash: FD1C5851, Key: VoiceDir5.84B74, Value: Stern/commanding. Speaking to a large audience inside the Cathedral, as if to rally them.

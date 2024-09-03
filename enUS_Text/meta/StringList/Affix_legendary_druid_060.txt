@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Balanced
+Hash: 003892BF, Key: Desc, Value: Increases your Maximum Spirit by {c_random}[Affix_Value_1]{/c} and Spirit Generation by {c_number}[Affix_Value_2|%x|]{/c} while {c_important}Grizzly Rage{/c} is active.
+Hash: 82B7D312, Key: CodexDesc, Value: Increases Maximum Spirit by {c_random}[Affix_Value_1]{/c} and Spirit Generation by {c_number}[Affix_Value_2|%x|]{/c} while {c_important}Grizzly Rage{/c} is up.

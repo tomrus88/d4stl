@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Knights Penitent Helms
+Hash: F2CA04D8, Key: NoticeSignText, Value: The helms are old, dented from violent blows and spotted in dried blood.

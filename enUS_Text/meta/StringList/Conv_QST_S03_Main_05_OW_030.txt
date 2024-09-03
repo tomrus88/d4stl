@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "If the demon feeds on the Loom’s power, why not destroy the Loom?"
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: Of course. Why not bury my life’s work? Why not? Why not let the demon win?
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: irritated
+Hash: 4065B98F, Key: Line5.18AEA4, Value: Zoltun asked the same question, of course. It's the reason he left–because he did not believe the situation could be salvaged.
+Hash: 909BE55C, Key: VoiceDir5.18AEA4, Value: softening with a sigh
+Hash: 18E96351, Key: Line7.18AEA4, Value: Perhaps he was right. But to live in fear of demons is to be paralyzed, and I will not be paralyzed.

@@ -1,0 +1,7 @@
+Hash: A0AEE1F0, Key: BonusObjectiveRewardFormat, Value: {s1}
+Hash: 86AC49E7, Key: UIHeader, Value: Ancestral Favor
+Hash: 3CEFC1B1, Key: ReputationNameText, Value: Ancestral Favor
+Hash: 3546905B, Key: ReputationNPCFlavorText, Value: Lunar Night Market
+Hash: 3B352C7C, Key: ReputationNPCConversationMenuLabel, Value: "How are the ancestors feeling about me lately?"
+Hash: 3FB6579C, Key: HowToEarnText, Value: Defeat Monsters while empowered by {c_highlight}Lunar Shrines{/c} to raise your {c_highlight}Ancestral Favor.{/c}
+Hash: D10A4E26, Key: LevelUpNotificationTitle, Value: Ancestral Favor Upgraded

@@ -1,0 +1,3 @@
+Hash: 62C19113, Key: Line13.BAE4.Sor.M, Value: I'm low on health.
+Hash: 93B4EE74, Key: Line14.BAE4.Sor.M, Value: I need more health.
+Hash: C4A84BD5, Key: Line15.BAE4.Sor.M, Value: That requires more health.

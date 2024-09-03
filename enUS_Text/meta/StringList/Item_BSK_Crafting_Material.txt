@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Aethereal Ash
+Hash: A646FFA4, Key: Description, Value: Rare, fleeting remnants of a demon's death, found only in the Burning Hells. It can be used to craft concoctions to resist the Infernal Hordes.

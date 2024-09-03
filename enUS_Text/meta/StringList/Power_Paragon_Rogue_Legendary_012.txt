@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Cunning Stratagem
+Hash: 003892BF, Key: desc, Value: Your non-damage {c_important}Combo Point{/c} bonuses are increased by {c_number}[{SF_4}*100|%|]{/c} when you spend {c_number}{SF_1}{/c} {c_important}Combo Points{/c}.

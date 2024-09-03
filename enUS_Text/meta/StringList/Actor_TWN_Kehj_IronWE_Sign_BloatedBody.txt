@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloated Body
+Hash: F2CA04D8, Key: NoticeSignText, Value: This forgotten corpse serves as a reminder that even though it is a beacon of life in a harsh land, death still surrounds the oasis.

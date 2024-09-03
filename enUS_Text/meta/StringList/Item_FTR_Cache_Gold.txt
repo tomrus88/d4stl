@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Gold Cache
+Hash: A646FFA4, Key: Description, Value: A cache of items found inside Dungeons. Contains Gold.
+Hash: F5C7BC0A, Key: Flavor, Value: Gold has long served as the monetary means of trade in the world of Sanctuary. It is melted into small gold slugs that are flattened and stamped with the heraldry of the kingdom that created it.

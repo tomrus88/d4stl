@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Everliving
+Hash: 003892BF, Key: Desc, Value: You take {c_random}[Affix_Value_1|%|]{/c} less damage from Crowd Controlled or {c_important}{u}Vulnerable{/u}{/c} enemies.

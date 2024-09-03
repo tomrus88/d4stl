@@ -1,0 +1,2 @@
+Hash: 8F104F47, Key: Line1.157838, Value: (sigh) Untouched by fire, thank the Light! The hall of records must be intact.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: To Player (5ft away.) Walk/talk. Relieved. Excited.

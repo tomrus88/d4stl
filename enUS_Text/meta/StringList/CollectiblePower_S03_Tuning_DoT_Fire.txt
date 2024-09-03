@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Burning Support
+Hash: A646FFA4, Key: Description, Value: {c_number}[{SF_5}*100]%{/c} of the supported Skill's damage is applied as Burning damage over {c_number}[{SF_1}|1|+{SF_3}|1|]{/c} seconds. Burning enemies take {c_number}[{SF_2}*100|%x|]{/c} bonus Critical Strike Damage from the Seneschal Construct.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Critical Strike Damage {icon:arrow,1.2} {c_number}[{SF_2}*100+1|%x|]{/c}
+Hash: E971A20F, Key: Modifier, Value: {c_number}[{SF_0}*100]%{/c} of the damage is applied as Burning damage.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

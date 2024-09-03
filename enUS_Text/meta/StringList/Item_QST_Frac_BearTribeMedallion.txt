@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Warrior's Chain
+Hash: F5C7BC0A, Key: Flavor, Value: A chain of small coins etched with various images of bears. Often worn by barbarians of the Bear Tribe.

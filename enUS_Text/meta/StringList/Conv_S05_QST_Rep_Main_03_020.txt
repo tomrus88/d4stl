@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What exactly does this ritual entail?"
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: Nah, don’t go getting squeamish on me now! “No power comes without sacrifice,” right?
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Flippant. Contempt. Walks to get started after.

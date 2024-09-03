@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who was that man?"
+Hash: 59D74087, Key: Line1.2CDEB, Value: One of my patrons who doesn’t pay me to gossip about them.
+Hash: C8E0A6B4, Key: VoiceDir1.2CDEB, Value: dismissive 

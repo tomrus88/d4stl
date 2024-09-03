@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hunters' Livery Cache
+Hash: A646FFA4, Key: Description, Value: An assortment of second-hand caps and helmets used by the Vampire Hunters.
+Hash: F5C7BC0A, Key: Flavor, Value: These helms have all been enhanced with leather gorgets, useful for keeping the heat in and the vampires out.

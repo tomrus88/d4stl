@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Embrace
+Hash: F5C7BC0A, Key: Flavor, Value: "Every tome, every scroll, every book in this temple produces the same answer. The only being willing to stand against the Eternal Conflict, against the Prime Evils, was Lilith."
+- Elias

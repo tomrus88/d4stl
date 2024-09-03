@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Side Quest: Scholar Revised
+Hash: 3FF1BD6F, Key: Line5.1343B7, Value: (exhale) I've come so far... could these ruins really hold the answers I seek?
+Hash: 9027E93C, Key: VoiceDir5.1343B7, Value: Somewhat speaking to himself, lost in thought.

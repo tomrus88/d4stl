@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Plague Rat
+Hash: A646FFA4, Key: Description, Value: When Vylum was left to die among the plague-infested corpses of Westmarch, a villain was born... a dark pied piper full of malicious intent.
+Hash: 083EE0CE, Key: Quote, Value: Survivor of a great pestilence.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

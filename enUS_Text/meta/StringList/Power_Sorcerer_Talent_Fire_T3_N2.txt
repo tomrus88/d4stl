@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Esu's Ferocity
+Hash: 003892BF, Key: desc, Value: Your Fire Critical Strike Damage is increased by {c_number}[{SF_0}*100|%x|]{/c} against enemies above {c_number}50%{/c} Life. Your Fire Critical Strike Chance is increased by {c_number}[{SF_1}*100|%+|]{/c} against enemies below {c_number}50%{/c} Life.
+
+Critical Strikes that kill enemies or hit a Boss grant both bonuses against all enemies for {c_number}{buffduration:KILL_BONUS}{/c} seconds.
+Hash: 12713EB5, Key: Buff2_Name, Value: Esu's Ferocity
+Hash: C6E60718, Key: Buff2_Description, Value: Increased Fire Critical Strike Chance and damage.

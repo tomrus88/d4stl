@@ -1,0 +1,2 @@
+Hash: 003892BF, Key: Desc, Value: An ancient clearing pulsing with the magic of the swamps.
+Hash: 003DFCC1, Key: Name, Value: Hidden Glade

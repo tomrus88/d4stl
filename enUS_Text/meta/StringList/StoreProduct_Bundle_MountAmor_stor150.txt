@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: In Mother's Name
+Hash: A646FFA4, Key: Description, Value: The followers of Lilith continue their crusade for the liberation of her children from the grip of the Cathedral of Light.
+Hash: 083EE0CE, Key: Quote, Value: Her legacy continues.
+Hash: 13A53A8B, Key: Series, Value: "Mother's Guidance" Mount Armor

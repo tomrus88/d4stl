@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Moonrage
+Hash: 003892BF, Key: Desc, Value: Kills have a {c_number}[Affix_Value_1]%{/c} chance to summon a {c_important}Wolf Companion{/c} to your side for {c_random}[Affix_Value_2]{/c} seconds. This effect is a {c_label}Lucky Hit{/c} against bosses. Maximum {c_number}3{/c} additional wolves.
+
+In addition, gain {c_number}+[Affix."Static Value 1"]{/c} Ranks to {c_important}Wolves{/c}.

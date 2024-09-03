@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me of the Cathedral."
+Hash: 5A270F7C, Key: Line1.804B7, Value: They are the light of hope in a world beset by darkness.
+Hash: 28047C02, Key: Line7.804B7, Value: I trained with them in Kyovashad. Even had the privilege of being tutored by Reverend Mother Prava.
+Hash: F41B88FE, Key: Line3.804B7, Value: That was my first time being away from Scosglen. Heh, everything was different. The way people talked. The clothes they wore. The food they ate.
+Hash: 8E100280, Key: Line5.804B7, Value: But it opened my eyes to new things, and for that I'm grateful.

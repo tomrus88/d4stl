@@ -1,0 +1,4 @@
+Hash: 8EB56EEB, Key: Line1.105B57, Value: The night has teeth beyond these walls. Better we bed down here so that we see the dawn.
+Hash: DEEB9AB8, Key: VoiceDir1.105B57, Value: Cautious 
+Hash: 673918AF, Key: Line3.105B59, Value: Who do you want sucking the life out of you? The vampires in the forest, or the merchants right here in town?
+Hash: B76F447C, Key: VoiceDir3.105B59, Value: Disgusted, resigned

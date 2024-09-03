@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are the Iron Wolves?"
+Hash: 5D82E1B9, Key: Line1.FB4C3, Value: Depends who’s asking. For a foreigner like you? We’re mercenaries. Payment up front.
+Hash: F7775B3B, Key: Line3.FB4C3, Value: See, coin’s hard to come by since the plague turned Caldeum tits up.

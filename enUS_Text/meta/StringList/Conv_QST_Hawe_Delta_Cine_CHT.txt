@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: C4FA80BA, Key: Line9.AAAEC, Value: Fear not this cradle...
+Hash: 72337EC3, Key: Line11.AAAEC, Value: Colder beds than this await you yet, traveler...
+Hash: 65381056, Key: Line13.BAE4, Value: (heavy breathing)
+Hash: D4417683, Key: VoiceDir13.BAE4, Value: heavy, somewhat panicked breathing, heart racing
+Hash: 91118DB6, Key: Line5.AAAEC, Value: So many could not make this journey...
+Hash: 69E26198, Key: Line15.BAE4, Value: (breathing, gurgling)
+Hash: D8EBC7C5, Key: VoiceDir15.BAE4, Value: rapid breathing, gasping, then gurgling as the coffin fills with water
+Hash: 2B060738, Key: Line7.AAAEC, Value: His debt must be paid.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Crumbling Hekma
+Hash: 0871A46B, Key: Toast, Value: Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.
+Hash: B98DBD5C, Key: Callback15Header, Value: Complete the Crumbling Hekma

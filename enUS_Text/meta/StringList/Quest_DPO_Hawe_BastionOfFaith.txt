@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Shredded oaths and charred flesh.
+Hash: 36AC1DDC, Key: Callback51Header, Value: Return the Mechanical Box to the Pedestal: {LEFT}
+Hash: B98DBD5C, Key: Callback15Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 6541F242, Key: Callback48Header, Value: Deposit Animus into the {GIZMO}
+Hash: FB719C7F, Key: Callback81Header, Value: Travel to the {LEVELAREA}

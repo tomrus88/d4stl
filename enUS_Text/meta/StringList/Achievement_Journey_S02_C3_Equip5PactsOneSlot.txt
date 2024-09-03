@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Potent Vows
+Hash: 3A4912CF, Key: DescShort, Value: Equip a piece of armor with 5 Pacts engraved on it

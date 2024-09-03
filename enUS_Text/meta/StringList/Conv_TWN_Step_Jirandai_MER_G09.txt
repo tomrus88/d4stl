@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you encountered any cannibals?"
+Hash: 8EE11A38, Key: Line1.11E54A, Value: See this scar? A biter bit me, so I bit him back! (laugh, growl)

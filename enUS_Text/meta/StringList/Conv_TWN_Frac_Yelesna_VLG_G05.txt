@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Glad the Cathedral's gone?"
+Hash: 5D6D27DC, Key: Line1.F9C1B, Value: I remember when there was a hanging only once in a while. Now, they happen every week.

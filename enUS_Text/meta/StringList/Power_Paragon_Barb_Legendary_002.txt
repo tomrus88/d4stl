@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Hemorrhage
+Hash: 003892BF, Key: desc, Value: Your Bleeding damage is increased by {c_number}[{SF_0}*100|x%|]{/c} of your Vulnerable Damage Bonus, up to a maximum of  {c_number}[SF_3 * 100|%x|]{/c}.
+
+Current Bonus: {c_number}[SF_2 * 100|%x|]{/c}

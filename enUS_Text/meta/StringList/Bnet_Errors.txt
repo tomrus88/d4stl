@@ -1,0 +1,197 @@
+Hash: E2DAFD02, Key: ERROR_14400, Value: Your login information is incorrect. Please try again.
+Hash: 201FD994, Key: Error_Logon_Account, Value: There was a problem logging in.
+Hash: 42AFC67E, Key: ERROR_316209, Value: There was an error selecting the cabal.
+Hash: 42AFC67A, Key: ERROR_316205, Value: Unable to create a new cabal because all slots are filled. You must delete another cabal to create a new one.
+Hash: 42AFC679, Key: ERROR_316204, Value: There was a problem deleting the cabal {name}.
+Hash: 1E27CA91, Key: ERROR_5003, Value: This account is already a friend.
+Hash: 1E27CA93, Key: ERROR_5005, Value: This friend invitation already exists.
+Hash: E2EAD2FF, Key: ERROR_20004, Value: The party invitation already exists.
+Hash: E2EAD2FE, Key: ERROR_20003, Value: There was a problem inviting {name} into a party.
+Hash: E2FF2582, Key: ERROR_34200, Value: Game servers are not available. Please try again later.
+Hash: E2EBEBBE, Key: ERROR_22001, Value: The operation failed because the game does not exist.
+Hash: E2ED047F, Key: ERROR_24000, Value: There was an error creating the game. Please try again.
+Hash: E2ED0480, Key: ERROR_24001, Value: There was an error adding players to the game. Please try again.
+Hash: E2ED08C0, Key: ERROR_24100, Value: The game servers are currently busy. Please try again later.
+Hash: E2ED90E1, Key: ERROR_25001, Value: The operation failed because the game does not exist.
+Hash: E2ED90E2, Key: ERROR_25002, Value: This game is full.
+Hash: E2ED90E4, Key: ERROR_25004, Value: The game servers are unavailable. Please try again later.
+Hash: E2ED90E5, Key: ERROR_25005, Value: The game servers are unavailable. Please try again later.
+Hash: 429A5B2D, Key: ERROR_300001, Value: The player has been disconnected. Please reconnect.
+Hash: 429A5B2E, Key: ERROR_300002, Value: There was an issue with the game service. Please try again.
+Hash: 429A5B2F, Key: ERROR_300003, Value: You cannot perform this action on the selected target.
+Hash: 1E26B1D1, Key: ERROR_3005, Value: You were disconnected from the Battle.net service.
+Hash: 1E26B1D2, Key: ERROR_3006, Value: Your request has timed out. Please try again.
+Hash: 1E26B1D3, Key: ERROR_3007, Value: Your connection to the Battle.net service has timed out. Please log in again.
+Hash: 1E26B1F1, Key: ERROR_3014, Value: Input limit reached. Please wait to perform more actions.
+Hash: 1E26B1F5, Key: ERROR_3018, Value: You were disconnected from the service.
+Hash: 429A5B54, Key: ERROR_300017, Value: You are not logged in.
+Hash: 429A5B4D, Key: ERROR_300010, Value: The operation was canceled.
+Hash: 42AFDBBC, Key: ERROR_316702, Value: There was an error with the party action. Please try again.
+Hash: 42AFDBC1, Key: ERROR_316707, Value: The party invitation you tried to accept was canceled or removed.
+Hash: 42AFDBBD, Key: ERROR_316703, Value: The selected party member was not found.
+Hash: 42AFDBBB, Key: ERROR_316701, Value: This action is only available to the Party Leader.
+Hash: B8DBA106, Key: ERROR_GENERIC, Value: There was an error.
+Hash: E2D8BA9B, Key: ERROR_10010, Value: This invitation already exists.
+Hash: BD0672F8, Key: Error_Party_Chat, Value: There was a problem sending the party message.
+Hash: CC2AB629, Key: Error_Party_Chat_10001, Value: Not in a valid party channel.
+Hash: 8F2C10CB, Key: Error_Whisper, Value: Unable to deliver the whisper to {playerName}.
+Hash: 5EEB70A2, Key: Error_Game_Chat, Value: There was a problem sending the game chat message.
+Hash: B545CB53, Key: Error_Game_Chat_10001, Value: Not in a valid game channel.
+Hash: 43410E5C, Key: ERROR_397000, Value: The lobby server is currently not available. Please double check your version.
+Hash: 43410E5D, Key: ERROR_397001, Value: The lobby server is currently too busy.
+Hash: 43410E60, Key: ERROR_397004, Value: This account is already connected to the lobby server.
+Hash: E2FD77E1, Key: ERROR_31004, Value: There was a problem finding a game. Please try again.
+Hash: 42AFDBFD, Key: ERROR_316721, Value: The selected player was already invited to party.
+Hash: 0828C4D0, Key: Error_Friend_Invite_20, Value: Target is not a valid target to be a friend.
+Hash: CB2DCC6F, Key: Error_Friend_Invite, Value: There was a problem sending friend invite.
+Hash: B591CD38, Key: Error_Friend_Invite_Self, Value: You can't send a friend request to yourself.
+Hash: 42B1631A, Key: ERROR_319004, Value: Player is already in a clan.
+Hash: 1D935AF5, Key: Error_Whisper_7004, Value: You have sent too many whispers to {playerName}. Please wait and try again later. 
+Hash: 2D1166E6, Key: Error_Clan_Chat, Value: There was a problem sending the clan chat message.
+Hash: C8212A55, Key: Error_Group_Chat, Value: There was a problem sending the group chat message.
+Hash: 42AFDC23, Key: ERROR_316736, Value: Unable to quick join the party.
+Hash: 42B1631E, Key: ERROR_319008, Value: Player already has an invite to the clan.
+Hash: 42B16359, Key: ERROR_319021, Value: Clan name already claimed.
+Hash: 42B1635A, Key: ERROR_319022, Value: Clan contains profanity.
+Hash: 42B1635B, Key: ERROR_319023, Value: Clan name is invalid.
+Hash: 42B1635C, Key: ERROR_319024, Value: Clan tag is invalid.
+Hash: 42B1635D, Key: ERROR_319025, Value: Clan description is invalid.
+Hash: 42B1635E, Key: ERROR_319026, Value: Clan MOTD is invalid.
+Hash: 42AFBDF5, Key: ERROR_316002, Value: This name contains restricted or inappropriate words.
+Hash: 53E03184, Key: Error_Party_Quick_Join, Value: Unable to quick join the party.
+Hash: AEF9B65B, Key: Error_Party_Quick_Join_316716, Value: Unable to quick join because the party is already full.
+Hash: 43422726, Key: ERROR_399008, Value: No games are available at this time.  Please retry.
+Hash: 0333B6D6, Key: Error_Hero_Select, Value: There was a problem selecting the character.
+Hash: C8410636, Key: Error_Game_Create, Value: There was a problem entering the game.
+Hash: 1CAAF132, Key: Error_Hero_List, Value: There was a problem getting the list of character.
+Hash: A16CF6F6, Key: Error_Party_Invite_Accept, Value: There was a problem accepting the party invite.
+Hash: BAA895BA, Key: Error_Party_Invite_Decline, Value: There was a problem declining the party invite.
+Hash: C9436FB2, Key: Error_Party_Invite_Revoke, Value: There was a problem revoking the party invite.
+Hash: 26E5FC47, Key: Error_Party_Invite, Value: There was a problem sending the party invite.
+Hash: 89239590, Key: Error_Party_Request_Join, Value: There was a problem requesting to join the party.
+Hash: C57DA3B5, Key: Error_Clan_Invite, Value: There was a problem inviting player to clan.
+Hash: 98E1D92C, Key: Error_Clan_Promote, Value: There was a problem promoting clan member.
+Hash: B92C2624, Key: Error_Clan_Demote, Value: There was a problem demoting clan member.
+Hash: 2D15CE68, Key: Error_Clan_Kick, Value: There was a problem kicking clan member.
+Hash: DF8487EE, Key: Error_Friend_Remove, Value: There was a problem removing friend.
+Hash: 55879C48, Key: Error_Friend_Favorite_Add, Value: There was a problem adding friend to favorites.
+Hash: B99A39AD, Key: Error_Friend_Favorite_Remove, Value: There was a problem removing friend from favorites.
+Hash: E7D5DB95, Key: Error_Party_Member_Promote, Value: There was a problem promoting party member to leader.
+Hash: ADAD387D, Key: Error_Party_Member_Remove, Value: There was a problem removing party member.
+Hash: 5E760A05, Key: Error_Party_Leave, Value: There was a problem leaving party.
+Hash: 2F0EA6AF, Key: Error_Party_Voice_Toggle, Value: There was a problem toggling party voice chat.
+Hash: D9729A85, Key: Error_Report, Value: There was an error reporting player.
+Hash: 42AFDBE1, Key: ERROR_316716, Value: There is not enough space in the party.
+Hash: 42AFDBE2, Key: ERROR_316717, Value: You are not in a party.
+Hash: 42AFDBFC, Key: ERROR_316720, Value: This player is already in your party.
+Hash: 42AFDBFE, Key: ERROR_316722, Value: This invite does not exist.
+Hash: 42AFDBFF, Key: ERROR_316723, Value: You are not in the party chat channel.
+Hash: BE2AB612, Key: Error_Format, Value: {message} (Code {errCode})
+Hash: 37140A1E, Key: Error_Friend_Invite_Accept, Value: There was a problem accepting the friend invite.
+Hash: 05320DE2, Key: Error_Friend_Invite_Decline, Value: There was a problem declining the friend invite.
+Hash: 1E27CA92, Key: ERROR_5004, Value: This account is not a friend.
+Hash: 327D67FF, Key: Error_Party_Invite_316735, Value: {Invitee} is already in another party.
+Hash: 327D67FE, Key: Error_Party_Invite_316734, Value: {Invitee} has declined your party invitation.
+Hash: 327D67BE, Key: Error_Party_Invite_316716, Value: The party is full.
+Hash: 327D681F, Key: Error_Party_Invite_316744, Value: The party invite has been revoked.
+Hash: 327D6820, Key: Error_Party_Invite_316745, Value: {Invitee} canceled the party join.
+Hash: 327D6821, Key: Error_Party_Invite_316746, Value: The party invitation sent to {Invitee} has expired.
+Hash: AEF9B6DA, Key: Error_Party_Quick_Join_316751, Value: Quick join to the party is not allowed.
+Hash: AEF9B6DB, Key: Error_Party_Quick_Join_316752, Value: Quick join to the party is not allowed.
+Hash: AEF9B6DC, Key: Error_Party_Quick_Join_316753, Value: The player is not your friend, quick join not allowed.
+Hash: 42B1639F, Key: ERROR_319045, Value: You have too many pending clan applications.
+Hash: 326CC543, Key: Error_Party_Join_316756, Value: Bloodmarked players cannot join a non-Bloodmarked party.
+Hash: 8911F7D2, Key: Error_Join_Game, Value: Failed to join the game.
+Hash: E9BF94A8, Key: Error_Join_Game_316616, Value: Unable to re-enter a keyed dungeon that you left before.
+Hash: C51A956D, Key: Error_Party_Request_Join_316758, Value: Party join request has been declined.
+Hash: C505143A, Key: Error_Party_Request_Join_300008, Value: Party join request timed out.
+Hash: AEE435AE, Key: Error_Party_Quick_Join_300008, Value: Quick join timed out.
+Hash: 42AF429A, Key: ERROR_315404, Value: The request to link your device to your Battle.net account has expired.
+Hash: C51A956E, Key: Error_Party_Request_Join_316759, Value: Party join request was already sent.
+Hash: 42AFDC66, Key: ERROR_316757, Value: You can't join a non-Bloodmarked party while you are flagged as Bloodmarked.
+Hash: 90BA7BA0, Key: Error_Block_Player, Value: There was a problem blocking the player.
+Hash: 5FDEC5E3, Key: Error_Unblock_Player, Value: There was a problem unblocking the player.
+Hash: 433FF59C, Key: ERROR_395002, Value: Your character has not finished being saved by their current game, or your account is otherwise busy. Please wait a few minutes so we can safely log your account out, and try again.
+Hash: 42AFBDF4, Key: ERROR_316001, Value: This name contains invalid characters.
+Hash: 42AFBDF9, Key: ERROR_316006, Value: This name has an invalid length.
+Hash: AEF9B6DD, Key: Error_Party_Quick_Join_316754, Value: The player is queued for Looking For Party.
+Hash: DACA1CF8, Key: Error_Trade_Chat, Value: There was a problem sending the trade message.
+Hash: 42B163A1, Key: ERROR_319047, Value: This clan has too many outstanding applications.
+Hash: 42AFDC80, Key: ERROR_316760, Value: The invite was to a session with an incompatible version.
+Hash: 429A5B75, Key: ERROR_300027, Value: No network connection detected.
+Hash: 4340823F, Key: ERROR_396022, Value: There was a problem finding servers available to ping.
+Hash: 43410E62, Key: ERROR_397006, Value: There was a problem reaching the game network. Please check your network settings.
+Hash: 1E259931, Key: ERROR_1016, Value: Unable to connect to Battle.net. Please check your network settings.
+Hash: 429A5B34, Key: ERROR_300008, Value: Your request has timed out. Please try again.
+Hash: 429A63B1, Key: ERROR_300203, Value: There was an internal server error.
+Hash: 56142BBE, Key: Error_Logon_Account_300008, Value: Your login attempt has timed out. Please try again.
+Hash: 429A5B30, Key: ERROR_300004, Value: This feature is not yet implemented.
+Hash: 8F6CE0F5, Key: ERROR_75, Value: There was a problem authenticating your account.
+Hash: 42AF3E5B, Key: ERROR_315306, Value: Unable to find a valid license for Diablo IV.
+Hash: E2FF2584, Key: ERROR_34202, Value: Game servers are not available. Please try again later.
+Hash: 42AFBE17, Key: ERROR_316013, Value: Invalid character selection. Please try a different character. 
+Hash: 42AFDC83, Key: ERROR_316763, Value: You are unable to join the party because you have not yet completed the prologue.
+Hash: 4999D552, Key: ERROR_600021, Value: The player is too far away. 
+Hash: 4999D515, Key: ERROR_600006, Value: A trade is already in progress.
+Hash: 8F6CE0CF, Key: ERROR_60, Value: Your account has been logged into from another location.
+Hash: 42AFDC82, Key: ERROR_316762, Value: You are not eligible for this party's World Tier.
+Hash: 4999D553, Key: ERROR_600022, Value: An item cannot be traded when your Inventory is full
+Hash: 4999D554, Key: ERROR_600023, Value: The player is blocked.
+Hash: CE367B81, Key: Error_Friend_Set_Note, Value: There was a problem setting the note.
+Hash: 42AF3E5D, Key: ERROR_315308, Value: There was a problem contacting the Battle.net service.
+Hash: 42AF3E5E, Key: ERROR_315309, Value: You are unable to login due to your country's age requirements for Diablo IV.
+Hash: E2DD1DA5, Key: ERROR_18012, Value: There was an error due to account owner being too young to access content.
+Hash: 1E27CAB4, Key: ERROR_5015, Value: You are at the maximum number of friends. Please remove an existing friend if you would like to add more.
+Hash: 8F6CE02B, Key: ERROR_11, Value: You are unable to play Diablo IV due to parental control restrictions applied to your account.
+Hash: 7D08F6E2, Key: ERROR_522, Value: There was an issue validating the console authentication token. This could be due to a temporary outage.
+Hash: 42D1BD77, Key: ERROR_332006, Value: You do not have enough Platinum for this purchase.
+Hash: 42D1BD78, Key: ERROR_332007, Value: Your purchase could not be completed at this time.
+Hash: 4999D555, Key: ERROR_600024, Value: Action unavailable.
+Hash: 42AFBDF6, Key: ERROR_316003, Value: A new character can't be created with the provided settings.
+Hash: 42B163BE, Key: ERROR_319053, Value: The leader is still an active member of the clan. Unable to dethrone.
+Hash: 42B16317, Key: ERROR_319001, Value: The clan can't be found.
+Hash: 1E27CAB5, Key: ERROR_5016, Value: The player who invited you is at the maximum number of friends. They must remove at least one friend to be able to accept this invitation.
+Hash: E30F0422, Key: ERROR_40014, Value: Sorry, you can not proceed until you pass real-name verification. Learn more ([https://www.battlenet.com.cn/support/zh/article/210633](d4://URL.https://www.battlenet.com.cn/support/zh/article/210633))
+Hash: E30F041F, Key: ERROR_40011, Value: You can’t login due to regulatory minor game time restrictions. Please be advised to keep a balanced and healthy lifestyle while playing video games. Learn more ([https://www.battlenet.com.cn/support/zh/article/210633](d4://URL.https://www.battlenet.com.cn/support/zh/article/210633)) 
+Hash: E30F0420, Key: ERROR_40012, Value: You can’t login due to regulatory minor game time restrictions. Please be advised to keep a balanced and healthy lifestyle while playing video games. Learn more ([https://www.battlenet.com.cn/support/zh/article/210633](d4://URL.https://www.battlenet.com.cn/support/zh/article/210633)) 
+Hash: 42AFBDF8, Key: ERROR_316005, Value: You do not have any available character slots.
+Hash: 758824B8, Key: CharacterNameFlagged, Value: Your {c_highlight}character name{/c} was flagged as {c_highlight}inappropiate.{/c} This must be changed from the character select screen.
+Hash: 0C8ED004, Key: TempCharacterName, Value: temp-{s1}
+Hash: D9E281BA, Key: CharacterNameFlaggedTitle, Value: Character Name Flagged
+Hash: 92336366, Key: CharacterNameFlaggedBody, Value: You are required to enter a new name for the character ‘{s1}’. Please follow the Code of Conduct. Entering offensive content can result in the {c_highlight}loss of naming privileges{/c} or other {c_highlight}account penalties, including suspension.{/c}
+Hash: 47EBA439, Key: CharacterNameFlagged2ndTimeBody, Value: The name ‘{s1}’ was flagged as inappropriate and must be changed. 
+
+Note as this is your {c_highlight}second time{/c} having your character name flagged, the next time this happens you will be {c_highlight}lose naming privileges{/c} and only able to have {c_highlight}randomized default names{/c} going forward.
+Hash: D8E50FC2, Key: CharacterNameFlaggedFinal, Value: Your {c_highlight}character name{/c} was flagged as {c_highlight}inappropiate.{/c} A random name has been given to your character.
+Hash: 24E6ACFF, Key: CharacterNameFlaggedFinalTimeBody, Value: The name ‘{s1}’ was flagged as inappropiate and has been replaced 
+
+Note as this is your {c_highlight}third time{/c} having your character name flagged, a random name has been applied and going forward {c_highlight}only randomized{/c} names can be used.
+Hash: 4999D556, Key: ERROR_600025, Value: Trading has been temporarily disabled.
+Hash: 429A5B90, Key: ERROR_300031, Value: Online play is blocked.
+Hash: 4999D557, Key: ERROR_600026, Value: Cannot trade with a dead hero.
+Hash: 4999D558, Key: ERROR_600027, Value: Cannot trade while dead.
+Hash: 429A5B53, Key: ERROR_300016, Value: There was a problem retrieving the data.
+Hash: A527A833, Key: Error_Party_Invite_Accept_316767, Value: Party invites can't be accepted during a town portal. 
+Hash: 42D1BD98, Key: ERROR_332016, Value: An invalid currency type was used to purchase.  The accepted currency type for this product may have changed recently.
+Hash: 42D1BD79, Key: ERROR_332008, Value: Your purchase was not completed.
+Hash: 42D1BD99, Key: ERROR_332017, Value: Purchasing this product is not allowed at this time.
+Hash: 42D1BD9A, Key: ERROR_332018, Value: Product not found.
+Hash: 42D1BD9B, Key: ERROR_332019, Value: Invalid token. Authentication may have failed.
+Hash: 42D1BDB3, Key: ERROR_332020, Value: An invalid request was made.
+Hash: 42D1BD96, Key: ERROR_332014, Value: An unknown error occurred. 
+Hash: 42D249D2, Key: ERROR_333000, Value: There was an error loading your store catalog.
+Hash: 4BEEFDB4, Key: ERROR_700004, Value: This season has ended and it's Battle Pass can no longer be activated.  Log out to access the new season.
+Hash: 42AF3E79, Key: ERROR_315313, Value: Unable to fetch licenses for Diablo IV.
+Hash: 42AFDC46, Key: ERROR_316748, Value: Cannot join party. Your character needs to be on the same realm as the party leader. (Eternal, Eternal Hardcore, Seasonal, or Seasonal Hardcore)
+Hash: 8F6CE06F, Key: ERROR_33, Value: Server access is restricted to authorized accounts only.
+Hash: 4BEEFDB5, Key: ERROR_700005, Value: This season has ended. Please update to the latest version to access the new season.
+Hash: 8F6CE0B5, Key: ERROR_57, Value: Your account is currently locked.
+Hash: 1DB52B14, Key: Error_Whisper_Self, Value: You cannot whisper to yourself.
+Hash: 42D1BDBB, Key: ERROR_332028, Value: There was a problem please try again.
+Hash: 8F6CE0B1, Key: ERROR_53, Value: Your account has been suspended. Please review your Battle.net account dashboard for more information. 
+Hash: 42AFDC65, Key: ERROR_316756, Value: The party is currently locked and cannot be joined.
+Hash: 82820530, Key: Error_Hero_Profile_300016, Value: The profile is not currently available. 
+Hash: 42AFDBBF, Key: ERROR_316705, Value: Cannot join party, all members must be online before you join.
+Hash: 4999D572, Key: ERROR_600030, Value: You cannot hold that much currency
+Hash: 4999D573, Key: ERROR_600031, Value: Action unavailable.
+Hash: 8F6CE0B0, Key: ERROR_52, Value: Your account has been banned. Please review your Battle.net account dashboard for more information. 

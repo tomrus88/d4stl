@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Frenzied Dead
+Hash: 003892BF, Key: Desc, Value: Each time one of your Minions damages an enemy, they gain {c_random}[Affix_Value_1|%+|]{/c} Attack Speed for {c_number}[Affix."Static Value 0"]{/c} seconds, up to {c_random}[Affix_Value_1*Affix."Static Value 1"|%+|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: Each time your Minions damage an enemy, they gain {c_random}[Affix_Value_1|%+|]{/c} Attack Speed.

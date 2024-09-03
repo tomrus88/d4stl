@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mariner's Refuge
+Hash: 003892BF, Key: Desc, Value: The Drowned lure shipwrecked sailors to the depths.

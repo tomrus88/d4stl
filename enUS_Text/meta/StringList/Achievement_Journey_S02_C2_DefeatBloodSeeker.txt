@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vampire No More
+Hash: 3A4912CF, Key: DescShort, Value: Defeat a Blood Seeker, available after completing or skipping the Campaign

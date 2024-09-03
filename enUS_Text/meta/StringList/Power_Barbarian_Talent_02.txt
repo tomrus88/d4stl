@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Concussion
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Skills using Bludgeoning weapons have up to a {c_number}{SF_0}%{/c} chance to Stun enemies for {c_number}{buffduration:STUN}{/c} seconds, or up to a {c_number}{SF_1}%{/c} chance when using a Two-Handed Bludgeoning weapon.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} One-Handed Chance {icon:arrow, 1.2} {c_number}{SF_0}%{/c}
+{icon:bullet, 1.2} Two-Handed Chance {icon:arrow, 1.2} {c_number}{SF_1}%{/c}

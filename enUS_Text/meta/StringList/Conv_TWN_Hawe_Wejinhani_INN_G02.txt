@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Aren't the swamps dangerous?"
+Hash: 8EE1D4F2, Key: Line1.11EA21, Value: There are dangers in the swamps, yes, but also opportunities. So many methods of healing not found anywhere else in Sanctuary.
+Hash: DF1800BF, Key: VoiceDir1.11EA21, Value: Reverent and admiring

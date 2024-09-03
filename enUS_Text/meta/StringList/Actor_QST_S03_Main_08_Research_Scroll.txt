@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Well-Penned Confession
+Hash: F2CA04D8, Key: NoticeSignText, Value: "I've found it increasingly difficult to concentrate here. Zoltun demands every ounce of my attention, with his long-winded lectures and trite anecdotes. And yet, by all that is good, I cannot bring myself to ignore him...nor do I want to."

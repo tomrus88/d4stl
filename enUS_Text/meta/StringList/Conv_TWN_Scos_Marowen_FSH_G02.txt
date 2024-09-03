@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EB2027E, Key: Line1.100949, Value: This is where I found the most beautiful seashell, and asked your mother to marry me.
+Hash: DEE82E4B, Key: VoiceDir1.100949, Value:  lovingly

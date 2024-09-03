@@ -1,0 +1,14 @@
+Hash: 9975B834, Key: Season_welcome, Value: Welcome to {s1}
+Hash: 74217A1A, Key: Season1_name, Value: The Malignant Scourge
+Hash: F7FD83A5, Key: Season1_Intro, Value: The Cathedral of Light, once the largest human power in the East, is in disarray. Chaos reigns. Mysterious Tunnels have opened to the surface of Sanctuary. Malignant monsters spill forth, their minds seemingly lost and killing at random. 
+{c_highlight}You must stop the Malignant Scourge, no matter the cost!{/c} 
+Hash: A38AB210, Key: Season_KeyFeatures, Value: {c_highlight}Key features in Season {s1} include:{/c} 
+Hash: EEC2B09F, Key: Season1_keyfeature1, Value: {icon:bullet, 1}  Partner with a former priest to discover the source of the Malignant Scourge in an all new Quest
+Hash: EEC2B0A0, Key: Season1_keyfeature2, Value: {icon:bullet, 1}  Delve into Malignant Tunnels across Sanctuary to defeat the source of the Malignant monsters
+Hash: EEC2B0A1, Key: Season1_keyfeature3, Value: {icon:bullet, 1}  Wield the power of Malignant. Malignant monsters award legendary power-like effects that can be inserted into Rings and Amulets, with over 35 new powers to experiment with
+Hash: EEC2B0A2, Key: Season1_keyfeature4, Value: {icon:bullet, 1}  The Season Journey returns! Put your skills to the test against all new objectives, with numerous rewards including 8 new Aspects of Power
+Hash: FB3869B9, Key: Additional, Value: {c_highlight}Additionally:{/c} 
+Hash: 00BCDB8F, Key: Season1_additionalfeature1, Value: {icon:bullet, 1}  Pursue new gameplay options, including 1 new Paragon Board for each Class and 6 new Unique Items, that provide even more opportunities to customize your build
+Hash: 00BCDB90, Key: Season1_additionalfeature2, Value: {icon:bullet, 1}  Chase all new Looks, including seasonal mount, armor, and weapon cosmetics in this Season's Battle Pass
+Hash: 00BCDB91, Key: Season1_additionalfeature3, Value: {icon:bullet, 1}  Acquire even more new Looks in the Shop to better enhance your roleplaying experience
+Hash: 1E3731C7, Key: Season2_Welcome_Title, Value: Welcome to the Season of Blood

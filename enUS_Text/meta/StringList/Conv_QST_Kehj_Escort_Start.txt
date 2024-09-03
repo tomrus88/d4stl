@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “We seek the Hell gate too.”
+Hash: F409EBD9, Key: Line3.710B6, Value: Unnecessary. The Father will handle Lilith.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: But your army, your people—they need help.
+Hash: C2053272, Key: Line9.7FA05, Value: Wha--!
+Hash: 310E989F, Key: VoiceDir9.7FA05, Value: he is interrupted
+Hash: 091EA8DD, Key: Line13.6D03F, Value: As do we. We’ll move faster together.
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: cutting in to interrupt Donan
+Hash: 6F205668, Key: Line11.710B6, Value: Lorath, the voice of reason. A rare pleasure. Very well. You may accompany us to the gate.
+Hash: BF568235, Key: VoiceDir11.710B6, Value: pleasantly surprised
+Hash: 8DFE655B, Key: Line5.710B6, Value: Hark, Knights! The day of prophecy is upon us! The Father will slay Lilith in Hell and lift his faithful up to Heaven! To the Palace!
+Hash: FD07CB88, Key: VoiceDir5.710B6, Value: turning to address her knights

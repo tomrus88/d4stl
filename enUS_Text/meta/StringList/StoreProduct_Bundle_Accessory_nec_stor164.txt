@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Unholy Prosecution
+Hash: A646FFA4, Key: Description, Value: "And when I was granted infernal passage, I heard the voices of those sent before me to be punished." - Constantina
+Hash: 083EE0CE, Key: Quote, Value: The dark shepherd's reward.
+Hash: 13A53A8B, Key: Series, Value: "Hellgate Inquisitor" Accessories

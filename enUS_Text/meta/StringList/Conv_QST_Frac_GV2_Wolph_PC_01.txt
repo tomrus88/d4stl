@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are you?"
+Hash: 2B0730F2, Key: Line7.ACEF6, Value: An admirer, of sorts. I saved you in the mountains. You'd lost your horse and crawled into that cave--would've frozen to death if not for me.
+Hash: 608DBF14, Key: Line11.BAE4, Value: Why are you helping me?
+Hash: CF972541, Key: VoiceDir11.BAE4, Value: Suspicious
+Hash: C4FBAA74, Key: Line9.ACEF6, Value: Oh it’s very simple. You want to stop Lilith, and I want you to succeed. But you’ll never do that by following the Horadrim.

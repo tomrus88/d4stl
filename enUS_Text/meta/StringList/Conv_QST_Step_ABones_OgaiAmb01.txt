@@ -1,0 +1,2 @@
+Hash: 8ECE2685, Key: Line1.10BCF2, Value: Too quiet… Speak to me! Tell me your secrets!
+Hash: DF045252, Key: VoiceDir1.10BCF2, Value: manic, mumbling to self; rising frustration

@@ -1,0 +1,3 @@
+Hash: 1999888C, Key: TransmogName, Value: Jade Warhammer
+Hash: 003DFCC1, Key: Name, Value: Overkill
+Hash: F5C7BC0A, Key: Flavor, Value: The malformed snake creatures that live in the swamps are not content with simply killing their prey. They seem to take a malicious pleasure from inflicting as much suffering as possible before death.

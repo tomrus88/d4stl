@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This is where we found you."
+Hash: F40DE8F9, Key: Line3.789BF, Value: Yes. I thought I’d been saved, but then...I heard her laughing. Not outside of me...from within me...
+Hash: 8E2D4C0E, Key: Line5.8DD12, Value: Your fate was sealed from the first sigil I inked into your flesh.
+Hash: FD36B23B, Key: VoiceDir5.8DD12, Value: Hard on herself. This is referring to the moment when Player and Lorath rescue Taissa from the altar.

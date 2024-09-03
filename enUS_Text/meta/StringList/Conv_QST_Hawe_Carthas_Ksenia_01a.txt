@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Let us purge this place of Mephisto's presence."
+Hash: F0C24243, Key: Line9.103673, Value: Ha! May we scour away any trace of Mephisto's corruption!
+Hash: 40F86E10, Key: VoiceDir9.103673, Value: Zealous. Boisterous.
+Hash: 451B016C, Key: Line11.103673, Value: These halls were sealed long ago to contain the darkness. Now I shall cast them open to bring in the Light.

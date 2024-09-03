@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Invoke the Malignant
+Hash: D53BFF05, Key: Phase0Description, Value: Use an Invoker on an outgrowth
+Hash: 1EADAE68, Key: Callback2Header, Value: Use an Invoker on an outgrowth
+Hash: 538236DE, Key: Callback17Header, Value: Defeat the Malignant
+Hash: 24EC6278, Key: Callback20Header, Value: Defeat the Malignant

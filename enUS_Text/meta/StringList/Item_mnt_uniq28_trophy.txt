@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Maiden's Mantle
+Hash: A646FFA4, Key: Description, Value: A macabre reminder of how you ended the Blood Maiden's reign of terror.

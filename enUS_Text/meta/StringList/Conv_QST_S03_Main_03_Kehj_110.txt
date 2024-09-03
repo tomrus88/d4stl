@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Zoltun Kulle wrote this. He is long gone."
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: “Dearest friend...” Ha!
+Hash: F6CD1FC0, Key: Line15.18AEA4, Value: We had quite the row last I remember... but to amount our collaboration to friendship? It’s just like him.
+Hash: CF50C982, Key: Line17.18AEA4, Value: He writes as though he destroyed the Loom on his way out. Yet I can feel it humming under our feet.

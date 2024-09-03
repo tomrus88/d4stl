@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Medicine
+Hash: 5D27EBD7, Key: Line1.AA8C3, Value: There...hopefully she can recover.
+Hash: 2B05585D, Key: Line7.AA8C3, Value: I'd like to prevail on you for one more thing, if I can.
+Hash: C4F9D1DF, Key: Line9.AA8C3, Value: Bearfa's injuries were made with a blade. Help me search where I found her, and maybe we can find the perpetrators and exact justice.

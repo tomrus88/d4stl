@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stolen Idol
+Hash: F5C7BC0A, Key: Flavor, Value: A strange relic with unknown purpose. A small face is carved into a shard of bone, placed atop a gnarled root.

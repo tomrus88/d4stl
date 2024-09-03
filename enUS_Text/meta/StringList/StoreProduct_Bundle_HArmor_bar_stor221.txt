@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Gladiator-King
+Hash: A646FFA4, Key: Description, Value: Even after his escape, Varian was Lo'Gosh, and Lo'Gosh was Varian. When his kingdom needed it, the wolf would be waiting.
+Hash: 083EE0CE, Key: Quote, Value: For the Alliance.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

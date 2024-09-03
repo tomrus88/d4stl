@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who were you before?"
+Hash: 8F2439A7, Key: Line1.169BE9, Value: (repeated and indiscernible mutterings)

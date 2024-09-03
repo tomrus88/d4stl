@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Your father asked me to check on you."
+Hash: 5D6B5E62, Key: Line1.F78AE, Value: Of course he did. He never trusted us to do anything on our own. (sighs)
+Hash: 72764273, Key: Line11.F78AE, Value: My brother Khada is out selling our goods to a camp north of here, if you must check on him.
+Hash: C2AC6E40, Key: VoiceDir11.F78AE, Value: emphasis on "must". said with an eye-roll. 

@@ -1,0 +1,6 @@
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: Why is Lilith so eager to find Astaroth?
+Hash: DD961907, Key: VoiceDir17.BAE4, Value: Dire--they're in a tense situation right now
+Hash: F427C5EC, Key: Line3.7FA05, Value: I've been asking myself that same question, but I’m as much in the dark about it as you are, I’m afraid.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Urgent. Spoken as they move quickly through a dark, dangerous crypt.
+Hash: A327237F, Key: Line15.7FA05, Value: They share a connection, though. And a strong one at that. Astaroth is a guardian of Lilith’s father, Mephisto. The Lord of Hatred.
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: Urgent. Spoken as they move quickly through a dark, dangerous crypt.

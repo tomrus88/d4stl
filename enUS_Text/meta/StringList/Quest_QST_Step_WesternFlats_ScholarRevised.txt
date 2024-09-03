@@ -1,0 +1,24 @@
+Hash: 003DFCC1, Key: Name, Value: Firsthand Knowledge
+Hash: 0871A46B, Key: Toast, Value: A Scholar tracking the history of the Zakarum Inquisiton hopes to aid the Cathedral of Light today.
+Hash: F4A9EC5A, Key: Phase14Description, Value: The Scholar and I have traced the steps of a non-believer named Batzorig, sought by the Hand of Zakarum, to a cellar where he attempted to hide from persecution. Now it is time to see what happened inside.
+Hash: 1F9943DA, Key: Callback13Header, Value: Enter the Family Cellar
+Hash: 1315987A, Key: Phase23Description, Value: I met a Scholar named Nurbolat on the road, who is tracing the steps of the Hand of Zakarum and their search for non-believers. He hopes to learn what happened and bring this information to the Cathedral of Light today.
+
+His studies have most recently led him to a former marketplace nearby.
+Hash: BEE0DBFA, Key: Callback22Header, Value: Bring Nurbolat to the marketplace
+Hash: DF0BA3DF, Key: Callback36Header, Value: Speak with Nurbolat
+Hash: 1EF99359, Key: Phase40Description, Value: The Scholar and I saw the ghost of a Hand of Zakarum, searching for a non-believer named Batzorig. A merchant mentioned Batzorig might be found with a neighbor up north.
+
+We should follow this latest lead.
+Hash: C5FA5A22, Key: Callback39Header, Value: Bring Nurbolat to Batzorig’s Neighbor’s house
+Hash: 9F4BFA3B, Key: Phase51Description, Value: The Scholar and I saw the ghost of a Hand of Zakarum, searching for a non-believer named Batzorig. We traced his steps to a neighbor who was sending him to hide in a nearby family cellar.
+
+Upon questioning the neighbor, he reenacted attacking the visiting Hand of Zakarum. We will have to defend ourselves.
+Hash: E9B1E11B, Key: Callback50Header, Value: Defeat the Hostile Neighbors
+Hash: 3226125E, Key: Phase54Description, Value: The Scholar, Nurbolat, and I had to defend ourselves against the ghosts of Batzorig’s hostile neighbors, as they reenacted protecting him from the Hand of Zakarum. I should check in with Nurbolat to see if he is okay.
+Hash: D0A0975E, Key: Callback53Header, Value: Speak with Nurbolat
+Hash: EEAB03BC, Key: Phase61Description, Value: The Scholar and I saw the ghost of a Hand of Zakarum, searching for a non-believer named Batzorig. We traced his steps to a neighbor who was sending him to hide in a nearby family cellar.
+
+I should question the neighbor about the situation.
+Hash: D5F3B5FC, Key: Callback60Header, Value: Speak with Batzorig's Neighbor
+Hash: F0CB5F43, Key: Callback67Header, Value: Listen to Batzorig and his Neighbor

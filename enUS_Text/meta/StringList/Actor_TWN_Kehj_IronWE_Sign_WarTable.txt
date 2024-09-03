@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: War Plans
+Hash: F2CA04D8, Key: NoticeSignText, Value: The plans are brilliant yet desperate. The armies of despair fill the small map of Kehjistan.

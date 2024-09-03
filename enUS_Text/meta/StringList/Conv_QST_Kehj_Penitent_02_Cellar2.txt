@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why do you harass this woman?"
+Hash: 5A28BD3C, Key: Line1.836C1, Value: What? Who are you? You're not one of the regulars.
+Hash: C9322369, Key: VoiceDir1.836C1, Value: Rudely interrupted, sussing out the player
+Hash: 8E11B040, Key: Line5.836C1, Value: Wait, I recognize you. You're that heretic from Caldeum! I will enjoy watching you burn.
+Hash: FD1B166D, Key: VoiceDir5.836C1, Value: savouring the last line as a satisfied grin spreads across her face
+Hash: 18768326, Key: Line7.136591, Value: Now!
+Hash: 68ACAEF3, Key: VoiceDir7.136591, Value: Edgar has been hiding in the back of the room, now he springs into action.

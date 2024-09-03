@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: High Summoner Morata
+Hash: CC38ADCB, Key: FlavorName, Value: Chosen of Elias

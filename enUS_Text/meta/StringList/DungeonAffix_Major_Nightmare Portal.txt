@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Nightmare Portal
+Hash: EEB7912D, Key: AffixDesc, Value: While in combat, Nightmare Portals open randomly near players, pouring out dangerous monsters.

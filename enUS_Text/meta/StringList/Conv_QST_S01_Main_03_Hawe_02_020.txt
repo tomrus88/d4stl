@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are these the ruins?"
+Hash: 8F104F47, Key: Line1.157838, Value: I believe so. There should be... uh...
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Distracted while he looks around for something specific.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Summons of the Deathless
+Hash: 5296A16C, Key: Callback6Header, Value: Meet with Erys in Ked Bardu
+Hash: EC8B1AEE, Key: Callback8Header, Value: Speak with Erys 
+Hash: D53BFF05, Key: Phase0Description, Value: I confronted the voice I've been hearing in my head. It's an Ancient being intent on some sort of ascension ritual. I need to tell the Hunter what I found.
+Hash: 8DCA476E, Key: Phase9Description, Value: I confronted the voice I've been hearing in my head. It's an Ancient being intent on some sort of ascension ritual. I need to tell the Hunter what I found.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cathedral Cross
+Hash: CC3C0A8F, Key: FlavorText, Value: "The Father banishes the darkness."
+Hash: F2CA04D8, Key: NoticeSignText, Value: The final wardstone lies in pieces, like the rest.

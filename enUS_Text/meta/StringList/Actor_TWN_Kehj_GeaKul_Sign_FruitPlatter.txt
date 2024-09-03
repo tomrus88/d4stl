@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gaudy Feast
+Hash: F2CA04D8, Key: NoticeSignText, Value: Flies feast on a pile of luxurious fruits and cheeses casually forgotten by the wealthy.

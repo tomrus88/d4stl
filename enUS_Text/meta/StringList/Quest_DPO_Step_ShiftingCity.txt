@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Once a haven, now a grave.
+Hash: 1EADAE68, Key: Callback2Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat the {MONSTER}
+Hash: 9012F763, Key: Callback76Header, Value: Return the Ancients Statue to the Pedestal: {LEFT}
+Hash: AE775FBE, Key: Callback80Header, Value: Travel to the {LEVELAREA}
+Hash: 2F5A8F83, Key: Callback85Header, Value: Deposit Animus into the {GIZMO}

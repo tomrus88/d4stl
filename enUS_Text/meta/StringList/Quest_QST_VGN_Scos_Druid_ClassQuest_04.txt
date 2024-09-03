@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Druid: Spirits of the Lost Grove
+Hash: B98DBD5C, Key: Callback15Header, Value: Approach the Grove Center
+Hash: ED76B060, Key: Callback19Header, Value: Slay the Goatmen
+Hash: 71E69F39, Key: Callback21Header, Value: Commune with the Freed Spirit Lord
+Hash: E45EC27D, Key: Callback43Header, Value: Free the Spirit Lord

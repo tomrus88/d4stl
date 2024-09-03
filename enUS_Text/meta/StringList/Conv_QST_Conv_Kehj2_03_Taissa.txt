@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Your hunt for Elias, is it personal?” 
+Hash: F40DE8F9, Key: Line3.789BF, Value: Hm. Not at first. But then he almost killed me. Marked my skin, put a demon in my head. I will take pleasure from his death.
+Hash: 8E02627B, Key: Line5.789BF, Value: The hunt will soon be over. You’ve angered him. He will come to you. And I will be there when that happens. If fate allows, let it be my hand that ends him.

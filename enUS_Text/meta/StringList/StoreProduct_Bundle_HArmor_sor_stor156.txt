@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Glory of the Yshari
+Hash: A646FFA4, Key: Description, Value: "The Yshari Sanctum... in my time, it was marvelous. I could sit in the grand library with my spice tea, reading masterworks of elemental theory, astral prophecy, transmutation -- millennia of learnings, gathered under one roof! It's a shame the Yshari couldn't gather themselves..." -Ayuzhan of Caldeum
+Hash: 083EE0CE, Key: Quote, Value: Eternal mysteries, illuminated.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sixth Journey Cache
+Hash: A646FFA4, Key: Description, Value: Contains a number of late game resources, Pact materials, Potent Blood, and two {c_important}Scrolls of Amnesia{/c}, which refund all allocated Skill Points and Paragon Points.

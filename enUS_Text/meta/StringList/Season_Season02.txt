@@ -1,0 +1,21 @@
+Hash: 4C8A97D2, Key: DungeonTitle, Value: Seasonal Quest
+Hash: EA23DD2A, Key: SeasonName, Value: The Season of Blood
+Hash: 5DD12FED, Key: SeasonDescription, Value: A vampire army terrorizes Sanctuary. You must claim their power and put an end to their rampage. This content unlocks after {c_highlight}Campaign completion{/c}.
+Hash: 1CBFC5D3, Key: SeasonBeginText, Value: Begins {s1}
+Hash: BD77CD05, Key: SeasonEndText, Value: Ends {s1}
+Hash: 21D081BA, Key: SeasonInfoText, Value: Vampires prowl Sanctuary gathering blood for their shadowy master. You must unmask and defeat this new threat.
+
+{c_highlight}{icon:bullet, 1}All new Questline & Boss:{/c} Stop a blood-fueled ritual before it's too late.
+
+{c_highlight}{icon:bullet, 1}New Vampiric Powers:{/c} Unlock vampiric bonuses and harness them to increase your character's power.
+
+{c_highlight}{icon:bullet, 1}5 Replayable Endgame Bosses:{/c} Battle high-level bosses for loot in World Tiers 3 and 4.
+
+{c_highlight}{icon:bullet, 1}All new Season Journey:{/c} Conquer 7 Chapters of challenges.
+
+{c_highlight}{icon:bullet, 1}7 new Legendary Aspects & 12 new Unique Items:{/c} Explore new ways to build and play each Class.
+
+{c_highlight}{icon:bullet, 1}2 new Paragon Glyphs for each Class:{/c} Check out new ways to grow your character's power.
+
+{c_highlight}{icon:bullet, 1}All new Cosmetics:{/c} Acquire seasonally themed looks in the Battle Pass and other new looks in the Shop.
+Hash: CDAD1E98, Key: SeasonalTabTooltip, Value: Vampiric Powers

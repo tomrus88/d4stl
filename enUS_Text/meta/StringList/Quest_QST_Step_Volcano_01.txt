@@ -1,0 +1,33 @@
+Hash: 003DFCC1, Key: Name, Value: Through The Dark Glass
+Hash: 0871A46B, Key: Toast, Value: Meet with Lorath to discuss finding the Triune Cult on Mt. Civo.
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Find a way into the Temple of the Primes
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must meet with Lorath at the base of Mt. Civo. Together we will find the Temple of the Triune Cult and Elias with them.
+Hash: 150401C6, Key: Phase89Description, Value: I must meet with Lorath at the base of Mt. Civo. Together we will find the temple of the Triune Cult and Elias with them. 
+Hash: AF0385CE, Key: Phase89OutsideSubzoneHeader, Value: Meet up with Lorath to discuss finding the Triune cult on Mt. Civo. 
+Hash: 164945C6, Key: Callback88Header, Value: Speak with Lorath at Mt. Civo
+Hash: 008BE8C7, Key: Phase110Description, Value: I must visit the three altars and gain their dark blessing to enter the Temple of the Primes.
+Hash: 0F69DDEF, Key: Phase110OutsideSubzoneHeader, Value: Find Baal's shrine on Mt. Civo
+Hash: 24E63DCF, Key: Callback126Header, Value: Bring Lorath to Baal's shrine
+Hash: 54F2A1E0, Key: Phase12OutsideSubzoneHeader, Value: Gain the Blessing of Destruction
+Hash: 9044E2EB, Key: Callback131Header, Value: Gain the Blessing of Destruction
+Hash: 08793AB1, Key: Phase129Description, Value: I have completed the first shrine.  I must gain the blessing of the other two before I can enter the Temple of the Primes.
+Hash: 5B8AF719, Key: Phase129OutsideSubzoneHeader, Value: Bring Lorath to Diablo's shrine on Mt. Civo
+Hash: BEDAB751, Key: Callback128Header, Value: Bring Lorath to Diablo's shrine
+Hash: 8A0357B6, Key: Phase135OutsideSubzoneHeader, Value: Gain the Blessing of Terror 
+Hash: 5E224F71, Key: Callback137Header, Value: Gain the Blessing of Terror
+Hash: EEA9054A, Key: Phase140Description, Value: I have completed two of the shrines.  Only one remains before the way will be open to us.
+Hash: 676EBDD2, Key: Phase140OutsideSubzoneHeader, Value: Find Mephisto's shrine on Mt. Civo
+Hash: C980F48D, Key: Callback142Header, Value: Bring Lorath to Mephisto's shrine
+Hash: 81831D6D, Key: Phase143Description, Value: I have visited the three shrines and gained the dark blessings Lorath spoke of.   I should meet with him at the caldera of the volcano.
+Hash: 5A95AD55, Key: Phase143OutsideSubzoneHeader, Value: Leave the Veneration of Hatred
+Hash: FD69E791, Key: Callback146Header, Value: Leave the Vision of Sescheron
+Hash: B2767ACE, Key: Phase144Description, Value: The last shrine stands before me.  I must face the challenge within and receive the final blessing.
+Hash: ABA2A7D6, Key: Phase144OutsideSubzoneHeader, Value: Gain the Blessing of Hatred at Mephisto's shrine
+Hash: 975E6113, Key: Callback148Header, Value: Gain the Blessing of Hatred
+Hash: 2B2802F4, Key: Phase151OutsideSubzoneHeader, Value: Speak with Lorath at the entrance to the Temple of the Primes
+Hash: 02BD062F, Key: Callback153Header, Value: Speak with Lorath
+Hash: 36A5F933, Key: Callback157Header, Value: Enter the fiery portal
+Hash: E2C50A6B, Key: Phase123Description, Value: I must visit the three Altars and gain their dark blessing to enter the Temple of the Primes.
+Hash: 753D1813, Key: Phase123OutsideSubzoneHeader, Value: Speak with Lorath on Mt. Civo
+Hash: D09A72B5, Key: Callback159Header, Value: Speak to Lorath
+Hash: C068E779, Key: Phase156OutsideSubzoneHeader, Value: Gain the Blessing of Hatred at Mephisto's shrine

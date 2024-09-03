@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: You okay?
+Hash: 8EB34783, Key: Line1.101CAF, Value: All clear? Then I'm coming down!
+Hash: DEE97350, Key: VoiceDir1.101CAF, Value: With the surrounding enemies cleared, he can now descend to safety.

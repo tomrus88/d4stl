@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found a ring. Is this one of your artifacts?"
+Hash: F8B468AE, Key: Line23.EECAE, Value: Well, they're not mine so much as the Overseers, per se, but... oh, never mind. Give it here.
+Hash: 48EA947B, Key: VoiceDir23.EECAE, Value: Technically correcting the player but then hurrying along, since it's of little import. He's excited to see the item the player's just brought him.
+Hash: 92A8E230, Key: Line25.EECAE, Value: Ah, yes! What a lucky find! This ring has a dark history of greed. Lustrous upon first glance, but ultimately worthless to sell...
+Hash: E2DF0DFD, Key: VoiceDir25.EECAE, Value: Excited realization as he's presented an item, then continuing as if spinning an epic tale. He's a bit dramatic.
+Hash: 2C9D5BB2, Key: Line27.EECAE, Value: And what's worse, whosoever covets and steals the ring is cursed, marking them for death.
+Hash: 7CD3877F, Key: VoiceDir27.EECAE, Value: Continues recounting the lore of the item he's been presented. A bit dramatic and spooky
+Hash: C691D534, Key: Line29.EECAE, Value: I do hope however it came into your possession, it was given freely! But probably best I hang onto it, just to be safe.
+Hash: 16C80101, Key: VoiceDir29.EECAE, Value: Teasing, a bit gleefully. Then knowingly reassuring

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me of Kyovashad."
+Hash: 5D82E84B, Key: Line1.FB732, Value: Damn cold, isn’t it? But at least we are safe. Beyond these walls, darkness reigns.

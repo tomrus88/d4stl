@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Cache of Distilled Hatred
+Hash: A646FFA4, Key: Description, Value: [PH] Provides metaprogression power
+Hash: F5C7BC0A, Key: Flavor, Value: [PH] Flavor text...

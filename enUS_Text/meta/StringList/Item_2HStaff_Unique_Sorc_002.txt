@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Sunflare Staff
+Hash: 003DFCC1, Key: Name, Value: Staff of Endless Rage
+Hash: F5C7BC0A, Key: Flavor, Value: "Leaving even blackened bones for your kin to mourn is too good an end for you." 
+- Josiah

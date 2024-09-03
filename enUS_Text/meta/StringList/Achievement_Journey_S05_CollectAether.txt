@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Corruption Consumed
+Hash: 3A4912CF, Key: DescShort, Value: Collect Burning Aether from Hellbreaches and Infernal Hordes in {icon:Icon_WorldTier_4, 2} Torment

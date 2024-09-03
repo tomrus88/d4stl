@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where is Elias?"
+Hash: D6F63990, Key: Line19.789BF, Value: I lost him in the tunnels, but the swamp has him now.
+Hash: 272C655D, Key: VoiceDir19.789BF, Value: Calm. Dark. She wants Elias to be afraid.
+Hash: F55AA1EB, Key: Line23.789BF, Value: Horadrim. We were about to finish without you.
+Hash: 4590CDB8, Key: VoiceDir23.789BF, Value: Nodding at Lorath. Goading.
+Hash: 5B6C043C, Key: Line21.6D03F, Value: He's still alive? Where is he?
+Hash: ABA23009, Key: VoiceDir21.6D03F, Value: Out of breath (he ran all the way here.) Determined to find Elias.
+Hash: 8E02627B, Key: Line5.789BF, Value: At the end of his bloody trail. This way.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: Pointing at the trail of blood. Confident. Eager for revenge.

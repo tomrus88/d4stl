@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Heart of Corruption
+Hash: 3A4912CF, Key: DescShort, Value: Collect a Malignant Heart, available after completing or skipping the Campaign

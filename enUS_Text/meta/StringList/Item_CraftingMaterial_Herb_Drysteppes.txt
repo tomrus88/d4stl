@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Reddamine
+Hash: A646FFA4, Key: Description, Value: A fungus used in the crafting of potions, elixirs & incense. Found in Dry Steppes.
+Hash: F5C7BC0A, Key: Flavor, Value: A curiosity among fungi, coveted by alchemists for its stimulating and energizing properties.

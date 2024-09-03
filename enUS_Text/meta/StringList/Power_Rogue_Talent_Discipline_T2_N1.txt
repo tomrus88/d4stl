@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: name, Value: Weapon Mastery
+Hash: 003892BF, Key: desc, Value: Gain a bonus when attacking based on weapon type:
+{icon:bullet,1.2} {c_label}Daggers:{/c} {c_number}[{SF_1}*100|%x|]{/c} increased damage to {c_important}{u}Healthy{/u}{/c} and {c_important}{u}Injured{/u}{/c} enemies.
+{icon:bullet,1.2} {c_label}Swords:{/c} {c_number}[{SF_3}*100|%x|]{/c} increased damage.
+{icon:bullet,1.2} {c_label}Bows:{/c} {c_number}[{SF_5}*100|%x|]{/c} increased damage to {c_important}{u}Vulnerable{/u}{/c} enemies.
+{icon:bullet,1.2} {c_label}Crossbows:{/c} {c_number}[{SF_7}*100|%x|]{/c} increased Critical Strike Damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Daggers Bonus {icon:arrow,1.2} {c_number}[{SF_1}*100|%x|]{/c}
+{icon:bullet,1.2} Swords Bonus {icon:arrow,1.2} {c_number}[{SF_3}*100|%x|]{/c}
+{icon:bullet,1.2} Bows Bonus {icon:arrow,1.2} {c_number}[{SF_5}*100|%x|]{/c}
+{icon:bullet,1.2} Crossbows Bonus {icon:arrow,1.2} {c_number}[{SF_7}*100|%x|]{/c}

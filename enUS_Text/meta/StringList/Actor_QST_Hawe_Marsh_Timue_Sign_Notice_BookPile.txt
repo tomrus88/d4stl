@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Weatherworn Tomes
+Hash: F2CA04D8, Key: NoticeSignText, Value: A stack of old tomes with faded and fraying spines. The oldest and thickest reads, "The Roots and the Tree: Hawezar’s Beginning and End."

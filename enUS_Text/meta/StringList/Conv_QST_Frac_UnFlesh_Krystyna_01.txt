@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem troubled."
+Hash: 8EB45863, Key: Line1.103AFA, Value: My husband, Feodor, left our home in the middle of the night. I heard him talking to someone, another woman.
+Hash: DEEA8430, Key: VoiceDir1.103AFA, Value: distraught and cold
+Hash: 67380225, Key: Line3.103AFA, Value: I went to confront them, but they fled towards a strange light in the forest.
+Hash: 3FBBABE7, Key: Line5.103AFA, Value: They have been gone all night... I think it's time I went after him, but the forest is dangerous. Would you accompany me?

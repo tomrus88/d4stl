@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kehjistani Tack
+Hash: A646FFA4, Key: Description, Value: A higher saddle and light blanket, ideal for a hot, dusty region.

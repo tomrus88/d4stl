@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Staff of Lam Esen
+Hash: F5C7BC0A, Key: Flavor, Value: "Also known as the Greatstaff of the Old Religion, this powerful relic is one of only a small handful of Skatsimi artifacts that have survived to this day."
+- Barrett's Book of Implements

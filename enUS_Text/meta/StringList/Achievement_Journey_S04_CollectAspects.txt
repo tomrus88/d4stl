@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Touching the Eternal
+Hash: 3A4912CF, Key: DescShort, Value: Unlock Aspects in the Codex of Power, such as through completing {icon:Marker_DungeonEntrance, 2.5} Dungeons

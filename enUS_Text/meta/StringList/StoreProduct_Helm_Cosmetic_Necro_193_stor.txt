@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pearl Coronet
+Hash: 13A53A8B, Key: Series, Value: "Ancient's Pearl"

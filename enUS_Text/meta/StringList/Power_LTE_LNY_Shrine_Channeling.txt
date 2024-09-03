@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Channeling Shrine
+Hash: 2827F416, Key: Buff0_Description, Value: Your Skills cost no Resource and have lower Cooldowns. Increased attack speed and chance to reset cooldowns.

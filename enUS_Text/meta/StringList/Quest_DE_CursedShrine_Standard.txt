@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cursed Shrine
+Hash: 24EC6278, Key: Callback20Header, Value: Slay the remaining enemies
+Hash: 6FE82F7E, Key: Callback62Header, Value: Slay as many enemy waves as you can before time runs out: {DONE}
+Hash: F81CED9C, Key: Callback33Header, Value: Defeat {NEEDED} waves: {DONE_OVER_NEEDED}

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Could the bandits have done this?"
+Hash: 2B18725A, Key: Line7.BC41C, Value: Bandits hate the Iron Wolves, enough to kill us, but they don’t act if they don’t profit.
+Hash: 9A21D887, Key: VoiceDir7.BC41C, Value: Reasoning. Dubious.
+Hash: 7245E9E5, Key: Line11.BC41C, Value: I see no profit in poisoning the only water source in Dahlgur. Only suffering.
+Hash: C27C15B2, Key: VoiceDir11.BC41C, Value: Dubious. Puzzled. Grim.

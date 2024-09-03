@@ -1,0 +1,2 @@
+Hash: 8EE84C2C, Key: Line1.13094D, Value: Where have the Knights gone? After all the promises, they just...left us?
+Hash: DF1E77F9, Key: VoiceDir1.13094D, Value: To Player. Confused. Betrayed.

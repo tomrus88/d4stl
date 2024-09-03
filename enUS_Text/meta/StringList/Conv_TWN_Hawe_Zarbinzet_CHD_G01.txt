@@ -1,0 +1,3 @@
+Hash: 675D18E0, Key: Line3.1264FD, Value: (shaky breath) Hear me, Akarat. She passed to me her sword, her quest. But these burdens...they’re...they're too heavy to bear on my own.
+Hash: B79344AD, Key: VoiceDir3.1264FD, Value: Teary
+Hash: 3FE0C2A2, Key: Line5.1264FD, Value: Help me find her strength. Make me worthy of her name.

@@ -1,0 +1,4 @@
+Hash: 086EAA02, Key: title, Value: Vampiric Powers
+Hash: 3D08DF31, Key: 0_instruction, Value: You can now obtain {c_highlight}Vampiric Powers{/c}. Your new {c_highlight}Power{/c} is in {c_highlight}the Seasonal tab of your inventory{/c}.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Activate your {c_highlight}Powers{/c} with {c_highlight}Pacts{/c} from {c_highlight}Pact Armor{/c}. {c_highlight}Vampiric Powers{/c} all draw from the total {c_highlight}Pacts{/c} across your equipped armor.   
+Hash: DBC6F233, Key: 2_instruction, Value: Spend {c_highlight}Potent Blood{/c} for the option to modify 1 of 3 randomly chosen powers. Locked Powers can be unlocked and unlocked Powers can be upgraded.

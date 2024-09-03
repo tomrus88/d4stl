@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Alpha
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Wolf{/c} Companions are now {c_important}Werewolf{/c} Companions. {c_important}Werewolf{/c} Companions deal {c_random}[Affix_Value_1|%x|]{/c} additional damage and can spread {c_important}Rabies{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: Your {c_important}Wolf{/c} Companions are now {c_important}Werewolf{/c} Companions. {c_important}Werewolf{/c} Companions deal {c_random}[Affix_Value_1|%x|]{/c} more damage and spread {c_important}Rabies{/c}.

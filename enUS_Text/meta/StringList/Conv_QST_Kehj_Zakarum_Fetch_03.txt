@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hidden
+Hash: 5A4309C2, Key: Line1.8C673, Value: I’m sorry, I can’t eat this meat. Looking at it makes me… (gags)
+Hash: C94C6FEF, Key: VoiceDir1.8C673, Value: Anxious, on the verge of panic. 
+Hash: F72F81EC, Key: Line3.BC3FE, Value: It’s ok, Khal. I understand. I’ll find you something else to eat.
+Hash: 6638E819, Key: VoiceDir3.BC3FE, Value: Comforting, Patient, Motherly 

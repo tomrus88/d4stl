@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: C4FA628F, Key: Line9.AB9BB, Value: What happened? What HAPPENED is I need a potion! I’m bleeding out on your boots is what happened, ahh!
+Hash: F71CF609, Key: Line3.AB9BB, Value: One of the damn bears…we were poaching for furs, one of those damned beasts took a chunk out of me! (grunting)
+Hash: 66265C36, Key: VoiceDir3.AB9BB, Value: (groans)
+Hash: 72336098, Key: Line11.AB9BB, Value: Damn you! Spare a potion!
+Hash: 5D27EBD7, Key: Line1.AA8C3, Value: YOU did this? You injured my friend trying to POACH her?

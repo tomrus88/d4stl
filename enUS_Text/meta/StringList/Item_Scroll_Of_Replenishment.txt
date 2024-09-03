@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scroll of Replenishment
+Hash: A646FFA4, Key: Description, Value: Restores all Healing Potion Charges.

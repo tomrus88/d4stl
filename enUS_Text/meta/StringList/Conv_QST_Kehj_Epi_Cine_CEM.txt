@@ -1,0 +1,16 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Promises
+Hash: D4479923, Key: Line1.BAE4, Value: Iosef...he saved my life in Nevesk. They were not our enemies.
+Hash: F413C4CC, Key: Line3.6D03F, Value: (pained grunting)
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: grunting as he stands
+Hash: 8E083E4E, Key: Line5.6D03F, Value: They were fools...I don’t have the time for it.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: (grunts) I am going to Scosglen...Donan deserves to be buried with his son.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: straining, mild pain
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: I thought the dead deserve nothing while the living are in danger.
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: (scoff) Wise words...
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: humorless, self-loathing
+Hash: 091EA8DD, Key: Line13.6D03F, Value: But I...
+Hash: A313225F, Key: Line15.6D03F, Value: I have a promise to keep.
+Hash: 3D079BE1, Key: Line17.6D03F, Value: (sigh) That’s why you must ride north, ahead of me. If the Cathedral doesn’t have her yet, Neyrelle might head for the Vault.
+Hash: 5B6C043C, Key: Line21.6D03F, Value: (grunts)
+Hash: ABA23009, Key: VoiceDir21.6D03F, Value: climbing up on horse exertion
+Hash: D6FC1563, Key: Line19.6D03F, Value: Find her. Once you’re together, meet me at Donan’s Estate.

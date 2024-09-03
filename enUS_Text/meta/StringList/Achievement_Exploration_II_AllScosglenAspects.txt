@@ -1,0 +1,27 @@
+Hash: 003DFCC1, Key: Name, Value: Scosglen Delver
+Hash: 003892BF, Key: Desc, Value: Collect all Legendary Aspects in Scosglen by completing Dungeons or Salvaging Legendaries.
+Hash: 3DA4D54E, Key: Crit_235379, Value: Aspect of Reanimation
+Hash: 3DA4D566, Key: Crit_235380, Value: Ghostwalker Aspect
+Hash: 3DA4D567, Key: Crit_235381, Value: Aspect of the Relentless Armsmaster
+Hash: 3DA4D568, Key: Crit_235382, Value: Aspect of Uncanny Treachery
+Hash: 3DA4D569, Key: Crit_235383, Value: Aspect of Efficiency
+Hash: 3DA4D56A, Key: Crit_235384, Value: Aspect of Quicksand
+Hash: 3DA4D56B, Key: Crit_235385, Value: Aspect of Empowering Reaper
+Hash: 3DA4D56C, Key: Crit_235386, Value: Aspect of the Dire Whirlwind
+Hash: 3DA4D56D, Key: Crit_235387, Value: Aspect of Swelling Curse
+Hash: 3DA4D56E, Key: Crit_235388, Value: Aspect of Arrow Storms
+Hash: 3DA4D56F, Key: Crit_235389, Value: Bladedancer's Aspect
+Hash: 3DA4D587, Key: Crit_235390, Value: Cheat's Aspect
+Hash: 3DA4D588, Key: Crit_235391, Value: Charged Aspect
+Hash: 3DA4D589, Key: Crit_235392, Value: Overcharged Aspect
+Hash: 3DA4D58A, Key: Crit_235393, Value: Edgemaster's Aspect
+Hash: 3DA4D58B, Key: Crit_235394, Value: Death Wish Aspect
+Hash: 3DA4D58C, Key: Crit_235395, Value: Aspect of Inner Calm
+Hash: 3DA4D58D, Key: Crit_235396, Value: Snowveiled Aspect
+Hash: 3DA4D58E, Key: Crit_235397, Value: Crashstone Aspect
+Hash: 3DA4D58F, Key: Crit_235398, Value: Aspect of Ancestral Force
+Hash: 3DA4D590, Key: Crit_235399, Value: Shadowslicer Aspect
+Hash: 3DA4D89F, Key: Crit_235400, Value: Aspect of the Expectant
+Hash: 3DA4D8A0, Key: Crit_235401, Value: Requiem Aspect
+Hash: 3DA4D8A1, Key: Crit_235402, Value: Ballistic Aspect
+Hash: 3DA4D54D, Key: Crit_235378, Value: Static Cling Aspect

@@ -1,0 +1,6 @@
+Hash: 410E018D, Key: Line4.6D03F, Value: Bloody hell, I see the serpent now.
+Hash: B01767BA, Key: VoiceDir4.6D03F, Value: Groggy, under the effects of incense. Probably a slower read--not all there in the head. But startled now that he sees a GIANT serpent in the bog.
+Hash: 5619C705, Key: Line14.6DE47, Value: What do the scales show you?
+Hash: A64FF2D2, Key: VoiceDir14.6DE47, Value: Dreamy, under the effects of incense. Probably a slower read--not all there in the head.
+Hash: F00D5F20, Key: Line16.6D03F, Value: A deer caught in a trap.
+Hash: 40438AED, Key: VoiceDir16.6D03F, Value: Concerned. Groggy, under the effects of incense. Probably a slower read--not all there in the head.

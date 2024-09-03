@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Face Collector
+Hash: A646FFA4, Key: Description, Value: Voor's face was taken from him. Carved away in a hideous ritual that drove him deep into madness. He spent the rest of his life taking the faces of others, convinced he'd one day reclaim his own.
+Hash: 083EE0CE, Key: Quote, Value: Smile.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

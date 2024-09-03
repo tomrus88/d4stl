@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: The Civo Breach
+Hash: 0871A46B, Key: Toast, Value: Triune serve Hell once again in the shadow of the mountain.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Slay the Hell Caller
+Hash: 112E3759, Key: Callback30Header, Value: Select a challenge
+Hash: 9211671E, Key: Callback35Header, Value: Collect Aether from Aetheric Masses {DONE_OVER_NEEDED}
+Hash: 1847B581, Key: Callback47Header, Value: Select a challenge
+Hash: 1D9AD41F, Key: Callback54Header, Value: Enter the Hellbreach
+Hash: 5183C723, Key: Callback58Header, Value: Slay the Hell Caller
+Hash: 6FE82F7E, Key: Callback62Header, Value: Collect Aether from Aetheric Masses {DONE_OVER_NEEDED}

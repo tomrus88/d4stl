@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Some Nahantu locals have been known to make gifts for the Tusked Lord, believing the spirits favor him. Others simply enjoy his presence, laughing from the jungle.
+Hash: 003DFCC1, Key: Name, Value: Pachyderm Totem
+Hash: 13A53A8B, Key: Series, Value: "The Tusked Lord"

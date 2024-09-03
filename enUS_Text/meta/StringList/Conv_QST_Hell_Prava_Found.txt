@@ -1,0 +1,26 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where is Inarius?"
+Hash: C1E7585F, Key: Line9.710B6, Value: In the...spire. Across this...infernal wasteland.
+Hash: 30F0BE8C, Key: VoiceDir9.710B6, Value: (very weak)
+Hash: 6F205668, Key: Line11.710B6, Value: Salvation...is coming...
+Hash: BF568235, Key: VoiceDir11.710B6, Value: (very weak)
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Not for these knights you led to Hell. Not for you either.
+Hash: A327237F, Key: Line15.7FA05, Value: Brother...
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: (low, warning)
+Hash: 3D079BE1, Key: Line17.6D03F, Value: You're just a tool of someone who doesn't give a damn about any of us.
+Hash: D6FC1563, Key: Line19.6D03F, Value: And a thief.
+Hash: 5B6C043C, Key: Line21.6D03F, Value: You had the stone the whole time we were helping you in Caldeum, didn't you?
+Hash: F556A4CB, Key: Line23.710B6, Value: Inarius entrusted it to me, and...wait...wait...
+Hash: 8F4B1E4D, Key: Line25.710B6, Value: You took it?
+Hash: DF814A1A, Key: VoiceDir25.710B6, Value: (realizing stone is gone)
+Hash: 293F97CF, Key: Line27.710B6, Value: Insolent heretic!
+Hash: 7975C39C, Key: VoiceDir27.710B6, Value: (full of life, shouting, fury)
+Hash: C3341151, Key: Line29.710B6, Value: Servants of darkness! You...will all...be DAMNED!
+Hash: 136A3D1E, Key: VoiceDir29.710B6, Value: (overexerting herself at end)
+Hash: 47ADD91D, Key: Line31.6D03F, Value: Leave her. She's poisoned with Hatred.
+Hash: E1B653BF, Key: Line33.7FA05, Value: Is she the only one? Remember why we're here, what we're fighting against.
+Hash: 31EC7F8C, Key: VoiceDir33.7FA05, Value: (pointed, at Lorath)
+Hash: 7B96CC21, Key: Line35.6D03F, Value: (sigh) What do you propose?
+Hash: CBCCF7EE, Key: VoiceDir35.6D03F, Value: (followed by long pause)
+Hash: 159F46C3, Key: Line37.7FA05, Value: I have a tonic. A little something to numb the pain and get her moving.
+Hash: AF93C045, Key: Line39.7FA05, Value: Drink up, Prava. If you're wise, you'll get back to Caldeum while you still have a chance.
+Hash: FFC9EC12, Key: VoiceDir39.7FA05, Value: To Prava, not overly caring--more urging her to do the smart thing

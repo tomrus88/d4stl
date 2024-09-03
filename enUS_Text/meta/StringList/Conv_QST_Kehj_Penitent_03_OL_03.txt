@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It's not your fault."
+Hash: 8EEB85E0, Key: Line1.136591, Value: This is Osric's doing. I watched him butcher innocents in Caldeum, and instead of stopping him, I walked away.
+Hash: DF21B1AD, Key: VoiceDir1.136591, Value: Edgar talking through his difficult decision to return to Caldeum and face Osric. 
+Hash: 4552EC11, Key: Line11.136591, Value: I used to be a Knight. You probably figured that out already. I left the day I rescued Suna. I should have saved more.
+Hash: 676F2FA2, Key: Line3.136591, Value: If I had killed him instead of fleeing the city, these people might still live.
+Hash: 18768326, Key: Line7.136591, Value: I will flee no longer. I'm going back in for Osric. If it costs me my life, well... I owe that much and more.
+Hash: F0FA2CE8, Key: Line9.136591, Value: Very well. Let us deliver justice together.
+Hash: 413058B5, Key: VoiceDir9.136591, Value: relieved that the hero has offered to join. feeling a little hopeful

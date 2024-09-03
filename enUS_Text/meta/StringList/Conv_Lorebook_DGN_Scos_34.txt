@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: A blood-spattered prayer book
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Blood-spattered Prayer Book
+Hash: 5D72A441, Key: Line1.EDC77, Value: What sweet music calls me. A hymn so soft, so sorrowful. On the waves, amongst the crags.
+Hash: F7671DC3, Key: Line3.EDC77, Value: It is nothing of nature, that is certain. Seven of us go on the morrow to kill the thing that sings it. But it breaks my heart to know that tune will never linger on the coast again.
+Hash: 915B9745, Key: Line5.EDC77, Value: Spirits, guide my hand. Keep my blade away from the creature, let a different sword slay it.

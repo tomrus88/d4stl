@@ -1,0 +1,604 @@
+Hash: 4BCAC205, Key: PlayerLevel, Value: {c_label}Character Level{/c} 
+Click to open the Character screen.
+Hash: E1251803, Key: CracklingEnergyTooltip, Value: Crackling Energy periodically damages nearby enemies when picked up.
+Hash: BBF2B643, Key: ItemTier, Value: Tier {s1}
+Hash: 029CA9B0, Key: Seconds_One, Value: {DURATION} second
+Hash: 3190EC9A, Key: Seconds_Multiple, Value: {DURATION} seconds
+Hash: 4DB11C26, Key: Minutes_One, Value: {DURATION} minute
+Hash: 887D58D0, Key: Minutes_Multiple, Value: {DURATION} minutes
+Hash: 28BB8881, Key: HitpointsRatio, Value: Life {CURRENT} / {TOTAL}
+Hash: 1BFE5C3C, Key: ManaRatio, Value: {c_label}Mana{/c} {c_resource}{CURRENT} / {TOTAL}{/c}
+Hash: CDA0A8E5, Key: FuryRatio, Value: Fury {CURRENT} / {TOTAL}
+Hash: 6309A4B5, Key: TipExperience, Value: {c_label}Level {s3} Experience:{/c} {c_resource}{s1}{/c} {c_number_req}/ {s2}{/c}
+Hash: E95F1975, Key: TipDamageFormat, Value: {TYPE}: {MIN} - {MAX}
+Hash: 4796DE65, Key: TipAttack, Value: Average chance to hit {MNSTR}: {PCT}%
+Hash: FD690A87, Key: TipDefense, Value: Average chance {MNSTR} will hit you: {PCT}%
+Hash: ED8C231B, Key: CurrentLevel, Value: Current Level: {LVL}
+Hash: A9F0401E, Key: PoisonDuration, Value: {c:FFAFFAAF}(over {DURATION} seconds){/c}
+Hash: 63CDA728, Key: ActiveSkillMasteryRequirementNotMet, Value: {c_red}Unlocked at Level {s1}.{/c}
+Hash: 58336451, Key: TraitMasteryRequirementNotMet, Value: {c_red}Unlocked at Level {s1}.{/c}
+Hash: 7302A955, Key: PowerRequirementNotMet, Value: {c_red}Requires {COST} point(s) in {POWER}.{/c}
+Hash: 6D72D37C, Key: OptionsFloatingNumbers, Value: Display floating numbers above monsters that show normal damage dealt by the player.
+Hash: 63C8D9CA, Key: OptionsCriticals, Value: Display floating numbers above monsters that show Critical Strike Damage dealt by the player.
+Hash: 3F3D4F1D, Key: OptionsDefensiveMessages, Value: Display floating numbers above monsters that show Blocks, Parries, and Dodges.
+Hash: A4ADE8CC, Key: OptionsShowItemTooltipsOnDrop, Value: Briefly display item tooltips when the item drops on the ground.
+Hash: A23DB9B5, Key: OptionsShowMonsterHPBars, Value: Display health bars for damaged monsters.
+Hash: 22802598, Key: OptionsShowEnemyPlayerHPBars, Value: Display health bars for damaged enemy players.
+Hash: 55873F8B, Key: OptionsSubtitles, Value: Check to display subtitles.
+Hash: 53191969, Key: OptionsLockSkillbar, Value: Prevents the user from picking up or dragging Skills onto the action bar. Hold down the SHIFT key to move Skills when the action bar is locked.
+Hash: B8504027, Key: OptionsFriendlyHealthBars, Value: Display names and health bars over friendly players.
+Hash: 4194C173, Key: OptionsSoundEAX, Value: Use Environmental Audio Extensions for more realistic sounds.
+Hash: 613530EF, Key: OptionsSoundReverseSpeakers, Value: Swap the output of your left and right speakers.
+Hash: 00BB02F6, Key: OptionsVideoVSync, Value: Synchronizes your frame rate to some fraction of your monitor's refresh rate. This will reduce tearing of the image.
+Hash: 667694CD, Key: OptionsVideoTripleBuffer, Value: Triple buffering can improve the smoothness of your frame rate.
+Hash: D8CD2711, Key: OptionsVideoDepthOfField, Value: Enable depth of field. (Only recommended for high-end systems.)
+Hash: 30D9A77C, Key: OptionsVideoLetterbox, Value: Toggles letterboxed mode.
+Hash: 7772B6F7, Key: OptionsVideoTonemap, Value: Toggles color correction.
+Hash: 07BD2397, Key: OptionsVideoResolution, Value: Higher resolution will result in increased clarity, but this greatly affects performance. Choose a resolution that matches the aspect ratio of your monitor.
+Hash: 7C6AE687, Key: OptionsVideoTextures, Value: Determines the clarity and size of textures used throughout the game. Higher texture quality will result in more detail, but it requires more video memory.
+Hash: 19389E3C, Key: OptionsVideoShadows, Value: Renders shadows in greater detail.
+Hash: 340451A6, Key: OptionsVideoPhysics, Value: Determines the realism of colliding objects and gravity.
+
+Physics relies on your computer's processor (CPU).
+Hash: 0B75D6A1, Key: OptionsVideoReflections, Value: Higher quality reflections may require a more powerful system.
+Hash: 1742B2FE, Key: OptionsVideoFSAA, Value: Fullscreen Anti-Aliasing can smooth the image and eliminate jagged edges.
+Hash: 133075C2, Key: BindingMessageLog, Value: Displays a translucent overlay window with a history of the player's chat messages and console commands.
+Hash: A66B4F65, Key: BindingSimpleChat, Value: Opens a one-line box for typing chat messages or console commands.
+Hash: F15E380E, Key: BindingConsole, Value: Slides the console window down from the top of the screen, and lets the player issue game commands.
+Hash: D720157C, Key: BindingCloseWindows, Value: Closes all open game windows.
+Hash: 65D321C9, Key: BindingAutoRun, Value: Press this key to toggle auto-run mode, which will allow you to move without holding down a mouse button. You can cancel auto-run by pressing this key again or pressing any mouse button.
+Hash: 90875F81, Key: BindingToggleRunWalk, Value: Press this key to change the default movement from walking to running.
+Hash: B038B24B, Key: BindingSkill1, Value: Select Skill 1
+Hash: B038B24C, Key: BindingSkill2, Value: Select Skill 2
+Hash: B038B24D, Key: BindingSkill3, Value: Select Skill 3
+Hash: B038B24E, Key: BindingSkill4, Value: Select Skill 4
+Hash: B038B24F, Key: BindingSkill5, Value: Select Skill 5
+Hash: B038B250, Key: BindingSkill6, Value: Select Skill 6
+Hash: B038B251, Key: BindingSkill7, Value: Select Skill 7
+Hash: B038B252, Key: BindingSkill8, Value: Select Skill 8
+Hash: B038B253, Key: BindingSkill9, Value: Select Skill 9
+Hash: C5A290C4, Key: LifeDescription, Value: {c_gold}Life:{/c} {c_resource}{s1}{/c}
+Lose it all, and you're dead.
+Hash: 18ED9CF7, Key: Unique, Value: Unique
+Hash: 38D723EB, Key: AlternateTooltip, Value: Compare other slot
+Hash: 4904C0BD, Key: Equipped, Value: Equipped
+Hash: 0CD2C5E9, Key: TradeAccepted, Value: Trade accepted
+Hash: B2CB88C9, Key: TradeClickToAccept, Value: Accept trade offer
+Hash: C9B68E43, Key: TradeCannotAccept, Value: Cannot accept trade
+Hash: 5326F2BC, Key: Panel_Character, Value: Character ({HOTKEY})
+Hash: CAC4FF1D, Key: Panel_Inventory, Value: Inventory ({HOTKEY})
+Hash: F4EBC001, Key: Panel_Skills, Value: Skills ({HOTKEY})
+Hash: F530C98A, Key: Panel_Social, Value: Social ({HOTKEY})
+Hash: 825A872D, Key: Panel_Map, Value: Map ({HOTKEY})
+Hash: FF4CD703, Key: Panel_QuestLog, Value: Quests and Journal ({HOTKEY})
+Hash: D2D5C09E, Key: Panel_GameMenu, Value: Game Menu ({HOTKEY})
+Hash: E62FCA74, Key: QuestItems, Value: Quest Items
+Hash: D0C3EADD, Key: Socketable, Value: Can be inserted into equipment with sockets.
+Hash: 5425B733, Key: RestorationPotion, Value: Heals ({HEAL_AMOUNT} / 60) Life per second for {HEAL_DURATION} minutes.
+Hash: 8DCB100F, Key: HealthPotion, Value: Heals for {c_resource}{s1}{/c} Life instantly and {c_resource}{s2}{/c} Maximum Life over {c_number}{s3}{/c} seconds.
+Hash: 1CF02156, Key: UnidentifiedWithScrolls, Value: {icon:rmb} to identify.
+Hash: AD8C47B7, Key: UnidentifiedNoScrolls, Value: {icon:rmb} to identify.
+Hash: 7EE37731, Key: LearnSkill, Value: {SKILL_NAME} Skill Obtained
+Hash: E666D72D, Key: QuickSell, Value: Sell
+Hash: F9CBB1D8, Key: StashExpansion, Value: Your Stash has increased in size!
+Hash: 34304111, Key: VendorRepair, Value: Repair
+Hash: 29DF9E6A, Key: VendorRepairAll, Value: Repair All
+Hash: 2CC8E00A, Key: CooldownMinutes, Value: {c_resource}{TIME}m{/c} Cooldown
+Hash: F0873894, Key: CooldownSeconds, Value: {c_resource}{TIME}s{/c} Cooldown
+Hash: 09B80CB1, Key: NewGameHardcoreMode, Value: Hardcore characters are destroyed when they die. Yes, even if it wasn't your fault! Please use with caution.
+Hash: 671D84B4, Key: NewGameSex, Value: Choose your sex.
+Hash: B21BA392, Key: SkillToggle_Open, Value: Show Toggleable Skills
+Hash: F4B4E9D6, Key: SkillToggle_Close, Value: Hide Toggleable Skills
+Hash: E6675262, Key: QuickTake, Value: Take
+Hash: 0798D351, Key: Hours, Value: Hours
+Hash: C38232E5, Key: Minutes, Value: Minutes
+Hash: 87408B6F, Key: Seconds, Value: Seconds
+Hash: 8156A7A0, Key: QuickSalvage, Value: Salvage
+Hash: F5E938DB, Key: Soulbound, Value: Soulbound
+Hash: 757E0DFE, Key: BindOnEquip, Value: Binds on Equip
+Hash: 3E4DF366, Key: BindOnPickup, Value: Binds on Pickup
+Hash: 7D201F50, Key: EmptySkillHotbarSlot, Value: {icon:rmb} to assign Skills to this button.
+Hash: 7962FEC2, Key: SkillPointNotify, Value: A new Skill slot is available.
+Hash: 547AA785, Key: AccountBound, Value: Account Bound
+Hash: 86F5048B, Key: BindOnAccountEquip, Value: Binds to Account when Equipped
+Hash: 7EA3BB93, Key: BindOnAccountPickup, Value: Binds to Account on Pickup
+Hash: 08F9E4E0, Key: OptionsVideoWindowMode, Value: Allows you to change the primary display mode of the game to Fullscreen, Windowed, or Windowed (Fullscreen). Windowed modes may cause a drop in performance.
+Hash: B6A0518C, Key: ResourceDesc_Fury, Value: {c_gold}Fury:{/c} {c_resource}{s1}{/c}
+Generated when using certain Skills or taking damage. Used for powerful attacks.
+Hash: B6A3D283, Key: ResourceDesc_Mana, Value: {c_gold}Mana:{/c} {c_resource}{s1}{/c}
+Used to cast most Skills. Mana automatically regenerates over time.
+Hash: 53D6CE8C, Key: ClassRestriction, Value: {s1}
+Hash: 8A37777A, Key: UnidentifiedTitle, Value: {c_red}UNIDENTIFIED{/c}
+Hash: 1CF4E69E, Key: UnidentifiedDetails, Value: {c_red}This item cannot be equipped until it is identified.{/c}
+Hash: D500D53A, Key: QuickMoveToStash, Value: Store
+Hash: 7733A3F0, Key: TipSalvage, Value: {c_label}Salvage{/c}
+Break items down into crafting materials.
+{icon:lmb} the anvil and then {icon:lmb} the item you wish to salvage. 
+{c_warning}Warning: This will permanently destroy the item!{/c}
+Hash: 26951E40, Key: HirelingCantHire, Value: You cannot use Followers when you are playing with another player.
+Hash: DC7939AC, Key: OptionInventoryZoom, Value: Zoom in when the Inventory menu is open.
+Hash: CDAB3158, Key: OptionAutoequipItems, Value: Automatically equip items when they are picked up.
+Hash: 01448954, Key: OptionsShowTutorials, Value: Toggles helpful in-game tutorials.
+Hash: A7C9A920, Key: BindingZoom, Value: Toggles manual camera zoom.
+Hash: F4CEBBBE, Key: TipStoneOfRecall, Value: {c_gold}Town Portal{/c_gold}
+Transports you to town. 
+({HOTKEY}) to use.
+Hash: 116EEADA, Key: PlanAlreadyKnown, Value: {c_red}Already Known{/c}
+Hash: E68C4D4B, Key: PlanReqLevel, Value: Requires Artisan Level: {s1}
+Hash: 7D4B9A5F, Key: QuickSplitStack, Value: Split
+Hash: 5FF369C8, Key: BindingCharacter, Value: Opens the Character menu.
+Hash: D7917629, Key: BindingInventory, Value: Opens the Inventory menu.
+Hash: B038B28D, Key: BindingSkills, Value: Opens the Skills menu.
+Hash: B30817F2, Key: BindingTraits, Value: Opens the Traits menu.
+Hash: AC4143A0, Key: BindingQuests, Value: Opens the Quests and Journals menu.
+Hash: A7C1FC2D, Key: BindingLore, Value: Opens the Journal menu.
+Hash: F4E690CD, Key: BindingHireling, Value: Opens the Follower menu.
+Hash: A0803BA4, Key: BindingSound, Value: Toggles sound on and off.
+Hash: A016E9BC, Key: BindingMusic, Value: Toggles music on and off.
+Hash: A180B238, Key: BindingVolumeUp, Value: Increases the volume.
+Hash: 046CD94B, Key: BindingVolumeDown, Value: Decreases the volume.
+Hash: 5290BC97, Key: BindingHoldPosition, Value: The player will hold position.
+Hash: E12A7E56, Key: BindingToggleInjuredMonsterHPBars, Value: Toggles damaged monsters' health bars on and off.
+Hash: B0BFF8C8, Key: BindingToggleEnemyPlayerHPBars, Value: Toggles enemy players' health bars on and off.
+Hash: 06AE7767, Key: BindingToggleFriendlyPlayerHPBars, Value: Toggles friendly players' health bars on and off.
+Hash: 4179C64B, Key: BindingToggleItemsOnGround, Value: Toggles the display of item names on the ground.
+Hash: F68DB637, Key: OptionsShowBreadCrumbs, Value: Show Quest Objectives on the Mini-map
+Hash: C71A77C7, Key: QuickMoveToBackpack, Value: Take
+Hash: 0348B2A4, Key: CooldownRemainingMinutes, Value: Cooldown remaining: {c_resource}{TIME} Min.
+Hash: C7070B2E, Key: CooldownRemainingSeconds, Value: Cooldown remaining: {c_resource}{TIME} Sec.
+Hash: 9DDA19DA, Key: VendorSubtitle, Value: Merchant
+Hash: 71FE8C3B, Key: ComparisonLife, Value: Life
+Hash: D89C513A, Key: ComparisonDamage, Value: Damage
+Hash: C9BBD1E7, Key: ComparisonDamageReduction, Value: Protection
+Hash: F243F096, Key: LockedFromTrade, Value: No Trade for: {TIME}
+Hash: 06A3701E, Key: ArtisanSubtitle, Value: Artisan
+Hash: 37DF64B4, Key: UniqueEquipped, Value: Unique Equipped
+Hash: AA20A073, Key: SocketableEffectFormat, Value: {s1}: {s2}
+Hash: F0477ECE, Key: AttackWithoutMoveTooltip, Value: {c_yellow}Hold SHIFT to attack without moving.{/c}
+Hash: 39B6D027, Key: ItemLevel, Value: Item Level: {s1}
+Hash: 1ADC7DEB, Key: Panel_Achievements, Value: Challenges ({HOTKEY})
+Hash: 93C341D6, Key: TipAltExperience, Value: {c_label}Level {s3} Experience: {/c}{c_resource}{s1}{/c} {c_number_req}/ {s2}{/c}
+Hash: B35AC77B, Key: QuickTrain, Value: {icon:lmb} Train
+Hash: B7A458B5, Key: BoundToGame, Value: Tradable to the following accounts
+Hash: 6AF0BF16, Key: Seasonal, Value: {icon:Marker_Season,2.0} Seasonal
+Hash: 7D1FAF4E, Key: Non-seasonal, Value: {icon:NonSeasonal,2.0} Non-seasonal
+Hash: 67C0F841, Key: RequiresItemType, Value: Usable with a {s1}
+Hash: 2044A7BE, Key: PartyGuide, Value: Party Guide
+Hash: 98BC0491, Key: EngagedWithRare, Value: Fighting an Elite
+Hash: CECA420F, Key: RequiresSkill, Value: {c_red}Requires a Skill to be equipped.{/c}
+Hash: BF102A24, Key: Primary, Value: Primary
+Hash: 5990E5C8, Key: Secondary, Value: Secondary
+Hash: C43358FD, Key: ItemTradableTime, Value: for {HOURS} Hrs, {MINUTES} Mins, {SECONDS} Secs.
+Hash: D2A28E5B, Key: Damage_Physical, Value: Physical
+Hash: A95DDF04, Key: Damage_Fire, Value: Fire
+Hash: A95C52A0, Key: Damage_Cold, Value: Cold
+Hash: 96895FC4, Key: Damage_Shadow, Value: Shadow
+Hash: 900D3436, Key: Damage_Poison, Value: Poison
+Hash: BED09E82, Key: Damage_Lightning, Value: Lightning
+Hash: 56B32746, Key: CannotSalvage, Value: Cannot Salvage
+Hash: 10AF5EB4, Key: UpgradeableJewelSecondaryEffectRank, Value:  {c_red}(Requires Rank {s1}){/c}
+Hash: 7E85E85F, Key: UpgradeableJewelRank, Value: Rank {s1}
+Hash: A89A81DC, Key: ItemExp, Value: Experience: {s1}
+Hash: BBF17C9B, Key: ItemRank, Value: {s1} / {s2}
+Hash: 08ABA3CC, Key: NoItem, Value: Empty
+Hash: 6009CC1E, Key: RevivePlayer, Value: Revive Player  
+Hash: ADAC74E0, Key: TipMount, Value: {c_gold}Mount{/c_gold}
+Mount up to move faster.
+Hash: 12741B2E, Key: GrantsSkill, Value: Grants {s1}
+Hash: 3BA2A214, Key: MonsterPower_Label, Value: {icon:Monster_Label, 2.0} Power
+Hash: 3C57C3B1, Key: MonsterPower_Value, Value: {s1} {icon:AttackDefense, 2.0}
+Hash: 9A873064, Key: Reward_Label, Value: Rewards
+Hash: E6E79546, Key: DamageType_Fire, Value: {icon:DamageType_Fire, 2.0} Fire Damage
+Hash: FED08E04, Key: DamageType_Lightning, Value: {icon:DamageType_Lightning, 2.0} Lightning Damage
+Hash: 8EC1959D, Key: DamageType_Physical, Value: {icon:DamageType_Physical, 2.0} Physical Damage
+Hash: 5D59AE86, Key: DamageType_Shadow, Value: {icon:DamageType_Shadow, 2.0} Shadow Damage
+Hash: 56DD82F8, Key: DamageType_Poison, Value: {icon:DamageType_Poison, 2.0} Poison Damage
+Hash: D8AD39E3, Key: SkillsInstructionsActive, Value: {c_white}Selected{/c}
+Hash: 9397F005, Key: SkillsInstructionsChoices, Value: Assign Skill
+Hash: 878A267D, Key: ShieldDescription, Value: {c_gold}Barrier:{/c} {c_resource}{s1}{/c}
+Hash: B24B20A1, Key: QuickEquip, Value: Equip
+Hash: 73963C6D, Key: QuickBuy, Value: Buy
+Hash: 3278AA30, Key: QuickBuy_Controller, Value: Buy
+Hash: 094605E4, Key: QuickEquip_Controller, Value: Equip
+Hash: 1790D94A, Key: QuickMoveToBackpack_Controller, Value: Take
+Hash: 4FF608DD, Key: QuickMoveToStash_Controller, Value: Store
+Hash: A0BBCF83, Key: QuickSalvage_Controller, Value: Salvage
+Hash: 5FFB0CF0, Key: QuickSell_Controller, Value: Sell
+Hash: 703AFD05, Key: QuickTake_Controller, Value: Take
+Hash: 1ABA5A03, Key: Reward_Claimed_Weekly, Value: Weekly bonus claimed
+Hash: 83565E65, Key: Reward_Claimed_Daily, Value: Daily reward claimed
+Hash: 4E651369, Key: SkillRank_Next, Value: Next Rank
+Hash: E1E2CE2D, Key: Skill_RankFromItem, Value: (Item Contribution: {c_magic}{s1}{/c})
+Hash: 29D33CDA, Key: SkillRank_Unknown, Value: Not Learned
+Hash: 7B0EACE0, Key: Resource_Cost, Value: Costs {s1} {s2}
+Hash: 28B2AC99, Key: SkillRank_UnknownDesc, Value: {c_red}Obtain {s1} to learn this Skill. {/c_red}
+Hash: 50082CE2, Key: QuickSplitStack_Controller, Value: 
+Hash: 73968CEA, Key: QuickUse, Value: Use
+Hash: 267B928D, Key: QuickUse_Controller, Value: Use
+Hash: 0DC14B0F, Key: QuickEquipInventory, Value: Equip
+Hash: 84E00F92, Key: QuickEquipInventory_Controller, Value: Equip
+Hash: CA25C44F, Key: QuickEquipVendor, Value: Equip
+Hash: 7EBE40D2, Key: QuickEquipVendor_Controller, Value: Equip
+Hash: 9A1EE83B, Key: QuickUseVendor_Controller, Value: Use
+Hash: 9CAD8358, Key: QuickUseVendor, Value: Use
+Hash: E84B2433, Key: SkillsInstructionsNotLearned, Value: Not Yet Learned
+Hash: EAA3EEC8, Key: SkillsInstructionsChoices_Controller, Value: Assign Skill
+Hash: ADAA9D87, Key: TipTownPortal, Value: {c_gold}Town Portal{/c_gold}
+Transports you to town. 
+Hash: D0F1E9B8, Key: EmptySocket, Value: {c_gray}Empty Socket{/c}
+Hash: 82F91DD5, Key: QuickDrop_Controller, Value: Drop
+Hash: C656F6A7, Key: QuickUnequip_Controller, Value: Unequip
+Hash: 44FB9DFB, Key: ResourceDesc_DruidCharges, Value: {c_gold}Primal Wrath:{/c} {c_resource}{s1}{/c}
+Generated when the Druid uses Mana spending Skills. Used for more powerful Druid attacks.
+Hash: 6DFA5276, Key: RuneUnsocketedCondition, Value: {s1}, activate the next socketed Rune at {c_gold}[RuneConditionScalar()*100]%{/c} strength.
+Hash: 06F3343C, Key: RuneUnsocketedEffect, Value: When activated, {s1}.
+Hash: 1C296546, Key: QuickSocket, Value: Socket
+Hash: FE0CF969, Key: QuickSocket_Controller, Value: Socket
+Hash: C95C5E8A, Key: RuneIncomplete, Value: {s1} {c_red}(Incomplete){/c}
+Hash: B5B75097, Key: RunewordName, Value: {s1} {s2}
+Hash: 7B6AF46F, Key: RunewordComplete, Value: {s1}, {s2}.
+Hash: E6E608E2, Key: DamageType_Cold, Value: {icon:DamageType_Frost, 2.0} Cold Damage
+Hash: 3154ABB7, Key: QuickMoveToBackpackPartial_Controller, Value: Take Partial Stack
+Hash: E0C326EE, Key: AlternateTooltip_Controller, Value: Compare other slot
+Hash: E70EE084, Key: DirectSocket, Value: Socket 
+Hash: D8A031E7, Key: DirectSocket_Controller, Value: Socket
+Hash: 185F5AE8, Key: SkillArsenalBinding_Header, Value: Arsenal Selection
+Hash: 67EFA69A, Key: SkillArsenalBinding_DualWield, Value: Dual Wield
+Hash: D2C3208D, Key: SkillArsenalBinding_Bludgeoning, Value: Bludgeoning
+Hash: 83EFB928, Key: SkillArsenalBinding_Slicing, Value: Slashing
+Hash: 0C189A71, Key: SkillsInstructionsWeapon, Value: Cycle Weapon
+Hash: 55D1BDB4, Key: SkillsInstructionsWeapon_Controller, Value: Cycle Weapon
+Hash: C6CB3D7C, Key: SkillArsenalBinding_AutoEquip, Value: Auto-Select
+Hash: 83426C70, Key: CraftingMat, Value: {s1}/{s2} {s3}
+Hash: B227268D, Key: QuickCraft, Value: Craft
+Hash: C8CF0050, Key: QuickCraft_Controller, Value: Craft
+Hash: 08172813, Key: SkillsInstructionsUnlock, Value: Unlock Skill
+Hash: 1B7F4216, Key: SkillsInstructionsUnlock_Controller, Value: Unlock Skill
+Hash: 5C4903B2, Key: SkillsInstructionsNextRank, Value: Unlock Next Rank
+Hash: 67193C55, Key: SkillsInstructionsNextRank_Controller, Value: Unlock Next Rank
+Hash: F325D2B9, Key: SkillsInstructionsLocked, Value: Skill Rank purchase requires Level {s1}
+Hash: E6F5ACE7, Key: QuestTrack, Value: {icon:lmb, 2} Track
+Hash: 394C9A6A, Key: QuestTrack_Controller, Value: {icon:button1,2}  Track
+Hash: B353A5C2, Key: QuickTeach, Value: Teach Recipe
+Hash: B35AC6CD, Key: QuickTrade, Value: Trade
+Hash: 3A2CC370, Key: QuickUntrade, Value: Remove
+Hash: 12F7E90A, Key: LockedRecipe, Value: Find Recipe to unlock
+Hash: 8419CFE3, Key: ItemTraded, Value: Traded
+Hash: E6CC6BA9, Key: UseAtCrafter, Value: 
+Hash: 1B55F890, Key: QuickTrade_Controller, Value: Trade
+Hash: D866E953, Key: QuickUntrade_Controller, Value: Remove
+Hash: 9FA61BB2, Key: SortBag, Value: Sort this bag
+Hash: 391D1D44, Key: QuickUnequip, Value: Unequip
+Hash: 5023F573, Key: ResourceDesc_ComboPoints, Value: {c_gold}Combo Points:{/c} {c_resource}{s1}{/c}
+Your {c_important}Basic{/c} Skills now generate Combo Points. {c_important}Core{/c} Skills consume Combo Points for additional effects.
+Hash: DD1FDF70, Key: ResourceDesc_Energy, Value: {c_gold}Energy:{/c} {c_resource}{s1}{/c}
+Used to perform more powerful attacks. Energy quickly regenerates over time.
+Hash: 45ABB172, Key: SummoningTrack, Value: Track
+Hash: 9AB0510C, Key: ItemTradedIcon, Value: {icon:traded, 1.5} Traded
+Hash: FDEE7B01, Key: ResourceDesc_Spirit, Value: {c_gold}Spirit:{/c} {c_resource}{s1}{/c}
+Generated by using certain Skills.  Used for more powerful Druid attacks.
+Hash: AD925D0D, Key: TipLabel, Value: Tip:
+Hash: FCD9D536, Key: Imbued, Value: {c_gold}Imprinted:{/c} {s1}
+Hash: EB281338, Key: ExtractEssenceTab, Value: Extract Aspect
+Hash: 06024B6F, Key: ImbueEssenceTab, Value: Imprint Aspect
+Hash: FA0C9E48, Key: EssenceType, Value: {s1} Aspect
+Hash: 9C9783E4, Key: CraftWeaponsTab, Value: Craft Weapons
+Hash: 3D961888, Key: CraftArmorTab, Value: Craft Armor
+Hash: E734BF72, Key: CraftMountEquipmentTab, Value: Craft Mount Equipment
+Hash: 04C9709A, Key: SalvageTab, Value: Salvage
+Hash: 5552A593, Key: TrainingTab, Value: Training
+Hash: EE29E971, Key: TrainingTreeReward, Value: Reward Stat Effect:
+Hash: 6629DD92, Key: TrainingTreeResourcePayment, Value: Resource Payment:
+Hash: 9025D6D2, Key: TrainingTreeLevelLevelWarning, Value: {c_red}Unlocks at Player Level {s1}.{/c}
+Hash: AC600FCF, Key: TrainingTreeLevelProgressWarning, Value: {c_red}Complete Other Conditions in this Tree to Unlock{/c}
+Hash: F64B3B81, Key: TrainingTreeLevelIndicator, Value: Level Indicator: {s1}
+Hash: 4FE9C662, Key: AltLevelFormat, Value: {s1} {c:FF5789FF}({s2}){/c}
+Hash: 45344ED3, Key: StableMasterSubtitle, Value: Stable Master
+Hash: 25FC37EA, Key: QuickMoveToStashPartial_Controller, Value: Store Partial Stack
+Hash: EE97889D, Key: QuickSellPartial_Controller, Value: Sell Partial Stack
+Hash: 2C21609C, Key: QuickBuyMultiple_Controller, Value: Buy 5
+Hash: 43078A71, Key: LinkToChat, Value: Link
+Hash: EE1518D9, Key: CrafterTalentTreeLevelMarker, Value: Level Indicator: {s1}
+Hash: 1459A6BD, Key: ViewItems, Value: View Items
+Hash: 2D2E0475, Key: SalvageGridRemoveAction, Value: Remove From Salvage Grid
+Hash: 43E9699F, Key: TipTownPortalBound, Value: Transports you to {s1}
+Hash: 5419820C, Key: DungeonKey_Tier, Value: Dungeon Tier
+Hash: 4D626DDD, Key: DungeonKey_MonsterAttackRating, Value: Monster Attack Rating
+Hash: 6FAB69DF, Key: DungeonKey_MonsterDefenseRating, Value: Monster Defense Rating
+Hash: 72FA443F, Key: DungeonKey_MonsterDamage, Value: Monster Damage
+Hash: 7C90E4B6, Key: DungeonKey_MonsterHealth, Value: Monster Life
+Hash: 2053DC0F, Key: RecipeAffixCount, Value: {s1} |4Affix:Affixes;
+Hash: EF5E68F2, Key: DonateTab, Value: Donate
+Hash: 4844467D, Key: TipTownPortalBindLocation, Value: Town Portal Bind Location {s1}
+Hash: 4B45055D, Key: SkillSectionHeader_Enchant, Value: Enchantment Effect
+Hash: 5F8DD7FB, Key: SkillSectionHeader_Skill, Value: Skill Slot Effect
+Hash: 8F59603B, Key: Wheel_ActionBar_Instructions, Value: Use the hotkey to access a wheel of customizable actions.
+Hash: 1B7945DD, Key: QuickSelect, Value: Select
+Hash: 785373F1, Key: ItemDungeonAffixDescription, Value: Transform this dungeon into a Nightmare Dungeon
+Hash: 632F4F25, Key: ItemDungeonAffixes, Value: Dungeon Affixes
+Hash: 9841D6A0, Key: ItemDungeonAffixDifficulty, Value: {c_label}Difficulty:{/c} {c_white}Tier {s1}{/c}
+Hash: 18731902, Key: ItemDungeonAffixResses, Value: Revives Allowed: {c_resource}{s1}{/c} 
+Hash: 3D788E28, Key: ItemDungeonAffixObjective, Value: {c_label}Dungeon Objective:{/c} {c_white}{s1}{/c} 
+Hash: 73967664, Key: QuickPin, Value: Pin on Map
+Hash: 1F9429E2, Key: ItemDungeonTypeName, Value: {s1} {s2}
+Hash: 768DB42A, Key: BindOnTrade, Value: Binds on Trade
+Hash: D0FF20C0, Key: ContentLevelRange, Value: (Lv. {s1}-{s2})
+Hash: B556DAE3, Key: ContentLevelRangeNoMax, Value: {s1}+
+Hash: 58391D79, Key: TransmogUnlockInstruction, Value: {icon:Item_Transmog_Unlock, 1.5} Unlocks new look on salvage
+Hash: EB6E8528, Key: LockedTransmogTooltip, Value: Salvage items or visit the Shop to discover new looks
+Hash: 923DBE3C, Key: UniqueEquippedLegendaryPower, Value: Unique Equipped Power {icon:legendarystar, 2.0}
+Hash: 1D64C939, Key: Durability, Value: {c_gold}Durability:{/c} {s1}/100
+Hash: 6D74C479, Key: Durability_Broken, Value: {c_gold}Durability:{/c} {c_red}0/100{/c}
+Hash: 356C58D4, Key: Durability_RepairCost, Value: {c_gold}Repair Cost:{/c} {s1}
+Hash: FAED75BF, Key: DeathLocation, Value: Last Death Location
+Hash: 31DD89BB, Key: ClanInformation_Disabled, Value: The Clan Leader or Officers must fill out the Clan Information input in the Clan Settings for this to be interactable 
+Hash: AD1F3112, Key: TipEvade, Value: {c_gold}Evade{/c_gold}
+Use to move quickly out of danger.
+Hash: 6155BF62, Key: TransmogAlreadyUnlocked, Value: {icon:Character_Transmog_Item_Icon_Grey, 2.0} This look is available at the Wardrobe
+Hash: D1130A33, Key: WaypointBound, Value: Waypoint Bound
+Hash: 204E43D9, Key: WeaponSpeed_Fast1, Value: (Fast)
+Hash: 204E43DA, Key: WeaponSpeed_Fast2, Value: (Very Fast)
+Hash: 213F79F0, Key: WeaponSpeed_Slow1, Value: (Slow)
+Hash: 213F79F1, Key: WeaponSpeed_Slow2, Value: (Very Slow)
+Hash: 41D171AB, Key: Durability_Caution, Value: {c_gold}Durability:{/c} {c_warning}{s1}/100{/c}
+Hash: 46F5A01B, Key: DruidSpirit_Totem, Value: Spirit Totem
+Hash: 761C6AA5, Key: DruidSpirit_BodyText, Value: Increase your reputation by offering items to the spirit.
+Hash: 24F7C271, Key: DruidSpirit_Unlocks, Value: {s1} / 3 Skills
+Hash: 3841203D, Key: QuickTradePartial_Controller, Value: Trade Partial Stack
+Hash: D8AAC597, Key: TransmogHidden, Value: {icon:Character_Transmog_Item_Icon_Off,2}  Slot Transmog: {c_white}OFF{/c}
+Hash: 3B40764A, Key: TransmogShowing, Value: {icon:Character_Transmog_Item_Icon,2}  Slot Transmog: {c_white}ON{/c}
+Hash: 5EACEBA5, Key: HideTransmog, Value: Hide Transmog
+Hash: 50F9680C, Key: ShowTransmog, Value: Show Transmog
+Hash: C64BC0A9, Key: QuickShowTransmog, Value: Show Transmog
+Hash: D3FF4442, Key: QuickHideTransmog, Value: Hide Transmog
+Hash: F979ABEA, Key: RunewordNameInactive, Value: {s1} {s2} {c_red}(Inactive){/c}
+Hash: 556D11CD, Key: RuneInactive, Value: {s1} {c_red}(Inactive){/c}
+Hash: 1ABCE861, Key: ItemPvPEarDescription, Value: An ear of {s1}, a Level {s2} {s3}, killed in {s4}
+Hash: A290A1B1, Key: ItemPvPUnknownEarDescription, Value: Unknown Victim
+Hash: FDA13551, Key: QuickMoveToClanBank, Value: Move
+Hash: 37CF7E59, Key: QuickBuyMultiple, Value: Buy 5
+Hash: AAA89A77, Key: ItemShowCompare, Value: Compare
+Hash: E015EDFA, Key: ItemShowCompare_Controller, Value: Compare
+Hash: B3EAC822, Key: ActivityTrack, Value: Track
+Hash: 9EC2E0C5, Key: ActivityUntrack, Value: Untrack
+Hash: B76A8AFE, Key: ImbueAllowedItemTypes, Value: {s1}
+Hash: 05F5A5A2, Key: ImbueLegendaryAffixBonus, Value: {s1} (Power increased by {c_number}{s2}{/c})
+Hash: C19961D9, Key: Jeweler_Unsocket, Value: Unsocket
+Hash: 975E5C0C, Key: Essence_Remove_KBM, Value: {icon:rmb, 1.5} Remove
+Hash: 821E245E, Key: Essence_Select_KBM, Value: {icon:rmb, 1.5} Select
+Hash: E01E2868, Key: Essence_Select_Controller, Value: {icon:button1, 1.5} Select
+Hash: 46D93056, Key: Essence_Remove_Controller, Value: {icon:button1, 1.5} Remove
+Hash: CDBEE270, Key: ClanBank_Move, Value: Move to Another Tab
+Hash: 7DD4CB25, Key: UnsocketCost, Value: {Icon:Jeweler_Unsocket, 2.0} {c_gold}Unsocket Cost:{/c} {s1}
+Hash: 7510ED7B, Key: Deposit_Controller, Value: Deposit
+Hash: BC0FFEC8, Key: DepositPartial_Controller, Value: Deposit Partial Stack
+Hash: 05825098, Key: Deposit, Value: Deposit
+Hash: 6F91B47E, Key: MountSetActive_Controller, Value: Set Active
+Hash: 56E4BD34, Key: MountSetActive_KBM, Value: Set Active
+Hash: 7A543D02, Key: FirstCompletion, Value: {icon:bullet, 1.4} First Completion
+Hash: A418E10E, Key: RewardCommon, Value: Common
+Hash: D07608CF, Key: RewardRare, Value: Rare
+Hash: DEDC7A46, Key: RewardMagic, Value: Magic
+Hash: C5B1FC80, Key: RewardLegendary, Value: Legendary
+Hash: C713A281, Key: objectives_fracturedpeaks, Value: Fractured Peaks ({s1}/{s2})
+Hash: 285D236B, Key: objectives_scosglen, Value: Scosglen ({s1}/{s2})
+Hash: A34C9BE0, Key: objectives_drysteppes, Value: Dry Steppes ({s1}/{s2})
+Hash: 38F3E1CE, Key: objectives_kehjistan, Value: Kehjistan ({s1}/{s2})
+Hash: 22B27E7B, Key: objectives_hawazar, Value: Hawezar ({s1}/{s2})
+Hash: ECDFCA1B, Key: PartyMembers, Value: Party Members
+Hash: 92CB42C4, Key: services, Value: Services
+Hash: B349F503, Key: TerritoriesObjectivesComplete, Value: {s1}/{s2}
+Hash: DAFF3A36, Key: DungeonAffixes, Value: Dungeon Affixes
+Hash: 604206A9, Key: CraftJewelryTab, Value: Craft Jewelry
+Hash: 3A1DFF03, Key: UnsocketTab, Value: Unsocket
+Hash: 3D0D3F53, Key: CraftGemsTab, Value: Craft Gems
+Hash: C2C2AC29, Key: AddSocketTab, Value: Add Sockets
+Hash: 27FA665F, Key: Jeweler_AddSocket, Value: Add Socket
+Hash: DDE1EEA5, Key: ItemComparePropertiesLost, Value: Properties lost when equipped:
+Hash: FC3FBB2E, Key: ItemCompareSkillChanges, Value: Changes to equipped Skills:
+Hash: 8D62A9B4, Key: ItemCompareSkillDamage, Value: {s1} Damage
+Hash: CFD92362, Key: ItemCompareSkillThreshold, Value: {s1} Skill Tree Unlocks
+Hash: C33A3FBF, Key: TooltipScrollUp, Value: Scroll Up
+Hash: 7ABFE492, Key: TooltipScrollDown, Value: Scroll Down
+Hash: 0B7DBCC0, Key: CraftPotionTab, Value: Craft Potions
+Hash: 1931C6B4, Key: CraftElixirTab, Value: Craft Elixirs
+Hash: 04243F2C, Key: CraftIncenseTab, Value: Craft Incense
+Hash: E2F2B7E6, Key: SkillRankPurchase, Value: Rank Up
+Hash: A59A0609, Key: SkillModifierPurchase, Value: Learn
+Hash: 45B5B5FA, Key: SkillPurchase, Value: Learn
+Hash: E1DEFBE1, Key: Skill_RankFromBuff, Value: (Buffs Contribution: {c_magic}{s1}{/c})
+Hash: 53364377, Key: ItemLegendaryPower, Value: Legendary Power
+Hash: DBA690D3, Key: ItemUniquePower, Value: Unique Power
+Hash: 4A076E08, Key: ItemSetPower, Value: Set Effect
+Hash: 65147714, Key: RefineResources, Value: Refine Resources
+Hash: 78CD19BA, Key: SetPrefix, Value: ({s1}) Set:
+Hash: D974B7C6, Key: WorldTiers_Disabled, Value: World Tiers are unlocked by completing the Campaign and Capstone Dungeon {icon:Marker_DungeonChallenge, 2.0} within the previous World Tier.
+Hash: 0A548CA0, Key: FortifiedDescription, Value: {c_gold}Fortify:{/c}{c_resource} {s1} / {s2}{/c}
+Hash: D0204728, Key: ContentLevelExact, Value: (Lv. {s1})
+Hash: C0BB400D, Key: LabelDescriptionFormat, Value: {c_gold}{s1}:{/c}
+{s2}
+Hash: 310F7C66, Key: WorldTiers_Level, Value: This World Tier has been unlocked, but it requires Level {s1} to enter.
+Hash: 31559DDE, Key: WorldTiers_Party, Value: A member of your party has not unlocked this World Tier. All party members must have unlocked the same World Tier to join it.
+Hash: 0F73C201, Key: Bounties_Complete, Value: Whisper Unavailable
+Hash: 6EC03C82, Key: Bounties_Complete_Title, Value: {c_red}Whisper Unavailable{/c}
+Hash: F233FF14, Key: VulnerableDescription, Value: Vulnerable
+Hash: 63CF2D1B, Key: Shapeshift_Form_Bear, Value: Werebear Form
+Hash: 63DADCF9, Key: Shapeshift_Form_Wolf, Value: Werewolf Form
+Hash: DE2A5ADA, Key: Shapeshift_Form_Human, Value: Human Form
+Hash: 14307465, Key: QuickTeach_Controller, Value: Teach Recipe
+Hash: 3A04B23C, Key: ItemPower, Value: {s1} Item Power
+Hash: 6EB26780, Key: DropIn_PrologueFailure, Value: A character that has not completed the Prologue cannot join a party that is past the Prologue.
+Hash: FA2605F2, Key: ConnectionLost, Value: Unable to perform that action while attempting to reconnect.
+Hash: 437C2446, Key: DOT_Damage_Cold, Value: Chilled
+Hash: 437DB0AA, Key: DOT_Damage_Fire, Value: Burning
+Hash: 35FEC301, Key: DOT_Damage_Physical, Value: Bleeding
+Hash: 3168075C, Key: DOT_Damage_Poison, Value: Poisoned
+Hash: 37E432EA, Key: DOT_Damage_Shadow, Value: Shadow Damage Over Time-Affected
+Hash: CBAD3836, Key: Affected_By_CC_Type_Slow, Value: Slowed
+Hash: CBAD5AFB, Key: Affected_By_CC_Type_Stun, Value: Stunned
+Hash: 0B7FE0E2, Key: Affected_By_CC_Type_Immobilize, Value: Immobilized
+Hash: 4160681D, Key: Affected_By_CC_Type_Taunt, Value: Taunted
+Hash: 4841F235, Key: Affected_By_CC_Type_Weakened, Value: Weakened
+Hash: F2E52128, Key: Affected_By_CC_Type_Confused, Value: Confused
+Hash: 1C8E5129, Key: Affected_By_CC_Type_Disabled, Value: Dazed
+Hash: 4C6763F8, Key: Affected_By_CC_Type_Knockback, Value: Knocked-Back
+Hash: 40306ADD, Key: Affected_By_CC_Type_Chill, Value: Chilled
+Hash: 4DF5BAC5, Key: Affected_By_CC_Type_Frozen, Value: Frozen
+Hash: 4C68BADF, Key: Affected_By_CC_Type_Knockdown, Value: Knocked-Down
+Hash: 146FA310, Key: CC_Type_Stun, Value: Stun
+Hash: A13BB592, Key: CC_Type_Chill, Value: Chill
+Hash: E5076BBD, Key: CC_Type_Confused, Value: Confuse
+Hash: 0EB09BBE, Key: CC_Type_Disabled, Value: Daze
+Hash: D06A5C1A, Key: CC_Type_Frozen, Value: Freeze
+Hash: 0F5F24B7, Key: CC_Type_Immobilize, Value: Immobilize
+Hash: 146F804B, Key: CC_Type_Slow, Value: Slow
+Hash: 82D3012D, Key: CC_Type_Knockback, Value: Knockback
+Hash: A26BB2D2, Key: CC_Type_Taunt, Value: Taunt
+Hash: 3A643CCA, Key: CC_Type_Weakened, Value: Weaken
+Hash: 82D45814, Key: CC_Type_Knockdown, Value: Knockdown
+Hash: C9787A6E, Key: Resource_Type_Fury, Value: Fury
+Hash: C97BFB65, Key: Resource_Type_Mana, Value: Mana
+Hash: 27746463, Key: Resource_Type_Spirit, Value: Spirit
+Hash: 06A5C8D2, Key: Resource_Type_Energy, Value: Energy
+Hash: A1DE9092, Key: SkillModifierRefund, Value: Refund {c_gold}Cost:{/c} {s1}
+Hash: 96BB9043, Key: SkillRefund, Value: Refund {c_gold}Cost:{/c} {s1}
+Hash: 46B7272F, Key: SkillRankRefund, Value: Refund Rank {c_gold}Cost:{/c} {s1}
+Hash: 8DBBEA0C, Key: ResourceDesc_Essence, Value: {c_gold}Essence:{/c} {c_resource}{s1}{/c}
+Generated when using certain Skills and over time. Used for attacks and Curses.
+Hash: E7FEFFAE, Key: Resource_Type_Essence, Value: Essence
+Hash: 956A5584, Key: AssignSkill, Value: Assign Skill
+Hash: 878BECB2, Key: ItemMarkJunk, Value: Mark as Junk
+Hash: 17C2F6F5, Key: ItemUnmarkJunk, Value: Unmark as Junk
+Hash: 371301B7, Key: ItemSellJunk, Value: Sell All Junk
+Hash: 898DF070, Key: SkillsInstructions_ViewOnSkillTree_Controller, Value: View On Skill Tree
+Hash: 441CEAAD, Key: SkillsInstructions_ViewOnSkillTree, Value: View On Skill Tree
+Hash: 4C6B4E65, Key: DungeonKey_WorldTierRequirement, Value: Requires World Tier {s1}
+Hash: B4B10C18, Key: UpgradePotionTab, Value: Upgrade Potion
+Hash: 4DB2604B, Key: LostSocket, Value: Socket ({s1})
+Hash: C0A9195B, Key: LockedMountTransmogTooltip, Value: Purchase from the Stable Master or from the Shop
+Hash: C6D0AAD1, Key: CurrencyGold, Value: Gold
+Hash: D9201FD0, Key: CurrencyShards, Value: Red Dust (PvP)
+Hash: A16FB64A, Key: CurrencyObols, Value: Murmuring Obols (Curiosity Vendor)
+Hash: 7C3674F3, Key: RecipeLearned, Value: Already Learned
+Hash: 39B67881, Key: ItemLearn, Value: Learn
+Hash: 14CBC225, Key: TransmogToggleDisabled, Value: Equip an item to enable transmog
+Hash: 55BD8EF0, Key: ItemHideCompare, Value: Hide Comparison
+Hash: 0EB184D3, Key: ItemHideCompare_Controller, Value: Hide Comparison
+Hash: 60CFD26D, Key: AspectPower, Value: Aspect
+Hash: 890E9BF8, Key: NotYetUnlocked, Value: {c_red}Not yet unlocked{/c}
+Hash: 0D5BCFB9, Key: Potion, Value: Potion
+Hash: 6457778A, Key: OutOfCharges, Value: Out of Charges
+Hash: 805EE05A, Key: LinkWithAskingPrice, Value: Link with asking price
+Hash: F1E7F93F, Key: ItemPowerWithBonus, Value: {s1}+{s2} Item Power
+Hash: 2AE004CC, Key: Bullet_Text, Value: {icon:bullet, 1.4} {s1}
+Hash: C2407A86, Key: Bullet_Text_Legendary, Value: {icon:legendarystar, 2} {s1}
+Hash: 4B0EFBA6, Key: UpgradeWeaponsArmor, Value: Upgrade Weapons and Armor
+Hash: F590B6EA, Key: UpgradeJewelry, Value: Upgrade Jewelry
+Hash: 7667A202, Key: MountArmorUnlockInstruction, Value: Learn this item and unlock a new item at the Stable Master
+Hash: 64F42BC1, Key: MountArmorKnown, Value: Mount armor already known
+Hash: B6E29E90, Key: Warning_MustAdvance, Value: {icon:Marker_NotSynced_Big, 2.5} {c_red}{s1} must advance the Campaign.{/c}
+Hash: B7C1DD99, Key: Warning_Stronghold, Value: {icon:Marker_NotSynced_Big, 2.5} {c_red}Party must conquer this Stronghold to progress.{/c}
+Hash: 07DB64ED, Key: Leave, Value: Leave
+Hash: D86048B9, Key: TipTownPortalLocked, Value: {c_gold}Town Portal{/c_gold}
+Unable to use, the party leader must first unlocked it.
+Hash: A2ABEEE7, Key: ItemDungeonZoneInfo, Value: {c_white}{s1}{/c_white} in {c_white}{s2}{/c_white}
+Hash: 7449E7ED, Key: RemoveSkill, Value: Remove Skill
+Hash: D65A2E4C, Key: DungeonSigilDescription, Value: Nightmare Sigil is used to transform a dungeon into a Nightmare Dungeon.
+
+This crafting creates a Nightmare Sigil of {s1}.
+
+Afflictions: {s2} | Requires World Tier: {s3}
+Hash: 9A76FD6C, Key: AllowedItemTypesLabel, Value: {c_label}Allowed Item Types:{/c}
+Hash: 869D78EF, Key: ModifierLabel, Value: Modifiers
+Hash: 6F331E89, Key: Warning_MustClearStronghold, Value:  {icon:Marker_NotSynced_Big, 2.5}{c_red}Party must conquer {s1}.{/c}
+Hash: 0821DD90, Key: Party, Value: {c_red}Party{/c}
+Hash: 0D1B5DCD, Key: Player, Value: {c_red}Player{/c}
+Hash: B6DBD1AA, Key: CosmeticItemDescription, Value: Use this item to unlock a new look in the Wardrobe.
+Hash: 1C455A48, Key: CosmeticItemType, Value: Cosmetic {s1}
+Hash: 7E6E4A3C, Key: CosmeticItemDescription_Mount, Value: Use this item to add a new cosmetic look for your Mount. Manage Mount cosmetics at the Stablemaster.
+Hash: D0DC39D7, Key: TipUnspentPoints, Value: You have unspent ability points.
+Hash: 0E8ADEE8, Key: TipInnerSight, Value: {c_label}Inner Sight{/c}
+Attack marked enemies to fill up the gauge. When it's full, gain unlimited Energy for a duration.
+Hash: 50F12902, Key: PotionUpgradeAvailable, Value: {c_warning}Upgrade available at the{icon:Marker_Crafter_Alchemist, 2}Alchemist (Text logic not hooked up yet){/c}
+Hash: 206A5009, Key: PotionUpgradeReq, Value: Upgradeable at Level {s1}
+Hash: 4A2D6A5F, Key: AlreadyOwned, Value: Already Owned
+Hash: D3C4D4D5, Key: WhispersLabel, Value: Whispers of the Dead
+Hash: 5E33E30F, Key: DropIn_WorldTierFailure, Value: This character is not eligible for the party's World Tier.
+Hash: FD337E73, Key: NoTransmogTooltip, Value:  Default Look
+Hash: 75047163, Key: NotUseableByClass, Value: {c_red}Not usable by your Class{/c}
+Hash: CBA5F7AF, Key: Affected_By_CC_Type_Fear, Value: Feared
+Hash: 14683FC4, Key: CC_Type_Fear, Value: Fear
+Hash: 16FC1C7F, Key: CraftSigilTab, Value: Craft Sigils
+Hash: A24CFD52, Key: SalvageSigilTab, Value: Salvage Sigils
+Hash: 330E5498, Key: EnchantTab, Value: Enchant Item
+Hash: A24D0E1A, Key: DropIn_AccountPartitionFailure, Value: Hardcore characters can only play with hardcore characters, and seasonal characters can only play with seasonal characters.
+Hash: CB12327F, Key: ItemBlocklisted, Value: {c_red}This item has been blocklisted{/c}
+Hash: FF719E60, Key: TipWalkingArsenal, Value: {c_label}Walking Arsenal{/c}
+Damage increased by using each Arsenal weapon
+Hash: B16AFF52, Key: ItemDungeonKeyNameFormat, Value: {s1} {s2}
+Hash: 85D05308, Key: SeasonalQuest, Value: Season Quest
+Hash: 3E787625, Key: MalignantNPCIconLabel, Value: Cormond's Wagon
+Hash: 60DC26CA, Key: MalignantNPCTile, Value: Malignant Research
+Hash: FD534715, Key: Expire_Season, Value: {icon:Marker_Season,2.0}Expires end of season
+Hash: 78317FE7, Key: ViewInSeasonJourney, Value: View in Season Journey
+Hash: 071FF8B3, Key: MalignantCraftingNPCIconLabel, Value: Cormond's Workbench
+Hash: F1C3991D, Key: TempPactDesc, Value: [PH] {s1} {s2} Armor Pact(s)
+Hash: C93EF9F0, Key: CurrencyHibernal, Value: Midwinter Proofs (Midwinter Blight Event)
+Hash: F3985C01, Key: EndsIn, Value: Ends in {s1}
+Hash: BBEE6C78, Key: ItemLock, Value: Mark as Favorite
+Hash: 862CCD3B, Key: ItemUnlock, Value: Unmark Item
+Hash: 3B804DDD, Key: QuestItemQuestNameFormat, Value: {s1}:"{s2}"
+Hash: 2955014B, Key: ClaimReward, Value: Claim Reward
+Hash: C1E97C28, Key: SkillModifierRefundNoCost, Value: Refund
+Hash: 7DD1D485, Key: SkillRankRefundNoCost, Value: Refund Rank
+Hash: 674DBC99, Key: SkillRefundNoCost, Value: Refund
+Hash: EC2C8656, Key: Cache_HowToOpen, Value: Use this cache to receive your rewards.
+Hash: 2406106F, Key: S03_PortalHubIconLabel, Value: Vault Portal Details
+Hash: 553B5950, Key: S03_PortalHubNameIconLabel, Value: Vault Portal
+Hash: 3AF9A36F, Key: SkillModifierPurchaseWithGoldRefund, Value: Relearn {c_gold}+{/c}{s1}
+Hash: F899E520, Key: SkillPurchaseWithGoldRefund, Value: Relearn {c_gold}+{/c}{s1}
+Hash: 49DDD40C, Key: SkillRankPurchaseWithGoldRefund, Value: Re-Rank Up {c_gold}+{/c}{s1}
+Hash: 6C90944E, Key: RootNodeRefund, Value: Refund Paths {c_gold}Cost:{/c} {s1}
+Hash: C0965CE4, Key: RootNodeRefundNoCost, Value: Refund Paths
+Hash: E6EC1150, Key: DamageType_None, Value: 
+Hash: 1999888C, Key: TransmogName, Value: Transmog: "{s1}"
+Hash: 44F05BED, Key: AcquisitionSourceBattlePass, Value: Found in "{s1}" Battle Pass
+Hash: A7EB11EC, Key: AcquisitionSourceSalvageItem, Value: Salvaged from item
+Hash: D29A2F43, Key: AcquisitionSourceShopItem, Value: Found in the Shop | Theme: {s1}
+Hash: 3998BB00, Key: MonsterLevel, Value: Monster Level: {s1}
+Hash: D4E50CD1, Key: AlreadyClaimed, Value: Already Claimed
+Hash: A09F6F7D, Key: ClaimRewardLocked, Value: Reward Locked
+Hash: E2D84374, Key: AcquisitionSourceGlobalAchievement, Value: Earned through an event
+Hash: 3B7536B0, Key: AcquisitionSourcePVP, Value: Sold by a vendor for {icon:Shards_Of_Hatred, 1.5} Red Dust
+Hash: 1478F332, Key: DisableClan, Value: Clans are currently disabled
+Hash: 2302F6DF, Key: Unlock_Codex_Instruction, Value: {icon:Aspect_UnlockUpgrade_Salvage, 2.0} Unlocks new Aspect in the Codex of Power on salvage
+Hash: D43B7025, Key: Upgrade_Codex_Transmog_Instruction, Value:  {icon:Aspect_UnlockUpgrade_Salvage, 2.0}{c_white}+{/c} {icon:Item_Transmog_Unlock, 1.5} Upgrades an Aspect in the Codex of Power and unlocks new look on salvage
+Hash: 2E77123B, Key: Upgrade_Codex_Instruction, Value: {icon:Aspect_UnlockUpgrade_Salvage, 2.0} Upgrades an Aspect in the Codex of Power on salvage
+Hash: 152CCD49, Key: Unlock_Codex_Transmog_Instruction, Value:  {icon:Aspect_UnlockUpgrade_Salvage, 2.0}{c_white}+{/c} {icon:Item_Transmog_Unlock, 1.5} Unlocks new Aspect in the Codex of Power and look on salvage
+Hash: FAD4DB0D, Key: NotFound, Value: {c_red}Not Found{/c}
+Hash: 54A8A6D8, Key: GraftingRecipeAffix, Value: Tempering Recipe Affix
+Hash: D29354E4, Key: LegacyItem, Value: {c_red}Legacy Item{/c}
+Hash: 2C7BCD00, Key: Pet_Type_Druid_Wolves, Value: Wolves
+Hash: 1FD9DF6F, Key: Pet_Type_Druid_Ravens, Value: Ravens
+Hash: 68F4E4F8, Key: Pet_Type_Druid_VineCreeper, Value: Poison Creepers
+Hash: 177882B4, Key: Pet_Type_Necromancer_SkeletonMage, Value: Skeletal Mages
+Hash: B027E2E9, Key: Pet_Type_Necromancer_Golem, Value: Golems
+Hash: CEBA51A0, Key: Pet_Type_Necromancer_SkeletonWarrior, Value: Skeletal Warriors
+Hash: 9A42620C, Key: Pet_Type_Sorcerer_LightningSpear, Value: Lightning Spears
+Hash: E6920B85, Key: Pet_Type_Sorcerer_Hydra, Value: Hydras
+Hash: FF801389, Key: Pet_Type_Sorcerer_IceBlades, Value: Ice Blades
+Hash: D4F02520, Key: Tempers, Value: {c_gold}Tempers:{/c} {s1}/{s2}
+Hash: A180ED3F, Key: Durability_Divider, Value: {s1}
+{s2}
+Hash: 1A8FAE3E, Key: NotYetLearned, Value: {c_red}Not yet learned{/c}
+Hash: 9D10B081, Key: LockedCompanionTooltip, Value: Find more pets in the shop
+Hash: 4CB6F82B, Key: UnequipCompanion, Value: Unequip pet
+Hash: BD632C45, Key: CompanionName, Value: {s1}
+Hash: A7179043, Key: AcquisitionSourceSeason, Value: Found in "{s1}"
+Hash: 2587264D, Key: AutomaticClaim, Value: Automatically Claimed
+Hash: C21A7680, Key: UpgradeSigil, Value: Upgrade Sigil
+Hash: 1D6DE6CC, Key: SkillPurchaseMaxRank, Value: Learn {s1} Ranks
+Hash: 477E1D72, Key: SkillPurchaseMaxRankWithGoldRefund, Value: Learn {s1} Ranks {c_gold}+{/c}{s2}
+Hash: C390BE82, Key: The Mother's Gift - Name, Value: Istel
+Hash: C38B5480, Key: The Mother's Gift - Desc, Value: Mother's Triune
+Hash: EFD8580A, Key: ItemMythicPower, Value: Mythic Power

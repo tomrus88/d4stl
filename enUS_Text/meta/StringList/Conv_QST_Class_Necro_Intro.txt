@@ -1,0 +1,2 @@
+Hash: 8EFE61ED, Key: Line1.146C80, Value: I’ve waited for you.
+Hash: DF348DBA, Key: VoiceDir1.146C80, Value: Kind, mysterious 

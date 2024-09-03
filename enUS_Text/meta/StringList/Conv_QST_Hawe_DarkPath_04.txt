@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen a man named Symon?"
+Hash: E291B714, Key: Line16.11E7B7, Value: Get back! Get back! I fear no demons!
+Hash: 398D5C81, Key: VoiceDir16.11E7B7, Value: Jumpy, easily scared. Someone unexpected has called out to you from behind and it could be a demon.

@@ -1,0 +1,6 @@
+Hash: 5D346D69, Key: Line1.C634B, Value: (breathing heavy) ...only Light must remain...
+Hash: CC3DD396, Key: VoiceDir1.C634B, Value: Insane babbling--he's been driven mad by his time in Hell
+Hash: F414A633, Key: Line3.6DE47, Value: Is there anything we can do for that knight?
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Concerned
+Hash: 8E083E4E, Key: Line5.6D03F, Value: No. His mind is shattered.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Cold, wants to move on

@@ -1,0 +1,3 @@
+Hash: 62AF49C7, Key: Line13.BAE4.Rog.M, Value: I can't carry any more.
+Hash: 93A2A728, Key: Line14.BAE4.Rog.M, Value: I'm carrying too much.
+Hash: C4960489, Key: Line15.BAE4.Rog.M, Value: My bags are full.

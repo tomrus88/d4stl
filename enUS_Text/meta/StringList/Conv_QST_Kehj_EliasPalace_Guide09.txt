@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Behind the Mask
+Hash: F43839CD, Key: Line3.8CA44, Value: Look at this! To think such an intriguing place was hidden beyond the storm.
+Hash: 63419FFA, Key: VoiceDir3.8CA44, Value: Intrigued by this hidden gem in the desert
+Hash: 8F54F740, Key: Line25.6D03F, Value: A relic from the days of old Kehjistan maybe. Lost to time until Elias seized it.
+Hash: DF8B230D, Key: VoiceDir25.6D03F, Value: Musing on what this could be--not excited like Meshif. More suspicious and cautious.
+Hash: 296DE5C3, Key: Line27.8CA44, Value: It must hold some treasure, eh?
+Hash: 79A41190, Key: VoiceDir27.8CA44, Value: Excited
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Meshif. Don’t move. Don’t speak to anyone. There is great danger lurking here.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Under his breath. A warning.
+Hash: F584F2BF, Key: Line23.8CA44, Value: You've grown fearful in your old age, my friend! But worry not, I will stay put.

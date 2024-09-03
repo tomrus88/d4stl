@@ -1,0 +1,4 @@
+Hash: 8EE84C29, Key: Line1.13094A, Value: That thing was Astaroth, plain as stone. Donan swore it was dead!
+Hash: DF1E77F6, Key: VoiceDir1.13094A, Value: To Yvaine. Angry. Bitter.
+Hash: 676BF5ED, Key: Line3.13094C, Value: That may be, but I saw him...he lost everything trying to stop it, including his boy.
+Hash: B7A221BA, Key: VoiceDir3.13094C, Value: To Shaega. Heavy. Sad for Donan.

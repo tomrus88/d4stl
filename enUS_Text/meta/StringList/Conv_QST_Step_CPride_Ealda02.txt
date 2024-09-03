@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found the missing barbarians. They turned to cannibalism."
+Hash: F3E764A1, Key: Line3.541E9, Value: We watched them. Learned from them. They consume flesh to take the strength of those who are weak.
+Hash: 62F0CACE, Key: VoiceDir3.541E9, Value: explanatory, cautious, growing confidence
+Hash: 59F2EB1F, Key: Line1.541E9, Value: To--to carry them inside them. Their strength. Their honor--
+Hash: C8FC514C, Key: VoiceDir1.541E9, Value: explanatory, stammering (fearing Ealda), interrupted
+Hash: 3FE1529D, Key: Line5.1275AB, Value: Honor?
+Hash: 90177E6A, Key: VoiceDir5.1275AB, Value: curt, cold questioning
+Hash: 27D057A5, Key: Line7.541E9, Value: Yes. As we carry our ancestors with--
+Hash: 96D9BDD2, Key: VoiceDir7.541E9, Value: desperate, attempting to restore fate
+Hash: 4541654A, Key: Line11.1275AB, Value: Honor is with those who die with blade held high. Only a beast would see them as a meal.
+Hash: 9C3D0AB7, Key: VoiceDir11.1275AB, Value: interrupting, curt; cold, carrying contempt
+Hash: 08F248B2, Key: Line13.541E9, Value: But...by eating them, we honor--
+Hash: 5928747F, Key: VoiceDir13.541E9, Value: fearful, stammering
+Hash: F648B8CE, Key: Line15.1275AB, Value: You have no honor!
+Hash: 4D445E3B, Key: VoiceDir15.1275AB, Value: bellowing, enraged

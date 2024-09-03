@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cathedral of Light
+Hash: 003892BF, Key: Desc, Value: Were you ever truly welcome here?

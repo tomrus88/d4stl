@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Callous Adversary
+Hash: A646FFA4, Key: Description, Value: Born into wealth and witness to cruelty, the soul of this villain was lost long ago. Unlike most in Sanctuary who kill for survival or even money, the Adversary kills for sport.
+Hash: 083EE0CE, Key: Quote, Value: Thrill killer.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

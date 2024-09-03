@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Quest: "Inheritance"
+Hash: 8ED899EA, Key: Line1.123EBF, Value: Now is our chance! Bring all your might to bear! Slay the demon!
+Hash: DF0EC5B7, Key: VoiceDir1.123EBF, Value: Shouting, commanding tone

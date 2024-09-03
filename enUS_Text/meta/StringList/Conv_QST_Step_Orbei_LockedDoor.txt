@@ -1,0 +1,6 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Orbei Scholar
+Hash: E9F9CAAA, Key: Line40.B7A2D, Value: (pounds on doors)
+Hash: CB95624F, Key: Line36.B7A2D, Value: Open the doors!
+Hash: 1BCB8E1C, Key: VoiceDir36.B7A2D, Value: Terrified. Desperate. Banging on a locked door.
+Hash: A3E028E3, Key: Line38.10263F, Value: Let us out!
+Hash: FADBCE50, Key: VoiceDir38.10263F, Value: Terrified. Desperate. Banging on a locked door.

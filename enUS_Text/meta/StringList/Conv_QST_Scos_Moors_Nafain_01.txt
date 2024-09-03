@@ -1,0 +1,24 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Nafain
+Hash: CDEFD200, Key: Line43.8795F, Value: (low moan)
+Hash: FF2C89D8, Key: Line33.BAE4, Value: Nafain?
+Hash: 6E35F005, Key: VoiceDir33.BAE4, Value: cautious, not sure what to make of Nafain (or if he's still alive)
+Hash: 7BA276A1, Key: Line35.8795F, Value: What? Who...who are you?
+Hash: CBD8A26E, Key: VoiceDir35.8795F, Value: Startling awake, disorientated
+Hash: DF2C2514, Key: Line7.8795F.Nec, Value: (sniffing) You stink of Donan...but he is not here. Coward!
+Hash: E3A6D9C1, Key: VoiceDir7.8795F.Nec, Value: Sniffing like a beast. Angry and snapping out the word "coward."
+Hash: DF2BFC49, Key: Line7.8795F.Dru, Value: You are a forest walker... (sniffing like a beast) ...yet you stink of that coward, Donan!
+Hash: E3A6B0F6, Key: VoiceDir7.8795F.Dru, Value: Angry and snapping out the word "coward."
+Hash: DF2C3766, Key: Line7.8795F.Rog, Value: (sniffing) You stink of Donan...but he is not here. Coward!
+Hash: E3A6EC13, Key: VoiceDir7.8795F.Rog, Value: Sniffing like a beast. Angry and snapping out the word "coward."
+Hash: DF2C3BB2, Key: Line7.8795F.Sor, Value: (sniffing) You stink of Donan...but he is not here. Coward!
+Hash: E3A6F05F, Key: VoiceDir7.8795F.Sor, Value: Sniffing like a beast. Angry and snapping out the word "coward."
+Hash: DF2BF193, Key: Line7.8795F.Bar, Value: (sniffing) You stink of Donan...but he is not here. Coward!
+Hash: E3A6A640, Key: VoiceDir7.8795F.Bar, Value: Sniffing like a beast. Angry and snapping out the word "coward."
+Hash: 0D2B7D9E, Key: Line39.BAE4, Value: He feared Lilith might seek you out. He was right.
+Hash: 7C34E3CB, Key: VoiceDir39.BAE4, Value: grave, resigned for "He was right."
+Hash: 1596F023, Key: Line37.8795F, Value: (snarl) Yes...she put me here.
+Hash: 65CD1BF0, Key: VoiceDir37.8795F, Value: Simmering anger. Pained.
+Hash: 092A535D, Key: Line13.8795F, Value: I am beyond saving…all you can do for me is...find the demon. I will help you...go to the north. She is there. Planning...something...
+Hash: 59607F2A, Key: VoiceDir13.8795F, Value: Anxious, desperate to stop Lilith
+Hash: 33FB587E, Key: Line41.8795F, Value: (ragged breathing) There is still time to stop her...Fiorban will accompany you. Hurry!
+Hash: 8431844B, Key: VoiceDir41.8795F, Value: Anxious, time is running out - Pronunciation for Fiorban: FEAR-BAN

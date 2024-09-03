@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The demons are no more. The way should be clear if you hurry.”
+Hash: 5D3BC9FA, Key: Line1.BCB66, Value: Akarat sent you to us. I wish I had more to give. Thank you.
+Hash: CC453027, Key: VoiceDir1.BCB66, Value: Tired and injured, but very grateful to the player.

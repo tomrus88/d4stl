@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Echoes of Lord Zir
+Hash: 8F3B878D, Key: Line1.16E226, Value: You do not deserve the blood in your veins!
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Anger flaring. Barked. Contempt.

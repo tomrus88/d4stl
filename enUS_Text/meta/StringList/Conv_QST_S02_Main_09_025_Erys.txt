@@ -1,0 +1,2 @@
+Hash: 8F238278, Key: Line1.1697C7, Value: You've given too much of yourself to fight Zir—taken too much of his power. I don't think I can stop you if you lose control.
+Hash: DF59AE45, Key: VoiceDir1.1697C7, Value: Hushed, tense, worried. Zir is pronounced (zeer).

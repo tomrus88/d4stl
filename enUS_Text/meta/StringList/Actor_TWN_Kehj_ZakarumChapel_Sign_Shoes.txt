@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Worn Shoes
+Hash: F2CA04D8, Key: NoticeSignText, Value: The pilgrims choose to leave their trail shoes and start on a path anew on the way home.

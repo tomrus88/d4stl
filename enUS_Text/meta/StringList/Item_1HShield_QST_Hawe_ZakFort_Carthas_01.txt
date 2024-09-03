@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Paladin Lord's Bulwark
+Hash: F5C7BC0A, Key: Flavor, Value: A simple kite shield once belonging to the Paladin Carthas, who perished protecting his land from hatred. Despite the many years it has lain forgotten, its luster remains undimmed.

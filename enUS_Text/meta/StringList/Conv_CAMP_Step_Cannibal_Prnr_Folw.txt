@@ -1,0 +1,2 @@
+Hash: BC1CC7A1, Key: Line12.75273, Value: You have my sword!
+Hash: 89FA3427, Key: Line18.75273, Value: I will not fall!

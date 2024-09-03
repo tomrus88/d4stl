@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Seventh Journey Cache
+Hash: A646FFA4, Key: Description, Value: Contains jewelry, a number of late game resources, and a Scroll of Amnesia, which refunds all allocated Skill Points and Paragon Points.

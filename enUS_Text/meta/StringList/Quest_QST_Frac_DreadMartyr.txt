@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: The Dread Martyr
+Hash: 0871A46B, Key: Toast, Value: A dying knight has a final request.
+Hash: D53BFF05, Key: Phase0Description, Value: A dying Cathedral knight told me of his fallen comrade who rose again with a vampiric curse.
+
+He asked that I brave the Hallowed Ossuary and slay Lord Avitus.
+Hash: 059C64AB, Key: Callback5Header, Value: Enter the Hallowed Ossuary
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay {MONSTER}

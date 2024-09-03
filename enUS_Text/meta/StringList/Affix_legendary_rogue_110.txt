@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Quickening Fog
+Hash: 003892BF, Key: Desc, Value: You automatically drop a {c_important}Smoke Grenade{/c} at the end of {c_important}Dash{/c}. {c_important}Smoke Grenades{/c} reduce {c_important}Dash's{/c} Cooldown by {c_random}[Affix_Value_1|2|]{/c} seconds for each enemy hit, up to {c_random}[Affix_Value_1 * Affix."Static Value 0"|2|]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: You drop a {c_important}Smoke Grenade{/c} at the end of {c_important}Dash{/c} that reduces {c_important}Dash's{/c} Cooldown by {c_random}[Affix_Value_1|2|]{/c} seconds for each enemy hit.

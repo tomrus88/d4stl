@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Glyph: Turf
+Hash: A646FFA4, Key: Description, Value: {c_gold}Right-click to learn{/c}

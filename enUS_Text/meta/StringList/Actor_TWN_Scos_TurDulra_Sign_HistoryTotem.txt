@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Druidic History Totem
+Hash: F2CA04D8, Key: NoticeSignText, Value: Wooden talismans inscribed with tales of great feats of the first druids. These totems share the history of the druidic people of Sanctuary as well as their guiding precepts.

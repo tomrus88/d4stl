@@ -1,0 +1,7 @@
+Hash: 6623D328, Key: Greetings, Value: Greetings
+Hash: D86DF9CB, Key: Questions, Value: Questions
+Hash: 33CC7A23, Key: Answers, Value: Answers
+Hash: 455D2DE9, Key: Coordination, Value: Coordination
+Hash: 08734790, Key: Trade, Value: Trade
+Hash: 2C5D955C, Key: Numbers, Value: Numbers
+Hash: CEFD00F5, Key: GameContent, Value: Game Terms

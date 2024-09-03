@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nahantu Grand Vizier
+Hash: A646FFA4, Key: Description, Value: While the High Council of Zakarum dominated Old Kurast, advisers into the ways of sorcery were a necessity. Both reviled and valued for their insights, these individuals were forced to walk a fine line, often with lethal consequences.
+Hash: 083EE0CE, Key: Quote, Value: Seer of the unseen.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Equipment

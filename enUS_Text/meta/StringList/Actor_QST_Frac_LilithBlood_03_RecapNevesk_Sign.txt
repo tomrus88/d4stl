@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "The Burning of Nevesk: An Official Account"
+Hash: F2CA04D8, Key: NoticeSignText, Value: "... The wise may ask, 'Why Nevesk? Why would Lilith descend upon such a paltry town?' The answer is simple. Nevesk has always been mired in Sin. The she-demon found a rotten potato and cut it open, freeing the miasma within."

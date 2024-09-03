@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Search
+Hash: 5D27EBD7, Key: Line1.AA8C3, Value: Easy, friend.

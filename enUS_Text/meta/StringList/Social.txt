@@ -1,0 +1,162 @@
+Hash: FCEC5355, Key: InClan, Value: In a Clan: {s1}
+Hash: 9518384B, Key: FullName_BattleTag, Value: {s1} ({s2})
+Hash: 02016AA4, Key: FullName_PSN, Value: {s1} ( {icon:PlatformIcon_PS, 2.0}  {s2})
+Hash: C9C1FC6D, Key: FullName_XB, Value: {s1} ({icon:PlatformIcon_Xbox, 2.0} {s2})
+Hash: 35C6AF82, Key: NameLoadingPlaceholder, Value: ...
+Hash: 145A5E03, Key: SortBy, Value: Sort by Alphabetical - NYI
+Hash: CCC5BCCF, Key: WhisperPlayer, Value: Whisper {s1}
+Hash: 74D61E41, Key: AddFriend, Value: Add {s1}  as Friend
+Hash: CE40008F, Key: InvitePlayerToParty, Value: Invite {s1} to Party
+Hash: 0D44EB33, Key: PromotePlayer, Value: Promote {s1} to Party Leader
+
+Hash: F0DC5E7F, Key: KickPartyPlayer, Value: Remove {s1} from Party
+Hash: 8A3BF694, Key: HeroesHeaderText, Value: {icon:Social_Tab_Icon_Sanctuary, 2.5} ({s1})
+Hash: B8F5D1FE, Key: HeroesSubheaderText, Value: In Sanctuary
+Hash: 4BF0213F, Key: ClansHeaderText, Value: {icon:Social_Tab_Icon_Clan, 2.5} ({s1})
+Hash: 91A7E0B9, Key: FriendsHeaderText, Value: {icon:Social_Tab_Icon_Friends, 2.5} ({s1})
+Hash: C2EA4407, Key: PageControlHeader, Value: Page
+Hash: 4BD16103, Key: SanctuaryCount, Value: {s1}
+
+Hash: 55E15163, Key: Offline, Value: Offline
+Hash: A4FAEABE, Key: AddAFriendButton, Value: {icon:button4, 2}  Add a Friend
+Hash: 44C48D34, Key: InviteText, Value: Friend request from
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: 049542F4, Key: Decline, Value: Decline
+Hash: B6C49EC4, Key: PartyInviteText, Value: Party invitation received from
+Hash: A8AA0AA7, Key: Guild_Invite_Text, Value: Wants you to join their Clan!
+Hash: 7A55E78C, Key: Guild_Create_Text, Value: Create A Clan
+Hash: E1B0FDF9, Key: PendingInviteText, Value: Party invitation sent to
+Hash: 0E1F278E, Key: UnknownPlayerID_Text, Value: Unknown Character
+Hash: 44C3FF89, Key: InviteSent, Value: {s1} invite sent.
+Hash: DA377F15, Key: PartyText, Value: Party
+Hash: 364438F3, Key: PartyMemberKicked, Value: {s1} was removed from the party
+Hash: 345EFA61, Key: PartyMemberJoined, Value: {s1} joined the party
+Hash: 23503CD3, Key: PartyMemberLeft, Value: {s1} left the party
+Hash: 467372B2, Key: PartyMemberPromoted, Value: {s1} was promoted to party leader
+Hash: D3B94A67, Key: PartyPlayerPromoted, Value: You were promoted to party leader
+Hash: B5569F68, Key: PartyPlayerKicked, Value: You were removed from the party
+Hash: 363C8208, Key: PartyPlayerLeft, Value: You left the party
+Hash: 67B21522, Key: FriendPendingText, Value: Friend invite sent.
+Hash: 653E3F19, Key: OnlineFriendsCount, Value: {c:FF66cc99}{s1}{/c}/{c:FF727270}{s2}{/c}
+Hash: EA8C54E7, Key: ClanCount, Value: {c:FF66cc99}{s1}{/c}/{c:FF727270}{s2}{/c}
+Hash: 0E2B6E24, Key: Clan_PendingInvites, Value: Pending Invites
+Hash: F1EC619D, Key: Clan_Expires, Value: Expires: {s1}
+Hash: C147DA47, Key: Clan_New, Value: NEW!
+Hash: 4E6684F0, Key: PartyLeaderSwitchCampaignState, Value: Would you like to return to your own world state?
+Hash: D1EF2591, Key: PartyLeaderSwitchCampaignStateCountdown, Value: {s1}
+Hash: 706565D7, Key: Toast_Expire, Value: {s1}
+Hash: B3A225E4, Key: PartyQueueInvite, Value: {s1} would like to join the {s2} Queue
+Hash: 79CD8FA9, Key: QueueTimeWait, Value: {s1}
+Hash: A02756A5, Key: PartyQueueAccept, Value: {s1} accepted the queue invite
+Hash: 90AEEB49, Key: PartyQueueDecline, Value: {s1} declined the queue invite
+Hash: CEDB8693, Key: PartyQueueEnter, Value: You entered the queue
+Hash: E0234552, Key: PartyQueueFailToEnter, Value: The party did not enter the queue
+Hash: 0588AE38, Key: PartyQueueCancelPartyLeader, Value: Your party left the queue
+Hash: 2AAC0BD0, Key: Dungeon, Value: Dungeon
+Hash: 0001EC16, Key: PvP, Value: PvP
+Hash: 0B35FF16, Key: PartyTransferCountdown, Value: {s1}
+Hash: AD21D013, Key: PartyLeaderSwitchCampaignStateCurrent, Value: Currently using {s1}'s world state
+Hash: F0C0B4D1, Key: PartyQueueCancelPartyChange, Value: You left the queue
+Hash: FC108B9F, Key: PartyQueueCancelGameError, Value: A game creation error occurred, you left the queue
+Hash: C3CA545F, Key: PVPDungeonCrawl, Value: PvP / Dungeon Crawl
+Hash: A70B57F8, Key: LookForGroupsButton, Value: Look for groups
+Hash: 81DEE460, Key: LookForGroupsDescription, Value: Group up with others for dungeon invasion
+Hash: A2D4C136, Key: VoiceChat, Value: {icon:r3, 2.0} Voice Chat
+Hash: 7FF80F7B, Key: PartyInvitesHeader, Value: Party Invites
+Hash: 955CA4A6, Key: VoiceChatNone, Value: None
+Hash: A0D20BBB, Key: LookingForPartyButtonDisabled_Queuing, Value: Queuing...
+Hash: ABF792E6, Key: LookingForPartyButtonDisabled_InviteSent, Value: You may not queue for a multiplayer activity while you have outstanding party invitations.
+Hash: 16375D0C, Key: TitleError, Value: Error
+Hash: B36EFAB5, Key: PartyQueueRequeued, Value: Game error. Your party was re-queued.
+Hash: C6EB3E34, Key: ClanInviteReceived, Value: {s1} invited you to join {s2}
+Hash: F091FB6E, Key: ClanRequestReceived, Value: {s1} requested to join your clan
+Hash: 606DE279, Key: PlayerOnlineNotification, Value: {s1} has logged in
+Hash: BFC8707F, Key: YourParty, Value: Your Party ({s1}/{s2})
+Hash: 51FFB551, Key: EmptySlot, Value: Empty Slot
+Hash: 19D1167F, Key: NoInvites, Value: You don't have any party invites
+Hash: 2A08DD79, Key: PartyHeader, Value: {s1}'s Party:  {c:FFdba864}{s2} {c:FF928c82}/4
+Hash: D2D3DBE4, Key: Clan_Invites_Information, Value: Go to the Clan screen for more information.
+You have {c:FFbf6b31}{s1}{/c} pending invites.
+Hash: 2FB605C5, Key: ClanPromotion, Value: You were promoted in your clan
+Hash: 758095BD, Key: ClanDemotion, Value: You were demoted in your clan
+Hash: C14E5940, Key: ClanKick, Value: You were kicked from {s1}
+Hash: CF54A5BF, Key: SocialList_Header_Xbox, Value: Xbox
+Hash: 6B369349, Key: Clan_Tab_Voice, Value: Clan ({s1})  {icon:Voice_Speaking, 3}
+Hash: CBF519B9, Key: Controller_Close, Value: {icon:button2, 2}  Close
+Hash: 74F97C45, Key: FriendRequest_Text, Value: sent you a Friend Request
+Hash: D10E1AD3, Key: Accept_Controller, Value: {icon:button1, 2}  Accept
+Hash: 4A9E2E57, Key: Decline_Controller, Value: {icon:button3, 2}  Decline
+Hash: D48004E9, Key: WaitingForResponse, Value: Waiting for response...
+Hash: 198399C8, Key: VoiceConnectionLost, Value: Connection to Voice Server lost
+Hash: 65A73F20, Key: VoiceSpeakingWhileMuted, Value: Speaking while muted or mic off
+Hash: 003821DE, Key: Clan, Value: Clan
+Hash: 7D3A6DCA, Key: FriendsPsnHeaderText, Value: PSN™ ({s1})
+Hash: AD501BDF, Key: FriendsXblHeaderText, Value: {icon:Social_Tab_Icon_XboxLive, 2.5} ({s1})
+Hash: 08504EBF, Key: PlatformName_XB, Value: {icon:PlatformIcon_Xbox, 2.0} {s1}
+Hash: 125A0736, Key: PlatformName_PSN, Value: {icon:PlatformIcon_PS, 2.0}  {s1}
+Hash: 41C5A0BE, Key: FriendRequestSentTo, Value: Friend Request sent to {s1}
+Hash: 58EB7E9B, Key: FriendRequestSent, Value: Your Friend Request was sent.
+Hash: 3FF31158, Key: ClanVoicePlus, Value: +{s1}
+Hash: 4B20415B, Key: SocialNotification_CoOpFormat, Value: {s1} | {s2}
+Hash: 3C730F77, Key: VoiceChat_Title, Value: Voice Chat
+Hash: F190AFAB, Key: SetActive_Controller, Value: {icon:button1, 2} Set Active
+Hash: 56ED6725, Key: LeavePartyQuestWarning, Value: You will lose progress on any partially completed Dungeons, Strongholds, or Campaign quests when you leave this party.
+Hash: D4E47216, Key: PartyLeaderSwitchCampaignStateDetails, Value: You can always do this later from the Journal.
+Hash: 93CA68A5, Key: PartyVoteStarted, Value: You initiated a vote
+Hash: A1E56C75, Key: PartyVoteReceived, Value: {s1} initiated a vote
+Hash: D8A1D2B0, Key: PartyVoteKeyedDungeon, Value: Vote to start {s1} {s3} (Tier {s2})
+Hash: 326749F3, Key: PartyVoteFailed, Value: The party vote has failed
+Hash: 57464FFC, Key: PartyVoteAlreadyInProgress, Value: Unable to start a party vote while one is already in progress
+Hash: 9FD67854, Key: ImportantNote, Value: {c_highlight}Important notice on your Social screen{/c}
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 9D925E9D, Key: LeaveParty, Value: Leave Party
+Hash: 35DA2AA4, Key: LeavePartyNotification, Value: Are you sure you want to leave the party?
+Hash: 7C53F13A, Key: WorldTier_PartyChangeDenied, Value: A party member declined a World Tier change.
+Hash: 929010D4, Key: HeaderFriends, Value: Friends List
+Hash: A339D414, Key: HeaderLocal, Value: Local Players
+Hash: 23F50247, Key: HeaderClan, Value: Clan Members
+Hash: A5040DBC, Key: HeaderConsole, Value: Console Friends
+Hash: 38EB085B, Key: PartyVoteWorldTier1, Value: {s1} wants to change the party World Tier to Adventurer (I)
+Hash: 38EB085C, Key: PartyVoteWorldTier2, Value: {s1} wants to change the party World Tier to Veteran (II)
+Hash: 38EB085D, Key: PartyVoteWorldTier3, Value: {s1} wants to change the party World Tier to Nightmare (III)
+Hash: 38EB085E, Key: PartyVoteWorldTier4, Value: {s1} wants to change the party World Tier to Torment (IV)
+Hash: 17D9EDB8, Key: ClanKickNotificationCoop, Value: {s1} was kicked from their clan.
+Hash: 444AFD67, Key: ClanBanNotificationCoop, Value: {s1} has been banned from their clan.
+Hash: 22E031C7, Key: ClanKickNotification, Value: You were kicked from your clan.
+Hash: E336C1F6, Key: ClanBanNotification, Value: You have been banned from your clan.
+Hash: C6AF317C, Key: ClanPromoteNotificationCoop, Value: {s1} was promoted to {s2} in their clan.
+Hash: 90C2338B, Key: ClanPromoteNotification, Value: You were promoted to {s1} in your clan.
+Hash: 797A5374, Key: ClanDemoteNotificationCoop, Value: {s1} was demoted to {s2} in their clan.
+Hash: 161B1983, Key: ClanDemoteNotification, Value: You were demoted to {s1} in your clan.
+Hash: 0751C64B, Key: ClanDisbandNotificationCoop, Value:  {s1}, your clan has been disbanded.
+Hash: 0C14B8DA, Key: ClanDisbandNotification, Value: Your clan has been disbanded.
+Hash: 1448241E, Key: LeaveParty_Prompt, Value: {icon:button3, 2.0} Leave Party
+Hash: AD15D076, Key: VoiceChatJoinedNotification, Value: 
+Hash: C1520F4A, Key: ClanRank, Value: Rank: {s1}
+Hash: C7D1EBC3, Key: SetNote_Prompt, Value: {icon:button4, 2} Set Note
+Hash: 5B2D6CC7, Key: Cancel_Prompt, Value: {icon:button2, 2} Cancel
+Hash: 69F8E859, Key: PlayerOptions, Value: {icon:button1, 2} Options
+Hash: 12AD5912, Key: PlayerOptions_KBM, Value: {icon:lmb, 2} Options
+Hash: CEB23EE5, Key: PartyMemberPortalTooltip, Value: Teleport to {s1}
+Hash: B1B2E2FE, Key: PartyMemberPortalTooltipLocation, Value: Location: {s1}
+Hash: A86DF5ED, Key: LastEdited_FullName_BattleTag, Value: Last edited by {c_white}{s1}{/c}
+Hash: 8EB4AC4F, Key: LastEdited_FullName_XB, Value: Last edited by {c_white}{s1} ({icon:PlatformIcon_Xbox, 2.0}{s2}){/c}
+Hash: 8EB4AB58, Key: LastEdited_FullName_PS, Value: Last edited by {c_white}{s1} (   {icon:PlatformIcon_PS, 2.1}   {s2}){/c}
+Hash: 92AE7764, Key: PartyInvitePending, Value: You have already invited this player to your party
+Hash: 32F14AA5, Key: FullName_PSN_Dark, Value: {s1} ( {icon:PlatformIcon_PS_Dark, 2.0}  {s2})
+Hash: 715A6E57, Key: SocialCardPreview, Value: Card Preview
+Hash: 5708DA2B, Key: SocialFeatureUnavailable, Value: Action unavailable.
+Hash: 10E71487, Key: PlatformName_Other, Value: {icon:PlatformIcon_Other, 2.0} {s1}
+Hash: 735DB882, Key: AddAFriend, Value: Add a Friend
+Hash: 1005A344, Key: PlatformName_Cedar, Value: {icon:PlatformIcon_Cedar, 2.0}  {s1}
+Hash: 87139A32, Key: FullName_Cedar, Value: {s1} ( {icon:PlatformIcon_Cedar, 2.0}  {s2})
+Hash: E36604A9, Key: OpenCedarOverlayWarning, Value: This will open Steam overlay's browser which may not support controller input. Are you sure you want to continue?
+Hash: 0ABBD4D8, Key: FriendsCedarHeaderText, Value: {icon:Social_Tab_Icon_Cedar, 2.5} ({s1})
+Hash: 79B110FA, Key: HeaderConsole_Cedar, Value: Steam™ Friends
+Hash: E62152DE, Key: PartyLeaderDroppedSwitchCampaignState, Value: You're now party leader. Return to your own world state?
+Hash: DF37D6D4, Key: LastEdited_FullName_Cedar, Value: Last edited by {c_white}{s1} ({icon:PlatformIcon_Cedar, 2.0}{s2}){/c}
+Hash: B2FF3318, Key: SearchPrompt, Value: Search
+Hash: 05335BA6, Key: PartyVoteChallengeRift, Value: Vote to start the current Trial
+Hash: F808404F, Key: CancelRequest, Value: CancelRequest
+Hash: 67AEC172, Key: FriendsListSearchBar, Value: Search for players
+Hash: A8642298, Key: ClearTextField_Icon, Value: {icon:BtnIcon_CloseFull_Up, 1.45}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Unsent Letter
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Dear Isolde, I made it into the ruins. Priceless relics and easy marks abound, just as you said. However, you failed to mention the mad sorcerer and his metal marionettes. If I don't make it back home, I blame you. Your brother, Elbek"

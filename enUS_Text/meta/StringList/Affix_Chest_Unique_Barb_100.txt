@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Inflicting Bleeding on an enemy has up to a {c_random}[Affix_Value_1|%|]{/c} chance to reduce the Cooldowns of your Skills by {c_number}[Affix_Value_2|1|]{/c} second.

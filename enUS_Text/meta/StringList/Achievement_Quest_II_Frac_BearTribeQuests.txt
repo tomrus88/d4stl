@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Ally of the Bear Tribe
+Hash: 003892BF, Key: Desc, Value: Complete quests for the Bear Tribe in Fractured Peaks.
+Hash: 3DA4E169, Key: Crit_235626, Value: Shattered Tribute
+Hash: 3DA4E16A, Key: Crit_235627, Value: Hammer of the Champion
+Hash: 3DA4E16B, Key: Crit_235628, Value: The Beast's Challenge
+Hash: 3DA55487, Key: Crit_236047, Value: Call of the Ancients

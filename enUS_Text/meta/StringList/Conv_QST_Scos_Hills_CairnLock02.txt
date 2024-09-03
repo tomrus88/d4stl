@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Exhuming the Forgotten
+Hash: 5A270F7C, Key: Line1.804B7, Value: Airidah wouldn't have barred the path of the dead like this. The spirits should be free to roam within the earth.
+Hash: 65381056, Key: Line13.BAE4, Value: Lilith?
+Hash: D4417683, Key: VoiceDir13.BAE4, Value: Almost rhetorical, to him/herself
+Hash: 3D0F6013, Key: Line17.804B7, Value: Strange…the door is locked with an earthen seal. What was it my father said about this…
+Hash: 8D458BE0, Key: VoiceDir17.804B7, Value: Curious. Deep in thought/almost to himself for the last sentence (trying to remember something from his past)
+Hash: 8F5CBB72, Key: Line25.804B7, Value: Wardstones. That’s it.
+Hash: DF92E73F, Key: VoiceDir25.804B7, Value: Answer coming to him.
+Hash: 5B73C86E, Key: Line21.804B7, Value: If you bring me one from the nearby cairns, I think I can open the way.
+Hash: ABA9F43B, Key: VoiceDir21.804B7, Value: Unsure of himself for the last part of the sentence

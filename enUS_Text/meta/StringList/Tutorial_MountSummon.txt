@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Call Mount
+Hash: 7BFE534B, Key: simple_instruction, Value: Call your mount by pressing {hotkey:Mount}

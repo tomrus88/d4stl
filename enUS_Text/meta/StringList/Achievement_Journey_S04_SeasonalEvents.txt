@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Joining the Fray
+Hash: 3A4912CF, Key: DescShort, Value: Complete Iron Wolf Events found during {icon:Marker_Helltide, 2.5} Helltide

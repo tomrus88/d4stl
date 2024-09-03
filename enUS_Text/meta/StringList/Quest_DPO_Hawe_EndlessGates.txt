@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Some doors should stay forever sealed.
+Hash: BCE26C3F, Key: Callback63Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 3DC59C04, Key: Callback68Header, Value: Deposit Animus into the {GIZMO}
+Hash: A9244120, Key: Callback73Header, Value: Slay Typhon the Keeper and collect the {ITEM}
+Hash: DD0D3424, Key: Callback77Header, Value: Travel to the {LEVELAREA}
+Hash: AE775FBE, Key: Callback80Header, Value: Use the Mage Key to open the {GIZMO}
+Hash: 95661601, Key: Callback83Header, Value: Defeat the {MONSTER}

@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Every 10 seconds, gain a barrier absorbing up to {c_number}[Affix_Flat_Value_1]{/c} damage for 5 seconds.

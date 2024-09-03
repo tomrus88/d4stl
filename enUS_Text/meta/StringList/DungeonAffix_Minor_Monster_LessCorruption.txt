@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Monster Shadow Damage Over Time Resist
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monsters take 60% reduced damage from your Shadow damage over time effects.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monsters take 60% reduced damage from your Shadow damage over time effects.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monsters take 60% reduced damage from your Shadow damage over time effects.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where is Istel in all of this?"
+Hash: 9257723D, Key: Line1.1BCB9E, Value: (chuckles) I wouldn’t worry about Istel. First sign of trouble, she’ll vanish like a snake in the bog... She’s a survivor.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Smiling. Istel is a pain, but he admires her. (Istel = iss-tell)

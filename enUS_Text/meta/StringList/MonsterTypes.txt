@@ -1,0 +1,17 @@
+Hash: 18EAA971, Key: Undead, Value: Undead
+Hash: 074AD313, Key: Demon, Value: Demon
+Hash: 07266F8F, Key: Beast, Value: Beast
+Hash: 079BF959, Key: Human, Value: Human
+Hash: 15B98999, Key: Breakable, Value: Breakable
+Hash: 82B9BA59, Key: Scenery, Value: Scenery
+Hash: 00370A92, Key: Ally, Value: Ally
+Hash: 00415687, Key: Team, Value: Team
+Hash: F9F94F20, Key: Helper, Value: Helper
+Hash: AFE523FF, Key: CorruptedAngel, Value: Reaper
+Hash: 9CD304BD, Key: Pandemonium, Value: Ancient Beast
+Hash: 185E4C24, Key: Blood Golem, Value: Blood Golem
+Hash: 0760B1D3, Key: Elite, Value: Elite
+Hash: 8D560D2F, Key: Champion, Value: Champion
+Hash: E8C598AB, Key: MonsterNameType, Value: {s1}  ({s2})
+Hash: 05EC788A, Key: Minion, Value: Minion
+Hash: F59A5D12, Key: SoloBossNameAndFlavor, Value: {s1}, {s2}

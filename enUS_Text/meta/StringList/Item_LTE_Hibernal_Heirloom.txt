@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Lost Heirloom
+Hash: A646FFA4, Key: Description, Value: Found in Fractured Peaks during the Midwinter Blight. Recovered from Frigid Husks.
+Hash: F5C7BC0A, Key: Flavor, Value: The last vestige of a victim lost to the Midwinter Blight.

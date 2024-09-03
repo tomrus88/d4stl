@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: DE6902E4, Key: Line6.FFAEF, Value: Had to chase away another Zakarum missionary today. They visit here, ply the children with sweets to wash the taste of ashes out of their mouths.
+Hash: 5D85D31F, Key: Line1.FFAEF, Value: I’ve seen what their light brings. The Zakarum's fervor drove them to burn down my village.
+Hash: 785D7C66, Key: Line8.FFAEF, Value: I know there’s a ledger there of what happened. I want to... I need to find it. I could show the children and the town why we must never let in the missionaries.
+Hash: 25967A6F, Key: Line10.FFAEF, Value: Can you take me there and help me recover the ledger?

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barret's Corrupted Heart
+Hash: F5C7BC0A, Key: Flavor, Value: An unnaturally large bear heart.  It gives off a strong smell of decay.

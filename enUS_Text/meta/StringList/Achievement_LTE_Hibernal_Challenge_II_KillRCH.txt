@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Frigid Demise
+Hash: 3A4912CF, Key: DescShort, Value: Defeat the Red Cloaked Horror found in Local Events during the Midwinter Blight.

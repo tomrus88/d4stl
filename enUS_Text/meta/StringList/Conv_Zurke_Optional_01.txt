@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you know Taissa?"
+Hash: 8EB65F2C, Key: Line1.1086F0, Value: Ah of course, of course! Little Taissa! Always a source of comfort and wisdom to this old man!
+Hash: 673A08EE, Key: Line3.1086F0, Value: I haven't heard from her in a while though. She must be busy in the west. Or maybe she's just forgotten about me...

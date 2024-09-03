@@ -1,0 +1,6 @@
+Hash: BC254D83, Key: Line12.6DE47, Value: There’s no way through this time. It's wounded though...or is it telling us to wound it?
+Hash: 0C5B7950, Key: VoiceDir12.6DE47, Value: Dreamy, under the effects of incense. Probably a slower read--not all there in the head.
+Hash: 222FF29A, Key: Line10.6D03F, Value: Clever thinking.
+Hash: 72661E67, Key: VoiceDir10.6D03F, Value: Groggy, under the effects of incense. Probably a slower read--not all there in the head.
+Hash: 5618E59E, Key: Line14.6D03F, Value: So, who will stab at it to see if it will move?
+Hash: A64F116B, Key: VoiceDir14.6D03F, Value: Slightly slow delivery, as if this crazy thought is just coming to him

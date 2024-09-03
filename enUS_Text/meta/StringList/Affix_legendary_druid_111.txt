@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Runeworker's Conduit
+Hash: 003892BF, Key: Desc, Value: Critical Strikes with {c_important}Storm{/c} Skills that you cast charge the air around you for {c_number}[Affix."Static Value 0"||]{/c} seconds causing a {c_important}Lightning Bolt{/c} to periodically hit an enemy in the area for {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Lightning damage. 
+
+Your {c_important}Lightning Bolts{/c} deal {c_random}[Affix_Value_1 * 100|%x|]{/c} increased damage.
+Hash: 82B7D312, Key: CodexDesc, Value: Critical Strikes with {c_important}Storm{/c} Skills cause a {c_important}Lightning Bolt{/c} to periodically deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Lightning damage. Your {c_important}Lightning Bolts{/c} deal {c_number}[Affix_Value_1 * 100|%x|]{/c} increased damage.

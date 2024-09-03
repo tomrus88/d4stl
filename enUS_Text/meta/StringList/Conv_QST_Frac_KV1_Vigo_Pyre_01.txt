@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Vigo?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: You were good soldiers. Worked hard, fought hard. Drank hard too.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: ceremonial
+Hash: 8F55D8A7, Key: Line25.6DE47, Value: Brothers, sisters...I hope you find peace in these flames.
+Hash: BB86EF9B, Key: Line27.BAE4, Value: Vigo? What are you doing here?
+Hash: 27FD9937, Key: Line7.6DE47, Value: So you lived! I came clean to Prava about taking that woman’s bribe. Eesh, it’s looking bad.
+Hash: C1F212B9, Key: Line9.6DE47, Value: My ass is on the line. Might not have a job when she’s done with me.
+Hash: 6F2B10C2, Key: Line11.6DE47, Value: Hey, you're here for her, right? Let's go together. Maybe she'll go easy on me if you're there.

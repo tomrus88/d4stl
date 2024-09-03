@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you need assistance?"
+Hash: 5A431844, Key: Line1.8C8DF, Value: Thank Akarat for you... I'd shake your hand, but my arm, you see... We were on our way to Tarsarak when that demon attacked.
+Hash: C94C7E71, Key: VoiceDir1.8C8DF, Value: Wounded/in pain. (arm bitten by demon) Relieved to see Player.
+Hash: 8E2C0B48, Key: Line5.8C8DF, Value: (chuckle) I was lucky, to a point... I managed to slay one of the creatures, but it got its fangs in me. The venom... is not pleasant.
+Hash: FD357175, Key: VoiceDir5.8C8DF, Value: Wounded/in pain, downplaying both. Putting on a brave face. 
+Hash: 282084CA, Key: Line7.8C8DF, Value: I need a flower to treat it... the ghost palm. It grows near those old bones. Bring one back to me, would you?
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: Wounded/in pain, downplaying both. Putting on a brave face. 

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here is the beast's head."
+Hash: 59F2EB1C, Key: Line1.541E6, Value: Huh, and what a great ugly thing it is. Glorious.
+Hash: C8FC5149, Key: VoiceDir1.541E6, Value: Admiring the gnarled beast's severed head. Smiling. Wolfish. 
+Hash: 74CA9463, Key: Line8.541E6, Value: I will deliver this to the Forgemaster. When you are ready, return to us in Ked Bardu.
+Hash: E3D3FA90, Key: VoiceDir8.541E6, Value: Pleased. Reverent. Warm.
+Hash: 2203926C, Key: Line10.541E6, Value: And congratulations, warrior of the Oxen Tribe.
+Hash: 7239BE39, Key: VoiceDir10.541E6, Value: Pleased. Reverent. Warm.

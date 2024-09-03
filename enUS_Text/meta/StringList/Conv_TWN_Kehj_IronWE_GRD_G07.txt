@@ -1,0 +1,3 @@
+Hash: 8EDA92A8, Key: Line1.128877, Value: What do you mean they attacked again? I just cleared that field!
+Hash: 675E3C6C, Key: Line3.128879, Value: I'm paying you to keep them out, not sit here and eat while they swarm over and over!
+Hash: 3FE1E62C, Key: Line5.128877, Value: Yeah, yeah. I'll head over there again, just let me finish my meal first.

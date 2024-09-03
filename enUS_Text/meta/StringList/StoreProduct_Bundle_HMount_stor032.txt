@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient's Ceremonial
+Hash: A646FFA4, Key: Description, Value: The taste of the Ancient's lost magic was intoxicating. The wearer of the Pearl began scouring Sanctuary, desperate for more forbidden knowledge and power.
+Hash: 083EE0CE, Key: Quote, Value: Power from a lost age.
+Hash: 13A53A8B, Key: Series, Value: "Ancient's Pearl" Mount & Mount Armor

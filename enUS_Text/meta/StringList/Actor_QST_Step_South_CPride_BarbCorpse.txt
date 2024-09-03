@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mutilated Barbarian
+Hash: F2CA04D8, Key: NoticeSignText, Value: Torn flesh and bite marks riddle the corpse. Jaw agape, they express both surprise and terror.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Lure Receptacle
+{c_gold}Requires{/c} {c_green}15{/c} {c_gold}Blood Lures{/c}

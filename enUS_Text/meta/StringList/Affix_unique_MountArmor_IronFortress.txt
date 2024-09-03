@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: While mounted you take {c_number}[Affix_Value_1*100|%|]{/c} less damage.

@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Skills
+Hash: 7BFE534B, Key: simple_instruction, Value: Press {hotkey:Abilities} to spend {c_highlight}Skill Points{/c} on your {c_highlight}Skill Tree{/c}.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Press {hotkey:Equippables} and navigate to "Abilities" to {c_highlight}spend your Skill Points{/c}.

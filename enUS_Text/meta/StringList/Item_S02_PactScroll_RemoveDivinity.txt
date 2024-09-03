@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cleansing Acid - Divinity
+Hash: A646FFA4, Key: Description, Value: Removes two{icon:Vampire_Pact_Purple_Icon, 2.3}Pacts of Divinity from a piece of armor.

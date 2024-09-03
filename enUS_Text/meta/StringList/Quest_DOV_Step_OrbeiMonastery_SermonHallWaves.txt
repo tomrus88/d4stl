@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Suffering Disquiet
+Hash: D29F0719, Key: Callback12Header, Value: Speak with the Raving Monk
+Hash: 0BDB18BB, Key: Callback23Header, Value: Fight off the Vengeful Spirits

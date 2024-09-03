@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are these monsters?" 
+Hash: 8F311900, Key: Line1.171196, Value: People tell all sorts of stories about them, none good.
+Hash: DF6744CD, Key: VoiceDir1.171196, Value: Ominous, thoughtful.
+Hash: 67B4C2C2, Key: Line3.171196, Value: They say they don grotesque masks, seek only misery, and steal away all who stray outside the firelight as tributes to a beast known as the Red-Cloaked Horror.
+Hash: B7EAEE8F, Key: VoiceDir3.171196, Value: Ominous, thoughtful.
+Hash: 40386C84, Key: Line5.171196, Value: Some of the more gruesome stories even speak of those monsters once being tributes themselves, returned to life from frozen husks and indebted to their new master forever.
+Hash: 906E9851, Key: VoiceDir5.171196, Value: Ominous, thoughtful.

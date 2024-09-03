@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ruins of Eridu
+Hash: 003892BF, Key: Desc, Value: A once-mighty fortress consumed by the swamp.

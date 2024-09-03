@@ -1,0 +1,2 @@
+Hash: 1BC5E139, Key: Buff6_Name, Value: Cursed Blood
+Hash: 04622D1C, Key: Buff6_Description, Value: Take increased damage from blood orb creation.

@@ -1,0 +1,3 @@
+Hash: 62615AF5, Key: Line13.BAE4.Nec.M, Value: I'm low on health.
+Hash: 9354B856, Key: Line14.BAE4.Nec.M, Value: I need more health.
+Hash: C44815B7, Key: Line15.BAE4.Nec.M, Value: That requires more health.

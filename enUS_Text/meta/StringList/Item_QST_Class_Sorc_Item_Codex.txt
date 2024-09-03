@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Forgotten Codex
+Hash: F5C7BC0A, Key: Flavor, Value: This mouldering volume is filled with cramped lines of spidery handwriting and drawings of obscure mystic symbols.

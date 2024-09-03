@@ -1,0 +1,58 @@
+Hash: 003DFCC1, Key: Name, Value: The Cage of Grief
+Hash: 0871A46B, Key: Toast, Value: Travel to the Hungering Swamp
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Follow Taissa's lead
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Taissa is convinced that the solution to repairing the Soulstone lies in the Hungering Swamp.
+Hash: 8826D3CF, Key: Phase118Description, Value: Taissa is convinced that the solution to repairing the Soulstone lies in the Hungering Swamp.
+Hash: 97D1B1F7, Key: Phase118OutsideSubzoneHeader, Value: Accompany your allies to the Hungering Swamp 
+Hash: 38AA46F0, Key: Callback235Header, Value: Accompany your allies to the Hungering Swamp 
+Hash: C5A2F9D3, Key: Phase158Description, Value: Taissa refuses to give me the details of her plan, but it apparently requires Yellow Lotus and Maggot Queen Ichor.
+Hash: 6282DC7B, Key: Phase158OutsideSubzoneHeader, Value: Gather supplies for Taissa in the Hungering Swamp
+Hash: 36A5F933, Key: Callback157Header, Value: Collect Maggot Queen Ichor
+Hash: DB40AFF1, Key: Callback173Header, Value: Collect a Yellow Lotus 
+Hash: D29EC072, Key: Callback237Header, Value: Collect a Yellow Lotus 
+Hash: D7F1DF10, Key: Callback244Header, Value: Pickup the Yellow Lotus
+Hash: 24EC1BD1, Key: Callback245Header, Value: Pickup the Maggot Queen Ichor
+Hash: 8227EB31, Key: Phase165Description, Value: I should place the materials I gathered in the pot over the fire. Taissa needs them. 
+Hash: E2083799, Key: Phase165OutsideSubzoneHeader, Value: Place the ingredients into the pot at the ritual site
+Hash: 22E7CE14, Key: Callback167Header, Value: Place the Maggot Queen Ichor into the boiling pot
+Hash: A408EC0C, Key: Callback240Header, Value: Place the Yellow Lotus into the boiling pot
+Hash: 4516E3B6, Key: Callback259Header, Value: Pickup the Yellow Lotus
+Hash: 7C8C95CE, Key: Callback260Header, Value: Pickup the Maggot Queen Ichor
+Hash: D186F4B2, Key: Phase175Description, Value: Taissa is convinced that the solution to repairing the Soulstone lies in the Hungering Swamp.
+Hash: 54B4823A, Key: Phase175OutsideSubzoneHeader, Value: Enter the Hungering Swamp
+Hash: 0F29A2F5, Key: Callback177Header, Value: Bring Taissa and Donan to the ritual site
+Hash: 704507B4, Key: Phase195Description, Value: Now that I've found Taissa and Donan in the Hungering Swamp, I should speak with Taissa now. 
+Hash: 3A0D177C, Key: Phase195OutsideSubzoneHeader, Value: Speak with Taissa
+Hash: 00BE9674, Key: Callback194Header, Value: Speak with Taissa in the Hungering Swamp
+Hash: 031F1FD7, Key: Phase198Description, Value: Now that I've found Taissa and Donan in the Hungering Swamp, the time has come to speak with Taissa. 
+Hash: 2D3406FF, Key: Phase198OutsideSubzoneHeader, Value: Speak with Taissa in the Hungering Swamp
+Hash: E7AD4CB7, Key: Callback197Header, Value: Speak with Taissa
+Hash: B03A8E6B, Key: Phase204Description, Value: Mephisto wishes to speak with me once more. While the timing couldn't be worse, I should see what he wants. 
+Hash: A9271C13, Key: Phase204OutsideSubzoneHeader, Value: Enter the Fiery Portal in the Hungering Swamp
+Hash: D9F04ECB, Key: Callback203Header, Value: Enter the Fiery Portal 
+Hash: F99AAF4E, Key: Phase261Description, Value: Taissa is convinced that the solution to repairing the Soulstone lies in the Hungering Swamp.
+Hash: 6609EC56, Key: Phase261OutsideSubzoneHeader, Value: Enter the Hungering Swamp
+Hash: 637B4C11, Key: Callback263Header, Value: Speak with Taissa
+Hash: 48F9B8CF, Key: Phase271Description, Value: I should place the materials I gathered in the pot over the fire.
+Hash: D8B636F7, Key: Phase271OutsideSubzoneHeader, Value: Return to the ritual site
+Hash: 1D9A8D78, Key: Callback279Header, Value: Pickup the Yellow Lotus
+Hash: 55103F90, Key: Callback280Header, Value: Pickup the Maggot Queen Ichor
+Hash: EF04B912, Key: Callback282Header, Value: Return to the ritual site
+Hash: 15020354, Key: Phase168Description, Value: Now that I've found Taissa and Donan in the Hungering Swamp, I've been asked to ignite the sage bushels nearby. 
+Hash: D52F271C, Key: Phase168OutsideSubzoneHeader, Value: Ignite Braziers at the Ritual Site
+Hash: 1F9EDB35, Key: Callback357Header, Value: Ignite Swamp Incense {DONE_OVER_NEEDED}
+Hash: 9CC08C4F, Key: Phase316Description, Value: Mephisto wishes to speak with me once more. While the timing couldn't be worse, I should see what he wants. 
+Hash: 8622FA77, Key: Phase316OutsideSubzoneHeader, Value: Speak with the Herald of Hatred in the Vision of Travincal
+Hash: 24F1F9D3, Key: Callback364Header, Value: Speak with the Herald of Hatred
+Hash: C66B658A, Key: Phase320Description, Value: Mephisto wishes to speak with me once more. While the timing couldn't be worse, I should see what he wants. 
+Hash: 12816612, Key: Phase320OutsideSubzoneHeader, Value: Speak with the Herald of Hatred in the Vision of Travincal
+Hash: D9F62CCD, Key: Callback322Header, Value: Speak with the Herald of Hatred
+Hash: BB2C386F, Key: Phase325Description, Value: Mephisto wishes to speak with me once more. While the timing couldn't be worse, I should see what he wants. 
+Hash: A7C24A97, Key: Phase325OutsideSubzoneHeader, Value: Exit the Fiery Portal in the Vision of Travincal
+Hash: 2C43882C, Key: Callback330Header, Value: Exit the Fiery Portal 
+Hash: 3B7E9F51, Key: Phase336Description, Value: Mephisto wishes to speak with me once more. While the timing couldn't be worse, I should see what he wants. 
+Hash: 6B7B8FB9, Key: Phase336OutsideSubzoneHeader, Value: Follow the Herald of Hatred in the Vision of Travincal
+Hash: 94156E34, Key: Callback338Header, Value: Follow the Herald of Hatred
+Hash: CE58B774, Key: Phase339Description, Value: Mephisto wishes to speak with me once more. While the timing couldn't be worse, I should see what he wants. 
+Hash: 5EA27F3C, Key: Phase339OutsideSubzoneHeader, Value: Follow the Herald of Hatred in the Vision of Travincal
+Hash: FF741350, Key: Callback343Header, Value: Follow the Herald of Hatred

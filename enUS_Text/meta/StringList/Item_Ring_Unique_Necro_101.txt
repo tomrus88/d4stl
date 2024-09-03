@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ring of the Sacrilegious Soul
+Hash: F5C7BC0A, Key: Flavor, Value: The mere proximity of a practitioner of such dark arts can rouse the dead and disturb those souls who have earned their rest.

@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: Crossing Over
+Hash: 0871A46B, Key: Toast, Value: Return to the Black Lake with Neyrelle
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Speak with Neyrelle in the Path of the Firstborn
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Neyrelle and I have gathered what is necessary to travel beyond the Black Lake in pursuit of Lilith. She awaits me in the Path of the Firstborn. From there, we will carry out our plan.
+Hash: 75A12100, Key: Phase47Description, Value: I've received the blessing from Reverend Mother Prava, and Neyrelle has the necessary magic to help us open the way across the Black Lake. We stand ready to begin the ritual at the lake's shore.
+Hash: 42386648, Key: Phase47OutsideSubzoneHeader, Value: Speak with Neyrelle at the Black Lake
+Hash: F0CB5F43, Key: Callback67Header, Value: Speak with Neyrelle
+Hash: B31D4704, Key: Phase87Description, Value: I've received the blessing from Reverend Mother Prava, and Neyrelle has the necessary magic to help us open the way across the Black Lake. We will meet at the Gate of Kasama and venture back to the lake's shore.
+Hash: 0CE990CC, Key: Phase87OutsideSubzoneHeader, Value: Go to the Black Lake with Neyrelle
+Hash: A09595C3, Key: Phase95Description, Value: I've received the blessing from Reverend Mother Prava, and Neyrelle has the necessary magic to help us open the way across the Black Lake. We will meet at the Gate of Kasama and venture back to the lake's shore.
+Hash: DD7BE66B, Key: Phase95OutsideSubzoneHeader, Value: Speak with Neyrelle
+Hash: B590DDE6, Key: Callback97Header, Value: Speak with Neyrelle in the Path of the Firstborn
+Hash: C4595E4B, Key: Phase114Description, Value: The ritual to open the way across the Black Lake was successful. After confirming Neyrelle's wellbeing, I must venture into this mysterious realm before us: The Necropolis of the Firstborn.
+Hash: 539DC7F3, Key: Phase114OutsideSubzoneHeader, Value: Speak with Neyrelle at the Black Lake
+Hash: 38A468EE, Key: Callback116Header, Value: Speak with Neyrelle
+Hash: 859EA5AF, Key: Callback117Header, Value: Go to the Black Lake with Neyrelle

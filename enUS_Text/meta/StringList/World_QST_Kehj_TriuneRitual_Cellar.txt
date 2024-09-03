@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mysterious Gateway
+Hash: 003892BF, Key: Desc, Value: A hellish portal of unknown contents. 

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing out here?"
+Hash: 3FF2D964, Key: Line5.136591, Value: I might ask you the same, this is no place for sight-seeing.
+Hash: 90290531, Key: VoiceDir5.136591, Value: Cagey, suspicious. Recognizes player as someone wanted for crimes by the Knights Penitent, waiting to see how this plays out.  Edgar is a foremer crusading Knight from up north and speaks in a somewhat formal manner, unusual for a desert traveler. 
+Hash: 18768326, Key: Line7.136591, Value: I was helping these people escape Caldeum when we were attacked by monsters. Now we're split up, and the damn things just keep coming.
+Hash: A7619319, Key: Line19.136591, Value: I could certainly use an extra sword, just until we get further down the road. Cover us while we move ahead and find our lost sheep.

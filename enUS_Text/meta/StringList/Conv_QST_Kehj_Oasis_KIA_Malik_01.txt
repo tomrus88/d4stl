@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Approach Malik
+Hash: 59F2E8EE, Key: Line1.54239, Value: A dog and a wolf pup, come to join the pack...
+Hash: C8FC4F1B, Key: VoiceDir1.54239, Value: Sneering. Sinister.
+Hash: F73A6A9A, Key: Line3.D5161, Value: Murdering scum!
+Hash: 6643D0C7, Key: VoiceDir3.D5161, Value: Furious. Attacking.

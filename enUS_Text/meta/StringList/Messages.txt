@@ -1,0 +1,23 @@
+Hash: EA6C6E5B, Key: TreasureGoblinEscaped, Value: Treasure Goblin escaped!
+Hash: ABE0480D, Key: ZE_Invasion_CaptainSpawn, Value: A Servant of Hell has joined the battle
+Hash: 1DA1A910, Key: ZE_Invasion_LightningRound, Value: [PH] Remnants of the Horde gather...
+Hash: DFB2EC98, Key: ZE_GatheringHorde_CaptainVulnerable, Value: The Servant of Hell is open for attack!
+Hash: FF136AAB, Key: ZE_GatheringHorde_BossIntro, Value: The Overlord calls forth its Legions
+Hash: FE04079A, Key: ZE_GatheringHorde_NextWave, Value: Fresh Legions have joined the battle
+Hash: ADD498C4, Key: ZE_GatheringHorde_Fail, Value: The Legions escape
+Hash: FF8E7B30, Key: ZE_GatheringHorde_BossPhase, Value: The Overlord has returned
+Hash: 9C69CD28, Key: BountyMetaQuestStart, Value: The Tree of Whispers awaits your Grim Favors
+Hash: 14997878, Key: USZ_RoamingFlySpawnWarning, Value: An evil presence scours the land for prey
+Hash: 631B1383, Key: LE_Empowered_BossEscaped, Value: The Unascended has escaped...
+Hash: 2EDDE0F3, Key: WOTD_VarshanSummon_invaderSpawns, Value: Darkness gathers... A Grotesque Debtor will emerge soon.
+Hash: 60B502BC, Key: WOTD_VarshanSummon_invaderDespawns, Value: Grotesque Debtor escaped!
+Hash: E59F8DFE, Key: Boss_Summoned, Value: Boss has been summoned nearby
+Hash: EAF62499, Key: S2_Vampzone_BloodSeeker_Large_Start, Value: The Bloodseekers are drawn to the Sanguine Altar
+Hash: 40515A8D, Key: S2_Vampzone_GreaterBloodSeekerAltar_Start, Value: The Glowing Blood Stone begins to radiate dark energy...
+Hash: 09228278, Key: SkipCampaignAvailable, Value: Skip Campaign is now available through Character Select
+Hash: 763035A2, Key: S02_BloodSeeker_Ambush, Value: The Blood Seekers are hunting you!
+Hash: 31668346, Key: ButcherSuccess, Value: The Butcher claims {Param1} and returns to Hell.
+Hash: 839B837E, Key: ButcherEscape, Value: The Butcher has abandoned his hunt and returned to Hell.
+Hash: 62FFA047, Key: S03_LYN_LunarShrineReady, Value: The power of the Lunar Shrine has been restored!
+Hash: 9D650B3B, Key: TrainingGrounds_TimeToKill, Value: "Time to kill: "
+Hash: 36105700, Key: TrainingGrounds_TimeToKill_TimeString, Value:  seconds

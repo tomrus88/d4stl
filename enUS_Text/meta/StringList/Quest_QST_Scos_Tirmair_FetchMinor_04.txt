@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Of Pests and Pestilence
+Hash: 0871A46B, Key: Toast, Value: Fly swarms are infecting the Moors.
+Hash: FAF02F4B, Key: Phase6Description, Value: Stinging Swarms in the Shrouded Moors are plaguing the poor inhabitants of Tirmair, wreaking havoc on both crop and livestock. A village elder, Meav, hired me to help exterminate them.
+
+The Swarms seem to be concentrated in the Blood Vale.
+Hash: 059C64AB, Key: Callback5Header, Value: Exterminate Stinging Swarms in the Shrouded Moors: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I have lessened the plague of Stinging Swarms in the Moors. I should return to Meav in Tirmair for reward. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Meav

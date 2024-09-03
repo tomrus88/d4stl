@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm looking for Taissa's amulet."
+Hash: 5A39A25C, Key: Line1.9118B, Value: You mean Taissa sent you for it because she does not want to come herself. Hmph.
+Hash: C9430889, Key: VoiceDir1.9118B, Value: Relationship between Timue and Taissa is currently chilly.
+Hash: F42E1BDE, Key: Line3.9118B, Value: What does she need with that amulet anyway? Is she in some kind of trouble?
+Hash: 6337820B, Key: VoiceDir3.9118B, Value: Hint of worry
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Well…
+Hash: 26CB1034, Key: VoiceDir5.BAE4, Value: Searching for words. Doesn't want to get in the middle of this spat between Timue and Taissa.
+Hash: 28170EE2, Key: Line7.9118B, Value: Ah, she told you to keep quiet. Do not worry, I will not make you break your promise.
+Hash: C20B8864, Key: Line9.9118B, Value: Her things are over in that trunk. Just where she left them…

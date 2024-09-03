@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Anonymous Letter
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Anonymous Letter
+Hash: 59EA27BC, Key: Line1.3F381, Value: Honorable Crusaders of Zakarum - Our neighbor Eriman is the witch you seek. With this act of good faith, we beg for your mercy. Let this be an end to the burnings.
+Hash: C8F38DE9, Key: VoiceDir1.3F381, Value: Heavy-hearted. Ashamed. Submitting to the enemy.

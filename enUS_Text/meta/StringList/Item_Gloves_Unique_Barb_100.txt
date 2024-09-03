@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Serrated Vambraces
+Hash: 003DFCC1, Key: Name, Value: Twin Strikes
+Hash: F5C7BC0A, Key: Flavor, Value: "When hitting it once doesn't kill it, hit it twice." 
+- Bear Tribe Proverb

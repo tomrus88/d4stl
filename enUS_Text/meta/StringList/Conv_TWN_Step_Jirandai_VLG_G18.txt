@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where are you headed?"
+Hash: 5D6B5E63, Key: Line1.F78AF, Value: Blessed Akarat, spirits of the sands, grant my wagon safe passage.

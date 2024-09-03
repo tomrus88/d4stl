@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Calculated
+Hash: 003892BF, Key: Desc, Value: After spending {c_random}[Affix_Value_1]{/c} of your Primary Resource, your next attack Stuns enemies hit for {c_number}[Affix_Value_2]{/c} seconds.

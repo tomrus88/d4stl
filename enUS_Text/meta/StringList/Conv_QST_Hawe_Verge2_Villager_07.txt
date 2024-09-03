@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You're not a follower of the Zakarum faith."
+Hash: 2964AEE9, Key: Line27.91FE5, Value: Ha! Look around. Nothing from outside the swamp comes in this far and remains. There is one power here, and no Light--angelic or otherwise--can reach it.
+Hash: 799ADAB6, Key: VoiceDir27.91FE5, Value: (snort)

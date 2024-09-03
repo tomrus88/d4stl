@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is there a healer nearby?"
+Hash: 5D6BDBE0, Key: Line1.F8614, Value: No, if you have a rash, treat it yourself. I don't want to see another one.

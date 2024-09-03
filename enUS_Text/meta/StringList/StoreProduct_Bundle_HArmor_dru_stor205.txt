@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Corruption Subjugate
+Hash: A646FFA4, Key: Description, Value: Some druids of the Blood Vale withstood Lilith's befoulment of Nafain and the land itself. These survivors bear the marks of corruption's taint and strive to remake their homes in the moors.
+Hash: 083EE0CE, Key: Quote, Value: In the wake of desecration.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

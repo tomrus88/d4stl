@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Are you still with me?
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: (pants) I could do with a strong tea... but I’m still here. I refuse to be a demon's puppet again.
+Hash: 75451B6B, Key: VoiceDir13.18AEA4, Value: Exhasuted. Gives a brittle smile.
+Hash: F6CD1FC0, Key: Line15.18AEA4, Value: Give me a moment. I’ll meet you in the gatehall.

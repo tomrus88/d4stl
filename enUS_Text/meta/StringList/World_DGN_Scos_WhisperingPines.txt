@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Whispering Pines
+Hash: 003892BF, Key: Desc, Value: Astaroth is gone now, but his grip on this keep holds fast. 

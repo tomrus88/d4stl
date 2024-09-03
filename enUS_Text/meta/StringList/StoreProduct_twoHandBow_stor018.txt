@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fabricate Bow
+Hash: 13A53A8B, Key: Series, Value: "Season of the Construct"

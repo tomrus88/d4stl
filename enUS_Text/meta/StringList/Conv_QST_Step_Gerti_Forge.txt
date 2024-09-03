@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I have what you need to repair the great axe.”
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: A sturdy horn and a fair amount of Silver Quartz. The ancestors led you well.
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: sincere, content
+Hash: 67708DA0, Key: Line3.137EC4, Value: Though the axe will take a new form, it will be stronger than ever.
+Hash: B7A6B96D, Key: VoiceDir3.137EC4, Value: sincere
+Hash: 3FF43762, Key: Line5.137EC4, Value: But...it deserves to collect more than dust. To taste demon blood again. It should be in the hands of the worthy. One to wield it with purpose.
+Hash: 902A632F, Key: VoiceDir5.137EC4, Value: direct, pensive, sincere
+Hash: F0FB8AE6, Key: Line9.137EC4, Value: If you meet the Triune again, remind them of our strength. Oxen does not yield.
+Hash: 4131B6B3, Key: VoiceDir9.137EC4, Value: sincere, warm, proud

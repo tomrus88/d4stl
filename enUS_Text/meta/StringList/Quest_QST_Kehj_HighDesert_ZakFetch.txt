@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Symbol of Faith
+Hash: 0871A46B, Key: Toast, Value: A Zakarum relic is coveted by unscrupulous collectors. Ensure it stays with the church.
+Hash: 61CFD437, Key: Phase11Description, Value: I caught the thief and was able to reclaim the Zakarum relic. Amr will be glad to see it returned.
+Hash: 38AA8D97, Key: Callback10Header, Value: Return the artifact to the Zakarum Church
+Hash: D6E30DFE, Key: Phase27Description, Value: Priest Amr told me of a relic used to honor the dead kept within the tombs beneath the church. I should find it before thieves do.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Find the Zakarum holy symbol in Tomb of the Saints
+Hash: 6274A1FB, Key: Phase33Description, Value: The relic has been stolen. The thief must be nearby. I should find them and reclaim the artifact.
+Hash: AB22B0DB, Key: Callback32Header, Value: Retrieve the {ITEM} from the Graverobber

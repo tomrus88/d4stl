@@ -1,0 +1,2 @@
+Hash: 59EA27BC, Key: Line1.3F381, Value: Be still. It's no use, I've caught it too.
+Hash: C8F38DE9, Key: VoiceDir1.3F381, Value: resigned

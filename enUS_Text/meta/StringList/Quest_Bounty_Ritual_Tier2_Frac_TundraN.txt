@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ritual: Frigid Expanse
+Hash: 0871A46B, Key: Toast, Value: The Tree of Whisper's influence in this area has waned. Perform a series of rituals to put the land back under its gaze.
+Hash: 6A9510E0, Key: Callback55Header, Value: Invoke rituals: {LEFT}

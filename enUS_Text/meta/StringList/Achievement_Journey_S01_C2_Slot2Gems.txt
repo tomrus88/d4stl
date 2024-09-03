@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vivisector
+Hash: 3A4912CF, Key: DescShort, Value: Collect Demon Hearts, found from killing Demons or in {icon:Marker_DungeonCellar, 2.5} Cellars

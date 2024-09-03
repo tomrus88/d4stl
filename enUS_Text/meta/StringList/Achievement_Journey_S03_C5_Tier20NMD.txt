@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Confronting Ancestral Terror
+Hash: 3A4912CF, Key: DescShort, Value: Complete Tier 21 or higher {icon:Marker_NightmareDungeonEntrance, 2.5} Nightmare Dungeons

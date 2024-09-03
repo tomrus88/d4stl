@@ -1,0 +1,4 @@
+Hash: 5A2C0EEF, Key: Line1.8998F, Value: That's far enough, deserter!
+Hash: C935751C, Key: VoiceDir1.8998F, Value: A Knight guards the entrance to the barracks
+Hash: 676F2FA2, Key: Line3.136591, Value: Where is Osric? That dog dies today!
+Hash: B7A55B6F, Key: VoiceDir3.136591, Value: Filled with rage and adrenaline

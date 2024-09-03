@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: None
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Izel
+Hash: 539CE8B6, Key: Line4.121A3D, Value: First, we need a suitable vessel for my transfer. There is a cave nearby housing a magically-sealed chest. Open it with the chant "Isun senni aproxos." Bring me the contents of the chest and you will be rewarded.

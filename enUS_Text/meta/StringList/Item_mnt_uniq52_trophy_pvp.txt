@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Demonic Warlord's Windchimes
+Hash: A646FFA4, Key: Description, Value: It may look like a chained skeleton, but the sounds this makes in the wind are music to some ears.

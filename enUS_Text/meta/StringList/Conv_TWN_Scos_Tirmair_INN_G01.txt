@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “This town seems to be struggling.”
+Hash: 5D313E90, Key: Line1.C08E9, Value: Only a matter of time before the people of this town'll move on. Even the ancestors won't answer our pleas.

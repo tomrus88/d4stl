@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Kill the Knights
+Hash: 0871A46B, Key: Toast, Value: Knights Penitent are murdering innocents, stop them.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Defeat the Knights
+Hash: 1F9943DA, Key: Callback13Header, Value: Defeat the Knights

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The Triune let you pass? Seems you fit right in."
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: They are slaves to Hatred! The last thing we had in common died when you killed our Mother.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Deeply offended. Seething.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: Let's bloody go.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Seething but moving on.

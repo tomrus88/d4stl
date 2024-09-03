@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Beckoning Thirst
+Hash: 0871A46B, Key: Toast, Value: [PH] Activity loop where the player kills Blood Seekers and learns about the ancients and specifically the vampire lord ancient.
+Hash: D6E10F8C, Key: Phase106Description, Value: The Skull told me to enter the City of Ancients; I need to be as strong as Lord Zir. To that end, Erys has given me a list of his lieutenants. The hunt is on.
+Hash: E6570D8F, Key: Callback108Header, Value: Slay Norwalc
+Hash: 33514A50, Key: Callback109Header, Value: Slay Chaz'bak
+Hash: 6AC6FC68, Key: Callback110Header, Value: Slay Vyzviana
+Hash: 859EA5AF, Key: Callback117Header, Value: Slay Addrine 
+Hash: EEFEDB10, Key: Callback163Header, Value: Slay Togna

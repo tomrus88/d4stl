@@ -1,0 +1,5 @@
+Hash: 728F7820, Key: Line11.FE7EA, Value: Father guide my blade...
+Hash: A6786B24, Key: Line15.FE7EA, Value: So many dead. So much blood.
+Hash: F6AE96F1, Key: VoiceDir15.FE7EA, Value: haunted
+Hash: 8D672167, Key: Line18.FE7EA, Value: Hang on, brother. Just a bit longer and it'll all be over.
+Hash: ABCB89C2, Key: Line22.FE7EA, Value: Damn it, he's slipping away!

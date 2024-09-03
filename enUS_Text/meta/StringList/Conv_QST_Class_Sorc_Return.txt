@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here are the Codex pages."
+Hash: 8EFD9E2F, Key: Line1.14656B, Value: Let's see here... yes, yes, without a doubt, this is the Forgotten Codex. Finally! I am bound by my word, you shall know the magic secrets contained in this book.
+Hash: 678147F1, Key: Line3.14656B, Value: We will work together! Come, I have prepared for this ritual.

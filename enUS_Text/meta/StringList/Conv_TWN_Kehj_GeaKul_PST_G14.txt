@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED9AC6F, Key: Line1.125E38, Value: Here, this will help with the pain.
+Hash: 675D5632, Key: Line3.125E39, Value: End it. Please, it hurts.
+Hash: B79381FF, Key: VoiceDir3.125E39, Value: weak, dying
+Hash: 3FE0FFF3, Key: Line5.125E38, Value: I... I can’t. I told you, you can’t ask that of me. I’m so sorry.
+Hash: 90172BC0, Key: VoiceDir5.125E38, Value: brokenhearted

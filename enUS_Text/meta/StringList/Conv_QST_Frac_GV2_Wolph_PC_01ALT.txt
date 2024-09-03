@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why help me?"
+Hash: F71E3DEE, Key: Line3.ACEF6, Value: My reasons are the same as before. You want to stop Lilith, and I want to help you succeed.
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: In return for what?
+Hash: 26CB1034, Key: VoiceDir5.BAE4, Value: Suspicious
+Hash: 2B0730F2, Key: Line7.ACEF6, Value: Her defeat is all I desire, and I believe you are key to that. It’s a shame you’ve fallen in with the Horadrim, though.

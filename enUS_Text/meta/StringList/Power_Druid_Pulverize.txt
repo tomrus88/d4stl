@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Pulverize
+Hash: 003892BF, Key: desc, Value: {c_label}Spirit Cost:{/c_label} {c_resource}{Resource Cost}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Shapeshift into a Werebear and slam the ground, dealing {c_number}{payload:DAMAGE}{/c} damage to surrounding enemies.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:DAMAGE}{/c}
+Hash: 74D6BC35, Key: Mod2_Description, Value: Your next {c_important}Pulverize{/c} will {c_important}{u}Overpower{/u}{/c} every {c_number}{SF_14}{/c} seconds while you remain {c_important}{u}Healthy{/u}{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Pulverize
+Hash: D618A933, Key: Mod0_Description, Value: Enemies hit with {c_important}Pulverize{/c} deal {c_number}[{SF_10}*100|%|]{/c} reduced damage for {c_number}{buffduration:MOD_DAMAGE_REDUCTION}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Primal Pulverize
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Pulverize{/c} deals {c_number}[SF_25*100|x%|]{/c} increased {c_important}{u}Overpower{/u}{/c} Damage. Enemies {c_important}{u}Overpowered{/u}{/c} by {c_important}Pulverize{/c} are Stunned for {c_number}{SF_12}{/c} seconds.
+Hash: 948901D1, Key: Mod1_Name, Value: Raging Pulverize

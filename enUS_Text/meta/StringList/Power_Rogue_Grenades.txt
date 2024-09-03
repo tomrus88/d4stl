@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Stun Grenade
+Hash: 003892BF, Key: desc, Value: Drop {c_number}[{SF_1}]{/c} Grenades each dealing {c_number}{payload:GRENADE}{/c} Physical damage.

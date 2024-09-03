@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Born of the Stars
+Hash: A646FFA4, Key: Description, Value: Amidst the chaos of the Twisting Nether, a band of stars coalesce - at first a constellation, then a shimmering steed, she gallops across the darkened skies, delighting all who see her.
+Hash: 083EE0CE, Key: Quote, Value: A beacon of hope.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

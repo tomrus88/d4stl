@@ -1,0 +1,15 @@
+Hash: 0280BD7F, Key: Line28.BAE4.Bar, Value: This is yours.
+Hash: 0280F100, Key: Line28.BAE4.Nec, Value: This belongs to you.
+Hash: 0280C835, Key: Line28.BAE4.Dru, Value: This is yours.
+Hash: 0281079E, Key: Line28.BAE4.Sor, Value: This belongs to you.
+Hash: 02810352, Key: Line28.BAE4.Rog, Value: This is yours.
+Hash: 77B32E3C, Key: Line34.BAE4.Bar, Value: I believe this is yours.
+Hash: 77B361BD, Key: Line34.BAE4.Nec, Value: I'm certain this belongs to you.
+Hash: 77B338F2, Key: Line34.BAE4.Dru, Value: I think this belongs to you.
+Hash: 77B3785B, Key: Line34.BAE4.Sor, Value: This is yours, I'm certain.
+Hash: 77B3740F, Key: Line34.BAE4.Rog, Value: I believe this is yours.
+Hash: ECE59EF9, Key: Line40.BAE4.Bar, Value: This is yours, is it not?
+Hash: ECE5D27A, Key: Line40.BAE4.Nec, Value: This belongs to you, doesn't it?
+Hash: ECE5A9AF, Key: Line40.BAE4.Dru, Value: This is yours, is it not?
+Hash: ECE5E918, Key: Line40.BAE4.Sor, Value: This is yours, I'm sure.
+Hash: ECE5E4CC, Key: Line40.BAE4.Rog, Value: Is this yours?

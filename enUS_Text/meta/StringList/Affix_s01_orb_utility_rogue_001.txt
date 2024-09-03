@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Clipshot
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_random}[Affix_Value_1|%|]{/c} chance for your {c_important}Cutthroat{/c} Skills to Slow by {c_number}[Affix."Static Value 1"|%|]{/c} for {c_number}[PowerTag.s01_orb_utility_rogue_001."Script Formula 3"]{/c} seconds and your {c_important}Marksman{/c} Skills to Knock Back enemies.

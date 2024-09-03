@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Istel?"
+Hash: 214289C8, Key: Line13.1BCD2B, Value: Just go! GO!
+Hash: 783E2F35, Key: VoiceDir13.1BCD2B, Value: Exhausted. Ashamed. Barking to be left alone.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Potent Alterations
+Hash: 003892BF, Key: Desc, Value: Temper a piece of Armor, Jewelry, and a Weapon.
+Hash: 3DA4E589, Key: Crit_235716, Value: Temper Armor
+Hash: 3DA572CB, Key: Crit_236780, Value: Temper Jewelry
+Hash: 3DA572B3, Key: Crit_236779, Value: Temper Weapon

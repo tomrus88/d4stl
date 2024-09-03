@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Brink of Madness
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Monsters while using the Profane Mindcage during {icon:Marker_Helltide, 2.5} Helltide

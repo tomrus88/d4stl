@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem lost in thought. Do you have a plan to save the Iron Wolves?"
+Hash: 923D2945, Key: Line1.1B3CA4, Value: The Iron Wolves are being hunted by a demon. It stalks us, exploits us, sets us against one another.
+Hash: E2735512, Key: VoiceDir1.1B3CA4, Value: thinking aloud, stepping through what she knows
+Hash: 6AC0D307, Key: Line3.1B3CA4, Value: And now I hear its voice. The demon beckons me to its lair in the wilds, where it would tempt me, then discard me. But it doesn't expect you.
+Hash: 43447CC9, Key: Line5.1B3CA4, Value: Let us spring the trap. We play along, draw the demon out of hiding. And just when it thinks it has won, we strike. I will go ahead—follow me when you are ready. We end this together.
+Hash: 937AA896, Key: VoiceDir5.1B3CA4, Value: defiant

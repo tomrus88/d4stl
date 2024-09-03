@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Turbulent Waters
+Hash: 0871A46B, Key: Toast, Value: Search for information about Symon and Elias in the port town of Backwater.
+Hash: D53BFF05, Key: Phase0Description, Value: Elias took Symon to the town of Backwater, on the eastern coast of Hawezar. What is his ultimate goal? What does he hope to find there? I suspect I will find more victims of the darkness Elias carries with him before long.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Travel to Backwater
+Hash: C3B68EF9, Key: Phase13Description, Value: I've learned that Elias and Symon came to the town in search of more hands to help them with their task. Only one returned: a sailor named Sev. I must find out what she knows.
+Hash: D29F0719, Key: Callback12Header, Value: Buy the Cerrigar Mead
+Hash: 5690A71C, Key: Phase16Description, Value: I've learned that Elias and Symon came to the town in search of more hands to help them with their task. Only one returned: a sailor named Sev. I must find out what she knows.
+Hash: B98DBD5C, Key: Callback15Header, Value: Give Sev the mead
+Hash: F5F387E2, Key: Phase58Description, Value: I've learned that Elias and Symon came to the town in search of more hands to help them with their task. Only one returned: a sailor named Sev. I must find out what she knows.
+Hash: 04898A62, Key: Callback57Header, Value: Find Sev south of Backwater
+Hash: EEAB03BC, Key: Phase61Description, Value: After a small bribe, Sev was willing to tell me about Elias's ultimate goal: the ruins of a town called Esret, forgotten in the southern wetlands. She showed me its location, and promised to meet me there, if only to face her fears of what occurred there.
+Hash: D5F3B5FC, Key: Callback60Header, Value: Tell Sev you're ready to go
+Hash: A09595C3, Key: Phase95Description, Value: Elias took Symon to the town of Backwater, on the eastern coast of Hawezar. What is his ultimate goal? What does he hope to find there? I suspect I will find more victims of the darkness Elias carries with him before long.
+Hash: CB7F6448, Key: Callback101Header, Value: Ask the locals about Elias

@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: name, Value: Iron Maiden
+Hash: 003892BF, Key: desc, Value: {c_label}Essence Cost: {/c}{c_resource}{Resource Cost}{/c}
+Curse the target area. Enemies afflicted by {c_important}Iron Maiden{/c} take {c_number}{payload:CURSE_DAMAGE}{/c} damage every {c_number}{SF_17}{/c} seconds and each time they deal direct damage. Lasts {c_number}{buffduration:IRONMAIDEN_CURSE}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:CURSE_DAMAGE}{/c}
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Iron Maiden{/c} no longer costs Essence. Instead, gain {c_number}{SF_6}{/c} Essence for each enemy Cursed. Does not work with enemies who are already Cursed with {c_important}Iron Maiden{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Iron Maiden
+Hash: 2577B2B4, Key: Mod1_Description, Value: Heal for {c_number}[{SF_7}*100|%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_7]){/c} when an enemy dies while afflicted with {c_important}Iron Maiden{/c}.
+Hash: 948901D1, Key: Mod1_Name, Value: Abhorrent Iron Maiden
+Hash: 74D6BC35, Key: Mod2_Description, Value: When at least {c_number}{SF_8}{/c} enemies are afflicted by {c_important}Iron Maiden{/c}, its damage is increased by {c_number}[{SF_9}*100|%x|]{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Horrid Iron Maiden

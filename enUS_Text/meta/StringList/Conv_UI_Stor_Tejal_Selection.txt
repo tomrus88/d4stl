@@ -1,0 +1,11 @@
+Hash: 1863EE42, Key: Line7.125913, Value: Interesting choice...
+Hash: 689A1A0F, Key: VoiceDir7.125913, Value: Sincere
+Hash: F647AAB1, Key: Line15.125913, Value: I see…
+Hash: 4D43501E, Key: VoiceDir15.125913, Value: Thoughtful
+Hash: BB0D2954, Key: Line18.125913, Value: That's a bold choice...
+Hash: 1208CEC1, Key: VoiceDir18.125913, Value: Agreeingly
+Hash: B9BCC82E, Key: Line21.125913, Value: Ah. Very good.
+Hash: 4347C574, Key: Line27.125913, Value: A powerful calling...
+Hash: 41F7644E, Key: Line30.125913, Value: Sound selection.
+Hash: 06BCE2F1, Key: Line33.125913, Value: It stirs you, yes?
+Hash: 5DB8885E, Key: VoiceDir33.125913, Value: near excitement; she knows that it does.

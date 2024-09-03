@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Charged Bolts
+Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost: {/c}{c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Release {c_number}{SF_4}{/c} bolts of lightning that course along the ground in an erratic pattern, dealing {c_number}{payload:PAYLOAD_PROJECTILE}{/c} damage each.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:PAYLOAD_PROJECTILE}{/c}
+Hash: 1394CF37, Key: Mod4_Description, Value: The {c_number}{SF_12}rd{/c} time an enemy is hit by a single cast of Charged Bolts, that bolt surges upon impact, dealing {c_number}{payload:SKILLRANK_NOVA_DAMAGE}{/c} in an area.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Enhanced Charged Bolts
+Hash: 62F3D8B8, Key: Mod5_Description, Value: Hitting an enemy with {c_important}Charged Bolts{/c} reduces their damage dealt by {c_number}[{SF_15} * 100|%|]{/c} for {c_number}{SF_16}{/c} seconds.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Destructive Charged Bolts
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Charged Bolts{/c} deals {c_number}[{SF_27}*100|%x|]{/c} increased damage to Stunned enemies.
+Hash: 948901D1, Key: Mod1_Name, Value: Greater Charged Bolts

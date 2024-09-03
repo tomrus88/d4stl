@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Uncanny Trickster
+Hash: 003892BF, Key: Desc, Value: When you would be damaged for at least {c_number}[Affix."Static Value 0"]%{/c} of your Maximum Life at once, it is instead distributed over the next {c_number}[Affix."Static Value 1"]{/c} seconds and reduced by {c_random}[Affix_Value_1|x%|]{/c}.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Bundled Herbs
+Hash: A646FFA4, Key: Description, Value: A clipping of herbs used in the upgrading of potions or crafting of elixirs & incense. Collected from Gallowvine, Biteberry, Blightshade, Lifesbane, Howler Moss, and Reddamine.
+Hash: F5C7BC0A, Key: Flavor, Value: Considered foundational to the study of alchemy, herbs serve to bond and enhance other elixirs.

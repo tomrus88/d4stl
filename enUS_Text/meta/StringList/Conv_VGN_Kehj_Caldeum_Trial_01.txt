@@ -1,0 +1,3 @@
+Hash: 59F2E91B, Key: Line1.5423F, Value: You killed him, sinner! You’ll hang like the rest!
+Hash: F72F81ED, Key: Line3.BC3FF, Value: I didn’t mean to. Please, have mercy!
+Hash: 6638E81A, Key: VoiceDir3.BC3FF, Value: crying, shattered

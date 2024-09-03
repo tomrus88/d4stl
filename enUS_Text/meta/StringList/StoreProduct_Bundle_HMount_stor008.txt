@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Among the Stars
+Hash: A646FFA4, Key: Description, Value: Members of the Celestial Court speed across Sanctuary on steeds that seem to be made of stardust, etched with cosmic geometries, carrying their esoteric magic far and wide.
+Hash: 083EE0CE, Key: Quote, Value: Sparkle like the midnight sky.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

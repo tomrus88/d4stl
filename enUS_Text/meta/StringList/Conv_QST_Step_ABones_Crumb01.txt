@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "'The Grinning One?'"
+Hash: 915B9772, Key: Line5.EDC7D, Value: An ancient entity once worshipped by our ancestors. Long forgotten... and for good reason!
+Hash: 0064FD9F, Key: VoiceDir5.EDC7D, Value: direct, lightly frustrated
+Hash: 2B5010F4, Key: Line7.EDC7D, Value: Ogai seeks its secrets and its attention, digging through our sacred urns like a child to sweets.
+Hash: 9A597721, Key: VoiceDir7.EDC7D, Value: direct, frustrated; pronounced: "Oh-guy"
+Hash: C5448A76, Key: Line9.EDC7D, Value: There’s no limit to that hermit’s delusion.
+Hash: 344DF0A3, Key: VoiceDir9.EDC7D, Value: frustrated

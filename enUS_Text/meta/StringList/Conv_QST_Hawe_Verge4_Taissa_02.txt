@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It didn't work."
+Hash: 5A196F77, Key: Line1.789BF, Value: He is not up to the task.
+Hash: 69E26198, Key: Line15.BAE4, Value: What can we do?
+Hash: D6F63990, Key: Line19.789BF, Value: I suspect he no longer trusts himself.
+Hash: 5B662869, Key: Line21.789BF, Value: We cannot erase all his doubt. But his most recent grief, his son...there is a way. He won't enjoy it though.
+Hash: B2324D17, Key: Line23.BAE4, Value: Why help him? You could simply leave us to our fates.
+Hash: 8F4F1B6D, Key: Line25.789BF, Value: Everyone needs a reminder, every now and then, that you can defeat danger. You only have to try.
+Hash: 294394EF, Key: Line27.789BF, Value: Horadrim! Come here.
+Hash: 7979C0BC, Key: VoiceDir27.789BF, Value: Raised voice, speaking from outside of her house to Donan, who is inside. But Taissa is KIND and CARING in those moment--a departure from her usual demeanor
+Hash: C351EB64, Key: Line29.7FA05, Value: What? Why?
+Hash: 13881731, Key: VoiceDir29.7FA05, Value: Raised voice, he's talking from inside the building--about 20 feet away
+Hash: 47A7FD4A, Key: Line31.789BF, Value: I want to take you somewhere. A place of old power in the swamp. I think it will do you some good.
+Hash: 97DE2917, Key: VoiceDir31.789BF, Value: Taissa is KIND and CARING in those moment--a departure from her usual demeanor

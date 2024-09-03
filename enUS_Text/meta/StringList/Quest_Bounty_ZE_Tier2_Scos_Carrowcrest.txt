@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Legion Event
+Hash: 0871A46B, Key: Toast, Value: The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.
+Hash: 538236DE, Key: Callback17Header, Value: Complete the Legion Event

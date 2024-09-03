@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vilek
+Hash: CC38ADCB, Key: FlavorName, Value: the Hell-Sighted

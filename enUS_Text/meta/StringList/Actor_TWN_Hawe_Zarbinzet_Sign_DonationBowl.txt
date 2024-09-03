@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Donation Bowl
+Hash: F2CA04D8, Key: NoticeSignText, Value: Coin, fruits, and other small tokens fill the bowl. The people here are few in number, but devout.

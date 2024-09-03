@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "That is no prayer to the Light. How do you know Rathma's Prophecy?"
+Hash: 9257723D, Key: Line1.1BCB9E, Value: It was something my mother used to say. It brought our family hope before she died. Many of us are lost now, but we who remember her pray for a fresh hope.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Somber yet friendly. Hiding his true meaning.
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: Our house is southwest of town—you should join us for supper! We can speak more of “lambs and wolves.”
+Hash: BB1147CC, Key: VoiceDir3.1BCB9E, Value: A friendly invitation. Casual but suggestive.

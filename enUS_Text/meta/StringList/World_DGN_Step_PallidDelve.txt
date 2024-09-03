@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pallid Delve
+Hash: 003892BF, Key: Desc, Value: Cannibals guard a dark power in the crumbling mines.

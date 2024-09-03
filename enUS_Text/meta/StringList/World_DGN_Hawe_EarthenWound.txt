@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Earthen Wound
+Hash: 003892BF, Key: Desc, Value: The demons that dwelled here became a feast for cannibals.

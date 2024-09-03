@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Orbei Scholars
+Hash: 5A15710D, Key: Line1.71176, Value: He's here!
+Hash: C91ED73A, Key: VoiceDir1.71176, Value: Terror. Alarm.
+Hash: F7181E39, Key: Line3.B7A2D, Value: (screaming)
+Hash: 66218466, Key: VoiceDir3.B7A2D, Value: Several voices, screaming in terror/pain (walla) as Elias starts killing everyone.

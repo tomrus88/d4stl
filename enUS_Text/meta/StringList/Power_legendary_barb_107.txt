@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Bear Clan Berserker
+Hash: 7786FD97, Key: Buff1_Description, Value: Increased Cooldown Reduction to {c_important}Brawling{/c} Skills.

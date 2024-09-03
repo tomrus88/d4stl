@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Oxen God of the East
+Hash: F2CA04D8, Key: NoticeSignText, Value: The Oxen Gods stand as guardians to this sacred fountain. It is said that one who presents a worthy offering cleansed in these waters may gain their blessing.

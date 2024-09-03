@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The Cathedral refuses to fight?”
+Hash: 67A72C3A, Key: Line3.1697C7, Value: The doors have been shut since I arrived. I pounded on them as long as I cared to.
+Hash: B7DD5807, Key: VoiceDir3.1697C7, Value: Bitter. Contempt. Weary.
+Hash: 402AD5FC, Key: Line5.1697C7, Value: Whatever they’re doing inside, they seem determined to ignore everything beyond themselves.
+Hash: 906101C9, Key: VoiceDir5.1697C7, Value: Bitter. Contempt. Weary.

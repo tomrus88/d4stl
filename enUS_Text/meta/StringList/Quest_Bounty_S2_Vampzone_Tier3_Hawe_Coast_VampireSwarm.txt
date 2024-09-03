@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cull Forsaken Coast Ghouls
+Hash: 0871A46B, Key: Toast, Value: The Vampires' Ghoul swarms threaten to consume every living being left in these lands. Obliterate their hordes before it's too late.
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay Blood Reavers: {DONE_OVER_NEEDED}

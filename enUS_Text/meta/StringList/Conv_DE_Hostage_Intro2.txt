@@ -1,0 +1,6 @@
+Hash: FA873A00, Key: Line30.54239, Value: Not gonna give us coin? Then everyone dies!
+Hash: 4ABD65CD, Key: VoiceDir30.54239, Value: Angry. Violent.
+Hash: 947BB382, Key: Line32.54239, Value: They’re not here to pay! Kill the hostages!
+Hash: E4B1DF4F, Key: VoiceDir32.54239, Value: Angry. Violent.
+Hash: 7B6A69C5, Key: Line35.54239, Value: You just dug your own grave--and theirs. Kill them all!
+Hash: CBA09592, Key: VoiceDir35.54239, Value: Angry. Violent.

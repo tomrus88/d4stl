@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Fell Council
+Hash: 0D8CE92B, Key: Line14.1D252B, Value: (laughs) So, you yearn to suffer.
+Hash: 64888E98, Key: VoiceDir14.1D252B, Value: Grinning. Sinister. Superior.

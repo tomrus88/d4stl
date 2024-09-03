@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: The Judge in Chains
+Hash: 5296A16C, Key: Callback6Header, Value: Inspect the {GIZMO}
+Hash: AB22B0DB, Key: Callback32Header, Value: Inspect the {GIZMO}
+Hash: EC8B1AEE, Key: Callback8Header, Value: Defeat {MONSTER}
+Hash: 0687FA1D, Key: Callback16Header, Value: Return to {LEVELAREA}
+Hash: BEE0DBFA, Key: Callback22Header, Value: Defeat {MONSTER}
+Hash: 112E3759, Key: Callback30Header, Value: Return to {LEVELAREA}

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Firefly
+Hash: A646FFA4, Key: Description, Value: Deploy a small {c_important}Firefly{/c} construct that lands on the target and explodes {c_number}{SF_1}{/c} times after {c_number}1.25{/c} seconds dealing {c_number}{SF_19}{/c} -  {c_number}{SF_20}{/c} damage.
+Hash: 70FCEFA9, Key: AttackSpeed, Value: {c_label}Speed:{/c} {c_resource}[{SF_27}|1|]{/c} seconds
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Damage {icon:arrow,1.2} {c_number}{SF_21}{/c} - {c_number}{SF_22}{/c}
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating Heralds in Arcane Tremors

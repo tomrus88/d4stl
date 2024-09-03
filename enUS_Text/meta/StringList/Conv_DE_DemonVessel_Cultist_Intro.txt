@@ -1,0 +1,4 @@
+Hash: C1A24540, Key: Line9.371E1, Value: You are too late to stop their glorious transformation.
+Hash: 30ABAB6D, Key: VoiceDir9.371E1, Value: Superior. Confident.
+Hash: 6F3D60CF, Key: Line11.7F064, Value: You are too late to stop their glorious transformation.
+Hash: BF738C9C, Key: VoiceDir11.7F064, Value: Superior. Confident.

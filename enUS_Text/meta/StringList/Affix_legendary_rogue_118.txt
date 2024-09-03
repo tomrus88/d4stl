@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ravager's
+Hash: 003892BF, Key: Desc, Value: {c_important}Shadow Step{/c} has an additional Charge. Killing an enemy with {c_important}Shadow Step{/c} refunds a Charge and increases the damage of {c_important}Shadow Step{/c} by {c_random}[Affix_Value_1|1%x|]{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds, up to {c_random}[Affix_Value_1 * Affix."Static Value 1"|%x|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Shadow Step{/c} has an additional Charge. Killing with {c_important}Shadow Step{/c} refunds a Charge and increases its damage by {c_random}[Affix_Value_1|1%x|]{/c}.

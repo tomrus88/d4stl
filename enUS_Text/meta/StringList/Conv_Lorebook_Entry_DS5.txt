@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Nameless Victim
+Hash: 5D72A43D, Key: Line1.EDC73, Value: For days, the scent has lingered. At first, it troubled me.
+Hash: CC7C0A6A, Key: VoiceDir1.EDC73, Value: raspy, lower pitched and somber
+Hash: F7671DBF, Key: Line3.EDC73, Value: Rotting flesh, the smell and the sound of corpse-flies ever present.
+Hash: 667083EC, Key: VoiceDir3.EDC73, Value: raspy, lower pitched and somber
+Hash: 915B9741, Key: Line5.EDC73, Value: But there is a sweetness to it, and alongside the buzzing of flies I hear the croon of an older thing.
+Hash: 0064FD6E, Key: VoiceDir5.EDC73, Value: raspy, lower pitched and somber
+Hash: 2B5010C3, Key: Line7.EDC73, Value: A god that demands flesh. That rewards its consumption.
+Hash: 9A5976F0, Key: VoiceDir7.EDC73, Value: raspy, lower pitched and somber

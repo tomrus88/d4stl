@@ -1,0 +1,2 @@
+Hash: 8ECD5C74, Key: Line1.10B53B, Value: Father Inarius, bless the child that grows in my belly. Keep him safe in your Light.
+Hash: DF038841, Key: VoiceDir1.10B53B, Value: Devout, a prayer spoken aloud to an unseen god (Inarius is not present).

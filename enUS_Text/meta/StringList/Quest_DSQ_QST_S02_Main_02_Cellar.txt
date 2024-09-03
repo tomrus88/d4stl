@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: The Hunter's Chase
+Hash: C9FCD1EA, Key: Phase5Description, Value: When I arrived at his office to question him, the Magistrate was nowhere to be found, and in his place was a stranger fighting off vampires. Maybe she can help me make sense of all this.
+Hash: B8A227EA, Key: Callback4Header, Value: Speak with the stranger
+Hash: C3B68EF9, Key: Phase13Description, Value: When I arrived at his office to question him, the Magistrate was nowhere to be found, and in his place was a stranger fighting off vampires. Maybe she can help me make sense of all this.
+Hash: ED76B060, Key: Callback19Header, Value: Search for Clues
+Hash: E2223B19, Key: Phase22Description, Value: When I arrived at his office to question him, the Magistrate was nowhere to be found, and in his place was a stranger fighting off vampires. Maybe she can help me make sense of all this.
+Hash: 71E69F39, Key: Callback21Header, Value: Speak to Erys
+Hash: 3181449A, Key: Phase32Description, Value: Magistrate Oren's offer led to an unexpected encounter where I was bitten by vampires. I feel different, and I need to return to his office in Ked Bardu.
+Hash: 5E28741A, Key: Callback31Header, Value: Search for Magistrate Oren
+Hash: C45B5CBD, Key: Phase35Description, Value: Magistrate Oren's offer led to an unexpected encounter where I was bitten by vampires. I feel different, and I need to return to his office in Ked Bardu.
+Hash: 45172A5D, Key: Callback34Header, Value: Find the source of the commotion
+Hash: 573574E0, Key: Phase38Description, Value: When I arrived at his office to question him, the Magistrate was nowhere to be found, and in his place was a stranger fighting off vampires. Maybe she can help me make sense of all this.
+Hash: 2C05E0A0, Key: Callback37Header, Value: Fight off the ambush

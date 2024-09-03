@@ -1,0 +1,3 @@
+Hash: 75096645, Key: Line8.7CF2E, Value: I have remedies if you're injured.
+Hash: 2242644E, Key: Line10.7CF2E, Value: Are you hurt?
+Hash: BC36DDD0, Key: Line12.7CF2E, Value: Let me help you out.

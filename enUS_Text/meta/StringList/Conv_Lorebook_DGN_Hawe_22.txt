@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Scrap of Paper
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Scrap of Paper
+Hash: 8ED7BAB9, Key: Line1.123237, Value: Something in the fort has followed us inside these awful tunnels. Or been here for long ages and is now newly woken.
+Hash: 3FDF0E3D, Key: Line5.123237, Value: I thought to flee—to abandon my fellow crusaders, to think for myself for once. It will no doubt spell my doom.
+Hash: 1862B7FF, Key: Line7.123237, Value: I can smell death in the air. It will come for me soon.

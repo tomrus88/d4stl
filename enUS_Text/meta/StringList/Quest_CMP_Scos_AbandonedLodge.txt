@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Moordaine Lodge
+Hash: 0871A46B, Key: Toast, Value: Hidden deep in the verdant forest, this lodge was once revered by the great hunters of Scosglen
+Hash: 38A468EE, Key: Callback116Header, Value: Rekindle the Wanderer's Shrine to conquer Moordaine Lodge
+Hash: DF436D69, Key: Callback210Header, Value: Find the Lodge's missing hunters
+Hash: C63223AC, Key: Callback213Header, Value: Defeat the Beast
+Hash: AD20D9EF, Key: Callback216Header, Value: Slay the Beast of Moordaine
+Hash: 47155371, Key: Callback218Header, Value: Enter the Beast's lair
+Hash: 3BFEF5D3, Key: Callback283Header, Value: Investigate the hunting grounds
+Hash: BCE22598, Key: Callback288Header, Value: Pursue the Beast

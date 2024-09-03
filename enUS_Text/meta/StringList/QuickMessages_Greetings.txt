@@ -1,0 +1,7 @@
+Hash: E8CB5B75, Key: 01Hello, Value: Hello.
+Hash: FFDCFA4B, Key: 02Goodbye, Value: Goodbye.
+Hash: 5C0EBF83, Key: 03ThanksForParty, Value: Thanks for the party!
+Hash: 31575565, Key: 04Congrats, Value: Congratulations!
+Hash: 1D836A38, Key: 05ThankYou, Value: Thank You.
+Hash: 26EAA667, Key: 06YouAreWelcome, Value: You're welcome.
+Hash: 553FB853, Key: 07Welcome, Value: Welcome!

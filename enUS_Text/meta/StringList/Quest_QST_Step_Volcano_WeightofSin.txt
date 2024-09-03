@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: Name, Value: Weight of Sin
+Hash: 0871A46B, Key: Toast, Value: Bring peace to those who only knew sorrow.
+Hash: D53BFF05, Key: Phase0Description, Value: Nekhii is the lone surviving resident of Toutai. She returned to find her family taken by the Triune, tortured and killed on Mt. Civo. 
+
+She wants to retrieve the bracelets of her siblings, Dawa and Naraa, and give them proper rites of passing. I’m likely to find them among the Charred Remains along the mountain.
+Hash: F81CED9C, Key: Callback33Header, Value: Acquire {ITEM}
+Hash: 45172A5D, Key: Callback34Header, Value: Acquire {ITEM}
+Hash: 61CFD437, Key: Phase11Description, Value: I retrieved Dawa and Naraa’s carved bracelets. I should return to Nekhii so she can give them proper rest.
+Hash: 1F9943DA, Key: Callback13Header, Value: Return Dawa and Naraa's Bracelets to Nekhii
+Hash: 5690A71C, Key: Phase16Description, Value: I found Nekhii’s remains floating in the sulfur pools. Something drove her to enter the water, but there is no sign of a skirmish.
+
+She left a letter by pool’s edge. Perhaps it will bring answers.
+Hash: A07C739F, Key: Callback18Header, Value: Read Neckii's Confession
+Hash: E96ABF3F, Key: Phase19Description, Value: Nekhii’s letter offered her confession. She assisted the Triune when she and her siblings were desperate, not anticipating the price of their aid.
+
+Nekhii has already gone to join her ancestors. She’s asked that I offer Dawa and Naraa’s bracelets to the pool so they may be united again. 
+
+Hash: 71E69F39, Key: Callback21Header, Value: Offer the Carved Bracelets to the sulfur pool

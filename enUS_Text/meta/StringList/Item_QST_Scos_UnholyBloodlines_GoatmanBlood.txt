@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vial of Khazra Blood
+Hash: F5C7BC0A, Key: Flavor, Value: Fresh blood from a dead khazra. This must be the "blood of the enemy" Artair needs.

@@ -1,0 +1,2 @@
+Hash: BD42635C, Key: Line9.BAE4.Rog.M, Value: Can't use that.
+Hash: CFD531A4, Key: Line10.BAE4.Rog.M, Value: I can't do that.

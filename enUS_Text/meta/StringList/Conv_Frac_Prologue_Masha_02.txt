@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Did that strange man outside cause you any trouble?”
+Hash: 5A31C3AF, Key: Line1.7CFFB, Value: Oh, you poor thing, traveling in this awful weather.
+Hash: C93B29DC, Key: VoiceDir1.7CFFB, Value: Concerned, a little loud (she is hard of hearing)

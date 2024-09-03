@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Barren Lord
+Hash: A646FFA4, Key: Description, Value: The harsh climate of Kehjistan makes life difficult for all, save those who are stout and savvy in the ways of the desert. For decades, these Druids have helped secure humanity's survival in hostile lands.
+Hash: 083EE0CE, Key: Quote, Value: A boon to travelers lost in Kehjistan.
+Hash: 13A53A8B, Key: Series, Value: Druid Armor

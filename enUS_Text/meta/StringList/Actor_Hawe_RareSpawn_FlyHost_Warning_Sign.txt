@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: TREMBLING MASS
+
+This putrid, horrific wretch has been spotted many times in Diseased Embankment, to the east. Numerous hunting parties have been sent to slay the creature, but no matter how many times it is destroyed, it seems to re-appear within hours.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

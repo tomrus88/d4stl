@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Vengeful
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Damaging a {c_important}{u}Vulnerable{/u}{/c} enemy has up to a {c_number}[Affix."Static Value 0"|%|]{/c} chance to create an {c_important}Arrow Storm{/c} at the enemy's location , dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Physical damage over {c_number}[Affix."Static Value 1"]{/c} seconds. 
+
+Your {c_important}Arrow Storms{/c} deal {c_random}[Affix_Value_2|%|]{/c} increased damage.
+Hash: 82B7D312, Key: CodexDesc, Value: Damaging {c_important}{u}Vulnerable{/u}{/c} enemies can create an {c_important}Arrow Storm{/c}. Your {c_important}Arrow Storms{/c} deal {c_random}[Affix_Value_2|%|]{/c} increased damage.

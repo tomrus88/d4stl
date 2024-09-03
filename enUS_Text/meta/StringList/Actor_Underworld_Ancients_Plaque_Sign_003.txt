@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Chalk Writing Over Ancient Symbols
+Hash: CC3C0A8F, Key: FlavorText, Value: "Sanctuary"
+Hash: F2CA04D8, Key: NoticeSignText, Value: Lilith is Sanctuary’s mother. Somehow, I felt the truth of it the moment she said it to those Knights. Now I know how. She used Inarius to craft this world, a refuge from the Eternal Conflict.

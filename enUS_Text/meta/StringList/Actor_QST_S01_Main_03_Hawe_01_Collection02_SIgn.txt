@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Paladin Prayer Book
+Hash: F2CA04D8, Key: NoticeSignText, Value: A bound tome of prayer, sealed by the Paladin’s Cross. No doubt secret rituals lie within.

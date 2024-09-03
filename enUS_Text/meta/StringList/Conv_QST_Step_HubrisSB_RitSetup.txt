@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I retrieved the offerings.”
+Hash: 8ECE2685, Key: Line1.10BCF2, Value: Yes. Yes! The Grinning One guides all to fortune who are worthy!
+Hash: DF045252, Key: VoiceDir1.10BCF2, Value: exuberant, praising
+Hash: 6751D047, Key: Line3.10BCF2, Value: I will speak of your strength… eh, when the time is right, heh.
+Hash: B787FC14, Key: VoiceDir3.10BCF2, Value: flippant, snide to player
+Hash: 3FD57A09, Key: Line5.10BCF2, Value: Now... place the offerings on the stones, hm hm.
+Hash: 900BA5D6, Key: VoiceDir5.10BCF2, Value: focused
+Hash: 185923CB, Key: Line7.10BCF2, Value: Ogai will have gifts long overdue, hm.
+Hash: 688F4F98, Key: VoiceDir7.10BCF2, Value: blunt, impatient

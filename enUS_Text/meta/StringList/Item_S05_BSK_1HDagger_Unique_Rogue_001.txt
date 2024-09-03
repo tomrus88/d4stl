@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Umbracrux
+Hash: F5C7BC0A, Key: Flavor, Value: One of a pair of twin daggers, forbidden from ever meeting. Bitter voices whisper from the blade.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Medallion Shard
+Hash: F5C7BC0A, Key: Flavor, Value: This brightly colored metal scrap looks like part of an amulet, torn to shreds by some inhuman force. 

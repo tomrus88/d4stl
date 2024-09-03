@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Upgrade B
+Hash: 003892BF, Key: desc, Value: Shadow Mages fire an additional shadow bolt every {c_number}{SF_0}{/c} attacks.

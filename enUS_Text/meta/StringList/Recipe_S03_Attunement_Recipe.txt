@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Attunement
+Hash: D0201B8E, Key: MainHeader, Value: [PH] Attune to Worm's corruption
+Hash: F5C7BC0A, Key: Flavor, Value: Gain an [PH] Attunement Charge. Spend it on [PH] Vault Chests. But lose 1 Charge when you are hit by a trap.
+Hash: ED2058BC, Key: Button, Value: Attune
+Hash: 9E3ACE5E, Key: Category, Value:  Season 03

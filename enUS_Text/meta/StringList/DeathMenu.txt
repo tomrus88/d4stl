@@ -1,0 +1,18 @@
+Hash: 4672C617, Key: YouHaveDied, Value: You Have Died
+Hash: 0AEB9B09, Key: YouDroppedXgold, Value: You dropped {s1} gold.
+Hash: 1014E475, Key: WaitToBeResurected, Value: Wait to be Resurrected ({s1})
+Hash: 08128CEE, Key: ReviveAtCheckpoint, Value: Revive at Checkpoint
+Hash: BCEE2B0F, Key: WaitToBeRessurectedTextOnly, Value: Wait to be Resurrected
+Hash: 45249CCE, Key: Durability_Warning, Value: You will lose {c_highlight}{s1} equipment durability{/c} when you revive at checkpoint
+Hash: 6D74C479, Key: Durability_Broken, Value: {c_red}Your equipment is fully broken{/c}. Visit a {icon:Marker_Blacksmith, 3} Blacksmith to repair.
+Hash: 41D171AB, Key: Durability_Caution, Value: {c_highlight}Your equipment is close to breaking{/c}. Visit a {icon:Marker_Blacksmith, 3} Blacksmith to repair.
+Hash: 7CCC1EDE, Key: RevivesRemaining, Value: You have {c_number}{s1} |4Revive:Revives;{/c} remaining for this {s2}
+Hash: 0B652C2F, Key: NightmareDungeon, Value: Nightmare Dungeon
+Hash: 083B42FA, Key: Hardcore_BodyText, Value: Your deeds of valor will be remembered.
+Hash: 268C5AC3, Key: Hardcore_Button, Value: Back to Main Menu
+Hash: 86C76D34, Key: IGR_BodyText, Value: You have been slain. Revive to continue your journey. 
+Hash: 54C66A87, Key: HeroNotHardcore, Value: Only a Hardcore character can join a party of Hardcore heroes.
+Hash: C1F17141, Key: HeroNotSameWorldTier, Value: Only a character in the same World Tier can join the party.
+Hash: F4E18807, Key: HeroDidntCompletePrologue, Value: Only a character that has completed the prologue can join the party.
+Hash: 7FA4C9A5, Key: HeroDidCompletePrologue, Value: Only a character that has not completed the prologue can join the party.
+Hash: 20B14E2D, Key: Hardcore_BodyTextLvl10Plus, Value: Your deeds of valor will be remembered. {s1} has been moved to the Hall of Fallen Heroes.

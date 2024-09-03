@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Sentimental Value
+Hash: 6764BB2C, Key: Line3.11E336, Value: The ring once belonged to my aunt, a gift from my uncle. But she passed a while back. She always spoke of how precious it was.
+Hash: B79AE6F9, Key: VoiceDir3.11E336, Value: Speaking fondly. Faking sincerity; he's acting as if misty-eyed here but has ulterior motives.
+Hash: 3FE864EE, Key: Line5.11E336, Value: Odd, since he wasn't a man of great means.
+Hash: 901E90BB, Key: VoiceDir5.11E336, Value: Gentle, but genuinely finds this odd

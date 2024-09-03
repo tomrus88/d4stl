@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Dressed to Kill
+Hash: A646FFA4, Key: Description, Value: While plying one's trade in the supposedly "civilized" parts of the Eastern Continent, one must always remember to look the part.
+Hash: 083EE0CE, Key: Quote, Value: Ne'er-do-wells that practice unsavory arts out of necessity in the Fractured Peaks.
+Hash: 13A53A8B, Key: Series, Value: Rogue Armor

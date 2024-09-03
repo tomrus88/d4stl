@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Occult Dominion
+Hash: 003892BF, Key: Desc, Value: Your maximum number of Skeletal Warriors and Skeletal Mages is increased by {c_random}[Affix_Value_1]{/c}.

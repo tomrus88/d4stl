@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why would Elias summon Lilith?"
+Hash: AF7FBF25, Key: Line39.6D03F, Value: (scoff) "Is he insane?" you mean.
+Hash: FFB5EAF2, Key: VoiceDir39.6D03F, Value: Humorless. Grieved.
+Hash: 33EFADFE, Key: Line41.6D03F, Value: Elias was an exceptional mage. He would plunge through fire and shite in search of the truth...and very often found it.
+Hash: 8425D9CB, Key: VoiceDir41.6D03F, Value: Grieved, but intentionally vague. Hiding something.
+Hash: CDE42780, Key: Line43.6D03F, Value: Whatever "truth" he has found in Lilith, only he can say the why of it.
+Hash: 1E1A534D, Key: VoiceDir43.6D03F, Value: Grieved. Grim. Slightly evasive on the end. (Not answering question.)

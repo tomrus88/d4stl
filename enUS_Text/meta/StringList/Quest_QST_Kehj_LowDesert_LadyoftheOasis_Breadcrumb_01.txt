@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: The Speaking Stone
+Hash: 0871A46B, Key: Toast, Value: A local fisherman has a tall tale to share.
+Hash: FAF02F4B, Key: Phase6Description, Value: A fisherman in Gea Kul is insisting a local shrine spoke to him.
+
+Others are calling his sanity into question, but it seems worth investigating.
+Hash: 059C64AB, Key: Callback5Header, Value: Find the mysterious shrine

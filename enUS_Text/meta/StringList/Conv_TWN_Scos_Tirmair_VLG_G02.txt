@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: F7666C3D, Key: Line3.ED8A2, Value: This looks all right, Ma! Do you think we can eat it?
+Hash: 666FD26A, Key: VoiceDir3.ED8A2, Value: Hopeful. Excited.
+Hash: 5D8551E0, Key: Line1.FEE90, Value: I'll try anything at this point. Clean it like I taught you, bring it here, and I'll hang it. Has to be better than these fetid fish.

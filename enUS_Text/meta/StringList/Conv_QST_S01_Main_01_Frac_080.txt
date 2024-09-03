@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What are these cages?”
+Hash: 8F104F47, Key: Line1.157838, Value: “Cages of Binding.” Extraordinary devices, really... meant to remove corruption from a living soul.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Less nervous. Proud. Engaged.
+Hash: 6793F909, Key: Line3.157838, Value: When you bested that Malignant, you exposed the heart of its corruption. My cages can capture it—stop it from spreading to others.
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Proud. Engaged.
+Hash: 4017A2CB, Key: Line5.157838, Value: But this is a treatment, not a cure... not just yet. I must ride to the Orbei Monastery and continue my research. Meet me there, and we'll set things right.
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Anxious. Lots of work ahead. Clinging to hope.

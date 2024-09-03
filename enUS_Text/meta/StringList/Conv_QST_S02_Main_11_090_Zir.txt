@@ -1,0 +1,4 @@
+Hash: 8F3B878D, Key: Line1.16E226, Value: I offer life everlasting and you decline... You drink from my cup and spit in my face!
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Seething, then barking in rage.
+Hash: 67BF314F, Key: Line3.16E226, Value: I have more than enough left to deal with you.
+Hash: B7F55D1C, Key: VoiceDir3.16E226, Value: Seething. Confident. Preparing to transform.

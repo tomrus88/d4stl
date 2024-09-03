@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: The labyrinth swallows all.
+Hash: F81CED9C, Key: Callback33Header, Value: Activate the {GIZMO}
+Hash: 1D9AD41F, Key: Callback54Header, Value: Destroy the Idol of the Overseer and the Seaborn Goddess: {LEFT}
+Hash: 09DCA900, Key: Callback64Header, Value: Travel to the {LEVELAREA}
+Hash: A9244120, Key: Callback73Header, Value: Defeat the {MONSTER}

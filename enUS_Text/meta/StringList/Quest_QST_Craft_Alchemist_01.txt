@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Healing Potion Upgrading
+Hash: D53BFF05, Key: Phase0Description, Value: Alchemists can improve your Healing Potion and craft Elixirs in exchange for herbs and coin.
+
+Seek out Veroka in Kyovashad to make your first Healing Potion upgrade.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Veroka
+Hash: 5296A16C, Key: Callback6Header, Value: Upgrade your Healing Potion
+Hash: 58D5557C, Key: Callback24Header, Value: Upgrade your Healing Potion

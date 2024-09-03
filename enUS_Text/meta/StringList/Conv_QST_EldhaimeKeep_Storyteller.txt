@@ -1,0 +1,14 @@
+Hash: 5D23008E, Key: Line1.B79B3, Value: The ash fell like rain, and Astaroth’s mad laughter boomed like thunder!
+Hash: CC2C66BB, Key: VoiceDir1.B79B3, Value: Big delivery, dramatic for his audience (a bunch of kids). Big emphasis on "boomed" like he is trying to scare his audience.
+Hash: E4A4D060, Key: Line33.B538B, Value: (gasp)
+Hash: F7177A10, Key: Line3.B79B3, Value: Folk tried to hide, but the demon sniffed them out. He herded them into a cage of fire, and as he prepared to eat them one by one...
+Hash: 2B006D14, Key: Line7.B79B3, Value: WHOOSH!
+Hash: 4AB056DF, Key: Line31.B538C, Value: (surprised gasp)
+Hash: 9AE682AC, Key: VoiceDir31.B538C, Value: surprised
+Hash: C6419F88, Key: Line29.B79B3, Value: A fierce wind blew out the flames! There, in the smoke, stood the three heroes. Even Astaroth trembled at the sight.
+Hash: 722DE49F, Key: Line11.B79B3, Value: First came Airidah, calling down a storm upon the demon’s head with music from her talharpa.
+Hash: 0C225E21, Key: Line13.B79B3, Value: Then came Nafain, growling like a beast, slashing at Astaroth with fang and claw.
+Hash: A616D7A3, Key: Line15.B79B3, Value: And last came Donan. He plunged his hand into the demon’s fiery chest...and crushed the fiend’s heart in his palm!
+Hash: 188DC364, Key: Line37.B538B, Value: (gasp of wonder)
+Hash: 68C3EF31, Key: VoiceDir37.B538B, Value: astonished
+Hash: D9FFCAA7, Key: Line19.B79B3, Value: Astaroth let loose a cry that shook the forest to its roots, and then the monster crumbled into dust. So ended the Days of Ash!

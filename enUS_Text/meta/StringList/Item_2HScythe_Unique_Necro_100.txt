@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Gossamer Scythe
+Hash: 003DFCC1, Key: Name, Value: Bloodless Scream
+Hash: F5C7BC0A, Key: Flavor, Value: "My companion swung her odd weapon in a wide arc, and our pursuer stopped short. The look of horror on his face as his body fell to pieces will haunt me forever."
+- The Ebon Pages, Canto II, Verse XI

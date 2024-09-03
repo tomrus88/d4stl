@@ -1,0 +1,19 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I have a letter for you, Donan.” 
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Good news for once, I hope?
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: tired
+Hash: 65381056, Key: Line13.BAE4, Value: It’s from Lorath.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Wonderful.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: tired
+Hash: C2053272, Key: Line9.7FA05, Value: (muttering, reading to himself)
+Hash: A327237F, Key: Line15.7FA05, Value: What? Is he serious?
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: quiet, to himself
+Hash: 608DBF14, Key: Line11.BAE4, Value: What does it say?
+Hash: D7101683, Key: Line19.7FA05, Value: He didn’t tell you? No. Of course not. That would require some basic degree of consideration.
+Hash: 5B80055C, Key: Line21.7FA05, Value: It’s written in our code. He sent a plan—though calling it that is generous. He wants to imprison Lilith with my soulstone—the one that held Astaroth.
+Hash: BB86EF9B, Key: Line27.BAE4, Value: Can it work?
+Hash: C351EB64, Key: Line29.7FA05, Value: Certainly not! The stone needs to be attuned first. And he will need an expert for that.
+Hash: FA823896, Key: Line31.BAE4, Value: Lorath thinks that expert is you.
+Hash: E1B653BF, Key: Line33.7FA05, Value: Then he is even more foolish than I thought.
+Hash: 31EC7F8C, Key: VoiceDir33.7FA05, Value: broken
+Hash: 7BAACD41, Key: Line35.7FA05, Value: Go to the Horadric Vault, will you? I’ll dig up what he needs. You can deliver it, and maybe then he’ll leave me alone.
+Hash: CBE0F90E, Key: VoiceDir35.7FA05, Value: starts with a long sigh

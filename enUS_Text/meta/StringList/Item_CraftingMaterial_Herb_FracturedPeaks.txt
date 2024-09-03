@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Biteberry
+Hash: A646FFA4, Key: Description, Value: An herb used in the crafting of potions, elixirs & incense. Found in Fractured Peaks.
+Hash: F5C7BC0A, Key: Flavor, Value: A hard, bitter berry prized by alchemists for its use as both an enduring raisin and its vital and defensive qualities.

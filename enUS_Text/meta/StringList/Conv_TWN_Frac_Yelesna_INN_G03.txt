@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You seem to be doing well."
+Hash: 5D6D27AA, Key: Line1.F9C10, Value: Hmph, probably better than it should. Hard times make people want to feel something. A little drink. A little gambling. Better than being scared all the time, eh?

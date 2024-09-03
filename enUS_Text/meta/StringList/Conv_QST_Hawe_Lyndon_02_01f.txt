@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Ready for the ambushes?"
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: (chuckling) Oh, Orton and I once used this spot to hide the good stuff. Stash it so Backwater didn't burn through it all in a single night.
+Hash: 6735A8AD, Key: Line3.10088C, Value: Oh, feels like decades since we last had a drink.
+Hash: B76BD47A, Key: VoiceDir3.10088C, Value: Wistful as he trails off. 

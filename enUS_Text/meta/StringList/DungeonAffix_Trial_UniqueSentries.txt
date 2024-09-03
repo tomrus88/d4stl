@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: PH Trial: Unique Sentries
+Hash: EEB7912D, Key: AffixDesc, Value: Find and slay 5 Unique Sentries before they escape to earn a special reward.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you recruiting?"
+Hash: 5D6D27EE, Key: Line1.F9C32, Value: Darkness encroaches on the Light. Dull swords must be sharpened and armor polished.

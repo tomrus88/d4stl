@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Malady of the Soul
+Hash: 003892BF, Key: Desc, Value: Complete the Malady of the Soul questline in Fractured Peaks.
+Hash: 3DA554A2, Key: Crit_236051, Value: Faith in Blood
+Hash: 3DA554A3, Key: Crit_236052, Value: Malady of the Soul
+Hash: 3DA554A4, Key: Crit_236053, Value: Depths of Despair

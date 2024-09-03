@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Hunger for a New Life
+Hash: 0871A46B, Key: Toast, Value: Help Zolaya and Oyuun move forward with their new life in Farobru
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I found Zolaya and Oyuun attempting to settle down in Farobru, but Oyuun seems to be having a traumatic flashback. Zolaya has sent me to an old hideout out of hers with a tea infuser to fill with herbs, in the hopes the tea will help calm Oyuun down.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Enter Zolaya's Hideout
+Hash: 61CFD437, Key: Phase11Description, Value: I've retrieved the herbs Zolaya mentioned from her hideout. I should return to her in Farobru, so she can make the tea for Oyuun. I hope it helps.
+Hash: 38AA8D97, Key: Callback10Header, Value: Return to Zolaya and Oyuun
+Hash: 9367FF5C, Key: Phase34Description, Value: I found Zolaya and Oyuun attempting to settle down in Farobru, but Oyuun seems to be having a traumatic flashback. Zolaya has sent me to an old hideout out of hers with a tea infuser to fill with herbs, in the hopes the tea will help calm Oyuun down.
+Hash: FD700C3A, Key: Callback40Header, Value: Take Empty Tea Infuser from Zolaya

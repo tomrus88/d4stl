@@ -1,0 +1,8 @@
+Hash: D4479923, Key: Line1.BAE4, Value: There's nothing here. No clue, no hint of Symon... or Elias.
+Hash: 675B2F47, Key: Line3.121FCA, Value: Augh.
+Hash: 1DC29578, Key: Line13.121FCA, Value: Here. Here.
+Hash: 74BE3AE5, Key: VoiceDir13.121FCA, Value: strained
+Hash: E49BB58A, Key: Line8.BAE4, Value: What?
+Hash: 2DCA8A17, Key: VoiceDir8.BAE4, Value: Emphatic and surprised.
+Hash: 453EEBB6, Key: Line11.121FCA, Value: Speak. Here.
+Hash: 9C3A9123, Key: VoiceDir11.121FCA, Value: strained

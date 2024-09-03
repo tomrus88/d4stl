@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Syphon
+Hash: 9F90DE2D, Key: Callback7Header, Value: Investigate the Ancient Syphons
+Hash: F61E7DE1, Key: Callback74Header, Value: Survive the enemy assault
+Hash: 33514A50, Key: Callback109Header, Value: Ancient Syphon
+Hash: EF4FD180, Key: Phase83Description, Value: Slay the remaining monsters
+Hash: 486BD940, Key: Callback82Header, Value: Slay the remaining enemies
+Hash: 04BB75EA, Key: Callback112Header, Value: Satiate {NEEDED} Ancient Syphons by slaying enemies near them: {DONE_OVER_NEEDED}

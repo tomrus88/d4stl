@@ -1,0 +1,3 @@
+Hash: 8EEB8522, Key: Line1.136539, Value: No sign of Osric's men...do you think we lost them?
+Hash: 676F2FA2, Key: Line3.136591, Value: Quiet, we'll talk about that later.
+Hash: B7A55B6F, Key: VoiceDir3.136591, Value: Edgar doesn't trust the player enough to let the refugee give away any details of his situation.. 

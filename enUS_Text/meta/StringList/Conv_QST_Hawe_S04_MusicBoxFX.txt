@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Kiraz
+Hash: 5D71F0DF, Key: Line1.ED90F, Value: I know that sound...
+Hash: CC7B570C, Key: VoiceDir1.ED90F, Value: confused, distant 

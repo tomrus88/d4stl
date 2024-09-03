@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: What do you make of this?
+Hash: C1F212B9, Key: Line9.6DE47, Value: This is...I think it’s written in Horadric code. And here! The same symbol on the door...
+Hash: 30FB78E6, Key: VoiceDir9.6DE47, Value: fliping through pages, intrested
+Hash: 6F2B10C2, Key: Line11.6DE47, Value: I have an idea.
+Hash: BF613C8F, Key: VoiceDir11.6DE47, Value: excited, trails off if reading at the end

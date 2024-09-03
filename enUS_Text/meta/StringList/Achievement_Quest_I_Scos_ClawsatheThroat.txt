@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Claws at the Throat
+Hash: 003892BF, Key: Desc, Value: Complete the Claws at the Throat questline in Scosglen.
+Hash: 3DA554C8, Key: Crit_236066, Value: Claws at the Throat
+Hash: 3DA554C9, Key: Crit_236067, Value: A Pyre of Ash
+Hash: 3DA554CA, Key: Crit_236068, Value: Chasing Embers
+Hash: 3DA554CB, Key: Crit_236069, Value: The Bear of Blackweald

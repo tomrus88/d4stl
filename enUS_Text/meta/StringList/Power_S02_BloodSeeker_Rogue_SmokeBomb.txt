@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: name, Value: Smoke Grenade
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+Throw a smoky concoction at enemies that {c_important}{u}Dazes{/u}{/c} them for {c_number}{buffduration:SMOKE_BLINDNESS}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Daze{/u}{/c} Duration {icon:arrow,1.2} {c_number}{buffduration:SMOKE_BLINDNESS}{/c} seconds
+Hash: D618A933, Key: Mod0_Description, Value: Enemies affected by {c_important}Smoke Grenade{/c} take {c_number}[{SF_6}*100|%x|]{/c} increased damage from you.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Smoke Grenade
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_label}Lucky Hit:{/c} Dealing direct damage to enemies affected by {c_important}Smoke Grenade{/c} has up to a {c_number}{SF_7}%{/c} chance to reduce its Cooldown by {c_number}{SF_11}{/c} second, or by {c_number}{SF_12}{/c} seconds instead if the enemy is {c_important}{u}Vulnerable{/u}{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Countering Smoke Grenade
+Hash: C435C5B6, Key: Mod3_Description, Value: If an enemy is {c_important}{u}Vulnerable{/u}{/c}, Slowed, or {c_important}{u}Chilled{/u}{/c} then {c_important}Smoke Grenade{/c} will {c_important}{u}Daze{/u}{/c} them for {c_number}[{SF_8}*100|%x|]{/c} longer.
+Hash: 99335313, Key: Mod3_Name, Value: Subverting Smoke Grenade

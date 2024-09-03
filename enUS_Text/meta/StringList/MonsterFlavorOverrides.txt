@@ -1,0 +1,155 @@
+Hash: 34080E13, Key: Bounty_Assassinate_Frac_BanditMelee, Value: Taiga Bandit Chief
+Hash: C06C5B3C, Key: Bounty_Assassinate_Frac_BanditRanged, Value: Taiga Ranger
+Hash: 804376BB, Key: Bounty_Assassinate_Frac_FallenGrunt, Value: Ice Carver
+Hash: 5DC10D60, Key: Bounty_Assassinate_Frac_GhostCaster, Value: Highway Haunter
+Hash: BEFC4371, Key: Bounty_Assassinate_Frac_GoatmanRanged, Value: Ice Clan Woodstalker
+Hash: C1C90FB8, Key: Bounty_Assassinate_Frac_GoatmanShaman, Value: Ice Clan Elder
+Hash: AD041C58, Key: Bounty_Assassinate_Frac_Skeleton2H, Value: Hoarfrost Shambler
+Hash: 7E290A4D, Key: Bounty_Assassinate_Frac_FallenCaster, Value: Shivering Magus
+Hash: 04B17F42, Key: Bounty_Assassinate_Frac_GoatmanBrute, Value: The Borean Howler
+Hash: 4D075F8F, Key: Bounty_Assassinate_Frac_VampireBrute, Value: Butcher of Tsepilova
+Hash: EF13C12F, Key: Bounty_Assassinate_Frac_VampireCaster, Value: Lord of Frozen Plains
+Hash: 4D5C44EC, Key: Bounty_Assassinate_Frac_VampireGhoul, Value: Fiend of Yelesna
+Hash: 2D4CB74C, Key: Bounty_Assassinate_Frac_WerewolfMelee, Value: Beast of Krol
+Hash: B8D9D44F, Key: Bounty_Assassinate_Frac_WerewolfProwler, Value: Stalker of the Drifts
+Hash: 3A59B50C, Key: DE_AltarOfBishibosh, Value: Avatar of Bishibosh
+Hash: 454D706A, Key: DE_WanderingSoul, Value: Wandering Soul
+Hash: 285F3F88, Key: LE_Sacrifice_SuperElite_FlavorText, Value: Devourer of Souls
+Hash: FFB3516B, Key: LE_ShrineBuff_SuperElite_FlavorText, Value: Shrine Guardian
+Hash: 647B48A0, Key: DGN_Frac_LostArchives_Boss, Value: Behistun Primarc
+Hash: 8692C2D3, Key: Bounty_Harvest_Boss, Value: Dark Revenant
+Hash: 0B6E4661, Key: DE_Immolation, Value: Master of Immolation
+Hash: 72E423C8, Key: DE_ShrineOfZagraal, Value: Guardian of Zagraal
+Hash: 962E3A7F, Key: DE_Rupture, Value: Patriarch of Blood
+Hash: D4760E77, Key: DE_TollOfTheDeep, Value: Lord of the Deep
+Hash: 5BBB10E0, Key: pvp_OpenWorld_HVT, Value: [ph] High Value Target
+Hash: 044622DE, Key: DE_RitualOfBlood, Value: Sanguine Champion
+Hash: E0AC59D2, Key: DE_PotentBlood, Value: Enraged Devourer
+Hash: 99CC8500, Key: DSH_Holdout_MiniBoss, Value: Sentinel Guardian
+Hash: F84BBDE9, Key: LE_Hatchery_SuperElite, Value: Hatchery Matriarch
+Hash: 5D0ED633, Key: USZ_harbinger, Value: Helltide Harbinger
+Hash: 0A54E6D8, Key: LE_Empowered, Value: The Unascended
+Hash: 827541C2, Key: DGN_KAM_Bandit, Value: Ringleader
+Hash: E1C34488, Key: DGN_KAM_Cannibal, Value: Headhunter
+Hash: 4CA378B8, Key: DGN_KAM_Cultist, Value: Harbinger
+Hash: 6131AF43, Key: DGN_KAM_Demon, Value: Roaming Terror
+Hash: 92D63DA3, Key: DGN_KAM_Drowned, Value: Lord of Erosion
+Hash: 8BC8ED02, Key: DGN_KAM_Fallen, Value: The Beast
+Hash: 8923D07B, Key: DGN_KAM_Fly, Value: Swarm Master
+Hash: 6169A6F5, Key: DGN_KAM_Ghost, Value: Haunted Soul
+Hash: 71C67917, Key: DGN_KAM_Goatman, Value: Bone Crusher
+Hash: 985C3CB5, Key: DGN_KAM_Knight, Value: Templar
+Hash: ADA7032B, Key: DGN_KAM_Wasp, Value: 
+Hash: 92827055, Key: DGN_KAM_Skeleton, Value: Herald of the Dead
+Hash: 6245DAA2, Key: DGN_KAM_Snake, Value: Mordant Viper
+Hash: AB29A597, Key: DGN_KAM_Spider, Value: Skittering Dread
+Hash: D49EB544, Key: DGN_KAM_Vampire, Value: Master of Blood
+Hash: 938A851B, Key: DGN_KAM_Werewolf, Value: Alpha
+Hash: B95C4960, Key: DGN_KAM_Wildlife, Value: 
+Hash: BB6DD2F6, Key: DGN_KAM_Zombie, Value: The Undying
+Hash: EF06D440, Key: DRLG_Structure_Cultist, Value: Ritual Leader
+Hash: D0921110, Key: DRLG_Structure_Cannibal, Value: Corpse Mason
+Hash: 967888CB, Key: DRLG_Structure_Demon, Value: Hell Catalyst
+Hash: 3539992B, Key: DRLG_Structure_Drowned, Value: Figurehead Hauler
+Hash: CE8591AF, Key: DRLG_Structure_Fallen_Imp, Value: Minion of Chaos
+Hash: AADD0C54, Key: DRLG_Structure_Fallen_Overseer, Value: Hell Driver
+Hash: 633AA601, Key: DRLG_Structure_Fallen_Shaman, Value: Archdemon
+Hash: 96B0807D, Key: DRLG_Structure_Ghost, Value: Nightmare
+Hash: 10778CCD, Key: DRLG_Structure_Goatman_Corrupt, Value: Shrine Defiler
+Hash: 0866EFEF, Key: DRLG_Structure_Goatman_Ice, Value: Master Impaler
+Hash: 767E473D, Key: DRLG_Structure_Knight, Value: Necrologist
+Hash: FA2CD9B3, Key: DRLG_Structure_MageHall, Value: Cursed Sentinel
+Hash: 7A3C4217, Key: DRLG_Structure_Maggot, Value: Corpse Spawn
+Hash: 966DC46A, Key: DRLG_Structure_Crypt, Value: Soulsworn Oathbreaker
+Hash: 81513CDD, Key: DRLG_Structure_Skeleton, Value: Massacred Champion
+Hash: 978CB42A, Key: DRLG_Structure_Snake, Value: Guardian of the All-Seer
+Hash: 894BB01F, Key: DRLG_Structure_Spider, Value: Matriarch
+Hash: 770210CC, Key: DRLG_Structure_Vampire, Value: Flesh Maester
+Hash: 998FDD7E, Key: DRLG_Structure_Zombie, Value: Congealed Rot
+Hash: 7D1289E2, Key: Bounty_Harvest_Elites, Value: Rasping Shade
+Hash: 3A62ACF9, Key: Bounty_Assassinate_Scos_DrownedRanged, Value: Gurgling One
+Hash: 00ACD7CA, Key: Bounty_Assassinate_Scos_DrownedBrute, Value: The Mastbreaker
+Hash: 89072348, Key: Bounty_Assassinate_Scos_WerewolfMelee, Value: Alpha Bloodspawn
+Hash: C1B2B68B, Key: Bounty_Assassinate_Scos_GhostRanged, Value: Eternal Runescribe
+Hash: 016C9C30, Key: Bounty_Assassinate_Scos_DrownedMelee, Value: Sputtering Madman
+Hash: 305AF71E, Key: Bounty_Assassinate_Scos_BanditAmbusher, Value: Silent Knife
+Hash: 64905BBE, Key: Bounty_Assassinate_Scos_GoatmanBrute, Value: Eldhaime's Bane
+Hash: D7B73355, Key: Bounty_Assassinate_Scos_WerewolfStealth, Value: Voracious Shadow
+Hash: 74FF4B0F, Key: Bounty_Assassinate_Scos_BanditMelee, Value: Deranged Lumberjack
+Hash: C0E039E9, Key: Bounty_Assassinate_Scos_FallenBrute, Value: Blood Clan Enforcer
+Hash: 9EB84A5C, Key: Bounty_Assassinate_Scos_GhostCaster, Value: Restless Ancient
+Hash: 30D80C54, Key: DGN_Mote_Carrier, Value: Animus Carrier
+Hash: 6D6E55BD, Key: World_LostCache, Value: Supplicant of Lilith
+Hash: 648B1267, Key: QST_Hawe_Lyndon_BackwaterTraitor, Value: Backwater Traitor
+Hash: 7DB65AD2, Key: LE_Claustrophobic, Value: The Immured
+Hash: 98667828, Key: EH_Caldeum_Ceremony, Value: High inquisitor
+Hash: 3EA6A10F, Key: DGN No Boss Chest Guardian, Value: Resplendent Guardian
+Hash: FEF1299E, Key: LE_Sealed, Value: The Sealed
+Hash: 9E287EF7, Key: Bounty_Assassinate_Step_DemonSpitter, Value: Mongrel of Rakinishu
+Hash: 56A5E561, Key: Bounty_Assassinate_Step_ZombieBrute, Value: Purulent Captain
+Hash: 11EC1806, Key: Bounty_Assassinate_Step_GhostMelee, Value: Immortal Spirit
+Hash: 2B96119A, Key: Bounty_Assassinate_Step_MaggotBrute, Value: Festering Sand Queen
+Hash: 8A8360C6, Key: Bounty_Assassinate_Step_SkeletonMelee, Value: Salt Drinker
+Hash: A609BDDA, Key: Bounty_Assassinate_Step_SpiderAdult, Value: Bloodmuck Matron
+Hash: 5DA00873, Key: Bounty_Assassinate_Step_CannibalBrute, Value: Insatiable Blade
+Hash: 70EFD583, Key: Bounty_Assassinate_Step_CultistBrute, Value: Speaker of Fel Flames
+Hash: 71AF99E9, Key: Bounty_Assassinate_Step_CultistMelee, Value: Lord of Ashes
+Hash: 4AC3B34B, Key: Bounty_Assassinate_Step_Cannibal2H, Value: Ravager of Dindai
+Hash: B778ADDE, Key: Bounty_Assassinate_Step_SpiderHost, Value: Salt Pan Goliath
+Hash: D691263D, Key: Bounty_Assassinate_Kehj_DemonSpitter, Value: Triune Dark Spawn
+Hash: 5AB554EE, Key: Bounty_Assassinate_Kehj_GoatmanMelee, Value: Moonclan Rockhoof
+Hash: 96908516, Key: Bounty_Assassinate_Hawe_SnakeBrute, Value: Shadow in the Reeds
+Hash: 001DEBC0, Key: Bounty_Assassinate_Hawe_CultistSummoner, Value: Scalespeaker
+Hash: 3A13804D, Key: Bounty_Assassinate_Kehj_ZombieMelee, Value: The Ever-parched
+Hash: 88B79460, Key: Bounty_Assassinate_Kehj_SpiderAdult, Value: Desert's Kiss
+Hash: D1AA7EF9, Key: Bounty_Assassinate_Kehj_KnightMonk, Value: Savage Pupil
+Hash: 2743CEE8, Key: Bounty_Assassinate_Kehj_FlyHost, Value: Sandpox Incubator
+Hash: DE52A3BD, Key: Bounty_Assassinate_Kehj_SkeletonShield, Value: Bleached Bulwark
+Hash: 3CACFD73, Key: Bounty_Assassinate_Kehj_FallenBrute, Value: Dune Pounder
+Hash: D9907C93, Key: Bounty_Assassinate_Kehj_DrownedSpecial, Value: Briny Corsair
+Hash: 1D31232C, Key: Bounty_Assassinate_Kehj_DemonMega, Value: Hellborne Despoiler
+Hash: 765DE19D, Key: Bounty_Assassinate_Hawe_DrownedMelee, Value: Cursed Mutineer
+Hash: D50AAB82, Key: Bounty_Assassinate_Hawe_DrownedMini, Value: Gibbering Dead
+Hash: 40601D49, Key: Bounty_Assassinate_Hawe_KnightBrute, Value: Lost Pilgrim
+Hash: 8B752EC2, Key: Bounty_Assassinate_Hawe_DemonSuccubus, Value: Swamp Hexxer
+Hash: 759E1D37, Key: Bounty_Assassinate_Hawe_DrownedBrute, Value: Flotsam King
+Hash: C7DC5787, Key: Bounty_Assassinate_Hawe_SpiderHost, Value: Consort of Arachyr
+Hash: 29A451D2, Key: Bounty_Assassinate_Hawe_CultistMelee, Value: Serpent's Edge
+Hash: 69C19796, Key: Bounty_Assassinate_Hawe_SnakeCaster, Value: Scaled Siren
+Hash: 14EB81E2, Key: Bounty_Assassinate_Hawe_CannibalMelee, Value: Flesh Gorger
+Hash: 3860B001, Key: Bounty_Assassinate_Hawe_Skeleton2H, Value: Arbor Eater
+Hash: 6C56C89C, Key: Bounty_Assassinate_Hawe_BanditMeleeBomb, Value: Mad Bomber
+Hash: 224FC1AF, Key: Bounty_Assassinate_Hawe_GhostMelee, Value: Devoured One
+Hash: 60974C4A, Key: DRLG_Structure_Bandit, Value: Caravan Slayer
+Hash: A656A803, Key: DRLG_Structure_Fly, Value: Carrion Drone
+Hash: 825951A3, Key: DRLG_Structure_Werewolf, Value: Rage Fiend
+Hash: 915621BF, Key: EH_EvilGarden_Guard, Value: Hatchery Slitherguard
+Hash: 5F8E6F4C, Key: Bounty_Assassinate_Step_CannibalDualwield, Value: Bastard of Guulrahn
+Hash: 2B16A626, Key: Bounty_Assassinate_Step_DemonMega, Value: Sins of the Carver
+Hash: D4E979B9, Key: Bounty_Assassinate_Step_DemonSuccubus, Value: Mistress of the Wastes
+Hash: C3F70D5D, Key: Bounty_Assassinate_Scos_Woodwraith, Value: Infested Oak
+Hash: 65502024, Key: Bounty_Assassinate_Scos_GoatmanMelee, Value: The Bloodletter
+Hash: 9336E8FC, Key: Bounty_Assassinate_Scos_MaggotMelee, Value: Ravenous Corpse-Eater
+Hash: F7FC05CB, Key: Bounty_Assassinate_Scos_SkeletonRanged, Value: Vindictive Sacrifice
+Hash: BE46BCC3, Key: Bounty_Assassinate_Scos_ZombieMelee, Value: The Decomposer
+Hash: 77AA8258, Key: Bounty_Assassinate_Hawe_GhostRanged, Value: Spectral Assassin
+Hash: 52F92C36, Key: Bounty_Assassinate_Hawe_FallenCaster, Value: Chieftain of the Rotting Halls
+Hash: 1EB0F5A2, Key: Bounty_Assassinate_Step_BanditAmbusher, Value: Quick Blade
+Hash: E21C1210, Key: QST_Caldeum_Myiasis_Gifter, Value: Myiasis Gifter
+Hash: 7D3E1093, Key: QST_Caldeum_Exudate_Sipper, Value: Exudate Sipper
+Hash: F26AFDAE, Key: EH_TaintedBlood_SpawnName, Value: Simulacrum
+Hash: FF67E826, Key: S01_DRLG_Structure_Malignant, Value: Malignant Maester
+Hash: DA7EFD76, Key: LE_Sacrifice_Seasonal_Vamptide_SuperElite_FlavorText, Value: Blood Gorger
+Hash: F9098E2B, Key: S2_Vampzone_BloodSeeker_FlavorOverride, Value: Blood Seeker
+Hash: 806B97C0, Key: S2_Vampzone_BloodHarvester_FlavorOverride, Value: Blood Harvester
+Hash: 3C168CF4, Key: S2_Vampzone_CorpsePile_SuperEliteFlavorOverride, Value: Gluttonous Reaver
+Hash: 5E5D8B3E, Key: S2_Vampzone_Wargmaster_FlavorTextOverride, Value: Wargmaster
+Hash: 9BED6B6D, Key: S03_UnearthedMachinations_LightningBoss, Value: [ph] Voltaic Vault Warden
+Hash: A4F2386F, Key: S03_UnearthedMachinations_FireBoss, Value: [ph] Igneous Vault Warden
+Hash: 9FF91A0B, Key: S03_UnearthedMachinations_ColdBoss, Value: [ph] Frigid Vault Warden
+Hash: 899D0ECF, Key: LE_S03_LNY_Shrine_SuperElite_FlavorText, Value: Miserly Spirit
+Hash: CA1A34A4, Key: S03_LNY_WhisperShrine_Elite, Value: Miserly Spirit
+Hash: C53C862F, Key: S4_PROTOTYPE_LightDark_Monsters, Value: [PH] Light/Dark Monster
+Hash: 6C2BCD4C, Key: COTD_ShardBearer, Value: Shardspiked
+Hash: E827A1C2, Key: BSK_ShockTrooper, Value: Aether Fiend
+Hash: C34D7923, Key: BSK_Miniboss, Value: Aether Lord

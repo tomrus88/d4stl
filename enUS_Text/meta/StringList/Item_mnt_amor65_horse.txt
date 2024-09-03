@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barding of Elemental Fury
+Hash: A646FFA4, Key: Description, Value: Imposing black barding, charged with elemental might.

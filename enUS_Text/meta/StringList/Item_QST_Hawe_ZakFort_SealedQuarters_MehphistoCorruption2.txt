@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Eleazar's Choice
+Hash: F5C7BC0A, Key: Flavor, Value: Refusing to draw his blade against his fellow paladins, Eleazar's blade is still wet with his own blood.
+Hash: A646FFA4, Key: Description, Value: Bound to Defiled Halls

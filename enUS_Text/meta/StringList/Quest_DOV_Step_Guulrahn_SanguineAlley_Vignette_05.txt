@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cannibal Chase VGN
+Hash: 976485BC, Key: Callback42Header, Value: Save the villager
+Hash: 6541F242, Key: Callback48Header, Value: Pick up the journal
+Hash: 36AC1DDC, Key: Callback51Header, Value: Speak to the villager

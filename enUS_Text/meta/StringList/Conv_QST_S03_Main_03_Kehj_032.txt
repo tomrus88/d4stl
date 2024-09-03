@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This 'construct' - is it alive?"
+Hash: 1E4975FE, Key: Line13.18AEA4, Value: Ha! To make life from metal and lightning – that would be the pinnacle of creation.
+Hash: 75451B6B, Key: VoiceDir13.18AEA4, Value: struck by the player's question
+Hash: F6CD1FC0, Key: Line15.18AEA4, Value: No. It is animated by the elemental force within it, and it obeys the runes engraved into it. It will help you. But it is not alive.

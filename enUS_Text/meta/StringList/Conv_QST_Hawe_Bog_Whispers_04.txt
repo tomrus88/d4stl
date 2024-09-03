@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Strange Voice
+Hash: 2B0FEE3A, Key: Line7.C1CD2, Value: (laughter) Look at that, look at that. Ruthless. Flippant.
+Hash: 9A195467, Key: VoiceDir7.C1CD2, Value: tittering laughter. They are referring to Player and team stabbing the giant serpent so that it would move out of their way.
+Hash: 911B74B6, Key: Line5.C1CD0, Value: How many ruthless Horadrim hang from our branches? Not enough. (laughter)
+Hash: 0024DAE3, Key: VoiceDir5.C1CD0, Value: (laughter)

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: The Only Cure
+Hash: 0871A46B, Key: Toast, Value: Mahjoob's affliction is worsening. A cure must be found quickly.
+Hash: C3B68EF9, Key: Phase13Description, Value: Mahjoob has entered his safehouse. We must act quickly if he is to make a cure.
+Hash: D29F0719, Key: Callback12Header, Value: Go inside Mahjoob's safehouse
+Hash: 3181449A, Key: Phase32Description, Value: The wound Mahjoob received from the fly demon has festered. I should see how he is doing.
+Hash: A3D12282, Key: Callback66Header, Value: Inspect Mahjoob
+Hash: 7645EEC4, Key: Phase69Description, Value: The wound Mahjoob received from the fly demon has festered. I should see how he is doing.
+Hash: 0F2FC79E, Key: Callback71Header, Value: Speak with Mahjoob

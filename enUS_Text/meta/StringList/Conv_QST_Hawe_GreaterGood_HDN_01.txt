@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hidden quest callout
+Hash: 5D72A43C, Key: Line1.EDC72, Value: Hey, you!  Boss wants to talk to you.

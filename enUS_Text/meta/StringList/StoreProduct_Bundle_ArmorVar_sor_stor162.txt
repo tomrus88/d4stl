@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: High Forest Magian
+Hash: A646FFA4, Key: Description, Value: These sorcerers have practiced their art in Scosglen's High Forest since before the coming of Astaroth.
+Hash: 083EE0CE, Key: Quote, Value: Indeed, the magians of the High Forest were instrumental in the rebuilding of Cerrigar after the demon's defeat.
+Hash: 13A53A8B, Key: Series, Value: Sorcerer Armor

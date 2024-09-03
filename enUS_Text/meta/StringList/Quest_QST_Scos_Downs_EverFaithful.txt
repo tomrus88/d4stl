@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Ever Faithful
+Hash: 0871A46B, Key: Toast, Value: A grieving mother wants revenge for her daughter's killer.
+Hash: D6E30DFE, Key: Phase27Description, Value: I caught up with Faolan in a hidden chamber to find he had been cursed – driven mad, then transformed into a beast. He gave me no choice but to kill him. I should return to Brenna, and tell her her daughter is avenged.
+Hash: D9B88541, Key: Callback29Header, Value: Return to Brenna
+Hash: 8828D241, Key: Phase39Description, Value: The bloody trail led me to an old smuggler's tunnel. Deirdre's killer may be inside.
+Hash: 976485BC, Key: Callback42Header, Value: Follow Faolan into the Abandoned Smuggler's Den
+Hash: 75A12100, Key: Phase47Description, Value: I found a woman, Brenna, crying over her daughter Dierdre's body. She witnessed Dierdre's husband, Faolan, committing the act. 
+
+If I follow his trail, I might be able to avenge her.
+Hash: 1D9AD41F, Key: Callback54Header, Value: Follow the trail in search of Faolan
+Hash: 4318BAA2, Key: Callback75Header, Value: Read the Warning Sign

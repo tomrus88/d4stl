@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cultist Trinket
+Hash: F5C7BC0A, Key: Flavor, Value: A weathered stone affixed on a simple metal chain. An occultist symbol has been carefully carved onto the stone's surface.
+Hash: A646FFA4, Key: Description, Value: Bound to Tunnels Beneath the Oasis

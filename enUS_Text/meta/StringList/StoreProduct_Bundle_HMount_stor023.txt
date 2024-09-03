@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Patchwork Horse
+Hash: A646FFA4, Key: Description, Value: This gruesome collection of horse and human flesh smacks of the foulest necromancy. Soulless tools for a soulless rider.
+Hash: 083EE0CE, Key: Quote, Value: Morbid mobility.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

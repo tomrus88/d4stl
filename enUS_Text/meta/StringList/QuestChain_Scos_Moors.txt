@@ -1,0 +1,5 @@
+Hash: 76E748CE, Key: 0_desc, Value: Search for evidence of Lilith near Tirmair
+Hash: 803BEB52, Key: 4_desc, Value: Find Nafain within the corrupted Moors
+Hash: 84E63C94, Key: 6_desc, Value: Clear the way into the Untamed Thicket
+Hash: 7B919A10, Key: 2_desc, Value: Find the beast growing within the Untamed Thicket
+Hash: 7DE6C2B1, Key: 3_desc, Value: Return to Nafain

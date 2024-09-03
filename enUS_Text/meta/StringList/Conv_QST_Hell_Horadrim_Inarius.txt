@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Inarius' fate
+Hash: 091F8A44, Key: Line13.6DE47, Value: What happened?
+Hash: 69E26198, Key: Line15.BAE4, Value: Lilith...she tore off Inarius's wings. It was like she was toying with him. She wanted the angel to suffer before she ended him.
+Hash: 3D087D48, Key: Line17.6DE47, Value: Then the prophecy was wrong. A spear of Light, piercing Hatred's heart.
+Hash: 7337041C, Key: Line19.BAE4, Value: Maybe not. Lilith is wounded too.
+Hash: 5B6C043C, Key: Line21.6D03F, Value: If she's hurt, it will be easier to trap her in the soulstone. We cannot stop.
+Hash: ABA23009, Key: VoiceDir21.6D03F, Value: (getting desperate)

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ney Finds Shortcut 2
+Hash: 8E091FB5, Key: Line5.6DE47, Value: But I think I know how to talk with my mother again.
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: Hopefully

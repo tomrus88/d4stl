@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Those Who Fight
+Hash: 0871A46B, Key: Toast, Value: People are taking up arms against the vampire threat in Ked Bardu. They would likely have an interest in the Fresh Blood Lure.
+Hash: D53BFF05, Key: Phase0Description, Value: People in Ked Bardu are fighting back against the vampire threat. They would likely have an interest in the Fresh Blood Lure.
+Hash: 059C64AB, Key: Callback5Header, Value: Bring the Fresh Blood Lure to the Vampire Hunters in Ked Bardu
+Hash: 1315987A, Key: Phase23Description, Value: The vampire hunters have established a central place to track progress in the fight against Zir. I should familiarize myself with it. 
+Hash: BEE0DBFA, Key: Callback22Header, Value: Examine the {GIZMO}

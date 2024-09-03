@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What have you done?"
+Hash: DFB384A4, Key: Line26.FBA9D, Value: (grunt) Please understand. I...was hurting, so much. But blood...blood helped. Slowed the vines.
+Hash: 2FE9B071, Key: VoiceDir26.FBA9D, Value: wheezing, coughing, pained groans 
+Hash: 79A7FE26, Key: Line28.FBA9D, Value: I shouldn’t--I never should’ve...they ran me out of town. Before I could burn him. (quiet sob) Can't even remember his name...
+Hash: C9DE29F3, Key: VoiceDir28.FBA9D, Value: quietly sobbing at the end

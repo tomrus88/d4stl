@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Resplendent Palfrey
+Hash: A646FFA4, Key: Description, Value: Adorning this beautiful steed are tack and trappings painstakingly crafted from the finest silks and leathers, with a lantern of polished oak and mild bronze.
+Hash: 083EE0CE, Key: Quote, Value: Elegance in motion.
+Hash: 13A53A8B, Key: Series, Value: Prestige Mount & Mount Armor

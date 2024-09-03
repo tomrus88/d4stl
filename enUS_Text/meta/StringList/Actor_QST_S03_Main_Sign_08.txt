@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Massive Shoulderguard
+Hash: F2CA04D8, Key: NoticeSignText, Value: A beautifully-wrought piece of armor—but far too large for any mortal body. Could this have been intended for a construct? Surely not.

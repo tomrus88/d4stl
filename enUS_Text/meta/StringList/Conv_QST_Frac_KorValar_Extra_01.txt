@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is that armor?"
+Hash: 5D346CBB, Key: Line1.C6308, Value: This is no mere "armor"! This is a holy vessel of the highest craftsmanship.
+Hash: F728E63D, Key: Line3.C6308, Value: It may uplift the repentant sinner directly to the Light. Can "armor" do that?

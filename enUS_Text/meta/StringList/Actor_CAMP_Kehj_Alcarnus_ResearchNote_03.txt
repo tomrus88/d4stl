@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Research Note #3
+Hash: F2CA04D8, Key: NoticeSignText, Value: A blood-splattered page ripped from a journal. It reads: "I’m so close. After so many failures, the hosts are almost viable. I will cure my illness and death itself."

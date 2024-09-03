@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Grizzly's Maul
+Hash: F5C7BC0A, Key: Flavor, Value: The fabled hammer is considered sacred to the barbarians of the Bear Tribe. 

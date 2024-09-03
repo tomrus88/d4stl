@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Worn Gravestone
+Hash: F2CA04D8, Key: NoticeSignText, Value: “I was Zelma, mother and farmer. 
+I tilled the soil, and here I’m planted. 
+I pray one day I’ll sprout anew.” 

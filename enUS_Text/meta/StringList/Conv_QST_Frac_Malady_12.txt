@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "That was...interesting"
+Hash: 5D8555C1, Key: Line1.FEF63, Value: You did well, you're more suited to this work than you think.
+Hash: CC8EBBEE, Key: VoiceDir1.FEF63, Value: Together with the player, you exorcised a demon from a child. Grateful
+Hash: F779CF43, Key: Line3.FEF63, Value: There are many more people in Kyovashad who are in need of me. If you have the time, I would welcome your assistance.
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: Kind, appreciative

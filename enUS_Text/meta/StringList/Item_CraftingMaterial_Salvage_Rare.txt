@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Veiled Crystal
+Hash: A646FFA4, Key: Description, Value: Salvaged from, and used to improve, {c_rare}Rare{/c} or better equipment.
+Hash: F5C7BC0A, Key: Flavor, Value: Occultists and enchanters commonly use these crystals to reorient or redirect magical energy. The process renders them inert, so many are needed.

@@ -1,0 +1,16 @@
+Hash: 26318475, Key: CampaignProgress, Value: Campaign Progress
+Hash: 8EAA5A40, Key: Campaign, Value: Campaign
+Hash: 5054591D, Key: Completed, Value: (Completed)
+Hash: AEB0EA35, Key: Progress, Value: ({s1})
+Hash: 03FDE1F2, Key: Locked, Value: Locked
+Hash: 4D93B267, Key: QuestProgress, Value: Quest Progress
+Hash: 66B1C315, Key: QuestCurrent, Value: Current Quest
+Hash: B802EA72, Key: ProgressValue, Value: {s1} / {s2}
+Hash: E142D920, Key: PromptShowBreakdown, Value: Show Breakdown
+Hash: A566CFD9, Key: PromptHideBreakdown, Value: Hide Breakdown
+Hash: 003766F1, Key: Back, Value: Back
+Hash: 0001E2C1, Key: NPC, Value: NPC's
+Hash: 8F4AEC0D, Key: ActProgress, Value: Act Progress: 
+Hash: E042355A, Key: Epilogue, Value: Epilogue
+Hash: AF09C84D, Key: Prologue, Value: Prologue
+Hash: 60DBE7F5, Key: ActValue, Value: Act {s1}

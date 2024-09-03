@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Corpse Spawn
+Hash: 0001AB01, Key: Alt, Value: Child of a God
+Hash: CC38ADCB, Key: FlavorName, Value: Child of the Devourer

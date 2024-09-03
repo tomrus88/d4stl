@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nahantu Veilwalker
+Hash: A646FFA4, Key: Description, Value: Recorded history fails to say when the Spiritborn first communed with the realm beyond. Antiquities like the "Veilwalker" date the practice as far back as the Mage Clan Wars. The Spiritborn themselves believe their ways are as old as Sanctuary.
+Hash: 083EE0CE, Key: Quote, Value: Wisdom beyond memory.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Equipment

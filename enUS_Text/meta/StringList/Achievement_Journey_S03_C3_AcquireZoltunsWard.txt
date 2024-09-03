@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Zoltun's Judgment
+Hash: 3A4912CF, Key: DescShort, Value: Acquire Zoltun's Warding by spending a  {icon:Pearl_of_Warding,3}  Pearl of Warding at any Statue of Zoltun Kulle, available after completing or skipping the Campaign

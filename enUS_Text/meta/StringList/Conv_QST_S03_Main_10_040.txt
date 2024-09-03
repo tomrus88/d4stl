@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is there anything more I can do to help?"
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: The demon is dying, but not dead. It lives in the stones of the Vaults, and the bodies of the constructs. It is the weed in our garden. We must pull it from its roots.
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: Return to the Vaults. Stamp out what remains of the demon. It will not die easily, but die it must.

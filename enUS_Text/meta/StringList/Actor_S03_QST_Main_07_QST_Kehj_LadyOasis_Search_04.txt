@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charred Corpses
+Hash: F2CA04D8, Key: NoticeSignText, Value: Bodies litter the floor, still smoldering. Would-be robbers, most likely.

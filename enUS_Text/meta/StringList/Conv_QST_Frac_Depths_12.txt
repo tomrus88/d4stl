@@ -1,0 +1,4 @@
+Hash: 8EDB2516, Key: Line1.1298F5, Value: Go away! Go away! Stay away!
+Hash: DF1150E3, Key: VoiceDir1.1298F5, Value: Terrified, in intense pain.
+Hash: F779CF43, Key: Line3.FEF63, Value: No! We won't forsake you!
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: Projected. The man you're speaking to is somewhere nearby but you don't know where.

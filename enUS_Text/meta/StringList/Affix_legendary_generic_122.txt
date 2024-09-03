@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Accursed Touch
+Hash: 003892BF, Key: Desc, Value: {icon:bullet} {c_label}Lucky Hit:{/c} Up to a {c_random}[Affix_Value_1|1%|]{/c} chance for your Skills to inflict {c_important}{u}Vampiric Curse{/u}{/c} on enemies. Enemies afflicted with {c_important}{u}Vampiric Curse{/u}{/c} are also {c_important}{u}Vulnerable{/u}{/c}.
+
+{icon:bullet} {c_important}{u}Vampiric Curse's{/u}{/c} stored souls deal {c_random}[Affix_Value_2|1%|]{/c} increased damage.
+Hash: 82B7D312, Key: CodexDesc, Value: Up to a {c_random}[Affix_Value_1|1%|]{/c} chance to inflict {c_important}{u}Vampiric Curse{/u}{/c}. Enemies with {c_important}{u}Vampiric Curse{/u}{/c} are {c_important}{u}Vulnerable{/u}{/c}.

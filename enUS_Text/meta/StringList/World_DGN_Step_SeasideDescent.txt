@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Seaside Descent
+Hash: 003892BF, Key: Desc, Value: A cove nestled among a graveyard of shipwrecks.

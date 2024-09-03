@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Turned
+Hash: 003892BF, Key: Desc, Value: Kill 666 Drowned, Vampires, or Werewolves.
+Hash: 3DA4E24D, Key: Crit_235693, Value: Kill Drowned
+Hash: 3DA4E24C, Key: Crit_235692, Value: Kill Vampires
+Hash: 3DA4E24B, Key: Crit_235691, Value: Kill Werewolves

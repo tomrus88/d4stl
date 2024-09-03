@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!
+Hash: F2CA04D8, Key: NoticeSignText, Value: ZAROZAR THE MIGHTY
+
+Legends speak of a barbarian warrior whose bloodthirst was so ferocious, he terrified even the cannibal tribes. Zarozar's spirit still haunts Desolation's Reach, searching for a worthy challenge.

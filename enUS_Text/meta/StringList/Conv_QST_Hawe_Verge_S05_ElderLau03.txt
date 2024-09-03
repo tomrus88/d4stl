@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I had to kill Aldara for the amulet."
+Hash: 8EB31D08, Key: Line1.1028C3, Value: Oh, a shame. I suppose she wasn’t going to hand it over but… so much death for a few coins.
+Hash: DEE948D5, Key: VoiceDir1.1028C3, Value: sad, tired
+Hash: 53789BAB, Key: Line4.1028C3, Value: I have already begun the cleansing ritual. Place the amulet and stand fast.
+Hash: A3AEC778, Key: VoiceDir4.1028C3, Value: sad, tired

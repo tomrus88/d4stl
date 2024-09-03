@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Writhing Band of Trickery
+Hash: F5C7BC0A, Key: Flavor, Value: The ring shifts and spins on your finger as the forces within desperately attempt to escape.

@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: "Look the part and people will believe anything you tell them." -The Peacock, to his apprentice
+Hash: 003DFCC1, Key: Name, Value: Peacock's Plumage
+Hash: 13A53A8B, Key: Series, Value: "The Peacock"

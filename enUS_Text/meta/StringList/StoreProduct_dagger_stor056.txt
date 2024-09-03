@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Edge of the Witchwood
+Hash: 13A53A8B, Key: Series, Value: "Witch of the Woods"

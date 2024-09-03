@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Animus
+Hash: A646FFA4, Key: Description, Value: Collect Animus to empower its Urn

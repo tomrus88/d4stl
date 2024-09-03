@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 673744FD, Key: Line3.103673, Value: The darkness here... I can feel it taking its toll on me. These paladins... to have suffered this for so long.
+Hash: B76D70CA, Key: VoiceDir3.103673, Value: Tired. Sympathetic.
+Hash: 3FBAEEBF, Key: Line5.103673, Value: We mustn't delay. To perform the ritual, we must find where the curse took root. A place of immense hatred.
+Hash: 8FF11A8C, Key: VoiceDir5.103673, Value: Steeling herself. Back to business.

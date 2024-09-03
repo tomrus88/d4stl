@@ -1,0 +1,50 @@
+Hash: 003DFCC1, Key: Name, Value: Shroud of the Horadrim
+Hash: 0871A46B, Key: Toast, Value: Search for Neyrelle and the Horadric Vault
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must search for Neyrelle in the Darkened Holt. Perhaps we can find the Horadric Vault together.
+Hash: D53BFF05, Key: Phase0Description, Value: Neyrelle continued her search for the Horadric Vault in the Darkened Holt, a place known to swallow locals in its swirling, cold air and dense foliage. I must find her before it's too late.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: 1EADAE68, Key: Callback2Header, Value: Enter the Darkened Holt
+Hash: BDB7A65B, Key: Phase60Description, Value: The great and horrible wolf concludes its lectures and visions. While I find them worthy of deep contemplation, I must resume my search for Neyrelle in the Darkened Holt before it's too late.
+Hash: F0362203, Key: Phase60OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: 6FE82F7E, Key: Callback62Header, Value: Search for Neyrelle in the Darkened Holt
+Hash: D0E42560, Key: Phase74Description, Value: The great and horrible wolf concludes its lectures and visions. While I find them worthy of deep contemplation, I must resume my search for Neyrelle in the Darkened Holt. It may be an illusion created by the Horadrim, but she's running out of time nonetheless.
+Hash: A71656A8, Key: Phase74OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: 9012F763, Key: Callback76Header, Value: Speak with Neyrelle
+Hash: 3E0A0D3D, Key: Phase71Description, Value: Neyrelle was found none the worse for wear. I gather she is more resilient than people credit her for. It is time for us to leave this seemingly endless Horadric illusion. What that means for our search for the Horadric Vault, I am unsure.
+Hash: B3EF6725, Key: Phase71OutsideSubzoneHeader, Value: Search for the Horadric Vault
+Hash: 859EA5AF, Key: Callback117Header, Value: Find the way to the Horadric Vault
+Hash: 6FA23862, Key: Phase94Description, Value: Neyrelle was found none the worse for wear. I gather she is more resilient than people credit her for. It is time for us to leave this seemingly endless Horadric illusion. What that means for our search for the Horadric Vault, I am unsure.
+Hash: 8C6EEBEA, Key: Phase94OutsideSubzoneHeader, Value: Search for the Horadric Vault
+Hash: AB1C8C32, Key: Callback138Header, Value: Enter the Shadowed Glade
+Hash: F54EBA1E, Key: Phase36Description, Value: Neyrelle was found none the worse for wear. I gather she is more resilient than people credit her for. It is time for us to leave this seemingly endless Horadric illusion. What that means for our search for the Horadric Vault, I am unsure.
+Hash: 7E7F2126, Key: Phase36OutsideSubzoneHeader, Value: Search for the Horadric Vault
+Hash: 7C54CC44, Key: Callback86Header, Value: Examine the Three-Faced Statue
+Hash: 145D3590, Key: Phase146Description, Value: While searching for Neyrelle in the dreaded Darkened Holt, I came across a giant wolf, as familiar as it is terrifying. It speaks to me. I am compelled to listen.
+Hash: 4DBC9CD8, Key: Phase146OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: B06FAAD0, Key: Callback145Header, Value: Enter the Fiery Portal
+Hash: CB85424A, Key: Callback220Header, Value: Enter the Fiery Portal
+Hash: A7374DB3, Key: Phase149Description, Value: Neyrelle continued her search for the Horadric Vault in the Darkened Holt, a place known to swallow locals in its swirling, cold air and dense foliage. I must find her before it's too late.
+Hash: 40E38C5B, Key: Phase149OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: 975E6113, Key: Callback148Header, Value: Search for Neyrelle
+Hash: 3E080ECB, Key: Phase150Description, Value: While searching for Neyrelle in the dreaded Darkened Holt, I came across a giant wolf as familiar as it is terrifying. It speaks to me. Shows me visions I am not sure I comprehend. But I am compelled to follow them and listen.
+Hash: DA1B0873, Key: Phase150OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: E093CE8F, Key: Callback180Header, Value: Open the Living Gate
+Hash: 8227EB31, Key: Phase165Description, Value: While searching for Neyrelle in the dreaded Darkened Holt, I came across a giant wolf as familiar as it is terrifying. It speaks to me. Shows me visions I am not sure I comprehend. But I am compelled to follow them and listen.
+Hash: E2083799, Key: Phase165OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: CCD5A370, Key: Callback190Header, Value: Speak with the Bloodied Wolf
+Hash: 3EACDC8F, Key: Phase172Description, Value: While searching for Neyrelle in the dreaded Darkened Holt, I came across a giant wolf as familiar as it is terrifying. It speaks to me. Shows me visions I am not sure I comprehend. But I am compelled to follow them and listen.
+Hash: 618D92B7, Key: Phase172OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: 283AECB2, Key: Callback174Header, Value: Speak with the Bloodied Wolf
+Hash: AC779230, Key: Phase191Description, Value: While searching for Neyrelle in the dreaded Darkened Holt, I came across a giant wolf as familiar as it is terrifying. It speaks to me. Shows me visions I am not sure I comprehend. But I am compelled to follow them and listen.
+Hash: F5D92D78, Key: Phase191OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: 4DB8D335, Key: Callback195Header, Value: Follow the Bloodied Wolf
+Hash: 34127D38, Key: Phase199Description, Value: The great and horrible wolf concludes its lectures and visions. While I find them worthy of deep contemplation, I must resume my search for Neyrelle in the Darkened Holt before it's too late.
+Hash: 7E410180, Key: Phase199OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: 3FFBD549, Key: Callback201Header, Value: Use the Fiery Portal to return to the Darkened Holt
+Hash: 1221492D, Key: Phase206Description, Value: While searching for Neyrelle in the dreaded Darkened Holt, I came across a giant wolf as familiar as it is terrifying. It speaks to me. Shows me visions I am not sure I comprehend. But I am compelled to follow them and listen.
+Hash: 4B411115, Key: Phase206OutsideSubzoneHeader, Value: Search for Neyrelle in the Darkened Holt
+Hash: DF436D69, Key: Callback210Header, Value: Continue with the Bloodied Wolf
+Hash: BC1E894A, Key: Phase221Description, Value: Neyrelle was found none the worse for wear. I gather she is more resilient than people credit her for. It is time for us to leave this seemingly endless Horadric illusion. What that means for our search for the Horadric Vault, I am unsure.
+Hash: 9B58C1D2, Key: Phase221OutsideSubzoneHeader, Value: Search for the Horadric Vault
+Hash: 4C68720F, Key: Callback225Header, Value: Slay the ghosts

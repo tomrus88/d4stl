@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Lord's Armory
+Hash: A646FFA4, Key: Description, Value: High quality weapons taken from a Blood Lord.
+Hash: F5C7BC0A, Key: Flavor, Value: The exceptional lifespans of the Vampire Lords grant them ample time to acquire ancient items of immense power. 

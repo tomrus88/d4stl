@@ -1,0 +1,25 @@
+Hash: 003DFCC1, Key: Name, Value: Encumbered Mind
+Hash: 0871A46B, Key: Toast, Value: Meet Donan in Hawezar
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Help Donan fix the soulstone
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Donan has what he needs to fix the soulstone at the ruined tower. I should be prepared to help him however I can. 
+Hash: B31D4704, Key: Phase87Description, Value: Donan has what he needs to fix the soulstone at the ruined tower. I should be prepared to help him however I can. 
+Hash: 0CE990CC, Key: Phase87OutsideSubzoneHeader, Value: Speak with Donan at the Ruined Tower
+Hash: 3DF7878C, Key: Callback123Header, Value: Help Donan Fix the soulstone
+Hash: 0DBB7DA0, Key: Phase92Description, Value: Taissa might have a plan on how to best help Donan fix the soulstone. 
+Hash: EA54F6E8, Key: Phase92OutsideSubzoneHeader, Value: Speak with Taissa at the Ruined Tower
+Hash: 028B1AA7, Key: Callback98Header, Value: Follow Taissa 
+Hash: 64630B47, Key: Phase99Description, Value: Taissa might have a plan on how to best help Donan fix the soulstone. 
+Hash: 21AFD06F, Key: Phase99OutsideSubzoneHeader, Value: Speak with Taissa at the Ruined Tower
+Hash: CB7F6448, Key: Callback101Header, Value: Speak with Taissa 
+Hash: A5EDB22B, Key: Phase105Description, Value: Donan has what he needs to fix the soulstone at the ruined tower. I should be prepared to help him however I can. 
+Hash: 31FE77D3, Key: Phase105OutsideSubzoneHeader, Value: Help Donan fix the Soulstone at the Ruined Tower
+Hash: 6AC6FC68, Key: Callback110Header, Value: Mix the Quicksilver with other liquids
+Hash: 07D46CED, Key: Phase107Description, Value: Donan has what he needs to fix the soulstone at the ruined tower. I should be prepared to help him however I can. 
+Hash: D4186CD5, Key: Phase107OutsideSubzoneHeader, Value: Help Donan fix the Soulstone at the Ruined Tower
+Hash: 9EAFEF6C, Key: Callback114Header, Value: Grind the Sulfur 
+Hash: 38C7CA4E, Key: Phase108Description, Value: Donan has what he needs to fix the soulstone at the ruined tower. I should be prepared to help him however I can. 
+Hash: 25256756, Key: Phase108OutsideSubzoneHeader, Value: Help Donan fix the Soulstone at the Ruined Tower
+Hash: 38A468EE, Key: Callback116Header, Value: Turn the Wheel three rotations
+Hash: B91A3130, Key: Phase119Description, Value: Donan has what he needs to fix the soulstone at the ruined tower. I should be prepared to help him however I can. 
+Hash: E8DEAC78, Key: Phase119OutsideSubzoneHeader, Value: Help Donan fix the Soulstone at the Ruined Tower
+Hash: A4030E0A, Key: Callback121Header, Value: Observe Donan

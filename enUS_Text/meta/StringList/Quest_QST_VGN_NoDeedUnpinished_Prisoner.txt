@@ -1,0 +1,4 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: Free the Caged Cultist
+Hash: 5296A16C, Key: Callback6Header, Value: Kill the cultist
+Hash: 38AA8D97, Key: Callback10Header, Value: Free the Caged Cultist
+Hash: 003DFCC1, Key: Name, Value: No Deed Unpunished

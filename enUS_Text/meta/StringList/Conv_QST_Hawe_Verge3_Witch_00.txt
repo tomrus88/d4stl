@@ -1,0 +1,2 @@
+Hash: 5A3A896D, Key: Line1.91FE1, Value: Do you have a habit of snooping around other people’s homes?
+Hash: C943EF9A, Key: VoiceDir1.91FE1, Value: Upon finding the player snooping around her home. Slight edge to her read.

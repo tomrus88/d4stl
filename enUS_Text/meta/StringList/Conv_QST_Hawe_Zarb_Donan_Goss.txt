@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I see you’re wearing your Horadric amulet now.” 
+Hash: 5A334C6A, Key: Line1.7FA05, Value: It doesn’t have sharp edges like that Cathedral pendant. That’s a benefit.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Basically saying "maybe this is who I really am."
+Hash: F427C5EC, Key: Line3.7FA05, Value: Makes me think I shouldn’t have taken it off in the first place.

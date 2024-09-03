@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ensnared
+Hash: 003892BF, Key: Desc, Value: Kill 300 enemies with your Traps.

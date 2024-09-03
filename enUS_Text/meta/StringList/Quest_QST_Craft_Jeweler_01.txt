@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Gem Crafting
+Hash: 9F90DE2D, Key: Callback7Header, Value: Craft a Gem
+Hash: C9FCD1EA, Key: Phase5Description, Value: Jewelers can craft or unsocket gems, and add sockets to items.
+
+Seek out Kratia in Kyovashad and craft a gem.
+Hash: D29F0719, Key: Callback12Header, Value: Speak with Kratia
+Hash: EF4DD30E, Key: Phase162Description, Value: Jewelers can craft or unsocket gems, and add sockets to items.
+
+Seek out Kratia in Kyovashad and craft a gem.
+Hash: F10328CD, Key: Callback241Header, Value: Craft a Gem

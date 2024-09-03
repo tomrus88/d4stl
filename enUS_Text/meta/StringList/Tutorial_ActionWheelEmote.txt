@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Emotes
+Hash: 7BFE534B, Key: simple_instruction, Value: Press {hotkey:SOCIAL_WHEEL} to open the {c_highlight}Action Wheel and use Emotes{/c}.

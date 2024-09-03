@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Great Feast
+Hash: 003892BF, Key: Desc, Value: Each Minion drains {c_random}[Affix_Value_1|1|]{/c} Essence per second but deals {c_random}[Affix_Value_2|%x|]{/c} increased damage. With no Minions, this bonus applies to you and drains {c_number}[Affix."Static Value 0"]{/c} Essence per second.

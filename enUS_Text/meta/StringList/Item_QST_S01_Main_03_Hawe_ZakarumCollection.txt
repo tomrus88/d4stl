@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crusader Missives
+Hash: F5C7BC0A, Key: Flavor, Value: A brittle bundle of old communiques. The stamp of the Crusaders appears on each, but their words are written in code.

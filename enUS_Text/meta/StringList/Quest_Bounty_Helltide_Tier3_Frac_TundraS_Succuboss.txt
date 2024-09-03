@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Slay the Blood Maiden
+Hash: 0871A46B, Key: Toast, Value: Leading the Helltides is the fearsome Blood Maiden. Draw her out with Baneful Hearts and slay her.
+Hash: ED76B060, Key: Callback19Header, Value: Slay the Blood Maiden: {DONE_OVER_NEEDED}

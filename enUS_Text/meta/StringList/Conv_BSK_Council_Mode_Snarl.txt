@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Fell Council
+Hash: BE943CAF, Key: Line18.1D252B, Value: (snarls)
+Hash: 158FE21C, Key: VoiceDir18.1D252B, Value: Violent. Lashing out. (2 sec)
+Hash: BD43DB89, Key: Line21.1D252B, Value: (snarls)
+Hash: 143F80F6, Key: VoiceDir21.1D252B, Value: Violent. Lashing out. (2 sec)

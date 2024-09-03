@@ -1,0 +1,2 @@
+Hash: 5A327CBE, Key: Line1.7F064, Value: The master calls forth the Maiden! You will not disturb him!
+Hash: C93BE2EB, Key: VoiceDir1.7F064, Value: Fanatical

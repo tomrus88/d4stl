@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: name, Value: Cold Imbuement
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+Imbue your weapons with frigid energies. Your next {c_number}{SF_0}{/c} {c_important}Imbueable{/c} Skills deal Cold damage and {c_important}{u}Chill{/u}{/c} enemies for {c_number}[{SF_3}|%|]{/c} per hit.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Chill{/u}{/c} Amount {icon:arrow,1.2} {c_number}[{SF_3}|%|]{/c} 
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_label}Lucky Hit:{/c} {c_important}Cold Imbued{/c} Skills have up to a {c_number}[{SF_21}*100|%|]{/c} chance to make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_22}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Cold Imbuement
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Cold Imbued{/c} Skills deal {c_number}[{SF_20}*100|%x|]{/c} damage to Crowd Controlled enemies. Double this bonus against {c_important}{u}Frozen{/u}{/C} enemies.
+Hash: 99335313, Key: Mod3_Name, Value: Mixed Cold Imbuement
+Hash: 1394CF37, Key: Mod4_Description, Value: {c_label}Lucky Hit:{/c} {c_important}Cold Imbued{/c} Skills have up to a {c_number}[{SF_16}|%|]{/c} chance to instantly {c_important}{u}Freeze{/u}{/c} enemies for {c_number}{buffduration:MOD_INSTANT_FREEZE}{/c} seconds.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Blended Cold Imbuement

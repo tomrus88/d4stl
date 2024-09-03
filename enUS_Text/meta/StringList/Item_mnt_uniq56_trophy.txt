@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Butcher's Trophy Cleaver
+Hash: A646FFA4, Key: Description, Value: Kept close at hand for the dismantling of one's prized meat.

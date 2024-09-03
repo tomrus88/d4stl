@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Trapped Villagers
+Hash: F2CA04D8, Key: NoticeSignText, Value: It seems these villagers tried to escape the flames engulfing their home, but they found no shelter here.

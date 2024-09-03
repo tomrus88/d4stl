@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hungering Bone Cache
+Hash: A646FFA4, Key: Description, Value: A sealed bone box with an engraving.
+Hash: F5C7BC0A, Key: Flavor, Value: "Vengeance is my legacy. Take the spirits of werewolves and I will open."

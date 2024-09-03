@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You were important once, weren't you?"
+Hash: 8F20EA94, Key: Line1.163AA1, Value: Important? I led the faithful through the Church’s darkest days! I was His voice!
+Hash: 67A49456, Key: Line3.163AA1, Value: But Prava — Light shine upon her — she changed all this. Her voice burned with holy fire… while mine could not.
+Hash: B7DAC023, Key: VoiceDir3.163AA1, Value: Reining in his ego, quietly grappling with envy.
+Hash: 40283E18, Key: Line5.163AA1, Value: In time, I was simply another priest… as was good and right.
+Hash: 905E69E5, Key: VoiceDir5.163AA1, Value: Lying about this being "good and right."

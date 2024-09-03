@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How do you know so much about Inarius?”
+Hash: A67637A6, Key: Line15.FA865, Value: How do you know the warmth of the sun? The love of your mother? The beauty of a song?
+Hash: 406AB128, Key: Line17.FA865, Value: His presence is infectious. It takes hold in the soul. We are a void without faith, an empty well. The pious fill their cups with prayer. Mine overflows with his Light, so near, so pure!
+Hash: DA5F2AAA, Key: Line19.FA865, Value: I am changed. I am nothing. I am better. Isn’t it beautiful?
+Hash: 2A955677, Key: VoiceDir19.FA865, Value: (tearful)

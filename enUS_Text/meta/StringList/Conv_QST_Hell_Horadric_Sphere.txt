@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Gameplay - Horadrim chanting creating a protective sphere
+Hash: 0932A9FD, Key: Line13.7FA05, Value: (speaking Horadric)
+Hash: 5968D5CA, Key: VoiceDir13.7FA05, Value: [hith soh’lahn] 
+Hash: A327237F, Key: Line15.7FA05, Value: (speaking Horadric)
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: [hith soh’lahn] 
+Hash: 3D1B9D01, Key: Line17.7FA05, Value: (speaking Horadric)
+Hash: 8D51C8CE, Key: VoiceDir17.7FA05, Value: [hith soh’lahn] 
+Hash: D6FC1563, Key: Line19.6D03F, Value: (speaking Horadric)
+Hash: 27324130, Key: VoiceDir19.6D03F, Value: [nith ehmoon] 
+Hash: 5B6C043C, Key: Line21.6D03F, Value: (speaking Horadric)
+Hash: ABA23009, Key: VoiceDir21.6D03F, Value: [nith ehmoon] 
+Hash: F5607DBE, Key: Line23.6D03F, Value: (speaking Horadric)
+Hash: 4596A98B, Key: VoiceDir23.6D03F, Value: [nith ehmoon] 

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Second Journey Equipment Cache
+Hash: A646FFA4, Key: Description, Value: Contains a Legendary Weapon, Pants, and Ring for your class.

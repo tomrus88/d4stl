@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Rathma? That can’t be a coincidence.”
+Hash: F414A633, Key: Line3.6DE47, Value: You mean that we found Rathma’s book here and Lilith’s going after him?
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Direct 
+Hash: 27FD9937, Key: Line7.6DE47, Value: My mother told me once there are no coincidences where immortals are involved.

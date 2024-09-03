@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Lilith doesn't seem to believe that you destroyed Astaroth."
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Of course not. Demons are arrogant creatures. She would never accept that our kind could vanquish Astaroth.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Brushing off the Player's statement, trying to sound confident.
+Hash: F427C5EC, Key: Line3.7FA05, Value: What troubles me is why she is looking for him. What does she want?
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Astaroth was from the Realm of Hatred, the place Lilith once called home. Perhaps therein lies an answer. I'll have to ponder this more.

@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Strange Voice
+Hash: F726FB36, Key: Line3.C1CD2, Value: So many come seeking answers...so many fail. Will you die like these souls, with a question still on your lips?
+Hash: 66306163, Key: VoiceDir3.C1CD2, Value: "Souls" referring to angry ghosts that the player is fighting in this area

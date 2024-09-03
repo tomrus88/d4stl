@@ -1,0 +1,2 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Volcanic
+Hash: EEB7912D, Key: AffixDesc, Value: While in combat, gouts of flame periodically erupt near players.

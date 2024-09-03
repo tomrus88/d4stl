@@ -1,0 +1,7 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Blackblood
+Hash: 2827F416, Key: Buff0_Description, Value: Increases a Random Core Stat for every wave you've completed in the Infernal Hordes. 
+
+{icon:bullet,1.2} Bonus Intelligence: {SF_1}
+{icon:bullet,1.2} Bonus Willpower: {SF_2}
+{icon:bullet,1.2} Bonus Dexterity: {SF_3}
+{icon:bullet,1.2} Bonus Strength: {SF_4}

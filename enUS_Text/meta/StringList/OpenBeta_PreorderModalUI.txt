@@ -1,0 +1,29 @@
+Hash: 3DC4CED3, Key: ThankYou, Value: Thanks For Playing!
+Hash: 127051C1, Key: ReleaseDateTitle, Value: Pre-purchase the {u}Ultimate Edition{/u}
+and get up to 4 days Early Access* at Launch
+Hash: 945B145F, Key: ReleaseDate, Value: Available 6.6.2023
+Hash: C16E6A69, Key: PlayMore, Value: *Up to 4 days based on estimated access, actual play time subject to possible outages and applicable time zone differences.
+©2023 Blizzard Entertainment, Inc.
+Hash: 32F9B706, Key: PrepurchaseBTN, Value: Pre-Purchase {icon:ExternalLink_Simple, 2.0}
+Hash: 4676145F, Key: OpenStore, Value: {icon:button1, 2} Open Store
+Hash: BBC5CBCC, Key: Welcome, Value: Welcome to the server slam!
+Hash: FB875DC6, Key: SecureBonuses, Value: Pre-purchase the {u}Ultimate Edition{/u}
+and get up to 4 days Early Access* at Launch
+Hash: 26AAFFF4, Key: InTheBeta, Value: *Up to 4 days based on estimated access, actual play time subject to possible outages and applicable time zone differences.
+©2023 Blizzard Entertainment, Inc.
+Hash: C2FE9B47, Key: PreorderBTN, Value: Pre-Order {icon:ExternalLink_Simple, 2.0}
+Hash: 7B6E5231, Key: FreeTrialModal1_Text1, Value: Fight back demonic hordes, uncover the immersive story, and explore Sanctuary {b}up to level 20! {/b}
+Hash: 7B6E5232, Key: FreeTrialModal1_Text2, Value: {b}Purchase Diablo IV{/b} to experience the full campaign, mightier challenges, new seasons, and more. Plus, your trial progress will carry over! 
+Hash: C8688EF2, Key: FreeTrialModal2_Text1, Value: Will you continue to brave the darkness and become the hero Sanctuary needs? Battle onward to Level 20 in this free trial! 
+Hash: C8688EF3, Key: FreeTrialModal2_Text2, Value: Enjoying your slay through Sanctuary? {b}Purchase Diablo IV now{/b} and keep your trial progress. 
+Hash: C9F11AE7, Key: FreeTrialModal1_Subtitle, Value: Greetings, wanderer! Welcome to the {b}Diablo IV free trial.{/b}
+Hash: CDFBAC08, Key: FreeTrialModal2_Subtitle, Value: Congratulations! You completed Act I.
+Hash: 1562CBB3, Key: FreeTrialModal3_Text1, Value: Lilith’s grip tightens on the townsfolk of Sanctuary! Don’t let your progress go for naught. Continue your stand against these diabolical forces - {b}purchase Diablo IV now!{/b}  
+Hash: 1562CBB4, Key: FreeTrialModal3_Text2, Value: New events, stories, seasons, rewards, and more are looming on the horizon!  
+Hash: D2063D29, Key: FreeTrialModal3_Subtitle, Value: Free Trial Max Level Reached. 
+{b}Thank you for playing!{/b}
+Hash: FCB34AE8, Key: BuyNowBTN, Value: Buy Now {icon:ExternalLinkIcon_Simple, 1}
+Hash: D6578520, Key: FreeTrialLevelCapClose, Value: You are nearing the end of our free trial level cap of {Param1}.
+Hash: 3B9CBD16, Key: FreeTrialLevelCapReached, Value: You have reached the level cap of our free trial and will be returned to Character Select in {s1} seconds. Thank you for playing! 
+Hash: 37B9CA87, Key: FreeTrialCountdown_Header, Value: End of free trial
+Hash: D90419CC, Key: FreeTrialCountdown_Body, Value: Initiating logout in {c_highlight}{s1}{/c}|4 second:seconds

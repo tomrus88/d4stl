@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Desert Escape
+Hash: A646FFA4, Key: Description, Value: {c_gold}Use: {/c}Increases Fire, Cold, and Shadow Resistances by {c_yellow}+15%{/c} and their Maximum Resistances by {c_yellow}+2%{/c} for all nearby players and increases Experience by {c_yellow}5%{/c}. Lasts 20 minutes.
+Hash: F5C7BC0A, Key: Flavor, Value: This is a type I incense. Only one Incense of a type may be active at a time. Experience Bonus does not stack with other Incenses.

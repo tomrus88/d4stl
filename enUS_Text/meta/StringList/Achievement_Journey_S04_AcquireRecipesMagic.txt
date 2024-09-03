@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Expanded Repertoire
+Hash: 3A4912CF, Key: DescShort, Value: Learn Recipes of Magic rarity or higher

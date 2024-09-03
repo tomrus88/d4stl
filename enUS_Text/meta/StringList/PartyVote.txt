@@ -1,0 +1,4 @@
+Hash: 42955E5C, Key: DungeonResetHeader, Value: {s1} wants to reset all dungeons
+Hash: 46CEB461, Key: DungeonResetBody, Value: This action will reset all dungeons including Nightmare Dungeons. Campaign dungeons won't be affected.
+Hash: A4282B60, Key: PartyCutsceneAdvanced, Value: A cutscene has been completed by {s1}
+Hash: 59B05DC8, Key: DungeonReset_Warning, Value: {c_red}Warning: This dungeon will close with unspent glyph XP.{/c}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fish Bucket
+Hash: F2CA04D8, Key: NoticeSignText, Value: Freshly caught, and overly fragrant. It seems fish makes up a large part of the diet here.

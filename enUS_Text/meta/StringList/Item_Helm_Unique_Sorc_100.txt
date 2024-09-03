@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Starfall Coronet
+Hash: F5C7BC0A, Key: Flavor, Value: "The elders say they saw a star falling from the sky many years ago. A sign from the heavens that the end times were nigh. A rallying cry to take up arms and protect Sanctuary!"
+- Crusader Hamilton

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you all right?"
+Hash: 8EFD9E2F, Key: Line1.14656B, Value: I... I don't know what to say! I'm certain my interpolations were correct... or at least in the spirit of the original.
+Hash: 678147F1, Key: Line3.14656B, Value: All this wasted effort... perhaps my translation of the book was incorrect. I'm going back to Kurast to study my notes again.
+Hash: 4004F1B3, Key: Line5.14656B, Value: I think it’s best if I leave the book with you. Consider it thanks for your help.

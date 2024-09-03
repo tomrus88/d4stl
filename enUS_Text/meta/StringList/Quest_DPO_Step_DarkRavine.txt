@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Have you ever felt such suffering? 
+Hash: 1EADAE68, Key: Callback2Header, Value: Collect {ITEM} from Animus Carriers
+Hash: D9B88541, Key: Callback29Header, Value: Slay the {MONSTER}: {LEFT}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat the {MONSTER}
+Hash: B98DBD5C, Key: Callback15Header, Value: Travel to the {LEVELAREA}
+Hash: C5FA5A22, Key: Callback39Header, Value: Deposit Animus into the {GIZMO}
+Hash: 7E533BFF, Key: Callback45Header, Value: Travel to the {LEVELAREA}

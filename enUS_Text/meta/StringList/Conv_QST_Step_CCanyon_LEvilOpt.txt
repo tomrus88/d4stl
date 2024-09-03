@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are the Lesser Evils?"
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: (sigh) Perhaps you are too young. The Prime Evils, you should know. Diablo, Mephisto, and Baal.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Weary professor, covering the basics.
+Hash: F413C4CC, Key: Line3.6D03F, Value: The Lessers are their rotten kin. Azmodan, Belial, Andariel, and Duriel. Each of them has ravaged humankind since the dawn of history, and they will gladly do so again.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Weary professor. Contempt and foreboding.

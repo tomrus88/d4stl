@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ayuzhan Bark
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: Damn you! Zoltun was beyond you! I am beyond you!
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: dam broken, fury covering for heartbreak
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: You are the dirt clumped on our roots. You live only within the bounds we ascribe to you! You care nothing for others–only yourself!
+Hash: 4065B98F, Key: Line5.18AEA4, Value: …Do you hear me!? You are a parasite!

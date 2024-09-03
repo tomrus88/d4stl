@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You made it back safely from the fort."
+Hash: 58D92C8B, Key: Line10.103673, Value: Yes, indeed! Truthfully, our victory against Mephisto left me emboldened.
+Hash: AFD4D1F8, Key: VoiceDir10.103673, Value: Loud. Joyous. Proud
+Hash: 315CD64D, Key: Line12.103673, Value: I lingered at the fort, managing to find some partial record of the paladins who stayed there. I aim to carve the name of every paladin into stone.
+Hash: BAE7D393, Key: Line18.103673, Value: Though it seems I may need to find another plaque soon.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What’s the plan?"
+Hash: 8E091FB5, Key: Line5.6DE47, Value: I’ll explain on the way.
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: impatient

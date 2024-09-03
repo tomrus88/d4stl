@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Prologue
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Sometimes our paths in life are set to collide, we just don’t know it.
+Hash: F413C4CC, Key: Line3.6D03F, Value: Whether it is by accident or fate’s hand, there is nothing we can do about it.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: The Wanderer lost in the storm. Fed the blood of Lilith. Saved by a lone monk.
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: Different lives and incidents drawn together...by what? Destiny?
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Or some greater power pulling the strings? I did not know.
+Hash: C1F13152, Key: Line9.6D03F, Value: But at the time, I thought I had a chance to protect humanity from the Daughter of Hatred.
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: The Wanderer’s connection to her gave me hope. (chuckle) Imagine that.

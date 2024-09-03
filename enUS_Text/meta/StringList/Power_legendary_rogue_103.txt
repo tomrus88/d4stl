@@ -1,0 +1,2 @@
+Hash: 22C55B1C, Key: Buff9_Name, Value: Uncanny Treachery 
+Hash: F27F499F, Key: Buff9_Description, Value: Dodge Chance increased by breaking {c_important}{u}Stealth{/u}{/c}.

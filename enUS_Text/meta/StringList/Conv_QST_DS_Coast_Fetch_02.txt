@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The undead have been cleared for now."
+Hash: 5D226C1B, Key: Line1.B67DA, Value: You return! Just in time for the end of my shift. It's been quiet here, thanks to you. Here's your coin.
+Hash: CC2BD248, Key: VoiceDir1.B67DA, Value: Young

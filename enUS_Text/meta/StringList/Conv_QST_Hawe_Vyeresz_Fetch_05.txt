@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I found your lost friend alive. He needs to be taken to a healer.”
+Hash: 8ED7BAB9, Key: Line1.123237, Value: Oh, I... I can’t believe it. I... if I knew he lived, I... I would have gathered a group... oh, I never should have run.
+Hash: DF0DE686, Key: VoiceDir1.123237, Value: Bewildered. Mixed emotions of relief, anxiety, and panic. He's relieved Derin is alive, but is also worried Derin will blame him for leaving Derin behind.
+Hash: 9151B871, Key: Line5.F1C75, Value: (cough) It’s okay, Mateen. I just want to leave this place.
+Hash: 005B1E9E, Key: VoiceDir5.F1C75, Value: Derin is wounded and pained, but still makes an effort to comfort Mateen's panic.
+Hash: 1862B7FF, Key: Line7.123237, Value: Easy, I’ll help you to the healer, eh?
+Hash: 6898E3CC, Key: VoiceDir7.123237, Value: Less panicked than before. He's more concerned about Derin's condition than his own feelings.
+Hash: F0E661C1, Key: Line9.123237, Value: Thank you, wanderer. You’re braver than most. Akarat must guide your path.

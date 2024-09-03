@@ -1,0 +1,6 @@
+Hash: D0F97C26, Key: Line20.1BCD2B, Value: Wanderer.
+Hash: 27F52193, Key: VoiceDir20.1BCD2B, Value: Nodding. Terse.
+Hash: 95BEFAC9, Key: Line23.1BCD2B, Value: Well, well...
+Hash: ECBAA036, Key: VoiceDir23.1BCD2B, Value: Nodding. Recognition.
+Hash: 5A84796C, Key: Line26.1BCD2B, Value: Ah. You again.
+Hash: B1801ED9, Key: VoiceDir26.1BCD2B, Value: Sighing. Unhappy to see Player.

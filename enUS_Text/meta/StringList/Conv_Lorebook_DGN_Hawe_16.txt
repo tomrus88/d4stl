@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Journal Page
+Hash: 5D72A9F7, Key: Line1.EDCBB, Value: This was easy money. Making my way across the delta was a little bit tricky, but I’ve had tougher.
+Hash: F7672379, Key: Line3.EDCBB, Value: Now I just need to find this “cursed” pool, collect a flask full, and get back to the witch to grab my coin. Easy gold.

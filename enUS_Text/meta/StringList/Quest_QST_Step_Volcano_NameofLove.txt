@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: In the Name of Love
+Hash: 0871A46B, Key: Toast, Value: Rakhaan seeks a dark artifact in the Whispering Vault.
+Hash: 61CFD437, Key: Phase11Description, Value: Rakhaan has sent me to find another relic of the Overseers - a cleaver he believes was last locked away by the mages in the Whispering Vault.
+Hash: 38AA8D97, Key: Callback10Header, Value: Recover the Cleaver from Whispering Vault
+Hash: F4A9EC5A, Key: Phase14Description, Value: I recovered the Cleaver Rakhaan requested from the Whispering Vault and found a spirit evidently trapped inside. I should return to Rakhaan.
+Hash: 1F9943DA, Key: Callback13Header, Value: Speak with Rakhaan

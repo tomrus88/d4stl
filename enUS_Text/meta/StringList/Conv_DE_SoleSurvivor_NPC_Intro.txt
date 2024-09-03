@@ -1,0 +1,8 @@
+Hash: 0E84BCDB, Key: Line20.7DD22, Value: We got separated... M-my friends were cut down, I won't last on my own!
+Hash: 5EBAE8A8, Key: VoiceDir20.7DD22, Value: In shock, hungry, desperate, and with a lot of survivor's guilt.
+Hash: A879365D, Key: Line22.7DD22, Value: Please help! More are coming, I won't survive!
+Hash: F8AF622A, Key: VoiceDir22.7DD22, Value: Desperate
+Hash: 47C0CE7E, Key: Line31.7DD23, Value: We got separated... M-my friends were cut down, I won't last on my own!
+Hash: 97F6FA4B, Key: VoiceDir31.7DD23, Value: In shock, hungry, desperate, and with a lot of survivor's guilt.
+Hash: E1B54800, Key: Line33.7DD23, Value: Please help! More are coming, I won't survive!
+Hash: 31EB73CD, Key: VoiceDir33.7DD23, Value: Desperate, giving a warning and a plea for help

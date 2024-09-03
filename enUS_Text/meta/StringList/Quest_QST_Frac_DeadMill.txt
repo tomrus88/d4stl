@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Ravenous Dead
+Hash: 0871A46B, Key: Toast, Value: The hearts of ghouls may hold a secret power.
+Hash: D53BFF05, Key: Phase0Description, Value: Olesia, an alchemist in Yelesna, has requested that I gather Ghoul Hearts from the ravenous dead around the Creaking Mill and Morskota Lake.
+Hash: 1EADAE68, Key: Callback2Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: C9FCD1EA, Key: Phase5Description, Value:  I should return to Yelesna and deliver the Ghoul Hearts to Olesia.
+Hash: B8A227EA, Key: Callback4Header, Value: Speak with Olesia

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm sorry.  I don't have one."
+Hash: 5D23008B, Key: Line1.B79B0, Value: Oh. Well, I suppose I'll wait here and see if some other adventurer can help me.

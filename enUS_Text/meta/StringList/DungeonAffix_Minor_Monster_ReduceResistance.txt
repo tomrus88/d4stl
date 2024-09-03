@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Resistance Breakers
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monster attacks from a distance reduce Resistance to All Elements by 5% for 6 seconds, stacking up to 25%.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monster attacks from a distance reduce Resistance to All Elements by 3% for 6 seconds, stacking up to 15%.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monster attacks from a distance reduce Resistance to All Elements by 2% for 6 seconds, stacking up to 10%.

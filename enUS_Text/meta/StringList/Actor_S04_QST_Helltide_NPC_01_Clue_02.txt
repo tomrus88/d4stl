@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Corpse of an Iron Wolf
+Hash: F2CA04D8, Key: NoticeSignText, Value: An Iron Wolf, dead by stabbing. The killers struck repeatedly, desperately, inexpertly. Did the caravaneers do this?

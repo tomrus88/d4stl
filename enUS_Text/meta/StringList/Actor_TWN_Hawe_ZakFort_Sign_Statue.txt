@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Zakarum Statue
+Hash: F2CA04D8, Key: NoticeSignText, Value: A statue of a saint of the Zakarum faith. Her name forgotten to time.

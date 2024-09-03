@@ -1,0 +1,4 @@
+Hash: BFBB6413, Key: SubHeader, Value: This ritual will summon
+Hash: D0201B8E, Key: MainHeader, Value: Tormented Duriel
+Hash: F5C7BC0A, Key: Flavor, Value: "Flay mine mortal body! Show me mine blood, bones, and heart! Again!"
+Hash: ED2058BC, Key: Button, Value: Summon

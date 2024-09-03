@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Hectic
+Hash: C6E60718, Key: Buff2_Description, Value: Every {c_number}[SF_3]{/c} {c_important}Basic{/c} Skills, reduce an active Cooldown by {c_number}[SF_0]{/c} seconds. 

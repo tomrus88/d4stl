@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mephisto's Bane
+Hash: 3A4912CF, Key: DescShort, Value: Purify  {icon:ShardofHatred, 2.5}  Seeds of Hatred obtained in Hostile areas at an {icon:Marker_PvPTurnIn, 2.5} Altar of Extraction

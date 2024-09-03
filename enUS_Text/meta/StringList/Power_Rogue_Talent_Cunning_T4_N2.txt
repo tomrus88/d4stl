@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Malice
+Hash: 003892BF, Key: desc, Value: You deal {c_number}[{SF_0}*100|%x|]{/c} increased damage to {c_important}{u}Vulnerable{/u}{/c} enemies and {c_number}[{SF_0}*100|%x|]{/c} increased damage to Knocked Down enemies. These bonuses can apply simultaneously. 
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Vulnerable{/u}{/c} Damage Bonus {icon:arrow,1.2} {c_number}[{SF_0}*100|%x|]{/c}
+{icon:bullet,1.2} Knocked Down Damage Bonus {icon:arrow,1.2} {c_number}[{SF_0}*100|%x|]{/c}

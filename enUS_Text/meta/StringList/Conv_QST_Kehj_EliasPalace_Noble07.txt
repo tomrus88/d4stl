@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Yes?"
+Hash: F767AE72, Key: Line3.EED6E, Value: I haven’t seen you before.
+Hash: 6671149F, Key: VoiceDir3.EED6E, Value: suspicious
+Hash: 3D079BE1, Key: Line17.6D03F, Value: We just made it through the storm… by the Mother’s grace.
+Hash: 8D3DC7AE, Key: VoiceDir17.6D03F, Value: Trying to play it cool and sound natural
+Hash: 92A8E0E6, Key: Line25.EED6E, Value: Ah, new disciples.
+Hash: E2DF0CB3, Key: VoiceDir25.EED6E, Value: Welcoming--he sees us as fellow chosen now
+Hash: 5EBFEDE2, Key: Line21.EED6E, Value: You’ve come at an auspicious time. Lilith recently graced us with her presence.
+Hash: AEF619AF, Key: VoiceDir21.EED6E, Value: Welcoming--he sees us as fellow chosen now
+Hash: F5607DBE, Key: Line23.6D03F, Value: She was here?
+Hash: 4596A98B, Key: VoiceDir23.6D03F, Value: Surprised that Lilith was here
+Hash: A6670C05, Key: Line15.EED6E, Value: Oh, it was magnificent. But do not worry—perhaps Master Elias will give you a glimpse of her through the Sightless Eye.
+Hash: F69D37D2, Key: VoiceDir15.EED6E, Value: Awe
+Hash: C5451AF8, Key: Line9.EED6E, Value: If he deems you worthy. Go inside and present yourself to him.
+Hash: 344E8125, Key: VoiceDir9.EED6E, Value: Urging Lorath and Player inside, but a hint of warning in this voice ("If Elias deems us worthy..." If he doesn't then we are in trouble).

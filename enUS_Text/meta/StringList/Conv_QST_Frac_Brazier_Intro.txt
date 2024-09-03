@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It seems Margrave is beset by evil on all sides."
+Hash: 5D12BA4E, Key: Line1.A9F43, Value: Yes, darkness is all around us, threatening to close in at any moment. It is our struggle to keep it at bay, if only just barely.
+Hash: CC1C207B, Key: VoiceDir1.A9F43, Value: unbothered. this is the way of things
+Hash: 44017091, Key: Line4.A9F43, Value: Back when the Knights Penitent still patrolled these woods, they would construct great sanctified braziers to ward off evil.
+Hash: B30AD6BE, Key: VoiceDir4.A9F43, Value: musing about times past while busy with his hands, not even looking at the player
+Hash: DDF5EA13, Key: Line6.A9F43, Value: There is one not far from here. If you wish to help us push back the darkness, you could light it.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I bring dark tidings from the Fractured Peaks…”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Rathma is dead? I brought the Prophecy to Inarius so he could unravel its true meaning. I never expected he would kill his son because of it.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Shocked at the knowledge Rathma, something of a demigod, is dead.
+Hash: F427C5EC, Key: Line3.7FA05, Value: And now the very thing he wanted, this infernal key to Hell, is in Lilith’s hands. It must relate to her search for Astaroth…

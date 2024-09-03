@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Road to Ruin
+Hash: 282084CA, Key: Line7.8C8DF, Value: Almost there...almost there...
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: To self. Feverish. Exhausted. Pushing himself to get up.
+Hash: 2253BF94, Key: Line10.8C8DF, Value: Damned flies!
+Hash: 7289EB61, Key: VoiceDir10.8C8DF, Value: To self. Feverish. Exhausted. Irritated.
+Hash: 094275D7, Key: Line13.8C8DF, Value: Just need more ghost palm, that's all...
+Hash: 5978A1A4, Key: VoiceDir13.8C8DF, Value: Feverish. Exhausted. Reassuring himself.

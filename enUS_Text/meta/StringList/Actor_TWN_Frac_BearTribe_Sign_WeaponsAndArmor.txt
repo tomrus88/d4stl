@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bear Tribe Weapons
+Hash: F2CA04D8, Key: NoticeSignText, Value: Well-kept, but well-worn. The cold is hard on steel, as are the Khazra.

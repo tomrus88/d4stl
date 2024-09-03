@@ -1,0 +1,6 @@
+Hash: 1BC5E139, Key: Buff6_Name, Value: Elemental Attunement
+Hash: 04622D1C, Key: Buff6_Description, Value: Cannot reset {c_important}Defensive{/c} Skills.
+Hash: 003DFCC1, Key: name, Value: Elemental Attunement
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Critical Strikes have up to a {c_number}[{SF_0}|%|]{/c} chance to reset the Cooldown of one of your {c_important}Defensive{/c} Skills. Can only happen once every {c_number}{SF_1}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Lucky Hit Chance {icon:arrow,1.2} {c_number}[{SF_0}|%|]{/c}

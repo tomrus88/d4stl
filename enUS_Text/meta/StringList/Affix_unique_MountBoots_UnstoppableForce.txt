@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Your mount is immune to any crowd control effects.

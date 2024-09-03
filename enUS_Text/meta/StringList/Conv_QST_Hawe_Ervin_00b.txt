@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You okay?"
+Hash: 8EB34783, Key: Line1.101CAF, Value: Over here -- let me catch my breath.
+Hash: DEE97350, Key: VoiceDir1.101CAF, Value: Winded; having been rescued after being stranded, he jogs over to a safe spot to catch his breath.

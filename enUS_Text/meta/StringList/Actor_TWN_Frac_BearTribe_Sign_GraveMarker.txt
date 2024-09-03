@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barbarian Grave
+Hash: F2CA04D8, Key: NoticeSignText, Value: The grave of a fallen warrior of Bear Tribe. Their weapons and armor displayed proudly seems a testament to their honor.

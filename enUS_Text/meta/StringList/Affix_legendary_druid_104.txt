@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Rampaging Werebeast
+Hash: 003892BF, Key: Desc, Value: The duration of {c_important}Grizzly Rage{/c} is increased by {c_random}[Affix_Value_1|1|]{/c} seconds. In addition, Critical Strikes while {c_important}Grizzly Rage{/c} is active increase your Critical Strike Damage by {c_number}[Affix_Value_2|%x|]{/c} for the duration, up to a maximum of {c_number}[Affix."Static Value 0"|%x|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Grizzly Rage's{/c} duration is increased by {c_random}[Affix_Value_1|1|]{/c} seconds, and {c_important}Grizzly Rage{/c} can grant up to {c_number}[Affix."Static Value 0"|%x|]{/c} Critical Strike Damage.

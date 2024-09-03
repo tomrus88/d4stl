@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Nekonomicon
+Hash: F5C7BC0A, Key: Flavor, Value: On the summoning and command of demonic felines.

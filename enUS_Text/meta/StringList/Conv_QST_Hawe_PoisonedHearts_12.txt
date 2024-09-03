@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Aneta
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: I'm sorry I wasn't able to say goodbye. The chorus of voices called to me, and I had to answer.
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: You are narrating a letter you penned to thank the player for their help. Sorrowful, but purposeful.
+Hash: 2B479923, Key: Line7.F52ED, Value: I asked Gulyas to return my mother's body to Zarbinzet. She only protested a little.
+Hash: 9A50FF50, Key: VoiceDir7.F52ED, Value: You are narrating a letter you penned to thank the player for their help. Thinly veiled amusement and appreciation at the second sentence.
+Hash: F75EA61F, Key: Line3.F52ED, Value: I don't know how to thank you enough. You protected me, a girl you barely knew, from danger so many times.
+Hash: 66680C4C, Key: VoiceDir3.F52ED, Value: You are narrating a letter you penned to thank the player for their help. Earnest, heartfelt.
+Hash: 91531FA1, Key: Line5.F52ED, Value: I promise not to waste this chance you've given me. I know it's not much, but I want you to take this as a keepsake. Truly, thank you.
+Hash: 005C85CE, Key: VoiceDir5.F52ED, Value: You are narrating a letter you penned to thank the player for their help. Earnest, heartfelt.

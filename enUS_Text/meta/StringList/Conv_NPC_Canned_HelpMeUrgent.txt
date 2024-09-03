@@ -1,0 +1,144 @@
+Hash: F26DA457, Key: Line1540.3F392, Value: Help! Please!
+Hash: 28DDF764, Key: VoiceDir1540.3F392, Value: Frantic
+Hash: D95C5A9A, Key: Line1543.3F392, Value: Over here! Help!
+Hash: 0FCCADA7, Key: VoiceDir1543.3F392, Value: Frantic
+Hash: C04B10DD, Key: Line1546.3F392, Value: Help! I beg you!
+Hash: F6BB63EA, Key: VoiceDir1546.3F392, Value: Frantic
+Hash: AAC24384, Key: Line1549.EDC78, Value: Help! Please!
+Hash: E1329691, Key: VoiceDir1549.EDC78, Value: Frantic
+Hash: 7C2C6F1E, Key: Line1552.EDC78, Value: Over here! Help!
+Hash: B29CC22B, Key: VoiceDir1552.EDC78, Value: Frantic
+Hash: 631B2561, Key: Line1555.EDC78, Value: Help! I beg you!
+Hash: 998B786E, Key: VoiceDir1555.EDC78, Value: Frantic
+Hash: 4A09DBA5, Key: Line1558.EDC79, Value: Help! Please!
+Hash: 807A2EB2, Key: VoiceDir1558.EDC79, Value: Frantic
+Hash: 1B74073F, Key: Line1561.EDC79, Value: Over here! Help!
+Hash: 51E45A4C, Key: VoiceDir1561.EDC79, Value: Frantic
+Hash: 0262BD82, Key: Line1564.EDC79, Value: Help! I beg you!
+Hash: 38D3108F, Key: VoiceDir1564.EDC79, Value: Frantic
+Hash: E5C8F73E, Key: Line1567.3F381, Value: Help! Please!
+Hash: 1C394A4B, Key: VoiceDir1567.3F381, Value: Frantic
+Hash: B73322D8, Key: Line1570.3F381, Value: Over here! Help!
+Hash: EDA375E5, Key: VoiceDir1570.3F381, Value: Frantic
+Hash: 9E21D91B, Key: Line1573.3F381, Value: Help! I beg you!
+Hash: D4922C28, Key: VoiceDir1573.3F381, Value: Frantic
+Hash: 88990C0E, Key: Line1576.EDC7B, Value: Help! Please!
+Hash: BF095F1B, Key: VoiceDir1576.EDC7B, Value: Frantic
+Hash: 6F87C251, Key: Line1579.EDC7B, Value: Over here! Help!
+Hash: A5F8155E, Key: VoiceDir1579.EDC7B, Value: Frantic
+Hash: 40F1EDEB, Key: Line1582.EDC7B, Value: Help! I beg you!
+Hash: 776240F8, Key: VoiceDir1582.EDC7B, Value: Frantic
+Hash: 27E0A42F, Key: Line1585.EDC7C, Value: Help! Please!
+Hash: 5E50F73C, Key: VoiceDir1585.EDC7C, Value: Frantic
+Hash: 0ECF5A72, Key: Line1588.EDC7C, Value: Over here! Help!
+Hash: 453FAD7F, Key: VoiceDir1588.EDC7C, Value: Frantic
+Hash: E039860C, Key: Line1591.EDC7C, Value: Help! I beg you!
+Hash: 16A9D919, Key: VoiceDir1591.EDC7C, Value: Frantic
+Hash: C6D8986D, Key: Line1594.B79B0, Value: Help! Please!
+Hash: FD48EB7A, Key: VoiceDir1594.B79B0, Value: Frantic
+Hash: ADC74EB0, Key: Line1597.B79B0, Value: Over here! Help!
+Hash: E437A1BD, Key: VoiceDir1597.B79B0, Value: Frantic
+Hash: B91B9A81, Key: Line1600.B79B0, Value: Help! I beg you!
+Hash: EF8BED8E, Key: VoiceDir1600.B79B0, Value: Frantic
+Hash: A059F477, Key: Line1603.EDC74, Value: Help! Please!
+Hash: D6CA4784, Key: VoiceDir1603.EDC74, Value: Frantic
+Hash: 8748AABA, Key: Line1606.EDC74, Value: Over here! Help!
+Hash: BDB8FDC7, Key: VoiceDir1606.EDC74, Value: Frantic
+Hash: 6E3760FD, Key: Line1609.EDC74, Value: Help! I beg you!
+Hash: A4A7B40A, Key: VoiceDir1609.EDC74, Value: Frantic
+Hash: 3FA18C98, Key: Line1612.EDC75, Value: Help! Please!
+Hash: 7611DFA5, Key: VoiceDir1612.EDC75, Value: Frantic
+Hash: 269042DB, Key: Line1615.EDC75, Value: Over here! Help!
+Hash: 5D0095E8, Key: VoiceDir1615.EDC75, Value: Frantic
+Hash: 0D7EF91E, Key: Line1618.EDC75, Value: Help! I beg you!
+Hash: 43EF4C2B, Key: VoiceDir1618.EDC75, Value: Frantic
+Hash: DE998105, Key: Line1621.B79B1, Value: Help! Please!
+Hash: 1509D412, Key: VoiceDir1621.B79B1, Value: Frantic
+Hash: C5883748, Key: Line1624.B79B1, Value: Over here! Help!
+Hash: FBF88A55, Key: VoiceDir1624.B79B1, Value: Frantic
+Hash: AC76ED8B, Key: Line1627.B79B1, Value: Help! I beg you!
+Hash: E2E74098, Key: VoiceDir1627.B79B1, Value: Frantic
+Hash: 7E30BCD9, Key: Line1630.EDC76, Value: Help! Please!
+Hash: B4A10FE6, Key: VoiceDir1630.EDC76, Value: Frantic
+Hash: 651F731C, Key: Line1633.EDC76, Value: Over here! Help!
+Hash: 9B8FC629, Key: VoiceDir1633.EDC76, Value: Frantic
+Hash: 4C0E295F, Key: Line1636.EDC76, Value: Help! I beg you!
+Hash: 827E7C6C, Key: VoiceDir1636.EDC76, Value: Frantic
+Hash: D24477C3, Key: Line1648.EDC77, Value: Help! Please!
+Hash: 08B4CAD0, Key: VoiceDir1648.EDC77, Value: Frantic
+Hash: A3AEA35D, Key: Line1651.EDC77, Value: Over here! Help!
+Hash: DA1EF66A, Key: VoiceDir1651.EDC77, Value: Frantic
+Hash: 8A9D59A0, Key: Line1654.EDC77, Value: Help! I beg you!
+Hash: C10DACAD, Key: VoiceDir1654.EDC77, Value: Frantic
+Hash: 32ACA144, Key: Line1639.B6757, Value: Help! Please!
+Hash: 691CF451, Key: VoiceDir1639.B6757, Value: Frantic
+Hash: 0416CCDE, Key: Line1642.B6757, Value: Over here! Help!
+Hash: 3A871FEB, Key: VoiceDir1642.B6757, Value: Frantic
+Hash: EB058321, Key: Line1645.B6757, Value: Help! I beg you!
+Hash: 2175D62E, Key: VoiceDir1645.B6757, Value: Frantic
+Hash: 718C1010, Key: Line1657.EDC7D, Value: Help! Please!
+Hash: A7FC631D, Key: VoiceDir1657.EDC7D, Value: Frantic
+Hash: 42F63BAA, Key: Line1660.EDC7D, Value: Over here! Help!
+Hash: 79668EB7, Key: VoiceDir1660.EDC7D, Value: Frantic
+Hash: 29E4F1ED, Key: Line1663.EDC7D, Value: Help! I beg you!
+Hash: 605544FA, Key: VoiceDir1663.EDC7D, Value: Frantic
+Hash: B01B4051, Key: Line1675.EDC7E, Value: Help! Please!
+Hash: E68B935E, Key: VoiceDir1675.EDC7E, Value: Frantic
+Hash: 9709F694, Key: Line1678.EDC7E, Value: Over here! Help!
+Hash: CD7A49A1, Key: VoiceDir1678.EDC7E, Value: Frantic
+Hash: 6874222E, Key: Line1681.EDC7E, Value: Help! I beg you!
+Hash: 9EE4753B, Key: VoiceDir1681.EDC7E, Value: Frantic
+Hash: 10836D40, Key: Line1666.B6807, Value: Help! Please!
+Hash: 46F3C04D, Key: VoiceDir1666.B6807, Value: Frantic
+Hash: F7722383, Key: Line1669.B6807, Value: Over here! Help!
+Hash: 2DE27690, Key: VoiceDir1669.B6807, Value: Frantic
+Hash: C8DC4F1D, Key: Line1672.B6807, Value: Help! I beg you!
+Hash: FF4CA22A, Key: VoiceDir1672.B6807, Value: Frantic
+Hash: 4F62D872, Key: Line1684.EDC7F, Value: Help! Please!
+Hash: 85D32B7F, Key: VoiceDir1684.EDC7F, Value: Frantic
+Hash: 36518EB5, Key: Line1687.EDC7F, Value: Over here! Help!
+Hash: 6CC1E1C2, Key: VoiceDir1687.EDC7F, Value: Frantic
+Hash: 07BBBA4F, Key: Line1690.EDC7F, Value: Help! I beg you!
+Hash: 3E2C0D5C, Key: VoiceDir1690.EDC7F, Value: Frantic
+Hash: EEAA707D, Key: Line1693.EDC80, Value: Help! Please!
+Hash: 251AC38A, Key: VoiceDir1693.EDC80, Value: Frantic
+Hash: D59926C0, Key: Line1696.EDC80, Value: Over here! Help!
+Hash: 0C0979CD, Key: VoiceDir1696.EDC80, Value: Frantic
+Hash: BC87DD03, Key: Line1699.EDC80, Value: Help! I beg you!
+Hash: F2F83010, Key: VoiceDir1699.EDC80, Value: Frantic
+Hash: 98D6A84C, Key: Line1756.BC3FE, Value: Help! Please!
+Hash: CF46FB59, Key: VoiceDir1756.BC3FE, Value: Frantic
+Hash: 7FC55E8F, Key: Line1759.BC3FE, Value: Over here! Help!
+Hash: B635B19C, Key: VoiceDir1759.BC3FE, Value: Frantic
+Hash: 512F8A29, Key: Line1762.BC3FE, Value: Help! I beg you!
+Hash: 879FDD36, Key: VoiceDir1762.BC3FE, Value: Frantic
+Hash: 3855DC3C, Key: Line1765.EDC70, Value: Help! Please!
+Hash: 6EC62F49, Key: VoiceDir1765.EDC70, Value: Frantic
+Hash: 1F44927F, Key: Line1768.EDC70, Value: Over here! Help!
+Hash: 55B4E58C, Key: VoiceDir1768.EDC70, Value: Frantic
+Hash: F0AEBE19, Key: Line1771.EDC70, Value: Help! I beg you!
+Hash: 271F1126, Key: VoiceDir1771.EDC70, Value: Frantic
+Hash: D79D745D, Key: Line1774.EDC71, Value: Help! Please!
+Hash: 0E0DC76A, Key: VoiceDir1774.EDC71, Value: Frantic
+Hash: BE8C2AA0, Key: Line1777.EDC71, Value: Over here! Help!
+Hash: F4FC7DAD, Key: VoiceDir1777.EDC71, Value: Frantic
+Hash: 8FF6563A, Key: Line1780.EDC71, Value: Help! I beg you!
+Hash: C666A947, Key: VoiceDir1780.EDC71, Value: Frantic
+Hash: 15F508CD, Key: Line1792.BC3FF, Value: Help! Please!
+Hash: 4C655BDA, Key: VoiceDir1792.BC3FF, Value: Frantic
+Hash: FCE3BF10, Key: Line1795.BC3FF, Value: Over here! Help!
+Hash: 3354121D, Key: VoiceDir1795.BC3FF, Value: Frantic
+Hash: E3D27553, Key: Line1798.BC3FF, Value: Help! I beg you!
+Hash: 1A42C860, Key: VoiceDir1798.BC3FF, Value: Frantic
+Hash: 76E50C7E, Key: Line1783.EDC72, Value: Help! Please!
+Hash: AD555F8B, Key: VoiceDir1783.EDC72, Value: Frantic
+Hash: 5DD3C2C1, Key: Line1786.EDC72, Value: Over here! Help!
+Hash: 944415CE, Key: VoiceDir1786.EDC72, Value: Frantic
+Hash: 44C27904, Key: Line1789.EDC72, Value: Help! I beg you!
+Hash: 7B32CC11, Key: VoiceDir1789.EDC72, Value: Frantic
+Hash: EF5E5CF6, Key: Line1801.EDC73, Value: Help! Please!
+Hash: 25CEB003, Key: VoiceDir1801.EDC73, Value: Frantic
+Hash: D64D1339, Key: Line1804.EDC73, Value: Over here! Help!
+Hash: 0CBD6646, Key: VoiceDir1804.EDC73, Value: Frantic
+Hash: BD3BC97C, Key: Line1807.EDC73, Value: Help! I beg you!
+Hash: F3AC1C89, Key: VoiceDir1807.EDC73, Value: Frantic

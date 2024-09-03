@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Zakarum Tome
+Hash: CC3C0A8F, Key: FlavorText, Value: A tome adorned in Zakarum symbols.
+Hash: F2CA04D8, Key: NoticeSignText, Value: Though no sources indicate what has transpired in Omath's Stronghold, our enlightened leaders have proclaimed our seat of power in the south unholy. Perhaps one day with Akarat's blessing, this place will return to the light...

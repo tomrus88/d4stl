@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: The secrets of the dead. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Slay the Archival Guardians: {LEFT}
+Hash: 38AA8D97, Key: Callback10Header, Value: Travel to {LEVELAREA}
+Hash: 1F9943DA, Key: Callback13Header, Value: Slay all enemies in the Forbidden Archive {KAM_REVEALED_COUNT}
+Hash: 58D5557C, Key: Callback24Header, Value: Slay the Head Librarian and collect the {ITEM}
+Hash: 3FC40BBF, Key: Callback27Header, Value: Use the Archive Key to open the {GIZMO}
+Hash: 45172A5D, Key: Callback34Header, Value: Travel to the {LEVELAREA}
+Hash: D0A0975E, Key: Callback53Header, Value: Slay the Herald of the Dead

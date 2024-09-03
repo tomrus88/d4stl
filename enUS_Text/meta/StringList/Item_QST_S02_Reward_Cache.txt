@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Potent Blood Cache
+Hash: A646FFA4, Key: Description, Value: Contains a quantity of Potent Blood.
+Hash: F5C7BC0A, Key: Flavor, Value: This substance, distilled by an occult process from the blood of human victims, enables the enhancement of Vampiric Powers.

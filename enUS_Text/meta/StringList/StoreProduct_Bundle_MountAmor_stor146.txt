@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Vulgar Tongues
+Hash: A646FFA4, Key: Description, Value: A mobile gallery of gore, these gruesome decorations are grim reminders of the Tongue Ripper's unsavory work.
+Hash: 083EE0CE, Key: Quote, Value: Ripped asunder.
+Hash: 13A53A8B, Key: Series, Value: "Tongue Ripper" Mount Armor

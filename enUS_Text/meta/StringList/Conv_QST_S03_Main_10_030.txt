@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What will you do now?"
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: I will find Zoltun. He was a miserable little roach, but… I still care for him. Despite myself.
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: I don’t know how long he's been away. I don’t even know if he’s still alive. So I will search. Better to know than to live in doubt, mm?

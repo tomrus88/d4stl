@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Swift Delver
+Hash: 003892BF, Key: Desc, Value: Kill a normal or Nightmare dungeon boss within 30 seconds of starting the fight.
+Hash: 3A4912CF, Key: DescShort, Value: Kill a dungeon boss within 30 seconds.

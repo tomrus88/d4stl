@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Crate
+Hash: A646FFA4, Key: Description, Value: Contains an assortment of items and grants improved chances for better rewards from Helltide.

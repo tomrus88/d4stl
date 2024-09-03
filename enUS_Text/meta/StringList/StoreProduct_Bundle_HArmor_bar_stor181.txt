@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Vanquished Elder
+Hash: A646FFA4, Key: Description, Value: The tribes stood united at Sescheron, barring their gates against Baal, Lord of Destruction. In the end, they could not withstand him, and the city was rent asunder.
+Hash: 083EE0CE, Key: Quote, Value: A legacy of scars.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

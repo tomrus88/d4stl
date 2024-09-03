@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about Deckard Cain."
+Hash: 28212CD1, Key: Line7.8CA44, Value: Hah! Hasn’t told you much about himself, eh? I remember when you couldn’t stop him from talking!
+Hash: 972A92FE, Key: VoiceDir7.8CA44, Value: Jovial. Someone has asked you to tell you about your best friend.
+Hash: C215A653, Key: Line9.8CA44, Value: We met several lifetimes ago! In Aranoch, I believe, or maybe Lut Gholein? That’s right, I was a sailor back then, and a handsome one too!
+Hash: 311F0C80, Key: VoiceDir9.8CA44, Value: Pronunciation: Ar-ah-nock. Loot Go-lain. Direction: wistful, you're in full storyteller mode here.
+Hash: 6F4EA45C, Key: Line11.8CA44, Value: Deckard always was such an intense fellow, but kind and dependable. Took it upon himself to right any wrong he found, and we found many!
+Hash: BF84D029, Key: VoiceDir11.8CA44, Value: wistful, you're in full storyteller mode here. Happy memories
+Hash: 09431DDE, Key: Line13.8CA44, Value: To think I would find him here of all places! Still just as intense, and still traveling with interesting company! (laughs)
+Hash: 597949AB, Key: VoiceDir13.8CA44, Value: wistful, you're in full storyteller mode here. Happy memories

@@ -1,0 +1,18 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Enmity of the Fallen
+Hash: 2827F416, Key: Buff0_Description, Value: Constant bloodshed has altered the flow of combat in this area.
+{c_green}
++[{SF_11}*100|%|] Damage Over Time
++[{SF_1}*100|%|] Control Impaired Duration Reduction 
++[{SF_8}*100|%|] Potion Drop Rate{/c}{c_red}
+[{SF_0}*100|%|] Potion Healing
++[{SF_2}] Seconds to Potion Cooldown
+[{SF_9}*100|%|] Minion/Companion Health {/c}
+Hash: 101C1614, Key: Buff1_Name, Value: Echoes of Bloodlust
+Hash: 7786FD97, Key: Buff1_Description, Value: You are inside the Fields of Hatred! Those who are {c_highlight}Bloodmarked{/c} may attack or be attacked by any other Players in the area. You can {c_highlight}Mark for Blood{/c} through the Action Wheel {hotkey:Social_Wheel} .
+
+You cannot Mount while being attacked by other players.
+
+Killing another player:
+{c_yellow}Drops their Seeds of Hatred
+Heals you for [{SF_6}*100|%|] Missing Life
+Reduces your Cooldowns by {SF_7} Seconds{/c}

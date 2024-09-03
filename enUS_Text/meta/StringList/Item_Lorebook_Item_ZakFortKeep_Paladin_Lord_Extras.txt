@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Paladin Squire's Journal, Part One
+Hash: A646FFA4, Key: Description, Value: Excerpt from a time-worn book
+Hash: F5C7BC0A, Key: Flavor, Value: A squire of Paladin Marshal Carthas recounts their tribulations in Hawezar.

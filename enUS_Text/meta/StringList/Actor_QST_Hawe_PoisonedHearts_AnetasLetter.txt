@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Aneta's Letter
+Hash: CC3C0A8F, Key: FlavorText, Value: Tiny water stains dot the parchment.

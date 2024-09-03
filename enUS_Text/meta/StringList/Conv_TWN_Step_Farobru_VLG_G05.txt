@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you noticed anything strange?"
+Hash: 8EE1D5B7, Key: Line1.11EA80, Value: The goats have been acting up badly. I'd take it as an omen, but they were always an ornery sort.

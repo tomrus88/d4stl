@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How are your wounds?”
+Hash: 4AC993A7, Key: Line31.BC41C, Value: I’m healing well... thanks to the herbs Tala carried in her pack. She was a skilled healer and a cunning warrior.
+Hash: 9AFFBF74, Key: VoiceDir31.BC41C, Value: Somber. Grateful.
+Hash: E4BE0D29, Key: Line33.BC41C, Value: We offer you Tala’s dagger as a token of our thanks. Remember her name, and carry it well.
+Hash: 34F438F6, Key: VoiceDir33.BC41C, Value: Somber. Grateful. Reverent. This is a serious honor.

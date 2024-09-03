@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ivory and Gold
+Hash: A646FFA4, Key: Description, Value: "The Lord enjoys his gold," they say, "If you hear it jingle from the treeline, you can rest easy, knowing he's about."
+Hash: 083EE0CE, Key: Quote, Value: Rich in treasure and spirit.
+Hash: 13A53A8B, Key: Series, Value: "The Tusked Lord" Mount Armor

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Inert Construct
+Hash: F5C7BC0A, Key: Flavor, Value: The metal armature folds into itself neatly. You can strap it to your waist without issue.

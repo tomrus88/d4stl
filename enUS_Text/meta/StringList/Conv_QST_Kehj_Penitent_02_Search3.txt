@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you seen an old woman in an orange scarf?"
+Hash: 8ED9AEA0, Key: Line1.125DE8, Value: Suna...yes, it happened last night. The Penitent ones arrested her on suspicion of heresy. They’ve been hunting for someone. Rounding people up for days to interrogate them.
+Hash: DF0FDA6D, Key: VoiceDir1.125DE8, Value: Afraid of the consequences of speaking, but unwilling to remain silent. Hoping the player can be trusted. 
+Hash: 3FE10224, Key: Line5.125DE8, Value: They have a house they’ve taken over, near the center of town. Hmm... You’ll never get in though, they guard it day and night.

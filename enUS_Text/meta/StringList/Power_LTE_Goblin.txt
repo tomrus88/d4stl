@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: March of the Goblins
+Hash: C6E60718, Key: Buff2_Description, Value: A recent change in items appears to have attracted more treasure goblins to the area. They must really like the changes, because it seems they may be picking up and dropping even more than usual.

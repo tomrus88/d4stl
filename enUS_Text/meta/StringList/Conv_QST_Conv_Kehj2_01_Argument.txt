@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Opening barks
+Hash: F427C5EC, Key: Line3.7FA05, Value: You were right to call upon me, you know. Soulstones are no trifle.
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: There’s the Donan I remember!
+Hash: 8E02627B, Key: Line5.789BF, Value: (pain) I need air.
+Hash: FD0BC8A8, Key: VoiceDir5.789BF, Value: pained effort

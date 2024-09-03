@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Goat Pen
+Hash: F2CA04D8, Key: NoticeSignText, Value: The commoners of Ked Bardu make a living off the land. The farmers raise livestock to bring to the market.

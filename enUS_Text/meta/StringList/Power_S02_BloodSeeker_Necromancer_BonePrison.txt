@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Bone Prison
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c_label} {c_resource}{Cooldown Time}{/c_resource} seconds
+Unearth a prison of bone with {c_number}{pet_health:BoneWall}{/c} Life that surrounds the target area for {c_number}{buffduration:WALL_TRACKER}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Bone Prison Life {icon:arrow,1.2} {c_number}{pet_health:BoneWall}{/c}
+{icon:bullet,1.2} Cooldown {icon:arrow,1.2} {c_number}{Cooldown Time}{/c} seconds
+Hash: 2577B2B4, Key: Mod1_Description, Value: If an enemy is trapped by {c_important}Bone Prison{/c}, gain {c_number}{SF_3}{/c} Essence, plus an additional {c_number}{SF_6}{/c} per enemy trapped.
+Hash: 948901D1, Key: Mod1_Name, Value: Enhanced Bone Prison
+Hash: 74D6BC35, Key: Mod2_Description, Value: Enemies inside of {c_important}Bone Prison{/c} are {c_important}{u}Vulnerable{/u}{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Ghastly Bone Prison
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}{u}Fortify{/u}{/c} for {c_number}[{SF_7}*100|%|]{/c} Base Life {c_number}([Max(1,{fortified:MODB_FORTIFY})|0|]){/c} for each enemy trapped by {c_important}Bone Prison{/c}.
+Hash: 99335313, Key: Mod3_Name, Value: Dreadful Bone Prison

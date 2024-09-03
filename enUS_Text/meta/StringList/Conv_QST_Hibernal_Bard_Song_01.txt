@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Gileon, play the song once more."
+Hash: 8F311900, Key: Line1.171196, Value: On the morn I wake, and up in the sky, not a sliver of light, only Winter’s steel eye.
+Hash: DF6744CD, Key: VoiceDir1.171196, Value: Singing, tinge of mourning--not too chipper or bright
+Hash: 04FDEB27, Key: Line8.171196, Value: The dawn gone missing, its promise undone, each hour we wither, ‘til the sun comes again.
+Hash: 553416F4, Key: VoiceDir8.171196, Value: Singing, tinge of mourning--not too chipper or bright
+Hash: 5956AA50, Key: Line10.171196, Value: This night without end, wind cold as the dead, the dark teems with devils, to prey on our dread.
+Hash: B0524FBD, Key: VoiceDir10.171196, Value: Singing, tinge of mourning--not too chipper or bright
+Hash: 31DA5412, Key: Line12.171196, Value: Oh, where is the dawn? Did it lose its way? Off chasing the stars, and left the world gray.
+Hash: 88D5F97F, Key: VoiceDir12.171196, Value: Singing, tinge of mourning--not too chipper or bright
+Hash: 0A5DFDD4, Key: Line14.171196, Value: But then came a sign, in the depths of sorrow, a whisper of hope, that we see the morrow.
+Hash: 6159A341, Key: VoiceDir14.171196, Value: Singing, tinge of mourning--not too chipper or bright
+Hash: E2E1A796, Key: Line16.171196, Value: A herald of dawn, a fire in the gloam, the promise reforged, lead the sun back home.
+Hash: 39DD4D03, Key: VoiceDir16.171196, Value: Singing, tinge of mourning--not too chipper or bright

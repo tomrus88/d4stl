@@ -1,0 +1,2 @@
+Hash: A646FFA4, Key: Description, Value: Includes the "Watcher in the Wilds" and "Hierophant" armor sets!
+Hash: 003DFCC1, Key: Name, Value: Druid Armor Pack

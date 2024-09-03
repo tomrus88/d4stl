@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Tricks of the Trade
+Hash: 003892BF, Key: Desc, Value: Kill 10 enemies with each Imbue within 30 seconds.
+Hash: 3B970FB6, Key: Crit_173998, Value: Cold
+Hash: 3DA5762C, Key: Crit_236817, Value: Poison
+Hash: 3DA5762D, Key: Crit_236818, Value: Shadow

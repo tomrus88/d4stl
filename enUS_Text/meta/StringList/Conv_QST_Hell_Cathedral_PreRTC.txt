@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you think?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: He's afraid.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Unsettled
+Hash: D8F1EA65, Key: Line3.BAE4, Value: It could work. We imprison Mephisto in the stone, get back to Lorath.
+Hash: 2220BEF2, Key: VoiceDir3.BAE4, Value: Referring to Player and Neyrelle plan to capture Mephisto in a soulstone. Mulling over this possibility/plan.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: Then we seal the gates of Hell behind us and leave Lilith here.
+Hash: 2B191A63, Key: Line7.BD9D3, Value: She'll catch you before you escape. And if I'm trapped in the stone when she does, she will take my power.
+Hash: 9A228090, Key: VoiceDir7.BD9D3, Value: Hint of desparation, warning
+Hash: C50D93E5, Key: Line9.BD9D3, Value: Don't let your hate for me blind you to common sense.
+Hash: 3416FA12, Key: VoiceDir9.BD9D3, Value: Hint of desparation, warning
+Hash: 608DBF14, Key: Line11.BAE4, Value: Neyrelle...I can't trust my thoughts about Mephisto, but I trust yours. Do what you think is right.

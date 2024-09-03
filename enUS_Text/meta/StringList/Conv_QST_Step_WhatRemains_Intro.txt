@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you all right?"
+Hash: 5D2265E2, Key: Line1.B6757, Value: (sigh) I barely made it out of Guulrahn. My friend Erdene was not so lucky. I went back for his remains and...well, the cannibals didn't leave much.
+Hash: F716DF64, Key: Line3.B6757, Value: I don't know if I have the courage to carry this bloody sack halfway across the Steppes. (sigh) Erdene didn't get along with his family, but he belongs back in Farobru just the same, damn it!
+Hash: 66204591, Key: VoiceDir3.B6757, Value: frustrated with herself. she feels the conviction of what should be done, but can't work up the courage to do it
+Hash: 0C21C375, Key: Line13.B6757, Value: (sob) Please, if there's any chance you are traveling that way, could you bring Erdene to his father?
+Hash: 5C57EF42, Key: VoiceDir13.B6757, Value: pleading

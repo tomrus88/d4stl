@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Changeling's Debt
+Hash: 003892BF, Key: Desc, Value: You deal {c_random}[Affix_Value_1|%x|]{/c} increased damage while hitting a Poisoned enemy as a Werebear or a Crowd Controlled enemy as a Werewolf.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Footsteps padded by the dust of bones.
+Hash: 3158FF3E, Key: Callback44Header, Value: Slay the Languishing Corpses: {LEFT}
+Hash: 1D9AD41F, Key: Callback54Header, Value: Travel to the {LEVELAREA}

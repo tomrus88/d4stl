@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient's Pearl
+Hash: A646FFA4, Key: Description, Value: The first mortal to wear the pearl was a charismatic leader with lost knowledge of the Ancients. The armor is said to be an actual Ancient relic from the depth of a forgotten tomb. 
+Hash: 083EE0CE, Key: Quote, Value: A relic made flesh.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

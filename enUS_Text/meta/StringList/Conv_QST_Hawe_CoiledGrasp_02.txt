@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Coiled Grasp
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Crusader Warwick
+Hash: 5D6D2CD2, Key: Line1.F9D80, Value: Berolt, our highest priority is the rescue of our Brothers and Sisters. Once they are safe, clear any heretics from the ruins beyond. Be wary, there is something unnatural lurking beyond the walls.

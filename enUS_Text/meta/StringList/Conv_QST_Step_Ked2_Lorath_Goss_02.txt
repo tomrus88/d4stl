@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Lilith has traveled to the Necropolis of the Firstborn.”
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: One of Rathma’s lairs. She’s looking for her son then.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: Musing, thinking on it
+Hash: F413C4CC, Key: Line3.6D03F, Value: I can’t imagine he’ll greet her with open arms. He’s not particularly fond of her or Inarius.

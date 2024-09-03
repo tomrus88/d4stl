@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Upgrade Items
+Hash: 7BFE534B, Key: simple_instruction, Value: You can {c_highlight}increase the item power{/c} of your items by upgrading them.

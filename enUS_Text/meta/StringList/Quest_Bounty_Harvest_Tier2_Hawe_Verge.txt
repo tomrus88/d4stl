@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Harvest: Dismal Foothills
+Hash: 0871A46B, Key: Toast, Value: The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. 
+Hash: B8A227EA, Key: Callback4Header, Value: Harvest venous motes from enemies
+Hash: F81CED9C, Key: Callback33Header, Value: Deposit venous motes into the Altar of Reaping

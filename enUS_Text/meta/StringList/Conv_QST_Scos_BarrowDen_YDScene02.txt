@@ -1,0 +1,4 @@
+Hash: F41B88FE, Key: Line3.804B7, Value: It looks like roots pushed up and broke the cairn apart.
+Hash: 6324EF2B, Key: VoiceDir3.804B7, Value: Cautious, inquisitive
+Hash: 8E100280, Key: Line5.804B7, Value: Does this have something to do with the fog spreading in the hills?
+Hash: FD1968AD, Key: VoiceDir5.804B7, Value: Concerned

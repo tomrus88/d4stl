@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Beneath the Wine-Dark Sea
+Hash: 5A44590A, Key: Line1.8DD12, Value: Lilith. The Mother of Sanctuary.
+Hash: F438D28C, Key: Line3.8DD12, Value: She made us to be strong and was sealed away to weaken us.
+Hash: 8E2D4C0E, Key: Line5.8DD12, Value: The Daughter of Hatred. I cannot say that there is good in her. Morality is the privilege of people in better situations. We are beyond the question of good or evil.
+Hash: 2821C590, Key: Line7.8DD12, Value: But the question remains: what will she do to us if I summon her? When I summon her?
+Hash: 972B2BBD, Key: VoiceDir7.8DD12, Value: emphasis on When, hesitant
+Hash: C2163F12, Key: Line9.8DD12, Value: I must prepare myself for anything.
+Hash: 6F4F3D1B, Key: Line11.8DD12, Value: Rathma kept the means of attaining immortality here. Once I have mastered it, I will go and bring the Mother home.

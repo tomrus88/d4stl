@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Seeker's Helm
+Hash: F5C7BC0A, Key: Flavor, Value: Worn as a sign of loyalty by Lord Zir's most merciless lieutenants.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Debts are owed
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Scorched Debt Ledger
+Hash: 5D83FCDB, Key: Line1.FD62B, Value: What is your deepest desire? Write your name within these pages, and you will have it!
+Hash: DFF16448, Key: Line6.BAE4, Value: The name in this ledger... Andreea of Lakren's Overlook. Perhaps they know more.

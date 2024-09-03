@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Ice Armor
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c} {c_resource}{Cooldown Time}{/c} seconds
+A {c_important}{u}Barrier{/u}{/c} of ice forms around you for {c_number}{buffduration:ICE_BARRIER}{/c} seconds, absorbing {c_number}[{SF_0}*100|%|]{/c} of your Maximum Life {c_number}({shield:ICE_BARRIER}){/c} in damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Barrier{/u}{/c} Amount {icon:arrow,1.2} {c_number}{shield:ICE_BARRIER}{/c}
+Hash: F4434826, Key: Buff21_Name, Value: Frigid Strike
+Hash: C202E769, Key: Buff21_Description, Value: Doing increased damage to Frozen enemies.
+Hash: 74D6BC35, Key: Mod2_Description, Value: While {c_important}Ice Armor{/c} is active, your Mana Regeneration is increased by {c_number}[{SF_10} * 100|%x|]{/c}.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Ice Armor
+Hash: 2577B2B4, Key: Mod1_Description, Value: While {c_important}Ice Armor{/c} is active, you periodically {c_important}{u}Chill{/u}{/c} Close enemies for {c_number}[{SF_19}|%|]{/c} and deal {c_number}[{SF_20} * 100|%x|]{/c} increased damage to {c_important}{u}Frozen{/u}{/c} enemies.
+Hash: 948901D1, Key: Mod1_Name, Value: Mystical Ice Armor
+Hash: 62F3D8B8, Key: Mod5_Description, Value: While {c_important}Ice Armor{/c} is active, you reduce its Cooldown by {c_number}{SF_21}{/c} seconds for every {c_number}{SF_22}{/c} Mana you spend.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Shimmering Ice Armor

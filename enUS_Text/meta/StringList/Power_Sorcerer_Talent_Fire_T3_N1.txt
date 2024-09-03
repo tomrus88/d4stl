@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Combustion
+Hash: 003892BF, Key: desc, Value: Your Burning effects deal {c_number}[{SF_1} * 100|%x|]{/c} increased damage, and an additional {c_number}[{SF_0} * 100|%x|]{/c} per unique source of Burning you have applied to the enemy.

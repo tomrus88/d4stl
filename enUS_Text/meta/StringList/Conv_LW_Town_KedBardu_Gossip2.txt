@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you found peace?"
+Hash: 5D6C9C59, Key: Line1.F8C98, Value: The locals even avert their gazes, but at least we're safe here.

@@ -1,0 +1,6 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Hader
+Hash: 315D95C9, Key: Line12.103C6C, Value: Jazem, 
+Knights have invaded the city and they found the Zakarum records. They think the church members are heretics.
+Hash: 88593B36, Key: VoiceDir12.103C6C, Value: Hader is frightened and concerned 
+Hash: 09E13F8B, Key: Line14.103C6C, Value: We need to get out of here. I will be waiting by the bazaar. Be careful. 
+Yours, Hader

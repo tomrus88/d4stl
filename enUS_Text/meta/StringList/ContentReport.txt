@@ -1,0 +1,24 @@
+Hash: 2BE2C220, Key: ReportContentHeader, Value: Report Content
+Hash: B3294736, Key: ReportContentDesc, Value: Use this form to report any content that you believe could be viewed as offensive from a diversity and inclusion perspective.
+Hash: D3DA0AF7, Key: ReportContentGroupsLabel, Value: What groups might this offend? Please check all that apply.
+Hash: 8C10ACFE, Key: ReportContentGroups_CE, Value: Cultural & Ethnic
+Hash: 0E2644E3, Key: ReportContentGroups_Age, Value: Age
+Hash: D2EF9004, Key: ReportContentGroups_Body, Value: Body Type
+Hash: 31CF9BD8, Key: ReportContentGroups_Other, Value: Other
+Hash: 580DA70B, Key: ReportContentGroups_Gender, Value: Gender
+Hash: D2F81A51, Key: ReportContentGroups_Race, Value: Racial
+Hash: D52C94C2, Key: ReportContentGroups_Orientation, Value: Sexual Orientation
+Hash: 30C876EE, Key: ReportContentGroups_Abled, Value: Differently Abled
+Hash: 75A8503D, Key: ReportContentDetails, Value: Please describe what the content is and why it might be offensive (e.g. Character look, dialogue, etc.)
+Hash: 5138EEA4, Key: ReportContentSummaryDesc, Value: Short, one sentence summary of what is offensive
+Hash: 698198B9, Key: ReportContentGroups_AbledTooltip, Value: [PH]
+Hash: CEB7810E, Key: ReportContentGroups_AgeTooltip, Value: [PH]
+Hash: F53ADD0F, Key: ReportContentGroups_BodyTooltip, Value: [PH]
+Hash: EACE5CC9, Key: ReportContentGroups_CETooltip, Value: [PH]
+Hash: 2C85E636, Key: ReportContentGroups_GenderTooltip, Value: [PH]
+Hash: D107600D, Key: ReportContentGroups_OrientationTooltip, Value: [PH]
+Hash: 52C4D263, Key: ReportContentGroups_OtherTooltip, Value: [PH]
+Hash: 28D12EBC, Key: ReportContentGroups_RaceTooltip, Value: [PH]
+Hash: CACF5748, Key: ReportContentSubmitted, Value: Your report was successfully submitted.
+Hash: 9A2F1B99, Key: Hotkey_Tip_KBM, Value: Launch from anywhere using {hotkey:REPORT_CONTENT}
+Hash: 3DBF4F43, Key: Hotkey_Tip_Controller, Value: Launch from anywhere by holding {s1} and pressing {s2}

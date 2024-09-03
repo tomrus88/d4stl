@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Priestess of Mohlon
+Hash: A646FFA4, Key: Description, Value: "My heart swells with such joy, I struggle for breath! A miracle—our queen and god—is born! I will tend her nest as she grows and pray I make a worthy sacrifice when she comes of age." -Parutha, Priestess of Mohlon
+Hash: 083EE0CE, Key: Quote, Value: Hail to the serpent queen.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

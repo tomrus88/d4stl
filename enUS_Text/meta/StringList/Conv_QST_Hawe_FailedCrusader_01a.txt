@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I can help you get to Maugan's Folly."
+Hash: 8ED7735D, Key: Line1.121C9F, Value: You would risk the dangers of the swamp? For a stranger, no less? It seems the Light does still shine, even in the swamps of Hawezar.
+Hash: F0E61A65, Key: Line9.121C9F, Value: Though, I would not need the kindness of a stranger if the Zakarum Crusaders had any fight left in them.
+Hash: 411C4632, Key: VoiceDir9.121C9F, Value: Talking about people nearby, loud enough for them to hear
+Hash: 40019132, Key: Line5.140002, Value: (grumbling)
+Hash: 9037BCFF, Key: VoiceDir5.140002, Value: Knowing you should do something, but still not wanting to.
+Hash: F7671DBD, Key: Line3.EDC71, Value: Please be cautious, Tomyris.
+Hash: 667083EA, Key: VoiceDir3.EDC71, Value: Feels guilty about not helping
+Hash: 453ED98E, Key: Line11.121C9F, Value: There is a bridge leading into the wetlands. Meet me there. I must go ready myself.
+Hash: 1DC28350, Key: Line13.121C9F, Value: I cannot thank you enough for this, stranger. Truly, thank you.
+Hash: 74BE28BD, Key: VoiceDir13.121C9F, Value: Softer. Genuine.

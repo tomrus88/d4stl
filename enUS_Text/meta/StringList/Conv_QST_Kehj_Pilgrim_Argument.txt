@@ -1,0 +1,4 @@
+Hash: 5D3BC9FA, Key: Line1.BCB66, Value: Please, Naglaa, you must rest.
+Hash: CC453027, Key: VoiceDir1.BCB66, Value: Concerned. Feeling guilty that he put her in danger. Naglaa Naglaa (Nah-zh-lah)
+Hash: F7671DBC, Key: Line3.EDC70, Value: The sick need tending...and clean water.
+Hash: 667083E9, Key: VoiceDir3.EDC70, Value: Correcting. Selfless. Concerned about the water.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What can you tell me of your son?"
+Hash: 8EB3213A, Key: Line1.1029AF, Value: Corik was taken away for murdering a child his age. He...he got what he deserved, I suppose...but now his spirit cries out...he calls to me. He won't leave me be.
+Hash: DEE94D07, Key: VoiceDir1.1029AF, Value: Speaking flatly and without emotion, hysterics building with his own plight

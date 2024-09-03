@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Do you think Sanctuary is safe now?” 
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Both Inarius and Lilith have perished in Hell. I couldn’t begin to guess what that means for Sanctuary.
+Hash: F413C4CC, Key: Line3.6D03F, Value: There’s no telling what creatures or phenomena might bleed from Hell, closed Gate or no.
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Something nasty, knowing our luck. I just hope you’re still with us then.

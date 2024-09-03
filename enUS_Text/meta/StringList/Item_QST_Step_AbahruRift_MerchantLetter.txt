@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Merchant's Letter
+Hash: A646FFA4, Key: Description, Value: A bloodied letter from a slain merchant
+Hash: F5C7BC0A, Key: Flavor, Value: Thank you for helping Cousin Genbar. Times are hard for his stone-carving, but he is too stubborn to move his family and too proud to take charity. Give him a deal and I will pay the difference.

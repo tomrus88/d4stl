@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Old Crates
+Hash: F2CA04D8, Key: NoticeSignText, Value: A merchant's neglected old crates. Many haven't been used in a very long time.

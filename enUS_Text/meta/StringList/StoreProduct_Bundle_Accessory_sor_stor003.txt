@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Luminary Conjunction
+Hash: A646FFA4, Key: Description, Value: There is power in the alignment of the heavenly bodies due to the harmonic nature of Creation. During solstices and equinoxes, mages of the Celestial Court gather to conduct rituals of cosmic power.
+Hash: 083EE0CE, Key: Quote, Value: For those who perceive the vastness of being.
+Hash: 13A53A8B, Key: Series, Value: "Celestial Court" Accessories

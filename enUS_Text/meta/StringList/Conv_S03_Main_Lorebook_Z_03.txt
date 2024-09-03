@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: [PH] Note 03
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Zoltun Kulle
+Hash: 8F596641, Key: Line1.197AF2, Value: Let it be known: the work is done, and the minds of Zoltun Kulle and Ayuzhan of Caldeum have birthed a miracle.
+Hash: DF8F920E, Key: VoiceDir1.197AF2, Value: With quiet awe
+Hash: 18E46387, Key: Line7.197AF2, Value: Before my very eyes, the Loom wove inert, ambient energy into a focused stream of fire. It burned my palm, and I laughed with joy.
+Hash: F1680D49, Key: Line9.197AF2, Value: Ayuzhan embraced me. I could feel time slow. I could see the filaments of his iris in the firelight.
+Hash: 45C0CC72, Key: Line11.197AF2, Value: He is my peer. In a way no one has ever been.

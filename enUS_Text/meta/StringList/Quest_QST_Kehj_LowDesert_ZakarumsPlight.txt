@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Zakarum's Plight
+Hash: 0871A46B, Key: Toast, Value: An exhausted Zakarum novitiate wilts from thirst.
+Hash: D53BFF05, Key: Phase0Description, Value: An exhausted Zakarum novitiate has asked me to bring him some water. 
+
+There's an oasis nearby that should be a suitable place to gather water from. 
+Hash: B98DBD5C, Key: Callback15Header, Value: Gather water from the nearby oasis
+Hash: 5CD6EA0D, Key: Phase8Description, Value: An exhausted Zakarum novitiate has asked me to bring him some water. 
+
+I should return to the novitiate with the water I've gathered. 
+Hash: 9F90DE2D, Key: Callback7Header, Value: Bring water to Tameon

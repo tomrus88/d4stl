@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Bear Clan Berserker's
+Hash: 003892BF, Key: Desc, Value: Killing an enemy while {c_important}{u}Berserking{/u}{/c} has a {c_number}[Affix."Static Value 0"|%|]{/c} chance to grant {c_random}[Affix_Value_1|1%|]{/c} increased Cooldown Reduction to your {c_important}Brawling{/c} Skills for {c_number}[Affix."Static Value 1"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: Killing an enemy while {c_important}{u}Berserking{/u}{/c} has a chance to grant {c_random}[Affix_Value_1|1%|]{/c} increased Cooldown Reduction to {c_important}Brawling{/c} Skills.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Teeth gnashing, claws ripping.
+Hash: 3FC40BBF, Key: Callback27Header, Value: Travel to the {LEVELAREA}
+Hash: 45172A5D, Key: Callback34Header, Value: Slay the Howling Maws: {LEFT}
+Hash: 79001D61, Key: Callback38Header, Value: Slay all enemies in the Feasting Cavern {KAM_REVEALED_COUNT}
+Hash: FD700C3A, Key: Callback40Header, Value: Slay {MONSTER}

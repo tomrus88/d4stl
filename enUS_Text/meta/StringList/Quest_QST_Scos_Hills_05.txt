@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Parting Embers
+Hash: 0871A46B, Key: Toast, Value: Meet with Yorin in Braestaig
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with Yorin in Braestaig
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Airidah could not be reasoned with and had to be stopped. Now Scosglen has lost one of its greatest druids and a hero of old. I should return to Yorin in Braestaig. 
+Hash: 44ADC39F, Key: Phase46Description, Value: Airidah could not be reasoned with and had to be stopped. Now Scosglen has lost one of its greatest druids and a hero of old. I should return to Yorin in Braestaig. 
+Hash: F12B6BC7, Key: Phase46OutsideSubzoneHeader, Value: Speak with Yorin in Braestaig
+Hash: 22EDF2BD, Key: Callback61Header, Value: Speak with Yorin in Braestaig

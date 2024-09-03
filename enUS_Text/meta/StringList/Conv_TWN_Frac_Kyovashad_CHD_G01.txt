@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You look upset, little one."
+Hash: 8F0420E1, Key: Line1.13C111, Value: Everyone gets to join the Knights, except me.
+Hash: 6787CAA3, Key: Line3.13C111, Value: I have two hands, same as them. I should get to die for the Father too!

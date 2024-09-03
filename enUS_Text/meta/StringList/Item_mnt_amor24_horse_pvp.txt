@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Knight's Barding
+Hash: A646FFA4, Key: Description, Value: Any steed wearing this barding will have an imposing and foreboding visage.

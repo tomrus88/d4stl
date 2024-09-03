@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "These demons seem to have an interest in you..."
+Hash: 282084CA, Key: Line7.8C8DF, Value: Bloody monsters! Where have they come from?
+Hash: 9729EAF7, Key: VoiceDir7.8C8DF, Value: Cursing. Confused. Exhausted with pain/fever.
+Hash: 094275D7, Key: Line13.8C8DF, Value: Quickly... the safehouse is in these ruins.
+Hash: 5978A1A4, Key: VoiceDir13.8C8DF, Value: Exhausted with pain/fever. Pushing onward.

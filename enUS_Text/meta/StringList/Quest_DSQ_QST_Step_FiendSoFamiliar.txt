@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: More Than Meets the Eye
+Hash: 0871A46B, Key: Toast, Value: There's one more relic to find and, judging by the last two, I doubt this will be a walk in the park.
+Hash: C9FCD1EA, Key: Phase5Description, Value: Beneath the Ruins of Saraan an illusionary door bars the way, beyond which I know not what awaits.
+Hash: B8A227EA, Key: Callback4Header, Value: Return to the blocked passage
+Hash: 9F90DE2D, Key: Callback7Header, Value: Find and disable the relic
+Hash: 61CFD437, Key: Phase11Description, Value: The relic lies somewhere in the final chamber, but an echo of a long dead terror stands in my way.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak to Rakhaan
+Hash: 1F9943DA, Key: Callback13Header, Value: Redirect the lights to the blocked passage
+Hash: 4408F5DB, Key: Phase24Description, Value: According to Rakhaan, the relic is hidden somewhere in the tunnels and caves beneath the Ruins of Saraan.
+Hash: 0BDB18BB, Key: Callback23Header, Value: Find and disable the relic in Saraan Caldera
+Hash: 6274A1FB, Key: Phase33Description, Value: There's a strange pervasive darkness clouding the mind in the caves. I need to shed some light to clear the way.
+Hash: 9211671E, Key: Callback35Header, Value: Return to Rakhaan
+Hash: 2C05E0A0, Key: Callback37Header, Value: Speak to Demon Rakhaan

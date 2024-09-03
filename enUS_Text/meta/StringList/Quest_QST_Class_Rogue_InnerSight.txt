@@ -1,0 +1,17 @@
+Hash: 003DFCC1, Key: Name, Value: Rogue: True Potential
+Hash: 0871A46B, Key: Toast, Value: Help Leyrana locate her missing comrade and unlock your true potential.
+Hash: D53BFF05, Key: Phase0Description, Value: Speak with Leyrana in Menestad.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Leyrana to begin unlocking your potential
+Hash: C9FCD1EA, Key: Phase5Description, Value: Follow the trail of footsteps leading away from the body.
+Hash: 7E533BFF, Key: Callback45Header, Value: Follow the trail
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Search for Bakira within the Forsaken Quarry.
+Hash: 22EDF2BD, Key: Callback61Header, Value: Find Bakira
+Hash: 61CFD437, Key: Phase11Description, Value: Search for more clues of Bakira's companions.
+Hash: DD0D3424, Key: Callback77Header, Value: Continue searching for signs of Bakira
+Hash: CF9A89D8, Key: Phase30Description, Value: Investigate the disturbance outside town to see if it leads to Bakira.
+Hash: 5C2A045F, Key: Callback72Header, Value: Find any signs of Bakira
+Hash: 940CCD20, Key: Phase56Description, Value: Speak with Leyrana before entering the Forsaken Quarry.
+Hash: 6A9510E0, Key: Callback55Header, Value: Speak with Leyrana
+Hash: 336FADE6, Key: Phase98Description, Value: Speak with Leyrana about what comes next.
+Hash: B590DDE6, Key: Callback97Header, Value: Speak with Leyrana
+Hash: 04BB75EA, Key: Callback112Header, Value: Defeat Bakira's ghost

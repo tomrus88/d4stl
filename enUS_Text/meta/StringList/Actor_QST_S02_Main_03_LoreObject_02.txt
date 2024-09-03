@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloody Cages and Casks
+Hash: F2CA04D8, Key: NoticeSignText, Value: There are trails leading from the cage to nearby casks. The stench of blood within is overpowering.

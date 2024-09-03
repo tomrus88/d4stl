@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Duration Support
+Hash: A646FFA4, Key: Description, Value: Supported {c_important}Duration{/c} Skills have their durations increased by {c_number}[{SF_0}|1|]{/c} seconds.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Duration Bonus {icon:arrow,1.2} {c_number}[{SF_0}|1|+0.4]{/c} Seconds
+Hash: E971A20F, Key: Modifier, Value: Duration increased by {c_number}[{SF_0}|1|]{/c} seconds.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

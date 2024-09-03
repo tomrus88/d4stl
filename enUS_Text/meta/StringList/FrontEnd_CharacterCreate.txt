@@ -1,0 +1,123 @@
+Hash: CFB2604E, Key: Confirm, Value: Create
+Hash: 2483E8D0, Key: Appearance, Value: Face & Body
+Hash: 0312F7D4, Key: Accessories, Value: Accessories
+Hash: 003AB204, Key: Hair, Value: Hair
+Hash: 5FC648A8, Key: ColorAndTone, Value: Color
+Hash: 7C714375, Key: HairStyle, Value: Hair Style
+Hash: EAE2B324, Key: HairFacial, Value: Details
+Hash: 51B7FFD0, Key: AccessoriesMarkings, Value: Markings ({c:FFdba864}{s1}{/c} {c:FFb3a99b}/ {s2}{/c})
+Hash: 99943196, Key: AccessoriesJewelry, Value: Jewelry
+Hash: 19819B0A, Key: ColorSkinTone, Value: Skin Tones
+Hash: 0172DBA3, Key: ColorHair, Value: Hair Color
+Hash: C1FBAF62, Key: ColorEye, Value: Eye Color
+Hash: A2F2551B, Key: ColorMarkings, Value: Markings  Color
+Hash: 3F59842E, Key: CharacterName, Value: Name (Required)
+Hash: 1B1718CD, Key: CharacterNameLimit, Value: Character Limit {s1}
+Hash: 8A078B1C, Key: GameplayOptions, Value: Gameplay Options
+Hash: 36C55B68, Key: Hardcore, Value: {icon:FrontEnd_Gameplay_Hardcore, 1.8} Hardcore
+Hash: 6AF0BF16, Key: Seasonal, Value: Seasonal
+Hash: 5B73217E, Key: HardcoreWarning, Value: {c_red}WARNING:{/c} Hardcore heroes die permanently. 
+Hash: 2E2F057C, Key: SeasonalDetails, Value: A new form of Lilith's corruption spreads across Sanctuary, and you must stop it! This unlocks {c_highlight}after Campaign completion{/c}.
+Hash: 2C7EAE49, Key: ViewSeasonalRewards, Value: View Seasonal Rewards
+Hash: CC941F94, Key: CharacterNameDetails, Value: Hero names may not contain number, punctuation, or invalid characters. Please use either letters (a-z, A-Z) OR valid characters in your locale.
+Hash: 073C5EB6, Key: Class, Value: Class
+Hash: 05C2DB26, Key: Details, Value: Gameplay Style
+Hash: F0570276, Key: AppearancePresets, Value: Face & Body
+Hash: 927C1041, Key: SeasonRewards, Value: Season Rewards
+Hash: 6772D4D6, Key: InvalidHeroName, Value: The current hero name is invalid. Please check the input hero name.
+Hash: 6244C8DA, Key: ProfaneHeroName, Value: Profane hero name.
+Hash: 5C7E7AA3, Key: DisabledClassGender, Value: The selected class and gender has been disabled for any hero creation.
+Hash: 6351C4A1, Key: CharacterCreate, Value: {s1} Create
+Hash: 11515F60, Key: Return, Value: Return to Campfire
+Hash: F2EBF2C9, Key: EdTest, Value: Just a test 12
+Hash: 71B204F7, Key: Overlay_Warning, Value: Warning
+Hash: 219C602F, Key: Overlay_Body, Value: Changes have been made to a character preset. Leaving customization will reset any changes made.
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: BDC485F7, Key: AccessoriesMakeup, Value: Makeup
+Hash: E88405F7, Key: SkipCampaign, Value: {icon:FrontEnd_Campaign, 1.8} Skip Campaign
+Hash: 60E9F39A, Key: SkipCampaignExplanation, Value: Head straight into the open world. This is a permanent choice for this character.
+Hash: 17D085AC, Key: HairStyleTab, Value: Style
+Hash: 35BC7315, Key: HairBrowFacialTab, Value: Brow
+Hash: 6A897A26, Key: AccessoriesMarkings_Tab, Value: Markings
+Hash: C5151EEC, Key: AccessoriesJewelry_Tab, Value: Jewelry
+Hash: 782ABBCD, Key: AccessoriesMakeup_Tab, Value: Makeup
+Hash: 4D3A3EA7, Key: SkipCampaign_Dialog_Title, Value: Skip Campaign
+Hash: ABC62D0B, Key: SkipCampaign_Dialog_Details, Value: You have unlocked the ability to {c:FFbf6b31}skip the campaign{/c} on any of your characters. 
+Hash: 0C98FC3C, Key: VoicePresets, Value: Voice
+Hash: 3BCFFB90, Key: VoiceOption01, Value: Voice 1
+Hash: 3BCFFB91, Key: VoiceOption02, Value: Voice 2
+Hash: 3BD8FA75, Key: HairBrowTab, Value: Facial Hair
+Hash: F9DF8AFB, Key: HairFacialTab, Value: Facial Hair
+Hash: 45B69EB6, Key: LevelOfTutorialsTitle, Value: Tutorial Preference
+Hash: 4436AF41, Key: LevelOfTutorials_Body, Value: Select your guidance preference below. 
+You can always {c_highlight}change this within the Options menu.{/c}
+Hash: A90634DD, Key: Tutorials_LessGuidance, Value: Less Guidance
+Hash: 44FE4ABE, Key: Tutorials_MoreGuideance, Value: More Guidance
+Hash: 2C224C05, Key: LessGuidanceBody, Value: Minimal guidance on new features only. Explore hell on your own. 
+Hash: 06AEFCC1, Key: MoreGuidanceBody, Value: More in depth tutorials. Recommended for new Diablo players.
+Hash: 9CC085C4, Key: TutorialAccept, Value: Next
+Hash: A14CA43A, Key: TutorialCancel, Value: Cancel
+Hash: 37579488, Key: AcceptTutorialController, Value: {icon:button1, 2}  Next
+Hash: B4D4E4AF, Key: CancelTutorialControllerq, Value: {icon:button2,2} Cancel
+Hash: EF36ADF4, Key: Create, Value: Create
+Hash: BC8D8292, Key: Finalize, Value: Finalize
+Hash: 65E7D1D5, Key: DifficultyTitle, Value: Select Difficulty
+Hash: 96719C21, Key: DifficultyBody, Value: This may be changed at any time from the Character Select Screen or from the World Tier Statue {icon:Marker_WorldTiers, 2.0} in Kyovashad.
+
+Players must be in the same World Tier to form a party.
+Hash: 03732D0D, Key: WorldTier1, Value: World Tier 1
+Hash: 03732D0E, Key: WorldTier2, Value: World Tier 2
+Hash: 4239072F, Key: WorldTier1Title, Value: Adventurer
+Hash: 448E2FD0, Key: WorldTier2Title, Value: Veteran
+Hash: CDA60925, Key: WorldTier1_Bullet1, Value: Recommended for new players to Diablo or want a light challenge
+Hash: CDA60926, Key: WorldTier1_Bullet2, Value: Enemies are easy to defeat
+Hash: CDA60927, Key: WorldTier1_Bullet3, Value: Drops are average
+Hash: 42227A26, Key: WorldTier2_Bullet1, Value: Recommended for Diablo veterans who want to be tested.
+Hash: 42227A27, Key: WorldTier2_Bullet2, Value: Enemies will challenge you
+Hash: 42227A28, Key: WorldTier2_Bullet3, Value: Better drops
+Hash: 42227A29, Key: WorldTier2_Bullet4, Value: Increased XP & Gold
+Hash: C65E5A01, Key: ContinueButton, Value: Continue
+Hash: 265F706D, Key: BackButton, Value: Back
+Hash: E29E2038, Key: ContinueDifficultyButtonController, Value: {icon:button1, 2} Continue
+Hash: 4E732159, Key: CancelDifficultyButtonController, Value: {icon:button2, 2} Cancel
+Hash: DF596E96, Key: CancelDialog, Value: Cancel
+Hash: 5763E810, Key: DifficultyModalAccept, Value: Start
+Hash: 12EB24D4, Key: DifficultyModalAcceptController, Value: {icon:button1, 2}  Start
+Hash: C3C6F730, Key: BodyType, Value: Body Type
+Hash: 89EA2377, Key: OnlyRandomNames, Value: {c_highlight}Only randomized names available.{/c}
+
+This is due to your character name being flagged as inappropriate 3 times.
+Hash: B14BE5E3, Key: Customize, Value: Customize
+Hash: B6490FF3, Key: CharacterPresets, Value: Character Presets
+Hash: C64E283E, Key: BodyText_Info, Value: Select and customize Body Type.
+Hash: 24AD204A, Key: BackToClassSelect, Value: Back to Class Select
+Hash: B0FEF4F7, Key: FaceVariants, Value: Face Variations
+Hash: C432A899, Key: MarkingsValue, Value: {c:FFdba864}{s1}{/c} / {s2}   {s3}
+Hash: F964E2FD, Key: Legend_Controller_Info, Value: Navigate between categories with {icon:l1, 2.0} and {icon:r1, 2.0}
+Hash: 3D3378D3, Key: FaceType_Stepper, Value: Face Type - {s1} / {s2}
+Hash: 45FEA273, Key: Finalize_Prompt, Value: {icon:button4, 2.0} Finalize
+Hash: EF2400A4, Key: Customize_Prompt, Value: {icon:button3, 2.0} Customize
+Hash: FF8E05F2, Key: Back_Prompt, Value: {icon:button2, 2.0} Back
+Hash: B924E4DE, Key: WorldTierTitle, Value: World Tier
+Hash: 87FB41C4, Key: BackToBodyType, Value: Back to Body Type
+Hash: BECB23A6, Key: Presets, Value: Presets
+Hash: D3A146BF, Key: CharacterPresetsInfo, Value: Select a preset below:
+Hash: EA2155B5, Key: SeasonInfo, Value: Season Info
+Hash: F4D2B292, Key: SeasonHeader, Value: Season {s1}: 
+{c_highlight}{s2}{/c}
+Hash: 15D2E450, Key: ViewSeasonInfo, Value: {icon:r3, 2} Season Info
+Hash: 85D99387, Key: SeasonalRealm, Value: Seasonal Realm
+Hash: E8EB259C, Key: EternalRealm, Value: Eternal Realm
+Hash: 9A6EF2D7, Key: EternalInfo, Value: Offers the default gameplay experience. No access to seasonal content in this Realm.
+Hash: E501CF62, Key: SeasonalInfo, Value: (Recommended)
+Offers {c_highlight}new content{/c} in addition to the default gameplay experience. Seasonal content takes place {c_highlight}after Campaign completion{/c}. 
+Hash: C857469F, Key: SelectHeroRealm, Value: Select Hero Realm
+Hash: F68EB46B, Key: HeroRealmInfo, Value: {icon:Exclamation_Mark,2} {c_highlight}Seasonal{/c} characters are {c_highlight}moved to the Eternal Realm{/c} when the season ends. 
+{c_highlight}Season Journey{/c} and {c_highlight}Battle Pass{/c} are only available for {c_highlight}Seasonal{/c} characters.
+Hash: B9AACD3F, Key: SeasonModalHeader, Value: Season Info
+Hash: 5EE50E84, Key: SeasonModalBody, Value: If you want to access Seasonal content, you need to {c_highlight}create a new character{/c} for the {c_highlight}Seasonal Realm{/c}.
+Continue to Eternal Realm (non Seasonal)?
+Hash: EFE73042, Key: ContinueToGame, Value: Continue to game
+Hash: 6B4D5969, Key: ViewEventInfo, Value: {icon:l3, 2} Event Info
+Hash: 3F922CE3, Key: StashMigrationWarning, Value: {icon:FrontEnd_StashMigration_Icon, 2} Seasonally migrated items in your Stash will expire in {c_highlight}{s1} days{/c}. Enter the {c_highlight}Eternal Realm{/c} to retrieve them.
+Hash: 2FCD921D, Key: StashMigrationWarning_NoDate, Value: {icon:FrontEnd_StashMigration_Icon, 2} Seasonally migrated items in your Stash will expire soon. Enter the {c_highlight}Eternal Realm{/c} to retrieve them.

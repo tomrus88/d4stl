@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found this medallion. This man was Triune."
+Hash: 4429BC17, Key: Line4.BC41C, Value: Light-forsaken Triune... I’ve seen their medallions before, while repelling them from our borders...
+Hash: B3332244, Key: VoiceDir4.BC41C, Value: Seething anger. Bitter memories.
+Hash: DE1E3599, Key: Line6.BC41C, Value: Now they’re here. Working with bandits to poison and kill Iron Wolves.
+Hash: 4D279BC6, Key: VoiceDir6.BC41C, Value: Seething anger. Bitter. Urgent.
+Hash: 7812AF1B, Key: Line8.BC41C, Value: Meet me back at camp, quick as you can.
+Hash: E71C1548, Key: VoiceDir8.BC41C, Value: Terse. Urgent. Deep concern.

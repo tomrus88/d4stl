@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Adaptability
+Hash: 003892BF, Key: Desc, Value: When cast below {c_number}[Affix."Static Value 0"|%|]{/c} Maximum Resource, {c_important}Basic{/c} Skills generate {c_number}[Affix."Static Value 1"]{/c} of your Primary Resource, once per cast.
+
+When cast at or above {c_number}[Affix."Static Value 0"|%|]{/c} Maximum Resource, {c_important}Basic{/c} Skills deal {c_random}[Affix_Value_1|%x|]{/c} increased damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Basic{/c} Skills generate additional resource when cast below {c_number}[Affix."Static Value 0"|%|]{/c} Maximum Resource, and deal {c_random}[Affix_Value_1|%x|]{/c} increased damage when cast above {c_number}[Affix."Static Value 0"|%|]{/c} Maximum Resource.

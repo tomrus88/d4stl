@@ -1,0 +1,2 @@
+Hash: A7490B65, Key: Buff11_Name, Value: Celeste
+Hash: 86C2ADC8, Key: Buff11_Description, Value: Resets your Evade CD.

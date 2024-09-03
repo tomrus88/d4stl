@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Deep Pockets
+Hash: 003892BF, Key: Desc, Value: Pick up 1,500 gold within 30 seconds.

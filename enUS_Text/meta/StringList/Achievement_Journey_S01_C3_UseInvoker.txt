@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Purging the Plague
+Hash: 3A4912CF, Key: DescShort, Value: Use Wrathful malignant invoker in a Malignant Tunnel after completing or skipping the Campaign

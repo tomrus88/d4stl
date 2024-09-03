@@ -1,0 +1,2 @@
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Disobedience
+Hash: 53C1369D, Key: Buff7_Description, Value: Armor increased by {c_number}[{SF_3}|2%|]{/c} per stack

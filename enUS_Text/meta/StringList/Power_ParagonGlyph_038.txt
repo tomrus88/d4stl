@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: You and your Minions deal {c_number}[{SF_0}*100|x%|]{/c} increased Physical damage and you gain {c_number}[SF_1 * 100|%+|]{/c} Movement Speed for each active Minion.

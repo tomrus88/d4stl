@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Summon the demon. I am ready"
+Hash: 5D2B52BC, Key: Line1.AFA94, Value: (sigh) All right.
+Hash: CC34B8E9, Key: VoiceDir1.AFA94, Value: deep nervous sigh. This is going to go badly.
+Hash: F71FCC3E, Key: Line3.AFA94, Value: I know that I… I would like to see my family again. Spirits forgive me.

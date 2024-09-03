@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Gate Key
+Hash: A646FFA4, Key: Description, Value: Bound to Tormented Ruins
+Hash: F5C7BC0A, Key: Flavor, Value: A very plain looking key.

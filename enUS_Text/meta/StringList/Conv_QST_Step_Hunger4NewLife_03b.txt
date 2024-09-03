@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did it work?"
+Hash: 2E9D2471, Key: Line34.6E261, Value: There. Oyuun? How do you feel?
+Hash: 7ED3503E, Key: VoiceDir34.6E261, Value: Concerned but hopeful. She's just finished brewing a tea that she hopes will calm her traumatized companion.
+Hash: B4D372D4, Key: Line46.6E261, Value: What? Where? Oh... better, I think. (gasp) Yes. Oh, Zolaya, I'm so sorry. I don't know what came over me... (sigh) there was a smell and--and then... that place...
+Hash: 05099EA1, Key: VoiceDir46.6E261, Value: Confused. Coming out of a traumatic memory, gradually gaining her bearings back in the present moment. Then, ashamed and disgusted.
+Hash: 4EC7EC56, Key: Line48.6E261, Value: There's no need to apologize. I never expected you to be fine, after everything you went through. Now drink your tea. Rest.
+Hash: 9EFE1823, Key: VoiceDir48.6E261, Value: Relieved. Dismissive in a light-hearted way (like "you silly girl"). In awe at how much her companion survived/endured.
+Hash: D337DB2F, Key: Line50.6E261, Value: (sigh) She seems to be calming down... for now. Once she's stabilized, I can go and collect more of those herbs. (sigh) Thank you.
+Hash: 236E06FC, Key: VoiceDir50.6E261, Value: Relieved. She sounds like she's carrying a large weight but is hopeful they're on the path to better things.
+Hash: 6D2C54B1, Key: Line52.6E261, Value: Wait! I have a favor to ask... my journals over there, will you take them with you? Please. Take them far away from here.
+Hash: BD62807E, Key: VoiceDir52.6E261, Value: A bit disoriented, she calls out to the player as she realizes they're departing. Then referencing her journals, she's ashamed and disgusted.

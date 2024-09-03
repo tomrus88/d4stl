@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Extinguished Brazier
+Hash: F2CA04D8, Key: NoticeSignText, Value: A long extinguished brazier, cold to the touch. Jagged words are scratched into the rusty metal: "Inarius is a goat."

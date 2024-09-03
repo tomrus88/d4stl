@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Nekhii
+Hash: 8EB4F166, Key: Line1.104DEA, Value: The Triune promised a future beyond suffering. We knew only hunger after Mother and Father passed.
+Hash: DEEB1D33, Key: VoiceDir1.104DEA, Value: Somber, confessing
+Hash: 67389B28, Key: Line3.104DEA, Value: I joined the Triune to guarantee our future. Our happiness. Yet, I return to only ash and despair.
+Hash: B76EC6F5, Key: VoiceDir3.104DEA, Value: False hope into somber recognition
+Hash: 3FBC44EA, Key: Line5.104DEA, Value: I go to them now, offering my body to the pools as our ancestors did. I hope to feel even a fraction of the suffering I caused before I am gone.
+Hash: 8FF270B7, Key: VoiceDir5.104DEA, Value: Remorseful
+Hash: F0C3986E, Key: Line9.104DEA, Value: May your bracelets return here, too, so that I may hold you again in the plains beyond.
+Hash: 40F9C43B, Key: VoiceDir9.104DEA, Value: Somber, but hopeful

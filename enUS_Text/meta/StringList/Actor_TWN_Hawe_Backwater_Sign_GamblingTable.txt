@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "Skull & Anchor" Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: A game of chance in which players bet on dice marked with the four card suits (crowns, stars, snakes and lions) plus a skull and an anchor. Originally played by Westmarch sailors, the game has become popular in Backwater as well.

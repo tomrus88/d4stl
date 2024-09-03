@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Personal Journal
+Hash: A646FFA4, Key: Description, Value: Written by a monk of the Orbei Monastery in a thin, hasty hand.

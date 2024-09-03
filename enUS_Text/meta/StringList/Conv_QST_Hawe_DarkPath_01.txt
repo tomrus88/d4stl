@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is everything alright Father?"
+Hash: 8ECEF95A, Key: Line1.10E35E, Value: If you have a moment, child?
+Hash: 2C1821BF, Key: Line6.10E35E, Value: I wish I didn't, but...
+Hash: 049BCB81, Key: Line8.10E35E, Value: I had a curate, Symon. Some weeks ago, he left in the company of a strange man.
+Hash: 54D1F74E, Key: VoiceDir8.10E35E, Value: Pronounciation: Simon
+Hash: CEC15CD1, Key: Line17.10E35E, Value: I haven't heard from him since and it’s unlike him. Could you--?
+Hash: 678D38F7, Key: Line14.BAE4, Value: Do you know where he went?
+Hash: 3178346C, Key: Line12.10E35E, Value: Here. He's written in this page of his journal. Tch. Always leaving these papers behind.
+Hash: 8873D9D9, Key: VoiceDir12.10E35E, Value: Last line spoken with affection.

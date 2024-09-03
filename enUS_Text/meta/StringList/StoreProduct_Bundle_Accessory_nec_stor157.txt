@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bloody Whetstones
+Hash: A646FFA4, Key: Description, Value: Agony is the perfect pursuit; it both protects and empowers.
+Hash: 083EE0CE, Key: Quote, Value: The soul is tempered through pain.
+Hash: 13A53A8B, Key: Series, Value: "Implements of Torture" Accessories

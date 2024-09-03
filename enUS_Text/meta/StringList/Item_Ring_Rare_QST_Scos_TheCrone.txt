@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Crone's Blessing
+Hash: F5C7BC0A, Key: Flavor, Value: Made of twisted wood and containing traces of the Dark Thicket's twisted magic.

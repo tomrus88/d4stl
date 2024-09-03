@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Branching Volleys
+Hash: 003892BF, Key: Desc, Value: Increase the damage of arrows that ricochet from {c_important}Barrage{/c} from {c_number}40%{/c} to {c_random}[Affix_Value_2|%|]{/c}. {c_important}Barrage's{/c} arrows have a {c_random}[Affix_Value_1|%|]{/c} chance to split into {c_number}2{/c} arrows whenever they ricochet.
+Hash: 82B7D312, Key: CodexDesc, Value: Increase the damage of arrows that ricochet from {c_important}Barrage{/c} to {c_random}[Affix_Value_2|%|]{/c}. {c_important}Barrage's{/c} arrows have a {c_random}[Affix_Value_1|%|]{/c} chance to split when they ricochet.

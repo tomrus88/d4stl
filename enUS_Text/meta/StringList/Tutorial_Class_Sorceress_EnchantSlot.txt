@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Enchantments
+Hash: 7BFE534B, Key: simple_instruction, Value: Assign skills to {c_highlight}Enchantment Slots{/c} to gain {c_highlight}passive versions{/c} of the skills.

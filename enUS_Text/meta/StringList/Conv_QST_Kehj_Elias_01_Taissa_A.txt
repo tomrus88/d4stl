@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is there anything I can do to help you?"
+Hash: 6F245388, Key: Line11.789BF, Value: No. I’ve been a burden for you already. One day, I will find a way to help you.
+Hash: BF5A7F55, Key: VoiceDir11.789BF, Value: Feeling a little frustrated with herself--she wants to help, but she knows she's not in a position to do much.

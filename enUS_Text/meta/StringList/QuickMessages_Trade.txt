@@ -1,0 +1,3 @@
+Hash: 9C43F287, Key: 01LookingToTrade, Value: Looking to trade:
+Hash: D7ED8F56, Key: 02WantToTradeFor, Value: Want to trade for:
+Hash: A546B358, Key: 03InterestInTrade, Value: Would you like to trade?

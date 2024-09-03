@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can you tell me about this geode I found in Hawezar?"
+Hash: 5D226A2C, Key: Line1.B684A, Value: Hmm, I haven't seen one of these in a while. From what I have heard, these require a special acid flux applied to them, to allow clean extraction of the gems within.
+Hash: F716E3AE, Key: Line3.B684A, Value: I'm afraid that's all I know about it. You should seek out Mislan in Zarbinzet to acquire the flux. I am sure he wouldn't mind if you used his bench to apply it too, the process is quite safe and simple.
+Hash: 910B5D30, Key: Line5.B684A, Value: Good fortune to you.

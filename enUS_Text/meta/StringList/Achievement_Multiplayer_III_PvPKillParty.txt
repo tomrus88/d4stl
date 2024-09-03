@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Helping Hands
+Hash: 003892BF, Key: Desc, Value: Get a PvP kill while in a party.

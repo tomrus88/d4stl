@@ -1,0 +1,2 @@
+Hash: 673803A8, Key: Line3.103C17, Value: Hey lads, we need herbs, linens, anything that’ll treat a wound.
+Hash: B76E2F75, Key: VoiceDir3.103C17, Value: Urgent. Instructing. 

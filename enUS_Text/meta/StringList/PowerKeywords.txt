@@ -1,0 +1,25 @@
+Hash: B92D8C20, Key: POWER_KEYWORD_VULNERABLE, Value: {c_important}{b}{u}Vulnerable{/u}{/b}{/c} enemies take 20% increased damage.
+Hash: 703D01CB, Key: POWER_KEYWORD_WEAKEN, Value: BUG THIS - POWERS SHOULD NOT USE WEAKENED
+Hash: 12608861, Key: POWER_KEYWORD_IMMOBILIZE, Value: BUG THIS - POWERS SHOULD NOT KEYWORD IMMOBILIZE
+Hash: 8F41EC75, Key: POWER_KEYWORD_SLOW, Value: BUG THIS - POWERS SHOULD NOT KEYWORLD SLOW
+Hash: 8F420F3A, Key: POWER_KEYWORD_STUN, Value: BUG THIS - POWERS SHOULD NOT KEYWORD STUN
+Hash: 8F398554, Key: POWER_KEYWORD_DAZE, Value: {c_important}{b}{u}Dazed{/u}{/b}{/c} enemies cannot attack or use Skills but are still able to move.
+Hash: 765BA6FC, Key: POWER_KEYWORD_CHILL, Value: {c_important}{b}{u}Chilled{/u}{/b}{/c} enemies have reduced Movement Speed. Repeatedly {c_important}{b}{u}Chilling{/u}{/b}{/c} an enemy will {c_important}{b}{u}Freeze{/u}{/b}{/c} it.
+Hash: 4982A851, Key: POWER_KEYWORD_FREEZE, Value: {c_important}{b}{u}Frozen{/u}{/b}{/c} enemies cannot move or attack. Enemies can be {c_important}{b}{u}Frozen{/u}{/b}{/c} by repeatedly {c_important}{b}{u}Chilling{/u}{/b}{/c} them.
+Hash: CF679FFE, Key: POWER_KEYWORD_SPIRIT_FRAGMENT, Value: BUG THIS - POWERS SHOULD NOT KEYWORD SHADOW REALM
+Hash: 288E43DE, Key: POWER_KEYWORD_BERSERK, Value: {c_important}{b}{u}Berserking{/u}{/b}{/c} grants 25% increased damage and 15% increased Movement Speed. This effect lasts up to 5 seconds.
+Hash: F4553F7D, Key: POWER_KEYWORD_UNSTOPPABLE, Value: {c_important}{b}{u}Unstoppable{/u}{/b}{/c} characters have all Control Impairing Effects removed and prevented.
+Hash: 502C4D3B, Key: POWER_KEYWORD_IMMUNE, Value: {c_important}{b}{u}Immune{/u}{/b}{/c} characters cannot be damaged and are {c_important}{b}{u}Unstoppable{/u}{/b}{/c} with all Control Impairing Effects removed and prevented.
+Hash: 73CB6913, Key: POWER_KEYWORD_FORTIFY, Value: {c_important}{b}{u}Fortified{/u}{/b}{/c} characters take 10% reduced damage. You become {c_important}{b}{u}Fortified{/u}{/b}{/c} when you have as much {c_important}{b}{u}Fortify{/u}{/b}{/c} as current Life.
+Hash: 630BAEE6, Key: POWER_KEYWORD_CRUSHING_BLOW, Value: BUG THIS - POWERS SHOULD USE OVERPOWER KEYWORD INSTEAD OF CRUSHING BLOW
+Hash: B1B6F9E3, Key: POWER_KEYWORD_RESOURCE_PICKUP, Value: {c_important}{b}{u}Crackling Energy{/u}{/b}{/c} periodically damages surrounding enemies when picked up.
+Hash: 08A0D2F1, Key: POWER_KEYWORD_HEALTH_PICKUP, Value: BUG THIS - POWERS SHOULD USE POWER_KEYWORD_BLOOD_ORB INSTEAD.
+Hash: 0A9BC922, Key: POWER_KEYWORD_BLOOD_ORB, Value: {c_important}{b}{u}Blood Orbs{/u}{/b}{/c} Heal you and your Minions for 15% of your Maximum Life when picked up.
+Hash: 359AFDD9, Key: POWER_KEYWORD_OVERPOWER, Value: {c_important}{b}{u}Overpowering{/u}{/b}{/c} deals bonus damage based on the sum of your current Life and {c_important}{b}{u}Fortified{/u}{/b}{/c} Life.
+Hash: F53477BF, Key: POWER_KEYWORD_HEALTHY, Value: {c_important}{b}{u}Healthy{/u}{/b}{/c} characters have more than 80% of their Life.
+Hash: 57D4E521, Key: POWER_KEYWORD_INJURED, Value: {c_important}{b}{u}Injured{/u}{/b}{/c} characters have less than 35% of their Life.
+Hash: 1F392457, Key: POWER_KEYWORD_BARRIER, Value: {c_important}{b}{u}Barriers{/u}{/b}{/c} absorb damage from all sources up to a specified amount.
+Hash: 3ADB3DC3, Key: POWER_KEYWORD_EXECUTE, Value: {c_important}{b}{u}Executes{/u}{/b}{/c} are a chance to instantly kill {c_important}{b}{u}Injured{/u}{/b}{/c} Non-Elites when damaging them.
+Hash: E8C0251E, Key: POWER_KEYWORD_STATIONARY, Value: BUG THIS - POWERS SHOULD NOT KEYWORD STATIONARY
+Hash: 6734AEC5, Key: POWER_KEYWORD_STEALTH, Value: {c_important}{b}{u}Stealthed{/u}{/b}{/c} characters cannot be directly targeted by enemies. Using an attack or taking damage will instantly remove {c_white}{b}{u}Stealth{/u}{/b}{/c}.
+Hash: 29E538BC, Key: POWER_KEYWORD_CHILL_FREEZE, Value: {c_important}{b}{u}Chilled{/u}{/b}{/c} enemies have reduced Movement Speed. Repeatedly {c_important}{b}{u}Chilling{/u}{/b}{/c} an enemy will {c_important}{b}{u}Freeze{/u}{/b}{/c} it, preventing it from moving or attacking.

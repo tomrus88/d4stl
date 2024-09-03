@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Head of the Beast
+Hash: F5C7BC0A, Key: Flavor, Value: This grisly trophy, encrusted with fried gore, still gives off an unnatural aura.

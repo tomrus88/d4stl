@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kingsport Ale
+Hash: F2CA04D8, Key: NoticeSignText, Value: Expensive bottles of ale, imported from Kingsport. Empty bottles have filled with murky swamp water. The few sealed bottles are covered in dust and moss; their corks defiant against the swamp.

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Reanimation
+Hash: 003892BF, Key: Desc, Value: Get 150 kills with each minion type (Warrior, Mage, Golem).
+Hash: 3DA57625, Key: Crit_236810, Value: Warrior Kills
+Hash: 3DA5760D, Key: Crit_236809, Value: Mage Kills
+Hash: 3DA4C864, Key: Crit_235063, Value: Golem Kills

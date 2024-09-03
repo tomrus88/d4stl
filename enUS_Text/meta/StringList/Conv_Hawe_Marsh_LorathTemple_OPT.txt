@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why do you think Elias sought immortality?"
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: The ritual to summon Lilith would have been demanding. Perhaps he was afraid he wouldn’t survive it.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: grim
+Hash: F413C4CC, Key: Line3.6D03F, Value: And I’m sure he expected to make enemies along the way.

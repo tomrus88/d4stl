@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Untamed Thicket
+Hash: 003892BF, Key: Desc, Value: Nafain's corrupted blood pools within.

@@ -1,0 +1,56 @@
+Hash: 001B24C1, Key: 0001, Value: {78750-80583}May we fight true
+Hash: 001B24C2, Key: 0002, Value: {81167-83875}in His holy name.
+Hash: 001B24C3, Key: 0003, Value: {94792-98167}Blessed be the Light.
+Hash: 001B24C4, Key: 0004, Value: {209958-213333}Do you remember them, Inarius?
+Hash: 001B24C5, Key: 0005, Value: {214042-217167}The whispers of the damned?
+Hash: 001B24C6, Key: 0006, Value: {217958-220125}Words will not save you.
+Hash: 001B24C7, Key: 0007, Value: {221000-222417}Show yourself.
+Hash: 001B24C8, Key: 0008, Value: {223208-227250}So, the soldier returns.
+Hash: 001B24C9, Key: 0009, Value: {227333-230583}And with such purpose.
+Hash: 001B24E1, Key: 0010, Value: {231083-235917}No longer
+the conflicted soul I left behind.
+Hash: 001B24E2, Key: 0011, Value: {236000-238875}You deceived me!
+Hash: 001B24E3, Key: 0012, Value: {252833-255333}Why, Inarius?
+Hash: 001B24E4, Key: 0013, Value: {255417-258333}What are you truly after?
+Hash: 001B24E5, Key: 0014, Value: {259208-264083}My rightful place is in the Heavens.
+Hash: 001B24E6, Key: 0015, Value: {264167-270250}Is that why you seek to destroy
+all that we created?
+Hash: 001B24E7, Key: 0016, Value: {271208-274250}Sanctuary is an abomination!
+Hash: 001B24E8, Key: 0017, Value: {278792-280167}And our son?
+Hash: 001B24E9, Key: 0018, Value: {281375-283333}I made it right...
+Hash: 001B24EA, Key: 0019, Value: {285083-287083}to satisfy the Heavens.
+Hash: 001B2502, Key: 0020, Value: {292292-293292}Tell me...
+Hash: 001B2503, Key: 0021, Value: {294250-297208}did they rejoice?
+Hash: 001B2504, Key: 0022, Value: {301167-302083}No?
+Hash: 001B2505, Key: 0023, Value: {303583-306958}They do not want you.
+Hash: 001B2506, Key: 0024, Value: {324000-325458}In His glory...
+Hash: 001B2507, Key: 0025, Value: {333583-338583}See now the work of your faith!
+Hash: 001B2508, Key: 0026, Value: {347625-349250}It is done.
+Hash: 001B2509, Key: 0027, Value: {350458-352208}It all ends...
+Hash: 001B250A, Key: 0028, Value: {353333-354417}with you.
+Hash: 001B250B, Key: 0029, Value: {356667-357667}No.
+Hash: 001B2523, Key: 0030, Value: {359292-361500}We made a choice,
+Hash: 001B2524, Key: 0031, Value: {362375-363750}and that...
+Hash: 001B2525, Key: 0032, Value: {364417-366458}they can never forgive,
+Hash: 001B2526, Key: 0033, Value: {367167-370875}no matter what you tell yourself,
+Hash: 001B2527, Key: 0034, Value: {370958-374708}or who you sacrifice.
+Hash: 001B2528, Key: 0035, Value: {376042-377833}Silence...
+Hash: 001B2529, Key: 0036, Value: {378958-381375}is their judgement.
+Hash: 001B252A, Key: 0037, Value: {385333-386333}But...
+Hash: 001B252B, Key: 0038, Value: {387792-390292}But I set things right.
+Hash: 001B252C, Key: 0039, Value: {392375-394833}What more would you have me do?
+Hash: 001B2544, Key: 0040, Value: {395875-397042}Tell me.
+Hash: 001B2545, Key: 0041, Value: {397833-399000}Please.
+Hash: 001B2546, Key: 0042, Value: {400500-401708}Tell me!
+Hash: 001B2547, Key: 0043, Value: {405208-406625}The Heavens...
+Hash: 001B2548, Key: 0044, Value: {407333-411250}do not speak to you anymore.
+Hash: 001B2549, Key: 0045, Value: {411333-412208}No!
+Hash: 001B254A, Key: 0046, Value: {415656-418500}Heavens, protect me!
+Hash: 001B254B, Key: 0047, Value: {419000-420250}No.
+Hash: 001B254C, Key: 0048, Value: {420333-423875}You belong in Hell!
+Hash: 001B254D, Key: 0049, Value: {446500-447333}No.
+Hash: 001B2565, Key: 0050, Value: {450083-451250}No.
+Hash: 001B2566, Key: 0051, Value: {451750-452583}No!
+Hash: 001B2567, Key: 0052, Value: {452667-454458}Have faith! Have faith!
+Hash: 001B2568, Key: 0053, Value: {455167-456042}Fight!
+Hash: 001B2569, Key: 0054, Value: {456542-458000}Fight!

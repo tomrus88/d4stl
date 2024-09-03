@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Nightmare Sigils & Dungeons
+Hash: 7BFE534B, Key: simple_instruction, Value: Use the {c_highlight}Nightmare Sigil{/c} from your inventory to {c_highlight}activate a {icon:Marker_NightmareDungeonEntrance, 2} Nightmare Dungeon{/c}. You can then {c_highlight}teleport to the dungeon's entrance{/c} by selecting its map icon.

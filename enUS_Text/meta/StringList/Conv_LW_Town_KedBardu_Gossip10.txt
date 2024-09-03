@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you any news?"
+Hash: 5D6C9F69, Key: Line1.F8D00, Value: There are rumors of demons in the east. That would be a good fight.

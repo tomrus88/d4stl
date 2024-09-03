@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ivory Cyclone
+Hash: 003892BF, Key: Desc, Value: Maintain Bone Storm for 20 seconds.

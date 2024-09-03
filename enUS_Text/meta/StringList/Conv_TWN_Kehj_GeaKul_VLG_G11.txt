@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED9AC2D, Key: Line1.125E18, Value: Please, I just need someplace clean to stay. A few nights, at most.
+Hash: 675D561A, Key: Line3.125E1C, Value: We’re full up. Bugger off.
+Hash: 3FE0FFB1, Key: Line5.125E18, Value: To where? The plagued streets? The bandits beyond the gates? Please!

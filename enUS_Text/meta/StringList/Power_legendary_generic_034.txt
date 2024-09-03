@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Protecting Cooldown
+Hash: 7786FD97, Key: Buff1_Description, Value: {c_important}{u}Immune{/u}{/c} bubble not ready.

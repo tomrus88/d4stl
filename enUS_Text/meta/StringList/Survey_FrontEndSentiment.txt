@@ -1,0 +1,5 @@
+Hash: D86DF989, Key: Question1, Value: How fun is this season?
+Hash: D86DF98A, Key: Question2, Value: How exciting are items this season (e.g., weapons, armor, and jewelry)?
+Hash: D86DF98B, Key: Question3, Value: How fun are activities this season (e.g. Brimstone Keep, Helltide, etc)?
+Hash: D86DF98C, Key: Question4, Value: How excited are you about the future of Diablo IV?
+Hash: D86DF98D, Key: Question5, Value: What change would most improve your experience playing Diablo IV?

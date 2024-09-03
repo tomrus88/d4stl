@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Omnipower
+Hash: 003892BF, Key: Desc, Value: {c_important}Core{/c} Skills that launch a projectile consume extra Mana. For every {c_number}[Affix_Value_1]{/c} extra Mana consumed, you launch an additional projectile and the damage is increased by {c_random}[Affix_Value_2|1%x|]{/c}.

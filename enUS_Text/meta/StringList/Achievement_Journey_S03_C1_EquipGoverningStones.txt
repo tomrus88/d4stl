@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Inauguration of Power 
+Hash: 3A4912CF, Key: DescShort, Value: Equip Governing Stones to your Construct, available after completing or skipping the Campaign

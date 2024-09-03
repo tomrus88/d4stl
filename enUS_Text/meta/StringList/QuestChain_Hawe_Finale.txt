@@ -1,0 +1,2 @@
+Hash: 76E748CE, Key: 0_desc, Value: The soulstone has been repaired, and Elias' immortality broken. The time has come to attempt to attune the soulstone to Mephisto's essence once more.
+Hash: 793C716F, Key: 1_desc, Value: We survived Elias' ambush, but he is attempting to escape. I must catch up with him before he can.

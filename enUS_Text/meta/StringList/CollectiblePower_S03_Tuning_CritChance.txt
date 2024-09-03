@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Efficiency Support
+Hash: A646FFA4, Key: Description, Value: When the supporting skill deals damage, you gain a {c_number}[Collectible_Power_Value_1#S03_Tuning_CritChance*100|%+|]{/c} Critical Strike Chance to the same targets hit for {c_number}[{SF_1}|1|]{/c} seconds.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Critical Strike Chance Bonus {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_CritChance*100+1|%+|]{/c}
+Hash: E971A20F, Key: Modifier, Value: Enemies hit with this skill have an {c_number}[Collectible_Power_Value_1#S03_Tuning_CritChance*100|%+|]{/c} additional chance to be Critically Hit for {c_number}[{SF_1}|1|]{/c} seconds.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

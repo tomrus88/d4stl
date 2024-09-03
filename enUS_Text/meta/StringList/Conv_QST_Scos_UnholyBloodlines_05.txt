@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Snare
+Hash: 8EB347FA, Key: Line1.101CF8, Value: Damned beasts!
+Hash: DEE973C7, Key: VoiceDir1.101CF8, Value: angry

@@ -1,0 +1,3 @@
+Hash: B112DCE4, Key: Line23.BAE4.Dru.F, Value: That does not belong to me.
+Hash: E2063A45, Key: Line24.BAE4.Dru.F, Value: That is not mine.
+Hash: 12F997A6, Key: Line25.BAE4.Dru.F, Value: That belongs to another.

@@ -1,0 +1,3 @@
+Hash: 70625DD1, Key: TimerWarning_05_mins, Value: Warning: 5 minutes remain!
+Hash: 5874C79A, Key: TimerWarning_01_min, Value: Warning: 1 minute remains!
+Hash: EA06C2C7, Key: TimerWarning_30_seconds, Value: Warning: 30 seconds remain!

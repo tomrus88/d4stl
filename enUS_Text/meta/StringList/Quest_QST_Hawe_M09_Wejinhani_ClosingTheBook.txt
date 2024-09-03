@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Closing the Book
+Hash: 0871A46B, Key: Toast, Value: Elder Akos wants to piece together the dark history of Eriman's Pyre.
+Hash: D53BFF05, Key: Phase0Description, Value: Elder Akos wants to find a record of the Zakarum inquisition that took place at Eriman's Pyre.
+
+He has asked me to bring him there to search for a ledger.
+Hash: A07C739F, Key: Callback18Header, Value: Go to Eriman's Pyre with Elder Akos
+Hash: E2223B19, Key: Phase22Description, Value: I need to look around Eriman's Pyre to find the pieces of the ledger that Elder Akos mentioned.
+Hash: B78F4DA1, Key: Callback56Header, Value: Collect the ledger pages: {DONE_OVER_NEEDED}
+Hash: 13BA663E, Key: Phase45Description, Value: Elder Akos appears unwilling to continue on into Eriman's Pyre. I should speak with him.
+Hash: 3158FF3E, Key: Callback44Header, Value: Speak with Elder Akos
+Hash: 74FC533C, Key: Phase25Description, Value: I should deliver the remains of the ledger to Elder Akos in Wejinhani.
+Hash: 58D5557C, Key: Callback24Header, Value: Speak with Elder Akos

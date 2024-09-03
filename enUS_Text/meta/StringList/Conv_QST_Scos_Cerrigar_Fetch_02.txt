@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I gathered these for you. No need for a cut of the profits."
+Hash: 5D21C90C, Key: Line1.B538C, Value: Oh wow! These are nice, big ones. Not cracked or nothing. Thanks, wanderer.
+Hash: CC2B2F39, Key: VoiceDir1.B538C, Value: Very grateful. Innocent. 

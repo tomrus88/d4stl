@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Guozhi Explorer
+Hash: A646FFA4, Key: Description, Value: Untold treasure await in the lost cities sprinkled throughout the Guozhi Mountain Range. For those brave enough to find them, of course.
+Hash: 083EE0CE, Key: Quote, Value: Reclaiming the lost.
+Hash: 13A53A8B, Key: Series, Value: "Xiansai Herald" Mount Armor

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Potent Blood
+Hash: 003892BF, Key: Desc, Value: {c_important}{u}Blood Orbs{/u}{/c} grant {c_random}[Affix_Value_1|1|]{/c} Essence.

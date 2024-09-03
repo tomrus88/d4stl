@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hratli
+Hash: A646FFA4, Key: Description, Value: Hratli was raised from a pup by a Nahantu blacksmith. No stranger to the weight of armor or clash of swords, he is a fine companion in battle. In fact, he might enjoy it too much.
+Hash: 083EE0CE, Key: Quote, Value: Stout of heart and thick of skull.
+Hash: 13A53A8B, Key: Series, Value: "Vessel of Hatred"

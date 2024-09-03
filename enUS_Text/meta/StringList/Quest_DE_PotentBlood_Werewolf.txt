@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Potent Blood
+Hash: 9F90DE2D, Key: Callback7Header, Value: Speak to the Hunter
+Hash: 995CD0CE, Key: Callback107Header, Value: Go hunting
+Hash: 83A035F4, Key: Callback158Header, Value: Speak to the Hunter
+Hash: 04BB75EA, Key: Callback112Header, Value: Slay the remaining enemies
+Hash: F451F9AE, Key: Callback170Header, Value: Speak to the Hunter
+Hash: 8CF6120A, Key: Callback202Header, Value: Slay the Alpha
+Hash: 66CA1CF2, Key: Callback192Header, Value: Slay {NEEDED} Enraged Devourers: {DONE_OVER_NEEDED}

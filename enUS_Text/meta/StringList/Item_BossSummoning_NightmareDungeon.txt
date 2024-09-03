@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Distilled Fear
+Hash: A646FFA4, Key: Description, Value: Spread within the Glacial Fissure in the Fractured Peaks to summon a powerful enemy. Requires {c_number}9{/c}. Collected from Tier 30+ Nightmare Dungeons.
+
+Drops randomly from Elites, Treasure Goblins, Local Events, Whisper Caches, Hellborne, and Blood Maiden.
+Hash: F5C7BC0A, Key: Flavor, Value: An ink that reflects no light. You find yourself acutely aware of your own mortality.

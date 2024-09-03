@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Shadow of Alcarnus
+Hash: 0871A46B, Key: Toast, Value: Stranded refugees are accosted by demons.
+Hash: FAF02F4B, Key: Phase6Description, Value: Refugees were attacked on the road by fly demons. The evil from Alcarnus seems to have attracted the foul creatures. The travelers will not be able to pass until I clear the way. 
+Hash: 85A4CA58, Key: Callback11Header, Value: Slay fly demons in the Forlorn Badlands: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I have cleared the road of fly demons. I should return to Torlos and tell him if they hurry, they should have safe passage.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Torlos

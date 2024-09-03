@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Decaying Shaman's Skull
+Hash: A646FFA4, Key: Description, Value: This decaying Fallen Shaman's skull is a grisly token of your hard-won victory.

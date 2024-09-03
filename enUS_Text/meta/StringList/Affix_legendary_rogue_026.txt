@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shadowslicer
+Hash: 003892BF, Key: Desc, Value: {c_important}Dash{/c} spawns a {c_important}Shadow Clone{/c} that also casts {c_important}Dash{/c}, dealing {c_random}[Affix_Value_1|%|]{/c} of the Base damage.

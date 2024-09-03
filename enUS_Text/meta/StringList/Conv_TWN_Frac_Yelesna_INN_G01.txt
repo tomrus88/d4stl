@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why are the mines closed?"
+Hash: 5D6D27AA, Key: Line1.F9C10, Value: Story changes depending on who you talk to. Some say demons. Others say werewolves. Don't really matter, all means the same thing. Closed mines and idle hands.

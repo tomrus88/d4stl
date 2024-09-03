@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Who is Oyuun?”
+Hash: 5A1FE05B, Key: Line1.6E261, Value: An old friend. She served the Overseers in the palace kitchens. Knows all the secrets in that place.
+Hash: C9294688, Key: VoiceDir1.6E261, Value: Emotional/hesitant. Hiding her feelings for Oyuun (romantic feelings)

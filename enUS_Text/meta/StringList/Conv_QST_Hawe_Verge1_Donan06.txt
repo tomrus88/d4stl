@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Taissa said Hawezar isn't part of Sanctuary."
+Hash: F427C5EC, Key: Line3.7FA05, Value: Did she? She could be right. Even the air feels laden with an otherworldly sort of magic.

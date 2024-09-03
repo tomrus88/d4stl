@@ -1,0 +1,12 @@
+Hash: 3CB8AFCF, Key: Line17.371E1, Value: (mad laughter) Their ascension is complete!
+Hash: 8CEEDB9C, Key: VoiceDir17.371E1, Value: Fanatical. Exultant. Success!
+Hash: 0E22DB69, Key: Line20.371E1, Value: The fire of Hell courses through their veins!
+Hash: 5E590736, Key: VoiceDir20.371E1, Value: Fanatical. Exultant. Success!
+Hash: F51191AC, Key: Line23.371E1, Value: Yes! They are becoming something greater!
+Hash: 4547BD79, Key: VoiceDir23.371E1, Value: Fanatical. Exultant. Success!
+Hash: 159E7717, Key: Line37.7F064, Value: (mad laughter) Their ascension is complete!
+Hash: 65D4A2E4, Key: VoiceDir37.7F064, Value: Fanatical. Exultant. Success!
+Hash: E708A2B1, Key: Line40.7F064, Value: The fires of Hell course through their veins!
+Hash: 373ECE7E, Key: VoiceDir40.7F064, Value: Fanatical. Exultant. Success!
+Hash: CDF758F4, Key: Line43.7F064, Value: Yes! They are becoming something greater!
+Hash: 1E2D84C1, Key: VoiceDir43.7F064, Value: Fanatical. Exultant. Success!

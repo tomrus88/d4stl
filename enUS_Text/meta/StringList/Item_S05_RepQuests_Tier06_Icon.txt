@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] BSK Upgrade
+Hash: A646FFA4, Key: Description, Value: Reward:  Make BSK more lucrative
+Hash: F5C7BC0A, Key: Flavor, Value: Harness the power of Hatred to overcome the forced of Hell in BSK.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Deathless Visage
+Hash: F5C7BC0A, Key: Flavor, Value: "Rathma is endless. He was the first Ancient, and will remain at the end. He is the master of the Great Cycle of Being. When Death comes for him, why should he fear it?"
+- Vauntus, Acolyte of Rathma

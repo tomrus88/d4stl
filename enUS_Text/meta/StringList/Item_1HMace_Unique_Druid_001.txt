@@ -1,0 +1,4 @@
+Hash: 1999888C, Key: TransmogName, Value: Runic Mace
+Hash: 003DFCC1, Key: Name, Value: Fleshrender
+Hash: F5C7BC0A, Key: Flavor, Value: "This weapon is a reminder of the unbridled savagery of our druidic ancestors, the wisdom of which I see more clearly with every day that passes."
+- Moreg, Druidic Scholar

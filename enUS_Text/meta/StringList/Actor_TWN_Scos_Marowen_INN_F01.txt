@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mawde
+Hash: CC38ADCB, Key: FlavorName, Value: The Innkeeper

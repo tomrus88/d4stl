@@ -1,0 +1,4 @@
+Hash: BC254D83, Key: Line12.6DE47, Value: That...is that?
+Hash: 0C5B7950, Key: VoiceDir12.6DE47, Value: in awe
+Hash: 222FF29A, Key: Line10.6D03F, Value: The Tree of Whispers.
+Hash: 72661E67, Key: VoiceDir10.6D03F, Value: grim

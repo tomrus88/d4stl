@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing out here?"
+Hash: 8EFAF31B, Key: Line1.1418EA, Value: I am on my way to Wejinhani for a cure, but I am afraid to go on by myself. Would you be willing to escort me?
+Hash: 1DE6030E, Key: Line13.1418EA, Value: I want to look for herbs as I walk, to trade for the help of the Elders, but I am worried that I would not see any creatures in time to defend myself.

@@ -1,0 +1,2 @@
+Hash: BCF4748A, Key: Line9.BAE4.Nec.M, Value: My allies are occupied. I must wait.
+Hash: CF8742D2, Key: Line10.BAE4.Nec.M, Value: I can't join my allies right now.

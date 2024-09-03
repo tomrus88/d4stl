@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Precision
+Hash: 003892BF, Key: desc, Value: When you cast a {c_important}Marksman{/c} Skill, you gain a stack of {c_important}Precision{/c}. You gain an additional stack if that Skill Critically Strikes, once per cast. 
+
+When you reach {c_number}[SF_1]{/c} stacks of {c_important}Precision{/c}, your next {c_important}Marksman{/c} Ultimate or Core Skill is a guaranteed Critical Strike and deals {c_number}[SF_10 * 100|%x|]{/c} increased Critical Strike Damage, consuming all stacks of {c_important}Precision{/c}. This damage is further increased by {c_number}[{SF_6} * 100|x%|]{/c} of your Critical Strike Damage bonus. 
+
+Current Bonus: {c_number}[{SF_7} * 100|1%x|]{/c}
+Hash: 101C1614, Key: Buff1_Name, Value: Precision
+Hash: 7786FD97, Key: Buff1_Description, Value: Bonus Critical Strike Damage

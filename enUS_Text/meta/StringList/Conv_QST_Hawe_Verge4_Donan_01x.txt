@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Burnt Forest Entrance
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Remember...this is a delicate procedure. Make sure to follow my instructions exactly.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: slightly distracted

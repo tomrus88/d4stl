@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Corvid Duelist
+Hash: A646FFA4, Key: Description, Value: When Aerin was a child, they befriended a murder of crows that would frequent their home. When Aerin manifested their sorcerous power, they adopted the corvid as their mystical signature.
+Hash: 083EE0CE, Key: Quote, Value: A murder of one.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

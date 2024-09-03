@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Oasis of Memories
+Hash: 5A431858, Key: Line1.8C8F8, Value: Wait... what about the old man?
+Hash: C94C7E85, Key: VoiceDir1.8C8F8, Value: A sudden thought hits you out of the blue, but you're not sure it's a good idea...
+Hash: F43791B4, Key: Line3.8C8E3, Value: What? Better to ask the dark sorcerer for a quick death!
+Hash: 6340F7E1, Key: VoiceDir3.8C8E3, Value: Offended. Your assistant just suggested the most stupid idea ever.
+Hash: 8E2C0B36, Key: Line5.8C8E3, Value: ...but if you’re desperate, he may be the only one crazy enough to agree.
+Hash: FD357163, Key: VoiceDir5.8C8E3, Value: but its the only idea you have
+Hash: 282084B8, Key: Line7.8C8E3, Value: He spends his days in a cloud of smoke at the riverbank. It’s dangerous there, be careful.

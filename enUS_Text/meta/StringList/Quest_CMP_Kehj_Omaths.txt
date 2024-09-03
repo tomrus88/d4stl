@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Omath's Redoubt
+Hash: 0871A46B, Key: Toast, Value: The stench of death and decay lingers heavily over this devastated battlefield
+Hash: 58D5557C, Key: Callback24Header, Value: Slay High Priestess Hadar
+Hash: 6A9510E0, Key: Callback55Header, Value: Rekindle the Wanderer's Shrine to conquer Omath's Redoubt
+Hash: 6FE82F7E, Key: Callback62Header, Value: Inspect the Ceremonial Staff
+Hash: 56D6E5C1, Key: Callback65Header, Value: Find a way into Omath's Redoubt
+Hash: 1EADAE68, Key: Callback2Header, Value: Discover the source of the devastation
+Hash: F816C8F3, Key: Callback139Header, Value: Investigate Omath's Redoubt

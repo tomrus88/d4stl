@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I was told you might be interested in this."
+Hash: 405B86D1, Key: Line17.EECAE, Value: Ah, yes. One man's junk is another... you know.
+Hash: 9091B29E, Key: VoiceDir17.EECAE, Value: Delighted, light-hearted
+Hash: 5EBFEF2C, Key: Line21.EECAE, Value: What a lucky find! You were right to come to me! This ring has a dark history of greed. Lustrous upon first glance, but ultimately worthless to sell...
+Hash: AEF61AF9, Key: VoiceDir21.EECAE, Value: Excited realization as he's presented an item, then continuing as if spinning an epic tale. He's a bit dramatic.
+Hash: F8B468AE, Key: Line23.EECAE, Value: And what's worse, whosoever covets and steals the ring is cursed, marking them for death.
+Hash: 48EA947B, Key: VoiceDir23.EECAE, Value: Continues recounting the lore of the item he's been presented. A bit dramatic and spooky
+Hash: 92A8E230, Key: Line25.EECAE, Value: I do hope however it came into your possession, it was given freely! But probably best I hang onto it, just to be safe.
+Hash: E2DF0DFD, Key: VoiceDir25.EECAE, Value: Teasing, a bit gleefully. Then knowingly reassuring
+Hash: DA500053, Key: Line19.EECAE, Value: Do come around again, should you acquire any more interesting pieces.
+Hash: 2A862C20, Key: VoiceDir19.EECAE, Value: Cryptic and devious, with emphasis on "interesting"

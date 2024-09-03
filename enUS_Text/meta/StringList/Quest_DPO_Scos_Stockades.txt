@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Unspeakable justice.
+Hash: B98DBD5C, Key: Callback15Header, Value: Defeat the {MONSTER} 
+Hash: 9F90DE2D, Key: Callback7Header, Value: Use the Rusty Metal Key to open the {GIZMO}
+Hash: AB22B0DB, Key: Callback32Header, Value: Deposit Animus into the {GIZMO}
+Hash: 6A9510E0, Key: Callback55Header, Value: Slay the Scorched Warden and collect the {ITEM}
+Hash: 7E533BFF, Key: Callback45Header, Value: Collect {ITEM} from Animus Carriers
+Hash: 1847B581, Key: Callback47Header, Value: Travel to the {LEVELAREA}

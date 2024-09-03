@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You should have told me."
+Hash: 8F104F47, Key: Line1.157838, Value: I know that now. And I am truly sorry. But you must understand, I only wanted to save the people I love.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Genuinely apologetic, but justifying himself.
+Hash: 6793F909, Key: Line3.157838, Value: And we still can. With a better cage, we can remove Varshan's corruption, curing him and all the Malignant after!
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Clinging to hope. Desperate. We can still win!
+Hash: 4017A2CB, Key: Line5.157838, Value: I’m going to Hawezar to find it. I hope you’ll meet me there.
+Hash: 904DCE98, Key: VoiceDir5.157838, Value: Resolute but still guilty.

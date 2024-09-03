@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 8EB39B3B, Key: Line1.103673, Value: These halls were beautiful once. There is devotion in these walls. How could such a holy place fall to such evil?

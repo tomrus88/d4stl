@@ -1,0 +1,4 @@
+Hash: 6E429CF3, Key: Line25.1BCB9E, Value: (panting) It’s perfect! The blood of the willing... to purge the vessel of Hatred.
+Hash: C53E4260, Key: VoiceDir25.1BCB9E, Value: Delirium. Elation. Revelation.
+Hash: 46C646B5, Key: Line27.1BCB9E, Value: (deep breath) We may begin. Return the other parts to the corpse.
+Hash: 9DC1EC22, Key: VoiceDir27.1BCB9E, Value: Religious. In command.

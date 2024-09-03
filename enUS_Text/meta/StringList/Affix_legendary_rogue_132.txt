@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Galvanized Slasher's 
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Damaging an enemy with a {c_important}Mobility{/c} Skill has up to a {c_random}[Affix_Value_1|%|]{/c} chance to fully restore your Energy. 
+
+Your Maximum Energy is increased by {c_random}[Affix_Value_2||]{/c}.

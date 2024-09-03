@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ravenous Necrolyte's Cache
+Hash: F5C7BC0A, Key: Flavor, Value: Sealed by necromancy. Its lock hungers for the essence of death.

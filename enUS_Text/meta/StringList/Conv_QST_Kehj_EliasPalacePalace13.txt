@@ -1,0 +1,3 @@
+Hash: 3D2CA9A1, Key: Line17.8DD12, Value: I sense the blood of Lilith in you, wanderer. You received her blessed communion. Open your heart to her, embrace your nature.
+Hash: AB32D334, Key: Line20.BAE4, Value: Never.
+Hash: 1A3C3961, Key: VoiceDir20.BAE4, Value: Resolute

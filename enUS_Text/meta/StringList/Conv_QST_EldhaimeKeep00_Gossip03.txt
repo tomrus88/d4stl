@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are you doing out here, my friend?"
+Hash: 5D23008C, Key: Line1.B79B1, Value: (speaking Druidic)
+Hash: CC2C66B9, Key: VoiceDir1.B79B1, Value: "Ah-mahr. Too-er Dool-rah. Fay-shlah. She-nah. Mee-len." 
+Hash: 832AA920, Key: Line5.BAE4.Dru, Value: Brother of branch and fang, you speak words to heal the land, but I see no wounds.
+Hash: 4B5CC307, Key: Line3.B79B1.Dru, Value: A demon’s touch leaves deep scars. You should know this—where have you come from?
+Hash: 71045F91, Key: Line15.BAE4.Dru, Value: I was born in the druid enclave across the sea.
+Hash: 09E01C9C, Key: Line17.B79B1.Dru, Value: Ah, I have heard of you and your kin. Welcome to the First Forest.

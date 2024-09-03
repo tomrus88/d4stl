@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Furthering Madness
+Hash: A646FFA4, Key: Description, Value: Madness by degrees brings insight, they say. The search is without and within.
+Hash: 083EE0CE, Key: Quote, Value: Go where insanity lies.
+Hash: 13A53A8B, Key: Series, Value: "Host of Chaos " Mount Armor

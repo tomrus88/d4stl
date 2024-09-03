@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where are you going?"
+Hash: 5A270F7C, Key: Line1.804B7, Value: Off to Braestaig to join the Knights Penitent contingent there. Finally.
+Hash: F41B88FE, Key: Line3.804B7, Value: My father has been finding any excuse to keep me around Eldhaime.
+Hash: 8E100280, Key: Line5.804B7, Value: He puts on a brave face, but I can tell he's troubled by what happened at the estate.

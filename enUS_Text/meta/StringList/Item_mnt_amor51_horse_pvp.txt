@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bloody Warlord's Barding
+Hash: A646FFA4, Key: Description, Value: This barding has seen many battles and will surely see many more.

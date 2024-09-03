@@ -1,0 +1,18 @@
+Hash: 003DFCC1, Key: name, Value: Frenzy
+Hash: 003892BF, Key: desc, Value: {if:SF_18}{c_label}Fury Cost: {/c}{c_resource}{Resource Cost}{/c}
+{/if}{c_label}Generate Fury:{/c_label} {c_resource}{SF_0}{/c_resource}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Unleash a rapid flurry of blows, dealing {c_number}{payload:TOOLTIP_DAMAGE}{/c} damage with each pair of hits. 
+
+If {c_important}Frenzy{/c} hits an enemy, its Attack Speed is increased by {c_number}[{SF_1}*100|%+|]{/c} for {c_number}{buffduration:ATTACK_SPEED_INCREASE}{/c} seconds, up to {c_number}[{SF_1} * {SF_3} * 100|%+|]{/c}.
+Hash: F2DE8628, Key: simple_desc, Value: Primary Skill: Unleash a rapid flurry of blows, increasing your attack speed with each hit.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet, 1.2} Damage {icon:arrow, 1.2} {c_number}{payload:TOOLTIP_DAMAGE}{/c}
+Hash: 1BC5E139, Key: Buff6_Name, Value: Non-Frenzy Attack Speed Bonus
+Hash: 04622D1C, Key: Buff6_Description, Value: Non-Frenzy Skills gain {c_number}[SF_17 * 100|%+|]{/c} Attack Speed
+Hash: 74D6BC35, Key: Mod2_Description, Value: While {c_important}Frenzy{/c} is granting {c_number}[{SF_1} * 3 * 100|%+|]{/c} bonus Attack Speed, it also generates {c_number}[SF_8]{/c} additional Fury.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Enhanced Frenzy
+Hash: C435C5B6, Key: Mod3_Description, Value: While {c_important}{u}Berserking{/u}{/c}, your other skills gain {c_number}[{SF_13}*100}|%+|]{/c} Attack Speed for each stack of {c_important}Frenzy{/c} you have.
+Hash: 99335313, Key: Mod3_Name, Value: Battle Frenzy
+Hash: 1394CF37, Key: Mod4_Description, Value: You gain {c_number}[{SF_15}*100|%|]{/c} Damage Reduction for each stack of {c_important}Frenzy{/c} you currently have.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Combat Frenzy

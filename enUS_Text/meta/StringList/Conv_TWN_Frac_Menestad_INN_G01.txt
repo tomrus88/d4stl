@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you get much business from the garrison?"
+Hash: 09E18B2C, Key: Line14.105308, Value: The garrison at Kor Dragan was once formidable. But it's been overrun by vampires, and so many of our best warriors have not returned. (sigh) It's a wicked place now.
+Hash: 60DD3099, Key: VoiceDir14.105308, Value: Lamenting what has been lost. 

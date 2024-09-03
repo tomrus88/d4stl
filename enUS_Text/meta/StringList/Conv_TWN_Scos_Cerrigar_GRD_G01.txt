@@ -1,0 +1,2 @@
+Hash: 257BEAF4, Key: Line10.F7385, Value: More water! Wet that wood over there! Don’t let the embers catch!
+Hash: 75B216C1, Key: VoiceDir10.F7385, Value: Urgent. Barking orders at villagers nearby. 

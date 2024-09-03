@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Treatise of the Infernal Elements
+Hash: F2CA04D8, Key: NoticeSignText, Value: An ancient tome, filigreed in onyx. The insert reads, "Property of the Yshari Sanctum. Removal from the Grand Library strictly forbidden." 

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about your time as the 'Bear.'"
+Hash: 5D201C8E, Key: Line1.B20BA, Value: It’s a past I hold no pride for. Stained with death - and not all deserving.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, frank; leaning somber
+Hash: F7149610, Key: Line3.B20BA, Value: My hands were not my own. They were tools of Stana, wielded against any who drew her ire. Sometimes… for amusement alone.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: cold, frank; leaning somber
+Hash: 91090F92, Key: Line5.B20BA, Value: I put the “Bear” to rest long ago…
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: cold; leaning somber

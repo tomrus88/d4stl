@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Ravenous Speed
+Hash: 7786FD97, Key: Buff1_Description, Value: Gaining Attack Speed equal to your Movement Speed Bonus.

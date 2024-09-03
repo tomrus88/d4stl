@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Crushed Beast Bones
+Hash: A646FFA4, Key: Description, Value: Found by killing beasts and animals, as well as werecreatures.
+Hash: F5C7BC0A, Key: Flavor, Value: Within the bones of wild creatures dwells a raw potency used by alchemists to enhance physical properties.

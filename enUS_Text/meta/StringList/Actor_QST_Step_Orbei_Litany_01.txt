@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Zakarum Statue 
+Hash: CC3C0A8F, Key: FlavorText, Value: A statue with a litany of Orbei Monastery.
+Hash: F2CA04D8, Key: NoticeSignText, Value: Through the Day, I have prepared to accept this burden of knowledge.

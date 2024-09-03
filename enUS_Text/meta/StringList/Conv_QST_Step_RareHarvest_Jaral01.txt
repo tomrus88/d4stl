@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Interested in this unusual flower I found?"
+Hash: 5D226C0C, Key: Line1.B67E1, Value: Ah, you've found a dust daisy! A trader was asking about them just yesterday. Here, let me give you something for it.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is going on?"
+Hash: F472825D, Key: Line9.1D9565, Value: Where the Hells have you been? Bloody Triune have set the Tides on us! Demons at our gates! TO ARMS!
+Hash: 44A8AE2A, Key: VoiceDir9.1D9565, Value: Angry. Intense. Urgent.

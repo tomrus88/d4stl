@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Curious Venom
+Hash: F5C7BC0A, Key: Flavor, Value: Something is strange about this venom, as compared to the venom of other Nangari. It has no color.

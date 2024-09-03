@@ -1,0 +1,8 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Sandstorm
+Hash: 2827F416, Key: Buff0_Description, Value: Taking periodic damage from stinging winds
+Hash: 101C1614, Key: Buff1_Name, Value: Sandstorm
+Hash: 7786FD97, Key: Buff1_Description, Value: Taking periodic damage from stinging winds
+Hash: 12713EB5, Key: Buff2_Name, Value: Strong Winds
+Hash: C6E60718, Key: Buff2_Description, Value: Taking High periodic damage from strong winds
+Hash: B09DADE9, Key: Buff15_Name, Value: Deadly Winds
+Hash: C43ED3CC, Key: Buff15_Description, Value: Taking lethal damage from sandstorm

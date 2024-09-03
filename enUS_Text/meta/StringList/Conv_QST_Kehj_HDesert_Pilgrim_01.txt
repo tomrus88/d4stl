@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Desiccation
+Hash: 5D72A43A, Key: Line1.EDC70, Value: Lo, my candle joins the s-sun, and...and I shall feel no pain...
+Hash: CC7C0A67, Key: VoiceDir1.EDC70, Value: Praying to self while dying. Weak, in pain, frightened.

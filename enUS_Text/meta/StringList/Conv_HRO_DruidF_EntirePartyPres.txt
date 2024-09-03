@@ -1,0 +1,3 @@
+Hash: C7861A13, Key: Line4.BAE4.Dru.F, Value: I must wait for my allies to arrive.
+Hash: 296CD4D5, Key: Line6.BAE4.Dru.F, Value: My allies must be here to do that.
+Hash: BC46ECF8, Key: Line9.BAE4.Dru.F, Value: I need my allies to do that.

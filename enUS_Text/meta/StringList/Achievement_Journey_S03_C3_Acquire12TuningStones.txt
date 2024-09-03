@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Plexus Array
+Hash: 3A4912CF, Key: DescShort, Value: Acquire Tuning Stones, available after completing or skipping the Campaign

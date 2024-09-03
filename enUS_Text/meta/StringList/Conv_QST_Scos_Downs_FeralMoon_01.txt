@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Are you alright?”
+Hash: 5D72A441, Key: Line1.EDC77, Value: I hear the wolves, always circling... clawing... gnawing at me to join them.
+Hash: CC7C0A6E, Key: VoiceDir1.EDC77, Value: Paranoid
+Hash: F7671DC3, Key: Line3.EDC77, Value: I'm still me. For now. But I need help to stay that way. A group of those Cathedral knights came through a while back, off to fight the evil in Sarat's Lair.
+Hash: 667083F0, Key: VoiceDir3.EDC77, Value: Paranoid
+Hash: 915B9745, Key: Line5.EDC77, Value: One of them had an amulet. The wolves were silent around it.
+Hash: 0064FD72, Key: VoiceDir5.EDC77, Value: Genuine
+Hash: 2B5010C7, Key: Line7.EDC77, Value: Knights never came back, but perhaps you could find that amulet for me?

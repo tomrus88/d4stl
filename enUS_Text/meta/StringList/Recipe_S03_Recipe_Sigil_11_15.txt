@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tier 11-15
+Hash: 9E3ACE5E, Key: Category, Value: Sacred Vault

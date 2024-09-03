@@ -1,0 +1,2 @@
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Careful! These things are priceless!
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Reacting to the Player destroying some books or other artifacts. He's not angry--he's more dismayed. The vault is full of priceless stuff.

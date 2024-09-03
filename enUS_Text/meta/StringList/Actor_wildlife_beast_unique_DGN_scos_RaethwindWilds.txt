@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gorgonic Tusked Charger
+Hash: CC38ADCB, Key: FlavorName, Value: Terror of the Wild

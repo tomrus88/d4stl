@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Stolen Artifice
+Hash: 0871A46B, Key: Toast, Value: A seemingly petty theft has put innocent lives at risk.
+Hash: 8DCA476E, Key: Phase9Description, Value: I have dealt with the thief, Darcel, and should now return the Runic Charm to Merryn in Braestaig. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Merryn
+Hash: B12EDDB8, Key: Phase21Description, Value: A thief named Darcel stole a Runic Charm needed to protect a sick mother and child. Without the charm, the family will surely perish. 
+
+I must find Darcel and return the charm to Merryn in Braestaig. 
+Hash: 58D5557C, Key: Callback24Header, Value: Take the {ITEM} from Darcel 
+Hash: F2C9CEFE, Key: Callback26Header, Value: Hidden

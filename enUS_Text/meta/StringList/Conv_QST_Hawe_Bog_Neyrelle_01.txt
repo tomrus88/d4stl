@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do we do now?"
+Hash: 410EE2F4, Key: Line4.6DE47, Value: The incense should provide us with a path to the Tree. What sort of path, I can't say.
+Hash: DB027B0F, Key: Line6.6D03F, Value: I can say that the time for questions, Neyrelle, has passed.

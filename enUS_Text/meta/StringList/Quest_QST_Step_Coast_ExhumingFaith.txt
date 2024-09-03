@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Exhuming Faith
+Hash: 0871A46B, Key: Toast, Value: Walk the Zakarum pilgrim path for great rewards.
+Hash: 30DC76D6, Key: Phase10Description, Value: I've found a dead monk's journal along with a note giving cryptic clues to a scroll of great power hidden on the coast of Kotun's Reach. I should search for the first location in the note.
+Hash: 398557AF, Key: Callback9Header, Value: Find the Zakarum Trail Marker in Khotun's Reach
+Hash: C3B68EF9, Key: Phase13Description, Value: I've found the great wreck listed in the note. Now I need to find the marker on an overlook.
+Hash: D29F0719, Key: Callback12Header, Value: Find the Zakarum Trail Marker on the overlook
+Hash: D6E30DFE, Key: Phase27Description, Value: Reading the scroll summoned a demon.  Perhaps this was the demon's way of tricking people into bringing it to Sanctuary.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Slay the demon
+Hash: E96ABF3F, Key: Phase19Description, Value: At the end of the trail sits a strange scroll. It must be the one the monk spoke of.
+Hash: 9211671E, Key: Callback35Header, Value: Read the Strange Scroll
+Hash: B23C2F03, Key: Callback49Header, Value: Read the first Trail Marker
+Hash: 83A65A9D, Key: Callback52Header, Value: Read the second Trail Marker
+Hash: 0132B4FD, Key: Phase53Description, Value: I've found the lone tree. The monk's scroll must be nearby.
+Hash: B78F4DA1, Key: Callback56Header, Value: Find the final location

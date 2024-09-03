@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Keshippa
+Hash: CC38ADCB, Key: FlavorName, Value: Ancient Sage

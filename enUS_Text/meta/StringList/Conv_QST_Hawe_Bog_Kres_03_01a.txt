@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did the salve jog your memory?"
+Hash: DFB384A4, Key: Line26.FBA9D, Value: I have one final ask of you. (grunt) There is a shallow grave. By a--a tunnel of gnarled trees.
+Hash: 2FE9B071, Key: VoiceDir26.FBA9D, Value: wheezing, coughing, pained groans 
+Hash: 79A7FE26, Key: Line28.FBA9D, Value: Dig it up. (grunt) Burn what you find. The funeral pyre in Backwater. Burn it, there.
+Hash: FE17ECFF, Key: Line30.FBA9D, Value: Do this not for me. For him...he deserves better. (sigh)
+Hash: 4E4E18CC, Key: VoiceDir30.FBA9D, Value: trembling, upset

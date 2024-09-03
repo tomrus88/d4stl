@@ -1,0 +1,6 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Villager's Journal
+Hash: 5D854950, Key: Line1.FEC7D, Value: These bandits will not leave well enough alone.
+Hash: CC8EAF7D, Key: VoiceDir1.FEC7D, Value: Subdued but troubled--she knows that an ill fate will befall the bandits who stole from her village.
+Hash: F779C2D2, Key: Line3.FEC7D, Value: We have lived peacefully in these swamps for as long as anyone can remember.
+Hash: 916E3C54, Key: Line5.FEC7D, Value: But now violence comes into its heart and it means to rob our god.
+Hash: 2B62B5D6, Key: Line7.FEC7D, Value: They don't believe us when we say the swamp always--ALWAYS--extracts a price.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's the plan?"
+Hash: 3FE06F6A, Key: Line5.124D40, Value: (sharp whistle)
+Hash: 1864192C, Key: Line7.124D40, Value: Seems we both brought our own protection. Gotta admire that about you, Lyndon.
+Hash: 689A44F9, Key: VoiceDir7.124D40, Value: Mocking.

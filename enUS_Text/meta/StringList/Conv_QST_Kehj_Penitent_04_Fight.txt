@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Edgar confronts Osric 
+Hash: 8F042A1C, Key: Line1.13C35F, Value: Hello again, Edgar. I hope the lessons in faith I arranged for you were instructive.
+Hash: DF3A55E9, Key: VoiceDir1.13C35F, Value: A sinister figure, not in his right mind
+Hash: 676F2FA2, Key: Line3.136591, Value: You're nothing but a common thug, Osric. You call me a heretic, but it is you who has forsaken your vows and defiled your holy office.
+Hash: 400B7DA0, Key: Line5.13C35F, Value: So you will not repent and beg my forgiveness? Very well. I'll send you to Hell and you can beg Mephisto for mercy.

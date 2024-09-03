@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Lilith
+Hash: 5D3B8DF4, Key: Line1.BD31C, Value: What did my father offer you?
+Hash: F7300776, Key: Line3.BD31C, Value: Answer me.
+Hash: 66396DA3, Key: VoiceDir3.BD31C, Value: The Player doesn't respond to her first line, so she says this one with simmering fury.

@@ -1,0 +1,2 @@
+Hash: 1970B898, Key: Buff5_Name, Value: Inquisitive
+Hash: B503239B, Key: Buff5_Description, Value: The resource cost and damage of your Skills is increased.

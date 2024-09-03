@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Imprisoned Spirit's
+Hash: 003892BF, Key: Desc, Value: When {c_important}Bone Spirit{/c} explodes inside a {c_important}Bone Prison{/c}, it explodes an additional time, dealing {c_random}[Affix_Value_1|1%|]{/c} of normal damage. 
+
+{c_important}Bone Spirit{/c} now prioritizes enemies inside a {c_important}Bone Prison{/c}. 
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Bone Spirit{/c} seeks enemies in {c_important}Bone Prison{/c}. When {c_important}Bone Spirit{/c} explodes inside {c_important}Bone Prison{/c}, it explodes an additional time.

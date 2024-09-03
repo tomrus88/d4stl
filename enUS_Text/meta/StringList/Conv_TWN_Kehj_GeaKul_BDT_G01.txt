@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you any news?"
+Hash: 8ED9AE7D, Key: Line1.125DD6, Value: Watch what you say, wanderer. And where you say it. Eyes and ears everywhere.
+Hash: 675D583F, Key: Line3.125DD6, Value: Nothing gets by the one at the top.

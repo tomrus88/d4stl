@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Capture the heart"
+Hash: 1DFB5F3A, Key: Line13.157838, Value: There! There’s the heart! Capture it!
+Hash: F67F08FC, Key: Line15.157838, Value: Capture his heart!
+Hash: CF02B2BE, Key: Line17.157838, Value: It’s Varshan’s heart! Take it!

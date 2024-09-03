@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hatred Never Dies
+Hash: 13A53A8B, Key: Series, Value: "Animus Revenant"

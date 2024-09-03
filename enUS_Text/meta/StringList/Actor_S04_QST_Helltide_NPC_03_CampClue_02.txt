@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Anvil's Report
+Hash: F2CA04D8, Key: NoticeSignText, Value: A report from Soudeh. She notes Telan's bravery on the field and his expertise with the sword, but swears he will never be Captain. "He treats his comrades as tools," she writes. "These are the traits of a common mercenary, not a Wolf."

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is Kor Valar?"
+Hash: 5A206A1A, Key: Line1.6F0BE, Value: One of our defenses against the Prime Evils. We fight Terror with faith, Hatred with compassion.
+Hash: 8E095D1E, Key: Line5.6F0BE, Value: We’ve built the mighty towers at Kor Valar to withstand Destruction.
+Hash: FD12C34B, Key: VoiceDir5.6F0BE, Value: reverent

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Lay your hatred to rest.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 398557AF, Key: Callback9Header, Value: Travel to the {LEVELAREA}
+Hash: 85A4CA58, Key: Callback11Header, Value: Slay all enemies in the Ravaged Barracks {KAM_REVEALED_COUNT}
+Hash: 71E69F39, Key: Callback21Header, Value: Slay The Beast

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Travelers Beware!
+Hash: F2CA04D8, Key: NoticeSignText, Value: PRIESTESS QIN
+
+Recently, a woman has been seen preaching to a small group of faithful in Hakan's Oasis to the northeast. However, while she wears the robes of the Zakarum faithful, no one seems to have heard of her before her sudden appearance.
+Hash: CC3C0A8F, Key: FlavorText, Value: Deadly threat spotted nearby!

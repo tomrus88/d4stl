@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Zir’s forces have been routed. The survivors are safe.” 
+Hash: 8F238278, Key: Line1.1697C7, Value: Yes, I saw it myself. (sigh) I once guessed your curse might be used to our advantage, but the way you tore through those Seekers...
+Hash: DF59AE45, Key: VoiceDir1.1697C7, Value: Still processing what they saw. Amazed/frightened by Player's power.
+Hash: 67A72C3A, Key: Line3.1697C7, Value: You're ready to face Zir, and I’ve discovered how to open his gate. I'll ride for the City of the Ancients at once. Meet me there.
+Hash: B7DD5807, Key: VoiceDir3.1697C7, Value: Refocusing. Terse. Bracing. Zir is pronounced (zeer).

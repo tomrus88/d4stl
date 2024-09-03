@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: An Acquired Taste
+Hash: 0871A46B, Key: Toast, Value: The villagers of Tirmair will starve without an alternative food source.
+Hash: 062F5C66, Key: Phase1Description, Value: I have recovered enough Thorn Beast meat to keep the people of Tirmair fed for some time. I should return them to Atli the hunter. 
+Hash: B8A227EA, Key: Callback4Header, Value: Return to Atli
+Hash: 3722B9C7, Key: Phase2Description, Value: The people of Tirmair are near starvation. The local hunter told me Thorn Beasts roaming the Shrouded Moors may be safe to eat but are difficult to trap. I should hunt down these beasts and gather their meat for Atli the hunter. 
+Hash: 5296A16C, Key: Callback6Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}

@@ -1,0 +1,8 @@
+Hash: BC246C1C, Key: Line12.6D03F, Value: We need to find a way forward.
+Hash: 0C5A97E9, Key: VoiceDir12.6D03F, Value: Concerned, unsettled. Groggy, under the effects of incense. Probably a slower read--not all there in the head.
+Hash: 2230D401, Key: Line10.6DE47, Value: There’s an opening beneath the serpent, just big enough for me. I think it wants me to go through.
+Hash: 7266FFCE, Key: VoiceDir10.6DE47, Value: Slightly dreamy feel, under the effects of mystic incense.
+Hash: 410E018D, Key: Line4.6D03F, Value: Don't be ridiculous.
+Hash: B01767BA, Key: VoiceDir4.6D03F, Value: Groggy, under the effects of incense. Probably a slower read--not all there in the head.
+Hash: 74F7D5F8, Key: Line8.6DE47, Value: We must follow the path.
+Hash: E4013C25, Key: VoiceDir8.6DE47, Value: Slightly dreamy feel, under the effects of mystic incense.

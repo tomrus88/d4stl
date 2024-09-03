@@ -1,0 +1,2 @@
+Hash: 293F44A6, Key: Line6.BAE4.Bar.M, Value: I'm not ready yet.
+Hash: 8B25FF68, Key: Line8.BAE4.Bar.M, Value: I must wait.

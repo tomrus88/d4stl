@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The foreman’s letter
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Foreman’s Letter
+Hash: 5D22697E, Key: Line1.B6807, Value: Mayor, the blasting is getting us more gold, for certain. Every time we think it’s done, “boom,” we blast and find a new vein.
+Hash: F716E300, Key: Line3.B6807, Value: But we keep hitting those pockets of poison, and the deeper we go, the worse they get. We lost two more men just this week. After this next clearing, we need to shut this down.
+-Foreman Aldir

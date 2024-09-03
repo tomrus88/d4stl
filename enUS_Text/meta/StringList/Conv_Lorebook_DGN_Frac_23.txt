@@ -1,0 +1,7 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Note
+Hash: 5D2379D9, Key: Line1.B8611, Value: Sister Daneka,
+A deeply corrupted heretic will be joining your other wards on the morrow. A group of Knights Penitent will deliver him directly to you. You must comply with their every order.
+Hash: F717F35B, Key: Line3.B8611, Value: Read the following carefully. Do not approach the prisoner. Do not speak with him. Do not even listen to him. This is of the utmost importance. Lesser wardens have been deceived by his trickery. I’m sure you’ve heard the rumors. Let’s avoid another incident. 
+
+Light be with you. 
+Sister Asja

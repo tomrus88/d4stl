@@ -1,0 +1,4 @@
+Hash: D53BFF05, Key: Phase0Description, Value: Priest Malone asked me to perform a ritual involving lighting a brazier near Margrave.
+Hash: 1EADAE68, Key: Callback2Header, Value: Light the brazier to start the ritual
+Hash: C9FCD1EA, Key: Phase5Description, Value: Priest Malone asked me to perform a ritual involving lighting a brazier near Margrave.
+Hash: CB4D78C0, Key: Callback46Header, Value: Cleanse the area

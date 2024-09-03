@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: High Velocity
+Hash: 003892BF, Key: Desc, Value: {c_important}Barrage{/c} arrows now pierce through {c_number}[Affix."Static Value 0"]{/c} enemy.
+{c_important}Barrage{/c} has {c_random}[Affix_Value_1|1%+|]{/c} increased Attack Speed.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Barrage{/c} arrows now pierces {c_number}[Affix."Static Value 0"]{/c} enemy and has {c_random}[Affix_Value_1|1%+|]{/c} increased Attack Speed.

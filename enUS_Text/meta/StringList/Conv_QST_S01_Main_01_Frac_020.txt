@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What happened? What did you see?”
+Hash: 59EA27BC, Key: Line1.3F381, Value: Please, help! I saw a person turn into a demon! Her skin burst... the corruption spilled out!
+Hash: C8F38DE9, Key: VoiceDir1.3F381, Value: To Player (5ft away.) Traumatized. Reliving what he just saw.
+Hash: DACD5781, Key: Line6.3F381, Value: Outside the city, on the road to Menestad! They're everywhere!
+Hash: 49D6BDAE, Key: VoiceDir6.3F381, Value: In shock. Focusing to answer. Terrified.

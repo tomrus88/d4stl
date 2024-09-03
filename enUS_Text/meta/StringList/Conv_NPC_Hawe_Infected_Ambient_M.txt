@@ -1,0 +1,20 @@
+Hash: B7C4B496, Key: Line37.1264FC, Value: Gods, it hurts!
+Hash: 0EC05A03, Key: VoiceDir37.1264FC, Value: Raspy, confused, pained. Barely lucid
+Hash: 90485E58, Key: Line39.1264FC, Value: (groan)
+Hash: E74403C5, Key: VoiceDir39.1264FC, Value: Raspy, confused, pained. Barely lucid. Drag the vocalization out for 2 seconds or so
+Hash: A2B62851, Key: Line41.1264FC, Value: Get away. G-go away!
+Hash: F9B1CDBE, Key: VoiceDir41.1264FC, Value: Raspy, confused, pained. Barely lucid
+Hash: 7B39D213, Key: Line43.1264FC, Value: Wh-what is this?
+Hash: D2357780, Key: VoiceDir43.1264FC, Value: Raspy, confused, pained. Barely lucid
+Hash: 53BD7BD5, Key: Line45.1264FC, Value: Where am-- (pained groan)
+Hash: AAB92142, Key: VoiceDir45.1264FC, Value: Raspy, confused, pained. Barely lucid
+Hash: 2C412597, Key: Line47.1264FC, Value: Ugh...
+Hash: 833CCB04, Key: VoiceDir47.1264FC, Value: Raspy, confused, pained. Barely lucid. Drag the vocalization out for 2 seconds or so
+Hash: 04C4CF59, Key: Line49.1264FC, Value: I-I'll be cured soon, surely!
+Hash: 5BC074C6, Key: VoiceDir49.1264FC, Value: Raspy, confused, pained. Barely lucid
+Hash: 17329952, Key: Line51.1264FC, Value: P-please...I want to go home...
+Hash: 6E2E3EBF, Key: VoiceDir51.1264FC, Value: Raspy, confused, pained. Barely lucid
+Hash: EFB64314, Key: Line53.1264FC, Value: Gods, the pain!
+Hash: 46B1E881, Key: VoiceDir53.1264FC, Value: Raspy, confused, pained. Barely lucid
+Hash: C839ECD6, Key: Line55.1264FC, Value: (crying)
+Hash: 1F359243, Key: VoiceDir55.1264FC, Value: Raspy, confused, pained. Barely lucid

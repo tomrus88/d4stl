@@ -1,0 +1,20 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who did this?"
+Hash: 916B4ED1, Key: Line5.FA726, Value: A woman. Vigo, it was one of the women you sent.
+Hash: 0074B4FE, Key: VoiceDir5.FA726, Value: frantic, disoriented. he is dying
+Hash: C55441D5, Key: Line9.FA726, Value: Only she wasn’t human, she was a...a demon, like the statue! Claimed she mothered Sanctuary. It was a damn bloodbath.
+Hash: 345DA802, Key: VoiceDir9.FA726, Value: calming down but still dying
+Hash: 5B6CE5A3, Key: Line21.6DE47, Value: The other woman, Vhenard. Where is she?
+Hash: 728D3FDE, Key: Line11.FA726, Value: She begged for her life. Lilith spared her, led her deeper in. Give up, girl. She’s lost.
+Hash: F8C38E41, Key: Line23.FA726, Value: Vigo, you must listen. Steel did nothing. Spells, prayers. All useless. Go to Kor Valar. Tell Prava. Raise the army, the Father. Evil itself walks Sanctuary.
+Hash: 92B807C3, Key: Line25.FA726, Value: (groan) Do this for me...
+Hash: 294A5229, Key: Line27.6DE47, Value: He is dead.
+Hash: 091F8A44, Key: Line13.6DE47, Value: I’m done for. Your mother told me this trinket would bring good fortune. To think I trusted her.
+Hash: 5955B611, Key: VoiceDir13.6DE47, Value: voice breaking
+Hash: 47AEBA84, Key: Line31.6DE47, Value: She bribed you with it, didn’t she? You weren’t supposed to let her through at all.
+Hash: E1A33406, Key: Line33.6DE47, Value: But it's not too late. She can still be saved!
+Hash: 7B97AD88, Key: Line35.6DE47, Value: Not by me. Not anymore. Prava will know what to do.
+Hash: 158C270A, Key: Line37.6DE47, Value: You’re leaving us? Abandoning her?
+Hash: AF80A08C, Key: Line39.6DE47, Value: There’s nothing left to abandon. (sigh) She's good as dead. I’m sorry, kid.
+Hash: 33F08F65, Key: Line41.6DE47, Value: H-he really just left us.
+Hash: 8426BB32, Key: VoiceDir41.6DE47, Value: disbelief
+Hash: CDE508E7, Key: Line43.6DE47, Value: It's up to us now.

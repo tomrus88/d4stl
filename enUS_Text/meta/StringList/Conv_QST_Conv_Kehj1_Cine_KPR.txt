@@ -1,0 +1,10 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5D3B8DF4, Key: Line1.BD31C, Value: My father’s essence is reforming...
+Hash: CC44F421, Key: VoiceDir1.BD31C, Value: anticipation
+Hash: F438D28C, Key: Line3.8DD12, Value: How do you know?
+Hash: 634238B9, Key: VoiceDir3.8DD12, Value: curious
+Hash: 912480F8, Key: Line5.BD31C, Value: I feel it... like a thousand old wounds ripped open again.
+Hash: 002DE725, Key: VoiceDir5.BD31C, Value: not in pain, but thoughtful
+Hash: 2B18FA7A, Key: Line7.BD31C, Value: He is still weak. Vulnerable. I must strike before he can resist.
+Hash: C2163F12, Key: Line9.8DD12, Value: Make his power yours. The other lords will--
+Hash: 311FA53F, Key: VoiceDir9.8DD12, Value: anticipation

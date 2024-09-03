@@ -1,0 +1,36 @@
+Hash: 003DFCC1, Key: Name, Value: The Gathering Legions
+Hash: 9F90DE2D, Key: Callback7Header, Value: Event Complete!
+Hash: BFB1D7F4, Key: Callback950Header, Value: The Servants of Hell call to their Overlord
+Hash: 300E3573, Key: Callback418Header, Value: Slay the Overlord
+Hash: 19071775, Key: Callback618Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: F82284F7, Key: Callback377Header, Value: Time left: {TIMELEFT}
+Hash: 7F129DF3, Key: Callback616Header, Value: Slay enemies to provoke the Servants of Hell
+Hash: 32186132, Key: Callback615Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: FC36DC75, Key: Callback771Header, Value: Time left: {TIMELEFT}
+Hash: 9B7E7495, Key: Callback780Header, Value: {c_white}Reward Tier{/c}: {DONE}
+Hash: E878B156, Key: Callback781Header, Value: {c_white}Tier Progress{/c}
+Hash: 3572EE17, Key: Callback782Header, Value: Enemies slain: {DONE}
+Hash: E7285030, Key: Callback811Header, Value: Time left: {TIMELEFT}
+Hash: D36A2511, Key: Callback821Header, Value: Slay enemies to provoke the Servants of Hell
+Hash: 866FE850, Key: Callback820Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: 544D54D6, Key: Callback826Header, Value: Time left: {TIMELEFT}
+Hash: 408F29B7, Key: Callback836Header, Value: Slay enemies to provoke the Servants of Hell
+Hash: F394ECF6, Key: Callback835Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: E529E075, Key: Callback852Header, Value: Find the Servant of Hell
+Hash: 9F4921DC, Key: Callback868Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: 4F00143A, Key: Callback938Header, Value: Destroy the structures that shield the Servant of Hell: {DONE_OVER_NEEDED}
+Hash: B3074CFB, Key: Callback858Header, Value: Slay the Servant of Hell
+Hash: 0554A85A, Key: Callback866Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: 9BFA50FB, Key: Callback939Header, Value: Destroy the structures that shield the Servant of Hell: {DONE_OVER_NEEDED}
+Hash: F6E99BD9, Key: Callback883Header, Value: Slay the Servant of Hell
+Hash: 5CF52257, Key: Callback881Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: 90DE155B, Key: Callback885Header, Value: Find the Servant of Hell
+Hash: C4C7085F, Key: Callback889Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: D3700313, Key: Callback940Header, Value: Destroy the structures that shield the Servant of Hell: {DONE_OVER_NEEDED}
+Hash: BC5D2911, Key: Callback902Header, Value: Slay the Servant of Hell
+Hash: 2268AF8F, Key: Callback900Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: 5651A293, Key: Callback904Header, Value: Find the Servant of Hell
+Hash: 8A3A9597, Key: Callback908Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: 7BCF8916, Key: Callback925Header, Value: Find the Overlord
+Hash: 15C40298, Key: Callback927Header, Value: {c_white}Horde Captains slain{/c}: {DONE_OVER_NEEDED}
+Hash: 545332D8, Key: Callback945Header, Value: Servants of Hell slain: {DONE_OVER_NEEDED}

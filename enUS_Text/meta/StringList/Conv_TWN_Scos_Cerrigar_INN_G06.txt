@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where did the cat come from?"
+Hash: 5D6B43D4, Key: Line1.F738E, Value: Little lady just wandered in covered in soot and made herself at home.
+Hash: CC74AA01, Key: VoiceDir1.F738E, Value: Shrugging. Pretending he doesn't like the cat.
+Hash: 727627E5, Key: Line11.F738E, Value: Seems to like glenbeer well enough.
+Hash: C2AC53B2, Key: VoiceDir11.F738E, Value: Shrugging. Pretending he doesn't like the cat.

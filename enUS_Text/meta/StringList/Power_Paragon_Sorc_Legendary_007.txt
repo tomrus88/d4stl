@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Static Surge
+Hash: 003892BF, Key: desc, Value: After spending {c_number}{SF_0}{/c} Mana, your next cast of {c_important}Chain Lightning{/c} or {c_important}Charged Bolts{/c} makes enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_1}{/c} seconds and restores {c_number}[{SF_2} * 100|%|]{/c} of your Mana.
+
+This Mana cost requirement is reduced by Mana Cost Reduction bonuses.
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Static Surge
+Hash: 2827F416, Key: Buff0_Description, Value: Spending Mana empowers {c_important}Chain Lightning{/c} and {c_important}Charged Bolts{/c}.
+Hash: 171B8FF7, Key: Buff4_Name, Value: Static Surge
+Hash: 65A41A1A, Key: Buff4_Description, Value: {c_important}Chain Lightning{/c} and {c_important}Charged Bolts{/c} empowered.

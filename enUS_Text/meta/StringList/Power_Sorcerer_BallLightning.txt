@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: name, Value: Ball Lightning
+Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost: {/c}{c_resource}{Resource Cost}{/c}
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}Discharge a ball of lightning that slowly moves forward, continually zapping enemies for {c_number}{payload:BALL_AOE}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Damage {icon:arrow,1.2} {c_number}{payload:BALL_AOE}{/c}
+Hash: C435C5B6, Key: Mod3_Description, Value: {c_important}Ball Lightning's{/c} attack rate is increased by your Attack Speed Bonus, up to {c_number}[({SF_3} - {SF_21})/{SF_21}*100|%|]{/c}.
+Hash: 99335313, Key: Mod3_Name, Value: Enhanced Ball Lightning
+Hash: 74D6BC35, Key: Mod2_Description, Value: After hitting Close enemies {c_number}{SF_14}{/c} times with {c_important}Ball Lightning{/c}, your next cast of it Stuns enemies hit for {c_number}{buffduration:UPGRADEA_STUN}{/c} |4second:seconds;.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Mage's Ball Lightning
+Hash: 62F3D8B8, Key: Mod5_Description, Value: If an enemy is hit at least {c_number}{SF_12}{/c} times by a cast of {c_important}Ball Lightning{/c}, a {c_important}{u}Crackling Energy{/u}{/c} is formed. Can only happen {c_number}{SF_20}{/c} times per cast.
+Hash: 9DDDA455, Key: Mod5_Name, Value: Wizard's Ball Lightning

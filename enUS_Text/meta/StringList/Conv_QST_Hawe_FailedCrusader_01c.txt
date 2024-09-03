@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened at Maugan's Folly?"
+Hash: 8ED7735D, Key: Line1.121C9F, Value: You're clearly not from around here. (sigh) Maugan's Folly is a Zakarum fort, lost to brigands and the swamp generations ago.
+Hash: DF0D9F2A, Key: VoiceDir1.121C9F, Value: Flat. Educational. Pushing feelings aside. The memory is fresh, but you don't show it.
+Hash: F6462D12, Key: Line15.121C9F, Value: My master, Johanna, gathered a group of crusaders to take it back. To begin our trek back into the swamp in search of Akarat. But...
+Hash: 4D41D27F, Key: VoiceDir15.121C9F, Value: Emotions showing at the end.
+Hash: CEC9D6D4, Key: Line17.121C9F, Value: It didn't go as they had hoped. Some returned, wounded. Some, like my master, did not return at all. Their armor and their legacy slowly rusting.
+Hash: 25C57C41, Key: VoiceDir17.121C9F, Value: Regaining composure.

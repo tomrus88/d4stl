@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Though not particularly hospitable, these stout warriors do help protect the common folk from the monsters that stalk these lands.
+Hash: 003DFCC1, Key: Name, Value: Boreal Striders
+Hash: 13A53A8B, Key: Series, Value: "Taiga's Brute"

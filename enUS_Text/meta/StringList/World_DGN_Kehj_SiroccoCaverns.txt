@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sirocco Caverns
+Hash: 003892BF, Key: Desc, Value: A foul infestation has claimed these caverns.

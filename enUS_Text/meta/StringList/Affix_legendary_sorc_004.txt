@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Binding Embers
+Hash: 003892BF, Key: Desc, Value: {c_important}Flame Shield{/c} grants you {c_important}{u}Unhindered{/u}{/c} for its duration. Enemies you move through while {c_important}Flame Shield{/c} is active are Immobilized for {c_random}[Affix_Value_1|1|]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Flame Shield{/c} grants you {c_important}{u}Unhindered{/u}{/c} for its duration and Immobilize them for {c_random}[Affix_Value_1|1|]{/c} seconds.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you ready to journey to Maugan's Folly?"
+Hash: 8ED7735D, Key: Line1.121C9F, Value: My friend, Zrinka, told me of a shortcut. A broken bridge, but close enough to cross. To the south east.
+Hash: DF0D9F2A, Key: VoiceDir1.121C9F, Value: Instructional. Giving directions.

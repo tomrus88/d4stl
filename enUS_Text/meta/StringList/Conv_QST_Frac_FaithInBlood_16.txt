@@ -1,0 +1,12 @@
+Hash: 5D12BA4E, Key: Line1.A9F43, Value: I knew it!
+Hash: CC1C207B, Key: VoiceDir1.A9F43, Value: accusatory, smug.
+Hash: C4E4A056, Key: Line9.A9F43, Value: I knew you were involved in something abhorrent!
+Hash: 33EE0683, Key: VoiceDir9.A9F43, Value: accusatory, smug.
+Hash: F64A1009, Key: Line15.128F75, Value: No! Stop him!
+Hash: 721D9E5F, Key: Line11.A9F43, Value: (gasps) Stop this instant! The Reverend Mother will learn of this heresy! I will see you all burn!
+Hash: C253CA2C, Key: VoiceDir11.A9F43, Value: accusatory, smug.
+Hash: 0C84B376, Key: Line13.FEF74, Value: Father, forgive me.
+Hash: 5CBADF43, Key: VoiceDir13.FEF74, Value: Said like "god forgive me for what im about to do" before you punch a priest in the stomach.
+Hash: 3FFB0AE5, Key: Line17.A9F43, Value: Ugh!
+Hash: 903136B2, Key: VoiceDir17.A9F43, Value: Getting punched hard in the stomach
+Hash: DA621FFC, Key: Line19.FEF74, Value: Hurry! Finish it!

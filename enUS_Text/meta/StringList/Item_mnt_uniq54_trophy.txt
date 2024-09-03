@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Avarice's Gilded Horn
+Hash: A646FFA4, Key: Description, Value: Broken from the head of the gold-cursed beast.

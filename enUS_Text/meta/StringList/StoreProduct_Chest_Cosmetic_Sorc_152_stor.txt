@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Robe of Moon and Stars
+Hash: 13A53A8B, Key: Series, Value: "Celestial Court"

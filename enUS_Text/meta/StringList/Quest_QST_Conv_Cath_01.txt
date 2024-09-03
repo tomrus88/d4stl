@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: A Master's Touch
+Hash: 0871A46B, Key: Toast, Value: Meet Donan at the Cathedral of Light
+Hash: D53BFF05, Key: Phase0Description, Value: Using the Sightless Eye, we learned of Lilith's intentions. Lorath says he has a plan that can stop her, but admits we will need help. He's given me a letter to deliver to Donan.
+Hash: 1EADAE68, Key: Callback2Header, Value: Speak with Donan the Elder
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Using the Sightless Eye, we learned of Lilith's intentions. Lorath says he has a plan that can stop her, but admits we will need help. He's given me a letter to deliver to Donan.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Meet Donan at the Cathedral of Light
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Deliver Lorath's letter to Donan at Kyovashad
+Hash: 9589ADF5, Key: Phase8OutsideSubzoneHeader, Value: Deliver Lorath's letter to Donan at Kyovashad
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet Donan at the Cathedral of Light
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Using the Sightless Eye, we learned of Lilith's intentions. Lorath says he has a plan that can stop her, but admits we will need help. He's given me a letter to deliver to Donan.

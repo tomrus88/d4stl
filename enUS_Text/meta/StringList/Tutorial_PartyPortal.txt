@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Teleport to Party Members
+Hash: 7BFE534B, Key: simple_instruction, Value: Go to a Capital city waypoint {icon:Marker_CapitalWaypointActive, 2.0} to access the teleport portals of your party members.

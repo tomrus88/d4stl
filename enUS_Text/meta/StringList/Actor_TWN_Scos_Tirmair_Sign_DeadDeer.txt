@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Freshly Killed Deer
+Hash: F2CA04D8, Key: NoticeSignText, Value: While its coat appears healthy, the insides of this deer writhe with the corruption of the Moors.

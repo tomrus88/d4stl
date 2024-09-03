@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Steel Grasp{/c} launches {c_number}2{/c} additional chains. Enemies hit by {c_important}Steel Grasp{/c} take {c_random}[Affix_Value_1|%x|]{/c} increased damage from you for {c_number}[Affix."Static Value 0"]{/c} seconds.

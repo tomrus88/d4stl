@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Notes on Looters’ Hand Drawn Map
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Notes on Looters’ Hand Drawn Map
+Hash: 5D72A46C, Key: Line1.EDC7B, Value: No treasure down this hallway.
+Hash: F7671DEE, Key: Line3.EDC7B, Value: Beginning to think coming to Alcarnus was a waste of time.

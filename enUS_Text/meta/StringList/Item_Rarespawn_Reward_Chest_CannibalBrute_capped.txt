@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Gur's Freezing Armor
+Hash: F5C7BC0A, Key: Flavor, Value: "Favored by Pitiless Gur, this heavy armor remains painfully cold to the touch, even in the hottest of climates."
+- Barrett's Book of Implements

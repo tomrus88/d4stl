@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Circle of Life
+Hash: 003892BF, Key: desc, Value: {c_important}Nature Magic{/c} Skills that consume Spirit, Heal you for {c_number}[{SF_1} * 100|%|]{/c} of your Maximum Life {c_number}([Max(1,PlayerHealthMax() * {SF_1})|0|]){/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Maximum Life Restored {icon:arrow,1.2} {c_number}[{SF_1}*100]%{/c}

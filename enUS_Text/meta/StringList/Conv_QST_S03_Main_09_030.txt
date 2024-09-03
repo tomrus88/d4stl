@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you all right?"
+Hash: F16D0D13, Key: Line9.18AEA4, Value: Mh? Oh, uh. No. No, I am not alright.
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: When we discovered the Loom was tainted, Zoltun said these words to me: “So ends a dream, and all dreams with it.” And now...
+Hash: 4065B98F, Key: Line5.18AEA4, Value: ... now I realize he was right. There is no undoing this. The Loom... is ruined. The demon has made it its own.
+Hash: 18E96351, Key: Line7.18AEA4, Value: You know what we must do. Kill the Loom. Without its power, the demon will wither and die.

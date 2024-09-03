@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Unstable Imbuements
+Hash: 003892BF, Key: Desc, Value: When casting an {c_important}Imbuement{/c} Skill you trigger an explosion around yourself, applying the {c_important}Imbuement{/c} effects and dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage of the same type.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Imbuement{/c} Skills trigger {c_important}Imbuement{/c} effects and deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} damage of the same type.

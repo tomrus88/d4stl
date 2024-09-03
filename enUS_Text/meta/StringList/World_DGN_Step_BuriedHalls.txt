@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Buried Halls
+Hash: 003892BF, Key: Desc, Value: The Triune fight to reclaim these ancient halls.

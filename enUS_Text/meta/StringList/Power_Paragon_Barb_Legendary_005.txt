@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Natural Leader
+Hash: 003892BF, Key: desc, Value: Increases the power of your {c_important}Shout{/c} Skills by {c_number}[{SF_0}*100|%|]{/c}.

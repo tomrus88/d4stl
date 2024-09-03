@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Untimely Death
+Hash: C6E60718, Key: Buff2_Description, Value: Your next skill that Critical Strikes deals increased damage.

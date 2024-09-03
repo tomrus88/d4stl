@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Song of the Red Sands
+Hash: 13A53A8B, Key: Series, Value: "Siren of the Red Sands"

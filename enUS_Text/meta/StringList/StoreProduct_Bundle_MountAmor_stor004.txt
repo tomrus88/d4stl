@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hell Rider
+Hash: A646FFA4, Key: Description, Value: Not all evil is born in Hell. Some evil is mortal and carries damnation across Sanctuary on un-cloven hooves.
+
+{icon:Store_VFX_Icon, 2.0}  VFX Included
+Hash: 083EE0CE, Key: Quote, Value: Bearing the weight of sin.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

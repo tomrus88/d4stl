@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bone Helm of the Beast
+Hash: F5C7BC0A, Key: Flavor, Value: The beast's bleached skull has accumulated an impressive collection of gouges and dents, both in life and afterwards.

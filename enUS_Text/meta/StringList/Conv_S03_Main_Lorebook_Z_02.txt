@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: [PH] Note 02
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Zoltun Kulle
+Hash: 8F596641, Key: Line1.197AF2, Value: Today, we begin the work, and when it is done, we will have changed the world. The Loom will be our masterpiece. I write this not out of arrogance, but surety of purpose.
+Hash: DF8F920E, Key: VoiceDir1.197AF2, Value: Proud
+Hash: 18E46387, Key: Line7.197AF2, Value: Matter is proportionally mutable to the energy expended; a candle may turn a book to ash, but it will never turn a mountain to sea. With the Loom, such limitations are meaningless. All may become all.
+Hash: F1680D49, Key: Line9.197AF2, Value: Rather fitting that today, of all days, the Horadrim should send a courier to beg for aid. While they play at fighting the Viz-Jaq'taar’s war, I create wonders.
+Hash: 419E3916, Key: VoiceDir9.197AF2, Value: Scoffing

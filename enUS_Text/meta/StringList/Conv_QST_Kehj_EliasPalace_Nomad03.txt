@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Will you guide me through the sandstorm to the north?"
+Hash: 5A431832, Key: Line1.8C8E3, Value: Are you mad? There’s a sorcerer living in that storm who will rip your flesh from your bones!
+Hash: C94C7E5F, Key: VoiceDir1.8C8E3, Value: Offended. Someone has just asked you to do something so stupid you can't believe it.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: [PH]Scroll of Fast Growth
+Hash: A646FFA4, Key: Description, Value: Grants a large amount of experience.

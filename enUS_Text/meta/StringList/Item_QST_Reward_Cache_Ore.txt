@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ore Cache
+Hash: A646FFA4, Key: Description, Value: Contains an assortment of Ore.
+Hash: F5C7BC0A, Key: Flavor, Value: Iron and silver are the two most commonly-used metals in Sanctuary; iron for durable hard-wear goods, and silver for embellishment, magical artifice, or general purity.

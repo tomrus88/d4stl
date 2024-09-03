@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Beast of the Steppes
+Hash: CC38ADCB, Key: FlavorName, Value: Aberrant Horror

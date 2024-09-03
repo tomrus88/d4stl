@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Hardened shades fester here.
+Hash: E9B1E11B, Key: Callback50Header, Value: Activate the {GIZMO}es: {LEFT}
+Hash: D0A0975E, Key: Callback53Header, Value: Open the {GIZMO}
+Hash: 5183C723, Key: Callback58Header, Value: Defeat the Haunted Soul
+Hash: C2358ADD, Key: Callback70Header, Value: Slay all enemies in the Haunted Cellblock {KAM_REVEALED_COUNT}
+Hash: A9244120, Key: Callback73Header, Value: Travel to the {LEVELAREA}

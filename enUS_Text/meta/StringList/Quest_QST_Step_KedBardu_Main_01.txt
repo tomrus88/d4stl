@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: The Spreading Darkness
+Hash: 0871A46B, Key: Toast, Value: Speak to Lorath in Ked Bardu
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet Lorath in Ked Bardu
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I should look for Lorath in Ked Bardu and see if he's picked up any leads on the Pale Man.
+Hash: BDB7A65B, Key: Phase60Description, Value: I should look for Lorath in Ked Bardu and see if he's picked up any leads on the Pale Man.
+Hash: F0362203, Key: Phase60OutsideSubzoneHeader, Value: Search for Lorath in Ked Bardu
+Hash: 9E7E03E4, Key: Callback59Header, Value: Search for Lorath in Ked Bardu
+Hash: E410A465, Key: Phase88Description, Value: Lorath learned something upsetting and spent the night getting drunk. I should see if I can get him to speak with me. 
+Hash: 5DF68B4D, Key: Phase88OutsideSubzoneHeader, Value: Speak with Lorath in Ked Bardu
+Hash: C94F0905, Key: Callback87Header, Value: Rouse Lorath from his slumber.
+Hash: DCC8203F, Key: Phase91Description, Value: Lorath has requested I speak to a local named Teckrin about messengers he sent to Orbei Monastery. 
+Hash: 9947FC67, Key: Phase91OutsideSubzoneHeader, Value: Speak with Teckrin in Ked Bardu
+Hash: 9AB9349F, Key: Callback90Header, Value: Speak with Teckrin
+Hash: 336FADE6, Key: Phase98Description, Value: I must return to Lorath with the news.
+Hash: D0A2D5EE, Key: Phase98OutsideSubzoneHeader, Value: Speak with Lorath in Ked Bardu
+Hash: B590DDE6, Key: Callback97Header, Value: Return to update Lorath
+Hash: 01D5844F, Key: Phase154Description, Value: It seems Lorath had a rough night in Ked Bardu. I should speak with the barbarians overseeing him to learn what happened.
+Hash: 1E4EF277, Key: Phase154OutsideSubzoneHeader, Value: Speak with the barbarians
+Hash: E9ABBC72, Key: Callback156Header, Value: Speak with Daruuk

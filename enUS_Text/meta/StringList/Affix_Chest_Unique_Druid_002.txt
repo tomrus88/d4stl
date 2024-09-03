@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Werewolf form is now your true form, and you gain {c_random}[Affix_Value_1]{/c} Ranks to all {c_important}Werewolf{/c} Skills.

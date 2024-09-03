@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kor Dragan Barracks
+Hash: 003892BF, Key: Desc, Value: The honored halls have been left for the dead to wander.

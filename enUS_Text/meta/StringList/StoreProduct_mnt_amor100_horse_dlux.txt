@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hellborne Carapace
+Hash: A646FFA4, Key: Description, Value: As she protects her Chosen, they protect the gifts she has given them.
+Hash: 13A53A8B, Key: Series, Value: "Mother's Guidance"

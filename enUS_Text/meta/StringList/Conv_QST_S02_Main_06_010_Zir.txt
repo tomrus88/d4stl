@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Vampire Lord Zir
+Hash: 8F3B878D, Key: Line1.16E226, Value: So, the thirst has brought you back to us... there is no denying it.
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Smiling, taunting.

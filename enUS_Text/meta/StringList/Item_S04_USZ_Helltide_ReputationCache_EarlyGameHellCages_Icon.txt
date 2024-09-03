@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Disgusting Box
+Hash: A646FFA4, Key: Description, Value: A suspicious bin containing a collection of Mindcages. Surprisingly, nobody is stopping you from taking it.

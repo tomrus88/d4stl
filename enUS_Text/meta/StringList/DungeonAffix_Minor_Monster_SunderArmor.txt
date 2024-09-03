@@ -1,0 +1,4 @@
+Hash: EEBCFB2F, Key: AffixName, Value: Armor Breakers
+Hash: BA17B427, Key: AffixDesc_Legendary, Value: Monster attacks from a distance reduce your Armor by 7% for 6 seconds, stacking up to 35%.
+Hash: 65099C16, Key: AffixDesc_Rare, Value: Monster attacks from a distance reduce your Armor by 6% for 6 seconds, stacking up to 30%.
+Hash: 05E2766D, Key: AffixDesc_Magic, Value: Monster attacks from a distance reduce your Armor by 5% for 6 seconds, stacking up to 25%.

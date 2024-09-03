@@ -1,0 +1,6 @@
+Hash: 5D7331F8, Key: Line1.EEBAD, Value: I can take the cold outside, so long as it's quiet.
+Hash: CC7C9825, Key: VoiceDir1.EEBAD, Value: Weary. Slightly shivering. He's had a long couple of days.
+Hash: 722BCAB2, Key: Line11.B2A23, Value: (loud crying)
+Hash: C261F67F, Key: VoiceDir11.B2A23, Value: Angry bawling. Loud.
+Hash: 0C728F8B, Key: Line13.EEBAD, Value: Never have children.
+Hash: 5CA8BB58, Key: VoiceDir13.EEBAD, Value: Weary. Slightly shivering. Serious.

@@ -1,0 +1,13 @@
+Hash: D53BFF05, Key: Phase0Description, Value: [PH] Find Taissa
+Hash: FAF02F4B, Key: Phase6Description, Value: [PH] Stop the Ritual
+Hash: 1F9943DA, Key: Callback13Header, Value: Destroy the Chains of Anguish
+Hash: 45172A5D, Key: Callback34Header, Value: Find Taissa
+Hash: 4408F5DB, Key: Phase24Description, Value: [PH] I should speak with Taissa to make sure that she's not badly injured.
+Hash: F2C9CEFE, Key: Callback26Header, Value: Speak with Taissa
+Hash: 573574E0, Key: Phase38Description, Value: [PH] Find Taissa
+Hash: 7E533BFF, Key: Callback45Header, Value: Slay the Shades of Grief
+Hash: 6541F242, Key: Callback48Header, Value: Slay the Shades of Grief
+Hash: 003DFCC1, Key: Name, Value: A Question of Self
+Hash: F0CB5F43, Key: Callback67Header, Value: Check on Taissa
+Hash: 6FE82F7E, Key: Callback62Header, Value: Slay the Shades of Grief
+Hash: BCE26C3F, Key: Callback63Header, Value: Destroy the Chains of Anguish

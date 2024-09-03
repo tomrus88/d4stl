@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Varshan's Heart
+Hash: F5C7BC0A, Key: Flavor, Value: The caged corruption of Varshan, former priest of Velkhova. From this heart, the malignancy spread to the creatures of Sanctuary. Now, like Varshan, they may all be laid to rest.

@@ -1,0 +1,19 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's going on here?"
+Hash: 6736ED00, Key: Line3.101BAB, Value: Well, hey (hic), stranger -
+Hash: B76D18CD, Key: VoiceDir3.101BAB, Value: Attempting to divert attention away from him, to the person who's just walked up to join the conversation. (The "(hic)" is a drunken hiccup.)
+Hash: 3FB935C1, Key: Line5.1000C2, Value: Hey, you look at me! I'm not done talking to you.
+Hash: 8FEF618E, Key: VoiceDir5.1000C2, Value: Trying to get the attention of a man she's in the middle of reprimanding.
+Hash: 183E4084, Key: Line7.101BAB, Value: I'm looking at you. You're... uh, as radiant as a ... Backwater sunset.
+Hash: 68746C51, Key: VoiceDir7.101BAB, Value: Sugary sweet, condescending. (Backwater - where they live - is a shithole; being compared to its sunset isn't much of a compliment.)
+Hash: 4519486E, Key: Line11.1000C2, Value: This is serious shit, Tomaj. We both know there are more and more Drowned sightings every day.
+Hash: 9C14EDDB, Key: VoiceDir11.1000C2, Value: Stern, exasperated, trying to get the man to whom she's speaking to talk her seriously, stop joking around.
+Hash: F621FCF3, Key: Line15.101BAB, Value: Look (hic) sweetheart, I'll do the work. Cross my heart.
+Hash: 4D1DA260, Key: VoiceDir15.101BAB, Value: Sugary sweet, condescending. (The "(hic)" is a drunken hiccup.)
+Hash: CEA445B4, Key: Line17.1000C2, Value: Damn right, you will. Or the next time I see you, I'm going straight to the boss.
+Hash: 259FEB21, Key: VoiceDir17.1000C2, Value: Exasperated, threatening. Trying to get the man to whom she's speaking to talk her seriously, stop joking around.
+Hash: F0C1EA46, Key: Line9.101BAB, Value: Hey! You... you're not from around here, are you? Listen - you help me out, I can help you survive in this place.
+Hash: 40F81613, Key: VoiceDir9.101BAB, Value: A bit sly, like "Heyyyy." He's in hot water and hoping this newcomer can help him get out of trouble.
+Hash: 56E042D5, Key: Line26.101BAB, Value: Help me find any new bodies that have washed ashore. Check 'em for anything we could use, then I'll burn them.
+Hash: ADDBE842, Key: VoiceDir26.101BAB, Value: Informative, with a light tone.
+Hash: 2F63EC97, Key: Line28.101BAB, Value: And grab any extra salvage we find along the way (hic), got it?
+Hash: 865F9204, Key: VoiceDir28.101BAB, Value: Informative, with a light tone. (The "(hic)" is a drunken hiccup.)

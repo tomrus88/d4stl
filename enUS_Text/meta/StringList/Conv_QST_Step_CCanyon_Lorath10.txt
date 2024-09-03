@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Cultist Canyon
+Hash: F413C4CC, Key: Line3.6D03F, Value: Let’s hope he can still be questioned.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Grim. Dubious.

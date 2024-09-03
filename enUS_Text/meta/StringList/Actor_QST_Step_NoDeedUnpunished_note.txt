@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cultist Missive
+Hash: CC3C0A8F, Key: FlavorText, Value: "To my fellow Triune..."
+Hash: F2CA04D8, Key: NoticeSignText, Value: Brethren, the bandits of Onyx Watchtower are nothing more than common thieves, but they hold a location of extreme value. We will bring to them the Word of Lilith giving them a purpose in life and thereby swelling our own ranks.

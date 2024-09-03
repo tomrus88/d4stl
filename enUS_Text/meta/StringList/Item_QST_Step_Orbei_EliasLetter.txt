@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Gospel of the Mother
+Hash: A646FFA4, Key: Description, Value: Birthrights, Verse 7
+Hash: F5C7BC0A, Key: Flavor, Value: A tome written by Elias, describing the teachings and wisdom of Lilith.

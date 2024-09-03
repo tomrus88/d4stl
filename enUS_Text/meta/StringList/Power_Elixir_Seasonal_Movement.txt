@@ -1,0 +1,4 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Elixir of Momentum
+Hash: 2827F416, Key: Buff0_Description, Value: Killing an enemy increases movement speed. Experience increased by 6%.
+Hash: 101C1614, Key: Buff1_Name, Value: Momentum
+Hash: 7786FD97, Key: Buff1_Description, Value: Movement Speed is increased

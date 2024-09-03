@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Bathed in Blood
+Hash: A646FFA4, Key: Description, Value: More animal than man, this fighter bathes in the blood of those who enter the Pit. Driven by pain, they leave arrows in their body, unwilling to part with the masochistic agony.
+Hash: 083EE0CE, Key: Quote, Value: Feel the warmth run down your skin.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

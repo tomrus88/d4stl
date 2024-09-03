@@ -1,0 +1,3 @@
+Hash: 8ED96EFF, Key: Line1.1264EF, Value: You, you’re new. Tell me, have you word of Caldeum? Are the gates open?
+Hash: F0E81607, Key: Line9.1264EF, Value: Our quest here...we failed. They’ve got to know. They’ve got to call us back, while we can still return.
+Hash: 411E41D4, Key: VoiceDir9.1264EF, Value: Hopeless

@@ -1,0 +1,2 @@
+Hash: 6C21A1BE, Key: EditTabNameLabel, Value: Tab Name
+Hash: 4FFC2E6B, Key: EditStashTabTooltip, Value: {icon:rmb,1.8} Edit Tab

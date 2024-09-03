@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Titanomachy
+Hash: 3A4912CF, Key: DescShort, Value: Defeat {icon:Marker_WorldEvent, 2.5} World Bosses

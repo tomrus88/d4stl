@@ -1,0 +1,2 @@
+Hash: 486BD940, Key: Callback82Header, Value: Defeat Genbar, the Shrine-Keeper
+Hash: E7B37160, Key: Callback91Header, Value: Defeat Genbar, the Shrine-Keeper

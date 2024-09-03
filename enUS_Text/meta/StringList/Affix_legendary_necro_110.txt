@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fastblood
+Hash: 003892BF, Key: Desc, Value: {c_important}{u}Blood Orbs{/u}{/c} reduce your {c_important}Ultimate{/c} Cooldown by {c_random}[Affix_Value_1|2|]{/c} seconds.

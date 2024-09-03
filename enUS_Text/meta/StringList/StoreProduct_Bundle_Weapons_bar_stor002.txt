@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Weapons of Fortune
+Hash: A646FFA4, Key: Description, Value: Since the fall of their sacred mountain, many barbarians turned mercenary to support their tribes and families. Some were quite successful, as evidenced by the jewels and finery of their weapons.
+Hash: 083EE0CE, Key: Quote, Value: Coffers filled with bloody coin.
+Hash: 13A53A8B, Key: Series, Value: "Hired Muscle" Weapons

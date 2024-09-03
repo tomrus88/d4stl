@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Mending Stone
+Hash: 003892BF, Key: Desc, Value: The duration of {c_important}Earthen Bulwark{/c} is increased by {c_number}[Affix_Value_2]{/c} seconds. In addition, killing an enemy replenishes {c_random}[Affix_Flat_Value_1]{/c} of your active {c_important}Earthen Bulwark's{/c} {c_important}{u}Barrier{/u}{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: Duration of {c_important}Earthen Bulwark{/c} is increased by {c_number}[Affix_Value_2]{/c} seconds. Killing an enemy with {c_important}Earth{/c} Skills replenishes {c_random}[Affix_Flat_Value_1]{/c} of your active {c_important}Earthen Bulwark's{/c} {c_important}{u}Barrier{/u}{/c}.

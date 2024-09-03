@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Are pilgrims still traveling here?”
+Hash: 5D82E86E, Key: Line1.FB744, Value: Yes. Even though Father Inarius is gone, his power lingers here. This will always be a blessed place.
+Hash: CC8C4E9B, Key: VoiceDir1.FB744, Value: Inarius: in-ahr-ee-uhs
+Hash: F77761F0, Key: Line3.FB744, Value: In fact, his sacrifice has only made the pilgrims more devout.

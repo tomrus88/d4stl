@@ -1,0 +1,4 @@
+Hash: 59F2EB1C, Key: Line1.541E6, Value: All right, stay your hand! (chuckle) Eh, the vermin have bled enough.
+Hash: C8FC5149, Key: VoiceDir1.541E6, Value: In combat, calling out to Player. Amused. Give the poor bastards a break...
+Hash: DAD61AE1, Key: Line6.541E6, Value: There is a small cave nearby, where your final test awaits.
+Hash: 49DF810E, Key: VoiceDir6.541E6, Value: Nodding toward the next goal, bidding Player to follow.

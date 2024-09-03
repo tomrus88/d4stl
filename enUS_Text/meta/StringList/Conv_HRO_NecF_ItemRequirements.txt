@@ -1,0 +1,2 @@
+Hash: BCF47483, Key: Line9.BAE4.Nec.F, Value: I cannot use this.
+Hash: CF8742CB, Key: Line10.BAE4.Nec.F, Value: Impossible.

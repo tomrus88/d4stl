@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is everyone ready?"
+Hash: 8E083E4E, Key: Line5.6D03F, Value: I am. Up to Taissa whether she’ll join us though.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Implying it's safer here for Taissa, if she stays
+Hash: 3D01C00E, Key: Line17.789BF, Value: Every part of me wants to walk through that storm and draw Elias’s blood.
+Hash: 8D37EBDB, Key: VoiceDir17.789BF, Value: cold, determined
+Hash: D6F63990, Key: Line19.789BF, Value: But... perhaps he is counting on my vengeance to lead me back to him. So he can finish what he started.
+Hash: 272C655D, Key: VoiceDir19.789BF, Value: introspective
+Hash: 5B662869, Key: Line21.789BF, Value: It is safer for everyone if I stay.
+Hash: AB9C5436, Key: VoiceDir21.789BF, Value: Making her decision, frustrated. She really wants to help, but she knows she'll put others (and herself) at risk.
+Hash: 8F54F740, Key: Line25.6D03F, Value: No shame in that. It’s the wise choice. We’ll bring you his head.
+Hash: DF8B230D, Key: VoiceDir25.6D03F, Value: Trying to assuage Taissa's concerns/guilt. Last line "We'll bring you his head" can have a dark edge.

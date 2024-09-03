@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of The Aftershock
+Hash: 003892BF, Key: Desc, Value: {c_important}Landslide's{/c} earth pillars each strike a second time and deal an additional {c_random}[Affix_Value_1|1%|]{/c} bonus damage per hit.

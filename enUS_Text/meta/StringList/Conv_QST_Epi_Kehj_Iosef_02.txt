@@ -1,0 +1,8 @@
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Iosef? What do you want?
+Hash: 5A206A1A, Key: Line1.6F0BE, Value: (sigh) Step aside. I'm here for the Horadrim.
+Hash: C929D047, Key: VoiceDir1.6F0BE, Value: aggressive, spitting out the words “Horadrim”
+Hash: 5B6C043C, Key: Line21.6D03F, Value: Can it wait? I’m off to bury a friend.
+Hash: ABA23009, Key: VoiceDir21.6D03F, Value: Placating, trying to give Iosef a way out of this situation
+Hash: F5619C8E, Key: Line23.6F0BE, Value: We'll dig his grave for you.
+Hash: C1F13152, Key: Line9.6D03F, Value: Oh, that’s kind, but who will dig yours?
+Hash: 30FA977F, Key: VoiceDir9.6D03F, Value: to Iosef, resigned to this confrontation--he knows he will have to fight

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you always lived here?"
+Hash: 8EB202A9, Key: Line1.10094D, Value: I caught my first fish just beyond that cape. I was eight.
+Hash: DEE82E76, Key: VoiceDir1.10094D, Value: happy

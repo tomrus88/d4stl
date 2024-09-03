@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Vhenard's Record
+Hash: CC3C0A8F, Key: FlavorText, Value: Chalk scribbling on stone slab
+Hash: F2CA04D8, Key: NoticeSignText, Value: How sweet this taste! Lilith asked me to aid in a ritual: sacrifice a priest from the escort. He had no fight. He just prayed as we made his blood useful. Forgive my hand, I'm still shaking. Power dances along my bones. I walk the path of our maker now.

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have collected the prayer amulets."
+Hash: 8EFA3DAE, Key: Line1.140002, Value: (deep sigh) I will have these amulets returned to Zarbinzet. If only they were the last to fall.
+Hash: DF30697B, Key: VoiceDir1.140002, Value: Tired but relieved. A weight has been lifted from his shoulders
+Hash: 677DE770, Key: Line3.140002, Value: Here is payment for your service. I know mercenaries don’t work for free.

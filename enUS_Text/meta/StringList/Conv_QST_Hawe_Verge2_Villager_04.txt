@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can you tell me more about Wejinhani?"
+Hash: 2964AEE9, Key: Line27.91FE5, Value: (scoff) I can't. See what's around you? That's all there is.
+Hash: 799ADAB6, Key: VoiceDir27.91FE5, Value: (snort)
+Hash: C359286B, Key: Line29.91FE5, Value: We're deep enough to have escaped the arms of Zakarum, small blessing though that may be.

@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Blood of the Mother
+Hash: 0871A46B, Key: Toast, Value: Search Nevesk for evidence of possession.
+Hash: D53BFF05, Key: Phase0Description, Value: Voszalko seems to think I'll find something important in Nevesk - something that proves I've been possessed. I should investigate.
+Hash: 059C64AB, Key: Callback5Header, Value: Search for evidence of possession
+Hash: 5CD6EA0D, Key: Phase8Description, Value: I found a stash of Lilith's blood. It thrums in time with my heartbeat. I should show Voszalko.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Return to Voszalko
+Hash: B12EDDB8, Key: Phase21Description, Value: An aging priest, Voszalko, claims that I've been tainted by Lilith. He's asked me to meet him in Nevesk. 
+Hash: A5CF923D, Key: Callback25Header, Value: Meet Voszalko in Nevesk
+Hash: 45172A5D, Key: Callback34Header, Value: Speak with Voszalko

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Beginning's End
+Hash: 13A53A8B, Key: Series, Value: "Crypt Hunter"
+Hash: A646FFA4, Key: Description, Value: Formerly the bedpost of a child's crib, this sharpened timber now serves a more deadly purpose.

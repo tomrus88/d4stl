@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Empowering Reaper
+Hash: 003892BF, Key: Desc, Value: Damaging enemies with {c_important}Sever{/c} has a {c_random}[Affix_Value_1|%|]{/c} chance to spawn a pool of {c_important}Blight{/c} under the target that deals {c_random}[((Affix_Value_1 - 10) * Affix."Static Value 0") + Affix."Static Value 1"|%x|]{/c} bonus damage. This effect can only happen once every {c_number}[Affix."Static Value 2"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Sever{/c} has a {c_random}[Affix_Value_1|%|]{/c} chance to spawn a pool of {c_important}Blight{/c} that deals {c_random}[((Affix_Value_1 - 10) * Affix."Static Value 0") + Affix."Static Value 1"|%x|]{/c} bonus damage.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scribbled Note
+Hash: F2CA04D8, Key: NoticeSignText, Value: "...leaking into the siphons again. Unbothered by the purge. Nothing should have survived..."

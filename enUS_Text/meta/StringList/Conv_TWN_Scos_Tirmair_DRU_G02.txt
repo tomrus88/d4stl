@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Finish Druid Prayer)
+Hash: 5D72A389, Key: Line1.EDC0F, Value: Ancestors, spirits, heed my calls.
+Corruption wreathes our forests, our fields, our trawls.
+Hash: F7671D0B, Key: Line3.EDC0F, Value: What ill did we cause to deserve this bane?
+What can we do to receive favor again?

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hanging Moss
+Hash: F2CA04D8, Key: NoticeSignText, Value: Hawezar's rapidly growing moss is often used as bedding in the absence of other options.

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Glacial
+Hash: 003892BF, Key: Desc, Value: When you cast {c_important}Blizzard{/c} it will periodically spawn exploding {c_important}Ice Spikes{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} damage. Your {c_important}Ice Spikes{/c} {c_important}{u}Chill{/u}{/c} enemies for {c_number}[Affix_Value_1|%|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Blizzard{/c} periodically spawn {c_important}Ice Spikes{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} damage. Your {c_important}Ice Spikes{/c} {c_important}{u}Chill{/u}{/c}.

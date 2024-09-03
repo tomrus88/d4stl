@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Strange Remedies
+Hash: 0871A46B, Key: Toast, Value: The Iron Wolves are deficient in an unsavory medicinal ingredient.
+Hash: FAF02F4B, Key: Phase6Description, Value: Asyfa of the Iron Wolves is in need of an oceanic plant that has been digested by the Drowned. It’s a foul task, but she claims this gutweed has medicinal properties. Drowned roam along the Jagged Coast and Blistering Strand. 
+Hash: 059C64AB, Key: Callback5Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I have collected gutweed from the Drowned. I should return to Asyfa in the Iron Wolf encampment. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Asyfa

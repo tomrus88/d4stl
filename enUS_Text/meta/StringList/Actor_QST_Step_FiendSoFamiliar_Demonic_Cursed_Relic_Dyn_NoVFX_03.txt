@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Curio of Kafan
+Hash: F2CA04D8, Key: NoticeSignText, Value: This vessel conceals its true nature. There is little to discern one from another just by looking - only the faint scent of Ovseer Kafan, full of their lies and deceit, would ever warn you that a curse was placed upon this curio.

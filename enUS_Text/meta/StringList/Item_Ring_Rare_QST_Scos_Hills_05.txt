@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sigil of Braestaig
+Hash: F5C7BC0A, Key: Flavor, Value: Airidah's gift to Yorin; a druidic wardstone set into a ring inscribed with runes that bear the promise to keep the wearer safe. A gift from the past to safeguard the future.

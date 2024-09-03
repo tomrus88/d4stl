@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Prayer Bell
+Hash: F2CA04D8, Key: NoticeSignText, Value: Those visiting in years past rung the bell to show their honor for the gods.

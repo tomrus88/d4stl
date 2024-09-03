@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "That looks bad..."
+Hash: 5D83A312, Key: Line1.FBC00, Value: Listen carefully...I haven't much time. One of our men, Lord Avitus, was felled in the ancient city beneath the mountain. We carried his body to the ossuary, but...
+Hash: CC8D093F, Key: VoiceDir1.FBC00, Value: dying, blood choked 
+Hash: F7781C94, Key: Line3.FBC00, Value: He arose...thirsting for blood. Only I escaped. (cough) Please...you must slay him.

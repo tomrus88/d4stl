@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Parcel
+Hash: A646FFA4, Key: Description, Value: Contains common crafting mats and a chance for items.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stacked Casks
+Hash: F2CA04D8, Key: NoticeSignText, Value: The heads of some of these casks are stained with fresh blood. They are filled to the brim and ready for transport.

@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is everyone all right?"
+Hash: 27FCB7D0, Key: Line7.6D03F, Value: You know, you’re not half bad at taking charge, Donan. I can see why you were the big man in Scosglen.
+Hash: 97061DFD, Key: VoiceDir7.6D03F, Value: Winded after fighting in Hell, casting spells
+Hash: C2053272, Key: Line9.7FA05, Value: Ha. Was that a compliment? Someone write this down. Memorialize the moment.
+Hash: 310E989F, Key: VoiceDir9.7FA05, Value: Winded after fighting in Hell, casting spells. Reacting in mock surprise to Lorath's comment.
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: (deep breath) It's not like I haven't given you one before. There was...that other time.
+Hash: 0932A9FD, Key: Line13.7FA05, Value: Oh, yes. I re--
+Hash: A327237F, Key: Line15.7FA05, Value: Ah! Oh, the ground is shifting.
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: (surprised, thrown off guard)
+Hash: 3D079BE1, Key: Line17.6D03F, Value: Prepare yourselves.
+Hash: 8D3DC7AE, Key: VoiceDir17.6D03F, Value: Dire, on guard

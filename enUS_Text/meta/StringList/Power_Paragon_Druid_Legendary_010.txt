@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Lust for Carnage
+Hash: 003892BF, Key: desc, Value: Critical Strikes with {c_important}Werewolf{/c} Skills restore {c_number}{SF_0}{/c} Spirit.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This land is soaked in blood. What is happening here?"
+Hash: 8ED04F6C, Key: Line1.10FAE8, Value: So, you feel it, too? Hatred... boiling just beneath the surface of this wretched place.
+Hash: DF067B39, Key: VoiceDir1.10FAE8, Value: Calm and collected. This priest offers a safety and sanctuary in a violent, cursed land
+Hash: 3FD7A2F0, Key: Line5.10FAE8, Value: I offer what shelter I can here, but we are never far from Mephisto's influence. His temptations.
+Hash: 6753F92E, Key: Line3.10FAE8, Value: Heed my warning. Hatred is a poison you drink to kill someone else. It will tear you apart, as surely as your enemies.
+Hash: 185B4CB2, Key: Line7.10FAE8, Value: Light protect you in these dark days.
+Hash: 6891787F, Key: VoiceDir7.10FAE8, Value: farewell

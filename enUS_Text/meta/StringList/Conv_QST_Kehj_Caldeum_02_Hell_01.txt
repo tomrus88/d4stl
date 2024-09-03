@@ -1,0 +1,14 @@
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: You’ve been hounding me about this and that nonstop. Can you drop it for once?
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: Irritated
+Hash: F427C5EC, Key: Line3.7FA05, Value: It's not about me hounding you, it’s--
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Defensive
+Hash: 8E091FB5, Key: Line5.6DE47, Value: Enough! You’re both so smart, usually.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Usually?
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: irked
+Hash: A31403C6, Key: Line15.6DE47, Value: Not today! Yes, the stone is gone. Instead of arguing, let’s do something about it. If Inarius has it, let’s take it back.
+Hash: 8F68F860, Key: Line25.7FA05, Value: Hm. It’s the only way to guarantee Lilith’s defeat.
+Hash: 3D087D48, Key: Line17.6DE47, Value: No! Not Lilith. You're all wrong about that.
+Hash: D6FCF6CA, Key: Line19.6DE47, Value: The stone should be saved for Mephisto, her maker. The Prime Evil. You know his powers of manipulation, his Hatred has already poisoned us. Even Lilith fears him. Why don’t you?
+Hash: 294970C2, Key: Line27.6D03F, Value: Are you done?
+Hash: 797F9C8F, Key: VoiceDir27.6D03F, Value: Irritated
+Hash: C33ECBAB, Key: Line29.6DE47, Value: (sigh) I am now. Think on what I’ve said. Alright?

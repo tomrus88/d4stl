@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Sacrilegious
+Hash: 003892BF, Key: Desc, Value: Walking near a Corpse automatically activates an equipped {c_important}Corpse{/c} Skill every second, dealing {c_random}[Affix_Value_1|%x|]{/c} reduced damage.

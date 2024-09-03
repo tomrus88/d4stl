@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Yellowed Scroll
+Hash: F2CA04D8, Key: NoticeSignText, Value: Old, dense text talks of multiple traits of the vampiric curse, but it's the section detailing the time it takes for the turn to take hold that's been circled with fresh ink.

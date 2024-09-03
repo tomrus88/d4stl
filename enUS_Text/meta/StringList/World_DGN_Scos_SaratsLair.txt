@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Sarat's Lair
+Hash: 003892BF, Key: Desc, Value: What once was a wildlife den has become a nest.

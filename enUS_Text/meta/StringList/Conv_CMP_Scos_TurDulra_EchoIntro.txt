@@ -1,0 +1,2 @@
+Hash: 27D09DF0, Key: Line7.53D3D, Value: Túr Dúlra will not fall to you, Astaroth!
+Hash: 96DA041D, Key: VoiceDir7.53D3D, Value: Defiant.

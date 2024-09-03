@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Una's Journal: Final Entry
+Hash: CC3C0A8F, Key: FlavorText, Value: Charred pages from a journal.
+Hash: F2CA04D8, Key: NoticeSignText, Value: Lorcan seemed tired this morning. Complained of odd dreams. Could he be hearing it too? Tonight will be my last attempt, I can feel it. When the totem calls, I will answer.

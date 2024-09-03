@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I need a holy blessing to continue chasing Lilith."
+Hash: 8F561610, Key: Line25.6F0BE, Value: The Reverend Mother will want to hear of this. But she’s away at Kor Valar. Seek your blessing there.
+Hash: 47AEF7ED, Key: Line31.6F0BE, Value: Everything is unfolding as Inarius foretold! Soon, he will be free to escape Sanctuary and return to the Heavens where he belongs.

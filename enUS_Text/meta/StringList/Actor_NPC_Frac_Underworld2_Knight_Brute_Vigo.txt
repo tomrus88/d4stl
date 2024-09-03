@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Knight Penitent
+Hash: CC38ADCB, Key: FlavorName, Value: Donning Father's Grace

@@ -1,0 +1,9 @@
+Hash: A41630BB, Key: Line56.B3966, Value: Fresh meat.
+Hash: F44C5C88, Key: VoiceDir56.B3966, Value: Various takes - Slow/Med/Fast
+Hash: 8B04E6FE, Key: Line59.B3966, Value: Fresh meat.
+Hash: 0F74D5D7, Key: Line61.B3966, Value: Fresh meat.
+Hash: A9694F59, Key: Line63.B3966, Value: Fresh meat.
+Hash: 435DC8DB, Key: Line65.B3966, Value: Fresh meat.
+Hash: DD52425D, Key: Line67.B3966, Value: Fresh meat.
+Hash: 7746BBDF, Key: Line69.B3966, Value: Fresh meat.
+Hash: FBB6AAB8, Key: Line71.B3966, Value: Fresh meat.

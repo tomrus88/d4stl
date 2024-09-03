@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "No letter, but I found these on your father's body."
+Hash: 5D71D84F, Key: Line1.ED393, Value: I was so angry for so long about... everything.
+Hash: CC7B3E7C, Key: VoiceDir1.ED393, Value: upset, feeling strong emotions
+Hash: A665AF64, Key: Line15.ED393, Value: I wish he hadn't given up. If my mother was dying, shouldn't I have gotten to keep my father?
+Hash: F69BDB31, Key: VoiceDir15.ED393, Value: crying, voice breaking
+Hash: 0C7135E2, Key: Line13.ED393, Value: These... are all I have left of either of them. Help me put them up... it's the only way I know how to say goodbye.
+Hash: 5CA761AF, Key: VoiceDir13.ED393, Value: gathering strength after crying, resolved

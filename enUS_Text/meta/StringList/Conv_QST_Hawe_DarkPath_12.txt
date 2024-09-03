@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What can you tell me about the two of them?"
+Hash: 8EE1AC5C, Key: Line1.11F5B6, Value: Symon should have been in a library, not with... him.
+Hash: DF17D829, Key: VoiceDir1.11F5B6, Value: Emphasis on 'him'. Pronounciation: Simon

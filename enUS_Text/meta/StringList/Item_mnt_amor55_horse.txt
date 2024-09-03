@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bone-Caged Barding
+Hash: A646FFA4, Key: Description, Value: The armor shifts and rattles as though disturbed by a heinous wind that does not exist.

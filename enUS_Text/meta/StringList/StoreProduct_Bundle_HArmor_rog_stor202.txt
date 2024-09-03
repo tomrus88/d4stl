@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Vitreous Abomination
+Hash: A646FFA4, Key: Description, Value: Through a carefully guarded process, rare crystals found only in Kehjistani mines are fused with demon bone to create armors of superior quality. The shards are living crystals that chip and crack during combat, only to later grow anew.
+Hash: 083EE0CE, Key: Quote, Value: An alchemical fusion of metal and mineral.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Equipment

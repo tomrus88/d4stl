@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Survivor’s journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Survivor’s Journal
+Hash: 5D22660D, Key: Line1.B675B, Value: Kalib took the last of the warriors out to face the flesh-eaters. The rest of us will try to shore up our defenses here. I am loath to spill cursed blood here amidst the bones of our ancestors.
+Hash: F716DF8F, Key: Line3.B675B, Value: But I shall...

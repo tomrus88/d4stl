@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Unconstrained
+Hash: 003892BF, Key: desc, Value: Increase {c_important}{u}Berserking's{/u}{/c} maximum duration by {c_number}{SF_1}{/c} seconds and increase its damage bonus to {c_number}[{SF_2}*100|%x|]{/c}.

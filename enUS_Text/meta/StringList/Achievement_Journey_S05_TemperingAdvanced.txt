@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ancient Craft
+Hash: 3A4912CF, Key: DescShort, Value: Temper Affixes onto Ancestral Gear at the {icon:Marker_Blacksmith, 2.5} Blacksmith

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What does Andariel say to you?"
+Hash: 6F245388, Key: Line11.789BF, Value: Terrible things. Mad things. She knows of Lilith’s return and what Elias is planning.
+Hash: BF5A7F55, Key: VoiceDir11.789BF, Value: To Andariel (the voice in her head), interrupting Lorath
+Hash: 0918CD0A, Key: Line13.789BF, Value: But Andariel does not care who wins, only that someone loses—and that their suffering is extreme.
+Hash: 594EF8D7, Key: VoiceDir13.789BF, Value: Trying to play off any concerns the others have. She's got this under control.

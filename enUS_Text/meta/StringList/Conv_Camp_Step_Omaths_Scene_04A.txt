@@ -1,0 +1,4 @@
+Hash: F40AC29B, Key: Line3.71D06, Value: Our walls are breached!
+Hash: 631428C8, Key: VoiceDir3.71D06, Value: mad, as if in battle
+Hash: C1E82F21, Key: Line9.71D06, Value: This is madness! We will not survive!
+Hash: 30F1954E, Key: VoiceDir9.71D06, Value: mad, as if in battle

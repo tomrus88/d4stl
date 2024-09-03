@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8F04237B, Key: Line1.13C0F7, Value: I don’t care if we’re running short on supplies. Every one of these recruits needs armor, weapons, and a full pack. No excuses.
+Hash: 6787CD3E, Key: Line3.13C0F8, Value: Of course, ma’am.

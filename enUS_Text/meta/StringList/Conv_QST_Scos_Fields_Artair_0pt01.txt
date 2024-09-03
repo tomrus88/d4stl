@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about yourself"
+Hash: 8EB347FA, Key: Line1.101CF8, Value: I grew up here in the Downs hearing stories of life before Astaroth came. I left to study their ways so I could bring those days back.
+Hash: 6736F1BC, Key: Line3.101CF8, Value: The Downs has been without our protection and guidance for too long. I will change that.
+Hash: B76D1D89, Key: VoiceDir3.101CF8, Value: determined

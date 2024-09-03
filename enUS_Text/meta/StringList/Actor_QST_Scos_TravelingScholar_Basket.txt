@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crumbling Basket
+Hash: F2CA04D8, Key: NoticeSignText, Value: A simple basket that will no longer hold anything.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Champion of the Lost
+Hash: 3A4912CF, Key: DescShort, Value: Clear {icon:Marker_Camp_NotCleared, 2.5} Strongholds

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolves' Heroic Spoils
+Hash: A646FFA4, Key: Description, Value: Contains specialty equipment polished with materials from recent strides against the Helltide.

@@ -1,0 +1,4 @@
+Hash: 8F3B878D, Key: Line1.16E226, Value: Enough!
+Hash: DF71B35A, Key: VoiceDir1.16E226, Value: Bellowing command. Furious.
+Hash: 67BF314F, Key: Line3.16E226, Value: Approach the throne.
+Hash: B7F55D1C, Key: VoiceDir3.16E226, Value: Calming somewhat. Seething. Commanding.

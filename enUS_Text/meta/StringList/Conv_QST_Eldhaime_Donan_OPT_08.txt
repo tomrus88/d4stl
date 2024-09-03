@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Airidah has fallen.”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Yes, Yorin told me. He was just here.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Solemn, troubled by the news
+Hash: 2810B8F0, Key: Line7.7FA05, Value: (sigh) Of all people, I never would have expected her to embrace Lilith.
+Hash: 65381056, Key: Line13.BAE4, Value: There’s more. Before she passed, Airidah spoke of a song that breaks the wards around Astaroth’s chamber. What did she mean? What chamber?
+Hash: A327237F, Key: Line15.7FA05, Value: Keep your voice down. Does Yorin know?
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: Conspiratorial, anxious
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: No.
+Hash: DD961907, Key: VoiceDir17.BAE4, Value: Solemn for the second sentence
+Hash: 5B80055C, Key: Line21.7FA05, Value: Good. Astaroth’s essence is nearby, but it is contained. Secure. Beyond Lilith’s reach. Speak of this to no one. The last thing we need now is to cause panic.
+Hash: ABB63129, Key: VoiceDir21.7FA05, Value: Relieved for the first sentence. A bit flustered, gathering himself and trying to be reassuring for the rest of the line.

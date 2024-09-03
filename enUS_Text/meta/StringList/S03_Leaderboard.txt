@@ -1,0 +1,2 @@
+Hash: 7786A830, Key: Victory, Value: Final Score {param1}
+Hash: 9C004D4D, Key: ShrineOfRefresh, Value: Your foes rise again.

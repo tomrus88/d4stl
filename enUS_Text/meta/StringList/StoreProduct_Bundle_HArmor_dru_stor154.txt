@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Tusked Lord
+Hash: A646FFA4, Key: Description, Value: Deep in the jungles of Nahantu, some claim to have met a lone druid. Strong beyond measure, part man and part tusked beast, he is said to walk with the spirits.
+Hash: 083EE0CE, Key: Quote, Value: His laughter shakes the trees.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

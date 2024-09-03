@@ -1,0 +1,31 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Lorath...what have you done?"
+Hash: F413C4CC, Key: Line3.6D03F, Value: Lilith has been two steps ahead of us for far too long. The Tree knew where to find her--I asked. Its answer was worth the price.
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Grim. Resolute.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Worth the price? You owe the Tree your head! The day you die, you'll be taken to hang here with the others!
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: Shock. Angry. Grief-stricken for his friend.
+Hash: C1F13152, Key: Line9.6D03F, Value: And what, did I need your permission? It’s done. Put it aside.
+Hash: 30FA977F, Key: VoiceDir9.6D03F, Value: Snapping back. Dismissive. Bigger things to worry about.
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: While we stand here in the mud, Lilith is on her way to absorb Mephisto’s power. She has found a gateway to Hell, and she approaches with the key.
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: Terse. Urgent. Foreboding.
+Hash: 295D71E2, Key: Line27.7FA05, Value: Where is the gate, brother?
+Hash: 79939DAF, Key: VoiceDir27.7FA05, Value: Heavy. Flat. Dread. 
+Hash: 47ADD91D, Key: Line31.6D03F, Value: Under Caldeum.
+Hash: 97E404EA, Key: VoiceDir31.6D03F, Value: Heavy. Flat.
+Hash: E1A33406, Key: Line33.6DE47, Value: Surely, there will be some resistance.
+Hash: 31D95FD3, Key: VoiceDir33.6DE47, Value: To Lorath. Surprised. Skeptical.
+Hash: 7B96CC21, Key: Line35.6D03F, Value: None. The fools welcomed her in.
+Hash: CBCCF7EE, Key: VoiceDir35.6D03F, Value: Heavy. Flat. Utter contempt for the fools.
+Hash: BA25FC61, Key: Line53.6D03F, Value: It is up to us to stop her and imprison her in the soulstone. This is all that matters.
+Hash: 0A5C282E, Key: VoiceDir53.6D03F, Value: Grim. Determined.
+Hash: 542E7703, Key: Line55.7FA05, Value: And if Lilith has already passed through the gate...?
+Hash: A464A2D0, Key: VoiceDir55.7FA05, Value: Deep concern. Dread.
+Hash: EE0EEF65, Key: Line57.6D03F, Value: We follow her into Hell. I will do everything in my power to get us there.
+Hash: 3E451B32, Key: VoiceDir57.6D03F, Value: Grim. Determined.
+Hash: 88044A4E, Key: Line59.6DE47, Value: The four of us, alone...this is lunacy.
+Hash: D83A761B, Key: VoiceDir59.6DE47, Value: Reeling. Disbelief.
+Hash: 0C7357C0, Key: Line61.6D03F, Value: Not lunacy, child. Duty.
+Hash: 5CA9838D, Key: VoiceDir61.6D03F, Value: To Neyrelle. Grim. Determined.
+Hash: A667D142, Key: Line63.6D03F, Value: We will meet in Tarsarak to prepare. Pray we are not too late.
+Hash: F69DFD0F, Key: VoiceDir63.6D03F, Value: To group. Terse. Grim. Determined.
+Hash: 40815884, Key: Line65.8DD12, Value: (laughs) (laughing in unison)
+Hash: 90B78451, Key: VoiceDir65.8DD12, Value: Elias starts laughing, mocking and sinister. Voices of the Tree soon laugh with him.

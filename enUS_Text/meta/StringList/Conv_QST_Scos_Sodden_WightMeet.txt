@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Is that...?"
+Hash: 5D0D7265, Key: Line1.A109C, Value: Mother...
+Hash: F776C8C8, Key: Line3.FA440, Value: (unintelligible whispers)
+Hash: 90F66569, Key: Line5.A109C, Value: Stop it! Stop it! I'm not--!
+Hash: FFFFCB96, Key: VoiceDir5.A109C, Value: Emphasis on second "stop it"
+Hash: 2B5FBBCC, Key: Line7.FA440, Value: (unintelligible whispers)
+Hash: 9A6921F9, Key: VoiceDir7.FA440, Value: Whisper get louder
+Hash: C4DF586D, Key: Line9.A109C, Value: Enough! I am not bitter. I am angry!
+Hash: 33E8BE9A, Key: VoiceDir9.A109C, Value: Emphasis on "enough"
+Hash: 72185676, Key: Line11.A109C, Value: And I do not have the soft heart you did.
+Hash: 0C81ACD9, Key: Line13.FA440, Value: (unintelligible whispers)
+Hash: 5CB7D8A6, Key: VoiceDir13.FA440, Value: Whispers get even louder
+Hash: A601497A, Key: Line15.A109C, Value: This is the end!

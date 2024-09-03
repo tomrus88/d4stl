@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How do you feel about repairing the soulstone now?"
+Hash: F427C5EC, Key: Line3.7FA05, Value: The Horadrim have studied the soulstone for generations. I have studied it for more than twenty years.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Trying to say that there is much about the stone he doesn't know. He's not confident in himself.
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: But there aren't enough books in Sanctuary to contain what we don't know about it. (sighs) It will take a miracle.
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: He's not confident in himself.
+Hash: 2810B8F0, Key: Line7.7FA05, Value: But that's what you expect from me, isn't it?

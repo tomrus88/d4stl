@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Work Notice
+Hash: F2CA04D8, Key: NoticeSignText, Value: Mercenary wanted for one-off job. Must not be afraid of goatmen. See Shahos by the docks. 

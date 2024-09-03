@@ -1,0 +1,21 @@
+Hash: 003DFCC1, Key: Name, Value: A Witness in the Dust
+Hash: F4A9EC5A, Key: Phase14Description, Value: It's time to revive the Ancient Vampire Skull. Erys will guide me through the ritual.
+Hash: 1F9943DA, Key: Callback13Header, Value: Place the Skull in the Basin
+Hash: E2223B19, Key: Phase22Description, Value: It's time to revive the Ancient Vampire Skull. Erys will guide me through the ritual.
+Hash: 71E69F39, Key: Callback21Header, Value: Release Blood Well's valve
+Hash: 008DE739, Key: Phase31Description, Value: It's time to revive the Ancient Vampire Skull. Erys will guide me through the ritual.
+Hash: 112E3759, Key: Callback30Header, Value: Speak with Erys
+Hash: 573574E0, Key: Phase38Description, Value: I've retrieved the remains of the Ancient Vampire and the materials necessary to revive it and finally learn more about Lord Zir. I should get back to Erys.
+Hash: 976485BC, Key: Callback42Header, Value: Return to Erys in Ked Bardu
+Hash: 13BA663E, Key: Phase45Description, Value: The Ancient Skull has been awakened, and he's eager to help. Intentional or no, he's opened a Blood Portal that will hopefully lead us to Lord Zir.
+Hash: 3158FF3E, Key: Callback44Header, Value: Travel through the Blood Portal
+Hash: A6947E61, Key: Phase48Description, Value: Lord Zir, the coward, has sealed himself within the Court of Night and out of my reach. All we can do is return through the Blood Portal and find a way to pass beyond the barrier.
+Hash: 1847B581, Key: Callback47Header, Value: Slay the vampire
+Hash: 0132B4FD, Key: Phase53Description, Value: Lord Zir, the coward, has sealed himself within the Court of Night and out of my reach. All we can do is return through the Blood Portal and find a way to pass beyond the barrier.
+Hash: 83A65A9D, Key: Callback52Header, Value: Return through the Blood Portal
+Hash: 940CCD20, Key: Phase56Description, Value: The Skull told me to enter the City of Ancients; I need to be as strong as Lord Zir. If I can kill his strongest underlings, I'll be a step closer to being ready for the ritual.
+Hash: 6A9510E0, Key: Callback55Header, Value: Speak with Erys
+Hash: 145F3402, Key: Phase67Description, Value: The Skull told me to enter the City of Ancients; I need to be as strong as Lord Zir. If I can kill his strongest underlings, I'll be a step closer to being ready for the ritual.
+Hash: A3D12282, Key: Callback66Header, Value: Examine Erys' Tome
+Hash: 6EFD6A9E, Key: Phase72Description, Value: The Ancient Skull has been awakened, and he's eager to help. Intentional or no, he's opened a Blood Portal that will hopefully lead us to Lord Zir.
+Hash: 0F2FC79E, Key: Callback71Header, Value: Investigate the Veiled Gate

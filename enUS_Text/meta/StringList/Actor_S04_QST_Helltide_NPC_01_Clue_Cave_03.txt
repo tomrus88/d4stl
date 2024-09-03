@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ritual Blade
+Hash: F2CA04D8, Key: NoticeSignText, Value: A bloodied weapon, recently used.

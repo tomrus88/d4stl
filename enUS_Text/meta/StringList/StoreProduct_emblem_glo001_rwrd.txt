@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Captain of the Wolves
+Hash: 13A53A8B, Key: Series, Value: "Season of Loot Reborn"

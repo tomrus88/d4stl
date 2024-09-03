@@ -1,0 +1,8 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Orbei Scholar
+Hash: 8EB30E88, Key: Line1.10263E, Value: Lock the doors!
+Hash: DEE93A55, Key: VoiceDir1.10263E, Value: Urgent. Commanding.
+Hash: F409EA8F, Key: Line3.71176, Value: What about the others? The Abbot?
+Hash: 631350BC, Key: VoiceDir3.71176, Value: Hesitant. Scared.
+Hash: 3FBA620C, Key: Line5.10263E, Value: Do as I say!
+Hash: 8FF08DD9, Key: VoiceDir5.10263E, Value: Shouted. Commanding. 
+Hash: 183E0BCE, Key: Line7.10263E, Value: (shuts heavy doors)

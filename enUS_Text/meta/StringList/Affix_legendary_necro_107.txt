@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Decay
+Hash: 003892BF, Key: Desc, Value: Each time the {c_important}Shadowblight{/c} Key Passive deals damage to enemies, it increases the next {c_important}Shadowblight's{/c} damage within {c_number}[Affix."Static Value 0"]{/c} seconds by {c_random}[Affix_Value_1|%x|]{/c}, stacking up to {c_number}[Affix."Static Value 1"]{/c} times.
+Hash: 82B7D312, Key: CodexDesc, Value: Each time the {c_important}Shadowblight{/c} Key Passive deals damage, it increases the next {c_important}Shadowblight's{/c} damage by {c_random}[Affix_Value_1|%x|]{/c}.

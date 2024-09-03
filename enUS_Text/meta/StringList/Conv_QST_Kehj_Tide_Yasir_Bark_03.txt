@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Found sword
+Hash: 5D58B424, Key: Line1.E6891, Value: Haha, here we are. This will do nicely.

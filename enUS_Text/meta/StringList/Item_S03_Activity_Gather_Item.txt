@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Shattered Stone
+Hash: A646FFA4, Key: Description, Value: Used to craft new Governing and Tuning Stones.
+Hash: F5C7BC0A, Key: Flavor, Value: Slate sharp enough to cut your finger.

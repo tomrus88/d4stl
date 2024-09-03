@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shadowed Woodwraith Statue
+Hash: F2CA04D8, Key: NoticeSignText, Value: A wooden statue made of Mochrann's shed bark. It appears corrupted with the same energy that killed Mochrann.

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: One-Handed Sword Expertise
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}{SF_0}%{/c} chance to gain {c_number}{SF_1}{/c} Fury when hitting a Crowd Controlled enemy. Double this chance when using two Swords.{if:SF_8}
+
+Killing a Crowd Controlled enemy grants {c_number}[{SF_6} * 100|%+|]{/c} increased Attack Speed for {c_number}{SF_7}{/c} seconds. Double this amount when using two Swords.{/if}
+Hash: F2DE8628, Key: simple_desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}[{SF_0} * 2|%|]{/c} chance to gain {c_number}{SF_1}{/c} Fury when hitting a Crowd Controlled enemy.
+Hash: F2D5722F, Key: rankup_desc, Value: Chance to activate Lucky Hit increased to {c_number}{SF_2}%{/c}.

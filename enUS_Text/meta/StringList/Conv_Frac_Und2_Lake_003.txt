@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm sorry."
+Hash: B2324D17, Key: Line23.BAE4, Value: Neyrelle...
+Hash: D6FCF6CA, Key: Line19.6DE47, Value: The way is open. We have to go.
+Hash: 27332297, Key: VoiceDir19.6DE47, Value: pushing down her grief
+Hash: 3D087D48, Key: Line17.6DE47, Value: But...do you think Lilith is even still here? It’s been so long, I’m afraid she’s won this one.
+Hash: 8F55D8A7, Key: Line25.6DE47, Value: Besides, I have to...take care of my mother.
+Hash: DF8C0474, Key: VoiceDir25.6DE47, Value: (voice breaking) 
+Hash: 294A5229, Key: Line27.6DE47, Value: But it’s not over yet. Not for you. Lilith was after Rathma. Find him. Learn why. I’ll be back at the vault, alright?
+Hash: 79807DF6, Key: VoiceDir27.6DE47, Value: last sentence quietly, after a beat

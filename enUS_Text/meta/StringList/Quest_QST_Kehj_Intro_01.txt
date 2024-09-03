@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Evil Stirs in Kehjistan
+Hash: 0871A46B, Key: Toast, Value: Rendezvous with Horadrim in Kehjistan
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Meet with Horadrim in Tarsarak
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: We've managed to defeat Elias and learn more about Lilith's plan for Sanctuary. Now we must return to Kehjistan and find a way to stop her.
+Hash: 8DCA476E, Key: Phase9Description, Value: It appears that Knights Penitent are on the move in Kehjistan. I'm not sure if it's a good sign or not. I should speak with the Horadrim to discuss our next steps.
+Hash: E696A876, Key: Phase9OutsideSubzoneHeader, Value: Speak with Neyrelle in Tarsarak
+Hash: EC8B1AEE, Key: Callback8Header, Value: Speak with Neyrelle
+Hash: E2C708DD, Key: Phase44Description, Value: Our goal lies in Kehjistan. I should meet with Donan, Lorath and Neyrelle in the town of Tarsarak so we can discuss our next steps.
+Hash: 4F1176C5, Key: Phase44OutsideSubzoneHeader, Value: Meet with Horadrim in Parched Wanderer Inn in Tarsarak
+Hash: E45EC27D, Key: Callback43Header, Value: Meet with Horadrim in Parched Wanderer Inn in Tarsarak

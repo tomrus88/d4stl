@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Your Iron Wolves accepted a demon's bargain in exchange for lost glory. They betrayed the caravan and were betrayed in turn."
+Hash: 923D2945, Key: Line1.1B3CA4, Value: What? No, that's... (sighs) That's the truth, isn't it? I should have expected this.
+Hash: E2735512, Key: VoiceDir1.1B3CA4, Value: shocked, then overcome with dread revelation
+Hash: 6AC0D307, Key: Line3.1B3CA4, Value: The Iron Wolves are more than mere mercenaries. We have been the guardians of Caldeum for an age, trusted servants of every Emperor since Hakan I. But no more. We failed to save our city. The Wolves are heroes no longer.
+Hash: BAF6FED4, Key: VoiceDir3.1B3CA4, Value: spoken from the heart. she feels the loss keenly
+Hash: 43447CC9, Key: Line5.1B3CA4, Value: Shon and Ysad wanted our name to mean something again, and a demon took advantage. But it goes no further. I will not allow despair to fester in my camp.
+Hash: 937AA896, Key: VoiceDir5.1B3CA4, Value: resolute, duty-bound, but aching inside. 

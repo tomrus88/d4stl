@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Abyssal Bastion
+Hash: A646FFA4, Key: Description, Value: Rewards from appearing in the first 20 places in any of the Trial leaderboards.

@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Nature grown by hatred.
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat {MONSTER}
+Hash: E9B1E11B, Key: Callback50Header, Value: Collect {ITEM} from Animus Carriers
+Hash: D0A0975E, Key: Callback53Header, Value: Deposit Animus into the {GIZMO}
+Hash: B91A3130, Key: Phase119Description, Value: Travel to {LEVELAREA}
+Hash: A4030E0A, Key: Callback121Header, Value: Travel to the {LEVELAREA}
+Hash: 8AF1C44D, Key: Callback124Header, Value: Activate the {GIZMO}: {LEFT}
+Hash: 08793AB1, Key: Phase129Description, Value: Delve deeper into the cave
+Hash: 9044E2EB, Key: Callback131Header, Value: Travel to the {LEVELAREA}

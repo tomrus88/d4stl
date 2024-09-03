@@ -1,0 +1,115 @@
+Hash: A08CFC05, Key: ParagonPoints, Value: Available Points
+Hash: 9914F5D8, Key: SearchTitle, Value: Keyword Search
+Hash: 3B6B1A92, Key: Results, Value: ({s1})
+Hash: 80BC9E62, Key: SearchInfo, Value: Type in any keyword to find all associated nodes
+Hash: 1A23A73B, Key: ControllerPrompt_Search, Value: {icon:button1, 2} Search
+Hash: 5D91EC80, Key: GlyphsHeader, Value: Glyphs
+Hash: BA1D02F6, Key: GlyphStack_Value, Value: x {s1}
+Hash: 80B7154F, Key: Search_KBM, Value: Search
+Hash: E698D5F5, Key: Glyph_NodeUnlock, Value: Unlock node to access glyphs
+Hash: 16F322BB, Key: ControllerPrompt_Close, Value: Close
+Hash: 6D4C72D6, Key: ControllerPrompt_Back, Value: Back
+Hash: 24F8DC35, Key: ZoomInOut_Prompt, Value: Zoom In / Out
+Hash: A73C98AD, Key: GlyphRadius_Prompt, Value: {c_label}Glyph Radius:{/c} {s1}
+Hash: 7A2D3A90, Key: ControllerPrompt_UnlockSkill, Value: {icon:button1, 2} Unlock Skill
+Hash: 7A1721C2, Key: NoParagonPoints, Value: No Paragon Points
+Hash: FF39ED04, Key: ControllerPrompt_SwapGlyph, Value: {icon:button4, 2} Swap Glyph
+Hash: 1769BC6B, Key: ControllerPrompt_SlotGlyph, Value: {icon:button1, 2} Slot Glyph
+Hash: 0BE6DFA8, Key: ControllerPrompt_ShowHideRadius, Value: {icon:Analog_R3, 2} Glyph Radius: {s1}
+Hash: 44449A91, Key: NodeTypeNormal, Value: Normal Node
+Hash: E1BECA92, Key: NodeTypeRare, Value: {c_rare}Rare Node
+Hash: DE795023, Key: NodeTypeLegendary, Value: {c_legendary}Legendary Node
+Hash: DB3CBCC0, Key: Node_Purchase, Value: Unlock
+Hash: F7A32597, Key: Node_Locked_For_Purchase, Value: {c_red}Not yet unlocked{/c}
+Hash: A3C73484, Key: Node_Insufficient_Points_To_Purchase, Value: {c_red}Not Enough Points{/c}
+Hash: 17CC80FC, Key: GlyphLevel, Value: Level {s1}
+Hash: 2E2C5FBF, Key: GlyphUsageMax, Value: {c_red}Usage maxed out. Locate glyphs to use{/c}
+Hash: B90C652B, Key: AffectedNodes, Value: Affected Nodes: {s1}
+Hash: FEEC0B21, Key: GlyphEquipped, Value: -  Equipped  -
+Hash: C3B58FFE, Key: GlyphNotSelected, Value: No glyph selected
+Hash: 225B5FCD, Key: GlyphSocket, Value: Glyph Socket
+Hash: 17546648, Key: GlyphEquip, Value: Equip
+Hash: 058E68AB, Key: GlyphUnequip, Value: Unequip
+Hash: 12071ABC, Key: GlyphLocate, Value: Locate
+Hash: A18C27FB, Key: GlyphLocateNext, Value: Locate Next
+Hash: F04C1599, Key: GlyphLocatePrevious, Value: Location Previous
+Hash: 3AFB2264, Key: GlyphDefaultView, Value: View Default
+Hash: E55ACCF5, Key: Node_Socket_Modify, Value: Modify
+Hash: F647E2B4, Key: Node_Socket_Unequip, Value: Unequip
+Hash: D16DBDFF, Key: GlyphRarity_Magic, Value: {c_magic}Magic Glyph
+Hash: 1DA13968, Key: GlyphRarity_Rare, Value: {c_rare}Rare Glyph
+Hash: 8E13DB00, Key: GlyphSizeName, Value: {c_label}Radius Size:{/c} {c_yellow}{s1}{/c}
+Hash: 9D574A0A, Key: GlyphRewardName, Value: {c_label}Bonus:{/c}
+Hash: B45C4C57, Key: LegendGlyphFocusController, Value: Switch to Board
+Hash: 6CF3909B, Key: LegendBoardFocusController, Value: Switch to Glyphs
+Hash: 8C02F150, Key: GlyphLegendBackToDefaultController, Value: {icon:r_stick, 2.0} Back to Default
+Hash: 06DF47D3, Key: GlyphLegendLocateGlyphController, Value: {icon:r_stick, 2.0} Locate Glyph
+Hash: 6CA8A246, Key: GlyphLegendBackToDefaultKBM, Value: {icon:KeyPrompt_V, 2} Back to Default
+Hash: 3E749629, Key: GlyphLegendLocateGlyphKBM, Value: {icon:KeyPrompt_V, 2} Locate Glyph
+Hash: 6B948C89, Key: GlyphDragToEquip, Value: Drag to Equip
+Hash: 74DA681D, Key: GlyphBackToDefault, Value: Back to Default
+Hash: 12074356, Key: GlyphLocked, Value: {c_red}Locked{/c}
+Hash: 26B29476, Key: GlyphSocketed, Value: Socketed Glyph:
+Hash: 92B6448E, Key: BoardSelection, Value: Board Selection
+Hash: CAE1ACB4, Key: LegendaryNodes, Value: {c_legendary}Legendary Nodes{/c}  (x{s1})
+Hash: 9F692D83, Key: RareNodes, Value: {c_rare}Rare Nodes{/c}  (x{s1})
+Hash: EA338462, Key: SocketNodes, Value: Sockets (x{s1})
+Hash: BECCD7E2, Key: Preview, Value: Preview
+Hash: 003766F1, Key: Back, Value: Back
+Hash: EEA0BB7F, Key: NodeNamePH, Value: {icon:bullet, 1.2} {c_label}{s1}:{/c} {s2}
+Hash: C072EAF9, Key: RareNodeHeader, Value: {c_rare}Rare Nodes:
+Hash: 885F90CA, Key: LegendaryNodeHeader, Value: {c_legendary}Legendary Node:
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 68C9397D, Key: AttachBoard, Value: Attach Board
+Hash: 455AFC17, Key: RotateBoard, Value: Rotate Board
+Hash: EAA145CF, Key: BoardPreviewMode, Value: Board Preview Mode
+Hash: 443B3BE9, Key: BoardName, Value: Board Name (to be hooked up)
+Hash: DEA7C928, Key: BoardSelectionCarouselNumbers, Value: {c_number}{s1}{/c} / {s2}
+Hash: 4AD9977F, Key: TooltipAttribute, Value: {icon:bullet, 1.4} {s1}
+Hash: A7655C9D, Key: BoardVariant, Value: Board Variant 
+{s1}
+Hash: 193D7469, Key: NodeTypeMagic, Value: {c_magic}Magic Node
+Hash: C0D6C848, Key: ThresholdBonusAttribute, Value: {c_label}Bonus:{/c} Another {s1} if requirements met:
+Hash: 6304E9AD, Key: ThresholdBonusAttributeGlyphModified, Value: {c_label}Bonus:{/c} Another {c_green}{s1}{/c} if requirements met:
+Hash: 07A6405B, Key: RequirementsNotMet, Value: {c_red}Requirements not met{/c}
+Hash: E8D4C920, Key: RequirementListThresholdMetWithPlus, Value: {icon:bullet, 1.4} {c_green}+{s1}{/c} / {s2}
+Hash: 748D00F1, Key: RequirementListThresholdNotMetWithPlus, Value: {icon:bullet, 1.4} {c_red}+{s1}{/c} / {s2}
+Hash: DFFA6399, Key: RefundWithCost, Value: Refund {c_gold}Cost:{/c} {s1}
+Hash: 13A1DF00, Key: Select, Value: Select
+Hash: BC12FF09, Key: Deselect, Value: Deselect
+Hash: 7C584970, Key: DeselectHold, Value: (Hold) Deselect
+Hash: BD54B938, Key: ThresholdGlyphBonus, Value: {c_label}Additional Bonus:{/c}
+{c_lightgray}(if requirements met){/c}
+Hash: 175CB47A, Key: ThresholdRequirementsHeader, Value: {c_label}Requirements:{/c}
+Hash: 77D7A8EF, Key: BoardUnequip, Value: Unequip Board
+Hash: BA182E7E, Key: ThresholdRequirementsInRangeHeader, Value: {c_label}Requirements:{/c}
+{c_lightgray}(purchased in radius range){/c}
+Hash: C2C32843, Key: LockedFeatureText, Value: {c_white}Paragon Board unlocks at{/c}
+Hash: 4BCAC205, Key: PlayerLevel, Value: {c_gold}Level {s1}{/c}
+Hash: 964795A7, Key: ControllerPrompt_Preview, Value: Preview
+Hash: F48F9C8B, Key: ControllerPrompt_Cancel, Value: Close
+Hash: 188D98B4, Key: ControllerPrompt_Rotate, Value: Rotate
+Hash: F1405E5A, Key: ControllerPrompt_Attach, Value: Attach
+Hash: BF5F5974, Key: SearchBarSelectDeselect, Value: Select/Deselect
+Hash: DCC57A2B, Key: SearchBarClearAll, Value: Clear All
+Hash: C35BA6A0, Key: RequirementListThresholdMet, Value: {icon:bullet, 1.4} {c_green}{s1}{/c} / {s2}
+Hash: 27E59D71, Key: RequirementListThresholdNotMet, Value: {icon:bullet, 1.4} {c_red}{s1}{/c} / {s2}
+Hash: 05C2DB26, Key: Details, Value: Details
+Hash: 004BA60A, Key: BoardPreview, Value: Preview Board Selection
+Hash: 43F83434, Key: GlyphRadiusUpgrade, Value: {s1}Next Radius Increase at Level {s2}
+Hash: E6601732, Key: GlyphRadiusMax, Value: {s1}{c_warning}Radius size is at max.{/c}
+Hash: 6014B679, Key: TooltipOptionalBullet, Value: {icon:bullet, 1.4} 
+Hash: F988B6AE, Key: BoardInformation, Value: Board Information
+Hash: CB82EC07, Key: BoardLimit, Value: Board Limit: {c_number}{s1}{/c}/{s2}
+Hash: 9E0E9914, Key: BoardCapWarningTitle, Value: Warning
+Hash: ECB7BBD2, Key: BoardCapWarning, Value: You will reach the {c_highlight}{s1} board limitation{/c} after attaching this board. 
+Are you sure you want to attach it?
+Hash: 73EF8068, Key: BoardCapReached, Value: Max board amount reached
+Hash: DA021DFD, Key: RefundAll, Value: Refund All
+Hash: 44929604, Key: BoardUnequipWithCost, Value: Unequip Board {c_gold}Cost:{/c} {s1}
+Hash: 919B71AE, Key: ParagonPoint_Value, Value: {icon:ParagonPoint_Icon, 1.7}{s1}
+Hash: 858AFAB8, Key: BoardUnequipConfirmation, Value: Are you sure you want to {c_highlight}unequip this board{/c}?
+Hash: FEC244DD, Key: NotEnoughGold, Value: {c_red}You don't have enough gold to refund all the nodes.{/c}
+Hash: 3D3F74C6, Key: RefundAllConfirmation, Value: Are you sure you want to {c_highlight}refund all paragon points{/c}?
+Hash: 3D7741A8, Key: GlyphRarity_Greater, Value: Unique Glyph
+Hash: 09F9E253, Key: NoSocketableNodes, Value: {c_red}Unlock socketable nodes to use{/c}

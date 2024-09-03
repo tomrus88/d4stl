@@ -1,0 +1,112 @@
+Hash: C43D790E, Key: PlayerName, Value: Player {s1}
+Hash: 4904C0BD, Key: Equipped, Value: Equipped
+Hash: BA4CE54E, Key: Inventory, Value: Inventory
+Hash: 088E571D, Key: Value, Value: Value
+Hash: 830FA25B, Key: PressStart, Value: Press Any Button
+Hash: 735FEC18, Key: Multiplayer, Value: Don't Click Me
+Hash: 6E30B32C, Key: Options, Value: Options
+Hash: D60DE52E, Key: Credits, Value: Credits
+Hash: 6B7A320A, Key: HeroList, Value: Switch Character 
+Hash: 00418176, Key: TODO, Value: Placeholder String
+Hash: 003766F1, Key: Back, Value: Back
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: 0001A9D8, Key: Act, Value: Act
+Hash: 083EB632, Key: Quest, Value: Quest
+Hash: 00410A7C, Key: Step, Value: Step
+Hash: BCC0EA7B, Key: FindGame, Value: Find Game
+Hash: 13A1DF00, Key: Select, Value: Select
+Hash: A83CA42C, Key: ViewProfile, Value: View Character Profile
+Hash: C02A0136, Key: NetworkOptions, Value: Network Settings
+Hash: 20940D10, Key: PartyLabel, Value: Xbox Live Party
+Hash: DD0B871F, Key: InviteParty, Value: Invite Xbox Live Party
+Hash: 1E6B5CA2, Key: HeroCreate, Value: Character Creation
+Hash: 42D68DAE, Key: HeroSelect, Value: Character Selection
+Hash: BFCA5BFA, Key: MainMenu, Value: Main Menu
+Hash: 99422E58, Key: HardcoreAccept, Value: Accept
+Hash: AD24B95C, Key: HardcoreDecline, Value: Decline
+Hash: 36C55B68, Key: Hardcore, Value: Hardcore
+Hash: E8578672, Key: StartNewGame, Value: Start
+Hash: E5E7A894, Key: PartyOnlinePublic, Value: Open To Public
+Hash: 9A91CC60, Key: PartyOnlineFriends, Value: Friends Only
+Hash: C8825F46, Key: PartyOnlineInviteOnly, Value: Invite Only
+Hash: 9A018BEB, Key: PartyLAN, Value: System Link
+Hash: 88B04CF3, Key: PartyOffline, Value: Local Only
+Hash: 68574507, Key: InviteFriend, Value: Invite Friends...
+Hash: 00000FE8, Key: XP, Value: XP
+Hash: 8FC3583D, Key: PlayerLabelShort, Value: P{s1}
+Hash: FA7897BF, Key: LeaveGameLocalPlayer, Value: Drop Out of Game
+Hash: 4625C6A8, Key: QuitMessage, Value: Do you wish to quit the current game and return to the main menu?
+
+Hash: 0111CA3D, Key: ItemPickupEvent, Value: {icon:damage}{s1}
+Hash: E7037D80, Key: PressToJoin, Value: Press {icon:button1, 2.0} to join!
+Hash: C0241DC8, Key: AcceptWithButton, Value: {icon:button1,2.0} Accept
+Hash: 16A94862, Key: Toggle, Value: Toggle
+Hash: 49B1BF55, Key: SearchingForGame, Value: Searching for a game...
+Hash: 1C9CA816, Key: GameFound, Value: Game found!
+Hash: 9D925E9D, Key: LeaveParty, Value: Leave Party
+Hash: E8FA71DE, Key: ListInvites, Value: List Invites
+Hash: C0B0F7DE, Key: JoiningParty, Value: Joining...
+Hash: 8775C1C6, Key: AdjustSafeZone, Value: Use {icon:l_stick,2.0} to adjust the corners so it lines up with the edges of your display.
+Hash: 69F8E859, Key: PlayerOptions, Value: Player Options
+Hash: 521A7BD5, Key: PlayerOptionInvite, Value: Invite to Party
+Hash: 465DAC76, Key: PlayerOptionJoin, Value: Join Party
+Hash: 465F6C81, Key: PlayerOptionMute, Value: Mute
+Hash: 6E13A704, Key: PlayerOptionUnmute, Value: Unmute
+Hash: D99F911D, Key: HardcoreDeathFlavorText, Value: Where others cowered in fear, you dared to face the demons. Your courage will stand as an example for all who come after you.
+Hash: 4DA1A685, Key: HardcoreDeathEnd, Value: Your journey is at an end.
+Hash: 01D6A2C8, Key: HardcoreDeathExit, Value: {icon:button2, 2.0} Exit to Character Selection
+Hash: CB8994C3, Key: PlayCinematic, Value: Play
+Hash: 3F82E740, Key: Cinematics, Value: Cinematics
+Hash: EDA486B3, Key: StatAbbr, Value: {s1}k
+Hash: 74797D27, Key: PlayerOptionViewGamercard, Value: View Gamercard
+Hash: 9463B7BB, Key: SaveSubTitle, Value: Stash and Characters
+Hash: E4C8FDC4, Key: MutliplayerResOptionHeader, Value: Resurrect At:
+Hash: 587D8C80, Key: MultiplayerDeathTitle, Value: You have died.
+Hash: F21E3026, Key: MultiplayerHardcoreDeath, Value: You have died a permanent death.
+Hash: E47636F6, Key: Challenges, Value: Challenges
+Hash: 223B686A, Key: MultiplayerDeathResTitle, Value: Resurrection
+
+Hash: 3B5CEAF9, Key: MultiplayerHardcoreDeathAcceptPrimaryUser, Value: Are you sure you want to quit?  You will be brought back to the Character Selection Menu.
+Hash: 9EDAF007, Key: BackToStartMessage, Value: Are you sure you want to return to the title screen?
+Hash: F6D2D3DE, Key: HallOfFallenClose, Value: Close
+Hash: 4EA7AC98, Key: EnterGame, Value: Enter Game
+Hash: F5B53931, Key: WaitingHost, Value: Waiting For Host...
+Hash: 09D27DEB, Key: ChangeStorageDevice, Value: Change Storage Device
+Hash: E486E2CA, Key: HardcoreArchive, Value: Are you sure you want to move {s1} to the Hall of Fallen Heroes?
+Hash: 2416CC9D, Key: HardcoreHallTutorial, Value: The Hall of the Fallen is a tribute to characters slain while walking the lands of Sanctuary. Their deeds of valor will always be remembered.
+Hash: E3D72CFC, Key: HardcoreHallFull, Value: You have reached the maximum number of fallen characters.  Please choose a character to replace.
+Hash: 77D43645, Key: HardcoreHallReplace, Value: Are you sure you want to replace {s1}?  This action is irreversible.
+Hash: 63426DCB, Key: QuestComplete, Value: Quest Complete
+Hash: C021C317, Key: QuestReward, Value: Rewards
+Hash: 6145E206, Key: QuestItemReward, Value: Item Reward
+Hash: E3BF2704, Key: HardcoreReplace, Value: Replace Character 
+Hash: 21CADCE3, Key: HardcoreArchiving, Value: Archiving Character...
+Hash: B2E3AB16, Key: Warning, Value: Warning
+Hash: 08B17CE2, Key: Notice, Value: Notice
+Hash: 05FFC716, Key: Attention, Value: Attention
+Hash: B440E51D, Key: Congratulations, Value: Congratulations!
+Hash: C9E456FE, Key: CongratulationsAlt, Value: Congratulations
+Hash: 42D2A6A8, Key: InviteFriendAlt, Value: Invite Friends
+Hash: AC1BC9DF, Key: PlayerStateInGame, Value: Currently Playing
+Hash: 83B7E504, Key: MultiplayerHardcoreDeathAcceptNonPrimaryUser, Value: Are you sure you want to quit? This will remove you from the game.
+Hash: 79858898, Key: SelectFriend, Value: Select Friend
+Hash: 0AF02B65, Key: Online, Value: Online
+Hash: 022DA291, Key: ExportSave, Value: Export Save
+Hash: 003AC369, Key: Help, Value: Help
+Hash: 10FF0C0A, Key: ImportSave, Value: Import Save
+Hash: 9B9CA937, Key: Install, Value: Install Game
+Hash: 56B1BB2F, Key: InstallationCompleted, Value: Installation complete.
+Hash: 3688A37E, Key: InstallationInProgress, Value: Installing...
+Do not turn off the system.
+Hash: 57DCE217, Key: SonyTrademarks, Value: "Sony Entertainment Network" is a trademark of Sony Corporation. "PSN" is a trademark, or registered trademark of Sony Computer Entertainment Inc.
+Hash: E993D0F1, Key: UserSignedOut, Value: {s1} has signed out of their profile
+Hash: 82827788, Key: AdjustSafeZoneTitle, Value: Adjust Your Screen Safe Zone
+Hash: E4FAE6A6, Key: ConfirmWithButton, Value: {icon:button1,2.0} Confirm
+Hash: 0190F820, Key: RestoreDefaulsWithButton, Value: {icon:button3,2.0} Restore Defaults
+Hash: EA43AD7E, Key: SafeZoneReset, Value: {icon:button3,2.0} Reset to Defaults
+Hash: 169DAF8A, Key: SafeZoneSave, Value: {icon:button4,2.0} Save Changes
+Hash: E9380551, Key: SafeZoneClose, Value: {icon:button2,2.0} Close
+Hash: E5D20AC0, Key: SafeZoneContinue, Value: {icon:button1,2.0} Continue
+Hash: 003A6186, Key: Gold, Value: Gold
+Hash: 50C78026, Key: ConnectionToServiceLost, Value: Connection to online services has been lost.
+Hash: E59A9D68, Key: BetaInfo, Value: Diablo IV is pre-release software. Some platform features might not work correctly. Some game features might not work correctly and the application might crash. For customer support, please visit: blizzard.com/support

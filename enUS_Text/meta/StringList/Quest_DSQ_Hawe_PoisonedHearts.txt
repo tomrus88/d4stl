@@ -1,0 +1,5 @@
+Hash: 1EADAE68, Key: Callback2Header, Value: Follow Aneta
+Hash: B98DBD5C, Key: Callback15Header, Value: Speak with Gulyas
+Hash: 58D5557C, Key: Callback24Header, Value: Fill the Blood Altar
+Hash: 9F90DE2D, Key: Callback7Header, Value: Protect Aneta from the villagers
+Hash: 003DFCC1, Key: Name, Value: Poisoned Hearts

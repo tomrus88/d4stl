@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Chaotic Whispers
+Hash: 003892BF, Key: Desc, Value: Acquire 10 Caches of Chaos from the Tree of Whispers.

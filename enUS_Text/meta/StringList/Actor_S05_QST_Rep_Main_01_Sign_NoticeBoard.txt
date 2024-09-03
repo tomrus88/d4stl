@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Crucified Suspect
+Hash: F2CA04D8, Key: NoticeSignText, Value: Badly beaten and strung up for all to see. A sign around her neck reads "Spy for the Triune."

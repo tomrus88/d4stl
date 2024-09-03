@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Final Slayer of the First Mother
+Hash: 003892BF, Key: Desc, Value: Kill the most challenging Echo of Lilith solo.

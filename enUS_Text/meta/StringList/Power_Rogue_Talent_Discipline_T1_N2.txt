@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Mending Obscurity
+Hash: 003892BF, Key: desc, Value: When entering {c_important}{u}Stealth{/u}{/c} and every second while {c_important}{u}Stealthed{/u}{/c}, you Heal for {c_number}[{SF_0}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,PlayerHealthMax() * {SF_0})]){/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Heal Amount {icon:arrow,1.2} {c_number}[{SF_0}*100|%|]{/c}

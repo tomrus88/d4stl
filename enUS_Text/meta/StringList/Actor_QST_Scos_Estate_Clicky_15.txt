@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Unfinished Manuscript
+Hash: F2CA04D8, Key: NoticeSignText, Value: A stack of papers bearing the title "The Fall of Astaroth". It appears to be an unfinished chronicle of Donan's battle against the demon. Numerous lines have been crossed out and rewritten. 

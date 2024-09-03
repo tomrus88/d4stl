@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Giant Strides
+Hash: 003892BF, Key: Desc, Value: Reduces the Cooldown of {c_important}Leap{/c} by {c_random}[Affix_Value_1|1|]{/c} seconds per enemy hit, up to a maximum of {c_number}[Affix_Value_2]{/c} seconds. Hitting a Boss with {c_important}Leap{/c} provides the maximum reduction.
+Hash: 82B7D312, Key: CodexDesc, Value: Reduces Cooldown of {c_important}Leap{/c} for {c_random}[Affix_Value_1|1|]{/c} seconds per enemy hit. Boss hits provide maximum reduction.

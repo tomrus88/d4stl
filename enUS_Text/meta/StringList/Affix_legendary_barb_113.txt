@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Sundered Ground
+Hash: 003892BF, Key: Desc, Value: Every {c_number}[Affix."Static Value 0"]{/c} seconds, your next {c_important}Upheaval{/c} cast is guaranteed to {c_important}{u}Overpower{/u}{/c} and deals {c_random}[Affix_Value_1|%x|]{/c} increased damage. {c_important}Upheaval{/c} Critical Strikes against Elites reduce this timer by {c_number}[Affix."Static Value 1"]{/c} second. 
+Hash: 82B7D312, Key: CodexDesc, Value: Every {c_number}[Affix."Static Value 0"]{/c} seconds, {c_important}Upheaval{/c}  is guaranteed to {c_important}{u}Overpower{/u}{/c} and deals {c_random}[Affix_Value_1|%x|]{/c} increased damage.

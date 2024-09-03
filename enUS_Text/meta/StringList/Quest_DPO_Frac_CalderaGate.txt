@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: A frozen peril.
+Hash: 85A4CA58, Key: Callback11Header, Value: Slay all enemies in the Stilled Tunnels {KAM_REVEALED_COUNT}
+Hash: AB22B0DB, Key: Callback32Header, Value: Destroy the Fallen Idols: {LEFT}
+Hash: F2C9CEFE, Key: Callback26Header, Value: Travel to the {LEVELAREA}
+Hash: DF0BA3DF, Key: Callback36Header, Value: Slay the Herald of the Dead

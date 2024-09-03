@@ -1,0 +1,6 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Find More Items
+Hash: 2827F416, Key: Buff0_Description, Value: You will find items more frequently off killed enemies.
+Hash: 101C1614, Key: Buff1_Name, Value: Find More Items
+Hash: 7786FD97, Key: Buff1_Description, Value: You will find items more frequently off killed enemies.
+Hash: 12713EB5, Key: Buff2_Name, Value: Find More Items
+Hash: C6E60718, Key: Buff2_Description, Value: You will find items more frequently off killed enemies.

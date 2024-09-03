@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How are things in Yelesna?"
+Hash: 5D6D27BD, Key: Line1.F9C0D, Value: Hmm, it's quieter now, without the Knights.
+Hash: CC768DEA, Key: VoiceDir1.F9C0D, Value: (grunts)
+Hash: 2B4A9443, Key: Line7.F9C0D, Value: It's strange. I never thought I'd miss Vigo's misbegotten face, but I do.
+Hash: C53F0DC5, Key: Line9.F9C0D, Value: Hmf, you can't yell at the dead.
+Hash: 344873F2, Key: VoiceDir9.F9C0D, Value: (sad)

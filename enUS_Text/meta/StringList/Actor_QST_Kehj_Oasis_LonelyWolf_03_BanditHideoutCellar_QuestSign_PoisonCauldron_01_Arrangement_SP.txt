@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bubbling Cauldron
+Hash: F2CA04D8, Key: NoticeSignText, Value: The cauldron is filled with the same acrid liquid from the caves. The gas rising from the bubbling liquid stings your nostrils and burns your lungs.

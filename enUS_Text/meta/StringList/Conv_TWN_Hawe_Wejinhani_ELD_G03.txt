@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EE1D506, Key: Line1.11EA1F, Value: May these fires cleanse that which could not be healed, and heal that which could not be cleansed.
+Hash: DF1800D3, Key: VoiceDir1.11EA1F, Value: Reverent and calm

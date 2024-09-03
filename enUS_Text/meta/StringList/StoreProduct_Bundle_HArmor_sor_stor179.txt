@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Fellowship of the Sun
+Hash: A646FFA4, Key: Description, Value: Don this mantle and know the Sun as more than a celestial body. Know the Sun as a source of purest elemental fire.
+Hash: 083EE0CE, Key: Quote, Value: Praise the breaking dawn.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

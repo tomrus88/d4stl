@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Makeshift Cage
+Hash: F2CA04D8, Key: NoticeSignText, Value: An old livestock cage, refitted with human-sized shackles. The stench inside is terrible.

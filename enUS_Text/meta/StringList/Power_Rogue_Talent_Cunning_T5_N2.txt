@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: name, Value: Momentum
+Hash: 003892BF, Key: desc, Value: Casting a {c_important}Cutthroat{/c} Skill grants a stack of {c_important}Momentum{/c}. Casting a Non-{c_important}Cutthroat{/c} Skill removes a stack of {c_important}Momentum{/c}. 
+
+For each stack of {c_important}Momentum{/c}, you gain:
+{icon:bullet,1.2} {c_number}[SF_3} * 100|%|]{/c} Damage Reduction
+{icon:bullet,1.2} {c_number}[SF_3} * 100|%|]{/c} Maximum Energy
+{icon:bullet,1.2} {c_number}[SF_3} * 100|%x|]{/c} Energy Regeneration
+{icon:bullet,1.2} {c_number}[SF_3} * 100|%+|]{/c} Movement Speed
+{icon:bullet,1.2} {c_number}[SF_8} * 100|%x|]{/c} Increased Damage
+
+Maximum of {c_number}[{SF_1}||]{/c} Stacks.
+Hash: 101C1614, Key: Buff1_Name, Value: Momentum
+Hash: 7786FD97, Key: Buff1_Description, Value: Momentum stacking up to {c_number}{SF_1}{/c}.

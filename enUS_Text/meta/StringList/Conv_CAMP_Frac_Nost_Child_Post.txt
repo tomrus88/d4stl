@@ -1,0 +1,2 @@
+Hash: 5D1F09EF, Key: Line1.B0303, Value: I knew what my mother did was wrong. But you gave me a chance to escape it.
+Hash: F7138371, Key: Line3.B0303, Value: ...Thank you.

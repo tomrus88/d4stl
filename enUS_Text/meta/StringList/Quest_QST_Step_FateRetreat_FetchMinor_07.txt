@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: Treasure or Trash
+Hash: 0871A46B, Key: Toast, Value: Rakhaan seeks aid in powering a broken ring.
+Hash: 2BE38CAC, Key: Phase7Description, Value: I have collected Rakhaan's broken ring. To power it, I must slay demons in Chambatar Ridge and collect their essences.
+Hash: 398557AF, Key: Callback9Header, Value: Hidden
+Hash: 538236DE, Key: Callback17Header, Value: Harvest Demon Essences in Chambatar Ridge
+Hash: 24EC6278, Key: Callback20Header, Value: Harvest Demon Essences in the Killing Field
+Hash: 92C33198, Key: Phase12Description, Value: Rakhaan's ring feels different. I can feel power emanating from it. I should return it to Rakhaan and see what he knows about it. 
+Hash: 85A4CA58, Key: Callback11Header, Value: Return to Rakhaan
+Hash: 259D49BB, Key: Phase15Description, Value: Rakhaan has found an old ring with a broken enchantment. The use of this ring is unknown, only that it was discarded by the Triune. Rakhaan wants me to collect the ring from a chest in Fate’s Retreat. 
+Hash: 6C93809B, Key: Callback14Header, Value: Retrieve {ITEM}

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Elixir of Shadow Resistance II
+Hash: A646FFA4, Key: Description, Value: For the next {c_number}{s1}{/c} minutes:
+{icon:bullet} Increases Shadow Resistance by {c_number}+30%{/c} and Maximum Shadow Resistance by {c_number}+6%{/c}.
+{icon:bullet} Experience gained is increased by {c_number}8%{/c}.
+Hash: F5C7BC0A, Key: Flavor, Value: You may only have one Elixir active at a time.

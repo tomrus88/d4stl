@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Remnants of Faith
+Hash: 8ED7735D, Key: Line1.121C9F, Value: We are close. We should be cautious. Maugan's Folly was once a great Zakarum fortress, but since Caldeum stopped sending aid, it is now filled with deserters and thieves.
+Hash: DF0D9F2A, Key: VoiceDir1.121C9F, Value: Flat. Purely business. Pushing emotions aside.
+Hash: 675B1D1F, Key: Line3.121C9F, Value: If it weren't for my master's armor, I wouldn't come back. The swamp can have the ruins.

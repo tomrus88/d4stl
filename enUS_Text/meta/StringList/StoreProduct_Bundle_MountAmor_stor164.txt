@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Wraith Lord's Charge
+Hash: A646FFA4, Key: Description, Value: The end comes to king and pauper alike; to those alone and kingdoms at a time.
+Hash: 083EE0CE, Key: Quote, Value: Sweep through like death.
+Hash: 13A53A8B, Key: Series, Value: "Wraith Lord" Mount Armor

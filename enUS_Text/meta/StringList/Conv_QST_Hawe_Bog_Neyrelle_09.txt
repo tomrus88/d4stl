@@ -1,0 +1,4 @@
+Hash: F00D5F20, Key: Line16.6D03F, Value: Shut up. Shut up.
+Hash: 40438AED, Key: VoiceDir16.6D03F, Value: To self, muttering, wants to quiet the voices he's hearing. Still under the effects of incense. Not all there in the head.
+Hash: 8A01D8A2, Key: Line18.6D03F, Value: You aren't real.
+Hash: DA38046F, Key: VoiceDir18.6D03F, Value: To self, muttering, wants to quiet the voices he's hearing. Still under the effects of incense. Not all there in the head.

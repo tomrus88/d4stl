@@ -1,0 +1,10 @@
+Hash: 2DEE12C8, Key: ThreeMinutesLeft, Value: Three minutes left!
+Hash: 40F77C79, Key: VictoryThanks, Value: THANKS FOR PLAYING!
+Hash: EC0CDCCE, Key: VictoryDemoComplete, Value: You have completed the demo for Diablo IV!
+Hash: ADE20DEA, Key: VictoryDemoCompleteBeta, Value: Thank you for playing the Diablo IV Beta!
+Please fill out the survey and share your thoughts on the game with us.
+Hash: 64180460, Key: TimeExpired, Value: Time's Up!
+Hash: CDA5E6A4, Key: ThanksForPlaying, Value: Thank You for Playing!
+Hash: 8E3DBA46, Key: DemoCountdown, Value: Demo ends
+Hash: 6AC52290, Key: TimeLeftWarning, Value: {c:FFC30028}5 minutes {/c:}
+remaining

@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Shadowblight
+Hash: 003892BF, Key: desc, Value: Shadow damage infects enemies with {c_important}Shadowblight{/c} for {c_number}{buffduration:DEBUFF_SHADOWBLIGHT_COUNTER}{/c} seconds. Every {c_number}{SF_2}th{/c} time an enemy receives Shadow damage from you or your Minions while they are affected by {c_important}Shadowblight{/c}, they take an additional {c_number}{payload:BURST_DAMAGE}{/c} Shadow damage. 
+
+{c_important}Shadowblight's{/c} damage is increased by {c_number}[{SF_3} * 100|x%|]{/c} of your Shadow Damage Over Time bonus.
+
+Current Bonus: {c_number}[SF_5 * 100|%x|]{/c}

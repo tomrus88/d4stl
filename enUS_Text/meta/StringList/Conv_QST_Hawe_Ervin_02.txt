@@ -1,0 +1,6 @@
+Hash: 8EB34783, Key: Line1.101CAF, Value: Say, what's this town like? And the guy in charge? Every crew needs a good captain.
+Hash: DEE97350, Key: VoiceDir1.101CAF, Value: Friendly; just making conversation.
+Hash: 6736ED00, Key: Line3.101BAB, Value: Between you and me, everyone knows he's going soft.
+Hash: B76D18CD, Key: VoiceDir3.101BAB, Value: A bit smug.
+Hash: 3FBA96C2, Key: Line5.101BAB, Value: Yep, things might be changing around here soon... wait and see.
+Hash: 8FF0C28F, Key: VoiceDir5.101BAB, Value: Smug and somewhat cryptic. He's hoping the guy in charge will be overthrown soon, and he's implying that here.

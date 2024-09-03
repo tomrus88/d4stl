@@ -1,0 +1,5 @@
+Hash: CF08DED2, Key: simple_instruction_gameguide, Value: Press {hotkey:Abilities} to view your board.
+Hash: 700F6595, Key: simple_instruction_controller_gameguide, Value: Press {hotkey:Equippables} and navigate to Abilities to view your board.
+Hash: 086EAA02, Key: title, Value: Paragon Unlocked
+Hash: 7BFE534B, Key: simple_instruction, Value: Paragon points received. Press {hotkey:Abilities} to view your board.
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Paragon points received. Press {hotkey:Equippables} and navigate to Abilities to view your board.

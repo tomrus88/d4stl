@@ -1,0 +1,2 @@
+Hash: 12713EB5, Key: Buff2_Name, Value: Cadaverous
+Hash: C6E60718, Key: Buff2_Description, Value: {c_important}Core{/c} Skills deal {c_number}x[SF_0|%|]{/c} increased damage per stack.

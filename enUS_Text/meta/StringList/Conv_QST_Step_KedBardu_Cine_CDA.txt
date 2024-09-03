@@ -1,0 +1,17 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Let's begin."
+Hash: 280DCD14, Key: Line7.7B55D, Value: It was protecting that fool...Genbar?
+Hash: C1F13152, Key: Line9.6D03F, Value: Hmph. This is Elias’ work. But where is he?
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: The answer lies in the stomach.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: (grunt) This is delicate. A soft noble’s hand.
+Hash: AF7FBF25, Key: Line39.6D03F, Value: Elias would have to feed this thing...with more than fancy boots.
+Hash: A32437A3, Key: Line15.7B55D, Value: That’s someone’s son!
+Hash: 3D079BE1, Key: Line17.6D03F, Value: Or daughter.
+Hash: D70D2AA7, Key: Line19.7B55D, Value: We should burn demons.
+Hash: 5B7D195D, Key: Line21.7B54B, Value: This is wrong!
+Hash: F5607DBE, Key: Line23.6D03F, Value: Ah, this medallion bears the crest of the ruler of the royal house of Guulrahn.
+Hash: 8F660C61, Key: Line25.7B54B, Value: Former ruler.
+Hash: 294970C2, Key: Line27.6D03F, Value: Obviously.
+Hash: E1B367E3, Key: Line33.7B55D, Value: That’s enough, old man. The dead deserve respect.
+Hash: 7B96CC21, Key: Line35.6D03F, Value: The dead deserve nothing when the living are in danger. Now, Guulrahn has a new ruler and we have Elias to thank for it.
+Hash: 3400C31F, Key: Line41.7B54B, Value: The dead may be worthless to you, but that medallion could bring peace to those still mourning.
+Hash: 158B45A3, Key: Line37.6D03F, Value: (sigh) Fine. If we are to find Elias, then we must also travel to Guulrahn. Meet me there…and be swift about it.

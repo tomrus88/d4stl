@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Orbei Scholar's Notes
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Orbei Scholar's Notes
+Hash: 5D72A43C, Key: Line1.EDC72, Value: In all my years exploring the Steppes, I have never encountered this ruin. It seems to have simply "emerged" out of the basin. I cannot guess why yet.
+Hash: CC7C0A69, Key: VoiceDir1.EDC72, Value: Puzzled. Intrigued.
+Hash: F7671DBE, Key: Line3.EDC72, Value: The Ancients carved deep into the salt of this area, we assume, for its protective qualities.
+Hash: 667083EB, Key: VoiceDir3.EDC72, Value: Reasoning. Forming a theory.
+Hash: 915B9740, Key: Line5.EDC72, Value: A structure like this could have held powerful evil at bay, or perhaps kept it locked inside.
+Hash: 0064FD6D, Key: VoiceDir5.EDC72, Value: Reasoning. Forming a theory.

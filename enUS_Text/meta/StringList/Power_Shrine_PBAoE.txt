@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Blast Wave Shrine
+Hash: 2827F416, Key: Buff0_Description, Value: You periodically explode, Overpowering enemies around you.

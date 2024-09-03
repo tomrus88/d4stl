@@ -1,0 +1,144 @@
+Hash: 97E62F6A, Key: Line490.3F392, Value: There are people in danger!
+Hash: EEE1D4D7, Key: VoiceDir490.3F392, Value: Stressed, urgent
+Hash: 7ED4E5AD, Key: Line493.3F392, Value: Traveler! Your help is needed!
+Hash: D5D08B1A, Key: VoiceDir493.3F392, Value: Stressed, urgent
+Hash: 65C39BF0, Key: Line496.3F392, Value: Those people need help!
+Hash: BCBF415D, Key: VoiceDir496.3F392, Value: Stressed, urgent
+Hash: 1B0D3671, Key: Line763.EDC78, Value: There are people in danger!
+Hash: 7208DBDE, Key: VoiceDir763.EDC78, Value: Stressed urgent
+Hash: 0AED34F8, Key: Line1024.EDC78, Value: Traveler! Your help is needed!
+Hash: 415D8805, Key: VoiceDir1024.EDC78, Value: Stressed, urgent
+Hash: F1DBEB3B, Key: Line1027.EDC78, Value: Those people need help!
+Hash: 284C3E48, Key: VoiceDir1027.EDC78, Value: Stressed, urgent
+Hash: C34616D6, Key: Line1030.EDC79, Value: There are people in danger!
+Hash: F9B669E3, Key: VoiceDir1030.EDC79, Value: Stressed urgent
+Hash: AA34CD19, Key: Line1033.EDC79, Value: Traveler! Your help is needed!
+Hash: E0A52026, Key: VoiceDir1033.EDC79, Value: Stressed, urgent
+Hash: 9123835C, Key: Line1036.EDC79, Value: Those people need help!
+Hash: C793D669, Key: VoiceDir1036.EDC79, Value: Stressed, urgent
+Hash: 7489BD18, Key: Line1039.3F381, Value: There are people in danger!
+Hash: AAFA1025, Key: VoiceDir1039.3F381, Value: Stressed urgent
+Hash: 45F3E8B2, Key: Line1042.3F381, Value: Traveler! Your help is needed!
+Hash: 7C643BBF, Key: VoiceDir1042.3F381, Value: Stressed, urgent
+Hash: 2CE29EF5, Key: Line1045.3F381, Value: Those people need help!
+Hash: 6352F202, Key: VoiceDir1045.3F381, Value: Stressed, urgent
+Hash: 1759D1E8, Key: Line1048.EDC7B, Value: There are people in danger!
+Hash: 4DCA24F5, Key: VoiceDir1048.EDC7B, Value: Stressed urgent
+Hash: E8C3FD82, Key: Line1051.EDC7B, Value: Traveler! Your help is needed!
+Hash: 1F34508F, Key: VoiceDir1051.EDC7B, Value: Stressed, urgent
+Hash: CFB2B3C5, Key: Line1054.EDC7B, Value: Those people need help!
+Hash: 062306D2, Key: VoiceDir1054.EDC7B, Value: Stressed, urgent
+Hash: B6A16A09, Key: Line1057.EDC7C, Value: There are people in danger!
+Hash: ED11BD16, Key: VoiceDir1057.EDC7C, Value: Stressed urgent
+Hash: 880B95A3, Key: Line1060.EDC7C, Value: Traveler! Your help is needed!
+Hash: BE7BE8B0, Key: VoiceDir1060.EDC7C, Value: Stressed, urgent
+Hash: 6EFA4BE6, Key: Line1063.EDC7C, Value: Those people need help!
+Hash: A56A9EF3, Key: VoiceDir1063.EDC7C, Value: Stressed, urgent
+Hash: 55995E47, Key: Line1066.B79B0, Value: There are people in danger!
+Hash: 8C09B154, Key: VoiceDir1066.B79B0, Value: Stressed urgent
+Hash: 3C88148A, Key: Line1069.B79B0, Value: Traveler! Your help is needed!
+Hash: 72F86797, Key: VoiceDir1069.B79B0, Value: Stressed, urgent
+Hash: 0DF24024, Key: Line1072.B79B0, Value: Those people need help!
+Hash: 44629331, Key: VoiceDir1072.B79B0, Value: Stressed, urgent
+Hash: F5309A1A, Key: Line1075.EDC74, Value: There are people in danger!
+Hash: 2BA0ED27, Key: VoiceDir1075.EDC74, Value: Stressed urgent
+Hash: DC1F505D, Key: Line1078.EDC74, Value: Traveler! Your help is needed!
+Hash: 128FA36A, Key: VoiceDir1078.EDC74, Value: Stressed, urgent
+Hash: AD897BF7, Key: Line1081.EDC74, Value: Those people need help!
+Hash: E3F9CF04, Key: VoiceDir1081.EDC74, Value: Stressed, urgent
+Hash: 9478323B, Key: Line1084.EDC75, Value: There are people in danger!
+Hash: CAE88548, Key: VoiceDir1084.EDC75, Value: Stressed urgent
+Hash: 7B66E87E, Key: Line1087.EDC75, Value: Traveler! Your help is needed!
+Hash: B1D73B8B, Key: VoiceDir1087.EDC75, Value: Stressed, urgent
+Hash: 4CD11418, Key: Line1090.EDC75, Value: Those people need help!
+Hash: 83416725, Key: VoiceDir1090.EDC75, Value: Stressed, urgent
+Hash: 337026A8, Key: Line1093.B79B1, Value: There are people in danger!
+Hash: 69E079B5, Key: VoiceDir1093.B79B1, Value: Stressed urgent
+Hash: 1A5EDCEB, Key: Line1096.B79B1, Value: Traveler! Your help is needed!
+Hash: 50CF2FF8, Key: VoiceDir1096.B79B1, Value: Stressed, urgent
+Hash: 014D932E, Key: Line1099.B79B1, Value: Those people need help!
+Hash: 37BDE63B, Key: VoiceDir1099.B79B1, Value: Stressed, urgent
+Hash: 0CF182B3, Key: Line1102.EDC76, Value: There are people in danger!
+Hash: 4361D5C0, Key: VoiceDir1102.EDC76, Value: Stressed urgent
+Hash: F3E038F6, Key: Line1105.EDC76, Value: Traveler! Your help is needed!
+Hash: 2A508C03, Key: VoiceDir1105.EDC76, Value: Stressed, urgent
+Hash: DACEEF39, Key: Line1108.EDC76, Value: Those people need help!
+Hash: 113F4246, Key: VoiceDir1108.EDC76, Value: Stressed, urgent
+Hash: AC391AD4, Key: Line1111.EDC77, Value: There are people in danger!
+Hash: E2A96DE1, Key: VoiceDir1111.EDC77, Value: Stressed urgent
+Hash: 9327D117, Key: Line1114.EDC77, Value: Traveler! Your help is needed!
+Hash: C9982424, Key: VoiceDir1114.EDC77, Value: Stressed, urgent
+Hash: 7A16875A, Key: Line1117.EDC77, Value: Those people need help!
+Hash: B086DA67, Key: VoiceDir1117.EDC77, Value: Stressed, urgent
+Hash: 4B307495, Key: Line1120.B6757, Value: There are people in danger!
+Hash: 81A0C7A2, Key: VoiceDir1120.B6757, Value: Stressed urgent
+Hash: 321F2AD8, Key: Line1123.B6757, Value: Traveler! Your help is needed!
+Hash: 688F7DE5, Key: VoiceDir1123.B6757, Value: Stressed, urgent
+Hash: 190DE11B, Key: Line1126.B6757, Value: Those people need help!
+Hash: 4F7E3428, Key: VoiceDir1126.B6757, Value: Stressed, urgent
+Hash: 004CD5EA, Key: Line1129.EDC7D, Value: There are people in danger!
+Hash: 36BD28F7, Key: VoiceDir1129.EDC7D, Value: Stressed urgent
+Hash: D1B70184, Key: Line1132.EDC7D, Value: Traveler! Your help is needed!
+Hash: 08275491, Key: VoiceDir1132.EDC7D, Value: Stressed, urgent
+Hash: B8A5B7C7, Key: Line1135.EDC7D, Value: Those people need help!
+Hash: EF160AD4, Key: VoiceDir1135.EDC7D, Value: Stressed, urgent
+Hash: 3EDC062B, Key: Line1147.EDC7E, Value: There are people in danger!
+Hash: 754C5938, Key: VoiceDir1147.EDC7E, Value: Stressed urgent
+Hash: 104631C5, Key: Line1150.EDC7E, Value: Traveler! Your help is needed!
+Hash: 46B684D2, Key: VoiceDir1150.EDC7E, Value: Stressed, urgent
+Hash: F734E808, Key: Line1153.EDC7E, Value: Those people need help!
+Hash: 2DA53B15, Key: VoiceDir1153.EDC7E, Value: Stressed, urgent
+Hash: 9F44331A, Key: Line1138.B6807, Value: There are people in danger!
+Hash: D5B48627, Key: VoiceDir1138.B6807, Value: Stressed urgent
+Hash: 70AE5EB4, Key: Line1141.B6807, Value: Traveler! Your help is needed!
+Hash: A71EB1C1, Key: VoiceDir1141.B6807, Value: Stressed, urgent
+Hash: 579D14F7, Key: Line1144.B6807, Value: Those people need help!
+Hash: 8E0D6804, Key: VoiceDir1144.B6807, Value: Stressed, urgent
+Hash: DE239E4C, Key: Line1156.EDC7F, Value: There are people in danger!
+Hash: 1493F159, Key: VoiceDir1156.EDC7F, Value: Stressed urgent
+Hash: C512548F, Key: Line1159.EDC7F, Value: Traveler! Your help is needed!
+Hash: FB82A79C, Key: VoiceDir1159.EDC7F, Value: Stressed, urgent
+Hash: 967C8029, Key: Line1162.EDC7F, Value: Those people need help!
+Hash: CCECD336, Key: VoiceDir1162.EDC7F, Value: Stressed, urgent
+Hash: 7D6B3657, Key: Line1165.EDC80, Value: There are people in danger!
+Hash: B3DB8964, Key: VoiceDir1165.EDC80, Value: Stressed urgent
+Hash: 6459EC9A, Key: Line1168.EDC80, Value: Traveler! Your help is needed!
+Hash: 9ACA3FA7, Key: VoiceDir1168.EDC80, Value: Stressed, urgent
+Hash: 35C41834, Key: Line1171.EDC80, Value: Those people need help!
+Hash: 6C346B41, Key: VoiceDir1171.EDC80, Value: Stressed, urgent
+Hash: 27976E26, Key: Line1228.BC3FE, Value: There are people in danger!
+Hash: 5E07C133, Key: VoiceDir1228.BC3FE, Value: Stressed urgent
+Hash: F90199C0, Key: Line1231.BC3FE, Value: Traveler! Your help is needed!
+Hash: 2F71ECCD, Key: VoiceDir1231.BC3FE, Value: Stressed, urgent
+Hash: DFF05003, Key: Line1234.BC3FE, Value: Those people need help!
+Hash: 1660A310, Key: VoiceDir1234.BC3FE, Value: Stressed, urgent
+Hash: C716A216, Key: Line1237.EDC70, Value: There are people in danger!
+Hash: FD86F523, Key: VoiceDir1237.EDC70, Value: Stressed urgent
+Hash: 9880CDB0, Key: Line1240.EDC70, Value: Traveler! Your help is needed!
+Hash: CEF120BD, Key: VoiceDir1240.EDC70, Value: Stressed, urgent
+Hash: 7F6F83F3, Key: Line1243.EDC70, Value: Those people need help!
+Hash: B5DFD700, Key: VoiceDir1243.EDC70, Value: Stressed, urgent
+Hash: 665E3A37, Key: Line1246.EDC71, Value: There are people in danger!
+Hash: 9CCE8D44, Key: VoiceDir1246.EDC71, Value: Stressed urgent
+Hash: 4D4CF07A, Key: Line1249.EDC71, Value: Traveler! Your help is needed!
+Hash: 83BD4387, Key: VoiceDir1249.EDC71, Value: Stressed, urgent
+Hash: 1EB71C14, Key: Line1252.EDC71, Value: Those people need help!
+Hash: 55276F21, Key: VoiceDir1252.EDC71, Value: Stressed, urgent
+Hash: 056E3687, Key: Line1255.BC3FF, Value: There are people in danger!
+Hash: 3BDE8994, Key: VoiceDir1255.BC3FF, Value: Stressed urgent
+Hash: EC5CECCA, Key: Line1258.BC3FF, Value: Traveler! Your help is needed!
+Hash: 22CD3FD7, Key: VoiceDir1258.BC3FF, Value: Stressed, urgent
+Hash: BDC71864, Key: Line1261.BC3FF, Value: Those people need help!
+Hash: F4376B71, Key: VoiceDir1261.BC3FF, Value: Stressed, urgent
+Hash: A4ED6A78, Key: Line1264.EDC72, Value: There are people in danger!
+Hash: DB5DBD85, Key: VoiceDir1264.EDC72, Value: Stressed urgent
+Hash: 8BDC20BB, Key: Line1267.EDC72, Value: Traveler! Your help is needed!
+Hash: C24C73C8, Key: VoiceDir1267.EDC72, Value: Stressed, urgent
+Hash: 5D464C55, Key: Line1270.EDC72, Value: Those people need help!
+Hash: 93B69F62, Key: VoiceDir1270.EDC72, Value: Stressed, urgent
+Hash: 44350299, Key: Line1273.EDC73, Value: There are people in danger!
+Hash: 7AA555A6, Key: VoiceDir1273.EDC73, Value: Stressed urgent
+Hash: 2B23B8DC, Key: Line1276.EDC73, Value: Traveler! Your help is needed!
+Hash: 61940BE9, Key: VoiceDir1276.EDC73, Value: Stressed, urgent
+Hash: 12126F1F, Key: Line1279.EDC73, Value: Those people need help!
+Hash: 4882C22C, Key: VoiceDir1279.EDC73, Value: Stressed, urgent

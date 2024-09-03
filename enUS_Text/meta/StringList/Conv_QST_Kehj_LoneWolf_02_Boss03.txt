@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Entered Caverns
+Hash: 40BF157B, Key: Line4.371E1, Value: The weak must die, so the strong may rise!
+Hash: AFC87BA8, Key: VoiceDir4.371E1, Value: Announced. Fanatical. Battle mantra.

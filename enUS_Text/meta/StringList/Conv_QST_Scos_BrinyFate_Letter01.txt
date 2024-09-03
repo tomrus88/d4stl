@@ -1,0 +1,11 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Benen
+Hash: C4FA957B, Key: Line9.AAFAC, Value: Fergus, I send this letter from a far shore you will never see. Little makes me happier knowing so.
+Hash: 3403FBA8, Key: VoiceDir9.AAFAC, Value: Curt and cold
+Hash: 0C280D06, Key: Line13.AAFAC, Value: The bottle consumed you long ago. Took what little sense washed around that head of yours.
+Hash: 5C5E38D3, Key: VoiceDir13.AAFAC, Value: Curt, some anger
+Hash: A61C8688, Key: Line15.AAFAC, Value: I couldn’t stand it no more. The whinging. The pissing about.
+Hash: F652B255, Key: VoiceDir15.AAFAC, Value: Blunt, angry
+Hash: 4011000A, Key: Line17.AAFAC, Value: I leave Marowen, my home, to be free of you. Free of your misfortune.
+Hash: 90472BD7, Key: VoiceDir17.AAFAC, Value: Angry, cutting with words
+Hash: DA05798C, Key: Line19.AAFAC, Value: I wash my hands of you.
+Hash: 2A3BA559, Key: VoiceDir19.AAFAC, Value: Curt

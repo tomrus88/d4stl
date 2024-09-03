@@ -1,0 +1,2 @@
+Hash: 8EB2F8CF, Key: Line1.102113, Value: (panting) You! Anyone but you! Stay back!
+Hash: DEE9249C, Key: VoiceDir1.102113, Value: Fear and dread

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Voluminous Support
+Hash: A646FFA4, Key: Description, Value: The supported skill's effect size is increased by {c_number}[{SF_0}*100]%{/c}.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Effect Size Bonus {icon:arrow,1.2} {c_number}[{SF_0}*100+3]%{/c}
+Hash: E971A20F, Key: Modifier, Value: Effect size increased by {c_number}[{SF_0}*100]%{/c}.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

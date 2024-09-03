@@ -1,0 +1,26 @@
+Hash: EAA756E9, Key: Bounties, Value: Whispers of the Dead
+Hash: D4AF2C00, Key: Bounty_Expires, Value: Whisper expires in {s1}
+Hash: 918C8638, Key: Bounty_Rewards, Value: Rewards
+Hash: EF294F80, Key: RewardsExperience, Value: {s1} XP
+Hash: DF4C79FE, Key: RewardsGold, Value: {s1} Gold
+Hash: DC617EC1, Key: TurnIn_Title, Value: The Tree of Whispers
+Hash: F94BC431, Key: Bounty_MetaPoint, Value: {icon:Marker_Bounties_TurnIn, 1.8} {s1} |4Grim Favor:Grim Favors
+Hash: D4BEB241, Key: Region_Scosglen, Value: Scosglen
+Hash: 9F1679D7, Key: Region_FracturedPeaks, Value: Fractured Peaks
+Hash: EE4D3836, Key: Region_DrySteppes, Value: Dry Steppes
+Hash: 71874B64, Key: Region_Kehjistan, Value: Kehjistan
+Hash: C314BC15, Key: Region_Hawezar, Value: Hawezar
+Hash: A4E2AB45, Key: TurnIn_Instructions1, Value: Silence Whispers marked on the Map to collect Grim Favors.
+Hash: A4E2AB46, Key: TurnIn_Instructions2, Value: Silencing a Whisper awards Grim Favors
+Hash: A4E2AB47, Key: TurnIn_Instructions3, Value: When 10 Grim Favors have been obtained, claim your reward at the Tree of Whispers
+Hash: 5689DF3B, Key: TurnIn_MetaBar, Value: Grim Favors
+Hash: D6C0C759, Key: Bounty_Complete, Value: Whisper Silenced
+Hash: 51F45D23, Key: TurnIn_MetaPoints, Value: Offer Grim Favors
+Hash: 97E0D68F, Key: MetaPoint_Gain, Value: +{s1} {icon:Marker_Bounties_TurnIn, 2.0}  
+Hash: 831EFB21, Key: Bounty_Mystery_Reward, Value: {icon:BloodshardVendor_QuestionMark, 2.0} Rewards
+Hash: 153DD9CB, Key: Message_Bounty_Assassinate_Spawn, Value: The forces of evil have been alerted to your presence.
+Hash: F3436D21, Key: Message_Bounty_Assassinate_Spawn_Boss, Value: A champion of evil accepts your challenge.
+Hash: 4C59D79E, Key: Message_Bounty_Harvest_Ritual_Start, Value: The shadows of corruption manifest once more.
+Hash: 13C22372, Key: Bounty_FavorAmount, Value: {c:FFDBA864}{s1}{/c}{c:FF928C82}/{s2}{/c}
+Hash: AB1BB8AA, Key: Bounty_FavorAmount_Complete, Value: {c_zone_complete}{s1}{/c}{c:FF928c82}/{s2}{/c}
+Hash: 7068E453, Key: Message_Bounty_S2_Vampzone_BloodSeeker_Start, Value: A pair of Blood Seekers are drawn to your offering

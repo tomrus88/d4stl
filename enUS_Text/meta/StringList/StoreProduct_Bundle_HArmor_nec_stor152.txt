@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Apostate
+Hash: A646FFA4, Key: Description, Value: Many legends speak of a hero's fall, but few speak of a monster's redemption. The evil that permeates the Triune consumes, ending in violence and death. But one devotee found their way through that darkness and walks a lighter path, but must forever face the evil done in their former life.
+Hash: 083EE0CE, Key: Quote, Value: A light born of darkness.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

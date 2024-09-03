@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Istel's Accomplice
+Hash: 003892BF, Key: Desc, Value: Assisted Istel in the Season of the Hordes.

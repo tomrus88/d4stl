@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Azim's Body
+Hash: F2CA04D8, Key: NoticeSignText, Value: The body is fresh, with warm blood seeping from puncture wounds. The surrounding corpses suggest that Azim's escape attempt was not entirely fruitless.

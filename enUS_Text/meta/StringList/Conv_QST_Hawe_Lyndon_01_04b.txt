@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Discretionary Spending
+Hash: F108E4B6, Key: Line9.140002, Value: This swamp of yours seems intent on devouring anyone who isn't a snake or scoundrel.
+Hash: 4519651C, Key: Line11.10088C, Value: Oh, I assure you, the swamp devours snakes and scoundrels just as much.
+Hash: 9C150A89, Key: VoiceDir11.10088C, Value: Snarky.

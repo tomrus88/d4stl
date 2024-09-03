@@ -1,0 +1,29 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: That’s quite the story.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: I wish it wasn’t true, but it is.
+Hash: 0181B279, Key: Line34.BAE4, Value: Why did I have that vision?
+Hash: DB027B0F, Key: Line6.6D03F, Value: (chewing) Thank those friendly villagers. They gave you the blood of Lilith.
+Hash: 4A0BE13C, Key: VoiceDir6.6D03F, Value: wry
+Hash: E49BB58A, Key: Line8.BAE4, Value: The blood of a demon.
+Hash: 2DCA8A17, Key: VoiceDir8.BAE4, Value: Worried
+Hash: 222FF29A, Key: Line10.6D03F, Value: Not just any demon. The Daughter of Hatred. The Mother of Sanctuary.
+Hash: 72661E67, Key: VoiceDir10.6D03F, Value: calm, nonchalant
+Hash: C89108E2, Key: Line36.6D03F, Value: She was banished ages ago, but this world is her creation. (sigh)
+Hash: 18C734AF, Key: VoiceDir36.6D03F, Value: grave/serious
+Hash: 62858264, Key: Line38.6D03F, Value: It was prophesied she would come back...
+Hash: B2BBAE31, Key: VoiceDir38.6D03F, Value: beat, trailing off, ending in an exhale
+Hash: 678D38F7, Key: Line14.BAE4, Value: What does she want?
+Hash: F00D5F20, Key: Line16.6D03F, Value: (sigh) That’s the question.
+Hash: 40438AED, Key: VoiceDir16.6D03F, Value: scoffing laugh
+Hash: E6F5713D, Key: Line40.6D03F, Value: Sanctuary has always been trapped amid the Eternal Conflict, a war between angels and demons.
+Hash: 372B9D0A, Key: VoiceDir40.6D03F, Value: Lorath gestures to the deer carcass.
+Hash: 80E9EABF, Key: Line42.6D03F, Value: But Lilith serves neither side. She has her own plans for us.
+Hash: AB32D334, Key: Line20.BAE4, Value: And me? Am I corrupted?
+Hash: FAB39C5C, Key: Line30.6D03F, Value: Not sure yet, but you two share a connection. What will you do about it?
+Hash: 4AE9C829, Key: VoiceDir30.6D03F, Value: The question can be a bit probing--taking our measure.
+Hash: BDDC183C, Key: Line28.BAE4, Value: Use it. Find out what she’s after.
+Hash: 2CE57E69, Key: VoiceDir28.BAE4, Value: Determined
+Hash: DC4F3401, Key: Line26.6D03F, Value: Good. Then we’re in this together.
+Hash: 2C855FCE, Key: VoiceDir26.6D03F, Value: Slight change of tone for Lorath: he knows we're in this with him now.
+Hash: 94A815DE, Key: Line32.6D03F, Value: Rest while you can, then we’ll start in Kyovashad. If we can’t stop Lilith, we’ll all be damned.
+Hash: E4DE41AB, Key: VoiceDir32.6D03F, Value: Getting down to business. A beat between the two sentences.

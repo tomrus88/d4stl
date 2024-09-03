@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Catacomb Key
+Hash: A646FFA4, Key: Description, Value: Bound to Defiled Catacomb
+Hash: F5C7BC0A, Key: Flavor, Value: An old key still with it's keeper long after death. Whatever the Gate Keeper is guarding is a mystery lost to time.

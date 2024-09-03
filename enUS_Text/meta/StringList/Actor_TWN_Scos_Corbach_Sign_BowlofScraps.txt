@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bowl of Discarded Food Scraps
+Hash: F2CA04D8, Key: NoticeSignText, Value: A collection of bones, husks, and cores to be used in some kind of soup. Food for the desperate.

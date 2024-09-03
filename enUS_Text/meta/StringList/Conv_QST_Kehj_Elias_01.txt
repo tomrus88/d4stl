@@ -1,0 +1,12 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Have you learned anything about Elias's palace?"
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Just rumors, mostly. The people here speak of a sorcerer who lives in a grand palace, beyond the endless sandstorm.
+Hash: C1EB557F, Key: Line9.789BF, Value: One of these nomads could help us reach it. They know the land better than... ugh.
+Hash: 30F4BBAC, Key: VoiceDir9.789BF, Value: Trails off with a pained grunt. She is hearing the voice of a demon (Andariel) in her head.
+Hash: F413C4CC, Key: Line3.6D03F, Value: Taissa?
+Hash: 631D2AF9, Key: VoiceDir3.6D03F, Value: Concerned
+Hash: 0918CD0A, Key: Line13.789BF, Value: (breathing) Andariel. I hear her... ugh.
+Hash: 594EF8D7, Key: VoiceDir13.789BF, Value: Quiet, creepy
+Hash: A30D468C, Key: Line15.789BF, Value: I need a place to focus... keep her voice at bay.
+Hash: F3437259, Key: VoiceDir15.789BF, Value: Struggling a little, but keeping it together.
+Hash: 3D079BE1, Key: Line17.6D03F, Value: Look for a guide. I’ll get something to help Taissa clear her mind.
+Hash: 8D3DC7AE, Key: VoiceDir17.6D03F, Value: To the player

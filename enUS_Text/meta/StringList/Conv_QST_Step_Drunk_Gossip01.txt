@@ -1,0 +1,2 @@
+Hash: 59F2F1F2, Key: Line1.54477, Value: The old bastard drank half my stock and left without paying!
+Hash: C8FC581F, Key: VoiceDir1.54477, Value: Angry. Complaining to a guard.

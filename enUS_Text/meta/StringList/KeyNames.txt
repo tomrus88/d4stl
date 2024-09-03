@@ -1,0 +1,159 @@
+Hash: F3F1FE71, Key: ESCAPE, Value: {icon:KeyPrompt_Escape, 2}
+Hash: 00000031, Key: 1, Value: {icon:KeyPrompt_1, 2}
+Hash: 00000032, Key: 2, Value: {icon:KeyPrompt_2, 2}
+Hash: 00000033, Key: 3, Value: {icon:KeyPrompt_3, 2}
+Hash: 00000034, Key: 4, Value: {icon:KeyPrompt_4, 2}
+Hash: 00000035, Key: 5, Value: {icon:KeyPrompt_5, 2}
+Hash: 00000036, Key: 6, Value: {icon:KeyPrompt_6, 2}
+Hash: 00000037, Key: 7, Value: {icon:KeyPrompt_7, 2}
+Hash: 00000038, Key: 8, Value: {icon:KeyPrompt_8, 2}
+Hash: 00000039, Key: 9, Value: {icon:KeyPrompt_9, 2}
+Hash: 00000030, Key: 0, Value: {icon:KeyPrompt_0, 2}
+Hash: 07EFE62C, Key: MINUS, Value: {icon:KeyPrompt_Minus, 2}
+Hash: F3D7ABCB, Key: EQUALS, Value: {icon:KeyPrompt_Equal, 2}
+Hash: 003766F1, Key: BACK, Value: {icon:KeyPrompt_Backspace, 2}
+Hash: 0001FA57, Key: TAB, Value: {icon:KeyPrompt_Tab, 2}
+Hash: 00000071, Key: Q, Value: {icon:KeyPrompt_Q, 2}
+Hash: 00000077, Key: W, Value: {icon:KeyPrompt_W, 2}
+Hash: 00000065, Key: E, Value: {icon:KeyPrompt_E, 2}
+Hash: 00000072, Key: R, Value: {icon:KeyPrompt_R, 2}
+Hash: 00000074, Key: T, Value: {icon:KeyPrompt_T, 2}
+Hash: 00000079, Key: Y, Value: {icon:KeyPrompt_Y, 2}
+Hash: 00000075, Key: U, Value: {icon:KeyPrompt_U, 2}
+Hash: 00000069, Key: I, Value: {icon:KeyPrompt_I, 2}
+Hash: 0000006F, Key: O, Value: {icon:KeyPrompt_O, 2}
+Hash: 00000070, Key: P, Value: {icon:KeyPrompt_P, 2}
+Hash: 34908F88, Key: LBRACKET, Value: {icon:KeyPrompt_BracketLeft, 2}
+Hash: BE1B8CCE, Key: RBRACKET, Value: {icon:KeyPrompt_BracketRight, 2}
+Hash: 11515F60, Key: RETURN, Value: {icon:KeyPrompt_Enter, 2}
+Hash: 7B80026D, Key: LCONTROL, Value: {icon:KeyPrompt_Ctrl, 2}
+Hash: 00000061, Key: A, Value: {icon:KeyPrompt_A, 2}
+Hash: 00000073, Key: S, Value: {icon:KeyPrompt_S, 2}
+Hash: 00000064, Key: D, Value: {icon:KeyPrompt_D, 2}
+Hash: 00000066, Key: F, Value: {icon:KeyPrompt_F, 2}
+Hash: 00000067, Key: G, Value: {icon:KeyPrompt_G, 2}
+Hash: 00000068, Key: H, Value: {icon:KeyPrompt_H, 2}
+Hash: 0000006A, Key: J, Value: {icon:KeyPrompt_J, 2}
+Hash: 0000006B, Key: K, Value: {icon:KeyPrompt_K, 2}
+Hash: 0000006C, Key: L, Value: {icon:KeyPrompt_L, 2}
+Hash: 4C977A89, Key: SEMICOLON, Value: {icon:KeyPrompt_Semicolon, 2}
+Hash: 9A4B20E5, Key: APOSTROPHE, Value: {icon:KeyPrompt_QuoteSingle, 2}
+Hash: 07880B55, Key: GRAVE, Value: {icon:KeyPrompt_Grave, 2}
+Hash: 0448F98A, Key: LSHIFT, Value: {icon:KeyPrompt_Shift, 2}
+Hash: E3504C4C, Key: BACKSLASH, Value: {icon:KeyPrompt_SlashBack, 2}
+Hash: 0000007A, Key: Z, Value: {icon:KeyPrompt_Z, 2}
+Hash: 00000078, Key: X, Value: {icon:KeyPrompt_X, 2}
+Hash: 00000063, Key: C, Value: {icon:KeyPrompt_C, 2}
+Hash: 00000076, Key: V, Value: {icon:KeyPrompt_V, 2}
+Hash: 00000062, Key: B, Value: {icon:KeyPrompt_B, 2}
+Hash: 0000006E, Key: N, Value: {icon:KeyPrompt_N, 2}
+Hash: 0000006D, Key: M, Value: {icon:KeyPrompt_M, 2}
+Hash: 073E360D, Key: COMMA, Value: {icon:KeyPrompt_Comma, 2}
+Hash: 0CA5C1E3, Key: PERIOD, Value: {icon:KeyPrompt_Period, 2}
+Hash: 085DE6BB, Key: SLASH, Value: {icon:KeyPrompt_SlashForward, 2}
+Hash: 1247ED50, Key: RSHIFT, Value: {icon:KeyPrompt_Shift, 2}
+Hash: CAC12500, Key: MULTIPLY, Value: {icon:KeyPrompt_Star, 2}
+Hash: 07DFD801, Key: LMENU, Value: {icon:KeyPrompt_Alt, 2}
+Hash: 0860162C, Key: SPACE, Value: {icon:KeyPrompt_Space, 1.8}
+Hash: AF302A3E, Key: CAPITAL, Value: {icon:KeyPrompt_Caps, 2}
+Hash: 00000D57, Key: F1, Value: {icon:KeyPrompt_F1, 2}
+Hash: 00000D58, Key: F2, Value: {icon:KeyPrompt_F2, 2}
+Hash: 00000D59, Key: F3, Value: {icon:KeyPrompt_F3, 2}
+Hash: 00000D5A, Key: F4, Value: {icon:KeyPrompt_F4, 2}
+Hash: 00000D5B, Key: F5, Value: {icon:KeyPrompt_F5, 2}
+Hash: 00000D5C, Key: F6, Value: {icon:KeyPrompt_F6, 2}
+Hash: 00000D5D, Key: F7, Value: {icon:KeyPrompt_F7, 2}
+Hash: 00000D5E, Key: F8, Value: {icon:KeyPrompt_F8, 2}
+Hash: 00000D5F, Key: F9, Value: {icon:KeyPrompt_F9, 2}
+Hash: 0001B867, Key: F10, Value: {icon:KeyPrompt_F10, 2}
+Hash: 2C6339B9, Key: NUMLOCK, Value: {icon:KeyPrompt_Num, 2}
+Hash: 138123EF, Key: SCROLL, Value: SCROLL
+Hash: 2C652F9C, Key: NUMPAD7, Value: {icon:KeyPrompt_Num7, 2}
+Hash: 2C652F9D, Key: NUMPAD8, Value: {icon:KeyPrompt_Num8, 2}
+Hash: 2C652F9E, Key: NUMPAD9, Value: {icon:KeyPrompt_Num9, 2}
+Hash: 3CFD3A68, Key: SUBTRACT, Value: {icon:KeyPrompt_Minus, 2}
+Hash: 2C652F99, Key: NUMPAD4, Value: {icon:KeyPrompt_Num4, 2}
+Hash: 2C652F9A, Key: NUMPAD5, Value: {icon:KeyPrompt_Num5, 2}
+Hash: 2C652F9B, Key: NUMPAD6, Value: {icon:KeyPrompt_Num6, 2}
+Hash: 0001A9E9, Key: ADD, Value: {icon:KeyPrompt_Plus, 2}
+Hash: 2C652F96, Key: NUMPAD1, Value: {icon:KeyPrompt_Num1, 2}
+Hash: 2C652F97, Key: NUMPAD2, Value: {icon:KeyPrompt_Num2, 2}
+Hash: 2C652F98, Key: NUMPAD3, Value: {icon:KeyPrompt_Num3, 2}
+Hash: 2C652F95, Key: NUMPAD0, Value: {icon:KeyPrompt_Num0, 2}
+Hash: 0493AD2F, Key: DECIMAL, Value: {icon:KeyPrompt_Period, 2}
+Hash: 5402BCF3, Key: OEM_102, Value: OEM_102
+Hash: 0001B868, Key: F11, Value: {icon:KeyPrompt_F11, 2}
+Hash: 0001B869, Key: F12, Value: {icon:KeyPrompt_F12, 2}
+Hash: 0001B86A, Key: F13, Value: {icon:KeyPrompt_F13, 2}
+Hash: 0001B86B, Key: F14, Value: {icon:KeyPrompt_F14, 2}
+Hash: 0001B86C, Key: F15, Value: {icon:KeyPrompt_F15, 2}
+Hash: 003C57BB, Key: KANA, Value: KANA
+Hash: 17725738, Key: ABNT_C1, Value: ABNT_C1
+Hash: CFBB1561, Key: CONVERT, Value: CONVERT
+Hash: 4DBEF15E, Key: NOCONVERT, Value: NOCONVERT
+Hash: 0002102C, Key: YEN, Value: YEN
+Hash: 17725739, Key: ABNT_C2, Value: ABNT_C2
+Hash: 356B4250, Key: NUMPADEQUALS, Value: NUMPADEQUALS
+Hash: A6303672, Key: PREVTRACK, Value: PREVTRACK
+Hash: 00000CF5, Key: AT, Value: AT
+Hash: 073E321B, Key: COLON, Value: COLON
+Hash: C6CDD0A6, Key: UNDERLINE, Value: UNDERLINE
+Hash: 07C750AD, Key: KANJI, Value: KANJI
+Hash: 00410BC6, Key: STOP, Value: STOP
+Hash: 00000CF9, Key: AX, Value: AX
+Hash: 2425C10C, Key: UNLABELED, Value: UNLABELED
+Hash: 6FC7B614, Key: NEXTTRACK, Value: NEXTTRACK
+Hash: 37EA5163, Key: NUMPADENTER, Value: NUMPADENTER
+Hash: 050AFFB3, Key: RCONTROL, Value: {icon:KeyPrompt_Ctrl, 2}
+Hash: 003DC65B, Key: MUTE, Value: MUTE
+Hash: 3C8D53AA, Key: CALCULATOR, Value: CALCULATOR
+Hash: EF6A62B4, Key: PLAYPAUSE, Value: PLAYPAUSE
+Hash: DCBED446, Key: MEDIASTOP, Value: MEDIASTOP
+Hash: 3E962D10, Key: VOLUMEDOWN, Value: VOLUMEDOWN
+Hash: 4B4850BD, Key: VOLUMEUP, Value: VOLUMEUP
+Hash: BB1394A7, Key: WEBHOME, Value: WEBHOME
+Hash: 37C68FF2, Key: NUMPADCOMMA, Value: NUMPADCOMMA
+Hash: F0F26C75, Key: DIVIDE, Value: {icon:KeyPrompt_SlashForward, 2}
+Hash: 08655422, Key: SYSRQ, Value: {icon:KeyPrompt_Prnt, 2}
+Hash: 084C6B07, Key: RMENU, Value: {icon:KeyPrompt_Alt, 2}
+Hash: 0821EA1E, Key: PAUSE, Value: PAUSE
+Hash: 003AEE09, Key: HOME, Value: {icon:KeyPrompt_Home, 2}
+Hash: 00000F85, Key: UP, Value: {icon:KeyPrompt_Up, 2}
+Hash: 082B090C, Key: PRIOR, Value: {icon:KeyPrompt_PageUp, 2}
+Hash: 003CF42B, Key: LEFT, Value: {icon:KeyPrompt_Left, 2}
+Hash: 084A413E, Key: RIGHT, Value: {icon:KeyPrompt_Right, 2}
+Hash: 0001BC37, Key: END, Value: {icon:KeyPrompt_End, 2}
+Hash: 0038BDD8, Key: DOWN, Value: {icon:KeyPrompt_Down, 2}
+Hash: 003E0F3F, Key: NEXT, Value: {icon:KeyPrompt_PageDown, 2}
+Hash: FCF4FDD5, Key: INSERT, Value: {icon:KeyPrompt_Insert, 2}
+Hash: F0A47FB3, Key: DELETE, Value: {icon:KeyPrompt_Delete, 2}
+Hash: 003D411A, Key: LWIN, Value: WIN
+Hash: 00408B60, Key: RWIN, Value: RWIN
+Hash: 00371C14, Key: APPS, Value: APPS
+Hash: 08299E2D, Key: Power, Value: Power
+Hash: 085DF5F9, Key: SLEEP, Value: SLEEP
+Hash: 0042EBE8, Key: WAKE, Value: WAKE
+Hash: E738D434, Key: WEBSEARCH, Value: WEBSEARCH
+Hash: 5FD53FF1, Key: WEBFAVORITES, Value: WEBFAVORITES
+Hash: 81B3A2CD, Key: WEBREFRESH, Value: WEBREFRESH
+Hash: BB19B264, Key: WEBSTOP, Value: WEBSTOP
+Hash: FE2832D3, Key: WEBFORWARD, Value: WEBFORWARD
+Hash: BB100D8F, Key: WEBBACK, Value: WEBBACK
+Hash: 8BB60775, Key: MYCOMPUTER, Value: MYCOMPUTER
+Hash: 003D6FE3, Key: MAIL, Value: MAIL
+Hash: 06B3C780, Key: MEDIASELECT, Value: MEDIASELECT
+Hash: 065D0B3A, Key: MOUSE1, Value: {icon:lmb, 2.0}
+Hash: 065D0B3B, Key: MOUSE2, Value: {icon:rmb, 2.0}
+Hash: 065D0B3C, Key: MOUSE3, Value: {icon:mmb, 2.0}
+Hash: 065D0B3D, Key: MOUSE4, Value: {icon:KeyPrompt_Mouse4, 2}
+Hash: 065D0B3E, Key: MOUSE5, Value: {icon:KeyPrompt_Mouse5, 2}
+Hash: CFCD1503, Key: MOUSEWHEELUP, Value: {icon:KeyPrompt_ScrollWheel_Up, 2.0}
+Hash: F75D1AD6, Key: MOUSEWHEELDOWN, Value: {icon:KeyPrompt_ScrollWheel_Down, 2.0}
+Hash: 8720190D, Key: MODIFIERSHIFT, Value: {icon:KeyPrompt_ShiftShort, 2} + 
+Hash: AEBA57A4, Key: MODIFIERCTRL, Value: {icon:KeyPrompt_Ctrl, 2} + 
+Hash: 98B046B0, Key: MODIFIERALT, Value: {icon:KeyPrompt_Alt, 2} + 
+Hash: 9B4C8F1F, Key: MODIFIERALT_SHORT, Value: {icon:KeyPrompt_Alt, 2} +
+Hash: 93248713, Key: MODIFIERCTRL_SHORT, Value: {icon:KeyPrompt_Ctrl, 2} +
+Hash: 9DB9F33C, Key: MODIFIERSHIFT_SHORT, Value: {icon:KeyPrompt_ShiftShort, 2} + 
+Hash: 0811DE58, Key: OEM_8, Value: `
+Hash: 95087B14, Key: DUMMY_LEGEND_MOUSEWHEELUPDOWN, Value: {icon:KeyPrompt_ScrollWheel, 2.0}

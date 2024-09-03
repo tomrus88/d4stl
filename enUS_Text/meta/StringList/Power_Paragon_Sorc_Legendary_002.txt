@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Searing Heat
+Hash: 003892BF, Key: desc, Value: {c_important}Pyromancy{/c} Skills have a {c_number}[{SF_0}|%+|]{/c} increased Critical Strike Chance and deal increased Direct damage equal to {c_number}[{SF_1} * 100|%|]{/c} of your Damage with Fire bonus, up to {c_number}[{SF_2} * 100|%x|]{/c}.
+
+Current Direct Damage Bonus: {c_number}[{SF_3} * 100|%x|]{/c}

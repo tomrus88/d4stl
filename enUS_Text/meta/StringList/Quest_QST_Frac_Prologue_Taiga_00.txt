@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Dusk on the Mountain
+Hash: 0871A46B, Key: Toast, Value: Seek shelter in the village of Nevesk
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Seek shelter in the village of Nevesk
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: I must search for shelter before I freeze in this blizzard.
+Hash: 4406F769, Key: Phase103Description, Value: I must search for shelter before I freeze in this blizzard.
+Hash: 8FE482D1, Key: Phase103OutsideSubzoneHeader, Value: Travel to Nevesk
+Hash: 3BF917D1, Key: Callback164Header, Value: Find shelter in a nearby town
+Hash: 9F49FBC9, Key: Phase130Description, Value: The town is not as abandoned as I had previously thought. Someone is here, and they may be in trouble.
+Hash: F4C27331, Key: Phase130OutsideSubzoneHeader, Value: Find the source of the voices
+Hash: E093CE8F, Key: Callback180Header, Value: Find the source of the voices
+Hash: 322413EC, Key: Phase133Description, Value: I've found a madman locked in a shed in Nevesk. Why is he here?
+Hash: E7E962B4, Key: Phase133OutsideSubzoneHeader, Value: Speak with Oswen
+Hash: DD3F1FAC, Key: Callback132Header, Value: Speak with Oswen
+Hash: E369D82F, Key: Phase145Description, Value: The man is raving about a tower, but I do not understand. Other townsfolk have arrived, perhaps they know more.
+Hash: FCAFA257, Key: Phase145OutsideSubzoneHeader, Value: Follow Vani
+Hash: 4A642452, Key: Callback147Header, Value: Follow Vani
+Hash: 508FC00C, Key: Phase142Description, Value: Apparently, the man is a monk sent by the Cathedral of Light. Whatever he saw in the tower must have driven him mad!
+Hash: 0988B2D4, Key: Phase142OutsideSubzoneHeader, Value: Speak with Vani
+Hash: 7C86B7CC, Key: Callback141Header, Value: Speak with Vani

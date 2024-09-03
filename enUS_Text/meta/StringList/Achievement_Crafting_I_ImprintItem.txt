@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Codex Commander
+Hash: 003892BF, Key: Desc, Value: Imprint an item at the Occultist with an Aspect from the Codex of Power.

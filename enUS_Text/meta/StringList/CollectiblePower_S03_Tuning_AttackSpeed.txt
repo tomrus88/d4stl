@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Swift Support
+Hash: A646FFA4, Key: Description, Value: The supported Skill gains a {c_number}[Collectible_Power_Value_1#S03_Tuning_AttackSpeed*100|%+|]{/c} Attack Speed bonus.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Attack Speed Bonus {icon:arrow,1.2} {c_number}[Collectible_Power_Value_1#S03_Tuning_AttackSpeed*100+2|%+|]{/c}
+Hash: E971A20F, Key: Modifier, Value: Attack Speed increased by {c_number}[Collectible_Power_Value_1#S03_Tuning_AttackSpeed*100|%+|]{/c}.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

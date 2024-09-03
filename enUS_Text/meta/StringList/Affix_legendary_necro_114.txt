@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Hulking
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Golem{/c} has a {c_random}[Affix_Value_1|%|]{/c} chance to reduce its active Cooldown by {c_number}[Affix."Static Value 0"]{/c} seconds and a {c_random}[Affix_Value_1 / 2|%1|]{/c} chance to spawn a Corpse each time it damages an enemy with its normal attack.
+Hash: 82B7D312, Key: CodexDesc, Value: Your {c_important}Golem{/c} has a {c_random}[Affix_Value_1|%|]{/c} chance to reduce its Cooldown and a {c_random}[Affix_Value_1 / 2|%1|]{/c} chance to spawn a Corpse when it damages an enemy.

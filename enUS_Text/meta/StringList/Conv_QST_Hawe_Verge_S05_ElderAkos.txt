@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me about this new sickness."
+Hash: 5D85D31F, Key: Line1.FFAEF, Value: This sickness is not natural. Eriman would have known how to stop this but now... We would need to find a witch to cure this.
+Hash: CC8F394C, Key: VoiceDir1.FFAEF, Value: Confident 

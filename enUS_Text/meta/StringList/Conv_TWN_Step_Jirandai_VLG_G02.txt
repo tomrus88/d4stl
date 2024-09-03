@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you have any news?"
+Hash: 5D6B5938, Key: Line1.F789C, Value: Bastard eaters...carved my brother like a side of pork!
+Hash: F75FD2BB, Key: Line3.F789D, Value: Light a candle for him and go to bed.

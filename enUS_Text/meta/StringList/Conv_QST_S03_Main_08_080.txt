@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What now?"
+Hash: 18E96351, Key: Line7.18AEA4, Value: You see this growth? This is not a natural formation. And not a product of the Loom.
+Hash: F16D0D13, Key: Line9.18AEA4, Value: It’s the demon. A part of its body. Zoltun and I saw something similar in Kehjistan, but we are in Hawezar. How large has Malphas become?

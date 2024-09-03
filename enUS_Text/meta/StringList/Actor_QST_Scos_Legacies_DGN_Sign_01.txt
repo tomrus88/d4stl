@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Cathedral Cross
+Hash: CC3C0A8F, Key: FlavorText, Value: "The Father protects the faithful."
+Hash: F2CA04D8, Key: NoticeSignText, Value: Druid wardstones marred by deep scratches. Their runic lettering broken, these inert stones now serve only to uphold a symbol of the Cathedral of Light. The cross bears an inscription in a ragged hand.

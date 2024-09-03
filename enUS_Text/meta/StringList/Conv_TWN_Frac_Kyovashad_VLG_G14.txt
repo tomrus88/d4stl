@@ -1,0 +1,2 @@
+Hash: 8ECD5C33, Key: Line1.10B51C, Value: Father Inarius, glory to you! We are not worthy of your sacrifice!
+Hash: DF038800, Key: VoiceDir1.10B51C, Value: Weepy and distressed. Father Inarius has died.

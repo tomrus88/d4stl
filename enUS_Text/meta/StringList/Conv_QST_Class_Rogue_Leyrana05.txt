@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is it?"
+Hash: 728E8E1E, Key: Line11.FBCF5, Value: It’s not just the killer we’re after. The coin’s dangerous, too. It bears a hole in the middle. When you look through, it shows you others’ weaknesses.
+Hash: A6778122, Key: Line15.FBCF5, Value: But it also drives you bleedin’ mad. Dunno who we’ll find in there for sure. If they’ve got the coin, they’ll hit you where it hurts. You better be ready.

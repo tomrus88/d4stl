@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Deeper Pockets
+Hash: 003892BF, Key: Desc, Value: Collect 100,000 Obols.

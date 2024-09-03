@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Ghost Palm Flower
+Hash: F5C7BC0A, Key: Flavor, Value: The small, fragile flower of a Kehjistan palm tree. Despite its beautiful colors, it has a pungent aroma like rotting flesh.
+Hash: A646FFA4, Key: Description, Value: Bound to Mahjoob's Safehouse

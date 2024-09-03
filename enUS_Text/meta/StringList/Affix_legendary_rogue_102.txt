@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Explosive Verve
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Grenade{/c} Skills count as {c_important}Trap{/c} Skills. Whenever you arm a {c_important}Trap{/c} or drop {c_important}Grenades{/c}, you gain {c_random}[Affix_Value_1|%+|]{/c} increased Movement Speed for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Grenade{/c} Skills are {c_important}Trap{/c} Skills. Arming a {c_important}Trap{/c} or dropping {c_important}Grenades{/c} grants {c_random}[Affix_Value_1|%+|]{/c} increased Movement Speed.

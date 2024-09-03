@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Shrines
+Hash: 7BFE534B, Key: simple_instruction, Value: Shrines grant a variety {c_highlight}short-term power increases{/c} when interacted with.

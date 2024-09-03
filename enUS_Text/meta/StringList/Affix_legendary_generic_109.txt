@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Smiting
+Hash: 003892BF, Key: Desc, Value: You have {c_random}[Affix."Static Value 0" * Affix_Value_1|%+|]{/c} increased Critical Strike Chance against {c_important}{u}Injured{/u}{/c} enemies. While you are {c_important}{u}Healthy{/u}{/c}, you gain {c_random}[Affix_Value_1|%+|]{/c} increased Crowd Control Duration.
+Hash: 82B7D312, Key: CodexDesc, Value: You gain {c_random}[Affix."Static Value 0" * Affix_Value_1|%+|]{/c} increased Critical Strike Chance to {c_important}{u}Injured{/u}{/c} enemies and {c_random}[Affix_Value_1|%+|]{/c} more Crowd Control Duration while {c_important}{u}Healthy{/u}{/c}.

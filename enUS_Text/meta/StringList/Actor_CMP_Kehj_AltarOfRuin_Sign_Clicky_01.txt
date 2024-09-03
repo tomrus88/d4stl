@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mining Equipment
+Hash: F2CA04D8, Key: NoticeSignText, Value: These tools are heavily worn. It appears these cultists have been excavating for some time.

@@ -1,0 +1,20 @@
+Hash: 003DFCC1, Key: Name, Value: The Beast Within
+Hash: 0871A46B, Key: Toast, Value: Follow Nafain's Wolf into the Heart of the Moors
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Follow Nafain's Wolf into the Heart of the Moors
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: The White Wolf will lead to Nafain. Perhaps then I can get some answers? 
+Hash: 5BEA8742, Key: Phase41OutsideSubzoneHeader, Value: Join Nafain's Wolf in the Heart of the Moors
+Hash: CEA227A3, Key: Callback94Header, Value: Join Nafain's Wolf in the Heart of the Moors
+Hash: 145F3402, Key: Phase67Description, Value: The White Wolf will lead to Nafain. Perhaps then I can get some answers? 
+Hash: 2790FB8A, Key: Phase67OutsideSubzoneHeader, Value: Join Nafain's Wolf
+Hash: A3D12282, Key: Callback66Header, Value: Join Nafain's Wolf
+Hash: 150401C6, Key: Phase89Description, Value: The White Wolf will lead to Nafain. Perhaps then I can get some answers? 
+Hash: AF0385CE, Key: Phase89OutsideSubzoneHeader, Value: Meet with Nafain's Wolf in the Blood Vale
+Hash: 164945C6, Key: Callback88Header, Value: Meet with Nafain's Wolf
+Hash: 19C2A149, Key: Phase84OutsideSubzoneHeader, Value: Follow Nafain's Wolf through the Blood Vale
+Hash: 7C54CC44, Key: Callback86Header, Value: Follow Nafain's Wolf
+Hash: 322413EC, Key: Phase133Description, Value: The White Wolf will lead to Nafain. Perhaps then I can get some answers? 
+Hash: E7E962B4, Key: Phase133OutsideSubzoneHeader, Value: Find Nafain in the Heart of the Moors
+Hash: F816C8F3, Key: Callback139Header, Value: Find Nafain in the Heart of the Moors
+Hash: 08793AB1, Key: Phase129Description, Value: Nafain hangs before me, tortured and pinned to a tree with vile and corrupted blood pouring from gaping wounds. Yet he still lives. There must be something I can do?
+Hash: 5B8AF719, Key: Phase129OutsideSubzoneHeader, Value: Speak with Nafain in the Heart of the Moors
+Hash: BEDAB751, Key: Callback128Header, Value: Speak with Nafain

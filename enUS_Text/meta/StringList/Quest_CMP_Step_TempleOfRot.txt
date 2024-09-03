@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Temple of Rot
+Hash: 0871A46B, Key: Toast, Value: A rotten, putrid evil has taken up residence in these hallowed halls
+Hash: EBAA2C2D, Key: Callback115Header, Value: Slay the Cannibal Champions
+Hash: E26052C2, Key: Callback84Header, Value: Find a way into the Temple
+Hash: 6AC6FC68, Key: Callback110Header, Value: Find a way into the Temple
+Hash: 51B5B2AB, Key: Callback113Header, Value: Find a way into the Temple
+Hash: 3DC59C04, Key: Callback68Header, Value: Rekindle the Wanderer's Shrine to conquer the Temple of Rot
+Hash: 6896A125, Key: Callback96Header, Value: Locate Molqarth's Lair

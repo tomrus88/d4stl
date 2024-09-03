@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Flameweaver
+Hash: F5C7BC0A, Key: Flavor, Value: Driven to surpass Esu, the wizard Naridan's reckless enchantments caused an inferno, devastating the ancient town of Cagrim. Only the gauntlets remained - a solemn warning to all who dare tame fire. 

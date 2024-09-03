@@ -1,0 +1,2 @@
+Hash: CB4D78C0, Key: Callback46Header, Value: Collect Aether from an Aether Fiend
+Hash: 56D6E5C1, Key: Callback65Header, Value: Slay the Aether Fiend

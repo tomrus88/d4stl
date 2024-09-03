@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Varshan's Prayer Necklace
+Hash: F5C7BC0A, Key: Flavor, Value: A modest string of beads that belonged to Varshan, priest of Velkhova. The once-intricate patterns have been worn shallow by years of constant prayer.

@@ -1,0 +1,43 @@
+Hash: 003DFCC1, Key: Name, Value: The City of Blood and Dust
+Hash: 0871A46B, Key: Toast, Value: Rescue Oyuun from the Guulrahn
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Search for Oyuun in Guulrahn
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Oyuun is the only person who knows the secret entrance into the palace where Elias was headed. I must find and rescue her.
+Hash: B12EDDB8, Key: Phase21Description, Value: Oyuun is the only person who knows the secret entrance into the palace where Elias was headed. I must find and rescue her.
+Hash: 7691F200, Key: Phase21OutsideSubzoneHeader, Value: Enter Guulrahn and search for Oyuun
+Hash: 0BDB18BB, Key: Callback23Header, Value: Enter Guulrahn and search for Oyuun
+Hash: D6E10F8C, Key: Phase106Description, Value: The Market Square is the site of a major slaughter. The villagers clearly fought for their lives. Seeing the widespread death, my hope of finding Oyuun alive wanes. I should look for her home, but I must also search among the dead.
+Hash: 830B7254, Key: Phase106OutsideSubzoneHeader, Value: Search for Oyuun in the Market Square of Guulrahn
+Hash: FF68574C, Key: Callback105Header, Value: Search for Oyuun in the Market Square
+Hash: 4406F769, Key: Phase103Description, Value: Oyuun's home is in Guulrahn's Market Square. I should check the area for any trace of her, alive or dead. Zolaya mentioned she had bright red hair.
+Hash: 8FE482D1, Key: Phase103OutsideSubzoneHeader, Value: Find the Market Square of Guulrahn
+Hash: 1879A109, Key: Callback102Header, Value: Find the Market Square
+Hash: F54CBBAC, Key: Phase115Description, Value: One of the villagers told me that those that weren't butchered in the streets were taken to the prisons under Guulrahn. I haven't found Oyuun's body among the slaughtered, perhaps she was taken there.
+Hash: A4AAC274, Key: Phase115OutsideSubzoneHeader, Value: Find a way into Guulrahn's prison
+Hash: 187F7F0B, Key: Callback221Header, Value: Find a way into the city's prison
+Hash: B91A3130, Key: Phase119Description, Value: I must hope that Oyunn still lives, caged somewhere inside the prison. She is the only one who can get us inside the palace, and to Elias.
+Hash: E8DEAC78, Key: Phase119OutsideSubzoneHeader, Value: Slay Akil, Jailer of the Weak, within Guulrahn prison
+Hash: D298E270, Key: Callback118Header, Value: Slay Akil, Jailer of the Weak
+Hash: D03D592A, Key: Phase131Description, Value: I must hope that Oyuun still lives, caged somewhere inside the prison. She is the only one who can get us inside the palace.
+Hash: 45CF6DB2, Key: Phase131OutsideSubzoneHeader, Value: Search the Guulrahn prison for Oyuun
+Hash: 434AA62A, Key: Callback130Header, Value: Search the Prison for Oyuun
+Hash: 4408F5DB, Key: Phase24Description, Value: One of the villagers told me that those that weren't butchered in the streets were taken to the prisons under Guulrahn. I haven't found Oyuun's body among the slaughtered, perhaps she was taken there.
+Hash: 69B8E183, Key: Phase24OutsideSubzoneHeader, Value: Find the prison of Guulrahn
+Hash: F2C9CEFE, Key: Callback26Header, Value: Find the prison
+Hash: 26E4E6D1, Key: Phase138Description, Value: I must hope that Oyuun still lives, caged somewhere inside the prison. She is the only one who can get us inside the palace, and to Elias.
+Hash: 7D2A4739, Key: Phase138OutsideSubzoneHeader, Value: Pick up the Prison Keys within Guulrahn prison
+Hash: 5E224F71, Key: Callback137Header, Value: Pick up the Prison Keys
+Hash: A7374DB3, Key: Phase149Description, Value: Oyuun says the quickest way out of the city undetected is through the forgotten quarter of the prisons. We must find the hidden entrance.
+Hash: 40E38C5B, Key: Phase149OutsideSubzoneHeader, Value: Destroy the weak wall within Guulrahn prison
+Hash: 975E6113, Key: Callback148Header, Value: Destroy the weak wall
+Hash: 32C8E1B0, Key: Phase155Description, Value: Find the way out through the Jail
+Hash: 6F5BECF8, Key: Phase155OutsideSubzoneHeader, Value: Find the exit and escape Guulrahn prison with Oyuun
+Hash: 4FB742F0, Key: Callback154Header, Value: Find the exit and escape the prison with Oyuun
+Hash: 3FEE4297, Key: Phase163OutsideSubzoneHeader, Value: Open Oyuun's cell within Guulrahn prison
+Hash: A2049E4F, Key: Callback162Header, Value: Open Oyuun's cell
+Hash: 145D3590, Key: Phase146Description, Value: Oyuun says the quickest way out of the city undetected is through the forgotten quarter of the prisons. We must find the hidden entrance.
+Hash: 4DBC9CD8, Key: Phase146OutsideSubzoneHeader, Value: Bring Oyuun to the secret exit within Guulrahn prison
+Hash: B06FAAD0, Key: Callback145Header, Value: Find the secret path with Oyuun
+Hash: C433B3F1, Key: Callback254Header, Value: Find the secret exit
+Hash: E36BD6A1, Key: Phase66Description, Value: Oyuun is freed. We must escape the city before she can help me find my way into the Tyrant's palace.
+Hash: D6840109, Key: Phase66OutsideSubzoneHeader, Value: Speak with Oyuun within Guulrahn prison
+Hash: 3DC59C04, Key: Callback68Header, Value: Speak with Oyuun

@@ -1,0 +1,3 @@
+Hash: 8EEB85E0, Key: Line1.136591, Value: When we mustered in Kyovashad they told us that everyone in Caldeum had joined the Triune Cult.
+Hash: DF21B1AD, Key: VoiceDir1.136591, Value: Edgar muses on his dark past
+Hash: 3FF2D964, Key: Line5.136591, Value: We were told to kill any who resisted. They said Inarius would know his own.

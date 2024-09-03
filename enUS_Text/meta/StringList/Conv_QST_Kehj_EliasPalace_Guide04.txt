@@ -1,0 +1,8 @@
+Hash: 8F796C41, Key: Line25.8CA44, Value: Could it be? Hah! It is! The gods favor our journey, friends!
+Hash: DFAF980E, Key: VoiceDir25.8CA44, Value: Coming across a pleasant surprise buried under the sand.
+Hash: 296DE5C3, Key: Line27.8CA44, Value: Share a drink with me, Deckard! A toast to another life-or-death adventure!
+Hash: 79A41190, Key: VoiceDir27.8CA44, Value: You found some very good booze buried under sand
+Hash: 47ADD91D, Key: Line31.6D03F, Value: No, I… I’ve had quite enough. It’s all yours.
+Hash: 97E404EA, Key: VoiceDir31.6D03F, Value: Slightly queasy. You're still hungover from a bender last night.
+Hash: E1C6C7A0, Key: Line33.8CA44, Value: Hah! I won’t turn down such generosity!
+Hash: 31FCF36D, Key: VoiceDir33.8CA44, Value: Your travelling companion offered you his share of expensive booze.

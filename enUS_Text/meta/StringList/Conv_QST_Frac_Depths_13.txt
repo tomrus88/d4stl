@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do we do now?"
+Hash: F779CF43, Key: Line3.FEF63, Value: Like before. Take my chalice, and place it down as near him as you can. I'll keep his attention.
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: In a hushed, hurried tone. There is an extremely unstable man near you, and you don't want to startle him.

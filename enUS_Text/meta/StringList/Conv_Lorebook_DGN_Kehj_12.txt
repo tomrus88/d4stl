@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Parchment
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Parchment
+Hash: 5D3B05C2, Key: Line1.BC420, Value: In memory of Grand Mage Emerus. 
+
+I met him decades ago. It was he who rejected my application to the Sanctum. He called me power-hungry, reckless. And I was.
+Hash: F72F7F44, Key: Line3.BC420, Value: That rejection was a gift. It put me on my path, pushed me to seek bolder mentors. I now have the power I once sought.
+Hash: 9123F8C6, Key: Line5.BC420, Value: When we took the Sanctum, I killed him myself. Raised him from the dead. Now he serves my every whim. A fitting legacy for a fool.

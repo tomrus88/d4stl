@@ -1,0 +1,3 @@
+Hash: D4479923, Key: Line1.BAE4, Value: Lorath spoke of Lesser Evils beyond Andariel. Could that—thing—have been one?
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: panting, exhausted from a hard battle
+Hash: D8F1EA65, Key: Line3.BAE4, Value: The Horadrim should be at the palace...if they made it.

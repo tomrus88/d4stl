@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Airidah
+Hash: 5D3AB126, Key: Line1.BAB4F, Value: What would the ancients think of me?
+Hash: 9123A42A, Key: Line5.BAB4F, Value: My people are forgetting the old ways. Growing weaker.
+Hash: 2B181DAC, Key: Line7.BAB4F, Value: They look to the Cathedral for safety and protection. Even for faith.
+Hash: C50C972E, Key: Line9.BAB4F, Value: And yet here I remain in the shadows, watching it all slip away.

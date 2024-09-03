@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What else can I do?"
+Hash: 5A196F77, Key: Line1.789BF, Value: Do you see the braziers? Light each of them.
+Hash: 8E02627B, Key: Line5.789BF, Value: Then we will drink the tea and wait.

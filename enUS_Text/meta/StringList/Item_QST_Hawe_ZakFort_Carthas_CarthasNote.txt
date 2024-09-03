@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Unsent Letter
+Hash: F5C7BC0A, Key: Flavor, Value: Written by Carthas, paladin of the Zakarum. His letters are bold and deliberate.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shield of Mount Arreat
+Hash: A646FFA4, Key: Description, Value: A champion's votive shield, best kept at the saddle.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8ED91C18, Key: Line1.124D4B, Value: That's three, four, five, six for me. Six for the skipper. And…five, six for the crew.
+Hash: DF0F47E5, Key: VoiceDir1.124D4B, Value: Counting out money

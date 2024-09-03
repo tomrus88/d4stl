@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How do you know of the events around the sealed door?"
+Hash: 8EB30ADE, Key: Line1.102596, Value: Perhaps a better question is, why are you the only one to take it seriously? I once...ahh, that was long ago I suppose.

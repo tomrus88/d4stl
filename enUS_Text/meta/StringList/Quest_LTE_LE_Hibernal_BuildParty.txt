@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Blighted Revelry
+Hash: 6E9787B1, Key: Callback317Header, Value: Melt and Destroy the Frigid Husks
+Hash: A7D39953, Key: Callback328Header, Value: Slay the remaining enemies
+Hash: D7F7BD12, Key: Callback363Header, Value: Ignite the Wagon
+Hash: 71EC3694, Key: Callback365Header, Value: Survive the celebration
+Hash: 1133CEB4, Key: Callback374Header, Value: Slay the Red-Cloaked Horror
+Hash: C98CB091, Key: Callback380Header, Value: Interrupt the Blightfiend's celebration

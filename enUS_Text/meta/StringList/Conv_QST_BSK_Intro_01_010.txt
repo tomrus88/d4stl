@@ -1,0 +1,2 @@
+Hash: 436B2ED9, Key: Line5.1D9565, Value: To arms! To arms, you rusted fools!
+Hash: 93A15AA6, Key: VoiceDir5.1D9565, Value: Barking command. Edged with fear.

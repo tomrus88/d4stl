@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why does this ledger have your name in it?"
+Hash: 8DDBDBF0, Key: Line5.54237, Value: No! I never should have swiped that bloody thing from Ked Bardu!
+Hash: FCE5421D, Key: VoiceDir5.54237, Value: Nervous, surprised
+Hash: F5341B60, Key: Line23.54237, Value: I won’t let it take me!
+Hash: 456A472D, Key: VoiceDir23.54237, Value: desperate. about to fight for your life

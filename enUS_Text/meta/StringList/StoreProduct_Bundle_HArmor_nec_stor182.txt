@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Adepts of Faith
+Hash: A646FFA4, Key: Description, Value: Rare is the glimpse of a Priest of Rathma in the midst of their dark affairs. Many suspect they walk among us; dressed as a peasant, a pauper…or a priest of the Holy Cathedral.
+Hash: 083EE0CE, Key: Quote, Value: An agent of balance, cloaked in Light.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

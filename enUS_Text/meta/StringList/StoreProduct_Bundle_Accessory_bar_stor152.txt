@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Champion Plumage
+Hash: A646FFA4, Key: Description, Value: It is believed that ravens ferry this Knight's soul from the lands of the living to those of the dead… and sometimes back again.
+Hash: 083EE0CE, Key: Quote, Value: Aspects of the Death Raven's nature.
+Hash: 13A53A8B, Key: Series, Value: "Death Raven" Accessories

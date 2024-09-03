@@ -1,0 +1,2 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Neyrelle
+Hash: 6E8CB2DA, Key: Line17.BAE4, Value: There is something strange going on here. Neyrelle must be nearby.

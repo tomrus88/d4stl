@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Inquisition Log - Day 34
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Another fell to darkness today. The ritual is fatal to all whose hearts can be captured, if we’re even able to capture the heart at all. We work tirelessly. Even if I wished for sleep, their cries are unrelenting."

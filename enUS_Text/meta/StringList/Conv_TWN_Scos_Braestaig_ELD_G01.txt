@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you okay?"
+Hash: 5D6B62B6, Key: Line1.F79C6, Value: Hmm, need to be sure my daughter has all the warding materials. She'll be a fine protector of our glen when she's old enough.

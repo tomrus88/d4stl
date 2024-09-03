@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Large Obducite Cache
+Hash: A646FFA4, Key: Description, Value: Contains 300 pieces of Obducite.

@@ -1,0 +1,3 @@
+Hash: 59F2E8EE, Key: Line1.54239, Value: Can’t believe he’s dead.
+Hash: C8FC4F1B, Key: VoiceDir1.54239, Value: Has found out that a dear friend didn't make it.
+Hash: DAD618B1, Key: Line6.54237, Value: What now, Yasir?

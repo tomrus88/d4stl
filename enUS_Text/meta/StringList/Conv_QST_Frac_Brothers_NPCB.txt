@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Has Perithan been around?"
+Hash: 8ED9FF1A, Key: Line1.1275AC, Value: That troublemaker? No, but let me know if you find him. I have some questions.

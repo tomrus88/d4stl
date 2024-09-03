@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Death's Embrace
+Hash: 003892BF, Key: desc, Value: Close enemies take {c_number}[{SF_0} * 100|%x|]{/c} more damage from you and deal {c_number}[{SF_1} * 100|%|]{/c} less damage to you.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Bonus Close Damage {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}
+{icon:bullet,1.2} Close Damage Reduction {icon:arrow,1.2} {c_number}[{SF_1} * 100|%|]{/c}

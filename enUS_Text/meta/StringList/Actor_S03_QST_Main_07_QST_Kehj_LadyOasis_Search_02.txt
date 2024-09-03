@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Old Ritual Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: Paper curled with age, inkwells long dry, clouded gems, and arcane implements. Magic from a time when the Mage Clans courted demons.

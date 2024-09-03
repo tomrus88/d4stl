@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Frozen Memories
+Hash: 003892BF, Key: Desc, Value: The {c_important}Avalanche{/c} Key Passive now applies to {c_number}[Affix."Static Value 0"]{/c} additional |4cast:casts;.

@@ -1,0 +1,4 @@
+Hash: DAB38EFD, Key: Line6.371E1, Value: No! I was so close!
+Hash: 49BCF52A, Key: VoiceDir6.371E1, Value: Devastated and angry that the ritual wasn't completed.
+Hash: 750A2605, Key: Line8.7F064, Value: No! I was so close!
+Hash: E4138C32, Key: VoiceDir8.7F064, Value: Devastated and angry that the ritual wasn't completed.

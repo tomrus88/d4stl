@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened here?"
+Hash: F40DE8F9, Key: Line3.789BF, Value: Guulrahn. Elias’ study is just ahead.

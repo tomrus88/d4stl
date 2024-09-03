@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Forgotten Exile
+Hash: A646FFA4, Key: Description, Value: When commonfolk see this lost soul, they fear it's an omen of death. But the Children of Bul-Kathos see a sibling gone mad...too far gone to return to the tribe.
+Hash: 083EE0CE, Key: Quote, Value: Spectre of the Steppes.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

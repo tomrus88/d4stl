@@ -1,0 +1,7 @@
+Hash: 086EAA02, Key: title, Value: Mounts
+Hash: 3D08DF31, Key: 0_instruction, Value: Mounts can be purchased from a Stable Master or discovered throughout Sanctuary. Once acquired, each mount will be available to all characters on your account.
+Hash: 8C67E8B2, Key: 1_instruction, Value: Once you have acquired a mount, you can call it by pressing {hotkey:Mount}. 
+Hash: 2B25FBB4, Key: 3_instruction, Value: While mounted, press {hotkey:mount_spur} for a {c_highlight}burst of speed{/c} to pass through enemies.
+Hash: DBC6F233, Key: 2_instruction, Value: You can select your summoned mount and customize its equipment at the Stable Master {icon:Marker_Vendor_Stable, 2}.
+Hash: 7A850535, Key: 4_instruction, Value: Your mount can get scared around too many monsters. If the bar fills completely you'll be {c_highlight}knocked off{/c}. 
+Hash: D8D1EF17, Key: 3_instruction_controller, Value:  While mounted, press {hotkey:mount_spur} for a {c_highlight}burst of speed{/c} to pass through enemies.

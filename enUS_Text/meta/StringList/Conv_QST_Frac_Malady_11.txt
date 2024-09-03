@@ -1,0 +1,12 @@
+Hash: 916E48C5, Key: Line5.FEF63, Value: (sigh) It is done.
+Hash: 0077AEF2, Key: VoiceDir5.FEF63, Value: exhausted sigh
+Hash: 2B62C269, Key: Line7.FEF74, Value: Vata! My boy! Can you hear me?
+Hash: C5573BEB, Key: Line9.FEF74, Value: Please! Say something!
+Hash: 722BCAB2, Key: Line11.B2A23, Value: (groans)
+Hash: 0C204434, Key: Line13.B2A23, Value: F-father? Where am I?
+Hash: 5C567001, Key: VoiceDir13.B2A23, Value: Groggy. Waking up from a bad dream.
+Hash: A6792CF8, Key: Line15.FEF74, Value: My boy! (sobs) Oh Vata! You're all right! Thank you Sister!
+Hash: 406DA658, Key: Line17.FEF63, Value: You're welcome. I'm sure I will see you at the next service, yes Petr? Right in the front pew?
+Hash: 90A3D225, Key: VoiceDir17.FEF63, Value: Tired but confident. Said with a bit of a knowing smirk.
+Hash: DA621FFC, Key: Line19.FEF74, Value: Of course Sister! Of course!
+Hash: 5ED20EB3, Key: Line21.FEF63, Value: Let us give them a moment. Speak to me outside.

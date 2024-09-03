@@ -1,0 +1,20 @@
+Hash: 086249EF, Key: Stats, Value: Stats
+Hash: FC17A0C4, Key: LevelReached, Value: Level Reached:
+Hash: 9FB1160E, Key: TimePlayed, Value: Time Played:
+Hash: 0473266A, Key: TotalGold, Value: Total Gold:
+Hash: 26318475, Key: CampaignProgress, Value: Campaign Progress:
+Hash: 07DBBC18, Key: Level, Value: Lv. {s1}
+Hash: 6A16C18C, Key: TimeValue, Value: {s1} h  {s2} m
+Hash: BA009C63, Key: GoldValue, Value: {s1} {icon:Character_Inventory_Currencies_GoldIcon, 1.5} 
+Hash: D70B195D, Key: CampaignValue, Value: {s1} %
+Hash: 976D2C52, Key: SlainBy, Value: Slain By:
+Hash: 140CEBD2, Key: Skills, Value: Skills
+Hash: 7EE0224F, Key: ToggleAdvanceView, Value: Toggle Advanced View
+Hash: D6D3B1BF, Key: ToggleBasicView, Value: Toggle Basic View
+Hash: DC5A03CE, Key: HallOfFallenHeroes, Value: Hall of Fallen Heroes
+Hash: 003766F1, Key: Back, Value: Back
+Hash: 8DF81276, Key: HeroLimitHeader, Value: Character Entry Limit Reached
+Hash: 81E199FB, Key: HeroLimitBody, Value: Your character list reached its limit. Your newest character will replace the oldest one. 
+Hash: A6189B38, Key: Actknowledge, Value: Acknowledge
+Hash: 32A1BEF3, Key: UnknownKiller, Value: Unknown Killer
+Hash: 7751AA1F, Key: SlotValue, Value: Slot {s1}

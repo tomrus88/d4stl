@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "Residence Search and Seizure"
+Hash: F2CA04D8, Key: NoticeSignText, Value: "By order of the Chieftain: In the pursuit of the Light, the town guard will begin searching all homes. With your help, we can root out sin from our village."

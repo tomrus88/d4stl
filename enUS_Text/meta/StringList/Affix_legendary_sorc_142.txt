@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of the Firebird
+Hash: 003892BF, Key: Desc, Value: Gain the {c_important}Flame Shield Enchantment{/c} for free. 
+
+When {c_important}Flame Shield{/c} activates, {c_important}Meteorites{/c} fall around you dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Fire damage.
+Hash: 82B7D312, Key: CodexDesc, Value: Gain the {c_important}Flame Shield Enchantment{/c} for free. When {c_important}Flame Shield{/c} activates, {c_important}Meteorites{/c} fall around you dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Fire damage.

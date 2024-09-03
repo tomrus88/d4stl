@@ -1,0 +1,12 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Hello
+Hash: 1D9F6856, Key: Line13.103AFA, Value: Feodor!? What has happened... oh, heavens, no! No...
+Hash: CEA6BBDE, Key: Line17.103AFE, Value: Such sights... I have witnessed... Such pleasure... such pain... I must have... more.
+Hash: 25A2614B, Key: VoiceDir17.103AFE, Value: Mumbling, exhausted, delusional 
+Hash: A72A659C, Key: Line19.103AFA, Value: What? Feodor!? How is it that you--?
+Hash: FE260B09, Key: VoiceDir19.103AFA, Value: In shock. 
+Hash: B9982F99, Key: Line21.103AFE, Value: More!
+Hash: 1093D506, Key: VoiceDir21.103AFE, Value: Shouting. 
+Hash: 921BD957, Key: Line23.103AFA, Value: Please... go after that woman who did this to him--
+Hash: E9177EC4, Key: VoiceDir23.103AFA, Value: Sad, defeated
+Hash: 6A9F831D, Key: Line25.103AFE, Value: MORE! MORE, MORE, MORE!
+Hash: C19B288A, Key: VoiceDir25.103AFE, Value: Screaming

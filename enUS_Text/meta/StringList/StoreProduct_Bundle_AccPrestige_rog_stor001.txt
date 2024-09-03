@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Pale Mischief
+Hash: A646FFA4, Key: Description, Value: One might think the stark-white fur would make stealth difficult, to say the least. Yet this one manages to make its way unnoticed into all sorts of places it shouldn't be.
+Hash: 083EE0CE, Key: Quote, Value: Pure trouble.
+Hash: 13A53A8B, Key: Series, Value: Prestige Rogue Accessories

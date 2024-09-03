@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Master Brewer
+Hash: A646FFA4, Key: Description, Value: With their knowledge of all that grows, the Master Brewer concocts wonderous libations and brings a little comfort to the folk of the Glen.
+Hash: 083EE0CE, Key: Quote, Value: Drink and be merry.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Equipment

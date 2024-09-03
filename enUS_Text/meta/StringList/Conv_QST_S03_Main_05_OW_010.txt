@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Malphas has overrun the Nursery."
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: I feared as much. Malphas’ influence now spans the breadth of Sanctuary. We need a better means of speaking across distances.
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: With a terse sigh. Malphas = mahl-fahs
+Hash: F16D0D13, Key: Line9.18AEA4, Value: I can modify your Seneschal to this purpose, but... I don't have what I need here.
+Hash: 41A338E0, Key: VoiceDir9.18AEA4, Value: Seneschal = sen-ehs-schall
+Hash: 4065B98F, Key: Line5.18AEA4, Value: However... Zoltun built a web of traps around the Vaults. When they are disturbed, they send vibrations into the earth, calling constructs to the Vault’s defense.
+Hash: 909BE55C, Key: VoiceDir5.18AEA4, Value: concerned, thoughtful. Then, lightbulb
+Hash: 18E96351, Key: Line7.18AEA4, Value: We should exploit this. Harvest the constructs for raw materials, and I can make what we need.

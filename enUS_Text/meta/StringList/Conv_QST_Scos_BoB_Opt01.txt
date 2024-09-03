@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who is the Bear of Blackweald?"
+Hash: 5D201C8E, Key: Line1.B20BA, Value: A fabled killer from the Days of Ash. Humph. A tale shared between merchants to keep their eyes open on the road.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: blunt, turning dismissive

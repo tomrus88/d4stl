@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Scribbled List
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Caldean flatbread, black olives, dates, salted pork, tea leaves for Ayuzhan. Need orichalcum for insulation, check bazaar."

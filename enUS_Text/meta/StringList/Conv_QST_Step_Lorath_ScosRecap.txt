@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I bore witness to Lilith’s evil in Scosglen.”
+Hash: 47ADD91D, Key: Line31.6D03F, Value: Oh, Donan. The poor fool never could have guessed that Lilith would come for Astaroth, let alone offer his boy to it. But what did she buy in return?
+Hash: 97E404EA, Key: VoiceDir31.6D03F, Value: Cynical. Grim.
+Hash: E1A2529F, Key: Line33.6D03F, Value: Astaroth hails from the Realm of Hatred, same as she. Perhaps she left something at home?
+Hash: 31D87E6C, Key: VoiceDir33.6D03F, Value: Pity. Condescending toward Donan.

@@ -1,0 +1,2 @@
+Hash: 5A3A896D, Key: Line1.91FE1, Value: You cannot escape the fire.
+Hash: C943EF9A, Key: VoiceDir1.91FE1, Value: (getting desperate during her fight with the player)

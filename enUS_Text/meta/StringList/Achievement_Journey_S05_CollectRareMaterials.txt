@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stuff of Legends
+Hash: 3A4912CF, Key: DescShort, Value: Collect Veiled Crystals from salvaging gear at the {icon:Marker_Blacksmith, 2.5} Blacksmith or other sources throughout Sanctuary

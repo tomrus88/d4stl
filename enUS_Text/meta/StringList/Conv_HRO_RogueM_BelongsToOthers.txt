@@ -1,0 +1,2 @@
+Hash: B20E5348, Key: Line23.BAE4.Rog.M, Value: That's someone else's.
+Hash: E301B0A9, Key: Line24.BAE4.Rog.M, Value: Shame, but it isn't mine.

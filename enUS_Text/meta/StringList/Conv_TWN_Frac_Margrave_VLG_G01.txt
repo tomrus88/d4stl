@@ -1,0 +1,4 @@
+Hash: 5D59265D, Key: Line1.E7244, Value: My neighbors fought before, but the curses I heard last night, ugh. Should I report them to the Priest?
+Hash: CC628C8A, Key: VoiceDir1.E7244, Value: To Vesna. Hushed. Worried. Suspicious of neighbors.
+Hash: F74D9FE0, Key: Line3.E7245, Value: You've known them for years, Milana, just—talk to them first.
+Hash: 6657060D, Key: VoiceDir3.E7245, Value: To Milana. Hushed. Pleading.

@@ -1,0 +1,2 @@
+Hash: 171B8FF7, Key: Buff4_Name, Value: Pool Seal
+Hash: 65A41A1A, Key: Buff4_Description, Value: Pool Seal

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Reeking Cauldron 
+Hash: F2CA04D8, Key: NoticeSignText, Value: Infected growths simmer over the heat, rendering down into foul, black oil. 

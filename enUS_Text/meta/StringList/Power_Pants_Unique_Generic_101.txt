@@ -1,0 +1,10 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Tassets of the Dawning Sky
+Hash: 7786FD97, Key: Buff1_Description, Value: Increases Maximum Cold Resistance by [{SF_0}*100|+%|].
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Tassets of the Dawning Sky
+Hash: 53C1369D, Key: Buff7_Description, Value: Increases Maximum Fire Resistance by [{SF_0}*100|+%|].
+Hash: 22C55B1C, Key: Buff9_Name, Value: Tassets of the Dawning Sky
+Hash: F27F499F, Key: Buff9_Description, Value: Increases Maximum Lightning Resistance by [{SF_0}*100|+%|].
+Hash: ABF35CA7, Key: Buff13_Name, Value: Tassets of the Dawning Sky
+Hash: 2580C0CA, Key: Buff13_Description, Value: Increases Maximum Poison Resistance by [{SF_0}*100|+%|].
+Hash: B09DADE9, Key: Buff15_Name, Value: Tassets of the Dawning Sky
+Hash: C43ED3CC, Key: Buff15_Description, Value: Increases Maximum Shadow Resistance by [{SF_0}*100|+%|].

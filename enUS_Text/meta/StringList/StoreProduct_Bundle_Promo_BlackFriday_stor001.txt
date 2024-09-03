@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Shards of Vulcan
+Hash: A646FFA4, Key: Description, Value: From the depths of Sanctuary come gifts of metal and volcanic glass; the weapons of Magmatic Armaments and 1800 platinum.
+Hash: 13A53A8B, Key: Series, Value: Shards of Vulcan

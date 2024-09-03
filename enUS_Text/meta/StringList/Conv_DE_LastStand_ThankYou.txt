@@ -1,0 +1,6 @@
+Hash: 280FAD31, Key: Line7.7DD23, Value: I’ve lost so many...it can’t have been for nothing. Wanderer, please, let me join you. Let me avenge the fallen.
+Hash: 9719135E, Key: VoiceDir7.7DD23, Value: Tired but determined to press on. Resolute.
+Hash: C20426B2, Key: Line9.7DD22, Value: I’ve lost so many...it can’t have been for nothing. Wanderer, please, let me join you. Let me avenge the fallen.
+Hash: 310D8CDF, Key: VoiceDir9.7DD22, Value: Tired but determined to press on.
+Hash: 0C29EC41, Key: Line13.AF367, Value: I’ve lost so many...it can’t have been for nothing. Wanderer, please, let me join you. Let me avenge the fallen.
+Hash: 5C60180E, Key: VoiceDir13.AF367, Value: Tired but determined to press on.

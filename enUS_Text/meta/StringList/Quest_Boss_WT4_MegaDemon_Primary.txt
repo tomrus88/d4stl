@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: What Wakes Below
+Hash: 45172A5D, Key: Callback34Header, Value: Inspect the {GIZMO}
+Hash: 04898A62, Key: Callback57Header, Value: Inspect the {GIZMO}
+Hash: E7B37160, Key: Callback91Header, Value: Defeat {MONSTER}
+Hash: 1B9C6464, Key: Callback95Header, Value: Defeat {MONSTER}

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How do we perform this ritual?"
+Hash: F701EBE7, Key: Line3.A109C, Value: This altar is empty. You must take the hair and light it at each shrine.
+Hash: A601497A, Key: Line15.A109C, Value: When that's done, we'll have a way to find the wight.
+Hash: 3FF5C2FC, Key: Line17.A109C, Value: Remember, the spirits don't want us here, and every time you light a shrine, they'll get angrier.
+Hash: D9EA3C7E, Key: Line19.A109C, Value: Try not to die. I don't want to do this alone.

@@ -1,0 +1,2 @@
+Hash: 5D20E6A1, Key: Line1.B2A23, Value: Hold on, Papa, the Elders have to find a cure soon. Just hold on!
+Hash: CC2A4CCE, Key: VoiceDir1.B2A23, Value: tearfully

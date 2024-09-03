@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: The dead have been disrupted.
+Hash: 1EADAE68, Key: Callback2Header, Value: Destroy the {MONSTER}s: {LEFT}
+Hash: 85A4CA58, Key: Callback11Header, Value: Slay {MONSTER}
+Hash: 6C93809B, Key: Callback14Header, Value: Return the Stone Carving to the Pedestal: {LEFT}
+Hash: 58D5557C, Key: Callback24Header, Value: Travel to the {LEVELAREA}

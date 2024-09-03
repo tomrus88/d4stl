@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: The Fell Council
+Hash: 82095A2C, Key: Line24.1D252B, Value: You served your purpose. The Daughter slain... to free the Lord of Hatred.
+Hash: D904FF99, Key: VoiceDir24.1D252B, Value: Grinning. Twisting the knife.

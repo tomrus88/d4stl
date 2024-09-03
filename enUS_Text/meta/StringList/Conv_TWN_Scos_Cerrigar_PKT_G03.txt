@@ -1,0 +1,2 @@
+Hash: 5D6B4384, Key: Line1.F7376, Value: You want to know suffering? Try planning patrols around every sacred pebble and twig in this city.
+Hash: CC74A9B1, Key: VoiceDir1.F7376, Value: Tired. Frustrated. Contempt for local customs.

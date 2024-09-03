@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tomaj's lying. I helped him with his work."
+Hash: 8EB1E23D, Key: Line1.1000C2, Value: I knew it. You're done, Tomaj. Pack your bags.
+Hash: DEE80E0A, Key: VoiceDir1.1000C2, Value: Smug, self-righteous; her suspicions have been confirmed.
+Hash: 6736ED00, Key: Line3.101BAB, Value: Wait, no! But I, I...
+Hash: B76D18CD, Key: VoiceDir3.101BAB, Value: Disbelieving; panicked. His fate has just been sealed.
+Hash: 3FB935C1, Key: Line5.1000C2, Value: Thank you, stranger. You should stick around, meet the boss. We could use more people like you in Backwater.
+Hash: 8FEF618E, Key: VoiceDir5.1000C2, Value: Appreciative, light-hearted.

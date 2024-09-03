@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wedding Ring
+Hash: A646FFA4, Key: Description, Value: A simple iron ring set with three small opals. The inscription reads "In sickness and in health".

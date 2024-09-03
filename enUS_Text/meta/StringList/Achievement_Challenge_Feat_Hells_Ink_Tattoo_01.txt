@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Inked
+Hash: 003892BF, Key: Desc, Value: Received a tattoo during a Hell's Ink event.

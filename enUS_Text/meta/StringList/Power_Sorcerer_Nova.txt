@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: name, Value: Nova
+Hash: 003892BF, Key: desc, Value: {c_label}Mana Cost: {/c}{c_resource}{Resource Cost}{/c}
+Unleash a nova of lightning that electrocutes enemies for {c_number}{payload:AOE_PAYLOAD}{/c}.

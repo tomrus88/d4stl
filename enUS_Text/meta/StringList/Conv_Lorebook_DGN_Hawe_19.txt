@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Bloodstained Confession
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Bloodstained Confession
+Hash: 59EA27DE, Key: Line1.3F392, Value: Here I stand in the sight of Heaven and renounce the Light from my heart. Wretched, I was born of sin... and to sin I commit my soul.
+Hash: C8F38E0B, Key: VoiceDir1.3F392, Value: Broken. Tearful. Hesitating. A forced confession.
+Hash: F3DEA160, Key: Line3.3F392, Value: Accept my blood, O Lord of Hatred, and guide me as thy servant... into the darkness, eternal.
+Hash: 62E8078D, Key: VoiceDir3.3F392, Value: Broken. Tearful. Hesitating. A forced confession.

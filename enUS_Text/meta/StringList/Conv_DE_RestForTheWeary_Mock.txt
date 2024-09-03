@@ -1,0 +1,18 @@
+Hash: 927D43C7, Key: Line73.54239, Value: We've been waiting for you all day!
+Hash: E2B36F94, Key: VoiceDir73.54239, Value: Overconfident
+Hash: 796BFA0A, Key: Line76.54239, Value: Look here! (laugh) Caught another one!
+Hash: C9A225D7, Key: VoiceDir76.54239, Value: Overconfident
+Hash: 605AB04D, Key: Line79.54239, Value: Now! Let's see what you brought us!
+Hash: B090DC1A, Key: VoiceDir79.54239, Value: Overconfident
+Hash: A63B6EE4, Key: Line63.54237, Value: We've been waiting for you all day!
+Hash: F6719AB1, Key: VoiceDir63.54237, Value: Overconfident
+Hash: 8D2A2527, Key: Line66.54237, Value: Look here! (laugh) Caught another one!
+Hash: DD6050F4, Key: VoiceDir66.54237, Value: Overconfident
+Hash: 7418DB6A, Key: Line69.54237, Value: Now! Let's see what you brought us!
+Hash: C44F0737, Key: VoiceDir69.54237, Value: Overconfident
+Hash: D1459A08, Key: Line91.8998F, Value: We've been waiting for you all day!
+Hash: 217BC5D5, Key: VoiceDir91.8998F, Value: Overconfident
+Hash: B834504B, Key: Line94.8998F, Value: Look here! (laugh) Caught another one!
+Hash: 086A7C18, Key: VoiceDir94.8998F, Value: Overconfident
+Hash: 9F23068E, Key: Line97.8998F, Value: Now! Let's see what you brought us!
+Hash: EF59325B, Key: VoiceDir97.8998F, Value: Overconfident

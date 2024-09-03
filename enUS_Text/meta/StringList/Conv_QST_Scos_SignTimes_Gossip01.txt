@@ -1,0 +1,3 @@
+Hash: 91090F92, Key: Line5.B20BA, Value: The sign’s gone missing at a time like this.
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: Frustrated
+Hash: 2AFD8914, Key: Line7.B20BA, Value: Mischief. Right now? Humph.

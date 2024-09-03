@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Tunnels Beneath The Oasis
+Hash: 003892BF, Key: Desc, Value: Sharp acrid smells seep from the hidden caverns.

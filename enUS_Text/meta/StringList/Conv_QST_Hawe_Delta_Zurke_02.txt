@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Samil was dead in the graveyard. I brought his body back for proof.”
+Hash: 8EB65F2C, Key: Line1.1086F0, Value: Ha! A promise kept after all.
+Hash: DEEC8AF9, Key: VoiceDir1.1086F0, Value: Amused. 
+Hash: 673A08EE, Key: Line3.1086F0, Value: Place him on the cot quickly. Enough time has been wasted.
+Hash: B77034BB, Key: VoiceDir3.1086F0, Value: Less amused. Down to business 

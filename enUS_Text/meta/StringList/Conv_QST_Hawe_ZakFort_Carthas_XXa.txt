@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Carthas
+Hash: 8EB71E8C, Key: Line1.108CDE, Value: I was there when Sankekur fell. I felt Mephisto’s magic clawing at my mind. Even today, when I remember that moment, I am unsure if the anger I feel comes from him or me.
+Hash: 3FBE7210, Key: Line5.108CDE, Value: But that does not hinder my faith. Remember, brothers and sisters, the Light won that day. We rallied. We defeated a Prime Evil. And what’s more, we did it together.
+Hash: 18421BD2, Key: Line7.108CDE, Value: The darkness will never extinguish the Light. It is our duty to ensure that. The day we discovered the corruption within our faith was the day we began anew.
+Hash: F0C5C594, Key: Line9.108CDE, Value: It was the day I knew I was truly fighting for the Light.

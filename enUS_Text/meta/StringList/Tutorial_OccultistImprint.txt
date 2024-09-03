@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Imprint
+Hash: 7BFE534B, Key: simple_instruction, Value: Imprinting upgrades a {c_rare}Rare{/c} or {c_legendary} Legendary{/c} item, by adding or modifying Legendary powers based on the selected Aspect.

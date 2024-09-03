@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The eyes are lost. We can't complete the body."
+Hash: BE8BAA95, Key: Line18.1BCB9E, Value: No! We cannot allow this power to exist! The Triune will claim it, they'll rip open the veil, and Hell will sweep across this world!
+Hash: 15875002, Key: VoiceDir18.1BCB9E, Value: Extreme frustration. Desperate.
+Hash: D0F9748E, Key: Line20.1BCB9E, Value: After all I’ve done... all I’ve sacrificed, I –  wait, that’s it!
+Hash: 27F519FB, Key: VoiceDir20.1BCB9E, Value: To self. Frustration, Despair, then Epiphany.

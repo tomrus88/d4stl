@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: The Way of the Three
+Hash: 0871A46B, Key: Toast, Value: Lighting the fires unlocked the altar...
+Hash: 3FC40BBF, Key: Callback27Header, Value: Damage the Communing Pillar
+Hash: A5CF923D, Key: Callback25Header, Value: Slay the Incoming Demons
+Hash: B98DBD5C, Key: Callback15Header, Value: Slay the Incoming Demons
+Hash: 538236DE, Key: Callback17Header, Value: Slay the Incoming Demons
+Hash: ED76B060, Key: Callback19Header, Value: Slay the Incoming Demons
+Hash: 71E69F39, Key: Callback21Header, Value: Slay the Incoming Demons
+Hash: 0BDB18BB, Key: Callback23Header, Value: Slay the Incoming Demons
+Hash: 112E3759, Key: Callback30Header, Value: Destroy the Pillar
+Hash: DF0BA3DF, Key: Callback36Header, Value: Locate the Communing Pillar
+Hash: 4A6A48FB, Key: Callback41Header, Value: Investigate the Cave
+Hash: D03F579C, Key: Phase52Description, Value: Speak with the High Priest
+Hash: 36AC1DDC, Key: Callback51Header, Value: Speak with High Priest Spirit

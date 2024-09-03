@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You wanted to see me."
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: I hear you’ve been making yourself useful. Might have a job for you.
+Hash: 6735A8AD, Key: Line3.10088C, Value: Last night bandits got into town and stole from the community stockpile. I'm still looking into how.
+Hash: B76BD47A, Key: VoiceDir3.10088C, Value: confiding
+Hash: 3FB9526F, Key: Line5.10088C, Value: If you could get it back, you'd be helping me out. And Backwater, of course.
+Hash: 8FEF7E3C, Key: VoiceDir5.10088C, Value: friendly.  last sentence as an aftertought
+Hash: 183CFC31, Key: Line7.10088C, Value: This is Orton, my right-hand man. He'll accompany you. Handle this for me and maybe I'll happen upon more work in the future.

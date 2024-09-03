@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: The Infernal Hordes
+Hash: 68161728, Key: Phase3Description, Value: Locran sacrificed himself to open the path to the demon's source. I will continue to repel the Infernal Hordes, buying precious time for Sanctuary. Locran's loss will not be in vain. 
+
+Among my Consumables, I now possess the Infernal Hordes compass. I will activate it when the time comes to confront the agents of Hatred again. 
+Hash: 1EADAE68, Key: Callback2Header, Value: Consume an Infernal Hordes Compass

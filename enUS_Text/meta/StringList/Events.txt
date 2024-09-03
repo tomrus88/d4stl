@@ -1,0 +1,98 @@
+Hash: D48EE51B, Key: EventJoined, Value: Event Joined
+Hash: C78C837B, Key: EventComplete, Value: Event Complete
+Hash: 640D5662, Key: EventJoined_World, Value: World Boss Joined
+Hash: 7D9E6F86, Key: EventCompleted_World, Value: World Boss Defeated
+Hash: FF98BD08, Key: Experience, Value: {s1} XP
+Hash: 8258BCA7, Key: Received, Value: Received:
+Hash: 003A6186, Key: Gold, Value: {s1} Gold
+Hash: DCD49245, Key: Player1Received, Value: P1
+Hash: 51510346, Key: Player2Received, Value: P2
+Hash: 2AAC0BD0, Key: Dungeon, Value: Dungeon
+Hash: 45BDC534, Key: Objective Complete, Value: Objective Complete
+Hash: 5BF9BACF, Key: PersistentEventLeavingWarning, Value: Leaving in {s1} D, {s2} Hrs, {s3} Mins
+Hash: 9E204B43, Key: PersistentEventEndingWarningQuests, Value: Event ending in {s1} D, {s2} Hrs, {s3} Mins
+Hash: 30DB02CF, Key: PersistentEventCannotComplete, Value: The {s1} needs to be active to complete this quest.
+Hash: B1B3DCD9, Key: PersistentEventRequiredQuests, Value: Event Required Quests
+Hash: 139EDFDE, Key: PersistentEventEndingWarning, Value: Ending in {s1} D, {s2} Hrs, {s3} Mins
+Hash: F3206510, Key: PoIDiscovered, Value: Point of Interest Discovered
+Hash: CEC12FBB, Key: EventComplete_World_Heroic, Value: Heroic World Event Complete
+Hash: 10758C54, Key: EventComplete_Heroic, Value: Heroic Event Complete
+Hash: C205D9F4, Key: EventJoined_Heroic, Value: Heroic Event Joined
+Hash: E7014783, Key: EventJoined_World_Event, Value: Heroic World Event Joined
+Hash: 588553EC, Key: EventNotComplete, Value: Event Not Complete
+Hash: E6E9DDF3, Key: EventNotComplete_World, Value: World Boss Escaped
+Hash: A07353A5, Key: EventNotComplete_Heroic, Value: Heroic Event Not Complete
+Hash: 88E56FCC, Key: EventNotComplete_World_Heroic, Value: Heroic World Event Not Complete
+Hash: DD2A4043, Key: EventNearby, Value: Event is Nearby
+Hash: 2F9A6F8A, Key: EventNearby_World, Value: A World Boss is Nearby
+Hash: 443037FC, Key: TerritoryDiscovered, Value: Territory Discovered
+Hash: 2D194A8F, Key: PVPDungeonInvasionTitle, Value: Dungeon Invasion
+Hash: C9F7781C, Key: PVPDugneonInvationPlayerWins, Value: Your Team has Won!
+Hash: C9F18A0E, Key: PVPDugneonInvationPlayerLose, Value: The Enemy Team has Won!
+Hash: 7A0759C9, Key: CampDiscovered, Value: Stronghold Discovered
+Hash: E98EAB3A, Key: CampComplete, Value: Stronghold Conquered
+Hash: A22E26D0, Key: PVPZoneEnter, Value: Entering PvP Territory
+Hash: FCE7C58A, Key: PVPZoneExiting, Value: Exiting PvP Territory
+Hash: 43D87D79, Key: PVPZoneExitingSubText, Value: Any active Bloodmark will be cleared upon leaving
+Hash: 2674BBD9, Key: PVPZoneEnterSubTextKBM, Value: 
+Hash: DFE62783, Key: PVPZoneEnterSubTextController, Value: 
+Hash: CF2C377F, Key: WarningHeader, Value: Warning
+Hash: 879FF743, Key: WaypointDiscovered, Value: Waypoint Unlocked
+Hash: 9B631E04, Key: NightmareDungeonActivated, Value: {s1} Activated
+Hash: AA873F37, Key: NightmareDungeonNameAndTier, Value: {s1} (Tier {s2})
+Hash: 786231E8, Key: CampEntered, Value: Stronghold Nearby
+Hash: 5ACEAC13, Key: EventNew_World, Value: New World Boss Available
+Hash: A511FB05, Key: EventWarmup_World, Value: World Boss Spawning soon in {s1}
+Hash: 798DCB64, Key: NightmareDungeonTrialComplete, Value: Trial Complete
+Hash: D79DFB89, Key: RewardsOnObjectiveComplete, Value: Rewards granted on dungeon objective completion
+Hash: 8F92B642, Key: TownPortalDiscovered, Value: {s1} Town Portal
+Hash: BBB447E4, Key: TownPortalDestinationDiscovered, Value: Destination Discovered
+Hash: 6FCF43F6, Key: ZoneEvent_Joined, Value: Legion Event Joined
+Hash: 34600516, Key: ZoneEvent_Complete, Value: Legion Event Completed
+Hash: 23C195D4, Key: PVPRitualOfHatred, Value: Ritual of Hatred
+Hash: FDF3CF6D, Key: PVPRitualOfHatredComplete, Value: Ritual Completed
+Hash: B3B9F910, Key: PVPRitualOfHatredFail, Value: Ritual Failed
+Hash: A17ADE85, Key: ExitHelltide, Value: Exiting the {s1}
+Hash: 9BF1EB49, Key: EnterHelltide, Value: Entering The {s1}
+Hash: F2C09914, Key: HelltideInfo_Enter, Value: Slay foes, collect Aberrant Cinders, and exchange them for Tortured Gifts. 
+Hash: 16DF3590, Key: HelltideInfo_Exit, Value: You can return at any point while the Helltide is active.
+Hash: B6691A6B, Key: Progress_Made, Value: Progress has been made
+Hash: EE4F7273, Key: Cellar, Value: Cellar
+Hash: D2E72ABD, Key: HelltideStartedNotifyOnly, Value: The Helltide has risen in multiple territories.
+Hash: FDB46C06, Key: HelltideEndedNotifyOnly, Value: The Helltide has receded. Your unspent Cinders have been lost. 
+Hash: 0634255B, Key: EventEndingFiveMinWarning, Value: The Helltide will recede in less than {s1}. Any unspent Cinders will be lost.
+Hash: EF68089D, Key: EventWarningMinutes, Value: {s1} minutes
+Hash: D68879DE, Key: NightmareDungeonTeleport, Value: Select the {s1} map icon to teleport to its entrance.
+Hash: 56438C4E, Key: EnterVampzone, Value: Entering The Blood Harvest
+Hash: 52C7A888, Key: ExitingVampzone, Value: Exiting The Blood Harvest
+Hash: D3FEC6A8, Key: Vampzone_Threat1, Value: The Vampires have taken notice of you
+Hash: D3FEC6A9, Key: Vampzone_Threat2, Value: The Vampires see you as a threat
+Hash: D3FEC6AA, Key: Vampzone_Threat3, Value: The Vampires are hunting you
+Hash: BD20A49F, Key: Vampzone_HarvestersSpawn, Value: Blood Harvesters Emerge
+Hash: 2B3D9662, Key: VampzoneStartedNotifyOnly, Value: The Blood Harvest has started in a new zone
+Hash: D3FEC6A7, Key: Vampzone_Threat0, Value: The Vampires have lost interest in you
+Hash: 79EC02A5, Key: Vampzone_AmbushWarning, Value: A pair of Blood Seekers are on your trail...
+Hash: F90BB619, Key: Event_Begins, Value: Event Begins {s1}
+Hash: A88D348B, Key: Event_Ends, Value: Event Ends {s1}
+Hash: 1FBDA178, Key: Vampzone_Info_Enter, Value: Slay vampires, rescue villagers, and use Blood Lures to draw out powerful Blood Seekers
+Hash: D26AC174, Key: Vampzone_Info_Exit, Value: You can return at any point while the Blood Harvest is active
+Hash: 8FE6191A, Key: Vampzone_EndingWarning, Value: The Blood Harvest will relocate in {s1}.
+Hash: 54C80007, Key: S2_Rep_LevelUp, Value: New Rewards are available at the Hunter Bounty Board
+Hash: 4886962F, Key: Hibernal_EndingWarning, Value: Midwinter Blight ends in {s1}.
+Hash: C94F4FED, Key: S03_UnearthedMachinations_StewardsApproach, Value: A Herald of Malphas approaches...
+Hash: F1683A2A, Key: S03_LNY_Rep_LevelUp, Value: Ying-Yue has New Rewards available
+Hash: 2ADA41B0, Key: Helltide_Threat_SeekerAmbush, Value: Hell gives way to their champion.
+Hash: A3A911B3, Key: Helltide_Threat_Lost, Value: Hell's hatred is satiated.
+Hash: 19588636, Key: Helltide_Threat_Tier1, Value: The forces of Hell grow angry.
+Hash: 19588637, Key: Helltide_Threat_Tier2, Value: The forces of Hell grow infuriated.
+Hash: 19588638, Key: Helltide_Threat_Tier3, Value: The forces of Hell grow frenzied.
+Hash: E6743697, Key: Helltide_Threat_GetBossItem, Value: [ph] The gathered essence of hatred have condensed into a shard
+Hash: 2191CD1E, Key: Helltide_SummonActivated, Value: An accursed ritual has been disturbed. A powerful demon is emerging.
+Hash: F3861309, Key: S4_Rep_LevelUp, Value: New Rewards are available at the Iron Wolves Encampment
+Hash: 47B2F19C, Key: BSK_SlayMiniboss, Value: Defeat the Aether Lord to gain Aether
+Hash: 9B16AEBB, Key: BSK_SlayShocktrooper, Value: Slay the Aether Fiend to gain Aether
+Hash: 4F65373C, Key: BSK_SlayHellSeeker, Value: Slay the Hellborne to gain Aether
+Hash: B572FF8E, Key: BSK_DoKillRing, Value: Slay foes near the Soulspire to gain Aether
+Hash: A9F9D1DA, Key: BSK_DestroyStructure, Value: Destroy the Aetheric Mass to gain Aether
+Hash: 095980F0, Key: MinionsGrowStronger, Value: The minions of Hell grow stronger
+Hash: 5566A814, Key: S05_Hellar_ModeName, Value: Aether

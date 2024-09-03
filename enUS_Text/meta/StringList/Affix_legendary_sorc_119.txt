@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gravitational
+Hash: 003892BF, Key: Desc, Value: {c_important}Ball Lightning{/c} orbits around you and deals {c_random}[Affix_Value_1|%x|]{/c} increased damage.

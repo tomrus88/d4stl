@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Dire Whirlwind
+Hash: 7786FD97, Key: Buff1_Description, Value: {c_important}Whirlwind{/c} gains {c_number}+[{SF_0}*100|%|]{/c} Critical Strike Chance per stack.

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who’s in charge here? "
+Hash: 8ED91C08, Key: Line1.124D51, Value: Coin is king, wanderer. Do what you want. But don’t mess with the money.
+Hash: DF0F47D5, Key: VoiceDir1.124D51, Value: Shrewd and sincere

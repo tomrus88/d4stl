@@ -1,0 +1,4 @@
+Hash: 675EEADD, Key: Line3.128A6B, Value: I will shatter your bones!
+Hash: B79516AA, Key: VoiceDir3.128A6B, Value: Hateful
+Hash: 916E48C5, Key: Line5.FEF63, Value: Slay it quickly! Before it finds another host!
+Hash: 0077AEF2, Key: VoiceDir5.FEF63, Value: Projected

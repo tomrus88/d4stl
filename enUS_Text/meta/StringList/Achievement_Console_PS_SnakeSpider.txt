@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Exterminator
+Hash: 003892BF, Key: Desc, Value: Kill 666 Snakes or Spiders.
+Hash: 3DA4E24A, Key: Crit_235690, Value: Kill Snakes
+Hash: 3DA4E231, Key: Crit_235688, Value: Kill Spiders

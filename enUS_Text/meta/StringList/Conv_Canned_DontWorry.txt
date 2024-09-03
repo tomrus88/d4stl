@@ -1,0 +1,8 @@
+Hash: D4479923, Key: Line1.BAE4, Value: Don't worry, I'll look into it.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: Don't worry, I'll take care of it.
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: I'll see what I can do.
+Hash: E2468CE9, Key: Line7.BAE4, Value: Worry not, I will take care of it.
+Hash: E6F0DE2B, Key: Line9.BAE4, Value: Worry not, I will protect them.
+Hash: 608DBF14, Key: Line11.BAE4, Value: Don't worry, I'll protect you.
+Hash: 65381056, Key: Line13.BAE4, Value: Don't worry, I'll protect it.
+Hash: 69E26198, Key: Line15.BAE4, Value: Worry not, I will keep it safe.

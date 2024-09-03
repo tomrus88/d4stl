@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Forgotten Soul
+Hash: A646FFA4, Key: Description, Value: Found in {c_important}Tortured Gifts{/c} during the
+{icon:Marker_Helltide, 2.5}{c_important}Helltide{/c} in World Tiers {icon:Icon_WorldTier_3, 2.0} and {icon:Icon_WorldTier_4, 2.0}. Occasionally found from other sources.
+
+Used to improve {c_important}Sacred{/c} and {c_important}Ancestral{/c} items.
+Hash: F5C7BC0A, Key: Flavor, Value: Is it a stone, an organ, or something else? Indescribably, it is all of these things.

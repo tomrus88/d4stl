@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Off duty?"
+Hash: 5D6D27EC, Key: Line1.F9C30, Value: Leave me alone. I'm off duty. Just trying to have a little fun... for once.

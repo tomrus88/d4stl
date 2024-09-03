@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Are you from Caldeum?”
+Hash: 7245EC7B, Key: Line11.BC3FE, Value: Used to be. City’s under siege, now.

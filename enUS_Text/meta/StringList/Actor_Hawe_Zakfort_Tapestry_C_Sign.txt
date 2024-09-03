@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hatred is Slain
+Hash: F2CA04D8, Key: NoticeSignText, Value: So it was that Mephisto was struck down, and Sankekur freed at last from Hatred's grasp.

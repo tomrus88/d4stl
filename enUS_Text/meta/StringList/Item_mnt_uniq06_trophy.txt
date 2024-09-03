@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Banner
+Hash: A646FFA4, Key: Description, Value: A banner tainted by blood, revering a fell order.

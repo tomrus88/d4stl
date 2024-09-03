@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: Name, Value: Blood Syphons
+Hash: 9F90DE2D, Key: Callback7Header, Value: Fill the Blood Syphon
+Hash: F61E7DE1, Key: Callback74Header, Value: Gather blood to draw out more vampires
+Hash: 33514A50, Key: Callback109Header, Value: Vampiric Syphon
+Hash: EF4FD180, Key: Phase83Description, Value: Slay the remaining monsters
+Hash: 486BD940, Key: Callback82Header, Value: Slay the remaining enemies
+Hash: 04BB75EA, Key: Callback112Header, Value: Fill {NEEDED} Blood Syphons by slaying enemies near them: {DONE_OVER_NEEDED}

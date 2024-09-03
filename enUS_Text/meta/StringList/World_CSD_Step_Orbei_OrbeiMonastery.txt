@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Orbei Monastery Halls
+Hash: 003892BF, Key: Desc, Value: An old Zakarum monastery where secret knowledge is hoarded.

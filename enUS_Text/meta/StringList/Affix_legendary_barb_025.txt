@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Dire Whirlwind
+Hash: 003892BF, Key: Desc, Value: {c_important}Whirlwind's{/c} Critical Strike Chance is increased by {c_random}[Affix_Value_1|%+|]{/c} for each second it is channeled, up to {c_random}[Affix_Value_1 * Affix_Value_2|%+|]{/c}.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Whirlwind's{/c} Critical Strike Chance is increased by {c_random}[Affix_Value_1|%+|]{/c} for each second it is channeled.

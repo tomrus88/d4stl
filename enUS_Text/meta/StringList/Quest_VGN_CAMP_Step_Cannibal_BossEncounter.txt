@@ -1,0 +1,3 @@
+Hash: AB22B0DB, Key: Callback32Header, Value: Enter Molqarth's Lair
+Hash: B8A227EA, Key: Callback4Header, Value: Slay Molqarth
+Hash: C5FA5A22, Key: Callback39Header, Value: Slay the Spawn of Molqarth

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Drowned Bell Trophy
+Hash: F2CA04D8, Key: NoticeSignText, Value: This bell looks like it was reclaimed from the Drowned. Taken apart and repurposed, its death knell has been silenced for good.

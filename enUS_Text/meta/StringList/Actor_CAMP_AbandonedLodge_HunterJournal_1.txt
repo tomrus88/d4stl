@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hunted Thorn Beast
+Hash: F2CA04D8, Key: NoticeSignText, Value: Signs of a bloody struggle, but this kill was never dressed. It seems the hunt was interrupted.

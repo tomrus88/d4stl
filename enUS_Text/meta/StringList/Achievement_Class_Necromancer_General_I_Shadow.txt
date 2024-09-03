@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dark Potential
+Hash: 003892BF, Key: Desc, Value: Kill 20 enemies with Shadow damage in 30 seconds as a Necromancer. 

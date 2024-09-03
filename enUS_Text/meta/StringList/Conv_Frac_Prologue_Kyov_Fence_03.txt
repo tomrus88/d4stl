@@ -1,0 +1,4 @@
+Hash: 5D20E74B, Key: Line1.B2A78, Value: Wait.
+Hash: 722BCB5C, Key: Line11.B2A78, Value: The old man sold me this too. Said he didn't need it anymore, but... I think he'd want it back all the same.
+Hash: C261F729, Key: VoiceDir11.B2A78, Value: Referencing an amulet with the Horadrim symbol.
+Hash: C4F2CD53, Key: Line9.B2A78, Value: No charge.

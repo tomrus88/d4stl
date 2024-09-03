@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Jolting
+Hash: 003892BF, Key: Desc, Value: Every {c_random}[Affix_Value_1|1|]{/c} seconds, you zap a nearby enemy for {c_number}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} Lightning damage.
+
+This effect is treated as a {c_important}Shock{/c} Skill.

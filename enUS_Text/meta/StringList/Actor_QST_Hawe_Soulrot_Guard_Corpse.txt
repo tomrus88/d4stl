@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Remains of Calv
+Hash: F2CA04D8, Key: NoticeSignText, Value: The abdomen of the guard's corpse looks to have suffered a massive rupture and shows signs of being devoured from the inside. 

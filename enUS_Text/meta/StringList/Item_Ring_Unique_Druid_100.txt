@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Airidah's Inexorable Will
+Hash: F5C7BC0A, Key: Flavor, Value: "When I was born, I breathed in the wind and the storm and they gave me life. When I die, I will breath out, and return that gift to the skies."
+- Journal excerpt

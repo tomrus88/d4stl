@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Farewell."
+Hash: 8ECF0FDE, Key: Line1.10E7A9, Value: (chuckle) That's a fine costume. The desert sun is going to love you.
+Hash: DF053BAB, Key: VoiceDir1.10E7A9, Value: Mildly amused by the Player's outfit.

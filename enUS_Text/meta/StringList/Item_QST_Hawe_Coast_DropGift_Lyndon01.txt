@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kingsport Ale
+Hash: F5C7BC0A, Key: Flavor, Value: An expensive bottle of ale with a distinctive maker's mark, imported from Kingsport. Lyndon might be interested in this.

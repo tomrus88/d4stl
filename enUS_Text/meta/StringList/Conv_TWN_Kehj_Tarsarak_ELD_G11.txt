@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you well?"
+Hash: 6752BA3E, Key: Line3.10E7F2, Value: The years pass, death comes, I remain...just a withered old fool and her memories.
+Hash: B788E60B, Key: VoiceDir3.10E7F2, Value: Heavy. Tired. Survivor's guilt.

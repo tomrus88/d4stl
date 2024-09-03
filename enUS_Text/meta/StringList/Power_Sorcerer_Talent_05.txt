@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Frigid Breeze
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Cold damage against {c_white}Vulnerable{/c} enemies has up to a {c_number}[{SF_1}|%|]{/c} chance to generate {c_number}{SF_0}{/c} Mana.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Mana Restored {icon:arrow,1.2} {c_number}{SF_0}{/c}

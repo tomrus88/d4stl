@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Third Blade
+Hash: F5C7BC0A, Key: Flavor, Value: "Restraint, mercy, honor...these are shackles, forged by the weak and the conquered." -Hephasto, the Armorer

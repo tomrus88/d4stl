@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Stolen Vigor
+Hash: 003892BF, Key: Desc, Value: While at maximum stacks of the {c_important}Momentum{/c} Key Passive, your {c_important}Cutthroat{/c} Skills deal {c_random}[Affix_Value_1|%|]{/c} increased damage and you become {c_important}{u}Unstoppable{/u}{/c} for {c_number}[Affix."Static Value 2"]{/c} seconds every {c_number}[Affix."Static Value 1"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: At maximum stacks of {c_important}Momentum{/c}, you deal increased {c_important}Cutthroat{/c} Skill damage and periodically become {c_important}{u}Unstoppable{/u}{/c}.

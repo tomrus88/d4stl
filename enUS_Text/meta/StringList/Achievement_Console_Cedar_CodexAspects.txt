@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Curious Collector
+Hash: 003892BF, Key: Desc, Value: Imprint 10 items at the Occultist with an Aspect from the Codex of Power.

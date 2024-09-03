@@ -1,0 +1,2 @@
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the Khazra attempting to breach the Sealed Door
+Hash: 38AA8D97, Key: Callback10Header, Value: Defeat the Death Priest

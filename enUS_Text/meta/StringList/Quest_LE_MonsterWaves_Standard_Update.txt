@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Waves of Darkness
+Hash: B8A227EA, Key: Callback4Header, Value: Slay as many enemy waves as you can before time runs out: {DONE}
+Hash: CCD5A370, Key: Callback190Header, Value: Slay the enemies
+Hash: C78284D2, Key: Callback183Header, Value: Defeat {NEEDED} waves: {DONE_OVER_NEEDED}
+Hash: 66CA1CF2, Key: Callback192Header, Value: Slay the remaining enemies

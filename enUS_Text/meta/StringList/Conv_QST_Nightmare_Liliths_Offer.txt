@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Offer
+Hash: DA18580D, Key: Line19.BD31C, Value: Hatred, Destruction, and Terror are forever; we will always need to fight them. But we can turn the tide of the Eternal Conflict in our favor. It starts here, with Mephisto's destruction--and you will lead the battles to come.
+Hash: 5E8846E6, Key: Line21.BD31C, Value: Simply take my hand. Fight for Sanctuary.
+Hash: F87CC068, Key: Line23.BD31C, Value: I will stay in the shadows.
+Hash: B6DC9E59, Key: Line25.BAE4, Value: I will never take your hand.
+Hash: 25E60486, Key: VoiceDir25.BAE4, Value: Determined--no way the player is going to side with Lilith.
+Hash: 2C65B36C, Key: Line27.BD31C, Value: Then this is the future that awaits you.
+Hash: 7C9BDF39, Key: VoiceDir27.BD31C, Value: (disappointed, not enraged)

@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Deadly Trade
+Hash: 0871A46B, Key: Toast, Value: A hapless merchant can’t fulfill his next shipment.
+Hash: FAF02F4B, Key: Phase6Description, Value: Shahos had a turn of bad luck with a shipment of Khazra glands. He’s hired me to recover glands for him straight from the source. He mentioned Khazra should be directly outside of Gea Kul.
+Hash: 059C64AB, Key: Callback5Header, Value: Collect {ITEM}: {DONE_OVER_NEEDED}
+Hash: 8DCA476E, Key: Phase9Description, Value: I have collected the Khazra glands. I should return these to Shahos before they spoil.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Return to Shahos
+Hash: 92C33198, Key: Phase12Description, Value: I found a work notice asking for mercenaries. I should seek out this Shahos by the docks and see if it’s worth my while.
+Hash: 85A4CA58, Key: Callback11Header, Value: Find Shahos

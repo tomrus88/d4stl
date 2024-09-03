@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: 5A2031C5, Key: Line1.6DF9E, Value: Ah, nothing special about our little town, but it’s home.
+Hash: C92997F2, Key: VoiceDir1.6DF9E, Value: Warm

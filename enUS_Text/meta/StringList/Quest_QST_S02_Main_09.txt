@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: Battle of Fear and Faith
+Hash: D53BFF05, Key: Phase0Description, Value: The Skull said Erys left urgently, headed for the Cathedral of Light. She has been fearful of my curse since the beginning...I must find her nevertheless and learn what has happened.
+Hash: 1EADAE68, Key: Callback2Header, Value: Seek out Erys at the Cathedral of Light
+Hash: C9FCD1EA, Key: Phase5Description, Value: I returned to check on progress with the sealed door, only to find an attack awaiting me and Erys nowhere to be found. I need to find out what happened.
+Hash: 38AA8D97, Key: Callback10Header, Value: Speak with Erys
+Hash: 74FC533C, Key: Phase25Description, Value: We halted the Blood Harvest and saved what captives we could. I must regroup with Erys at once. We cannot allow Lord Zir to recover from his defeat.
+Hash: 58D5557C, Key: Callback24Header, Value: Return to Erys in Ked Bardu
+Hash: 8D6916BE, Key: Phase81Description, Value: I found Erys outside the Cathedral amidst a desperate mob. Something is very wrong. I must speak with Erys and find out what.
+Hash: AE775FBE, Key: Callback80Header, Value: Speak with Erys
+Hash: ABD4C2DE, Key: Phase90Description, Value: Lord Zir's army is bleeding countless innocents and the Cathedral will not intervene. Erys and I have no choice but to trust each other and fight them on our own.
+Hash: 63438287, Key: Callback89Header, Value: Seek out and stop the Blood Harvest
+Hash: 028B1AA7, Key: Callback98Header, Value: Complete Chapter 3 of the Season Journey

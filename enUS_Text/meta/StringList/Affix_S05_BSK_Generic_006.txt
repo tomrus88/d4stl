@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Impulsive
+Hash: 003892BF, Key: Desc, Value: When you cast a Skill with a Cooldown, you explode, dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Fire damage.

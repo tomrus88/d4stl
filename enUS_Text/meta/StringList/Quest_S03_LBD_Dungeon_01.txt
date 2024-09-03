@@ -1,0 +1,12 @@
+Hash: 003DFCC1, Key: Name, Value: The Gauntlet
+Hash: 6573DDCA, Key: Callback103Header, Value: Slay Monsters to earn Score
+Hash: F61E7DE1, Key: Callback74Header, Value: Current Score: {DONE}
+Hash: 6FE82F7E, Key: Callback62Header, Value: Score: {DONE}
+Hash: FB719C7F, Key: Callback81Header, Value: Score: {DONE}
+Hash: 5296A16C, Key: Callback6Header, Value: Time Remaining: {TIMELEFT}
+Hash: 0BDB18BB, Key: Callback23Header, Value: Iron Key
+Hash: 3DF7878C, Key: Callback123Header, Value: {c_white}To Leave:{/c} Exit through the Collections/Trials Menu
+Hash: 1879A109, Key: Callback102Header, Value: Slay Monsters to earn Score
+Hash: 112E3759, Key: Callback30Header, Value: Open the Gate to Begin
+Hash: CB4D78C0, Key: Callback46Header, Value: Invalid Gauntlet State
+Hash: A4030E0A, Key: Callback121Header, Value: Invalid Gauntlet State

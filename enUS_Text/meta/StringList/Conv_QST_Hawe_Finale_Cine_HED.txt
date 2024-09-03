@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A44590A, Key: Line1.8DD12, Value: How many times must we do this before you learn? My life is not yours to claim.
+Hash: D8F1EA65, Key: Line3.BAE4, Value: I have been to the deepest chambers of the Sunken Temple, Elias.
+Hash: C1EB557F, Key: Line9.789BF, Value: (laugh)
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: You have no secrets from me.
+Hash: 2821C590, Key: Line7.8DD12, Value: Grrrr!
+Hash: 972B2BBD, Key: VoiceDir7.8DD12, Value: HUGE cry of exertion

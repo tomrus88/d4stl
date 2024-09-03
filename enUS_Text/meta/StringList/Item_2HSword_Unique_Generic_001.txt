@@ -1,0 +1,3 @@
+Hash: 1999888C, Key: TransmogName, Value: Forebearers’ Greatsword
+Hash: 003DFCC1, Key: Name, Value: The Grandfather
+Hash: F5C7BC0A, Key: Flavor, Value: An unbroken lineage of unwavering strength.

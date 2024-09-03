@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Descent
+Hash: F905982F, Key: Line43.BAE4.Rog, Value: You didn’t need that armor to prove your worth, friend.
+Hash: FD804CDC, Key: VoiceDir43.BAE4.Rog, Value: sad
+Hash: 4FA35FB7, Key: Line43.BAE4.Bar.M, Value: You did not need that armor to prove your worth, friend.
+Hash: 4FA35FB0, Key: Line43.BAE4.Bar.F, Value: You didn’t need that armor to prove your worth, friend.
+Hash: F9055D12, Key: Line43.BAE4.Dru, Value: You didn’t need that armor to prove your worth, friend.
+Hash: F90585DD, Key: Line43.BAE4.Nec, Value: You didn’t need that armor to prove your worth, friend.
+Hash: F9059C7B, Key: Line43.BAE4.Sor, Value: You didn’t need that armor to prove your worth, friend.

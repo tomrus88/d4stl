@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Eternal Torment
+Hash: 1EADAE68, Key: Callback2Header, Value: Destroy the Bone Mass
+Hash: B23C2F03, Key: Callback49Header, Value: Survive the torment
+Hash: 9F90DE2D, Key: Callback7Header, Value: Slay the remaining enemies
+Hash: 79001D61, Key: Callback38Header, Value: Destroy {NEEDED} Bone Masses before they explode: {DONE_OVER_NEEDED}

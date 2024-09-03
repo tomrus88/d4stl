@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Conclave
+Hash: 003892BF, Key: Desc, Value: Tales of profane rituals grip the people with fear.

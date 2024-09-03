@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why are the shrines doing this now?"
+Hash: F17E4302, Key: Line9.19A16A, Value: I’m not sure, but… Father always believed Sanctuary was created with two moons. Legend says one of the moons descended to Xiansai, became the First Xian of folklore.
+Hash: 45D7022B, Key: Line11.19A16A, Value: The ancestor of ancestors, whose spirit lives on in everything we do here…
+Hash: 1E5AABED, Key: Line13.19A16A, Value: I thought it might all be stories from my childhood, but… stories come from somewhere, don’t they? (slight chuckle)

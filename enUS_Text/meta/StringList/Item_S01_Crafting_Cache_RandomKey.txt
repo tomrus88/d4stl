@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Uncertain Invoker
+Hash: A646FFA4, Key: Description, Value: Contains a random Malignant Invoker, with a chance at a Wrathful Invoker.
+Hash: F5C7BC0A, Key: Flavor, Value: Cormond hasn't exactly explained why making these requires essences of other Malignant Hearts, but once thrust into a pustule, a more powerful Malignant is brought forth.

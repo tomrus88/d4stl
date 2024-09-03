@@ -1,0 +1,2 @@
+Hash: 8ED9FF19, Key: Line1.1275AB, Value: This one reeks of death.
+Hash: DF102AE6, Key: VoiceDir1.1275AB, Value: direct, earnest

@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Altar of Ruin
+Hash: 0871A46B, Key: Toast, Value: Lost for centuries, legends speak of a malefic temple of great evil
+Hash: 24EC1BD1, Key: Callback245Header, Value: Explore the cavern
+Hash: 7733992E, Key: Callback134Header, Value: Slay High Priests and retrieve their Keystones
+Hash: 1879A109, Key: Callback102Header, Value: Use the Keystones to unlock the Ritual Chamber
+Hash: C42DD5EF, Key: Callback135Header, Value: Slay Dark Cardinal Maldul
+Hash: 8E467330, Key: Callback172Header, Value: Slay Dark Cardinal Maldul
+Hash: D7EC010E, Key: Callback125Header, Value: Rekindle the Wanderer's Shrine to conquer the Altar of Ruin
+Hash: F3019888, Key: Callback200Header, Value: Slay Dark Cardinal Maldul
+Hash: 34A78978, Key: Callback198Header, Value: Return to the Ritual Chamber
+Hash: 2C3DAA2A, Key: Callback211Header, Value: Slay Dark Cardinal Maldul

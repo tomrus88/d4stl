@@ -1,0 +1,9 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Hercan
+Hash: 5D83F06C, Key: Line1.FD362, Value: Padrig, I know this may never reach you, but I couldn't live with myself if I didn't try.
+Hash: CC8D5699, Key: VoiceDir1.FD362, Value: Gentle, remorseful.
+Hash: 916CE370, Key: Line5.FD362, Value: The Drowned are closing in, and l fear I will never see you nor your mother again. Enclosed is an amulet passed down from my father.
+Hash: 0076499D, Key: VoiceDir5.FD362, Value: Composed but remoreseful.
+Hash: C555D674, Key: Line9.FD362, Value: Stay strong, and know that I am and always will be proud of you. No distance could ever change that.
+Hash: 345F3CA1, Key: VoiceDir9.FD362, Value: Proud
+Hash: 728ED47D, Key: Line11.FD362, Value: Take care of your mum. -Dad
+Hash: C2C5004A, Key: VoiceDir11.FD362, Value: Kind

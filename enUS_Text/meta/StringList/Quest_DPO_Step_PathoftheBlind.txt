@@ -1,0 +1,6 @@
+Hash: 059C64AB, Key: Callback5Header, Value: Travel to the {LEVELAREA}
+Hash: 112E3759, Key: Callback30Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: 003DFCC1, Key: Name, Value: Only the strong survive.
+Hash: 81A7EAE2, Key: Callback93Header, Value: Defeat the {MONSTER}
+Hash: 2A0770E5, Key: Callback78Header, Value: Travel to the Temple of Sight
+Hash: D53BFF05, Key: Phase0Description, Value: The bloodstained initiation grounds for Triune aspirants.

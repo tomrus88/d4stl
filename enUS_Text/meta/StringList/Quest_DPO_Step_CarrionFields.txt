@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Leashed to ruined earth.
+Hash: 486BD940, Key: Callback82Header, Value: Travel to the {LEVELAREA}
+Hash: 83A65A9D, Key: Callback52Header, Value: Return the Ancients Statue to the Pedestal: {LEFT}
+Hash: C94F0905, Key: Callback87Header, Value: Defeat the {MONSTER}

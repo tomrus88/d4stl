@@ -1,0 +1,4 @@
+Hash: 76E748CE, Key: 0_desc, Value: Search for Cathedral of Hatred in Hell
+Hash: 873B6535, Key: 7_desc, Value: Reach Spire of Hatred with Horadrim
+Hash: 793C716F, Key: 1_desc, Value: Find a way to stop Lilith using the Sightless Eye
+Hash: 803BEB52, Key: 4_desc, Value: Find Mephisto's Essence in Cathedral of Hatred

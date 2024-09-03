@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Searing Wards
+Hash: 003892BF, Key: Desc, Value: After spending {c_random}[Affix_Value_1]{/c} Mana your next {c_important}Firewall{/c} is free to cast and will destroy incoming Small Missiles.

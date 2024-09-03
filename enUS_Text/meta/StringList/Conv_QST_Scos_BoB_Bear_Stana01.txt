@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: The Bear of Blackweald
+Hash: 5D201C8E, Key: Line1.B20BA, Value: You should have stayed in Brione, Stana. Burned with the rest.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: cold, blunt; leaning threatening
+Hash: 6751176C, Key: Line3.10B961, Value: And you should have aimed higher. A gut wound like that was quite the gamble - and very unlike you.
+Hash: B7874339, Key: VoiceDir3.10B961, Value: mocking, superior tone; playfully disappointed
+Hash: 3FD4C12E, Key: Line5.10B961, Value: What gave you pause, I wonder?
+Hash: 900AECFB, Key: VoiceDir5.10B961, Value: grinning, mocking
+Hash: 2AFD8914, Key: Line7.B20BA, Value: Humph…
+Hash: 9A06EF41, Key: VoiceDir7.B20BA, Value: cold, gruff
+Hash: F0DC14B2, Key: Line9.10B961, Value: Come, Torben. Help me rekindle the Days of Ash. Bring back those fires that gave us so much life.
+Hash: 4112407F, Key: VoiceDir9.10B961, Value: confident, persuading
+Hash: 4534D3DB, Key: Line11.10B961, Value: Blackweald needs its Bear.
+Hash: 9C307948, Key: VoiceDir11.10B961, Value: cold, confident
+Hash: 0C1F7A21, Key: Line13.B20BA, Value: No. It’s time I finish what the fires could not.
+Hash: 5C55A5EE, Key: VoiceDir13.B20BA, Value: cold, earnest, focused

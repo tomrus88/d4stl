@@ -1,0 +1,9 @@
+Hash: 6272A389, Key: Phase112Description, Value: Supplies in hand, Lyndon and I are to meet with his "contacts" near the shipwrecks up north.
+Hash: 003DFCC1, Key: Name, Value: Discretionary Spending
+Hash: 0871A46B, Key: Toast, Value: Lyndon needs some muscle to ensure a trade deal goes smoothly.
+Hash: 20432EE1, Key: Phase84Description, Value: Before the deal could complete, we were ambushed by some traitors from Backwater. They seemed to be angry with Lyndon.
+Hash: B26E1A8B, Key: Callback104Header, Value: Slay the Backwater Traitors
+Hash: 34ADAE21, Key: Callback92Header, Value: Speak with Lyndon's contacts
+Hash: 69BB27AF, Key: Phase109Description, Value: Supplies in hand, Lyndon and I are to meet with his "contacts" near the shipwrecks up north.
+Hash: E6570D8F, Key: Callback108Header, Value: Speak with Lyndon's Contact
+Hash: B7C13929, Key: Callback111Header, Value: Meet Lyndon's contacts

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Thaumaturge
+Hash: A646FFA4, Key: Description, Value: The ensemble of the Thaumaturge is a testament to their strong will and vast knowledge. 
+Hash: 083EE0CE, Key: Quote, Value: Workers of true wonders whose arcane methods are drawn from divine inspiration.
+Hash: 13A53A8B, Key: Series, Value: Sorcerer Armor

@@ -1,0 +1,3 @@
+Hash: 76444294, Key: Line28.6E261, Value: The w-wall ahead. That used to be the entrance to the old prison wing.
+Hash: C67A6E61, Key: VoiceDir28.6E261, Value: Shaky, terrified
+Hash: FAB4316D, Key: Line30.6E261, Value: Can you break through?

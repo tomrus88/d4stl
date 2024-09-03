@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: TradingTestItem
+Hash: A646FFA4, Key: Description, Value: TradingTestItem
+Hash: F5C7BC0A, Key: Flavor, Value: TradingTestItem

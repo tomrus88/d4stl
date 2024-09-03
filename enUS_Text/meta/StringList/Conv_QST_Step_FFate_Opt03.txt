@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Ancestors’ sacrifices?”
+Hash: 8ED9FF19, Key: Line1.1275AB, Value: Since the great betrayal, Crane Tribe has only known hardship and sacrifice.
+Hash: DF102AE6, Key: VoiceDir1.1275AB, Value: forward, sincere
+Hash: 675DA8DB, Key: Line3.1275AB, Value: I honor my kin through my strength.
+Hash: B793D4A8, Key: VoiceDir3.1275AB, Value: direct, sincere, with pride
+Hash: 3FE1529D, Key: Line5.1275AB, Value: When a demon had my arm in its jaws, only my warriors mattered. I slammed its maw down and returned to my kin. Nothing would keep me from their side.
+Hash: 90177E6A, Key: VoiceDir5.1275AB, Value: sincere, emotional, recalling a proud memory
+Hash: 1864FC5F, Key: Line7.1275AB, Value: I returned to take its skull as fair exchange, but never to cover what I lost.
+Hash: 689B282C, Key: VoiceDir7.1275AB, Value: sincere, emotional, recalling a proud memory
+Hash: F0E8A621, Key: Line9.1275AB, Value: No scar holds greater pride.
+Hash: 411ED1EE, Key: VoiceDir9.1275AB, Value: sincere, emotional, proud

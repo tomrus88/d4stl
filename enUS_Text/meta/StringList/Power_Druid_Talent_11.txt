@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Mending
+Hash: 003892BF, Key: desc, Value: While in Werebear form, you receive {c_number}[{SF_0} * 100|%+|]{/c} additional Healing from all sources and gain {c_number}[{SF_1} * 100|%x|]{/c} increased Maximum Life.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Healing {icon:arrow,1.2} {c_number}[{SF_0}*100|%+|]{/c}
+{icon:bullet,1.2} Maximum Life {icon:arrow,1.2} {c_number}[{SF_1}*100|%x|]{/c}

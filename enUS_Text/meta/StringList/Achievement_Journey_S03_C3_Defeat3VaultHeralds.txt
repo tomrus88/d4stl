@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kill the Messengers
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Vault Heralds summoned at {icon:Marker_Summoning_Brazier, 2.5} Braziers, available after completing or skipping the Campaign

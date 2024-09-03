@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found a dead merchant. Throat torn out..."
+Hash: 5D201C8E, Key: Line1.B20BA, Value: Torn throat? Hmm… Too clean for a beast. Messy for a man.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: grave, pondering
+Hash: F7177A0E, Key: Line3.B79B1, Value: It’s the Bear of Blackweald! (hic) Returned from the Days of Ash to silence us all!
+Hash: 6620E03B, Key: VoiceDir3.B79B1, Value: drunk, exuberant, almost mocking; pronounced "Black-weild"
+Hash: 910BF390, Key: Line5.B79B1, Value: Tore out their throats, he did. Women. Children. Any who faced the man were left wheezing blood! (laughs)
+Hash: 001559BD, Key: VoiceDir5.B79B1, Value: drunk, playfully grave, mocking
+Hash: 2AFD8914, Key: Line7.B20BA, Value: There is no “Bear.”
+Hash: 9A06EF41, Key: VoiceDir7.B20BA, Value: stern, dismissive, gruff
+Hash: C4F20296, Key: Line9.B20BA, Value: But something has eyes for our merchants. Others have yet to arrive from the eastern road.
+Hash: 33FB68C3, Key: VoiceDir9.B20BA, Value: focused, earnest, concerned
+Hash: 722B009F, Key: Line11.B20BA, Value: Not normal to miss their mid-way pint. Something’s wrong…
+Hash: C2612C6C, Key: VoiceDir11.B20BA, Value: earnest, concerned

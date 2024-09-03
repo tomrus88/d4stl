@@ -1,0 +1,2 @@
+Hash: 5D71D84F, Key: Line1.ED393, Value: That's my mother's chest... it looks recently disturbed. Strange.
+Hash: CC7B3E7C, Key: VoiceDir1.ED393, Value: idly curious then confused

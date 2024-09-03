@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: Whisper Expert
+Hash: 003892BF, Key: Desc, Value: Complete a Whisper of each type.
+Hash: 3DA4492C, Key: Crit_234396, Value: Assassination
+Hash: 3DA4C800, Key: Crit_235032, Value: Dungeon
+Hash: 3DA4C801, Key: Crit_235033, Value: Harvest
+Hash: 3DA4C802, Key: Crit_235034, Value: World Event
+Hash: 3DA4C803, Key: Crit_235035, Value: PvP
+Hash: 3DA4C804, Key: Crit_235036, Value: World Boss
+Hash: 3DA4DCE6, Key: Crit_235506, Value: Culling
+Hash: 3DA5E58C, Key: Crit_237177, Value: Legion Event
+Hash: 3DA5E58D, Key: Crit_237178, Value: Ritual

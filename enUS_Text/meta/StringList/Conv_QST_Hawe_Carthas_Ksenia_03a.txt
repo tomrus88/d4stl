@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Mephisto's corruption pollutes them even in death."
+Hash: 8EB39B3B, Key: Line1.103673, Value: Look there. Blood flows from this blade as though the wound were made moments ago. Hatred has seeped into their very souls.
+Hash: DEE9C708, Key: VoiceDir1.103673, Value: Worried. Shaken. Understanding how dire the situation is.
+Hash: 183E9881, Key: Line7.103673, Value: I know of a ritual that will cleanse this evil. Surely this is why the Light has guided me here.
+Hash: 6874C44E, Key: VoiceDir7.103673, Value: Determined to not lose faith! Gathering courage.
+Hash: 3FBAEEBF, Key: Line5.103673, Value: We must collect these tainted blades and find a suitable place to perform the ritual. Only then will the spirits of these fallen faithful be redeemed.

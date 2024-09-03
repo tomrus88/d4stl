@@ -1,0 +1,3 @@
+Hash: C50CEE72, Key: Line9.BC3FE, Value: (sigh) Poor fool just couldn’t leave that mutt behind.
+Hash: 2B1874F1, Key: Line7.BC3FF, Value: He must’ve ran right back into the Knights.
+Hash: 9A21DB1E, Key: VoiceDir7.BC3FF, Value: tearful

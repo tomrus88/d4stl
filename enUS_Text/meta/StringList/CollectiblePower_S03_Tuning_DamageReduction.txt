@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Safeguard Support
+Hash: A646FFA4, Key: Description, Value: When used, the supported Skill grants {c_number}[{SF_0}*100|1%x|]{/c} Damage Reduction to you for {c_number}[{SF_1}|1|]{/c} seconds.
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Damage Reduction {icon:arrow,1.2} {c_number}[{SF_3}*100|1%x|]{/c}
+Hash: E971A20F, Key: Modifier, Value: Provides {c_number}[{SF_0}*100|1%|]{/c} Damage Reduction to you.
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by overcoming Vault challenges

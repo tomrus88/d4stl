@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Carved Inscription
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Eternity. Ferocity. Divinity. These are the powers of your stolen birthright, dwindling in the blood of humanity. Claim the blood. Reclaim your birthright."

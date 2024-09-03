@@ -1,0 +1,16 @@
+Hash: 003DFCC1, Key: Name, Value: A Cold and Lifeless Shore
+Hash: 0871A46B, Key: Toast, Value: Meet Lorath & Neyrelle on the coast
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Rejoin Lorath & Neyrelle on the way to the eastern shore
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: The Tree of Whispers told us to "seek a coffin beyond the wrecks." Lorath and Neyrelle have gone towards the eastern shore in search. I should join them.
+Hash: F4A9EC5A, Key: Phase14Description, Value: The Tree of Whispers told us to "seek a coffin beyond the wrecks." Lorath and Neyrelle have gone towards the eastern shore in search. I should join them.
+Hash: F70C96E2, Key: Phase14OutsideSubzoneHeader, Value: Rejoin Lorath & Neyrelle on the way to the eastern shore
+Hash: 0687FA1D, Key: Callback16Header, Value: Rejoin Lorath & Neyrelle
+Hash: E96ABF3F, Key: Phase19Description, Value: I found Lorath and Neyrelle camped in the eastern delta. We're headed to the coast to search for a coffin hiding amongst the shipwrecks there.
+Hash: 8C4D7B67, Key: Phase19OutsideSubzoneHeader, Value: Search the wrecks with your allies
+Hash: A07C739F, Key: Callback18Header, Value: Search the wrecks with your allies
+Hash: E2223B19, Key: Phase22Description, Value: Lorath has found something far off Hawezar's eastern shore. I should take a look myself.
+Hash: C79EEC81, Key: Phase22OutsideSubzoneHeader, Value: Search the wrecks with your allies
+Hash: 45172A5D, Key: Callback34Header, Value: Speak with Neyrelle
+Hash: A5EFB09D, Key: Phase26Description, Value: The Tree of Whispers told us to "seek a coffin beyond the wrecks." Lorath and Neyrelle have gone on ahead towards the eastern coast to search. I should join them.
+Hash: 0BD2D685, Key: Phase26OutsideSubzoneHeader, Value: Speak with Lorath in the Rotspill Delta
+Hash: 8CBE4880, Key: Callback28Header, Value: Speak with Lorath

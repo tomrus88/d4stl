@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Rat Race
+Hash: 8EB1FEEB, Key: Line1.10088C, Value: Sirs and madams, pleasure to see you again.
+Hash: DEE82AB8, Key: VoiceDir1.10088C, Value: Hospitable.
+Hash: 2B5010C1, Key: Line7.EDC71, Value: Lyndon, you bastard!
+Hash: F108E4B6, Key: Line9.140002, Value: They killed Yara!

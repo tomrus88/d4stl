@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What is this place?”
+Hash: 40E19EED, Key: Line4.54217, Value: The ass end of Sanctuary, that’s what. Ugh. There’s coin in it, though, if you know where to look.
+Hash: DAD6186F, Key: Line6.54217, Value: Smugglers’ caravans used to come up this way, before the freaks in the red robes set up shop. Lots of caravans burned, lots of goods lost. (groan) Like this relic. That’s where you and I come in.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hunter's Ledger
+Hash: F2CA04D8, Key: NoticeSignText, Value: An open ledger with angrily scrawled notes detailing places that no longer have game, are too dangerous, or are so tainted it isn't worth setting traps there anymore.

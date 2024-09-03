@@ -1,0 +1,22 @@
+Hash: 003DFCC1, Key: Name, Value: Trophy Hunter
+Hash: 003892BF, Key: Desc, Value: Kill all extremely rare monsters in the open world.
+Hash: 3DA5768C, Key: Crit_236844, Value: "Wrathful" Osgar Reede
+Hash: 3DA5768D, Key: Crit_236845, Value: Corlin Hulle
+Hash: 3DA5768E, Key: Crit_236846, Value: Sir Lynna
+Hash: 3DA5768F, Key: Crit_236847, Value: Rotsplinter
+Hash: 3DA57690, Key: Crit_236848, Value: Almunn
+Hash: 3DA57691, Key: Crit_236849, Value: Pitiless Gur
+Hash: 3DA576A9, Key: Crit_236850, Value: Zarozar the Mighty
+Hash: 3DA576AA, Key: Crit_236851, Value: Bhotak the Inevitable
+Hash: 3DA576AB, Key: Crit_236852, Value: Lord Eònan
+Hash: 3DA576AC, Key: Crit_236853, Value: Blind Odwyn
+Hash: 3DA576AD, Key: Crit_236854, Value: Garbhan Ennai
+Hash: 3DA576AE, Key: Crit_236855, Value: Gaspar Stilbian
+Hash: 3DA576AF, Key: Crit_236856, Value: Renn Dayne & Claudia Dayne
+Hash: 3DA576B1, Key: Crit_236858, Value: Enkil
+Hash: 3DA576B2, Key: Crit_236859, Value: Qiniel
+Hash: 3DA5FA0B, Key: Crit_237617, Value: Nine-Eyes
+Hash: 3DA5FA0C, Key: Crit_237618, Value: Faraya Tehi
+Hash: 3DA5FA25, Key: Crit_237620, Value: Trembling Mass
+Hash: 3DA5FA0D, Key: Crit_237619, Value: Abe-Mari
+Hash: 3DA5FA0A, Key: Crit_237616, Value: Captain Willcocks

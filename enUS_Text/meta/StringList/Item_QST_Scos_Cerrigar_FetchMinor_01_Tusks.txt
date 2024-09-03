@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charger Tusk
+Hash: F5C7BC0A, Key: Flavor, Value: Carving designs into tusks such as these is an old pastime of the glenfolk.

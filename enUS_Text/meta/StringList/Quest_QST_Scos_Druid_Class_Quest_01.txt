@@ -1,0 +1,28 @@
+Hash: 003DFCC1, Key: Name, Value: Druid: Spirits of the Lost Grove
+Hash: 027C5085, Key: Phase97Description, Value: The Druid Ardreth of Túr Dúlra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
+
+I have recovered Gathlen's skull. I should return to Túr Dúlra and speak with Ardreth. 
+Hash: 6896A125, Key: Callback96Header, Value: Speak with Druid Ardreth in Túr Dúlra
+Hash: E2203CA7, Key: Phase101Description, Value: The Druid Ardreth of Túr Dúlra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
+
+The tormented spirit of Gathlen has been imprisoned. I must find a way to set the spirit free. 
+Hash: 6573DDCA, Key: Callback103Header, Value: Investigate Fainne, the Abandoned Grove
+Hash: 936600EA, Key: Phase113Description, Value: The Druids of Túr Dúlra have much to teach. I should travel there and learn of the powers they possess. 
+Hash: EBAA2C2D, Key: Callback115Header, Value: Speak with Druid Ardreth in Túr Dúlra
+Hash: 147CC193, Key: Callback184Header, Value: Honor the Spirit Lord
+Hash: 8E0BE610, Key: Phase182Description, Value: The Druid Ardreth of Túr Dúlra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
+
+I should visit the shrine to Gathlen and pay homage there. 
+Hash: 2D8E0B50, Key: Callback181Header, Value: Travel to the Shrine of the Spirit Lord
+Hash: E4B373B7, Key: Phase189Description, Value: The Druid Ardreth of Túr Dúlra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
+
+I must speak with the tormented spirit of Gathlen.
+Hash: 4865B497, Key: Callback188Header, Value: Commune with the Spirit Lord
+Hash: B03A8E6B, Key: Phase204Description, Value: The Druid Ardreth of Túr Dúlra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
+
+I must honor Gathlen by placing his skull on the shrine. 
+Hash: D9F04ECB, Key: Callback203Header, Value: Honor Gathlen and mount the Skull of the Stag Lord on the Altar
+Hash: A4FB6150, Key: Phase209Description, Value: The Druid Ardreth of Túr Dúlra has asked for aid in finding the ancient spirit Gathlen before the lesser spirits of the perish. 
+
+The tormented spirit of Gathlen has been imprisoned. I must find a way to set the spirit free. 
+Hash: 5AD37E90, Key: Callback208Header, Value: Pick up the Skull of the Spirit Lord

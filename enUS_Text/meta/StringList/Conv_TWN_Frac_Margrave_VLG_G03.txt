@@ -1,0 +1,2 @@
+Hash: 5D59265F, Key: Line1.E7246, Value: Did you walk here too? (scoff) I will pray for our feet...this pilgrimage has not been kind to them.
+Hash: CC628C8C, Key: VoiceDir1.E7246, Value: To Player. Friendly. Smiling. Tired.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do we do now?"
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Same as before. This changes nothing.
+Hash: C928B177, Key: VoiceDir1.6D03F, Value: chilling drive
+Hash: F427C5EC, Key: Line3.7FA05, Value: Hm.
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Skeptical but holding back

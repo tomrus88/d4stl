@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: The Price of Purity
+Hash: F5C7BC0A, Key: Flavor, Value: "We are born of conflict, Light and Dark struggling within us. Many have imagined that they can free themselves from this struggle, but know this: death is the only escape." - Abbot Nathas of Orbei

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nahantu Gladiator
+Hash: A646FFA4, Key: Description, Value: Found in the overgrown ruins of an Old Kurast arena, this armor appears fit for a champion. Jeweled pictograms tell of great victories, long faded from memory.
+Hash: 083EE0CE, Key: Quote, Value: Glory long forgotten.
+Hash: 13A53A8B, Key: Series, Value: Prestige "Vessel of Hatred" Equipment

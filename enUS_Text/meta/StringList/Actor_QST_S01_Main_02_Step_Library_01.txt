@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Faded Entry
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Cages of Binding. 1236: Found in Hawezar, distributed among our Zakarum outposts there. Confiscated by order of—"

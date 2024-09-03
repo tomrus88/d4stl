@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Infernal Spoils
+Hash: 003892BF, Key: Desc, Value: Pick up 500 Cinders in Helltide areas.

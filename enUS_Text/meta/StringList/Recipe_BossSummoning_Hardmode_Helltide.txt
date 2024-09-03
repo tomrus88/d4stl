@@ -1,0 +1,4 @@
+Hash: BFBB6413, Key: SubHeader, Value: This ritual will summon
+Hash: D0201B8E, Key: MainHeader, Value: Tormented Grigoire, The Galvanic Saint
+Hash: F5C7BC0A, Key: Flavor, Value: "Ye faithful, be sainted. Let His wings fill your body with Light."
+Hash: ED2058BC, Key: Button, Value: Summon

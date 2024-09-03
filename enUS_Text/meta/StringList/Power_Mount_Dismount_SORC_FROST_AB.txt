@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Freezing Wake
+Hash: 003892BF, Key: desc, Value: Crystallize into a rushing wisp of ice, dealing {c_number}{altpayload:DISMOUNT}{/c} damage to and {c_important}{u}Freezing{/u}{/c} enemies in your path for {c_number}{buffduration:FROZEN}{/c} seconds.

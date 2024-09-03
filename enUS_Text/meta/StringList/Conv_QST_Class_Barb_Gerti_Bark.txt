@@ -1,0 +1,2 @@
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: You there. Barbarian.
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: Calm. Firm. Wants to have a word.

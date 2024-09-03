@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Lionheart
+Hash: 003892BF, Key: Desc, Value: You gain {c_number}[Affix_Value_1|%+|]{/c} {c_important}{u}Barrier{/u}{/c} Generation. You Heal {c_random}[Affix_Flat_Value_1]{/c} Life per second while you have an active {c_important}{u}Barrier{/u}{/c}.

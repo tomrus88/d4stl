@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Lonely Wolf 02 - Post Bandits
+Hash: 74CA9233, Key: Line8.54237, Value: Iron Wolves! They've seen us! Get them!
+Hash: E3D3F860, Key: VoiceDir8.54237, Value: Alarmed. Barking orders. Violence ensues.

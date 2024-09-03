@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Stockades
+Hash: F2CA04D8, Key: NoticeSignText, Value: The wood is branded with a phrase: “Let this be the first step on your journey to the Light.”

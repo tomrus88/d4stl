@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Eyes in the Dark
+Hash: F5C7BC0A, Key: Flavor, Value: "And so, when the sun dipped behind the hills each night, he knew that Ashen Jack would soon be near. Watching, and waiting."
+- Greenslade's Tales, Chapter 2: "Each Long Night"

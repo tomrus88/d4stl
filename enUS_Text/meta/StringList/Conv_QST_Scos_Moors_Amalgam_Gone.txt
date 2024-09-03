@@ -1,0 +1,2 @@
+Hash: D4479923, Key: Line1.BAE4, Value: Damn it. Wounded...but not dead. Where has that creature gone?
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: Concerned. Tired from a recent fight.

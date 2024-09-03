@@ -1,0 +1,4 @@
+Hash: F414A633, Key: Line3.6DE47, Value: I think I can unlock the door from the other side.
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Urgent
+Hash: 8E083E4E, Key: Line5.6D03F, Value: All right. Go.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Urgent

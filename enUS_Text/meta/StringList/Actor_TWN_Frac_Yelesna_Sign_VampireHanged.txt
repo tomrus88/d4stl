@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vampire Corpse
+Hash: F2CA04D8, Key: NoticeSignText, Value: These rotting, stinking corpses of the undead are a grim reminder of the dangers just outside the city. 

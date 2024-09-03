@@ -1,0 +1,2 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Blessed Guide (Tier 1)
+Hash: 2827F416, Key: Buff0_Description, Value: Willpower increased. Experience increased by 5%.

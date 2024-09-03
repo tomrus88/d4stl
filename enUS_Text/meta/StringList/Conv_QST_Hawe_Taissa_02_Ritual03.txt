@@ -1,0 +1,7 @@
+Hash: 6F245388, Key: Line11.789BF, Value: Brothers and sisters of the swamp, I thank you for heeding my call.
+Hash: 0918CD0A, Key: Line13.789BF, Value: I… I need...
+Hash: 594EF8D7, Key: VoiceDir13.789BF, Value: Hesitant. Difficult to talk about.
+Hash: 673A08EE, Key: Line3.1086F0, Value: What? Spit it out.
+Hash: 27F6DBFD, Key: Line7.789BF, Value: I am plagued by a demon and the memories she brings forth. How do I purge them?
+Hash: E266EDC2, Key: Line16.1086F0, Value: It is very simple. You’ve let your mind wander -- let the memories consume you. Put your idle hands to work, commit to your craft, and soon you will forget all about this nonsense.
+Hash: 915323B5, Key: Line5.F53E7, Value: No, no, no. This is a question of will. You must wrestle these thoughts into submission. Lock them away in a place from which they will never return.

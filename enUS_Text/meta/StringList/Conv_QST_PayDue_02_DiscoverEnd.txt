@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found your letter. You lied to me." 
+Hash: 5D83570B, Key: Line1.FC047, Value: (scoff) The greedy sand-snakes cut me out...so, I cut you in. Had a feeling you’d come out on top.
+Hash: CC8CBD38, Key: VoiceDir1.FC047, Value: Doesn't care about the lie. Bitter about the bandits, but pleased with himself.
+Hash: F777D08D, Key: Line3.FC047, Value: Ah come on, don’t be sour, you made good blood money today. Not your first time, now, is it?
+Hash: 668136BA, Key: VoiceDir3.FC047, Value: Rolling eyes. Grinning. Oily.

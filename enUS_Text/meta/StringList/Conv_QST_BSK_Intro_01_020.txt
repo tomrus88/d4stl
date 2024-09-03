@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What do you want, Triune?"
+Hash: F4661945, Key: Line9.1BCB9E, Value: I-I want what you want! What the Mother wanted; to stop Hell from eating our world alive. My brethren have forsaken it.
+Hash: 449C4512, Key: VoiceDir9.1BCB9E, Value: Eager. Overly familiar. Reassuring.
+Hash: F9C62BF2, Key: Line15.1BCB9E, Value: (spits) Blind, servile fools... They bring the tides of Hell, convinced they’ll share its power. They are about to unleash the flood, and I think I know where.
+Hash: 50C1D15F, Key: VoiceDir15.1BCB9E, Value: Bitter contempt. Eager to help Player.
+Hash: D249D5B4, Key: Line17.1BCB9E, Value: Help me down from here... You and I will destroy them.
+Hash: 29457B21, Key: VoiceDir17.1BCB9E, Value: Eager to help Player. Sincere.

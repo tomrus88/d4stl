@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Tortured Gift of Handguards
+{c_gold}Requires{/c} {c_green}75{/c} {c_gold}cinders{/c}
+Hash: 18959B3F, Key: UIName, Value: Tortured Gift of Protection

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Cursed Scroll of Hatestalker
+Hash: A646FFA4, Key: Description, Value: Reveals nearby hostile players and elite monsters on the minimap for {c_yellow}15{/c} seconds, but slows user's movement speed by {c_yellow}15%.{/c} 
+
+{c_red}Only works in Fields of Hatred.{/c}

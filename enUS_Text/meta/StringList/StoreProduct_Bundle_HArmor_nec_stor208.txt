@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Shadow of the Reaper
+Hash: A646FFA4, Key: Description, Value: Lerivan awoke in the street, surrounded by corpses. The Reapers had spared no one yet somehow he remained—a blind, cold shell of the man he was, filled by the need to continue Malthael's work.
+Hash: 083EE0CE, Key: Quote, Value: In the wake of Malthael.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

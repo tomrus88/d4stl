@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You captured a bandit?"
+Hash: AB8CE6D0, Key: Line22.D5166, Value: Young Dawood caught this one spying. While guarding his post, I might add.
+Hash: FBC3129D, Key: VoiceDir22.D5166, Value: Arms folded. Paternal. Hint of pride.
+Hash: DF75D9CF, Key: Line26.D5161, Value: Bastard says the Triune have a hideout near Uldur's Cave. By some “pillar,” he says, but he won’t tell me how to get in.
+Hash: 2FAC059C, Key: VoiceDir26.D5161, Value: Contempt. Frustration.
+Hash: 76174B27, Key: Line28.54239, Value: I told you, the Triune don’t let us in. We’re just hired muscle.
+Hash: C64D76F4, Key: VoiceDir28.54239, Value: Tired, beaten, bruised. Telling the truth.

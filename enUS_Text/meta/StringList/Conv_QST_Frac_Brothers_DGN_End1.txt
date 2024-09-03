@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Your brother's been through a lot to find you."
+Hash: F76760E6, Key: Line3.EF101, Value: Lacthan...
+Hash: 6670C713, Key: VoiceDir3.EF101, Value: hurt and tentative
+Hash: 5D27F028, Key: Line1.AA9BD, Value: What have you done? How could you have fallen so far? Margrave demands justice, brother. I need justice!
+Hash: CC315655, Key: VoiceDir1.AA9BD, Value: angry. emphasis on "I"
+Hash: C544CD6C, Key: Line9.EF101, Value: They told me it would be clean! Lift a few purses and send them on their way. Nobody was supposed to get hurt.
+Hash: 344E3399, Key: VoiceDir9.EF101, Value: panicked. trying to defend himself
+Hash: 915BDA68, Key: Line5.EF101, Value: I didn't kill anyone... I ran, and they punished me for it. You must believe me!
+Hash: 2B055CAE, Key: Line7.AA9BD, Value: (sigh) You'll never convince the others. We can't return to Margrave. Can you walk?
+Hash: 9A0EC2DB, Key: VoiceDir7.AA9BD, Value: a beat while deciding whether to believe him, then "problem solving" mode, quickly trying to figure out a plan
+Hash: 0C7244F7, Key: Line13.EF101, Value: Lacthan?
+Hash: 5CA870C4, Key: VoiceDir13.EF101, Value: hopeful
+Hash: A61BC73D, Key: Line15.AA9BD, Value: These are old smuggler tunnels, right? We'll follow them south. Somewhere no one knows us. Start over.
+Hash: 7232D439, Key: Line11.AA9BD, Value: Thank you for your help. He's an idiot, but he's blood. I can't just- Can I trust you not to tell anyone where we've gone?
+Hash: C2690006, Key: VoiceDir11.AA9BD, Value: grateful.  Directed at the plaeyr

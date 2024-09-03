@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: World Boss
+Hash: 7BFE534B, Key: simple_instruction, Value: {icon:Marker_WorldEvent, 2.5} World Bosses occasionally appear in Sanctuary and {c_highlight}drop valuable materials{/c}. Go to the marked location to participate! 

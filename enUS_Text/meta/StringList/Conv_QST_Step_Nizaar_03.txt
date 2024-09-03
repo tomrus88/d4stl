@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Here, take this healing potion."
+Hash: 5D1088EA, Key: Line1.A5F52, Value: Oh, th-thank you for your kindness.
+Hash: CC19EF17, Key: VoiceDir1.A5F52, Value: Pained, but recovering from injury
+Hash: F705026C, Key: Line3.A5F52, Value: Borza, the bastard who put me in that cage, took some of his men and fled into the caverns below.
+Hash: 660E6899, Key: VoiceDir3.A5F52, Value: You're trying to convince the player to help you slay a threatening enemy. Forceful but not demanding. You're still trying to convince the player to help.
+Hash: 90F97BEE, Key: Line5.A5F52, Value: He'll just put someone else in that cage if we don't put an end to him now. Yes, "we". I-I just need your help to find a weapon.
+Hash: 0002E21B, Key: VoiceDir5.A5F52, Value: You're trying to convince the player to help you slay a threatening enemy. Forceful but not demanding. You're still trying to convince the player to help.

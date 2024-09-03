@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Patient Ledger
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Elewka—Marsh Foot—Swamp mangrove oil, 2x daily—Full recovery
+Nikoyo—Serpent's Chills—Beyond aid—Pyre burning set
+Msias—Bone Mold—Removal of arm advised. Agreement reached
+Zaita—Rotting Spasms—No cure. Make as comfortable as possible"

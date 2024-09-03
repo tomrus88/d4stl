@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Something wrong?"
+Hash: 74F7D5F8, Key: Line8.6DE47, Value: Can you feel it? The swamp is watching us. Whispering to us.
+Hash: E4013C25, Key: VoiceDir8.6DE47, Value: Dreamy, under the effects of incense. Probably a slower read--not all there in the head. But in this moment she's unsure and scared.
+Hash: DB027B0F, Key: Line6.6D03F, Value: It’s the incense. Playing with our heads. Just...just an illusion.
+Hash: 4A0BE13C, Key: VoiceDir6.6D03F, Value: Groggy, under the effects of incense. Probably a slower read--not all there in the head. Very disturbed, unsettled, almost trying to convince himself more than Neyrelle.

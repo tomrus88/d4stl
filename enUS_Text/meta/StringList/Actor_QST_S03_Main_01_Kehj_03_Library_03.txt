@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Discarded Tomes
+Hash: F2CA04D8, Key: NoticeSignText, Value: A collection of texts on the killing, banishment, or capture of demonic entities.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Small Ingolith Cache
+Hash: A646FFA4, Key: Description, Value: Contains 15 pieces of Ingolith.

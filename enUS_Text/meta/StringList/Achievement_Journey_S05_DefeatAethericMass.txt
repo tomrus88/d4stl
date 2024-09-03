@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Infernal Hordes
+Hash: 3A4912CF, Key: DescShort, Value: Destroy Aetheric Mass in {icon:Icon_WorldTier_4, 2} Torment

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Kiss
+Hash: A646FFA4, Key: Description, Value: We are Mother's Kiss. The Mother and Sanctuary are one. She raises us with her life-giving breath that we may protect Sanctuary forever more.
+Hash: 083EE0CE, Key: Quote, Value: To be closer to Her through the Art of the Son.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Armor

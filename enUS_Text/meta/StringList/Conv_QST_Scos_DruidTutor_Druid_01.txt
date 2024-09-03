@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Túr Dúlra called out to me in pain.”
+Hash: F74BB2AF, Key: Line3.E2C66, Value: You’ve healed this place, but the spirits here still ache with rot. It was their cries you heard.
+Hash: 91402C31, Key: Line5.E2C66, Value: They don’t listen when we call back. Their pain...
+Hash: 0049925E, Key: VoiceDir5.E2C66, Value: shuddering during "Their pain..."
+Hash: C5291F35, Key: Line9.E2C66, Value: There is one who might help. The spirit Gathlen. He's a healer of his kind. (pained groan) Or he was, until the college fell.
+Hash: 72621D3E, Key: Line11.E2C66, Value: Go to his shrine. Honor him there. Perhaps he will commune with Túr Dúlra's savior.

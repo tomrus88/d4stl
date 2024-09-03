@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Slow
+Hash: 003892BF, Key: desc, Value: Actions Slowed by {c_yellow}[{Script Formula 0}{/c}%.

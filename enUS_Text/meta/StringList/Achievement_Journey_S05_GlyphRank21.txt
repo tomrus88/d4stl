@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Glyphmaster
+Hash: 3A4912CF, Key: DescShort, Value: Improve {icon:Marker_GlyphUpgrade, 2.5} Paragon Glyphs to Rank 15 by completing {icon:Marker_NightmareDungeonEntrance, 2.5} Nightmare Dungeons

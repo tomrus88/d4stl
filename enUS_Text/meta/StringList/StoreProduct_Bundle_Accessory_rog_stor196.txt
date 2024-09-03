@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Spectacle of the Peacock
+Hash: A646FFA4, Key: Description, Value: "Look the part and people will believe anything you tell them." -The Peacock, to his apprentice
+Hash: 083EE0CE, Key: Quote, Value: Pomp and circumstance.
+Hash: 13A53A8B, Key: Series, Value: "The Peacock" Accessories

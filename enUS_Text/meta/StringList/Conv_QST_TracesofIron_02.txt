@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "A man in Tarsarak wanted you to have this."
+Hash: 5D82E1B9, Key: Line1.FB4C3, Value: Jilan? He looked too poor to pay. Guess I was wrong.
+Hash: F7775B3B, Key: Line3.FB4C3, Value: Not a bad piece either. Dirty, but no fake. Thanks, wanderer.

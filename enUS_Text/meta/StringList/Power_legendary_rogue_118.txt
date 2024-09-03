@@ -1,0 +1,2 @@
+Hash: 1BC5E139, Key: Buff6_Name, Value: Ravager's Damage Bonus
+Hash: 04622D1C, Key: Buff6_Description, Value: {c_number}[{SF_0}*100|%x|]{/c} bonus {c_important}Shadow Step{/c} damage per stack

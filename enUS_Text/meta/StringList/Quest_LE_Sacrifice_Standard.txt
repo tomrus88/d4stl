@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Insatiable Hunger
+Hash: CB7F6448, Key: Callback101Header, Value: Slay the possessed enemy before it is sacrificed to the Devourer of Souls
+Hash: 6573DDCA, Key: Callback103Header, Value: Survive the ritual
+Hash: FF6E354E, Key: Callback224Header, Value: Slay enemies before they are sacrificed to the Devourer
+Hash: 34A78978, Key: Callback198Header, Value: Slay the remaining enemies
+Hash: 33514A50, Key: Callback109Header, Value: Sacrifices Remaining: {LEFT}

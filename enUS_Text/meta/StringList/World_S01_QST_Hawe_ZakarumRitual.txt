@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Karamat's Reach
+Hash: 003892BF, Key: Desc, Value: A remote outpost of old Zakarum, buried and forgotten.

@@ -1,0 +1,4 @@
+Hash: 11C62FC5, Key: Line20.EFA01, Value: Normally, I'd have done this sorta thing m'self, but I'll walk barefoot into the Burning Hells 'fore I go wanderin' the coast alone.
+Hash: 61FC5B92, Key: VoiceDir20.EFA01, Value: Wants to assert she's generally self-sufficient, but she's also not stupid enough to ignore the danger around here
+Hash: 799815CD, Key: Line28.EFA01, Value: The Drowned out here are nasty creatures, and I ain't lookin' to join their ranks.
+Hash: C9CE419A, Key: VoiceDir28.EFA01, Value: Emphasis on nasty; she doesn't want anything to do with them

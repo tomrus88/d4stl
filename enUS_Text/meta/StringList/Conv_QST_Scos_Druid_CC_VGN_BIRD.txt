@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Let me ease your pain."
+Hash: 7300649C, Key: Line1.BAE4.Dru, Value: (speaks in Druidic magic)
+Hash: A970B7A9, Key: VoiceDir1.BAE4.Dru, Value: Only needs to record Druid class. some sounds for inspiration: créor tua seant ága luabia bí chléc lann
+Hash: 676CEC15, Key: Line3.132114, Value: At last...
+Hash: B7A317E2, Key: VoiceDir3.132114, Value: pained, but with relief

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mother's Embrace
+Hash: A646FFA4, Key: Description, Value: We are Mother's embrace. The Mother and Sanctuary are one. She empowers us that we may carry her love to all of Sanctuary's children.
+Hash: 083EE0CE, Key: Quote, Value: Lilian hierophants seeing Her as the creator of Nature and all things.
+Hash: 13A53A8B, Key: Series, Value: Prestige Druid Armor

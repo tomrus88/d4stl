@@ -1,0 +1,13 @@
+Hash: 003DFCC1, Key: Name, Value: Mind the seals you break.
+Hash: 22EDF2BD, Key: Callback61Header, Value: Destroy the Cursed Flesh: {LEFT}
+Hash: 9AB9349F, Key: Callback90Header, Value: Destroy the Cursed Heart: {LEFT}
+Hash: 04BB75EA, Key: Callback112Header, Value: Use Suppressing Shrines to negate the effects of the corruption within the Archives
+Hash: B590DDE6, Key: Callback97Header, Value: Survive the attack {TIMELEFT}
+Hash: CB7F6448, Key: Callback101Header, Value: Investigate the {GIZMO}
+Hash: 6573DDCA, Key: Callback103Header, Value: Interact with the Teleporter
+Hash: 4C62940D, Key: Callback106Header, Value: Slay the Disciples of Elias: {LEFT}
+Hash: D298E270, Key: Callback118Header, Value: Draven
+Hash: 3DF7878C, Key: Callback123Header, Value: Chaol
+Hash: 38A468EE, Key: Callback116Header, Value: Echo of Elias
+Hash: 0BD4F412, Key: Callback129Header, Value: Defeat Echo of Elias
+Hash: 24E63DCF, Key: Callback126Header, Value: Travel to {LEVELAREA}

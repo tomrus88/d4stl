@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are we doing in this place?"
+Hash: 8F104F47, Key: Line1.157838, Value: Just—just listen. Varshan is the source of the disease, but I can cure him. I just need to find the correct ritual.
+Hash: DF467B14, Key: VoiceDir1.157838, Value: Talking fast. Anxious, but still determined and optimistic. "Vahr-shn."
+Hash: 6793F909, Key: Line3.157838, Value: These ruins have been sealed since the Zakarum first arrived. If there’s anywhere to hunt for lost knowledge, it’s got to be here.
+Hash: B7CA24D6, Key: VoiceDir3.157838, Value: Anxious, but still determined and optimistic.

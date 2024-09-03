@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Faolan? What have you done?"
+Hash: 8ED8E96F, Key: Line1.12577B, Value: Deirdre...help me...! Where is Deirdre?!
+Hash: DF0F153C, Key: VoiceDir1.12577B, Value: As a Werewolf - Desperate. Terrified. Then enraged (attacks Player after.)

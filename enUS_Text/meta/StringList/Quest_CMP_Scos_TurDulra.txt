@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: Túr Dúlra
+Hash: 0871A46B, Key: Toast, Value: Once the greatest Druidic College, this overgrown ruin stands as a reminder of a great calamity
+Hash: 1EADAE68, Key: Callback2Header, Value: Explore Túr Dúlra
+Hash: B8A227EA, Key: Callback4Header, Value: Speak to the Druid Spirit
+Hash: E9B1E11B, Key: Callback50Header, Value: Lay the defenders on the Cliffside to rest
+Hash: 36AC1DDC, Key: Callback51Header, Value: Lay the defenders by the Great Oak to rest
+Hash: A3D12282, Key: Callback66Header, Value: Lay the defenders in the Western Ruins to rest
+Hash: 51B5B2AB, Key: Callback113Header, Value: Free the spirits of Túr Dúlra's Druids
+Hash: 38AA8D97, Key: Callback10Header, Value: Slay the Infernal Tormentor
+Hash: 1F9943DA, Key: Callback13Header, Value: Rekindle the Wanderer's Shrine to conquer Túr Dúlra
+Hash: 2F5A8F83, Key: Callback85Header, Value: Return to the Great Oak
+Hash: 8AF1C44D, Key: Callback124Header, Value: Return to the Great Oak
+Hash: BEDAB751, Key: Callback128Header, Value: Return to the Great Oak
+Hash: 5E224F71, Key: Callback137Header, Value: Find the Druid Spirits
+Hash: C980F48D, Key: Callback142Header, Value: Approach the Great Oak

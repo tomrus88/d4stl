@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Premium Seasonal Battle Pass
+Hash: A646FFA4, Key: Description, Value: Includes a Premium Seasonal Battle Pass Unlock.

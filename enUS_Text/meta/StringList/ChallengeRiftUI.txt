@@ -1,0 +1,243 @@
+Hash: 268BA101, Key: ChallengeRiftHeader, Value: Trials
+Hash: 527A36F6, Key: ChallengeRiftProgressHeader, Value: My Progress
+Hash: 5B5F5538, Key: HallOfFameHeader, Value: Hall of the Ancients
+Hash: 75414B50, Key: MyHallOfFameRecordsHeader, Value: My Hall of the Ancients Records
+Hash: 9B489E45, Key: LadderPlacement, Value: {s1} {s2} Ladder
+Hash: CC3C6EC9, Key: ConquerRank, Value: Conquer Rank
+Hash: CCFEFF21, Key: ChallengeRiftRankValue, Value: {s1}
+Hash: E3D767AC, Key: NotYetPlaced, Value: Not placed
+Hash: D765DEC8, Key: ChallengeRiftPreHeader, Value: {s1} - Week {s2}
+Hash: 064642EC, Key: RiftProgressTitle, Value: Progress
+Hash: C461F86F, Key: RiftRewardsTitle, Value: Rewards
+Hash: 085932BC, Key: Score, Value: Score
+Hash: 7F84C561, Key: Leaderboard Rank, Value: Leaderboard Rank
+Hash: 582C5E59, Key: Rank 1 Score, Value: Rank 1 Score
+Hash: 89009F59, Key: ScoreValue, Value: {s1}
+Hash: EF8BCD17, Key: LeagueRewardsInfo, Value: Earn at the weekly reset with the Seal of the {s1}
+Hash: 176B525E, Key: LeaderboardRankValue, Value: -
+Hash: C97223B6, Key: Rank1ScoreValue, Value: {s1}
+Hash: 086249AE, Key: Start, Value: Start
+Hash: 976FD73F, Key: MyProgressSimmaryTitle, Value: Summary
+Hash: D04834B5, Key: LadderNameHardcore, Value: Hardcore {s1} Ladder
+Hash: A65A5BC7, Key: LadderRankAndScore, Value: Rank {s1}  |  Score {s2}
+Hash: 6DF73DF5, Key: ScoreWithValue, Value: Score {s1}
+Hash: 26F8DC4D, Key: LadderName, Value: {s1} Ladder
+Hash: A1B3AD56, Key: ViewMyProgress, Value: View
+Hash: 31E24BCA, Key: LeaderboardsTitle, Value: Leaderboards
+Hash: 5DAED76C, Key: LeaderboardsDescription, Value: Browse the Top 1000 Heroes in each Ladder.
+Hash: 03A07D71, Key: HallOfFameTitle, Value: Hall of the Ancients
+Hash: 22CB6A53, Key: HallOfFameDescription, Value: Browse the Top 10 Heroes from each Trial Ladder in every Season
+Hash: 864C97C8, Key: ExplainerLabel, Value: Learn more about Trials
+Hash: 6C82639A, Key: NotPlaced, Value: Not placed
+Hash: C526C2F5, Key: SoloDivisions, Value: Solo Ladders
+Hash: 02BABBC8, Key: PartyDivisions, Value: Party Ladders
+Hash: BFBB75F2, Key: PreLaunchPreHeader, Value: {s1} Trials
+Hash: E0828644, Key: PreLaunchTitle, Value: Launches Soon
+Hash: E5538566, Key: PrelaunchDescription, Value: On {s1} dare to stand against the demons of hell in Trials to earn glory solo or in the party. Set out to destroy as many demons as you can within 10 minutes to rank up.
+Hash: 9F3C72B1, Key: ExplainerMainDescription, Value: Trials is a mysterious proving ground of great antiquity. Each week, it tests your strength and skill in search of the greatest heroes of your generation. Compete as a Solo hero or as a Party of up to four heroes. Access Trials from the Horn of Trials or the Collections Tab in the Main Menu.
+Hash: 63202B7F, Key: Ladders, Value: Ladders
+Hash: 871E917C, Key: Seasons, Value: Seasons
+Hash: 6044750B, Key: ExplainerLaddersDescription, Value: Earn glory by climbing Ladders. Compete as a Solo hero or as a Party of up to four heroes.
+Hash: A3737BB4, Key: ExplainerLeaderboardsDescription, Value: Earn Seals as you train to compete on the Top 1000 Weekly Leaderboards.
+Hash: C3B63DF0, Key: Challenge Rift Divisions, Value: Trials Ranks
+Hash: 053DA009, Key: PlacementPreheader, Value: {s1} - Trial {s2} Complete
+Hash: 18ED3CDB, Key: PlacementTitle, Value: congratulations {s1} on your placement
+Hash: C18239EE, Key: BarbarianLadder, Value: Solo Barbarian
+Hash: 16BB5C1A, Key: NecromanacerLadder, Value: Solo Necromancer
+Hash: 5F474851, Key: SorcererLadder, Value: Solo Sorcerer
+Hash: 5DC0582E, Key: RogueLadder, Value: Solo Rogue
+Hash: 1D8C18C4, Key: DruidLadder, Value: Solo Druid
+Hash: D28CC7E3, Key: PartyOf2Ladder, Value: Party of 2
+Hash: 1F8704A4, Key: PartyOf3Ladder, Value: Party of 3
+Hash: 6C814165, Key: PartyOf4Ladder, Value: Party of 4
+Hash: DA6FA047, Key: DivisionTitle, Value: {s1} Ladder
+Hash: 884B7DBC, Key: ScoreLabel, Value: Score
+Hash: 7953476C, Key: RankLabel, Value: Rank
+Hash: 7A086909, Key: RankValue, Value: -
+Hash: 073C5D66, Key: Claim, Value: Claim
+Hash: 16A6B2D8, Key: WarningTitle, Value: Warning
+Hash: 560AE166, Key: InventoryFullMessage, Value: Your inventory is currently full. You need to make space before these rewards can be claimed.
+Hash: E97BE4F0, Key: Accept, Value: Accept
+Hash: 53F52B1E, Key: ClaimRewards, Value: Claim Rewards
+Hash: 913B7BBC, Key: ChallengeRiftDescription, Value: Slay monsters to collect Proofs of Might and boost your Score. Get the highest Score before the timer ends. Heroes with the highest Scores will earn glory and other rewards.
+Hash: 50CECC84, Key: ThisWeek, Value: This Week
+Hash: EB4E2B00, Key: LastWeek, Value: Last Week
+Hash: B6ED64C8, Key: Leaderboards, Value: Leaderboards
+Hash: 073C9A36, Key: Close, Value: Close
+Hash: 7E601B78, Key: MyRecords, Value: My Records
+Hash: 66DB5571, Key: AllPlatforms, Value: All Platforms
+Hash: F02DED3D, Key: PlayStationPlatform, Value: PSN™
+Hash: 1B8B2766, Key: XboxPlatform, Value: Xbox
+Hash: 6ACFFB2D, Key: ModeHardcore, Value: Hardcore
+Hash: DA0EFEB8, Key: ModeNonHardcore, Value: Normal
+Hash: A8858E19, Key: Filters, Value: Filters
+Hash: 0845FC1D, Key: Rank1, Value: Rank 1
+Hash: C43D790E, Key: PlayerName, Value: {s1}
+Hash: A83CA42C, Key: ViewProfile, Value: View Profile
+Hash: 87DC05F0, Key: FilterControllerPromptBtn, Value: {icon:r3, 2.0}
+Hash: AC6A06B1, Key: SelectProfile, Value: Select Profile
+Hash: B28D3E7A, Key: CloseController, Value: {icon:button2, 2} Close
+Hash: C1101945, Key: Platform, Value: Platform
+Hash: 003DAAC5, Key: Mode, Value: Mode
+Hash: B08717E0, Key: Players, Value: Players
+Hash: 2188057F, Key: ApplyFilters, Value: Apply Filters
+Hash: 1E999ADC, Key: RestoreDefaults, Value: Restore Defaults
+Hash: EE080366, Key: Cancel, Value: Cancel
+Hash: 49965B50, Key: ApplyFilterController, Value: {icon:button4, 2} Apply Filters
+Hash: DC47C6A0, Key: RestoreDefaultsController, Value: {icon:button3, 2} Restore Defaults
+Hash: DAD1E3AA, Key: CancelController, Value: {icon:button2, 2} Cancel
+Hash: F8243B11, Key: Global, Value: Global
+Hash: 0D1B5DCD, Key: Player, Value: Player
+Hash: 07DBBC18, Key: Level, Value: Level
+Hash: 003881DE, Key: Date, Value: Date
+Hash: 4BCAC205, Key: PlayerLevel, Value: {s1}
+Hash: DB18B3BB, Key: DateValue, Value: {s1}
+Hash: 080E70F1, Key: JumpToMe, Value: Jump To Me
+Hash: F3C2A217, Key: JumpToTop50, Value: Jump to Top 50
+Hash: 6C16D423, Key: JumpToTop100, Value: Jump to Top 100
+Hash: 6C16E527, Key: JumpToTop500, Value: Jump to Top 500
+Hash: E3645A47, Key: BackToTop, Value: Back To Top
+Hash: 0001FC33, Key: Top, Value: Top
+Hash: 00000681, Key: 10, Value: 10
+Hash: 00000705, Key: 50, Value: 50
+Hash: 0000D6D1, Key: 100, Value: 100
+Hash: 0000E7D5, Key: 500, Value: 500
+Hash: 0871DB74, Key: Top10, Value: Top 10
+Hash: EA23DD2A, Key: SeasonName, Value: {s1}
+Hash: 41AC88F5, Key: WeekNumber, Value: Week {s1}
+Hash: F747B725, Key: Division, Value: {s1}
+Hash: A85E9A0E, Key: RiftComplete, Value: Trial Complete
+Hash: 6A9DF5DD, Key: MonsterKilled, Value: Monsters {c:FFDBA864}{s1}{/c}
+Hash: ABC5C690, Key: EliteMonsterKilled, Value: Elite Monsters {c:FFDBA864}{s1}{/c}
+Hash: ECB333CF, Key: Bosses, Value: Bosses {c:FFDBA864}{s1}{/c}
+Hash: 0A9CC73B, Key: ChallengeRiftGoal, Value: You need {c_highlight}{s1}{/c} more points to reach the {c_highlight}Next Rank{/c}
+Hash: 68829F9A, Key: RankedUp, Value: You have Ranked up!
+Hash: 227E9447, Key: ErrorTitleStopRift, Value: Stop trial?
+Hash: E672025D, Key: ErrorBodyStopRiftFromRespect, Value: Respecting inside the dungeon will cause the trial to be stopped. Are you sure you want to continue?
+Hash: 6A0C8B4A, Key: FailedToLoadTitle, Value: Failed to load
+Hash: 397A7AF6, Key: FailedToLoadBody, Value: The leaderboards are unavailable. Please try again later. 
+Hash: 1AE90C24, Key: ChallengeRiftExplainerController, Value: {icon:r3,2.0}
+Hash: 04104E35, Key: LadderNameWithLadder, Value: Ladder: {s1}
+Hash: 7CE25250, Key: DungoenAndLadderName, Value: Dungeon: The Gauntlet
+Ladder: {s1}
+Hash: 36DA9B18, Key: ChallengeRift, Value: Trials
+Hash: 08FA1AAF, Key: InvitesSentToParty, Value: Invites sent to party
+Hash: 95E641D5, Key: PlayerAcceptedInvite, Value: {s1} Accepted
+Hash: E5DD8093, Key: ChallengeRiftCancelled, Value: {s1} declined
+Hash: 298F4147, Key: ChallengeRiftInvite, Value: {s1} invited you to start a Trial
+Hash: ACD7C926, Key: PlayerAccepted, Value: {s1} Accepted
+Hash: BBE81273, Key: JoinChallenge, Value: Join
+Hash: 0E26743E, Key: CancelChallengeRift, Value: Stop Trial
+Hash: A59CD11D, Key: ConfirmCancelHeader, Value: Cancel Trial?
+Hash: 1B197DB2, Key: ConfirmCancelBodyParty, Value: Are you sure you want to cancel the trial for your party?
+Hash: EC2882E2, Key: ConfirmCancelBody, Value: Are you sure you want to cancel the trial?
+Hash: 8640E634, Key: ConfirmCancel, Value: Yes, Cancel It
+Hash: 9ADD92BE, Key: AbortCancel, Value: No, Continue
+Hash: BCC4D3A0, Key: FindNext, Value: Find Next
+Hash: F4A9C4CD, Key: ErrorContinueAction, Value: Continue Rift
+Hash: 6395F6CE, Key: ErrorStopAction, Value: Stop Trial
+Hash: 7C210936, Key: ErrorBodyStopRiftFromTeleport, Value: Using town portal inside the dungeon will cause the trial to be stopped. Are you sure you want to stop?
+Hash: 7702031D, Key: ErrorBodyStopRiftFromLeavingParty, Value: Leaving the party will cause the trial to be stopped for all the party. Are you sure you want to stop?
+Hash: 9239A991, Key: WorldTier4Required, Value: World Tier 4 required
+Hash: 4453F4DF, Key: CharacterNotAvailable, Value: Character not available
+Hash: 22379E25, Key: 1CharacterNotAvailbleNote, Value: 1 character is unavailable or deleted
+Hash: A04B625D, Key: 2PlusCharactersNotAvilableNote, Value: {s1} characters not unavailable or deleted
+Hash: 700929C1, Key: WorldTier4RequiredParty, Value: All party members must be in World Tier 4
+Hash: 0A507219, Key: RiftNotYetAvailable, Value: Trials Start Week {s1} of the Season
+Hash: 13FE1FC0, Key: RiftFinishedThisSeason, Value: Trials have finished for the Season
+Hash: C44036D9, Key: PlayersAll, Value: All
+Hash: 53A718EB, Key: PlayersFriends, Value: Friends
+Hash: 4C4829BE, Key: PlayersClan, Value: Clan
+Hash: FDF1E55A, Key: PlayerNamesPartyOf4, Value: {s1}, {s2}, {s3}, {s4}
+Hash: FDF1E559, Key: PlayerNamesPartyOf3, Value: {s1}, {s2}, {s3}
+Hash: FDF1E558, Key: PlayerNamesPartyOf2, Value: {s1}, {s2}
+Hash: A3DC901E, Key: PlayerLevelPartyOf4, Value: {s1}, {s2}, {s3}, {s4}
+Hash: A3DC901D, Key: PlayerLevelPartyOf3, Value: {s1}, {s2}, {s3}
+Hash: A3DC901C, Key: PlayerLevelPartyOf2, Value: {s1}, {s2}
+Hash: 3B6A5F25, Key: Restart, Value: Restart
+Hash: FDB369DC, Key: ConfirmRestartHeader, Value: Restart trial?
+Hash: D731D211, Key: ConfirmRestartBodyParty, Value: Are you sure you want to restart the trial for your party?
+Hash: DABF9BB3, Key: ConfirmRestart, Value: Yes, Restart
+Hash: 82F1D97D, Key: AbortRestart, Value: No, continue
+Hash: 23F3DFE1, Key: ConfirmRestartBody, Value: Are you sure you want to restart the trial?
+Hash: EE5DE716, Key: PlayAgain, Value: Play Again
+Hash: 752B22C0, Key: Rank1Goal, Value: Rank 1 score: {s1}
+Hash: 46E1B5A2, Key: InventoryFullEndOfRun, Value: Your Inventory is full, the cache has been sent to your Missing Equipment tab in your Stash
+Hash: AB17B27B, Key: StopRun, Value: Stop Trial
+Hash: B272630D, Key: ChallengeRiftActivated, Value: Trial Activated
+Hash: 9C0EC43B, Key: ChallengeRiftActivatedBody, Value: Select Enter Trial from the Trials Screen
+Hash: 1B5B3C4A, Key: OpenChallengeRift, Value: Open Trial
+Hash: 04E5BB01, Key: AllPartyMembersAreReady, Value: All party members are ready
+Hash: 4EADD5F3, Key: EnterRift, Value: Enter Trial
+Hash: 32EBA522, Key: Minimize, Value: Minimize
+Hash: 2E94FE80, Key: PartyMemberDeclined, Value: A party member declined the trial
+Hash: 12BA8575, Key: NumOfPartyMembersReady, Value: {s1}/{s2} party members ready
+Hash: E7BD384C, Key: OpenChallengeRiftPrompt, Value: Open Trial
+Hash: 8E760A77, Key: EnterRiftController, Value: {Icon:button1,2} Enter Trial
+Hash: 1587E066, Key: MinimizeController, Value: {Icon:button2,2} Minimize
+Hash: 2491BF7A, Key: EnterTrial, Value: Enter Trial
+Hash: B8B0731B, Key: SealOfThe, Value: Seal of the {s1}
+Hash: 4C70DABE, Key: BloodedDivision, Value: Blooded
+Hash: F91B89A4, Key: SteadfastDivision, Value: Steadfast
+Hash: 9283E31E, Key: IronWilledDivision, Value: Iron-Willed
+Hash: D9D5B572, Key: WorthyDivision, Value: Worthy
+Hash: BDD94C6F, Key: TrialsComingSoonDescription, Value: Compete in weekly challenge dungeons for rankings on the leaderboard
+Hash: 59A6E5C5, Key: TheGauntlet, Value: The Gauntlet
+Hash: C3341DE6, Key: HallOfTheAncientsNotPlaced, Value: You have not placed in
+the hall of ancients
+Hash: 11C3CA1C, Key: ChallengeRiftVoteStop, Value: {s1} wants to stop the Trial
+Hash: 75773416, Key: Rank1Blooded, Value: Seal of the Blooded
+Hash: B003415D, Key: Rank2Steadfast, Value: Seal of the Steadfast
+Hash: 743B31D8, Key: Rank3IronWilled, Value: Seal of the Iron Willed
+Hash: 78C9956D, Key: Rank4Worthy, Value: Seal of the Worthy
+Hash: 79DEBAC6, Key: TrialStoppedDueToPartySizeChanging, Value: The trial stopped due to the party size increasing
+Hash: 073AE51E, Key: AbortStop, Value: No, continue
+Hash: 27A6E314, Key: ConfirmStop, Value: Stop
+Hash: 9801EFC2, Key: ConfirmStopBody, Value: Are you sure you want to start a new dungeon? The current dungeon progress will be lost.
+Hash: 0E39F692, Key: ConfirmStopBodyParty, Value: Are you sure you want to stop the Trial for your party?
+Hash: AD84F5FD, Key: ConfirmStopHeader, Value: Warning
+Hash: 91CF4B18, Key: PCPlatform, Value: PC
+Hash: 83922B3E, Key: Loading, Value: Loading
+Hash: 09DCAE92, Key: JumpToTop, Value: Jump To Top
+Hash: 7AE6552C, Key: FilterControllerPrompt, Value: {icon:r3, 2.0} Filters
+Hash: 0405E3BE, Key: MyRecordsControllerPrompt, Value: {icon:l3, 2.0} My Records
+Hash: 1576CEC1, Key: TrialsKeyCount, Value: Keys
+Hash: D87982E1, Key: NumOfKeys, Value: {s1}
+Hash: 14CE1F4B, Key: ViewParty, Value: View Party
+Hash: 929752B6, Key: PlatformUsed, Value: Platform: {s1}
+Hash: 50E8D5A5, Key: CrossplayPlatform, Value: Crossplay
+Hash: E82D2760, Key: CurrentPage, Value: {c:FFDBA864}{s1}{/c}{c:FF928C82}/{s2}{/c}
+Hash: 2BC91840, Key: ControllerNextPage, Value: {icon:right,2} Next Page
+Hash: 44AE68DE, Key: ControllerPreviousPage, Value: {icon:left,2} Previous Page
+Hash: F3C2A193, Key: JumpToTop10, Value: Jump to Top 10
+Hash: 91A43F70, Key: Jump to Last Page, Value: Jump to Last Page
+Hash: BB488FA0, Key: PlacementTitleDefault, Value: congratulations on your placement
+Hash: B440E51D, Key: Congratulations, Value: Congratulations
+Hash: 6B2A1D1B, Key: NoSealAchieved, Value: No Seal Achieved
+Hash: C0897F85, Key: HallNotYetAvailable, Value: Available after the first week
+Hash: C8B6D1A9, Key: HallOfFameDisabledTitle, Value: Hall of the Ancients  {icon:Locked,2}
+Hash: 9BC8B5E7, Key: Invalid, Value: Invalid
+Hash: 48322643, Key: RiftFinishedThisWeek, Value: Trials have finished for the week
+Hash: 5ECF085B, Key: ControllerJumpToTop50, Value: {icon:button4, 2.0} Jump to Top 50
+Hash: 98DE3914, Key: ControllerJumpToLastPage, Value: {icon:button4, 2.0} Jump to Last Page
+Hash: 5ECF07D7, Key: ControllerJumpToTop10, Value: {icon:button4, 2.0} Jump to Top 10
+Hash: 38B002E7, Key: ControllerJumpToTop100, Value: {icon:button4, 2.0} Jump to Top 100
+Hash: 38B013EB, Key: ControllerJumpToTop500, Value: {icon:button4, 2.0} Jump to Top 500
+Hash: 3076DDB5, Key: ControllerJumpToMe, Value: {icon:l3,2.0} Jump To Me
+Hash: 832B9C6C, Key: LeaderboardNoEntries, Value: No entries
+Hash: 11508F36, Key: Resets, Value: Resets
+Hash: 0166EF62, Key: ExplainerResetsDescription, Value: Each week brings a new Gauntlet. When a new Gauntlet begins, the Weekly Ladders and Leaderboards reset.
+Hash: 99141F58, Key: ExplainerHotADescription, Value: Only the Top 10 will earn a place in the Hall of the Ancients. The Hall of the Ancients does not reset.
+Hash: E0E2F010, Key: OpenChallengeRiftPromptController, Value: {hotkey:Map}  Open Trial
+Hash: EDDC235A, Key: PlayAgainController, Value: {icon:button3, 2.0} Play Again
+Hash: A793273E, Key: OpenLeaderbaordsController, Value: {icon:button4, 2.0} Leaderboards
+Hash: 003881C0, Key: Dash, Value: -
+Hash: EC568ED4, Key: Top1000, Value: Top 1000
+Hash: 22167E95, Key: SealsAndLeaderboardsTitle, Value: Seals and Leaderboards
+Hash: F74428D3, Key: ClanLeaderboard, Value: Clan Leaderboard
+Hash: DAD62DE0, Key: FriendsLeaderboard, Value: Friends Leaderboard
+Hash: 4F9AB350, Key: NoLongerInLeaderboard, Value: You are no longer in the leaderboard
+Hash: 34DA8B61, Key: RiftNotStartedThisWeek, Value: Trials have not started for the week
+Hash: EC2B8A30, Key: ToLeave, Value: {c_white}To Leave:{/c} Exit through the Collections/Trials Menu
+Hash: 25146D1C, Key: PlayAgainToReach, Value: {c_white}Play Again{/c} to reach a higher rank!
+Hash: 51E63B3C, Key: PlacementTitle_NoPlace, Value: You've completed the trial

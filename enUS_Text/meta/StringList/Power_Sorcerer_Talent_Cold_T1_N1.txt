@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Icy Veil
+Hash: 003892BF, Key: desc, Value: Your {c_important}{u}Barriers{/u}{/c} have an {c_number}[{SF_0} * 100|%+|]{/c} increased duration.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Duration Increase {icon:arrow,1.2} {c_number}[{SF_0} * 100|%+|]{/c}

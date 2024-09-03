@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Gea Kul Orders
+Hash: A646FFA4, Key: Description, Value: Orders written for the bandits.
+Hash: F5C7BC0A, Key: Flavor, Value: PH:  Our spiders have caught threads of an escape by some of our debtors. Ensure they do not make it to Dahlgur. Bring us their faces so that we may show the cost of avoiding your debts.

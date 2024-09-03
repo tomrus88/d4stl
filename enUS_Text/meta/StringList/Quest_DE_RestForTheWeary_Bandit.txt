@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Rest For The Weary
+Hash: 9F90DE2D, Key: Callback7Header, Value: Investigate the camp
+Hash: 7E533BFF, Key: Callback45Header, Value: Slay as many enemy waves as you can before time runs out: {DONE}
+Hash: E45EC27D, Key: Callback43Header, Value: Slay the remaining enemies
+Hash: 4A6A48FB, Key: Callback41Header, Value: Defeat {NEEDED} waves: {DONE_OVER_NEEDED}

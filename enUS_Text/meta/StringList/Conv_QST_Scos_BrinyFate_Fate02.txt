@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Fergus... Benen is dead."
+Hash: 0C12076E, Key: Line13.A9B7A, Value: Ah, I knew it. (sigh) The sea takes the best among us. Due paid for the bounty she provides.
+Hash: 5C48333B, Key: VoiceDir13.A9B7A, Value: Somber, recognizing truth
+Hash: A60680F0, Key: Line15.A9B7A, Value: Mawde! A drink for Benen, taken by the blessed blue.
+Hash: F63CACBD, Key: VoiceDir15.A9B7A, Value: Energized, passionate
+Hash: D9EF73F4, Key: Line19.A9B7A, Value: Ah, goodbye, brother.
+Hash: 2A259FC1, Key: VoiceDir19.A9B7A, Value: Somber, personal comment to dead friend

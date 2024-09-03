@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How did the Iron Wolves come to settle in a place this beautiful?"
+Hash: 8EDA92D6, Key: Line1.12887E, Value: Yes, the oasis is beautiful, but more than that, it felt safe. That's why we stayed.

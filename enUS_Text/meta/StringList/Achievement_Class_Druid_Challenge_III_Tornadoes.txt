@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Twisting Corridors
+Hash: 003892BF, Key: Desc, Value: Kill 500 enemies with Tornadoes in a dungeon as a Druid.

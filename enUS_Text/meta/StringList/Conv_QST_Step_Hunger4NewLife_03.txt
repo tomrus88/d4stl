@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found the herbs you wanted."
+Hash: DC4FC912, Key: Line26.6E261, Value: You've returned. Finally! Give me the herbs.
+Hash: 2C85F4DF, Key: VoiceDir26.6E261, Value: Relieved, then impatient. Concerned that they're losing precious time while her companion is suffering.
+Hash: FAB4316D, Key: Line30.6E261, Value: No... ngh...
+Hash: 4AEA5D3A, Key: VoiceDir30.6E261, Value: Scared, shakily breathing, struggling. She's reliving a traumatic memory.
+Hash: 76444294, Key: Line28.6E261, Value: I know, my dear. Now just give me a minute to brew this tea...
+Hash: C67A6E61, Key: VoiceDir28.6E261, Value: Pained, trying to be reassuring. Hurrying to make the tea.

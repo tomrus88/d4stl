@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Tempering Blows
+Hash: 003892BF, Key: Desc, Value:  After swapping weapons {c_number}[Affix."Static Value 0"]{/c} times, gain {c_random}[Affix_Flat_Value_1]{/c} {c_important}{u}Fortify{/u}{/c}.

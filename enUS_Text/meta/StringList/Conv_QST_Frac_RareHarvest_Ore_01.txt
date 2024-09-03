@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can you tell me about this geode I found in Gale Valley?"
+Hash: 5D20E70A, Key: Line1.B2A59, Value: Hmm, a lucky find! It's been some time since I've seen a geode like this. You'll need a special acid flux to get to the gems inside.
+Hash: F715608C, Key: Line3.B2A59, Value: Check with Idania. She just received a shipment of some rare reagents from Hawezar. You're welcome to use our tools to apply the flux and extract your gems.
+Hash: 9109DA0E, Key: Line5.B2A59, Value: Good fortune to you.

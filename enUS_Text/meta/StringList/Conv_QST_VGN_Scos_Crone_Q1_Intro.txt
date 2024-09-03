@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Petitioner
+Hash: 5D5B137A, Key: Line1.E9D0A, Value: Please. I... I haven't slept in days. Is there anything you can do?
+Hash: CC6479A7, Key: VoiceDir1.E9D0A, Value: distraught, pleading
+Hash: 8DC0338B, Key: Line5.2CDEB, Value: Hmm. Take this amulet, it will ward off nightmares.
+Hash: FCC999B8, Key: VoiceDir5.2CDEB, Value: thinking, calculating  
+Hash: 2B388000, Key: Line7.E9D0A, Value: Kindness upon you!
+Hash: 9A41E62D, Key: VoiceDir7.E9D0A, Value: grateful, relieved 

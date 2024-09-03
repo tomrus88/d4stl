@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Magistrate's Office
+Hash: 003892BF, Key: Desc, Value: Blood Money: A Magistrate calls for aid.

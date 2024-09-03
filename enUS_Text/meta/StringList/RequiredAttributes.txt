@@ -1,0 +1,4 @@
+Hash: 07DBBC18, Key: Level, Value: Requires Level {VALUE}
+Hash: F398E3EA, Key: Energy, Value: Required Energy: {VALUE}
+Hash: 1017B93C, Key: Quiver, Value: Requires Quiver
+Hash: ECB519F0, Key: BowAny, Value: Requires Bow

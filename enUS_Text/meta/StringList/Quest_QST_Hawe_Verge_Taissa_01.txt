@@ -1,0 +1,10 @@
+Hash: 003DFCC1, Key: Name, Value: A Question of Self
+Hash: 0871A46B, Key: Toast, Value: Taissa's tower sits strangely empty.
+Hash: D53BFF05, Key: Phase0Description, Value: Taissa has left her tower, but no one knows where she has gone or why. Perhaps there are some clues in her tower.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Search Taissa's tower for clues
+Hash: E2C708DD, Key: Phase44Description, Value: Taissa has returned to the Hungering Swamp, where we once helped Donan face his grief. What does Taissa hope to face, I wonder?
+Hash: 58D5557C, Key: Callback24Header, Value: Find Taissa in the Hungering Swamp
+Hash: B12CDF46, Key: Phase100Description, Value: Taissa has left her tower, but no one knows where she has gone or why.
+Hash: 1879A109, Key: Callback102Header, Value: Get the herbs from Orina
+Hash: 9F49FBC9, Key: Phase130Description, Value: Taissa is battling what she fears are the whispers of Andariel in her mind. Unfortunately, her ritual failed. I should see if there's any way I can help her.
+Hash: 0BD4F412, Key: Callback129Header, Value: Speak with Taissa outside

@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What now?"
+Hash: 6736F1BC, Key: Line3.101CF8, Value: Well, now we know where the werewolf problem came from. We may be able to reverse it, if I can count on your help.
+Hash: 3FBA9B7E, Key: Line5.101CF8, Value: First, you need to find that wolf totem. We also need "blood of the ally" and "blood of the enemy." You'll find druid ritual totems in the Harrowfields and Wraithstead.
+Hash: 183E4540, Key: Line7.101CF8, Value: Perform the ritual at each for the blood. I'll gather the rest of what we need and meet you back at Wraithstead.

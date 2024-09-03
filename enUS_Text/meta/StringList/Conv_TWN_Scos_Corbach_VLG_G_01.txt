@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 5D6C7508, Key: Line1.F9918, Value: They’ve five goats! They won’t miss one. Tomorrow night, I’ll go.
+Hash: CC75DB35, Key: VoiceDir1.F9918, Value: Hungry
+Hash: 3FBC11D6, Key: Line5.1057F8, Value: But...isn’t that stealing?
+Hash: 8FF23DA3, Key: VoiceDir5.1057F8, Value: Confused
+Hash: C53E5B0A, Key: Line9.F9912, Value: It’s making things fair, love. Aren’t you hungry?

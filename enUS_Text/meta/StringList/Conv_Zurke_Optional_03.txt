@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I've met the Tree of Whispers."
+Hash: 8EB65F2C, Key: Line1.1086F0, Value: I sensed it long before you graced my threshold. Its magic, its scent. Unmistakable. But you didn't make a deal for its knowledge... How interesting...
+Hash: DEEC8AF9, Key: VoiceDir1.1086F0, Value: Cryptic, said with a smirk. A pause at "But" as if you are detecting the smell of something strange.
+Hash: 673A08EE, Key: Line3.1086F0, Value: How is the Tree? Do the heads still bicker like old maids? Haha!

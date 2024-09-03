@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: [PH] Gaining Yiru's Trust
+Hash: A646FFA4, Key: Description, Value: Reward:  Continue Yiru's story. And make Helltide more lucrative
+Hash: F5C7BC0A, Key: Flavor, Value: Bring Yiru the blood of demons to continue harnessing the power of Hatred.

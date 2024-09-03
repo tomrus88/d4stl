@@ -1,0 +1,20 @@
+Hash: 003DFCC1, Key: Name, Value: A Suppurated Wound
+Hash: 8DCA476E, Key: Phase9Description, Value: Otseg believes the possessions are tied to old vaults outside the city. Is this the work of the ancient mage clans, or something more sinister?
+
+If I can find the Vault north of here, I might learn more.
+Hash: EC8B1AEE, Key: Callback8Header, Value: Find the Unearthed Vault
+Hash: 80E04E1B, Key: Phase42Description, Value: Otseg believes the possessions are tied to old vaults outside the city. Is this the work of the ancient mage clans, or something more sinister?
+
+I found a newly-formed fissure in the earth. This must be where people are disappearing to.
+
+Hash: 4A6A48FB, Key: Callback41Header, Value: Enter the Unearthed Vault
+Hash: 9F4BFA3B, Key: Phase51Description, Value: A guard told me of trouble brewing in Gea Kul. A crowd has gathered in the city square, overlooking bound men. I should investigate.  One of the onlookers, Otseg, might be able to tell me.
+Hash: E9B1E11B, Key: Callback50Header, Value: Speak with Otseg
+Hash: 3226125E, Key: Phase54Description, Value: I watched a crazed man in Gea Kul wrench his arm from its socket, heedless of the pain. He dropped a runestone of some sort. I should pick it up and assess its worth. 
+Hash: D0A0975E, Key: Callback53Header, Value: Pick up the Mysterious Runestone
+Hash: 322413EC, Key: Phase133Description, Value: There's a crazed man, pulling at his bindings. What's happening here?
+Hash: DD3F1FAC, Key: Callback132Header, Value: Investigate the commotion in Gea Kul
+Hash: 3E080ECB, Key: Phase150Description, Value: The possessed man dropped a runestone of some sort. I should ask Otseg what it is.
+Hash: E4589DD4, Key: Callback149Header, Value: Speak with Otseg
+Hash: D186F4B2, Key: Phase175Description, Value: A guard told me of trouble brewing in Gea Kul. A crowd has gathered in the city square, overlooking bound men. I should investigate. 
+Hash: 283AECB2, Key: Callback174Header, Value: Investigate the commotion in Gea Kul

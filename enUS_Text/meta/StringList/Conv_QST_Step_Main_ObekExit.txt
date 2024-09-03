@@ -1,0 +1,2 @@
+Hash: 5A1FE05B, Key: Line1.6E261, Value: Look! A... a crack in the wall.
+Hash: C9294688, Key: VoiceDir1.6E261, Value: Hopeful, urgent

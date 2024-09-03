@@ -1,0 +1,9 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Gerti sent me. I wish to join the Oxen Tribe."
+Hash: 59F2EB1C, Key: Line1.541E6, Value: Do you now? The tales walk tall ahead of you, wanderer. Tell me, are you worthy of them?
+Hash: C8FC5149, Key: VoiceDir1.541E6, Value: Arms folded. Smiling. Skeptical.
+Hash: 7B157C28, Key: Line3.BAE4.Bar, Value: I would show you.
+Hash: B185CF35, Key: VoiceDir3.BAE4.Bar, Value: Confident. Ready.
+Hash: 8DDBDE20, Key: Line5.541E6, Value: Good answer. To call yourself Oxen Tribe, you must earn it in blood, spilled in the sight of our ancestors. I will be their witness.
+Hash: FCE5444D, Key: VoiceDir5.541E6, Value: Mild approval. Direct. Reverent.
+Hash: 27D057A2, Key: Line7.541E6, Value: We make for the hunting grounds.
+Hash: 96D9BDCF, Key: VoiceDir7.541E6, Value: Direct. Presenting the way.

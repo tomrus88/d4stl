@@ -1,0 +1,37 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: D4479923, Key: Line1.BAE4, Value: The old ruins are clear. Your town should be safe now.
+Hash: F414AB47, Key: Line3.6DF9E, Value: Truly...? Ha! By the Light, you are Heaven sent!
+Hash: 631E1174, Key: VoiceDir3.6DF9E, Value: caught off guard
+Hash: 8E0924C9, Key: Line5.6DF9E, Value: Oh, I’m so sorry, we...we haven’t any coin to offer. But we have hot stew, good company, and--
+Hash: FD128AF6, Key: VoiceDir5.6DF9E, Value: feigning embarrassment
+Hash: 2AFE5306, Key: Line7.B2A13, Value: Stay for a pint!
+Hash: C1BC0DC5, Key: Line9.3F382, Value: Wash out the taste of the stew! (laugh)
+Hash: 30C573F2, Key: VoiceDir9.3F382, Value: Follow this line with a laugh.
+Hash: 6F2B15D6, Key: Line11.6DF9E, Value: We’d be honored if you’d join us.
+Hash: 0C204413, Key: Line13.B2A13, Value: To our savior!
+Hash: 5C566FE0, Key: VoiceDir13.B2A13, Value: (V.O.) 
+Hash: 7B97AD88, Key: Line35.6DE47, Value: (grunts)
+Hash: CBCDD955, Key: VoiceDir35.6DE47, Value: grunts with effort as he loads the player's body into the cart and pushes it out of the tavern
+Hash: 3D087D48, Key: Line17.6DE47, Value: (spits)
+Hash: 8D3EA915, Key: VoiceDir17.6DE47, Value: sound of a hawk/spit
+Hash: 158C270A, Key: Line37.6DE47, Value: (humming)
+Hash: 65C252D7, Key: VoiceDir37.6DE47, Value: humming – this will be picked up later as a proper song, at the end of the humming he does 
+Hash: AF80A08C, Key: Line39.6DE47, Value: (grunts)
+Hash: FFB6CC59, Key: VoiceDir39.6DE47, Value: a grunt of exertion as Oswen picks up the cart again
+Hash: 67D98269, Key: Line45.6DE47, Value: (humming)
+Hash: 01CDFBEB, Key: Line47.6DE47, Value: (grunts)
+Hash: 9BC2756D, Key: Line49.6DE47, Value: (humming)
+Hash: 33F08F65, Key: Line41.6DE47, Value: By Mother’s blood, by Mother's body, so...uh, shall you witness her glory...
+Hash: CDE508E7, Key: Line43.6DE47, Value: ...before you die. (laugh)
+Hash: 1E1B34B4, Key: VoiceDir43.6DE47, Value: dark, sinister
+Hash: 5B6CE5A3, Key: Line21.6DE47, Value: (sigh) Not ready yet!
+Hash: ABA31170, Key: VoiceDir21.6DE47, Value: followed by a grumble
+Hash: F5615F25, Key: Line23.6DE47, Value: Eh?
+Hash: 8F55D8A7, Key: Line25.6DE47, Value: Arrgh!
+Hash: DF8C0474, Key: VoiceDir25.6DE47, Value: Oswen dies violently.
+Hash: 294A8F92, Key: Line27.6F0BE, Value: (heavy breathing) They’re coming...the whole damned village!
+Hash: 7980BB5F, Key: VoiceDir27.6F0BE, Value: hushed
+Hash: C33F0914, Key: Line29.6F0BE, Value: Get up! Get up! We have to fight our way out!
+Hash: 47C04AE4, Key: Line31.7CF46, Value: There! Take them!
+Hash: E1A3716F, Key: Line33.6F0BE, Value: (heavy breath) May the Light preserve us!
+Hash: 31D99D3C, Key: VoiceDir33.6F0BE, Value: scared, bracing

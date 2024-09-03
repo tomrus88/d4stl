@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hell-Lava Pearl Knife
+Hash: 13A53A8B, Key: Series, Value: "Hell-Lava Pearl"

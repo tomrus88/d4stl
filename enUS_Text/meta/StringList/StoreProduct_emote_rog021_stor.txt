@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Checking In
+Hash: 13A53A8B, Key: Series, Value: "Pale Mischief"

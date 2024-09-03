@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where can I find you again?"
+Hash: 8ECE1D9E, Key: Line1.10BAC0, Value: Hmmm.. here or there, I suppose. I'm rarely in one place for long, but I'm sure our paths will cross once more.

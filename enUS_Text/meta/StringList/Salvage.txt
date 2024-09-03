@@ -1,0 +1,29 @@
+Hash: 1150D23F, Key: Result, Value: Salvaging {s1} gave you {s2}!
+Hash: B2E3AB16, Key: Warning, Value: Are you sure you want to destroy this item?
+Hash: D8C53486, Key: ResultBonus, Value: The highly salvageable item also gave you {s1}.
+Hash: B7583875, Key: ReturnedGems, Value: Socketed gems were returned to your inventory.
+Hash: F9F313E9, Key: Header, Value: Convert Items into Crafting Materials
+Hash: 4DD570A3, Key: InstructionA, Value: Select the anvil button to begin salvaging.
+Hash: 4DD570A4, Key: InstructionB, Value: Select items to salvage them.
+Hash: 196B2FD4, Key: ResultsTitle, Value: Salvage Results
+Hash: FEAE5968, Key: ResultHeader, Value: Salvaging {s1} gave you
+Hash: 2C2C06F3, Key: SalvageAllMagicWarning, Value: This action will irreversibly destroy all magic items in your inventory. Are you sure you want to do this?
+Hash: 60CD127C, Key: SalvageAllRareWarning, Value: This action will irreversibly destroy all rare items in your inventory. Are you sure you want to do this?
+Hash: DFD8A29B, Key: SalvageAllNormalWarning, Value: This action will irreversibly destroy all normal items in your inventory. Are you sure you want to do this?
+Hash: 6B6F8E14, Key: SalvageAllWarningTitle, Value: Salvage All
+Hash: 9892EE3E, Key: ItemIsEquippedWarning, Value: This action will irreversibly destroy one or more equipped items. Are you sure you want to do this?
+Hash: 58F6E47B, Key: SalvageWarningTitle, Value: Salvage
+Hash: 376B90D2, Key: SalvageAllWarning, Value: This action will irreversibly destroy all equipment in your inventory. Are you sure you want to do this?
+Hash: E482258B, Key: SalvageAllScrapWarning, Value: This action will irreversibly destroy all scrap items in your inventory. Are you sure you want to do this?
+Hash: 848AD4C5, Key: WarningItem, Value: Are you sure you want to destroy {s1}?
+Hash: 3E53F84A, Key: SalvageAllJunkWarning, Value: This action will irreversibly destroy all items marked as junk in your inventory. Are you sure you want to do this?
+Hash: 6BB48026, Key: SalvageAllNormalWarningSigils, Value: This action will irreversibly destroy all common Nightmare Sigils in your inventory. Are you sure you want to do this?
+Hash: A007C67E, Key: SalvageAllMagicWarningSigils, Value: This action will irreversibly destroy all sacred Nightmare Sigils in your inventory. Are you sure you want to do this?
+Hash: FBEF94C7, Key: SalvageAllRareWarningSigils, Value: This action will irreversibly destroy all ancestral Nightmare Sigils in your inventory. Are you sure you want to do this?
+Hash: D704FB9D, Key: SalvageAllWarningSigils, Value: This action will irreversibly destroy all sacred and ancestral Nightmare Sigils in your inventory. Are you sure you want to do this?
+Hash: 8A88AF47, Key: SalvageAllNormalWarningGems, Value: This action will irreversibly destroy all Crude Gems in your inventory. Are you sure you want to do this?
+Hash: E0267F9F, Key: SalvageAllMagicWarningGems, Value: This action will irreversibly destroy all Chipped Gems in your inventory. Are you sure you want to do this?
+Hash: 4E0427A8, Key: SalvageAllRareWarningGems, Value: This action will irreversibly destroy all Standard Gems in your inventory. Are you sure you want to do this?
+Hash: 79F7803F, Key: SalvageAllFlawlessWarningGems, Value: This action will irreversibly destroy all Flawless Gems in your inventory. Are you sure you want to do this?
+Hash: 73324745, Key: SalvageAllRoyalWarningGems, Value: This action will irreversibly destroy all Royal Gems in your inventory. Are you sure you want to do this?
+Hash: 31C5E0FE, Key: SalvageAllWarningGems, Value: This action will irreversibly destroy all Gems in your inventory. Are you sure you want to do this?

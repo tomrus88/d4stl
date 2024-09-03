@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Rakanoth's Wake
+Hash: F5C7BC0A, Key: Flavor, Value: Tread carefully on the plains of Hell, for each step sunders the soul and shatters the mind.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Collection's Table
+Hash: CC38ADCB, Key: FlavorName, Value: Exchange collected Midwinter Blight artifacts to earn Midwinter Proofs.

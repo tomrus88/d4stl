@@ -1,0 +1,53 @@
+Hash: CDD18A40, Key: BSK_InfernalLords_AffixName, Value: {icon:BSK_GreaterHost, 2.5}{c_gold}Aether Lords {/c}{c_bskbane}now spawn{/c}
+Hash: DFAAA273, Key: BSK_SpawnAetherLords_AffixName, Value: {icon:BSK_GreaterHost, 2.5}{c_gold}Aether Lords {/c}{c_bskbane}now spawn{/c}
+Hash: ECD69950, Key: BSK_SkulkingHellborne_AffixName, Value: {icon:BSK_Hellborne, 2.5}{c_gold}Hellborne {/c}{c_bskbane}are hunting you{/c}
+Hash: 4342FCDE, Key: BSK_AetherRushScalar_AffixName, Value: {icon:BSK_PlayerBoon, 2.5}{c_gold}Gathering Aether: {/c}{c_bonus} Increases movement speed {/c}
+Hash: A7DA27F9, Key: BSK_InvigoratingHellborne_AffixName, Value: {icon:BSK_PlayerBoon, 2.5}{c_gold}Slaying Hellborne: {/c}{c_bonus} Increases Attack Speed and Reduces Cooldowns {/c}
+Hash: 5B827435, Key: BSK_AetherInvigorationScalar_AffixName, Value: {icon:BSK_PlayerBoon, 2.5}{c_gold}Slaying Hellborne: {/c}{c_bonus} Increases Attack Speed and Reduces Cooldowns {/c}
+Hash: 1B1E144F, Key: BSK_AetherMassDamageScalar_AffixName, Value: {icon:BSK_AetherMass, 2.5}{c_gold}Aetheric Mass damage: {/c}{c_bskbane}+{value}%{/c}
+Hash: EBDB076A, Key: BSK_MonsterDamageScalar_AffixName, Value: {icon:BSK_Mob, 2.5}{c_gold}Normal monster damage: {/c}{c_bskbane}+{value}%{/c}
+Hash: A34D6191, Key: BSK_MoreHellborneScalar_AffixName, Value: {icon:BSK_Hellborne, 2.5}{c_gold}+{value} Hellborne {/c}{c_bskbane} when they spawn{/c}
+Hash: 8360A174, Key: BSK_HellborneHealthScalar_AffixName, Value: {c_gold}Hellborne health: {/c}{c_bskbane}+{value}%{/c}
+Hash: D1F9B5E1, Key: BSK_MonsterHealthScalar_AffixName, Value: {c_gold}Monster health: {/c}{c_highlight}+{value}%{/c}
+Hash: FE6F83B7, Key: BSK_MonsterLevelIncrease_AffixName, Value: {c_gold}Monster level: {/c}{c_highlight}+{value}{/c}
+Hash: FEBF7892, Key: BSK_MonsterBarrierScalar_AffixName, Value: Monster Barrier Scalar: {Value}
+Hash: C04990B0, Key: BSK_AdditionalHellborneAetherScalar_AffixName, Value: {icon:BSK_Hellborne, 2.5}{c_gold}Hellborne grant {/c}{c_bonus}+{value} Aether{/c}
+Hash: 9D41F2FD, Key: BSK_HellborneDamageScalar_AffixName, Value: {icon:BSK_Hellborne, 2.5}{c_gold}Hellborne damage: {/c}{c_bskbane}+{value}%{/c}
+Hash: 3C0DAE44, Key: BSK_PlayerEvadeCooldown_AffixName, Value: {icon:BSK_PlayerBane, 2.5}{c_gold}Evade Cooldown Increased: {/c}{c_bskbane}+{value}s{/c}
+Hash: 13A8BAF8, Key: BSK_PlayerPotionCooldown_AffixName, Value: {icon:BSK_PlayerBane, 2.5}{c_gold}Potion Cooldown Increased: {/c}{c_bskbane}+{value}s{/c}
+Hash: 50CE740C, Key: BSK_ReduceResistanceScalar_AffixName, Value: {icon:BSK_PlayerBane, 2.5}{c_gold}Reduced All Resist: {/c}{c_bskbane}-{value}%{/c}
+Hash: 854AC03F, Key: BSK_DriftingShadeScalar_AffixName, Value: {c_gold}Drifting Shade: {/c}{c_highlight}Rank {value}{/c}
+Hash: E8AFB8A8, Key: BSK_BloodBlisterScalar_AffixName, Value: {c_gold}Blood Blister: {/c}{c_highlight}Rank {value}{/c}
+Hash: 86A488F2, Key: BSK_HellfireSpawnHellborneScalar_AffixName, Value: {icon:BSK_Hellborne, 2.5} {c_gold}Hellfire spawns {/c}{c_bskbane}Hellborne{/c}
+Hash: FD884B23, Key: BSK_AetherMultiplierScalar_AffixName, Value: {c_gold}Aether Multiplier: {/c}{c_highlight}+{value}{/c}
+Hash: B2E4FF0E, Key: BSK_HellfireScalar_AffixName, Value: {icon:BSK_Hellfire, 2.5}{c_gold}Hellfire {/c}{c_bskbane}rains upon you.{/c}
+Hash: 02547411, Key: BSK_AetherDetonationScalar_AffixName, Value: {icon:BSK_PlayerBoon, 2.5}{c_gold}Aether Fiends explode and {/c}{c_bonus}damage foes{/c}
+Hash: 55436D6C, Key: BSK_AdditionalTumorAetherScalar_AffixName, Value: {icon:BSK_Aether, 2.5} {c_gold}Aetheric Masses grant: {/c}{c_bonus}+{value} Aether{/c}
+Hash: 1E7B1B9D, Key: BSK_SoulspiresGrantDouble_AffixName, Value: {icon:BSK_Aether, 2.5}{c_gold}Soulspires grant {/c}{c_bonus} 2x Aether{/c}
+Hash: 06CA4900, Key: BSK_AetherSpireDrainsHealth_AffixName, Value: {icon:BSK_Soulspire, 2.5} {c_gold}Soulspires {/c}{c_bskbane}drain health{/c}
+Hash: 45B10F87, Key: BSK_AdditionalShardAetherScalar_AffixName, Value: {icon:BSK_Aether, 2.5}{c_gold}Soulspires grant {/c}{c_bonus}+{value} Aether{/c}
+Hash: EF520492, Key: BSK_VolcanicScalar_AffixName, Value: {c_gold}Volcanic: {/c}{c_highlight}Rank {value}{/c}
+Hash: 0CC684AE, Key: BSK_StormbaneScalar_AffixName, Value: {c_gold}Stormbane: {/c}{c_highlight}Rank {value}{/c}
+Hash: B5833A50, Key: BSK_ItemPowerBonus_AffixName, Value: Item Power Bonus: {Value}
+Hash: 969FB526, Key: BSK_AdditionalRareScalar_AffixName, Value: {c_gold}The Council drops: {/c}{c_yellow}+{value}{/c}{c_gold} Rare items{/c}
+Hash: 12AD9483, Key: BSK_AdditionalLegoScalar_AffixName, Value: {c_gold}The Council drops: {/c}{c_yellow}+{value}{/c}{c_gold} Legendary items{/c}
+Hash: 35BABB33, Key: BSK_AdditionalUniqueScalar_AffixName, Value: {c_gold}Council drops a Unique item: {/c}{c_yellow}+{value}%{/c}{c_gold} chance{/c}
+Hash: 0E54517B, Key: BSK_AdditionalRareMatsScalar_AffixName, Value: {c_gold}The Council drops: {/c}{c_yellow}+{value}{/c}{c_gold} Rare materials{/c}
+Hash: 92CC9758, Key: BSK_ADditionalLegoMatsScalar_AffixName, Value: {c_gold}The Council drops: {/c}{c_yellow}+{value}{/c}{c_gold} Legendary materials{/c}
+Hash: 68AB2BEC, Key: BSK_CouncilAdditionalAether_AffixName, Value: {icon:BSK_Aether, 2.5}{c_gold}Defeating The Fell Council grants {/c}{c_bonus}+{value} Aether{/c}
+Hash: 482C976F, Key: BSK_CouncilDamageScalar_AffixName, Value: {icon:BSK_Council, 2.5}{c_gold}The Fell Council's damage {/c}{c_bskbane}+{value}%{/c}
+Hash: 31311181, Key: BSK_EliteChanceDoubled_AffixName, Value: {icon:BSK_EliteMonster, 2.5}{c_gold}Chance for Elite{/c}{c_bskbane} Doubled {/c}
+Hash: 52843952, Key: BSK_EliteAdditionalAether_AffixName, Value: {icon:BSK_Aether, 2.5}{c_gold}Aether Fiends grant {/c}{c_bonus}+{value} Aether{/c}
+Hash: 58BAE1D5, Key: BSK_EliteDamageScalar_AffixName, Value: {icon:BSK_EliteMonster, 2.5}{c_gold}Elite damage {/c}{c_bskbane}+{value}%{/c}
+Hash: D052D883, Key: BSK_EliteUnstoppableScalar_AffixName, Value: {icon:BSK_EliteMonster, 2.5}{c_gold}Elites are {/c}{c_bskbane}Unstoppable{/c}
+Hash: 71B93226, Key: BSK_ThrivingMassesCurse_AffixName, Value: {icon:BSK_AetherMass, 2.5} {c_gold}Masses deal {/c}{c_bskbane}unavoidable damage{/c}
+Hash: BAA21B84, Key: BSK_ThrivingMasses_AffixName, Value: {icon:BSK_Aether, 2.5}{c_gold}Wave start, spawn an{/c}{c_bonus}{value} Aetheric Mass{/c}
+Hash: 88846795, Key: BSK_GreaterHostBonusAether_AffixName, Value: {icon:BSK_GreaterHost, 2.5}{c_gold}Aether Lords grant: {/c}{c_bonus}+{value} Aether{/c}
+Hash: 2C49F05F, Key: BSK_GestatingMasses_AffixName, Value: {icon:BSK_AetherMass, 2.5} {c_gold}Masses spawn an {/c}{c_bskbane}Aether Lord on death{/c}
+Hash: CCB4B5AD, Key: BSK_EnergizingMassesCurse_AffixName, Value: {icon:BSK_AetherMass, 2.5}{c_gold}Slaying Aetheric Masses: {/c}{c_bskbane} slow you (8s){/c}
+Hash: B8248EAB, Key: BSK_EnergizingMasses_AffixName, Value: {icon:BSK_PlayerBoon, 2.5}{c_gold}Slaying Aetheric Masses: {/c}{c_bonus}Give you unlimited resources (8s){/c}
+Hash: 2554FAEB, Key: BSK_MoreHostsPerWave_AffixName, Value: {icon:BSK_Aether, 2.5}{c_gold}At the end of each wave{/c}{c_bonus} spawn 1-3 Aether{/c}
+Hash: 763B64B0, Key: BSK_CorruptingSpires_AffixName, Value: {icon:BSK_Soulspire, 2.5}{c_gold}Soulspires {/c}{c_bonus}pull foes inwards{/c}
+Hash: 042B16D2, Key: BSK_CorruptingSpiresCurse_AffixName, Value: {icon:BSK_Soulspire, 2.5}{c_gold}Soulspires {/c}{c_bskbane} empower nearby foes{/c}
+Hash: ACF5D3D2, Key: BSK_GreedySpireCurse_AffixName, Value: {icon:BSK_Soulspire, 2.5}{c_gold}Soulspires require {/c}{c_bskbane}2x kills{/c}
+Hash: D2C631A5, Key: BSK_BlisteringHordes_AffixName, Value: {icon:BSK_Aether, 2.5}{c_gold}Killing monsters spawn Aether Events {/c}{c_bonus}+{value}% faster{/c}

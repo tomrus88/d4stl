@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ritual Table
+Hash: F2CA04D8, Key: NoticeSignText, Value: This ritual site appears well used. There must be a large amount of sites within these ruins in use by these cultists. What they are doing and how they move past the snakes is a mystery.

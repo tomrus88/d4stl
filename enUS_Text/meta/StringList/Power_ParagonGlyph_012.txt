@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: You gain {c_number}[{SF_0}*100|%|]{/c} Damage Reduction while you have an active {c_important}{u}Barrier{/u}{/c}.

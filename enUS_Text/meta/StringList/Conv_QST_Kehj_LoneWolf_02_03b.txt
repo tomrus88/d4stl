@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Rock Wall
+Hash: 4429BC17, Key: Line4.BC41C, Value: The rocks look loose. Would you mind?
+Hash: B3332244, Key: VoiceDir4.BC41C, Value: Quick. Assessing. Asking player to knock through the rocks.

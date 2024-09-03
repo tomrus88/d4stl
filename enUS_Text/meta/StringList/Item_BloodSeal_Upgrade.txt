@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Potent Blood
+Hash: A646FFA4, Key: Description, Value: Used to upgrade or unlock Vampiric Powers in the Seasonal tab of your Inventory, available after completing or skipping the Campaign and progressing the Seasonal Quest.
+
+Often obtained from Blood Harvest, Blood Seekers, and Opulent Coffins.
+Hash: F5C7BC0A, Key: Flavor, Value: This substance, distilled by an occult process from the blood of human victims, enables the enhancement of Vampiric Powers.

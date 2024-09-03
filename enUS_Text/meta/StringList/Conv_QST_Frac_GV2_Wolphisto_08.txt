@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This place is in ruins..."
+Hash: 9112B770, Key: Line5.ACEF6, Value: Seen enough? Open the door.
+Hash: 001C1D9D, Key: VoiceDir5.ACEF6, Value: Not commanding--just directing the player how to proceed through this strange realm

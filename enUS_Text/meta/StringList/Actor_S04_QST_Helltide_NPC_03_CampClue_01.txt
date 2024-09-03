@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Shining Medallion
+Hash: F2CA04D8, Key: NoticeSignText, Value: Telan's medallion, polished to a mirror shine. 
+
+You can almost see yourself in the reflection. What did Telan see?

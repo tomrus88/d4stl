@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Assassin's Satchel
+Hash: A646FFA4, Key: Description, Value: Each ear is a life taken, for good or ill. One's knife is best kept sharp.

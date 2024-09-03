@@ -1,0 +1,6 @@
+Hash: 86AC49E7, Key: UIHeader, Value: Wolf's Honor
+Hash: 3CEFC1B1, Key: ReputationNameText, Value: Wolf's Honor
+Hash: 3546905B, Key: ReputationNPCFlavorText, Value: Iron Wolf Field Commander
+Hash: 3B352C7C, Key: ReputationNPCConversationMenuLabel, Value: "Show me how I have fared against Hell."
+Hash: 3FB6579C, Key: HowToEarnText, Value: Battle evil in {icon:Marker_Helltide, 2.5}{c_highlight}Helltide{/c} zones to gain {c_highlight}Wolf's Honor{/c} with the Iron Wolves.
+Hash: A0AEE1F0, Key: BonusObjectiveRewardFormat, Value: {s1}

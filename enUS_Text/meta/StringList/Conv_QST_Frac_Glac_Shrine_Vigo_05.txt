@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What's it like inside the Monastery?”
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Not sure. But I’ve heard crazy rumors. Daft old monk, if the unlucky bastard still lives. Probably as cold in there as it is out here.
+Hash: 091F8A44, Key: Line13.6DE47, Value: It’ll be ornate, that’s for sure. Only the best for the one at the top.

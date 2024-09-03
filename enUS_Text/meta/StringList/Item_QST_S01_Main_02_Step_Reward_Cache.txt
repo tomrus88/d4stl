@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Velvet Reliquary Cover
+Hash: F5C7BC0A, Key: Flavor, Value: A velvet cover formerly used for a smashed Orbei reliquary, containing some items recovered from the fight with Varshan.

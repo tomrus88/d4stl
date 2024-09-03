@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: Casts of {c_important}Landslide{/c} leave behind Tectonic Spikes that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Physical damage over {c_number}[Affix."Static Value 0"]{/c} seconds.
+
+Spawning a {c_important}Landslide{/c} pillar within Tectonic Spikes has a {c_random}[Affix_Value_2 * 100|%|]{/c} chance to spawn two instead.

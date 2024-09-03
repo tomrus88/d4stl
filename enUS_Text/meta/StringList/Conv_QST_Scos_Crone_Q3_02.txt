@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "It is done, but..."
+Hash: 8DC0338B, Key: Line5.2CDEB, Value: You need not say it. The wild magic has taken Mochrann from me as well. (sigh) The druids were right to fear it.
+Hash: FCC999B8, Key: VoiceDir5.2CDEB, Value: distressed, sad. Takes a breath to get herself together.
+Hash: 27B4AD0D, Key: Line7.2CDEB, Value: The thicket rests. You did well. Now please, take your leave. I need to think.
+Hash: 96BE133A, Key: VoiceDir7.2CDEB, Value: sad, dismissive 

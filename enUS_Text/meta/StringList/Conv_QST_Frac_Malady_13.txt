@@ -1,0 +1,4 @@
+Hash: 5D8555E3, Key: Line1.FEF74, Value: (shivers) It's colder down here than out there!
+Hash: CC8EBC10, Key: VoiceDir1.FEF74, Value: Nervous
+Hash: F779CF43, Key: Line3.FEF63, Value: A sure sign of demonic presence.
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: confident

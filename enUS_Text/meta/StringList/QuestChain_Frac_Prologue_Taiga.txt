@@ -1,0 +1,7 @@
+Hash: 76E748CE, Key: 0_desc, Value: The dreams continue to haunt me. My search for answers leads now to the Fractured Peaks, where  a wise man from a forgotten order is rumored to live as a hermit. If he cannot rid me of these visions, perhaps he can help me to understand them.
+Hash: 793C716F, Key: 1_desc, Value: I agreed to search the broken tower north of Nevesk. If whatever lurks within is connected to my visions, then I must face it.
+Hash: 7B919A10, Key: 2_desc, Value: The broken tower brought me no answers--only more questions. At least tidings of the demon's defeat should set the villagers at ease.
+Hash: 7DE6C2B1, Key: 3_desc, Value: The villagers betrayed me. My reward for slaying the demon was a poisoned cup and a cold, stone table upon which to be sacrificed. With the help of the old monk, I fight my way to freedom.
+Hash: 803BEB52, Key: 4_desc, Value: The monk rescued me from the villagers who hours ago seemed harmless - even kind. He told me they gathered at the nearby chapel to pray for salvation from evil. I must follow this thread to the end.
+Hash: 829113F3, Key: 5_desc, Value: I told the monk of the horned woman I saw in the chapel. His eyes grew wide with fear, but told me little. He instructed me to find a hermit living in the hills to the east and bring him to the Cathedral of Light for questioning. I will find this hermit. I must have answers.
+Hash: 84E63C94, Key: 6_desc, Value: Lorath Nahr, the hermit in the hills, has agreed to come with me to the city of Kyovashad and speak to the Cathedral of Light.

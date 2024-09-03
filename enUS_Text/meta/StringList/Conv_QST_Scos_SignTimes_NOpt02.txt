@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “List of Last Deeds?”
+Hash: 5D201CB4, Key: Line1.B20CF, Value: Oh, aye. We were at the Goose one night when Torben mentioned an old hunter lost to wargs. Tavish couldn’t imagine going out that way. Tossed about grand deeds that needed doing before he passed.
+Hash: F7149636, Key: Line3.B20CF, Value: So, we had a contest of courage, assisted by the Goose’s finest supply, and put our promises to paper.
+Hash: 661DFC63, Key: VoiceDir3.B20CF, Value: Warmly remember the past
+Hash: 91090FB8, Key: Line5.B20CF, Value: No task too daring. No embarrassment discouraged by pride. The greater the risk, the greater the drinks to follow.

@@ -1,0 +1,4 @@
+Hash: 8ECD5C34, Key: Line1.10B51D, Value: I'm telling you the truth. I saw my neighbor reading a book about forbidden Horadric magics. He wants to sow chaos!
+Hash: DF038801, Key: VoiceDir1.10B51D, Value: Insistent (but in reality the villager is probably lying about his neighbor because of some personal vendetta)
+Hash: F77761FE, Key: Line3.FB73C, Value: (sigh) Right, right. This wouldn't have anything to do with the money you owe him, would it?
+Hash: 6680C82B, Key: VoiceDir3.FB73C, Value: Going through the motions--not convinced that this villager is telling the truth, but trying to stay civil

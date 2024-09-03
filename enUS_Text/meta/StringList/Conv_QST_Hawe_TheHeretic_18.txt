@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you all right?"
+Hash: F75EA61F, Key: Line3.F52ED, Value: Oh gods...it-it happened again, didn't it!? (sobs)
+Hash: 66680C4C, Key: VoiceDir3.F52ED, Value: Coming to a horrible realization that you have accidentally killed a bunch of people.
+Hash: 91531FA1, Key: Line5.F52ED, Value: I don't know what's wrong with me! Please, stay away! I don't want to hurt you too! (cries)
+Hash: 005C85CE, Key: VoiceDir5.F52ED, Value: Horrified, crying, scared and pleading
+Hash: 2B479923, Key: Line7.F52ED, Value: Please, tell my mother I'm sorry! I'm so sorry!
+Hash: 9A50FF50, Key: VoiceDir7.F52ED, Value: Horrified, crying, scared and pleading

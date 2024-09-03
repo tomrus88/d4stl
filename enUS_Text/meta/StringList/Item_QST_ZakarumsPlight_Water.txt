@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Water-filled bottle
+Hash: F5C7BC0A, Key: Flavor, Value: Bottle filled with fresh water from the oasis for Tameon.

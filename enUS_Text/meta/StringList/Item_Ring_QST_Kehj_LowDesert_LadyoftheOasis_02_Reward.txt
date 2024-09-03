@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Seal of the Vizjerei
+Hash: F5C7BC0A, Key: Flavor, Value: A mage’s ring for binding spirits. Etched along the outside are the true names of angels, demons and other mysterious entities, compelled to bestow power upon the ring’s wielder.

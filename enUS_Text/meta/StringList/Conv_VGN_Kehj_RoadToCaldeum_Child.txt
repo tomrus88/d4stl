@@ -1,0 +1,3 @@
+Hash: 5D3B05A5, Key: Line1.BC414, Value: (crying)
+Hash: 915B9740, Key: Line5.EDC72, Value: Hush now, dear. I know it hurts, but we need to keep moving.
+Hash: 0064FD6D, Key: VoiceDir5.EDC72, Value: tearful

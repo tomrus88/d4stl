@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Vhenard Intro 2
+Hash: 091F8A44, Key: Line13.6DE47, Value: There she is.

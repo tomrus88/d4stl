@@ -1,0 +1,12 @@
+Hash: 34E465E0, Key: FormatString, Value: {s1} {s2}
+Hash: 07EB63C1, Key: Magic, Value: Magic
+Hash: 00402EEA, Key: Rare, Value: Rare
+Hash: E29CC58E, Key: Artifact, Value: Artifact
+Hash: 46BF2B7B, Key: Legendary, Value: Legendary
+Hash: 0001F6AC, Key: Set, Value: Set
+Hash: 18ED9CF7, Key: Unique, Value: Unique
+Hash: 08B074E9, Key: Normal, Value: Common
+Hash: 1354C512, Key: Sacred, Value: Sacred
+Hash: 60315FFD, Key: Ancestral, Value: Ancestral
+Hash: D224B797, Key: Cosmetic, Value: Cosmetic
+Hash: 071145CE, Key: Mythic, Value: Mythic Unique

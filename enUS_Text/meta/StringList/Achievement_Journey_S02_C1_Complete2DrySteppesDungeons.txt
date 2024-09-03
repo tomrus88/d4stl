@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Across the Golden Wastes
+Hash: 3A4912CF, Key: DescShort, Value: Complete {icon:Marker_DungeonEntrance, 2.5} Dungeons in Dry Steppes

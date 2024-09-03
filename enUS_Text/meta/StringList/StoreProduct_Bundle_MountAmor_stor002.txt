@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Brackish Fetch
+Hash: A646FFA4, Key: Description, Value: Hunters of the Drowned drape their mounts in elements befitting their duty.
+Hash: 083EE0CE, Key: Quote, Value: You CAN outrun the tide.
+Hash: 13A53A8B, Key: Series, Value: Mount Armor

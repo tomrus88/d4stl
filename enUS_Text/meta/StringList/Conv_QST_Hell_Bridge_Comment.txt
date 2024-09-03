@@ -1,0 +1,6 @@
+Hash: 5A334C6A, Key: Line1.7FA05, Value: This is where the proper battle was fought.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Seeing a lot of dead Knights Penitent everywhere
+Hash: F414A633, Key: Line3.6DE47, Value: They didn't stand a chance.
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: sad seeing so many people dead
+Hash: 8E083E4E, Key: Line5.6D03F, Value: Fodder for a broken angel’s ambitions. Keep moving.
+Hash: FD11A47B, Key: VoiceDir5.6D03F, Value: Hint of anger that Inarius brought a bunch of humans into Hell to fight for him

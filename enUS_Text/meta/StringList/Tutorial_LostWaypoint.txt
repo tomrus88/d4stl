@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Stronghold
+Hash: 7BFE534B, Key: simple_instruction, Value: Conquering a{icon:Marker_Camp_NotCleared, 2.5}{c_highlight}Stronghold{/c} will reclaim the area from evil. Conquered Strongholds may grant access to waypoints, dungeons, quests, or other rewards.

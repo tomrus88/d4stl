@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Polearm Expertise
+Hash: 003892BF, Key: desc, Value: {c_number}[{SF_0} * 100|%x1|]{/c} increased Lucky Hit Chance.{if:SF_5}
+
+You deal {c_number}[{SF_4} * 100|%x1|]{/c} increased damage while {c_important}{u}Healthy{/u}{/c}.{/if}
+Hash: F2DE8628, Key: simple_desc, Value: {c_number}[{SF_0} * 100|%x1|]{/c} increased Lucky Hit Chance.
+Hash: F2D5722F, Key: rankup_desc, Value: Bonus Lucky Hit Chance increased to {c_number}[{SF_1} * 100|%x1|]{/c}.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Hunter's Bundle
+Hash: A646FFA4, Key: Description, Value: Though the cultists are believed destroyed, the hunter unendingly scours the countryside for evidence of their infection.
+Hash: 083EE0CE, Key: Quote, Value: Until none remain.
+Hash: 13A53A8B, Key: Series, Value: "The Bloodsworn Hunter" Accessories

@@ -1,0 +1,2 @@
+Hash: D4479923, Key: Line1.BAE4, Value: What are you hiding back here?
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: Intrigued

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Charged Atmosphere
+Hash: 003892BF, Key: desc, Value: Every {c_number}{SF_0}{/c} seconds, a {c_important}Lightning Bolt{/c} hits a Nearby enemy dealing {c_number}{payload:DAMAGE_TOOLTIP}{/c} damage.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Interval {icon:arrow,1.2} Every {c_number}{SF_0}{/c} Seconds

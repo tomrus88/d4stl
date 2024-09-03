@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Are you all right?"
+Hash: 40E19EED, Key: Line4.54217, Value: (grunt) My leg...burned. I’m stuck.
+Hash: AFEB051A, Key: VoiceDir4.54217, Value: pained
+Hash: DAD6186F, Key: Line6.54217, Value: Listen. There’s a relic in one of these pots. Lotta coin riding on it.
+Hash: 74CA91F1, Key: Line8.54217, Value: My boss, Rakhaan, he showed me this spell. No words, just a gesture. Like this. It’ll send the relic back to him. You find the damn thing, cast the spell, and we split the money. Eh?
+Hash: E3D3F81E, Key: VoiceDir8.54217, Value: rah-kahn

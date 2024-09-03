@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Death Room Proto
+Hash: 38AA8D97, Key: Callback10Header, Value: Enter Death Room

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slain Zakarumite
+Hash: F2CA04D8, Key: NoticeSignText, Value: The violence here seems like it was indiscriminate. Zakarumite and Kehjistani alike fell in droves.

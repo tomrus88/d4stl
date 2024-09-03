@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have an urgent message for Donan."
+Hash: F717F360, Key: Line3.B8616, Value: He’s upstairs in the Great Hall with his son. Keep it quick.

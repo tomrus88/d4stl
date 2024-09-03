@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened at Mount Arreat?"
+Hash: 40728A21, Key: Line1.137EC4.Bar, Value: Do you not know your own history?
+Hash: D443D46E, Key: VoiceDir1.137EC4.Bar, Value: Mild surprise. Disappointment.
+Hash: 407294D7, Key: Line1.137EC4.Dru, Value: Most outsiders care only for our steel... seldom our history.
+Hash: D443DF24, Key: VoiceDir1.137EC4.Dru, Value: Mild surprise. Stoic, but pleased.
+Hash: 4072BDA2, Key: Line1.137EC4.Nec, Value: Most outsiders care only for our steel... seldom our history.
+Hash: D44407EF, Key: VoiceDir1.137EC4.Nec, Value: Mild surprise. Stoic, but pleased.
+Hash: 4072CFF4, Key: Line1.137EC4.Rog, Value: Most outsiders care only for our steel... seldom our history.
+Hash: D4441A41, Key: VoiceDir1.137EC4.Rog, Value: Mild surprise. Stoic, but pleased.
+Hash: 4072D440, Key: Line1.137EC4.Sor, Value: Most outsiders care only for our steel... seldom our history.
+Hash: D4441E8D, Key: VoiceDir1.137EC4.Sor, Value: Mild surprise. Stoic, but pleased.
+Hash: 1877E124, Key: Line7.137EC4, Value: Our kind were born in the shade of the mountain. Many tribes, one people. Raised to fight and sworn to protect our home. And for thousands of years, we did.
+Hash: 68AE0CF1, Key: VoiceDir7.137EC4, Value: Somber. Reverent.
+Hash: F0FB8AE6, Key: Line9.137EC4, Value: Until Baal, Lord of Destruction, marched on our mountain to seize the power inside. The mountain was destroyed. Our homeland, poisoned. We have been adrift ever since.
+Hash: 4131B6B3, Key: VoiceDir9.137EC4, Value: Bitter, then somber.

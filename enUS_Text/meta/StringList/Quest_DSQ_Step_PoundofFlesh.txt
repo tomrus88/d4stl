@@ -1,0 +1,4 @@
+Hash: F81CED9C, Key: Callback33Header, Value: Slay Borza the Grim
+Hash: 45172A5D, Key: Callback34Header, Value: Slay Nizaar the Traitor
+Hash: 9211671E, Key: Callback35Header, Value: Slay Borza's gang
+Hash: 04898A62, Key: Callback57Header, Value: Help Nizaar find Borza the Grim

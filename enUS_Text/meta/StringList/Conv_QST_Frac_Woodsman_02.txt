@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why do you want the Woodsman's Axe?"
+Hash: 8EB2F8CF, Key: Line1.102113, Value: I don't, Parin does. He's a priest of sorts, but what he wants with it I don't know. I've done work for him in the past, always odd items or objects with a history. He pays well for them.
+Hash: DEE9249C, Key: VoiceDir1.102113, Value: Matter of fact

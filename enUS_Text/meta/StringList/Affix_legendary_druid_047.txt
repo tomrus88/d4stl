@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Seismic-shift
+Hash: 003892BF, Key: Desc, Value: {c_important}Earth Spike{/c} deals {c_random}[Affix_Value_1|%x|]{/c} increased damage and launches spikes in a line.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Earth Spike{/c} deals {c_random}[Affix_Value_1|%x|]{/c} increased damage.

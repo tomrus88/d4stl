@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Ayuzhan Bark
+Hash: 18E96351, Key: Line7.18AEA4, Value: There we are. Two of these sites look promising. And a shrine to Al’Diabolos, that will be essential.
+Hash: 691F8F1E, Key: VoiceDir7.18AEA4, Value: forcing down his feelings
+Hash: F16D0D13, Key: Line9.18AEA4, Value: We know our path. Now to follow it.

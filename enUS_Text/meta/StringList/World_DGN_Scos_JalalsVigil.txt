@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Jalal's Vigil
+Hash: 003892BF, Key: Desc, Value: A forest, soured by the agony of its own protector.

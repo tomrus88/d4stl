@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Warden's Key
+Hash: A646FFA4, Key: Description, Value: Bound to Prison of Caldeum
+Hash: F5C7BC0A, Key: Flavor, Value: The knights have locked the gate to the prison depths, for something evil lurks below.

@@ -1,0 +1,3 @@
+Hash: F71E3DEE, Key: Line3.ACEF6, Value: The day of reckoning will come, and your true friends will be revealed.
+Hash: 6627A41B, Key: VoiceDir3.ACEF6, Value: Disappointed, annoyed--but he expected the player to turn him down. Emphasis on "TRUE" here as a retort to what the Player says right before this.
+Hash: 9112B770, Key: Line5.ACEF6, Value: Now take the portal back to your allies.

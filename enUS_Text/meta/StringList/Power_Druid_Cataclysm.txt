@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: name, Value: Cataclysm
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat Effect Chance}|%|]{/c}
+{/if}A massive storm follows you for {c_number}{buffduration:TORNADO_SPAWNING}{/c} seconds. Twisters Knock Back enemies dealing {c_number}{payload:TORNADO_DAMAGE}{/c} damage, and lightning strikes wildly dealing {c_number}{payload:LIGHTNING_STRIKE}{/c} damage.
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Cataclysm's{/c} duration is increased by {c_number}{SF_23}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Prime Cataclysm
+Hash: D618A933, Key: Mod0_Description, Value: Lightning strikes from {c_important}Cataclysm{/c} make enemies {c_important}{u}Vulnerable{/u}{/c} for {c_number}{SF_31}{/c} seconds.
+Hash: 9233D930, Key: Mod0_Name, Value: Supreme Cataclysm

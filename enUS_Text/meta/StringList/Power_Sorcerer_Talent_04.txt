@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: name, Value: Fiery Surge
+Hash: 003892BF, Key: desc, Value: Killing a Burning enemy increases your Mana Regeneration by {c_number}[{SF_0} * 100|%+|]{/c} for {c_number}{buffduration:RESOURCE_REGEN_BONUS}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Mana Regeneration {icon:arrow,1.2} {c_number}[{SF_0} * 100|%+|]{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Fiery Surge
+Hash: C6E60718, Key: Buff2_Description, Value: Resource Regeneration increased.

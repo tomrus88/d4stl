@@ -1,0 +1,4 @@
+Hash: C1A24540, Key: Line9.371E1, Value: Sanctuary will burn! We will remain!
+Hash: 30ABAB6D, Key: VoiceDir9.371E1, Value: Fanatical. Exultant. Goading followers.
+Hash: 6F3D60CF, Key: Line11.7F064, Value: Sanctuary will burn! We will remain!
+Hash: BF738C9C, Key: VoiceDir11.7F064, Value: Fanatical. Exultant. Goading followers.

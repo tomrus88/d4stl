@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Tempting Fate
+Hash: 003892BF, Key: Desc, Value: You gain {c_random}[Affix_Value_1|%+|]{/c} Critical Strike Damage but your Non-Critical Strikes deal {c_random}[Affix_Value_2|%x|]{/c} less damage.

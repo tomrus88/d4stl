@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Eerie Harvest
+Hash: 3A4912CF, Key: DescShort, Value: Collect{icon:Marker_Herb, 3.25}Lifesbane, found only in Kehjistan

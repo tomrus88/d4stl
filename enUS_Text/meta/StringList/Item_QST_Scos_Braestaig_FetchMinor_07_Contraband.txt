@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Runic Charm
+Hash: F5C7BC0A, Key: Flavor, Value: These wooden runes were carved by Merryn to aid in protection, health, and healing. Some meet such charms with suspicion and superstition, but these practices have existed since Vasily’s time.

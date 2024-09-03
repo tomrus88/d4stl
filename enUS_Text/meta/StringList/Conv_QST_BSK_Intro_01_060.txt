@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I found these notes. What do you think of them?"
+Hash: 9257723D, Key: Line1.1BCB9E, Value: They came for Sankekur – Mephisto’s own Hatred in his corpse. They would magnify it a thousand-fold and tear open the veil!
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Realizing. Alarm. Horror.
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: (scoff) But they couldn’t get through the bloody door. Come with me. We'll put Sankekur to bed for good.
+Hash: BB1147CC, Key: VoiceDir3.1BCB9E, Value: Wolfish grin. He has a plan.

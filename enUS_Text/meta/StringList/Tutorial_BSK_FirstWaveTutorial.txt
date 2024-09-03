@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: The Infernal Offer
+Hash: 8C67E8B2, Key: 1_instruction, Value: Select an {c_highlight}Infernal Offer{/c} to invoke {c_highlight}Boons{/c} and {c_highlight}Banes{/c}. Clear enough waves and you may {c_highlight}challenge The Fell Council{/c}.
+Hash: DBC6F233, Key: 2_instruction, Value: Open your map to view your current {c_highlight}Boons{/c} and {c_highlight}Banes{/c}. 

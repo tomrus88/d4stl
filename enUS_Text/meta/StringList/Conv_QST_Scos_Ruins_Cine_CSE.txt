@@ -1,0 +1,25 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5A334C6A, Key: Line1.7FA05, Value: (heavy breathing) Bloody miracle you made it here in one piece. Lilith and that beast tore right through us. Could’ve killed me too, but she left me untouched. She’s toying with me.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: short of breath
+Hash: F427C5EC, Key: Line3.7FA05, Value: (grunt) Wants me to -- (grunt) -- watch her destroy everything I’ve built. (grunt)
+Hash: 63312C19, Key: VoiceDir3.7FA05, Value: Donan exerts 3 times when pulling out the staff from the wall, each time getting bigger. His last exertion pulling staff out has a lot of breathing after
+Hash: C2053272, Key: Line9.7FA05, Value: (grunting) Damn it.
+Hash: 310E989F, Key: VoiceDir9.7FA05, Value: exertion from catching the body
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Did you see Yorin the way you came?
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: short of breath
+Hash: E2468CE9, Key: Line7.BAE4, Value: No.
+Hash: 6F3E307B, Key: Line11.7FA05, Value: She hasn’t won yet. There’s still a chance to stop her, but I can’t do it alone. (heavy breathing)
+Hash: BF745C48, Key: VoiceDir11.7FA05, Value: determined, short of breath
+Hash: 65381056, Key: Line13.BAE4, Value: I’m with you. Where is she now?
+Hash: A327237F, Key: Line15.7FA05, Value: An old chamber beneath the keep. That’s...where Astaroth is.
+Hash: F35D4F4C, Key: VoiceDir15.7FA05, Value: short of breath
+Hash: 8F68F860, Key: Line25.7FA05, Value: I didn’t vanquish him like the stories say. I imprisoned him in a soulstone. It was a last resort.
+Hash: DF9F242D, Key: VoiceDir25.7FA05, Value: short of breath
+Hash: 3D1B9D01, Key: Line17.7FA05, Value: I built Eldhaime over the stone to contain its evil.
+Hash: 8D51C8CE, Key: VoiceDir17.7FA05, Value: short of breath
+Hash: D7101683, Key: Line19.7FA05, Value: I’ve spent my life watching over it, keeping it a secret, so Astaroth would never hurt anyone again. Not even my son knows.
+Hash: 27464250, Key: VoiceDir19.7FA05, Value: short of breath
+Hash: 5B80055C, Key: Line21.7FA05, Value: I’m sorry for hiding this from you before, but I couldn’t risk a stranger finding out the truth. (heavy breathing)
+Hash: ABB63129, Key: VoiceDir21.7FA05, Value: short of breath - after this line, take a beat, then a long, tired exhale
+Hash: F5747EDE, Key: Line23.7FA05, Value: We should get moving. Follow me. (breathing)
+Hash: 45AAAAAB, Key: VoiceDir23.7FA05, Value: short of breath

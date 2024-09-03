@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How long have the Cathedral been here?"
+Hash: 5D6D27D4, Key: Line1.F9C29, Value: The Knights are willing to teach us a few tricks, which have come in handy.

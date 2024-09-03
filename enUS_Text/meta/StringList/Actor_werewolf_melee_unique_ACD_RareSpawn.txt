@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Garbhan Ennai
+Hash: CC38ADCB, Key: FlavorName, Value: The Butcher of Cerrigar

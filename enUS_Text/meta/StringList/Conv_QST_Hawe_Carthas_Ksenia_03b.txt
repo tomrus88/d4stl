@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened?"
+Hash: 183E9881, Key: Line7.103673, Value: My blade quivers in anticipation!
+Hash: 6874C44E, Key: VoiceDir7.103673, Value: Zealous. A battlecry.

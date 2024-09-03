@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: {icon:BSK_AetherMass, 2.5}{c_gold}Masses spawn an {/c}{c_bskbane} Aether Lord on death{/c}
+{icon:BSK_GreaterHost, 2.5}{c_gold}Aether Lords grant {/c}{c_bonus}+3 Aether{/c}
+Hash: 2F414F0D, Key: ShortenedName, Value: {icon:BSK_AetherMass, 2.5}{c_yellow}The Teeming Masses{/c}

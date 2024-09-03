@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Storm Swell
+Hash: 003892BF, Key: Desc, Value: You deal {c_random}[Affix_Value_1|%x|]{/c} increased damage to {c_important}{u}Vulnerable{/u}{/c} enemies while you have a {c_important}{u}Barrier{/u}{/c}.

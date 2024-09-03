@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm sorry, I have no Healing Potions"
+Hash: 5D1088EA, Key: Line1.A5F52, Value: O-oh... well, if you happen to find one, I could really use it. (cough)

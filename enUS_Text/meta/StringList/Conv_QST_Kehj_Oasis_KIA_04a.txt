@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: KIA - End 1
+Hash: 5E92AA0A, Key: Line21.D5161, Value: Let's hope their friends find them rotting in the sun. It's time they feared the Iron Wolves again.
+Hash: AEC8D5D7, Key: VoiceDir21.D5161, Value: Bitter. Defiant.

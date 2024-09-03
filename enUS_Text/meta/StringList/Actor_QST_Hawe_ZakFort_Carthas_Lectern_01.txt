@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Old, Yellowed Note
+Hash: CC3C0A8F, Key: FlavorText, Value: A letter written with a shaky hand.
+Hash: F2CA04D8, Key: NoticeSignText, Value: they have turned  my mind is breaking   I am not a coward I do not run   this is my only victory
+my blade hungers for blood it shall only find mine own

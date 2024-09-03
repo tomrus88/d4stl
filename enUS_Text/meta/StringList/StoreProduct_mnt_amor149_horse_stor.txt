@@ -1,0 +1,3 @@
+Hash: A646FFA4, Key: Description, Value: Tales of a phantom dressed in fineries atop a magnificent steed can be heard all across Scosglen.
+Hash: 003DFCC1, Key: Name, Value: Coat of Withdrawal
+Hash: 13A53A8B, Key: Series, Value: "Reign of Solitude"

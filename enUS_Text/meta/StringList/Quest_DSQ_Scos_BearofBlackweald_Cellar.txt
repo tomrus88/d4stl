@@ -1,0 +1,7 @@
+Hash: 85A4CA58, Key: Callback11Header, Value: Defeat Stana
+Hash: 003DFCC1, Key: Name, Value: The Bear of Blackweald
+Hash: E9B1E11B, Key: Callback50Header, Value: Find Stana with Torben
+Hash: EC8B1AEE, Key: Callback8Header, Value: Speak with Stana
+Hash: D29F0719, Key: Callback12Header, Value: Defeat Blackweald Company recruits
+Hash: 0BDB18BB, Key: Callback23Header, Value: Confront Stana
+Hash: 1847B581, Key: Callback47Header, Value: Speak with Torben

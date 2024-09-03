@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vestigial Viscera
+Hash: F5C7BC0A, Key: Flavor, Value: A shriveled organ wrapped in vines worn around one’s neck. A constant reminder that the swamp wins. The swamps always wins.

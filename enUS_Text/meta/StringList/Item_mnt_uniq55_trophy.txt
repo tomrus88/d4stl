@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bone-Caged Heart
+Hash: A646FFA4, Key: Description, Value: The heart continues beating as if this terrifying creature may one day come back.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Triune Arms Cache
+Hash: A646FFA4, Key: Description, Value: An assortment of gear to help bolster your strength for the coming battles.

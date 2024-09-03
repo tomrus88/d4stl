@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where do we go from here?"
+Hash: 222FF29A, Key: Line10.6D03F, Value: If there are wrecks to search, they'll be on the eastern coast.
+Hash: A86640FD, Key: Line22.6D03F, Value: We’ll head there now. Meet us when you can.

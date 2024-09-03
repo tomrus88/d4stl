@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Baneful Hearts
+Hash: 7BFE534B, Key: simple_instruction, Value: Place {c_highlight}Baneful Hearts{/c} at {c_highlight}Accursed Nests{/c} in Helltide to summon a powerful {c_highlight}Blood Maiden{/c}.

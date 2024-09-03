@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Treasure Bag
+Hash: A646FFA4, Key: Description, Value: A bag full of up to Item Power 675 treasure left behind by a slain Treasure Goblin.

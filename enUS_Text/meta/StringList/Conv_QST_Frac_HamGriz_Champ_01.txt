@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How fares the tribe?"
+Hash: 5D22EA2D, Key: Line1.B757A, Value: Our purpose remains clear, but... our spirits are low. Baltok, the chieftain's champion, was recently slain. Now the khazra are in possession of his weapon, the fabled Grizzly's Maul.
+Hash: CC2C505A, Key: VoiceDir1.B757A, Value: Prideful and trying to appear strong despite the bitter truth
+Hash: 910BDD31, Key: Line5.B757A, Value: It is difficult to ask this of an outsider. Please, reclaim the hammer from those foul beasts. Leaving it in their hands is an affront to our fallen champion. He was last seen being dragged into a cavern in Malnok.

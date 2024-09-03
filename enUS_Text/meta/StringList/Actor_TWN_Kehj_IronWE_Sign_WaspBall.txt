@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wasp Ball
+Hash: F2CA04D8, Key: NoticeSignText, Value: A small child's toy made from a grown man's nightmare.

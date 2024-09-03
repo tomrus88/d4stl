@@ -1,0 +1,74 @@
+Hash: 1640B2E0, Key: TIP003, Value: Be sure to fill up your {c_highlight}Healing Potion{/c} at the {icon:Marker_Healer, 2.0} Healer before leaving town.
+Hash: 1640B2DE, Key: TIP001, Value: Remember to spend your {c_highlight}Skill Points{/c} when you level up to unlock new Skills and Passives or improve existing ones!
+Hash: 1640B2E1, Key: TIP004, Value: Salvaging your items will produce materials used for crafting, and can also unlock new looks in your {icon:Marker_Wardrobe, 2.0} Wardrobe.
+Hash: 1640B2E2, Key: TIP005, Value: Items lose Durability and become less effective when you revive from death. You can repair your equipment at a {icon:Marker_Blacksmith, 2.0}  Blacksmith.
+Hash: 1640B2E3, Key: TIP006, Value: You can revive other Players by clicking on their fallen spirits. They will not lose Durability when revived this way.
+Hash: 1640B2FE, Key: TIP010, Value: The state of Sanctuary is based on the party leader's progress.
+Hash: 1640B2E4, Key: TIP007, Value: Activate any {icon:Marker_Waypoint, 2.0} Waypoints that you encounter on your travels to unlock a new fast travel location.
+Hash: 1640B2E5, Key: TIP008, Value: The {icon:Marker_Essence, 2.0} Occultist can replace powers on your {c_legendary}Legendary{/c} items with those from your Codex of Power.
+Hash: 1640B2E6, Key: TIP009, Value: Realm Rewards are shared with every character of yours on that realm. Open your map and check out the {c_highlight}Renown{/c} panel to see what you can earn while exploring Sanctuary!
+Hash: 1640B2FF, Key: TIP011, Value: Combat damage text is colored to mean different things: {c:ffffec64}Critical Strike{/c}, {c:ff78fff1}Overpower{/c}, and {c:ffff9000}Critical Strike combined with Overpower{/c}.
+Hash: 1640B300, Key: TIP012, Value: You can increase the potency of your {c_highlight}Healing Potions{/c} by visiting the {icon:Marker_Crafter_Alchemist, 2.0} Alchemist.
+Hash: 1640B301, Key: TIP013, Value: After finishing the Campaign, new challenges and rewards await in the Nightmare and Torment World Tiers!
+Hash: 1640B302, Key: TIP014, Value: Elite enemies include Champions, Elites, Bosses, and other Players.
+Hash: 1640B303, Key: TIP015, Value: Higher World Tiers grant you much more Experience from killing monsters.
+Hash: 1640B304, Key: TIP016, Value: The {c_highlight}Vulnerable{/c} status effect increases the damage taken by enemies for a short duration. It is represented by a {c:ff8158a9}purple{/c} glow around the Health Bar for enemies and a cracked Health Globe for you.
+Hash: 1640B305, Key: TIP017, Value: The {c_highlight}Knockdown{/c} status effect prevents enemies from moving or taking action for a short duration. It can be removed through Unstoppable or Immune effects.
+Hash: 1640B306, Key: TIP018, Value: The {c_highlight}Dazed{/c} status effect prevents enemies from attacking or using Skills for a short duration, but does not stop them from moving. It can be removed through Unstoppable or Immune effects.
+Hash: 1640B307, Key: TIP019, Value: You are {c_highlight}Fortified{/c} and take reduced damage as long as you have more Fortify than current Life. Certain Skills or item effects can grant Fortify, which cannot exceed your Maximum Life.
+Hash: 1640B31F, Key: TIP020, Value: The {c_highlight}Tether{/c} status effect prevents enemies from walking out from inside of its radius. It can be removed through Unstoppable or Immune effects OR by destroying the target that you are tethered to.
+Hash: 1640B320, Key: TIP021, Value: The {c_highlight}Fear{/c} status effect prevents enemies from moving or taking action AND causes the affected target to run away for a short duration. It can be removed through Unstoppable or Immune effects.
+Hash: 1640B321, Key: TIP022, Value: Joining a party will transfer you to the party leader’s world, the state of which is determined by the leader’s progress through the Campaign.
+Hash: 1640B322, Key: TIP023, Value: Upon reaching Level 15 and completing the {c_important}{u}Legacy of the Magi{/u}{/c} quest, Sorcerers unlock {c_important}{u}Enchantments{/u}{/c}, allowing them to utilize powerful passive versions of their Skills.
+Hash: 1640B323, Key: TIP024, Value: Enemies are considered affected by Rogue {c_important}Traps{/c} when they are within a {c_important}Trap's{/c} persistent area or afflicted with its harmful effects.
+Hash: 1640B324, Key: TIP025, Value: Characters in {c_important}{u}Stealth{/u}{/c} cannot be directly targeted with attacks. Their {c_important}{u}Stealth{/u}{/c} will be broken if they are hit with incidental damage or if they use an attack.
+Hash: 1640B325, Key: TIP026, Value: Rogues can use {c_important}Imbuement{/c} Skills to modify some of their attacks to deal different types of Elemental damage and apply additional harmful effects.
+Hash: 1640B326, Key: TIP027, Value: In each higher World Tier, monsters are more challenging. They run faster; their projectiles are more accurate and faster; their powerful attacks have reduced cooldown and are stronger; and Elite affixes are more powerful.
+Hash: 1640B327, Key: TIP028, Value: {c_yellow}Champion{/c} monsters that appear in World Tier 3: Nightmare and World Tier 4: Torment have damage resistance auras which do not protect themselves. Focus on killing them first.
+Hash: 1640B328, Key: TIP029, Value: Powerful, build-changing {c_unique}Unique{/c} items can be found in World Tier 3: Nightmare, and even more can be found in World Tier 4: Torment.
+Hash: 1640B340, Key: TIP030, Value: Skills can trigger {c_highlight}Lucky Hit{/c} effects. If a Skill has a {c_important}{u}Lucky Hit Chance{/u}{/c} of 50%, and an effect a 20% chance to Stun an enemy, then that Skill will Stun enemies on average 10% of the time.
+Hash: 1640B341, Key: TIP031, Value: {c_important}{u}Overpowered{/u}{/c} attacks deal bonus damage to enemies based on the sum of your current Life and {c_important}{u}Fortified{/u}{/c} Life.
+Hash: 1640B342, Key: TIP032, Value: Attacks have a 3% chance to {c_important}{u}Overpower{/u}{/c}.  This chance cannot be passively improved, but some effects can cause attacks to be guaranteed to {c_important}{u}Overpower{/u}{/c}.
+Hash: 1640B343, Key: TIP033, Value: Necromancer {c_important}Minions{/c} and Druid {c_important}Companions{/c} inherit 100% of most Player stats, such as {c_important}{u}Critical Strike Chance{/u}{/c} and {c_important}{u}Attack Speed{/u}{/c}.  
+Hash: 1640B344, Key: TIP034, Value: Necromancers have various ways to drop {c_important}{u}Blood Orbs{/u}{/c}, which heal them and their {c_important}Minions{/c} instantly when picked up from the ground.
+Hash: 1640B345, Key: TIP035, Value: Necromancers have the ability to see and interact with Corpses.  Kill enemies to spawn their Corpse, and use that Corpse to raise Skeletons to fight for you!
+Hash: 1640B346, Key: TIP036, Value: Necromancers can use the {c_important}{u}Book of the Dead{/u}{/c} to sacrifice the ability to summon their Minions for personal power. 
+Hash: 1640B347, Key: TIP037, Value: If all other Skeletons have been summoned, then a Necromancer's Raise Skeleton will instead summon a {c_important}{u}Skeletal Priest{/u}{/c} who will temporarily buff all nearby Minions.
+Hash: 1640B348, Key: TIP038, Value: Druids Shapeshift when they change into a different form, which can often grant them additional bonuses.
+Hash: 1640B349, Key: TIP039, Value: Upon reaching Level 15 as a Druid, Druidic Spirit Offerings will begin dropping from enemies, which you can turn in at {c_important}{u}Túr Dúlra{/u}{/c} to increase your power.
+Hash: 1640B361, Key: TIP040, Value: The Barbarian carries an entire {c_important}{u}Arsenal{/u}{/c} consisting of 4 weapons with them at all times. Which weapon you use for a Skill can be chosen while the Skill is assigned to your hotbar.
+Hash: 1640B362, Key: TIP041, Value: Upon reaching Level 5 as a Barbarian, you will gain {c_important}{u}Expertise{/u}{/c} with the weapon type you are using.  This grants you bonuses for every attack using that weapon type.
+Hash: 1640B363, Key: TIP042, Value: The more a Barbarian uses a particular weapon type, the more benefit they will gain from their {c_important}{u}Expertise{/u}{/c}.
+Hash: 1640B364, Key: TIP043, Value: Upon reaching Level 15 as a Barbarian, you will be able to unlock your {c_important}{u}Technique{/u}{/c} slot.  You can gain the {c_important}{u}Expertise{/u}{/c} bonus of a certain weapon type regardless of which weapon type you use if you choose it as your {c_important}{u}Technique{/u}{/c}.
+Hash: 1640B365, Key: TIP044, Value: Barbarians have various ways to become {c_important}{u}Berserk{/u}{/c}, which grants increased Damage and Movement Speed.
+Hash: 1640B366, Key: TIP045, Value: The Barbarian's {c_important}{u}Arsenal{/u}{/c} consists of a Two-Handed Bludgeoning weapon, a Two-Handed Slashing weapon, and a Main Hand and Off-Hand pair.  
+Hash: 1640B367, Key: TIP046, Value: Players and enemies are {c_important}{u}Healthy{/u}{/c} when they are above 80% Life and {c_important}{u}Injured{/u}{/c} when they are below 35% Life.
+Hash: 1640B368, Key: TIP047, Value: The first {c_yellow}Capstone Dungeon{/c} becomes available in World Tier 2: Veteran after completing the Campaign.
+Hash: 1640B369, Key: TIP048, Value: Lightning-based Sorcerers can generate and pick up {c_important}{u}Crackling Energy{/u}{/c}, which periodically damages enemies around them until all charges are depleted.
+Hash: 1640B36A, Key: TIP049, Value: Damage Over Time effects do not have random damage variance and cannot Critically Strike or {c_important}{u}Overpower{/u}{/c}.
+Hash: 1640B382, Key: TIP050, Value: {c_highlight}Key Passives{/c} are the final unlock in the Skill Tree, providing powerful effects that can greatly enhance your build.
+Hash: 1640B383, Key: TIP051, Value: Direct damage includes all damage dealt to enemies that is not from Damage Over Time effects.
+Hash: 1640B384, Key: TIP052, Value: {c_important}{u}Close{/u}{/c} enemies are those who are in Melee range.  {c_important}{u}Distant{/u}{/c} enemies are those who are outside of Melee range.
+Hash: 1640B385, Key: TIP053, Value: Vendors refresh their inventory regularly and will occasionally stock items that are more powerful than what you would find out in the world. 
+Hash: 1640B386, Key: TIP054, Value: As you enter later World Tiers, your Resistances are reduced. World Tier 3 reduces your Resistances to All Elements by 25%, and World Tier 4 reduces them by 50%.
+Hash: 1640B387, Key: TIP055, Value: Armor mitigates your damage taken against Physical damage.
+Hash: 1640B388, Key: TIP056, Value: Resistances reduce your damage taken against non-Physical damage.  A negative Resistance value will increase the damage you take from that element.
+Hash: 1640B389, Key: TIP057, Value: Resistances are capped at a baseline Maximum Resistance of 70%.  This maximum can be increased through various means, but cannot exceed 85%.
+Hash: 1640B38A, Key: TIP058, Value: You can Skip Campaign at Character Select after completing the prologue.
+Hash: 1640B38B, Key: TIP059, Value: {icon:Marker_Crafter_Blacksmith, 2.0} {c_important}Iron Chunks{/c} are obtained from salvaging Weapons and Jewelry. {c_highlight}Rawhide{/c} is obtained from salvaging Armor.
+Hash: 1640B3A4, Key: TIP061, Value: All Legendary Powers are recorded in the {c_highlight}Codex of Power{/c}. To upgrade a Power, Salvage a {c_legendary}Legendary{/c} item with a better roll.
+Hash: 1640B3A5, Key: TIP062, Value: {icon:Marker_Crafter_Blacksmith, 2.0} {c_rare}Rare{/c} and {c_legendary}Legendary{/c} items can be Tempered to gain custom affixes from {c_highlight}Temper Manuals{/c}.
+Hash: 1640B3A6, Key: TIP063, Value: {c_highlight}Temper Manuals{/c} can vary in quality. If you learn multiple rarities of the same recipe, you will always remember the strongest version.
+Hash: 1640B3A7, Key: TIP064, Value: {icon:Marker_Helltide_Chest, 2.0} Tortured Gifts in {icon:Marker_Helltide, 2.0} Helltide can drop Baneful Hearts to summon the {c_highlight}Blood Maiden{/c}.
+Hash: 1640B3A8, Key: TIP065, Value: Your Threat increases as you kill enemies in {icon:Marker_Helltide, 2.0} Helltide, attracting powerful {c_highlight}Hellborne{/c}.
+Hash: 1640B3A9, Key: TIP066, Value: The strongest {c_highlight}Elixirs{/c} can be crafted at the {icon:Marker_Crafter_Alchemist, 2.0} Alchemist starting at Level 50.
+Hash: 1640B3AA, Key: TIP067, Value: A Skill's {c_highlight}Duration{/c} bonuses aren't limited to its primary effect; most secondary effects the Skill causes are also extended.
+Hash: 1640B3AB, Key: TIP068, Value: {icon:Marker_Crafter_Blacksmith, 2.0} Normal and Sacred items can gain 1 Tempered affix. Ancestral items can gain 2 of different categories.
+Hash: 1640B3AC, Key: TIP069, Value: {icon:Marker_Crafter_Blacksmith, 2.0} Re-temper Tempered Affixes at the cost of {c_highlight}Tempering Durability{/c}. Items without Tempering Durability cannot be re-Tempered further.
+Hash: 1640B3C4, Key: TIP070, Value: {icon:Marker_Crafter_Blacksmith, 2.0} Ancestral items need 2 Tempered affixes before they can be Masterworked, unless they are {c_unique}Unique{/c}.
+Hash: 1640B3C5, Key: TIP071, Value: {icon:Marker_Crafter_Blacksmith, 2.0} {c_highlight}Masterworking{/c} an item enhances its non-Legendary affixes. Every 4th rank of Masterworking critically upgrades 1 affix for a larger increase.
+Hash: 1640B3C6, Key: TIP072, Value: Masterworking requires materials from {icon:Marker_Pit, 2.0} The Pit, accessible with {icon:Icons_Quest_MiscTrinkets_RunedHacksilver, 2.0} Rune Shards. These shards can drop anywhere after completing a Tier 45+ {icon:Marker_NightmareDungeonEntrance, 2.0} Nightmare Dungeon.
+Hash: 1640B3C7, Key: TIP073, Value: Equipment purchased from the {icon:Marker_Vendor_Gambling, 2.0} {c_important}Purveyor of Curiosities{/c} has higher Item Power than usual.
+Hash: 1640B3C8, Key: TIP074, Value: Effect Size affixes are capped at 100% increased size.
+Hash: 1640B3C9, Key: TIP075, Value: A Cast happens one time when you press a Skill button.
+Hits happen every time you deal damage to an enemy or object.

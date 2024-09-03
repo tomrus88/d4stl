@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Found the pillar
+Hash: DE2920DD, Key: Line6.D5161, Value: There! Looks like a pillar to me.
+Hash: 4D32870A, Key: VoiceDir6.D5161, Value: Excited. Calling out. 
+Hash: DF6AEE8B, Key: Line26.BC41C, Value: No door, no opening... Take the medallion, there must be something.
+Hash: 2FA11A58, Key: VoiceDir26.BC41C, Value: Assessing. Giving orders. Thinking.

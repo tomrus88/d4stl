@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Faded Inscription
+Hash: F2CA04D8, Key: NoticeSignText, Value: Whoever built this temple is long gone, along with any knowledge of whatever gods, or demons, it was originally dedicated to.

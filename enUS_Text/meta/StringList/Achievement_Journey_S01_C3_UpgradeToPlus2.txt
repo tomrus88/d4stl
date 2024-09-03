@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Steel from Iron
+Hash: 3A4912CF, Key: DescShort, Value: Upgrade items to {icon:Crafting_UpgradePip_Unlocked, 2.5}{icon:Crafting_UpgradePip_Unlocked, 2.5} at the {icon:Marker_Blacksmith, 2.5} Blacksmith or {icon:Marker_Crafter_Jeweler, 2.5} Jeweler

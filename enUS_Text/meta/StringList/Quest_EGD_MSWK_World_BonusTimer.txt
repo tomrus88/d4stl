@@ -1,0 +1,2 @@
+Hash: E45EC27D, Key: Callback43Header, Value: {c_yellow}Artificer's Mastery:{/c} Defeat the Pit Guardian before the timer ends
+Hash: 7E533BFF, Key: Callback45Header, Value: Death penalty: {LEFT}s

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: name, Value: Aftermath
+Hash: 003892BF, Key: desc, Value: While an {c_important}Ultimate{/c} is on your Action Bar, you Heal {c_number}[{SF_1}*100|1%|]{/c} Maximum Life every second. After using an {c_important}Ultimate{/c}, restore {c_number}[{SF_0}]{/c} Energy.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Maximum Life {icon:arrow,1.2} {c_number}[{SF_1}*100|1%|]{/c}
+{icon:bullet,1.2} Energy {icon:arrow,1.2} {c_number}[{SF_0}]{/c}

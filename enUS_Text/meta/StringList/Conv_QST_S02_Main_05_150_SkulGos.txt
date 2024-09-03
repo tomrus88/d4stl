@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Why did you join Zir?" 
+Hash: 8F2439A7, Key: Line1.169BE9, Value: Cower from the divine, hope for anyone to save us—
+Hash: DF5A6574, Key: VoiceDir1.169BE9, Value: Like a chant.
+Hash: 67A7E369, Key: Line3.169BE9, Value: (strained inhales) Over and over and over and over and over and…
+Hash: B7DE0F36, Key: VoiceDir3.169BE9, Value: Dreamy and distant.
+Hash: 402B8D2B, Key: Line5.169BE9, Value: Why spend life waiting to die? That’s… what I thought, anyway…
+Hash: 9061B8F8, Key: VoiceDir5.169BE9, Value: Trailing off towards the end.

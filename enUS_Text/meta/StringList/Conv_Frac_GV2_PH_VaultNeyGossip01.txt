@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The passage was infested with demons."
+Hash: 5A202CB1, Key: Line1.6DE47, Value: I thought I heard something, but demons? How is that possible?
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: Concerned, worried
+Hash: F414A633, Key: Line3.6DE47, Value: It couldn’t have been the Horadrim. They’re secretive but would never follow such a path.
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: solemn

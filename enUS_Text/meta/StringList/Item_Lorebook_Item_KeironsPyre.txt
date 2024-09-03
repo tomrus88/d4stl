@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Eriman's Plea
+Hash: A646FFA4, Key: Description, Value: A few scraps of parchment, charred around the edges

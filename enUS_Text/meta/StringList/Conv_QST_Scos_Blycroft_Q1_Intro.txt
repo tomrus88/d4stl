@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is happening here?"
+Hash: 5D687838, Key: Line1.F2027, Value: Damn bloody goatmen attacked again! What does it look like?
+Hash: CC71DE65, Key: VoiceDir1.F2027, Value: angry, animated
+Hash: 91516B3C, Key: Line5.F2027, Value: I'm sorry, stranger. That was unkind of me. This was the fifth attack this moon. Not sure how many more we can survive.
+Hash: 005AD169, Key: VoiceDir5.F2027, Value: Takes a long breath to calm down
+Hash: C53A5E40, Key: Line9.F2027, Value: That druid over there brought some wardstones. Supposed to keep the filthy goatmen out. If you're up for some honest work, I could use a hand with them.
+Hash: 0C67D5CB, Key: Line13.F2027, Value: I'll pay you, of course, but keep an eye out. There's bound to be more of those damn things about.

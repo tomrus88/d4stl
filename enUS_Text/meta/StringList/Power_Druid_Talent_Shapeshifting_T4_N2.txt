@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Natural Fortitude
+Hash: 003892BF, Key: desc, Value: Shapeshifting {c_important}{u}Fortifies{/u}{/c} you for {c_number}[{SF_1}*100|%|]{/c} of your Maximum Life {c_number}([Max(1,{fortified:FORTIFY_CASTER})|0|]){/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} {c_important}{u}Fortify{/u}{/c} Amount {icon:arrow,1.2} {c_number}[{SF_1}*100|%|]{/c}

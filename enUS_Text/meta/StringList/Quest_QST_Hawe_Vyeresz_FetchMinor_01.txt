@@ -1,0 +1,9 @@
+Hash: 003DFCC1, Key: Name, Value: Left Behind
+Hash: 0871A46B, Key: Toast, Value: A young Crusader wants the remains of a friend found.
+Hash: FAF02F4B, Key: Phase6Description, Value: A young crusader lost his friend in a cultist infested cave nearby. He fears the worst has befallen them and asked me to bring back any remains. 
+Hash: 059C64AB, Key: Callback5Header, Value: Find Derin's remains in the Shadowed Plunge
+Hash: 0687FA1D, Key: Callback16Header, Value: Hidden
+Hash: 8DCA476E, Key: Phase9Description, Value: Against all odds, the crusader Derin is alive in the Shadowed Plunge. He’s been injured. I need to give him a potion before he bleeds out. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Give Derin a Healing Potion
+Hash: 92C33198, Key: Phase12Description, Value: Giving a potion to Derin gave him the strength to escape the Shadowed Plunge. I should return to Mateen and tell him his friend survived.  
+Hash: 85A4CA58, Key: Callback11Header, Value: Return to Mateen

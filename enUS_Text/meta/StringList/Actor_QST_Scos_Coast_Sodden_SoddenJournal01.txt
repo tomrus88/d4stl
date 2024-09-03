@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mold-Spotted Journal Fragment
+Hash: CC3C0A8F, Key: FlavorText, Value: A decayed fragment from an Isbeil's journal.
+Hash: F2CA04D8, Key: NoticeSignText, Value: I saw the girl again. A strange reedy child, too pale, too thin, eyes too big. 
+But her strangeness cannot obscure how she looks like my husband. How much she resembles my Cecil.

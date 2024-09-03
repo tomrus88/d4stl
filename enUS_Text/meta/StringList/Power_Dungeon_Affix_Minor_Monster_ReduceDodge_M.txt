@@ -1,0 +1,6 @@
+Hash: 14C66756, Key: Buff3_Name, Value: Reduced Dodge Chance
+Hash: 16451099, Key: Buff3_Description, Value: Dodge Chance reduced by 8%.
+Hash: 1970B898, Key: Buff5_Name, Value: Reduced Dodge Chance
+Hash: B503239B, Key: Buff5_Description, Value: Dodge Chance reduced by 10%.
+Hash: 1E1B09DA, Key: Buff7_Name, Value: Reduced Dodge Chance
+Hash: 53C1369D, Key: Buff7_Description, Value: Dodge Chance reduced by 12%.

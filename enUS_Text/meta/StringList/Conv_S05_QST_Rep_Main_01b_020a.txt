@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I will do what I must to protect Sanctuary."
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: (scoffs) You sound like Locran. "For the good of Sanctuary!" Don’t pretend you don’t crave power. Not to me.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Contempt. Mocking.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: You've taken to the Gift faster than I expected. If you want more, the Triune will provide. Word is they're gathering near Omath’s Redoubt. Give them my best.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Grudging observation. Dismissive.

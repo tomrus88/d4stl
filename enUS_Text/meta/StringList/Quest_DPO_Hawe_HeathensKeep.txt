@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: How weak, the hearts of mortals.
+Hash: C9FCD1EA, Key: Phase5Description, Value: Destroy the captured Vampire Lord
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat the {MONSTER}
+Hash: 1F9943DA, Key: Callback13Header, Value: Travel to the {LEVELAREA}

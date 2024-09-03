@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: Desc, Value: Spending your Primary Resource reduces the Resource cost of your Skills and increases your damage by {c_number}[Affix_Value_1|%x|]{/c} for {c_number}[Affix."Static Value 1"]{/c} seconds, up to {c_number}[Affix_Value_1 * Affix."Static Value 2"|%x|]{/c}. 

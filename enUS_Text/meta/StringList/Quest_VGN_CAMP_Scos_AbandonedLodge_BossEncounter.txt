@@ -1,0 +1,6 @@
+Hash: AB22B0DB, Key: Callback32Header, Value: Enter the Beast's Lair
+Hash: B8A227EA, Key: Callback4Header, Value: Slay the Beast of Moordaine
+Hash: 6FE82F7E, Key: Callback62Header, Value: Boss
+Hash: C5FA5A22, Key: Callback39Header, Value: Slay Fionnir, the Mad Druid
+Hash: 09DCA900, Key: Callback64Header, Value: Boss
+Hash: B23C2F03, Key: Callback49Header, Value: Slay Fionnir, the Mad Druid

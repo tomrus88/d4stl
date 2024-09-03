@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The demon is possessing villagers in Gea Kul. I came here to stop it."
+Hash: 18E96351, Key: Line7.18AEA4, Value: (sighs) I see.
+Hash: F16D0D13, Key: Line9.18AEA4, Value: This demon is a parasite. It will inhabit whatever it can, simply for the joy of playing the puppeteer.
+Hash: 45C5CC3C, Key: Line11.18AEA4, Value: Last I saw it, it was little more than a red mist. If it is able to possess people on the surface... We must act quickly.

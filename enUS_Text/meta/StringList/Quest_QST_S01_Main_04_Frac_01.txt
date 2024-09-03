@@ -1,0 +1,11 @@
+Hash: 003DFCC1, Key: Name, Value: The Cold Hard Truth
+Hash: 68161728, Key: Phase3Description, Value: We have what we need to capture Varshan. It will stop the Malignant but it will end Varshan's life. I should meet Cormond at Velkhova to begin the final confrontation.
+Hash: 1EADAE68, Key: Callback2Header, Value: Meet Cormond outside of Velkhova
+Hash: 85A4CA58, Key: Callback11Header, Value: Speak with Cormond
+Hash: E2C708DD, Key: Phase44Description, Value: I must clear the Malignant from the town. Once I’m done, Cormond and I can prepare the ritual to capture Varshan.
+Hash: B26E1A8B, Key: Callback104Header, Value: Clear the Malignant from Velkhova
+Hash: 22EDF2BD, Key: Callback61Header, Value: Speak with Cormond
+Hash: 1F9E611D, Key: Phase62Description, Value: I will accompany Cormond to the undercroft of his ruined church. There, we will summon Varshan, capture him, and finally stop the source of the Malignant.
+Hash: 6896A125, Key: Callback96Header, Value: Enter the Velkhova Church Undercroft with Cormond
+Hash: A5EDB22B, Key: Phase105Description, Value: We have what we need to capture Varshan. It will stop the Malignant but it will end Varshan's life. I should meet Cormond at Velkhova to begin the final confrontation.
+Hash: 995CD0CE, Key: Callback107Header, Value: Speak with Cormond

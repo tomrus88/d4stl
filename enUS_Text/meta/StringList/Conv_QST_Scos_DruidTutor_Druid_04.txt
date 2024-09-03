@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I freed Gathlen. He left me his skull."
+Hash: F74BB2AF, Key: Line3.E2C66, Value: He was trapped, then? For all these years... He has suffered too long.
+Hash: 665518DC, Key: VoiceDir3.E2C66, Value: last sentence is spoken shakily, with shame
+Hash: 2B34A5B3, Key: Line7.E2C66, Value: Here, place it upon the altar. Let us honor him.

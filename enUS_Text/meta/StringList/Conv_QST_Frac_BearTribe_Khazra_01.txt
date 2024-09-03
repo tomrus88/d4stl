@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Can I meet your chieftain?"
+Hash: 8ED8CA93, Key: Line1.125004, Value: (scoffs) You want an audience with our chieftain? Earn it.
+Hash: DF0EF660, Key: VoiceDir1.125004, Value: brash and prideful 
+Hash: 539E4936, Key: Line4.125004, Value: Slay our enemies. Hunt the khazra of the Ice Clan who stalk this mountain. Break their bodies and bring their shattered bones back as tribute.
+Hash: A3D47503, Key: VoiceDir4.125004, Value: brash and prideful 
+Hash: 2C21F2F8, Key: Line6.125004, Value: Then, maybe, the chieftain will acknowledge you.
+Hash: 7C581EC5, Key: VoiceDir6.125004, Value: brash and prideful 

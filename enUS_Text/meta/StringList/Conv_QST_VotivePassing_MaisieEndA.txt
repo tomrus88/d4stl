@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Fearing the death of her people, Airidah only brought more in haste.”
+Hash: 5A28B31F, Key: Line1.8354D, Value: I would have held her hand. Showed her it’s all right. No one needed to die. We’re strong together.
+Hash: C932194C, Key: VoiceDir1.8354D, Value: Compassionate, tinged with sadness

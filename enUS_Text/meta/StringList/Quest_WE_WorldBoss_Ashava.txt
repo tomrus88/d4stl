@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Ashava the Pestilent
+Hash: 9F90DE2D, Key: Callback7Header, Value: Defeat Ashava
+Hash: 6541F242, Key: Callback48Header, Value: Defeat {MONSTER}
+Hash: A4030E0A, Key: Callback121Header, Value: Ashava will escape soon
+Hash: D298E270, Key: Callback118Header, Value: Defeat {MONSTER}
+Hash: DD3F1FAC, Key: Callback132Header, Value: Defeat {MONSTER}

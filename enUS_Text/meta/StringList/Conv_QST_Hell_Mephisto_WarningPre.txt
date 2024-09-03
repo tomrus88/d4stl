@@ -1,0 +1,4 @@
+Hash: F414A633, Key: Line3.6DE47, Value: What now?
+Hash: 631E0C60, Key: VoiceDir3.6DE47, Value: Quiet, tense. Spoken to the Player.
+Hash: D4479923, Key: Line1.BAE4, Value: We can set an ambush. I distract her, you trap her in the soulstone.
+Hash: 1D766DB0, Key: VoiceDir1.BAE4, Value: To Neyrelle, trying to form a plan.

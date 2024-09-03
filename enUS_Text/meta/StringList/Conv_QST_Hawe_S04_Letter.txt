@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Kaan's Note
+Hash: 0C69D41E, Key: Line13.F4F13, Value: I took down the windchimes we made, destroyed them. Kiraz isn't even Kiraz anymore, but that sound draws her back home. Just a husk to haunt me!
+Hash: C53C5C93, Key: Line9.F4F13, Value: If I were a stronger man, I would go to my daughter. I would build a new life for the two of us.
+Hash: 72755A9C, Key: Line11.F4F13, Value: But I... I can't live without Kiraz. I won't. At least we've already sent Yonca away... at least she’s safe.
+Hash: C2AB8669, Key: VoiceDir11.F4F13, Value: Yonca (YON-ja)

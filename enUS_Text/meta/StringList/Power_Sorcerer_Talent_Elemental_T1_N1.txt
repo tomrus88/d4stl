@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: Potent Warding
+Hash: 003892BF, Key: desc, Value: Casting a Skill grants {c_number}[{SF_0} * 100|+%|]{/c} All Resistance and {c_number}[{SF_1} * 100|+%|]{/c} Maximum Resistance to that Skill's element for {c_number}{SF_2}{/c} seconds.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} All Resistances {icon:arrow,1.2} {c_number}[{SF_0} * 100|%|]{/c}
+{icon:bullet,1.2} Maximum Resistance {icon:arrow,1.2} {c_number}[{SF_1} * 100|1%|]{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Potent Warding
+Hash: C6E60718, Key: Buff2_Description, Value: Resistances increased.

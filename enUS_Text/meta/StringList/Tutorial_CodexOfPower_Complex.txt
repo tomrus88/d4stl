@@ -1,0 +1,6 @@
+Hash: 086EAA02, Key: title, Value: Codex of Power
+Hash: 3D08DF31, Key: 0_instruction, Value: Unlock {c_highlight}Legendary Aspects{/c} by {c_highlight}salvaging Legendary items{/c} or {c_highlight}clearing dungeons{/c}. The {c_highlight}Codex of Power{/c} will always contain the most powerful version of each salvaged Legendary item.
+Hash: DBC6F233, Key: 2_instruction, Value: Press {hotkey:Collections} to view your current {c_highlight}Legendary Aspects{/c} in the {c_highlight}Codex of Power{/c} in the Collections menu.
+Hash: 09E87836, Key: 2_instruction_controller, Value: Press {hotkey:Map} and navigate to Collections menu to view your current {c_highlight}Legendary Aspects{/c} in the {c_highlight}Codex of Power{/c}. 
+Hash: 2B25FBB4, Key: 3_instruction, Value: Visit the {icon:Marker_Essence,2.5}{c_highlight}Occultist{/c} to Imprint {c_highlight}Legendary Aspects{/c} onto your equipment.
+Hash: 7A850535, Key: 4_instruction, Value: The potential power of most {c_highlight}Legendary Aspects{/c} increases with World Tier, reaching its highest value in World Tier 4.

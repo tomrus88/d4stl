@@ -1,0 +1,23 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Loose Threads
+Hash: 5A196F77, Key: Line1.789BF, Value: Ahh, what...what happened? Feels like...fire crawling over my skin...ugh.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: Shaky, confused
+Hash: F5607DBE, Key: Line23.6D03F, Value: You were tattooed. A ritual.
+Hash: 6D25E3CD, Key: Line52.789BF, Value: I...oh...hear something. A voice in my head.
+Hash: BD5C0F9A, Key: VoiceDir52.789BF, Value: Shaky, confused
+Hash: 07203922, Key: Line54.6D03F, Value: Andariel. A connection was made between you and her.
+Hash: 575664EF, Key: VoiceDir54.6D03F, Value: Lorath assumes part of the demon Andariel is in Taissa's head.
+Hash: A313225F, Key: Line15.6D03F, Value: Who are you?
+Hash: DC49582E, Key: Line26.789BF, Value: T...Taissa. Who are you?
+Hash: 2C7F83FB, Key: VoiceDir26.789BF, Value: Still groggy, trying to get her bearings
+Hash: 5B6C043C, Key: Line21.6D03F, Value: I am Lorath. One of the Horadrim.
+Hash: ABA23009, Key: VoiceDir21.6D03F, Value: Annoyed, biting back a retort
+Hash: 763DD1B0, Key: Line28.789BF, Value: Horadrim? So...so is Elias.
+Hash: C673FD7D, Key: VoiceDir28.789BF, Value: Still groggy, trying to get her bearings
+Hash: 80E9EABF, Key: Line42.6D03F, Value: If he told you that, he was lying.
+Hash: 3B092C26, Key: Line58.6D03F, Value: I came to kill him. Thought I had, but the moment I looked away, he vanished.
+Hash: 4EC17B72, Key: Line48.789BF, Value: If he survived, he will have fled to his refuge.
+Hash: 9EF7A73F, Key: VoiceDir48.789BF, Value: Finally has her bearings now. Her mind has cleared up. She can focus.
+Hash: D337461E, Key: Line50.6D03F, Value: Refuge?
+Hash: 236D71EB, Key: VoiceDir50.6D03F, Value: Genuinely curious--this is the first time you've heard of Elias having a "refuge"?
+Hash: 1AD8886E, Key: Line44.789BF, Value: He has a palace. Somewhere in the deserts of eastern Kehjistan. But that is all I know.
+Hash: 6B0EB43B, Key: VoiceDir44.789BF, Value: Hesitant, doesn't want to say too much

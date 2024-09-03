@@ -1,0 +1,6 @@
+Hash: 62E2E7B5, Key: Line12.BAE4, Value: I need help.
+Hash: D1EC4DE2, Key: VoiceDir12.BAE4, Value: Not pleading, but more informative for those around.
+Hash: AB32D334, Key: Line20.BAE4, Value: I could use some assistance.
+Hash: 1A3C3961, Key: VoiceDir20.BAE4, Value: Not pleading, but more informative for those around.
+Hash: BDDC183C, Key: Line28.BAE4, Value: Aid would be welcome.
+Hash: 2CE57E69, Key: VoiceDir28.BAE4, Value: Slight hint of worry in tone.

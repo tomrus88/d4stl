@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Who are the Iron Wolves?"
+Hash: 912EE421, Key: Line5.D5166, Value: (sigh) We were famous, not long ago. Honorable mercenaries who served the innocent and made the wicked pay, but these days...
+Hash: 00384A4E, Key: VoiceDir5.D5166, Value: Disappointed by Player's ignorance. Wearily answers who they used to be.
+Hash: 5D45F11D, Key: Line1.D5166, Value: Just take a look around. Those who aren't wounded are either deployed or missing.
+Hash: CC4F574A, Key: VoiceDir1.D5166, Value: Gruff. Weary. Worried.
+Hash: F73A6A9F, Key: Line3.D5166, Value: But they don't give up...not one of them.
+Hash: 6643D0CC, Key: VoiceDir3.D5166, Value: A glimpse of pride. He cares for the Iron Wolves deeply.

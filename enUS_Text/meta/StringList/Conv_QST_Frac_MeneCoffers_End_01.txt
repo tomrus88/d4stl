@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "The Cathedral must receive its dues."
+Hash: 8EB314CC, Key: Line1.1026E7, Value: I... am so very grateful. I will need to make the necessary arrangements. Please excuse me.
+Hash: DEE94099, Key: VoiceDir1.1026E7, Value: surprised and angry, attempting to hide it, doing a bad job

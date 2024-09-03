@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Offering
+Hash: F2CA04D8, Key: NoticeSignText, Value: A fresh offering sits before an uncovered druid shrine, splayed open to appease the spirits of the Old Ways.

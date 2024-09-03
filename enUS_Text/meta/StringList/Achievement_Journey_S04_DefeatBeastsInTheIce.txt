@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Harbinger of Ice
+Hash: 3A4912CF, Key: DescShort, Value: Defeat The Beast in the Ice in {icon:Icon_WorldTier_4, 2} Torment, summoned with Distilled Fear from Tier 30 or higher {icon:Marker_NightmareDungeonEntrance, 2.5} Nightmare Dungeons

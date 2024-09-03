@@ -1,0 +1,5 @@
+Hash: 3A4912CF, Key: DescShort, Value: Kill every {icon:Marker_WorldEvent, 2.5} World Boss in {icon:Icon_WorldTier_4, 2.5} Torment
+Hash: 3DA70ACB, Key: Crit_239453, Value: Ashava
+Hash: 3DA70ACC, Key: Crit_239454, Value: Avarice
+Hash: 3DA70ACD, Key: Crit_239455, Value: Wandering Death
+Hash: 003DFCC1, Key: Name, Value: Goliath Slayer

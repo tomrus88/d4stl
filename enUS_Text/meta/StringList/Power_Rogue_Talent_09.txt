@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Adrenaline Rush
+Hash: 003892BF, Key: desc, Value: While moving, you gain {c_number}[{SF_0} * 100|%x|]{/c} increased Energy Regeneration.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Energy Regeneration {icon:arrow,1.2} {c_number}[{SF_0} * 100|%x|]{/c}

@@ -1,0 +1,3 @@
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat Lorcan and the remaining werewolves
+Hash: 38AA8D97, Key: Callback10Header, Value: Slay the werewolves
+Hash: 003DFCC1, Key: Name, Value: First Among Wolves

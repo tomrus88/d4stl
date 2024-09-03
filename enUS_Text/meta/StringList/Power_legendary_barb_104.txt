@@ -1,0 +1,4 @@
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Earthstriker
+Hash: 2827F416, Key: Buff0_Description, Value: Swap Weapons {c_number}[SF_1]{/c} times to {c_important}{u}Overpower{/u}{/c}
+Hash: 12713EB5, Key: Buff2_Name, Value: Earthstriker
+Hash: C6E60718, Key: Buff2_Description, Value: Next non-{c_important}Basic{/c} Skill will {c_important}{u}Overpower{/u}{/c}.

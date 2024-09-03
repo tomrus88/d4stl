@@ -1,0 +1,1 @@
+Hash: 003892BF, Key: desc, Value: Minions gain {c_number}[{SF_0}*100|+%|]{/c} increased Resistance to All Elements.

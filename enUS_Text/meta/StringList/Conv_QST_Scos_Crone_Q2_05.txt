@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Do you have the scroll?"
+Hash: 5D28A609, Key: Line1.AAE9B, Value: Yes. I'm trusting you and that old crone to handle this.
+Hash: F71D1F8B, Key: Line3.AAE9B, Value: Tell Shob'ha this is not something to play with. We will be watching.

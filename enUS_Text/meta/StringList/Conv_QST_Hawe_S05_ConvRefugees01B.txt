@@ -1,0 +1,2 @@
+Hash: F3DEA160, Key: Line3.3F392, Value: Oh, shh... I'm sorry, I know it feels bad. I wish I could do something more. We just have to be strong until the Elders can find a cure.
+Hash: 62E8078D, Key: VoiceDir3.3F392, Value: Sick parent talking to sick child

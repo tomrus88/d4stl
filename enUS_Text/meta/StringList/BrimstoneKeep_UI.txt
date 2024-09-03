@@ -1,0 +1,13 @@
+Hash: 6783C85D, Key: PageLabel, Value: {c_number}{s1}{/c} {c_number_req}/ {s2}{/c}
+Hash: 0360AB7C, Key: NextPage, Value: {icon:r2,2} Next Page
+Hash: 78153A1A, Key: PreviousPage, Value: {icon:l2,2} Previous Page
+Hash: EF746315, Key: Curses, Value: Banes
+Hash: 01450E72, Key: Kisses, Value: Boons
+Hash: E39A6F3E, Key: SigilAffixes, Value: Compass Affixes
+Hash: 921FEFC5, Key: AetherTracker, Value: {s1}
+Hash: 3DA3EDF3, Key: WaveCounter, Value: {c_highlight}Wave:{/c} {c_number}{s1}{/c}{c_number_req}/{s2}{/c}
+Hash: A83582D9, Key: ViewChoices, Value: View Prior Choices
+Hash: 6C7B423B, Key: ChoicePicked, Value: You've chosen{s1}
+Hash: C341CF98, Key: BeginWave, Value: Begin Wave {s1}
+Hash: D41D34CA, Key: ChoiceDesc, Value: {s1}
+Hash: A4564659, Key: WaveDuration, Value: {icon:Tracker_Bounty_Timer, 1.5}{s1}

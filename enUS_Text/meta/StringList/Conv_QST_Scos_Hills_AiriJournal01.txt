@@ -1,0 +1,5 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Airidah
+Hash: 5D3AB126, Key: Line1.BAB4F, Value: To bury so many of my brothers and sisters...their faces I cannot unsee.
+Hash: F72F2AA8, Key: Line3.BAB4F, Value: Those I mentored, and those who mentored me in kind, are now forgotten.
+Hash: 402301BD, Key: Line17.BAB4F, Value: All that I can offer them is song and ceremony, but it never seems enough.
+Hash: DA177B3F, Key: Line19.BAB4F, Value: Walking these halls, I feel the weight of their sacrifice.

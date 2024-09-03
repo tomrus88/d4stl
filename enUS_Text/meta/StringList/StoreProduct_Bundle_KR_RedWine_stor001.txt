@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Thorns of Claret
+Hash: A646FFA4, Key: Description, Value: The red wines of the Claret Fields are some of the finest in all of Sanctuary. Discerning palates detect a hint of iron in the finish.
+Hash: 083EE0CE, Key: Quote, Value: Blood of the vine.
+Hash: 13A53A8B, Key: Series, Value: Weapon Cosmetics

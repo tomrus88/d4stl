@@ -1,0 +1,2 @@
+Hash: 51B5B2AB, Key: Callback113Header, Value: Slay all enemies
+Hash: 68C88CAD, Key: Callback151Header, Value: Slay Mera and her Sentinels

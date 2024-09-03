@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Prologue
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: Lilith and Astaroth had made a deal, and we were the ones who would pay the cost.
+Hash: F413C4CC, Key: Line3.6D03F, Value: Our presence was no coincidence.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: Everything happened exactly as Lilith wanted. We just danced to her music.
+Hash: A313225F, Key: Line15.6D03F, Value: Donan was shattered, his mind on grief, not her. Not answers.
+Hash: 3D079BE1, Key: Line17.6D03F, Value: No one knew what Lilith was truly after, or exactly what Astaroth had promised her.
+Hash: D6FC1563, Key: Line19.6D03F, Value: But we needed to recover quickly...and we needed to stop chasing her phantoms.

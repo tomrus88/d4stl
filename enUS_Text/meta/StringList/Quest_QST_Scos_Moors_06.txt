@@ -1,0 +1,15 @@
+Hash: 003DFCC1, Key: Name, Value: The Path of Rage
+Hash: 0871A46B, Key: Toast, Value: Clear the way into the Untamed Thicket
+Hash: D53BFF05, Key: Phase0Description, Value: Nafain wants me to follow the flow of the corruption into the Untamed Thicket and uncover whatever foulness it feeds within.
+Hash: 38AA8D97, Key: Callback10Header, Value: Destroy the Unnatural Growths sustaining the blockage at the Untamed Thicket ({DONE}/{NEEDED})
+Hash: C3B68EF9, Key: Phase13Description, Value: Nafain wants me to follow the flow of the corruption into the Untamed Thicket and uncover whatever foulness it feeds within.
+Hash: D29F0719, Key: Callback12Header, Value: Follow the flow of corruption into the Untamed Thicket
+Hash: B98DBD5C, Key: Callback15Header, Value: Locate the Heart of the Moors Entrance
+Hash: 8784047D, Key: Phase17Description, Value: Nafain wants me to follow the flow of the corruption into the Untamed Thicket and uncover whatever foulness it feeds within.
+Hash: A5CF923D, Key: Callback25Header, Value: Destroy the Profane Clot blocking the entrance to the Untamed Thicket
+Hash: 9AC58840, Key: BreadcrumbHeader, Value: Clear the way into the Untamed Thicket
+Hash: FBB2C25B, Key: BreadcrumbDescription, Value: Nafain wants me to follow the flow of the corruption into the Untamed Thicket and uncover whatever foulness it feeds within.
+Hash: 0D21D9ED, Key: Phase0OutsideSubzoneHeader, Value: Destroy the Unnatural Growths sustaining the blockage at the Untamed Thicket
+Hash: A5FF9C61, Key: Phase13OutsideSubzoneHeader, Value: Locate the entrance to the Untamed Thicket
+Hash: EA338665, Key: Phase17OutsideSubzoneHeader, Value: Destroy the Profane Clot blocking the entrance to the Untamed Thicket
+Hash: A262BE72, Key: Phase5OutsideSubzoneHeader, Value: Destroy the Profane Clot blocking the entrance to the Untamed Thicket

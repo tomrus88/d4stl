@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Slithering Dark
+Hash: 003892BF, Key: Desc, Value: The deep winding tunnels are home to Hawezar's serpents.

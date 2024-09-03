@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Ruins Reclaimed
+Hash: 3A4912CF, Key: DescShort, Value: Conquer a {icon:Marker_Stronghold_NotCleared, 2.5} Stronghold

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wooden crate
+Hash: F5C7BC0A, Key: Flavor, Value: It's heavy and splintery. Ouch oof.

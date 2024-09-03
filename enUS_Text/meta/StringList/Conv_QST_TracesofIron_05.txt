@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “How did you join the Wolves?”
+Hash: 5D82E1B9, Key: Line1.FB4C3, Value: I was a street urchin once, got into a bad deal. The Wolves saved my hide.
+Hash: F7775B3B, Key: Line3.FB4C3, Value: They raised me. Kept me fed. And the job usually pays. So for now, I stay.

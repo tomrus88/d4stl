@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What is this camp you spoke of?”
+Hash: 8EED63EE, Key: Line1.138BED, Value: Edgar has been hiding people from the Knights inside some abandoned buildings south of Caldeum.
+Hash: 67710DB0, Key: Line3.138BED, Value: We thought they would be safe there, but no one is safe from Osric and his Inquisitors. He’ll never stop hunting them.
+Hash: 3FF4B772, Key: Line5.138BED, Value: Will you go and help Edgar? He wasn’t always good, but what he’s doing now is. He deserves a chance to atone for his sins.
+Hash: 902AE33F, Key: VoiceDir5.138BED, Value: Suna sees the player as maybe the only force that could keep Edgar from getting killed by Osric.

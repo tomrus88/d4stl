@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Did you find the armor?"
+Hash: 8ED7735D, Key: Line1.121C9F, Value: No... I was worried this may happen. The filth that use these ruins must have stripped her of the armor. We must search for it inside.
+Hash: DF0D9F2A, Key: VoiceDir1.121C9F, Value: Emotional. Filled with disdain, hate.  You've found the body of your master, who has been stripped of her armor.
+Hash: 675B1D1F, Key: Line3.121C9F, Value: I knew she couldn't have made it, but... Seeing her, like this...
+Hash: B79148EC, Key: VoiceDir3.121C9F, Value: Choked up in the beginning, but steels herself at the end.
+Hash: 3FDEC6E1, Key: Line5.121C9F, Value: We must find the armor.

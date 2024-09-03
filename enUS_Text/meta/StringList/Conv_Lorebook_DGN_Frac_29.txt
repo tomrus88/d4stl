@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Caretaker's Memoirs
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Caretaker's Memoirs
+Hash: 5D20E754, Key: Line1.B2A6B, Value: For forty-three years, I have swept the floors, lit the candles, and welcomed the faithful here to the tomb of our Saint Ilenora. May she rest in the Father’s glory.
+Hash: CC2A4D81, Key: VoiceDir1.B2A6B, Value: Weary. Reverent. Name pronunciation: "ill-ih-norra" 
+Hash: F71560D6, Key: Line3.B2A6B, Value: But the faithful have stopped coming. I hear their horses thunder by on the road to Scosglen,  charging headlong into the wild to serve the Father.
+Hash: 661EC703, Key: VoiceDir3.B2A6B, Value: Weary. Slight sadness.
+Hash: 9109DA58, Key: Line5.B2A6B, Value: The lucky few may earn a tomb of their own … and perhaps an old monk to care for them while the world forgets their names.
+Hash: 00134085, Key: VoiceDir5.B2A6B, Value: Weary. Resigned. A joke on his own foolishness. 

@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Artificer's Realm
+Hash: B7C7172B, Key: Callback230Header, Value: Mastery: Slay the Guardian before the Timer expires
+Hash: 41521471, Key: Callback290Header, Value: Slay the Guardian 

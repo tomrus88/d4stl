@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Archive Door Seal
+Hash: F2CA04D8, Key: NoticeSignText, Value: “You who would seek to know Darkness, kneel before the Light. Speak the words of the Litany, and accept our holy burden.”

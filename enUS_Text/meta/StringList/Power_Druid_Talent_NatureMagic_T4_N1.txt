@@ -1,0 +1,7 @@
+Hash: 003DFCC1, Key: name, Value: Electric Shock
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Dealing Lightning damage to enemies has up to a {c_number}{SF_1}%{/c} chance to Immobilize them for {c_number}{buffduration:BUFF_IMMOBILIZE}{/c} seconds.
+
+If the target is already Immobilized, the Lightning damage dealt to them is increased by {c_number}[{SF_3} * 100|%x|]{/c} instead.
+Hash: F2D5722F, Key: rankup_desc, Value:  
+{icon:bullet,1.2} Immobilize Chance {icon:arrow,1.2} Up to {c_number}[{SF_1}]%{/c}
+{icon:bullet,1.2} Bonus Lightning Damage {icon:arrow,1.2} {c_number}[{SF_3}*100|%x|]{/c}

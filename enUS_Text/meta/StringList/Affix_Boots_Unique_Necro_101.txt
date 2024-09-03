@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_important}Bone Prison{/c} traps a larger area and fires {c_random}[Affix_Value_1]{/c} {c_important}Bone Splinters{/c} at enemies trapped within. 
+
+Increase your Maximum Essence by {c_number}[Affix."Static Value 0"]{/c} for {c_number}[Affix."Static Value 1"]{/c} seconds each time these {c_important}Bone Splinters{/c} hit an enemy.

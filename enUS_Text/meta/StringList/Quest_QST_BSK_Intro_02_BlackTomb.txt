@@ -1,0 +1,35 @@
+Hash: 003DFCC1, Key: Name, Value: Inside the Black Tomb
+Hash: 1EADAE68, Key: Callback2Header, Value: Find the Black Tomb
+Hash: EC8B1AEE, Key: Callback8Header, Value: Find the Black Tomb
+Hash: 0687FA1D, Key: Callback16Header, Value: Descend into the Unknown...
+Hash: BEE0DBFA, Key: Callback22Header, Value: Investigate Burial Jar
+Hash: 2642177F, Key: Phase37Description, Value: Place Locran's Talisman
+Hash: DF0BA3DF, Key: Callback36Header, Value: Reunite the pieces of Sankekur
+Hash: AB284836, Key: Callback376Header, Value: Place Locran's Talisman
+Hash: FD700C3A, Key: Callback40Header, Value: Speak to Locran
+Hash: 6541F242, Key: Callback48Header, Value: Speak to Locran
+Hash: 04898A62, Key: Callback57Header, Value: Speak to Locran
+Hash: E9B19A74, Key: Callback275Header, Value: Collect the Tongue of Sankekur
+Hash: 486BD940, Key: Callback82Header, Value: Find the last piece of Sankekur
+Hash: 164945C6, Key: Callback88Header, Value: Wait for Locran to open the Black Tomb
+Hash: 9AB9349F, Key: Callback90Header, Value: Speak to Locran
+Hash: 81A7EAE2, Key: Callback93Header, Value: Find where Sankekur is buried
+Hash: 028B1AA7, Key: Callback98Header, Value: Enter the Sanctum of Silence
+Hash: 1879A109, Key: Callback102Header, Value: Defeat Wailing Shade
+Hash: 51B5B2AB, Key: Callback113Header, Value: Collect Locran's Talisman
+Hash: 24E63DCF, Key: Callback126Header, Value: Find the next piece of Sankekur
+Hash: 5E224F71, Key: Callback137Header, Value: Enter the Sanctum of Stillness
+Hash: 68C88CAD, Key: Callback151Header, Value: Investigate the Burial Jar
+Hash: E9ABBC72, Key: Callback156Header, Value: Enter the Sanctum of Darkness
+Hash: 00BE9674, Key: Callback194Header, Value: Defeat {MONSTER}
+Hash: 26EA8B8C, Key: Callback204Header, Value: Keep enemies away from Locran
+Hash: 7937E6EB, Key: Callback212Header, Value: Keep enemies away from Locran
+Hash: AB226A34, Key: Callback257Header, Value: Keep enemies away from Locran
+Hash: EF04B912, Key: Callback282Header, Value: Wait for Locran
+Hash: B99354B7, Key: Callback359Header, Value: Take Locran's Eye
+Hash: 753B0775, Key: Callback294Header, Value: Protect Locran
+Hash: B279D68F, Key: Callback342Header, Value: Keep enemies away from Locran
+Hash: DD4ADBB0, Key: Callback370Header, Value: Place Locran's Talisman to begin the Ritual
+Hash: C43991F3, Key: Callback373Header, Value: Place Locran's Talisman to begin the Ritual
+Hash: 63812A13, Key: Callback382Header, Value: Wait for Locran to start the ritual
+Hash: E9B77876, Key: Callback394Header, Value: Collect the Ears of Sankekur

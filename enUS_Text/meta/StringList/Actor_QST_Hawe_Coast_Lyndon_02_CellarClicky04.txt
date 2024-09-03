@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dice Set
+Hash: F2CA04D8, Key: NoticeSignText, Value: A simple gambling set. However, one of the dice sets seems to always land on sixes.

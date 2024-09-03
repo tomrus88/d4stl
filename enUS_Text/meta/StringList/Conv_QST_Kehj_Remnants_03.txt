@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “We are both hunted by the Cathedral. I found your note.”  
+Hash: 09E13F8B, Key: Line14.103C6C, Value: You’re not with them? This note, I sent it to Jazem. He never showed. Does it mean he...he’s dead, isn’t he?
+Hash: 60DCE4F8, Key: VoiceDir14.103C6C, Value: Hader comes to the realization that his lover, Jazem, is dead. He’s shellshocked and soft spoken. 
+Hash: 2F650410, Key: Line28.103C6C, Value: I...watch out! The Knights have followed!
+Hash: 8660A97D, Key: VoiceDir28.103C6C, Value: Fearful

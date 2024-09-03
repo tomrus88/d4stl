@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Manifestations of the Prime Evils
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Lorath
+Hash: 5A1F4B4A, Key: Line1.6D03F, Value: The Prime Evils may be subdued, but they can never be ended. Even from their home in the Hells, they can still influence our world, walk it unseen.
+Hash: F413C4CC, Key: Line3.6D03F, Value: When weakened, they’ve been known to take the forms of strange animals: a one-eyed owl, a wingless bat, or a wounded wolf.

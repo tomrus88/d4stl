@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charred Bodies
+Hash: F2CA04D8, Key: NoticeSignText, Value: The remains of the ruins' former inhabitants lay ashen and broken throughout these halls. Something truly horrific occurred here.

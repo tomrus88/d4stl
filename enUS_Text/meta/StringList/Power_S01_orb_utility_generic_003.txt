@@ -1,0 +1,4 @@
+Hash: 3EE85C46, Key: Buff30_Name, Value: Calculating
+Hash: ADE41789, Key: Buff30_Description, Value: Spending {c_number}{SF_0}{/c} resource will cause your next attack to stun for {c_number}{SF_1}{/c} seconds.
+Hash: 413D84E7, Key: Buff31_Name, Value: Calculated
+Hash: FD43210A, Key: Buff31_Description, Value: Your next attack stuns all enemies hit for {c_number}{SF_1}{/c} seconds.

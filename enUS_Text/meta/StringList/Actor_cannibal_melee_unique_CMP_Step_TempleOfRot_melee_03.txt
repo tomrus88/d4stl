@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Bonecruncher
+Hash: CC38ADCB, Key: FlavorName, Value: Molqarth's Chosen

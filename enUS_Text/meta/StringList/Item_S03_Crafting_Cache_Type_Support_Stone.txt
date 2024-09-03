@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Uncertain Support Stone
+Hash: A646FFA4, Key: Description, Value: Use to reveal a single Support Tuning Stone, altering the crowd-control or defensive behavior of Governing Stone abilities.
+Hash: F5C7BC0A, Key: Flavor, Value: Thrumming with potential.

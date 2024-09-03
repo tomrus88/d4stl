@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What now?"
+Hash: 676E13AD, Key: Line3.1343B7, Value: Hah, they attacked! How... invigorating, heh!
+Hash: B7A43F7A, Key: VoiceDir3.1343B7, Value: Slightly winded from recent action, but excited. Searching for the words as he goes, as this experience is foreign to him.
+Hash: F0F910F3, Key: Line9.1343B7, Value: That man, Batzorig... he was headed to that cellar to hide. We should follow him!
+Hash: 412F3CC0, Key: VoiceDir9.1343B7, Value: Beginning to regain his focus on their mission
+Hash: 4551D01C, Key: Line11.1343B7, Value: I'll meet you there. Hurry!
+Hash: 9C4D7589, Key: VoiceDir11.1343B7, Value: Unable to contain his anticipation, he encourages the player to follow before running off.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Picana
+Hash: 003892BF, Key: Desc, Value: Critical Strikes electrically charge the enemy for {c_random}[Affix_Value_1|2|]{/c} seconds, causing lightning to arc between them and any other charged enemies dealing {c_number}[Affix_Flat_Value_1]{/c} Lightning damage.

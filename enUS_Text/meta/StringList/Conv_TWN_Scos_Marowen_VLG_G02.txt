@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: (Listen)
+Hash: 8EB20277, Key: Line1.100942, Value: Traded my last coin for her. This chicken lays a golden egg every year.
+Hash: DEE82E44, Key: VoiceDir1.100942, Value: interested
+Hash: 6735AC3A, Key: Line3.100943, Value: You absolute fool. These are regular eggs.
+Hash: B76BD807, Key: VoiceDir3.100943, Value: bragging
+Hash: 183CFFBD, Key: Line7.100942, Value: Oh, so demons are real, but the idea of magic hens is too ridiculous?
+Hash: 68732B8A, Key: VoiceDir7.100942, Value: annoyed

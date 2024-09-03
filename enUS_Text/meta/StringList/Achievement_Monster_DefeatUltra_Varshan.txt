@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value:  Freed from Corruption
+Hash: 003892BF, Key: Desc, Value: Defeat Tormented Echo of Varshan in {icon:Icon_WorldTier_4, 2.5} Torment.

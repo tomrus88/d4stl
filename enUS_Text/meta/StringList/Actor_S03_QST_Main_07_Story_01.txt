@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: "Conspiracy: An Account of the Vizjerei"
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Many Vizjerei texts speak of spirits. The scholars among you will recognize this for what it is: linen over filth. These were not spirits, but demons, offering the Vizjerei power in exchange for discretion."

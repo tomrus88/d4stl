@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Mirage
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Jazadar
+Hash: 5D5747DF, Key: Line1.E2EF6, Value: Break...chains...
+Hash: CC60AE0C, Key: VoiceDir1.E2EF6, Value: A ghostly whisper on the wind. Pleading.

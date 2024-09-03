@@ -1,0 +1,45 @@
+Hash: AD8485A5, Key: StashTitle, Value: Stash
+Hash: C22F98E5, Key: BuySlots, Value: Buy {s1} Slots: 
+Hash: ED2314C7, Key: BuyTab, Value: Buy Tab: 
+Hash: B2E3AB16, Key: Warning, Value: This will cost you {s1}.  Would you like to proceed?
+Hash: 4F0FC0F0, Key: ChoseTabArt, Value: Choose new Tab art from below
+Hash: 8144E79D, Key: StashMenuTake, Value: Take
+Hash: A9DA4105, Key: StashMenuStore, Value: Deposit
+Hash: D46ABA77, Key: PurchaseTabText, Value: Purchase an additional stash tab to expand your Stash capacity by {c_highlight}{s1} slots{/c}.
+Hash: 20756085, Key: MissedGear_Title, Value: Missed Equipment
+Hash: CACDAC5B, Key: MissedGear_ItemCount, Value: {c:FFdba864}{s1}{/c}{c:FF928c82}/{s2}{/c} Missed Equipment
+Hash: E7720E59, Key: MissedGear_Warning, Value: {c_red}Almost Full{/c}
+Hash: 829679D8, Key: Missed_Gear_Warning, Value: Missed Equipment tab in the Stash is full ({Param1}/{Param2}). 
+Go to any Stash to clean out.
+Old equipment will be deleted to make room for new loot.
+Hash: 544D818C, Key: MissedGear_WarningFull, Value: {c_red}Full{/c}
+Hash: CFD5AC40, Key: Missed_Gear_WarningFirst, Value: Missed Equipment tab in the Stash is almost full ({Param1}/{Param2}). 
+Go to any Stash to clean out.
+Hash: CA6201A0, Key: ClearFilters, Value: Clear
+Hash: 4FAB7A3D, Key: EditTab, Value: Edit Tab
+Hash: A5522B51, Key: SeasonStashMessage, Value: {icon:bullet, 2.0} Available till the end of the current season
+{icon:bullet, 2.0} When the new season starts, any items left here will be lost
+Hash: 8130AD26, Key: MoveAllToInventoryFailed, Value: You do not have enough space in your inventory.
+Hash: 96689AAF, Key: MoveAllToTabFailed, Value: You do not have enough space in that tab.
+Hash: B999001D, Key: TabSlotsUsed, Value: {c:FFdba864}{s1}{/c}{c:FF928c82}/{s2}{/c}
+Hash: DE468DDF, Key: SeasonStashTabMoveFailed, Value: You cannot move an item to a seasonal tab.
+Hash: CA0EE07F, Key: EditTabPrompt, Value: {icon:l3, 2.0} Edit Tab
+Hash: 3DC134AF, Key: Confirm_Prompt, Value: {icon:button4, 2.0} Confirm
+Hash: E4162311, Key: FromLastSeason, Value: Last Season {c_number}({s1}){/c} (withdraw only)
+Hash: A8858E19, Key: Filters, Value: Filters
+Hash: 475F6404, Key: RarityCommon, Value: Common
+Hash: B543767C, Key: RarityMagic, Value: Magic
+Hash: CF335645, Key: RarityRare, Value: Rare
+Hash: 330823B6, Key: RarityLegendary, Value: Legendary
+Hash: 71480712, Key: RarityUnique, Value: Unique
+Hash: BD8C20C6, Key: QualityAncestral, Value: Ancestral
+Hash: EF3D127B, Key: QualitySacred, Value: Sacred
+Hash: 27454C29, Key: ItemTypeSigil, Value: Sigils
+Hash: BE05F7CE, Key: ItemTypeSocketable, Value: Socketables
+Hash: 26049CD2, Key: ItemTypeArmor, Value: Armor
+Hash: 4BB0CFAD, Key: ItemTypeConsumables, Value: Consumables
+Hash: 50C79AD3, Key: ItemTypeJewelry, Value: Jewelry
+Hash: 37F4A9EE, Key: ItemTypeWeapons, Value: Weapons
+Hash: D1C0EB9F, Key: StashItemExpire, Value: Seasonally migrated items in your Stash will expire in {c_highlight}{s1} days{/c}.
+Hash: 99C0EF4E, Key: SearchBarPlaceholder, Value: Search
+Hash: 5F6BAFE9, Key: RarityMythic, Value: Mythic Unique

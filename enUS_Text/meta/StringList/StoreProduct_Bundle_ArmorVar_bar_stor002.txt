@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Taiga's Brute
+Hash: A646FFA4, Key: Description, Value: Though not particularly hospitable, these stout warriors do help protect the common folk from the monsters that stalk these lands.
+Hash: 083EE0CE, Key: Quote, Value: Hearty northerners who now lay claim to stretches of Fractured Peaks woodland.
+Hash: 13A53A8B, Key: Series, Value: Barbarian Armor

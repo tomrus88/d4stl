@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Gold Well Spent
+Hash: 0871A46B, Key: Toast, Value: A local merchant will pay handsomely for the return of stolen goods.
+Hash: C9FCD1EA, Key: Phase5Description, Value: The merchant Meros has asked me to recover a payment of valuable gems from a man named Luskas.
+Hash: F81CED9C, Key: Callback33Header, Value: Get the {ITEM} from Luskas
+Hash: 61CFD437, Key: Phase11Description, Value: I have recovered the payment of gems. I should return them to Meros in Menestad.
+Hash: 0687FA1D, Key: Callback16Header, Value: Return to Meros

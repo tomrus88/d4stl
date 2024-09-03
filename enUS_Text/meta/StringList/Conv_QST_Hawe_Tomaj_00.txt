@@ -1,0 +1,4 @@
+Hash: 8EB3433E, Key: Line1.101BAB, Value: Aw, c'mon, Szil. Don't (hic) be that way.
+Hash: DEE96F0B, Key: VoiceDir1.101BAB, Value: Teasing, a bit condescendingly. The "(hic)" is a drunken hiccup.
+Hash: 67358BFF, Key: Line3.1000C2, Value: I mean it, Tomaj. I'm not messin' around.
+Hash: B76BB7CC, Key: VoiceDir3.1000C2, Value: Stern, warning. She's got her arms crossed and is tired of being defied.

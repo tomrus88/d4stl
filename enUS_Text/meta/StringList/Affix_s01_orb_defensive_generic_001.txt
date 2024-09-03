@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of Revenge
+Hash: 003892BF, Key: Desc, Value: {c_random}[Affix_Value_1|1%|]{/c} of incoming damage is instead suppressed. When you use a {c_important}Defensive{/c}, {c_important}Subterfuge{/c} or a {c_important}Macabre{/c} skill, all suppressed damage is amplified by {c_number}[Affix."Static Value 0"|%x|]{/c} and explodes, dealing up to {c_random}[Affix_Flat_Value_1]{/c} Fire damage to Nearby enemies.

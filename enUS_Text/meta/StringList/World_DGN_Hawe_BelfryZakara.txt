@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Belfry Zakara
+Hash: 003892BF, Key: Desc, Value: The Zakarum built this Cathedral. It honors the sea, now. 

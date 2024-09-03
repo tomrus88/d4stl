@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What do you know of Andariel?” 
+Hash: 5A196F77, Key: Line1.789BF, Value: More than I care to, now.
+Hash: 8E02627B, Key: Line5.789BF, Value: Her pain is primal, wordless. Once, she was part of something more...
+Hash: C1EB557F, Key: Line9.789BF, Value: (pained effort) She doesn’t like me to think on it.

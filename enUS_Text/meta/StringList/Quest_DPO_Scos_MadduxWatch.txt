@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Light will touch this place no longer.
+Hash: 1EADAE68, Key: Callback2Header, Value: Return the Mechanical Box to the Pedestal: {LEFT}
+Hash: 059C64AB, Key: Callback5Header, Value: Defeat the {MONSTER}
+Hash: D9B88541, Key: Callback29Header, Value: Travel to the {LEVELAREA}
+Hash: F81CED9C, Key: Callback33Header, Value: Destroy the {MONSTER}s: {LEFT}
+Hash: DF0BA3DF, Key: Callback36Header, Value: Travel to the {LEVELAREA}

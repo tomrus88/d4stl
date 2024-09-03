@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How does freedom feel?"
+Hash: 5D1088EA, Key: Line1.A5F52, Value: I'll be damned, I didn't think you'd bother coming back. Thank you. There's no chance you have any extra healing potions on you, is there?
+Hash: CC19EF17, Key: VoiceDir1.A5F52, Value: Pleased and somewhat surprised. The last sentence is spoken while holding your aching limbs, realizing you're actually quite wounded. You feel guilty asking for MORE help from this kind soul, but you once again play the pathetic card.

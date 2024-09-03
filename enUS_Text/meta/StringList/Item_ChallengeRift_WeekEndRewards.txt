@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Cache of Trials
+Hash: A646FFA4, Key: Description, Value: Rewards for competing in the trial ladders. Contains Ancestral Legendary or Unique items.

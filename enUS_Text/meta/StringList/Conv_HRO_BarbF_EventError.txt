@@ -1,0 +1,2 @@
+Hash: F84BE73E, Key: Line5.BAE4.Bar.F, Value: My allies are busy. I must wait.
+Hash: 5A32A200, Key: Line7.BAE4.Bar.F, Value: I can't join my companions right now.

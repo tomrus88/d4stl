@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Focus Fire
+Hash: A646FFA4, Key: Description, Value: The Seneschal Construct channels a ray of fire onto {c_number}{SF_4}{/c} targets dealing {c_number}{SF_14}{/c} total damage to each over {c_number}[{SF_3}|1|+{SF_11}|1|]{/c} seconds.
+Hash: 70FCEFA9, Key: AttackSpeed, Value: {c_label}Speed:{/c} {c_resource}[{SF_3}|2|+{SF_11}|2|]{/c} seconds
+Hash: 6E4BB4EA, Key: Next_Rank, Value: Total Damage {icon:arrow,1.2} {c_number}{SF_15}{/c}
+Hash: 9B5B1C1D, Key: HowToUnlock, Value: Acquired by defeating Heralds in Arcane Tremors

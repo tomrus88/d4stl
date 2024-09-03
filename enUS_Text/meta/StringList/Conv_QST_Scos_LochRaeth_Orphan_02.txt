@@ -1,0 +1,14 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you Padrig?"
+Hash: 65EA20D3, Key: Line38.FD0E3, Value: Who's asking? Ah...apologies, wanderer. Do you need something?
+Hash: B6204CA0, Key: VoiceDir38.FD0E3, Value: Defensive, before catching himself and softening. Life has made him jaded but he tries not to let it.
+Hash: 597D840D, Key: Line14.FD0E3, Value: What's this? A letter? (sigh) "...this may never reach you..." Oh no. No, no. Where did you get this?
+Hash: A9B3AFDA, Key: VoiceDir14.FD0E3, Value: At first, he's no sure what he's being handed. As he reads part of the letter aloud, he grows disbelieving.
+Hash: F371FD8F, Key: Line16.FD0E3, Value: "The Drowned...closing in..." And all this time, I've been ashamed of me father. I thought he abandoned us.
+Hash: 43A8295C, Key: VoiceDir16.FD0E3, Value: Continuing to read part of a letter aloud, he then confesses he's always been bitter and ashamed of his background. He thought his father left his family; this letter is revealing he got lost at sea.
+Hash: 79A84BF2, Key: Line28.FD0E3, Value: And this? Wait--I've seen something like this before. An amulet imbued with druidic power.
+Hash: C9DE77BF, Key: VoiceDir28.FD0E3, Value: With recognition, he descibes the item the player is handing him, though he hasn't seen it in decades.
+Hash: FE183ACB, Key: Line30.FD0E3, Value: This is a relic...f-from when I was a child, when our people still practiced the old ways. Ah but I fear now I--I've not the ability to use it.
+Hash: 4E4E6698, Key: VoiceDir30.FD0E3, Value: With recognition, somber. 
+Hash: 980CB44D, Key: Line32.FD0E3, Value: Unless...c-could you use it? Me father wouldn't have wanted it collecting dust on a shelf.
+Hash: E842E01A, Key: VoiceDir32.FD0E3, Value: Realizing, as he gets an idea, then hopeful.
+Hash: 32012DCF, Key: Line34.FD0E3, Value: I wish Mum was here to see...well, at least now her spirit can rest easy. Thank you, friend.

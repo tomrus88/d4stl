@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “I have your gutweed. I’m never going to get this smell from these clothes.”
+Hash: 5D82E1B9, Key: Line1.FB4C3, Value: (sigh) Thank you. It may not look like much now, but this will help save someone’s limb.
+Hash: F7775B3B, Key: Line3.FB4C3, Value: As for the smell... (sniff) Oh, go to the tar pits. It won’t save your clothes, but maybe the odors will cancel each other out.
+Hash: 6680C168, Key: VoiceDir3.FB4C3, Value: Amused and half joking. 

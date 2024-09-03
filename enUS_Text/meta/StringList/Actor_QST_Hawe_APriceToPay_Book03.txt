@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Wejinhani Dispensatory
+Hash: F2CA04D8, Key: NoticeSignText, Value: An ancient book describing the medicinal uses of common flora and fauna found in Hawezar. One chapter describes a cure for "tainted blood" that requires the venom of a spider found only in the Blind Burrows.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Moth Oracle
+Hash: A646FFA4, Key: Description, Value: Moths are symbolic of death, transformation, and the mysteries of the afterlife. As a moth is drawn to the light of a fire so too is this mystic drawn to uncovering those secrets.
+Hash: 083EE0CE, Key: Quote, Value: Drawn to otherworldly light.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

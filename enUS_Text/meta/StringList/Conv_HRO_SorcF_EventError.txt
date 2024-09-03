@@ -1,0 +1,2 @@
+Hash: BD54AAA1, Key: Line9.BAE4.Sor.F, Value: My allies are detained. I must wait.
+Hash: CFE778E9, Key: Line10.BAE4.Sor.F, Value: I can't join my allies right now.

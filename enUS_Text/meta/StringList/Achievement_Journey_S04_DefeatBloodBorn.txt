@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Baptized In Hell
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Hellborne during {icon:Marker_Helltide, 2.5} Helltide

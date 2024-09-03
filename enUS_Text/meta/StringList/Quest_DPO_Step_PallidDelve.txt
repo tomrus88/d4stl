@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Soft flesh protests, yet crackles.
+Hash: 6BA7EB29, Key: Callback3Header, Value: Destroy the {MONSTER}: {LEFT}
+Hash: 4A6A48FB, Key: Callback41Header, Value: Defeat the {MONSTER}
+Hash: 3158FF3E, Key: Callback44Header, Value: Travel to the {LEVELAREA}
+Hash: 1D9AD41F, Key: Callback54Header, Value: Travel to the {LEVELAREA}
+Hash: B78F4DA1, Key: Callback56Header, Value: Slay all enemies in the Salt Mines {KAM_REVEALED_COUNT}
+Hash: 9E7E03E4, Key: Callback59Header, Value: Slay the Headhunter and collect the {ITEM}
+Hash: 09DCA900, Key: Callback64Header, Value: Use the Salt Encrusted Key to open the {GIZMO}

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Magistrate's Office
+Hash: 003892BF, Key: Desc, Value: Hunter's Chase: The Magistrate must answer for this.

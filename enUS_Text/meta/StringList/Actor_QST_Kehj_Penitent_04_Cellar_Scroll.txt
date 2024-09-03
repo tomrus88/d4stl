@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Field Commendation
+Hash: CC3C0A8F, Key: FlavorText, Value: A notable document among Osric's papers.
+Hash: F2CA04D8, Key: NoticeSignText, Value: This is a formal letter from High Confessor Prava commending Osric for "quick, decisive action" in the taking of Caldeum, expanding his command with another half-dozen soldiers, and granting him a modest increase in pay. 

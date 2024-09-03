@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Hawezar Wanderer
+Hash: 003892BF, Key: Desc, Value: Explore all of Hawezar.

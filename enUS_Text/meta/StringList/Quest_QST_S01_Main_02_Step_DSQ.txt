@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: Name, Value: Answers in the Ashes
+Hash: 7645EEC4, Key: Phase69Description, Value: Cormond says there is a Hall of Records beneath Orbei Monastery. It may hold knowledge on his Cages of Binding, but the path is dangerous. I must accompany Cormond into the crypts. 
+Hash: 6EFD6A9E, Key: Phase72Description, Value: Cormond says there is a Hall of Records beneath Orbei Monastery. It may hold knowledge on his Cages of Binding, but the path is dangerous. I must accompany Cormond into the crypts. 
+Hash: 028B1AA7, Key: Callback98Header, Value: Bring Cormond to the Sealed Door
+Hash: 5C75B95D, Key: Phase80Description, Value: We found the Hall of Records untouched beneath the ruins of Orbei. I must search for knowledge on “Cages of Binding.”
+Hash: 7701ADA6, Key: Callback79Header, Value: Search the Records Room
+Hash: EF4FD180, Key: Phase83Description, Value: Among the old entries, I found mention of the Cages of Binding. I should show it to Cormond and see if this is what he has been looking for. 
+Hash: 486BD940, Key: Callback82Header, Value: Talk to Cormond
+Hash: 8229E9A3, Key: Phase86Description, Value: We found a lead pointing to Hawezar but a powerful Malignant attacked and called Cormond by name. Cormond ran off. I will follow once the threat is dealt with.
+Hash: 2F5A8F83, Key: Callback85Header, Value: Defeat Varshan the Consumed
+Hash: 0DBB7DA0, Key: Phase92Description, Value: Cormond managed to open the sealed door into the Orbei Hall of Records. We don’t yet know the state of these “records.” Let us hope we find them intact. 
+Hash: E7B37160, Key: Callback91Header, Value: Find the Records Room with Cormond
+Hash: 07D46CED, Key: Phase107Description, Value: We found a lead pointing to Hawezar but a powerful Malignant attacked and called Cormond by name. Cormond ran off. I will follow once the threat is dealt with.
+Hash: 4C62940D, Key: Callback106Header, Value: Defeat Varshan the Consumed
+Hash: B7C13929, Key: Callback111Header, Value: Defeat the Skeleton Ambush
+Hash: C4FE2C0F, Key: Phase136Description, Value: We found a lead pointing to Hawezar but a powerful Malignant attacked and called Cormond by name. Cormond ran off. I will follow once the threat is dealt with.
+Hash: C980F48D, Key: Callback142Header, Value: Capture the Malignant Heart
+Hash: 94AF9C72, Key: Phase157Description, Value: Cormond says there is a Hall of Records beneath Orbei Monastery. It may hold knowledge on his Cages of Binding, but the path is dangerous. I must accompany Cormond into the crypts. 
+Hash: E9ABBC72, Key: Callback156Header, Value: Defeat the Skeleton Ambush

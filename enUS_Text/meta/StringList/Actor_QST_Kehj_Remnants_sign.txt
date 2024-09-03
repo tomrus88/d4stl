@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blocked Passageway
+Hash: F2CA04D8, Key: NoticeSignText, Value: Hader escaped into this passageway. I can see faint light emitting from the other side, but the way has been hastily blocked. I should look for another entrance…

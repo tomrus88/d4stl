@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Golden Nymphaea
+Hash: A646FFA4, Key: Description, Value: "Darkness is a dominating force of nature. We all know it, we all endure it. But within that nature, contemplate the lotus, the intricate flower that blooms from the mire. So too should your sorcery be." -Ernethel, Instructor of the Yshari
+Hash: 083EE0CE, Key: Quote, Value: Riddle of the lotus.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

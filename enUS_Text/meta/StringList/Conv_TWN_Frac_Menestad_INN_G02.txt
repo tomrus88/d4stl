@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "There seem to be a lot of pilgrims about."
+Hash: 09E18B2C, Key: Line14.105308, Value: These pilgrims pass through here on their way to Kyovashad, but precious few others visit. How can I survive with so little trade, with no coin coming in?
+Hash: 60DD3099, Key: VoiceDir14.105308, Value: Worried about the future. 

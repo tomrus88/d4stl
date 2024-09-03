@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You should know what Locran and I learned..."
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: So Hell’s coming, no matter what. That about figures for this goat-shite existence of ours.
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Somber. Cynical.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: Locran died to help you fight it anyway, didn’t he? (scoffs) Damned idiot always dragged me along, chasing hope...
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Somber. Grieving, but hiding behind contempt.
+Hash: F46620DD, Key: Line9.1BCD2B, Value: Reckon I can hang on a while longer and give you a hand, before all Hell breaks loose. Got nothing better to do.
+Hash: 449C4CAA, Key: VoiceDir9.1BCD2B, Value: Grinning. Putting up a front. Wants to help.

@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is gut rot?"
+Hash: 673A4442, Key: Line3.107ED8, Value: (sigh) It's a nasty business. Swamp vermin find a way into you--eyes, ears, nose...then swim down into your gut and lay eggs.
+Hash: 3FBDEE04, Key: Line5.107ED8, Value: As the eggs hatch and feed on you, the pain swells, and the fever rises, until they're large enough to... (shudder)
+Hash: 184197C6, Key: Line7.107ED8, Value: Like a bird out of a soft egg. It is... revolting. Stomach-churning. (cough)
+Hash: 6877C393, Key: VoiceDir7.107ED8, Value:  Ironic laugh

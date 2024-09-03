@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Why would the Triune steal Raekor’s axe?”
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: Demon blood stains the axe from haft to head. The blood of fiends who fed on children of Arreat.
+Hash: DF230FAB, Key: VoiceDir1.137EC4, Value: direct, honest
+Hash: 67708DA0, Key: Line3.137EC4, Value: I’m sure it intrigues them. Draws them to worship, like all things foul and profane.
+Hash: B7A6B96D, Key: VoiceDir3.137EC4, Value: direct, honest; some contempt

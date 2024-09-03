@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: When you cast an {c_important}Ultimate{/c} Skill, your next {c_important}Core{/c} Skill consumes all of your Energy and deals {c_random}[Affix_Value_1|2%x|]{/c} increased damage per Energy consumed.
+
+Using a Cooldown restores {c_number}[Affix."Static Value 0"]{/c} Energy.

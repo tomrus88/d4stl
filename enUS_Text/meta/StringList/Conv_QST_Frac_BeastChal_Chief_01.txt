@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Tell me of the trophies behind you."
+Hash: 910BDD31, Key: Line5.B757A, Value: We display these trophies to honor the ancients, and guide their wisdom to us. The skulls remind me that death is always close at hand... theirs, or your own.
+Hash: 0015435E, Key: VoiceDir5.B757A, Value: First the collective reason for displaying the trophies, then a personal reflection
+Hash: 5D22EA2D, Key: Line1.B757A, Value: (sigh) There is one skull I'm saving a place for: that of a goatman we've named Kauller the Collector. It hunts north of here, openly feasting on our fallen.
+Hash: F71763AF, Key: Line3.B757A, Value: Kauller has challenged us. Were you to bring me its damned ugly head, you would gain great favor with the tribe.
+Hash: 6620C9DC, Key: VoiceDir3.B757A, Value: Prideful, uncertain of the PC

@@ -1,0 +1,15 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You’re the ‘Bear of Blackweald?’"
+Hash: 5D201C8E, Key: Line1.B20BA, Value: Formerly. Donan sought able bodies and conscripted our lot to defeat Astaroth.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: blunt, honest
+Hash: F7149610, Key: Line3.B20BA, Value: Our ruthless tactics were put to measure, and, with time, the demon was defeated.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: blunt, honest
+Hash: 91090F92, Key: Line5.B20BA, Value: But the things I saw… humbled and horrified every part of me.
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: cold, leaning somber; distrubed by memories of war
+Hash: 2AFD8914, Key: Line7.B20BA, Value: My kin, and our leader, Stana, did not share my shame. They delighted in the fires. Yearned for their return.
+Hash: 9A06EF41, Key: VoiceDir7.B20BA, Value: cold, blunt; leaning angry; proncouned: "STAH-nah"
+Hash: C4F20296, Key: Line9.B20BA, Value: I was there when they set upon Brione. Saw the madness in their eyes. The Days of Ash had taken their minds.
+Hash: 33FB68C3, Key: VoiceDir9.B20BA, Value: cold; distrubed by memories of war/death
+Hash: 722B009F, Key: Line11.B20BA, Value: So I cut them down, one by one, and left them to be claimed by fire.
+Hash: C2612C6C, Key: VoiceDir11.B20BA, Value: cold, blunt
+Hash: 0C1F7A21, Key: Line13.B20BA, Value: After years of quiet, it seems something survived that night. These bodies and the merchants were meant for me.
+Hash: 5C55A5EE, Key: VoiceDir13.B20BA, Value: cold, bunt, concerned

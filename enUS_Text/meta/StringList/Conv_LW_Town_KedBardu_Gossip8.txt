@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Where's your family?"
+Hash: F7611BA9, Key: Line3.F8CF9, Value: Father always wanted to see the markets of Ked Bardu. I wish he had made it.

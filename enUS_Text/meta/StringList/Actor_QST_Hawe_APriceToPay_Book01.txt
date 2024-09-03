@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dangers of Hawezar
+Hash: F2CA04D8, Key: NoticeSignText, Value: A book detailing dozens of infectious diseases that can be found in the swamps. Several pages are dedicated to a horrific, incurable, and fatal disease that causes plants to grow from inside the victim's body.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I have collected the snake venom."
+Hash: 5A39A25C, Key: Line1.9118B, Value: Good, good, good!

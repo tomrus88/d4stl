@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Curate Symon
+Hash: 8EE12459, Key: Line1.11E6C2, Value: I woke this morning to find that Sev has fled our company. She was harrowed by the dreams that haunt us all. I suppose it got to be too much for her.
+Hash: 45488A8A, Key: Line11.11E6C2, Value: I dislike our remaining companions. The feeling, I fear, is mutual.
+Hash: 1DCC344C, Key: Line13.11E6C2, Value: Elias insists we need them. The knowledge we seek is well guarded and we cannot fight our way through alone. In the name of knowledge, I must accept them.

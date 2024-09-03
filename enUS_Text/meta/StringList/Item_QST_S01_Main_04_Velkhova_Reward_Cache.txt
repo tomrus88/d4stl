@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Varshan's Modest Effects
+Hash: F5C7BC0A, Key: Flavor, Value: A small cloth purse. Once owned by Varshan, in simpler times. A humble item of little note.

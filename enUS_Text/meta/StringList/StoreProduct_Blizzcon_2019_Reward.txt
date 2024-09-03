@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Blizzcon 2019 Reward
+Hash: A646FFA4, Key: Description, Value: Reward for players who attended Blizzcon 2019.

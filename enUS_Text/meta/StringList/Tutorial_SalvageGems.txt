@@ -1,0 +1,2 @@
+Hash: 086EAA02, Key: title, Value: Salvaging Gems
+Hash: 7BFE534B, Key: simple_instruction, Value: Salvaging gems will break them into {c_highlight}fragments{/c} that can be used to craft {c_highlight}stronger gems{/c}.

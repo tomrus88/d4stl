@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Genbar Prayer pt2
+Hash: F3C4D8BA, Key: Line3.371E1, Value: Thank you for sending Master Elias to show me the way. I long for the day when we stand by your side...and set the cleansing fire.
+Hash: 62CE3EE7, Key: VoiceDir3.371E1, Value: Praying to altar of Lilith (5ft away.) Empassioned. Feverish/madness.

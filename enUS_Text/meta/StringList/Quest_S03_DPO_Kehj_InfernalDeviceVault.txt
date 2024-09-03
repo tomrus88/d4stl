@@ -1,0 +1,4 @@
+Hash: 1F98FD33, Key: Callback238Header, Value: Place the objects on the pedestals: {DONE_OVER_NEEDED}
+Hash: 003DFCC1, Key: Name, Value: A dream done and undone.
+Hash: 24EC6278, Key: Callback20Header, Value: Face {MONSTER}
+Hash: D0A0975E, Key: Callback53Header, Value: Find a path to the Loom

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Zealot's Last
+Hash: A646FFA4, Key: Description, Value: Though the machinations of the High Heavens are a mystery to mortals, the martyrs will forever follow their divine command.
+Hash: 083EE0CE, Key: Quote, Value: Devotion even in the face of death.
+Hash: 13A53A8B, Key: Series, Value: "Fanatic Martyr" Accessories

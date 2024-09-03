@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Frostbitten
+Hash: 003892BF, Key: Desc, Value: Enemies hit by your {c_important}Stun Grenades{/c} have a chance equal to your Critical Strike Chance to be {c_important}{u}Frozen{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds. 
+
+You deal {c_random}[Affix_Value_1|%x|]{/c} increased Critical Strike Damage against {c_important}{u}Frozen{/u}{/c} or Stunned enemies.
+Hash: 82B7D312, Key: CodexDesc, Value: Your {c_important}Stun Grenades{/c} can {c_important}{u}Freeze{/u}{/c} enemies. You deal {c_random}[Affix_Value_1|%x|]{/c} increased Critical Strike Damage to {c_important}{u}Frozen{/u}{/c} or Stunned enemies.

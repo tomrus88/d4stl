@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Elements of Nemesis
+Hash: A646FFA4, Key: Description, Value: A vile container filled with decayed flesh, rotten eggs, and generally repulsive items.

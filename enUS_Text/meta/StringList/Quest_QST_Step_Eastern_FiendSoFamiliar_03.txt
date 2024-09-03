@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: More Than Meets the Eye
+Hash: 0871A46B, Key: Toast, Value: There's one more relic to find. Judging by the last two, I doubt this will be a walk in the park.
+Hash: 5CD6EA0D, Key: Phase8Description, Value: Rakhaan wants me to help him find the last of these malevolent relics. I'm not sure I really trust him.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Meet with Rahkaan at the Foothills of Saraan
+Hash: D29F0719, Key: Callback12Header, Value: Find and disable the Relic in Saraan Caldera

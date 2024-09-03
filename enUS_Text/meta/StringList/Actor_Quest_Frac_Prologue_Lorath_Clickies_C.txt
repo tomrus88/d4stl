@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Kettle
+Hash: F2CA04D8, Key: NoticeSignText, Value: Whatever is brewing smells awful.

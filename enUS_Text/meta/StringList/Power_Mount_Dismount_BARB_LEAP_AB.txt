@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: name, Value: Bounding Slam
+Hash: 003892BF, Key: desc, Value: Leap from your mount and pummel the ground twice, dealing {c_number}{altpayload:HITDAMAGE1}{/c} damage and Stunning enemies.

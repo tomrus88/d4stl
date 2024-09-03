@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Legion Killer
+Hash: 003892BF, Key: Desc, Value: Kill 666 Demons, Fallen, or Goatmen.
+Hash: 3DB42F5E, Key: Crit_240331, Value: Kill Demons
+Hash: 3DB42F5F, Key: Crit_240332, Value: Kill Fallen
+Hash: 3DB42F60, Key: Crit_240333, Value: Kill Goatman

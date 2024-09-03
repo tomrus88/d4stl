@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: World Boss Slayer
+Hash: 003892BF, Key: Desc, Value: Kill every World Boss.
+Hash: 3DA44C84, Key: Crit_234424, Value: Ashava Slain
+Hash: 3DA44C86, Key: Crit_234426, Value: Avarice Slain
+Hash: 3DA44C87, Key: Crit_234427, Value: Wandering Death Slain

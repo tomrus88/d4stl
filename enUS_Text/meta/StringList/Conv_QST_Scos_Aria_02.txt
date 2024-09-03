@@ -1,0 +1,2 @@
+Hash: 5D2A974D, Key: Line1.AF573, Value: Look at this! I think druids used this to train young acolytes. We should stop and see if we can find anything interesting. If we do, I can return it to the druids at Túr Dúlra.
+Hash: F71F10CF, Key: Line3.AF573, Value: Let's stop here, there's no point in wasting a guard.

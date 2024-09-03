@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How fares the city guard?"
+Hash: 5D82E84B, Key: Line1.FB732, Value: The new militia recruits have been training night and day. They deserve a little praise, but I can't let them see me as soft.
+Hash: 44719E8E, Key: Line4.FB732, Value: Mind giving them a cheer for me? Easy coin for you, a boost of confidence for the recruits, and I get to go on being the hard-ass. Everybody wins.

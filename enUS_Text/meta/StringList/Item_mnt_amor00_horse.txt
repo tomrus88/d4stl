@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Old Blanket
+Hash: A646FFA4, Key: Description, Value: It's not a real saddle, but it's better than nothing.

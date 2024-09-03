@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Prudent Heart
+Hash: 003892BF, Key: Desc, Value: After being damaged for at least {c_number}[Affix."Static Value 0"]%{/c} of your Maximum Life at once, you become {c_important}{u}Immune{/u}{/c} for {c_random}[Affix_Value_1|1|]{/c} seconds. Can only occur once every {c_number}[Affix_Value_2]{/c} seconds.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How's the mill?"
+Hash: 8EE1D597, Key: Line1.11EA71, Value: The mill breaks down so often we'd be better off with a damn mortar and pestle!

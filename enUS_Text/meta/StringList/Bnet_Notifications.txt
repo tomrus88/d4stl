@@ -1,0 +1,71 @@
+Hash: 15FD80CA, Key: TitleBlank, Value: 
+Hash: D5D81403, Key: DeleteHeroTitle, Value: Confirm Delete
+Hash: C6ED722A, Key: DeleteHeroConfirmation, Value: Do you want to delete?
+Hash: 08922665, Key: DeleteHeroDescription, Value: Type DELETE into the field to confirm.
+Hash: D17C20DE, Key: CreateHardcoreTitle, Value: Create Hardcore Character
+Hash: F52A48F2, Key: CreateHardcoreWarning, Value: Warning: Hardcore Deaths Are Permanent!
+Hash: C4212B80, Key: CreateHardcoreDescription, Value: Hardcore is not for the faint of heart. If this character dies, their death is permanent, and you will lose any equipped loot at the time of death. Fallen characters will not be revived under any circumstances.
+Hash: 3F86550C, Key: CreateHardcoreCreateButton, Value: Create
+Hash: 69C19F93, Key: LeaveGameWithParty, Value: Leave Game with Party
+Hash: C0D4B31D, Key: LeaveGameWithParty_LeaderGameStatus, Value: Current Game Ending
+Hash: FC15C288, Key: LeaveGameWithParty_NonLeaderGameStatus, Value: Party Leader Ending Current Game
+Hash: 15A1F3DF, Key: LeaveGameWithParty_NonLeaderReady, Value: Ready!
+Hash: 8D2777DB, Key: LeaveGameWithParty_NonLeaderReadyButton, Value: I'm Ready Now
+Hash: 917ADB4D, Key: ReportSpam, Value: Are you sure you want to report {s1} for spam?
+Hash: 6D25293B, Key: ReportInappropriateName, Value: Are you sure you want to report {s1} for an inappropriate BattleTag?
+Hash: A7BC9352, Key: ReportHarassment, Value: Are you sure you want to report {s1} for harassment?
+Hash: 86DDC068, Key: ReportRealLifeThreat, Value: Are you sure you want to report {s1} for a real-life threat?
+Hash: 8B462094, Key: ReportHarassmentTitle, Value: Report harassment from:
+Hash: 327CEB6A, Key: ReportRealLifeThreatTitle, Value: Report a real-life threat from:
+Hash: A12ADCED, Key: ReportRealLifeThreatMessage, Value: Please leave a comment to help resolve the nature of the threat.
+Hash: 51160497, Key: ReportHarassmentMessage, Value: Please leave a comment to help resolve the type of harrassment.
+Hash: B45C4218, Key: ReportButton, Value: Send Report
+Hash: D4574729, Key: ReportPlayer, Value: Report Player
+Hash: BEC73D1F, Key: LogoutText, Value: Leaving game...
+Hash: 97B100DC, Key: LogoutTitle, Value: Leave Now
+Hash: 71572072, Key: LostConnection, Value: Lost Connection
+Hash: 0A4AEFE9, Key: LeaveGameTitle, Value: Leave Game?
+Hash: 40E257D5, Key: ReportPlayerCharacterLimit, Value: Your report cannot be more than {s1} characters long.
+Hash: B48E512A, Key: LeaveGameAndParty, Value: Leave Game and Party?
+Hash: 1FC17A0C, Key: ErrorTitle, Value: Error
+Hash: 7E528F2E, Key: ExitNow, Value: Exit Now
+Hash: 5D9C5CFC, Key: ExitTitle, Value: Exit Diablo III
+Hash: 48A7953F, Key: ExitText, Value: Exiting game...
+Hash: DF288D91, Key: StartGamePendingInvitesTitle, Value: There Are Pending Invites
+Hash: 2747A4D4, Key: StartGamePendingInvitesMessage, Value: Starting a game will revoke all pending invites. Do you really want to start a game?
+Hash: 18B80169, Key: ReportInappropriateHeroName, Value: Are you sure you want to report {s1} for an inappropriate character name?
+Hash: 0C9F958D, Key: FindSafety, Value: Find Safety.
+Hash: 7E699254, Key: InvisibleConfirmationSendButton, Value: Send
+Hash: 7D08321A, Key: InvisibleConfirmationSendWhisper, Value: This will change your status to online. 
+Send message?
+Hash: 4C917657, Key: InvisibleConfirmationSendPartyInvite, Value: This will change your status to online. 
+Send party invite?
+Hash: 26F850AD, Key: InvisibleConfirmationRequestForInvite, Value: This will change your status to online. 
+Send request for invite?
+Hash: 31E57833, Key: ReportBotting, Value: Are you sure you want to report {s1} for botting?
+Hash: 86D557DF, Key: ReportNewsPost, Value: Are you sure you want to report this news post written by {s1} as inappropriate?
+Hash: 5900A9CB, Key: GameMenu_LowerDifficulty_Title, Value: Lower Difficulty
+Hash: 7797B78E, Key: GameMenu_LowerDifficulty_Message, Value: Are you sure you want to lower the difficulty? 
+Lower to: {s1}
+Hash: 472B8DFB, Key: ReportClanName, Value: Are you sure you want to report {s1} for an inappropriate clan name?
+Hash: CE489DEA, Key: ReportGroupName, Value: Are you sure you want to report {s1} for an inappropriate community name?
+Hash: F95DCBB6, Key: GameMenu_RaiseDifficulty_Title, Value: Raise Difficulty
+Hash: A3C50039, Key: GameMenu_RaiseDifficulty_Message, Value: Are you sure you want to raise the difficulty? 
+Raise to: {s1}
+Hash: 1111AB9E, Key: ReportClanDescription, Value: Are you sure you want to report {s1} for an inappropriate clan description?
+Hash: 427D98AD, Key: ReportGroupDescription, Value: Are you sure you want to report {s1} for an inappropriate community description?
+Hash: 5C788009, Key: ExitDelay, Value: Exiting game in {c:FFbf6b31}{s1}s
+Hash: 758824B8, Key: CharacterNameFlagged, Value: The name {c_highlight}{s1}{/c} was flagged as {c_highlight}inappropiate.{/c} This must be changed from the character select screen.
+Hash: 47EBA439, Key: CharacterNameFlagged2ndTimeBody, Value: The name ‘{s1}’ was flagged as inappropriate and must be changed. 
+
+Note as this is your {c_highlight}second time{/c} having your character name flagged, the next time this happens you will be {c_highlight}lose naming privileges{/c} and only able to have {c_highlight}randomized default names{/c} going forward.
+Hash: 92336366, Key: CharacterNameFlaggedBody, Value: You are required to enter a new name for the character ‘{s1}’. Please follow the Code of Conduct. Entering offensive content can result in the {c_highlight}loss of naming privileges{/c} or other {c_highlight}account penalties, including suspension.{/c}
+Hash: D8E50FC2, Key: CharacterNameFlaggedFinal, Value: Your {c_highlight}character name{/c} was flagged as {c_highlight}inappropiate.{/c} A random name has been given to your character.
+Hash: 24E6ACFF, Key: CharacterNameFlaggedFinalTimeBody, Value: The name ‘{s1}’ was flagged as inappropiate and has been replaced 
+
+Note as this is your {c_highlight}third time{/c} having your character name flagged, a random name has been applied and going forward {c_highlight}only randomized{/c} names can be used.
+Hash: D9E281BA, Key: CharacterNameFlaggedTitle, Value: Character Name Flagged
+Hash: 4636D207, Key: ClientPatchNoticeWarning, Value: {c_highlight}A new update is available. Update now to avoid any interruption.{/c}
+To update close the game and download the latest version.
+Hash: F1F9495B, Key: ClientPatchNoticeSystemMessage, Value: {c_highlight}A new update is available. Update now to avoid any interruption.{/c}
+To update close the game and download the latest version.

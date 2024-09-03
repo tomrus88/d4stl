@@ -1,0 +1,9 @@
+Hash: DD0D3424, Key: Callback77Header, Value: Rejoin Petr
+Hash: E26052C2, Key: Callback84Header, Value: Begin the exorcism
+Hash: 0F2FC79E, Key: Callback71Header, Value: Slay the Carvers
+Hash: 7C54CC44, Key: Callback86Header, Value: Continue the exorcism
+Hash: 56D6E5C1, Key: Callback65Header, Value: Slay {MONSTER}
+Hash: 164945C6, Key: Callback88Header, Value: Finish the exorcism
+Hash: BCE26C3F, Key: Callback63Header, Value: Speak with Sister Octavia
+Hash: 003DFCC1, Key: Name, Value: Faith in Blood
+Hash: 34ADAE21, Key: Callback92Header, Value: Rejoin Petr

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Lion's Share
+Hash: A646FFA4, Key: Description, Value: The Lion returned bearing gifts to help rebuild his barbarian tribe.
+Hash: 083EE0CE, Key: Quote, Value: The greater share must be earned.
+Hash: 13A53A8B, Key: Series, Value: "The Lion of Arreat" Accessories

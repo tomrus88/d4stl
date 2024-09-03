@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Obsidian Beast
+Hash: A646FFA4, Key: Description, Value: Found in the depths of an Ennead Clan ruin, this armor is a masterwork of transmutation—the bones of a bear, petrified with volcanic rock and extruded into fearsome, black shards. With a warrior inside, this was as close to a demon as the Ennead could conjure.
+Hash: 083EE0CE, Key: Quote, Value: Sharper than honed steel.
+Hash: 13A53A8B, Key: Series, Value: Prestige Barbarian Equipment

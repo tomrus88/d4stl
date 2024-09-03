@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: “Fight for Your Faith”
+Hash: F2CA04D8, Key: NoticeSignText, Value: “Strong are those who stand in the Light. Stronger yet those who fight alongside him!”

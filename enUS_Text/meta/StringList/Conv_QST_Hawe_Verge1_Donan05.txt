@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Are you ready?"
+Hash: 2B0730F2, Key: Line7.ACEF6, Value: (distant howling)
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: Do you hear that? How strange...are there wolves in Hawezar?
+Hash: FD25A59B, Key: VoiceDir5.7FA05, Value: Hearing a wolf growling from somewhere--but not seeing any wolf around.

@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Mold-spotted Journal Fragment
+Hash: CC3C0A8F, Key: FlavorText, Value: A decayed fragment from a Cecil's journal.
+Hash: F2CA04D8, Key: NoticeSignText, Value: I saw Eadar again at the shoals. She said nothing to me, only stared at me with the same eyes I see looking out of our daughter’s face. 
+I think I prefer the yelling and pleading. In her silence I can hear my own guilt, and it is unbearable.

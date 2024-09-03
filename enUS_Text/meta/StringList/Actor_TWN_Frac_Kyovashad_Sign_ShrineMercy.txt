@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Shrine of Mercy
+Hash: F2CA04D8, Key: NoticeSignText, Value: A plaque at the shrine reads: “Take one stick of incense and place it in the fire. The Father will see your offering and show mercy to any of your loved ones that are ill.”

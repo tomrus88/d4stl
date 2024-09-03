@@ -1,0 +1,2 @@
+Hash: A7490B65, Key: Buff11_Name, Value: Lethal Dusk
+Hash: 86C2ADC8, Key: Buff11_Description, Value: Increased Life on Kill from breaking {c_important}{u}Stealth{/u}{/c}.

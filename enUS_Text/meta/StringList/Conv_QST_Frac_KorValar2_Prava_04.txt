@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What does the prophecy say?"
+Hash: F409EBD9, Key: Line3.710B6, Value: From the Father’s voice to my ears: “A spear of Light, piercing Hatred’s heart.” First Lilith, then the Primes.
+Hash: 8DFE655B, Key: Line5.710B6, Value: He will deliver us from the Eternal Conflict.

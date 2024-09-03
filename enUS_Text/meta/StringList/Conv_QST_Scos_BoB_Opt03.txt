@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What happened to Brione?"
+Hash: 5D201C8E, Key: Line1.B20BA, Value: It was consumed by fire in the months that followed Astaroth’s defeat. Some thought the demon had returned. Others were wiser.
+Hash: CC2982BB, Key: VoiceDir1.B20BA, Value: grim, earnest
+Hash: F7149610, Key: Line3.B20BA, Value: Blackweald Company visited the town the day it burned. The charred remains proved their hand in the deed.
+Hash: 661DFC3D, Key: VoiceDir3.B20BA, Value: cold, earnest
+Hash: 91090F92, Key: Line5.B20BA, Value: Strong souls who had survived so much… all extinguished by day’s rise.
+Hash: 001275BF, Key: VoiceDir5.B20BA, Value: grim, somber

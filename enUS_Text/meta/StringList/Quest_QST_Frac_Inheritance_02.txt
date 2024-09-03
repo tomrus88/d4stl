@@ -1,0 +1,8 @@
+Hash: 003DFCC1, Key: Name, Value: Legacy Unmade
+Hash: 0871A46B, Key: Toast, Value: Find Parin near the Sanctified Study to sunder the cursed axe. 
+Hash: D53BFF05, Key: Phase0Description, Value: A priest named Parin has asked me to meet him at his study where we can  sunder the Woodsman's Axe. 
+Hash: EC8B1AEE, Key: Callback8Header, Value: Meet the Parin in the Crags of Ill Wind
+Hash: F4A9EC5A, Key: Phase14Description, Value: A priest named Parin has asked me to meet him at his study where we can  sunder the Woodsman's Axe. 
+Hash: 24EC6278, Key: Callback20Header, Value: Enter the Sanctified Study
+Hash: 07D66B5F, Key: Phase28Description, Value: A priest named Parin has asked me to meet him at his study where we can  sunder the Woodsman's Axe. 
+Hash: 112E3759, Key: Callback30Header, Value: Meet the Parin in the Crags of Ill Wind

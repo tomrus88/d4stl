@@ -1,0 +1,4 @@
+Hash: 5D691C7C, Key: Line1.F34FB, Value: Please! You have to help! He's out there somewhere!
+Hash: CC7282A9, Key: VoiceDir1.F34FB, Value: Manic. Your son is the most important thing in the world to you and he's been missing for days
+Hash: 67657E9A, Key: Line3.11EA18, Value: I'm sorry Damen, we just don't have the folks to go searching for every boy who's stayed out past his bedtime. He'll turn up, I'm sure of it.
+Hash: B79BAA67, Key: VoiceDir3.11EA18, Value: Empathetic, but pragmatic. Trying to talk a frightened father off the emotional cliff. Kids go 'missing' often, and return home safe after a few hours.

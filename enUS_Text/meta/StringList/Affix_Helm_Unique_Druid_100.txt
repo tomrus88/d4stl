@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} {c_important}Storm{/c} Skills have up to a {c_random}[Affix_Value_1|%|]{/c} chance to grant {c_number}[Affix."Static Value 0"]{/c} Spirit.
+
+Your base {c_important}Storm{/c} Skills are now also {c_important}Werewolf{/c} Skills.

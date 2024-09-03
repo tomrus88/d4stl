@@ -1,0 +1,3 @@
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Ah, the old workshop. Lorath, Elias, and I would spend days on end cooped up in here. Experimenting, debating.
+Hash: C93CB297, Key: VoiceDir1.7FA05, Value: Hint of nostalgia. Being here brings back memories. Downplay the very last sentence, almost like an aside.
+Hash: F427C5EC, Key: Line3.7FA05, Value: Nothing to hold us back but our own imaginations...and how much of each other we could tolerate.

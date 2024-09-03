@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Deathspeaker's Pendant
+Hash: F5C7BC0A, Key: Flavor, Value: Once a sanctum for Rathma's studies, the Temple of the Deathspeaker became a proving grounds for potential leaders of his priesthood. Its halls are filled with the corpses of those who failed.

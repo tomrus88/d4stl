@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Shooting Star
+Hash: A646FFA4, Key: Description, Value: Guided by the magical light of the moon, magi of the Court arrive swiftly and unerringly at their destinations.
+Hash: 083EE0CE, Key: Quote, Value: A streak of light illuminating the path.
+Hash: 13A53A8B, Key: Series, Value: "Celestial Court" Mount Armor

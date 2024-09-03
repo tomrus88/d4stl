@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Shifty Swipes
+Hash: 003892BF, Key: Desc, Value: Kill 50 enemies in Werebear form and 50 enemies in Werewolf form as a Druid. 
+Hash: 3DA4E563, Key: Crit_235701, Value: Werebear Kills
+Hash: 3DA4E564, Key: Crit_235702, Value: Werewolf Kills

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Gaping Crevasse
+Hash: 003892BF, Key: Desc, Value: Fetid air billows from a ravine in the desert.

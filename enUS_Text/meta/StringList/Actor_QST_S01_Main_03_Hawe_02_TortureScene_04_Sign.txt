@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Inquisition Log - Day 112
+Hash: F2CA04D8, Key: NoticeSignText, Value: "It's over. We've created the perfect cage to kill these monsters, and only kill. 
+May no more succumb to this fate. Akarat guide us all."

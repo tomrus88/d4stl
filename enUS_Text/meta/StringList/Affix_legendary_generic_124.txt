@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of Frosty Strides
+Hash: 003892BF, Key: Desc, Value: While below {c_random}[Affix_Value_1|%|]{/c} Life, {c_important}Evade{/c} {c_important}{u}Freezes{/u}{/c} Close enemies, deals {c_number}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * (1 + Owner.Main_Hand_Damage_Percent_Bonus) * Affix_Value_2]{/c} Cold damage to them, and makes them {c_important}{u}Vulnerable{/u}{/c} for {c_number}[Affix."Static Value 0"]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: While below {c_random}[Affix_Value_1|%|]{/c} Life, {c_important}Evade{/c} {c_important}{u}Freezes{/u}{/c}, deals damage, and applies {c_important}{u}Vulnerable{/u}{/c}.

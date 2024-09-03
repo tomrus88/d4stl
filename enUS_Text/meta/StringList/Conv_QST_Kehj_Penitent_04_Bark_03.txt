@@ -1,0 +1,2 @@
+Hash: 8EEB85E0, Key: Line1.136591, Value: This is the place. Let's finish this business.
+Hash: DF21B1AD, Key: VoiceDir1.136591, Value: Calmer, determined. 

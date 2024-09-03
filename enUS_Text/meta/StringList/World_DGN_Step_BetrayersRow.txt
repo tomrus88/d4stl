@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Betrayer's Row
+Hash: 003892BF, Key: Desc, Value: The twisted remains of a town driven mad by envy. 

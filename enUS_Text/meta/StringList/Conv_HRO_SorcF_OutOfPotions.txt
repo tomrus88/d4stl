@@ -1,0 +1,3 @@
+Hash: 62C1910C, Key: Line13.BAE4.Sor.F, Value: I do not have any potions.
+Hash: 93B4EE6D, Key: Line14.BAE4.Sor.F, Value: I'm out of potions.
+Hash: C4A84BCE, Key: Line15.BAE4.Sor.F, Value: I have no potions.

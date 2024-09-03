@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Quest 05 - Recipe Gizmo
+Hash: 0871A46B, Key: Toast, Value: Quest 05 - Recipe Gizmo

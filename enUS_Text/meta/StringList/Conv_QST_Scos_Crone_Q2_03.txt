@@ -1,0 +1,11 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Shob'ha sent me."
+Hash: 5D28A609, Key: Line1.AAE9B, Value: Is she still alive? Huh, what is she up to now?
+Hash: CC320C36, Key: VoiceDir1.AAE9B, Value: Annoyed
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Here, have a look.
+Hash: 26CB1034, Key: VoiceDir5.BAE4, Value: Serious
+Hash: 2B06128F, Key: Line7.AAE9B, Value: Curses! Keep that away! That’s wild magic. In the old days, it would turn entire lands barren.
+Hash: 9A0F78BC, Key: VoiceDir7.AAE9B, Value: alarmed, worried
+Hash: C4FA8C11, Key: Line9.AAE9B, Value: The elders developed a ritual to contain its spread. Now, eh, where was that scroll...
+Hash: 3403F23E, Key: VoiceDir9.AAE9B, Value: thinking
+Hash: 72338A1A, Key: Line11.AAE9B, Value: Ah, right. It would be in the old archives, which are currently overrun with fiends. Clear them out and I'll help you find the scroll.
+Hash: C269B5E7, Key: VoiceDir11.AAE9B, Value: Remembering the unfortunate situation

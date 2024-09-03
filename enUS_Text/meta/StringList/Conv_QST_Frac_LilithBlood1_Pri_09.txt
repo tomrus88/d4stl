@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You said I would see the truth, but all I see here is a burnt out town."
+Hash: 8F20EA94, Key: Line1.163AA1, Value: If you do not look, you will not see! Search for a... ritual blade, or the demon’s blood. Something of the faithless, something you can touch.
+Hash: DF571661, Key: VoiceDir1.163AA1, Value: Emphasis: not

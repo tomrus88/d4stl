@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Play For Keeps 
+Hash: 3A4912CF, Key: DescShort, Value: Defeat Malphas, Keeper of the Vault, available after completing or skipping the Campaign

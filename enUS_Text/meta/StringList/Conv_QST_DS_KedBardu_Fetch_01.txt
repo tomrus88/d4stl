@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You look troubled."
+Hash: DE4FCFFA, Key: Line6.F8D66, Value: Five times. Five times this month those brigands have plundered incoming caravans. I care little for the stolen gold and spices, but those vultures take the food as well!
+Hash: 4D593627, Key: VoiceDir6.F8D66, Value: Anger and desperation.
+Hash: 257D4785, Key: Line10.F8D66, Value: Now those knaves gorge on our food while I watch my children waste away. Please, if you can recover any supplies, I’ll personally see that your coin purse is filled.
+Hash: 75B37352, Key: VoiceDir10.F8D66, Value: Grief, desperation and bargening.

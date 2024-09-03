@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Untimely Death
+Hash: 003892BF, Key: Desc, Value: Each percent of your Maximum Life you Heal beyond {c_number}[Affix."Static Value 0"|%|]{/c} grants you {c_number}[Affix."Static Value 1" * 100|1%x|]{/c} bonus Critical Strike Damage on your next Critical Strike, up to a {c_random}[Affix_Value_1|%x|]{/c} bonus.
+
+You may now drink your Healing Potion while at full Life.
+Hash: 82B7D312, Key: CodexDesc, Value: Each percent of your Maximum Life you Heal beyond {c_number}[Affix."Static Value 0"|%|]{/c} grants you {c_number}[Affix."Static Value 1" * 100|1%x|]{/c} bonus Critical Strike Damage on your next Critical Strike.

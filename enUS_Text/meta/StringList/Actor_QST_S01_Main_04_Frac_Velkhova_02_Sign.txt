@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Writing in Blood
+Hash: F2CA04D8, Key: NoticeSignText, Value: Dried and fading blood spells out, "FREED FROM SIN."

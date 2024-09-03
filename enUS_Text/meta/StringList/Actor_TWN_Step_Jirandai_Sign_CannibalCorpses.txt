@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Dead Cannibals
+Hash: F2CA04D8, Key: NoticeSignText, Value: Cannibals have been testing the city's northern defenses. These got well past the barricades before they fell.

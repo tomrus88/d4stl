@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Are you ready to face your fears?”
+Hash: 27F6DBFD, Key: Line7.789BF, Value: I don’t know…but I will try.
+Hash: F40DE8F9, Key: Line3.789BF, Value: You should know that this ritual will be dangerous for both of us.
+Hash: C1EB557F, Key: Line9.789BF, Value: If you are still willing to join me, stare into the flames. Let them carry you into my memories…

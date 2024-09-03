@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Champion's Cache
+Hash: A646FFA4, Key: Description, Value: Contains a number of late game resources, Scattered Prisms, Shattered Stone, Pearls of Warding and 925 Item Power Ancestral Legendary Items.

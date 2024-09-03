@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Apparition Cage
+Hash: 13A53A8B, Key: Series, Value: "Specter Adrift"

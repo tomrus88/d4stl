@@ -1,0 +1,4 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Lorath didn’t say much about his relationship with Elias.”
+Hash: 5A334C6A, Key: Line1.7FA05, Value: Don’t expect him to be forthcoming. Elias was only the second person Lorath ever managed to get along with. Obviously, it didn’t last.
+Hash: E2468CE9, Key: Line7.BAE4, Value: Who was the first?
+Hash: 8E1C3F6E, Key: Line5.7FA05, Value: That would be me.

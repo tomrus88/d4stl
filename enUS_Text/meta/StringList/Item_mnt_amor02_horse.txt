@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Brigandine Barding
+Hash: A646FFA4, Key: Description, Value: Fairly lightweight iron-and-leather defensive tack for one's mount.

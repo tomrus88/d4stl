@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Eaglehorn
+Hash: F5C7BC0A, Key: Flavor, Value: (PH) Unique Item Flavor Text

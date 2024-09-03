@@ -1,0 +1,2 @@
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Wait. Do you hear something?
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: Concerned

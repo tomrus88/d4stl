@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Midwinter Spoils
+Hash: A646FFA4, Key: Description, Value: A cache containing a collection of valuable rewards such as Armor, Gem Fragments, and a potential dose of Gileon's Brew.
+Hash: F5C7BC0A, Key: Flavor, Value: The people of Kyovashad thank you and, with this, make a request: Continue to stave off the Blight.

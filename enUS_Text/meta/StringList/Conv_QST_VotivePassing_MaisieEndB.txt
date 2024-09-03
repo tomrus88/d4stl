@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Airidah thought it was a necessary price to prepare for what is to come.”
+Hash: 5A28B31F, Key: Line1.8354D, Value: Dad says you can’t reach the road ahead if you forget to mind your feet.
+Hash: C932194C, Key: VoiceDir1.8354D, Value: Confident
+Hash: F41D2CA1, Key: Line3.8354D, Value: So… how do you reach the road if you lose your feet?
+Hash: 632692CE, Key: VoiceDir3.8354D, Value: Childlike confusion
+Hash: 8E11A623, Key: Line5.8354D, Value: (sigh) I hope she sees the wrong now.
+Hash: FD1B0C50, Key: VoiceDir5.8354D, Value: Somber, somewhat hopeful

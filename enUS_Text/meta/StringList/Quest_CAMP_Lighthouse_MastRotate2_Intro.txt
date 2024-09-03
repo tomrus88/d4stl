@@ -1,0 +1,3 @@
+Hash: DD0D3424, Key: Callback77Header, Value: Return the Winch to the Broken Mast
+Hash: AE775FBE, Key: Callback80Header, Value: Return the Winch to the Broken Mast
+Hash: C94F0905, Key: Callback87Header, Value: Find the missing Winch

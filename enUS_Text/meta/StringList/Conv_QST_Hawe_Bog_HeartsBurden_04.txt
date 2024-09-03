@@ -1,0 +1,10 @@
+Hash: 730059E6, Key: Line1.BAE4.Bar, Value: Snake bites. At least he died with a blade in his hand.
+Hash: A970ACF3, Key: VoiceDir1.BAE4.Bar, Value: Sadness. A child has died fighting off snakes.
+Hash: 7300649C, Key: Line1.BAE4.Dru, Value: Snake venom. The poor child died quickly.
+Hash: A970B7A9, Key: VoiceDir1.BAE4.Dru, Value: Sadness. A child has died fighting off snakes.
+Hash: 73008D67, Key: Line1.BAE4.Nec, Value: The body is cold and covered in snake bites. It has lain here a while.
+Hash: A970E074, Key: VoiceDir1.BAE4.Nec, Value: Sadness. A child has died fighting off snakes.
+Hash: 73009FB9, Key: Line1.BAE4.Rog, Value: Snakes. At least he took a few of the bastards with him. Good lad.
+Hash: A970F2C6, Key: VoiceDir1.BAE4.Rog, Value: Sadness. A child has died fighting off snakes.
+Hash: 7300A405, Key: Line1.BAE4.Sor, Value: The snakes must have attacked in great numbers. Poor child.
+Hash: A970F712, Key: VoiceDir1.BAE4.Sor, Value: Sadness. A child has died fighting off snakes.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Barrels and Vases
+Hash: F2CA04D8, Key: NoticeSignText, Value: Filled with various foods and supplies to guard against the harsh conditions.

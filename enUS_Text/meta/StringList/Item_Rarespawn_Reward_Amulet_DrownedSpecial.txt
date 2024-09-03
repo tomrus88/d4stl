@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Blind Man's Bell
+Hash: F5C7BC0A, Key: Flavor, Value: "Even after he was put to death, some children swore they could still hear his bell ringing softly in the breeze on moonless nights."
+- Greenslade's Tales, Chapter 5: "The Myth of Blind Odwyn"

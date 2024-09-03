@@ -1,0 +1,3 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Aneta
+Hash: 5D6A2C9D, Key: Line1.F52ED, Value: Agh, damn it, stop fighting me! I can heal--
+Hash: CC7392CA, Key: VoiceDir1.F52ED, Value: Frustrated. Your mother is dying and you are trying to help but she is fighting you off.

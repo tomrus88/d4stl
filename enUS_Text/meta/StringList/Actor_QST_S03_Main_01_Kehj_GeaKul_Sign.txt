@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Piled Ropes
+Hash: F2CA04D8, Key: NoticeSignText, Value: Ropes for binding. The townsfolk must expect the worst.

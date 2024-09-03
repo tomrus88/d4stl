@@ -1,0 +1,946 @@
+Hash: 78AB02DD, Key: FrozenSuffix004, Value:  Frostburn
+Hash: 01D89194, Key: ElectricLanceSuffix001, Value:  Boltrend
+Hash: 91F6D8F6, Key: FireEnchantedSuffix001, Value:  Flamefinger
+Hash: A67A5B96, Key: ColdEnchantedSuffix005, Value:  Icelust
+Hash: A67A5B92, Key: ColdEnchantedSuffix001, Value:  Icefist
+Hash: 78AB02DA, Key: FrozenSuffix001, Value:  Frostgrip
+Hash: 12E70A36, Key: ShadowEnchantedSuffix001, Value:  Nightrend
+Hash: 081AE015, Key: VampiricEnrageSuffix003, Value:  Bloodrazor
+Hash: 00FEB1FB, Key: MortarSuffix001, Value:  Firemaw
+Hash: 232C274E, Key: SuppressorSuffix003, Value:  Ironshield
+Hash: 3D196728, Key: PoisonEnchantedSuffix001, Value:  Rothusk
+Hash: 081AE016, Key: VampiricEnrageSuffix004, Value:  Bloodfang
+Hash: 184A9D3C, Key: SummonerSuffix001, Value:  Blightcall
+Hash: 184A9D3D, Key: SummonerSuffix002, Value:  Doomcaller
+Hash: 3D196729, Key: PoisonEnchantedSuffix002, Value:  Pusblister
+Hash: 12E70A37, Key: ShadowEnchantedSuffix002, Value:  Shadowtouch
+Hash: 081AE013, Key: VampiricEnrageSuffix001, Value:  Gorethief
+Hash: 081AE014, Key: VampiricEnrageSuffix002, Value:  Razorpulse
+Hash: 0EFBDAB0, Key: MultishotSuffix002, Value:  Deadshot
+Hash: 0EFBDAB1, Key: MultishotSuffix003, Value:  Raplikashu
+Hash: 78AB02DB, Key: FrozenSuffix002, Value:  Hoarfrost
+Hash: 78AB02DC, Key: FrozenSuffix003, Value:  Frostbite
+Hash: 00FEB1FC, Key: MortarSuffix002, Value:  Flarebang
+Hash: 00FEB1FD, Key: MortarSuffix003, Value:  Flaregut
+Hash: 47E870B4, Key: ChaosSuffix001, Value:  Mindbreaker
+Hash: 47E870B5, Key: ChaosSuffix002, Value:  Dreadlust
+Hash: 47E870B6, Key: ChaosSuffix003, Value:  Dreadtouch
+Hash: 025DB322, Key: ChillingWindSuffix001, Value:  Gustraze
+Hash: 025DB323, Key: ChillingWindSuffix002, Value:  Bitewind
+Hash: 025DB324, Key: ChillingWindSuffix003, Value:  Deathwind
+Hash: 01D89195, Key: ElectricLanceSuffix002, Value:  Boltcrawler
+Hash: 01D89196, Key: ElectricLanceSuffix003, Value:  Shockweaver
+Hash: 91F6D8F7, Key: FireEnchantedSuffix002, Value:  Burntfist
+Hash: 91F6D8F8, Key: FireEnchantedSuffix003, Value:  Flamemaw
+Hash: 9EE19B42, Key: FireOrbsSuffix001, Value:  Blisterskin
+Hash: 9EE19B43, Key: FireOrbsSuffix002, Value:  Infernum
+Hash: 9EE19B44, Key: FireOrbsSuffix003, Value:  Infernoblight
+Hash: A67A5B95, Key: ColdEnchantedSuffix004, Value:  Shivermaw
+Hash: A67A5B93, Key: ColdEnchantedSuffix002, Value:  Iceblade
+Hash: A67A5B94, Key: ColdEnchantedSuffix003, Value:  Shiverstriker
+Hash: E9B02937, Key: LightningEnchantedSuffix004, Value:  Deathflash
+Hash: E9B02938, Key: LightningEnchantedSuffix005, Value:  Skystriker
+Hash: E9B02934, Key: LightningEnchantedSuffix001, Value:  Sparktouch
+Hash: E9B02935, Key: LightningEnchantedSuffix002, Value:  Sparkfist
+Hash: E9B02936, Key: LightningEnchantedSuffix003, Value:  Sparklasher
+Hash: 1F93B966, Key: LightningTotemsSuffix001, Value:  Meatcrisper
+Hash: 1F93B967, Key: LightningTotemsSuffix002, Value:  Stormkiller
+Hash: 1F93B968, Key: LightningTotemsSuffix003, Value:  Stormbender
+Hash: 6D111295, Key: PlaguebearerSuffix001, Value:  Bilespew
+Hash: 6D111296, Key: PlaguebearerSuffix002, Value:  Wormgut
+Hash: 6D111297, Key: PlaguebearerSuffix003, Value:  Goretaint
+Hash: 3D19672A, Key: PoisonEnchantedSuffix003, Value:  Sloughskin
+Hash: 184A9D3E, Key: SummonerSuffix003, Value:  Doomspawn
+Hash: 232C274C, Key: SuppressorSuffix001, Value:  Blockheart
+Hash: 232C274D, Key: SuppressorSuffix002, Value:  Peacestopper
+Hash: D6DCE6EC, Key: TeleporterSuffix001, Value:  Evershift
+Hash: D6DCE6ED, Key: TeleporterSuffix002, Value:  Blinkswift
+Hash: D6DCE6EE, Key: TeleporterSuffix003, Value:  Thunderstroke
+Hash: 9038F972, Key: TetherSuffix001, Value:  Cagemaster
+Hash: 9038F973, Key: TetherSuffix002, Value:  Preymaker
+Hash: 9038F974, Key: TetherSuffix003, Value:  Chainbinder
+Hash: EC33C98E, Key: VortexSuffix001, Value:  Coldshank
+Hash: EC33C98F, Key: VortexSuffix002, Value:  Snowblast
+Hash: EC33C990, Key: VortexSuffix003, Value:  Coldclaw
+Hash: D5E385AD, Key: WallerSuffix001, Value:  Earthshaker
+Hash: D5E385AE, Key: WallerSuffix002, Value:  Gravemaker
+Hash: D5E385AF, Key: WallerSuffix003, Value:  Doomtrap
+Hash: 025DB325, Key: ChillingWindSuffix004, Value:  Windshifter
+Hash: 025DB326, Key: ChillingWindSuffix005, Value:  Windbender
+Hash: 025DB327, Key: ChillingWindSuffix006, Value:  Windweaver
+Hash: 1F93B96B, Key: LightningTotemsSuffix006, Value:  Stormeye
+Hash: D6DCE6EF, Key: TeleporterSuffix004, Value:  Thunderfist
+Hash: D6DCE6F0, Key: TeleporterSuffix005, Value:  Thundershifter
+Hash: D6DCE6F1, Key: TeleporterSuffix006, Value:  Thunderdancer
+Hash: E9B02939, Key: LightningEnchantedSuffix006, Value:  Sparkburn
+Hash: E9B0293A, Key: LightningEnchantedSuffix007, Value:  Sparkcall
+Hash: E9B0293B, Key: LightningEnchantedSuffix008, Value:  Sparkspawn
+Hash: 1F93B969, Key: LightningTotemsSuffix004, Value:  Stormlasher
+Hash: D5D31B0E, Key: FallenGenericPrefix001, Value: Colenzo
+Hash: D5D31B0F, Key: FallenGenericPrefix002, Value: Syn
+Hash: 3D19672B, Key: PoisonEnchantedSuffix004, Value:  Rotthruster
+Hash: 081AE017, Key: VampiricEnrageSuffix005, Value:  Bloodpulse
+Hash: 3D19672C, Key: PoisonEnchantedSuffix005, Value:  Wretchbane
+Hash: EC33C991, Key: VortexSuffix004, Value:  Glacium
+Hash: 6D111298, Key: PlaguebearerSuffix004, Value:  Plaguespew
+Hash: 081AE018, Key: VampiricEnrageSuffix006, Value:  Doomblood
+Hash: 1F93B96A, Key: LightningTotemsSuffix005, Value:  Stormfeast
+Hash: 937D70C1, Key: KnightGenericPrefix001, Value: Sir Giles
+Hash: 937D70C2, Key: KnightGenericPrefix002, Value: Roulf
+Hash: 937D70C3, Key: KnightGenericPrefix003, Value: Sir Roulf
+Hash: 937D70C4, Key: KnightGenericPrefix004, Value: Commander Roulf
+Hash: 937D70C5, Key: KnightGenericPrefix005, Value: Captain Roulf
+Hash: 937D70C6, Key: KnightGenericPrefix006, Value: Lord Roulf
+Hash: 937D70C7, Key: KnightGenericPrefix007, Value: Lieutenant Roulf
+Hash: 937D70C8, Key: KnightGenericPrefix008, Value: Sir Frederic
+Hash: 937D70C9, Key: KnightGenericPrefix009, Value: Sir Jurdi
+Hash: 937D70E1, Key: KnightGenericPrefix010, Value: Sir Hughoc
+Hash: 937D70E2, Key: KnightGenericPrefix011, Value: Sir Evrat
+Hash: 937D70E3, Key: KnightGenericPrefix012, Value: Sir Bertelemi
+Hash: 937D70E4, Key: KnightGenericPrefix013, Value: Adinet
+Hash: 937D70E5, Key: KnightGenericPrefix014, Value: Evrat
+Hash: 937D70E6, Key: KnightGenericPrefix015, Value: Bertelemi
+Hash: 937D70E7, Key: KnightGenericPrefix016, Value: Fouques
+Hash: 937D70E8, Key: KnightGenericPrefix017, Value: Isemberd
+Hash: 937D70E9, Key: KnightGenericPrefix018, Value: Frederic
+Hash: 937D70EA, Key: KnightGenericPrefix019, Value: Jurdi
+Hash: 937D7102, Key: KnightGenericPrefix020, Value: Gylbard
+Hash: 937D7103, Key: KnightGenericPrefix021, Value: Gualtier
+Hash: 937D7104, Key: KnightGenericPrefix022, Value: Barnabas
+Hash: 937D7105, Key: KnightGenericPrefix023, Value: Odinel
+Hash: 937D7106, Key: KnightGenericPrefix024, Value: Bersaba
+Hash: 937D7107, Key: KnightGenericPrefix025, Value: Houdouyn
+Hash: 937D7108, Key: KnightGenericPrefix026, Value: Yda
+Hash: 937D7109, Key: KnightGenericPrefix027, Value: Cedany
+Hash: 937D710A, Key: KnightGenericPrefix028, Value: Commander Frederic
+Hash: 937D710B, Key: KnightGenericPrefix029, Value: Commander Jurdi
+Hash: 937D7123, Key: KnightGenericPrefix030, Value: Commander Adinet
+Hash: 937D7124, Key: KnightGenericPrefix031, Value: Commander Evrat
+Hash: 937D7125, Key: KnightGenericPrefix032, Value: Commander Bertelemi
+Hash: 937D7129, Key: KnightGenericPrefix036, Value: Commander Gylbard
+Hash: 937D712A, Key: KnightGenericPrefix037, Value: Captain Frederic
+Hash: 937D7126, Key: KnightGenericPrefix033, Value: Commander Fouques
+Hash: 937D7127, Key: KnightGenericPrefix034, Value: Commander Hughoc
+Hash: 937D7128, Key: KnightGenericPrefix035, Value: Commander Isemberd
+Hash: 937D712B, Key: KnightGenericPrefix038, Value: Captain Jurdi
+Hash: 937D712C, Key: KnightGenericPrefix039, Value: Captain Adinet
+Hash: 937D7144, Key: KnightGenericPrefix040, Value: Captain Evrat
+Hash: 937D7145, Key: KnightGenericPrefix041, Value: Captain Bertelemi
+Hash: 937D7146, Key: KnightGenericPrefix042, Value: Captain Fouques
+Hash: 937D7147, Key: KnightGenericPrefix043, Value: Captain Hughoc
+Hash: 937D7148, Key: KnightGenericPrefix044, Value: Captain Isemberd
+Hash: 937D7149, Key: KnightGenericPrefix045, Value: Captain Gylbard
+Hash: 937D714A, Key: KnightGenericPrefix046, Value: Lord Frederic
+Hash: 937D714B, Key: KnightGenericPrefix047, Value: Lord Jurdi
+Hash: 937D714C, Key: KnightGenericPrefix048, Value: Lord Adinet
+Hash: 937D714D, Key: KnightGenericPrefix049, Value: Lord Evrat
+Hash: 937D7165, Key: KnightGenericPrefix050, Value: Lord Bertelemi
+Hash: 937D7166, Key: KnightGenericPrefix051, Value: Lord Fouques
+Hash: 937D7167, Key: KnightGenericPrefix052, Value: Lord Hughoc
+Hash: 937D7168, Key: KnightGenericPrefix053, Value: Lord Isemberd
+Hash: 937D7169, Key: KnightGenericPrefix054, Value: Lord Gylbard
+Hash: 937D716A, Key: KnightGenericPrefix055, Value: Lord Gualtier
+Hash: 937D716B, Key: KnightGenericPrefix056, Value: Lieutenant Frederic
+Hash: 937D716C, Key: KnightGenericPrefix057, Value: Lieutenant Hervoet
+Hash: 937D716D, Key: KnightGenericPrefix058, Value: Lieutenant Jurdi
+Hash: 937D716E, Key: KnightGenericPrefix059, Value: Lieutenant Adinet
+Hash: 937D7186, Key: KnightGenericPrefix060, Value: Lieutenant Evrat
+Hash: 937D7187, Key: KnightGenericPrefix061, Value: Lieutenant Bertelemi
+Hash: 937D7188, Key: KnightGenericPrefix062, Value: Lieutenant Fouques
+Hash: 937D7189, Key: KnightGenericPrefix063, Value: Lieutenant Hughoc
+Hash: 937D718A, Key: KnightGenericPrefix064, Value: Lieutenant Isemberd
+Hash: 937D718B, Key: KnightGenericPrefix065, Value: Lieutenant Gylbard
+Hash: 937D718C, Key: KnightGenericPrefix066, Value: Ranulph
+Hash: 937D718D, Key: KnightGenericPrefix067, Value: Vauquelin
+Hash: 937D718E, Key: KnightGenericPrefix068, Value: Folcard
+Hash: 937D718F, Key: KnightGenericPrefix069, Value: Dowd
+Hash: 937D71A7, Key: KnightGenericPrefix070, Value: Hervoet
+Hash: D5D31B10, Key: FallenGenericPrefix003, Value: Gurkag
+Hash: D5D31B11, Key: FallenGenericPrefix004, Value: Darzach
+Hash: D5D31B12, Key: FallenGenericPrefix005, Value: Velpez
+Hash: D5D31B13, Key: FallenGenericPrefix006, Value: Xirgirosh
+Hash: D5D31B14, Key: FallenGenericPrefix007, Value: Brashtronnog
+Hash: D5D31B15, Key: FallenGenericPrefix008, Value: Mal'gushu
+Hash: D5D31B16, Key: FallenGenericPrefix009, Value: Kargrosh
+Hash: D5D31B2E, Key: FallenGenericPrefix010, Value: Elvumoz
+Hash: D5D31B2F, Key: FallenGenericPrefix011, Value: Xazzonnosh
+Hash: D5D31B30, Key: FallenGenericPrefix012, Value: Tralmaxish
+Hash: D5D31B31, Key: FallenGenericPrefix013, Value: Rakoshan
+Hash: D5D31B32, Key: FallenGenericPrefix014, Value: Rishikana
+Hash: D5D31B33, Key: FallenGenericPrefix015, Value: Kozinishu
+Hash: 937D71A8, Key: KnightGenericPrefix071, Value: Damreus
+Hash: 49DA7270, Key: ElectricLanceSingleAffixElitePrefix001, Value: Shocking
+Hash: 25BEFE42, Key: LightningTotemsSingleAffixElitePrefix001, Value: Stormy
+Hash: 79CE77C8, Key: TeleporterSingleAffixElitePrefix001, Value: Thundering
+Hash: 51ED181E, Key: FireOrbsSingleAffixElitePrefix001, Value: Scorching
+Hash: 7902AFB6, Key: FrozenSingleAffixElitePrefix001, Value: Shattering
+Hash: 3F5CEFFE, Key: ChillingWindSingleAffixElitePrefix001, Value: Windy
+Hash: C28A5E6A, Key: VortexSingleAffixElitePrefix001, Value: Snowy
+Hash: F4947889, Key: WallerSingleAffixElitePrefix001, Value: Grave
+Hash: D10FDEEF, Key: VampiricEnrageSingleAffixElitePrefix001, Value: Bloodthirsty
+Hash: 0E527828, Key: SuppressorSingleAffixElitePrefix001, Value: Blocking
+Hash: F5049190, Key: ChaosSingleAffixElitePrefix001, Value: Dreadful
+Hash: BFFECE18, Key: SummonerSingleAffixElitePrefix001, Value: Hellcaller
+Hash: 9B1AD64E, Key: TetherSingleAffixElitePrefix001, Value: Binding
+Hash: 341BF004, Key: PoisonEnchantedSingleAffixElitePrefix001, Value: Wretched
+Hash: DB6A918B, Key: MultishotSingleAffixElitePrefix001, Value: Mirroring
+Hash: D71C786E, Key: ColdEnchantedSingleAffixElitePrefix001, Value: Shivering
+Hash: C6B9EF12, Key: ShadowEnchantedSingleAffixElitePrefix001, Value: Nightmare
+Hash: 4C2D4A10, Key: LightningEnchantedSingleAffixElitePrefix001, Value: Sparking
+Hash: FB0F3DD2, Key: FireEnchantedSingleAffixElitePrefix001, Value: Burning
+Hash: 82CED571, Key: PlaguebearerSingleAffixElitePrefix001, Value: Tainted
+Hash: 26EA80D7, Key: MortarSingleAffixElitePrefix001, Value: Fiery
+Hash: FD9BD10B, Key: GhostGenericFemalePrefix001, Value: Rosaline
+Hash: FD9BD10C, Key: GhostGenericFemalePrefix002, Value: Bethia
+Hash: FD9BD10D, Key: GhostGenericFemalePrefix003, Value: Mahault
+Hash: FD9BD10E, Key: GhostGenericFemalePrefix004, Value: Hawys
+Hash: FD9BD10F, Key: GhostGenericFemalePrefix005, Value: Caria
+Hash: FD9BD110, Key: GhostGenericFemalePrefix006, Value: Fiona
+Hash: 856AC920, Key: GhostGenericMalePrefix001, Value: Warde
+Hash: 856AC921, Key: GhostGenericMalePrefix002, Value: Aeran
+Hash: 856AC922, Key: GhostGenericMalePrefix003, Value: Damiane
+Hash: 856AC923, Key: GhostGenericMalePrefix004, Value: Torne
+Hash: 1059C1E6, Key: GhostCasterPrefix001, Value: Emelote
+Hash: 1059C1E7, Key: GhostCasterPrefix002, Value: Flaym
+Hash: 1523EA0B, Key: GhostMeleeMalePrefix001, Value: Pawer
+Hash: D5D31B34, Key: FallenGenericPrefix016, Value: Kul'gi
+Hash: 937D71A9, Key: KnightGenericPrefix072, Value: Eriac
+Hash: 937D71AA, Key: KnightGenericPrefix073, Value: Hewwes
+Hash: 29230598, Key: BanditGenericFemalePrefix001, Value: Mariela
+Hash: 29230599, Key: BanditGenericFemalePrefix002, Value: Harvine
+Hash: 2923059A, Key: BanditGenericFemalePrefix003, Value: Ayanna
+Hash: 2923059B, Key: BanditGenericFemalePrefix004, Value: Katerina
+Hash: 4C91766D, Key: BanditGenericMalePrefix001, Value: Stefan
+Hash: 4C91766E, Key: BanditGenericMalePrefix002, Value: Bronwen
+Hash: 4C91766F, Key: BanditGenericMalePrefix003, Value: Corin
+Hash: 4C917670, Key: BanditGenericMalePrefix004, Value: Nigel
+Hash: 4C917671, Key: BanditGenericMalePrefix005, Value: Lyndon
+Hash: 35EA95CC, Key: ZombieGenericFemalePrefix001, Value: Eudeline
+Hash: 35EA95CD, Key: ZombieGenericFemalePrefix002, Value: Madlen
+Hash: 35EA95CE, Key: ZombieGenericFemalePrefix003, Value: Ysabell
+Hash: 35EA95CF, Key: ZombieGenericFemalePrefix004, Value: Emlin
+Hash: 35EA95D0, Key: ZombieGenericFemalePrefix005, Value: Gabriela
+Hash: 35EA95D1, Key: ZombieGenericFemalePrefix006, Value: Uvarotia
+Hash: 35EA95D2, Key: ZombieGenericFemalePrefix007, Value: Briverra
+Hash: 35EA95D3, Key: ZombieGenericFemalePrefix008, Value: Egiviah
+Hash: 35EA95D4, Key: ZombieGenericFemalePrefix009, Value: Ozavash
+Hash: 35EA95EC, Key: ZombieGenericFemalePrefix010, Value: Ochroroti
+Hash: 020F69A1, Key: ZombieGenericMalePrefix001, Value: Anchier
+Hash: 020F69A2, Key: ZombieGenericMalePrefix002, Value: Fery
+Hash: 020F69A3, Key: ZombieGenericMalePrefix003, Value: Bardolph
+Hash: 020F69A4, Key: ZombieGenericMalePrefix004, Value: Ogier
+Hash: 020F69A5, Key: ZombieGenericMalePrefix005, Value: Hubard
+Hash: 020F69A6, Key: ZombieGenericMalePrefix006, Value: Wrouthik
+Hash: 020F69A7, Key: ZombieGenericMalePrefix007, Value: Xobrum
+Hash: 020F69A8, Key: ZombieGenericMalePrefix008, Value: Edothum
+Hash: 020F69A9, Key: ZombieGenericMalePrefix009, Value: Zrixius
+Hash: 020F69C1, Key: ZombieGenericMalePrefix010, Value: Egrulazar
+Hash: 020F69C2, Key: ZombieGenericMalePrefix011, Value: Ayeizis
+Hash: 020F69C3, Key: ZombieGenericMalePrefix012, Value: Harig
+Hash: 020F69C4, Key: ZombieGenericMalePrefix013, Value: Trygn
+Hash: 69D27927, Key: WerewolfGenericPrefix001, Value: Arric
+Hash: 69D27928, Key: WerewolfGenericPrefix002, Value: Marlowe
+Hash: 69D27929, Key: WerewolfGenericPrefix003, Value: Rynders
+Hash: 69D2792A, Key: WerewolfGenericPrefix004, Value: Aluxious
+Hash: 69D2792B, Key: WerewolfGenericPrefix005, Value: Kirnon
+Hash: B94CE150, Key: VampireGenericPrefix001, Value: Zachariah
+Hash: B94CE151, Key: VampireGenericPrefix002, Value: Lucas
+Hash: B94CE152, Key: VampireGenericPrefix003, Value: Dorian
+Hash: B94CE153, Key: VampireGenericPrefix004, Value: Orsova
+Hash: B94CE154, Key: VampireGenericPrefix005, Value: Jael
+Hash: B94CE155, Key: VampireGenericPrefix006, Value: Dragos
+Hash: B94CE156, Key: VampireGenericPrefix007, Value: Damian
+Hash: B94CE157, Key: VampireGenericPrefix008, Value: Desmond
+Hash: 12F17455, Key: VampireCasterPrefix001, Value: Vladimir
+Hash: 3E6E7294, Key: CannibalGenericPrefix001, Value: Khem
+Hash: 3E6E7295, Key: CannibalGenericPrefix002, Value: Krinn
+Hash: 3E6E7296, Key: CannibalGenericPrefix003, Value: Gelalk
+Hash: 3E6E7297, Key: CannibalGenericPrefix004, Value: Tyag
+Hash: 3E6E7298, Key: CannibalGenericPrefix005, Value: Losgof
+Hash: 3E6E7299, Key: CannibalGenericPrefix006, Value: Maulk
+Hash: 3E6E729A, Key: CannibalGenericPrefix007, Value: Bhul
+Hash: 3E6E729B, Key: CannibalGenericPrefix008, Value: Scolad
+Hash: 3E6E729C, Key: CannibalGenericPrefix009, Value: Ashot
+Hash: 446F47AF, Key: DrownedGenericPrefix001, Value: Cleavant
+Hash: 446F47B0, Key: DrownedGenericPrefix002, Value: Nayte
+Hash: 446F47B1, Key: DrownedGenericPrefix003, Value: Orson
+Hash: 446F47B2, Key: DrownedGenericPrefix004, Value: Walworth
+Hash: 446F47B3, Key: DrownedGenericPrefix005, Value: Woodward
+Hash: 446F47B4, Key: DrownedGenericPrefix006, Value: Wheaton
+Hash: 446F47B5, Key: DrownedGenericPrefix007, Value: Endicott
+Hash: 446F47B6, Key: DrownedGenericPrefix008, Value: Earland
+Hash: 0A1F830E, Key: CultistGenericFemalePrefix001, Value: Umona
+Hash: 0A1F830F, Key: CultistGenericFemalePrefix002, Value: Ecthrois
+Hash: 0A1F8310, Key: CultistGenericFemalePrefix003, Value: Sybil
+Hash: 0A1F8311, Key: CultistGenericFemalePrefix004, Value: Velorina
+Hash: 0A1F8312, Key: CultistGenericFemalePrefix005, Value: Lucretia
+Hash: 0A1F8313, Key: CultistGenericFemalePrefix006, Value: Sisiarh
+Hash: 0A1F8314, Key: CultistGenericFemalePrefix007, Value: Llayla
+Hash: F6441E63, Key: CultistGenericMalePrefix001, Value: Trik
+Hash: F6441E64, Key: CultistGenericMalePrefix002, Value: Zeph
+Hash: F6441E65, Key: CultistGenericMalePrefix003, Value: Yizla
+Hash: F6441E66, Key: CultistGenericMalePrefix004, Value: Heinrik
+Hash: F6441E67, Key: CultistGenericMalePrefix005, Value: Rumlar
+Hash: F6441E68, Key: CultistGenericMalePrefix006, Value: Sceledrus
+Hash: F6441E69, Key: CultistGenericMalePrefix007, Value: Orfeo
+Hash: F6441E6A, Key: CultistGenericMalePrefix008, Value: Ulysson
+Hash: F6441E6B, Key: CultistGenericMalePrefix009, Value: Dextaro
+Hash: F6441E83, Key: CultistGenericMalePrefix010, Value: Oswell
+Hash: 7D8873A7, Key: GoatmenGenericPrefix001, Value: Vravak
+Hash: 7D8873A8, Key: GoatmenGenericPrefix002, Value: Voduk
+Hash: 7D8873A9, Key: GoatmenGenericPrefix003, Value: Xazeus
+Hash: 7D8873AA, Key: GoatmenGenericPrefix004, Value: Garafrad
+Hash: 7D8873AB, Key: GoatmenGenericPrefix005, Value: Balam
+Hash: 7D8873AC, Key: GoatmenGenericPrefix006, Value: Bleassot
+Hash: 7D8873AD, Key: GoatmenGenericPrefix007, Value: Braigh
+Hash: 7D8873AE, Key: GoatmenGenericPrefix008, Value: Baaral
+Hash: 7D8873AF, Key: GoatmenGenericPrefix009, Value: Raim
+Hash: 7D8873C7, Key: GoatmenGenericPrefix010, Value: Baraim
+Hash: 7D8873C8, Key: GoatmenGenericPrefix011, Value: Eloain
+Hash: 7D8873C9, Key: GoatmenGenericPrefix012, Value: Mosuk
+Hash: BE9D9861, Key: SkeletonGenericPrefix001, Value: Odrazad
+Hash: BE9D9863, Key: SkeletonGenericPrefix003, Value: Crokhar
+Hash: BE9D9862, Key: SkeletonGenericPrefix002, Value: Xopent
+Hash: BE9D9864, Key: SkeletonGenericPrefix004, Value: Zreilak
+Hash: BE9D9865, Key: SkeletonGenericPrefix005, Value: Odrekar
+Hash: BE9D9866, Key: SkeletonGenericPrefix006, Value: Gixius
+Hash: BE9D9867, Key: SkeletonGenericPrefix007, Value: Rauffe
+Hash: BE9D9868, Key: SkeletonGenericPrefix008, Value: Geoffroi
+Hash: BE9D9869, Key: SkeletonGenericPrefix009, Value: Arnaut
+Hash: BE9D9881, Key: SkeletonGenericPrefix010, Value: Galeren
+Hash: BE9D9882, Key: SkeletonGenericPrefix011, Value: Aleyn
+Hash: BE9D9883, Key: SkeletonGenericPrefix012, Value: Zardar
+Hash: 7766276C, Key: WildlifeGenericPrefix001, Value: Gorssa
+Hash: 7766276D, Key: WildlifeGenericPrefix002, Value: Sapeond
+Hash: 7766276E, Key: WildlifeGenericPrefix003, Value: Yentouff
+Hash: 7766276F, Key: WildlifeGenericPrefix004, Value: Lacluarm
+Hash: 77662770, Key: WildlifeGenericPrefix005, Value: Jrampa
+Hash: 77662771, Key: WildlifeGenericPrefix006, Value: Eeclops
+Hash: 77662772, Key: WildlifeGenericPrefix007, Value: Theanara
+Hash: 77662773, Key: WildlifeGenericPrefix008, Value: Vraitrice
+Hash: 77662774, Key: WildlifeGenericPrefix009, Value: Knosr
+Hash: 7766278C, Key: WildlifeGenericPrefix010, Value: Teeveja
+Hash: F59EE19D, Key: WildlifeQuillratPrefix001, Value: Deathquill
+Hash: F59EE19E, Key: WildlifeQuillratPrefix002, Value: Spineshank
+Hash: 0A4749D7, Key: WildlifeWoodwraithPrefix001, Value: Treehead
+Hash: 0A4749D8, Key: WildlifeWoodwraithPrefix002, Value: Woodfist
+Hash: 0A4749D9, Key: WildlifeWoodwraithPrefix003, Value: Treefist
+Hash: 0A4749DA, Key: WildlifeWoodwraithPrefix004, Value: Woodhead
+Hash: C8745DA3, Key: SpiderGenericPrefix001, Value: Kreqzokaax
+Hash: C8745DA4, Key: SpiderGenericPrefix002, Value: Recikrex
+Hash: C8745DA5, Key: SpiderGenericPrefix003, Value: Iavaq'zat
+Hash: C8745DA6, Key: SpiderGenericPrefix004, Value: Seerrorter
+Hash: C8745DA7, Key: SpiderGenericPrefix005, Value: Irk'aq
+Hash: C8745DA8, Key: SpiderGenericPrefix006, Value: Krelrichiaq
+Hash: C8745DA9, Key: SpiderGenericPrefix007, Value: Zraarzur
+Hash: C8745DAA, Key: SpiderGenericPrefix008, Value: Szikees
+Hash: C8745DAB, Key: SpiderGenericPrefix009, Value: Yerziq
+Hash: C8745DC3, Key: SpiderGenericPrefix010, Value: Szaqilrai
+Hash: C8745DC4, Key: SpiderGenericPrefix011, Value: Shix'k
+Hash: 41DECEAE, Key: SnakeGenericPrefix001, Value: Thosz
+Hash: 41DECEAF, Key: SnakeGenericPrefix002, Value: Ucaontizk
+Hash: 41DECEB0, Key: SnakeGenericPrefix003, Value: Utszucci
+Hash: 41DECEB1, Key: SnakeGenericPrefix004, Value: Jutrazisk
+Hash: 41DECEB2, Key: SnakeGenericPrefix005, Value: Drox
+Hash: 41DECEB3, Key: SnakeGenericPrefix006, Value: Uathru
+Hash: 41DECEB4, Key: SnakeGenericPrefix007, Value: Akxoazk
+Hash: 41DECEB5, Key: SnakeGenericPrefix008, Value: Stigzas
+Hash: 41DECEB6, Key: SnakeGenericPrefix009, Value: Czisauc
+Hash: F0B037D9, Key: DemonGenericFemalePrefix001, Value: Drenlisa
+Hash: F0B037DA, Key: DemonGenericFemalePrefix002, Value: Kylraya
+Hash: F0B037DB, Key: DemonGenericFemalePrefix003, Value: Dhysryss
+Hash: F0B037DC, Key: DemonGenericFemalePrefix004, Value: Xisvia
+Hash: F0B037DD, Key: DemonGenericFemalePrefix005, Value: Tinnixi
+Hash: F0B037DE, Key: DemonGenericFemalePrefix006, Value: Qyrlith
+Hash: F0B037DF, Key: DemonGenericFemalePrefix007, Value: Lilintarish
+Hash: F0B037E0, Key: DemonGenericFemalePrefix008, Value: Charixis
+Hash: F0B037E1, Key: DemonGenericFemalePrefix009, Value: Vyoras
+Hash: F0B037F9, Key: DemonGenericFemalePrefix010, Value: Alassrix
+Hash: F0B037FA, Key: DemonGenericFemalePrefix011, Value: Astroiss
+Hash: F0B037FB, Key: DemonGenericFemalePrefix012, Value: Vydyll
+Hash: F0B037FC, Key: DemonGenericFemalePrefix013, Value: Vyjuz
+Hash: D2FB246E, Key: DemonGenericMalePrefix001, Value: Gnarryd
+Hash: D2FB246F, Key: DemonGenericMalePrefix002, Value: Vohrer
+Hash: D2FB2470, Key: DemonGenericMalePrefix003, Value: Zahreth
+Hash: D2FB2471, Key: DemonGenericMalePrefix004, Value: Dharlyx
+Hash: D2FB2472, Key: DemonGenericMalePrefix005, Value: Igararax
+Hash: D2FB2473, Key: DemonGenericMalePrefix006, Value: Suryxir
+Hash: D2FB2474, Key: DemonGenericMalePrefix007, Value: Az'skaron
+Hash: D2FB2475, Key: DemonGenericMalePrefix008, Value: Hegelb
+Hash: D2FB2476, Key: DemonGenericMalePrefix009, Value: Gorash
+Hash: 025DB328, Key: ChillingWindSuffix007, Value:  Zephyretes
+Hash: 025DB329, Key: ChillingWindSuffix008, Value:  Galebringer
+Hash: 025DB32A, Key: ChillingWindSuffix009, Value:  Windburn
+Hash: 025DB342, Key: ChillingWindSuffix010, Value:  Hazemaw
+Hash: 01D89197, Key: ElectricLanceSuffix004, Value:  Shockblade
+Hash: 9EE19B45, Key: FireOrbsSuffix004, Value:  Scorchmaw
+Hash: 9EE19B46, Key: FireOrbsSuffix005, Value:  Infernostrife
+Hash: 78AB02DE, Key: FrozenSuffix005, Value:  Shatterstrike
+Hash: 00FEB1FE, Key: MortarSuffix004, Value:  Firestarter
+Hash: 00FEB1FF, Key: MortarSuffix005, Value:  Firebrand
+Hash: 0EFBDAAF, Key: MultishotSuffix001, Value:  Duplicius
+Hash: 6D111299, Key: PlaguebearerSuffix005, Value:  Taintspur
+Hash: 3D19672D, Key: PoisonEnchantedSuffix006, Value:  Festerpool
+Hash: 3D19672E, Key: PoisonEnchantedSuffix007, Value:  Sloughloam
+Hash: 3D19672F, Key: PoisonEnchantedSuffix008, Value:  Sloughlayer
+Hash: 12E70A38, Key: ShadowEnchantedSuffix003, Value:  Midnight
+Hash: 12E70A39, Key: ShadowEnchantedSuffix004, Value:  Darkfist
+Hash: 12E70A3A, Key: ShadowEnchantedSuffix005, Value:  Nightfist
+Hash: 9038F975, Key: TetherSuffix004, Value:  Doombind
+Hash: D5E385B0, Key: WallerSuffix004, Value:  Deathtrap
+Hash: 9038F976, Key: TetherSuffix005, Value:  Doomfetter
+Hash: 9038F977, Key: TetherSuffix006, Value:  Fettersnap
+Hash: D5E385B1, Key: WallerSuffix005, Value:  Cagebane
+Hash: F0B037FD, Key: DemonGenericFemalePrefix014, Value: Phyrix
+Hash: B94CE158, Key: VampireGenericPrefix009, Value: Gundir
+Hash: 446F47B7, Key: DrownedGenericPrefix009, Value: Ivagont
+Hash: 7766278D, Key: WildlifeGenericPrefix011, Value: Aglaya
+Hash: 7766278E, Key: WildlifeGenericPrefix012, Value: Fitret
+Hash: D5D31B35, Key: FallenGenericPrefix017, Value: Raphpuph
+Hash: D5D31B36, Key: FallenGenericPrefix018, Value: Chomz
+Hash: 2923059C, Key: BanditGenericFemalePrefix005, Value: Elevendra
+Hash: 937D71AB, Key: KnightGenericPrefix074, Value: Thrayn
+Hash: 446F47CF, Key: DrownedGenericPrefix010, Value: Begulboorih
+Hash: F6441E84, Key: CultistGenericMalePrefix011, Value: Sephuz
+Hash: B94CE170, Key: VampireGenericPrefix010, Value: Tyrius
+Hash: 856AC924, Key: GhostGenericMalePrefix005, Value: Hecate
+Hash: 7D8873CA, Key: GoatmenGenericPrefix013, Value: Habohet
+Hash: 3E6E72B4, Key: CannibalGenericPrefix010, Value: Jafix
+Hash: D5D31B37, Key: FallenGenericPrefix019, Value: Kaze
+Hash: 4C917672, Key: BanditGenericMalePrefix006, Value: Diwen
+Hash: F0B037FE, Key: DemonGenericFemalePrefix015, Value: Kylxi
+Hash: B94CE171, Key: VampireGenericPrefix011, Value: Recov
+Hash: 41DECECE, Key: SnakeGenericPrefix010, Value: Thraxi
+Hash: 69D2792C, Key: WerewolfGenericPrefix006, Value: Wodin
+Hash: 0A1F8315, Key: CultistGenericFemalePrefix008, Value: Alaurei
+Hash: D2FB248E, Key: DemonGenericMalePrefix010, Value: Arzun
+Hash: 00FEB200, Key: MortarSuffix006, Value:  Fireborn
+Hash: 4C917673, Key: BanditGenericMalePrefix007, Value: Garan
+Hash: 35EA95ED, Key: ZombieGenericFemalePrefix011, Value: Ghombi
+Hash: D2FB248F, Key: DemonGenericMalePrefix011, Value: Gromath
+Hash: 3E6E72B5, Key: CannibalGenericPrefix011, Value: Nubarb
+Hash: B94CE172, Key: VampireGenericPrefix012, Value: Teosum
+Hash: B94CE173, Key: VampireGenericPrefix013, Value: Kyo
+Hash: D2FB2490, Key: DemonGenericMalePrefix012, Value: Fryzoh
+Hash: D2FB2491, Key: DemonGenericMalePrefix013, Value: Styhlez
+Hash: 2923059D, Key: BanditGenericFemalePrefix006, Value: Audie
+Hash: 2923059E, Key: BanditGenericFemalePrefix007, Value: Palmira
+Hash: 2923059F, Key: BanditGenericFemalePrefix008, Value: Kyra
+Hash: 292305A0, Key: BanditGenericFemalePrefix009, Value: Demie
+Hash: 292305B8, Key: BanditGenericFemalePrefix010, Value: Ariella
+Hash: 292305B9, Key: BanditGenericFemalePrefix011, Value: Hailee
+Hash: 292305BA, Key: BanditGenericFemalePrefix012, Value: Janae
+Hash: 292305BB, Key: BanditGenericFemalePrefix013, Value: Brionna
+Hash: 292305BC, Key: BanditGenericFemalePrefix014, Value: Ryleigh
+Hash: 292305BD, Key: BanditGenericFemalePrefix015, Value: Kaylyn
+Hash: 292305BE, Key: BanditGenericFemalePrefix016, Value: Idina
+Hash: 292305BF, Key: BanditGenericFemalePrefix017, Value: Miah
+Hash: 292305C0, Key: BanditGenericFemalePrefix018, Value: Yuliana
+Hash: 292305C1, Key: BanditGenericFemalePrefix019, Value: Ashi
+Hash: 292305D9, Key: BanditGenericFemalePrefix020, Value: Maci
+Hash: 4C917674, Key: BanditGenericMalePrefix008, Value: Whitlock
+Hash: 4C917675, Key: BanditGenericMalePrefix009, Value: Rawson
+Hash: 4C91768D, Key: BanditGenericMalePrefix010, Value: Stroud
+Hash: 4C91768E, Key: BanditGenericMalePrefix011, Value: Rycroft
+Hash: 4C91768F, Key: BanditGenericMalePrefix012, Value: Norwyn
+Hash: 4C917690, Key: BanditGenericMalePrefix013, Value: Wallach
+Hash: 4C917691, Key: BanditGenericMalePrefix014, Value: Gilford
+Hash: 4C917692, Key: BanditGenericMalePrefix015, Value: Maitland
+Hash: 4C917693, Key: BanditGenericMalePrefix016, Value: Cael
+Hash: 4C917694, Key: BanditGenericMalePrefix017, Value: Riobard
+Hash: 4C917695, Key: BanditGenericMalePrefix018, Value: Wardell
+Hash: 4C917696, Key: BanditGenericMalePrefix019, Value: Morven
+Hash: 4C9176AE, Key: BanditGenericMalePrefix020, Value: Alvertos
+Hash: 3E6E72B6, Key: CannibalGenericPrefix012, Value: Dhalk
+Hash: 3E6E72B7, Key: CannibalGenericPrefix013, Value: Giyvid
+Hash: 3E6E72B8, Key: CannibalGenericPrefix014, Value: Kuldrauk
+Hash: 3E6E72B9, Key: CannibalGenericPrefix015, Value: Krandarr
+Hash: 3E6E72BA, Key: CannibalGenericPrefix016, Value: Nurthaes
+Hash: 3E6E72BB, Key: CannibalGenericPrefix017, Value: Hralk
+Hash: 3E6E72BC, Key: CannibalGenericPrefix018, Value: Bemkeilr
+Hash: 3E6E72BD, Key: CannibalGenericPrefix019, Value: Vodgudr
+Hash: 3E6E72D5, Key: CannibalGenericPrefix020, Value: Bhasgar
+Hash: 0A1F8316, Key: CultistGenericFemalePrefix009, Value: Mayze
+Hash: 0A1F832E, Key: CultistGenericFemalePrefix010, Value: Diamanda
+Hash: 0A1F832F, Key: CultistGenericFemalePrefix011, Value: Sephiran
+Hash: 0A1F8330, Key: CultistGenericFemalePrefix012, Value: Maggart
+Hash: 0A1F8331, Key: CultistGenericFemalePrefix013, Value: Valaine
+Hash: 0A1F8332, Key: CultistGenericFemalePrefix014, Value: Cordelia
+Hash: 0A1F8333, Key: CultistGenericFemalePrefix015, Value: Viessa
+Hash: 0A1F8334, Key: CultistGenericFemalePrefix016, Value: Elegia
+Hash: 0A1F8335, Key: CultistGenericFemalePrefix017, Value: Larsa
+Hash: 0A1F8336, Key: CultistGenericFemalePrefix018, Value: Severina
+Hash: 0A1F8337, Key: CultistGenericFemalePrefix019, Value: Xylia
+Hash: 0A1F834F, Key: CultistGenericFemalePrefix020, Value: Kolfinna
+Hash: F6441E85, Key: CultistGenericMalePrefix012, Value: Venkalth
+Hash: F6441E86, Key: CultistGenericMalePrefix013, Value: Zeidan
+Hash: F6441E87, Key: CultistGenericMalePrefix014, Value: Zayin
+Hash: F6441E88, Key: CultistGenericMalePrefix015, Value: Dommik
+Hash: F6441E89, Key: CultistGenericMalePrefix016, Value: Kapral
+Hash: F6441E8A, Key: CultistGenericMalePrefix017, Value: Yulis
+Hash: F6441E8B, Key: CultistGenericMalePrefix018, Value: Cyran
+Hash: F6441E8C, Key: CultistGenericMalePrefix019, Value: Oklarth
+Hash: F6441EA4, Key: CultistGenericMalePrefix020, Value: Scias
+Hash: F0B037FF, Key: DemonGenericFemalePrefix016, Value: Qheslyss
+Hash: F0B03800, Key: DemonGenericFemalePrefix017, Value: Zrixyss
+Hash: F0B03801, Key: DemonGenericFemalePrefix018, Value: Urileli
+Hash: F0B03802, Key: DemonGenericFemalePrefix019, Value: Briznys
+Hash: F0B0381A, Key: DemonGenericFemalePrefix020, Value: Vhesrya
+Hash: F0B0381B, Key: DemonGenericFemalePrefix021, Value: Xentora
+Hash: F0B0381C, Key: DemonGenericFemalePrefix022, Value: Yserrahne
+Hash: F0B0381D, Key: DemonGenericFemalePrefix023, Value: Xyltyse
+Hash: F0B0381E, Key: DemonGenericFemalePrefix024, Value: Sharysha
+Hash: D2FB2492, Key: DemonGenericMalePrefix014, Value: Mazrahn
+Hash: D2FB2493, Key: DemonGenericMalePrefix015, Value: Ezrintihr
+Hash: D2FB2494, Key: DemonGenericMalePrefix016, Value: Vohrynad
+Hash: D2FB2495, Key: DemonGenericMalePrefix017, Value: Eransyx
+Hash: D2FB2496, Key: DemonGenericMalePrefix018, Value: Suranoth
+Hash: D2FB2497, Key: DemonGenericMalePrefix019, Value: Ryzix
+Hash: D2FB24AF, Key: DemonGenericMalePrefix020, Value: Wraxtihr
+Hash: 446F47D0, Key: DrownedGenericPrefix011, Value: Ondroth
+Hash: 446F47D1, Key: DrownedGenericPrefix012, Value: Durward
+Hash: 446F47D2, Key: DrownedGenericPrefix013, Value: Haslett
+Hash: 446F47D3, Key: DrownedGenericPrefix014, Value: Norwell
+Hash: 446F47D4, Key: DrownedGenericPrefix015, Value: Cobden
+Hash: 446F47D5, Key: DrownedGenericPrefix016, Value: Derwin
+Hash: 446F47D6, Key: DrownedGenericPrefix017, Value: Tarleton
+Hash: 446F47D7, Key: DrownedGenericPrefix018, Value: Ethewlin
+Hash: 446F47D8, Key: DrownedGenericPrefix019, Value: Crosley
+Hash: 446F47F0, Key: DrownedGenericPrefix020, Value: Sedgley
+Hash: FD9BD111, Key: GhostGenericFemalePrefix007, Value: Esclamonde
+Hash: FD9BD112, Key: GhostGenericFemalePrefix008, Value: Theophania
+Hash: FD9BD113, Key: GhostGenericFemalePrefix009, Value: Ymenia
+Hash: FD9BD12B, Key: GhostGenericFemalePrefix010, Value: Imayne
+Hash: FD9BD12C, Key: GhostGenericFemalePrefix011, Value: Yseulte
+Hash: FD9BD12D, Key: GhostGenericFemalePrefix012, Value: Guibourc
+Hash: FD9BD12E, Key: GhostGenericFemalePrefix013, Value: Auisia
+Hash: FD9BD12F, Key: GhostGenericFemalePrefix014, Value: Edolina
+Hash: FD9BD130, Key: GhostGenericFemalePrefix015, Value: Izett
+Hash: FD9BD131, Key: GhostGenericFemalePrefix016, Value: Aleneite
+Hash: FD9BD132, Key: GhostGenericFemalePrefix017, Value: Miriald
+Hash: FD9BD133, Key: GhostGenericFemalePrefix018, Value: Teffan
+Hash: FD9BD134, Key: GhostGenericFemalePrefix019, Value: Belsante
+Hash: FD9BD14C, Key: GhostGenericFemalePrefix020, Value: Claremonde
+Hash: 856AC925, Key: GhostGenericMalePrefix006, Value: Anfroy
+Hash: 856AC926, Key: GhostGenericMalePrefix007, Value: Barnet
+Hash: 856AC927, Key: GhostGenericMalePrefix008, Value: Remondin
+Hash: 856AC928, Key: GhostGenericMalePrefix009, Value: Wymund
+Hash: 856AC940, Key: GhostGenericMalePrefix010, Value: Geofridus
+Hash: 856AC941, Key: GhostGenericMalePrefix011, Value: Adekin
+Hash: 856AC942, Key: GhostGenericMalePrefix012, Value: Joppa
+Hash: 856AC943, Key: GhostGenericMalePrefix013, Value: Guarnier
+Hash: 856AC944, Key: GhostGenericMalePrefix014, Value: Alphonsins
+Hash: 856AC945, Key: GhostGenericMalePrefix015, Value: Umfridus
+Hash: 856AC946, Key: GhostGenericMalePrefix016, Value: Symme
+Hash: 856AC947, Key: GhostGenericMalePrefix017, Value: Bardol
+Hash: 856AC948, Key: GhostGenericMalePrefix018, Value: Hamelen
+Hash: 856AC949, Key: GhostGenericMalePrefix019, Value: Reimond
+Hash: 856AC961, Key: GhostGenericMalePrefix020, Value: Andreu
+Hash: 7D8873CB, Key: GoatmenGenericPrefix014, Value: Arthak
+Hash: 7D8873CC, Key: GoatmenGenericPrefix015, Value: Buras
+Hash: 7D8873CD, Key: GoatmenGenericPrefix016, Value: Hrugowl
+Hash: 7D8873CE, Key: GoatmenGenericPrefix017, Value: Krelm
+Hash: 7D8873CF, Key: GoatmenGenericPrefix018, Value: Logrut
+Hash: 7D8873D0, Key: GoatmenGenericPrefix019, Value: Lorzak
+Hash: 7D8873E8, Key: GoatmenGenericPrefix020, Value: Melmak
+Hash: 7D8873E9, Key: GoatmenGenericPrefix021, Value: Nalghban
+Hash: 7D8873EA, Key: GoatmenGenericPrefix022, Value: Reggrel
+Hash: 7D8873EB, Key: GoatmenGenericPrefix023, Value: Charuch
+Hash: 7D8873EC, Key: GoatmenGenericPrefix024, Value: Ghallem
+Hash: 7D8873ED, Key: GoatmenGenericPrefix025, Value: Groak
+Hash: 7D8873EE, Key: GoatmenGenericPrefix026, Value: Hyrug
+Hash: 7D8873EF, Key: GoatmenGenericPrefix027, Value: Maggrus
+Hash: 7D8873F0, Key: GoatmenGenericPrefix028, Value: Malgash
+Hash: 7D8873F1, Key: GoatmenGenericPrefix029, Value: Shertik
+Hash: 7D887409, Key: GoatmenGenericPrefix030, Value: Korbal
+Hash: 7D88740A, Key: GoatmenGenericPrefix031, Value: Mawdol
+Hash: 7D88740B, Key: GoatmenGenericPrefix032, Value: Talos
+Hash: 7D88740C, Key: GoatmenGenericPrefix033, Value: Shogg
+Hash: BE9D9884, Key: SkeletonGenericPrefix013, Value: Malduxus
+Hash: BE9D9885, Key: SkeletonGenericPrefix014, Value: Wrevris
+Hash: BE9D9886, Key: SkeletonGenericPrefix015, Value: Stroucilia
+Hash: BE9D9887, Key: SkeletonGenericPrefix016, Value: Woxith
+Hash: BE9D9888, Key: SkeletonGenericPrefix017, Value: Onemek
+Hash: BE9D9889, Key: SkeletonGenericPrefix018, Value: Vidrex
+Hash: BE9D988A, Key: SkeletonGenericPrefix019, Value: Vromek
+Hash: BE9D98A2, Key: SkeletonGenericPrefix020, Value: Gozelinus
+Hash: BE9D98A3, Key: SkeletonGenericPrefix021, Value: Maugre
+Hash: BE9D98A4, Key: SkeletonGenericPrefix022, Value: Azorius
+Hash: BE9D98A5, Key: SkeletonGenericPrefix023, Value: Arminel
+Hash: BE9D98A6, Key: SkeletonGenericPrefix024, Value: Gylbarde
+Hash: BE9D98A7, Key: SkeletonGenericPrefix025, Value: Wymerus
+Hash: BE9D98A8, Key: SkeletonGenericPrefix026, Value: Ernaldus
+Hash: BE9D98A9, Key: SkeletonGenericPrefix027, Value: Hugon
+Hash: BE9D98AA, Key: SkeletonGenericPrefix028, Value: Renodet
+Hash: BE9D98AB, Key: SkeletonGenericPrefix029, Value: Guiraudet
+Hash: BE9D98C3, Key: SkeletonGenericPrefix030, Value: Hemonnet
+Hash: 41DECECF, Key: SnakeGenericPrefix011, Value: Yeza
+Hash: 41DECED0, Key: SnakeGenericPrefix012, Value: Syerrakhuth
+Hash: 41DECED1, Key: SnakeGenericPrefix013, Value: Yoraasz
+Hash: 41DECED2, Key: SnakeGenericPrefix014, Value: Kixhetzaaz
+Hash: 41DECED3, Key: SnakeGenericPrefix015, Value: Zsuderra
+Hash: 41DECED4, Key: SnakeGenericPrefix016, Value: Laazishisj
+Hash: 41DECED5, Key: SnakeGenericPrefix017, Value: Szokzash
+Hash: 41DECED6, Key: SnakeGenericPrefix018, Value: Dhruka
+Hash: 41DECED7, Key: SnakeGenericPrefix019, Value: Eszeshix
+Hash: 41DECEEF, Key: SnakeGenericPrefix020, Value: Crixhakh
+Hash: C8745DC5, Key: SpiderGenericPrefix012, Value: Chak'zux
+Hash: C8745DC6, Key: SpiderGenericPrefix013, Value: Yiakkeq
+Hash: C8745DC7, Key: SpiderGenericPrefix014, Value: Qhizruzes
+Hash: C8745DC8, Key: SpiderGenericPrefix015, Value: Sak'thalleh
+Hash: C8745DC9, Key: SpiderGenericPrefix016, Value: Kliqish
+Hash: C8745DCA, Key: SpiderGenericPrefix017, Value: Hievazsath
+Hash: C8745DCB, Key: SpiderGenericPrefix018, Value: Heqak'sith
+Hash: C8745DCC, Key: SpiderGenericPrefix019, Value: Zren'qox
+Hash: C8745DE4, Key: SpiderGenericPrefix020, Value: Krol'zietix
+Hash: B94CE174, Key: VampireGenericPrefix014, Value: Cyprian
+Hash: B94CE175, Key: VampireGenericPrefix015, Value: Karpov
+Hash: B94CE176, Key: VampireGenericPrefix016, Value: Lycidas
+Hash: B94CE177, Key: VampireGenericPrefix017, Value: Neculai
+Hash: B94CE178, Key: VampireGenericPrefix018, Value: Cadogan
+Hash: B94CE179, Key: VampireGenericPrefix019, Value: Kellam
+Hash: B94CE191, Key: VampireGenericPrefix020, Value: Azerrad
+Hash: 69D2792D, Key: WerewolfGenericPrefix007, Value: Zy
+Hash: 69D2792E, Key: WerewolfGenericPrefix008, Value: Derther
+Hash: 69D2792F, Key: WerewolfGenericPrefix009, Value: Vossler
+Hash: 69D27947, Key: WerewolfGenericPrefix010, Value: Ordan
+Hash: 69D27948, Key: WerewolfGenericPrefix011, Value: Trmin
+Hash: 69D27949, Key: WerewolfGenericPrefix012, Value: Greil
+Hash: 69D2794A, Key: WerewolfGenericPrefix013, Value: Osyn
+Hash: 69D2794B, Key: WerewolfGenericPrefix014, Value: Duradel
+Hash: 69D2794C, Key: WerewolfGenericPrefix015, Value: Roderic
+Hash: 69D2794D, Key: WerewolfGenericPrefix016, Value: Randulfr
+Hash: 69D2794E, Key: WerewolfGenericPrefix017, Value: Dannan
+Hash: 69D2794F, Key: WerewolfGenericPrefix018, Value: Baryn
+Hash: 69D27950, Key: WerewolfGenericPrefix019, Value: Rodion
+Hash: 69D27968, Key: WerewolfGenericPrefix020, Value: Osiston
+Hash: 7766278F, Key: WildlifeGenericPrefix013, Value: Yelpeek
+Hash: 77662790, Key: WildlifeGenericPrefix014, Value: Polndi
+Hash: 77662791, Key: WildlifeGenericPrefix015, Value: Roojan
+Hash: 77662792, Key: WildlifeGenericPrefix016, Value: Wraadorm
+Hash: 77662793, Key: WildlifeGenericPrefix017, Value: Ruafin
+Hash: 77662794, Key: WildlifeGenericPrefix018, Value: Chodorm
+Hash: 77662795, Key: WildlifeGenericPrefix019, Value: Ikculsest
+Hash: 776627AD, Key: WildlifeGenericPrefix020, Value: Uxingis
+Hash: 35EA95EE, Key: ZombieGenericFemalePrefix012, Value: Zillah
+Hash: 35EA95EF, Key: ZombieGenericFemalePrefix013, Value: Viktoria
+Hash: 35EA95F0, Key: ZombieGenericFemalePrefix014, Value: Katreena
+Hash: 35EA95F1, Key: ZombieGenericFemalePrefix015, Value: Cidolfus
+Hash: 35EA95F2, Key: ZombieGenericFemalePrefix016, Value: Galexialyn
+Hash: 35EA95F3, Key: ZombieGenericFemalePrefix017, Value: Nifsara
+Hash: 35EA95F4, Key: ZombieGenericFemalePrefix018, Value: Hebkya
+Hash: 35EA95F5, Key: ZombieGenericFemalePrefix019, Value: Cellica
+Hash: 35EA960D, Key: ZombieGenericFemalePrefix020, Value: Marekyn
+Hash: 020F69C5, Key: ZombieGenericMalePrefix014, Value: Thancred
+Hash: 020F69C6, Key: ZombieGenericMalePrefix015, Value: Gervesin
+Hash: 020F69C7, Key: ZombieGenericMalePrefix016, Value: Ansfrid
+Hash: 020F69C8, Key: ZombieGenericMalePrefix017, Value: Norrix
+Hash: 020F69C9, Key: ZombieGenericMalePrefix018, Value: Sepitus
+Hash: 020F69CA, Key: ZombieGenericMalePrefix019, Value: Uzuvras
+Hash: 020F69E2, Key: ZombieGenericMalePrefix020, Value: Fiovras
+Hash: 6D11129A, Key: PlaguebearerSuffix006, Value:  Taintspawn
+Hash: 6D11129B, Key: PlaguebearerSuffix007, Value:  Festerspawn
+Hash: F0B0381F, Key: DemonGenericFemalePrefix025, Value: Daemvyra
+Hash: 0EFBDAB2, Key: MultishotSuffix004, Value:  Mirrowen
+Hash: 0EFBDAB3, Key: MultishotSuffix005, Value:  Multinze
+Hash: 0EFBDAB4, Key: MultishotSuffix006, Value:  Hydraxius
+Hash: 0EFBDAB5, Key: MultishotSuffix007, Value:  Duplicon
+Hash: 0EFBDAB6, Key: MultishotSuffix008, Value:  Repliton
+Hash: 0EFBDAB7, Key: MultishotSuffix009, Value:  Multaise
+Hash: 025DB343, Key: ChillingWindSuffix011, Value:  Forthwind
+Hash: D5E385B2, Key: WallerSuffix006, Value:  Landgrave
+Hash: 0EFBDACF, Key: MultishotSuffix010, Value:  Mirrolley
+Hash: 78AB02DF, Key: FrozenSuffix006, Value:  Shatterton
+Hash: 9EE19B47, Key: FireOrbsSuffix006, Value:  Infernovic
+Hash: D6DCE6F2, Key: TeleporterSuffix007, Value:  Thunderra
+Hash: 025DB344, Key: ChillingWindSuffix012, Value:  Windsborough
+Hash: 1F93B96C, Key: LightningTotemsSuffix007, Value:  Stormont
+Hash: 91F6D8F9, Key: FireEnchantedSuffix004, Value:  Burnier
+Hash: 12E70A3B, Key: ShadowEnchantedSuffix006, Value:  Nightford
+Hash: 00FEB201, Key: MortarSuffix007, Value:  Flareney
+Hash: E9B0293C, Key: LightningEnchantedSuffix009, Value:  Sparkov
+Hash: 01D89198, Key: ElectricLanceSuffix005, Value:  Shocklin
+Hash: A67A5B97, Key: ColdEnchantedSuffix006, Value:  Icecott
+Hash: 3D196730, Key: PoisonEnchantedSuffix009, Value:  Rottinov
+Hash: 69D27969, Key: WerewolfGenericPrefix021, Value: Tyssla
+Hash: FD9BD14D, Key: GhostGenericFemalePrefix021, Value: Ava
+Hash: 0A1F8350, Key: CultistGenericFemalePrefix021, Value: Velda
+Hash: 34800E23, Key: KnightCasterGenericPrefix001, Value: Inquisitor Roulf
+Hash: 34800E24, Key: KnightCasterGenericPrefix002, Value: Inquisitor Frederic
+Hash: 34800E25, Key: KnightCasterGenericPrefix003, Value: Inquisitor Jurdi
+Hash: 34800E26, Key: KnightCasterGenericPrefix004, Value: Inquisitor Hughoc
+Hash: 34800E27, Key: KnightCasterGenericPrefix005, Value: Inquisitor Evrat
+Hash: 34800E28, Key: KnightCasterGenericPrefix006, Value: Inquisitor Bertelemi
+Hash: 34800E29, Key: KnightCasterGenericPrefix007, Value: Inquisitor Adinet
+Hash: 34800E2A, Key: KnightCasterGenericPrefix008, Value: Inquisitor Fouques
+Hash: 34800E2B, Key: KnightCasterGenericPrefix009, Value: Inquisitor Isemberd
+Hash: 34800E43, Key: KnightCasterGenericPrefix010, Value: Inquisitor Gylbard
+Hash: 34800E44, Key: KnightCasterGenericPrefix011, Value: Inquisitor Hervoet
+Hash: 34800E45, Key: KnightCasterGenericPrefix012, Value: Inquisitor Barnabas
+Hash: 34800E46, Key: KnightCasterGenericPrefix013, Value: Inquisitor Odinel
+Hash: 34800E47, Key: KnightCasterGenericPrefix014, Value: Inquisitor Bersaba
+Hash: 34800E48, Key: KnightCasterGenericPrefix015, Value: Inquisitor Houdouyn
+Hash: 34800E49, Key: KnightCasterGenericPrefix016, Value: Inquisitor Yda
+Hash: 34800E4A, Key: KnightCasterGenericPrefix017, Value: Inquisitor Cedany
+Hash: 34800E4B, Key: KnightCasterGenericPrefix018, Value: Inquisitor Ranulph
+Hash: 34800E4C, Key: KnightCasterGenericPrefix019, Value: Inquisitor Thrayn
+Hash: 34800E64, Key: KnightCasterGenericPrefix020, Value: Inquisitor Donathan
+Hash: 937D71AC, Key: KnightGenericPrefix075, Value: Donathan
+Hash: 937D71AD, Key: KnightGenericPrefix076, Value: Sir Donathan
+Hash: 937D71AE, Key: KnightGenericPrefix077, Value: Commander Donathan
+Hash: 937D71AF, Key: KnightGenericPrefix078, Value: Lord Donathan
+Hash: 937D71B0, Key: KnightGenericPrefix079, Value: Captain Donathan
+Hash: 937D71C8, Key: KnightGenericPrefix080, Value: Lieutenant Donathan
+Hash: FB942287, Key: FlyGenericPrefix001, Value: Chilmala
+Hash: FB942288, Key: FlyGenericPrefix002, Value: Khaxhirun
+Hash: FB942289, Key: FlyGenericPrefix003, Value: Idughlatai
+Hash: FB94228A, Key: FlyGenericPrefix004, Value: Segexanira
+Hash: FB94228B, Key: FlyGenericPrefix005, Value: Kiribixh
+Hash: FB94228C, Key: FlyGenericPrefix006, Value: Jellatai
+Hash: FB94228D, Key: FlyGenericPrefix007, Value: Kirixenur
+Hash: FB94228E, Key: FlyGenericPrefix008, Value: Argarin
+Hash: FB94228F, Key: FlyGenericPrefix009, Value: Ashiji
+Hash: FB9422A7, Key: FlyGenericPrefix010, Value: Sanchedei
+Hash: FB9422A8, Key: FlyGenericPrefix011, Value: Jamuremur
+Hash: FB9422A9, Key: FlyGenericPrefix012, Value: Sorkharan
+Hash: FB9422AA, Key: FlyGenericPrefix013, Value: Dinzorig
+Hash: FB9422AB, Key: FlyGenericPrefix014, Value: Xordhur
+Hash: FB9422AC, Key: FlyGenericPrefix015, Value: Chizorig
+Hash: FB9422AD, Key: FlyGenericPrefix016, Value: Sechezhosun
+Hash: FB9422AE, Key: FlyGenericPrefix017, Value: Tunzorig
+Hash: FB9422AF, Key: FlyGenericPrefix018, Value: Qorikim
+Hash: FB9422B0, Key: FlyGenericPrefix019, Value: Tamaxhigin
+Hash: FB9422C8, Key: FlyGenericPrefix020, Value: Bogarmazkhan
+Hash: 4579DF9B, Key: MaggotGenericPrefix001, Value: Jelgrot
+Hash: 4579DF9C, Key: MaggotGenericPrefix002, Value: Cagrot
+Hash: 4579DF9D, Key: MaggotGenericPrefix003, Value: Kuzhnege
+Hash: 4579DF9E, Key: MaggotGenericPrefix004, Value: Achiketu
+Hash: 4579DF9F, Key: MaggotGenericPrefix005, Value: Durulbuccha
+Hash: 4579DFA0, Key: MaggotGenericPrefix006, Value: Baihinkuder
+Hash: 4579DFA1, Key: MaggotGenericPrefix007, Value: Tabujam
+Hash: 4579DFA2, Key: MaggotGenericPrefix008, Value: Horkhuji
+Hash: 4579DFA3, Key: MaggotGenericPrefix009, Value: Jelsemur
+Hash: 4579DFBB, Key: MaggotGenericPrefix010, Value: Khagagrot
+Hash: 4579DFBC, Key: MaggotGenericPrefix011, Value: Argakul
+Hash: 4579DFBD, Key: MaggotGenericPrefix012, Value: Borjiqadar
+Hash: 4579DFBE, Key: MaggotGenericPrefix013, Value: Khaishirin
+Hash: 4579DFBF, Key: MaggotGenericPrefix014, Value: Chuacegei
+Hash: 4579DFC0, Key: MaggotGenericPrefix015, Value: Amagrot
+Hash: 4579DFC1, Key: MaggotGenericPrefix016, Value: Jelbuccha
+Hash: 4579DFC2, Key: MaggotGenericPrefix017, Value: Merritai
+Hash: 4579DFC3, Key: MaggotGenericPrefix018, Value: Ukhuji
+Hash: 4579DFC4, Key: MaggotGenericPrefix019, Value: Uraganira
+Hash: 4579DFDC, Key: MaggotGenericPrefix020, Value: Qorigetei
+Hash: 69D2796A, Key: WerewolfGenericPrefix022, Value: Lothian
+Hash: 69D2796B, Key: WerewolfGenericPrefix023, Value: Radulfr
+Hash: 69D2796C, Key: WerewolfGenericPrefix024, Value: Barnet
+Hash: 69D2796D, Key: WerewolfGenericPrefix025, Value: Bernet
+Hash: 69D2796E, Key: WerewolfGenericPrefix026, Value: Arcadio
+Hash: 69D2796F, Key: WerewolfGenericPrefix027, Value: Wulfear
+Hash: 69D27970, Key: WerewolfGenericPrefix028, Value: Dernold
+Hash: 69D27971, Key: WerewolfGenericPrefix029, Value: Marrok
+Hash: EC33C992, Key: VortexSuffix005, Value:  Coldrage
+Hash: 3D196748, Key: PoisonEnchantedSuffix010, Value:  Venomfang
+Hash: 47E870B7, Key: ChaosSuffix004, Value:  Terrorclaw
+Hash: 12E70A3C, Key: ShadowEnchantedSuffix007, Value:  Shadowfang
+Hash: 91F6D8FA, Key: FireEnchantedSuffix005, Value:  Blaze
+Hash: 184A9D3F, Key: SummonerSuffix004, Value:  Ebonhowl
+Hash: 4C9176AF, Key: BanditGenericMalePrefix021, Value: Orym
+Hash: 7D88740D, Key: GoatmenGenericPrefix034, Value: Nuvius
+Hash: 7D88740E, Key: GoatmenGenericPrefix035, Value: Khezzol
+Hash: 0A1F8351, Key: CultistGenericFemalePrefix022, Value: Inru
+Hash: 937D71C9, Key: KnightGenericPrefix081, Value: Decillus
+Hash: 937D71CA, Key: KnightGenericPrefix082, Value: Sir Decillus
+Hash: 937D71CB, Key: KnightGenericPrefix083, Value: Commander Decillus
+Hash: 937D71CC, Key: KnightGenericPrefix084, Value: Lord Decillus
+Hash: 937D71CD, Key: KnightGenericPrefix085, Value: Captain Decillus
+Hash: 937D71CE, Key: KnightGenericPrefix086, Value: Lieutenant Decillus
+Hash: F6441EA5, Key: CultistGenericMalePrefix021, Value: Dhagob
+Hash: 292305DA, Key: BanditGenericFemalePrefix021, Value: Tothe
+Hash: 025DB345, Key: ChillingWindSuffix013, Value:  Chillsbreath
+Hash: 78AB02E0, Key: FrozenSuffix007, Value:  Rimewalker
+Hash: 78AB02E1, Key: FrozenSuffix008, Value:  Rimeclaw
+Hash: 6D11129C, Key: PlaguebearerSuffix008, Value:  Pusmaw
+Hash: 33E14B1C, Key: S01_Malignant_WrathfulSingleAffixElitePrefix001, Value: Wrathful
+Hash: 33E14B1D, Key: S01_Malignant_WrathfulSingleAffixElitePrefix002, Value: Wrathful
+Hash: 33E14B1E, Key: S01_Malignant_WrathfulSingleAffixElitePrefix003, Value: Wrathful
+Hash: 93E0E4B1, Key: S01_Malignant_ViciousSingleAffixElitePrefix001, Value: Vicious
+Hash: 93E0E4B2, Key: S01_Malignant_ViciousSingleAffixElitePrefix002, Value: Vicious
+Hash: 93E0E4B3, Key: S01_Malignant_ViciousSingleAffixElitePrefix003, Value: Vicious
+Hash: A68564CE, Key: S01_Malignant_DeviousSingleAffixElitePrefix001, Value: Devious
+Hash: A68564CF, Key: S01_Malignant_DeviousSingleAffixElitePrefix002, Value: Devious
+Hash: A68564D0, Key: S01_Malignant_DeviousSingleAffixElitePrefix003, Value: Devious
+Hash: B9395979, Key: S01_Malignant_BrutalSingleAffixElitePrefix001, Value: Brutal
+Hash: B939597A, Key: S01_Malignant_BrutalSingleAffixElitePrefix002, Value: Brutal
+Hash: B939597B, Key: S01_Malignant_BrutalSingleAffixElitePrefix003, Value: Brutal
+Hash: DF734C45, Key: BloodSeekerBarbPrefix001, Value: Faath
+Hash: DF734C46, Key: BloodSeekerBarbPrefix002, Value: Boszur
+Hash: DF734C47, Key: BloodSeekerBarbPrefix003, Value: Ghaalu
+Hash: DF734C48, Key: BloodSeekerBarbPrefix004, Value: Ranthr
+Hash: DF734C49, Key: BloodSeekerBarbPrefix005, Value: Buuna
+Hash: DF734C4A, Key: BloodSeekerBarbPrefix006, Value: Isandr
+Hash: DF734C4B, Key: BloodSeekerBarbPrefix007, Value: Enata
+Hash: DF734C4C, Key: BloodSeekerBarbPrefix008, Value: Valapa
+Hash: DF734C4D, Key: BloodSeekerBarbPrefix009, Value: Kalgr
+Hash: DF734C65, Key: BloodSeekerBarbPrefix010, Value: Shuulta
+Hash: 4EA85AAC, Key: BloodSeekerBarbSuffix001, Value:  of Oxen Tribe
+Hash: 4EA85AAD, Key: BloodSeekerBarbSuffix002, Value:  of Crane Tribe
+Hash: 4EA85AAE, Key: BloodSeekerBarbSuffix003, Value:  of Bear Tribe
+Hash: 4EA85AAF, Key: BloodSeekerBarbSuffix004, Value:  of Owl Tribe
+Hash: 4EA85AB0, Key: BloodSeekerBarbSuffix005, Value:  of Snake Tribe
+Hash: 4BCDCC99, Key: BloodSeekerDruPrefix001, Value: Durusk
+Hash: 4BCDCC9A, Key: BloodSeekerDruPrefix002, Value: Olfa
+Hash: 4BCDCC9B, Key: BloodSeekerDruPrefix003, Value: Zaigra
+Hash: 4BCDCC9C, Key: BloodSeekerDruPrefix004, Value: Olashi
+Hash: 4BCDCC9D, Key: BloodSeekerDruPrefix005, Value: Tsurtha
+Hash: 4BCDCC9E, Key: BloodSeekerDruPrefix006, Value: Haorun
+Hash: 4BCDCC9F, Key: BloodSeekerDruPrefix007, Value: Din'targ
+Hash: 4BCDCCA0, Key: BloodSeekerDruPrefix008, Value: Uthfal
+Hash: 4BCDCCA1, Key: BloodSeekerDruPrefix009, Value: Uradaine
+Hash: 4BCDCCB9, Key: BloodSeekerDruPrefix010, Value: Furthym
+Hash: BB02DB00, Key: BloodSeekerDruSuffix001, Value:  of Tirmair
+Hash: BB02DB01, Key: BloodSeekerDruSuffix002, Value:  of Marowen
+Hash: BB02DB02, Key: BloodSeekerDruSuffix003, Value:  of Cerrigar
+Hash: BB02DB03, Key: BloodSeekerDruSuffix004, Value:  of Corbach
+Hash: BB02DB04, Key: BloodSeekerDruSuffix005, Value:  of Braestaig
+Hash: 3072D856, Key: BloodSeekerRogPrefix001, Value: Inuban
+Hash: 3072D857, Key: BloodSeekerRogPrefix002, Value: Watiran
+Hash: 3072D858, Key: BloodSeekerRogPrefix003, Value: Vaen
+Hash: 3072D859, Key: BloodSeekerRogPrefix004, Value: Djall
+Hash: 3072D85A, Key: BloodSeekerRogPrefix005, Value: Ritha
+Hash: 3072D85B, Key: BloodSeekerRogPrefix006, Value: Voga
+Hash: 3072D85C, Key: BloodSeekerRogPrefix007, Value: Orrik
+Hash: 3072D85D, Key: BloodSeekerRogPrefix008, Value: Azaat
+Hash: 3072D85E, Key: BloodSeekerRogPrefix009, Value: Thash
+Hash: 3072D876, Key: BloodSeekerRogPrefix010, Value: Remori
+Hash: 9FA7E6BD, Key: BloodSeekerRogSuffix001, Value:  of Backwater
+Hash: 9FA7E6BE, Key: BloodSeekerRogSuffix002, Value:  of Gea Kul
+Hash: 9FA7E6BF, Key: BloodSeekerRogSuffix003, Value:  of Ashwold
+Hash: 9FA7E6C0, Key: BloodSeekerRogSuffix004, Value:  of Kingsport
+Hash: 9FA7E6C1, Key: BloodSeekerRogSuffix005, Value:  of Skovos
+Hash: D61C9A45, Key: BloodSeekerSorcPrefix001, Value: Unaeus
+Hash: D61C9A46, Key: BloodSeekerSorcPrefix002, Value: Nathama
+Hash: D61C9A47, Key: BloodSeekerSorcPrefix003, Value: Jerinith
+Hash: D61C9A48, Key: BloodSeekerSorcPrefix004, Value: Grimani
+Hash: D61C9A49, Key: BloodSeekerSorcPrefix005, Value: Du'tham
+Hash: D61C9A4A, Key: BloodSeekerSorcPrefix006, Value: Cartham
+Hash: D61C9A4B, Key: BloodSeekerSorcPrefix007, Value: Sundrin
+Hash: D61C9A4C, Key: BloodSeekerSorcPrefix008, Value: Elijati
+Hash: D61C9A4D, Key: BloodSeekerSorcPrefix009, Value: Nempa
+Hash: D61C9A65, Key: BloodSeekerSorcPrefix010, Value: Gendyth
+Hash: 4551A8AC, Key: BloodSeekerSorcSuffix001, Value:  of the Vizjerei
+Hash: 4551A8AD, Key: BloodSeekerSorcSuffix002, Value:  of the Ennead
+Hash: 4551A8AE, Key: BloodSeekerSorcSuffix003, Value:  of the Ammuit
+Hash: 4551A8AF, Key: BloodSeekerSorcSuffix004, Value:  of the Taan
+Hash: 4551A8B0, Key: BloodSeekerSorcSuffix005, Value:  of the Zann Esu
+Hash: 26DC09C4, Key: BloodSeekerNecPrefix001, Value: Mazakh
+Hash: 26DC09C5, Key: BloodSeekerNecPrefix002, Value: Arthash
+Hash: 26DC09C6, Key: BloodSeekerNecPrefix003, Value: Lythar
+Hash: 26DC09C7, Key: BloodSeekerNecPrefix004, Value: Enjaan
+Hash: 26DC09C8, Key: BloodSeekerNecPrefix005, Value: Orvath
+Hash: 26DC09C9, Key: BloodSeekerNecPrefix006, Value: Drigga
+Hash: 26DC09CA, Key: BloodSeekerNecPrefix007, Value: Bathat
+Hash: 26DC09CB, Key: BloodSeekerNecPrefix008, Value: Xestria
+Hash: 26DC09CC, Key: BloodSeekerNecPrefix009, Value: Nuur
+Hash: 26DC09E4, Key: BloodSeekerNecPrefix010, Value: Phydian
+Hash: 9611182B, Key: BloodSeekerNecSuffix001, Value:  of Aranoch
+Hash: 9611182C, Key: BloodSeekerNecSuffix002, Value:  of Khanduras
+Hash: 9611182D, Key: BloodSeekerNecSuffix003, Value:  of Yelesna
+Hash: 9611182E, Key: BloodSeekerNecSuffix004, Value:  of Kurast
+Hash: 9611182F, Key: BloodSeekerNecSuffix005, Value:  of Hawezar
+Hash: F9750780, Key: S01_Malignant_BrutalSingleAffixElitePrefix003_NoSeason, Value: Brutal
+Hash: 67FFA275, Key: S01_Malignant_DeviousSingleAffixElitePrefix003_NoSeason, Value: Devious
+Hash: 5F18B1B8, Key: S01_Malignant_ViciousSingleAffixElitePrefix003_NoSeason, Value: Vicious
+Hash: E5568083, Key: S01_Malignant_WrathfulSingleAffixElitePrefix003_NoSeason, Value: Wrathful
+Hash: 9888D756, Key: S03_ConstructGenericPrefix001, Value: Child
+Hash: 9888D757, Key: S03_ConstructGenericPrefix002, Value: Guardian
+Hash: 9888D758, Key: S03_ConstructGenericPrefix003, Value: Regent
+Hash: 9888D759, Key: S03_ConstructGenericPrefix004, Value: Duke
+Hash: 9888D75A, Key: S03_ConstructGenericPrefix005, Value: Armiger
+Hash: 9888D75B, Key: S03_ConstructGenericPrefix006, Value: The Copper
+Hash: 9888D75C, Key: S03_ConstructGenericPrefix007, Value: Squire
+Hash: 9888D75D, Key: S03_ConstructGenericPrefix008, Value: Knight
+Hash: 9888D75E, Key: S03_ConstructGenericPrefix009, Value: Master
+Hash: 01D89199, Key: ElectricLanceSuffix006, Value:  of the Star
+Hash: 1F93B96D, Key: LightningTotemsSuffix008, Value:  of the Spindle
+Hash: D6DCE6F3, Key: TeleporterSuffix008, Value:  of the Gate
+Hash: 9EE19B48, Key: FireOrbsSuffix007, Value:  of the Cinder
+Hash: 00FEB202, Key: MortarSuffix008, Value:  of the Pestle
+Hash: 78AB02E2, Key: FrozenSuffix009, Value:  of the Ice
+Hash: 025DB346, Key: ChillingWindSuffix014, Value:  of the Flue
+Hash: EC33C993, Key: VortexSuffix006, Value:  of the Vortex
+Hash: D5E385B3, Key: WallerSuffix007, Value:  of the Gaol
+Hash: 081AE019, Key: VampiricEnrageSuffix007, Value:  of the Needle
+Hash: 232C274F, Key: SuppressorSuffix004, Value:  of the Shield
+Hash: 47E870B8, Key: ChaosSuffix005, Value:  of the Hunt
+Hash: 184A9D40, Key: SummonerSuffix005, Value:  of the Bugle
+Hash: 9038F978, Key: TetherSuffix007, Value:  of the Hook
+Hash: 6D11129D, Key: PlaguebearerSuffix009, Value:  of the Retort
+Hash: 91F6D8FB, Key: FireEnchantedSuffix006, Value:  of the Athanor
+Hash: A67A5B98, Key: ColdEnchantedSuffix007, Value:  of the Frost
+Hash: 3D196749, Key: PoisonEnchantedSuffix011, Value:  of the Alembic
+Hash: 0EFBDAD0, Key: MultishotSuffix011, Value:  of the Onager
+Hash: E9B02954, Key: LightningEnchantedSuffix010, Value:  of the Spark
+Hash: 12E70A3D, Key: ShadowEnchantedSuffix008, Value:  of the Sconce
+Hash: 46DC1999, Key: S04_DemonSuccubusMinibossPrefix001, Value: Kylay
+Hash: EBC9F6C1, Key: HellSeekerBarbSuffix001, Value:  of Oxen Tribe
+Hash: EBC9F6C2, Key: HellSeekerBarbSuffix002, Value:  of Crane Tribe
+Hash: EBC9F6C3, Key: HellSeekerBarbSuffix003, Value:  of Bear Tribe
+Hash: EBC9F6C4, Key: HellSeekerBarbSuffix004, Value:  of Owl Tribe
+Hash: EBC9F6C5, Key: HellSeekerBarbSuffix005, Value:  of Snake Tribe
+Hash: 43A6C875, Key: HellSeekerDruSuffix001, Value:  of Tirmair
+Hash: 43A6C876, Key: HellSeekerDruSuffix002, Value:  of Marowen
+Hash: 43A6C877, Key: HellSeekerDruSuffix003, Value:  of Cerrigar
+Hash: 43A6C878, Key: HellSeekerDruSuffix004, Value:  of Corbach
+Hash: 43A6C879, Key: HellSeekerDruSuffix005, Value:  of Braestaig
+Hash: 1EB505A0, Key: HellSeekerNecSuffix001, Value:  of Aranoch
+Hash: 1EB505A1, Key: HellSeekerNecSuffix002, Value:  of Khanduras
+Hash: 1EB505A2, Key: HellSeekerNecSuffix003, Value:  of Yelesna
+Hash: 1EB505A3, Key: HellSeekerNecSuffix004, Value:  of Kurast
+Hash: 1EB505A4, Key: HellSeekerNecSuffix005, Value:  of Hawezar
+Hash: 284BD432, Key: HellSeekerRogSuffix001, Value:  of Backwater
+Hash: 284BD433, Key: HellSeekerRogSuffix002, Value:  of Gea Kul
+Hash: 284BD434, Key: HellSeekerRogSuffix003, Value:  of Ashwold
+Hash: 284BD435, Key: HellSeekerRogSuffix004, Value:  of Kingsport
+Hash: 284BD436, Key: HellSeekerRogSuffix005, Value:  of Skovos
+Hash: E27344C1, Key: HellSeekerSorcSuffix001, Value:  of the Vizjerei
+Hash: E27344C2, Key: HellSeekerSorcSuffix002, Value:  of the Ennead
+Hash: E27344C3, Key: HellSeekerSorcSuffix003, Value:  of the Ammuit
+Hash: E27344C4, Key: HellSeekerSorcSuffix004, Value:  of the Taan
+Hash: E27344C5, Key: HellSeekerSorcSuffix005, Value:  of the Zann Esu
+Hash: 7C94E85A, Key: HellSeekerBarbPrefix001, Value: Heinrok
+Hash: 7C94E85B, Key: HellSeekerBarbPrefix002, Value: Ulynax
+Hash: 7C94E85C, Key: HellSeekerBarbPrefix003, Value: Ghago
+Hash: 7C94E85D, Key: HellSeekerBarbPrefix004, Value: Irein
+Hash: 7C94E85E, Key: HellSeekerBarbPrefix005, Value: Fiksch
+Hash: 7C94E85F, Key: HellSeekerBarbPrefix006, Value: Effe
+Hash: D471BA0E, Key: HellSeekerDruPrefix001, Value: Falk
+Hash: D471BA0F, Key: HellSeekerDruPrefix002, Value: Zaign
+Hash: D471BA10, Key: HellSeekerDruPrefix003, Value: Okrish
+Hash: D471BA11, Key: HellSeekerDruPrefix004, Value: Tsuix
+Hash: D471BA12, Key: HellSeekerDruPrefix005, Value: Zatrig
+Hash: D471BA13, Key: HellSeekerDruPrefix006, Value: Tsnar’r
+Hash: AF7FF739, Key: HellSeekerNecPrefix001, Value: Marzika
+Hash: AF7FF73A, Key: HellSeekerNecPrefix002, Value: Arashn
+Hash: AF7FF73B, Key: HellSeekerNecPrefix003, Value: Lienaj
+Hash: AF7FF73C, Key: HellSeekerNecPrefix004, Value: Vriggi
+Hash: AF7FF73D, Key: HellSeekerNecPrefix005, Value: Molod
+Hash: AF7FF73E, Key: HellSeekerNecPrefix006, Value: Oinak
+Hash: B916C5CB, Key: HellSeekerRogPrefix001, Value: Volgok
+Hash: B916C5CC, Key: HellSeekerRogPrefix002, Value: Incuir
+Hash: B916C5CD, Key: HellSeekerRogPrefix003, Value: Waritia
+Hash: B916C5CE, Key: HellSeekerRogPrefix004, Value: Aznab
+Hash: B916C5CF, Key: HellSeekerRogPrefix005, Value: Ele’kri
+Hash: 733E365A, Key: HellSeekerSorcPrefix001, Value: Zephor
+Hash: 733E365B, Key: HellSeekerSorcPrefix002, Value: Nathox
+Hash: 733E365C, Key: HellSeekerSorcPrefix003, Value: Genyid
+Hash: 733E365D, Key: HellSeekerSorcPrefix004, Value: Suim
+Hash: 733E365E, Key: HellSeekerSorcPrefix005, Value: Oardac
+Hash: 733E365F, Key: HellSeekerSorcPrefix006, Value: Porreix
+Hash: 46DC199A, Key: S04_DemonSuccubusMinibossPrefix002, Value: Dhire
+Hash: 46DC199B, Key: S04_DemonSuccubusMinibossPrefix003, Value: Exsari
+Hash: 46DC199C, Key: S04_DemonSuccubusMinibossPrefix004, Value: Vyola
+Hash: 46DC199D, Key: S04_DemonSuccubusMinibossPrefix005, Value: Anidia
+Hash: 46DC199E, Key: S04_DemonSuccubusMinibossPrefix006, Value: Sathia
+Hash: 46DC199F, Key: S04_DemonSuccubusMinibossPrefix007, Value: Vellei
+Hash: B6112800, Key: S04_DemonSuccubusMinibossSuffix001, Value: 

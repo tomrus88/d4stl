@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Interested in this strange ore I found?"
+Hash: 8EECE3DE, Key: Line1.137EC4, Value: What a fortunate find! Once processed, a little of this metal will strengthen the steel in my weapons. Let me trade you for it.

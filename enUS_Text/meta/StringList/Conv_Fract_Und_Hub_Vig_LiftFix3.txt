@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Underworld 1 - 05 - Stay in Underworld
+Hash: 27FD9937, Key: Line7.6DE47, Value: (sigh) We need reinforcements.
+Hash: 8E091FB5, Key: Line5.6DE47, Value: No, we can--
+Hash: A67632E2, Key: Line15.FA726, Value: (quiet pained groans)
+Hash: F6AC5EAF, Key: VoiceDir15.FA726, Value: muffled, he's behind a large door
+Hash: 091F8A44, Key: Line13.6DE47, Value: What was that?
+Hash: 3D087D48, Key: Line17.6DE47, Value: It came from beyond the gate...

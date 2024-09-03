@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Fading Echo
+Hash: 003892BF, Key: Desc, Value: These ruins have become host to a growing army of demons. 

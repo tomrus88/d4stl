@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Temple Body
+Hash: 13A53A8B, Key: Series, Value: "Adepts of Faith"

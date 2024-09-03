@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Varshan's Journal
+Hash: F2CA04D8, Key: NoticeSignText, Value: "Velkhova is petrified. They can't understand what's happening to them or, perhaps, some simply don't want to. But I won't let them suffer without hope. I know Inarius will guide us back to the Light."

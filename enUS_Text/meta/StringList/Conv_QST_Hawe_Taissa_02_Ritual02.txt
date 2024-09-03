@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “Where are the witches?”
+Hash: 5A196F77, Key: Line1.789BF, Value: If we are lucky, the witches will come when I start the ritual. But… they are not always so keen on doing what they are told.
+Hash: C922D5A4, Key: VoiceDir1.789BF, Value: A little distracted
+Hash: 8E02627B, Key: Line5.789BF, Value: All we can do is try, and hope.
+Hash: F40DE8F9, Key: Line3.789BF, Value: I have placed the Nangari eyes in four of the braziers. Do not worry about the fifth one. That belonged to Valtha…
+Hash: 63174F26, Key: VoiceDir3.789BF, Value: A hint of weight to the last sentence. Valtha was her former mentor. The Player had to kill her earlier in the story because she turned to Lilith, but the death had an impact on Taissa.
+Hash: 27F6DBFD, Key: Line7.789BF, Value: On my word, light the flames.

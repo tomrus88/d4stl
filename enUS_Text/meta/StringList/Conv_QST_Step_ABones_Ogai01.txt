@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “What are you doing?”
+Hash: 8ECE2685, Key: Line1.10BCF2, Value: (panting) These wretched dead keep their secrets silent. Rotting bones. Useless liars, huh!
+Hash: DF045252, Key: VoiceDir1.10BCF2, Value: frustrated, rising anger
+Hash: 6751D047, Key: Line3.10BCF2, Value: They were privileged to know the Grinning One. Receive its gifts.
+Hash: B787FC14, Key: VoiceDir3.10BCF2, Value: slighlty frustrated, jealous
+Hash: 3FD57A09, Key: Line5.10BCF2, Value: Unworthy! All of you!
+Hash: 900BA5D6, Key: VoiceDir5.10BCF2, Value: incensed, angry; away, speaking to surrounding dead
+Hash: 185923CB, Key: Line7.10BCF2, Value: I’ve collected their dust. Sniffed it deep, but… no answers. No words. Only headaches.
+Hash: 688F4F98, Key: VoiceDir7.10BCF2, Value: frustrated, confused; pained on "headaches"
+Hash: F0DCCD8D, Key: Line9.10BCF2, Value: The dust of weaker beings, unfitting the Grinning One.
+Hash: 4112F95A, Key: VoiceDir9.10BCF2, Value: bitter, insulting
+Hash: 45358CB6, Key: Line11.10BCF2, Value: Maybe you can find proper bones. Heh, yes -- yes! Bring me their dust. Break the silence!
+Hash: 9C313223, Key: VoiceDir11.10BCF2, Value: manic, rising hope; elated by potential assistance

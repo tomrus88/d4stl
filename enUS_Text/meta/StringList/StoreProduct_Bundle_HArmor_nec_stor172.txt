@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Death Legacy
+Hash: A646FFA4, Key: Description, Value: "It is well known that a mortal wielded the powers of death itself. To harness those abilities once again, but this time to better serve Trag'oul, to better serve the Balance." - Cyrik, student of Zayl
+Hash: 083EE0CE, Key: Quote, Value: The allure of death's power.
+Hash: 13A53A8B, Key: Series, Value: Prestige Necromancer Equipment

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Vial of Werewolf Blood
+Hash: F5C7BC0A, Key: Flavor, Value: Blood from a cursed werewolf. It is a dark, sickly color. Hopefully this will serve as the "blood of the ally" Artair requested.

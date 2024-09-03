@@ -1,0 +1,7 @@
+Hash: B12EDDB8, Key: Phase21Description, Value: The hideout discovered, it's time to confront the Triune cultists.
+Hash: 003DFCC1, Key: Name, Value: Head of the Snake
+Hash: 0871A46B, Key: Toast, Value: Boss Fight for the end of the Lonely Wolf Questline
+Hash: 5CD6EA0D, Key: Phase8Description, Value: The Triune were stopped, but Dawood has been injured.
+Hash: 9F90DE2D, Key: Callback7Header, Value: Check on Dawood
+Hash: B87761DE, Key: Phase18Description, Value: The hideout discovered, it's time to confront the Triune cultists.
+Hash: 0BDB18BB, Key: Callback23Header, Value: Slay the Triune cultists

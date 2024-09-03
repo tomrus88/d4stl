@@ -1,0 +1,12 @@
+Hash: 2B47965B, Key: Line7.F5300, Value: You see! They engage in dark heresy!
+Hash: 9A50FC88, Key: VoiceDir7.F5300, Value: Hateful and very high energy. You caught a witch mid-ritual and you've been proven right.
+Hash: 0C698A30, Key: Line13.F52ED, Value: Mother...?
+Hash: 5C9FB5FD, Key: VoiceDir13.F52ED, Value: Surprised, confused.
+Hash: C53C1292, Key: Line9.F52F0, Value: You... (cough) what are you...what (wheeze) have you become!?
+Hash: 344578BF, Key: VoiceDir9.F52F0, Value: Horrified, and taxed by exertion. You can barely get the words out between wheezing.
+Hash: 5EB6E58F, Key: Line21.F52ED, Value: No! You're wrong! Gulyas has--
+Hash: AEED115C, Key: VoiceDir21.F52ED, Value: This is the first time you've spoken back to your mother ever. Trying to get her to listen. High energy.
+Hash: DA46F6A3, Key: Line19.F52F0, Value: How dare you (cough) raise your voice to me!
+Hash: 2A7D2270, Key: VoiceDir19.F52F0, Value: Hateful, disgusted, taxed by exertion and barely able to get the words out between wheezing gasps.
+Hash: 72750DE6, Key: Line11.F5300, Value: Her soul belongs to the demons now! Kill them all!
+Hash: C2AB39B3, Key: VoiceDir11.F5300, Value: Hateful, commanding a mob to kill. Not here to listen to excuses.

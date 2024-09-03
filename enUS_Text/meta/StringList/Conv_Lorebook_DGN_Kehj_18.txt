@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Knight's journal
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Knight's Journal
+Hash: 5D2379DE, Key: Line1.B8616, Value: Something feels wrong. The commanders are being quiet on what exactly we’re doing here, but the Zakarum were completely corrupted so there is nothing “good” in this place.
+Hash: F717F360, Key: Line3.B8616, Value: The church should have razed this unholy den long ago.
+
+May the Light preserve us.

@@ -1,0 +1,13 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "Neyrelle?"
+Hash: 5A202CB1, Key: Line1.6DE47, Value: It wasn’t a dream. My arm. It’s...it’s really gone.
+Hash: C92992DE, Key: VoiceDir1.6DE47, Value: (shaky, still in shock) 
+Hash: 3D079BE1, Key: Line17.6D03F, Value: You’ll get through this.
+Hash: 8D3DC7AE, Key: VoiceDir17.6D03F, Value: caring
+Hash: 8E091FB5, Key: Line5.6DE47, Value: (crying) You’re going to leave me, aren’t you? You’ll find a place where I can be taken care of...
+Hash: FD1285E2, Key: VoiceDir5.6DE47, Value: Emphasis on 'taken care of'
+Hash: 608DBF14, Key: Line11.BAE4, Value: Do you want to be left behind?
+Hash: C1F212B9, Key: Line9.6DE47, Value: No! I just don’t want to be a burden.
+Hash: 30FB78E6, Key: VoiceDir9.6DE47, Value: tearful
+Hash: 69E26198, Key: Line15.BAE4, Value: Then we won't leave you.
+Hash: 091EA8DD, Key: Line13.6D03F, Value: It never crossed my mind.
+Hash: 5954D4AA, Key: VoiceDir13.6D03F, Value: grunts

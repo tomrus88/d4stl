@@ -1,0 +1,5 @@
+Hash: 086EAA02, Key: title, Value: The Infernal Compass
+Hash: 3D08DF31, Key: 0_instruction, Value: Confront the {c_highlight}Infernal Hordes{/c} again by finding more {c_highlight}Infernal Compasses{/c}.
+Hash: 8C67E8B2, Key: 1_instruction, Value: {c_highlight}Infernal Compasses {/c}can be found in{icon:Marker_Helltide,2.5}{c_highlight}Helltide{/c},{icon:Marker_NightmareDungeonEntrance,2.5}{c_highlight}Nightmare Dungeons{/c}, and within the{icon:Marker_BSK_Entrance,2.5}{c_highlight}Infernal Hordes{/c}.
+Hash: DBC6F233, Key: 2_instruction, Value: {c_highlight}Infernal Compasses{/c} have tiers. You can {c_highlight}craft{/c} them at higher tiers for greater rewards.
+Hash: 2B25FBB4, Key: 3_instruction, Value: Upgrade {c_highlight}Infernal Compasses{/c} using {c_highlight}Abyssal Scrolls{/c}.

@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Vizjerei Journal Page
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Vizjerei Journal Page
+Hash: 5D72A43B, Key: Line1.EDC71, Value: Day Three:
+Our research suggests that a powerful entity is bound to the artifact. Whether by choice or against its will is yet to be seen. The other mages report hearing its whispers in the halls—attempts to poison our hearts with fear and suspicion.
+Hash: CC7C0A68, Key: VoiceDir1.EDC71, Value: Clinical. Scientific. Devoid of emotion.
+Hash: F7671DBD, Key: Line3.EDC71, Value: As a precaution, we have placed wards around our sleeping chambers, and we have agreed to only examine the artifact in groups. No one is to act alone.
+Hash: 915B973F, Key: Line5.EDC71, Value: Research continues tomorrow. It should not take long to bend the entity to our will.

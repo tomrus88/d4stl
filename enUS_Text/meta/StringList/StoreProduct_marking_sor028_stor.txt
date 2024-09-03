@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Geometry of the Silver City
+Hash: 13A53A8B, Key: Series, Value: "Angelic Resonance"

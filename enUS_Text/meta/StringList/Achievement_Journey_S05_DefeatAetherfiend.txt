@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: A Deathless Heart
+Hash: 3A4912CF, Key: DescShort, Value: Defeat an Aether Fiend

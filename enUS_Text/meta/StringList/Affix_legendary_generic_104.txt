@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Assimilation
+Hash: 003892BF, Key: Desc, Value: You have {c_number}[Affix."Static Value 0"|%+|]{/c} increased Dodge Chance. When you Dodge, {c_important}{u}Fortify{/u}{/c} for {c_random}[Affix_Value_1|%|]{/c} of your Maximum Life.
+Hash: 82B7D312, Key: CodexDesc, Value: You have {c_number}[Affix."Static Value 0"|%+|]{/c} Dodge Chance. Dodging {c_important}{u}Fortifies{/u}{/c} for {c_random}[Affix_Value_1|%|]{/c} Maximum Life.

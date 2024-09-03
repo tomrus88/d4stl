@@ -1,0 +1,24 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5D3B8DF4, Key: Line1.BD31C, Value: Mighty Astaroth. The Charred Duke himself…confined to a cage. What a pity.
+Hash: F7313382, Key: Line3.BF6E6, Value: Daughter of Hatred...
+Hash: 912480F8, Key: Line5.BD31C, Value: I have an offer. You will grant me safe passage to a place I am no longer welcome.
+Hash: 2B1A2686, Key: Line7.BF6E6, Value: (growls)
+Hash: 9A238CB3, Key: VoiceDir7.BF6E6, Value: troubled, knowing the implications of what she’s saying
+Hash: C50D73FC, Key: Line9.BD31C, Value: In exchange, I will give you freedom. And more…
+Hash: 6F31F38D, Key: Line11.804B7, Value: (breathing)
+Hash: BF681F5A, Key: VoiceDir11.804B7, Value: shaky, scared breaths
+Hash: 0C3AEB87, Key: Line13.BD31C, Value: Donan’s progeny. His pride and joy.
+Hash: A31AE691, Key: Line15.804B7, Value: (breathing)
+Hash: F351125E, Key: VoiceDir15.804B7, Value: shaky, scared breaths
+Hash: 4023DE8B, Key: Line17.BD31C, Value: Your retribution...
+Hash: 8F5CBB72, Key: Line25.804B7, Value: (breathing)
+Hash: DF92E73F, Key: VoiceDir25.804B7, Value: scared breaths
+Hash: 2C65B36C, Key: Line27.BD31C, Value: ...if you give me what I want.
+Hash: F56841F0, Key: Line23.804B7, Value: (choking)
+Hash: 459E6DBD, Key: VoiceDir23.804B7, Value: scared, choking
+Hash: DA198419, Key: Line19.BF6E6, Value: (growls) You will have safe passage.
+Hash: 2A4FAFE6, Key: VoiceDir19.BF6E6, Value: otherworldly growl
+Hash: 5B73C86E, Key: Line21.804B7, Value: (moaning)
+Hash: ABA9F43B, Key: VoiceDir21.804B7, Value: painful moans
+Hash: C345AE76, Key: Line29.804B7, Value: (screaming)
+Hash: 137BDA43, Key: VoiceDir29.804B7, Value: painful yell

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Iron Wolves' Armory Safe
+Hash: A646FFA4, Key: Description, Value: Contains several Legendaries accumulated by seasoned Iron Wolves.

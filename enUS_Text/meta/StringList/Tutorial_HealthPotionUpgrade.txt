@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Healing Potion Upgrades
+Hash: 3D08DF31, Key: 0_instruction, Value: The potency of your Healing Potion can be upgraded at the {icon:Marker_Crafter_Alchemist, 2.0}{c_highlight}Alchemist{/c}. Upgrading will require gold and herbs collected from around the world. 
+Hash: 8C67E8B2, Key: 1_instruction, Value: Healing Potion Capacity can be increased by earning {c_highlight}Renown{/c} in each Region of Sanctuary. Region Renown can be viewed on the map.

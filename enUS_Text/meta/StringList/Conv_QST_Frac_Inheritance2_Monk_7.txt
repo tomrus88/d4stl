@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What is this place?"
+Hash: 8ED899EA, Key: Line1.123EBF, Value: Here in my study I have been permitted to research the occult. If we displace the demon bound to the axe, perhaps we can then see it destroyed. Take the woodsman's axe from the table.
+Hash: DF0EC5B7, Key: VoiceDir1.123EBF, Value: Somewhat prideful, but more purposeful with the task at hand 

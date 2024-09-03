@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: {icon:BSK_Hellborne, 2.5}{c_gold}Hellborne damage: {/c}{c_bskbane}+25%{/c}
+{icon:BSK_PlayerBoon, 2.5}{c_gold}Slaying Hellborne {/c}{c_bonus} Invigorates you {/c}
+Hash: 2F414F0D, Key: ShortenedName, Value: {icon:BSK_PlayerBoon, 2.5}{c_yellow}The Invigorating Hellborne{/c}

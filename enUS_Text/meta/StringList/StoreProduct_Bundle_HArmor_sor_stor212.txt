@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: The Bitter Winter
+Hash: A646FFA4, Key: Description, Value: Years of research beneath the glacier had rendered Sivalir numb. The touch of his fingers. The warmth of his face. The life in his eyes, gone – replaced by terrible, frozen clarity. It was all he'd ever hoped for.
+Hash: 083EE0CE, Key: Quote, Value: His blood ran cold.
+Hash: 13A53A8B, Key: Series, Value: Prestige Sorcerer Equipment

@@ -1,0 +1,4 @@
+Hash: 435ECD59, Key: Line5.1BCD2B, Value: What would you give to stop Hell, hm? To have the power to challenge the Lord of Hatred himself?
+Hash: 9394F926, Key: VoiceDir5.1BCD2B, Value: Confronting. Rhetorical. Doubts Player's resolve.
+Hash: 1BE2771B, Key: Line7.1BCD2B, Value: The Burning Aether might bestow that power, yet you fret over the cost.
+Hash: 6C18A2E8, Key: VoiceDir7.1BCD2B, Value: Bitter. Contempt.

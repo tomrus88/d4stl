@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Lightning Dancer's
+Hash: 003892BF, Key: Desc, Value: {c_important}Lightning Storm{/c} Critical Strikes spawn {c_number}[Affix."Static Value 0"]{/c} {c_important}Dancing Bolts{/c} that seek enemies in the area dealing {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Lightning damage.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Lightning Storm{/c} Critical Strikes spawn {c_number}[Affix."Static Value 0"]{/c} {c_important}Dancing Bolts{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Lightning damage.

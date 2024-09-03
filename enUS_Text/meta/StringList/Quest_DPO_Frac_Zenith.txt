@@ -1,0 +1,6 @@
+Hash: 003DFCC1, Key: Name, Value: Penitence in solitude.
+Hash: 1EADAE68, Key: Callback2Header, Value: Return the Bloodstone to the Pedestal: {LEFT}
+Hash: B8A227EA, Key: Callback4Header, Value: Defeat the {MONSTER}
+Hash: 9F90DE2D, Key: Callback7Header, Value: Activate the {GIZMO}
+Hash: ED76B060, Key: Callback19Header, Value: Slay the Resurrected Guards: {LEFT}
+Hash: BEE0DBFA, Key: Callback22Header, Value: Travel to the {LEVELAREA}

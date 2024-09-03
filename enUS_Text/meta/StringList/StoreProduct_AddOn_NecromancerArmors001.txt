@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Necromancer Armor Pack
+Hash: A646FFA4, Key: Description, Value: Includes the "Blood Master" and "Viscera Maven" armor sets!

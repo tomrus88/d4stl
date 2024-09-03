@@ -1,0 +1,6 @@
+Hash: 5D8555E3, Key: Line1.FEF74, Value: Sister, I know the Cathedral's normal method is to...burn the person possessed.
+Hash: CC8EBC10, Key: VoiceDir1.FEF74, Value: worried, probing
+Hash: F779CF43, Key: Line3.FEF63, Value: Some of the clergy can be...eager in their reading of the scriptures. That won't happen here.
+Hash: 66833570, Key: VoiceDir3.FEF63, Value: You don't want to talk badly about co-workers, buuuut...
+Hash: 916E48E7, Key: Line5.FEF74, Value: Oh, praise be!
+Hash: 0077AF14, Key: VoiceDir5.FEF74, Value: immense relief.

@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: of the Fortress
+Hash: 003892BF, Key: Desc, Value: For every {c_number}[Affix_Value_1]%{/c} Life you are missing, gain {c_random}[Affix_Value_2|%1|]{/c} Damage Reduction.

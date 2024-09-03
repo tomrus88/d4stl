@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "How does Taissa know you?"
+Hash: 5A39A25C, Key: Line1.9118B, Value: She was like you once, standing here in my hut, asking to be set on the path.
+Hash: C9430889, Key: VoiceDir1.9118B, Value: A little sad thinking about it. There is chilly air between her and Taissa currently.
+Hash: F42E1BDE, Key: Line3.9118B, Value: And you will be like her—taking the answers you need and then never looking back.
+Hash: 6337820B, Key: VoiceDir3.9118B, Value: (sad, wistful) 

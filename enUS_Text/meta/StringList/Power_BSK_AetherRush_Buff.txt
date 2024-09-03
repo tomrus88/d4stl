@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Aether Rush
+Hash: 7786FD97, Key: Buff1_Description, Value: Increase Movement Speed

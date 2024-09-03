@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I'm ready."
+Hash: 2810B8F0, Key: Line7.7FA05, Value: At last. The Knights are sacking the place.
+Hash: 971A1F1D, Key: VoiceDir7.7FA05, Value: panting from battle, snide
+Hash: 091F8A44, Key: Line13.6DE47, Value: Is Lilith here?
+Hash: 6F2A2F5B, Key: Line11.6D03F, Value: Yes, just as the Tree said. The rain, the hellspawn, all spew from the Hell gate underneath the city palace. She’s opened the way.
+Hash: BF605B28, Key: VoiceDir11.6D03F, Value: intense
+Hash: A313225F, Key: Line15.6D03F, Value: If she consumes her father’s essence, Sanctuary is lost. We can’t let that happen.

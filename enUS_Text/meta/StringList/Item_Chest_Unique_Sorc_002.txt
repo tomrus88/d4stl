@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Raiment of the Infinite
+Hash: F5C7BC0A, Key: Flavor, Value: The power you have is never enough.

@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "A cannibal I killed had this amulet."
+Hash: 5D6B5E63, Key: Line1.F78AF, Value: This must have belonged to a traveler. I'll put it here with the other offerings. May it keep others safe on their journeys.

@@ -1,0 +1,6 @@
+Hash: D618A933, Key: Mod0_Description, Value: Unlocks Decrepify Priests, and increases curse damage increased by {c_number}15%{/c}.
+Hash: 9233D930, Key: Mod0_Name, Value: Upgrade B
+Hash: 2577B2B4, Key: Mod1_Description, Value: Unlocks Blood Priests, and increases curse duration by {c_number}1{/c} second.
+Hash: 948901D1, Key: Mod1_Name, Value: Upgrade A
+Hash: 74D6BC35, Key: Mod2_Description, Value: Unlocks an additional Ritual Item slot for Skeleton Priests.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Upgrade C

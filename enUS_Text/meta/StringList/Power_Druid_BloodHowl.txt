@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: name, Value: Blood Howl
+Hash: 003892BF, Key: desc, Value: {if:Mod.GrantSpirit}{c_label}Generate Spirit:{/c_label} {c_resource}{SF_2}{/c_resource}
+{/if}{c_label}Cooldown: {/c}{c_resource}{Cooldown Time}{/c} seconds
+Shapeshift into a Werewolf and howl furiously, Healing you for {c_number}[{SF_0} * 100|1%|]{/c} of your Maximum Life {c_number}([PlayerHealthMax() * SF_0]){/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Healing {icon:arrow,1.2} {c_number}[{SF_0} * 100|1%|]{/c} Life
+Hash: 2070327B, Key: Buff8_Name, Value: Bloody Howl
+Hash: A320401E, Key: Buff8_Description, Value: Providing healing and Critical Strike chance to Companions and allies
+Hash: D618A933, Key: Mod0_Description, Value: Kills reduce the Cooldown of {c_important}Blood Howl{/c} by {c_number}{SF_5}{/c} second.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Blood Howl
+Hash: 2577B2B4, Key: Mod1_Description, Value: {c_important}Blood Howl{/c} also generates {c_number}{SF_2}{/c} Spirit.
+Hash: 948901D1, Key: Mod1_Name, Value: Innate Blood Howl
+Hash: 74D6BC35, Key: Mod2_Description, Value: {c_important}Blood Howl{/c} also increases your Attack Speed by {c_number}[{SF_3}*100|%+|]{/c} for {c_number}{buffduration:MOD_ATTACK_SPEED_BONUS}{/c} seconds.
+Hash: 96DE2A72, Key: Mod2_Name, Value: Preserving Blood Howl

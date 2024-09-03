@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Darkblade
+Hash: F5C7BC0A, Key: Flavor, Value: "While the origins of this accursed blade are lost to time, there is no question that wielding its dark power leaves an indelible stain on one's soul." 
+- Barrett's Book of Implements

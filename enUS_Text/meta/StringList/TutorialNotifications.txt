@@ -1,0 +1,3 @@
+Hash: 52E191D4, Key: Tutorial, Value: Tutorial
+Hash: F5B73362, Key: TutorialSlideValue, Value: {s1} / {s2}
+Hash: DD4001E1, Key: PromptMoreInfo, Value: {icon:left, 2} {c_highlight}(Hold){/c} to interact

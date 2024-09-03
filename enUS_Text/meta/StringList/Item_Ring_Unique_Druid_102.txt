@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Mjölnic Ryng
+Hash: F5C7BC0A, Key: Flavor, Value: A singed wedding band, faintly crackling. It evokes an old rhyme where a bride receives a ring from her beloved, causing them to be struck thrice by lightning. Only the bride was unscathed.

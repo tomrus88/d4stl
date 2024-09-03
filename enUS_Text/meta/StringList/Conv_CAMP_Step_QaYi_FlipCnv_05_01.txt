@@ -1,0 +1,4 @@
+Hash: 5D2265E2, Key: Line1.B6757, Value: Six! Your brother, my uncle, our friends...eaten alive, on the road to what? This place?!
+Hash: CC2BCC0F, Key: VoiceDir1.B6757, Value: Disturbed, upset, desperate
+Hash: 2B5010F6, Key: Line7.EDC7F, Value: Enough, I beg you! Enough...just leave me be.
+Hash: 9A597723, Key: VoiceDir7.EDC7F, Value: Breaking, desperate. Exhausted.

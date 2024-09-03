@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Pact Armor
+Hash: A646FFA4, Key: Description, Value: Randomly provides a Helm, Chest Armor, Gloves, Pants, or Boots with several Pacts.
+
+Pact variants have an equal chance of appearing on items obtained in this way.

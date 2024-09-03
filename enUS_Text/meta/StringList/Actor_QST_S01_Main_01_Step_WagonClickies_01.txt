@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Charred Tome from Orbei
+Hash: F2CA04D8, Key: NoticeSignText, Value: “Humans most often fall to demonic corruption, but the creatures of Sanctuary are not immune. Each is the creation of Inarius and Lilith, born of Light and Darkness. They are vulnerable, same as we.”

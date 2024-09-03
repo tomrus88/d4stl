@@ -1,0 +1,3 @@
+Hash: 086EAA02, Key: title, Value: Weapon Binding
+Hash: 7BFE534B, Key: simple_instruction, Value: Skills can be bound to use specific weapons from the {c_highlight}Skill Assignment Panel{/c} {hotkey:Skills}
+Hash: 86F1FA4E, Key: simple_instruction_controller, Value: Skills can be bound to specific weapons from the Skill Assignment Panel {icon:l3, 2.0}

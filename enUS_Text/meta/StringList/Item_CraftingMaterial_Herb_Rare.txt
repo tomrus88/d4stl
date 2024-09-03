@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Angelbreath
+Hash: A646FFA4, Key: Description, Value: A rare herb found sometimes from harvest nodes and Resplendent Chests. Used at the Alchemist to craft Elixirs, Incense, and Potion Upgrades.  
+Hash: F5C7BC0A, Key: Flavor, Value: A precious and rare strain of lily-of-the-valley. Considered an alchemical catalyst of few peers.

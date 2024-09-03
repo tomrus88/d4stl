@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: Name, Value: Nomadic Royalty
+Hash: A646FFA4, Key: Description, Value: Assassins sometimes travel vast distances in search of their mark. So these travel in style.
+Hash: 083EE0CE, Key: Quote, Value: A gilded shimmer on the sand-strewn horizon.
+Hash: 13A53A8B, Key: Series, Value: "Blood for Money" Mount Armor

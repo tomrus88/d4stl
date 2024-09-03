@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What's next?"
+Hash: 5D6A30B1, Key: Line1.F53E7, Value: The potion is ready. To be thorough, we should test it on both cultists and non-cultists.
+Hash: CC7396DE, Key: VoiceDir1.F53E7, Value: excited
+Hash: F75EAA33, Key: Line3.F53E7, Value: There are many bandits in this area. Find some, add it to their food, and observe the results. Repeat the experiment with the cultists south of here.
+Hash: 915323B5, Key: Line5.F53E7, Value: Return to me with the results.

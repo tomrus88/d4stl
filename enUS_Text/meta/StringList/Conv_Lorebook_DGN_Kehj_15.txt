@@ -1,0 +1,4 @@
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Journal Entry
+Hash: 5D72A43A, Key: Line1.EDC70, Value: It is bitter, the parting between Uzara and I. I lay her to rest here knowing no one will avenge her, for they all believe she died for some great cause.
+Hash: F7671DBC, Key: Line3.EDC70, Value: I did not want her to join the Zakarum knights. I have seen what their corruption has done firsthand, I know that there is no quiet or blessed end for them.
+Hash: 915B973E, Key: Line5.EDC70, Value: There is no body in her crypt. Somewhere in the desert is a body, nameless, alone, claimed by monsters or bandits. I am so sorry, sister, and so angry at your passing.

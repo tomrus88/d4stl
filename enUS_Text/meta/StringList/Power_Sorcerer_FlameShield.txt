@@ -1,0 +1,19 @@
+Hash: 003DFCC1, Key: name, Value: Flame Shield
+Hash: 003892BF, Key: desc, Value: {c_label}Cooldown:{/c} {c_resource}{Cooldown Time}{/c} seconds
+{if:ADVANCED_TOOLTIP}{c_label}Lucky Hit Chance: {/c}{c_resource}[{Combat_Effect_Chance_Script_Formula_Override:17}|%|]{/c}
+{/if}Engulf yourself in flames for {c_number}{buffduration:FLAMESHIELD_BUFF}{/c} seconds, Burning surrounding enemies for {c_number}{dot:BURNING_DAMAGE}{/c} damage per second.
+
+While {c_important}Flame Shield{/c} is active, you are {c_important}{u}Immune{/u}{/c}.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Duration{icon:arrow,1.2} {c_number}{buffduration:FLAMESHIELD_BUFF}{/c}
+{icon:bullet,1.2} Burning Damage {icon:arrow,1.2} {c_number}{payload:AOE_DAMAGE}{/c}
+Hash: 0DC6ED73, Key: Buff0_Name, Value: Flame Shield
+Hash: 2827F416, Key: Buff0_Description, Value: Burn surrounding enemies.
+Hash: A7490B65, Key: Buff11_Name, Value: Smoldering Empowerment
+Hash: 86C2ADC8, Key: Buff11_Description, Value: Your next Skill is a guaranteed Critical Strike.
+Hash: D618A933, Key: Mod0_Description, Value: {c_important}Flame Shield{/c} has a {c_number}[{SF_26} * 100|%|]{/c} larger Burn radius.
+Hash: 9233D930, Key: Mod0_Name, Value: Enhanced Flame Shield
+Hash: 2577B2B4, Key: Mod1_Description, Value: After {c_important}Flame Shield{/c} ends, surrounding enemies are Stunned for {c_number}{buffduration:UPGRADEA_STUN}{/c} seconds and your next Skill is a guaranteed Critical Strike.
+Hash: 948901D1, Key: Mod1_Name, Value: Mystical Flame Shield
+Hash: 1394CF37, Key: Mod4_Description, Value: {c_important}Flame Shield{/c} Heals you for {c_number}[{SF_12} * 100|%|]{/c} of your missing Life.
+Hash: 9B887BB4, Key: Mod4_Name, Value: Shimmering Flame Shield

@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: of Fierce Winds
+Hash: 003892BF, Key: Desc, Value: Your {c_important}Shout{/c} Skills create {c_number}[Affix."Static Value 0"]{/c} {c_important}Dust Devils{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_2]{/c} damage to enemies along their path.
+
+Your {c_important}Dust Devils{/c} are {c_random}[Affix_Value_1|%|]{/c} bigger and deal {c_number}[1|%x|]{/c} increased damage for each {c_number}[1|%|]{/c} their size is increased.
+Hash: 82B7D312, Key: CodexDesc, Value: Your {c_important}Shout{/c} Skills create {c_number}[Affix."Static Value 0"]{/c} {c_important}Dust Devils{/c} that are {c_random}[Affix_Value_1|%|]{/c} bigger and deal increased damage for each {c_number}[1|%|]{/c} they grow.

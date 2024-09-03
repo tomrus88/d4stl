@@ -1,0 +1,5 @@
+Hash: 003DFCC1, Key: Name, Value: Imprinting
+Hash: E96ABF3F, Key: Phase19Description, Value: Occultists are masters of the mystical arts, and can aid in the Imprinting of Legendary Aspects.
+
+Seek out Demyan in Kyovashad.
+Hash: 71E69F39, Key: Callback21Header, Value: Speak with Demyan

@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Abbot's Last Words
+Hash: 767E1439, Key: Line3.0, Value: Ohh...my friends! Forgive me!
+Hash: AD796BE6, Key: VoiceDir3.0, Value: Breaking down. Sorry. Begging.

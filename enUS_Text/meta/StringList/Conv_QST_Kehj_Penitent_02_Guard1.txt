@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What are the Knights doing in Gea Kul?"
+Hash: 59F2E91B, Key: Line1.5423F, Value: None of your concern, citizen. Move along.

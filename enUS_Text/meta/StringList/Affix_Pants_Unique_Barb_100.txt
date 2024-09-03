@@ -1,0 +1,5 @@
+Hash: 003892BF, Key: Desc, Value: Ancients you summon are empowered.
+
+{icon:bullet}Korlic creates an {c_important}Earthquake{/c} that deals {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * Affix_Value_1]{/c} Physical damage over {c_number}[PowerTag.Barbarian_Earthquake."Script Formula 1"]{/c} seconds when he leaps.
+{icon:bullet}Talic leaves behind {c_important}Dust Devils{/c} that deal {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * (Affix_Value_1 * 2)]{/c} damage while he whirlwinds.
+{icon:bullet}Mawdac ignites the ground Burning enemies for an additional {c_random}[(Owner.Weapon_Damage_Min_Total + Owner.Weapon_Damage_Delta_Total) * (Affix_Value_1)]{/c} damage over {c_number}[Affix."Static Value 0"]{/c} seconds when he upheaves the ground.

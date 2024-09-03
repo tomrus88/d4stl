@@ -1,0 +1,8 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "You let the demon get under your skin."
+Hash: 8F5E660B, Key: Line1.18AEA4, Value: I know! (huffs) I know.
+Hash: DF9491D8, Key: VoiceDir1.18AEA4, Value: with anger, then with sadness, exhaustion
+Hash: 67E20FCD, Key: Line3.18AEA4, Value: Demons are…simple-minded. They will pull on a loose thread simply to watch fabric unravel. And I offered the thread.
+Hash: 4065B98F, Key: Line5.18AEA4, Value: (laugh) But Malphas was right. Zoltun and I were misaligned. A nonequivalent exchange. That he chose to leave was...predictable.
+Hash: 909BE55C, Key: VoiceDir5.18AEA4, Value: with a bitter laugh, a quiet sadness
+Hash: 18E96351, Key: Line7.18AEA4, Value: I suppose it doesn’t matter now.
+Hash: 691F8F1E, Key: VoiceDir7.18AEA4, Value: with a swollen throat, pushing down his feelings

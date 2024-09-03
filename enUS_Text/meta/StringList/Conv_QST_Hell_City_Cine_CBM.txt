@@ -1,0 +1,18 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: TBD
+Hash: 5D3BADDD, Key: Line1.BD9D3, Value: Terror begets Hate and Hate begets Destruction, Destruction begets Terror as Terror begets Hate as Hate begets Destruction as Destruction begets...
+Hash: CC45140A, Key: VoiceDir1.BD9D3, Value: (demonic whispers, build to crescendo)
+Hash: F730275F, Key: Line3.BD9D3, Value: Do not cower. I’ve come to free you from this trap.
+Hash: 66398D8C, Key: VoiceDir3.BD9D3, Value: (menacing growl, then dialogue) 
+Hash: DD9C3BA7, Key: Line5.BAE4, Value: Why do you keep helping me?
+Hash: 26CB1034, Key: VoiceDir5.BAE4, Value: (distrusting)
+Hash: 2B191A63, Key: Line7.BD9D3, Value: Look where we stand. I saved you in this dismal little cave because I sensed you could end Lilith. And that is all I want.
+Hash: 9A228090, Key: VoiceDir7.BD9D3, Value: (emphasis on "I") 
+Hash: C50D93E5, Key: Line9.BD9D3, Value: I won’t lie. There will come a time when we are enemies.
+Hash: 724691EE, Key: Line11.BD9D3, Value: But like it or not, right now we need each other to defeat her.
+Hash: DA1877F6, Key: Line19.BD9D3, Value: Look me in the eye.
+Hash: 65381056, Key: Line13.BAE4, Value: (gasps)
+Hash: D4417683, Key: VoiceDir13.BAE4, Value: (gasping in surprise)
+Hash: A62F84F2, Key: Line15.BD9D3, Value: The path ahead is steep. My blessing will guide you.
+Hash: F665B0BF, Key: VoiceDir15.BD9D3, Value: (voice straining) 
+Hash: 4023FE74, Key: Line17.BD9D3, Value: Tread without fear.
+Hash: 905A2A41, Key: VoiceDir17.BD9D3, Value: (fading) 

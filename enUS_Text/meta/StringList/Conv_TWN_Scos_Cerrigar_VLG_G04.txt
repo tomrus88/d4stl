@@ -1,0 +1,2 @@
+Hash: 5D6B43AF, Key: Line1.F737A, Value: If you ain’t cuttin’ me loose, you can piss right off.
+Hash: CC74A9DC, Key: VoiceDir1.F737A, Value: Rude. Bitter.

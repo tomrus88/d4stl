@@ -1,0 +1,6 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "What did you want with the Orbei Monastery?"
+Hash: AF7FBF25, Key: Line39.6D03F, Value: The Scholars of Orbei devote their lives to the study of forbidden knowledge. "To serve the Light, we must know the Darkness," or some other silly platitude.
+Hash: FFB5EAF2, Key: VoiceDir39.6D03F, Value: Cynical.
+Hash: 33EFADFE, Key: Line41.6D03F, Value: I wrote to the Abbot seeking insights on Lilith. His silence is most unusual...
+Hash: 8425D9CB, Key: VoiceDir41.6D03F, Value: Suspicion. Concern.
+Hash: CDE42780, Key: Line43.6D03F, Value: The man never misses a chance to speak.

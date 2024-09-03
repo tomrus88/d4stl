@@ -1,0 +1,5 @@
+Hash: 5A270F7C, Key: Line1.804B7, Value: You look like someone who’s seen the world. Hope I can do the same one day.
+Hash: C93075A9, Key: VoiceDir1.804B7, Value: Hint of envy
+Hash: D8F1EA65, Key: Line3.BAE4, Value: What’s holding you back?
+Hash: 8E100280, Key: Line5.804B7, Value: (sigh) My father. You’ve seen how he is. I need to persuade him just to let me leave the bloody keep.
+Hash: FD1968AD, Key: VoiceDir5.804B7, Value: Last part muttered under his breath

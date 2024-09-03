@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Relentless Berserker's
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} Damaging an enemy with a {c_important}Core{/c} Skill has up to a {c_random}[Affix_Value_1|%|]{/c} chance to extend the duration of {c_important}{u}Berserking{/u}{/c} by {c_number}[Affix_Value_2]{/c} seconds. Double this duration if it was a Critical Strike.
+Hash: 82B7D312, Key: CodexDesc, Value: Damaging an enemy with a {c_important}Core{/c} Skill has a {c_random}[Affix_Value_1|%|]{/c} chance to extend {c_important}{u}Berserking's{/u}{/c} duration, doubled for Critical Strikes.

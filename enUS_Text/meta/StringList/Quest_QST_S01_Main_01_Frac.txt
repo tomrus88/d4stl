@@ -1,0 +1,14 @@
+Hash: 003DFCC1, Key: Name, Value: Burning from Within
+Hash: 2BE38CAC, Key: Phase7Description, Value: I overheard a villager in Kyovashad raving about "corruption.” I should ask him what happened. 
+Hash: 8CBE4880, Key: Callback28Header, Value: Speak with Vyrtan
+Hash: 45172A5D, Key: Callback34Header, Value: Look for survivors on the road
+Hash: 803B8057, Key: Phase20Description, Value: People are under attack on the road to Menestad. A survivor saw them turn into demons. I must hurry. 
+Hash: ED76B060, Key: Callback19Header, Value: Look for survivors on the road
+Hash: E2223B19, Key: Phase22Description, Value: One of the demons chased a man into the forest. I have to help him.
+Hash: 58D5557C, Key: Callback24Header, Value: Enter the Forest Clearing
+Hash: 6541F242, Key: Callback48Header, Value: Take a {ITEM} from Cormond's Chest
+Hash: E9B1E11B, Key: Callback50Header, Value: Return to Cormond with cages
+Hash: 0132B4FD, Key: Phase53Description, Value: I saved a strange man from one of these demons. He says he has been looking for me. I should find out what he wants. 
+Hash: 83A65A9D, Key: Callback52Header, Value: Speak with Cormond at the wagon
+Hash: 26E6E543, Key: Phase59Description, Value: The man says his name is Cormond. Nervous fellow but he seems to know a great deal about these “Malignant.” I should hear him out. 
+Hash: 5183C723, Key: Callback58Header, Value: Speak with Cormond

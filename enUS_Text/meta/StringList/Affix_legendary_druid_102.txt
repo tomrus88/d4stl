@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: of the Dark Howl
+Hash: 003892BF, Key: Desc, Value: {c_important}Debilitating Roar{/c} is now a {c_important}Werewolf{/c} Skill. In addition, {c_important}Debilitating Roar{/c} will Immobilize Poisoned enemies for {c_random}[Affix_Value_1|1|]{/c} seconds.
+Hash: 82B7D312, Key: CodexDesc, Value: {c_important}Debilitating Roar{/c} is now a {c_important}Werewolf{/c} Skill and Immobilizes Poisoned enemies for {c_random}[Affix_Value_1|1|]{/c} seconds.

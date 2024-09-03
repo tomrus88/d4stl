@@ -1,0 +1,7 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: Letter
+Hash: 0948C6CF, Key: DisembodiedVoice, Value: Oyuun's Letter
+Hash: 5A1FE05B, Key: Line1.6E261, Value: Dearest, 
+Death comes for this hellhole we call home. There was a pale stranger, Elias, he called himself, skulking about the kitchen halls today.
+Hash: 27FD4CE1, Key: Line7.6E261, Value: When he saw me, he approached to ask about the prison warden. I directed him to the palace guard. Only hours later, and the servants are whispering about some disaster at the dungeons. It can only be him.
+Hash: C1F1C663, Key: Line9.6E261, Value: I have an awful feeling. Will you meet me tonight at the teahouse? I could use a warm cup. And your company. 
+-Yours always, Oyuun

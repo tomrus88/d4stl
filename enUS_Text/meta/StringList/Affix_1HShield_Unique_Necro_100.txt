@@ -1,0 +1,3 @@
+Hash: 003892BF, Key: Desc, Value: {c_label}Lucky Hit:{/c} While you have an active {c_important}Bone Storm{/c}, hitting an enemy outside of a {c_important}Bone Storm{/c} has up to a {c_random}[Affix_Value_1|%|]{/c} chance to spawn an additional {c_important}Bone Storm{/c} at their location. 
+
+Each of your active Sacrifice bonuses increases this chance by {c_number}[Affix_Value_2|%|]{/c} and the maximum possible {c_important}Bone Storms{/c} by {c_number}[Affix."Static Value 0"|~|]{/c}.

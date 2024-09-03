@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Saboteur's Signet
+Hash: F5C7BC0A, Key: Flavor, Value: "The element of surprise is the starting point. In this moment, be sure to finish it." - Kashya

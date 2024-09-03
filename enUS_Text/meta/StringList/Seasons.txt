@@ -1,0 +1,326 @@
+Hash: 41E2D115, Key: SeasonJourney, Value: Season Journey
+Hash: 927C1041, Key: SeasonRewards, Value: Season Rewards
+Hash: 0001FA7A, Key: TBD, Value: TBD
+Hash: 03FD3821, Key: PH_SeasonName, Value: {Season Name}
+Hash: 5DD12FED, Key: SeasonDescription, Value: Season Ends In {s1} Days
+Hash: 3A6B300A, Key: PH_NextTier, Value: Next Tier: {s1}/{s2} Favor
+Hash: 03FF69CC, Key: PH_SeasonRank, Value: {s1}
+Hash: F23598D0, Key: PH_SeasonJourneyDescription, Value: Complete Objectives To Earn {c:ffe3e0d9}Favor{/c}
+Hash: C496A8D1, Key: PH_Chapters, Value: Chapters
+Hash: 487AEF7C, Key: ChapterProgress, Value: {s1}:
+Hash: 23356698, Key: PH_RewardsToClaim, Value: {s1} Rewards Ready To Claim!
+Hash: 7688AE5A, Key: ChapterProgressPercentage, Value: {s1}%
+Hash: F3E57E05, Key: PH_Adventure, Value: Adventure
+Hash: F8FECEA8, Key: PH_CurrentAdventure, Value: {s}
+Hash: D7223A52, Key: PH_Upgrades, Value: Season Blessings
+Hash: 8C564E3B, Key: PH_Upgrade_Points, Value: {icon:SeasonUpgrade_Currency_Icon, 3.5}{c:ffe3e0d9}{s1}{/c}  Smoldering Ashes
+Hash: 686F3946, Key: PH_Upgrades_Ready, Value: {s1} Blessings Ready!
+Hash: 09205FD9, Key: PH_FreeLabel, Value: Free
+Hash: 12705FA2, Key: PH_Upgrade_Title_Salvage, Value: Salvage
+Hash: C1488ED5, Key: PH_Percentage, Value: +{s1}
+Hash: 87EBA0AF, Key: PH_Level, Value: Level {s1}/{s2}:
+Hash: 3D6FFDC4, Key: PH_Upgrade_Description_Salvage, Value: Increase salvage materials when mining.
+Hash: 51316D4D, Key: PH_Next_Level, Value: Next Lv. {c:ffffffff}({s1}/{s2}){/c}: {b}{c:FFDBA864}+{s3}{/c}{/b}
+Hash: 13677AB2, Key: PH_Upgrades_Available, Value: {s1} Blessings Available
+Hash: 3B2793A8, Key: Upgrade, Value: Upgrade
+Hash: 5BA14473, Key: PH_Objective_Title, Value: Objective Title
+Hash: 33731FBF, Key: Objective_Reward, Value: {c:FFDBA864}{s1}{/c}
+Hash: 99F9EAD5, Key: PH_Objective_Description, Value: lorem ipsum dolor tempor incididunt ut labore et dolore magna aliqua, quis ipsum suspendisse.
+Hash: DAAED90F, Key: Objective_Progress, Value: {c:FFDAA864}{s1}{/c}/{c:FF928C82}{s2}{/c}
+Hash: B64D50DF, Key: PH_Chapter_Title, Value: {s1}
+Hash: BBE987BB, Key: Chapter_Progress, Value: ({c:FFDAA864}{s1}{/c}/{c:FF928C82}{s2}{/c} objectives completed)
+Hash: 66576C96, Key: PH_Chapter_OverviewTitle, Value: Overview
+Hash: BE950816, Key: PH_Chapter_Rewards_Title, Value: Chapter Rewards
+Hash: 154460E0, Key: PH_Chapter_Rewards_Info, Value: Complete {s} of {s} Objectives to earn chapter rewards and unlock the next chapter.
+Hash: 49911FD5, Key: PH_ClaimRewards, Value: Claim All Rewards
+Hash: 5DAC7568, Key: Prompt_AddToJournal, Value: {icon:lmb,2.0} Add to Journal
+Hash: A046D868, Key: PH_ActivateSeasonPass, Value: Activate Premium Battle Pass
+Hash: 1909458D, Key: PH_SeasonPassStatus_Inactive, Value: {icon:SeasonLocked, 2.0}  Premium Battle Pass Inactive
+Hash: 5FB0828C, Key: PH_Modal_PromotionTitle, Value: Promotion words for special rewards!
+Hash: 4C6F97AE, Key: PH_Modal_PromotionDescription, Value: Lorem ipsum 90 tiers dolor sit amet, consectetur adicpiscing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua.
+Hash: 669A1C6E, Key: PH_Modal_SeasonTitle, Value: {Season Name}
+Hash: B2EAE22D, Key: PH_PremiumPass, Value: Premium Battle Pass
+Hash: D8443EFE, Key: PH_ActivatePremiumPass, Value: Activate Premium Battle Pass
+Hash: 42CE4037, Key: PH_Modal_PresentPrice, Value: {s1}
+Hash: E259CD15, Key: PH_Modal_OldPrice, Value: {x}{s1}{/x}
+Hash: CBBB48C8, Key: PH_Modal_Sale, Value: Sale
+Hash: 416ABB70, Key: PH_Item_Tooltip, Value: This is a placeholder tooltip string that will be filled out with the tier item information.
+Hash: 1FE2CA14, Key: TierLabel, Value: {s1}
+Hash: 8EC65069, Key: Debug_EarnFavor_Label, Value: Add Favor...
+Hash: 0C0A3292, Key: PH_SeasonPass_Active, Value: Premium Battle Pass Active
+Hash: 1CC91026, Key: PH_Upgrade_Title_XPGain, Value: EXP Gain
+Hash: 355C7208, Key: PH_Upgrade_Description_XPGain, Value: Gain XP at a faster rate.
+Hash: 0CEB5465, Key: PH_Upgrade_Title_Gold, Value: Gold Drop
+Hash: A418D5C7, Key: PH_Upgrade_Description_Gold, Value: Enemies and objects drop more gold.
+Hash: 0CEF808B, Key: PH_Upgrade_Title_Obol, Value: Obol Cap
+Hash: A41D01ED, Key: PH_Upgrade_Description_Obol, Value: More Obols available to spend.
+Hash: F03024CC, Key: PH_Upgrade_Title_Elixir, Value: Elixir Boost
+Hash: 08C386AE, Key: PH_Upgrade_Description_Elixir, Value: Elixir effects last longer.
+Hash: 59A65DCC, Key: PH_Upgrade_Points_Next_Tier, Value: {icon:SeasonUpgrade_Currency_Icon, 3.5}{b}{s1}{/b} 
+Hash: 6A59B687, Key: PH_TierPurchase_Title, Value: Buy Tiers
+Hash: D654A897, Key: PH_TierPurchase_AmountToPurchase, Value: Buy {s1} Tiers: {s2} - {s3}
+Hash: 8CC07172, Key: PH_TierPurchase_AfterPurchase, Value: After this purchase you will have {s1} Tier Tokens remaining
+Hash: 32A43724, Key: PH_TierPurchase_TierSkipsRequired, Value: ({s1} more Tier Tokens needed)
+Hash: 23DD0E94, Key: PH_TierPurchase_TierSkipPlus, Value: + {s1} Tier Tokens
+Hash: C1521A63, Key: PH_TierPurchase_VCTotalRequired, Value: Total: {s1}
+Hash: 1113AA74, Key: PH_TierPurchase_TierPurchaseLabel, Value: Purchase {s1} Tiers
+Hash: A7E29D41, Key: PH_TierPurchase_TokenPurchaseLabel, Value: "Purchase and Apply Tier Tokens
+Hash: 3D9EDCD9, Key: PH_TierPurchase_VCPurchaseLabel, Value: Buy More Platinum
+Hash: CC19633A, Key: TierPurchase_VCPurchaseAlert, Value: {icon:CurrencyIcon, 2.0} {b}{s1} more Platinum{/b} needed to purchase {s2} Battle Pass Tiers.
+Hash: DB1D7DFC, Key: PH_TierPurchase_AfterPurchasePlatinum, Value: After purchase you will have {s1} Tier Tokens and {icon:CurrencyIcon, 2.0}  {s2} Platinum remaining
+Hash: D01B3FD8, Key: PH_SeasonHeader_HasTokens, Value: Buy {s1} Tiers
+Hash: C7811AD9, Key: PH_SeasonHeader_NoTokens, Value: Buy Tiers
+Hash: B9BAECFE, Key: SeasonHeader_CompleteTokens, Value: Season Complete
+Hash: 91BCB6BD, Key: PH_SeasonHeader_TokenReadout, Value: {s1} Tier Tokens
+Hash: D4815697, Key: SkipAnimation, Value: Skip Favor Animation
+Hash: BED06441, Key: SeasonChapter1, Value: Chapter I
+Hash: BED06442, Key: SeasonChapter2, Value: Chapter II
+Hash: BED06443, Key: SeasonChapter3, Value: Chapter III
+Hash: BED06444, Key: SeasonChapter4, Value: Chapter IV
+Hash: 06A7D079, Key: SeasonObjectivesTitle, Value: Season Journey
+Hash: 8C6583B1, Key: ChaptersTab, Value: Chapters
+Hash: 433646CC, Key: EventsTab, Value: Events
+Hash: 6E61BC1B, Key: InspectText, Value: Inspect
+Hash: 8983CC09, Key: BuyTierText, Value: Buy Tier
+Hash: DF99F9EB, Key: ClaimText, Value: Claim
+Hash: 29176631, Key: NextUpgradePoint, Value: {c_highlight}Next {icon:SeasonUpgrade_Currency_Icon, 3.5} Smoldering Ashes Unlocked at Reward Tier {s1}{/c}.  (Character Level {s2} required).
+Hash: 7B758A20, Key: AcceleratedPassBundleTitle, Value: Accelerated Battle Pass
+Hash: 2CACF514, Key: PremiumBattlePassTitle, Value: Premium Battle Pass
+Hash: 6916B1B7, Key: PurchaseAcceleratedBattlePassButton, Value: Purchase Accelerated
+Hash: 76A1C988, Key: AcceleratedPassDescription, Value: Includes everything in Free and Premium, plus:
+Hash: 40C5863A, Key: PremiumPassDescription, Value: Access to all 90 Battle Pass Rewards Including:
+Hash: 9928060E, Key: PremiumBattlePassButton, Value: Explore Battle Pass
+Hash: 73E008DF, Key: UnlockBattlePass, Value: Explore Battle Pass
+Hash: F4323B2B, Key: UnlockAllPremiumTiers, Value: Unlock All Premium Battle Pass Tiers!
+Hash: 991D6CE1, Key: SeasonLastChanceTitle, Value: Time is Running out To Earn Season Rewards
+Hash: A1C2676B, Key: SeasonLastChanceSubTitle, Value: Season ends in: 
+Hash: 9884365E, Key: CountdownValue, Value: {s1}
+Hash: 0D36D072, Key: CountdownUnitDays, Value: Days
+Hash: B460DD52, Key: CountdownUnitHours, Value: Hours
+Hash: C274C126, Key: CountdownUnitMinutes, Value: Minutes
+Hash: 863319B0, Key: CountdownUnitSeconds, Value: Seconds
+Hash: A5D30D72, Key: BattlePassCallToActionTitle, Value: Complete the
+Battle Pass
+Hash: A7E5581E, Key: BattlePassCallToActionBody, Value: {c_highlight}{s1} Tiers Remain!{/c} Earn all {c_highlight}{s2} remaining free rewards{/c}
+Hash: C4C19195, Key: PremiumPassCallToActionTitle, Value: Activate
+Premium Battle Pass
+Hash: 1D3263E1, Key: PremiumPassCallToActionBody, Value: Instantly earn {c_highlight}{s1} Premium Rewards{/c}
+Hash: 051677B4, Key: BattlePassCallToActionBtn, Value: Continue To Battle Pass
+Hash: 753F9717, Key: PremiumPassCallToActionBtn, Value: ACTIVATE PREMIUM BATTLE PASS
+Hash: 0F87D5B8, Key: LastChanceNotice, Value: Season Rewards may not be available after the season ends. All unclaimed rewards will be automatically claimed.
+Hash: 98BD15E5, Key: DismissPermanently_KBM_Prompt, Value: {c_highlight}(Hold){/c} Dismiss Permanently
+Hash: BE4F264C, Key: DismissPermanently_Prompt, Value: {icon:button_2,2}{c_highlight}(Hold){/c} Dismiss Permanently
+Hash: CAFA52FF, Key: PremiumPassNotNowBtn, Value: Not now
+Hash: 846F5C59, Key: SeasonPassComplete, Value: Battle Pass Complete!
+Hash: 6DFB2936, Key: SeasonCompleteActivePremiumPassTitle, Value: ACTIVATE PREMIUM BATTLE PASS!
+Hash: CD87AC97, Key: SeasonCompleteActivatePremiumPassBody, Value: {c_highlight}Activate the Premium Battle pass{/c} to instantly earn{c_highlight} {s1} premium rewards{/c}
+Hash: A7C04EF9, Key: SeasonCompleteJournetLargeCTA_Body, Value: Do you have what it takes to truly conquer the season? Prove your mastery in the {c_highlight}Season Journey{/c} by earning the {c_highlight}{item name}{/c} and title {b}“{title name}”{/b}
+Hash: A10CDFAD, Key: SeasonCompleteJournetLargeCTA_Title, Value: CONQUER THE SEASON JOURNEY!
+Hash: D674E7AF, Key: SeasnJourneyRewardPreviewTitle, Value: Backslot item
+Hash: 4E4B3B60, Key: SeasonPassStatusActive, Value: Premium Battle Pass Active
+Hash: 6F9455EE, Key: SeasonCompleJourneyCTA_Title, Value: CONQUER THE SEASON JOURNEY
+Hash: 26327193, Key: SeasonCompleteJourneyCTA_Body, Value: Prove your mastery in the {c_highlight}Season Journey{/c} by earning the {c_highlight}{Item Name}{/c} and title {i}“{Title Name}”{/i}
+Hash: F8861F43, Key: BuyNextTier, Value: Buy Next Tier {s1}
+Hash: C23FE177, Key: BuyTiers, Value: Buy Tier {s1}
+Hash: E01F4AFB, Key: BuyTiersController, Value: {icon:button4, 2} Buy Tier {s1}
+Hash: D0C200B9, Key: TierSkipSummary, Value: Battle Pass Tiers {s1} -{s2} ({s3} total)
+Hash: 4FCB7051, Key: TierSkipsPurchaseAlert, Value: You need {icon:CurrencyIcon, 2.0} {b}{s1}{/b} more platinum to make this purchase.
+Hash: A25B8182, Key: PurchaseRemainingPaladium, Value: After purchase you will have {icon:CurrencyIcon, 2.0} {b}{s1}{/b} Platinum remaining
+Hash: E406025C, Key: TierPurchaseCompleteAwayTitle, Value: Tier Purchase Complete
+Hash: 6BB857C8, Key: TierPurchaseCompleteAwayBody, Value: Your tier purchase completed while you were away.  
+Tiers {s1} - {s2} have been completed. Go claim your rewards!
+Hash: DCB5572C, Key: TierClaimedNotificationTitle, Value: Tier {s1} Reward Claimed
+Hash: 0E685298, Key: TierClaimedNotificationBody, Value: Find it in the wardrobe
+Hash: 08EACEC3, Key: FavorExplanationTitle, Value: Earning Favor
+Hash: CA372A57, Key: FavorOverviewTitle, Value: Favor can be earned by “Just playing the game”
+Hash: 0616EC63, Key: FavorOverviewBody, Value: All activities that award XP will reward Favor. The XP > Favor conversion is set up to reward all skill levels and types of gameplay.  
+Hash: 863863EE, Key: SeasonJourneyOverviewTitle, Value: Season Journey is a lucrative source of Favor
+Hash: D57BCF1A, Key: SeasonJourneyOverviewBody, Value: If you choose to take on the challenge, large amounts of Favor can be earned by completing Season Journey chapters and objectives.
+Hash: CBF4636C, Key: FairDropsTitle, Value: Favor Drop Amounts
+Hash: 815AE7ED, Key: SmallFavorDropsBody, Value: Small Favor drops are rewarded for passive activities
+Hash: 0B45AF35, Key: MediumFavorDropsBody, Value: Medium Favor drops are rewarded for completing quests and dungeons
+Hash: 8ED2C6FF, Key: LargeFavorDropsBody, Value: Large Favor drops are rewarded for completing challenging activities
+Hash: 1D902963, Key: FavorExplanationPrompt, Value: Earn {icon:FavorSmall-CenterAligned, 1.8} {c:FFE3E0D9}Favor{/c} to complete tiers
+Hash: 5044E267, Key: FavorExplanationControllerPrompt, Value: {icon:r3, 2.0} 
+Hash: 3895BEDC, Key: SeasonNotificationSubTitle, Value: Tier {s1}
+Hash: 969B5272, Key: SeasonNotificationPrompt, Value: Tier Reward Ready to Claim!
+Hash: 2B9D91F2, Key: SeasonNotificationTitle, Value: Season Tier Complete!
+Hash: 23D70969, Key: SeasonNotificationActionPrompt_KBM, Value: {icon:KeyPrompt_U, 2} View Battle Pass
+Hash: 0E56CF57, Key: FavorRewardAmount, Value: +{s1}
+Hash: 585756AB, Key: SeasonNotificationsUpgrade, Value: Smoldering Ashes Unlocked!
+Hash: CB25C226, Key: SeasonNotificationObjectiveCompleteTitle, Value: {s1} OBJECTIVE COMPLETED!
+Hash: 258C7290, Key: SeasonNotificationObjectiveCompleteSubtitle, Value: {s1}
+Hash: AEEB70C5, Key: SeasonNotificationsChapterCompleteTitle, Value: CHAPTER COMPLETED!
+Hash: 8EF290CF, Key: SeasonNotificationsChapterCompleteSubtitle, Value: {s1}
+Hash: 3CCC18A6, Key: SeasonNotificationEventObjectiveCompleteCategoryTitle, Value: Event Objective Completed!
+Hash: AA52D99D, Key: SeasonJourneyRewardPreviewName, Value: Demon Cage
+Hash: C12D5107, Key: PremiumBattlePassActivated, Value: Premium Battle Pass Activated
+Hash: 27947B0B, Key: NewRewardsToClaim, Value: You have {s1} Premium Rewards to claim!
+Hash: 70CAB653, Key: PremiumBattlePassRequired, Value: {icon:SeasonLocked, 2.0}  Premium Battle Pass Required
+Hash: 01B13551, Key: UpgradeLevelRequirement, Value: Reach Level {s1} with any seasonal character to unlock
+Hash: C1E78072, Key: UpgradePoint, Value: Smoldering Ashes
+Hash: 50DB61FF, Key: SpendUpgradePoints, Value: Use Smoldering Ashes to upgrade Blessings
+Hash: 555595A0, Key: PremiumPassRequiredToClaim, Value: Premium Battle Pass required to claim
+Hash: 093A5ABE, Key: ReadyToClaim, Value: Ready to Claim
+Hash: 8A90C553, Key: MultipleRewards_Heading, Value: Multiple Class Rewards Claimed
+Hash: 75E470A8, Key: MultipleClassRewards_Earned, Value: You claimed cosmetics for multiple classes
+Hash: 3956E2D1, Key: MultipleClassRewards_EquipFrom, Value: Equip the cosmetic item from your current class from the Wardrobe {icon:Marker_Wardrobe, 3.0}
+Hash: D130AC74, Key: MultipleRewards_OtherRewards_EquipFrom, Value: Other cosmetics have been added to the Wardrobe of the appropriate character class.  Login or create a character of another class to view and equip new cosmetics.
+Hash: F853E04D, Key: SeasonNotificationEventCompleteTitle, Value: {s1} Complete
+Hash: E5D97988, Key: SeasonNotificationEventObjectiveCompleteTitle, Value: {s1}
+
+Hash: 620F746B, Key: SeasonNotificationEventCompleteCategoryTitle, Value: Event Completed!
+Hash: 2A8ED679, Key: TierReward, Value: Tier {s1} Reward
+Hash: C7C95C4F, Key: Claimed, Value: Claimed
+Hash: 26477025, Key: SeasonJourneyObjectivesTitle, Value: Objectives
+Hash: 68BDA341, Key: PurchaseCelebrationNoRewardstoClaim, Value: You now have access to all Premium Rewards!
+Hash: F97792B7, Key: ShortUpgradeCurrencyAmount, Value: {s1}
+Hash: E5C19BFE, Key: Claim Rewards, Value: Claim Rewards
+Hash: 5C8BBEC7, Key: AddToJournal, Value: Add to Journal
+Hash: 00000EC1, Key: Or, Value: Or
+Hash: 3EA11CEE, Key: MultipleRewards_Tooltip, Value: This tier rewards multiple cosmetics.  One per class.
+Hash: 85616269, Key: CurrencyAmount_Tooltip, Value: Amount: {s1}
+Hash: 05813A0F, Key: EquippedFromPlayerProfile, Value: Equipped from Player Profile {icon:Social_ViewProfile_Disabled, 2.0 }
+Hash: CDDED39C, Key: SeasonJourneyRewardsClaimed, Value: Rewards Claimed
+Hash: FC28EA74, Key: PointReallocationConfirmation_Message, Value: This will remove a Smoldering Ash from The {s1} so it can be used to upgrade other blessings.
+Hash: C1BBEB31, Key: PointReallocationConfirmation_Title, Value: Confirm Reallocation
+Hash: 07455DA7, Key: PointReallocationConfirmation_CostIncrease_Note, Value: Gold cost increases with each point reallocation.
+Hash: 993A8848, Key: PointReallocationConfirmation_Cost, Value: {b}Cost:  {icon:gold, 2.0} {c:FFB3A99B}{s1} Gold {/b}{/c}
+Hash: 0FF5EDC5, Key: S1Name, Value: Season of the Malignant
+Hash: CD9E0E05, Key: TierPurchase_AfterPurchasePlatinum, Value: After purchase you will have  {icon:CurrencyIcon, 2.0} {s1} Platinum remaining. 
+
+Smoldering Ashes can only be unlocked through earned favor.
+Hash: 54147755, Key: SeasonJourneyChapterComplete, Value: {s1} Complete!
+Hash: BED06445, Key: SeasonChapter5, Value: Slayer
+Hash: BED06446, Key: SeasonChapter6, Value: Champion
+Hash: BED06447, Key: SeasonChapter7, Value: Destroyer
+Hash: 59104CB0, Key: SeasonObjectivesComplete, Value: Season Complete!
+Hash: DF22ACD2, Key: SJ_RewardClaimedTitle, Value: {s1} Claimed
+Hash: F6681031, Key: SJ_CodexRewardClaimedBody, Value: It has been added to the Codex of Power.
+Hash: 01F3CA0C, Key: SJ_InventoryRewardClaimedBody, Value: It has been added to your inventory.
+Hash: 1D146141, Key: UpgradeComplete, Value: Blessing Upgrade Complete
+Hash: C206125D, Key: UpgradeReady, Value: Upgrade Ready!
+Hash: 9718AE09, Key: SJ_InventoryFullErrorTitle, Value: Inventory Full
+Hash: 521DC1D5, Key: SJ_InventoryFullErrorBody, Value: Your inventory is currently full. You need to make space before these rewards can be claimed.
+Hash: E237ECB1, Key: AllUpgradesCompleted, Value: All blessings have been upgraded fully
+Hash: AADBA32F, Key: RewardFlavor, Value: Flavor
+Hash: 9CC23B5F, Key: SJ_Reward_ValueTitle, Value: Sell Value:
+Hash: 08FD6F51, Key: SJ_Reward_ValueAmount, Value: {s1}
+Hash: E6B2291E, Key: SJ_RewardNotForSale, Value: Cannot be Sold
+Hash: 4954AF44, Key: SJ_Reward_Requirements, Value: {s1}
+Hash: C9525EAD, Key: RealloocatePrompt, Value: Reallocate Blessing  ({s1} Gold  {icon:gold, 3.0})
+Hash: 92F438A5, Key: RewardTypeFavor, Value: Favor
+Hash: 622C03CC, Key: SmallFavorDrop, Value: Smaller Favor
+Hash: 1BA31E14, Key: MediumFavorDrop, Value: Favor
+Hash: 9405AF9E, Key: LargeFavorDrop, Value: Greater Favor
+Hash: E25FB687, Key: FavorRewardDescription, Value: Favor is used towards unlocking Battle Pass reward tiers
+Hash: 93F5E9C9, Key: RewardTypeTitle, Value: Title
+Hash: FB6F4B54, Key: SJ_Reward_TitlePrefixDescription, Value: Title Prefix. Equipped from Player Profile.
+Hash: 7BE3D0BB, Key: SJ_Reward_TitleSuffixDescription, Value: Title Suffix. Equipped from Player Profile.
+Hash: 34057B38, Key: BP_Explainer_FavorTitle, Value: EARN FAVOR
+Hash: 32BF615A, Key: BP_Explainer_FavorDescription, Value: Earn {icon:FavorRewardSmall, 2.0} {c_highlight}Favor{/c} by killing monsters, completing quests and completing objectives in the {c_highlight}Season Journey{/c1}.
+Hash: AD0CDDBB, Key: BP_ExplainerTitle, Value: Battle Pass
+Hash: 5978F376, Key: BP_ExplainterTiersTitle, Value: UNLOCK REWARDS
+Hash: 7DFAE664, Key: BP_ExplainerTiersDescription, Value: Use {icon:FavorRewardSmall, 2.0} {c_highlight}Favor{/c} to unlock reward tiers. Premium tiers will only grant rewards to {c_highlight}Premium Battle Pass{/c} Owners.
+Hash: CB734BD7, Key: BP_ExplainerSJ_Title, Value: SEASON JOURNEY
+Hash: 08B4ED39, Key: BP_ExplainerSJ_Description, Value: Complete objectives across multiple chapters to earn additional {icon:FavorRewardSmall, 2.0} {c_highlight}Favor{/c} and rewards.
+Hash: 142CA527, Key: BP_ExplainerBlessingsDescription, Value: {icon:SeasonUpgrade_Currency_Icon, 2.5} {c_highlight}Smoldering Ashes{/c} are rewards in the Battle Pass. Use these to unlock {c_highlight}Season Blessings{/c} boosts for XP, gold and more. Smoldering Ashes are only awarded to those dedicated to eradicating evil in Sanctuary. 
+Hash: 49B32945, Key: BP_ExplainerBlessingsTitle, Value: Blessings
+Hash: 2A2F1996, Key: XL_FavorDrop, Value: Epic Favor
+Hash: 5EBB8E0E, Key: XXL_FavorDrop, Value: Legendary Favor
+Hash: 5ABCEF0E, Key: SeasonProgressionExplainerPrompt, Value: Learn about Season Progression
+Hash: B53E06C9, Key: SJ_ChapterRewards_Subtext, Value: Complete {s1} of {s2} objectives to earn rewards and unlock the next chapter.
+Hash: 23B67FE3, Key: SJ_ChapterRewards_Subtext_LastChapter, Value: Complete {s1} of {s2} objectives to earn rewards.
+Hash: 0FF05C96, Key: RewardTypeScroll, Value: Scroll
+Hash: 92BD9D5B, Key: RewardTypeCache, Value: Item Cache
+Hash: 65060C82, Key: RewardTypeLegendaryAspect, Value: Legendary Aspect
+Hash: 76E1607C, Key: SJ_ObjectiveReward, Value: Reward: {s1}
+Hash: 5A954A9C, Key: SJ_ObjectiveTextWithDescription, Value: {s1}. {s2}
+Hash: D43E06D4, Key: SJ_ObjectiveCompleted, Value: {icon:Season_Check, 1.5} {c:FF11af00}Completed{/c}
+Hash: FE5562BE, Key: Prompt_RemoveFromJournal, Value: {icon:lmb,2.0} Remove from Journal
+Hash: 7AE6402C, Key: Prompt_AddToJournalController, Value: {icon:button1, 2.0} Add to Journal
+Hash: AE805102, Key: Prompt_RemoveFromJournalController, Value: {icon:button1, 2.0} Remove from Journal
+Hash: E1B7D2EB, Key: SJ_ObjectivedAddedToJournal, Value: Has been added to your journal
+Hash: BECDD12C, Key: UnlockAcceleratedBattlePass, Value: Activate Accelerated
+Hash: 38E9B13C, Key: BattlePassNowActivated, Value: Your Battle Pass is now activated!
+Hash: CD55835D, Key: Processing, Value: Processing...
+Hash: 5D0687BE, Key: TierSkipSummarySingular, Value: Battle Pass Tier {s1} ({s3} total)
+Hash: B9F31E7C, Key: BuyTiersText, Value: Buy Tiers
+Hash: 63003993, Key: PurchasePremiumPassTitle, Value: Purchase Premium Battle Pass
+Hash: 2A683125, Key: CharacterLevel, Value: {s1}
+Hash: F37CEF29, Key: PurchasePremiumBattlePassButton, Value: Purchase Premium
+Hash: 8FBA93AB, Key: SeasonNotificationObjectiveNearCompletion, Value: Season Journey: "{s1}" is close to completion
+Hash: 1C278704, Key: SeasonNotificationObjectiveNearCompletion_CoOpFormat, Value: Season Journey: {s1} is close to completing "{s2}"
+Hash: CBF2984D, Key: TierPurchaseButtonPrompt, Value: {icon:button1, 2.0} Purchase {s1} Tiers
+Hash: A983C612, Key: PurchaseVCButtonPrompt, Value: {icon:button1, 2.0} Buy More Platinum
+Hash: 1CBFC5D3, Key: SeasonBeginText, Value: Next Season Begins {s1}
+Hash: BD77CD05, Key: SeasonEndText, Value: Season Ends {s1}
+Hash: 2E03A0E9, Key: SeasonEnded, Value: The season has ended
+Hash: E6F89137, Key: SeasonTimeRemainingText, Value: Season ends in {s1}
+Hash: A702E39F, Key: CurrencyMultiCountLabel, Value: x{s1}
+Hash: 46C45F7D, Key: RemoveFromJournal, Value: Remove From Journal
+Hash: 645C0E4B, Key: UnableToAddToJournalError, Value: You are unable to add an objective from a chapter that is locked
+Hash: A60F7AFD, Key: TooltipAcquisitionSeason, Value: {icon:Season_Item_Icon, 2.0}{s1}
+Hash: 8FCEF2C4, Key: SJ_ObjectiveRewardLockedWarning, Value: {icon:SJ_ObjectiveWarning, 1.5} The chapter must be unlocked before any rewards can be awarded
+Hash: 4D6E01F9, Key: UpgradeToAcceleratedButtonText, Value: Upgrade
+Hash: CDDE8EA8, Key: UpgradeToAcceleratedHeading, Value: Upgrade To The Accelerated Battle Pass
+Hash: 7B67885C, Key: UpgradeToAcceleratedDescription, Value: Instantly earn {s1} premium rewards with {c_highlight}20 Tier Skips{/c} and Receive the {c_highlight}“{emote name}” Emote.{/c}
+Hash: 973B9612, Key: PreviewAcceleratedItemsButtonText, Value: Preview {Emote Name}
+Hash: 071641A1, Key: UpgradeToAcceleratedNotificationTitle, Value: Upgrade to Accelerated Battle Pass
+Hash: 2F6F9283, Key: UpgradeToAcceleratedNotificationDescription, Value: {c_highlight} Receive 20 Tier Skips +
+“On the Warpath" Emote
+Hash: 588801F6, Key: UpgradeToAcceleratedButtonPrompt, Value: Upgrade to Accelerated
+Hash: B5D0B1E6, Key: UpgradeButtonPrompt, Value: {icon:button3, 2.0} Upgrade
+Hash: 8D9150FD, Key: UpgradeToAcceleratedNotificationButtonPrompt, Value: {icon:button3, 2.0} Upgrade
+Hash: B2F07083, Key: SeasonEndingMessage, Value: Unclaimed {b}Season Journey chapter rewards {/b}will be lost at the end of the season.
+
+Rewards that are {c:FFFFE5BD}ready to claim{/c} are indicated with a {icon:New_Indicator_Secondary, 2.0} diamond icon.
+Hash: 6F96BEB3, Key: SeasonEndingRewardsDisclaimer, Value: Unclaimed {b}Season Journey chapter rewards {/b}will be lost and Legendary Aspects will expire at the end of the season.
+Hash: 138EF63D, Key: SeasonEndingSoon, Value: {s1} is ending in {s1}
+Hash: 465F3A43, Key: SeasonEndingRewards_Modal_Title, Value: Season Ending Soon
+Hash: 052A6900, Key: SeasonEndingLogOffMessage, Value: The new season will begin soon.  You will be logged out of this game automatically, prior to the new season beginning. 
+Hash: CA8832D1, Key: SeasonEndingClaimSeasonJourneyRewards, Value: Claim all of your Season Journey rewards!
+Hash: E3BB89B4, Key: LastChanceSeasonJourneyRewardClaiming, Value: Last chance to claim all of your Season Journey rewards! 
+Hash: F85D7C16, Key: GoToSJ, Value: Go to Season Journey
+Hash: A5705ACA, Key: SeasonNameEnded, Value: {s1} has ended
+Hash: 14F1A55D, Key: ActivatingBattlePass, Value: Activating Premium Battle Pass
+Hash: D1261F0F, Key: BlessingDisabled, Value: This Blessing has been disabled.
+Hash: 495F7E35, Key: RewardsClaimedModal_Title, Value: Rewards Claimed
+Hash: 6B60EE17, Key: RewardsClaimedModal_Description, Value: All unclaimed Battle Pass rewards from last season were auto-claimed.
+Hash: DD605028, Key: PurchasePremiumModal_Title, Value: Welcome to Battle Pass
+Hash: 4969CCD0, Key: PurchaseOptionAccelerated_Heading, Value: Accelerated
+Hash: F0F203C2, Key: PurchaseOptionPremium_Heading, Value: Premium
+Hash: E5540F24, Key: PurchaseOption_Free_Heading, Value: Free
+Hash: 740B0182, Key: FreeRewards_Header, Value: {s1} Free Rewards Including:
+Hash: CA81AA86, Key: PremiumRewards_Heading, Value: {s1} Premium Rewards Including:
+Hash: 7476A20E, Key: PurchaseOption_Active_Label, Value: Active
+Hash: 198ACB18, Key: PurchaseOption_Continue_ButtonText, Value: Continue
+Hash: D293CCFF, Key: PremiumBattlePassUnlockAvailable, Value: {s1} Premium Battle Pass Unlock(s) Available
+Hash: F11F09CD, Key: AcceleratedBattlePassUnlockAvailable, Value: {s1} Accelerated Battle Pass Unlock(s) Available
+Hash: 5BD14CD1, Key: GenericBattlePassButtonText, Value: Explore Battle Pass
+Hash: 48323196, Key: ContnueWithFreeButton, Value: Continue
+Hash: 9FD12F3C, Key: ContinueWithPremiumButton, Value: Continue
+Hash: 9046D411, Key: ActivatePremiumButtonText, Value: Activate Premium
+Hash: 3602100B, Key: ActivateConfirmationModalDescription, Value: Are you sure you want to use {c_highlight}1 {s1}{/c} to activate "{s2}" {s3}?
+Hash: C20DE86D, Key: UnlockAcceleratedBattlePassButtonText, Value: Explore Battle Pass
+Hash: 5E77E969, Key: ActivateConfirmation_DifferentUnlocksRemaining, Value: 
+
+{s1} Battle Pass unlock(s) will remain for use in future seasons:
+{icon:bullet, 2.0}{s2} {s3}
+{icon:bullet, 2.0}{s4} {s5}
+Hash: 1C975E58, Key: ActivateConfirmation_SameUnlocksRemaining, Value: 
+
+After activation, you will have {s1} {s2} remaining to use in future seasons.
+Hash: 7932005F, Key: PremiumBattlePassUnlockName, Value: Premium Battle Pass Unlock
+Hash: 7D762D93, Key: PremiumBattlePassName, Value: Premium Battle Pass
+Hash: 60103F21, Key: AcceleratedBattlePassName, Value: Accelerated Battle Pass
+Hash: B822846D, Key: AcceleratedBattlePassUnlockName, Value: Accelerated Battle Pass Unlock
+Hash: 4C524725, Key: PurchasePreviewBullet, Value: {icon:bullet, 2.0}
+Hash: 3ABA995E, Key: PremiumBattlePassRequiredToUpgrade, Value: (Premium Battle Pass Required)
+Hash: 07B42C75, Key: AcceleratedBattlePassUpgradeUnlockAvailable, Value: {s1} Accelerated Upgrade Unlock(s) Available
+Hash: BF2B3807, Key: ActivateConfirmation_AcceleratedUpgradeUnlocksRemaining, Value: {icon:bullet, 2.0}{s1} Accelerated Upgrade Unlock(s) remaining
+
+Hash: 2B8B8209, Key: SJ_reward_TitlePrefixSuffixDescription, Value: Title Prefix & Suffix.  Equipped from Player Profile.
+Hash: BBC19A15, Key: AshUpgradeRequirement, Value: Smoldering Ashes can only be unlocked through {icon:favor_puck_text_icon, 2.0} favor earned. Purchased tier skips do not count towards this.
+Hash: DD4DBC8C, Key: JumpToEarnedFavor, Value: Jump to Earned Favor
+Hash: 53CCB6F6, Key: SmolderingAshesIconText, Value: {icon:SeasonUpgrade_Currency_Icon, 3.5}

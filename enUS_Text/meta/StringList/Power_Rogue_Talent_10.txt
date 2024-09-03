@@ -1,0 +1,4 @@
+Hash: 003DFCC1, Key: name, Value: Innervation
+Hash: 003892BF, Key: desc, Value: {c_label}Lucky Hit:{/c} Up to a {c_number}{SF_0}%{/c} chance to gain {c_number}{SF_1}{/c} Energy.
+Hash: F2D5722F, Key: rankup_desc, Value: 
+{icon:bullet,1.2} Chance {icon:arrow,1.2} {c_number}{SF_0}%{/c}

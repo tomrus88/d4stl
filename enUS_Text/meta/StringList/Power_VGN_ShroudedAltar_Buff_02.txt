@@ -1,0 +1,2 @@
+Hash: 101C1614, Key: Buff1_Name, Value: Hell's Embrace
+Hash: 7786FD97, Key: Buff1_Description, Value: Increases your Movement Speed by [{SF_2}*100]%.

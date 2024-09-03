@@ -1,0 +1,3 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: “The soulstone is safe?”
+Hash: 5A202CB1, Key: Line1.6DE47, Value: Donan has it. But their plan still strikes me as...misguided.
+Hash: F414A633, Key: Line3.6DE47, Value: Mephisto is reforming as we speak. If we use the stone on Lilith, we've nothing to fight her father. There must be a better way.

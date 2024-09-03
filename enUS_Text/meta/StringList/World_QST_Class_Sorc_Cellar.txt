@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Abandoned Shack
+Hash: 003892BF, Key: Desc, Value: The cellar of an old homestead, abandoned to the elements.

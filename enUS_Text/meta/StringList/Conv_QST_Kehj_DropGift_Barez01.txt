@@ -1,0 +1,2 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "I recovered a sword that belonged to the Iron Wolves."
+Hash: 8EF3C7DE, Key: Line1.12F76A, Value: I know this blade... this is Asheara's own sword! The rest of the Wolves will rally when they hear you found it. You've done us a great service.

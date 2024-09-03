@@ -1,0 +1,2 @@
+Hash: 003DFCC1, Key: Name, Value: Pale Barding
+Hash: A646FFA4, Key: Description, Value: A heavy blanket and plated barding, ideal for a cavalier campaigning in winter.

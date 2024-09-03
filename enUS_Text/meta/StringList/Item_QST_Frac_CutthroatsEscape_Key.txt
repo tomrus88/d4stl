@@ -1,0 +1,3 @@
+Hash: 003DFCC1, Key: Name, Value: Smuggler's Key
+Hash: A646FFA4, Key: Description, Value: Bound to Cutthroat's Escape
+Hash: F5C7BC0A, Key: Flavor, Value: The old mining tunnels were the perfect way to move goods--or people--through the mountains without attracting unwanted attention.

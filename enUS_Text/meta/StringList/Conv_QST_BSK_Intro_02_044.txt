@@ -1,0 +1,5 @@
+Hash: FB3FFC35, Key: MenuLabel, Value: "This tomb was meant to stay closed."
+Hash: 9257723D, Key: Line1.1BCB9E, Value: (sigh) I am fed to the teeth with what Light-worshippers mean to do! Sankekur meant to lead his people, yet became Mephisto’s vessel. The Paladins meant to contain him, yet fell to the same corruption.
+Hash: E28D9E0A, Key: VoiceDir1.1BCB9E, Value: Emphasis on "mean" to do. Venomous. Contempt.
+Hash: 6ADB1BFF, Key: Line3.1BCB9E, Value: We can do far better.
+Hash: BB1147CC, Key: VoiceDir3.1BCB9E, Value: Calming himself. Reassuring.
